@@ -1,0 +1,2414 @@
+[
+  {
+    "slug": "damie",
+    "categorias": [
+      {
+        "nome": "Poltronas reclináveis",
+        "tipos": [
+          "poltrona reclinável",
+          "poltrona reclinável elétrica",
+          "poltrona reclinável manual",
+          "poltrona com giro e balanço",
+          "poltrona com elevação (para idosos)"
+        ]
+      },
+      {
+        "nome": "Poltronas de cinema",
+        "tipos": [
+          "poltrona cinema",
+          "poltrona de home theater",
+          "sofá de cinema sem braço"
+        ]
+      },
+      {
+        "nome": "Sofás modulares",
+        "tipos": [
+          "sofá modular",
+          "sofá em L",
+          "sofá de 2 lugares",
+          "sofá de 3 lugares",
+          "sofá ilha",
+          "sofá na caixa"
+        ]
+      },
+      {
+        "nome": "Área externa",
+        "tipos": [
+          "espreguiçadeira de piscina",
+          "puff de piscina",
+          "ombrelone (guarda-sol)",
+          "mesa de centro (champanheira)",
+          "móveis para área externa"
+        ]
+      }
+    ],
+    "destaques": [
+      "Damie 2.0",
+      "Damie 1.0",
+      "Damie Garden",
+      "Caraíva",
+      "Joy",
+      "Damie na Caixa"
+    ],
+    "naoVende": [],
+    "fonteSite": "ok",
+    "fontes": [
+      "https://damie.com.br"
+    ],
+    "lidoEm": "2026-11-24",
+    "notas": "naoVende vazio por não ter sido conferido o site inteiro; linhas são só pistas."
+  },
+  {
+    "slug": "i-wanna-sleep",
+    "categorias": [
+      {
+        "nome": "Travesseiros",
+        "tipos": [
+          "travesseiro",
+          "travesseiro cervical",
+          "travesseiro de espuma viscoelástica (nasa)",
+          "travesseiro antialérgico",
+          "travesseiro de fibra",
+          "travesseiro de látex",
+          "travesseiro de viagem",
+          "travesseiro de pluma",
+          "travesseiro de corpo",
+          "travesseiro infantil",
+          "fronha",
+          "protetor de travesseiro"
+        ]
+      },
+      {
+        "nome": "Colchões",
+        "tipos": [
+          "colchão",
+          "pillow top (topper)",
+          "box e base",
+          "protetor de colchão"
+        ]
+      },
+      {
+        "nome": "Roupa de cama",
+        "tipos": [
+          "roupa de cama",
+          "lençol",
+          "jogo de cama de bambu"
+        ]
+      },
+      {
+        "nome": "Cobertores",
+        "tipos": [
+          "cobertor",
+          "cobertor pesado"
+        ]
+      },
+      {
+        "nome": "Nutrição do sono",
+        "tipos": [
+          "melatonina (gomas e líquida)",
+          "floral de Bach",
+          "spray para dormir"
+        ]
+      },
+      {
+        "nome": "Pijamas",
+        "tipos": [
+          "pijama",
+          "roupa de dormir"
+        ]
+      },
+      {
+        "nome": "Maternidade",
+        "tipos": [
+          "travesseiro de amamentação",
+          "itens de maternidade"
+        ]
+      },
+      {
+        "nome": "Poltronas",
+        "tipos": [
+          "poltrona Ekornes",
+          "poltrona reclinável"
+        ]
+      },
+      {
+        "nome": "Acessórios para dormir",
+        "tipos": [
+          "máscara de dormir",
+          "meia para dormir",
+          "apoio de joelho",
+          "kit para dormir"
+        ]
+      }
+    ],
+    "destaques": [
+      "Snow",
+      "Neck Plus",
+      "Igloo",
+      "Bao Bao",
+      "Aliv Head Gel",
+      "Airgelly"
+    ],
+    "fonteSite": "ok",
+    "fontes": [
+      "https://www.iwannasleep.com.br"
+    ],
+    "lidoEm": "2026-11-24"
+  },
+  {
+    "slug": "letseatit",
+    "categorias": [
+      {
+        "nome": "Mesa posta",
+        "tipos": [
+          "xícara",
+          "caneca",
+          "louça",
+          "prato",
+          "talheres",
+          "taça",
+          "copo"
+        ]
+      },
+      {
+        "nome": "Cozinha",
+        "tipos": [
+          "panela",
+          "utensílios de cozinha",
+          "potes",
+          "tigela",
+          "garrafa",
+          "organizador de cozinha",
+          "cafeteira",
+          "batedeira",
+          "mixer",
+          "processador de alimentos",
+          "liquidificador",
+          "maçarico"
+        ]
+      },
+      {
+        "nome": "Bar",
+        "tipos": [
+          "taça de vinho",
+          "copos de bar",
+          "acessórios para vinho"
+        ]
+      },
+      {
+        "nome": "Café e chá",
+        "tipos": [
+          "café",
+          "chá",
+          "acessórios para café",
+          "açucareiro",
+          "leiteira",
+          "prato para bolo",
+          "doceira"
+        ]
+      },
+      {
+        "nome": "Decoração",
+        "tipos": [
+          "iluminação",
+          "móveis",
+          "vaso",
+          "cesto e caixa",
+          "estátua e objetos decorativos"
+        ]
+      },
+      {
+        "nome": "Outdoor",
+        "tipos": [
+          "churrasqueira",
+          "acessórios para churrasco",
+          "itens de piscina",
+          "itens para pizza"
+        ]
+      }
+    ],
+    "destaques": [
+      "Toscana",
+      "Maldivas",
+      "Linha Lavanda"
+    ],
+    "fonteSite": "ok",
+    "fontes": [
+      "https://letseatit.com.br/"
+    ],
+    "lidoEm": "2026-11-24"
+  },
+  {
+    "slug": "colaedecora",
+    "categorias": [
+      {
+        "nome": "Móveis infantis",
+        "tipos": [
+          "cama infantil",
+          "bicama",
+          "cama montessoriana",
+          "mesa infantil",
+          "cadeira infantil",
+          "escrivaninha",
+          "penteadeira",
+          "escadinha montessoriana",
+          "estante",
+          "livreiro",
+          "guarda-roupa infantil",
+          "baú de brinquedos",
+          "mercadinho infantil",
+          "minicozinha infantil"
+        ]
+      },
+      {
+        "nome": "Decoração de quarto",
+        "tipos": [
+          "quadro",
+          "móbile",
+          "almofada",
+          "tapete",
+          "enfeite",
+          "prateleira",
+          "organizador",
+          "macramê",
+          "bandeirola"
+        ]
+      },
+      {
+        "nome": "Roupa de cama",
+        "tipos": [
+          "roupa de cama infantil"
+        ]
+      },
+      {
+        "nome": "Brinquedos",
+        "tipos": [
+          "brinquedo",
+          "pelúcia"
+        ]
+      },
+      {
+        "nome": "Personalizados",
+        "tipos": [
+          "peças personalizadas com nome"
+        ]
+      }
+    ],
+    "destaques": [
+      "Theo",
+      "Bella",
+      "Nina",
+      "Noah",
+      "Pocket",
+      "Flor"
+    ],
+    "fonteSite": "ok",
+    "fontes": [
+      "https://www.lojacolaedecora.com.br/"
+    ],
+    "lidoEm": "2026-11-24"
+  },
+  {
+    "slug": "bagaggio",
+    "categorias": [
+      {
+        "nome": "Malas",
+        "tipos": [
+          "mala de bordo",
+          "mala pequena",
+          "mala média",
+          "mala grande",
+          "conjunto de malas",
+          "bolsa de viagem",
+          "mala personalizada"
+        ]
+      },
+      {
+        "nome": "Mochilas",
+        "tipos": [
+          "mochila",
+          "mochila para notebook",
+          "mochila de couro",
+          "mochila executiva",
+          "mochila com rodinhas",
+          "pasta"
+        ]
+      },
+      {
+        "nome": "Escolar",
+        "tipos": [
+          "mochila escolar",
+          "lancheira",
+          "estojo",
+          "kit escolar"
+        ]
+      },
+      {
+        "nome": "Carteiras",
+        "tipos": [
+          "carteira masculina",
+          "carteira feminina",
+          "porta-cartão",
+          "porta-passaporte"
+        ]
+      },
+      {
+        "nome": "Bolsas",
+        "tipos": [
+          "bolsa de ombro",
+          "bolsa transversal",
+          "shoulder bag",
+          "bolsa mochila"
+        ]
+      },
+      {
+        "nome": "Acessórios de viagem",
+        "tipos": [
+          "almofada de pescoço",
+          "necessaire",
+          "frasqueira",
+          "organizador de mala",
+          "capa de mala",
+          "cadeado",
+          "tag de mala",
+          "balança de mala",
+          "pochete",
+          "guarda-chuva"
+        ]
+      },
+      {
+        "nome": "Térmicos",
+        "tipos": [
+          "garrafa térmica",
+          "copo térmico",
+          "pote térmico",
+          "lancheira térmica"
+        ]
+      }
+    ],
+    "destaques": [
+      "Leather",
+      "Maternidade",
+      "Explore"
+    ],
+    "fonteSite": "ok",
+    "fontes": [
+      "https://www.bagaggio.com.br/"
+    ],
+    "lidoEm": "2026-11-24"
+  },
+  {
+    "slug": "gocase",
+    "categorias": [
+      {
+        "nome": "Capinhas",
+        "tipos": [
+          "capinha de celular",
+          "capinha MagSafe",
+          "capinha anti impacto"
+        ]
+      },
+      {
+        "nome": "Garrafas e copos térmicos",
+        "tipos": [
+          "garrafa térmica",
+          "copo térmico",
+          "taça térmica"
+        ]
+      },
+      {
+        "nome": "Bolsas e totes",
+        "tipos": [
+          "tote bag",
+          "bolsa",
+          "bolsa de viagem"
+        ]
+      },
+      {
+        "nome": "Mochilas e lancheiras",
+        "tipos": [
+          "mochila",
+          "mochila com rodinhas",
+          "estojo",
+          "lancheira térmica",
+          "marmita"
+        ]
+      },
+      {
+        "nome": "Viagem",
+        "tipos": [
+          "mala",
+          "mala de bordo",
+          "necessaire",
+          "capa para notebook"
+        ]
+      },
+      {
+        "nome": "Acessórios",
+        "tipos": [
+          "strap (alça)",
+          "charm",
+          "organizador de bolsa",
+          "tampa e base para garrafa"
+        ]
+      },
+      {
+        "nome": "Pets",
+        "tipos": [
+          "coleira",
+          "guia",
+          "peitoral para cachorro"
+        ]
+      }
+    ],
+    "destaques": [
+      "Fresh",
+      "Bold",
+      "Infinite",
+      "Marmita Up"
+    ],
+    "fonteSite": "ok",
+    "fontes": [
+      "https://www.gocase.com.br/"
+    ],
+    "lidoEm": "2026-11-24",
+    "notas": "Também tem coleções licenciadas (times, Disney, Marvel)."
+  },
+  {
+    "slug": "petz",
+    "categorias": [
+      {
+        "nome": "Cachorros e gatos",
+        "tipos": [
+          "ração para cachorro",
+          "ração para gato",
+          "petisco",
+          "areia para gato",
+          "tapete higiênico",
+          "higiene para pet",
+          "coleira e peitoral",
+          "brinquedo para pet",
+          "cama para pet",
+          "medicamentos veterinários",
+          "antipulgas"
+        ]
+      },
+      {
+        "nome": "Aves",
+        "tipos": [
+          "alimentação para aves",
+          "gaiola",
+          "poleiro"
+        ]
+      },
+      {
+        "nome": "Peixes",
+        "tipos": [
+          "aquário",
+          "tratamento de água para aquário",
+          "ração para peixe"
+        ]
+      },
+      {
+        "nome": "Outros pets",
+        "tipos": [
+          "acessórios para roedores",
+          "acessórios para répteis"
+        ]
+      },
+      {
+        "nome": "Casa e jardim",
+        "tipos": [
+          "jardinagem",
+          "piscina"
+        ]
+      }
+    ],
+    "fonteSite": "parcial",
+    "fontes": [
+      "https://www.petz.com.br/passaros",
+      "https://www.petz.com.br/peixes",
+      "https://www.petz.com.br/outros-pets",
+      "https://www.petz.com.br/casa-e-jardim",
+      "src/lib/couponsData.ts"
+    ],
+    "lidoEm": "2026-11-24",
+    "notas": "Categorias confirmadas no site em 24/11 (aves, peixes, outros pets, casa e jardim). A home bloqueia leitura automática."
+  },
+  {
+    "slug": "probiotica",
+    "categorias": [
+      {
+        "nome": "Whey protein",
+        "tipos": [
+          "whey protein",
+          "whey concentrado",
+          "whey isolado",
+          "whey zero lactose",
+          "whey em sachê (monodose)",
+          "refil de whey"
+        ]
+      },
+      {
+        "nome": "Creatina",
+        "tipos": [
+          "creatina",
+          "creatina monohidratada"
+        ]
+      },
+      {
+        "nome": "Pré-treino e energia",
+        "tipos": [
+          "pré-treino",
+          "carboidrato (carb up)",
+          "suplemento de endurance"
+        ]
+      }
+    ],
+    "destaques": [
+      "Hiper 100% Whey",
+      "Iso Protein Blend",
+      "100% Pure Whey",
+      "Endurance"
+    ],
+    "fonteSite": "ok",
+    "fontes": [
+      "https://www.probiotica.com.br",
+      "content/reviews/whey-probiotica-qual-escolher.json",
+      "content/reviews/creatina-probiotica-qual-compensa.json",
+      "content/reviews/monodose-probiotica-sache-ou-pote.json"
+    ],
+    "lidoEm": "2026-11-24",
+    "notas": "Pré-treino e carb up aparecem só em descrição da página; não li os artigos em detalhe."
+  },
+  {
+    "slug": "max-titanium",
+    "categorias": [
+      {
+        "nome": "Whey protein",
+        "tipos": [
+          "whey protein",
+          "whey concentrado",
+          "whey isolado",
+          "blend de proteínas",
+          "whey feminino"
+        ]
+      },
+      {
+        "nome": "Creatina",
+        "tipos": [
+          "creatina"
+        ]
+      },
+      {
+        "nome": "Pré-treino",
+        "tipos": [
+          "pré-treino"
+        ]
+      },
+      {
+        "nome": "Termogênicos",
+        "tipos": [
+          "termogênico",
+          "l-carnitina",
+          "shot termogênico"
+        ]
+      },
+      {
+        "nome": "Aminoácidos",
+        "tipos": [
+          "BCAA"
+        ]
+      },
+      {
+        "nome": "Hipercalóricos",
+        "tipos": [
+          "hipercalórico",
+          "hipercalórico zero lactose",
+          "massa"
+        ]
+      },
+      {
+        "nome": "Barras proteicas",
+        "tipos": [
+          "barra de proteína"
+        ]
+      },
+      {
+        "nome": "Roupas",
+        "tipos": [
+          "roupa de treino",
+          "camiseta"
+        ]
+      }
+    ],
+    "destaques": [
+      "Top Whey 3W",
+      "Hórus",
+      "Égide",
+      "2Hot",
+      "Mass Titanium"
+    ],
+    "fonteSite": "ok",
+    "fontes": [
+      "https://www.maxtitanium.com.br/",
+      "content/reviews/whey-max-titanium-qual-escolher.json",
+      "content/reviews/bcaa-max-titanium-qual-escolher.json",
+      "content/reviews/hipercalorico-max-titanium-mass-17500.json"
+    ],
+    "lidoEm": "2026-11-24",
+    "notas": "BCAA vem dos artigos nossos, não do menu lido."
+  },
+  {
+    "slug": "black-skull",
+    "categorias": [
+      {
+        "nome": "Whey protein",
+        "tipos": [
+          "whey protein"
+        ]
+      },
+      {
+        "nome": "Creatina",
+        "tipos": [
+          "creatina",
+          "creatina com sabor"
+        ]
+      },
+      {
+        "nome": "Pré-treino",
+        "tipos": [
+          "pré-treino"
+        ]
+      },
+      {
+        "nome": "Termogênicos e emagrecimento",
+        "tipos": [
+          "termogênico",
+          "suporte GLP-1",
+          "controle de peso"
+        ]
+      },
+      {
+        "nome": "Aminoácidos",
+        "tipos": [
+          "aminoácidos",
+          "BCAA"
+        ]
+      },
+      {
+        "nome": "Hipercalóricos e carboidratos",
+        "tipos": [
+          "hipercalórico",
+          "carboidrato em pó"
+        ]
+      },
+      {
+        "nome": "Vitaminas e minerais",
+        "tipos": [
+          "vitaminas",
+          "minerais",
+          "multivitamínico"
+        ]
+      },
+      {
+        "nome": "Snacks e bebidas",
+        "tipos": [
+          "barra de proteína",
+          "snack proteico",
+          "bebida proteica"
+        ]
+      },
+      {
+        "nome": "Kits e acessórios",
+        "tipos": [
+          "kit de suplementos",
+          "coqueteleira",
+          "vestuário"
+        ]
+      }
+    ],
+    "destaques": [
+      "Bope",
+      "Bone Crusher"
+    ],
+    "fonteSite": "ok",
+    "fontes": [
+      "https://www.blackskullusa.com.br/",
+      "content/reviews/pre-treino-black-skull-bope-ou-bone-crusher.json",
+      "content/reviews/creatina-black-skull-qual-escolher.json"
+    ],
+    "lidoEm": "2026-11-24",
+    "notas": "Destaques Bope e Bone Crusher vêm de artigo nosso; a home não citou linhas."
+  },
+  {
+    "slug": "mais-mu",
+    "categorias": [
+      {
+        "nome": "Whey protein",
+        "tipos": [
+          "whey protein",
+          "whey concentrado",
+          "whey isolado"
+        ]
+      },
+      {
+        "nome": "Pré-treino",
+        "tipos": [
+          "pré-treino"
+        ]
+      },
+      {
+        "nome": "Creatina",
+        "tipos": [
+          "creatina"
+        ]
+      },
+      {
+        "nome": "Barras e snacks",
+        "tipos": [
+          "barra de proteína",
+          "snack proteico",
+          "wafer proteico"
+        ]
+      },
+      {
+        "nome": "Combos",
+        "tipos": [
+          "combo de suplementos"
+        ]
+      }
+    ],
+    "destaques": [
+      "Exquenta",
+      "Mukebar",
+      "Crushbar",
+      "Chocowheyfer"
+    ],
+    "fonteSite": "ok",
+    "fontes": [
+      "https://www.lojamaismu.com.br/",
+      "content/reviews/whey-mais-mu-qual-escolher.json",
+      "content/reviews/pre-treino-exquenta-mais-mu-e-bom.json"
+    ],
+    "lidoEm": "2026-11-24"
+  },
+  {
+    "slug": "adaptogen",
+    "categorias": [
+      {
+        "nome": "Proteínas",
+        "tipos": [
+          "whey protein",
+          "whey concentrado",
+          "whey isolado",
+          "whey hidrolisado",
+          "beef protein",
+          "proteína vegana"
+        ]
+      },
+      {
+        "nome": "Creatina",
+        "tipos": [
+          "creatina"
+        ]
+      },
+      {
+        "nome": "Pré-treino",
+        "tipos": [
+          "pré-treino"
+        ]
+      },
+      {
+        "nome": "Performance",
+        "tipos": [
+          "BCAA",
+          "hipercalórico",
+          "carboidrato em pó",
+          "coenzima Q10",
+          "glutamina",
+          "termogênico"
+        ]
+      },
+      {
+        "nome": "Vitaminas e suplementos",
+        "tipos": [
+          "multivitamínico",
+          "vitamina C",
+          "vitamina D",
+          "vitamina B12",
+          "ômega 3",
+          "magnésio",
+          "zinco",
+          "NAC",
+          "biotina"
+        ]
+      },
+      {
+        "nome": "Snacks proteicos",
+        "tipos": [
+          "biscoito proteico",
+          "cracker proteico",
+          "wafer proteico"
+        ]
+      },
+      {
+        "nome": "Roupas e acessórios",
+        "tipos": [
+          "roupa fitness feminina",
+          "roupa fitness masculina",
+          "top e cropped",
+          "camiseta",
+          "shorts",
+          "legging",
+          "chinelo"
+        ]
+      }
+    ],
+    "destaques": [
+      "Adapto Whey 3W",
+      "Tasty Whey",
+      "Hit Protein",
+      "Panic",
+      "Dila Pump"
+    ],
+    "fonteSite": "ok",
+    "fontes": [
+      "https://www.adaptogen.com.br/",
+      "content/reviews/tasty-iso-adaptogen-vale-a-pena.json"
+    ],
+    "lidoEm": "2026-11-24"
+  },
+  {
+    "slug": "bold",
+    "categorias": [
+      {
+        "nome": "Barras de proteína",
+        "tipos": [
+          "barra de proteína",
+          "barra de proteína crocante"
+        ]
+      },
+      {
+        "nome": "Wafer e snacks",
+        "tipos": [
+          "wafer proteico",
+          "snack proteico",
+          "tube proteico"
+        ]
+      },
+      {
+        "nome": "Whey protein",
+        "tipos": [
+          "whey protein",
+          "whey 3W"
+        ]
+      },
+      {
+        "nome": "Creatina",
+        "tipos": [
+          "creatina"
+        ]
+      },
+      {
+        "nome": "Caixas e combos",
+        "tipos": [
+          "caixa mista",
+          "combo de barras"
+        ]
+      }
+    ],
+    "destaques": [
+      "BOLD 21g",
+      "BOLD 14g",
+      "Crunch",
+      "Wafer",
+      "Tube"
+    ],
+    "fonteSite": "ok",
+    "fontes": [
+      "https://www.boldsnacks.com.br/",
+      "content/reviews/barra-bold-21g-ou-14g.json",
+      "content/reviews/whey-bold-e-bom.json"
+    ],
+    "lidoEm": "2026-11-24",
+    "notas": "Creatina veio de uma leitura da home; vale conferir antes de afirmar."
+  },
+  {
+    "slug": "denavita",
+    "categorias": [
+      {
+        "nome": "Vitaminas e minerais",
+        "tipos": [
+          "multivitamínico",
+          "magnésio",
+          "NAC",
+          "ômega 3",
+          "coenzima Q10",
+          "resveratrol",
+          "vitaminas em cápsulas"
+        ]
+      },
+      {
+        "nome": "Suplementos em pó",
+        "tipos": [
+          "colágeno em pó",
+          "chá em pó",
+          "creatina"
+        ]
+      },
+      {
+        "nome": "Emagrecimento e metabolismo",
+        "tipos": [
+          "suplemento para emagrecer",
+          "laranja moro"
+        ]
+      },
+      {
+        "nome": "Saúde da mulher",
+        "tipos": [
+          "suplemento para menopausa"
+        ]
+      },
+      {
+        "nome": "Kits",
+        "tipos": [
+          "kit de suplementos"
+        ]
+      }
+    ],
+    "destaques": [
+      "Laranja Moro",
+      "Tons",
+      "Jejoom",
+      "Trio Magnésio",
+      "Denapausa",
+      "Digestino"
+    ],
+    "fonteSite": "ok",
+    "fontes": [
+      "https://www.denavita.com.br/",
+      "content/reviews/laranja-moro-denavita.json",
+      "content/reviews/denavita-tons.json"
+    ],
+    "lidoEm": "2026-11-24",
+    "notas": "Denapausa e Digestino: o tipo (menopausa, digestão) é inferido do nome."
+  },
+  {
+    "slug": "rituaria",
+    "categorias": [
+      {
+        "nome": "Suplementos",
+        "tipos": [
+          "magnésio",
+          "prebiótico",
+          "complexo B",
+          "NAC",
+          "suplemento para memória e foco",
+          "suplemento para imunidade",
+          "suplemento para sono",
+          "suplemento para intestino",
+          "suplemento para emagrecimento"
+        ]
+      },
+      {
+        "nome": "Superfoods",
+        "tipos": [
+          "maca peruana",
+          "greens (superfood em pó)",
+          "pré-treino"
+        ]
+      },
+      {
+        "nome": "Skincare",
+        "tipos": [
+          "hidratante facial",
+          "base com FPS",
+          "óleo de rosa mosqueta",
+          "creme antirrugas",
+          "sabonete facial",
+          "água micelar",
+          "corretivo para olheiras"
+        ]
+      },
+      {
+        "nome": "Kits",
+        "tipos": [
+          "kit de rituais"
+        ]
+      }
+    ],
+    "destaques": [
+      "4Mag",
+      "Brain+",
+      "Imuno Shot",
+      "Juicy Beat",
+      "The Golden Stick"
+    ],
+    "fonteSite": "ok",
+    "fontes": [
+      "https://www.rituaria.com.br/",
+      "content/reviews/rituaria-brain-para-que-serve.json"
+    ],
+    "lidoEm": "2026-11-24"
+  },
+  {
+    "slug": "dolce-gusto",
+    "categorias": [
+      {
+        "nome": "Máquinas de café",
+        "tipos": [
+          "cafeteira de cápsulas",
+          "máquina de café em cápsula",
+          "cafeteira Dolce Gusto",
+          "máquina de café expresso em cápsula"
+        ]
+      },
+      {
+        "nome": "Cápsulas de café",
+        "tipos": [
+          "cápsula de café",
+          "café expresso em cápsula",
+          "café com leite em cápsula",
+          "cappuccino em cápsula",
+          "latte macchiato em cápsula",
+          "cápsula de café Starbucks"
+        ]
+      },
+      {
+        "nome": "Outras bebidas em cápsula",
+        "tipos": [
+          "chocolate quente em cápsula",
+          "mochaccino",
+          "chá gelado em cápsula",
+          "bebida gelada em cápsula"
+        ]
+      },
+      {
+        "nome": "Acessórios e manutenção",
+        "tipos": [
+          "adaptador NEO Start",
+          "porta-cápsulas",
+          "xícara",
+          "copo térmico",
+          "descalcificante para cafeteira",
+          "kit de limpeza de cafeteira"
+        ]
+      },
+      {
+        "nome": "Assinatura e combos",
+        "tipos": [
+          "assinatura de cápsulas de café",
+          "combo de cápsulas"
+        ]
+      }
+    ],
+    "destaques": [
+      "Genio S",
+      "Mini Me 2.0",
+      "NEO",
+      "NEO Start"
+    ],
+    "fonteSite": "parcial",
+    "fontes": [
+      "https://www.nescafe-dolcegusto.com.br/maquinas-cafe",
+      "https://www.nescafe-dolcegusto.com.br/sabores-neo",
+      "https://www.nescafe-dolcegusto.com.br/acessorios",
+      "https://www.nescafe-dolcegusto.com.br/ (403)",
+      "src/lib/couponsData.ts (dolce-gusto)",
+      "content/reviews/dolce-gusto-maquinas-qual-escolher.json",
+      "content/reviews/melhores-capsulas-dolce-gusto-2026.json",
+      "content/reviews/assinatura-dolce-gusto-como-funciona.json",
+      "content/reviews/dolce-gusto-capsulas-compativeis-guia.json",
+      "content/reviews/dolce-gusto-descalcificacao-passo-a-passo.json",
+      "content/reviews/starbucks-dolce-gusto-capsulas-guia.json"
+    ],
+    "lidoEm": "2026-11-24",
+    "notas": "Máquinas, NEO, chá gelado e acessórios confirmados no site em 24/11. Piccolo não aparece na vitrine oficial e saiu dos destaques."
+  },
+  {
+    "slug": "nestle-nutre",
+    "categorias": [
+      {
+        "nome": "Suplementos nutricionais",
+        "tipos": [
+          "suplemento nutricional",
+          "suplemento para idosos",
+          "suplemento proteico",
+          "bebida proteica pronta",
+          "multivitamínico",
+          "creatina",
+          "colágeno",
+          "colágeno em cápsulas",
+          "fibras (suplemento de fibras)"
+        ]
+      },
+      {
+        "nome": "Nutrição clínica e enteral",
+        "tipos": [
+          "dieta enteral",
+          "fórmula enteral",
+          "suplemento para pacientes com diabetes",
+          "suplemento para cicatrização",
+          "suplemento hipercalórico"
+        ]
+      },
+      {
+        "nome": "Fórmulas e leites infantis",
+        "tipos": [
+          "fórmula infantil",
+          "fórmula infantil de 1 a 3 anos",
+          "composto lácteo infantil",
+          "leite em pó",
+          "leite Ninho",
+          "cereal infantil"
+        ]
+      },
+      {
+        "nome": "Fibras e complementos",
+        "tipos": [
+          "fibra em pó para receitas e bebidas",
+          "fibras em sachê"
+        ]
+      },
+      {
+        "nome": "Disfagia",
+        "tipos": [
+          "espessante alimentar"
+        ]
+      }
+    ],
+    "destaques": [
+      "Nutren",
+      "Nutren Senior",
+      "Isosource",
+      "FiberMais",
+      "Novasource",
+      "Nanlac",
+      "Ninho"
+    ],
+    "fonteSite": "parcial",
+    "fontes": [
+      "https://www.nestlenutre.com.br/marcas",
+      "https://www.nestlenutre.com.br/ninho",
+      "https://www.nestlenutre.com.br/marcas/nanlac",
+      "https://www.nestlenutre.com.br/ (403)",
+      "src/lib/couponsData.ts (nestle-nutre)",
+      "content/reviews/nestle-nutre-produtos-para-que-servem.json",
+      "content/reviews/colageno-nestle-nutre-qual-escolher.json",
+      "content/reviews/isosource-1-5-para-que-serve.json",
+      "content/reviews/novasource-proline-para-que-serve.json",
+      "content/reviews/nutren-creatina-e-boa-comparativo-growth-ftw-cimed.json",
+      "content/reviews/nanlac-supreme-pro-1-a-3-anos.json",
+      "content/reviews/guia-linha-ninho-nestle-leite-vs-composto-lacteo.json"
+    ],
+    "lidoEm": "2026-11-24",
+    "notas": "Ninho, Nanlac, espessantes e cereais infantis confirmados no site em 24/11. Restrição do CECI em avisos. A assinatura também fica fora do CECI.",
+    "avisos": [
+      {
+        "termos": [
+          "fórmula infantil",
+          "composto lácteo infantil"
+        ],
+        "texto": "O código não vale em fórmula infantil de 0 a 12 meses nem em Alfamino e Alfaré."
+      }
+    ]
+  },
+  {
+    "slug": "dr-peanut",
+    "categorias": [
+      {
+        "nome": "Pastas de amendoim",
+        "tipos": [
+          "pasta de amendoim (manteiga de amendoim)",
+          "pasta de amendoim com whey",
+          "pasta de amendoim com chocolate",
+          "pasta de amendoim zero açúcar"
+        ]
+      },
+      {
+        "nome": "Whey protein",
+        "tipos": [
+          "whey protein"
+        ]
+      },
+      {
+        "nome": "Snacks e doces proteicos",
+        "tipos": [
+          "barra de proteína",
+          "alfajor",
+          "wafer",
+          "snack proteico"
+        ]
+      },
+      {
+        "nome": "Combos e assinatura",
+        "tipos": [
+          "combo de pastas de amendoim",
+          "assinatura de pasta de amendoim"
+        ]
+      }
+    ],
+    "destaques": [
+      "Dr. Peanut",
+      "Whey Dr. Peanut"
+    ],
+    "fonteSite": "ok",
+    "fontes": [
+      "https://www.drpeanut.com.br/",
+      "content/reviews/snacks-dr-peanut-qual-escolher.json",
+      "content/reviews/whey-dr-peanut-max-titanium.json",
+      "content/reviews/dr-peanut-qual-tamanho-compensa.json"
+    ],
+    "lidoEm": "2026-11-24",
+    "notas": "Menu da home: Pastas de Amendoim, Snacks, Whey Protein, Combos, Promoções, Assinatura. Variações de pasta (com whey, chocolate, zero açúcar) vêm dos artigos; confirmar no site."
+  },
+  {
+    "slug": "belive",
+    "categorias": [
+      {
+        "nome": "Doces sem açúcar",
+        "tipos": [
+          "brownie sem açúcar",
+          "bolinho sem açúcar",
+          "cookie sem açúcar",
+          "pão de mel sem açúcar",
+          "panetone sem açúcar",
+          "bolo sem açúcar",
+          "doce para diabéticos"
+        ]
+      },
+      {
+        "nome": "Pães",
+        "tipos": [
+          "pão de forma",
+          "bisnaguinha",
+          "pãozinho",
+          "pão de batata",
+          "pão de cenoura"
+        ]
+      },
+      {
+        "nome": "Snacks",
+        "tipos": [
+          "salgadinho",
+          "chips de batata-doce",
+          "snack proteico",
+          "snack vegano"
+        ]
+      },
+      {
+        "nome": "Lanche escolar",
+        "tipos": [
+          "bolinho para lancheira",
+          "kit de lanche infantil"
+        ]
+      },
+      {
+        "nome": "Proteicos e veganos",
+        "tipos": [
+          "brownie proteico",
+          "doce proteico",
+          "doce vegano",
+          "produto sem ovo"
+        ]
+      },
+      {
+        "nome": "Kits e combos",
+        "tipos": [
+          "kit de doces",
+          "combo de pães e snacks"
+        ]
+      }
+    ],
+    "destaques": [
+      "GoodSoy"
+    ],
+    "fonteSite": "ok",
+    "fontes": [
+      "https://belivebefree.com.br/",
+      "content/reviews/brownie-sem-acucar-belive.json",
+      "content/reviews/cookies-sem-acucar-belive.json",
+      "content/reviews/pao-de-mel-sem-acucar-belive.json",
+      "content/reviews/panetone-belive-e-bom.json",
+      "content/reviews/bolinho-kids-belive-lancheira.json"
+    ],
+    "lidoEm": "2026-11-24",
+    "notas": "Menu da home: Ofertas, Doces (bolos e bolinhos, brownies e pão de mel, cookies, sem açúcar, panetones), Snacks (GoodSoy), Pães (forma, bisnaguinha, pãezinhos), Objetivos (veganos, sem açúcar, lanche escolar, proteicos). Panetone é sazonal."
+  },
+  {
+    "slug": "holyfoods",
+    "categorias": [
+      {
+        "nome": "Sopas",
+        "tipos": [
+          "sopa instantânea",
+          "sopa low carb",
+          "sopa detox",
+          "canja"
+        ]
+      },
+      {
+        "nome": "Macarrões",
+        "tipos": [
+          "macarrão instantâneo",
+          "macarrão com queijo (mac and cheese)",
+          "macarrão alfredo",
+          "macarrão à bolonhesa"
+        ]
+      },
+      {
+        "nome": "Risotos",
+        "tipos": [
+          "risoto instantâneo",
+          "risoto de queijo",
+          "risoto de funghi",
+          "risoto de frutos do mar"
+        ]
+      },
+      {
+        "nome": "Kits",
+        "tipos": [
+          "kit de refeições",
+          "kit para emagrecimento",
+          "kit de almoço proteico",
+          "kit vegetariano",
+          "kit vegano",
+          "projeto 21 dias"
+        ]
+      },
+      {
+        "nome": "Aveia e outros",
+        "tipos": [
+          "aveia pronta",
+          "creme de legumes"
+        ]
+      }
+    ],
+    "destaques": [
+      "Projeto 21 Dias",
+      "Mac Queijo",
+      "Sopa da Vovó",
+      "Kit Seca Barriga"
+    ],
+    "fonteSite": "ok",
+    "fontes": [
+      "https://www.holyfoods.com.br/",
+      "content/reviews/holyfoods-projeto-21-dias.json",
+      "content/reviews/holyfoods-como-preparar.json",
+      "content/reviews/holyfoods-ou-mexidona.json"
+    ],
+    "lidoEm": "2026-11-24",
+    "notas": "Refeições instantâneas para preparar com água quente, organizadas por objetivo (emagrecimento, proteína, energia, praticidade, intestino, vegano). Aveias e Creme Verde apareciam esgotados no site."
+  },
+  {
+    "slug": "la-ganexa",
+    "categorias": [
+      {
+        "nome": "Doce de leite",
+        "tipos": [
+          "doce de leite",
+          "doce de leite zero açúcar"
+        ]
+      },
+      {
+        "nome": "Pastas de amendoim",
+        "tipos": [
+          "pasta de amendoim (manteiga de amendoim)",
+          "pasta de avelã",
+          "pasta de pistache",
+          "pasta de amendoim com whey"
+        ]
+      },
+      {
+        "nome": "Doces",
+        "tipos": [
+          "brigadeiro de colher",
+          "suspiro",
+          "alfajor",
+          "cookie"
+        ]
+      },
+      {
+        "nome": "Salgados e café da manhã",
+        "tipos": [
+          "salgadinho",
+          "panqueca proteica",
+          "mistura para panqueca"
+        ]
+      },
+      {
+        "nome": "Kits e receitas",
+        "tipos": [
+          "kit degustação",
+          "kit café da manhã",
+          "e-book de receitas"
+        ]
+      }
+    ],
+    "destaques": [
+      "La Fajor"
+    ],
+    "fonteSite": "ok",
+    "fontes": [
+      "https://lojalaganexa.com.br/",
+      "content/reviews/kit-la-ganexa-ou-avulso-qual-sai-mais-barato.json",
+      "content/reviews/la-ganexa-e-boa.json"
+    ],
+    "lidoEm": "2026-11-24",
+    "notas": "Menu da home: Doce de Leite, Brigadeiro, Pasta de Amendoim, Suspiro, Salgadinho, Cookies, Panqueca, Alfajor, Kit Degustação, Receitas, Kits. Há linha com whey e sem lactose."
+  },
+  {
+    "slug": "skelt",
+    "categorias": [
+      {
+        "nome": "Autobronzeadores",
+        "tipos": [
+          "autobronzeador",
+          "autobronzeador bifásico",
+          "mousse autobronzeadora",
+          "água autobronzeadora",
+          "bronzeamento artificial"
+        ]
+      },
+      {
+        "nome": "Body splash e perfumes",
+        "tipos": [
+          "body splash",
+          "perfume corporal",
+          "perfume para cabelos"
+        ]
+      },
+      {
+        "nome": "Hidratação corporal",
+        "tipos": [
+          "hidratante corporal"
+        ]
+      },
+      {
+        "nome": "Maquiagem corporal",
+        "tipos": [
+          "maquiagem corporal",
+          "iluminador corporal"
+        ]
+      },
+      {
+        "nome": "Skincare",
+        "tipos": [
+          "skincare"
+        ]
+      },
+      {
+        "nome": "Kits e acessórios",
+        "tipos": [
+          "kit",
+          "duo",
+          "luva aplicadora de autobronzeador"
+        ]
+      }
+    ],
+    "destaques": [
+      "Skelt Tanning Mitt",
+      "Amalfi Sunset",
+      "Brazilian Glow"
+    ],
+    "fonteSite": "ok",
+    "fontes": [
+      "https://www.skelt.com.br/"
+    ],
+    "lidoEm": "2026-11-24",
+    "notas": "Skincare citado só de passagem na home; sem categoria própria confirmada."
+  },
+  {
+    "slug": "simple-organic",
+    "categorias": [
+      {
+        "nome": "Skincare",
+        "tipos": [
+          "gel de limpeza facial",
+          "hidratante facial",
+          "sérum facial",
+          "ultra sérum",
+          "tratamento facial"
+        ]
+      },
+      {
+        "nome": "Maquiagem",
+        "tipos": [
+          "base em bastão",
+          "corretivo sólido",
+          "blush",
+          "batom",
+          "lápis de boca",
+          "gloss",
+          "pó lacre"
+        ]
+      },
+      {
+        "nome": "Corpo",
+        "tipos": [
+          "hidratante corporal",
+          "loção hidratante corporal"
+        ]
+      },
+      {
+        "nome": "Fragrâncias",
+        "tipos": [
+          "body splash",
+          "perfume para cabelo e corpo",
+          "óleo essencial"
+        ]
+      },
+      {
+        "nome": "Acessórios e kits",
+        "tipos": [
+          "kit de rotina",
+          "apontador de lápis de maquiagem"
+        ]
+      }
+    ],
+    "destaques": [
+      "Linha Trendy",
+      "Linha Pop",
+      "Skin AI"
+    ],
+    "fonteSite": "ok",
+    "fontes": [
+      "https://simpleorganic.com.br/"
+    ],
+    "lidoEm": "2026-11-24"
+  },
+  {
+    "slug": "prohall",
+    "categorias": [
+      {
+        "nome": "Lavar",
+        "tipos": [
+          "shampoo",
+          "condicionador"
+        ]
+      },
+      {
+        "nome": "Tratar",
+        "tipos": [
+          "máscara capilar",
+          "ampola capilar",
+          "tônico capilar",
+          "tratamento noturno",
+          "queda de cabelo",
+          "cronograma capilar"
+        ]
+      },
+      {
+        "nome": "Finalizar",
+        "tipos": [
+          "leave-in",
+          "protetor térmico",
+          "óleo capilar",
+          "sérum capilar",
+          "creme de pentear",
+          "finalizador",
+          "escova antifrizz"
+        ]
+      },
+      {
+        "nome": "Cor e loiro",
+        "tipos": [
+          "coloração",
+          "descoloração",
+          "água oxigenada",
+          "matizador"
+        ]
+      },
+      {
+        "nome": "Outros",
+        "tipos": [
+          "perfume capilar",
+          "kit capilar",
+          "linha masculina",
+          "linha infantil",
+          "acessórios para cabelo"
+        ]
+      }
+    ],
+    "destaques": [
+      "Absolut One",
+      "Select One",
+      "Burix One",
+      "Force Hair",
+      "Miracle Therapy",
+      "Biomask"
+    ],
+    "fonteSite": "ok",
+    "fontes": [
+      "https://lojaprohall.com.br/"
+    ],
+    "lidoEm": "2026-11-24"
+  },
+  {
+    "slug": "barbours",
+    "categorias": [
+      {
+        "nome": "Body splash",
+        "tipos": [
+          "body splash",
+          "desodorante colônia",
+          "perfume corporal",
+          "kit de body splash"
+        ]
+      },
+      {
+        "nome": "Linha corporal",
+        "tipos": [
+          "óleo de banho",
+          "iluminador corporal",
+          "body cream",
+          "geleia hidratante corporal",
+          "desodorante roll-on"
+        ]
+      },
+      {
+        "nome": "Perfume capilar",
+        "tipos": [
+          "perfume para cabelo",
+          "finalizador termoativo"
+        ]
+      },
+      {
+        "nome": "Masculino",
+        "tipos": [
+          "perfume masculino",
+          "body splash masculino"
+        ]
+      }
+    ],
+    "destaques": [
+      "Oriental Sweetness",
+      "Tropical Glow",
+      "Golden Glow",
+      "Homme"
+    ],
+    "fonteSite": "ok",
+    "fontes": [
+      "https://www.barbours.com.br/",
+      "https://www.thebarboursbeauty.com.br/"
+    ],
+    "lidoEm": "2026-11-24",
+    "notas": "O domínio redireciona para thebarboursbeauty.com.br. Vende fragrâncias 'inspiradas' em perfumes famosos, sem afiliação às marcas."
+  },
+  {
+    "slug": "pinkcheeks",
+    "categorias": [
+      {
+        "nome": "Proteção solar",
+        "tipos": [
+          "protetor solar",
+          "protetor solar facial",
+          "protetor solar com cor",
+          "protetor solar infantil",
+          "protetor labial com FPS",
+          "protetor solar corporal"
+        ]
+      },
+      {
+        "nome": "Maquiagem",
+        "tipos": [
+          "base",
+          "pó translúcido com FPS",
+          "blush",
+          "sombra",
+          "batom",
+          "maquiagem para rosto, olhos e lábios",
+          "maquiagem corporal"
+        ]
+      },
+      {
+        "nome": "Antiatrito",
+        "tipos": [
+          "antiatrito",
+          "bastão antiatrito",
+          "creme antiatrito",
+          "spray antiatrito"
+        ]
+      },
+      {
+        "nome": "Cabelos",
+        "tipos": [
+          "cera para cabelo",
+          "shampoo em pó",
+          "leave-in"
+        ]
+      },
+      {
+        "nome": "Kits e acessórios",
+        "tipos": [
+          "kit",
+          "lip case"
+        ]
+      }
+    ],
+    "destaques": [
+      "Ultra Balm",
+      "Sport Powder",
+      "Pro Stick"
+    ],
+    "fonteSite": "ok",
+    "fontes": [
+      "https://pinkcheeks.com.br/"
+    ],
+    "lidoEm": "2026-11-24"
+  },
+  {
+    "slug": "biobio",
+    "categorias": [
+      {
+        "nome": "Suncare",
+        "tipos": [
+          "protetor solar facial",
+          "protetor solar infantil",
+          "óleo acelerador de bronzeado"
+        ]
+      },
+      {
+        "nome": "Makecare",
+        "tipos": [
+          "base em bastão com FPS",
+          "blush",
+          "batom",
+          "sombra",
+          "pó facial com FPS",
+          "sérum iluminador",
+          "lip oil gloss",
+          "máscara de cílios"
+        ]
+      },
+      {
+        "nome": "Skincare",
+        "tipos": [
+          "hidratante em bastão",
+          "bastão anti-inchaço",
+          "cleansing balm",
+          "lip balm",
+          "óleo de rosa mosqueta",
+          "sérum noturno"
+        ]
+      },
+      {
+        "nome": "Bodycare",
+        "tipos": [
+          "desodorante",
+          "óleo acelerador de bronzeado"
+        ]
+      },
+      {
+        "nome": "Kits",
+        "tipos": [
+          "kit de maquiagem",
+          "kit de skincare"
+        ]
+      }
+    ],
+    "destaques": [
+      "BBS",
+      "Sunnature",
+      "Skindrops",
+      "Bioretinol Hyalu",
+      "Only One",
+      "BioPlump"
+    ],
+    "fonteSite": "ok",
+    "fontes": [
+      "https://biobio.com.br/"
+    ],
+    "lidoEm": "2026-11-24"
+  },
+  {
+    "slug": "oceane",
+    "categorias": [
+      {
+        "nome": "Maquiagem",
+        "tipos": [
+          "paleta de sombras",
+          "primer",
+          "fixador de maquiagem",
+          "demaquilante",
+          "esponja de maquiagem",
+          "pincel de maquiagem",
+          "nécessaire",
+          "maquiagem para boca e olhos"
+        ]
+      },
+      {
+        "nome": "Skincare",
+        "tipos": [
+          "sérum facial",
+          "máscara facial",
+          "antiacne",
+          "massageador facial",
+          "cuidados para mãos, pés, lábios e olhos",
+          "hidratante corporal"
+        ]
+      },
+      {
+        "nome": "Cabelos",
+        "tipos": [
+          "shampoo",
+          "condicionador",
+          "máscara capilar",
+          "escova de cabelo",
+          "finalizador",
+          "maquiagem capilar"
+        ]
+      },
+      {
+        "nome": "Bem-estar e organização",
+        "tipos": [
+          "vela perfumada",
+          "aromaterapia",
+          "itens de viagem",
+          "bem-estar sexual",
+          "linha pet"
+        ]
+      },
+      {
+        "nome": "Kits e presentes",
+        "tipos": [
+          "kit",
+          "presente"
+        ]
+      }
+    ],
+    "destaques": [
+      "Océane Edition",
+      "Nádia Tambasco",
+      "Maternity",
+      "Sleep"
+    ],
+    "fonteSite": "ok",
+    "fontes": [
+      "https://www.oceane.com.br/"
+    ],
+    "lidoEm": "2026-11-24"
+  },
+  {
+    "slug": "lamazonie",
+    "categorias": [
+      {
+        "nome": "Anti-idade e clareamento da pele",
+        "tipos": [
+          "sérum de vitamina C",
+          "sérum clareador",
+          "antioxidante facial"
+        ]
+      },
+      {
+        "nome": "Proteção solar",
+        "tipos": [
+          "protetor solar de tratamento FPS 99",
+          "bastão multifuncional com cor FPS 95",
+          "protetor solar em bastão"
+        ]
+      },
+      {
+        "nome": "Limpeza facial",
+        "tipos": [
+          "gel de limpeza de vitamina C"
+        ]
+      },
+      {
+        "nome": "Clareamento de axilas e virilha",
+        "tipos": [
+          "creme clareador íntimo",
+          "clareador de axilas",
+          "clareador de virilha"
+        ]
+      },
+      {
+        "nome": "Cílios e sobrancelhas",
+        "tipos": [
+          "sérum para crescimento de cílios",
+          "sérum para crescimento de sobrancelhas"
+        ]
+      },
+      {
+        "nome": "eBooks",
+        "tipos": [
+          "ebook de skincare",
+          "ebook de sobrancelhas"
+        ]
+      }
+    ],
+    "destaques": [
+      "Vitamina C20",
+      "FPS 99"
+    ],
+    "fonteSite": "ok",
+    "fontes": [
+      "docs/Memoria de Artigos/memreview/05_Demanda/parceiros/lamazonie/2-processado/catalogo.csv"
+    ],
+    "lidoEm": "2026-11-24",
+    "notas": "Feito a partir do catálogo CSV de 17/11/2026, sem busca no site. Alguns itens (clareador de axila e virilha avulsos) estavam indisponíveis."
+  },
+  {
+    "slug": "insider",
+    "categorias": [
+      {
+        "nome": "Roupas masculinas",
+        "tipos": [
+          "camisa",
+          "camiseta",
+          "camiseta manga longa",
+          "casaco",
+          "moletom",
+          "calça",
+          "short",
+          "bermuda"
+        ]
+      },
+      {
+        "nome": "Roupas femininas",
+        "tipos": [
+          "blusa",
+          "body",
+          "camisa",
+          "camiseta",
+          "camiseta manga longa",
+          "casaco",
+          "moletom",
+          "calça",
+          "saia",
+          "short",
+          "vestido"
+        ]
+      },
+      {
+        "nome": "Esportivos",
+        "tipos": [
+          "camiseta esportiva",
+          "cueca performance",
+          "boné",
+          "top esportivo",
+          "short esportivo",
+          "legging",
+          "kit esportivo"
+        ]
+      },
+      {
+        "nome": "Roupas íntimas",
+        "tipos": [
+          "cueca",
+          "undershirt (camiseta de baixo)",
+          "meia",
+          "calcinha",
+          "sutiã",
+          "kit e conjunto de lingerie"
+        ]
+      },
+      {
+        "nome": "Kits",
+        "tipos": [
+          "kit masculino",
+          "kit feminino"
+        ]
+      }
+    ],
+    "destaques": [
+      "Tech T-Shirt"
+    ],
+    "fonteSite": "ok",
+    "fontes": [
+      "https://www.insiderstore.com.br/"
+    ],
+    "lidoEm": "2026-11-24"
+  },
+  {
+    "slug": "clea-store",
+    "categorias": [
+      {
+        "nome": "Parte de cima",
+        "tipos": [
+          "blusa",
+          "camisa",
+          "top",
+          "blazer",
+          "body",
+          "colete",
+          "camiseta",
+          "tricô",
+          "jaqueta",
+          "casaco"
+        ]
+      },
+      {
+        "nome": "Parte de baixo",
+        "tipos": [
+          "calça",
+          "short",
+          "saia"
+        ]
+      },
+      {
+        "nome": "Peça única",
+        "tipos": [
+          "vestido",
+          "conjunto",
+          "macacão"
+        ]
+      },
+      {
+        "nome": "Acessórios",
+        "tipos": [
+          "cinto",
+          "colar",
+          "lenço",
+          "bolsa",
+          "bracelete"
+        ]
+      },
+      {
+        "nome": "Alfaiataria",
+        "tipos": [
+          "blazer",
+          "calça de alfaiataria",
+          "colete"
+        ]
+      }
+    ],
+    "fonteSite": "ok",
+    "fontes": [
+      "https://www.cleastore.com.br/"
+    ],
+    "lidoEm": "2026-11-24",
+    "notas": "Moda feminina. A categoria Alfaiataria vem do menu; os tipos dela são inferidos de Blazer/Colete/Calça."
+  },
+  {
+    "slug": "toda-up",
+    "categorias": [
+      {
+        "nome": "Sutiãs",
+        "tipos": [
+          "sutiã",
+          "sutiã de silicone invisível",
+          "sutiã sem alça",
+          "sutiã confortável"
+        ]
+      },
+      {
+        "nome": "Calcinhas",
+        "tipos": [
+          "calcinha",
+          "calcinha biquíni",
+          "calcinha segunda pele"
+        ]
+      },
+      {
+        "nome": "Conjuntos",
+        "tipos": [
+          "conjunto de lingerie",
+          "top",
+          "kit de lingerie"
+        ]
+      },
+      {
+        "nome": "Adesivos",
+        "tipos": [
+          "adesivo para seios",
+          "protetor de silicone",
+          "protetor de mamilo"
+        ]
+      }
+    ],
+    "fonteSite": "ok",
+    "fontes": [
+      "https://todaup.com/"
+    ],
+    "lidoEm": "2026-11-24",
+    "notas": "O menu não mostra subcategorias; os tipos saem dos nomes dos produtos da home. Há ainda 'Acessórios' e 'Monte seu Kit', sem detalhe."
+  },
+  {
+    "slug": "baw",
+    "categorias": [
+      {
+        "nome": "Camisetas",
+        "tipos": [
+          "camiseta",
+          "baby tee",
+          "camiseta boxy",
+          "camiseta manga longa",
+          "camiseta oversized"
+        ]
+      },
+      {
+        "nome": "Moletons e jaquetas",
+        "tipos": [
+          "moletom",
+          "jaqueta"
+        ]
+      },
+      {
+        "nome": "Calças, shorts e saias",
+        "tipos": [
+          "calça",
+          "short",
+          "bermuda",
+          "saia"
+        ]
+      },
+      {
+        "nome": "Camisas",
+        "tipos": [
+          "camisa"
+        ]
+      },
+      {
+        "nome": "Acessórios",
+        "tipos": [
+          "boné",
+          "meia",
+          "bolsa",
+          "pochete"
+        ]
+      },
+      {
+        "nome": "Calçados",
+        "tipos": [
+          "tênis",
+          "slide (chinelo)"
+        ]
+      },
+      {
+        "nome": "Infantil",
+        "tipos": [
+          "roupa infantil (kids)"
+        ]
+      }
+    ],
+    "destaques": [
+      "Baw Classics",
+      "Baw Basics",
+      "BAW Athletics",
+      "Hello Kitty",
+      "Harry Potter",
+      "Bob Marley"
+    ],
+    "fonteSite": "ok",
+    "fontes": [
+      "C:\\Users\\Bruno\\Downloads\\Emcasacomcecilia\\emcasacomcecilia\\.claude\\worktrees\\charming-jang-b9f64f\\docs\\Memoria de Artigos\\memreview\\05_Demanda\\parceiros\\baw\\2-processado\\catalogo.csv"
+    ],
+    "lidoEm": "2026-11-24",
+    "notas": "Resumido do catálogo CSV (leitura de 18/11/2026), sem preços. Streetwear/BAW Clothing. 'Camiseta oversized' é inferida de 'New Over'."
+  },
+  {
+    "slug": "yesstyle",
+    "categorias": [
+      {
+        "nome": "Beleza",
+        "tipos": [
+          "skincare",
+          "beleza coreana (K-beauty)",
+          "maquiagem",
+          "cuidados com o cabelo",
+          "cuidados com o corpo"
+        ]
+      },
+      {
+        "nome": "Moda feminina",
+        "tipos": [
+          "roupas femininas",
+          "vestidos",
+          "calçados",
+          "bolsas"
+        ]
+      },
+      {
+        "nome": "Moda masculina",
+        "tipos": [
+          "roupas masculinas",
+          "calçados masculinos"
+        ]
+      },
+      {
+        "nome": "Acessórios",
+        "tipos": [
+          "acessórios de moda",
+          "joias e bijuterias"
+        ]
+      },
+      {
+        "nome": "Saúde",
+        "tipos": [
+          "produtos de saúde e bem-estar"
+        ]
+      },
+      {
+        "nome": "Estilo de vida",
+        "tipos": [
+          "itens de casa",
+          "papelaria",
+          "gadgets"
+        ]
+      },
+      {
+        "nome": "Pets",
+        "tipos": [
+          "produtos para pets"
+        ]
+      }
+    ],
+    "fonteSite": "ok",
+    "fontes": [
+      "https://www.yesstyle.com/"
+    ],
+    "lidoEm": "2026-11-24",
+    "notas": "Marketplace grande, lista só ampla por pedido do Bruno. Menu da home: Beauty, Health, Fashion (Women/Men), Lifestyle, Pets. Itens de Lifestyle e Acessórios são genéricos, não confirmados em página de categoria. O CECILIA010 é 'código de recompensa' (Reward Code), nunca 'cupom'."
+  },
+  {
+    "slug": "proton",
+    "categorias": [
+      {
+        "nome": "Privacidade e segurança",
+        "tipos": [
+          "VPN",
+          "gerenciador de senhas",
+          "autenticador (verificação em duas etapas)",
+          "alias de e-mail (SimpleLogin)"
+        ]
+      },
+      {
+        "nome": "E-mail e agenda",
+        "tipos": [
+          "e-mail criptografado",
+          "agenda (calendário)",
+          "videoconferência"
+        ]
+      },
+      {
+        "nome": "Armazenamento e documentos",
+        "tipos": [
+          "nuvem criptografada",
+          "documentos colaborativos",
+          "planilhas colaborativas",
+          "notas criptografadas"
+        ]
+      },
+      {
+        "nome": "Outros",
+        "tipos": [
+          "carteira de bitcoin",
+          "assistente de IA (Lumo)"
+        ]
+      }
+    ],
+    "destaques": [
+      "Proton Mail",
+      "Proton VPN",
+      "Proton Pass",
+      "Proton Drive",
+      "Proton Unlimited"
+    ],
+    "fonteSite": "ok",
+    "fontes": [
+      "https://proton.me/"
+    ],
+    "lidoEm": "2026-11-24"
+  },
+  {
+    "slug": "hostinger",
+    "categorias": [
+      {
+        "nome": "Hospedagem de sites",
+        "tipos": [
+          "hospedagem de sites",
+          "hospedagem compartilhada",
+          "hospedagem WordPress",
+          "hospedagem em nuvem (cloud)",
+          "hospedagem para agências",
+          "hospedagem de apps Node.js"
+        ]
+      },
+      {
+        "nome": "Servidores",
+        "tipos": [
+          "VPS"
+        ]
+      },
+      {
+        "nome": "Domínios",
+        "tipos": [
+          "registro de domínio"
+        ]
+      },
+      {
+        "nome": "Criação de sites",
+        "tipos": [
+          "criador de sites com IA",
+          "loja virtual (e-commerce)"
+        ]
+      },
+      {
+        "nome": "E-mail",
+        "tipos": [
+          "e-mail profissional",
+          "e-mail marketing"
+        ]
+      },
+      {
+        "nome": "Aplicativos e automação",
+        "tipos": [
+          "n8n hospedado",
+          "apps de IA com instalação em um clique"
+        ]
+      }
+    ],
+    "fonteSite": "ok",
+    "fontes": [
+      "https://www.hostinger.com/br",
+      "src/lib/couponsData.ts"
+    ],
+    "lidoEm": "2026-11-24"
+  },
+  {
+    "slug": "starlink",
+    "categorias": [
+      {
+        "nome": "Internet residencial",
+        "tipos": [
+          "internet via satélite",
+          "plano residencial",
+          "internet para zona rural",
+          "internet para casa de campo ou sítio"
+        ]
+      },
+      {
+        "nome": "Equipamento",
+        "tipos": [
+          "kit Starlink",
+          "antena",
+          "kit Mini (antena portátil)"
+        ]
+      },
+      {
+        "nome": "Viagem",
+        "tipos": [
+          "plano viagem",
+          "internet para viagem",
+          "internet para motorhome"
+        ]
+      }
+    ],
+    "destaques": [
+      "Mini",
+      "Residencial Max",
+      "Residencial 100 Mbps"
+    ],
+    "fonteSite": "parcial",
+    "fontes": [
+      "https://starlink.com/pt/support/article/c086c0c8-78b7-421e-20b9-40f0084d1926",
+      "https://starlink.com/public-files/starlinkProgressReport_2024_pt-BR.pdf",
+      "content/reviews/black-friday-starlink.json",
+      "src/lib/couponsData.ts"
+    ],
+    "lidoEm": "2026-11-24",
+    "notas": "Kit Mini no Brasil e a categoria Viagem confirmados na documentação oficial em 24/11. Residencial e Viagem entram pelo link de indicação. A página de planos só carrega com JavaScript."
+  }
+]
