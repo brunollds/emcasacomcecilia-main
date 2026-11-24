@@ -256650,7 +256650,7 @@ export const reviewsData: unknown[] = [
     },
     "publishedAt": "16 de novembro de 2026",
     "publishedAtISO": "2026-11-16",
-    "updatedAt": "2026-11-22",
+    "updatedAt": "2026-11-23",
     "draft": false,
     "isNew": true,
     "imageFit": "contain",
@@ -256676,6 +256676,9 @@ export const reviewsData: unknown[] = [
     "relatedArticles": [
       {
         "slug": "baw-clothing-e-confiavel"
+      },
+      {
+        "slug": "tabela-medidas-baw"
       },
       {
         "slug": "black-friday-baw"
@@ -256739,49 +256742,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Regular ou oversized: o que muda em centímetros",
         "paragraphs": [
-          "As descrições preenchidas trazem as medidas da peça por tamanho. Duas camisetas, no tamanho M:"
-        ],
-        "comparisonTable": {
-          "caption": "Medidas das descrições da loja, que avisam variação de até 3%.",
-          "headers": [
-            "Camiseta (tamanho M)",
-            "Comprimento",
-            "Tórax"
-          ],
-          "rows": [
-            [
-              "[Regular Selfie Logo](https://www.bawclothing.com.br/produto/camiseta-regular-selfie-logo-153490)",
-              "70 cm",
-              "54 cm"
-            ],
-            [
-              "[Oversized BAW Subscript](https://www.bawclothing.com.br/produto/camiseta-oversized-baw-subscript-151896)",
-              "72 cm",
-              "61 cm"
-            ]
-          ]
-        },
-        "postParagraphs": [
-          "Nessas duas peças, a oversized tem 2 cm a mais de comprimento e 7 cm a mais de tórax que a regular.",
-          "O nome da modelagem não garante a medida. A [Camiseta BR Regular Logo](https://www.bawclothing.com.br/produto/camiseta-br-regular-logo-153962), também chamada de regular, traz 76 cm de comprimento e 58 cm de tórax no M, mais que a Regular Selfie Logo. Confira a tabela do modelo que você quer. Antes de comparar com uma camiseta sua, confirme com a BAW como foram tomadas as medidas de tórax; as descrições consultadas não explicam esse método."
-        ],
-        "images": [
-          {
-            "src": "/images/reviews/baw/baw-clothing-e-boa-camiseta-br-regular-logo.webp",
-            "alt": "Modelo com a Camiseta BR Regular Logo preta da BAW Clothing, com o logo pequeno no peito, em foto oficial da loja",
-            "caption": "Camiseta BR Regular Logo, na cor preta. Foto: BAW Clothing.",
-            "objectFit": "contain",
-            "aspectRatio": 0.667,
-            "href": "https://www.bawclothing.com.br/produto/camiseta-br-regular-logo-153962"
-          },
-          {
-            "src": "/images/reviews/baw/baw-clothing-e-boa-camiseta-oversized-subscript.webp",
-            "alt": "Modelo de corpo inteiro com a Camiseta Oversized BAW Subscript off white da BAW Clothing e bermuda cargo preta, em foto oficial da loja",
-            "caption": "Camiseta Oversized BAW Subscript, na cor off white. Foto: BAW Clothing.",
-            "objectFit": "contain",
-            "aspectRatio": 0.667,
-            "href": "https://www.bawclothing.com.br/produto/camiseta-oversized-baw-subscript-151896"
-          }
+          "As descrições preenchidas trazem as medidas da peça por tamanho, mas o nome da modelagem não garante a medida: no M, a [Regular Selfie Logo](https://www.bawclothing.com.br/produto/camiseta-regular-selfie-logo-153490) tem 70 cm de comprimento e 54 cm de tórax, a [BR Regular Logo](https://www.bawclothing.com.br/produto/camiseta-br-regular-logo-153962), também chamada de regular, tem 76 cm e 58 cm, e a [Oversized BAW Subscript](https://www.bawclothing.com.br/produto/camiseta-oversized-baw-subscript-151896), 72 cm e 61 cm. A loja avisa variação de até 3% e as descrições não explicam como o tórax foi medido. A tabela de cada peça, tamanho por tamanho, está em [tabela de medidas BAW](/reviews/tabela-medidas-baw)."
         ],
         "styling": {
           "layout": "tabs",
@@ -256941,7 +256902,7 @@ export const reviewsData: unknown[] = [
         "heading": "Perguntas frequentes",
         "bullets": [
           "A BAW Clothing é uma marca boa? Pelas páginas, dá para conferir parte das peças. As descrições preenchidas trazem composição e medidas por tamanho, mas várias estavam vazias. Não usamos as peças, então não avaliamos qualidade nem durabilidade.",
-          "A camiseta oversized da BAW é muito grande? Pela descrição da Oversized BAW Subscript, o M tem 72 cm de comprimento e 61 cm de tórax. Compare com uma camiseta sua antes de escolher.",
+          "A camiseta oversized da BAW é muito grande? Pela descrição da Oversized BAW Subscript, o M tem 72 cm de comprimento e 61 cm de tórax. Compare com uma camiseta sua antes de escolher. As demais peças estão na [tabela de medidas BAW](/reviews/tabela-medidas-baw).",
           "O tênis da BAW é bom? Não dá para dizer pelas páginas. Nos tênis que abrimos, a descrição estava vazia, sem material e sem tabela de pé.",
           "As roupas da BAW são de algodão? Parte delas. As duas camisetas com composição na descrição são de algodão, e os moletons variam: um modelo traz 100% algodão e outro, 50% algodão e 50% poliéster.",
           "A BAW troca se não servir? Troca por crédito no valor pago, sem troca direta por outro tamanho. Quem prefere o dinheiro pede a devolução em até 7 dias corridos do recebimento."
@@ -322286,7 +322247,7 @@ export const reviewsData: unknown[] = [
     },
     "publishedAt": "21 de novembro de 2026",
     "publishedAtISO": "2026-11-21",
-    "updatedAt": "2026-11-21",
+    "updatedAt": "2026-11-23",
     "draft": false,
     "isNew": true,
     "imageFit": "contain",
@@ -322317,7 +322278,7 @@ export const reviewsData: unknown[] = [
         "slug": "cupom-barbours-como-usar"
       },
       {
-        "slug": "barbours-e-confiavel"
+        "slug": "barbours-body-splash-masculino"
       },
       {
         "slug": "barbours-reclame-aqui-nota-reputacao"
@@ -322347,9 +322308,11 @@ export const reviewsData: unknown[] = [
         ],
         "bullets": [
           "Acqua di Giò Elixir: Ocean Homme",
+          "Angel: Celestial Glow",
           "Baccarat Rouge 540: Amber Mystic, da coleção Feliz no Simples",
           "Bleu: Seduction Homme",
           "Carmina: Rose Intense, da coleção Feliz no Simples",
+          "Cheirosa 62: Tropic Sun, só em perfume para cabelo",
           "Chloé Eau de Parfum: Rich",
           "Coco Mademoiselle: Sienna Glow",
           "Delina: My Sweet Delight",
@@ -322369,6 +322332,7 @@ export const reviewsData: unknown[] = [
           "Love, Don’t Be Shy: Kiss in Paradise",
           "MYSLF: Urban Homme",
           "Palatine: Pure Grace",
+          "Paradoxe: Senseless",
           "Sauvage: Bold Homme",
           "Scandal: Affair",
           "Valaya: Fine Touch",
@@ -322380,7 +322344,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "De onde vem esta lista",
         "paragraphs": [
-          "A Barbour’s publica a referência olfativa na página de cada produto, no campo “Fragrância inspirada por”. Reunimos os nomes indicados pela marca e os preços da consulta para você achar a versão correspondente.",
+          "A Barbour’s publica a referência olfativa na página de cada produto: no body splash, no campo “Cheiro inspirado por”; no perfume para cabelo, em “Fragrância inspirada por”. Reunimos os nomes indicados pela marca e os preços da consulta para você achar a versão correspondente.",
           "A indicação de inspiração descreve apenas a proposta de cada fragrância. Este guia reúne os nomes, notas e avisos publicados pela Barbour’s Beauty, sem avaliação olfativa ou de fixação."
         ]
       },
@@ -322390,7 +322354,7 @@ export const reviewsData: unknown[] = [
           "São seis fragrâncias florais e frutadas em frasco de 200 ml. Na penúltima coluna estão as principais notas listadas na página de cada body splash."
         ],
         "comparisonTable": {
-          "caption": "Preço de venda na página de cada body splash em 21 de novembro de 2026, frasco de 200 ml. A referência é o que a loja indica no campo “Fragrância inspirada por”.",
+          "caption": "Preço de venda na página de cada body splash em 21 de novembro de 2026, frasco de 200 ml. A referência é o que a loja indica no campo “Cheiro inspirado por”.",
           "headers": [
             "Body splash",
             "Referência que a loja indica",
@@ -322466,7 +322430,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Mais body splashes de 200 ml",
         "paragraphs": [
-          "Além dos seis acima, sete body splashes de 200 ml trazem a referência indicada pela marca no mesmo campo."
+          "Além dos seis acima, nove body splashes de 200 ml trazem a referência indicada pela marca no mesmo campo."
         ],
         "comparisonTable": {
           "caption": "Referência que a loja indica em cada página.",
@@ -322510,11 +322474,23 @@ export const reviewsData: unknown[] = [
               "[Sienna Glow](https://www.thebarboursbeauty.com.br/products/body-splash-sienna-glow-694825eb0737a)",
               "Coco Mademoiselle - Chanel",
               "R$ 39,90"
+            ],
+            [
+              "[Celestial Glow](https://www.thebarboursbeauty.com.br/products/body-splash-angelical-deo-colonia-6948c96697fbc)",
+              "Angel - T. Mugler",
+              "R$ 39,90 (esgotado na consulta)"
+            ],
+            [
+              "[Senseless](https://www.thebarboursbeauty.com.br/products/body-splash-senseless-deo-colonia-ref-olfativa-paradoxe-6948252f250f4)",
+              "Paradoxe - Prada",
+              "R$ 39,90 (esgotado na consulta)"
             ]
           ]
         },
         "postParagraphs": [
-          "O Living Grace também é vendido na versão [Living Grace perfume para cabelo](https://www.thebarboursbeauty.com.br/products/new-perfume-para-cabelo-finalizador-termoativo-la-vie-694275e1e6ead) (R$ 34,90 na consulta), e a página dele traz a mesma referência do body splash."
+          "O Living Grace também é vendido na versão [Living Grace perfume para cabelo](https://www.thebarboursbeauty.com.br/products/new-perfume-para-cabelo-finalizador-termoativo-la-vie-694275e1e6ead) (R$ 34,90 na consulta), e a página dele traz a mesma referência do body splash.",
+          "O Celestial Glow era vendido como Angelical, e o endereço da página ainda traz esse nome. Ele e o Senseless também existem como [perfume para cabelo Celestial Glow](https://www.thebarboursbeauty.com.br/products/perfume-para-cabelo-angelical-finalizador-termoativo-ref-olfativa-angel-69480185443bb) (R$ 34,90, esgotado na consulta) e [perfume para cabelo Senseless](https://www.thebarboursbeauty.com.br/products/perfume-para-cabelo-senseless-finalizador-termoativo-6947fecfb122d) (R$ 34,90), com a mesma referência do body splash.",
+          "O [perfume para cabelo Tropic Sun](https://www.thebarboursbeauty.com.br/products/perfume-para-cabelo-tropic-sun) (R$ 34,90) cita Cheirosa 62, da Sol de Janeiro. A loja não tem body splash com esse nome."
         ]
       },
       {
@@ -322622,10 +322598,10 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Masculinos (Homme)",
         "paragraphs": [
-          "A linha Homme tem seis body splashes de 200 ml, todos com a referência indicada pela marca no mesmo campo. As notas de cabeça, corpo e fundo estão na aba Notas da Fragrância de cada página."
+          "A linha Homme tem seis body splashes de 200 ml, todos com a referência indicada pela marca no mesmo campo. A aba de texto das notas está sem conteúdo no site, e as notas de cabeça, corpo e fundo aparecem em imagens da loja. Elas estão no [guia do body splash masculino da Barbour's](/reviews/barbours-body-splash-masculino), com o kit e o preço por frasco."
         ],
         "comparisonTable": {
-          "caption": "Referência que a loja indica em cada página.",
+          "caption": "Referência que a loja indica em cada página. Preço de venda em 23 de novembro de 2026.",
           "headers": [
             "Body splash",
             "Referência que a loja indica",
@@ -322650,12 +322626,12 @@ export const reviewsData: unknown[] = [
             [
               "[Midnight Homme](https://www.thebarboursbeauty.com.br/products/body-splash-midnight-homme-desodorante-colonia-200ml)",
               "212 Vip Black - Carolina Herrera",
-              "R$ 34,90"
+              "R$ 39,90"
             ],
             [
               "[Signature Homme](https://www.thebarboursbeauty.com.br/products/body-splash-signature-homme-desodorante-colonia-200ml)",
               "Imagination - Louis Vuitton",
-              "R$ 34,90"
+              "R$ 39,90"
             ],
             [
               "[Urban Homme](https://www.thebarboursbeauty.com.br/products/body-splash-urban-homme-desodorante-colonia-200ml)",
@@ -322678,7 +322654,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Os que não trazem perfume de referência",
         "paragraphs": [
-          "Os cinco body splashes da linha Shimmer usam o mesmo campo para uma descrição olfativa, não para um perfume famoso. Já o [BB Charm Rose Bloom, de 34 ml](https://www.thebarboursbeauty.com.br/products/bb-charm-rose-bloom-body-splash-desodorante-corporal-34-ml) (R$ 39,90) e o [kit Linha Layering, com três mini body splashes de 55 ml](https://www.thebarboursbeauty.com.br/products/kit-linha-layering-3-mini-body-splashes-petal-crush-vanilla-dreamer-e-fruity-tale-55ml-cada) (R$ 79,90) não trazem esse campo."
+          "Os cinco body splashes da linha Shimmer usam o mesmo campo para uma descrição olfativa, não para um perfume famoso. O [Solar Citrus](https://www.thebarboursbeauty.com.br/products/body-splash-solar-citrus-desodorante-colonia-200ml) e o [Rose Fresh](https://www.thebarboursbeauty.com.br/products/body-splash-rose-fresh-desodorante-colonia-200ml) não trazem o campo. Também não o trazem o [BB Charm Rose Bloom, de 34 ml](https://www.thebarboursbeauty.com.br/products/bb-charm-rose-bloom-body-splash-desodorante-corporal-34-ml) (R$ 39,90) e o [kit Linha Layering, com três mini body splashes de 55 ml](https://www.thebarboursbeauty.com.br/products/kit-linha-layering-3-mini-body-splashes-petal-crush-vanilla-dreamer-e-fruity-tale-55ml-cada) (R$ 79,90)."
         ],
         "comparisonTable": {
           "caption": "O que o campo traz em cada página, entre aspas.",
@@ -322711,6 +322687,16 @@ export const reviewsData: unknown[] = [
             [
               "[Pink Sunset Shine](https://www.thebarboursbeauty.com.br/products/body-splash-pink-sunset-shine-desodorante-colonia-200ml)",
               "“suculência das frutas e a doçura do caramelo”",
+              "R$ 39,90"
+            ],
+            [
+              "[Solar Citrus](https://www.thebarboursbeauty.com.br/products/body-splash-solar-citrus-desodorante-colonia-200ml)",
+              "sem o campo",
+              "R$ 39,90"
+            ],
+            [
+              "[Rose Fresh](https://www.thebarboursbeauty.com.br/products/body-splash-rose-fresh-desodorante-colonia-200ml)",
+              "sem o campo",
               "R$ 39,90"
             ]
           ]
@@ -322745,7 +322731,7 @@ export const reviewsData: unknown[] = [
         "bullets": [
           "Qual body splash da Barbour’s é inspirado no Delina? A página do My Sweet Delight indica o Delina, da Parfums de Marly, como fragrância de referência. A loja avisa que a indicação não promete resultado idêntico.",
           "E no La Vie est Belle? A página do Living Grace indica o La Vie est Belle, da Lancôme, como referência.",
-          "Qual o body splash masculino inspirado no Sauvage? A página do Bold Homme indica o Sauvage, da Dior, como referência.",
+          "Qual o body splash masculino inspirado no Sauvage? A página do Bold Homme indica o Sauvage, da Dior, como referência. As notas de cada um estão no [guia do body splash masculino da Barbour's](/reviews/barbours-body-splash-masculino).",
           "A Barbour’s tem vínculo com as marcas citadas? A loja diz que não. Na nota de esclarecimento, afirma que não possui vínculos com as marcas mencionadas e que elas pertencem aos respectivos fabricantes.",
           "Body splash é a mesma coisa que perfume? Na loja, estes frascos são vendidos como desodorante colônia ou desodorante corporal. Os perfumes citados aparecem como referência olfativa."
         ]
@@ -326946,5 +326932,1374 @@ export const reviewsData: unknown[] = [
       }
     ],
     "updatedAt": "2026-11-23"
+  },
+  {
+    "id": 1314,
+    "slug": "barbours-body-splash-masculino",
+    "locale": "pt",
+    "category": "guias-praticos-utilidade",
+    "reviewKind": "guia",
+    "author": {
+      "name": "Cecília Mauad",
+      "slug": "cecilia-mauad",
+      "role": "Em Casa com Cecília",
+      "initials": "CM",
+      "url": "/sobre"
+    },
+    "publishedAt": "23 de novembro de 2026",
+    "publishedAtISO": "2026-11-23",
+    "updatedAt": "2026-11-23",
+    "draft": false,
+    "isNew": true,
+    "imageFit": "contain",
+    "imageAspect": "landscape",
+    "pros": [],
+    "cons": [],
+    "coupon": "CECILIALINHARES",
+    "affiliate": "barbours",
+    "type": "Guia de Fragrâncias",
+    "title": "Body splash masculino da Barbour's: notas e referência de cada fragrância Homme",
+    "seoTitle": "Body splash masculino Barbour's: a linha Homme",
+    "description": "Os seis body splashes masculinos da Barbour's Beauty, com as notas de cada um, a referência olfativa que a loja publica, o kit de três frascos e o frete grátis por região.",
+    "metaDescription": "Com o CECILIALINHARES, 10% OFF na Barbour's Beauty. Veja notas, tamanho e a referência que a loja indica em cada body splash masculino Homme.",
+    "image": "/images/reviews/barbours/barbours-body-splash-masculino-capa.webp",
+    "imageAlt": "Frasco de body splash Barbour’s Midnight Homme, cinza escuro, sobre fundo branco.",
+    "cta": {
+      "text": "Abra o site pelo botão, monte o carrinho e clique em Finalizar a compra. No checkout, abra Inserir cupom de desconto, digite CECILIALINHARES no campo Cupom (opcional) e clique em Adicionar. Confira a linha Descontos antes de pagar.",
+      "label": "Ir para a Barbour's",
+      "url": "https://barbours.gogroup.com.br/emcasacomcecilia",
+      "sponsored": true
+    },
+    "editorialNote": "Não recebemos nem usamos os produtos. Podemos receber comissão pelo cupom e pelo link.",
+    "relatedArticles": [
+      {
+        "slug": "barbours-body-splash-inspiracoes"
+      },
+      {
+        "slug": "barbours-e-boa"
+      },
+      {
+        "slug": "cupom-barbours-como-usar"
+      },
+      {
+        "slug": "barbours-e-confiavel"
+      }
+    ],
+    "decision": {
+      "takeIf": [
+        "quer escolher o body splash masculino pelas notas de cabeça, corpo e fundo que a loja publica, e não só pelo nome.",
+        "vai levar três frascos e quer ver quanto cada um sai no kit contra o avulso."
+      ],
+      "skipIf": [
+        "espera cheiro idêntico ao do perfume citado: a loja avisa que a referência não promete isso.",
+        "precisa de duração em horas: a loja não informa."
+      ]
+    },
+    "contentSections": [
+      {
+        "heading": "Resposta rápida",
+        "paragraphs": [
+          "A linha Homme da Barbour's Beauty tem seis body splashes de 200 ml, e a loja publica a referência olfativa e as notas de cada um. Todos abrem com cítricos; o que muda está no corpo e no fundo. O CECILIALINHARES dá 10% OFF no frasco avulso, e o kit de três sai mais barato por frasco."
+        ]
+      },
+      {
+        "heading": "A linha Homme da Barbour's em números",
+        "paragraphs": [
+          "A coleção Homme da loja reúne 18 itens: seis body splashes avulsos de 200 ml e 12 kits de frascos de 200 ml, alguns misturando fragrâncias femininas. No catálogo que consultamos, não há mini, roll-on nem perfume para cabelo masculino.",
+          "A loja vende o produto como desodorante colônia, e os seis frascos avulsos aparecem como disponíveis pelo mesmo preço. Se a dúvida é se a Barbour's vale a pena, o guia [Barbour's Beauty é boa?](/reviews/barbours-e-boa) reúne avaliações e reputação. Este aqui fica na linha masculina."
+        ]
+      },
+      {
+        "heading": "A referência que a loja indica em cada um",
+        "paragraphs": [
+          "Cada página traz o campo “Cheiro inspirado por”. A tabela reproduz o que a loja publica e a família olfativa que o rótulo traseiro informa, quando há."
+        ],
+        "comparisonTable": {
+          "caption": "Referência indicada pela loja na página de cada body splash de 200 ml. A família vem do rótulo traseiro; onde não consta, a ficha não informa.",
+          "headers": [
+            "Body splash",
+            "Referência que a loja indica",
+            "Família na ficha"
+          ],
+          "rows": [
+            [
+              "[Bold Homme](https://www.thebarboursbeauty.com.br/products/body-splash-bold-homme-desodorante-colonia-200ml)",
+              "Sauvage - Dior",
+              "Não informa"
+            ],
+            [
+              "[Seduction Homme](https://www.thebarboursbeauty.com.br/products/body-splash-seduction-homme-desodorante-colonia-200ml)",
+              "Bleu - Chanel",
+              "Não informa"
+            ],
+            [
+              "[Ocean Homme](https://www.thebarboursbeauty.com.br/products/body-splash-ocean-homme-desodorante-colonia-200ml)",
+              "Acqua di Giò Elixir - Giorgio Armani",
+              "Não informa"
+            ],
+            [
+              "[Midnight Homme](https://www.thebarboursbeauty.com.br/products/body-splash-midnight-homme-desodorante-colonia-200ml)",
+              "212 Vip Black - Carolina Herrera",
+              "Aromática fougère"
+            ],
+            [
+              "[Signature Homme](https://www.thebarboursbeauty.com.br/products/body-splash-signature-homme-desodorante-colonia-200ml)",
+              "Imagination - Louis Vuitton",
+              "Cítrica aromática"
+            ],
+            [
+              "[Urban Homme](https://www.thebarboursbeauty.com.br/products/body-splash-urban-homme-desodorante-colonia-200ml)",
+              "MYSLF - Yves Saint Laurent",
+              "Aromática fougère"
+            ]
+          ]
+        },
+        "postParagraphs": [
+          "A página do Ocean Homme escreve “Giogio Armani”; o nome correto da casa é Giorgio Armani. A grafia “212 Vip Black” é a da loja."
+        ],
+        "images": [
+          {
+            "src": "/images/reviews/barbours/barbours-body-splash-inspiracoes-bold-homme.webp",
+            "alt": "Frasco do body splash Bold Homme, de 200 ml, da Barbour’s Beauty, em foto oficial sobre fundo branco.",
+            "caption": "Body Splash Bold Homme, 200 ml. Foto: Barbour's Beauty.",
+            "objectFit": "contain",
+            "aspectRatio": 1,
+            "href": "https://www.thebarboursbeauty.com.br/products/body-splash-bold-homme-desodorante-colonia-200ml"
+          }
+        ]
+      },
+      {
+        "heading": "Notas de cabeça, corpo e fundo",
+        "paragraphs": [
+          "A aba de texto “Notas da Fragrância” está sem conteúdo no site. As notas saem de imagens da própria loja: a segunda imagem da ficha, no Bold, no Seduction e no Ocean, e o rótulo traseiro, no Midnight, no Signature e no Urban."
+        ],
+        "comparisonTable": {
+          "caption": "Notas como a loja publica.",
+          "headers": [
+            "Body splash",
+            "Cabeça",
+            "Corpo",
+            "Fundo"
+          ],
+          "rows": [
+            [
+              "Bold Homme",
+              "Maçã, toranja e bergamota",
+              "Elemi, cedro, vetiver, lavanda e pimenta-rosa",
+              "Musk, patchouli, labdanum e musgo de carvalho"
+            ],
+            [
+              "Seduction Homme",
+              "Toranja, gengibre e noz-moscada",
+              "Menta, vetiver, jasmim e pimenta-rosa",
+              "Cedro, sândalo e lábdano"
+            ],
+            [
+              "Ocean Homme",
+              "Bergamota, mandarina e noz-moscada",
+              "Folhas de violeta e notas aquáticas",
+              "Couro, patchouli, vetiver e ládano"
+            ],
+            [
+              "Midnight Homme",
+              "Maçã, anis, pomelo e bergamota",
+              "Lavanda, salicilato e pinho agulhas",
+              "Musk, vetiver, baunilha e fava tonka"
+            ],
+            [
+              "Signature Homme",
+              "Bergamota, pomelo e mandarina",
+              "Flor de laranjeira, gengibre, cardamomo e noz-moscada",
+              "Chá preto, âmbar, guaiaco, olíbano e musk"
+            ],
+            [
+              "Urban Homme",
+              "Bergamota e maçã",
+              "Lavanda, flor de laranjeira e gerânio",
+              "Fava tonka, âmbar, patchouli, musk e baunilha"
+            ]
+          ]
+        }
+      },
+      {
+        "heading": "Como escolher pelas notas",
+        "paragraphs": [
+          "Regra prática, sem teste nosso: a leitura abaixo olha só os nomes das notas que a loja publica. Não é ranking nem diz como cada frasco cheira na pele."
+        ],
+        "bullets": [
+          "Todos os seis abrem com algum cítrico (bergamota, toranja, pomelo ou mandarina), então o que separa um do outro está no corpo e no fundo.",
+          "O Ocean é o único que lista notas aquáticas, no coração, e é também o único com couro no fundo.",
+          "Midnight e Urban são os dois que a loja classifica como aromática fougère, ambos com lavanda no corpo e baunilha e fava tonka no fundo.",
+          "Bold e Seduction têm pimenta-rosa no coração. O Bold fecha com patchouli e musgo de carvalho, e o Seduction, com cedro e sândalo.",
+          "O Signature é o único com cardamomo no corpo e chá preto e olíbano no fundo, e a loja o chama de cítrica aromática."
+        ]
+      },
+      {
+        "heading": "Frasco avulso ou kit: qual sai por menos",
+        "paragraphs": [
+          "O Kit Clássicos Masculinos reúne Bold, Seduction e Ocean Homme, três frascos de 200 ml. Em cada frasco avulso, a loja também mostra o bloco “Leve mais e pague menos”, com preço menor por frasco em 2, 3 ou 6 unidades."
+        ],
+        "comparisonTable": {
+          "caption": "Preço de venda no site da loja em 23 de novembro de 2026, frascos de 200 ml, antes do código e do frete.",
+          "headers": [
+            "Opção",
+            "Preço",
+            "Por frasco"
+          ],
+          "rows": [
+            [
+              "1 frasco avulso",
+              "R$ 39,90",
+              "R$ 39,90"
+            ],
+            [
+              "2 frascos",
+              "R$ 69,90",
+              "R$ 34,95"
+            ],
+            [
+              "3 frascos",
+              "R$ 99,90",
+              "R$ 33,30"
+            ],
+            [
+              "[Kit Clássicos Masculinos](https://www.thebarboursbeauty.com.br/products/kit-classicos-masculinos-bold-homme-seduction-homme-e-ocean-homme) (Bold, Seduction e Ocean)",
+              "R$ 99,90",
+              "R$ 33,30"
+            ],
+            [
+              "6 frascos",
+              "R$ 209,90",
+              "R$ 34,98"
+            ]
+          ]
+        },
+        "postParagraphs": [
+          "O kit de três custa R$ 19,80 menos que os mesmos três frascos avulsos (R$ 119,70). Entre os pacotes, o de três é o que dá o menor preço por frasco: o de seis fica em R$ 34,98."
+        ],
+        "emphasis": "Para quem quer três frascos, o kit de três sai melhor: R$ 33,30 por frasco contra R$ 39,90 no avulso; para um frasco só, o avulso."
+      },
+      {
+        "heading": "Código e frete",
+        "paragraphs": [
+          "O [cupom Barbour's](/cupons/barbours) CECILIALINHARES dá 10% OFF no site oficial, para cliente novo e antigo. No nosso teste com um Bold Homme avulso, o checkout aberto por Finalizar a compra mostrou Descontos de R$ 3,99 e total de R$ 35,91, em vez de R$ 39,90. O passo a passo está em [como usar o cupom CECILIALINHARES](/reviews/cupom-barbours-como-usar).",
+          "Nos kits, o código também entrou sobre o preço promocional em outro teste nosso: um kit de três a R$ 109,90 saiu por R$ 98,91. Com o kit a R$ 99,90, a conta de 10% daria R$ 89,91, mas esse valor é conta nossa. Confira a linha Descontos antes de pagar.",
+          "O frete grátis muda por região, e a barra do carrinho conta o valor antes do cupom. Um frasco avulso e o kit de três ficam abaixo do mínimo de qualquer região. O kit de seis, de R$ 209,90, passa do mínimo de todas, menos o Norte, e continua acima do mínimo do Nordeste (R$ 199) mesmo com o código, porque a barra conta o valor de R$ 209,90, antes do desconto."
+        ],
+        "comparisonTable": {
+          "caption": "Mínimo para frete grátis na Barbour's, segundo a central de ajuda da loja.",
+          "headers": [
+            "Região",
+            "Frete grátis acima de"
+          ],
+          "rows": [
+            [
+              "São Paulo",
+              "R$ 119"
+            ],
+            [
+              "Espírito Santo, Rio de Janeiro e Minas Gerais",
+              "R$ 149"
+            ],
+            [
+              "Sul e Centro-Oeste",
+              "R$ 169"
+            ],
+            [
+              "Nordeste",
+              "R$ 199"
+            ],
+            [
+              "Norte",
+              "R$ 259"
+            ]
+          ]
+        }
+      },
+      {
+        "heading": "O que a referência não promete",
+        "paragraphs": [
+          "Na nota de esclarecimento sobre referências olfativas, a loja informa que usa os nomes só como referência, que não tem vínculo com as marcas citadas e que a menção “não constitui promessa de resultados idênticos ou similares”. Cada composição, segundo ela, é criação própria. Por isso este guia não compara cheiro nem fixação.",
+          "A lista das referências da loja inteira, e não só da linha masculina, está no [guia das inspirações de cada body splash](/reviews/barbours-body-splash-inspiracoes)."
+        ]
+      },
+      {
+        "heading": "Como usar e as precauções do rótulo",
+        "paragraphs": [
+          "O rótulo traseiro publicado na página traz este modo de uso:"
+        ],
+        "bullets": [
+          "Aplique o body splash generosamente sobre a pele limpa e seca.",
+          "Concentre nos pontos de pulsação, como pescoço, pulsos e atrás das orelhas.",
+          "Reaplique ao longo do dia, conforme necessário."
+        ],
+        "postParagraphs": [
+          "Precauções do rótulo: não ingerir; manter fora do alcance de crianças; em caso de irritação da pele, suspender o uso e procurar orientação médica; em contato com os olhos, enxaguar abundantemente; não usar perto de fonte de calor nem em pele irritada; uso externo; inflamável."
+        ]
+      },
+      {
+        "heading": "Perguntas frequentes",
+        "bullets": [
+          "Qual é o cupom da Barbour's Beauty? O CECILIALINHARES dá 10% OFF no site oficial, para cliente novo e antigo. A conta no frasco avulso está no capítulo Código e frete.",
+          "Tem body splash masculino na Barbour's? Tem. A linha Homme tem seis body splashes de 200 ml: Bold, Seduction, Ocean, Midnight, Signature e Urban. As referências e as notas de cada um estão nas tabelas acima.",
+          "O Bold Homme é inspirado em qual perfume? A página indica o Sauvage, da Dior, como referência olfativa, e a loja avisa que isso não promete resultado idêntico.",
+          "O Ocean Homme é inspirado em qual perfume? A página indica o Acqua di Giò Elixir, da Giorgio Armani (que ela grafa “Giogio Armani”), como referência olfativa, com o mesmo aviso da loja.",
+          "Barbour's masculino é bom? Cheiro e duração dependem do uso, e este guia não os avalia. O que a página, as avaliações e o Reclame Aqui mostram está em [Barbour's Beauty é boa?](/reviews/barbours-e-boa)."
+        ]
+      }
+    ]
+  },
+  {
+    "id": 1315,
+    "slug": "barbours-ou-wepink",
+    "locale": "pt",
+    "category": "guias-praticos-utilidade",
+    "reviewKind": "guia",
+    "author": {
+      "name": "Cecília Mauad",
+      "slug": "cecilia-mauad",
+      "role": "Em Casa com Cecília",
+      "initials": "CM",
+      "url": "/sobre"
+    },
+    "publishedAt": "23 de novembro de 2026",
+    "publishedAtISO": "2026-11-23",
+    "updatedAt": "2026-11-23",
+    "draft": false,
+    "isNew": true,
+    "imageFit": "contain",
+    "imageAspect": "landscape",
+    "pros": [],
+    "cons": [],
+    "coupon": "CECILIALINHARES",
+    "affiliate": "barbours",
+    "type": "Comparativo",
+    "title": "Barbour's ou Wepink: body splash de 200 ml, preço por ml e o que cada ficha informa",
+    "seoTitle": "Barbour's ou Wepink: body splash, preço por ml",
+    "description": "Body splash de 200 ml da Barbour's Beauty e da Wepink lado a lado: preço por 100 ml com e sem código, o que cada ficha informa, o frete e a nota no Reclame Aqui.",
+    "metaDescription": "O CECILIALINHARES dá 10% OFF na Barbour's Beauty. Compare o body splash de 200 ml dela e o da Wepink pelo preço por ml e pelo que cada ficha informa.",
+    "image": "/images/reviews/barbours/barbours-ou-wepink-capa.webp",
+    "imageAlt": "Body splash Barbour’s Cherry Pop de 200 ml, rosa e vermelho, sobre fundo branco.",
+    "cta": {
+      "text": "Abra o site pelo botão, monte o carrinho e clique em Finalizar a compra. No checkout, abra Inserir cupom de desconto, digite CECILIALINHARES no campo Cupom (opcional) e clique em Adicionar. Confira a linha Descontos antes de pagar.",
+      "label": "Ir para a Barbour's",
+      "url": "https://barbours.gogroup.com.br/emcasacomcecilia",
+      "sponsored": true
+    },
+    "editorialNote": "Comissão pelo cupom da Barbour's; a Wepink não é parceira. Não usamos os produtos.",
+    "relatedArticles": [
+      {
+        "slug": "barbours-e-boa"
+      },
+      {
+        "slug": "barbours-body-splash-inspiracoes"
+      },
+      {
+        "slug": "barbours-body-splash-masculino"
+      },
+      {
+        "slug": "barbours-reclame-aqui-nota-reputacao"
+      }
+    ],
+    "decision": {
+      "takeIf": [
+        "Wepink: compra pelo preço por ml e quer escolher entre muitas fragrâncias de 200 ml.",
+        "Barbour's: quer a referência olfativa e as notas na ficha, com o CECILIALINHARES."
+      ],
+      "skipIf": [
+        "espera cheiro idêntico ao do perfume citado: a Barbour's avisa que a referência não promete isso, e a Wepink nem cita referência.",
+        "decide só pelo preço de um frasco: sem a base do frete grátis da Wepink confirmada, o total entregue pode mudar a conta."
+      ]
+    },
+    "contentSections": [
+      {
+        "heading": "Resposta rápida",
+        "paragraphs": [
+          "Pelo preço por ml, a Wepink sai na frente: o frasco avulso de 200 ml custa menos que o da Barbour's, mesmo com o CECILIALINHARES, que dá 10% OFF. A Barbour's publica a referência e as notas na ficha, e a Wepink não cita referência nas fichas conferidas. As duas têm RA1000. A conta está no capítulo de preço."
+        ]
+      },
+      {
+        "heading": "Qual sai por menos por ml",
+        "paragraphs": [
+          "Os dois vendem body splash de 200 ml, então a comparação é direta: o preço do frasco dividido por 200 ml, com o código da Barbour's aplicado primeiro. A Wepink não tem código nosso. Entram só frascos avulsos, sem kit, frete nem outra promoção."
+        ],
+        "comparisonTable": {
+          "caption": "Preço de venda nos sites oficiais em 23 de novembro de 2026, frasco avulso de 200 ml, sem o valor riscado e antes do frete. O CECILIALINHARES foi testado no frasco avulso da Barbour's.",
+          "headers": [
+            "Frasco de 200 ml",
+            "Preço",
+            "Preço final",
+            "Por 100 ml"
+          ],
+          "rows": [
+            [
+              "Barbour's, faixa de R$ 39,90 (como o [Bold Homme](https://www.thebarboursbeauty.com.br/products/body-splash-bold-homme-desodorante-colonia-200ml))",
+              "R$ 39,90",
+              "R$ 35,91 com o CECILIALINHARES",
+              "R$ 17,96"
+            ],
+            [
+              "Wepink, faixa de R$ 31,90",
+              "R$ 31,90",
+              "R$ 31,90, sem código nosso",
+              "R$ 15,95"
+            ],
+            [
+              "Wepink, faixa de R$ 33,90",
+              "R$ 33,90",
+              "R$ 33,90, sem código nosso",
+              "R$ 16,95"
+            ]
+          ]
+        },
+        "postParagraphs": [
+          "Mesmo com o código, o frasco da Barbour's sai R$ 4,01 acima do de R$ 31,90 da Wepink e R$ 2,01 acima do de R$ 33,90. Na busca pública da Wepink, a maior parte dos body splashes avulsos de 200 ml está a R$ 31,90, e alguns a R$ 33,90. As duas lojas estão em campanha de novembro, então os preços podem mudar: confira antes de comprar.",
+          "No kit de três da Barbour's (R$ 99,90, ou R$ 33,30 o frasco), a conta de 10% daria R$ 29,97 por frasco e R$ 14,99 por 100 ml, abaixo dos R$ 15,95 da Wepink. É conta nossa, não testada nesse preço. Os kits da Wepink não foram comparados."
+        ]
+      },
+      {
+        "heading": "O que cada ficha informa",
+        "paragraphs": [
+          "Nenhuma das duas fichas mede cheiro nem duração na pele. O que cada loja publica são notas e descrições, e os campos são diferentes."
+        ],
+        "comparisonTable": {
+          "caption": "Campos das fichas de body splash de 200 ml. Wepink: cinco fichas conferidas (Obsessed, Haylas Vanille, Infinity Purple, Heaven V e Bomb One).",
+          "headers": [
+            "Campo",
+            "Barbour's",
+            "Wepink"
+          ],
+          "rows": [
+            [
+              "Perfume de referência",
+              "Campo “Cheiro inspirado por” na página da maioria dos body splashes",
+              "Não aparece nas cinco fichas conferidas"
+            ],
+            [
+              "Aviso sobre a referência",
+              "Nota de esclarecimento: sem vínculo com as marcas citadas e sem promessa de resultado idêntico",
+              "Não se aplica, porque não há referência"
+            ],
+            [
+              "Notas",
+              "Aba “Notas da Fragrância” ou descrição; na linha Homme, a aba vem vazia e as notas estão na imagem",
+              "Saída, corpo e fundo na descrição"
+            ],
+            [
+              "Família olfativa e gênero",
+              "Família só em parte das fichas; a linha masculina tem coleção própria, a Homme",
+              "Campos próprios, como “Chypre Floral Amadeirado” e “Oriental Baunilha”, e gênero"
+            ]
+          ]
+        },
+        "images": [
+          {
+            "src": "/images/reviews/barbours/barbours-body-splash-inspiracoes-soft-breeze.webp",
+            "alt": "Frasco do body splash Soft Breeze, de 200 ml, da Barbour's Beauty, em foto oficial sobre fundo branco.",
+            "caption": "Body Splash Soft Breeze, 200 ml. Foto: Barbour's Beauty.",
+            "objectFit": "contain",
+            "aspectRatio": 1,
+            "href": "https://www.thebarboursbeauty.com.br/products/body-splash-soft-breeze-desodorante-colonia-200ml-694828df72f1c"
+          }
+        ]
+      },
+      {
+        "heading": "Variedade de fragrâncias e a linha masculina",
+        "paragraphs": [
+          "Na busca pública da Wepink, a maior parte dos body splashes avulsos de 200 ml é feminina pelo campo de gênero da ficha, e há também masculinos e unissex. A Wepink também vende kits com perfume e colônia de 100 ml, que ficam fora desta comparação.",
+          "Da Barbour's, o [guia das inspirações](/reviews/barbours-body-splash-inspiracoes) lista 38 body splashes de 200 ml, com os esgotados, e o [guia do body splash masculino](/reviews/barbours-body-splash-masculino) detalha os seis da linha Homme. A lista do guia não é o catálogo completo da loja."
+        ]
+      },
+      {
+        "heading": "Frete e entrega",
+        "paragraphs": [
+          "A Barbour's publica o frete grátis por região na central de ajuda, e a barra do carrinho conta o valor antes do cupom. Um frasco avulso, de R$ 39,90 ou de R$ 35,91 com o código, fica abaixo do mínimo de todas as regiões."
+        ],
+        "comparisonTable": {
+          "caption": "Mínimo para frete grátis na Barbour's.",
+          "headers": [
+            "Região",
+            "Frete grátis acima de"
+          ],
+          "rows": [
+            [
+              "São Paulo",
+              "R$ 119"
+            ],
+            [
+              "Espírito Santo, Rio de Janeiro e Minas Gerais",
+              "R$ 149"
+            ],
+            [
+              "Sul e Centro-Oeste",
+              "R$ 169"
+            ],
+            [
+              "Nordeste",
+              "R$ 199"
+            ],
+            [
+              "Norte",
+              "R$ 259"
+            ]
+          ]
+        },
+        "postParagraphs": [
+          "A Wepink não publica no rodapé uma regra de frete grátis fixa. Nos termos de uso e na central de ajuda, prazo e valor dependem do CEP e aparecem no checkout. A base do frete da Wepink não foi confirmada, e por isso ela não entra nesta comparação."
+        ]
+      },
+      {
+        "heading": "A reputação das duas no Reclame Aqui",
+        "paragraphs": [
+          "Na aba de seis meses, de maio a outubro, as duas têm reputação RA1000. A nota mede como a empresa atende quem reclama na plataforma, não o cheiro nem a qualidade do produto. Solução e “voltariam a fazer negócio” valem só para as reclamações avaliadas."
+        ],
+        "comparisonTable": {
+          "caption": "Aba de seis meses (maio a outubro) no Reclame Aqui. Perfil da Barbour's consultado em 21 de novembro de 2026 e o da Wepink em 23 de novembro de 2026.",
+          "headers": [
+            "Indicador",
+            "Barbour's",
+            "Wepink"
+          ],
+          "rows": [
+            [
+              "Reputação",
+              "RA1000",
+              "RA1000"
+            ],
+            [
+              "Nota",
+              "9,1 de 10",
+              "8,5 de 10"
+            ],
+            [
+              "Reclamações recebidas",
+              "1.176",
+              "84.570"
+            ],
+            [
+              "Respondidas",
+              "100%",
+              "97,3%"
+            ],
+            [
+              "Aguardando resposta",
+              "0",
+              "2.275"
+            ],
+            [
+              "Avaliadas",
+              "825",
+              "24.869"
+            ],
+            [
+              "Índice de solução, nas avaliadas",
+              "97,9%",
+              "90,8%"
+            ],
+            [
+              "Voltariam a fazer negócio, nas avaliadas",
+              "80,8%",
+              "82,6%"
+            ],
+            [
+              "Nota média do consumidor",
+              "8,55",
+              "7,12"
+            ],
+            [
+              "Tempo médio de resposta",
+              "3 dias e 19 horas",
+              "10 dias e 7 horas"
+            ]
+          ]
+        },
+        "postParagraphs": [
+          "Na aba de seis meses, a Barbour's aparece com nota maior, índice de solução maior entre as avaliadas e resposta mais rápida. A fatia dos que voltariam a comprar é parecida, um pouco maior na Wepink. Na aba de 12 meses, a nota da Wepink é 8,6.",
+          "Os números de reclamações são absolutos: sem o total de pedidos de cada loja, não dá para transformá-los em taxa nem dizer qual tem proporção menor. Os dados do semestre mudam a cada virada de mês. Os detalhes da Barbour's estão no [artigo sobre a reputação da loja](/reviews/barbours-reclame-aqui-nota-reputacao)."
+        ]
+      },
+      {
+        "heading": "Onde cada uma ganha",
+        "paragraphs": [
+          "A Wepink ganha para quem compra pelo preço por ml e quer escolher entre muitas fragrâncias, a R$ 31,90 ou R$ 33,90, contra R$ 35,91 na Barbour's já com o código.",
+          "A Barbour's ganha para quem quer a referência olfativa e as notas na ficha, usa o [cupom Barbour's](/cupons/barbours) CECILIALINHARES e dá peso à nota maior no Reclame Aqui. Ela avisa que a referência não promete cheiro idêntico ao do perfume citado.",
+          "No kit de três da Barbour's, a conta de 10% (nossa, não testada nesse preço) daria R$ 14,99 por 100 ml, abaixo dos R$ 15,95 da Wepink no frasco avulso. Os kits da Wepink não foram comparados.",
+          "Quem precisa de frete grátis deve conferir o mínimo da região: um frasco avulso não chega a ele em nenhuma."
+        ],
+        "emphasis": "Para quem compra frasco avulso pelo preço por ml, a Wepink sai na frente: R$ 31,90 o frasco de 200 ml contra R$ 35,91 na Barbour's já com o código; para quem quer a referência e as notas na ficha, a Barbour's."
+      },
+      {
+        "heading": "Perguntas frequentes",
+        "bullets": [
+          "Qual é o cupom da Barbour's Beauty? O CECILIALINHARES dá 10% OFF no site oficial, para cliente novo e antigo. A conta está no capítulo de preço. Para a Wepink não temos cupom.",
+          "Barbour's ou Wepink: qual é melhor? Depende do critério. Pelo preço por ml, a Wepink; pela referência olfativa e pelas notas na ficha, a Barbour's. O resumo está em Onde cada uma ganha.",
+          "Qual body splash é mais barato por ml? Pelos preços da tabela, a Wepink: R$ 15,95 por 100 ml no frasco de R$ 31,90, contra R$ 17,96 na Barbour's já com o código.",
+          "A Wepink tem body splash masculino? Tem. Na busca pública da loja, há body splashes masculinos e unissex pelo campo de gênero da ficha.",
+          "Qual dos dois informa o perfume de referência? A Barbour's, no campo “Cheiro inspirado por” da página de cada body splash. Nas cinco fichas da Wepink que conferimos, não há perfume de referência."
+        ]
+      }
+    ],
+    "bodyDatesReason": "reclame-aqui"
+  },
+  {
+    "id": 1316,
+    "slug": "tabela-medidas-baw",
+    "locale": "pt",
+    "category": "guias-praticos-utilidade",
+    "reviewKind": "guia",
+    "author": {
+      "name": "Cecília Mauad",
+      "slug": "cecilia-mauad",
+      "role": "Em Casa com Cecília",
+      "initials": "CM",
+      "url": "/sobre"
+    },
+    "publishedAt": "23 de novembro de 2026",
+    "publishedAtISO": "2026-11-23",
+    "updatedAt": "2026-11-23",
+    "draft": false,
+    "isNew": true,
+    "imageFit": "contain",
+    "imageAspect": "landscape",
+    "pros": [],
+    "cons": [],
+    "coupon": "BAWEMCASACOMCECILIA",
+    "affiliate": "baw",
+    "title": "Tabela de medidas BAW: regular ou oversized, como escolher o tamanho",
+    "seoTitle": "Tabela de medidas BAW: regular ou oversized",
+    "type": "Guia de Tamanho",
+    "description": "As medidas que a BAW publica em cada peça, de camisetas regular e oversized a moletom, calça e bermuda, e o que fazer quando a ficha está vazia ou a troca vira crédito.",
+    "metaDescription": "Com o BAWEMCASACOMCECILIA, 10% OFF na BAW. Medidas de camisetas regular e oversized, moletom, calça e bermuda em centímetros, e a troca por crédito.",
+    "image": "/images/reviews/baw/tabela-medidas-baw-capa.webp",
+    "imageAlt": "Duas fotos de modelos com peças da BAW lado a lado: à esquerda, camiseta oversized cinza; à direita, camiseta de manga longa branca.",
+    "cta": {
+      "text": "Se a BAW Clothing faz sentido para você, abra o site oficial pelo botão, confira a medida na descrição da peça e digite BAWEMCASACOMCECILIA no campo “Cupom de desconto”, no carrinho.",
+      "label": "Ir para a BAW Clothing",
+      "url": "https://www.bawclothing.com.br/",
+      "sponsored": true
+    },
+    "editorialNote": "Feito com as fichas da loja, sem uso das peças. Podemos receber comissão pelo cupom.",
+    "relatedArticles": [
+      {
+        "slug": "baw-clothing-e-boa"
+      },
+      {
+        "slug": "baw-clothing-e-confiavel"
+      },
+      {
+        "slug": "cupom-baw-como-usar"
+      },
+      {
+        "slug": "tenis-baw-e-bom"
+      }
+    ],
+    "decision": {
+      "takeIf": [
+        "você escolhe o tamanho pela medida da peça e tem uma camiseta sua para comparar.",
+        "a peça que você quer tem a descrição preenchida na página."
+      ],
+      "skipIf": [
+        "a peça que você quer está sem descrição e você não tem como conferir a medida.",
+        "você conta com trocar direto por outro tamanho: na BAW, a troca vira crédito e o dinheiro só volta na devolução."
+      ]
+    },
+    "contentSections": [
+      {
+        "heading": "Resposta rápida",
+        "paragraphs": [
+          "A BAW não tem uma tabela de tamanhos única: as medidas ficam na descrição de cada peça, com variação de até 3%. A troca vira crédito, e a devolução devolve o dinheiro em até 7 dias corridos, mas a política não cita tamanho como motivo: confirme com o atendimento. O BAWEMCASACOMCECILIA dá 10% OFF no site e no aplicativo."
+        ]
+      },
+      {
+        "heading": "Onde estão as medidas da BAW",
+        "paragraphs": [
+          "O site da BAW não tem um guia de tamanhos único. Cada peça traz as medidas na aba “Descrição” da própria página, e a grade muda de uma peça para outra: PP a GGG nas camisetas, moletons e na calça lidas, 34 a 52 na bermuda jeans. Todas as medidas deste guia vêm dessas fichas, lidas em 23 de novembro de 2026.",
+          "As fichas avisam que as medidas são aproximadas, com variação de até 3%. Nas fichas que lemos havia tamanhos esgotados, então confira na página o tamanho que está à venda."
+        ]
+      },
+      {
+        "heading": "Camisetas regular e oversized: comprimento e tórax por tamanho",
+        "paragraphs": [
+          "Cinco camisetas da loja têm tabela na descrição. A tabela mostra comprimento e tórax, em centímetros, lado a lado:"
+        ],
+        "comparisonTable": {
+          "caption": "Comprimento / tórax, em cm, das fichas da loja. Traço: tamanho sem medida na ficha. A ficha da BR Regular New Luxury usa 3G onde as outras usam GGG.",
+          "headers": [
+            "Tamanho",
+            "Regular Selfie Logo",
+            "Oversized BAW Subscript",
+            "Oversized BAW Fresh",
+            "BR Regular Logo",
+            "BR Regular New Luxury"
+          ],
+          "rows": [
+            [
+              "PP",
+              "66 / 48",
+              "68 / 55",
+              "70 / 61",
+              "—",
+              "72 / 52"
+            ],
+            [
+              "P",
+              "68 / 51",
+              "70 / 58",
+              "72 / 64",
+              "74 / 55",
+              "74 / 55"
+            ],
+            [
+              "M",
+              "70 / 54",
+              "72 / 61",
+              "74 / 67",
+              "76 / 58",
+              "76 / 58"
+            ],
+            [
+              "G",
+              "72 / 57",
+              "74 / 64",
+              "76 / 70",
+              "78 / 61",
+              "78 / 61"
+            ],
+            [
+              "GG",
+              "74 / 60",
+              "76 / 67",
+              "78 / 73",
+              "80 / 64",
+              "80 / 64"
+            ],
+            [
+              "GGG",
+              "76 / 63",
+              "78 / 70",
+              "80 / 76",
+              "—",
+              "82 / 67"
+            ]
+          ]
+        },
+        "postParagraphs": [
+          "Regular não é uma medida só. No M, a [Regular Selfie Logo](https://www.bawclothing.com.br/produto/camiseta-regular-selfie-logo-153490) tem 70 cm de comprimento e 54 cm de tórax, e a [BR Regular Logo](https://www.bawclothing.com.br/produto/camiseta-br-regular-logo-153962), 76 cm e 58 cm. Entre as oversized, a [BAW Subscript](https://www.bawclothing.com.br/produto/camiseta-oversized-baw-subscript-151896) tem 61 cm de tórax no M, e a [BAW Fresh](https://www.bawclothing.com.br/produto/camiseta-oversized-baw-fresh-150906), 67 cm.",
+          "A ficha da BR Regular Logo avisa que a grade vai de PP a 3G, mas a tabela só traz de P a GG. A [BR Regular New Luxury](https://www.bawclothing.com.br/produto/camiseta-br-regular-new-luxury-154091) tem as mesmas medidas da BR Regular Logo nos tamanhos que as duas têm."
+        ],
+        "images": [
+          {
+            "src": "/images/reviews/baw/black-friday-baw-camiseta-selfie-logo.webp",
+            "alt": "Modelo com a Camiseta Regular Selfie Logo off white da BAW Clothing, com o nome da marca pequeno no peito, em foto oficial da loja",
+            "caption": "Camiseta Regular Selfie Logo, na cor off white. Foto: BAW Clothing.",
+            "objectFit": "contain",
+            "aspectRatio": 0.667,
+            "href": "https://www.bawclothing.com.br/produto/camiseta-regular-selfie-logo-153490"
+          },
+          {
+            "src": "/images/reviews/baw/baw-clothing-e-boa-camiseta-oversized-subscript.webp",
+            "alt": "Modelo de corpo inteiro com a Camiseta Oversized BAW Subscript off white da BAW Clothing e bermuda cargo preta, em foto oficial da loja",
+            "caption": "Camiseta Oversized BAW Subscript, na cor off white. Foto: BAW Clothing.",
+            "objectFit": "contain",
+            "aspectRatio": 0.667,
+            "href": "https://www.bawclothing.com.br/produto/camiseta-oversized-baw-subscript-151896"
+          }
+        ]
+      },
+      {
+        "heading": "Camisetas: barra, manga e cava no tamanho M",
+        "paragraphs": [
+          "Além de comprimento e tórax, as fichas trazem barra, manga e, em algumas, cava. Aqui, no tamanho M:"
+        ],
+        "comparisonTable": {
+          "caption": "Medidas em cm, tamanho M, das fichas da loja. Traço: a ficha não traz a cava.",
+          "headers": [
+            "Camiseta",
+            "Barra",
+            "Manga",
+            "Cava"
+          ],
+          "rows": [
+            [
+              "[Regular Selfie Logo](https://www.bawclothing.com.br/produto/camiseta-regular-selfie-logo-153490)",
+              "53",
+              "20",
+              "—"
+            ],
+            [
+              "[Oversized BAW Subscript](https://www.bawclothing.com.br/produto/camiseta-oversized-baw-subscript-151896)",
+              "61",
+              "21",
+              "24"
+            ],
+            [
+              "[Oversized BAW Fresh](https://www.bawclothing.com.br/produto/camiseta-oversized-baw-fresh-150906)",
+              "67",
+              "23",
+              "—"
+            ],
+            [
+              "[BR Regular Logo](https://www.bawclothing.com.br/produto/camiseta-br-regular-logo-153962)",
+              "58",
+              "25",
+              "26"
+            ],
+            [
+              "[BR Regular New Luxury](https://www.bawclothing.com.br/produto/camiseta-br-regular-new-luxury-154091)",
+              "58",
+              "25",
+              "26"
+            ]
+          ]
+        },
+        "postParagraphs": [
+          "As fichas não explicam como a loja mediu o tórax, nem se a barra é medida de um lado só da peça. Por isso, use os números para comparar uma peça da BAW com outra; contra uma roupa sua, a conta é aproximada."
+        ]
+      },
+      {
+        "heading": "Moletons: Basic Label e Hoodie",
+        "paragraphs": [
+          "O [Moletom Basic Label](https://www.bawclothing.com.br/produto/moletom-basic-label-153706) e o [Moletom Hoodie BAW Subscript](https://www.bawclothing.com.br/produto/moletom-hoodie-baw-subscript-151918) têm a mesma tabela na ficha. A composição é que muda: o Basic Label traz 50% algodão e 50% poliéster, e o Hoodie, 100% algodão."
+        ],
+        "comparisonTable": {
+          "caption": "Medidas em cm das fichas dos dois moletons.",
+          "headers": [
+            "Tamanho",
+            "Comprimento",
+            "Tórax",
+            "Barra",
+            "Manga",
+            "Cava"
+          ],
+          "rows": [
+            [
+              "PP",
+              "70",
+              "57",
+              "48",
+              "61",
+              "29"
+            ],
+            [
+              "P",
+              "72",
+              "59",
+              "50",
+              "63",
+              "30"
+            ],
+            [
+              "M",
+              "74",
+              "61",
+              "52",
+              "65",
+              "31"
+            ],
+            [
+              "G",
+              "76",
+              "63",
+              "54",
+              "67",
+              "32"
+            ],
+            [
+              "GG",
+              "78",
+              "65",
+              "56",
+              "69",
+              "33"
+            ],
+            [
+              "GGG",
+              "80",
+              "67",
+              "58",
+              "71",
+              "34"
+            ]
+          ]
+        },
+        "images": [
+          {
+            "src": "/images/reviews/baw/black-friday-baw-moletom-basic-label.webp",
+            "alt": "Modelo com o Moletom Basic Label azul-escuro da BAW Clothing, com capuz, cordões e bolso canguru, em foto oficial da loja",
+            "caption": "Moletom Basic Label, na cor azul-escuro. Foto: BAW Clothing.",
+            "objectFit": "contain",
+            "aspectRatio": 0.667,
+            "href": "https://www.bawclothing.com.br/produto/moletom-basic-label-153706"
+          },
+          {
+            "src": "/images/reviews/baw/baw-clothing-e-boa-moletom-hoodie-subscript.webp",
+            "alt": "Modelo de corpo inteiro com o Moletom Hoodie BAW Subscript preto da BAW Clothing e shorts de moletom cinza, em foto oficial da loja",
+            "caption": "Moletom Hoodie BAW Subscript, na cor preta. Foto: BAW Clothing.",
+            "objectFit": "contain",
+            "aspectRatio": 0.667,
+            "href": "https://www.bawclothing.com.br/produto/moletom-hoodie-baw-subscript-151918"
+          }
+        ],
+        "styling": {
+          "layout": "tabs",
+          "items": [
+            {
+              "piece": "Moletom Basic Label",
+              "url": "https://www.bawclothing.com.br/produto/moletom-basic-label-153706",
+              "howTo": "Na foto da loja, o moletom azul-escuro aparece com calça jeans clara. Nossa sugestão para variar é trocar o jeans pela Calça Track e deixar o capuz e o bolso canguru em destaque.",
+              "occasion": "Dia a dia e programas sem formalidade.",
+              "pairsWith": [
+                {
+                  "label": "calça jeans clara"
+                },
+                {
+                  "label": "Calça Track BAW Tag",
+                  "url": "https://www.bawclothing.com.br/produto/calca-track-baw-tag-151973"
+                },
+                {
+                  "label": "tênis"
+                }
+              ]
+            },
+            {
+              "piece": "Moletom Hoodie BAW Subscript",
+              "url": "https://www.bawclothing.com.br/produto/moletom-hoodie-baw-subscript-151918",
+              "howTo": "Nas fotos da loja, o moletom preto aparece com shorts cinza e tênis claro. Nossa sugestão para variar é combinar com a Bermuda Jeans Regular Logo, deixando o moletom solto.",
+              "occasion": "Dia a dia e passeio.",
+              "pairsWith": [
+                {
+                  "label": "shorts cinza"
+                },
+                {
+                  "label": "Bermuda Jeans Regular Logo",
+                  "url": "https://www.bawclothing.com.br/produto/bermuda-jeans-regular-logo-153450"
+                },
+                {
+                  "label": "tênis"
+                }
+              ]
+            }
+          ]
+        }
+      },
+      {
+        "heading": "Calça e bermuda: as duas fichas trazem cintura",
+        "paragraphs": [
+          "A [Calça Track BAW Tag](https://www.bawclothing.com.br/produto/calca-track-baw-tag-151973) é de moletom flanelado, com 50% algodão e 50% poliéster. A [Bermuda Jeans Regular Logo](https://www.bawclothing.com.br/produto/bermuda-jeans-regular-logo-153450) é 100% algodão. As duas fichas trazem cintura, mas não dizem se a medida é de meia cintura ou de circunferência: copiamos como está, sem converter. Não compare a cintura de uma peça com a da outra."
+        ],
+        "comparisonTable": {
+          "caption": "Calça Track BAW Tag, medidas em cm da ficha da loja.",
+          "headers": [
+            "Tamanho",
+            "Comp. lateral",
+            "Cintura",
+            "Quadril",
+            "Gancho diant.",
+            "Gancho tras."
+          ],
+          "rows": [
+            [
+              "PP",
+              "93,5",
+              "36",
+              "51,5",
+              "30",
+              "39"
+            ],
+            [
+              "P",
+              "95,5",
+              "38",
+              "53,5",
+              "31",
+              "40"
+            ],
+            [
+              "M",
+              "97,5",
+              "40",
+              "55,5",
+              "32",
+              "41"
+            ],
+            [
+              "G",
+              "99,5",
+              "42",
+              "57,5",
+              "33",
+              "42"
+            ],
+            [
+              "GG",
+              "101,5",
+              "44",
+              "59,5",
+              "34",
+              "43"
+            ],
+            [
+              "GGG",
+              "103,5",
+              "46",
+              "61,5",
+              "35",
+              "44"
+            ]
+          ]
+        },
+        "images": [
+          {
+            "src": "/images/reviews/baw/baw-clothing-e-boa-calca-track-baw-tag.webp",
+            "alt": "Modelo de corpo inteiro com a Calça Track BAW Tag amarelo flúor da BAW Clothing, regata branca e tênis escuro, em foto oficial da loja",
+            "caption": "Calça Track BAW Tag, na cor amarelo flúor. Foto: BAW Clothing.",
+            "objectFit": "contain",
+            "aspectRatio": 0.667,
+            "href": "https://www.bawclothing.com.br/produto/calca-track-baw-tag-151973"
+          }
+        ]
+      },
+      {
+        "heading": "Bermuda Jeans Regular Logo: tabela de 34 a 50",
+        "paragraphs": [
+          "A grade da bermuda jeans vai de 34 a 52, mas a tabela da ficha traz de 34 a 50. Medidas em cm, da ficha da loja:"
+        ],
+        "comparisonTable": {
+          "caption": "Bermuda Jeans Regular Logo, medidas em cm da ficha da loja.",
+          "headers": [
+            "Tamanho",
+            "Comp. lateral",
+            "Cintura",
+            "Gancho diant.",
+            "Gancho tras.",
+            "Quadril"
+          ],
+          "rows": [
+            [
+              "34",
+              "47",
+              "68",
+              "26",
+              "38",
+              "98"
+            ],
+            [
+              "36",
+              "49",
+              "72",
+              "27",
+              "39",
+              "100"
+            ],
+            [
+              "38",
+              "51",
+              "76",
+              "28",
+              "40",
+              "106"
+            ],
+            [
+              "40",
+              "53",
+              "80",
+              "29",
+              "41",
+              "110"
+            ],
+            [
+              "42",
+              "55",
+              "84",
+              "30",
+              "42",
+              "114"
+            ],
+            [
+              "44",
+              "57",
+              "88",
+              "31",
+              "43",
+              "118"
+            ],
+            [
+              "46",
+              "59",
+              "92",
+              "32",
+              "44",
+              "122"
+            ],
+            [
+              "48",
+              "61",
+              "96",
+              "33",
+              "45",
+              "126"
+            ],
+            [
+              "50",
+              "63",
+              "100",
+              "34",
+              "46",
+              "130"
+            ]
+          ]
+        }
+      },
+      {
+        "heading": "Infantil, bonés e peças sem ficha",
+        "paragraphs": [
+          "O [Shorts Reverse Kids](https://www.bawclothing.com.br/produto/shorts-reverse-kids-151314) traz, no tamanho 04, 31 cm de comprimento e 25 cm de cintura. Os demais tamanhos estão na página.",
+          "O [Boné Running](https://www.bawclothing.com.br/produto/bone-running-153696), 100% poliamida, informa aba de 5 cm, profundidade de 15 cm e “padrão 57 cm”. Os bonés Trucker BAW Signature e Dad Hat BAW Script são de tamanho único e estavam sem descrição.",
+          "Várias outras peças estavam com a aba “Descrição” vazia na nossa leitura, sem composição e sem medidas: a [Camiseta Regular Goth 3.0](https://www.bawclothing.com.br/produto/camiseta-regular-goth-3-0-151220), camisetas infantis, os tênis e os slides. Para essas, a página não dá a medida para conferir antes de pagar. O caminho é preferir uma peça com ficha ou pedir a medida ao atendimento da BAW, e não supor a medida pelo nome da modelagem. Os calçados têm guia próprio: veja o [tênis BAW](/reviews/tenis-baw-e-bom) e a [Sandália Linus](/reviews/sandalia-linus-baw)."
+        ]
+      },
+      {
+        "heading": "Como escolher o tamanho pela medida",
+        "paragraphs": [
+          "Pegue uma camiseta sua que serve e meça o comprimento e o tórax com ela aberta sobre uma mesa. Compare com a linha do tamanho que você quer na tabela da peça, sabendo que a conta é aproximada: as fichas não dizem como a loja mediu o tórax."
+        ],
+        "emphasis": "No M, a oversized mais justa (Subscript, 61 cm de tórax) tem só 3 cm a mais que a regular mais larga (BR Regular Logo, 58 cm): escolha pela ficha da peça, não pelo nome da modelagem."
+      },
+      {
+        "heading": "Troca e devolução se o tamanho não servir",
+        "paragraphs": [
+          "Pela [política de trocas e devoluções da BAW](https://www.bawclothing.com.br/trocas-e-devolucoes), lida em 16 de novembro de 2026, “as trocas na BAW são feitas exclusivamente através de crédito em conta”, e a loja informa que não faz “trocas manuais de peça por peça, nem mesmo em casos de troca por tamanho”. A devolução é outra coisa: devolve o dinheiro, na mesma forma de pagamento. Para troca ou devolução, o prazo é de 7 dias corridos do recebimento, com a peça sem uso, com etiqueta e na embalagem original, e a primeira troca ou devolução tem frete grátis.",
+          "A política não cita tamanho como motivo de devolução. Se você quer o dinheiro de volta em vez de crédito, confirme com o atendimento antes de comprar. O capítulo de troca e devolução está no guia [BAW Clothing é confiável?](/reviews/baw-clothing-e-confiavel)."
+        ]
+      },
+      {
+        "heading": "Código de desconto e Pix",
+        "paragraphs": [
+          "O [cupom BAW](/cupons/baw) BAWEMCASACOMCECILIA dá 10% OFF no site e no aplicativo, no campo “Cupom de desconto” do carrinho. As condições estão em [como usar o cupom da BAW](/reviews/cupom-baw-como-usar). A loja informa 5% de desconto no Pix, e o valor final aparece no resumo do pedido."
+        ]
+      },
+      {
+        "heading": "Perguntas frequentes",
+        "bullets": [
+          "Qual é o cupom da BAW? O BAWEMCASACOMCECILIA dá 10% OFF no site e no aplicativo da BAW.",
+          "A BAW tem tabela de medidas? Não há uma tabela única. As medidas ficam na aba “Descrição” de cada peça, e várias fichas estão vazias.",
+          "A camiseta oversized da BAW é muito grande? Pela ficha da Oversized BAW Subscript, o M tem 72 cm de comprimento e 61 cm de tórax. Compare com uma camiseta sua antes de escolher.",
+          "Regular e oversized têm a mesma medida em todas as peças? Não. No M, o tórax das regulares que lemos vai de 54 cm a 58 cm, e o das oversized, de 61 cm a 67 cm.",
+          "A BAW troca por outro tamanho? A política diz que as trocas são feitas por crédito em conta e que a loja não faz troca de peça por peça, nem por tamanho."
+        ]
+      }
+    ]
+  },
+  {
+    "id": 1317,
+    "slug": "baw-ou-carnan",
+    "locale": "pt",
+    "category": "guias-praticos-utilidade",
+    "reviewKind": "guia",
+    "author": {
+      "name": "Cecília Mauad",
+      "slug": "cecilia-mauad",
+      "role": "Em Casa com Cecília",
+      "initials": "CM",
+      "url": "/sobre"
+    },
+    "publishedAt": "23 de novembro de 2026",
+    "publishedAtISO": "2026-11-23",
+    "updatedAt": "2026-11-23",
+    "draft": false,
+    "isNew": true,
+    "imageFit": "contain",
+    "imageAspect": "landscape",
+    "pros": [],
+    "cons": [],
+    "coupon": "BAWEMCASACOMCECILIA",
+    "affiliate": "baw",
+    "title": "BAW ou Carnan? Preço de tabela por peça, grade e o que cada marca vende",
+    "seoTitle": "BAW ou Carnan? Preço de tabela e o que cada uma vende",
+    "type": "Comparativo",
+    "description": "BAW e Carnan lado a lado pelo preço de tabela: camiseta, moletom, calça, bermuda e boné, a grade que cada uma publica, o que cada marca vende e a troca de cada loja.",
+    "metaDescription": "Com o BAWEMCASACOMCECILIA, 10% OFF na BAW. BAW ou Carnan: camiseta, moletom, calça e bermuda pelo preço de tabela, a grade de cada uma e o que vendem.",
+    "image": "/images/reviews/baw/baw-ou-carnan-capa.webp",
+    "imageAlt": "Modelo com moletom sem mangas cinza, com estampa colorida da BAW, em foto da loja.",
+    "cta": {
+      "text": "Se a faixa de preço da BAW serve para você, abra o site oficial pelo botão, escolha a peça e digite BAWEMCASACOMCECILIA no campo “Cupom de desconto”, no carrinho.",
+      "label": "Ir para a BAW Clothing",
+      "url": "https://www.bawclothing.com.br/",
+      "sponsored": true
+    },
+    "editorialNote": "Comissão pelo cupom da BAW; a Carnan não é parceira. Não usamos os produtos.",
+    "relatedArticles": [
+      {
+        "slug": "baw-ou-pace"
+      },
+      {
+        "slug": "tabela-medidas-baw"
+      },
+      {
+        "slug": "baw-clothing-e-boa"
+      },
+      {
+        "slug": "black-friday-baw"
+      }
+    ],
+    "decision": {
+      "takeIf": [
+        "você quer pagar menos por camiseta, moletom, calça e bermuda, já que a tabela da BAW é bem mais baixa nesses tipos de peça.",
+        "você quer usar o BAWEMCASACOMCECILIA, que dá 10% OFF no site da BAW."
+      ],
+      "skipIf": [
+        "você prefere o estilo que a Carnan declara, de inspirações multiculturais, e o preço de tabela dela cabe no seu orçamento.",
+        "você quer trocar direto por outro tamanho: na BAW, a troca vira crédito e o dinheiro volta só na devolução."
+      ]
+    },
+    "contentSections": [
+      {
+        "heading": "Resposta rápida",
+        "paragraphs": [
+          "BAW e Carnan são marcas brasileiras de roupa em faixas de preço bem diferentes. Pelo preço de tabela, a BAW fica abaixo da Carnan em camiseta, moletom, calça e bermuda, e o BAWEMCASACOMCECILIA dá 10% OFF no site da BAW. A BAW se diz streetwear, e a Carnan fala em inspirações multiculturais."
+        ]
+      },
+      {
+        "heading": "Quanto custa cada uma pelo preço de tabela",
+        "paragraphs": [
+          "A conta usa o preço de tabela, o valor “De” de cada site, e não o do dia. No dia da leitura, a Carnan estava em liquidação em quase todo o catálogo, e a BAW, em campanha de Black Friday, então o preço do dia muda a comparação.",
+          "Na Carnan, a Draw T-shirt tem tabela de R$ 329 e o Signature Crewneck, de R$ 689. As cinco calças lidas vão de R$ 899 a R$ 1.499. Na BAW, a [Camiseta Oversized BAW Subscript](https://www.bawclothing.com.br/produto/camiseta-oversized-baw-subscript-151896) tem tabela de R$ 159 e o [Moletom Hoodie BAW Subscript](https://www.bawclothing.com.br/produto/moletom-hoodie-baw-subscript-151918), de R$ 349."
+        ],
+        "comparisonTable": {
+          "caption": "Preço de tabela (valor “De”) nos sites oficiais, lido em 23 de novembro de 2026, antes do frete e sem o desconto de campanha de cada loja. Última coluna: o código aplicado sobre a tabela da BAW.",
+          "headers": [
+            "Tipo de peça",
+            "BAW, tabela",
+            "Carnan, tabela",
+            "10% sobre a tabela (conta nossa)"
+          ],
+          "rows": [
+            [
+              "Camiseta",
+              "De R$ 89 a R$ 159",
+              "De R$ 299 a R$ 409",
+              "De R$ 80,10 a R$ 143,10"
+            ],
+            [
+              "Moletom",
+              "De R$ 249 a R$ 349",
+              "De R$ 649 a R$ 689",
+              "De R$ 224,10 a R$ 314,10"
+            ],
+            [
+              "Calça",
+              "R$ 349, [Calça Track BAW Tag](https://www.bawclothing.com.br/produto/calca-track-baw-tag-151973)",
+              "De R$ 899 a R$ 1.499",
+              "R$ 314,10"
+            ],
+            [
+              "Bermuda",
+              "R$ 199, [Bermuda Jeans Regular Logo](https://www.bawclothing.com.br/produto/bermuda-jeans-regular-logo-153450)",
+              "De R$ 429 a R$ 709",
+              "R$ 179,10"
+            ],
+            [
+              "Boné",
+              "De R$ 159 a R$ 249",
+              "De R$ 249 a R$ 299",
+              "De R$ 143,10 a R$ 224,10"
+            ]
+          ]
+        },
+        "postParagraphs": [
+          "Na BAW, camiseta e moletom entram com as peças que lemos, e calça e bermuda, com uma peça de cada. A conta da última coluna é nossa: no site, o código incide sobre o preço que estiver na página, que pode ser menor que o de tabela, e o resumo do pedido mostra o valor final. O Pix, com 5% de desconto na BAW segundo a loja, não entra na conta.",
+          "Na tabela, a peça mais cara da BAW lida em cada tipo custa menos que a mais barata da Carnan: R$ 159 contra R$ 299 nas camisetas, R$ 349 contra R$ 649 nos moletons, R$ 349 contra R$ 899 nas calças e R$ 199 contra R$ 429 nas bermudas. Nos bonés, as faixas se tocam em R$ 249."
+        ],
+        "images": [
+          {
+            "src": "/images/reviews/baw/black-friday-baw-camiseta-goth.webp",
+            "alt": "Modelo com a Camiseta Regular Goth 3.0 preta da BAW Clothing, com o nome da marca em letras góticas brancas no peito, em foto oficial da loja",
+            "caption": "Camiseta Regular Goth 3.0, na cor preta. Foto: BAW Clothing.",
+            "objectFit": "contain",
+            "aspectRatio": 0.667,
+            "href": "https://www.bawclothing.com.br/produto/camiseta-regular-goth-3-0-151220"
+          }
+        ]
+      },
+      {
+        "heading": "Grade e medidas que cada marca publica",
+        "paragraphs": [
+          "As duas lojas publicam a medida de cada peça por tamanho. A tabela põe lado a lado o tamanho M de uma camiseta e de um moletom de cada uma, no formato comprimento / tórax em centímetros. A Carnan chama o comprimento de altura."
+        ],
+        "comparisonTable": {
+          "caption": "Grade e tamanho M, em cm (comprimento / tórax), das fichas de cada loja.",
+          "headers": [
+            "Peça",
+            "Grade da ficha",
+            "Tamanho M"
+          ],
+          "rows": [
+            [
+              "BAW, [Regular Selfie Logo](https://www.bawclothing.com.br/produto/camiseta-regular-selfie-logo-153490)",
+              "PP a GGG",
+              "70 / 54"
+            ],
+            [
+              "BAW, [Oversized BAW Subscript](https://www.bawclothing.com.br/produto/camiseta-oversized-baw-subscript-151896)",
+              "PP a GGG",
+              "72 / 61"
+            ],
+            [
+              "Carnan, Draw T-shirt",
+              "PP a GGGG",
+              "71 / 60"
+            ],
+            [
+              "BAW, [Moletom Hoodie BAW Subscript](https://www.bawclothing.com.br/produto/moletom-hoodie-baw-subscript-151918)",
+              "PP a GGG",
+              "74 / 61"
+            ],
+            [
+              "Carnan, Signature Crewneck",
+              "PP a GGGG",
+              "69 / 64"
+            ]
+          ]
+        },
+        "postParagraphs": [
+          "A Carnan informa variação de até 1,5 cm nas medidas, e a BAW, de até 3%. Os números não são comparáveis um a um: cada loja mede à sua maneira, e a BAW não explica como mediu o tórax. Use a tabela da peça que você quer, e não a de outra marca.",
+          "As calças da Carnan vão de 36 a 50. Na BAW, a grade muda por peça, e as medidas de todas as peças com ficha estão na [tabela de medidas da BAW](/reviews/tabela-medidas-baw)."
+        ]
+      },
+      {
+        "heading": "O que cada marca vende",
+        "paragraphs": [
+          "A BAW se apresenta como “uma marca de roupa streetwear brasileira”, fundada em 2014, e fala em “estilo sem gênero”. Tem camisetas, moletons, calças, bermudas, bonés, linha infantil, tênis e slides.",
+          "A Carnan descreve suas roupas como “inspirações multiculturais, pautadas em nossas viagens e experiências ao redor do mundo”. No site, a coleção tem camisetas, moletons, calças, bermudas e bonés, num catálogo pequeno. Segundo a home, há uma collab de shorts com a Asics.",
+          "Calçado fica de fora da comparação: o menu da Carnan traz a categoria “Footwear”, mas não havia calçado no catálogo que lemos, e a BAW vende tênis e slides."
+        ]
+      },
+      {
+        "heading": "Troca, envio e onde comprar",
+        "paragraphs": [
+          "Na BAW, a troca vira crédito, e a devolução devolve o dinheiro, em até 7 dias corridos, com a peça sem uso e com etiqueta. A primeira troca ou devolução tem frete grátis. Os detalhes estão em [BAW Clothing é confiável?](/reviews/baw-clothing-e-confiavel).",
+          "A Carnan informa, em sua página de trocas e devoluções, que a primeira troca ou devolução é gratuita, pelo portal Troque Fácil, com reembolso em até 7 dias úteis ou voucher. Para o envio, informa até 10 dias úteis de separação e despacho, e retirada na loja de Pinheiros, em São Paulo.",
+          "Cada marca vende no próprio site. Para a BAW, o endereço é [bawclothing.com.br](https://www.bawclothing.com.br/). A Carnan não é parceira nossa, e por isso não há link nem código dela aqui. Na BAW, o [cupom BAW](/cupons/baw) BAWEMCASACOMCECILIA dá 10% OFF e se digita no campo de cupom do carrinho. As condições estão em [como usar o cupom da BAW](/reviews/cupom-baw-como-usar)."
+        ]
+      },
+      {
+        "heading": "Qual escolher",
+        "paragraphs": [
+          "A decisão depende de orçamento e de estilo. Tecido, caimento e durabilidade ficam fora desta comparação.",
+          "Quem decide pelo preço de tabela tem a resposta na tabela do começo. Quem decide pelo estilo deve abrir a página das peças e conferir a medida da ficha."
+        ],
+        "emphasis": "Para quem decide pelo preço de camiseta, moletom, calça ou bermuda, a BAW leva a vantagem na tabela: a peça mais cara dela em cada tipo custa menos que a mais barata da Carnan."
+      },
+      {
+        "heading": "Perguntas frequentes",
+        "bullets": [
+          "Qual é o cupom da BAW? O BAWEMCASACOMCECILIA dá 10% OFF no site e no aplicativo da BAW. Para a Carnan não temos cupom.",
+          "BAW ou Carnan, qual é mais barata? Pelo preço de tabela, a BAW. As camisetas dela vão de R$ 89 a R$ 159, e as da Carnan, de R$ 299 a R$ 409.",
+          "A Carnan tem calçado? No catálogo que lemos, não. O menu traz a categoria “Footwear”. A BAW tem tênis e slides.",
+          "O que é a Carnan Global? É a versão internacional do site da Carnan. A página avisa que atende apenas clientes internacionais e manda o cliente do Brasil à loja do país.",
+          "A BAW troca por outro tamanho? Não. A troca é por crédito em conta, e a loja informa que não faz troca de peça por peça, nem por tamanho."
+        ]
+      }
+    ]
   }
 ];

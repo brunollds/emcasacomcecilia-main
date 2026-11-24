@@ -45931,6 +45931,52 @@
       "verification_status": "verified"
     },
     {
+      "source_path": "public/images/reviews/barbours/barbours-body-splash-masculino-capa.webp",
+      "local_url": "/images/reviews/barbours/barbours-body-splash-masculino-capa.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 29894,
+      "sha256": "8e633bca6d5e13abc3b08a3fdf068617ea9555b879dbfa9aae5ab68c6a4d37f9",
+      "width": 1600,
+      "height": 900,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "barbours-body-splash-masculino-capa.webp",
+      "storage_filename": "barbours-body-splash-masculino-capa.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/barbours-body-splash-masculino.json",
+        "src/lib/generated/content-index.ts"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/barbours-body-splash-masculino.json",
+          "line": 30,
+          "column": 13,
+          "literal": "/images/reviews/barbours/barbours-body-splash-masculino-capa.webp",
+          "authority": "source"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 325517,
+          "column": 15,
+          "literal": "/images/reviews/barbours/barbours-body-splash-masculino-capa.webp",
+          "authority": "generated"
+        }
+      ],
+      "remote_key": "v1/image/8e633bca6d5e13abc3b08a3fdf068617ea9555b879dbfa9aae5ab68c6a4d37f9/barbours-body-splash-masculino-capa.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/8e633bca6d5e13abc3b08a3fdf068617ea9555b879dbfa9aae5ab68c6a4d37f9/barbours-body-splash-masculino-capa.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-11-24T01:24:32.176Z",
+      "verification_etag_or_digest": "8e633bca6d5e13abc3b08a3fdf068617ea9555b879dbfa9aae5ab68c6a4d37f9",
+      "verification_status": "verified"
+    },
+    {
       "source_path": "public/images/reviews/barbours/cupom-barbours-checkout-com-cupom.webp",
       "local_url": "/images/reviews/barbours/cupom-barbours-checkout-com-cupom.webp",
       "media_kind": "image",
@@ -185783,6 +185829,52 @@
       "verification_status": "verified"
     },
     {
+      "source_path": "public/images/reviews/baw/baw-ou-carnan-capa.webp",
+      "local_url": "/images/reviews/baw/baw-ou-carnan-capa.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 178936,
+      "sha256": "d5afebad033336623e0b4f712be83f2df2c29e42aead63f88091e5dd4da3f923",
+      "width": 1600,
+      "height": 900,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "baw-ou-carnan-capa.webp",
+      "storage_filename": "baw-ou-carnan-capa.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/baw-ou-carnan.json",
+        "src/lib/generated/content-index.ts"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/baw-ou-carnan.json",
+          "line": 30,
+          "column": 13,
+          "literal": "/images/reviews/baw/baw-ou-carnan-capa.webp",
+          "authority": "source"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 326674,
+          "column": 15,
+          "literal": "/images/reviews/baw/baw-ou-carnan-capa.webp",
+          "authority": "generated"
+        }
+      ],
+      "remote_key": "v1/image/d5afebad033336623e0b4f712be83f2df2c29e42aead63f88091e5dd4da3f923/baw-ou-carnan-capa.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/d5afebad033336623e0b4f712be83f2df2c29e42aead63f88091e5dd4da3f923/baw-ou-carnan-capa.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-11-24T01:24:32.178Z",
+      "verification_etag_or_digest": "d5afebad033336623e0b4f712be83f2df2c29e42aead63f88091e5dd4da3f923",
+      "verification_status": "verified"
+    },
+    {
       "source_path": "public/images/reviews/baw/baw-ou-pace-capa-v2.webp",
       "local_url": "/images/reviews/baw/baw-ou-pace-capa-v2.webp",
       "media_kind": "image",
@@ -186982,6 +187074,52 @@
       "uploaded_at": null,
       "verified_at": "2026-11-21T03:51:20.148Z",
       "verification_etag_or_digest": "88f9adca65b4fb28a1582d732eecbf74e83183fe2227c75284a7d50aa5ef3fdc",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/baw/tabela-medidas-baw-capa.webp",
+      "local_url": "/images/reviews/baw/tabela-medidas-baw-capa.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 137440,
+      "sha256": "d13fa0b03cd6634fc9d9987728ec8845f8b49e3bc2779b2531c5a0261618fa56",
+      "width": 1600,
+      "height": 900,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "tabela-medidas-baw-capa.webp",
+      "storage_filename": "tabela-medidas-baw-capa.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/tabela-medidas-baw.json",
+        "src/lib/generated/content-index.ts"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/tabela-medidas-baw.json",
+          "line": 30,
+          "column": 13,
+          "literal": "/images/reviews/baw/tabela-medidas-baw-capa.webp",
+          "authority": "source"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 326125,
+          "column": 15,
+          "literal": "/images/reviews/baw/tabela-medidas-baw-capa.webp",
+          "authority": "generated"
+        }
+      ],
+      "remote_key": "v1/image/d13fa0b03cd6634fc9d9987728ec8845f8b49e3bc2779b2531c5a0261618fa56/tabela-medidas-baw-capa.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/d13fa0b03cd6634fc9d9987728ec8845f8b49e3bc2779b2531c5a0261618fa56/tabela-medidas-baw-capa.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-11-24T01:24:32.178Z",
+      "verification_etag_or_digest": "d13fa0b03cd6634fc9d9987728ec8845f8b49e3bc2779b2531c5a0261618fa56",
       "verification_status": "verified"
     },
     {
@@ -200029,6 +200167,52 @@
       "uploaded_at": null,
       "verified_at": "2026-11-22T02:49:55.187Z",
       "verification_etag_or_digest": "0cca52ae5497cb4c318c98feb2fbc4c270470f24b11a0f68cf20acc6d4bd4aa2",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/barbours/barbours-ou-wepink-capa.webp",
+      "local_url": "/images/reviews/barbours/barbours-ou-wepink-capa.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 43404,
+      "sha256": "0845ec2f62d6a3fab6f3fae612aa41d8b6ca684d9d5a1d29a3b4852fabd6ce89",
+      "width": 1600,
+      "height": 900,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "barbours-ou-wepink-capa.webp",
+      "storage_filename": "barbours-ou-wepink-capa.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/barbours-ou-wepink.json",
+        "src/lib/generated/content-index.ts"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/barbours-ou-wepink.json",
+          "line": 30,
+          "column": 13,
+          "literal": "/images/reviews/barbours/barbours-ou-wepink-capa.webp",
+          "authority": "source"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 325833,
+          "column": 15,
+          "literal": "/images/reviews/barbours/barbours-ou-wepink-capa.webp",
+          "authority": "generated"
+        }
+      ],
+      "remote_key": "v1/image/0845ec2f62d6a3fab6f3fae612aa41d8b6ca684d9d5a1d29a3b4852fabd6ce89/barbours-ou-wepink-capa.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/0845ec2f62d6a3fab6f3fae612aa41d8b6ca684d9d5a1d29a3b4852fabd6ce89/barbours-ou-wepink-capa.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-11-24T01:24:32.178Z",
+      "verification_etag_or_digest": "0845ec2f62d6a3fab6f3fae612aa41d8b6ca684d9d5a1d29a3b4852fabd6ce89",
       "verification_status": "verified"
     },
     {

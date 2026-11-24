@@ -1,0 +1,549 @@
+{
+  "id": 1316,
+  "slug": "tabela-medidas-baw",
+  "locale": "pt",
+  "category": "guias-praticos-utilidade",
+  "reviewKind": "guia",
+  "author": {
+    "name": "Cecília Mauad",
+    "slug": "cecilia-mauad",
+    "role": "Em Casa com Cecília",
+    "initials": "CM",
+    "url": "/sobre"
+  },
+  "publishedAt": "23 de novembro de 2026",
+  "publishedAtISO": "2026-11-23",
+  "updatedAt": "2026-11-23",
+  "draft": false,
+  "isNew": true,
+  "imageFit": "contain",
+  "imageAspect": "landscape",
+  "pros": [],
+  "cons": [],
+  "coupon": "BAWEMCASACOMCECILIA",
+  "affiliate": "baw",
+  "title": "Tabela de medidas BAW: regular ou oversized, como escolher o tamanho",
+  "seoTitle": "Tabela de medidas BAW: regular ou oversized",
+  "type": "Guia de Tamanho",
+  "description": "As medidas que a BAW publica em cada peça, de camisetas regular e oversized a moletom, calça e bermuda, e o que fazer quando a ficha está vazia ou a troca vira crédito.",
+  "metaDescription": "Com o BAWEMCASACOMCECILIA, 10% OFF na BAW. Medidas de camisetas regular e oversized, moletom, calça e bermuda em centímetros, e a troca por crédito.",
+  "image": "/images/reviews/baw/tabela-medidas-baw-capa.webp",
+  "imageAlt": "Duas fotos de modelos com peças da BAW lado a lado: à esquerda, camiseta oversized cinza; à direita, camiseta de manga longa branca.",
+  "cta": {
+    "text": "Se a BAW Clothing faz sentido para você, abra o site oficial pelo botão, confira a medida na descrição da peça e digite BAWEMCASACOMCECILIA no campo “Cupom de desconto”, no carrinho.",
+    "label": "Ir para a BAW Clothing",
+    "url": "https://www.bawclothing.com.br/",
+    "sponsored": true
+  },
+  "editorialNote": "Feito com as fichas da loja, sem uso das peças. Podemos receber comissão pelo cupom.",
+  "relatedArticles": [
+    {
+      "slug": "baw-clothing-e-boa"
+    },
+    {
+      "slug": "baw-clothing-e-confiavel"
+    },
+    {
+      "slug": "cupom-baw-como-usar"
+    },
+    {
+      "slug": "tenis-baw-e-bom"
+    }
+  ],
+  "decision": {
+    "takeIf": [
+      "você escolhe o tamanho pela medida da peça e tem uma camiseta sua para comparar.",
+      "a peça que você quer tem a descrição preenchida na página."
+    ],
+    "skipIf": [
+      "a peça que você quer está sem descrição e você não tem como conferir a medida.",
+      "você conta com trocar direto por outro tamanho: na BAW, a troca vira crédito e o dinheiro só volta na devolução."
+    ]
+  },
+  "contentSections": [
+    {
+      "heading": "Resposta rápida",
+      "paragraphs": [
+        "A BAW não tem uma tabela de tamanhos única: as medidas ficam na descrição de cada peça, com variação de até 3%. A troca vira crédito, e a devolução devolve o dinheiro em até 7 dias corridos, mas a política não cita tamanho como motivo: confirme com o atendimento. O BAWEMCASACOMCECILIA dá 10% OFF no site e no aplicativo."
+      ]
+    },
+    {
+      "heading": "Onde estão as medidas da BAW",
+      "paragraphs": [
+        "O site da BAW não tem um guia de tamanhos único. Cada peça traz as medidas na aba “Descrição” da própria página, e a grade muda de uma peça para outra: PP a GGG nas camisetas, moletons e na calça lidas, 34 a 52 na bermuda jeans. Todas as medidas deste guia vêm dessas fichas, lidas em 23 de novembro de 2026.",
+        "As fichas avisam que as medidas são aproximadas, com variação de até 3%. Nas fichas que lemos havia tamanhos esgotados, então confira na página o tamanho que está à venda."
+      ]
+    },
+    {
+      "heading": "Camisetas regular e oversized: comprimento e tórax por tamanho",
+      "paragraphs": [
+        "Cinco camisetas da loja têm tabela na descrição. A tabela mostra comprimento e tórax, em centímetros, lado a lado:"
+      ],
+      "comparisonTable": {
+        "caption": "Comprimento / tórax, em cm, das fichas da loja. Traço: tamanho sem medida na ficha. A ficha da BR Regular New Luxury usa 3G onde as outras usam GGG.",
+        "headers": [
+          "Tamanho",
+          "Regular Selfie Logo",
+          "Oversized BAW Subscript",
+          "Oversized BAW Fresh",
+          "BR Regular Logo",
+          "BR Regular New Luxury"
+        ],
+        "rows": [
+          [
+            "PP",
+            "66 / 48",
+            "68 / 55",
+            "70 / 61",
+            "—",
+            "72 / 52"
+          ],
+          [
+            "P",
+            "68 / 51",
+            "70 / 58",
+            "72 / 64",
+            "74 / 55",
+            "74 / 55"
+          ],
+          [
+            "M",
+            "70 / 54",
+            "72 / 61",
+            "74 / 67",
+            "76 / 58",
+            "76 / 58"
+          ],
+          [
+            "G",
+            "72 / 57",
+            "74 / 64",
+            "76 / 70",
+            "78 / 61",
+            "78 / 61"
+          ],
+          [
+            "GG",
+            "74 / 60",
+            "76 / 67",
+            "78 / 73",
+            "80 / 64",
+            "80 / 64"
+          ],
+          [
+            "GGG",
+            "76 / 63",
+            "78 / 70",
+            "80 / 76",
+            "—",
+            "82 / 67"
+          ]
+        ]
+      },
+      "postParagraphs": [
+        "Regular não é uma medida só. No M, a [Regular Selfie Logo](https://www.bawclothing.com.br/produto/camiseta-regular-selfie-logo-153490) tem 70 cm de comprimento e 54 cm de tórax, e a [BR Regular Logo](https://www.bawclothing.com.br/produto/camiseta-br-regular-logo-153962), 76 cm e 58 cm. Entre as oversized, a [BAW Subscript](https://www.bawclothing.com.br/produto/camiseta-oversized-baw-subscript-151896) tem 61 cm de tórax no M, e a [BAW Fresh](https://www.bawclothing.com.br/produto/camiseta-oversized-baw-fresh-150906), 67 cm.",
+        "A ficha da BR Regular Logo avisa que a grade vai de PP a 3G, mas a tabela só traz de P a GG. A [BR Regular New Luxury](https://www.bawclothing.com.br/produto/camiseta-br-regular-new-luxury-154091) tem as mesmas medidas da BR Regular Logo nos tamanhos que as duas têm."
+      ],
+      "images": [
+        {
+          "src": "/images/reviews/baw/black-friday-baw-camiseta-selfie-logo.webp",
+          "alt": "Modelo com a Camiseta Regular Selfie Logo off white da BAW Clothing, com o nome da marca pequeno no peito, em foto oficial da loja",
+          "caption": "Camiseta Regular Selfie Logo, na cor off white. Foto: BAW Clothing.",
+          "objectFit": "contain",
+          "aspectRatio": 0.667,
+          "href": "https://www.bawclothing.com.br/produto/camiseta-regular-selfie-logo-153490"
+        },
+        {
+          "src": "/images/reviews/baw/baw-clothing-e-boa-camiseta-oversized-subscript.webp",
+          "alt": "Modelo de corpo inteiro com a Camiseta Oversized BAW Subscript off white da BAW Clothing e bermuda cargo preta, em foto oficial da loja",
+          "caption": "Camiseta Oversized BAW Subscript, na cor off white. Foto: BAW Clothing.",
+          "objectFit": "contain",
+          "aspectRatio": 0.667,
+          "href": "https://www.bawclothing.com.br/produto/camiseta-oversized-baw-subscript-151896"
+        }
+      ]
+    },
+    {
+      "heading": "Camisetas: barra, manga e cava no tamanho M",
+      "paragraphs": [
+        "Além de comprimento e tórax, as fichas trazem barra, manga e, em algumas, cava. Aqui, no tamanho M:"
+      ],
+      "comparisonTable": {
+        "caption": "Medidas em cm, tamanho M, das fichas da loja. Traço: a ficha não traz a cava.",
+        "headers": [
+          "Camiseta",
+          "Barra",
+          "Manga",
+          "Cava"
+        ],
+        "rows": [
+          [
+            "[Regular Selfie Logo](https://www.bawclothing.com.br/produto/camiseta-regular-selfie-logo-153490)",
+            "53",
+            "20",
+            "—"
+          ],
+          [
+            "[Oversized BAW Subscript](https://www.bawclothing.com.br/produto/camiseta-oversized-baw-subscript-151896)",
+            "61",
+            "21",
+            "24"
+          ],
+          [
+            "[Oversized BAW Fresh](https://www.bawclothing.com.br/produto/camiseta-oversized-baw-fresh-150906)",
+            "67",
+            "23",
+            "—"
+          ],
+          [
+            "[BR Regular Logo](https://www.bawclothing.com.br/produto/camiseta-br-regular-logo-153962)",
+            "58",
+            "25",
+            "26"
+          ],
+          [
+            "[BR Regular New Luxury](https://www.bawclothing.com.br/produto/camiseta-br-regular-new-luxury-154091)",
+            "58",
+            "25",
+            "26"
+          ]
+        ]
+      },
+      "postParagraphs": [
+        "As fichas não explicam como a loja mediu o tórax, nem se a barra é medida de um lado só da peça. Por isso, use os números para comparar uma peça da BAW com outra; contra uma roupa sua, a conta é aproximada."
+      ]
+    },
+    {
+      "heading": "Moletons: Basic Label e Hoodie",
+      "paragraphs": [
+        "O [Moletom Basic Label](https://www.bawclothing.com.br/produto/moletom-basic-label-153706) e o [Moletom Hoodie BAW Subscript](https://www.bawclothing.com.br/produto/moletom-hoodie-baw-subscript-151918) têm a mesma tabela na ficha. A composição é que muda: o Basic Label traz 50% algodão e 50% poliéster, e o Hoodie, 100% algodão."
+      ],
+      "comparisonTable": {
+        "caption": "Medidas em cm das fichas dos dois moletons.",
+        "headers": [
+          "Tamanho",
+          "Comprimento",
+          "Tórax",
+          "Barra",
+          "Manga",
+          "Cava"
+        ],
+        "rows": [
+          [
+            "PP",
+            "70",
+            "57",
+            "48",
+            "61",
+            "29"
+          ],
+          [
+            "P",
+            "72",
+            "59",
+            "50",
+            "63",
+            "30"
+          ],
+          [
+            "M",
+            "74",
+            "61",
+            "52",
+            "65",
+            "31"
+          ],
+          [
+            "G",
+            "76",
+            "63",
+            "54",
+            "67",
+            "32"
+          ],
+          [
+            "GG",
+            "78",
+            "65",
+            "56",
+            "69",
+            "33"
+          ],
+          [
+            "GGG",
+            "80",
+            "67",
+            "58",
+            "71",
+            "34"
+          ]
+        ]
+      },
+      "images": [
+        {
+          "src": "/images/reviews/baw/black-friday-baw-moletom-basic-label.webp",
+          "alt": "Modelo com o Moletom Basic Label azul-escuro da BAW Clothing, com capuz, cordões e bolso canguru, em foto oficial da loja",
+          "caption": "Moletom Basic Label, na cor azul-escuro. Foto: BAW Clothing.",
+          "objectFit": "contain",
+          "aspectRatio": 0.667,
+          "href": "https://www.bawclothing.com.br/produto/moletom-basic-label-153706"
+        },
+        {
+          "src": "/images/reviews/baw/baw-clothing-e-boa-moletom-hoodie-subscript.webp",
+          "alt": "Modelo de corpo inteiro com o Moletom Hoodie BAW Subscript preto da BAW Clothing e shorts de moletom cinza, em foto oficial da loja",
+          "caption": "Moletom Hoodie BAW Subscript, na cor preta. Foto: BAW Clothing.",
+          "objectFit": "contain",
+          "aspectRatio": 0.667,
+          "href": "https://www.bawclothing.com.br/produto/moletom-hoodie-baw-subscript-151918"
+        }
+      ],
+      "styling": {
+        "layout": "tabs",
+        "items": [
+          {
+            "piece": "Moletom Basic Label",
+            "url": "https://www.bawclothing.com.br/produto/moletom-basic-label-153706",
+            "howTo": "Na foto da loja, o moletom azul-escuro aparece com calça jeans clara. Nossa sugestão para variar é trocar o jeans pela Calça Track e deixar o capuz e o bolso canguru em destaque.",
+            "occasion": "Dia a dia e programas sem formalidade.",
+            "pairsWith": [
+              {
+                "label": "calça jeans clara"
+              },
+              {
+                "label": "Calça Track BAW Tag",
+                "url": "https://www.bawclothing.com.br/produto/calca-track-baw-tag-151973"
+              },
+              {
+                "label": "tênis"
+              }
+            ]
+          },
+          {
+            "piece": "Moletom Hoodie BAW Subscript",
+            "url": "https://www.bawclothing.com.br/produto/moletom-hoodie-baw-subscript-151918",
+            "howTo": "Nas fotos da loja, o moletom preto aparece com shorts cinza e tênis claro. Nossa sugestão para variar é combinar com a Bermuda Jeans Regular Logo, deixando o moletom solto.",
+            "occasion": "Dia a dia e passeio.",
+            "pairsWith": [
+              {
+                "label": "shorts cinza"
+              },
+              {
+                "label": "Bermuda Jeans Regular Logo",
+                "url": "https://www.bawclothing.com.br/produto/bermuda-jeans-regular-logo-153450"
+              },
+              {
+                "label": "tênis"
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "heading": "Calça e bermuda: as duas fichas trazem cintura",
+      "paragraphs": [
+        "A [Calça Track BAW Tag](https://www.bawclothing.com.br/produto/calca-track-baw-tag-151973) é de moletom flanelado, com 50% algodão e 50% poliéster. A [Bermuda Jeans Regular Logo](https://www.bawclothing.com.br/produto/bermuda-jeans-regular-logo-153450) é 100% algodão. As duas fichas trazem cintura, mas não dizem se a medida é de meia cintura ou de circunferência: copiamos como está, sem converter. Não compare a cintura de uma peça com a da outra."
+      ],
+      "comparisonTable": {
+        "caption": "Calça Track BAW Tag, medidas em cm da ficha da loja.",
+        "headers": [
+          "Tamanho",
+          "Comp. lateral",
+          "Cintura",
+          "Quadril",
+          "Gancho diant.",
+          "Gancho tras."
+        ],
+        "rows": [
+          [
+            "PP",
+            "93,5",
+            "36",
+            "51,5",
+            "30",
+            "39"
+          ],
+          [
+            "P",
+            "95,5",
+            "38",
+            "53,5",
+            "31",
+            "40"
+          ],
+          [
+            "M",
+            "97,5",
+            "40",
+            "55,5",
+            "32",
+            "41"
+          ],
+          [
+            "G",
+            "99,5",
+            "42",
+            "57,5",
+            "33",
+            "42"
+          ],
+          [
+            "GG",
+            "101,5",
+            "44",
+            "59,5",
+            "34",
+            "43"
+          ],
+          [
+            "GGG",
+            "103,5",
+            "46",
+            "61,5",
+            "35",
+            "44"
+          ]
+        ]
+      },
+      "images": [
+        {
+          "src": "/images/reviews/baw/baw-clothing-e-boa-calca-track-baw-tag.webp",
+          "alt": "Modelo de corpo inteiro com a Calça Track BAW Tag amarelo flúor da BAW Clothing, regata branca e tênis escuro, em foto oficial da loja",
+          "caption": "Calça Track BAW Tag, na cor amarelo flúor. Foto: BAW Clothing.",
+          "objectFit": "contain",
+          "aspectRatio": 0.667,
+          "href": "https://www.bawclothing.com.br/produto/calca-track-baw-tag-151973"
+        }
+      ]
+    },
+    {
+      "heading": "Bermuda Jeans Regular Logo: tabela de 34 a 50",
+      "paragraphs": [
+        "A grade da bermuda jeans vai de 34 a 52, mas a tabela da ficha traz de 34 a 50. Medidas em cm, da ficha da loja:"
+      ],
+      "comparisonTable": {
+        "caption": "Bermuda Jeans Regular Logo, medidas em cm da ficha da loja.",
+        "headers": [
+          "Tamanho",
+          "Comp. lateral",
+          "Cintura",
+          "Gancho diant.",
+          "Gancho tras.",
+          "Quadril"
+        ],
+        "rows": [
+          [
+            "34",
+            "47",
+            "68",
+            "26",
+            "38",
+            "98"
+          ],
+          [
+            "36",
+            "49",
+            "72",
+            "27",
+            "39",
+            "100"
+          ],
+          [
+            "38",
+            "51",
+            "76",
+            "28",
+            "40",
+            "106"
+          ],
+          [
+            "40",
+            "53",
+            "80",
+            "29",
+            "41",
+            "110"
+          ],
+          [
+            "42",
+            "55",
+            "84",
+            "30",
+            "42",
+            "114"
+          ],
+          [
+            "44",
+            "57",
+            "88",
+            "31",
+            "43",
+            "118"
+          ],
+          [
+            "46",
+            "59",
+            "92",
+            "32",
+            "44",
+            "122"
+          ],
+          [
+            "48",
+            "61",
+            "96",
+            "33",
+            "45",
+            "126"
+          ],
+          [
+            "50",
+            "63",
+            "100",
+            "34",
+            "46",
+            "130"
+          ]
+        ]
+      }
+    },
+    {
+      "heading": "Infantil, bonés e peças sem ficha",
+      "paragraphs": [
+        "O [Shorts Reverse Kids](https://www.bawclothing.com.br/produto/shorts-reverse-kids-151314) traz, no tamanho 04, 31 cm de comprimento e 25 cm de cintura. Os demais tamanhos estão na página.",
+        "O [Boné Running](https://www.bawclothing.com.br/produto/bone-running-153696), 100% poliamida, informa aba de 5 cm, profundidade de 15 cm e “padrão 57 cm”. Os bonés Trucker BAW Signature e Dad Hat BAW Script são de tamanho único e estavam sem descrição.",
+        "Várias outras peças estavam com a aba “Descrição” vazia na nossa leitura, sem composição e sem medidas: a [Camiseta Regular Goth 3.0](https://www.bawclothing.com.br/produto/camiseta-regular-goth-3-0-151220), camisetas infantis, os tênis e os slides. Para essas, a página não dá a medida para conferir antes de pagar. O caminho é preferir uma peça com ficha ou pedir a medida ao atendimento da BAW, e não supor a medida pelo nome da modelagem. Os calçados têm guia próprio: veja o [tênis BAW](/reviews/tenis-baw-e-bom) e a [Sandália Linus](/reviews/sandalia-linus-baw)."
+      ]
+    },
+    {
+      "heading": "Como escolher o tamanho pela medida",
+      "paragraphs": [
+        "Pegue uma camiseta sua que serve e meça o comprimento e o tórax com ela aberta sobre uma mesa. Compare com a linha do tamanho que você quer na tabela da peça, sabendo que a conta é aproximada: as fichas não dizem como a loja mediu o tórax."
+      ],
+      "emphasis": "No M, a oversized mais justa (Subscript, 61 cm de tórax) tem só 3 cm a mais que a regular mais larga (BR Regular Logo, 58 cm): escolha pela ficha da peça, não pelo nome da modelagem."
+    },
+    {
+      "heading": "Troca e devolução se o tamanho não servir",
+      "paragraphs": [
+        "Pela [política de trocas e devoluções da BAW](https://www.bawclothing.com.br/trocas-e-devolucoes), lida em 16 de novembro de 2026, “as trocas na BAW são feitas exclusivamente através de crédito em conta”, e a loja informa que não faz “trocas manuais de peça por peça, nem mesmo em casos de troca por tamanho”. A devolução é outra coisa: devolve o dinheiro, na mesma forma de pagamento. Para troca ou devolução, o prazo é de 7 dias corridos do recebimento, com a peça sem uso, com etiqueta e na embalagem original, e a primeira troca ou devolução tem frete grátis.",
+        "A política não cita tamanho como motivo de devolução. Se você quer o dinheiro de volta em vez de crédito, confirme com o atendimento antes de comprar. O capítulo de troca e devolução está no guia [BAW Clothing é confiável?](/reviews/baw-clothing-e-confiavel)."
+      ]
+    },
+    {
+      "heading": "Código de desconto e Pix",
+      "paragraphs": [
+        "O [cupom BAW](/cupons/baw) BAWEMCASACOMCECILIA dá 10% OFF no site e no aplicativo, no campo “Cupom de desconto” do carrinho. As condições estão em [como usar o cupom da BAW](/reviews/cupom-baw-como-usar). A loja informa 5% de desconto no Pix, e o valor final aparece no resumo do pedido."
+      ]
+    },
+    {
+      "heading": "Perguntas frequentes",
+      "bullets": [
+        "Qual é o cupom da BAW? O BAWEMCASACOMCECILIA dá 10% OFF no site e no aplicativo da BAW.",
+        "A BAW tem tabela de medidas? Não há uma tabela única. As medidas ficam na aba “Descrição” de cada peça, e várias fichas estão vazias.",
+        "A camiseta oversized da BAW é muito grande? Pela ficha da Oversized BAW Subscript, o M tem 72 cm de comprimento e 61 cm de tórax. Compare com uma camiseta sua antes de escolher.",
+        "Regular e oversized têm a mesma medida em todas as peças? Não. No M, o tórax das regulares que lemos vai de 54 cm a 58 cm, e o das oversized, de 61 cm a 67 cm.",
+        "A BAW troca por outro tamanho? A política diz que as trocas são feitas por crédito em conta e que a loja não faz troca de peça por peça, nem por tamanho."
+      ]
+    }
+  ]
+}
