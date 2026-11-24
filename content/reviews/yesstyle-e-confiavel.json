@@ -17,7 +17,7 @@
   "metaDescription": "O código de recompensa CECILIA010 dá 5% na primeira compra da YesStyle e 2% nas seguintes. A YesStyle é confiável? Empresa, impostos e atendimento.",
   "publishedAt": "2 de agosto de 2026",
   "publishedAtISO": "2026-08-02",
-  "updatedAt": "2026-11-06",
+  "updatedAt": "2026-11-24",
   "changelog": [
     {
       "date": "2026-09-28",
@@ -30,6 +30,10 @@
     {
       "date": "2026-10-13",
       "text": "Frete, prazo e imposto passaram para o guia de entrega da YesStyle no Brasil e em Portugal, e saiu a frase de que os envios ao Brasil voltaram em setembro, que a loja não anunciou."
+    },
+    {
+      "date": "2026-11-24",
+      "text": "Envios ao Brasil voltaram: a tabela de frete da YesStyle passou a trazer o Brasil (Standard, 21 a 25 dias úteis, frete grátis a partir de US$ 80); atualizados o prazo, o frete grátis e as frases sobre a entrega no Brasil."
     }
   ],
   "draft": false,
@@ -49,7 +53,7 @@
       "heading": "Dados públicos da empresa",
       "paragraphs": [
         "A YesStyle é de Hong Kong, desde 2006. Pertence à YesAsia Holdings (2209.HK), listada na bolsa de Hong Kong, como mostram a [página de negócios da controladora](https://www.yesasiaholdings.com/business.html) e as [relações com investidores](https://www.yesasiaholdings.com/investor-relations.html).",
-        "A YesStyle atende clientes em mais de 150 países e regiões, com versão do site em português. O site deixa escolher a moeda do pedido entre as disponíveis e converte pelo [câmbio interno da YesStyle](https://www.yesstyle.com/en/payment-currencies/help/section.html/hsi.1708); o banco pode cobrar tarifa de compra internacional. A entrega da YesStyle no Brasil está suspensa temporariamente; a situação atualizada, e as condições de Portugal, estão no [guia de entrega da YesStyle](/reviews/yesstyle-entrega-no-brasil-e-portugal)."
+        "A YesStyle atende clientes em mais de 150 países e regiões, com versão do site em português. O site deixa escolher a moeda do pedido entre as disponíveis e converte pelo [câmbio interno da YesStyle](https://www.yesstyle.com/en/payment-currencies/help/section.html/hsi.1708); o banco pode cobrar tarifa de compra internacional. A YesStyle voltou a entregar no Brasil, com envio Standard em 21 a 25 dias úteis; o prazo, o frete e as condições de Portugal estão no [guia de entrega da YesStyle](/reviews/yesstyle-entrega-no-brasil-e-portugal)."
       ],
       "image": "/images/reviews/cupons/yesstyle-loja-oficial-banner.webp",
       "imageAlt": "Interface oficial e banner promocional da loja YesStyle",
@@ -125,14 +129,14 @@
         "A YesStyle é confiável ou é um site falso? A YesStyle é legítima. É uma empresa fundada em 2006 com sede em Hong Kong, subsidiária da YesAsia Holdings Limited, listada na bolsa de Hong Kong (2209.HK), e se apresenta como distribuidora autorizada das marcas que vende.",
         "De onde é a YesStyle? De Hong Kong: a loja foi fundada lá em 2006 e pertence à YesAsia Holdings, listada na Bolsa de Hong Kong (2209.HK).",
         "Os produtos da YesStyle são originais ou falsificados? A YesStyle afirma ser revendedora autorizada de mais de 400 marcas de beleza coreana, comprando das fabricantes ou de distribuidores autorizados. Não encontramos auditoria independente que confirme isso; na entrega, confira lote, validade e lacre.",
-        "Qual o prazo de entrega da YesStyle para o Brasil? A entrega da YesStyle no Brasil está suspensa temporariamente. A situação atualizada, e o prazo para Portugal, estão no [guia de entrega da YesStyle](/reviews/yesstyle-entrega-no-brasil-e-portugal).",
+        "Qual o prazo de entrega da YesStyle para o Brasil? O envio Standard da YesStyle para o Brasil leva de 21 a 25 dias úteis, com código de rastreio, depois de o item sair do armazém em Hong Kong. O prazo de Portugal está no [guia de entrega da YesStyle](/reviews/yesstyle-entrega-no-brasil-e-portugal).",
         "A YesStyle reembolsa os impostos de importação? Pode reembolsar. Em pedidos abaixo de US$ 1.000 (antes do cupom e sem o frete), a YesStyle devolve impostos e taxas de alfândega em crédito na loja, se você pedir ao atendimento em até 30 dias da data do comprovante. Há exclusões por destino, como o IVA na União Europeia.",
         "O código CECILIA010 muda o preço final do produto? Sim. Ele dá 5% extra na primeira compra e 2% nas seguintes, sem custo adicional para o leitor; confira o desconto no resumo antes de pagar.",
         "Como funciona a devolução na YesStyle? Peça o número de autorização (RMA) ao atendimento em até 14 dias do recebimento e envie o pacote em até 30 dias da emissão. O item volta na condição e na embalagem originais, e produtos de beleza abertos ficam de fora. O reembolso padrão é em Crédito YesStyle.",
         "A YesStyle aceita qual forma de pagamento? Cartão de crédito internacional, PayPal e, em alguns países, carteiras locais. Você escolhe a moeda do pedido entre as disponíveis, e a YesStyle converte pelo câmbio interno dela.",
         "YesStyle é seguro para inserir dados de cartão? Sim, o site utiliza conexão HTTPS segura e processa pagamentos via gateways certificados internacionais. Nunca insira dados sensíveis fora do checkout oficial.",
         "Qual é o domínio oficial da YesStyle? O domínio oficial é yesstyle.com (com idioma português disponível selecionando no site). Cuidado com sites falsos ou revendedores não autorizados.",
-        "YesStyle oferece frete grátis para o Brasil? A entrega no Brasil está suspensa temporariamente. Quando a entrega está disponível, o frete aparece no checkout, antes de pagar.",
+        "YesStyle oferece frete grátis para o Brasil? Sim, a partir de US$ 80, pela tabela de frete da loja; abaixo disso, o frete é de US$ 15. A embalagem de presente não entra na conta. Confira o frete no checkout, antes de pagar.",
         "Como usar o código CECILIA010 na YesStyle? Digite CECILIA010 no campo 'Código de Recompensa' (Reward Code) durante o checkout. Esse campo é separado do campo de cupom, e o código pode somar com cupons promocionais elegíveis."
       ]
     }
@@ -144,7 +148,7 @@
     ],
     "skipIf": [
       "Você só compra com garantia de autenticidade de terceiros: a originalidade é declarada pela própria loja, e não achamos auditoria independente.",
-      "Você precisa do pedido numa data certa: o prazo só aparece no checkout, e a entrega ao Brasil está suspensa temporariamente."
+      "Você precisa do pedido numa data certa: o prazo só aparece no checkout, e o envio ao Brasil leva de 21 a 25 dias úteis."
     ]
   },
   "cta": {

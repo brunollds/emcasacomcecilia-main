@@ -31,7 +31,7 @@
     {
       "heading": "Resposta rápida",
       "paragraphs": [
-        "Vá de YesStyle se não quer arriscar: tem nota 4,4 no Trustpilot (105.442 avaliações), contra 1,9 (137) da StyleKorean. O CECILIA010 dá até 5% extra. Frete e encargos ficam fora da conta. No Brasil, a entrega está suspensa temporariamente: veja o capítulo do país."
+        "Vá de YesStyle se não quer arriscar: tem nota 4,4 no Trustpilot (105.442 avaliações), contra 1,9 (137) da StyleKorean. O CECILIA010 dá até 5% extra. Frete e encargos ficam fora da conta. No Brasil, a YesStyle voltou a entregar: veja o capítulo do país."
       ]
     },
     {
@@ -311,7 +311,7 @@
     {
       "heading": "E no Brasil?",
       "paragraphs": [
-        "No Brasil, a entrega decide antes do preço. A da YesStyle está suspensa temporariamente, e o CECILIA010 só ajuda quando ela voltar. As regras dela para o país estão em [YesStyle entrega no Brasil e em Portugal?](/reviews/yesstyle-entrega-no-brasil-e-portugal).",
+        "No Brasil, a entrega decide antes do preço. A YesStyle voltou a entregar: envio Standard em 21 a 25 dias úteis e frete grátis a partir de US$ 80 (US$ 15 abaixo disso), e o CECILIA010 vale no pedido. Confira o frete e o prazo no checkout antes de pagar. As regras dela para o país estão em [YesStyle entrega no Brasil e em Portugal?](/reviews/yesstyle-entrega-no-brasil-e-portugal).",
         "A StyleKorean mostra o Brasil no seletor de país e um catálogo de itens que diz poder enviar para cá, mas isso não confirma a entrega: a tabela de frete não traz o país, e não encontramos relato de entrega. Antes de pagar, veja se o checkout aceita o seu endereço, qual é o frete e se os tributos entram na conta ou podem ser cobrados depois."
       ]
     },
@@ -331,7 +331,7 @@
       "heading": "Qual escolher",
       "paragraphs": [
         "Na dúvida, comece pela YesStyle onde ela entrega: a nota no Trustpilot é mais alta e, na leitura de preços para os EUA, os produtos dos dois carrinhos saíram por menos. O CECILIA010 acrescenta o desconto calculado de 5% na primeira compra ou 2% nas seguintes. A StyleKorean faz sentido quando o produto que você quer custa menos nela, como o SKIN1004 nesta leitura, e a economia compensa o frete, os encargos e a diferença de nota para você.",
-        "No Brasil, a entrega vem antes da comparação, porque a da YesStyle está suspensa temporariamente."
+        "No Brasil, a entrega vem antes da comparação: a YesStyle voltou a entregar, com envio de 21 a 25 dias úteis, e a StyleKorean não confirma a entrega."
       ],
       "emphasis": "Na dúvida, comece pela YesStyle onde ela entrega: tem nota mais alta no Trustpilot e preços menores nos produtos dos dois carrinhos na leitura para os EUA. Antes de pagar, confira o total com frete e encargos. A nota é um sinal de reputação, sem garantir o pedido."
     },
@@ -353,7 +353,7 @@
       "Você encontra os produtos que procura na YesStyle e o total com frete, encargos e CECILIA010 compensa para o seu endereço."
     ],
     "skipIf": [
-      "Você precisa receber no Brasil enquanto a entrega da YesStyle está suspensa.",
+      "Você precisa receber no Brasil em menos de 21 dias úteis: é o menor prazo de envio da YesStyle para o país.",
       "Outra loja tem o mesmo produto disponível por um total que você considera mais vantajoso, com frete e encargos."
     ]
   },
@@ -380,5 +380,5 @@
       "slug": "codigo-cecilia010-yesstyle-como-usar"
     }
   ],
-  "updatedAt": "2026-11-23"
+  "updatedAt": "2026-11-24"
 }
