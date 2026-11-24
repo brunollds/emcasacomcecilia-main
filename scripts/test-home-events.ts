@@ -11,11 +11,11 @@ import sitemap from '@/app/sitemap';
 
 import { EventHubView } from '@/components/sections/EventHubView';
 import { EVENT_THEME_CLASSES, EventCard, HomeEvent } from '@/components/sections/HomeEvent';
-import { CODE_SEASON_NOTICE } from '@/lib/codeSeasonNotice';
 import { COUPONS, getActiveCoupons, type Coupon } from '@/lib/couponsData';
 import { publishedReviews } from '@/lib/data';
 import {
   formatEventDay,
+  formatIsoDay,
   getCountdownLabel,
   getEventHubPage,
   getEventHubPaths,
@@ -175,18 +175,14 @@ assert.equal(getCountdownLabel(BF_DAY, at('2026-11-27T23:59:59-03:00')), 'é hoj
 assert.equal(getCountdownLabel(BF_DAY, at('2026-11-28T00:00:00-03:00')), 'últimos dias');
 
 // O dia da data (dateTime) sai do calendário de São Paulo, como o rótulo: dayAt em UTC não muda de dia.
-const utcDay = resolveActiveHomeEvent({ events: [event({ dayAt: '2026-11-27T02:00:00Z' })] }, reviews, at('2026-11-07T10:00:00-03:00'), stores);
-assert.equal(utcDay?.dayDate, '2026-11-26');
-assert.equal(utcDay?.dayLabel, 'Quinta, 26 de novembro');
+assert.equal(formatIsoDay('2026-11-27T02:00:00Z'), '2026-11-26');
+assert.equal(formatEventDay('2026-11-27T02:00:00Z'), 'Quinta, 26 de novembro');
 
 // Home: até 4 cards, na ordem do arquivo, sem código; "Ver o código" só para loja ativa com código.
 const active = resolveActiveHomeEvent(config, reviews, at('2026-11-07T10:00:00-03:00'), stores);
 assert.ok(active);
 assert.equal(active.title, 'Black Friday');
 assert.equal(active.theme, 'noite');
-assert.equal(active.description, 'O que vale acompanhar nas lojas parceiras.');
-assert.equal(active.dayDate, '2026-11-27');
-assert.equal(active.dayLabel, 'Sexta, 27 de novembro');
 assert.equal(active.countdownLabel, 'faltam 20 dias');
 assert.deepEqual(active.hubLink, { href: '/black-friday', label: 'Ver tudo da Black Friday' });
 assert.deepEqual(active.cards.map(({ slug }) => slug), ['bf-damie', 'bf-magalu', 'bf-sem-loja', 'bf-kopenhagen']);
@@ -248,8 +244,10 @@ assert.ok(hiddenBandHtml.includes('href="/#loja-damie"'));
 const bandHtml = renderToStaticMarkup(createElement(HomeEvent, { event: active }));
 const bandText = bandHtml.replace(/<[^>]+>/g, ' ');
 assert.match(bandHtml, /<h2 id="titulo-data-comercial"[^>]*>Black Friday<\/h2>/);
-assert.match(bandHtml, /<time datetime="2026-11-27">Sexta, 27 de novembro<\/time>/i);
 assert.ok(bandText.includes('faltam 20 dias'));
+// O topo da faixa é só o título e a contagem: a descrição e o dia ficam na página da data.
+assert.ok(!bandHtml.includes('<time') && !bandText.includes('O que vale acompanhar'), 'a faixa da home sem a descrição nem o dia');
+assert.equal(bandHtml.match(/<p\b/g)?.length, 1, 'o único parágrafo da faixa é a contagem');
 assert.equal(bandHtml.match(/href="\/reviews\//g)?.length, 4, 'um link por card');
 assert.ok(bandHtml.includes('href="/#loja-damie"') && bandHtml.includes('href="/#loja-magalu"'));
 assert.equal(bandHtml.match(/href="\/#loja-/g)?.length, 2, 'loja pausada e card sem loja ficam sem "Ver o código"');
@@ -535,12 +533,6 @@ assert.deepEqual(guideOf('bf-sem-loja'), {
 assert.equal(guideOf('bf-magalu')?.cover?.imagePosition, 'top', 'a capa segue a regra dos cartões');
 assert.equal(guideOf('bf-kopenhagen')?.mark, undefined, 'loja pausada: a casa no lugar da bolinha');
 assert.equal(guideOf('bf-kopenhagen')?.name, 'Chocolates');
-assert.equal(finalStretch.seasonNotice, CODE_SEASON_NOTICE.text, 'com loja de cupom e o aviso no ar, o aviso entra');
-assert.equal(
-  resolveActiveHomeEvent({ events: [boosted()] }, finalReviews, at('2026-11-10T12:00:00-03:00'), stores)?.seasonNotice,
-  undefined,
-  'antes do aviso de temporada, sem aviso'
-);
 assert.equal(
   resolveActiveHomeEvent({ events: [boosted()] }, finalReviews, at('2026-11-28T23:59:59-03:00'), stores)?.guides?.length,
   6,
@@ -548,7 +540,6 @@ assert.equal(
 );
 const afterBoost = resolveActiveHomeEvent({ events: [boosted()] }, finalReviews, at('2026-11-29T00:00:00-03:00'), stores);
 assert.equal(afterBoost?.guides, undefined, 'no boost.endsAt, a home volta aos cards de sempre');
-assert.equal(afterBoost?.seasonNotice, undefined);
 assert.equal(afterBoost?.cards.length, 4);
 
 // O HTML da reta final na home em português: o carrossel, com um link por guia, a capa, o rótulo da loja e o título;
@@ -565,7 +556,7 @@ assert.equal(finalHtml.match(/shadow-\[0_0_0_4px_var\(--color-amarelo-cupom\)\]/
 assert.ok(finalText.includes(`DAMIE · Guia geral · ${damieStore.discount}`), 'o rótulo: loja, guia e desconto');
 assert.ok(finalText.includes('Título bf-damie-poltrona'), 'o título do artigo no card');
 assert.equal(finalHtml.match(/<img /g)?.length, 5, 'a capa de cada guia que tem capa');
-assert.ok(finalText.includes(CODE_SEASON_NOTICE.text), 'o aviso de temporada acima do carrossel');
+assert.equal(finalHtml.match(/<p\b/g)?.length, 1, 'na reta final, o único parágrafo da faixa é a contagem: sem descrição nem aviso de temporada');
 assert.ok(!finalHtml.includes('<code') && !/cupom|copiar/i.test(finalText), 'a reta final não mostra código nem fala em cupom');
 // As setas só entram no navegador, quando há o que rolar; nenhum guia fica escondido.
 assert.ok(!finalHtml.includes('<button') && !finalHtml.includes('/guias:hidden'), 'sem botão no HTML do servidor');
