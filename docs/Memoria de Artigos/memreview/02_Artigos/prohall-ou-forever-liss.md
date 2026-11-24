@@ -12,7 +12,7 @@ category: "guias-praticos-utilidade"
 reviewKind: "guia"
 type: "Comparativo"
 anexo_tipo: "Anexo-Beleza"
-status: "pauta-aprovada"
+status: "pronto-para-deploy"
 responsavel: "Job-1"
 proxima_acao: "redacao"
 bloqueado_por: "par da Forever Liss (decisão do Bruno, pergunta 1); ficha completa, formol e preço de tabela: [PENDENTE: navegador]"
@@ -184,3 +184,10 @@ Preço por grama (conta nossa, cartão, sem cupom, preço de 23/11): Forever Lis
 
 - GO (Bruno, 23/11). Par: BTX Blend Repair × Máscara Progressiva Volume Zero (os dois em g, 250/300 g e 1 kg); o Btox Zero entra numa linha só se o preço for lido. A redação espera a ficha completa da máscara (composição e modo de uso); sem ela o artigo não sai. Sem link, foto nem reputação da Forever Liss.
 - Leituras pendentes: pelo navegador do app no dia da redação (as leituras de 23/11 estão em [[leituras-grupo2-2311]]). Preço: a régua é o preço de tabela (memória "preço real, não promocional"); em 23/11 quase tudo estava em Black Friday, então reler fora da campanha se possível.
+
+## Capa e imagens (Job 6, aprovadas pelo Bruno em 23/11/2026)
+
+- Capa: `/images/reviews/prohall/prohall-ou-forever-liss-capa.webp` (1600 × 900, painel verde à esquerda, `imageFit: "contain"`). Alt: Cabelo longo e liso de costas, com o pote do BTX Blend Repair de 1 kg da Prohall na mão, em foto oficial da loja. A capa traz o logo Prohall e a chamada “Prohall ou Forever Liss?”, sem foto da Forever Liss. Origem: foto oficial do site oficial lojaprohall.com.br, baixada em 23/11/2026; montagem nossa.
+- Corpo, `contentSections[1]` ("BTX Blend Repair e Máscara Volume Zero: o par da comparação"): `/images/reviews/prohall/black-friday-prohall-btx-blend-repair-300g.webp`. Alt: Pote branco de 300 gramas do Btx Blend Repair da Prohall, com rótulo verde, em foto oficial da loja Legenda: Btx Capilar Orgânico Blend Repair 300 g, da Prohall. Foto: Prohall.
+- Corpo, `contentSections[6]` ("Preço por grama: 250 g, 300 g e 1 kg"): `/images/reviews/prohall/prohall-ou-forever-liss-preco-por-grama.webp`. Alt: Pote do BTX Blend Repair de 1 kg da Prohall, de frente, sobre fundo branco, em foto oficial da loja. Legenda: BTX Blend Repair de 1 kg. Foto: Prohall.
+- Imagens novas no CDN e no mapa de entrega pelo Guia de mídia; imagens de corpo reaproveitadas já estavam no CDN.
