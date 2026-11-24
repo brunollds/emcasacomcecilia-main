@@ -29307,7 +29307,7 @@ export const reviewsData: unknown[] = [
     "metaDescription": "O código CECILIA010 dá até 5% extra na YesStyle: 5% na primeira compra e 2% nas recorrentes. Veja onde fica o campo Reward Code no checkout.",
     "publishedAt": "21 de junho de 2026",
     "publishedAtISO": "2026-06-21",
-    "updatedAt": "2026-11-06",
+    "updatedAt": "2026-11-24",
     "draft": false,
     "image": "/images/reviews/cupons/codigo-cecilia010-yesstyle-como-usar-capa-v2.webp",
     "imageAlt": "Máscara labial Abib PDRN Collagen Glazed Jelly em foto oficial do fabricante, ao lado do logo da YesStyle e do Reward Code CECILIA010.",
@@ -29441,8 +29441,8 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Frete e entrega para o Brasil",
         "paragraphs": [
-          "Esta parte vale para quem recebe no Brasil. A entrega da YesStyle no Brasil está suspensa temporariamente; a situação atualizada, e as condições de Portugal, estão em [YesStyle entrega no Brasil e em Portugal?](/reviews/yesstyle-entrega-no-brasil-e-portugal).",
-          "Quando a entrega está disponível, o frete, o mínimo para frete grátis e o prazo aparecem no checkout, depois do endereço. A alfândega pode somar alguns dias."
+          "Esta parte vale para quem recebe no Brasil. A YesStyle voltou a entregar no Brasil. Pela tabela de frete da loja, o envio é Standard, com frete grátis a partir de US$ 80, US$ 15 abaixo disso e prazo estimado de 21 a 25 dias úteis, com código de rastreio. As condições do Brasil e de Portugal estão em [YesStyle entrega no Brasil e em Portugal?](/reviews/yesstyle-entrega-no-brasil-e-portugal).",
+          "A embalagem de presente não entra na conta do frete. Confira o frete e o prazo no checkout, depois do endereço, antes de pagar."
         ]
       },
       {
@@ -29488,7 +29488,7 @@ export const reviewsData: unknown[] = [
           "Posso somar o CECILIA010 ao cupom da promoção do mês? Sim! Ele vai no campo \"Reward Code\", enquanto os cupons vão no campo \"Coupon Code\". Assim, você soma até 5% extra (5% na primeira compra e 2% em compras recorrentes) aos cupons promocionais elegíveis confirmados no checkout.",
           "O CECILIA010 tem validade? Funciona enquanto o programa de influenciadores da YesStyle estiver ativo.",
           "Comprar na YesStyle é seguro? A empresa é legítima: é de Hong Kong e existe desde 2006. Isso não garante que os produtos sejam originais; veja o que conferir antes da compra em [YesStyle é confiável?](/reviews/yesstyle-e-confiavel).",
-          "Quanto tempo demora para chegar no Brasil? A entrega da YesStyle no Brasil está suspensa temporariamente; a situação atualizada está em [YesStyle entrega no Brasil e em Portugal?](/reviews/yesstyle-entrega-no-brasil-e-portugal). Quando a entrega está disponível, o prazo aparece no checkout, e a alfândega pode somar alguns dias.",
+          "Quanto tempo demora para chegar no Brasil? Pela tabela de frete da YesStyle, o prazo estimado para o Brasil é de 21 a 25 dias úteis, com código de rastreio. Confira o prazo no checkout antes de pagar; os detalhes estão em [YesStyle entrega no Brasil e em Portugal?](/reviews/yesstyle-entrega-no-brasil-e-portugal).",
           "Vou pagar taxa de importação? Pode acontecer. Pela [política da YesStyle](https://www.yesstyle.com/en/refund-of-customs-taxes-and-fees/help/section.html/hsi.2212), pedidos abaixo de US$ 1.000 (antes do cupom e sem o frete) podem ter os impostos e taxas alfandegárias devolvidos em Crédito da Loja: você paga, guarda o comprovante e pede em até 30 dias, contados da data do comprovante de pagamento.",
           "Qual a melhor forma de pagar? Cartão de crédito internacional (Visa, Mastercard, Amex) ou PayPal. A YesStyle deixa escolher a moeda do pedido e converte pelo [câmbio interno dela](https://www.yesstyle.com/en/payment-currencies/help/section.html/hsi.1708), fixado no momento do pedido; o banco ou a operadora do cartão podem cobrar tarifa de compra internacional.",
           "Os produtos da YesStyle são originais ou falsificados? A YesStyle afirma ser revendedora autorizada de mais de 400 marcas de beleza coreana, comprando das fabricantes ou de distribuidores autorizados. Não há auditoria independente que confirme isso nas fontes do guia; na entrega, confira lote, validade e lacre.",
@@ -39831,7 +39831,7 @@ export const reviewsData: unknown[] = [
     "metaDescription": "O código de recompensa CECILIA010 dá 5% na primeira compra da YesStyle e 2% nas seguintes. A YesStyle é confiável? Empresa, impostos e atendimento.",
     "publishedAt": "2 de agosto de 2026",
     "publishedAtISO": "2026-08-02",
-    "updatedAt": "2026-11-06",
+    "updatedAt": "2026-11-24",
     "changelog": [
       {
         "date": "2026-09-28",
@@ -39844,6 +39844,10 @@ export const reviewsData: unknown[] = [
       {
         "date": "2026-10-13",
         "text": "Frete, prazo e imposto passaram para o guia de entrega da YesStyle no Brasil e em Portugal, e saiu a frase de que os envios ao Brasil voltaram em setembro, que a loja não anunciou."
+      },
+      {
+        "date": "2026-11-24",
+        "text": "Envios ao Brasil voltaram: a tabela de frete da YesStyle passou a trazer o Brasil (Standard, 21 a 25 dias úteis, frete grátis a partir de US$ 80); atualizados o prazo, o frete grátis e as frases sobre a entrega no Brasil."
       }
     ],
     "draft": false,
@@ -39863,7 +39867,7 @@ export const reviewsData: unknown[] = [
         "heading": "Dados públicos da empresa",
         "paragraphs": [
           "A YesStyle é de Hong Kong, desde 2006. Pertence à YesAsia Holdings (2209.HK), listada na bolsa de Hong Kong, como mostram a [página de negócios da controladora](https://www.yesasiaholdings.com/business.html) e as [relações com investidores](https://www.yesasiaholdings.com/investor-relations.html).",
-          "A YesStyle atende clientes em mais de 150 países e regiões, com versão do site em português. O site deixa escolher a moeda do pedido entre as disponíveis e converte pelo [câmbio interno da YesStyle](https://www.yesstyle.com/en/payment-currencies/help/section.html/hsi.1708); o banco pode cobrar tarifa de compra internacional. A entrega da YesStyle no Brasil está suspensa temporariamente; a situação atualizada, e as condições de Portugal, estão no [guia de entrega da YesStyle](/reviews/yesstyle-entrega-no-brasil-e-portugal)."
+          "A YesStyle atende clientes em mais de 150 países e regiões, com versão do site em português. O site deixa escolher a moeda do pedido entre as disponíveis e converte pelo [câmbio interno da YesStyle](https://www.yesstyle.com/en/payment-currencies/help/section.html/hsi.1708); o banco pode cobrar tarifa de compra internacional. A YesStyle voltou a entregar no Brasil, com envio Standard em 21 a 25 dias úteis; o prazo, o frete e as condições de Portugal estão no [guia de entrega da YesStyle](/reviews/yesstyle-entrega-no-brasil-e-portugal)."
         ],
         "image": "/images/reviews/cupons/yesstyle-loja-oficial-banner.webp",
         "imageAlt": "Interface oficial e banner promocional da loja YesStyle",
@@ -39939,14 +39943,14 @@ export const reviewsData: unknown[] = [
           "A YesStyle é confiável ou é um site falso? A YesStyle é legítima. É uma empresa fundada em 2006 com sede em Hong Kong, subsidiária da YesAsia Holdings Limited, listada na bolsa de Hong Kong (2209.HK), e se apresenta como distribuidora autorizada das marcas que vende.",
           "De onde é a YesStyle? De Hong Kong: a loja foi fundada lá em 2006 e pertence à YesAsia Holdings, listada na Bolsa de Hong Kong (2209.HK).",
           "Os produtos da YesStyle são originais ou falsificados? A YesStyle afirma ser revendedora autorizada de mais de 400 marcas de beleza coreana, comprando das fabricantes ou de distribuidores autorizados. Não encontramos auditoria independente que confirme isso; na entrega, confira lote, validade e lacre.",
-          "Qual o prazo de entrega da YesStyle para o Brasil? A entrega da YesStyle no Brasil está suspensa temporariamente. A situação atualizada, e o prazo para Portugal, estão no [guia de entrega da YesStyle](/reviews/yesstyle-entrega-no-brasil-e-portugal).",
+          "Qual o prazo de entrega da YesStyle para o Brasil? O envio Standard da YesStyle para o Brasil leva de 21 a 25 dias úteis, com código de rastreio, depois de o item sair do armazém em Hong Kong. O prazo de Portugal está no [guia de entrega da YesStyle](/reviews/yesstyle-entrega-no-brasil-e-portugal).",
           "A YesStyle reembolsa os impostos de importação? Pode reembolsar. Em pedidos abaixo de US$ 1.000 (antes do cupom e sem o frete), a YesStyle devolve impostos e taxas de alfândega em crédito na loja, se você pedir ao atendimento em até 30 dias da data do comprovante. Há exclusões por destino, como o IVA na União Europeia.",
           "O código CECILIA010 muda o preço final do produto? Sim. Ele dá 5% extra na primeira compra e 2% nas seguintes, sem custo adicional para o leitor; confira o desconto no resumo antes de pagar.",
           "Como funciona a devolução na YesStyle? Peça o número de autorização (RMA) ao atendimento em até 14 dias do recebimento e envie o pacote em até 30 dias da emissão. O item volta na condição e na embalagem originais, e produtos de beleza abertos ficam de fora. O reembolso padrão é em Crédito YesStyle.",
           "A YesStyle aceita qual forma de pagamento? Cartão de crédito internacional, PayPal e, em alguns países, carteiras locais. Você escolhe a moeda do pedido entre as disponíveis, e a YesStyle converte pelo câmbio interno dela.",
           "YesStyle é seguro para inserir dados de cartão? Sim, o site utiliza conexão HTTPS segura e processa pagamentos via gateways certificados internacionais. Nunca insira dados sensíveis fora do checkout oficial.",
           "Qual é o domínio oficial da YesStyle? O domínio oficial é yesstyle.com (com idioma português disponível selecionando no site). Cuidado com sites falsos ou revendedores não autorizados.",
-          "YesStyle oferece frete grátis para o Brasil? A entrega no Brasil está suspensa temporariamente. Quando a entrega está disponível, o frete aparece no checkout, antes de pagar.",
+          "YesStyle oferece frete grátis para o Brasil? Sim, a partir de US$ 80, pela tabela de frete da loja; abaixo disso, o frete é de US$ 15. A embalagem de presente não entra na conta. Confira o frete no checkout, antes de pagar.",
           "Como usar o código CECILIA010 na YesStyle? Digite CECILIA010 no campo 'Código de Recompensa' (Reward Code) durante o checkout. Esse campo é separado do campo de cupom, e o código pode somar com cupons promocionais elegíveis."
         ]
       }
@@ -39958,7 +39962,7 @@ export const reviewsData: unknown[] = [
       ],
       "skipIf": [
         "Você só compra com garantia de autenticidade de terceiros: a originalidade é declarada pela própria loja, e não achamos auditoria independente.",
-        "Você precisa do pedido numa data certa: o prazo só aparece no checkout, e a entrega ao Brasil está suspensa temporariamente."
+        "Você precisa do pedido numa data certa: o prazo só aparece no checkout, e o envio ao Brasil leva de 21 a 25 dias úteis."
       ]
     },
     "cta": {
@@ -48029,7 +48033,7 @@ export const reviewsData: unknown[] = [
     "metaDescription": "Skincare coreano aos 30 com o código CECILIA010 e até 5% extra na YesStyle: testei o adesivo de olhos, o creme PDRN e a lip mask da Abib.",
     "publishedAt": "28 de setembro de 2026",
     "publishedAtISO": "2026-09-28",
-    "updatedAt": "2026-11-07",
+    "updatedAt": "2026-11-24",
     "draft": false,
     "isNew": false,
     "image": "/images/reviews/yesstyle/skincare-coreano-30-anos-rotina-iniciante-yesstyle-capa-v2.webp",
@@ -48188,7 +48192,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Onde comprar e como economizar com o CECILIA010",
         "paragraphs": [
-          "Os três produtos são vendidos pela YesStyle, que está com a entrega ao Brasil suspensa no site e no app. Os preços são cotados em dólar e o frete é internacional, com valor e prazo que dependem do destino.",
+          "Os três produtos são vendidos pela YesStyle, que voltou a entregar no Brasil. Os preços são cotados em dólar e o frete é internacional: para o Brasil, é grátis a partir de US$ 80 e custa US$ 15 abaixo disso, com prazo estimado de 21 a 25 dias úteis. Confira o frete e o prazo no checkout antes de pagar.",
           "No checkout, use o código CECILIA010 no campo Reward Code: ele dá 5% de desconto na primeira compra e 2% nas seguintes. Os cupons promocionais vão no outro campo, o Coupon Code, e podem ser usados junto com o CECILIA010, conforme as regras e as condições do carrinho de cada cupom. Os cupons ativos da loja estão em [cupons YesStyle e código de recompensa](/cupons/yesstyle).",
           "Sobre impostos: em pedidos elegíveis abaixo de US$ 1.000 (valor antes dos cupons, sem o frete), a YesStyle reembolsa as taxas alfandegárias em crédito na loja, com as exceções da política dela. Se houver cobrança na chegada, pague, guarde o comprovante e mande para o atendimento da loja em até 30 dias da data do comprovante."
         ],
@@ -48232,7 +48236,7 @@ export const reviewsData: unknown[] = [
           "O que é PDRN? É um ingrediente feito de fragmentos de DNA, muito usado em cosméticos coreanos que prometem firmeza, segundo as marcas. Na lip mask da Abib, a marca informa origem vegetal (centella asiática e ginkgo biloba).",
           "Retinal é a mesma coisa que ácido retinoico? Não. O ingrediente do adesivo e do creme é retinal (retinaldeído), um derivado da vitamina A que a pele converte em ácido retinoico. Por isso a ação é mais gradual, e ele pede protetor solar durante o dia.",
           "A lip mask da Abib tem cheiro forte? Tem cheirinho de doce. Eu tenho sensibilidade a cheiros fortes, e esse não me incomodou.",
-          "A YesStyle entrega no Brasil? Não: a entrega ao Brasil está suspensa no site e no app. Para taxas alfandegárias cobradas na chegada, a loja prevê reembolso em crédito para pedidos abaixo de US$ 1.000, conforme a política dela.",
+          "A YesStyle entrega no Brasil? Sim, a YesStyle voltou a entregar no Brasil: o frete é grátis a partir de US$ 80 e custa US$ 15 abaixo disso, com prazo estimado de 21 a 25 dias úteis. Para taxas alfandegárias cobradas na chegada, a loja prevê reembolso em crédito para pedidos abaixo de US$ 1.000, conforme a política dela.",
           "Onde uso o CECILIA010, o código de recompensa da YesStyle? O CECILIA010 dá 5% na primeira compra e 2% nas seguintes, e vai no campo Reward Code do checkout. Ele pode ser somado a um cupom da YesStyle, do campo Coupon Code, conforme as regras desse cupom."
         ]
       }
@@ -48263,7 +48267,7 @@ export const reviewsData: unknown[] = [
         "Você recebe numa região onde a YesStyle entrega e aceita frete e prazo internacionais."
       ],
       "skipIf": [
-        "Você está no Brasil: a entrega ao Brasil continua suspensa no site e no app.",
+        "Você tem pressa: a entrega ao Brasil leva de 21 a 25 dias úteis, segundo a tabela de frete da loja.",
         "Você quer saber o que a rotina faz pela pele: aqui é só o primeiro uso, e o resultado eu ainda vou contar."
       ]
     }
@@ -59602,11 +59606,11 @@ export const reviewsData: unknown[] = [
       "initials": "CM",
       "url": "/sobre"
     },
-    "description": "A Black Friday da YesStyle já está no ar, com Mega Sale e cupom de faixa de 8% a 15%. Veja como somar o CECILIA010 no Reward Code e por que a loja não entrega no Brasil.",
+    "description": "A Black Friday da YesStyle já está no ar, com Mega Sale e cupom de faixa de 8% a 15%. Veja como somar o CECILIA010 no Reward Code e o que vale para a entrega no Brasil.",
     "metaDescription": "Black Friday YesStyle 2026: o código de recompensa CECILIA010 dá até 5% extra. A Mega Sale, os cupons da loja por faixa e os dias de 15% sem mínimo.",
     "publishedAt": "11 de outubro de 2026",
     "publishedAtISO": "2026-10-11",
-    "updatedAt": "2026-11-23",
+    "updatedAt": "2026-11-24",
     "draft": false,
     "isNew": false,
     "image": "/images/reviews/yesstyle/black-friday-yesstyle-capa-v2.webp",
@@ -59620,7 +59624,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Resposta rápida",
         "paragraphs": [
-          "A Black Friday da YesStyle já começou. O CECILIA010 dá 5% na primeira compra e 2% nas seguintes, no campo Reward Code, junto de um cupom elegível da loja. O cupom de 15% sem mínimo já apareceu para Estados Unidos, Reino Unido e Canadá. Confira a oferta do seu destino; a entrega ao Brasil está suspensa."
+          "A Black Friday da YesStyle já começou. O CECILIA010 dá 5% na primeira compra e 2% nas seguintes, no campo Reward Code, junto de um cupom elegível da loja. O cupom de 15% sem mínimo já apareceu para Estados Unidos, Reino Unido e Canadá. Confira a oferta do seu destino; a YesStyle voltou a entregar no Brasil."
         ]
       },
       {
@@ -59706,9 +59710,9 @@ export const reviewsData: unknown[] = [
         ]
       },
       {
-        "heading": "Entrega no Brasil: a YesStyle parou",
+        "heading": "Entrega no Brasil: a YesStyle voltou a entregar",
         "paragraphs": [
-          "A entrega ao Brasil está suspensa no site e no app, então a Black Friday da loja serve a quem recebe em outro país. O que a loja publica, o prazo e o frete de Portugal e a política de reembolso de impostos da alfândega, que vale em pedidos elegíveis abaixo de US$ 1.000, estão no [guia de entrega da YesStyle](/reviews/yesstyle-entrega-no-brasil-e-portugal). O reembolso cobre só encargos da alfândega (imposto sobre vendas, IVA e GST ficam de fora) e exige enviar o comprovante de pagamento ao atendimento da YesStyle em até 30 dias da data dele. Se a entrega voltar, o frete e o prazo aparecem no checkout, e o cupom não desconta o frete."
+          "A YesStyle voltou a entregar no Brasil: a tabela oficial de frete traz envio Standard em 21 a 25 dias úteis, com rastreio, e frete grátis a partir de US$ 80 (US$ 15 abaixo disso), sem contar a embalagem de presente. O que a loja publica, o prazo e o frete do Brasil e de Portugal e a política de reembolso de impostos da alfândega, que vale em pedidos elegíveis abaixo de US$ 1.000, estão no [guia de entrega da YesStyle](/reviews/yesstyle-entrega-no-brasil-e-portugal). O reembolso cobre só encargos da alfândega (imposto sobre vendas, IVA e GST ficam de fora) e exige enviar o comprovante de pagamento ao atendimento da YesStyle em até 30 dias da data dele. Confira o frete e o prazo no checkout, antes de pagar: o cupom não desconta o frete."
         ],
         "image": "/images/reviews/yesstyle/yesstyle-reembolso-alfandega-pt-2026-10-13.webp",
         "imageAlt": "Página da YesStyle com a faixa Reembolsos de impostos e taxas alfandegárias incorridos em todos os pedidos da YesStyle abaixo de US$ 1.000",
@@ -60081,7 +60085,7 @@ export const reviewsData: unknown[] = [
         ],
         "postParagraphs": [
           "**O idioma da página não define o país da entrega.** As faixas de US$ 79, US$ 149 e US$ 199, o frete padrão grátis a partir de US$ 35 e o frete de US$ 6 abaixo disso são o que a loja mostrava para entrega nos Estados Unidos, em dólar. Quem lê em português pode estar em Portugal, e as condições mudam com o destino: a moeda, o mínimo do frete grátis, o cupom do dia, a disponibilidade de envio e as regras de imposto e de reembolso da alfândega. Confira tudo no checkout, com o seu endereço, e nas [regras de entrega da YesStyle](https://www.yesstyle.com/en/help/section.html/hsi.732).",
-          "Para o Brasil, a entrega continua suspensa no site e no app. O que a loja publica e as condições para Portugal estão no [guia de entrega da YesStyle](/reviews/yesstyle-entrega-no-brasil-e-portugal)."
+          "Para o Brasil, o frete grátis começa em US$ 80 (não nos US$ 35 dos Estados Unidos), e o envio leva de 21 a 25 dias úteis. O que a loja publica e as condições para Portugal estão no [guia de entrega da YesStyle](/reviews/yesstyle-entrega-no-brasil-e-portugal)."
         ],
         "links": [
           {
@@ -60172,7 +60176,7 @@ export const reviewsData: unknown[] = [
           "O CECILIA010, código de recompensa da YesStyle, vale na Black Friday? Vale: o CECILIA010 dá 5% na primeira compra e 2% nas seguintes, no campo Reward Code. As regras dos cupons da Black Friday dizem que eles valem junto com os Rewards Codes.",
           "Dá para usar dois cupons da YesStyle no mesmo pedido? Não: é um cupom por pedido. O código de recompensa é outra coisa e vai em outro campo do checkout.",
           "Preciso ter conta na YesStyle para usar o cupom da Black Friday? Precisa. Os cupons são só para membros, e quem compra como visitante fica sem o desconto.",
-          "A YesStyle entrega no Brasil? Não: a entrega ao Brasil está suspensa no site e no app; o que a loja publica está no [guia de entrega da YesStyle](/reviews/yesstyle-entrega-no-brasil-e-portugal).",
+          "A YesStyle entrega no Brasil? Sim, voltou a entregar: envio Standard em 21 a 25 dias úteis, com frete grátis a partir de US$ 80; confira o frete e o prazo no checkout. O que a loja publica está no [guia de entrega da YesStyle](/reviews/yesstyle-entrega-no-brasil-e-portugal).",
           "Vou pagar imposto comprando na YesStyle? Onde a loja entrega, pode haver cobrança na chegada do pacote. Em pedidos elegíveis abaixo de US$ 1.000, a YesStyle devolve os encargos de alfândega em crédito na loja, se você mandar o comprovante em até 30 dias da data dele. Imposto sobre vendas, IVA e GST ficam de fora.",
           "O que vale a pena comprar na Black Friday da YesStyle? Depende da rotina. O guia separa por necessidade: os três produtos da Abib que a Cecília testou, os discos esfoliantes da medicube e da celimax, os cremes de barreira da Centellian24 e da Dr. Althea e, para viço e proteção, Beauty of Joseon, Dr. Ceuracle e Shiseido.",
           "Os preços em dólar deste guia valem para qualquer país? Não. Foram lidos na loja em inglês, com entrega para os Estados Unidos. Moeda, preço, frete grátis e cupom do dia mudam com o destino: o checkout mostra as condições do seu endereço.",
@@ -60207,7 +60211,7 @@ export const reviewsData: unknown[] = [
         "Você vai fazer a primeira compra na YesStyle: os 5% do Reward Code valem nela."
       ],
       "skipIf": [
-        "Você está no Brasil: a entrega continua suspensa no site e no app.",
+        "Você está no Brasil e precisa do pedido em menos de 21 dias úteis: é o menor prazo de envio da YesStyle para o país.",
         "Você ia comprar um kit de duas unidades de um produto que nunca usou só pelo desconto."
       ]
     }
@@ -85830,11 +85834,11 @@ export const reviewsData: unknown[] = [
       "initials": "CM",
       "url": "/sobre"
     },
-    "description": "A YesStyle entrega em Portugal, com prazo e frete publicados, mas no momento não oferece entrega para o Brasil. Veja a tabela e o capítulo do imposto.",
-    "metaDescription": "YesStyle com o código de recompensa CECILIA010, até 5% na primeira compra: prazo, frete e imposto para Portugal, com o envio ao Brasil suspenso.",
+    "description": "A YesStyle voltou a entregar no Brasil e entrega em Portugal, com prazo e frete publicados para os dois. Veja a tabela e o capítulo do imposto.",
+    "metaDescription": "YesStyle com o código de recompensa CECILIA010, até 5% na primeira compra: prazo, frete e imposto para o Brasil e Portugal.",
     "publishedAt": "13 de outubro de 2026",
     "publishedAtISO": "2026-10-13",
-    "updatedAt": "2026-11-07",
+    "updatedAt": "2026-11-24",
     "draft": false,
     "isNew": false,
     "image": "/images/reviews/yesstyle/yesstyle-entrega-no-brasil-e-portugal-capa-pt-v2.webp",
@@ -85847,14 +85851,14 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Resposta rápida",
         "paragraphs": [
-          "A YesStyle entrega em Portugal, com prazo e frete publicados, e o IVA já vem no preço. Para o Brasil, um pedido nosso saiu em setembro, mas a entrega está suspensa temporariamente no site e no app. Veja abaixo a tabela e o capítulo do imposto."
+          "A YesStyle voltou a entregar no Brasil: envio Standard em 21 a 25 dias úteis, frete grátis a partir de US$ 80 e US$ 15 abaixo disso. Em Portugal, o prazo é de 10 a 15 dias úteis, e o IVA já vem no preço. Veja abaixo a tabela e o capítulo do imposto."
         ]
       },
       {
         "heading": "Prazo e frete no Brasil e em Portugal",
         "paragraphs": [
-          "Para Portugal, a YesStyle publica envio Standard em 10 a 15 dias úteis, frete grátis a partir de US$ 60 (US$ 5 abaixo disso) e o IVA de 23% já no preço, com os valores em dólar, como a loja publica. Para o Brasil, não publica prazo, frete nem frete grátis.",
-          "Um pedido nosso, feito na YesStyle em setembro, foi enviado dois dias depois pela transportadora Anjun Express. A tabela abaixo traz o frete em vigor em 13/10/2026.",
+          "Para Portugal, a YesStyle publica envio Standard em 10 a 15 dias úteis, frete grátis a partir de US$ 60 (US$ 5 abaixo disso) e o IVA de 23% já no preço, com os valores em dólar, como a loja publica. Para o Brasil, publica envio Standard em 21 a 25 dias úteis, frete grátis a partir de US$ 80 (US$ 15 abaixo disso) e código de rastreio.",
+          "Um pedido nosso, feito na YesStyle em setembro, foi enviado dois dias depois pela transportadora Anjun Express. A tabela abaixo traz o frete de Portugal em vigor em 13/10/2026 e o do Brasil, lido em 24/11/2026.",
           "Ao prazo do envio se soma o tempo para o item sair do armazém, explicado mais abaixo."
         ],
         "comparisonTable": {
@@ -85874,9 +85878,9 @@ export const reviewsData: unknown[] = [
             ],
             [
               "Brasil",
-              "fora da tabela; um pedido nosso saiu pela Anjun Express",
-              "não publicado",
-              "não publicado"
+              "Padrão (Standard), 21 a 25 dias úteis, com rastreio",
+              "a partir de US$ 80",
+              "US$ 15"
             ]
           ]
         },
@@ -85890,8 +85894,8 @@ export const reviewsData: unknown[] = [
       {
         "heading": "O que a loja mostra sobre o Brasil",
         "paragraphs": [
-          "A tabela de frete e a lista de países atendidos não trazem o Brasil, e o seletor de endereço de entrega do site em português também não. O aviso de 3 de julho, que pausou os novos pedidos ao Brasil por atrasos na alfândega, segue na central de avisos sem um aviso de retomada.",
-          "Mesmo assim, o nosso pedido de setembro foi enviado dois dias depois pela Anjun Express, e a entrega ao Brasil segue suspensa temporariamente no site e no app. Se a entrega voltar sem a linha do Brasil na tabela, confira o frete e o prazo no checkout, antes de pagar."
+          "Em 24/11/2026, a tabela oficial de frete da YesStyle passou a trazer o Brasil, e a loja voltou a entregar no país. A entrega ao Brasil tinha sido pausada em julho por atrasos na alfândega.",
+          "A embalagem de presente não entra na conta do frete. Confira o frete e o prazo no checkout, antes de pagar."
         ]
       },
       {
@@ -85911,7 +85915,7 @@ export const reviewsData: unknown[] = [
         "heading": "Como se conta o prazo",
         "paragraphs": [
           "Todo pedido sai do armazém da YesStyle em Hong Kong. O prazo soma dois tempos: o item sair do armazém e o envio. A loja conta os dois em dias úteis, no horário de Hong Kong (GMT+8).",
-          "Somando os prazos da loja (1 a 3 dias úteis para sair do armazém e 10 a 15 de envio): em Portugal, um pedido só com itens em estoque leva de 11 a 18 dias úteis.",
+          "Somando os prazos da loja (1 a 3 dias úteis para sair do armazém e 10 a 15 de envio): em Portugal, um pedido só com itens em estoque leva de 11 a 18 dias úteis; no Brasil, com envio de 21 a 25, de 22 a 28.",
           "Se o pagamento precisar de verificação, a contagem começa no dia em que o pedido é aprovado. Feriados e picos de pedidos também podem atrasar a saída."
         ],
         "image": {
@@ -86024,15 +86028,15 @@ export const reviewsData: unknown[] = [
             "href": "/cupons/yesstyle"
           }
         ],
-        "emphasis": "Para Portugal, a YesStyle é previsível: prazo, frete e IVA estão publicados antes do pagamento. Para o Brasil, não há o que calcular enquanto a entrega estiver suspensa temporariamente."
+        "emphasis": "Para Portugal, a YesStyle é previsível: prazo, frete e IVA estão publicados antes do pagamento. Para o Brasil, a tabela traz prazo e frete, mas o imposto só cai depois que o pacote chega."
       },
       {
         "heading": "Perguntas frequentes",
         "bullets": [
-          "A YesStyle entrega no Brasil e em Portugal? Em Portugal, sim, pela tabela de frete da loja; para o Brasil, não: um pedido nosso saiu em setembro, mas a entrega está suspensa temporariamente no site e no app.",
-          "A YesStyle voltou a entregar no Brasil? Não: a entrega ao Brasil está suspensa temporariamente no site e no app. Um pedido nosso feito em setembro saiu dois dias depois.",
-          "Quanto tempo demora a entrega da YesStyle? Em Portugal, de 11 a 18 dias úteis para um pedido só com itens em estoque: 1 a 3 para sair de Hong Kong e 10 a 15 de envio; para o Brasil, a loja não publica prazo.",
-          "A partir de quanto o frete da YesStyle é grátis? Em Portugal, a partir de US$ 60, sem contar a embalagem de presente, com frete de US$ 5 abaixo disso; para o Brasil, a loja não publica o valor.",
+          "A YesStyle entrega no Brasil e em Portugal? Sim, nos dois, pela tabela de frete da loja: de 21 a 25 dias úteis de envio para o Brasil e de 10 a 15 para Portugal.",
+          "A YesStyle voltou a entregar no Brasil? Sim: a tabela oficial de frete passou a trazer o Brasil, com envio Standard e código de rastreio. Confira o frete e o prazo no checkout antes de pagar.",
+          "Quanto tempo demora a entrega da YesStyle? Em Portugal, de 11 a 18 dias úteis para um pedido só com itens em estoque: 1 a 3 para sair de Hong Kong e 10 a 15 de envio; para o Brasil, o envio leva de 21 a 25 dias úteis, o que dá de 22 a 28 com o tempo de saída do armazém.",
+          "A partir de quanto o frete da YesStyle é grátis? Em Portugal, a partir de US$ 60, sem contar a embalagem de presente, com frete de US$ 5 abaixo disso; para o Brasil, a partir de US$ 80, com frete de US$ 15 abaixo disso.",
           "A YesStyle tem taxa ou imposto? Em Portugal, o IVA já vem no preço; no Brasil, o pacote paga Imposto de Importação mais ICMS depois que chega, veja o exemplo no capítulo do imposto.",
           "A YesStyle reembolsa a taxa da alfândega? Sim, para taxas elegíveis em pedidos abaixo de US$ 1.000, em crédito na loja, com o comprovante mandado ao atendimento em até 30 dias; no Brasil, a política cobre o Imposto de Importação e as taxas da alfândega, mas não cita o ICMS.",
           "Como pagar na YesStyle? Com cartão Visa, Mastercard, American Express ou JCB, PayPal, Apple Pay ou Google Pay; na compra em dólar, o banco pode cobrar taxa de transação internacional.",
@@ -86068,7 +86072,7 @@ export const reviewsData: unknown[] = [
         "Compre se pode esperar de 11 a 18 dias úteis por um pedido só com itens em estoque."
       ],
       "skipIf": [
-        "Passe se mora no Brasil e precisa receber agora: a entrega ao país está suspensa temporariamente.",
+        "Passe se mora no Brasil e precisa receber em poucas semanas: o envio ao país leva de 21 a 25 dias úteis.",
         "Passe se precisa do pacote em poucos dias: ao envio se soma a saída do armazém de Hong Kong, e com um item de 7 a 14 dias de espera o pedido para Portugal passa a levar de 17 a 29 dias úteis."
       ]
     }
@@ -88427,16 +88431,16 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Resposta rápida",
         "paragraphs": [
-          "Não há loja melhor para todo mundo: a escolha muda com o país, com quem paga o imposto e com o que a loja aceita de volta. No Brasil só a Jolse publica o frete, e em Portugal as cinco lojas entregam. Se você mora no Brasil, comece pela Jolse; em Portugal, decida pelo imposto e pela devolução, nas tabelas abaixo."
+          "Não há loja melhor para todo mundo: a escolha muda com o país, com quem paga o imposto e com o que a loja aceita de volta. No Brasil, a YesStyle e a Jolse publicam o frete, e em Portugal as cinco lojas entregam. Se você mora no Brasil, compare as duas; em Portugal, decida pelo imposto e pela devolução, nas tabelas abaixo."
         ]
       },
       {
         "heading": "Quem entrega no Brasil",
         "paragraphs": [
-          "No Brasil, só a Jolse publica o frete. A YesStyle não publica frete nem prazo, mas enviou um pedido nosso em setembro; o Stylevana também não os publica, e a Olive Young Global cita o país entre os sem envio. Em Portugal, as cinco lojas entregam, e todas publicam a partir de quanto o frete é grátis."
+          "No Brasil, a YesStyle voltou a entregar e, com a Jolse, publica o frete: a YesStyle, envio Standard em 21 a 25 dias úteis, grátis a partir de US$ 80 e US$ 15 abaixo disso. O Stylevana não publica frete nem prazo, e a Olive Young Global cita o país entre os sem envio. Em Portugal, as cinco lojas entregam, e todas publicam a partir de quanto o frete é grátis."
         ],
         "comparisonTable": {
-          "caption": "Envio ao Brasil da YesStyle, da Jolse e da StyleKorean, pelas páginas oficiais, pela regra da Receita Federal e por um pedido nosso à YesStyle.",
+          "caption": "Envio ao Brasil da YesStyle, da Jolse e da StyleKorean, pelas páginas oficiais e pela regra da Receita Federal.",
           "headers": [
             "Loja",
             "Envio ao Brasil",
@@ -88446,8 +88450,8 @@ export const reviewsData: unknown[] = [
           "rows": [
             [
               "YesStyle",
-              "o Brasil está fora da tabela de frete; um pedido nosso saiu pela Anjun Express",
-              "não publicado",
+              "Standard, 21 a 25 dias úteis, com rastreio",
+              "US$ 15; grátis a partir de US$ 80",
               "cobrado depois da chegada; a loja reembolsa impostos e taxas da alfândega em crédito, abaixo de US$ 1.000, mas a política não cita o ICMS"
             ],
             [
@@ -88465,7 +88469,7 @@ export const reviewsData: unknown[] = [
           ]
         },
         "postParagraphs": [
-          "A entrega da YesStyle ao Brasil está suspensa temporariamente no site e no app. A Olive Young Global cita o Brasil entre os países sem envio.",
+          "A YesStyle voltou a entregar no Brasil, com o prazo e o frete da tabela oficial; confira os dois no checkout antes de pagar. A Olive Young Global cita o Brasil entre os países sem envio.",
           "O Stylevana não publica frete nem prazo para o Brasil, e a lista de destinos dele muda de uma versão para outra: a em inglês não traz o Brasil, e as traduções mais antigas ainda trazem. A central de ajuda dele também cita o Brasil, num artigo dela, entre as regiões em que o imposto de importação não está incluído no checkout."
         ]
       },
@@ -88686,9 +88690,9 @@ export const reviewsData: unknown[] = [
       },
       {
         "heading": "Qual escolher",
-        "emphasis": "Pelos números da tabela, para quem mora no Brasil a escolha é a Jolse, porque é a única que publica frete para o país.",
+        "emphasis": "Pelos números da tabela, para quem mora no Brasil a Jolse tem o frete grátis mais baixo (US$ 60, contra US$ 80 da YesStyle), e só a YesStyle publica reembolso de taxas da alfândega.",
         "bullets": [
-          "Quem mora no Brasil: a Jolse é a única das cinco que publica frete para o país (US$ 9,99, grátis acima de US$ 60), e o imposto é pago na entrega. A YesStyle enviou um pedido nosso em setembro, mas a entrega ao Brasil está suspensa temporariamente no site e no app.",
+          "Quem mora no Brasil: a Jolse publica frete de US$ 9,99, grátis acima de US$ 60, e a YesStyle voltou a entregar, com envio de 21 a 25 dias úteis, frete de US$ 15 e grátis a partir de US$ 80. Nas duas, o imposto é pago na entrega.",
           "Quem mora em Portugal: as cinco lojas entregam e todas publicam a partir de quanto o frete é grátis, então a escolha passa pelo imposto e pela devolução, nas tabelas acima.",
           "Em qualquer país: confira na página oficial de cada loja o envio, quem paga o imposto e o que ela aceita de volta antes de fechar o pedido."
         ]
@@ -88696,16 +88700,16 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Perguntas frequentes",
         "bullets": [
-          "Qual é melhor, YesStyle ou Stylevana? Depende do país: nenhuma das duas publica frete para o Brasil, e para Portugal os prazos e os mínimos estão na tabela de entrega.",
+          "Qual é melhor, YesStyle ou Stylevana? Depende do país: no Brasil, só a YesStyle publica frete e prazo das duas, e para Portugal os prazos e os mínimos estão na tabela de entrega.",
           "A YesStyle é igual à SHEIN? Não: a YesStyle não aparece na lista de marcas do SHEIN Group e diz pertencer à YesAsia Holdings, de Hong Kong.",
           "O Stylevana entrega no Brasil? A lista de destinos em inglês não inclui o Brasil; as traduções mais antigas ainda incluem; e a loja não publica frete nem prazo para o país.",
           "A Olive Young entrega no Brasil? Não: a central de ajuda da Olive Young Global cita o Brasil entre os países sem envio.",
           "A StyleKorean entrega no Brasil? O seletor de país do site traz o Brasil e mostra os itens que a loja diz poder enviar, mas isso não confirma a entrega: a tabela de frete não traz o país, e a loja não publica frete nem prazo para ele.",
           "Qual é o limite de pedido na StyleKorean? US$ 500 por pedido, sem o frete; acima disso, a loja manda dividir em dois pedidos.",
-          "Qual loja tem o frete grátis mais baixo? Para o Brasil, só a Jolse publica o mínimo; para Portugal, os mínimos estão na tabela de entrega, e o Stylevana é o único em euro.",
+          "Qual loja tem o frete grátis mais baixo? Para o Brasil, a Jolse publica o menor mínimo (US$ 60, contra US$ 80 da YesStyle); para Portugal, os mínimos estão na tabela de entrega, e o Stylevana é o único em euro.",
           "Quem paga o imposto? Depende da loja e do país: em Portugal, a YesStyle e a Jolse já incluem o IVA; no Brasil, o imposto é cobrado depois que o pacote chega, e só a YesStyle publica reembolso de impostos e taxas da alfândega, em crédito, abaixo de US$ 1.000, sem citar o ICMS.",
           "Posso devolver produto de beleza aberto? Não por arrependimento, em nenhuma das cinco lojas; o Stylevana aceita arrependimento só com o produto novo, lacrado e sem uso.",
-          "Qual loja entrega mais rápido? As lojas publicam o prazo do envio, não o total: para Portugal, o Stylevana indica 6 a 11 dias úteis e a YesStyle 10 a 15, sem contar o tempo para o item sair de Hong Kong; para o Brasil, nenhuma das duas publica prazo.",
+          "Qual loja entrega mais rápido? As lojas publicam o prazo do envio, não o total: para Portugal, o Stylevana indica 6 a 11 dias úteis e a YesStyle 10 a 15, sem contar o tempo para o item sair de Hong Kong; para o Brasil, só a YesStyle publica prazo, de 21 a 25 dias úteis de envio.",
           "YesStyle ou Shopee? A Shopee é um marketplace no Remessa Conforme, com devolução em 7 dias pela Garantia Shopee, e a YesStyle fica fora do programa, com o imposto cobrado depois que o pacote chega.",
           "Qual é o código de recompensa da YesStyle? O CECILIA010 dá até 5% na primeira compra e 2% nas seguintes, e vai em campo próprio, o Reward Code do checkout. Ele soma com um cupom da loja, e os cupons do momento ficam na página da YesStyle aqui do site."
         ]
@@ -88734,14 +88738,14 @@ export const reviewsData: unknown[] = [
         "slug": "codigo-cecilia010-yesstyle-como-usar"
       }
     ],
-    "updatedAt": "2026-11-09",
+    "updatedAt": "2026-11-24",
     "decision": {
       "takeIf": [
-        "Leve a Jolse se você mora no Brasil e quer ver o frete antes de pagar: das cinco lojas, só ela publica o valor para o país.",
+        "Leve a Jolse se você mora no Brasil e quer o frete grátis mais baixo: a partir de US$ 60, contra US$ 80 da YesStyle.",
         "Considere a YesStyle ou a Jolse se mora em Portugal e prefere o IVA já incluído no preço."
       ],
       "skipIf": [
-        "Passe na YesStyle se mora no Brasil e quer comprar agora: a entrega ao país está suspensa temporariamente no site e no app.",
+        "Passe na YesStyle se mora no Brasil e precisa receber em poucas semanas: o envio ao país leva de 21 a 25 dias úteis.",
         "Passe nas cinco lojas se pretende devolver produto de beleza aberto por arrependimento: nenhuma aceita."
       ]
     }
@@ -126821,7 +126825,7 @@ export const reviewsData: unknown[] = [
     "metaDescription": "O código de recompensa CECILIA010 dá até 5% de desconto na YesStyle. YesStyle ou Olive Young Global: frete, prazo, imposto e entrega por país.",
     "publishedAt": "21 de outubro de 2026",
     "publishedAtISO": "2026-10-21",
-    "updatedAt": "2026-11-07",
+    "updatedAt": "2026-11-24",
     "draft": false,
     "isNew": false,
     "image": "/images/reviews/yesstyle/yesstyle-ou-olive-young-capa-pt-v2.webp",
@@ -126834,14 +126838,14 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Resposta rápida",
         "paragraphs": [
-          "Depende do seu país. A Olive Young Global não entrega no Brasil, e a YesStyle não publica prazo nem frete para ele, então quem está aí não tem comparação direta. Onde as duas entregam, pesam o frete grátis, o imposto e a devolução; veja o capítulo Qual escolher, conforme o país."
+          "Depende do seu país. A Olive Young Global não entrega no Brasil, mas a YesStyle voltou a entregar: envio Standard em 21 a 25 dias úteis e frete grátis a partir de US$ 80. Quem está aí tem a YesStyle como única das duas. Onde as duas entregam, pesam o frete grátis, o imposto e a devolução; veja o capítulo Qual escolher, conforme o país."
         ]
       },
       {
         "heading": "Quem entrega no seu país",
         "paragraphs": [
-          "Depende do seu país. A YesStyle publica prazo e frete para 23 dos 24 países do comparativo, todos menos o Brasil. A Olive Young Global publica prazo para 10 deles e não atende os EUA, que têm loja americana própria. Nos outros 22 países, a comparação muda de um para outro.",
-          "Cada linha é um país; a última reúne os demais. A coluna da YesStyle vem da tabela de frete publicada em 13/10/2026. A da Olive Young vem da página de envio de 21/10/2026. Onde a loja não publica prazo ou frete, a célula diz isso."
+          "Depende do seu país. A YesStyle publica prazo e frete para os 24 países do comparativo, o Brasil incluído. A Olive Young Global publica prazo para 10 deles e não atende os EUA, que têm loja americana própria. Nos outros 22 países, a comparação muda de um para outro.",
+          "Cada linha é um país; a última reúne os demais. A coluna da YesStyle vem da tabela de frete publicada em 13/10/2026; a linha do Brasil, da tabela lida em 24/11/2026. A da Olive Young vem da página de envio de 21/10/2026. Onde a loja não publica prazo ou frete, a célula diz isso."
         ],
         "comparisonTable": {
           "headers": [
@@ -126852,7 +126856,7 @@ export const reviewsData: unknown[] = [
           "rows": [
             [
               "Brasil",
-              "Entrega suspensa temporariamente no site e no app; um pedido nosso de setembro foi enviado",
+              "Standard, 21 a 25 dias úteis; grátis a partir de US$ 80",
               "Não entrega"
             ],
             [
@@ -126873,9 +126877,9 @@ export const reviewsData: unknown[] = [
           "Cinco países não aparecem no seletor de destino da loja global: Brasil, Espanha, Argentina, Peru e Estados Unidos. Nos EUA, a Olive Young vende pela loja americana própria. A tabela da Olive Young também tem uma linha \"outras regiões\" (15 dias, US$ 60), sem lista de países."
         ],
         "image": {
-          "src": "/images/reviews/yesstyle/yesstyle-olive-young-entrega-por-pais.webp",
+          "src": "/images/reviews/yesstyle/yesstyle-olive-young-entrega-por-pais-v2.webp",
           "alt": "Grade com 24 siglas de países, cada uma com dois pontos: o da esquerda para a YesStyle e o da direita para a Olive Young",
-          "caption": "Verde: entrega; amarelo: entrega sem prazo publicado ou, no Brasil, com a entrega da YesStyle suspensa temporariamente; ×: não entrega; laranja: nos EUA, a Olive Young vende pela loja americana.",
+          "caption": "Verde: entrega; amarelo: entrega sem prazo publicado; ×: não entrega; laranja: nos EUA, a Olive Young vende pela loja americana.",
           "objectFit": "contain",
           "aspectRatio": 1.7778
         }
@@ -126885,13 +126889,14 @@ export const reviewsData: unknown[] = [
         "paragraphs": [
           "Os prazos são de envio, não de porta a porta. Na YesStyle, o tempo para o item sair do armazém de Hong Kong soma ao envio: um item em estoque sai em 1 a 3 dias úteis. A Olive Young mostra só o prazo do envio, sem o tempo de saída do armazém. Não some os valores de uma loja com os da outra: a YesStyle conta em dias úteis, e a Olive Young mostra só “dias”, sem dizer se são úteis.",
           "**Portugal.** Pelo envio Standard da YesStyle, o prazo é de 10 a 15 dias úteis, com rastreio. Um pedido só com itens em estoque chega em 11 a 18 dias úteis. Com um item de 7 a 14 dias de espera, o pedido sobe para 17 a 29 dias úteis. O frete é grátis a partir de US$ 60 (a embalagem de presente não entra nesse total) e custa US$ 5 abaixo disso. A Olive Young entrega em Portugal, mas a tabela de envio não tem linha para o país: pela FAQ de frete, o envio é grátis a partir de US$ 60 e custa US$ 25 abaixo disso, contado sobre o preço dos produtos sem descontos. O prazo não é publicado; a loja só diz que separa e embala o pedido em 1 a 3 dias úteis. Para comparar o prazo, ponha o endereço português no checkout de cada loja. Abaixo do mínimo, o frete da YesStyle sai bem mais barato.",
+          "**Brasil.** Pelo envio Standard da YesStyle, o prazo é de 21 a 25 dias úteis, com rastreio, e de 22 a 28 para um pedido só com itens em estoque. O frete é grátis a partir de US$ 80 (a embalagem de presente não entra nesse total) e custa US$ 15 abaixo disso. A Olive Young não entrega no país.",
           "**Os outros países.** Onde as duas entregam, a Olive Young tem prazo menor em alguns casos: Reino Unido (4 a 5 dias, contra 5 a 12 dias úteis no Premium Standard da YesStyle), Canadá (5 a 7, contra 7 a 14), Austrália (4 a 5, contra 6 a 8), França e Alemanha (4 a 5, contra 10 a 15) e México (8 a 9, contra 10 a 13). Na Ásia, a YesStyle tem prazo menor em Hong Kong (1 a 3 dias, contra 3 a 5), no Japão (4 a 5, contra 6 a 7) e em Singapura (3 a 5, contra 5 a 6), porque usa o Express. Compare sempre o método de cada loja.",
-          "**Frete grátis.** A Olive Young libera o frete a partir de US$ 60 na maioria dos países do comparativo. Em Taiwan, o limite é US$ 35, e no Japão, ¥ 3.900. A YesStyle pede US$ 35 em Hong Kong, na Malásia, nos EUA (Standard) e na Austrália (Premium Standard); US$ 45 na Europa continental, na Espanha, no México e na Colômbia; US$ 50 no Japão, na Coreia, em Taiwan, em Singapura, no Reino Unido e no Canadá; e US$ 60 em Portugal, no Chile, no Peru e na Argentina. Abaixo do mínimo, a YesStyle cobra de US$ 3 a US$ 8 na maioria dos países."
+          "**Frete grátis.** A Olive Young libera o frete a partir de US$ 60 na maioria dos países do comparativo. Em Taiwan, o limite é US$ 35, e no Japão, ¥ 3.900. A YesStyle pede US$ 35 em Hong Kong, na Malásia, nos EUA (Standard) e na Austrália (Premium Standard); US$ 45 na Europa continental, na Espanha, no México e na Colômbia; US$ 50 no Japão, na Coreia, em Taiwan, em Singapura, no Reino Unido e no Canadá; US$ 60 em Portugal, no Chile, no Peru e na Argentina; e US$ 80 no Brasil. Abaixo do mínimo, a YesStyle cobra de US$ 3 a US$ 8 na maioria dos países."
         ],
         "image": {
-          "src": "/images/reviews/yesstyle/yesstyle-olive-young-frete-gratis.webp",
+          "src": "/images/reviews/yesstyle/yesstyle-olive-young-frete-gratis-v2.webp",
           "alt": "Grade com 24 siglas de países e, em cada uma, o valor em dólar a partir do qual o frete é grátis: à esquerda na YesStyle, à direita na Olive Young",
-          "caption": "Frete grátis a partir de quanto, em US$ (no Japão, a Olive Young usa ¥ 3.900). Em verde, o menor valor de cada país; ×: não entrega; laranja: nos EUA, a OLIVE YOUNG US; traço: frete não publicado (a YesStyle no Brasil; a Olive Young na Coreia, que fica fora da tabela de envio dela).",
+          "caption": "Frete grátis a partir de quanto, em US$ (no Japão, a Olive Young usa ¥ 3.900). Em verde, o menor valor de cada país; ×: não entrega; laranja: nos EUA, a OLIVE YOUNG US; traço: frete não publicado (a Olive Young na Coreia, que fica fora da tabela de envio dela).",
           "objectFit": "contain",
           "aspectRatio": 1.7778
         }
@@ -127032,7 +127037,7 @@ export const reviewsData: unknown[] = [
         "paragraphs": [
           "A FAQ de países elegíveis da Olive Young Global diz que o envio não está disponível para países que não estão na lista, e cita Espanha, Brasil e Índia como exemplos. O seletor de destino da loja tem 61 países e não tem o Brasil. A tabela de envio, com a transportadora de cada país (DHL, FedEx, LX Pantos, UPS ou KSE), também não tem o Brasil.",
           "A loja diz que a lista pode mudar: países podem ser suspensos ou removidos a qualquer momento. A linha \"outras regiões\", de 15 dias, não diz quais países cobre, e a FAQ fala de países fora da lista. Para o Brasil, então, a resposta é a da FAQ: não é enviado.",
-          "As fontes da comparação não dão o motivo da falta do Brasil, e este texto não chuta um. A YesStyle também não publica prazo nem frete para o Brasil, e a entrega ao país está suspensa temporariamente no site e no app. Mesmo assim, um pedido nosso de setembro foi enviado dois dias depois de feito."
+          "As fontes da comparação não dão o motivo da falta do Brasil, e este texto não chuta um. A YesStyle, ao contrário, voltou a entregar no Brasil e publica prazo e frete para o país."
         ]
       },
       {
@@ -127045,7 +127050,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Qual escolher, conforme o país",
         "bullets": [
-          "Mora no Brasil: a Olive Young Global não entrega, e a entrega da YesStyle ao país está suspensa temporariamente no site e no app, embora um pedido nosso de setembro tenha sido enviado.",
+          "Mora no Brasil: a Olive Young Global não entrega, e a YesStyle voltou a entregar ao país, com envio de 21 a 25 dias úteis e frete grátis a partir de US$ 80. Confira o frete e o prazo no checkout antes de pagar.",
           "Mora em Portugal: as duas entregam, e a YesStyle publica o prazo (10 a 15 dias úteis no Standard) e a Olive Young só a regra de frete. Nas duas, o frete é grátis a partir de US$ 60; abaixo disso, a YesStyle cobra US$ 5 e a Olive Young, US$ 25.",
           "Mora nos Estados Unidos: a comparação é com a OLIVE YOUNG US, e nas duas o frete grátis começa em US$ 35.",
           "Pesa a devolução: a YesStyle aceita desistência e troca de tamanho, com o número de devolução pedido em até 14 dias; a Olive Young só aceita defeito ou item errado, em 30 dias.",
@@ -127149,7 +127154,7 @@ export const reviewsData: unknown[] = [
           "Four countries do not appear in the global store's destination selector: Spain, Argentina, Peru and the United States. In the US, Olive Young sells through its own American store. Olive Young's table also has an \"other regions\" row (15 days, US$60), with no list of countries."
         ],
         "image": {
-          "src": "/images/reviews/yesstyle/yesstyle-olive-young-entrega-por-pais.webp",
+          "src": "/images/reviews/yesstyle/yesstyle-olive-young-entrega-por-pais-v2.webp",
           "alt": "Grid of 24 country codes, each with two dots: the left one for YesStyle and the right one for Olive Young",
           "caption": "Green: ships; yellow: ships with no published delivery time; ×: does not ship; orange: in the US, Olive Young sells through its American store.",
           "objectFit": "contain",
@@ -127164,7 +127169,7 @@ export const reviewsData: unknown[] = [
           "**Free shipping.** Olive Young makes shipping free from US$60 in most of the comparison's countries. In Taiwan, the threshold is US$35, and in Japan, ¥3,900. YesStyle asks for US$35 in Hong Kong, Malaysia, the US (Standard) and Australia (Premium Standard); US$45 in continental Europe, Spain, Mexico and Colombia; US$50 in Japan, Korea, Taiwan, Singapore, the United Kingdom and Canada; and US$60 in Chile, Peru and Argentina. Below the minimum, YesStyle charges US$3 to US$8 in most countries."
         ],
         "image": {
-          "src": "/images/reviews/yesstyle/yesstyle-olive-young-frete-gratis.webp",
+          "src": "/images/reviews/yesstyle/yesstyle-olive-young-frete-gratis-v2.webp",
           "alt": "Grid of 24 country codes and, for each, the dollar amount from which shipping is free: YesStyle on the left, Olive Young on the right",
           "caption": "Free shipping from what amount, in US$ (in Japan, Olive Young uses ¥3,900). In green, the lowest value for each country; ×: does not ship; orange: in the US, OLIVE YOUNG US; dash: shipping not published (Olive Young in Korea, which is left out of its shipping table).",
           "objectFit": "contain",
@@ -127412,7 +127417,7 @@ export const reviewsData: unknown[] = [
           "Cuatro países no aparecen en el selector de destino de la tienda global: España, Argentina, Perú y Estados Unidos. En EE. UU., Olive Young vende por su propia tienda estadounidense. La tabla de Olive Young también tiene una fila \"otras regiones\" (15 días, 60 US$), sin lista de países."
         ],
         "image": {
-          "src": "/images/reviews/yesstyle/yesstyle-olive-young-entrega-por-pais.webp",
+          "src": "/images/reviews/yesstyle/yesstyle-olive-young-entrega-por-pais-v2.webp",
           "alt": "Cuadrícula con 24 siglas de países, cada una con dos puntos: el de la izquierda para YesStyle y el de la derecha para Olive Young",
           "caption": "Verde: envía; amarillo: envía sin plazo publicado; ×: no envía; naranja: en EE. UU., Olive Young vende por la tienda estadounidense.",
           "objectFit": "contain",
@@ -127427,7 +127432,7 @@ export const reviewsData: unknown[] = [
           "**Envío gratis.** Olive Young libera el envío desde 60 US$ en la mayoría de los países de la comparación. En Taiwán, el límite es 35 US$, y en Japón, 3.900 ¥. YesStyle pide 35 US$ en Hong Kong, Malasia, EE. UU. (Standard) y Australia (Premium Standard); 45 US$ en Europa continental, España, México y Colombia; 50 US$ en Japón, Corea, Taiwán, Singapur, Reino Unido y Canadá; y 60 US$ en Chile, Perú y Argentina. Por debajo del mínimo, YesStyle cobra de 3 a 8 US$ en la mayoría de los países."
         ],
         "image": {
-          "src": "/images/reviews/yesstyle/yesstyle-olive-young-frete-gratis.webp",
+          "src": "/images/reviews/yesstyle/yesstyle-olive-young-frete-gratis-v2.webp",
           "alt": "Cuadrícula con 24 siglas de países y, en cada una, el valor en dólares a partir del cual el envío es gratis: a la izquierda YesStyle, a la derecha Olive Young",
           "caption": "Envío gratis desde cuánto, en US$ (en Japón, Olive Young usa 3.900 ¥). En verde, el menor valor de cada país; ×: no envía; naranja: en EE. UU., OLIVE YOUNG US; guion: envío no publicado (Olive Young en Corea, que queda fuera de su tabla de envío).",
           "objectFit": "contain",
@@ -127675,7 +127680,7 @@ export const reviewsData: unknown[] = [
           "Quatre pays n'apparaissent pas dans le sélecteur de destination de la boutique globale : l'Espagne, l'Argentine, le Pérou et les États-Unis. Aux États-Unis, Olive Young vend par sa propre boutique américaine. Le tableau d'Olive Young a aussi une ligne « autres régions » (15 jours, 60 $US), sans liste de pays."
         ],
         "image": {
-          "src": "/images/reviews/yesstyle/yesstyle-olive-young-entrega-por-pais.webp",
+          "src": "/images/reviews/yesstyle/yesstyle-olive-young-entrega-por-pais-v2.webp",
           "alt": "Grille de 24 codes de pays, chacun avec deux points : celui de gauche pour YesStyle et celui de droite pour Olive Young",
           "caption": "Vert : livre ; jaune : livre sans délai publié ; × : ne livre pas ; orange : aux États-Unis, Olive Young vend par la boutique américaine.",
           "objectFit": "contain",
@@ -127690,7 +127695,7 @@ export const reviewsData: unknown[] = [
           "**Livraison gratuite.** Olive Young offre la livraison dès 60 $US dans la plupart des pays de la comparaison. À Taïwan, le seuil est de 35 $US, et au Japon, de 3 900 ¥. YesStyle demande 35 $US à Hong Kong, en Malaisie, aux États-Unis (Standard) et en Australie (Premium Standard) ; 45 $US en Europe continentale, en Espagne, au Mexique et en Colombie ; 50 $US au Japon, en Corée, à Taïwan, à Singapour, au Royaume-Uni et au Canada ; et 60 $US au Chili, au Pérou et en Argentine. En dessous du minimum, YesStyle facture de 3 à 8 $US dans la plupart des pays."
         ],
         "image": {
-          "src": "/images/reviews/yesstyle/yesstyle-olive-young-frete-gratis.webp",
+          "src": "/images/reviews/yesstyle/yesstyle-olive-young-frete-gratis-v2.webp",
           "alt": "Grille de 24 codes de pays avec, pour chacun, le montant en dollars à partir duquel la livraison est gratuite : à gauche chez YesStyle, à droite chez Olive Young",
           "caption": "Livraison gratuite à partir de quel montant, en $US (au Japon, Olive Young utilise 3 900 ¥). En vert, la plus petite valeur de chaque pays ; × : ne livre pas ; orange : aux États-Unis, OLIVE YOUNG US ; tiret : frais de livraison non publiés (Olive Young en Corée, qui est hors de son tableau de livraison).",
           "objectFit": "contain",
@@ -127938,7 +127943,7 @@ export const reviewsData: unknown[] = [
           "Vier Länder tauchen in der Zielauswahl des globalen Shops nicht auf: Spanien, Argentinien, Peru und die Vereinigten Staaten. In den USA verkauft Olive Young über den eigenen amerikanischen Shop. Die Tabelle von Olive Young hat außerdem eine Zeile „weitere Regionen“ (15 Tage, 60 US-$), ohne Länderliste."
         ],
         "image": {
-          "src": "/images/reviews/yesstyle/yesstyle-olive-young-entrega-por-pais.webp",
+          "src": "/images/reviews/yesstyle/yesstyle-olive-young-entrega-por-pais-v2.webp",
           "alt": "Raster mit 24 Länderkürzeln, jedes mit zwei Punkten: der linke für YesStyle und der rechte für Olive Young",
           "caption": "Grün: liefert; gelb: liefert ohne veröffentlichte Lieferzeit; ×: liefert nicht; orange: in den USA verkauft Olive Young über den amerikanischen Shop.",
           "objectFit": "contain",
@@ -127953,7 +127958,7 @@ export const reviewsData: unknown[] = [
           "**Kostenloser Versand.** Olive Young macht den Versand ab 60 US-$ kostenlos, in den meisten Ländern des Vergleichs. In Taiwan liegt die Grenze bei 35 US-$ und in Japan bei 3.900 ¥. YesStyle verlangt 35 US-$ in Hongkong, Malaysia, den USA (Standard) und Australien (Premium Standard); 45 US-$ in Kontinentaleuropa, Spanien, Mexiko und Kolumbien; 50 US-$ in Japan, Korea, Taiwan, Singapur, dem Vereinigten Königreich und Kanada; und 60 US-$ in Chile, Peru und Argentinien. Unter dem Mindestwert berechnet YesStyle in den meisten Ländern 3 bis 8 US-$."
         ],
         "image": {
-          "src": "/images/reviews/yesstyle/yesstyle-olive-young-frete-gratis.webp",
+          "src": "/images/reviews/yesstyle/yesstyle-olive-young-frete-gratis-v2.webp",
           "alt": "Raster mit 24 Länderkürzeln und, bei jedem, dem Dollarbetrag, ab dem der Versand kostenlos ist: links bei YesStyle, rechts bei Olive Young",
           "caption": "Kostenloser Versand ab welchem Betrag, in US-$ (in Japan nutzt Olive Young 3.900 ¥). Grün: der niedrigste Wert je Land; ×: liefert nicht; orange: in den USA OLIVE YOUNG US; Strich: Versand nicht veröffentlicht (Olive Young in Korea, das außerhalb der Versandtabelle liegt).",
           "objectFit": "contain",
@@ -128201,7 +128206,7 @@ export const reviewsData: unknown[] = [
           "Quattro paesi non compaiono nel selettore di destinazione del negozio globale: Spagna, Argentina, Perù e Stati Uniti. Negli USA, Olive Young vende dal proprio negozio americano. La tabella di Olive Young ha anche una riga \"altre regioni\" (15 giorni, 60 USD), senza elenco di paesi."
         ],
         "image": {
-          "src": "/images/reviews/yesstyle/yesstyle-olive-young-entrega-por-pais.webp",
+          "src": "/images/reviews/yesstyle/yesstyle-olive-young-entrega-por-pais-v2.webp",
           "alt": "Griglia con 24 sigle di paesi, ciascuna con due punti: quello a sinistra per YesStyle e quello a destra per Olive Young",
           "caption": "Verde: spedisce; giallo: spedisce senza tempi pubblicati; ×: non spedisce; arancione: negli USA, Olive Young vende dal negozio americano.",
           "objectFit": "contain",
@@ -128216,7 +128221,7 @@ export const reviewsData: unknown[] = [
           "**Spedizione gratuita.** Olive Young rende gratuita la spedizione da 60 USD nella maggior parte dei paesi del confronto. A Taiwan, la soglia è 35 USD, e in Giappone 3.900 ¥. YesStyle chiede 35 USD a Hong Kong, in Malesia, negli USA (Standard) e in Australia (Premium Standard); 45 USD nell'Europa continentale, in Spagna, in Messico e in Colombia; 50 USD in Giappone, Corea, Taiwan, Singapore, Regno Unito e Canada; e 60 USD in Cile, Perù e Argentina. Sotto il minimo, YesStyle addebita da 3 a 8 USD nella maggior parte dei paesi."
         ],
         "image": {
-          "src": "/images/reviews/yesstyle/yesstyle-olive-young-frete-gratis.webp",
+          "src": "/images/reviews/yesstyle/yesstyle-olive-young-frete-gratis-v2.webp",
           "alt": "Griglia con 24 sigle di paesi e, in ciascuna, il valore in dollari da cui la spedizione è gratuita: a sinistra YesStyle, a destra Olive Young",
           "caption": "Spedizione gratuita da quale importo, in USD (in Giappone, Olive Young usa 3.900 ¥). In verde, il valore più basso di ciascun paese; ×: non spedisce; arancione: negli USA, OLIVE YOUNG US; trattino: spedizione non pubblicata (Olive Young in Corea, che resta fuori dalla sua tabella delle spedizioni).",
           "objectFit": "contain",
@@ -128464,7 +128469,7 @@ export const reviewsData: unknown[] = [
           "글로벌 쇼핑몰의 배송지 선택 화면에 없는 나라가 네 곳 있습니다. 스페인, 아르헨티나, 페루, 미국입니다. 미국에서는 Olive Young이 별도의 미국 쇼핑몰로 판매합니다. Olive Young 표에는 '기타 지역' 줄(15일, US$60)도 있지만 나라 목록은 없습니다."
         ],
         "image": {
-          "src": "/images/reviews/yesstyle/yesstyle-olive-young-entrega-por-pais.webp",
+          "src": "/images/reviews/yesstyle/yesstyle-olive-young-entrega-por-pais-v2.webp",
           "alt": "24개국의 국가 코드가 늘어선 표. 각 나라마다 점이 둘이며 왼쪽은 YesStyle, 오른쪽은 Olive Young",
           "caption": "초록: 배송함. 노랑: 배송 기간 미공개. ×: 배송 안 함. 주황: 미국에서는 Olive Young이 별도의 미국 쇼핑몰로 판매함.",
           "objectFit": "contain",
@@ -128479,7 +128484,7 @@ export const reviewsData: unknown[] = [
           "**무료배송.** Olive Young은 비교 대상 대부분의 나라에서 US$60부터 무료배송입니다. 대만은 US$35, 일본은 ¥3,900입니다. YesStyle은 홍콩, 말레이시아, 미국(Standard), 호주(Premium Standard)에서 US$35, 유럽 대륙, 스페인, 멕시코, 콜롬비아에서 US$45, 일본, 한국, 대만, 싱가포르, 영국, 캐나다에서 US$50, 칠레, 페루, 아르헨티나에서 US$60을 요구합니다. 최소 금액에 못 미치면 YesStyle은 대부분의 나라에서 US$3~US$8을 받습니다."
         ],
         "image": {
-          "src": "/images/reviews/yesstyle/yesstyle-olive-young-frete-gratis.webp",
+          "src": "/images/reviews/yesstyle/yesstyle-olive-young-frete-gratis-v2.webp",
           "alt": "24개국의 국가 코드와 각 나라에서 무료배송이 시작되는 금액(달러)을 나열한 표. 왼쪽은 YesStyle, 오른쪽은 Olive Young",
           "caption": "무료배송이 시작되는 금액(US$, 일본의 Olive Young은 ¥3,900). 초록: 나라별로 더 낮은 금액, ×: 배송 안 함, 주황: 미국의 OLIVE YOUNG US, 대시: 배송비 미공개(Olive Young의 한국은 배송표에서 빠져 있음).",
           "objectFit": "contain",
@@ -128727,7 +128732,7 @@ export const reviewsData: unknown[] = [
           "配送先の選択画面に出てこない国が、グローバルショップには4つあります。スペイン、アルゼンチン、ペルー、アメリカです。アメリカでは、Olive Youngは専用のアメリカのショップで販売しています。Olive Youngの表には「その他の地域」の行（15日、US$60）もありますが、対象国のリストはありません。"
         ],
         "image": {
-          "src": "/images/reviews/yesstyle/yesstyle-olive-young-entrega-por-pais.webp",
+          "src": "/images/reviews/yesstyle/yesstyle-olive-young-entrega-por-pais-v2.webp",
           "alt": "24か国の国コードが並ぶ表。各国に点が2つあり、左がYesStyle、右がOlive Young",
           "caption": "緑は配送あり。黄色は配送日数が非公表。×は配送なし。オレンジは、アメリカではOlive Youngが専用のアメリカのショップで販売していることを示します。",
           "objectFit": "contain",
@@ -128742,7 +128747,7 @@ export const reviewsData: unknown[] = [
           "**送料無料。** Olive Young Globalは、比較対象のほとんどの国でUS$60以上を送料無料にしています。台湾ではUS$35、日本では¥3,900です。YesStyleは、香港、マレーシア、アメリカ（Standard）、オーストラリア（Premium Standard）でUS$35、ヨーロッパ大陸、スペイン、メキシコ、コロンビアでUS$45、日本、韓国、台湾、シンガポール、イギリス、カナダでUS$50、チリ、ペルー、アルゼンチンでUS$60が条件です。最低額に届かない場合、YesStyleはほとんどの国でUS$3〜US$8かかります。"
         ],
         "image": {
-          "src": "/images/reviews/yesstyle/yesstyle-olive-young-frete-gratis.webp",
+          "src": "/images/reviews/yesstyle/yesstyle-olive-young-frete-gratis-v2.webp",
           "alt": "24か国の国コードと、それぞれの送料無料になる金額（ドル）を並べた表。左がYesStyle、右がOlive Young",
           "caption": "送料無料になる金額（US$。日本のOlive Youngは¥3,900）。緑は各国で低いほうの金額、×は配送なし、オレンジはアメリカのOLIVE YOUNG US、ダッシュは送料が非公表（Olive Youngの韓国は、配送表に入っていません）。",
           "objectFit": "contain",
@@ -128990,7 +128995,7 @@ export const reviewsData: unknown[] = [
           "全球站的目的地選單裡沒有四個國家：西班牙、阿根廷、秘魯與美國。在美國，Olive Young 透過自己的美國站銷售。Olive Young 的表格另有一行「其他地區」（15 天，US$60），但沒有列出國家。"
         ],
         "image": {
-          "src": "/images/reviews/yesstyle/yesstyle-olive-young-entrega-por-pais.webp",
+          "src": "/images/reviews/yesstyle/yesstyle-olive-young-entrega-por-pais-v2.webp",
           "alt": "一張含 24 個國家代碼的表格，每個國家有兩個圓點，左邊代表 YesStyle，右邊代表 Olive Young",
           "caption": "綠色：有寄送；黃色：有寄送但未公布運送時間；×：不寄送；橘色：在美國，Olive Young 透過自己的美國站銷售。",
           "objectFit": "contain",
@@ -129005,7 +129010,7 @@ export const reviewsData: unknown[] = [
           "**免運。** Olive Young 在比較表中的多數國家滿 US$60 免運；台灣的門檻是 US$35，日本是 ¥3,900。YesStyle 在香港、馬來西亞、美國（Standard）與澳洲（Premium Standard）為 US$35；在歐洲大陸、西班牙、墨西哥與哥倫比亞為 US$45；在日本、韓國、台灣、新加坡、英國與加拿大為 US$50；在智利、秘魯與阿根廷為 US$60。未達門檻時，YesStyle 在多數國家收 US$3 至 US$8。"
         ],
         "image": {
-          "src": "/images/reviews/yesstyle/yesstyle-olive-young-frete-gratis.webp",
+          "src": "/images/reviews/yesstyle/yesstyle-olive-young-frete-gratis-v2.webp",
           "alt": "一張含 24 個國家代碼的表格，每個國家標出免運的美元門檻：左邊是 YesStyle，右邊是 Olive Young",
           "caption": "免運門檻，單位 US$（Olive Young 在日本為 ¥3,900）。綠色：各國中較低的金額；×：不寄送；橘色：美國的 OLIVE YOUNG US；橫線：運費未公布（Olive Young 的韓國不在其運送表內）。",
           "objectFit": "contain",
@@ -129253,7 +129258,7 @@ export const reviewsData: unknown[] = [
           "全球站的目的地选择器里没有四个国家：西班牙、阿根廷、秘鲁和美国。在美国，Olive Young 通过自己的美国站销售。Olive Young 的表里另有一行“其他地区”（15 天，US$60），但没有列出国家。"
         ],
         "image": {
-          "src": "/images/reviews/yesstyle/yesstyle-olive-young-entrega-por-pais.webp",
+          "src": "/images/reviews/yesstyle/yesstyle-olive-young-entrega-por-pais-v2.webp",
           "alt": "一张含 24 个国家代码的表格，每个国家有两个圆点，左边代表 YesStyle，右边代表 Olive Young",
           "caption": "绿色：寄送；黄色：寄送但未公布运送时间；×：不寄送；橙色：在美国，Olive Young 通过自己的美国站销售。",
           "objectFit": "contain",
@@ -129268,7 +129273,7 @@ export const reviewsData: unknown[] = [
           "**免运费。** Olive Young 在对比表中的多数国家满 US$60 免运费；台湾的门槛是 US$35，日本是 ¥3,900。YesStyle 在香港、马来西亚、美国（Standard）和澳大利亚（Premium Standard）为 US$35；在欧洲大陆、西班牙、墨西哥和哥伦比亚为 US$45；在日本、韩国、台湾、新加坡、英国和加拿大为 US$50；在智利、秘鲁和阿根廷为 US$60。未达门槛时，YesStyle 在多数国家收 US$3 至 US$8。"
         ],
         "image": {
-          "src": "/images/reviews/yesstyle/yesstyle-olive-young-frete-gratis.webp",
+          "src": "/images/reviews/yesstyle/yesstyle-olive-young-frete-gratis-v2.webp",
           "alt": "一张含 24 个国家代码的表格，每个国家标出免运费的美元门槛：左边是 YesStyle，右边是 Olive Young",
           "caption": "免运费门槛，单位 US$（Olive Young 在日本为 ¥3,900）。绿色：各国中较低的金额；×：不寄送；橙色：美国的 OLIVE YOUNG US；横线：运费未公布（Olive Young 的韩国不在其运送表内）。",
           "objectFit": "contain",
@@ -154765,7 +154770,7 @@ export const reviewsData: unknown[] = [
     },
     "publishedAt": "28 de outubro de 2026",
     "publishedAtISO": "2026-10-28",
-    "updatedAt": "2026-11-07",
+    "updatedAt": "2026-11-24",
     "draft": false,
     "isNew": false,
     "description": "Sim, a YesStyle tem app para Android e iPhone. Veja onde o código de recompensa CECILIA010 entra no checkout do app, o que muda do site e o que checar se ele não funcionar.",
@@ -154800,7 +154805,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Resposta rápida",
         "paragraphs": [
-          "Sim, a YesStyle tem app para Android e iPhone, com a mesma conta do site. No app, o CECILIA010, código de recompensa, entra no campo \"Influencer / Rewards Code\" do checkout, ao lado do \"Coupon Code\". A entrega ao Brasil está suspensa no site e no app."
+          "Sim, a YesStyle tem app para Android e iPhone, com a mesma conta do site. No app, o CECILIA010, código de recompensa, entra no campo \"Influencer / Rewards Code\" do checkout, ao lado do \"Coupon Code\". A YesStyle voltou a entregar no Brasil, e o frete é grátis a partir de US$ 80."
         ]
       },
       {
@@ -154835,9 +154840,9 @@ export const reviewsData: unknown[] = [
         ]
       },
       {
-        "heading": "Entrega: o Brasil continua fora",
+        "heading": "Entrega ao Brasil",
         "paragraphs": [
-          "A entrega ao Brasil está suspensa no site e no app. Comprar pelo app não muda isso.",
+          "A YesStyle voltou a entregar no Brasil. Pela tabela de frete da loja, o envio é Standard, com frete grátis a partir de US$ 80, US$ 15 abaixo disso e prazo estimado de 21 a 25 dias úteis, com código de rastreio. Comprar pelo app não muda isso; confira o frete e o prazo no checkout antes de pagar.",
           "Quem está em Portugal encontra o detalhe em [YesStyle entrega no Brasil e em Portugal?](/reviews/yesstyle-entrega-no-brasil-e-portugal)."
         ]
       },
@@ -154941,7 +154946,7 @@ export const reviewsData: unknown[] = [
           "A YesStyle tem app? Sim, para Android e iPhone, nos links oficiais do Google Play e da App Store. A loja diz para baixar só por esses dois.",
           "Qual é o código de recompensa da YesStyle no app? O CECILIA010: 5% na primeira compra e 2% nas seguintes. Na tela \"Enter Code\", ele vai no campo \"Influencer / Rewards Code\", ao lado do \"Coupon Code\", e o resumo mostra a linha \"Influencer Code Discount\".",
           "O CECILIA010 vale no app? Sim. No checkout, toque em \"Enter Code\" e digite o código no campo \"Influencer / Rewards Code\". Ele é código de recompensa, com até 5% extra, e soma com o cupom da loja, que vai no campo \"Coupon Code\".",
-          "O app da YesStyle entrega no Brasil? Não: a entrega ao Brasil está suspensa no site e no app.",
+          "O app da YesStyle entrega no Brasil? Sim: a YesStyle voltou a entregar no Brasil, com frete grátis a partir de US$ 80 e prazo estimado de 21 a 25 dias úteis. Confira o frete e o prazo no checkout.",
           "Ganho pontos por baixar o app? Sim, uma vez por conta: 50 pontos YS no primeiro download do app com login. Reinstalar ou usar outro aparelho não dá de novo, e os pontos não são o código de recompensa.",
           "O app tem cupom exclusivo? A loja diz que publica um cupom de 24 horas, uma vez por mês, só para pedido no app. Na época do teste do app não havia um ativo; os cupons ativos ficam na página da loja."
         ]
@@ -154953,7 +154958,7 @@ export const reviewsData: unknown[] = [
         "Você já tem conta no site: no app é a mesma, e a sacola é uma só se você estiver logado."
       ],
       "skipIf": [
-        "Você precisa receber no Brasil: a entrega ao Brasil está suspensa temporariamente no site e no app.",
+        "Você precisa receber rápido no Brasil: o prazo estimado é de 21 a 25 dias úteis.",
         "Você conta com um cupom exclusivo do app: a loja diz que ele sai uma vez por mês, em horário aleatório, e pode não haver um ativo."
       ]
     }
@@ -174385,7 +174390,7 @@ export const reviewsData: unknown[] = [
     "metaDescription": "YesStyle na Trustpilot: nota 4,4, 105 mil avaliações e queixas de entrega. Veja o que a nota mostra, o que não mostra e onde conferir o seu país.",
     "publishedAt": "29 de outubro de 2026",
     "publishedAtISO": "2026-10-29",
-    "updatedAt": "2026-11-23",
+    "updatedAt": "2026-11-24",
     "draft": false,
     "isNew": false,
     "image": "/images/reviews/yesstyle/yesstyle-trustpilot-nota-reclamacoes-capa-pt-v2.webp",
@@ -174456,7 +174461,7 @@ export const reviewsData: unknown[] = [
           "O perfil de www.yesstyle.com é global. Ele reúne num painel só compradores de dezenas de países, com frete, prazo e alfândega diferentes, e não separa as avaliações por país.",
           "A loja convida clientes a avaliar depois da compra, seja a opinião boa ou ruim. Na nossa amostra, 30 das 40 avaliações de cinco estrelas eram convites, e a maioria era curta. As de uma estrela vieram sobretudo de quem escreveu por conta própria (29 de 40), e falavam de entrega internacional. Ou seja: o convite enche o perfil de elogios rápidos, e quem reclama costuma fazer isso por conta própria.",
           "Para quem compra de Portugal, a nota diz como a loja se comporta no conjunto, não como é a entrega no seu endereço. No checkout, confira o prazo, o frete, os impostos, a alfândega e a política de devolução do seu país.",
-          "Usamos a Trustpilot e não o Reclame Aqui porque o perfil da YesStyle lá não tem verificação nem respostas da loja, e a entrega ao Brasil segue suspensa temporariamente; por isso este artigo serve sobretudo a quem compra de Portugal. Quem opera a loja, a sede em Hong Kong e a controladora estão em [YesStyle é confiável?](/reviews/yesstyle-e-confiavel)."
+          "Usamos a Trustpilot e não o Reclame Aqui porque o perfil da YesStyle lá não tem verificação nem respostas da loja. Este artigo serve a quem compra do Brasil, onde a YesStyle voltou a entregar, e de Portugal. Quem opera a loja, a sede em Hong Kong e a controladora estão em [YesStyle é confiável?](/reviews/yesstyle-e-confiavel)."
         ]
       },
       {
@@ -174521,7 +174526,7 @@ export const reviewsData: unknown[] = [
           "A YesStyle tem boa nota na Trustpilot? Sim. O TrustScore é 4,4, com o rótulo \"Excellent\", em 105.442 avaliações; 71% dão cinco estrelas e 7%, uma.",
           "Quais são as reclamações mais comuns sobre a YesStyle? Nas 40 avaliações de uma estrela que lemos, 20 falavam de entrega: pedido que não chegou, pacote parado, atraso e pedido que não saiu.",
           "A YesStyle responde às avaliações negativas? Segundo o perfil na Trustpilot, a loja respondeu a 99% das avaliações negativas, em geral em até 24 horas, e pode usar inteligência artificial nas respostas.",
-          "A YesStyle entrega no Brasil? Não no momento: a entrega ao Brasil está suspensa temporariamente. Confira o destino no checkout antes de comprar. Para Portugal, o prazo e o frete estão na tabela de frete da loja.",
+          "A YesStyle entrega no Brasil? Sim, a YesStyle voltou a entregar no Brasil: pela tabela de frete da loja, o frete é grátis a partir de US$ 80 e custa US$ 15 abaixo disso, com prazo estimado de 21 a 25 dias úteis e código de rastreio. Confira o frete e o prazo no checkout antes de pagar. Para Portugal, o prazo e o frete estão na mesma tabela.",
           "Qual é o código de recompensa da YesStyle? O CECILIA010 dá 5% na primeira compra e 2% nas seguintes, sem data de fim. Ele vai no campo Reward Code do checkout e soma com um cupom da própria YesStyle, no campo Coupon Code."
         ]
       }
@@ -224251,7 +224256,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Resposta rápida",
         "paragraphs": [
-          "Vá de YesStyle se não quer arriscar: tem nota 4,4 no Trustpilot (105.442 avaliações), contra 1,9 (137) da StyleKorean. O CECILIA010 dá até 5% extra. Frete e encargos ficam fora da conta. No Brasil, a entrega está suspensa temporariamente: veja o capítulo do país."
+          "Vá de YesStyle se não quer arriscar: tem nota 4,4 no Trustpilot (105.442 avaliações), contra 1,9 (137) da StyleKorean. O CECILIA010 dá até 5% extra. Frete e encargos ficam fora da conta. No Brasil, a YesStyle voltou a entregar: veja o capítulo do país."
         ]
       },
       {
@@ -224531,7 +224536,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "E no Brasil?",
         "paragraphs": [
-          "No Brasil, a entrega decide antes do preço. A da YesStyle está suspensa temporariamente, e o CECILIA010 só ajuda quando ela voltar. As regras dela para o país estão em [YesStyle entrega no Brasil e em Portugal?](/reviews/yesstyle-entrega-no-brasil-e-portugal).",
+          "No Brasil, a entrega decide antes do preço. A YesStyle voltou a entregar: envio Standard em 21 a 25 dias úteis e frete grátis a partir de US$ 80 (US$ 15 abaixo disso), e o CECILIA010 vale no pedido. Confira o frete e o prazo no checkout antes de pagar. As regras dela para o país estão em [YesStyle entrega no Brasil e em Portugal?](/reviews/yesstyle-entrega-no-brasil-e-portugal).",
           "A StyleKorean mostra o Brasil no seletor de país e um catálogo de itens que diz poder enviar para cá, mas isso não confirma a entrega: a tabela de frete não traz o país, e não encontramos relato de entrega. Antes de pagar, veja se o checkout aceita o seu endereço, qual é o frete e se os tributos entram na conta ou podem ser cobrados depois."
         ]
       },
@@ -224551,7 +224556,7 @@ export const reviewsData: unknown[] = [
         "heading": "Qual escolher",
         "paragraphs": [
           "Na dúvida, comece pela YesStyle onde ela entrega: a nota no Trustpilot é mais alta e, na leitura de preços para os EUA, os produtos dos dois carrinhos saíram por menos. O CECILIA010 acrescenta o desconto calculado de 5% na primeira compra ou 2% nas seguintes. A StyleKorean faz sentido quando o produto que você quer custa menos nela, como o SKIN1004 nesta leitura, e a economia compensa o frete, os encargos e a diferença de nota para você.",
-          "No Brasil, a entrega vem antes da comparação, porque a da YesStyle está suspensa temporariamente."
+          "No Brasil, a entrega vem antes da comparação: a YesStyle voltou a entregar, com envio de 21 a 25 dias úteis, e a StyleKorean não confirma a entrega."
         ],
         "emphasis": "Na dúvida, comece pela YesStyle onde ela entrega: tem nota mais alta no Trustpilot e preços menores nos produtos dos dois carrinhos na leitura para os EUA. Antes de pagar, confira o total com frete e encargos. A nota é um sinal de reputação, sem garantir o pedido."
       },
@@ -224573,7 +224578,7 @@ export const reviewsData: unknown[] = [
         "Você encontra os produtos que procura na YesStyle e o total com frete, encargos e CECILIA010 compensa para o seu endereço."
       ],
       "skipIf": [
-        "Você precisa receber no Brasil enquanto a entrega da YesStyle está suspensa.",
+        "Você precisa receber no Brasil em menos de 21 dias úteis: é o menor prazo de envio da YesStyle para o país.",
         "Outra loja tem o mesmo produto disponível por um total que você considera mais vantajoso, com frete e encargos."
       ]
     },
@@ -224600,7 +224605,7 @@ export const reviewsData: unknown[] = [
         "slug": "codigo-cecilia010-yesstyle-como-usar"
       }
     ],
-    "updatedAt": "2026-11-23"
+    "updatedAt": "2026-11-24"
   },
   {
     "id": 867,
@@ -246493,7 +246498,7 @@ export const reviewsData: unknown[] = [
     "metaDescription": "CECILIA010 dá 5% extra na 1ª compra na YesStyle e 2% nas seguintes, no campo Reward Code. Veja onde achar o cupom da loja para somar no 1º pedido.",
     "publishedAt": "13 de novembro de 2026",
     "publishedAtISO": "2026-11-13",
-    "updatedAt": "2026-11-15",
+    "updatedAt": "2026-11-24",
     "draft": false,
     "isNew": true,
     "image": "/images/reviews/yesstyle/codigo-yesstyle-primeira-compra-cecilia010-capa-pt-v2.webp",
@@ -246532,7 +246537,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Resposta rápida",
         "paragraphs": [
-          "Na primeira compra na YesStyle, o CECILIA010 dá 5% extra no campo Reward Code (2% nas seguintes) e pode ser usado junto com um cupom da loja, no campo Coupon Code. O cupom da campanha está em [cupons YesStyle](/cupons/yesstyle); cupons pessoais, se houver, aparecem na sua conta, em Account > Coupons. A entrega ao Brasil está suspensa temporariamente."
+          "Na primeira compra na YesStyle, o CECILIA010 dá 5% extra no campo Reward Code (2% nas seguintes) e pode ser usado junto com um cupom da loja, no campo Coupon Code. O cupom da campanha está em [cupons YesStyle](/cupons/yesstyle); cupons pessoais, se houver, aparecem na sua conta, em Account > Coupons. A YesStyle voltou a entregar no Brasil: frete grátis a partir de US$ 80 e prazo estimado de 21 a 25 dias úteis."
         ]
       },
       {
@@ -246589,8 +246594,8 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Antes do primeiro pedido: a entrega",
         "paragraphs": [
-          "Antes de montar o carrinho, veja o destino. A YesStyle entrega em Portugal. Para o Brasil, a entrega está suspensa temporariamente no site e no app, e nenhum código muda isso.",
-          "Quem mora em Portugal encontra o prazo, o frete e o imposto no [guia de entrega da YesStyle](/reviews/yesstyle-entrega-no-brasil-e-portugal)."
+          "Antes de montar o carrinho, veja o destino. A YesStyle entrega em Portugal e voltou a entregar no Brasil. Pela tabela de frete da loja, o envio ao Brasil é Standard, com frete grátis a partir de US$ 80, US$ 15 abaixo disso e prazo estimado de 21 a 25 dias úteis, com código de rastreio. Confira o frete e o prazo no checkout antes de pagar.",
+          "Quem mora no Brasil ou em Portugal encontra o prazo, o frete e o imposto no [guia de entrega da YesStyle](/reviews/yesstyle-entrega-no-brasil-e-portugal)."
         ]
       },
       {
@@ -246633,7 +246638,7 @@ export const reviewsData: unknown[] = [
         "Você já comprou lá e quer saber o que muda a partir do segundo pedido: o código segue valendo, com 2%."
       ],
       "skipIf": [
-        "Você precisa receber no Brasil: a entrega ao Brasil está suspensa temporariamente, e nenhum código muda isso.",
+        "Você precisa receber rápido no Brasil: o prazo estimado é de 21 a 25 dias úteis, e nenhum código muda isso.",
         "Você espera um desconto grande só com o código: ele dá 5% na primeira compra e 2% nas seguintes, e o resto depende de um cupom da loja."
       ]
     }
@@ -328229,7 +328234,7 @@ export const reviewsData: unknown[] = [
           "أربعة بلدان لا تظهر في قائمة الوجهات في المتجر العالمي: إسبانيا والأرجنتين وبيرو والولايات المتحدة. وفي الولايات المتحدة تبيع Olive Young عبر متجرها الأمريكي الخاص. ولجدول Olive Young أيضًا صف «مناطق أخرى» (15 يومًا، 60 دولارًا أمريكيًا)، دون قائمة بالبلدان."
         ],
         "image": {
-          "src": "/images/reviews/yesstyle/yesstyle-olive-young-entrega-por-pais.webp",
+          "src": "/images/reviews/yesstyle/yesstyle-olive-young-entrega-por-pais-v2.webp",
           "alt": "شبكة من 24 رمز بلد، لكل منها نقطتان: اليسرى لـ YesStyle واليمنى لـ Olive Young",
           "caption": "الأخضر: يشحن؛ الأصفر: يشحن دون مدة توصيل منشورة؛ ×: لا يشحن؛ البرتقالي: في الولايات المتحدة تبيع Olive Young عبر متجرها الأمريكي.",
           "objectFit": "contain",
@@ -328244,7 +328249,7 @@ export const reviewsData: unknown[] = [
           "**الشحن المجاني.** تجعل Olive Young الشحن مجانيًا ابتداءً من 60 دولارًا أمريكيًا في معظم بلدان المقارنة. وفي تايوان الحد 35 دولارًا، وفي اليابان ¥3,900. وتطلب YesStyle 35 دولارًا أمريكيًا في هونغ كونغ وماليزيا والولايات المتحدة (القياسي) وأستراليا (Premium Standard)؛ و45 دولارًا في أوروبا القارية وإسبانيا والمكسيك وكولومبيا؛ و50 دولارًا في اليابان وكوريا وتايوان وسنغافورة والمملكة المتحدة وكندا؛ و60 دولارًا في تشيلي وبيرو والأرجنتين. وتحت الحد الأدنى، تفرض YesStyle من 3 إلى 8 دولارات أمريكية في معظم البلدان."
         ],
         "image": {
-          "src": "/images/reviews/yesstyle/yesstyle-olive-young-frete-gratis.webp",
+          "src": "/images/reviews/yesstyle/yesstyle-olive-young-frete-gratis-v2.webp",
           "alt": "شبكة من 24 رمز بلد ولكل بلد المبلغ بالدولار الذي يصبح الشحن مجانيًا ابتداءً منه: YesStyle على اليسار وOlive Young على اليمين",
           "caption": "الشحن المجاني ابتداءً من أي مبلغ، بالدولار الأمريكي (في اليابان تستخدم Olive Young ¥3,900). بالأخضر القيمة الأدنى لكل بلد؛ ×: لا يشحن؛ البرتقالي: في الولايات المتحدة، OLIVE YOUNG US؛ الشرطة: الشحن غير منشور (Olive Young في كوريا، المستبعدة من جدول الشحن لديها).",
           "objectFit": "contain",

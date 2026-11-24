@@ -19,7 +19,7 @@
   "metaDescription": "CECILIA010 dá 5% extra na 1ª compra na YesStyle e 2% nas seguintes, no campo Reward Code. Veja onde achar o cupom da loja para somar no 1º pedido.",
   "publishedAt": "13 de novembro de 2026",
   "publishedAtISO": "2026-11-13",
-  "updatedAt": "2026-11-15",
+  "updatedAt": "2026-11-24",
   "draft": false,
   "isNew": true,
   "image": "/images/reviews/yesstyle/codigo-yesstyle-primeira-compra-cecilia010-capa-pt-v2.webp",
@@ -58,7 +58,7 @@
     {
       "heading": "Resposta rápida",
       "paragraphs": [
-        "Na primeira compra na YesStyle, o CECILIA010 dá 5% extra no campo Reward Code (2% nas seguintes) e pode ser usado junto com um cupom da loja, no campo Coupon Code. O cupom da campanha está em [cupons YesStyle](/cupons/yesstyle); cupons pessoais, se houver, aparecem na sua conta, em Account > Coupons. A entrega ao Brasil está suspensa temporariamente."
+        "Na primeira compra na YesStyle, o CECILIA010 dá 5% extra no campo Reward Code (2% nas seguintes) e pode ser usado junto com um cupom da loja, no campo Coupon Code. O cupom da campanha está em [cupons YesStyle](/cupons/yesstyle); cupons pessoais, se houver, aparecem na sua conta, em Account > Coupons. A YesStyle voltou a entregar no Brasil: frete grátis a partir de US$ 80 e prazo estimado de 21 a 25 dias úteis."
       ]
     },
     {
@@ -115,8 +115,8 @@
     {
       "heading": "Antes do primeiro pedido: a entrega",
       "paragraphs": [
-        "Antes de montar o carrinho, veja o destino. A YesStyle entrega em Portugal. Para o Brasil, a entrega está suspensa temporariamente no site e no app, e nenhum código muda isso.",
-        "Quem mora em Portugal encontra o prazo, o frete e o imposto no [guia de entrega da YesStyle](/reviews/yesstyle-entrega-no-brasil-e-portugal)."
+        "Antes de montar o carrinho, veja o destino. A YesStyle entrega em Portugal e voltou a entregar no Brasil. Pela tabela de frete da loja, o envio ao Brasil é Standard, com frete grátis a partir de US$ 80, US$ 15 abaixo disso e prazo estimado de 21 a 25 dias úteis, com código de rastreio. Confira o frete e o prazo no checkout antes de pagar.",
+        "Quem mora no Brasil ou em Portugal encontra o prazo, o frete e o imposto no [guia de entrega da YesStyle](/reviews/yesstyle-entrega-no-brasil-e-portugal)."
       ]
     },
     {
@@ -159,7 +159,7 @@
       "Você já comprou lá e quer saber o que muda a partir do segundo pedido: o código segue valendo, com 2%."
     ],
     "skipIf": [
-      "Você precisa receber no Brasil: a entrega ao Brasil está suspensa temporariamente, e nenhum código muda isso.",
+      "Você precisa receber rápido no Brasil: o prazo estimado é de 21 a 25 dias úteis, e nenhum código muda isso.",
       "Você espera um desconto grande só com o código: ele dá 5% na primeira compra e 2% nas seguintes, e o resto depende de um cupom da loja."
     ]
   }

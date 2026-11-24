@@ -19,7 +19,7 @@
   "metaDescription": "Skincare coreano aos 30 com o código CECILIA010 e até 5% extra na YesStyle: testei o adesivo de olhos, o creme PDRN e a lip mask da Abib.",
   "publishedAt": "28 de setembro de 2026",
   "publishedAtISO": "2026-09-28",
-  "updatedAt": "2026-11-07",
+  "updatedAt": "2026-11-24",
   "draft": false,
   "isNew": false,
   "image": "/images/reviews/yesstyle/skincare-coreano-30-anos-rotina-iniciante-yesstyle-capa-v2.webp",
@@ -178,7 +178,7 @@
     {
       "heading": "Onde comprar e como economizar com o CECILIA010",
       "paragraphs": [
-        "Os três produtos são vendidos pela YesStyle, que está com a entrega ao Brasil suspensa no site e no app. Os preços são cotados em dólar e o frete é internacional, com valor e prazo que dependem do destino.",
+        "Os três produtos são vendidos pela YesStyle, que voltou a entregar no Brasil. Os preços são cotados em dólar e o frete é internacional: para o Brasil, é grátis a partir de US$ 80 e custa US$ 15 abaixo disso, com prazo estimado de 21 a 25 dias úteis. Confira o frete e o prazo no checkout antes de pagar.",
         "No checkout, use o código CECILIA010 no campo Reward Code: ele dá 5% de desconto na primeira compra e 2% nas seguintes. Os cupons promocionais vão no outro campo, o Coupon Code, e podem ser usados junto com o CECILIA010, conforme as regras e as condições do carrinho de cada cupom. Os cupons ativos da loja estão em [cupons YesStyle e código de recompensa](/cupons/yesstyle).",
         "Sobre impostos: em pedidos elegíveis abaixo de US$ 1.000 (valor antes dos cupons, sem o frete), a YesStyle reembolsa as taxas alfandegárias em crédito na loja, com as exceções da política dela. Se houver cobrança na chegada, pague, guarde o comprovante e mande para o atendimento da loja em até 30 dias da data do comprovante."
       ],
@@ -222,7 +222,7 @@
         "O que é PDRN? É um ingrediente feito de fragmentos de DNA, muito usado em cosméticos coreanos que prometem firmeza, segundo as marcas. Na lip mask da Abib, a marca informa origem vegetal (centella asiática e ginkgo biloba).",
         "Retinal é a mesma coisa que ácido retinoico? Não. O ingrediente do adesivo e do creme é retinal (retinaldeído), um derivado da vitamina A que a pele converte em ácido retinoico. Por isso a ação é mais gradual, e ele pede protetor solar durante o dia.",
         "A lip mask da Abib tem cheiro forte? Tem cheirinho de doce. Eu tenho sensibilidade a cheiros fortes, e esse não me incomodou.",
-        "A YesStyle entrega no Brasil? Não: a entrega ao Brasil está suspensa no site e no app. Para taxas alfandegárias cobradas na chegada, a loja prevê reembolso em crédito para pedidos abaixo de US$ 1.000, conforme a política dela.",
+        "A YesStyle entrega no Brasil? Sim, a YesStyle voltou a entregar no Brasil: o frete é grátis a partir de US$ 80 e custa US$ 15 abaixo disso, com prazo estimado de 21 a 25 dias úteis. Para taxas alfandegárias cobradas na chegada, a loja prevê reembolso em crédito para pedidos abaixo de US$ 1.000, conforme a política dela.",
         "Onde uso o CECILIA010, o código de recompensa da YesStyle? O CECILIA010 dá 5% na primeira compra e 2% nas seguintes, e vai no campo Reward Code do checkout. Ele pode ser somado a um cupom da YesStyle, do campo Coupon Code, conforme as regras desse cupom."
       ]
     }
@@ -253,7 +253,7 @@
       "Você recebe numa região onde a YesStyle entrega e aceita frete e prazo internacionais."
     ],
     "skipIf": [
-      "Você está no Brasil: a entrega ao Brasil continua suspensa no site e no app.",
+      "Você tem pressa: a entrega ao Brasil leva de 21 a 25 dias úteis, segundo a tabela de frete da loja.",
       "Você quer saber o que a rotina faz pela pele: aqui é só o primeiro uso, e o resultado eu ainda vou contar."
     ]
   }

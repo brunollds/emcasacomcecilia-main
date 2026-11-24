@@ -31,16 +31,16 @@
     {
       "heading": "Resposta rápida",
       "paragraphs": [
-        "Não há loja melhor para todo mundo: a escolha muda com o país, com quem paga o imposto e com o que a loja aceita de volta. No Brasil só a Jolse publica o frete, e em Portugal as cinco lojas entregam. Se você mora no Brasil, comece pela Jolse; em Portugal, decida pelo imposto e pela devolução, nas tabelas abaixo."
+        "Não há loja melhor para todo mundo: a escolha muda com o país, com quem paga o imposto e com o que a loja aceita de volta. No Brasil, a YesStyle e a Jolse publicam o frete, e em Portugal as cinco lojas entregam. Se você mora no Brasil, compare as duas; em Portugal, decida pelo imposto e pela devolução, nas tabelas abaixo."
       ]
     },
     {
       "heading": "Quem entrega no Brasil",
       "paragraphs": [
-        "No Brasil, só a Jolse publica o frete. A YesStyle não publica frete nem prazo, mas enviou um pedido nosso em setembro; o Stylevana também não os publica, e a Olive Young Global cita o país entre os sem envio. Em Portugal, as cinco lojas entregam, e todas publicam a partir de quanto o frete é grátis."
+        "No Brasil, a YesStyle voltou a entregar e, com a Jolse, publica o frete: a YesStyle, envio Standard em 21 a 25 dias úteis, grátis a partir de US$ 80 e US$ 15 abaixo disso. O Stylevana não publica frete nem prazo, e a Olive Young Global cita o país entre os sem envio. Em Portugal, as cinco lojas entregam, e todas publicam a partir de quanto o frete é grátis."
       ],
       "comparisonTable": {
-        "caption": "Envio ao Brasil da YesStyle, da Jolse e da StyleKorean, pelas páginas oficiais, pela regra da Receita Federal e por um pedido nosso à YesStyle.",
+        "caption": "Envio ao Brasil da YesStyle, da Jolse e da StyleKorean, pelas páginas oficiais e pela regra da Receita Federal.",
         "headers": [
           "Loja",
           "Envio ao Brasil",
@@ -50,8 +50,8 @@
         "rows": [
           [
             "YesStyle",
-            "o Brasil está fora da tabela de frete; um pedido nosso saiu pela Anjun Express",
-            "não publicado",
+            "Standard, 21 a 25 dias úteis, com rastreio",
+            "US$ 15; grátis a partir de US$ 80",
             "cobrado depois da chegada; a loja reembolsa impostos e taxas da alfândega em crédito, abaixo de US$ 1.000, mas a política não cita o ICMS"
           ],
           [
@@ -69,7 +69,7 @@
         ]
       },
       "postParagraphs": [
-        "A entrega da YesStyle ao Brasil está suspensa temporariamente no site e no app. A Olive Young Global cita o Brasil entre os países sem envio.",
+        "A YesStyle voltou a entregar no Brasil, com o prazo e o frete da tabela oficial; confira os dois no checkout antes de pagar. A Olive Young Global cita o Brasil entre os países sem envio.",
         "O Stylevana não publica frete nem prazo para o Brasil, e a lista de destinos dele muda de uma versão para outra: a em inglês não traz o Brasil, e as traduções mais antigas ainda trazem. A central de ajuda dele também cita o Brasil, num artigo dela, entre as regiões em que o imposto de importação não está incluído no checkout."
       ]
     },
@@ -290,9 +290,9 @@
     },
     {
       "heading": "Qual escolher",
-      "emphasis": "Pelos números da tabela, para quem mora no Brasil a escolha é a Jolse, porque é a única que publica frete para o país.",
+      "emphasis": "Pelos números da tabela, para quem mora no Brasil a Jolse tem o frete grátis mais baixo (US$ 60, contra US$ 80 da YesStyle), e só a YesStyle publica reembolso de taxas da alfândega.",
       "bullets": [
-        "Quem mora no Brasil: a Jolse é a única das cinco que publica frete para o país (US$ 9,99, grátis acima de US$ 60), e o imposto é pago na entrega. A YesStyle enviou um pedido nosso em setembro, mas a entrega ao Brasil está suspensa temporariamente no site e no app.",
+        "Quem mora no Brasil: a Jolse publica frete de US$ 9,99, grátis acima de US$ 60, e a YesStyle voltou a entregar, com envio de 21 a 25 dias úteis, frete de US$ 15 e grátis a partir de US$ 80. Nas duas, o imposto é pago na entrega.",
         "Quem mora em Portugal: as cinco lojas entregam e todas publicam a partir de quanto o frete é grátis, então a escolha passa pelo imposto e pela devolução, nas tabelas acima.",
         "Em qualquer país: confira na página oficial de cada loja o envio, quem paga o imposto e o que ela aceita de volta antes de fechar o pedido."
       ]
@@ -300,16 +300,16 @@
     {
       "heading": "Perguntas frequentes",
       "bullets": [
-        "Qual é melhor, YesStyle ou Stylevana? Depende do país: nenhuma das duas publica frete para o Brasil, e para Portugal os prazos e os mínimos estão na tabela de entrega.",
+        "Qual é melhor, YesStyle ou Stylevana? Depende do país: no Brasil, só a YesStyle publica frete e prazo das duas, e para Portugal os prazos e os mínimos estão na tabela de entrega.",
         "A YesStyle é igual à SHEIN? Não: a YesStyle não aparece na lista de marcas do SHEIN Group e diz pertencer à YesAsia Holdings, de Hong Kong.",
         "O Stylevana entrega no Brasil? A lista de destinos em inglês não inclui o Brasil; as traduções mais antigas ainda incluem; e a loja não publica frete nem prazo para o país.",
         "A Olive Young entrega no Brasil? Não: a central de ajuda da Olive Young Global cita o Brasil entre os países sem envio.",
         "A StyleKorean entrega no Brasil? O seletor de país do site traz o Brasil e mostra os itens que a loja diz poder enviar, mas isso não confirma a entrega: a tabela de frete não traz o país, e a loja não publica frete nem prazo para ele.",
         "Qual é o limite de pedido na StyleKorean? US$ 500 por pedido, sem o frete; acima disso, a loja manda dividir em dois pedidos.",
-        "Qual loja tem o frete grátis mais baixo? Para o Brasil, só a Jolse publica o mínimo; para Portugal, os mínimos estão na tabela de entrega, e o Stylevana é o único em euro.",
+        "Qual loja tem o frete grátis mais baixo? Para o Brasil, a Jolse publica o menor mínimo (US$ 60, contra US$ 80 da YesStyle); para Portugal, os mínimos estão na tabela de entrega, e o Stylevana é o único em euro.",
         "Quem paga o imposto? Depende da loja e do país: em Portugal, a YesStyle e a Jolse já incluem o IVA; no Brasil, o imposto é cobrado depois que o pacote chega, e só a YesStyle publica reembolso de impostos e taxas da alfândega, em crédito, abaixo de US$ 1.000, sem citar o ICMS.",
         "Posso devolver produto de beleza aberto? Não por arrependimento, em nenhuma das cinco lojas; o Stylevana aceita arrependimento só com o produto novo, lacrado e sem uso.",
-        "Qual loja entrega mais rápido? As lojas publicam o prazo do envio, não o total: para Portugal, o Stylevana indica 6 a 11 dias úteis e a YesStyle 10 a 15, sem contar o tempo para o item sair de Hong Kong; para o Brasil, nenhuma das duas publica prazo.",
+        "Qual loja entrega mais rápido? As lojas publicam o prazo do envio, não o total: para Portugal, o Stylevana indica 6 a 11 dias úteis e a YesStyle 10 a 15, sem contar o tempo para o item sair de Hong Kong; para o Brasil, só a YesStyle publica prazo, de 21 a 25 dias úteis de envio.",
         "YesStyle ou Shopee? A Shopee é um marketplace no Remessa Conforme, com devolução em 7 dias pela Garantia Shopee, e a YesStyle fica fora do programa, com o imposto cobrado depois que o pacote chega.",
         "Qual é o código de recompensa da YesStyle? O CECILIA010 dá até 5% na primeira compra e 2% nas seguintes, e vai em campo próprio, o Reward Code do checkout. Ele soma com um cupom da loja, e os cupons do momento ficam na página da YesStyle aqui do site."
       ]
@@ -338,14 +338,14 @@
       "slug": "codigo-cecilia010-yesstyle-como-usar"
     }
   ],
-  "updatedAt": "2026-11-09",
+  "updatedAt": "2026-11-24",
   "decision": {
     "takeIf": [
-      "Leve a Jolse se você mora no Brasil e quer ver o frete antes de pagar: das cinco lojas, só ela publica o valor para o país.",
+      "Leve a Jolse se você mora no Brasil e quer o frete grátis mais baixo: a partir de US$ 60, contra US$ 80 da YesStyle.",
       "Considere a YesStyle ou a Jolse se mora em Portugal e prefere o IVA já incluído no preço."
     ],
     "skipIf": [
-      "Passe na YesStyle se mora no Brasil e quer comprar agora: a entrega ao país está suspensa temporariamente no site e no app.",
+      "Passe na YesStyle se mora no Brasil e precisa receber em poucas semanas: o envio ao país leva de 21 a 25 dias úteis.",
       "Passe nas cinco lojas se pretende devolver produto de beleza aberto por arrependimento: nenhuma aceita."
     ]
   }

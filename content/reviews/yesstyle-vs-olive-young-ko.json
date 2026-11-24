@@ -47,7 +47,7 @@
         "글로벌 쇼핑몰의 배송지 선택 화면에 없는 나라가 네 곳 있습니다. 스페인, 아르헨티나, 페루, 미국입니다. 미국에서는 Olive Young이 별도의 미국 쇼핑몰로 판매합니다. Olive Young 표에는 '기타 지역' 줄(15일, US$60)도 있지만 나라 목록은 없습니다."
       ],
       "image": {
-        "src": "/images/reviews/yesstyle/yesstyle-olive-young-entrega-por-pais.webp",
+        "src": "/images/reviews/yesstyle/yesstyle-olive-young-entrega-por-pais-v2.webp",
         "alt": "24개국의 국가 코드가 늘어선 표. 각 나라마다 점이 둘이며 왼쪽은 YesStyle, 오른쪽은 Olive Young",
         "caption": "초록: 배송함. 노랑: 배송 기간 미공개. ×: 배송 안 함. 주황: 미국에서는 Olive Young이 별도의 미국 쇼핑몰로 판매함.",
         "objectFit": "contain",
@@ -62,7 +62,7 @@
         "**무료배송.** Olive Young은 비교 대상 대부분의 나라에서 US$60부터 무료배송입니다. 대만은 US$35, 일본은 ¥3,900입니다. YesStyle은 홍콩, 말레이시아, 미국(Standard), 호주(Premium Standard)에서 US$35, 유럽 대륙, 스페인, 멕시코, 콜롬비아에서 US$45, 일본, 한국, 대만, 싱가포르, 영국, 캐나다에서 US$50, 칠레, 페루, 아르헨티나에서 US$60을 요구합니다. 최소 금액에 못 미치면 YesStyle은 대부분의 나라에서 US$3~US$8을 받습니다."
       ],
       "image": {
-        "src": "/images/reviews/yesstyle/yesstyle-olive-young-frete-gratis.webp",
+        "src": "/images/reviews/yesstyle/yesstyle-olive-young-frete-gratis-v2.webp",
         "alt": "24개국의 국가 코드와 각 나라에서 무료배송이 시작되는 금액(달러)을 나열한 표. 왼쪽은 YesStyle, 오른쪽은 Olive Young",
         "caption": "무료배송이 시작되는 금액(US$, 일본의 Olive Young은 ¥3,900). 초록: 나라별로 더 낮은 금액, ×: 배송 안 함, 주황: 미국의 OLIVE YOUNG US, 대시: 배송비 미공개(Olive Young의 한국은 배송표에서 빠져 있음).",
         "objectFit": "contain",
