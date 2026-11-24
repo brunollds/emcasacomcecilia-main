@@ -110,6 +110,20 @@ O estoque único do que ainda não virou artigo: pautas com briefing esperando r
 
 ### Propostas sem GO
 
+**Natal 2026 (24/11/2026): presentes por pessoa, amigo secreto e lojas.** Evidência em [[Pesquisas-de-Pauta]] (Natal 2026). Prazos pelo Trends de 2025: amigo secreto no ar até 1º/12, presente por pessoa até 10/12, panetone até meados de dezembro. Preço de tabela, relido fora da campanha de Black Friday; sem efeito de produto; artigo de várias lojas com 2 a 4 lojas, no molde da IL2.
+
+| Código | Pauta | Parceiros | Busca | Nota |
+|---|---|---|---|---|
+| NT1 | Presente de amigo secreto feminino até R$ 50, R$ 100 e R$ 150 | 2 a 4 entre Océane, Simple Organic, Barbour's, Skelt, La Ganexa e Gocase | "feminino" com 20 a 150 reais, "barato", "kit" | Par da IL2 (masculino). A mais urgente: no ar até 1º/12 |
+| NT2 | Amigo secreto unissex até R$ 30 e R$ 50 | 2 a 4 entre Gocase, La Ganexa, Dr. Peanut e BOLD | "unissex" com 30, 50, 100 e 150 reais; "lembrancinha" | Faixa baixa: o frete pode passar do valor do presente; conferir item e frete de cada loja |
+| NT3 | Presente de Natal para mãe e sogra por faixa de preço | 2 a 4 entre Océane, Simple Organic, Barbour's, Let's Eat It e DAMIE | "para mae e sogra", "idosa", "barato", "até R$ 50" | Não repetir a PP3 (pai) nem o presente para a casa da DAMIE; link para as duas |
+| NT4 | Presente de Natal para namorada ou esposa | 2 a 4 entre Océane, Toda Up, Insider, Barbour's e Skelt | "criativo", "barato", "dicas" | Decidir junto com a NT3: pode ser um artigo só |
+| NT5 | Panetone Kopenhagen 2026: sabores e preço | Kopenhagen (CECILIA10) | "panetone" chega a 95 no pico; "panetone kopenhagen" com sabores, "preço" e "2026" | A Kopenhagen saiu da lista "é boa" em 03/11 e o código não é conferido desde 02/07. Decisão do Bruno |
+| NT6 | Máquina Dolce Gusto para dar de presente de Natal (e as cápsulas de Natal) | Dolce Gusto (CECI) | Duas buscas no Search Console; "especial de natal", "starbucks natal" | Pode ser seção do `dolce-gusto-maquinas-qual-escolher` em vez de URL nova. Ler se há cápsula de Natal em 2026 |
+| NT7 | YesStyle advent calendar 2026 | YesStyle (CECILIA010, código de recompensa) | Inglês: "2026", "price", "products", "release date" | Família nos 11 idiomas. Antes, ler se a YesStyle vende calendário em 2026 e quando sai |
+
+Hostinger, Proton e Starlink têm "christmas sale" no autocompletar em inglês. Só viram pauta se a loja anunciar oferta de Natal; ler em 08/12 (a Black Friday da Hostinger vai até 14/12).
+
 **Nestlé Nutre (19/11/2026): mais vendidos da loja.** O Bruno mandou a vitrine de mais vendidos para avaliar pautas. Fatos e sinais em [[nestle-nutre-mais-vendidos-fatos-1911]]. Nenhum rótulo foi lido ainda.
 
 | Código | Pauta | Parceiros | Busca | Nota |
