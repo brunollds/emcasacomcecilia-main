@@ -2,6 +2,7 @@ import assert from 'node:assert/strict';
 import { getAllActiveCouponSlugs, getCouponBySlug, getPendingLimitedCodes } from '@/lib/couponsData';
 import { buildAnswer, buildStoreAnswer } from '@/lib/dica/answer';
 import { getCatalog, getVocabulary, normalize } from '@/lib/dica/catalog';
+import { interpretQuestion } from '@/lib/dica/interpret';
 import { matchLocal, matchStoreName } from '@/lib/dica/match';
 
 // Catálogo leve: só parceiras de cupom ativas, sem as cinco que o Bruno deixou de fora e sem preço.
@@ -122,4 +123,44 @@ for (const answer of [wheyAnswer, sofaCama, yesstyle, ...catalog.map((store) => 
 }
 for (const store of catalog) assert.equal(buildStoreAnswer(store.slug).cards.length, 1, `${store.slug}: sem cartão`);
 
-console.log(`✅ dica: ${catalog.length} lojas no catálogo, ${vocabulary.size} termos no vocabulário.`);
+async function main() {
+  // Interpretação pela IA, com fetch falso: só termos do vocabulário; qualquer falha devolve null.
+  const reply = (text: string, status = 200) =>
+    (async () => new Response(JSON.stringify({ content: [{ type: 'text', text }] }), { status })) as unknown as typeof fetch;
+  const interpreted = await interpretQuestion('tem whey?', {
+    apiKey: 'teste',
+    fetchImpl: reply('{"termos":["whey protein","xyz","Whey Protein"],"buscaDicas":"whey","foraDeEscopo":false}'),
+  });
+  assert.deepEqual(interpreted?.terms.map(normalize), ['whey protein'], 'termo fora do vocabulário ou repetido');
+  assert.equal(interpreted?.searchTerm, 'whey');
+  assert.equal(await interpretQuestion('x', { apiKey: 'teste', fetchImpl: reply('não sei') }), null);
+  assert.equal(await interpretQuestion('x', { apiKey: 'teste', fetchImpl: reply('{"termos":[]}', 500) }), null);
+  let called = false;
+  const spy = (async () => {
+    called = true;
+    return new Response('{}');
+  }) as unknown as typeof fetch;
+  assert.equal(await interpretQuestion('x', { apiKey: '', fetchImpl: spy }), null);
+  assert.equal(called, false, 'chamou a IA sem chave');
+  const hang = ((_url: string, init?: RequestInit) =>
+    new Promise((_resolve, reject) => init?.signal?.addEventListener('abort', () => reject(new Error('abort'))))) as unknown as typeof fetch;
+  assert.equal(await interpretQuestion('x', { apiKey: 'teste', fetchImpl: hang, timeoutMs: 50 }), null);
+
+  console.log(`✅ dica: ${catalog.length} lojas no catálogo, ${vocabulary.size} termos no vocabulário.`);
+}
+
+// Uma promessa pendurada faz o Node sair calado com código 0: sem chegar ao fim, o teste falha.
+let finished = false;
+process.on('exit', (code) => {
+  if (code === 0 && !finished) {
+    console.error('❌ dica: o teste saiu antes do fim (promessa pendurada)');
+    process.exitCode = 1;
+  }
+});
+
+main().then(() => {
+  finished = true;
+}).catch((error) => {
+  console.error(error);
+  process.exit(1);
+});
