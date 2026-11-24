@@ -1,7 +1,6 @@
 import { cardImageFit, type CardImageFit, type CardImagePosition } from '@/lib/cardImage';
 import { getActiveCoupons, type Coupon } from '@/lib/couponsData';
 import { getCouponStorePath } from '@/lib/couponTranslations';
-import { getPendingCodeSeasonNotice, storeTakesCodeSeasonNotice } from '@/lib/codeSeasonNotice';
 import {
   codeLinkLabel,
   getHomeVitrineStores,
@@ -88,17 +87,13 @@ export type ResolvedHomeEvent = {
   title: string;
   titleOf: string;
   theme: EventTheme;
-  description: string;
-  dayDate: string;
-  dayLabel: string;
   countdownLabel: string;
   hubLink?: { href: string; label: string };
   cards: HomeEventCard[];
-  // Só durante a reta final (boost): todos os guias, compactos, e o aviso de temporada dos códigos.
+  // Só durante a reta final (boost): todos os guias, compactos.
   guides?: HomeEventGuide[];
   // Só na home em português: os guias vão no carrossel de capas, não na grade compacta.
   carousel?: HomeEventCarousel;
-  seasonNotice?: string;
   // No idioma da home: o fim do nome do link de cada guia, para leitor de tela, e o botão do celular.
   guideLabels: HomeEventGuideLabels;
 };
@@ -329,7 +324,6 @@ function toCards(event: HomeEventEntry, reviews: readonly StoreReview[], stores:
 
 // O guia da reta final. O desconto é o da página da loja (nunca o de um código com prazo, que fica no painel da vitrine).
 // O guia sem loja ativa, ou de loja com mais de um guia na data, precisa de rótulo: sem ele, dois cards iguais.
-// O aviso de temporada entra se algum guia é de loja com cupom (storeTakesCodeSeasonNotice).
 // A ordem é a das bolinhas da vitrine, com os guias de cada loja juntos e na ordem do arquivo; loja fora da vitrine e
 // guia sem loja ativa vão para o fim, também na ordem do arquivo.
 function toGuides(
@@ -337,7 +331,7 @@ function toGuides(
   boost: HomeEventBoost,
   reviews: readonly StoreReview[],
   stores: readonly Coupon[]
-): { guides: HomeEventGuide[]; tabSlugs: string[]; takesSeasonNotice: boolean } {
+): { guides: HomeEventGuide[]; tabSlugs: string[] } {
   const tabSlugs = sortStoresByNewestArticle(getHomeVitrineStores(stores), reviews).map(({ slug }) => slug);
   const tabRank = (store: Coupon | undefined) => {
     const rank = store ? tabSlugs.indexOf(store.slug) : -1;
@@ -377,7 +371,7 @@ function toGuides(
   const keys = guides.map(({ name, label }) => `${name}|${label ?? ''}`);
   const repeated = guides.find((_, index) => keys.indexOf(keys[index]) !== index);
   if (repeated) fail(`${event.id}.boost.labels: ${repeated.slug} repete a loja e o rótulo de outro guia`);
-  return { guides, tabSlugs, takesSeasonNotice: entries.some(({ store }) => store !== undefined && storeTakesCodeSeasonNotice(store)) };
+  return { guides, tabSlugs };
 }
 
 function isBoosted(event: HomeEventEntry, now: Date): event is HomeEventEntry & { boost: HomeEventBoost } {
@@ -420,16 +414,12 @@ export function resolveActiveHomeEvent(
   const event = parseHomeEvents(config, reviews).find((item) => isOpen(item, now));
   if (!event) return null;
   const boosted = isBoosted(event, now) ? toGuides(event, event.boost, reviews, stores) : undefined;
-  const notice = getPendingCodeSeasonNotice(now.getTime());
 
   return {
     id: event.id,
     title: event.title,
     titleOf: event.titleOf,
     theme: event.theme,
-    description: event.description,
-    dayDate: formatIsoDay(event.dayAt),
-    dayLabel: formatEventDay(event.dayAt),
     countdownLabel: getCountdownLabel(event.dayAt, now),
     hubLink: event.hub
       ? { href: `/${event.hub}`, label: boosted ? `Ver todos os ${boosted.guides.length} guias` : `Ver tudo ${event.titleOf}` }
@@ -441,7 +431,6 @@ export function resolveActiveHomeEvent(
           carousel: { tabSlugs: boosted.tabSlugs, previousLabel: 'Ver guias anteriores', nextLabel: 'Ver próximos guias' },
         }
       : {}),
-    ...(boosted?.takesSeasonNotice && notice?.inHtml ? { seasonNotice: notice.text } : {}),
     guideLabels: {
       suffix: `, guia ${event.titleOf}`,
       showAll: `Mostrar todos os ${boosted?.guides.length ?? 0} guias`,
