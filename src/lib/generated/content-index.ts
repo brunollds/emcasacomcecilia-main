@@ -99899,7 +99899,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Resposta rápida",
         "paragraphs": [
-          "Não são a mesma marca: a Probiótica não é linha da Max Titanium, e as duas são do grupo Supley, com linhas e preços próprios. A Max leva o concentrado e o 3W pelo menor custo por 100 g de proteína; a Probiótica tem mais sabores e zero lactose. Os códigos MAX10EMCASACOMCECILIA e PRO10EMCASACOMCECILIA dão até 10% OFF."
+          "Não são a mesma marca: a Probiótica não é linha da Max Titanium, e as duas são do grupo Supley. A Max leva o concentrado e o 3W pelo menor custo por 100 g de proteína; a Probiótica tem mais sabores e o Pure Whey Zero Lactose. Os códigos MAX10EMCASACOMCECILIA e PRO10EMCASACOMCECILIA dão até 10% OFF."
         ]
       },
       {
@@ -100133,7 +100133,7 @@ export const reviewsData: unknown[] = [
           "O concentrado da Max Titanium é o [100% Whey](https://www.maxtitanium.com.br/100-whey-pote-900g/p). O da Probiótica é o [100% Pure Whey](https://www.probiotica.com.br/100-pure-whey-pote-900g/p?utm_source=creators&utm_medium=PRO10EMCASACOMCECILIA&utm_campaign=probi). Os dois vêm em pote e em refil de 900 g, com porção de 30 g e 30 porções.",
           "Na tabela de Baunilha, o 100% Whey tem 1 g de proteína a mais por porção. A proteína muda com o sabor: a página da Max fala em 20 g a 21 g, e a da Probiótica em 20 g a 24 g. Em alguns sabores, o Pure Whey passa o 100% Whey na dose. Antes de comprar, confira a tabela do sabor que você quer na página do produto.",
           "A diferença maior está no preço: o pote da Probiótica custava R$ 42,10 a mais, e o refil, R$ 39,26 a mais.",
-          "A vantagem da Probiótica está nos sabores e na lactose. São 13 sabores: Baunilha, Cookies & Cream, Chocolate Branco, Doce de Leite, Chocolate com Avelã, Leite, Caramelo Salgado, Cappuccino, Chocolate, Iogurte com Coco, Iogurte com Limão, Iogurte com Morango e Morango. A Max tem 7: Baunilha, Chocolate, Cookies & Cream, Morango, Chocolate Maltado, Pistache com Chocolate Branco e Leite.",
+          "A vantagem da Probiótica está nos sabores e em ter uma versão zero lactose. São 13 sabores: Baunilha, Cookies & Cream, Chocolate Branco, Doce de Leite, Chocolate com Avelã, Leite, Caramelo Salgado, Cappuccino, Chocolate, Iogurte com Coco, Iogurte com Limão, Iogurte com Morango e Morango. A Max tem 7: Baunilha, Chocolate, Cookies & Cream, Morango, Chocolate Maltado, Pistache com Chocolate Branco e Leite.",
           "A Probiótica também vende o [100% Pure Whey Zero Lactose](https://www.probiotica.com.br/100--pure-whey-zero-lactose-pote-900g/p?utm_source=creators&utm_medium=PRO10EMCASACOMCECILIA&utm_campaign=probi), em 3 sabores. A tabela traz 21 g de proteína em 30 g (a frente do pote diz 22 g), e o pote custava R$ 241,97. Por 100 g de proteína, ele sai a R$ 38,41, mais barato que o 100% Pure Whey comum. A busca da loja da Max não mostrou whey zero lactose."
         ],
         "images": [
@@ -148694,7 +148694,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Resposta rápida",
         "paragraphs": [
-          "Pelo rótulo, o Exquenta é um pré-treino com 150 mg de cafeína por dose de 20 g; o que separa as embalagens é o preço por dose e a versão sem cafeína. O pote de 500 g sai mais barato por dose que o de 300 g. O código MMEMCASACOMCECILIA dá 10% no site da Mais Mu."
+          "Pelo rótulo, os potes de 300 g e 500 g e os sachês lidos do Exquenta trazem 150 mg de cafeína por dose de 20 g; o que separa as embalagens é o preço por dose. O pote de 500 g sai mais barato que o de 300 g. O código MMEMCASACOMCECILIA dá 10% no site da Mais Mu."
         ]
       },
       {
@@ -299502,7 +299502,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Quais sabores existem em cada linha",
         "paragraphs": [
-          "O sabor muda de linha para linha, e a mesma palavra no nome não quer dizer o mesmo tamanho de barra. O Pistache, por exemplo, só existe no Tube, de 40 g e 10 g de proteína; a linha de 21 g não tem Pistache. O Mousse de Maracujá só existe na 21 g, e a 14 g não o tem."
+          "O sabor muda de linha para linha, e a mesma palavra no nome não quer dizer o mesmo tamanho de barra. O Pistache, por exemplo, só apareceu no Tube na vitrine consultada, de 40 g e 10 g de proteína; a linha de 21 g não tem Pistache. O Mousse de Maracujá só existe na 21 g, e a 14 g não o tem."
         ],
         "comparisonTable": {
           "caption": "A loja informa: sabores do catálogo de cada linha, sem as caixas mistas. Use os filtros para ver uma linha por vez.",
@@ -300105,9 +300105,9 @@ export const reviewsData: unknown[] = [
           "Qual a diferença da barra BOLD 21 g para a 14 g? A 21 g pesa 60 g e declara 21 g de proteína, de 215 a 239 kcal. A 14 g pesa 40 g e declara 14 g de proteína, de 151 a 161 kcal. A 21 g custa menos por 100 g de proteína declarada.",
           "Quantas calorias tem a barra BOLD? Depende da linha e do sabor: de 151 a 161 kcal na 14 g, de 215 a 239 kcal na 21 g, de 209 a 215 kcal no Crunch, de 192 a 202 kcal no Wafer e de 183 a 186 kcal no Tube, nos sabores com tabela.",
           "Qual barra BOLD tem mais proteína? A BOLD 21 g, com 21 g por barra. O Crunch declara 18 g, a 14 g declara 14 g, e o Wafer e o Tube, 10 g cada.",
-          "Qual sabor da barra BOLD tem menos açúcar? Nas tabelas usadas neste guia, o Bombom Crocante 14 g tem o menor valor, 1,6 g de açúcares totais; o maior é o do Chocomalte 21 g, com 5,3 g.",
+          "Qual sabor da barra BOLD tem menos açúcar? Nas tabelas usadas neste guia, o Bombom Crocante 14 g tem o menor valor, 1,6 g de açúcares totais; o maior é o do Chocomalte 21 g, com 5,3 g no texto da loja e 5,4 g na foto do rótulo.",
           "Quantas barras vêm na caixa da BOLD? As caixas das cinco linhas têm 12 unidades.",
-          "A barra BOLD tem sabor Pistache? Tem, só no Tube, de 40 g e 10 g de proteína. A linha de 21 g não tem Pistache.",
+          "A barra BOLD tem sabor Pistache? Na vitrine consultada, encontramos Pistache só no Tube, de 40 g e 10 g de proteína, e não na linha de 21 g.",
           "Quais sabores tem a barra BOLD de 14 g? Bombom Crocante, Chocomalte, Cookies Black, Cookies & Cream, Doce de Leite e Trufa de Chocolate. O Mousse de Maracujá existe só na linha de 21 g."
         ]
       }
@@ -326021,7 +326021,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "A barra BOLD tem açúcar? Zero adicionado e açúcares totais",
         "paragraphs": [
-          "A loja informa “zero açúcar adicionado”, e a tabela de cada sabor lido traz açúcares adicionados de 0 g. Isso não é o mesmo que zero açúcar: a linha de açúcares totais mostra de 1,6 g a 5,3 g por barra, conforme a linha e o sabor. Quem controla açúcar lê a linha de açúcares totais."
+          "A loja informa “zero açúcar adicionado”, e a tabela de cada sabor lido traz açúcares adicionados de 0 g. Isso não é o mesmo que zero açúcar: a linha de açúcares totais mostra de 1,6 g a 5,3 g por barra, conforme a linha e o sabor. O 5,3 g, do Chocomalte 21 g, é o valor do texto da loja; a foto do rótulo desse sabor mostra 5,4 g. Quem controla açúcar lê a linha de açúcares totais."
         ],
         "comparisonTable": {
           "caption": "Valores das páginas de cada sabor lido, por barra, e os adoçantes da lista de ingredientes.",
@@ -326255,7 +326255,7 @@ export const reviewsData: unknown[] = [
         "paragraphs": [
           "O que decide a compra é a pergunta de rótulo de cada pessoa, e não a palavra saudável. Quem precisa evitar glúten, lactose, leite ou soja encontra o mesmo “contém” em todas as linhas lidas. Quem acompanha açúcar lê a linha de açúcares totais, e quem só quer comparar tamanho e preço vai ao guia da 21 g ou 14 g."
         ],
-        "emphasis": "Para quem controla o açúcar, a escolha é comparar o sabor e não só a linha: os açúcares totais vão de 1,6 g a 5,3 g por barra, e as faixas das linhas se sobrepõem."
+        "emphasis": "Para quem controla o açúcar, a escolha é comparar o sabor e não só a linha: os açúcares totais vão de 1,6 g a 5,3 g por barra no texto da loja (5,4 g na foto do rótulo do Chocomalte 21 g), e as faixas das linhas se sobrepõem."
       },
       {
         "heading": "Perguntas frequentes",
@@ -326322,7 +326322,7 @@ export const reviewsData: unknown[] = [
       "takeIf": [
         "Denavita: você quer ômega 3 pelo menor preço por dia, ou o pote de coenzima Q10 mais barato, com o código.",
         "Rituária: você quer NAC com 600 mg por cápsula, sem o polivitamínico, coenzima Q10 com mais miligramas por real ou ômega 3 com certificação IFOS, e dá peso à nota maior no Reclame Aqui.",
-        "As duas: você quer magnésio ou NAC e vai decidir pela fórmula, já que o preço por dia é o mesmo."
+        "As duas: você quer magnésio ou NAC e vai decidir pela fórmula, já que o preço por frasco é o mesmo."
       ],
       "skipIf": [
         "Denavita: você quer magnésio ou NAC em cápsula sem gelatina; as da Denavita são de gelatina.",
@@ -326340,7 +326340,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Magnésio e NAC: o que cada rótulo informa",
         "paragraphs": [
-          "Os dois pares têm o mesmo preço no site, então a diferença está na fórmula. Os números abaixo são os das páginas de produto de cada loja."
+          "Os dois pares têm o mesmo preço por frasco no site, então a diferença está na fórmula. Os números abaixo são os das páginas de produto de cada loja."
         ],
         "comparisonTable": {
           "caption": "Fichas das páginas de produto. A Rituária não traz imagem de tabela nutricional na galeria do magnésio, e os valores dela vêm do texto e do FAQ da loja.",
@@ -326394,7 +326394,7 @@ export const reviewsData: unknown[] = [
         },
         "postParagraphs": [
           "Os números de magnésio não se comparam direto. A Denavita publica 210 mg na tabela; a Rituária lista os sais e fala em 152 mg de magnésio elementar na resposta do FAQ, sem tabela na galeria. Antes de comparar, vale pedir à loja a mesma base, por porção.",
-          "No NAC, as fórmulas não são equivalentes: a da Denavita é um polivitamínico com NAC; a da Rituária, NAC com dois minerais. A tabela e o FAQ da Denavita imprimem “Iodo (mg) 150”, como está escrito; a unidade a loja pode esclarecer."
+          "No NAC, as fórmulas não são equivalentes: a da Denavita é um polivitamínico com NAC; a da Rituária, NAC com dois minerais. A ficha da Denavita imprime “150 mg” de iodo, mas a unidade deve ser conferida no rótulo. A página também traz valores diferentes de NAC: 600 mg por cápsula no texto e 300 mg de L-cisteína na fórmula."
         ],
         "images": [
           {
@@ -326477,7 +326477,7 @@ export const reviewsData: unknown[] = [
           "Os potes têm cápsulas e porções diferentes, então a comparação é pelo preço por dia, pela porção que a ficha de cada loja informa."
         ],
         "comparisonTable": {
-          "caption": "Preço de cada página em 23/11, em promoção, compra única, sem frete e sem Pix. A coluna do código é a conta de 10% sobre o preço da página.",
+          "caption": "Preço de cada página em 23/11, em promoção, compra única, sem frete e sem Pix. A coluna do código é a conta de 10% sobre o preço da página. No NAC da Denavita, o valor por dia supõe as 2 cápsulas do modo de uso; a página cita 1 cápsula em outro trecho.",
           "headers": [
             "Par",
             "Loja e pote",
@@ -326552,7 +326552,7 @@ export const reviewsData: unknown[] = [
           ]
         },
         "postParagraphs": [
-          "Conta nossa: o preço da página, vezes 0,9, dividido pelos dias que o pote rende na porção da ficha. Magnésio e NAC empatam; em ômega 3 e no pote de coenzima Q10, a Denavita é mais barata com o mesmo número de dias. Por 100 mg de coenzima Q10, a conta inverte: R$ 1,89 por 100 mg na Denavita (100 mg por cápsula) e R$ 1,40 na Rituária (R$ 2,10 ÷ 1,5, com 150 mg por cápsula). Preço igual ou menor por dia não quer dizer produto igual, como os dois capítulos anteriores mostram.",
+          "Conta nossa: o preço da página, vezes 0,9, dividido pelos dias que o pote rende na porção da ficha. Magnésio empata por dia e o NAC empata por frasco (o da Denavita, só se forem 2 cápsulas ao dia); em ômega 3 e no pote de coenzima Q10, a Denavita é mais barata com o mesmo número de dias. Por 100 mg de coenzima Q10, a conta inverte: R$ 1,89 por 100 mg na Denavita (100 mg por cápsula) e R$ 1,40 na Rituária (R$ 2,10 ÷ 1,5, com 150 mg por cápsula). Preço igual ou menor por dia não quer dizer produto igual, como os dois capítulos anteriores mostram.",
           "Não montamos par para o que só lemos de um lado: Laranja Moro e Tons, na Denavita ([Laranja Moro Denavita](/reviews/laranja-moro-denavita), [Denavita Tons](/reviews/denavita-tons)), e o Brain+, na Rituária ([Rituária Brain+](/reviews/rituaria-brain-para-que-serve))."
         ]
       },
@@ -326685,13 +326685,13 @@ export const reviewsData: unknown[] = [
       },
       {
         "heading": "Denavita ou Rituária: qual escolher por produto?",
-        "emphasis": "Em magnésio e NAC, o preço por dia empata e a escolha passa a ser a fórmula; em ômega 3, a Denavita custa menos por dia, porque o pote dela é mais barato para os mesmos 30 dias; em coenzima Q10, o pote da Denavita é mais barato, mas a Rituária custa menos por 100 mg (conta nossa).",
+        "emphasis": "Em magnésio, o preço por dia empata, e em NAC o preço por frasco empata; nos dois, a escolha passa a ser a fórmula; em ômega 3, a Denavita custa menos por dia, porque o pote dela é mais barato para os mesmos 30 dias; em coenzima Q10, o pote da Denavita é mais barato, mas a Rituária custa menos por 100 mg (conta nossa).",
         "paragraphs": [
           "Entre os produtos comparados:"
         ],
         "bullets": [
           "**Quer magnésio:** o preço empata. A Denavita publica 210 mg de magnésio na tabela, em cápsula de gelatina; a Rituária usa cápsula vegana e põe L-treonina e vitamina B6 na fórmula.",
-          "**Quer NAC:** o preço empata. A Rituária tem 600 mg de NAC por cápsula, com selênio e molibdênio; a Denavita é um polivitamínico com NAC, de 2 cápsulas por dia.",
+          "**Quer NAC:** o preço por frasco empata. A Rituária tem 600 mg de NAC por cápsula, com selênio e molibdênio; a Denavita é um polivitamínico com NAC, de 2 cápsulas por dia.",
           "**Quer coenzima Q10:** a Rituária tem 150 mg de coenzima Q10 por cápsula, contra 100 mg da Denavita, que também leva ômega 3 vegetal; por dia, o pote da Denavita sai mais barato, mas por 100 mg de coenzima Q10 a da Rituária custa menos (conta nossa).",
           "**Quer ômega 3:** a Denavita custa menos por dia que as duas fórmulas da Rituária. A Rituária tem certificação IFOS e separa a fórmula por foco, e a base dos números da Denavita não está explícita.",
           "**Pesa a reputação no atendimento:** a Rituária tem nota maior no Reclame Aqui, e as duas respondem a todas as reclamações."
@@ -326718,8 +326718,8 @@ export const reviewsData: unknown[] = [
         "heading": "Perguntas frequentes",
         "bullets": [
           "Qual é o cupom da Denavita e o da Rituária? O cupom das duas é o EMCASA, com 10% OFF no site oficial de cada loja, para cliente novo ou antigo. Cada loja tem o seu carrinho, então são dois pedidos, e o código vale em cada um.",
-          "Denavita ou Rituária, qual é melhor? Depende do produto: em magnésio e NAC o preço por dia empata e a escolha é pela fórmula; no ômega 3, a Denavita sai mais barata por dia; na coenzima Q10, o pote da Denavita é mais barato, mas a Rituária custa menos por 100 mg; no Reclame Aqui, a Rituária tem a nota maior. Os perfis estão no capítulo do veredito.",
-          "Qual sai mais barata por dia? Por pote e por dia, a Denavita custa o mesmo ou menos nos quatro pares. Na coenzima Q10, por 100 mg, a Rituária custa menos (conta nossa). O produto não é igual em todos os pares, então vale olhar o rótulo antes do preço.",
+          "Denavita ou Rituária, qual é melhor? Depende do produto: em magnésio o preço por dia empata e em NAC o preço por frasco empata, e a escolha é pela fórmula; no ômega 3, a Denavita sai mais barata por dia; na coenzima Q10, o pote da Denavita é mais barato, mas a Rituária custa menos por 100 mg; no Reclame Aqui, a Rituária tem a nota maior. Os perfis estão no capítulo do veredito.",
+          "Qual sai mais barata por dia? Por pote, a Denavita custa o mesmo ou menos nos quatro pares. Na coenzima Q10, por 100 mg, a Rituária custa menos (conta nossa). O produto não é igual em todos os pares, então vale olhar o rótulo antes do preço.",
           "O código soma com a promoção? Na Rituária, o EMCASA somou com o “Leve 3, Pague 2” no carrinho que testamos. Na Denavita, ele entrou sobre preço promocional e kits; nas opções por quantidade, confira a linha “Cupom de desconto” no resumo.",
           "As duas têm Anvisa? Não lemos número de notificação em nenhuma das duas páginas. A Rituária diz, no FAQ do 4Mag, seguir as normas e as especificações da Anvisa, o que é uma declaração da loja, não uma aprovação. Confira o rótulo do pote que chegar.",
           "Onde comprar? Nos sites oficiais de cada loja, onde o código vale. Não conferimos as duas em marketplaces."
@@ -326840,7 +326840,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Para que serve, funciona e é bom?",
         "paragraphs": [
-          "O rótulo da foto traz a frase “Vitamina A contribui para a manutenção da pele” e a faixa “Skin care”. Fora isso, a ficha que lemos dá composição, dose e advertências, e não informa resultado esperado nem prazo para efeito.",
+          "A Denavita apresenta o Tons como suporte diário para o cuidado com a pele e atribui à vitamina A a manutenção da pele. A ficha dá composição, dose e advertências, e não informa resultado esperado nem prazo para efeito.",
           "Por isso este guia não responde se o Tons funciona: o que o rótulo permite dizer é o que está na tabela. Quanto ao “é bom” e à resenha, o guia lê o rótulo e a ficha, sem avaliações de clientes. A página também não traz bula; o que existe é o rótulo e as advertências da loja."
         ]
       },
@@ -326854,7 +326854,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Quanto dura o pote e quanto custa por dia",
         "paragraphs": [
-          "Com uma cápsula ao dia, o pote de 30 dura 30 dias. A opção de 2 unidades aparece com frete grátis na página."
+          "Com uma cápsula ao dia, o pote de 30 dura 30 dias. O selo “Frete Grátis” aparece na opção de 3 unidades."
         ],
         "comparisonTable": {
           "caption": "Preços à vista da página em 23/11, sem frete. Conta pela porção de uma cápsula por dia; a coluna do código é 10% sobre o preço da página.",
@@ -326915,7 +326915,7 @@ export const reviewsData: unknown[] = [
         "heading": "Perguntas frequentes",
         "bullets": [
           "Qual é o cupom da Denavita? O cupom da Denavita é o EMCASA, com 10% OFF no site oficial, em todas as formas de pagamento. Digite no campo “Tem um cupom?” do checkout aberto pelo botão Finalizar compra e confira a linha Cupom de desconto.",
-          "O Tons funciona e para que serve? A ficha não informa resultado nem prazo. O que ela traz é a composição, a dose de uma cápsula ao dia e as advertências; o rótulo da foto cita a vitamina A e a manutenção da pele.",
+          "O Tons funciona e para que serve? A Denavita apresenta o Tons como suporte diário para o cuidado com a pele e atribui à vitamina A a manutenção da pele. A ficha não informa resultado nem prazo; traz a composição, a dose de uma cápsula ao dia e as advertências.",
           "Como tomar o Tons? Uma cápsula ao dia, junto de uma refeição, segundo a loja. Depois de aberto, a loja manda consumir preferencialmente em 30 dias.",
           "O Tons tem bula? A página não traz bula. O que existe é o rótulo e as advertências da loja.",
           "O Tons tem registro na Anvisa? Nem a página nem as imagens que lemos citam a Anvisa ou trazem número de notificação. Confira o rótulo do pote que chegar.",
@@ -327004,10 +327004,10 @@ export const reviewsData: unknown[] = [
       {
         "heading": "A referência que a loja indica em cada um",
         "paragraphs": [
-          "Cada página traz o campo “Cheiro inspirado por”. A tabela reproduz o que a loja publica e a família olfativa que o rótulo traseiro informa, quando há."
+          "Cada página traz o campo “Cheiro inspirado por”. A tabela reproduz o que a loja publica e a família olfativa que a ficha informa."
         ],
         "comparisonTable": {
-          "caption": "Referência indicada pela loja na página de cada body splash de 200 ml. A família vem do rótulo traseiro; onde não consta, a ficha não informa.",
+          "caption": "Referência indicada pela loja na página de cada body splash de 200 ml. A família é a que a ficha informa, no subtítulo ou no texto do produto.",
           "headers": [
             "Body splash",
             "Referência que a loja indica",
@@ -327017,17 +327017,17 @@ export const reviewsData: unknown[] = [
             [
               "[Bold Homme](https://www.thebarboursbeauty.com.br/products/body-splash-bold-homme-desodorante-colonia-200ml)",
               "Sauvage - Dior",
-              "Não informa"
+              "Aromática fougère"
             ],
             [
               "[Seduction Homme](https://www.thebarboursbeauty.com.br/products/body-splash-seduction-homme-desodorante-colonia-200ml)",
               "Bleu - Chanel",
-              "Não informa"
+              "Amadeirada aromática"
             ],
             [
               "[Ocean Homme](https://www.thebarboursbeauty.com.br/products/body-splash-ocean-homme-desodorante-colonia-200ml)",
               "Acqua di Giò Elixir - Giorgio Armani",
-              "Não informa"
+              "Amadeirado aquático (o texto da ficha diz amadeirada aromática)"
             ],
             [
               "[Midnight Homme](https://www.thebarboursbeauty.com.br/products/body-splash-midnight-homme-desodorante-colonia-200ml)",
@@ -327121,7 +327121,7 @@ export const reviewsData: unknown[] = [
         "bullets": [
           "Todos os seis abrem com algum cítrico (bergamota, toranja, pomelo ou mandarina), então o que separa um do outro está no corpo e no fundo.",
           "O Ocean é o único que lista notas aquáticas, no coração, e é também o único com couro no fundo.",
-          "Midnight e Urban são os dois que a loja classifica como aromática fougère, ambos com lavanda no corpo e baunilha e fava tonka no fundo.",
+          "Bold, Midnight e Urban são os três que a loja classifica como fougère. Midnight e Urban têm lavanda no corpo e baunilha e fava tonka no fundo; o Bold traz bergamota, lavanda e patchouli no subtítulo.",
           "Bold e Seduction têm pimenta-rosa no coração. O Bold fecha com patchouli e musgo de carvalho, e o Seduction, com cedro e sândalo.",
           "O Signature é o único com cardamomo no corpo e chá preto e olíbano no fundo, e a loja o chama de cítrica aromática."
         ]
@@ -327176,7 +327176,7 @@ export const reviewsData: unknown[] = [
         "paragraphs": [
           "O [cupom Barbour's](/cupons/barbours) CECILIALINHARES dá 10% OFF no site oficial, para cliente novo e antigo. No nosso teste com um Bold Homme avulso, o checkout aberto por Finalizar a compra mostrou Descontos de R$ 3,99 e total de R$ 35,91, em vez de R$ 39,90. O passo a passo está em [como usar o cupom CECILIALINHARES](/reviews/cupom-barbours-como-usar).",
           "Nos kits, o código também entrou sobre o preço promocional em outro teste nosso: um kit de três a R$ 109,90 saiu por R$ 98,91. Com o kit a R$ 99,90, a conta de 10% daria R$ 89,91, mas esse valor é conta nossa. Confira a linha Descontos antes de pagar.",
-          "O frete grátis muda por região, e a barra do carrinho conta o valor antes do cupom. Um frasco avulso e o kit de três ficam abaixo do mínimo de qualquer região. O kit de seis, de R$ 209,90, passa do mínimo de todas, menos o Norte, e continua acima do mínimo do Nordeste (R$ 199) mesmo com o código, porque a barra conta o valor de R$ 209,90, antes do desconto."
+          "O frete grátis muda por região, e a barra do carrinho conta o valor antes do cupom. Um frasco avulso e o kit de três ficam abaixo do mínimo de qualquer região. O kit de seis, de R$ 209,90, cai para R$ 188,91 com o código. Ele só passa o mínimo de R$ 199 do Nordeste se a loja considerar o subtotal antes do cupom, como a barra do carrinho mostrou na nossa conferência; o frete grátis com o código não está garantido."
         ],
         "comparisonTable": {
           "caption": "Mínimo para frete grátis na Barbour's, segundo a central de ajuda da loja.",
@@ -327311,9 +327311,15 @@ export const reviewsData: unknown[] = [
         ]
       },
       {
+        "heading": "Os valores por frasco",
+        "paragraphs": [
+          "Na Wepink, o body splash de 200 ml aparece a R$ 31,90 ou R$ 33,90 nos exemplos que conferimos. Na Barbour's, o frasco avulso custa R$ 39,90 e fica em R$ 35,91 com o CECILIALINHARES. São valores de frasco, antes do frete."
+        ]
+      },
+      {
         "heading": "Qual sai por menos por ml",
         "paragraphs": [
-          "Os dois vendem body splash de 200 ml, então a comparação é direta: o preço do frasco dividido por 200 ml, com o código da Barbour's aplicado primeiro. A Wepink não tem código nosso. Entram só frascos avulsos, sem kit, frete nem outra promoção."
+          "Os dois vendem body splash de 200 ml, então a comparação é direta: o preço do frasco dividido por 200 ml, com o código da Barbour's aplicado primeiro. A Wepink não tem código nosso. Entram só frascos avulsos, sem kit, frete nem outra promoção, e a conclusão vale antes do frete."
         ],
         "comparisonTable": {
           "caption": "Preço de venda nos sites oficiais em 23 de novembro de 2026, frasco avulso de 200 ml, sem o valor riscado e antes do frete. O CECILIALINHARES foi testado no frasco avulso da Barbour's.",
@@ -327516,7 +327522,7 @@ export const reviewsData: unknown[] = [
           "A Wepink ganha para quem compra pelo preço por ml e quer escolher entre muitas fragrâncias, a R$ 31,90 ou R$ 33,90, contra R$ 35,91 na Barbour's já com o código.",
           "A Barbour's ganha para quem quer a referência olfativa e as notas na ficha, usa o [cupom Barbour's](/cupons/barbours) CECILIALINHARES e dá peso à nota maior no Reclame Aqui. Ela avisa que a referência não promete cheiro idêntico ao do perfume citado.",
           "No kit de três da Barbour's, a conta de 10% (nossa, não testada nesse preço) daria R$ 14,99 por 100 ml, abaixo dos R$ 15,95 da Wepink no frasco avulso. Os kits da Wepink não foram comparados.",
-          "Quem precisa de frete grátis deve conferir o mínimo da região: um frasco avulso não chega a ele em nenhuma."
+          "Quem precisa de frete grátis deve conferir o mínimo da região: só o mínimo regional da Barbour's foi confirmado, e nele um frasco avulso fica abaixo."
         ],
         "emphasis": "Para quem compra frasco avulso pelo preço por ml, a Wepink sai na frente: R$ 31,90 o frasco de 200 ml contra R$ 35,91 na Barbour's já com o código; para quem quer a referência e as notas na ficha, a Barbour's."
       },
@@ -327592,14 +327598,14 @@ export const reviewsData: unknown[] = [
       ],
       "skipIf": [
         "a peça que você quer está sem descrição e você não tem como conferir a medida.",
-        "você conta com trocar direto por outro tamanho: na BAW, a troca vira crédito e o dinheiro só volta na devolução."
+        "você conta com trocar direto por outro tamanho: na BAW, a troca por tamanho vira crédito para um novo pedido."
       ]
     },
     "contentSections": [
       {
         "heading": "Resposta rápida",
         "paragraphs": [
-          "A BAW não tem uma tabela de tamanhos única: as medidas ficam na descrição de cada peça, com variação de até 3%. A troca vira crédito, e a devolução devolve o dinheiro em até 7 dias corridos, mas a política não cita tamanho como motivo: confirme com o atendimento. O BAWEMCASACOMCECILIA dá 10% OFF no site e no aplicativo."
+          "A BAW não tem uma tabela de tamanhos única: as medidas ficam na descrição de cada peça, com variação de até 3%. A troca vira crédito, e a devolução pode ser solicitada em até 7 dias corridos do recebimento. O BAWEMCASACOMCECILIA dá 10% OFF no site e no aplicativo."
         ]
       },
       {
@@ -328060,8 +328066,8 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Troca e devolução se o tamanho não servir",
         "paragraphs": [
-          "Pela [política de trocas e devoluções da BAW](https://www.bawclothing.com.br/trocas-e-devolucoes), lida em 16 de novembro de 2026, “as trocas na BAW são feitas exclusivamente através de crédito em conta”, e a loja informa que não faz “trocas manuais de peça por peça, nem mesmo em casos de troca por tamanho”. A devolução é outra coisa: devolve o dinheiro, na mesma forma de pagamento. Para troca ou devolução, o prazo é de 7 dias corridos do recebimento, com a peça sem uso, com etiqueta e na embalagem original, e a primeira troca ou devolução tem frete grátis.",
-          "A política não cita tamanho como motivo de devolução. Se você quer o dinheiro de volta em vez de crédito, confirme com o atendimento antes de comprar. O capítulo de troca e devolução está no guia [BAW Clothing é confiável?](/reviews/baw-clothing-e-confiavel)."
+          "Pela [política de trocas e devoluções da BAW](https://www.bawclothing.com.br/trocas-e-devolucoes), lida em 16 de novembro de 2026, “as trocas na BAW são feitas exclusivamente através de crédito em conta”, e a loja informa que não faz “trocas manuais de peça por peça, nem mesmo em casos de troca por tamanho”. A devolução é outra coisa: devolve o dinheiro, na mesma forma de pagamento. Sete dias corridos do recebimento é o prazo para solicitar a troca ou a devolução, com a peça sem uso, com etiqueta e na embalagem original, e a primeira troca ou devolução tem frete grátis. A loja informa até dez dias úteis para analisar a peça depois de recebê-la, e o prazo do reembolso começa depois disso.",
+          "Se a peça não serviu, solicite a devolução em até sete dias corridos do recebimento. A troca por outro tamanho é feita via crédito para um novo pedido. O capítulo de troca e devolução está no guia [BAW Clothing é confiável?](/reviews/baw-clothing-e-confiavel)."
         ]
       },
       {
@@ -328269,7 +328275,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Troca, envio e onde comprar",
         "paragraphs": [
-          "Na BAW, a troca vira crédito, e a devolução devolve o dinheiro, em até 7 dias corridos, com a peça sem uso e com etiqueta. A primeira troca ou devolução tem frete grátis. Os detalhes estão em [BAW Clothing é confiável?](/reviews/baw-clothing-e-confiavel).",
+          "Na BAW, a troca vira crédito, e a devolução devolve o dinheiro. Sete dias corridos do recebimento é o prazo para solicitar, com a peça sem uso e com etiqueta, e a loja informa até dez dias úteis para analisar a peça depois de recebê-la. A primeira troca ou devolução tem frete grátis. Os detalhes estão em [BAW Clothing é confiável?](/reviews/baw-clothing-e-confiavel).",
           "A Carnan informa, em sua página de trocas e devoluções, que a primeira troca ou devolução é gratuita, pelo portal Troque Fácil, com reembolso em até 7 dias úteis ou voucher. Para o envio, informa até 10 dias úteis de separação e despacho, e retirada na loja de Pinheiros, em São Paulo.",
           "Cada marca vende no próprio site. Para a BAW, o endereço é [bawclothing.com.br](https://www.bawclothing.com.br/). A Carnan não é parceira nossa, e por isso não há link nem código dela aqui. Na BAW, o [cupom BAW](/cupons/baw) BAWEMCASACOMCECILIA dá 10% OFF e se digita no campo de cupom do carrinho. As condições estão em [como usar o cupom da BAW](/reviews/cupom-baw-como-usar)."
         ]

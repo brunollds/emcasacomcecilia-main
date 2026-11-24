@@ -77,7 +77,7 @@
     {
       "heading": "A barra BOLD tem açúcar? Zero adicionado e açúcares totais",
       "paragraphs": [
-        "A loja informa “zero açúcar adicionado”, e a tabela de cada sabor lido traz açúcares adicionados de 0 g. Isso não é o mesmo que zero açúcar: a linha de açúcares totais mostra de 1,6 g a 5,3 g por barra, conforme a linha e o sabor. Quem controla açúcar lê a linha de açúcares totais."
+        "A loja informa “zero açúcar adicionado”, e a tabela de cada sabor lido traz açúcares adicionados de 0 g. Isso não é o mesmo que zero açúcar: a linha de açúcares totais mostra de 1,6 g a 5,3 g por barra, conforme a linha e o sabor. O 5,3 g, do Chocomalte 21 g, é o valor do texto da loja; a foto do rótulo desse sabor mostra 5,4 g. Quem controla açúcar lê a linha de açúcares totais."
       ],
       "comparisonTable": {
         "caption": "Valores das páginas de cada sabor lido, por barra, e os adoçantes da lista de ingredientes.",
@@ -311,7 +311,7 @@
       "paragraphs": [
         "O que decide a compra é a pergunta de rótulo de cada pessoa, e não a palavra saudável. Quem precisa evitar glúten, lactose, leite ou soja encontra o mesmo “contém” em todas as linhas lidas. Quem acompanha açúcar lê a linha de açúcares totais, e quem só quer comparar tamanho e preço vai ao guia da 21 g ou 14 g."
       ],
-      "emphasis": "Para quem controla o açúcar, a escolha é comparar o sabor e não só a linha: os açúcares totais vão de 1,6 g a 5,3 g por barra, e as faixas das linhas se sobrepõem."
+      "emphasis": "Para quem controla o açúcar, a escolha é comparar o sabor e não só a linha: os açúcares totais vão de 1,6 g a 5,3 g por barra no texto da loja (5,4 g na foto do rótulo do Chocomalte 21 g), e as faixas das linhas se sobrepõem."
     },
     {
       "heading": "Perguntas frequentes",
