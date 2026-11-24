@@ -194,3 +194,7 @@ Os sabores da linha do pote (Tropical, Melancia, Manga) têm a mesma etiqueta de
 
 - Voltou à fila em 23/11 com a confirmação do Bruno (ver acima). Histórico: o Bruno tirou a creatina da Mais Mu da fila em 23/10 e de novo em 30/10, pelo caso Bioghen (dossiê [[Mais-Mu]]). O GO de 23/11 foi dado sem essa lembrança na proposta; só volta com confirmação explícita do Bruno. Se voltar: o caso fica fora do texto, a ficha "não declara quem fabrica", e a seção 5 do `mais-mu-e-boa` encolhe para um parágrafo com link.
 - Leituras pendentes: pelo navegador do app no dia da redação (as leituras de 23/11 estão em [[leituras-grupo2-2311]]). Preço: a régua é o preço de tabela (memória "preço real, não promocional"); em 23/11 quase tudo estava em Black Friday, então reler fora da campanha se possível.
+
+## Regra de pergunta de fato (24/11/2026)
+
+- Esta pauta é pergunta de fato, e não "é boa?": o "Sim" de abertura do `Anexo-E-Boa-Vale-a-Pena.md` (seção 1.4) não vale aqui. A resposta rápida, os capítulos e o FAQ respondem pelo que a fonte lida declara. Não afirmar Creapure: o selo não aparece na ficha. "É pura?" responde pelo que consta na lista de ingredientes de cada versão (o sem sabor e cada sabor), sem laudo nem selo que a página não traz. O FAQ "é boa?" segue apontando o guia da marca.

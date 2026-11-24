@@ -166,3 +166,7 @@ Blocos do caderno: `checklist` (roteiro do rótulo) e `comparisonTable` por perg
 
 - GO (Bruno, 23/11). A BO9 é a dona do rótulo (açúcar, calorias, glúten, lactose, leite, vegana, alérgenos por linha); a `barra-bold-e-boa` mantém a resposta curta de "é saudável?" e linka para ela (ajuste A3). O 20% do CECILIA15 era da Pré-Black (18 a 22/11): reler `/cupons/bold` no dia e acertar o snippet. Linhas e preços do dia 23/11 em [[bold-precos-2311]].
 - Leituras pendentes: pelo navegador do app no dia da redação (o 429 de 23/11 veio só das leituras por script; o navegador abre as lojas).
+
+## Regra de pergunta de fato (24/11/2026)
+
+- Esta pauta é pergunta de fato, e não "é boa?": o "Sim" de abertura do `Anexo-E-Boa-Vale-a-Pena.md` (seção 1.4) não vale aqui. A resposta rápida, os capítulos e o FAQ respondem pelo que a fonte lida declara. "É saudável?" responde pelo rótulo de cada linha (açúcar, calorias, glúten, lactose, leite e alérgenos), sem "Sim" nem "Não" que o rótulo não sustente. O "Sim" com perfil e motivo fica na `barra-bold-e-boa`.
