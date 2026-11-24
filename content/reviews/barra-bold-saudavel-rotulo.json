@@ -1,0 +1,329 @@
+{
+  "id": 1311,
+  "slug": "barra-bold-saudavel-rotulo",
+  "locale": "pt",
+  "category": "guias-praticos-utilidade",
+  "reviewKind": "guia",
+  "author": {
+    "name": "Cecília Mauad",
+    "slug": "cecilia-mauad",
+    "role": "Em Casa com Cecília",
+    "initials": "CM",
+    "url": "/sobre"
+  },
+  "publishedAt": "23 de novembro de 2026",
+  "publishedAtISO": "2026-11-23",
+  "draft": false,
+  "isNew": true,
+  "imageFit": "contain",
+  "imageAspect": "landscape",
+  "pros": [],
+  "cons": [],
+  "coupon": "CECILIA15",
+  "affiliate": "bold",
+  "type": "Guia Prático",
+  "title": "Barra BOLD é saudável? Açúcar, calorias, glúten e lactose pelo rótulo",
+  "seoTitle": "Barra BOLD é saudável? Rótulo: açúcar, glúten e lactose",
+  "description": "Açúcar, calorias, glúten, lactose e leite da barra BOLD, linha por linha, como a embalagem declara, e um roteiro de cinco passos para ler o rótulo de qualquer barra.",
+  "metaDescription": "Com o CECILIA15, 20% OFF na BOLD Snacks. Veja açúcar, calorias, glúten e lactose da barra BOLD pelo rótulo de cada linha.",
+  "image": "/images/reviews/bold/barra-bold-saudavel-rotulo-capa.webp",
+  "imageAlt": "Caixa de barras BOLD Caixa Mista de 14 g, com embalagens azuis e laranjas, sobre fundo branco. A capa pergunta se a barra BOLD é saudável.",
+  "cta": {
+    "text": "Se a barra serve para a sua compra, abra o site oficial pelo botão. O código entra no checkout, no campo Código de desconto ou cartão-presente.",
+    "label": "Ir para a BOLD Snacks",
+    "url": "https://www.boldsnacks.com.br/discount/CECILIA15",
+    "sponsored": true
+  },
+  "editorialNote": "Ninguém da equipe usou as barras. Podemos receber comissão pelo cupom e pelos links.",
+  "relatedArticles": [
+    {
+      "slug": "barra-bold-e-boa"
+    },
+    {
+      "slug": "barra-bold-21g-ou-14g"
+    },
+    {
+      "slug": "whey-bold-e-bom"
+    },
+    {
+      "slug": "cupom-bold-snacks-como-usar"
+    }
+  ],
+  "decision": {
+    "takeIf": [
+      "você quer comparar as barras pelo que a embalagem declara e já conferiu o alerta do sabor que pretende comprar.",
+      "você aceita glúten, lactose, leite e soja na declaração e quer escolher a linha pelos açúcares e pelas calorias."
+    ],
+    "skipIf": [
+      "você precisa evitar glúten, lactose ou leite: todas as linhas lidas declaram os três.",
+      "você procura uma barra vegana ou sem lactose: o catálogo lido não traz nenhuma."
+    ]
+  },
+  "contentSections": [
+    {
+      "heading": "Resposta rápida",
+      "paragraphs": [
+        "Pelo rótulo, a pergunta útil não é se a barra BOLD é saudável, e sim o que cada linha declara: açúcares totais, calorias, glúten, lactose, leite e soja. Todas as linhas lidas declaram glúten e lactose, nenhuma se diz vegana, e a tabela de cada sabor está no guia da barra BOLD 21 g ou 14 g."
+      ]
+    },
+    {
+      "heading": "A barra BOLD é saudável? O que o rótulo permite dizer",
+      "paragraphs": [
+        "Saudável não é uma palavra do rótulo, e este guia não dá esse veredito. O que a embalagem e a página da loja permitem comparar é a porção, as calorias, os açúcares, os ingredientes e os alérgenos de cada sabor.",
+        "A BOLD recomenda o uso por adultos a partir de 19 anos, de até duas unidades por dia ou conforme o profissional de saúde, e diz que o produto não é um medicamento. É a indicação da marca, não uma porção definida por nós. Na dúvida, o caminho é o médico ou o nutricionista.",
+        "Para saber se o preço compensa, veja o guia [Barra BOLD é boa?](/reviews/barra-bold-e-boa)."
+      ]
+    },
+    {
+      "heading": "A barra BOLD tem açúcar? Zero adicionado e açúcares totais",
+      "paragraphs": [
+        "A loja informa “zero açúcar adicionado”, e a tabela de cada sabor lido traz açúcares adicionados de 0 g. Isso não é o mesmo que zero açúcar: a linha de açúcares totais mostra de 1,6 g a 5,3 g por barra, conforme a linha e o sabor. Quem controla açúcar lê a linha de açúcares totais."
+      ],
+      "comparisonTable": {
+        "caption": "Valores das páginas de cada sabor lido, por barra, e os adoçantes da lista de ingredientes.",
+        "headers": [
+          "Linha",
+          "Açúcares totais",
+          "Açúcares adicionados",
+          "Adoçantes na lista de ingredientes"
+        ],
+        "rows": [
+          [
+            "BOLD 21 g (barra de 60 g)",
+            "1,8 g a 5,3 g",
+            "0 g",
+            "Maltitol, xarope de sorbitol e sucralose"
+          ],
+          [
+            "BOLD 14 g (barra de 40 g)",
+            "1,6 g a 3,6 g",
+            "0 g",
+            "Maltitol, xarope de sorbitol e sucralose"
+          ],
+          [
+            "Crunch (barra de 60 g)",
+            "1,8 g a 2,2 g",
+            "0 g",
+            "Maltitol e sucralose"
+          ],
+          [
+            "Wafer (barra de 40 g)",
+            "2,1 g a 2,8 g",
+            "0 g",
+            "Maltitol e sucralose"
+          ],
+          [
+            "Tube (barra de 40 g), Pistache e Speculoos",
+            "2 g a 2,1 g",
+            "0 g",
+            "Códigos INS 965(i), 960a e 955, no Pistache"
+          ]
+        ]
+      },
+      "postParagraphs": [
+        "No 21 g e no 14 g, os adoçantes aparecem na cobertura, no recheio e de novo no fim da lista. Maltitol e sorbitol são polióis, e a sucralose é um edulcorante. O rótulo não diz quanto há de cada um."
+      ]
+    },
+    {
+      "heading": "Quantas calorias tem cada linha da barra BOLD?",
+      "paragraphs": [
+        "A caloria depende do peso da barra, e o peso muda de linha para linha. A tabela mostra a faixa dos sabores com tabela; a de cada sabor está no guia [Barra BOLD 21 g ou 14 g?](/reviews/barra-bold-21g-ou-14g)."
+      ],
+      "comparisonTable": {
+        "caption": "Valores das páginas de cada sabor, por barra. O Tube entra só com Pistache e Speculoos.",
+        "headers": [
+          "Linha",
+          "Peso da barra",
+          "Proteína",
+          "Calorias por barra"
+        ],
+        "rows": [
+          [
+            "BOLD 21 g",
+            "60 g",
+            "21 g",
+            "215 a 239 kcal"
+          ],
+          [
+            "BOLD 14 g",
+            "40 g",
+            "14 g",
+            "151 a 161 kcal"
+          ],
+          [
+            "Crunch",
+            "60 g",
+            "18 g",
+            "209 a 215 kcal"
+          ],
+          [
+            "Wafer",
+            "40 g",
+            "10 g",
+            "192 a 202 kcal"
+          ],
+          [
+            "Tube",
+            "40 g",
+            "10 g",
+            "183 a 186 kcal"
+          ]
+        ]
+      },
+      "postParagraphs": [
+        "A comparação aqui é só de número. Ela não diz qual barra sacia mais nem qual cabe em uma dieta."
+      ]
+    },
+    {
+      "heading": "A barra BOLD tem glúten e lactose?",
+      "paragraphs": [
+        "O alerta de alérgicos de cada sabor lido diz “contém glúten” e “contém lactose”, junto de leite e soja na maioria dos sabores lidos. A resposta da loja atribui o glúten ao ambiente de fabricação, com possível contaminação cruzada, mas o alerta segue dizendo que contém. No Wafer e no Tube, o trigo também aparece nos ingredientes, na farinha do biscoito.",
+        "Sobre lactose, a loja responde que a barra tem ingredientes derivados do leite e lactose, e que quem tem intolerância deve avaliar a própria tolerância e, se precisar, procurar um profissional de saúde antes de consumir. Quem tem doença celíaca ou alergia ao leite ou à soja segue o rótulo da embalagem e o médico."
+      ]
+    },
+    {
+      "heading": "A barra BOLD é vegana? Tem leite, soja ou amendoim?",
+      "paragraphs": [
+        "No catálogo lido, não há barra BOLD que se declare vegana ou sem leite e lactose; todas as linhas declaram leite e derivados. O resto do alerta muda de uma linha para outra, como mostra a tabela."
+      ],
+      "comparisonTable": {
+        "caption": "A loja informa: alerta de um sabor de cada linha. Os outros sabores podem diferir; o Chocomalte 21 g, por exemplo, declara cevada em “contém”.",
+        "headers": [
+          "Linha e sabor lido",
+          "Contém",
+          "Pode conter"
+        ],
+        "rows": [
+          [
+            "BOLD 21 g, Doce de Leite",
+            "Leite e derivados, soja, lactose e glúten",
+            "Amendoim, aveia, avelãs, castanhas, centeio, cevada, macadâmias, nozes, pistache e trigo"
+          ],
+          [
+            "BOLD 14 g, Cookies Black",
+            "Leite e derivados, soja, lactose e glúten",
+            "Amendoim, aveia, avelãs, castanhas, centeio, cevada, macadâmias, nozes, pistaches e trigo"
+          ],
+          [
+            "Crunch, Brigadeiro",
+            "Leite e derivados, soja, lactose e glúten",
+            "Amendoim, aveia, avelãs, castanhas, centeio, cevada, macadâmias, nozes, pistache e trigo"
+          ],
+          [
+            "Wafer, Speculoos",
+            "Leite, trigo, soja, lactose e glúten",
+            "Amendoim, aveia, avelãs, castanhas, centeio, cevada, macadâmias, nozes e pistaches"
+          ],
+          [
+            "Tube, Pistache",
+            "Amendoim, pistache, trigo, leite, soja, lactose e glúten",
+            "Avelã, aveia, castanhas, centeio, cevada, nozes e macadâmias"
+          ]
+        ]
+      },
+      "images": [
+        {
+          "src": "/images/reviews/bold/barra-bold-21g-ou-14g-tube.webp",
+          "alt": "Caixa do BOLD Tube com uma barra ao lado",
+          "caption": "Caixa e barra do BOLD Tube. Foto: BOLD Snacks.",
+          "objectFit": "contain",
+          "aspectRatio": 1
+        }
+      ],
+      "postParagraphs": [
+        "Quem precisa evitar leite, soja, amendoim ou trigo confere o alerta do sabor exato. O “pode conter” muda de uma linha para outra, e o Tube Pistache declara amendoim e pistache em “contém”."
+      ]
+    },
+    {
+      "heading": "O que a lista de ingredientes mostra, linha por linha",
+      "paragraphs": [
+        "A lista de ingredientes mostra de onde vem a proteína declarada e quais adoçantes e aditivos entram. A tabela resume o que a loja informa em um sabor de cada linha."
+      ],
+      "comparisonTable": {
+        "caption": "Ingredientes de um sabor de cada linha. O colágeno hidrolisado aparece nos sabores lidos do 21 g, do 14 g e do Crunch.",
+        "headers": [
+          "Linha",
+          "Ingredientes proteicos e lácteos citados na lista",
+          "Colágeno hidrolisado"
+        ],
+        "rows": [
+          [
+            "BOLD 21 g e 14 g",
+            "Blend proteico com caseinato de cálcio ou proteína concentrada do leite, mais proteína de soro do leite concentrada e isolada",
+            "Sim"
+          ],
+          [
+            "Crunch",
+            "Crispies proteicos de chocolate, com proteína de soja isolada, e proteína de soro do leite concentrada",
+            "Sim"
+          ],
+          [
+            "Wafer",
+            "Proteína de soro do leite concentrada, caseinato de cálcio e leite em pó, no recheio e na cobertura",
+            "Não"
+          ],
+          [
+            "Tube, Pistache",
+            "Proteína de soro do leite concentrada, caseinato de cálcio, leite em pó e pasta de amendoim, no creme",
+            "Não"
+          ]
+        ]
+      },
+      "postParagraphs": [
+        "A loja não informa quanto da proteína vem do colágeno, e o FAQ da página sobre a origem da proteína cita só as proteínas do leite. O colágeno hidrolisado é um ingrediente de origem animal. No 21 g, ele vem depois da cobertura e do recheio na lista, que em regra segue da maior para a menor quantidade."
+      ]
+    },
+    {
+      "heading": "Como ler o rótulo de qualquer barra em cinco passos",
+      "paragraphs": [
+        "O roteiro vale para a BOLD e para qualquer outra barra, e não depende de marca."
+      ],
+      "checklist": {
+        "title": "Roteiro do rótulo",
+        "items": [
+          "Veja se a porção da tabela é a barra inteira: calorias e proteína valem para essa porção.",
+          "Compare açúcares totais com açúcares adicionados: são duas linhas diferentes da tabela.",
+          "Leia a ordem dos ingredientes e procure a fonte da proteína, o colágeno e os adoçantes.",
+          "Separe “contém” de “pode conter”: o primeiro é declaração, o segundo é risco de contaminação cruzada.",
+          "Confira a recomendação de uso e, na dúvida, pergunte ao médico ou ao nutricionista."
+        ]
+      }
+    },
+    {
+      "heading": "Preço da barra BOLD com o código",
+      "paragraphs": [
+        "A conta do preço por barra e por proteína de cada linha, com o código, está no guia [Barra BOLD 21 g ou 14 g?](/reviews/barra-bold-21g-ou-14g), feita sobre os preços de vitrine da data indicada lá, que não são os de hoje. O [cupom BOLD](/cupons/bold) CECILIA15 vale no site oficial, para cliente novo e antigo, e a loja aceita um cupom por pedido.",
+        "O nome tem 15, e o desconto do nosso teste mais recente foi de 20%: a caixa de Cookies Black 14 g, a R$ 109,00 em 23/11, foi a R$ 87,20 no checkout. O percentual pode mudar com as campanhas da loja, então confira o resumo antes de pagar."
+      ],
+      "images": [
+        {
+          "src": "/images/reviews/bold/barra-bold-21g-ou-14g-caixa-21g.webp",
+          "alt": "Caixa Mista da BOLD 21 g com as barras e a caixa de 12 unidades sobre fundo amarelo",
+          "caption": "Caixa Mista da BOLD 21 g. Foto: BOLD Snacks.",
+          "objectFit": "contain",
+          "aspectRatio": 1,
+          "href": "https://www.boldsnacks.com.br/discount/CECILIA15"
+        }
+      ]
+    },
+    {
+      "heading": "Para quem a leitura do rótulo muda a escolha",
+      "paragraphs": [
+        "O que decide a compra é a pergunta de rótulo de cada pessoa, e não a palavra saudável. Quem precisa evitar glúten, lactose, leite ou soja encontra o mesmo “contém” em todas as linhas lidas. Quem acompanha açúcar lê a linha de açúcares totais, e quem só quer comparar tamanho e preço vai ao guia da 21 g ou 14 g."
+      ],
+      "emphasis": "Para quem controla o açúcar, a escolha é comparar o sabor e não só a linha: os açúcares totais vão de 1,6 g a 5,3 g por barra, e as faixas das linhas se sobrepõem."
+    },
+    {
+      "heading": "Perguntas frequentes",
+      "bullets": [
+        "Qual é o cupom da BOLD Snacks? O CECILIA15 dá 20% OFF no site oficial, para cliente novo e antigo, no nosso teste mais recente. O nome tem 15, o percentual pode mudar com as campanhas da loja, e vale um cupom por pedido.",
+        "A barra BOLD tem açúcar? A loja informa “zero açúcar adicionado”, mas zero adicionado não é zero açúcar: os açúcares totais de cada sabor estão na tabela do capítulo sobre açúcar.",
+        "A barra BOLD tem glúten e lactose? O alerta de todos os sabores lidos diz que contém os dois. Quem tem doença celíaca ou intolerância à lactose segue o rótulo da embalagem e o profissional de saúde.",
+        "A barra BOLD é vegana? Não encontramos barra BOLD que se declare vegana ou sem leite e lactose; todas as linhas declaram leite e derivados.",
+        "Quantas barras BOLD posso comer por dia? A marca indica, para adultos a partir de 19 anos, até duas unidades por dia ou conforme o profissional de saúde. É a indicação da loja, não uma recomendação nossa.",
+        "Qual barra BOLD tem mais proteína? A BOLD 21 g, com 21 g por barra de 60 g. A tabela de cada sabor está no guia [Barra BOLD 21 g ou 14 g?](/reviews/barra-bold-21g-ou-14g)."
+      ]
+    }
+  ],
+  "updatedAt": "2026-11-23"
+}

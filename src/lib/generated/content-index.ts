@@ -275939,7 +275939,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Resposta rápida",
         "paragraphs": [
-          "O BOLD 21 g tem o menor custo por proteína declarada entre as linhas comparadas; Wafer e Tube custam menos por unidade. O colágeno aparece nos ingredientes de três linhas, sem proporção informada, por isso o preço não compara fontes equivalentes. O cupom BOLD CECILIA15 deu 20% OFF no teste da Pré-Black; veja abaixo as diferenças."
+          "O BOLD 21 g tem o menor custo por proteína declarada entre as linhas comparadas; Wafer e Tube custam menos por unidade. O colágeno aparece nos ingredientes de três linhas, sem proporção informada, por isso o preço não compara fontes equivalentes. O cupom BOLD CECILIA15 deu 20% OFF no nosso teste; veja abaixo as diferenças."
         ]
       },
       {
@@ -275978,7 +275978,7 @@ export const reviewsData: unknown[] = [
           }
         ],
         "comparisonTable": {
-          "caption": "A loja informa: valores por barra, das tabelas nutricionais de cada sabor. No BOLD 14 g, a página do Cookies Black não traz a tabela. O Tube entra só com Pistache e Speculoos.",
+          "caption": "A loja informa: valores por barra, das tabelas nutricionais de cada sabor. O Tube entra só com Pistache e Speculoos. As divergências entre o texto e a foto do rótulo de alguns sabores estão no guia de 21 g ou 14 g.",
           "headers": [
             "Linha",
             "Proteína",
@@ -275993,7 +275993,7 @@ export const reviewsData: unknown[] = [
               "1,8 g a 5,3 g"
             ],
             [
-              "BOLD 14 g (barra de 40 g), 5 sabores com tabela",
+              "BOLD 14 g (barra de 40 g), 6 sabores",
               "14 g",
               "151 a 161 kcal",
               "1,6 g a 3,6 g"
@@ -276033,31 +276033,31 @@ export const reviewsData: unknown[] = [
       {
         "heading": "A barra BOLD tem açúcar?",
         "paragraphs": [
-          "A loja informa “zero açúcar adicionado”. A tabela de cada sabor mostra os açúcares totais, de 1,6 g a 5,3 g por barra, e o maior valor é o do Chocomalte 21 g. Quem precisa de zero açúcares deve ler essa linha da tabela, porque as duas medidas são diferentes.",
-          "No BOLD 21 g Trufa de Chocolate, os adoçantes da lista são maltitol, xarope de sorbitol e sucralose."
+          "A loja informa “zero açúcar adicionado”, e a tabela de cada sabor mostra os açúcares totais, de 1,6 g a 5,3 g por barra. As duas medidas são diferentes, e quem precisa de zero açúcares lê a linha de açúcares totais.",
+          "A leitura por linha, com os adoçantes da lista de ingredientes, está em [Barra BOLD é saudável? Açúcar, calorias, glúten e lactose pelo rótulo](/reviews/barra-bold-saudavel-rotulo)."
         ]
       },
       {
         "heading": "A barra BOLD é saudável?",
         "paragraphs": [
-          "Para avaliar a barra na sua alimentação, compare a porção que pretende consumir, as calorias, os açúcares e os ingredientes do sabor. A faixa de 151 a 239 kcal corresponde a unidades de tamanhos e composições diferentes.",
-          "Nas páginas do 21 g, do 14 g e do Wafer, a loja recomenda uso adulto e até duas unidades por dia, ou conforme orientação profissional. Essa é a indicação publicada pela marca, não uma porção diária definida por este guia. Dúvidas de quantidade e restrições devem ser levadas ao nutricionista ou médico."
+          "Saudável não é uma palavra do rótulo. Para avaliar a barra na sua alimentação, compare a porção, as calorias, os açúcares e os ingredientes do sabor. A loja recomenda uso adulto e até duas unidades por dia, ou conforme o profissional de saúde, e as dúvidas de quantidade vão ao nutricionista ou ao médico.",
+          "O que o rótulo permite dizer, linha por linha, está em [Barra BOLD é saudável? Açúcar, calorias, glúten e lactose pelo rótulo](/reviews/barra-bold-saudavel-rotulo)."
         ]
       },
       {
         "heading": "A barra BOLD tem glúten e lactose?",
         "paragraphs": [
-          "O alerta de alérgicos de cada sabor diz “contém lactose” e “contém glúten”, junto de “contém leite e derivados de leite e soja” e de uma lista de “pode conter” que traz amendoim, aveia, castanhas e trigo. O FAQ do BOLD 21 g atribui o glúten ao ambiente de fabricação, ou seja, à contaminação cruzada.",
-          "Confira o alerta impresso na embalagem do sabor escolhido. A explicação da marca sobre o ambiente de fabricação não altera a declaração de glúten publicada na página."
+          "O alerta de cada sabor diz “contém lactose” e “contém glúten”, junto de leite e soja. O FAQ do BOLD 21 g atribui o glúten ao ambiente de fabricação, mas o alerta segue dizendo que contém, e vale o que está impresso na embalagem do sabor escolhido.",
+          "O “pode conter” de cada linha e a pergunta sobre barra vegana estão em [Barra BOLD é saudável? Açúcar, calorias, glúten e lactose pelo rótulo](/reviews/barra-bold-saudavel-rotulo)."
         ]
       },
       {
         "heading": "A barra BOLD vale a pena? O preço por proteína",
         "paragraphs": [
-          "A tabela aplica 20% a todas as caixas de 12 unidades, percentual observado no teste apenas na Caixa Mista de 21 g; nas demais linhas, o valor é cálculo. Para referência, a vitrine mostrava R$ 179 no BOLD 21 g e no Crunch, R$ 129 no BOLD 14 g e R$ 119 no Wafer e no Tube. O custo abaixo usa a proteína total declarada; três linhas incluem colágeno, sem proporção divulgada."
+          "A tabela aplica 20% ao preço de compra única das caixas de 12 unidades. O percentual passou pelo carrinho em duas caixas, a Mista de 21 g e o Cookies Black de 14 g; nas demais linhas, o valor é cálculo. O custo abaixo usa a proteína total declarada; três linhas incluem colágeno, sem proporção divulgada."
         ],
         "comparisonTable": {
-          "caption": "Preços de vitrine de 18/11, compra única, sem frete. Só a Caixa Mista de 21 g passou pelo carrinho; nas demais linhas, os 20% são calculados. Caixa de 12 unidades; proteína conforme a página do produto.",
+          "caption": "Preços de vitrine de 18/11, compra única, sem frete. Caixa de 12 unidades; proteína conforme a página do produto. Os 20% são cálculo nosso, salvo nas duas caixas que passaram pelo carrinho.",
           "headers": [
             "Linha",
             "Caixa com CECILIA15",
@@ -276107,8 +276107,9 @@ export const reviewsData: unknown[] = [
           }
         ],
         "postParagraphs": [
-          "O BOLD 21 g tem o menor custo por proteína declarada e custa mais por unidade que o BOLD 14 g. Wafer e Tube são os mais baratos por unidade. A ordem de preço não transforma leite, soja e colágeno em fontes equivalentes, nem responde qual sabor você vai preferir.",
-          "O [cupom BOLD](/cupons/bold) CECILIA15 vale no site oficial, para cliente novo e antigo. O nome tem 15, e o desconto do nosso teste foi de 20%, dentro da Pré-Black da loja, que vai até 22/11. No carrinho, a Caixa Mista do BOLD 21 g foi de R$ 179,00 para R$ 143,20. O percentual pode mudar depois da campanha, então confira o resumo antes de pagar. Vale um cupom por pedido.",
+          "O BOLD 21 g tem o menor custo por proteína declarada nos preços da tabela e custa mais por unidade que o BOLD 14 g. Wafer e Tube são os mais baratos por unidade. A ordem de preço não transforma leite, soja e colágeno em fontes equivalentes, nem responde qual sabor você vai preferir.",
+          "Em 23/11, na Black Friday da loja, as caixas de 21 g custavam de R$ 149 a R$ 159 e as de 14 g, de R$ 99 a R$ 109, conforme o sabor. Com preços assim, a diferença por proteína entre as duas linhas encolhe, e vale refazer a conta com o preço do sabor que você vai comprar.",
+          "O [cupom BOLD](/cupons/bold) CECILIA15 vale no site oficial, para cliente novo e antigo. O nome tem 15, e o desconto dos nossos testes foi de 20%, na Pré-Black e na Black Friday da loja. No carrinho, a Caixa Mista do BOLD 21 g foi de R$ 179,00 para R$ 143,20, e, no teste mais recente, o Cookies Black 14 g foi de R$ 109,00 para R$ 87,20. O percentual pode mudar com as campanhas, então confira o resumo antes de pagar. Vale um cupom por pedido.",
           "Para comparar com outras marcas, veja o guia [barra de proteína: qual escolher](/reviews/barra-de-proteina-qual-escolher)."
         ]
       },
@@ -276131,13 +276132,14 @@ export const reviewsData: unknown[] = [
         "heading": "Perguntas frequentes",
         "bullets": [
           "A barra BOLD é boa? Para escolher pelo que o rótulo informa, compare tamanho, ingredientes e preço. O BOLD 21 g tem o menor custo por proteína declarada; o 14 g é uma unidade menor, e Wafer e Tube custam menos por barra. Sabor e textura não foram avaliados neste guia.",
-          "A barra BOLD vale a pena? Depende da régua de cada um. Pelo preço por 100 g de proteína, o BOLD 21 g custa menos que as outras linhas, e o Wafer e o Tube custam mais, com ou sem o CECILIA15.",
-          "A barra BOLD é saudável? O rótulo informa proteína, calorias, açúcares e ingredientes, que precisam ser considerados juntos. Ter 21 g de proteína ou zero açúcar adicionado não resolve sozinho a adequação à sua alimentação; a tabela por linha está no artigo.",
-          "A barra BOLD tem açúcar? A loja informa “zero açúcar adicionado”, e a tabela mostra açúcares totais de 1,6 g a 5,3 g por barra, conforme o sabor.",
-          "A barra BOLD tem glúten e lactose? O alerta de alérgicos de cada sabor diz que contém os dois. Quem tem doença celíaca ou intolerância à lactose segue o rótulo da embalagem e o profissional de saúde."
+          "A barra BOLD vale a pena? Depende da régua de cada um. Pelo preço por 100 g de proteína, o BOLD 21 g custa menos que as linhas Crunch, Wafer e Tube, com ou sem o CECILIA15, e os preços de Black Friday aproximam a 21 g da 14 g.",
+          "A barra BOLD é saudável? Saudável não é uma palavra do rótulo: o que se compara é proteína, calorias, açúcares e ingredientes de cada sabor, e o guia [Barra BOLD é saudável? Açúcar, calorias, glúten e lactose pelo rótulo](/reviews/barra-bold-saudavel-rotulo) mostra essa leitura por linha.",
+          "A barra BOLD tem açúcar? A loja informa “zero açúcar adicionado”, e a tabela mostra açúcares totais de 1,6 g a 5,3 g por barra, conforme o sabor; a leitura por linha está no [guia do rótulo da barra BOLD](/reviews/barra-bold-saudavel-rotulo).",
+          "A barra BOLD tem glúten e lactose? O alerta de alérgicos de cada sabor diz que contém os dois. Quem tem doença celíaca ou intolerância à lactose segue o rótulo da embalagem e o profissional de saúde; o “pode conter” de cada linha está no [guia do rótulo da barra BOLD](/reviews/barra-bold-saudavel-rotulo)."
         ]
       }
-    ]
+    ],
+    "updatedAt": "2026-11-23"
   },
   {
     "id": 1072,
@@ -287148,7 +287150,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Resposta rápida",
         "paragraphs": [
-          "A ficha do Laranja Moro da Denavita informa 400 mg de Morosil® por cápsula, além de café verde e picolinato de cromo. O pote tem 30 cápsulas. Na porção diária declarada pela loja, ele rende 30 dias. O EMCASA deu 10% OFF no avulso que testamos. Compare o custo por dia com o das opções por quantidade."
+          "A ficha do Laranja Moro da Denavita informa 400 mg de Morosil® por cápsula, além de café verde e picolinato de cromo. O pote tem 30 cápsulas, e a loja manda tomar uma por dia após a refeição principal. A ficha não informa prazo para efeito. O EMCASA tirou 10% no checkout que testamos."
         ]
       },
       {
@@ -287200,20 +287202,71 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Laranja moro é Morosil?",
         "paragraphs": [
-          "Laranja moro é a fruta. Morosil® é o nome comercial do extrato de laranja moro que a Denavita lista na composição."
+          "Laranja moro é a fruta. Morosil® é o nome comercial do extrato de laranja moro que a Denavita lista na composição.",
+          "O Morosil® é um ingrediente de um fornecedor, a Bionap s.r.l., da Itália. A [ficha técnica do fabricante](https://bionap.com/assets/pdf/MOROSIL.pdf) descreve o extrato como padronizado em antocianinas, expressas como cianidina-3-glucosídeo, na faixa de 0,8 a 0,9%. “Padronizado” quer dizer que o fabricante declara o teor de um marcador do extrato; o rótulo de outro produto pode usar extrato de laranja moro sem marca e sem esse teor.",
+          "A conta bate com a ficha da Denavita: 3,6 mg de antocianinas em 400 mg de extrato dão 0,9%, o topo da faixa do fabricante. É conta nossa a partir dos dois números e não diz nada sobre efeito. A ficha do fabricante também sugere 400 mg por dia do extrato, a quantidade de cada cápsula deste produto."
         ]
       },
       {
-        "heading": "Porção e conservação informadas pela Denavita",
+        "heading": "Como comparar um suplemento de laranja moro",
         "paragraphs": [
-          "A ficha indica uma cápsula ao dia. Na mesma página, a Denavita orienta tomar logo após a refeição principal. A orientação de conservação informa consumo preferencialmente em 30 dias depois de abrir. Confira as instruções na embalagem que receber.",
-          "A fórmula leva extrato de café verde, e a ficha não informa os miligramas de cafeína. Quem tem sensibilidade à cafeína confirma no rótulo do pote ou com o atendimento da loja ou um médico."
+          "Quem compara potes que dizem “laranja moro” precisa olhar o rótulo, não só o nome. A tabela traz os pontos a conferir em qualquer pote, preenchidos com a ficha da Denavita."
+        ],
+        "comparisonTable": {
+          "caption": "O que conferir no rótulo de um suplemento de laranja moro e o que a ficha da Denavita informa.",
+          "headers": [
+            "O que conferir",
+            "Neste produto, pela ficha"
+          ],
+          "rows": [
+            [
+              "Extrato por cápsula",
+              "400 mg de extrato de laranja moro"
+            ],
+            [
+              "Marca e fabricante do extrato",
+              "Morosil®, da Bionap s.r.l."
+            ],
+            [
+              "Antocianinas declaradas",
+              "3,6 mg por cápsula, 0,9% do extrato (conta nossa)"
+            ],
+            [
+              "O que mais leva a cápsula",
+              "200 mg de café verde, com 100 mg de ácido clorogênico, e 35 µg de picolinato de cromo"
+            ],
+            [
+              "Cafeína",
+              "A ficha não informa a quantidade"
+            ],
+            [
+              "Cápsulas por pote e porção",
+              "30 cápsulas, 1 por dia"
+            ],
+            [
+              "Preço por dia",
+              "Na tabela de preço por dia, mais abaixo"
+            ]
+          ]
+        }
+      },
+      {
+        "heading": "Como tomar o Laranja Moro, segundo a Denavita",
+        "paragraphs": [
+          "A ficha indica uma cápsula ao dia, logo após a refeição principal, e consumo preferencialmente em 30 dias depois de abrir. A página não exibe advertências nem contraindicações: leia as do rótulo do pote que receber. Na dúvida sobre dose ou sobre usar junto de medicamento, a conversa é com médico ou nutricionista.",
+          "A fórmula leva extrato de café verde, e a ficha não informa os miligramas de cafeína. Quem tem sensibilidade à cafeína confirma no rótulo do pote ou com o atendimento da loja."
+        ]
+      },
+      {
+        "heading": "Horário e prazo: o que a loja diz e o que não diz",
+        "paragraphs": [
+          "A loja fixa só “após a refeição principal”: não indica manhã, tarde ou noite, então não há um melhor horário a citar. Também não informa em quanto tempo se espera algum resultado, e este guia não cita quilos nem semanas. O que a ficha dá é a composição, a dose de uma cápsula ao dia e a duração do pote."
         ]
       },
       {
         "heading": "Preço por dia no avulso e nos kits",
         "paragraphs": [
-          "Calculamos o preço por dia dividindo o total pelo número de cápsulas, com a porção diária informada pela loja. Os preços são os da página em 21 de novembro de 2026. No avulso, o valor com o EMCASA foi confirmado no checkout. Nas opções por quantidade, a coluna do cupom é a conta de 10% sobre o preço da página."
+          "Calculamos o preço por dia dividindo o total pelo número de cápsulas, com a porção diária informada pela loja. Os preços são os da página em 23 de novembro de 2026. O código foi testado no checkout aberto pelo botão Finalizar compra, num carrinho com o Laranja Moro e outros produtos, e tirou 10% do total. Na coluna do cupom, a conta é de 10% sobre o preço da página."
         ],
         "comparisonTable": {
           "caption": "Preços à vista da página, sem frete. Conta pela porção de uma cápsula por dia informada pela loja.",
@@ -287226,9 +287279,9 @@ export const reviewsData: unknown[] = [
           "rows": [
             [
               "[1 unidade](https://www.denavita.com.br/products/laranja-moro-cafe-verde-e-cromo-30-caps)",
-              "R$ 76,90",
-              "R$ 2,56",
-              "R$ 2,31 (total de R$ 69,21, confirmado no checkout)"
+              "R$ 89,90",
+              "R$ 3,00",
+              "R$ 2,70 (total de R$ 80,91, conta de 10%)"
             ],
             [
               "[Compre 2 Leve 3](https://www.denavita.com.br/products/laranja-moro-cafe-verde-e-cromo-30-caps)",
@@ -287245,7 +287298,7 @@ export const reviewsData: unknown[] = [
           ]
         },
         "postParagraphs": [
-          "Testamos o EMCASA no avulso e em kits: o Kit Vida Fit com o Turbo Metabolismo passou de R$ 399,80 para R$ 359,82 no Pix. Nas opções de três ou cinco potes, confira a linha “Cupom de desconto” no resumo antes de pagar, compare o total com frete e confira a validade de todos os potes. Copie o EMCASA na página do [cupom Denavita](/cupons/denavita) ou veja [como aplicar o código](/reviews/cupom-denavita-como-usar)."
+          "O EMCASA também foi testado em kits: o Kit Vida Fit com o Turbo Metabolismo passou de R$ 399,80 para R$ 359,82 no Pix. Nas opções de três ou cinco potes, confira a linha “Cupom de desconto” no resumo antes de pagar, compare o total com frete e confira a validade de todos os potes. Copie o EMCASA na página do [cupom Denavita](/cupons/denavita) ou veja [como aplicar o código](/reviews/cupom-denavita-como-usar)."
         ],
         "images": [
           {
@@ -287261,21 +287314,30 @@ export const reviewsData: unknown[] = [
         "heading": "O que conferir antes de comprar",
         "paragraphs": [
           "Se você já escolheu esse suplemento, compare o custo e a quantidade com a validade de todos os potes. Para decidir se deve usar, para dúvidas sobre dose ou para conciliar com medicamentos, fale com médico ou nutricionista.",
-          "A loja anuncia frete grátis a partir de R$ 199,90, conforme as regras da loja, e o pagamento vai até 12x no cartão ou no Pix. Consulte pelo CEP o valor da entrega e a previsão. Veja [Denavita é confiável?](/reviews/denavita-e-confiavel) para saber quem vende e como funcionam as trocas."
+          "A loja anuncia frete grátis a partir de R$ 199,90, conforme as regras da loja. As parcelas aparecem com números diferentes: 3x sem juros no preço, até 10x no bloco do produto e até 12x na faixa do site; confirme no carrinho, junto do valor da entrega e da previsão pelo CEP. Veja [Denavita é confiável?](/reviews/denavita-e-confiavel) para saber quem vende e como funcionam as trocas."
+        ]
+      },
+      {
+        "heading": "Onde comprar o Laranja Moro da Denavita",
+        "paragraphs": [
+          "O EMCASA vale no site oficial da Denavita; não conferimos o produto em marketplaces. Monte o carrinho, toque em Finalizar compra e digite o código no campo “Tem um cupom?” do checkout seguro da loja. A linha Cupom de desconto no resumo confirma o valor."
         ]
       },
       {
         "heading": "Perguntas frequentes",
         "bullets": [
+          "Qual é o cupom da Denavita? O cupom da Denavita é o EMCASA, com 10% OFF no site oficial, em todas as formas de pagamento. Digite no campo “Tem um cupom?” do checkout e confira a linha Cupom de desconto.",
           "O que vale conferir no Laranja Moro da Denavita? Compare a composição da ficha com a da embalagem. Se já escolheu a fórmula, use a tabela para comparar o custo por dia do avulso e das opções por quantidade.",
-          "O que a Denavita informa sobre o modo de uso do Laranja Moro? A ficha indica uma cápsula ao dia. Na mesma página, a marca orienta tomar logo após a refeição principal. Confira as instruções na embalagem.",
+          "O que a Denavita informa sobre o modo de uso do Laranja Moro? A ficha indica uma cápsula ao dia, logo após a refeição principal, sem fixar horário. Confira as instruções na embalagem.",
           "Laranja moro é o mesmo que Morosil? Morosil® é o nome de marca de um extrato de laranja moro. Este produto usa 400 mg dele por cápsula, junto com café verde e picolinato de cromo.",
           "O Laranja Moro da Denavita tem cafeína? A composição traz extrato de café verde, e a ficha não informa a quantidade de cafeína. Se precisa desse valor, confirme no rótulo do pote ou com o atendimento da loja.",
-          "Quanto tempo dura um pote? Com uma cápsula por dia, 30 dias. A loja manda consumir preferencialmente em 30 dias depois de aberto."
+          "Quanto tempo dura um pote? Com uma cápsula por dia, 30 dias. A loja manda consumir preferencialmente em 30 dias depois de aberto.",
+          "Em quanto tempo o Laranja Moro faz efeito? A ficha não informa prazo nem resultado esperado. O que ela traz é a composição, a dose e a duração do pote.",
+          "Onde comprar o Laranja Moro da Denavita? No site oficial da Denavita, onde o EMCASA vale. Não conferimos o produto em marketplaces."
         ]
       }
     ],
-    "updatedAt": "2026-11-21"
+    "updatedAt": "2026-11-23"
   },
   {
     "id": 1116,
@@ -287356,7 +287418,7 @@ export const reviewsData: unknown[] = [
         ],
         "bullets": [
           "**Laranja Moro.** A ficha lista Morosil®, extrato de café verde e picolinato de cromo. A quantidade de cafeína não aparece. Veja a [composição do Laranja Moro](/reviews/laranja-moro-denavita).",
-          "**Tons Equilíbrio.** A página lista coenzima Q10, pinho marítimo e vitamina A. A cápsula é de gelatina.",
+          "**Tons Equilíbrio.** A página lista coenzima Q10, pinho marítimo e vitamina A. A cápsula é de gelatina. Veja o [Tons pelo rótulo](/reviews/denavita-tons).",
           "**Trio Magnésio.** A ficha lista bisglicinato, taurato e malato. O aviso “pode conter” cita soja, peixe, crustáceos, pinoli e ovo.",
           "**NAC + Polivitamínico.** A ficha informa 300 mg de N-acetil L-cisteína por cápsula, 600 mg nas duas cápsulas diárias, junto com vitaminas e minerais. A cápsula é de gelatina, e o aviso “pode conter” cita soja, peixe, crustáceos, pinoli e ovo. Depois de aberto, o frasco deve ser consumido em até 60 dias."
         ],
@@ -299413,7 +299475,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Resposta rápida",
         "paragraphs": [
-          "A BOLD 21 g é a barra de 60 g com 21 g de proteína e a mais barata por proteína entre as barras da marca. A 14 g é a barra de 40 g, com 14 g de proteína e menos calorias por unidade. O Crunch fica no meio, com 18 g, e o Wafer e o Tube trazem 10 g. Todas contêm glúten e lactose."
+          "A BOLD 21 g é a barra de 60 g, com 21 g de proteína; a 14 g é a de 40 g, com menos calorias por unidade. O Crunch traz 18 g, e o Wafer e o Tube, 10 g. Todas contêm glúten e lactose, e o preço por grama de proteína muda conforme o sabor."
         ]
       },
       {
@@ -299431,7 +299493,7 @@ export const reviewsData: unknown[] = [
           }
         ],
         "comparisonTable": {
-          "caption": "Valores por barra, das tabelas nutricionais de cada sabor. No BOLD 14 g, a página do Cookies Black não traz a tabela; o Tube entra só com Pistache e Speculoos.",
+          "caption": "Valores por barra, das tabelas nutricionais de cada sabor. O Tube entra só com Pistache e Speculoos: no Avelã, no Paçoca e na Trufa de Chocolate, a tabela da página é a mesma nos três.",
           "headers": [
             "Linha",
             "Barra",
@@ -299485,6 +299547,200 @@ export const reviewsData: unknown[] = [
         }
       },
       {
+        "heading": "Quais sabores existem em cada linha",
+        "paragraphs": [
+          "O sabor muda de linha para linha, e a mesma palavra no nome não quer dizer o mesmo tamanho de barra. O Pistache, por exemplo, só existe no Tube, de 40 g e 10 g de proteína; a linha de 21 g não tem Pistache. O Mousse de Maracujá só existe na 21 g, e a 14 g não o tem."
+        ],
+        "comparisonTable": {
+          "caption": "A loja informa: sabores do catálogo de cada linha, sem as caixas mistas. Use os filtros para ver uma linha por vez.",
+          "headers": [
+            "Sabor",
+            "BOLD 21 g",
+            "BOLD 14 g",
+            "Crunch",
+            "Wafer",
+            "Tube"
+          ],
+          "rows": [
+            [
+              "Bombom Crocante",
+              "Sim",
+              "Sim",
+              "Não",
+              "Não",
+              "Não"
+            ],
+            [
+              "Chocomalte",
+              "Sim",
+              "Sim",
+              "Não",
+              "Não",
+              "Não"
+            ],
+            [
+              "Cookies Black",
+              "Sim",
+              "Sim",
+              "Não",
+              "Não",
+              "Não"
+            ],
+            [
+              "Cookies & Cream",
+              "Sim",
+              "Sim",
+              "Sim",
+              "Não",
+              "Não"
+            ],
+            [
+              "Doce de Leite",
+              "Sim",
+              "Sim",
+              "Não",
+              "Não",
+              "Não"
+            ],
+            [
+              "Trufa de Chocolate",
+              "Sim",
+              "Sim",
+              "Não",
+              "Não",
+              "Sim"
+            ],
+            [
+              "Mousse de Maracujá",
+              "Sim",
+              "Não",
+              "Não",
+              "Não",
+              "Não"
+            ],
+            [
+              "Brigadeiro",
+              "Não",
+              "Não",
+              "Sim",
+              "Não",
+              "Não"
+            ],
+            [
+              "Morango & Chantilly",
+              "Não",
+              "Não",
+              "Sim",
+              "Não",
+              "Não"
+            ],
+            [
+              "Speculoos",
+              "Não",
+              "Não",
+              "Não",
+              "Sim",
+              "Sim"
+            ],
+            [
+              "Avelã",
+              "Não",
+              "Não",
+              "Não",
+              "Sim",
+              "Sim"
+            ],
+            [
+              "Chocolate Branco",
+              "Não",
+              "Não",
+              "Não",
+              "Sim",
+              "Não"
+            ],
+            [
+              "Chocolate ao Leite",
+              "Não",
+              "Não",
+              "Não",
+              "Sim",
+              "Não"
+            ],
+            [
+              "Pistache",
+              "Não",
+              "Não",
+              "Não",
+              "Não",
+              "Sim"
+            ],
+            [
+              "Paçoca",
+              "Não",
+              "Não",
+              "Não",
+              "Não",
+              "Sim"
+            ]
+          ],
+          "filters": [
+            {
+              "label": "21 g",
+              "rows": [
+                0,
+                1,
+                2,
+                3,
+                4,
+                5,
+                6
+              ]
+            },
+            {
+              "label": "14 g",
+              "rows": [
+                0,
+                1,
+                2,
+                3,
+                4,
+                5
+              ]
+            },
+            {
+              "label": "Crunch",
+              "rows": [
+                3,
+                7,
+                8
+              ]
+            },
+            {
+              "label": "Wafer",
+              "rows": [
+                9,
+                10,
+                11,
+                12
+              ]
+            },
+            {
+              "label": "Tube",
+              "rows": [
+                5,
+                9,
+                10,
+                13,
+                14
+              ]
+            }
+          ]
+        },
+        "postParagraphs": [
+          "O rótulo também muda de um sabor para outro. O Chocomalte 21 g declara cevada em “contém”, por causa do malte. O Wafer traz trigo, e o Tube Pistache declara amendoim, pistache e trigo, além de leite e soja. A leitura dos alérgenos por linha está no guia [Barra BOLD é saudável? Açúcar, calorias, glúten e lactose pelo rótulo](/reviews/barra-bold-saudavel-rotulo)."
+        ]
+      },
+      {
         "heading": "BOLD 21 g ou 14 g: proteína, calorias e preço",
         "paragraphs": [
           "A diferença começa no tamanho. A 21 g pesa 60 g e declara 21 g de proteína; a 14 g pesa 40 g e declara 14 g. A proporção de proteína no peso da barra é a mesma, 35%, e muda o quanto você leva de uma vez.",
@@ -299530,7 +299786,7 @@ export const reviewsData: unknown[] = [
           "Todos os sabores da 21 g declaram 21 g de proteína por barra de 60 g. O que muda é caloria, açúcar, gordura e fibra."
         ],
         "comparisonTable": {
-          "caption": "Valores por barra de 60 g, das tabelas de cada sabor. As gorduras saturadas ficaram de fora: a página do Chocomalte traz um valor maior que a gordura total.",
+          "caption": "Valores por barra de 60 g, das tabelas de cada sabor. As gorduras saturadas ficaram de fora: a página do Chocomalte traz três valores diferentes, 6,3 g na tabela em texto, 6,5 g na foto do rótulo e um terceiro, maior que a gordura total, no texto abaixo da tabela. Na foto, o Chocomalte também mostra 5,4 g de açúcares totais e 2,1 g de fibra.",
           "headers": [
             "Sabor",
             "Calorias",
@@ -299602,10 +299858,10 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Tabela sabor a sabor: BOLD 14 g",
         "paragraphs": [
-          "A 14 g tem barra de 40 g e 14 g de proteína em todos os sabores. O Cookies Black existe nesta linha, mas a página dele não traz a tabela nutricional, e por isso não entra abaixo."
+          "A 14 g tem barra de 40 g e 14 g de proteína em todos os sabores. O Cookies Black traz tabela em texto na página, mas a foto do rótulo na galeria mostra o do Chocomalte, de 161 kcal; por isso, confira a embalagem desse sabor."
         ],
         "comparisonTable": {
-          "caption": "Valores por barra de 40 g, das tabelas de cada sabor.",
+          "caption": "Valores por barra de 40 g, das tabelas de cada sabor. No Cookies Black, vale a tabela em texto da página, que diverge da foto do rótulo.",
           "headers": [
             "Sabor",
             "Calorias",
@@ -299630,6 +299886,14 @@ export const reviewsData: unknown[] = [
               "3,6 g",
               "6,9 g",
               "1,4 g"
+            ],
+            [
+              "Cookies Black",
+              "157 kcal",
+              "11 g",
+              "2,5 g",
+              "7,1 g",
+              "2,6 g"
             ],
             [
               "Cookies & Cream",
@@ -299661,7 +299925,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Tabela sabor a sabor: Crunch, Wafer e Tube",
         "paragraphs": [
-          "O Crunch declara 18 g de proteína por barra de 60 g; o Wafer e o Tube, 10 g por barra de 40 g. No Tube, as páginas do Avelã, do Paçoca e da Trufa de Chocolate trazem a mesma tabela nos três sabores; por isso o Tube entra só com Pistache e Speculoos."
+          "O Crunch declara 18 g de proteína por barra de 60 g; o Wafer e o Tube, 10 g por barra de 40 g. No Tube, as páginas do Avelã, do Paçoca e da Trufa de Chocolate trazem a mesma tabela em texto nos três sabores, e as fotos dos rótulos mostram números diferentes por sabor; por isso o Tube entra só com Pistache e Speculoos."
         ],
         "comparisonTable": {
           "caption": "Valores por barra, das tabelas de cada sabor.",
@@ -299820,13 +300084,14 @@ export const reviewsData: unknown[] = [
         "postParagraphs": [
           "Com o código, a barra sai a R$ 11,93 na 21 g e no Crunch, R$ 8,60 na 14 g e R$ 7,93 no Wafer e no Tube. A ordem entre as linhas não muda.",
           "No mesmo dia, a caixa de Doce de Leite 14 g estava a R$ 99,00, e as outras de 14 g, a R$ 129,00. É o preço do dia desse sabor, e a tabela acima usa o das demais. A R$ 99,00, a caixa dá R$ 58,93 por 100 g de proteína, sem código.",
+          "Em 23/11, na Black Friday da loja, as caixas de 21 g custavam de R$ 149 a R$ 159 e as de 14 g, de R$ 99 a R$ 109, conforme o sabor; Crunch, a R$ 159; Wafer, de R$ 93 a R$ 109; Tube, de R$ 89 a R$ 109. Com a 21 g e a 14 g nessas faixas, a diferença por proteína entre as duas encolhe, e vale refazer a conta com o preço do sabor que você vai comprar.",
           "Quem compara com outras marcas pode ver o guia [barra de proteína: qual escolher](/reviews/barra-de-proteina-qual-escolher)."
         ]
       },
       {
         "heading": "Caixa avulsa, mista ou assinatura",
         "paragraphs": [
-          "A compra avulsa tem o preço da tabela acima, e a loja vende as linhas em caixas por sabor e em caixas mistas. A Caixa Mista da 21 g e a da 14 g seguem o preço da linha. A Caixa Mix, que junta linhas diferentes, custa R$ 159,00, ou R$ 13,25 por barra; como mistura proteínas diferentes, não calculamos o preço por proteína.",
+          "A compra avulsa tem o preço da tabela acima, e a loja vende as linhas em caixas por sabor e em caixas mistas. A Caixa Mista da 21 g e a da 14 g seguem o preço da linha. A Caixa Mix, que junta linhas diferentes, custava R$ 139,00 na Black Friday da loja, ou R$ 11,58 por barra; como mistura proteínas diferentes, não calculamos o preço por proteína.",
           "A assinatura da loja, o BOLD Club, tem entrega mensal ou a cada dois meses. A loja informa 15% sobre os produtos e permanência mínima de dois ciclos de cobrança depois do prazo de arrependimento. No Wafer, o preço de assinatura da página, R$ 114,90, fica cerca de 3% abaixo da compra única, não 15%. Os preços de assinatura por caixa estão na tabela:"
         ],
         "comparisonTable": {
@@ -299872,13 +300137,13 @@ export const reviewsData: unknown[] = [
         },
         "postParagraphs": [
           "No nosso teste, o código valeu numa caixa de 21 g da assinatura: de R$ 152,00 para R$ 121,60. Não testamos as outras linhas na assinatura.",
-          "O [cupom BOLD](/cupons/bold) CECILIA15 vale no site oficial, para cliente novo e antigo, e um por pedido. O nome tem 15, e o desconto do nosso teste foi de 20%, dentro da Pré-Black da loja, que vai até 22/11. O percentual pode mudar depois da campanha, então confira o resumo antes de pagar."
+          "O [cupom BOLD](/cupons/bold) CECILIA15 vale no site oficial, para cliente novo e antigo, e um por pedido. O nome tem 15, e o desconto dos nossos testes foi de 20%, na Pré-Black e na Black Friday da loja; no mais recente, o Cookies Black 14 g foi de R$ 109,00 para R$ 87,20. O percentual pode mudar com as campanhas, então confira o resumo antes de pagar."
         ]
       },
       {
         "heading": "Glúten, lactose e quantas por dia",
         "paragraphs": [
-          "O alerta de alérgicos de todos os sabores diz “contém lactose” e “contém glúten”, com leite e soja e uma lista de “pode conter”. Quem tem doença celíaca ou intolerância à lactose segue o rótulo da embalagem e o profissional de saúde. Nas páginas que trazem a recomendação, a loja indica uso adulto, a partir de 19 anos, de até duas unidades ao dia ou conforme orientação profissional. O açúcar e os adoçantes das barras estão no guia [Barra BOLD é boa?](/reviews/barra-bold-e-boa)."
+          "O alerta de alérgicos de todos os sabores diz “contém lactose” e “contém glúten”, com leite e soja e uma lista de “pode conter”. Quem tem doença celíaca ou intolerância à lactose segue o rótulo da embalagem e o profissional de saúde. Nas páginas que trazem a recomendação, a loja indica uso adulto, a partir de 19 anos, de até duas unidades ao dia ou conforme orientação profissional. O açúcar, os adoçantes e o “pode conter” de cada linha estão no guia [Barra BOLD é saudável? Açúcar, calorias, glúten e lactose pelo rótulo](/reviews/barra-bold-saudavel-rotulo)."
         ]
       },
       {
@@ -299888,10 +300153,13 @@ export const reviewsData: unknown[] = [
           "Quantas calorias tem a barra BOLD? Depende da linha e do sabor: de 151 a 161 kcal na 14 g, de 215 a 239 kcal na 21 g, de 209 a 215 kcal no Crunch, de 192 a 202 kcal no Wafer e de 183 a 186 kcal no Tube, nos sabores com tabela.",
           "Qual barra BOLD tem mais proteína? A BOLD 21 g, com 21 g por barra. O Crunch declara 18 g, a 14 g declara 14 g, e o Wafer e o Tube, 10 g cada.",
           "Qual sabor da barra BOLD tem menos açúcar? Nas tabelas usadas neste guia, o Bombom Crocante 14 g tem o menor valor, 1,6 g de açúcares totais; o maior é o do Chocomalte 21 g, com 5,3 g.",
-          "Quantas barras vêm na caixa da BOLD? As caixas das cinco linhas têm 12 unidades."
+          "Quantas barras vêm na caixa da BOLD? As caixas das cinco linhas têm 12 unidades.",
+          "A barra BOLD tem sabor Pistache? Tem, só no Tube, de 40 g e 10 g de proteína. A linha de 21 g não tem Pistache.",
+          "Quais sabores tem a barra BOLD de 14 g? Bombom Crocante, Chocomalte, Cookies Black, Cookies & Cream, Doce de Leite e Trufa de Chocolate. O Mousse de Maracujá existe só na linha de 21 g."
         ]
       }
-    ]
+    ],
+    "updatedAt": "2026-11-23"
   },
   {
     "id": 1188,
@@ -325695,5 +325963,988 @@ export const reviewsData: unknown[] = [
         "slug": "creatina-com-sabor-qual-escolher"
       }
     ]
+  },
+  {
+    "id": 1311,
+    "slug": "barra-bold-saudavel-rotulo",
+    "locale": "pt",
+    "category": "guias-praticos-utilidade",
+    "reviewKind": "guia",
+    "author": {
+      "name": "Cecília Mauad",
+      "slug": "cecilia-mauad",
+      "role": "Em Casa com Cecília",
+      "initials": "CM",
+      "url": "/sobre"
+    },
+    "publishedAt": "23 de novembro de 2026",
+    "publishedAtISO": "2026-11-23",
+    "draft": false,
+    "isNew": true,
+    "imageFit": "contain",
+    "imageAspect": "landscape",
+    "pros": [],
+    "cons": [],
+    "coupon": "CECILIA15",
+    "affiliate": "bold",
+    "type": "Guia Prático",
+    "title": "Barra BOLD é saudável? Açúcar, calorias, glúten e lactose pelo rótulo",
+    "seoTitle": "Barra BOLD é saudável? Rótulo: açúcar, glúten e lactose",
+    "description": "Açúcar, calorias, glúten, lactose e leite da barra BOLD, linha por linha, como a embalagem declara, e um roteiro de cinco passos para ler o rótulo de qualquer barra.",
+    "metaDescription": "Com o CECILIA15, 20% OFF na BOLD Snacks. Veja açúcar, calorias, glúten e lactose da barra BOLD pelo rótulo de cada linha.",
+    "image": "/images/reviews/bold/barra-bold-saudavel-rotulo-capa.webp",
+    "imageAlt": "Caixa de barras BOLD Caixa Mista de 14 g, com embalagens azuis e laranjas, sobre fundo branco. A capa pergunta se a barra BOLD é saudável.",
+    "cta": {
+      "text": "Se a barra serve para a sua compra, abra o site oficial pelo botão. O código entra no checkout, no campo Código de desconto ou cartão-presente.",
+      "label": "Ir para a BOLD Snacks",
+      "url": "https://www.boldsnacks.com.br/discount/CECILIA15",
+      "sponsored": true
+    },
+    "editorialNote": "Ninguém da equipe usou as barras. Podemos receber comissão pelo cupom e pelos links.",
+    "relatedArticles": [
+      {
+        "slug": "barra-bold-e-boa"
+      },
+      {
+        "slug": "barra-bold-21g-ou-14g"
+      },
+      {
+        "slug": "whey-bold-e-bom"
+      },
+      {
+        "slug": "cupom-bold-snacks-como-usar"
+      }
+    ],
+    "decision": {
+      "takeIf": [
+        "você quer comparar as barras pelo que a embalagem declara e já conferiu o alerta do sabor que pretende comprar.",
+        "você aceita glúten, lactose, leite e soja na declaração e quer escolher a linha pelos açúcares e pelas calorias."
+      ],
+      "skipIf": [
+        "você precisa evitar glúten, lactose ou leite: todas as linhas lidas declaram os três.",
+        "você procura uma barra vegana ou sem lactose: o catálogo lido não traz nenhuma."
+      ]
+    },
+    "contentSections": [
+      {
+        "heading": "Resposta rápida",
+        "paragraphs": [
+          "Pelo rótulo, a pergunta útil não é se a barra BOLD é saudável, e sim o que cada linha declara: açúcares totais, calorias, glúten, lactose, leite e soja. Todas as linhas lidas declaram glúten e lactose, nenhuma se diz vegana, e a tabela de cada sabor está no guia da barra BOLD 21 g ou 14 g."
+        ]
+      },
+      {
+        "heading": "A barra BOLD é saudável? O que o rótulo permite dizer",
+        "paragraphs": [
+          "Saudável não é uma palavra do rótulo, e este guia não dá esse veredito. O que a embalagem e a página da loja permitem comparar é a porção, as calorias, os açúcares, os ingredientes e os alérgenos de cada sabor.",
+          "A BOLD recomenda o uso por adultos a partir de 19 anos, de até duas unidades por dia ou conforme o profissional de saúde, e diz que o produto não é um medicamento. É a indicação da marca, não uma porção definida por nós. Na dúvida, o caminho é o médico ou o nutricionista.",
+          "Para saber se o preço compensa, veja o guia [Barra BOLD é boa?](/reviews/barra-bold-e-boa)."
+        ]
+      },
+      {
+        "heading": "A barra BOLD tem açúcar? Zero adicionado e açúcares totais",
+        "paragraphs": [
+          "A loja informa “zero açúcar adicionado”, e a tabela de cada sabor lido traz açúcares adicionados de 0 g. Isso não é o mesmo que zero açúcar: a linha de açúcares totais mostra de 1,6 g a 5,3 g por barra, conforme a linha e o sabor. Quem controla açúcar lê a linha de açúcares totais."
+        ],
+        "comparisonTable": {
+          "caption": "Valores das páginas de cada sabor lido, por barra, e os adoçantes da lista de ingredientes.",
+          "headers": [
+            "Linha",
+            "Açúcares totais",
+            "Açúcares adicionados",
+            "Adoçantes na lista de ingredientes"
+          ],
+          "rows": [
+            [
+              "BOLD 21 g (barra de 60 g)",
+              "1,8 g a 5,3 g",
+              "0 g",
+              "Maltitol, xarope de sorbitol e sucralose"
+            ],
+            [
+              "BOLD 14 g (barra de 40 g)",
+              "1,6 g a 3,6 g",
+              "0 g",
+              "Maltitol, xarope de sorbitol e sucralose"
+            ],
+            [
+              "Crunch (barra de 60 g)",
+              "1,8 g a 2,2 g",
+              "0 g",
+              "Maltitol e sucralose"
+            ],
+            [
+              "Wafer (barra de 40 g)",
+              "2,1 g a 2,8 g",
+              "0 g",
+              "Maltitol e sucralose"
+            ],
+            [
+              "Tube (barra de 40 g), Pistache e Speculoos",
+              "2 g a 2,1 g",
+              "0 g",
+              "Códigos INS 965(i), 960a e 955, no Pistache"
+            ]
+          ]
+        },
+        "postParagraphs": [
+          "No 21 g e no 14 g, os adoçantes aparecem na cobertura, no recheio e de novo no fim da lista. Maltitol e sorbitol são polióis, e a sucralose é um edulcorante. O rótulo não diz quanto há de cada um."
+        ]
+      },
+      {
+        "heading": "Quantas calorias tem cada linha da barra BOLD?",
+        "paragraphs": [
+          "A caloria depende do peso da barra, e o peso muda de linha para linha. A tabela mostra a faixa dos sabores com tabela; a de cada sabor está no guia [Barra BOLD 21 g ou 14 g?](/reviews/barra-bold-21g-ou-14g)."
+        ],
+        "comparisonTable": {
+          "caption": "Valores das páginas de cada sabor, por barra. O Tube entra só com Pistache e Speculoos.",
+          "headers": [
+            "Linha",
+            "Peso da barra",
+            "Proteína",
+            "Calorias por barra"
+          ],
+          "rows": [
+            [
+              "BOLD 21 g",
+              "60 g",
+              "21 g",
+              "215 a 239 kcal"
+            ],
+            [
+              "BOLD 14 g",
+              "40 g",
+              "14 g",
+              "151 a 161 kcal"
+            ],
+            [
+              "Crunch",
+              "60 g",
+              "18 g",
+              "209 a 215 kcal"
+            ],
+            [
+              "Wafer",
+              "40 g",
+              "10 g",
+              "192 a 202 kcal"
+            ],
+            [
+              "Tube",
+              "40 g",
+              "10 g",
+              "183 a 186 kcal"
+            ]
+          ]
+        },
+        "postParagraphs": [
+          "A comparação aqui é só de número. Ela não diz qual barra sacia mais nem qual cabe em uma dieta."
+        ]
+      },
+      {
+        "heading": "A barra BOLD tem glúten e lactose?",
+        "paragraphs": [
+          "O alerta de alérgicos de cada sabor lido diz “contém glúten” e “contém lactose”, junto de leite e soja na maioria dos sabores lidos. A resposta da loja atribui o glúten ao ambiente de fabricação, com possível contaminação cruzada, mas o alerta segue dizendo que contém. No Wafer e no Tube, o trigo também aparece nos ingredientes, na farinha do biscoito.",
+          "Sobre lactose, a loja responde que a barra tem ingredientes derivados do leite e lactose, e que quem tem intolerância deve avaliar a própria tolerância e, se precisar, procurar um profissional de saúde antes de consumir. Quem tem doença celíaca ou alergia ao leite ou à soja segue o rótulo da embalagem e o médico."
+        ]
+      },
+      {
+        "heading": "A barra BOLD é vegana? Tem leite, soja ou amendoim?",
+        "paragraphs": [
+          "No catálogo lido, não há barra BOLD que se declare vegana ou sem leite e lactose; todas as linhas declaram leite e derivados. O resto do alerta muda de uma linha para outra, como mostra a tabela."
+        ],
+        "comparisonTable": {
+          "caption": "A loja informa: alerta de um sabor de cada linha. Os outros sabores podem diferir; o Chocomalte 21 g, por exemplo, declara cevada em “contém”.",
+          "headers": [
+            "Linha e sabor lido",
+            "Contém",
+            "Pode conter"
+          ],
+          "rows": [
+            [
+              "BOLD 21 g, Doce de Leite",
+              "Leite e derivados, soja, lactose e glúten",
+              "Amendoim, aveia, avelãs, castanhas, centeio, cevada, macadâmias, nozes, pistache e trigo"
+            ],
+            [
+              "BOLD 14 g, Cookies Black",
+              "Leite e derivados, soja, lactose e glúten",
+              "Amendoim, aveia, avelãs, castanhas, centeio, cevada, macadâmias, nozes, pistaches e trigo"
+            ],
+            [
+              "Crunch, Brigadeiro",
+              "Leite e derivados, soja, lactose e glúten",
+              "Amendoim, aveia, avelãs, castanhas, centeio, cevada, macadâmias, nozes, pistache e trigo"
+            ],
+            [
+              "Wafer, Speculoos",
+              "Leite, trigo, soja, lactose e glúten",
+              "Amendoim, aveia, avelãs, castanhas, centeio, cevada, macadâmias, nozes e pistaches"
+            ],
+            [
+              "Tube, Pistache",
+              "Amendoim, pistache, trigo, leite, soja, lactose e glúten",
+              "Avelã, aveia, castanhas, centeio, cevada, nozes e macadâmias"
+            ]
+          ]
+        },
+        "images": [
+          {
+            "src": "/images/reviews/bold/barra-bold-21g-ou-14g-tube.webp",
+            "alt": "Caixa do BOLD Tube com uma barra ao lado",
+            "caption": "Caixa e barra do BOLD Tube. Foto: BOLD Snacks.",
+            "objectFit": "contain",
+            "aspectRatio": 1
+          }
+        ],
+        "postParagraphs": [
+          "Quem precisa evitar leite, soja, amendoim ou trigo confere o alerta do sabor exato. O “pode conter” muda de uma linha para outra, e o Tube Pistache declara amendoim e pistache em “contém”."
+        ]
+      },
+      {
+        "heading": "O que a lista de ingredientes mostra, linha por linha",
+        "paragraphs": [
+          "A lista de ingredientes mostra de onde vem a proteína declarada e quais adoçantes e aditivos entram. A tabela resume o que a loja informa em um sabor de cada linha."
+        ],
+        "comparisonTable": {
+          "caption": "Ingredientes de um sabor de cada linha. O colágeno hidrolisado aparece nos sabores lidos do 21 g, do 14 g e do Crunch.",
+          "headers": [
+            "Linha",
+            "Ingredientes proteicos e lácteos citados na lista",
+            "Colágeno hidrolisado"
+          ],
+          "rows": [
+            [
+              "BOLD 21 g e 14 g",
+              "Blend proteico com caseinato de cálcio ou proteína concentrada do leite, mais proteína de soro do leite concentrada e isolada",
+              "Sim"
+            ],
+            [
+              "Crunch",
+              "Crispies proteicos de chocolate, com proteína de soja isolada, e proteína de soro do leite concentrada",
+              "Sim"
+            ],
+            [
+              "Wafer",
+              "Proteína de soro do leite concentrada, caseinato de cálcio e leite em pó, no recheio e na cobertura",
+              "Não"
+            ],
+            [
+              "Tube, Pistache",
+              "Proteína de soro do leite concentrada, caseinato de cálcio, leite em pó e pasta de amendoim, no creme",
+              "Não"
+            ]
+          ]
+        },
+        "postParagraphs": [
+          "A loja não informa quanto da proteína vem do colágeno, e o FAQ da página sobre a origem da proteína cita só as proteínas do leite. O colágeno hidrolisado é um ingrediente de origem animal. No 21 g, ele vem depois da cobertura e do recheio na lista, que em regra segue da maior para a menor quantidade."
+        ]
+      },
+      {
+        "heading": "Como ler o rótulo de qualquer barra em cinco passos",
+        "paragraphs": [
+          "O roteiro vale para a BOLD e para qualquer outra barra, e não depende de marca."
+        ],
+        "checklist": {
+          "title": "Roteiro do rótulo",
+          "items": [
+            "Veja se a porção da tabela é a barra inteira: calorias e proteína valem para essa porção.",
+            "Compare açúcares totais com açúcares adicionados: são duas linhas diferentes da tabela.",
+            "Leia a ordem dos ingredientes e procure a fonte da proteína, o colágeno e os adoçantes.",
+            "Separe “contém” de “pode conter”: o primeiro é declaração, o segundo é risco de contaminação cruzada.",
+            "Confira a recomendação de uso e, na dúvida, pergunte ao médico ou ao nutricionista."
+          ]
+        }
+      },
+      {
+        "heading": "Preço da barra BOLD com o código",
+        "paragraphs": [
+          "A conta do preço por barra e por proteína de cada linha, com o código, está no guia [Barra BOLD 21 g ou 14 g?](/reviews/barra-bold-21g-ou-14g), feita sobre os preços de vitrine da data indicada lá, que não são os de hoje. O [cupom BOLD](/cupons/bold) CECILIA15 vale no site oficial, para cliente novo e antigo, e a loja aceita um cupom por pedido.",
+          "O nome tem 15, e o desconto do nosso teste mais recente foi de 20%: a caixa de Cookies Black 14 g, a R$ 109,00 em 23/11, foi a R$ 87,20 no checkout. O percentual pode mudar com as campanhas da loja, então confira o resumo antes de pagar."
+        ],
+        "images": [
+          {
+            "src": "/images/reviews/bold/barra-bold-21g-ou-14g-caixa-21g.webp",
+            "alt": "Caixa Mista da BOLD 21 g com as barras e a caixa de 12 unidades sobre fundo amarelo",
+            "caption": "Caixa Mista da BOLD 21 g. Foto: BOLD Snacks.",
+            "objectFit": "contain",
+            "aspectRatio": 1,
+            "href": "https://www.boldsnacks.com.br/discount/CECILIA15"
+          }
+        ]
+      },
+      {
+        "heading": "Para quem a leitura do rótulo muda a escolha",
+        "paragraphs": [
+          "O que decide a compra é a pergunta de rótulo de cada pessoa, e não a palavra saudável. Quem precisa evitar glúten, lactose, leite ou soja encontra o mesmo “contém” em todas as linhas lidas. Quem acompanha açúcar lê a linha de açúcares totais, e quem só quer comparar tamanho e preço vai ao guia da 21 g ou 14 g."
+        ],
+        "emphasis": "Para quem controla o açúcar, a escolha é comparar o sabor e não só a linha: os açúcares totais vão de 1,6 g a 5,3 g por barra, e as faixas das linhas se sobrepõem."
+      },
+      {
+        "heading": "Perguntas frequentes",
+        "bullets": [
+          "Qual é o cupom da BOLD Snacks? O CECILIA15 dá 20% OFF no site oficial, para cliente novo e antigo, no nosso teste mais recente. O nome tem 15, o percentual pode mudar com as campanhas da loja, e vale um cupom por pedido.",
+          "A barra BOLD tem açúcar? A loja informa “zero açúcar adicionado”, mas zero adicionado não é zero açúcar: os açúcares totais de cada sabor estão na tabela do capítulo sobre açúcar.",
+          "A barra BOLD tem glúten e lactose? O alerta de todos os sabores lidos diz que contém os dois. Quem tem doença celíaca ou intolerância à lactose segue o rótulo da embalagem e o profissional de saúde.",
+          "A barra BOLD é vegana? Não encontramos barra BOLD que se declare vegana ou sem leite e lactose; todas as linhas declaram leite e derivados.",
+          "Quantas barras BOLD posso comer por dia? A marca indica, para adultos a partir de 19 anos, até duas unidades por dia ou conforme o profissional de saúde. É a indicação da loja, não uma recomendação nossa.",
+          "Qual barra BOLD tem mais proteína? A BOLD 21 g, com 21 g por barra de 60 g. A tabela de cada sabor está no guia [Barra BOLD 21 g ou 14 g?](/reviews/barra-bold-21g-ou-14g)."
+        ]
+      }
+    ],
+    "updatedAt": "2026-11-23"
+  },
+  {
+    "id": 1312,
+    "slug": "denavita-ou-rituaria",
+    "locale": "pt",
+    "category": "guias-praticos-utilidade",
+    "reviewKind": "guia",
+    "author": {
+      "name": "Cecília Mauad",
+      "slug": "cecilia-mauad",
+      "role": "Em Casa com Cecília",
+      "initials": "CM",
+      "url": "/sobre"
+    },
+    "publishedAt": "23 de novembro de 2026",
+    "publishedAtISO": "2026-11-23",
+    "draft": false,
+    "isNew": true,
+    "imageFit": "contain",
+    "imageAspect": "landscape",
+    "pros": [],
+    "cons": [],
+    "affiliate": [
+      "denavita",
+      "rituaria"
+    ],
+    "type": "Comparativo de Suplemento",
+    "title": "Denavita ou Rituária: qual escolher por produto, rótulo e preço por dia",
+    "seoTitle": "Denavita ou Rituária: qual escolher por produto",
+    "description": "Denavita ou Rituária comparadas em magnésio, NAC, coenzima Q10 e ômega 3: rótulo, preço por dia já com o EMCASA, reputação no Reclame Aqui e condições de cada loja.",
+    "metaDescription": "O EMCASA dá 10% OFF na Denavita e na Rituária. Veja qual escolher por tipo de produto, pelo rótulo e pelo preço por dia já com o código.",
+    "image": "/images/reviews/denavita/denavita-ou-rituaria-capa.webp",
+    "imageAlt": "Pote de Denavita Trio Magnésio à esquerda e frasco de Rituária Fórmula 4mag à direita, lado a lado, cada um com o logo da sua loja.",
+    "editorialNote": "Podemos receber comissão das duas lojas. Ninguém da equipe usou os produtos.",
+    "relatedArticles": [
+      {
+        "slug": "denavita-e-boa"
+      },
+      {
+        "slug": "rituaria-e-boa"
+      },
+      {
+        "slug": "denavita-reclame-aqui-nota-reputacao"
+      },
+      {
+        "slug": "rituaria-reclame-aqui-nota-reputacao"
+      }
+    ],
+    "decision": {
+      "takeIf": [
+        "Denavita: você quer ômega 3 pelo menor preço por dia, ou o pote de coenzima Q10 mais barato, com o código.",
+        "Rituária: você quer NAC com 600 mg por cápsula, sem o polivitamínico, coenzima Q10 com mais miligramas por real ou ômega 3 com certificação IFOS, e dá peso à nota maior no Reclame Aqui.",
+        "As duas: você quer magnésio ou NAC e vai decidir pela fórmula, já que o preço por dia é o mesmo."
+      ],
+      "skipIf": [
+        "Denavita: você quer magnésio ou NAC em cápsula sem gelatina; as da Denavita são de gelatina.",
+        "Rituária: você quer ômega 3 pelo menor preço por dia; nele, a Denavita sai mais barata.",
+        "As duas: você quer uma indicação de uso; a escolha do suplemento é com médico ou nutricionista."
+      ]
+    },
+    "contentSections": [
+      {
+        "heading": "Resposta rápida",
+        "paragraphs": [
+          "Não há vencedora geral: a escolha é por produto. O EMCASA dá 10% OFF nas duas lojas, em pedidos separados. Magnésio e NAC têm o mesmo preço no site; o ômega 3 da Denavita sai mais barato por dia, e a coenzima Q10, por 100 mg, sai mais barata na Rituária. A Rituária tem a nota maior no Reclame Aqui."
+        ]
+      },
+      {
+        "heading": "Magnésio e NAC: o que cada rótulo informa",
+        "paragraphs": [
+          "Os dois pares têm o mesmo preço no site, então a diferença está na fórmula. Os números abaixo são os das páginas de produto de cada loja."
+        ],
+        "comparisonTable": {
+          "caption": "Fichas das páginas de produto. A Rituária não traz imagem de tabela nutricional na galeria do magnésio, e os valores dela vêm do texto e do FAQ da loja.",
+          "headers": [
+            "Ponto",
+            "Denavita",
+            "Rituária"
+          ],
+          "rows": [
+            [
+              "Magnésio, produto",
+              "Trio Magnésio",
+              "Fórmula 4Mag"
+            ],
+            [
+              "Cápsulas e porção",
+              "60 cápsulas de 500 mg; 2 cápsulas ao dia (porção de 1 g)",
+              "60 cápsulas de 600 mg; 2 cápsulas ao dia"
+            ],
+            [
+              "Composição",
+              "Bisglicinato de magnésio, taurato de magnésio e malato de dimagnésio; a tabela traz 210 mg de magnésio (50% do VD) por porção",
+              "Malato (330 mg), bisglicinato (250 mg), citrato (150 mg) e taurato (20 mg) de magnésio, mais 150 mg de L-treonina e 2 mg de vitamina B6; a resposta da loja fala em 152 mg de magnésio elementar"
+            ],
+            [
+              "Cápsula e avisos",
+              "Gelatina e corante dióxido de titânio; pode conter soja, peixe, crustáceos (caranguejo), pinoli e ovo",
+              "Vegana (HPMC); sem glúten, açúcar, amido e dióxido de titânio"
+            ],
+            [
+              "NAC, produto",
+              "NAC + Polivitamínico A a Z",
+              "Fórmula NAC"
+            ],
+            [
+              "Cápsulas e porção",
+              "60 cápsulas de 500 mg no frasco; 2 cápsulas ao dia (porção de 1 g)",
+              "30 cápsulas de 750 mg; 1 cápsula ao dia"
+            ],
+            [
+              "NAC",
+              "O texto da página diz 600 mg por cápsula, o frasco diz 500 mg por cápsula e a tabela traz 300 mg de L-cisteína nas 2 cápsulas",
+              "600 mg de N-acetil L-cisteína por cápsula; a tabela escreve “L-cisteína”"
+            ],
+            [
+              "O que mais leva",
+              "Vitaminas A, D3, E, K2, C e do complexo B, mais cobre, cromo, ferro, magnésio, manganês, molibdênio, selênio e zinco; cápsula de gelatina e aviso de “pode conter” os mesmos alérgenos do Trio Magnésio",
+              "Selênio (68 mcg) e molibdênio (45 mcg); cápsula vegetal"
+            ]
+          ]
+        },
+        "postParagraphs": [
+          "Os números de magnésio não se comparam direto. A Denavita publica 210 mg na tabela; a Rituária lista os sais e fala em 152 mg de magnésio elementar na resposta do FAQ, sem tabela na galeria. Antes de comparar, vale pedir à loja a mesma base, por porção.",
+          "No NAC, as fórmulas não são equivalentes: a da Denavita é um polivitamínico com NAC; a da Rituária, NAC com dois minerais. A tabela e o FAQ da Denavita imprimem “Iodo (mg) 150”, como está escrito; a unidade a loja pode esclarecer."
+        ],
+        "images": [
+          {
+            "src": "/images/reviews/denavita/denavita-e-boa-nac.webp",
+            "alt": "Pote de NAC + Polivitamínico da Denavita, 60 cápsulas de 500 mg, em foto oficial da loja",
+            "caption": "O frasco do NAC + Polivitamínico: 60 cápsulas de 500 mg. Foto: Denavita.",
+            "objectFit": "contain",
+            "aspectRatio": 1,
+            "href": "https://denavita.gogroup.com.br/emcasacomcecilia",
+            "store": "denavita"
+          },
+          {
+            "src": "/images/reviews/rituaria/rituaria-e-boa-nac.webp",
+            "alt": "Pote da Fórmula NAC da Rituária com a tabela nutricional ao lado: 600 mg de L-cisteína, 45 mcg de molibdênio e 68 mcg de selênio por cápsula",
+            "caption": "A Fórmula NAC, com a tabela da própria loja: 600 mg por cápsula. Imagem: Rituária.",
+            "objectFit": "contain",
+            "aspectRatio": 1,
+            "href": "https://www.rituaria.com.br/products/nac",
+            "store": "rituaria"
+          }
+        ]
+      },
+      {
+        "heading": "Coenzima Q10 e ômega 3: o que cada rótulo informa",
+        "paragraphs": [
+          "Aqui os produtos se parecem menos do que os nomes sugerem. A Denavita junta coenzima Q10, ômega 3 vegetal e vitamina E numa cápsula; o endereço da página cita selênio, mas a fórmula e a tabela não têm selênio. A Rituária vende a coenzima Q10 com vitamina E e tem duas fórmulas de ômega 3, uma por foco."
+        ],
+        "comparisonTable": {
+          "caption": "Fichas das páginas de produto. Na Denavita, o ômega 3 não tem imagem de tabela nutricional completa na galeria: os números são os do frasco. Na Rituária, os números são os da tabela, por porção de 2,8 g.",
+          "headers": [
+            "Ponto",
+            "Denavita",
+            "Rituária"
+          ],
+          "rows": [
+            [
+              "Coenzima Q10, produto",
+              "Coenzima Q10, Ômega 3 e Vitamina E",
+              "Fórmula Coenzima Q10"
+            ],
+            [
+              "Cápsulas e porção",
+              "30 cápsulas de 700 mg; 1 cápsula ao dia",
+              "30 cápsulas de 500 mg; 1 cápsula ao dia"
+            ],
+            [
+              "Composição",
+              "100 mg de coenzima Q10, 100 mg de ômega 3 de origem vegetal e 10 mg de vitamina E (67% do VD); cápsula de HPMC",
+              "150 mg de coenzima Q10 e 15 mg de vitamina E (100% do VD), com TCM; cápsula de HPMC"
+            ],
+            [
+              "Ômega 3, produto",
+              "Ômega 3 com EPA + DHA",
+              "Cardio Ômega 3 (Super EPA) e Neuro Ômega 3 (Super DHA)"
+            ],
+            [
+              "Cápsulas e porção",
+              "60 cápsulas de 700 mg; 2 cápsulas ao dia",
+              "60 cápsulas em cada; 1 cápsula, 2 vezes ao dia"
+            ],
+            [
+              "Ativos",
+              "O frasco informa 824 mg de ômega 3, 360 mg de EPA e 240 mg de DHA",
+              "Cardio: 1.300 mg de ômega 3, 918 mg de EPA e 360 mg de DHA. Neuro: 1.237 mg de ômega 3, 358 mg de EPA na tabela e 878 mg de DHA"
+            ],
+            [
+              "Avisos",
+              "Contém derivados de peixe; sem glúten",
+              "Contém derivados de peixe e pode conter soja e crustáceos (caranguejo); produto não vegano; certificação IFOS"
+            ]
+          ]
+        },
+        "postParagraphs": [
+          "O EPA do Neuro aparece como 358 mg na tabela e como 360 mg na descrição e no frasco: a diferença é pequena, mas é o que a loja publicou. Como a base dos números da Denavita não está explícita, não dá para dizer qual ômega 3 tem mais por dose; o que a tabela deixa claro é o preço por dia, no capítulo seguinte."
+        ]
+      },
+      {
+        "heading": "Quanto custa por dia, par a par, com o EMCASA",
+        "paragraphs": [
+          "Os potes têm cápsulas e porções diferentes, então a comparação é pelo preço por dia, pela porção que a ficha de cada loja informa."
+        ],
+        "comparisonTable": {
+          "caption": "Preço de cada página em 23/11, em promoção, compra única, sem frete e sem Pix. A coluna do código é a conta de 10% sobre o preço da página.",
+          "headers": [
+            "Par",
+            "Loja e pote",
+            "Preço no site",
+            "Por dia, sem o código",
+            "Por dia, com o EMCASA"
+          ],
+          "rows": [
+            [
+              "Magnésio",
+              "[Denavita, Trio Magnésio](https://www.denavita.com.br/products/trio-magnesio), 60 cápsulas · 30 dias",
+              "R$ 44,90",
+              "R$ 1,50",
+              "R$ 1,35"
+            ],
+            [
+              "Magnésio",
+              "[Rituária, Fórmula 4Mag](https://www.rituaria.com.br/products/formula-4-mag-magnesio), 60 cápsulas · 30 dias",
+              "R$ 44,90",
+              "R$ 1,50",
+              "R$ 1,35"
+            ],
+            [
+              "NAC",
+              "[Denavita, NAC + Polivitamínico A a Z](https://www.denavita.com.br/products/nac-polivitaminico), 60 cápsulas · 30 dias",
+              "R$ 49,90",
+              "R$ 1,66",
+              "R$ 1,50"
+            ],
+            [
+              "NAC",
+              "[Rituária, Fórmula NAC](https://www.rituaria.com.br/products/nac), 30 cápsulas · 30 dias",
+              "R$ 49,90",
+              "R$ 1,66",
+              "R$ 1,50"
+            ],
+            [
+              "Coenzima Q10",
+              "[Denavita, Coenzima Q10, Ômega 3 e Vitamina E](https://www.denavita.com.br/products/coenzima-q10-omega-3-e-selenio-30-caps), 30 cápsulas · 30 dias",
+              "R$ 62,90",
+              "R$ 2,10",
+              "R$ 1,89"
+            ],
+            [
+              "Coenzima Q10",
+              "[Rituária, Fórmula Coenzima Q10](https://www.rituaria.com.br/products/coenzima-q10), 30 cápsulas · 30 dias",
+              "R$ 69,90",
+              "R$ 2,33",
+              "R$ 2,10"
+            ],
+            [
+              "Ômega 3",
+              "[Denavita, Ômega 3 com EPA + DHA](https://www.denavita.com.br/products/omega-3-epa-dha-60-caps), 60 cápsulas · 30 dias",
+              "R$ 53,90",
+              "R$ 1,80",
+              "R$ 1,62"
+            ],
+            [
+              "Ômega 3",
+              "[Rituária, Cardio Ômega 3 (Super EPA)](https://www.rituaria.com.br/products/cardio-omega-3-super-epa), 60 cápsulas · 30 dias",
+              "R$ 79,90",
+              "R$ 2,66",
+              "R$ 2,40"
+            ],
+            [
+              "Ômega 3",
+              "[Rituária, Neuro Ômega 3 (Super DHA)](https://www.rituaria.com.br/products/neuro-omega3-super-dha), 60 cápsulas · 30 dias",
+              "R$ 99,90",
+              "R$ 3,33",
+              "R$ 3,00"
+            ]
+          ]
+        },
+        "postParagraphs": [
+          "Conta nossa: o preço da página, vezes 0,9, dividido pelos dias que o pote rende na porção da ficha. Magnésio e NAC empatam; em ômega 3 e no pote de coenzima Q10, a Denavita é mais barata com o mesmo número de dias. Por 100 mg de coenzima Q10, a conta inverte: R$ 1,89 por 100 mg na Denavita (100 mg por cápsula) e R$ 1,40 na Rituária (R$ 2,10 ÷ 1,5, com 150 mg por cápsula). Preço igual ou menor por dia não quer dizer produto igual, como os dois capítulos anteriores mostram.",
+          "Não montamos par para o que só lemos de um lado: Laranja Moro e Tons, na Denavita ([Laranja Moro Denavita](/reviews/laranja-moro-denavita), [Denavita Tons](/reviews/denavita-tons)), e o Brain+, na Rituária ([Rituária Brain+](/reviews/rituaria-brain-para-que-serve))."
+        ]
+      },
+      {
+        "heading": "Como cada loja monta a promoção e onde entra o código",
+        "paragraphs": [
+          "O código é o mesmo nas duas lojas, o EMCASA, com 10% OFF, e cada uma tem o seu carrinho: são dois pedidos. Na Denavita, monte o carrinho, toque em Finalizar compra e digite o código no campo “Tem um cupom?” do checkout seguro; no nosso teste, ele tirou 10% do total dos produtos. Na Rituária, o campo tem o mesmo nome no checkout seguro da loja, e o código tirou 10% do pedido que testamos. As condições estão no [cupom Denavita](/cupons/denavita) e no [cupom Rituária](/cupons/rituaria).",
+          "A Rituária faz o “Leve 3, Pague 2” nos suplementos, numa coleção própria: com 3 suplementos no carrinho, o de menor valor sai de graça, e a promoção só aparece no resumo do checkout. Num carrinho que montamos em 18/11, o EMCASA somou com ela e o total foi de R$ 129,80 para R$ 116,82. A loja também mostra 10% de cashback para a próxima compra, que, pelos termos, não se junta com desconto.",
+          "A Denavita usa preço promocional, kits e o “Compre 2 Leve 3”. O EMCASA entrou sobre preço promocional e kits que testamos; nas opções por quantidade, confira a linha “Cupom de desconto” no resumo antes de pagar. Os percentuais não se somam: o Pix da Rituária tem desconto próprio de 5%, e ele não vira 15% com o código."
+        ]
+      },
+      {
+        "heading": "Reputação das duas no Reclame Aqui",
+        "paragraphs": [
+          "A nota do Reclame Aqui mede como a loja atende as reclamações na plataforma, não a qualidade do produto. Os indicadores abaixo são do semestre de maio a outubro nos dois perfis."
+        ],
+        "comparisonTable": {
+          "caption": "Perfis no Reclame Aqui, janela de 6 meses. As linhas de solução e de “voltariam” valem para as reclamações avaliadas, não para todos os clientes. As contagens são números absolutos: sem o total de pedidos de cada loja, não viram taxa.",
+          "headers": [
+            "Indicador",
+            "Denavita",
+            "Rituária"
+          ],
+          "rows": [
+            [
+              "Reputação e nota",
+              "Ótima, 8,4",
+              "RA1000, 8,8"
+            ],
+            [
+              "Reclamações recebidas",
+              "108",
+              "708"
+            ],
+            [
+              "Respondidas",
+              "100% (0 aguardando)",
+              "100% (0 aguardando)"
+            ],
+            [
+              "Tempo médio de resposta",
+              "5 dias e 14 horas",
+              "4 dias e 12 horas"
+            ],
+            [
+              "Reclamações avaliadas pelo consumidor",
+              "60",
+              "420"
+            ],
+            [
+              "Resolvidas, entre as avaliadas",
+              "90%",
+              "94,3%"
+            ],
+            [
+              "Voltariam a fazer negócio, entre as avaliadas",
+              "78,3%",
+              "78,7%"
+            ],
+            [
+              "Nota média do consumidor, nas avaliadas",
+              "7,1",
+              "7,89"
+            ]
+          ]
+        },
+        "postParagraphs": [
+          "A Rituária recebeu mais reclamações que a Denavita, mas as lojas não têm o mesmo volume de pedidos, então o número não é uma taxa comparável. As duas respondem a todas.",
+          "Na aba geral do perfil, que cobre até três anos, o principal problema da Denavita é atraso na entrega (45,93% das reclamações) e o da Rituária é produto não recebido (32,25%). Nas duas, o que mais pesa é entrega: informe o CEP e confira o prazo antes de pagar. Os perfis completos estão em [Denavita no Reclame Aqui](/reviews/denavita-reclame-aqui-nota-reputacao) e [Rituária no Reclame Aqui](/reviews/rituaria-reclame-aqui-nota-reputacao)."
+        ]
+      },
+      {
+        "heading": "Frete, parcelamento, trocas e Pix",
+        "paragraphs": [
+          "O que cada loja informa. A base do frete grátis, antes ou depois do cupom, não foi confirmada em nenhuma das duas: confira no carrinho."
+        ],
+        "comparisonTable": {
+          "caption": "Condições informadas pelas lojas; confira no carrinho e no portal de trocas.",
+          "headers": [
+            "Condição",
+            "Denavita",
+            "Rituária"
+          ],
+          "rows": [
+            [
+              "Frete grátis",
+              "A partir de R$ 199,90, conforme a faixa da loja",
+              "De R$ 199 a R$ 349, conforme a região do CEP"
+            ],
+            [
+              "Parcelamento",
+              "A faixa do site diz até 12x, o bloco do produto diz até 10x e os preços mostram 3x sem juros: confirme no carrinho",
+              "3x sem juros no cartão"
+            ],
+            [
+              "Pix",
+              "No teste que fizemos, o EMCASA valeu no Pix",
+              "O checkout mostra 5% de desconto no Pix; a soma com o código não foi conferida no checkout"
+            ],
+            [
+              "Desistência",
+              "7 dias, com o produto lacrado",
+              "7 dias corridos do recebimento, com devolução gratuita"
+            ],
+            [
+              "Problema com o pedido",
+              "Até 30 dias após a entrega",
+              "Até 30 dias, em caso de defeito, avaria ou produto errado"
+            ]
+          ]
+        },
+        "postParagraphs": [
+          "Para saber quem vende e como funcionam as trocas de cada uma, veja [Denavita é confiável?](/reviews/denavita-e-confiavel) e [Rituária é confiável?](/reviews/rituaria-e-confiavel)."
+        ]
+      },
+      {
+        "heading": "Antes de pagar nas duas lojas",
+        "paragraphs": [
+          "Quatro conferências valem para qualquer produto das duas lojas."
+        ],
+        "checklist": {
+          "title": "Antes de pagar",
+          "items": [
+            "Compare a porção e as cápsulas do rótulo, não só o preço do pote.",
+            "Em kit ou “leve mais”, confira a validade de cada pote.",
+            "Confira a linha de desconto no resumo antes de pagar.",
+            "Informe o CEP para ver o frete e a previsão de entrega."
+          ]
+        }
+      },
+      {
+        "heading": "Denavita ou Rituária: qual escolher por produto?",
+        "emphasis": "Em magnésio e NAC, o preço por dia empata e a escolha passa a ser a fórmula; em ômega 3, a Denavita custa menos por dia, porque o pote dela é mais barato para os mesmos 30 dias; em coenzima Q10, o pote da Denavita é mais barato, mas a Rituária custa menos por 100 mg (conta nossa).",
+        "paragraphs": [
+          "Entre os produtos comparados:"
+        ],
+        "bullets": [
+          "**Quer magnésio:** o preço empata. A Denavita publica 210 mg de magnésio na tabela, em cápsula de gelatina; a Rituária usa cápsula vegana e põe L-treonina e vitamina B6 na fórmula.",
+          "**Quer NAC:** o preço empata. A Rituária tem 600 mg de NAC por cápsula, com selênio e molibdênio; a Denavita é um polivitamínico com NAC, de 2 cápsulas por dia.",
+          "**Quer coenzima Q10:** a Rituária tem 150 mg de coenzima Q10 por cápsula, contra 100 mg da Denavita, que também leva ômega 3 vegetal; por dia, o pote da Denavita sai mais barato, mas por 100 mg de coenzima Q10 a da Rituária custa menos (conta nossa).",
+          "**Quer ômega 3:** a Denavita custa menos por dia que as duas fórmulas da Rituária. A Rituária tem certificação IFOS e separa a fórmula por foco, e a base dos números da Denavita não está explícita.",
+          "**Pesa a reputação no atendimento:** a Rituária tem nota maior no Reclame Aqui, e as duas respondem a todas as reclamações."
+        ],
+        "postParagraphs": [
+          "Cada código vale só na loja dele, em pedidos separados. Os preços mudam com as promoções: refaça a conta com o preço do dia antes de comprar."
+        ],
+        "links": [
+          {
+            "label": "Ir para a Denavita com o EMCASA",
+            "href": "https://denavita.gogroup.com.br/emcasacomcecilia",
+            "sponsored": true,
+            "store": "denavita"
+          },
+          {
+            "label": "Ir para a Rituária com o EMCASA",
+            "href": "https://www.rituaria.com.br/",
+            "sponsored": true,
+            "store": "rituaria"
+          }
+        ]
+      },
+      {
+        "heading": "Perguntas frequentes",
+        "bullets": [
+          "Qual é o cupom da Denavita e o da Rituária? O cupom das duas é o EMCASA, com 10% OFF no site oficial de cada loja, para cliente novo ou antigo. Cada loja tem o seu carrinho, então são dois pedidos, e o código vale em cada um.",
+          "Denavita ou Rituária, qual é melhor? Depende do produto: em magnésio e NAC o preço por dia empata e a escolha é pela fórmula; no ômega 3, a Denavita sai mais barata por dia; na coenzima Q10, o pote da Denavita é mais barato, mas a Rituária custa menos por 100 mg; no Reclame Aqui, a Rituária tem a nota maior. Os perfis estão no capítulo do veredito.",
+          "Qual sai mais barata por dia? Por pote e por dia, a Denavita custa o mesmo ou menos nos quatro pares. Na coenzima Q10, por 100 mg, a Rituária custa menos (conta nossa). O produto não é igual em todos os pares, então vale olhar o rótulo antes do preço.",
+          "O código soma com a promoção? Na Rituária, o EMCASA somou com o “Leve 3, Pague 2” no carrinho que testamos. Na Denavita, ele entrou sobre preço promocional e kits; nas opções por quantidade, confira a linha “Cupom de desconto” no resumo.",
+          "As duas têm Anvisa? Não lemos número de notificação em nenhuma das duas páginas. A Rituária diz, no FAQ do 4Mag, seguir as normas e as especificações da Anvisa, o que é uma declaração da loja, não uma aprovação. Confira o rótulo do pote que chegar.",
+          "Onde comprar? Nos sites oficiais de cada loja, onde o código vale. Não conferimos as duas em marketplaces."
+        ]
+      }
+    ],
+    "updatedAt": "2026-11-23"
+  },
+  {
+    "id": 1313,
+    "slug": "denavita-tons",
+    "locale": "pt",
+    "category": "guias-praticos-utilidade",
+    "reviewKind": "guia",
+    "author": {
+      "name": "Cecília Mauad",
+      "slug": "cecilia-mauad",
+      "role": "Em Casa com Cecília",
+      "initials": "CM",
+      "url": "/sobre"
+    },
+    "publishedAt": "23 de novembro de 2026",
+    "publishedAtISO": "2026-11-23",
+    "draft": false,
+    "isNew": true,
+    "imageFit": "contain",
+    "imageAspect": "landscape",
+    "pros": [],
+    "cons": [],
+    "coupon": "EMCASA",
+    "affiliate": "denavita",
+    "type": "Guia de Produto",
+    "title": "Denavita Tons: o que tem no rótulo, como a loja manda tomar e o preço por dia",
+    "seoTitle": "Denavita Tons: o que tem no rótulo e quanto custa",
+    "description": "Veja o que o rótulo do Tons da Denavita informa sobre cada cápsula, como a loja manda tomar e quanto custa por dia no pote avulso e nas opções por quantidade, com o EMCASA.",
+    "metaDescription": "EMCASA dá 10% OFF na Denavita. Veja o que o rótulo do Tons informa, como a loja manda tomar e o preço por dia com o código.",
+    "image": "/images/reviews/denavita/denavita-tons-capa.webp",
+    "imageAlt": "Pote do suplemento Denavita Tons, com tampa cobre e rótulo dourado, sobre fundo branco.",
+    "cta": {
+      "text": "Se o Tons faz sentido para você, abra o site oficial da Denavita pelo botão. O código EMCASA entra no campo “Tem um cupom?” do checkout que o botão Finalizar compra abre.",
+      "label": "Ir para a Denavita",
+      "url": "https://denavita.gogroup.com.br/emcasacomcecilia",
+      "sponsored": true
+    },
+    "editorialNote": "Ninguém da equipe usou o Tons: o texto segue a ficha e o rótulo. Comissão possível.",
+    "relatedArticles": [
+      {
+        "slug": "denavita-e-boa"
+      },
+      {
+        "slug": "laranja-moro-denavita"
+      },
+      {
+        "slug": "denavita-e-confiavel"
+      },
+      {
+        "slug": "cupom-denavita-como-usar"
+      }
+    ],
+    "decision": {
+      "takeIf": [
+        "você já escolheu o Tons e quer saber o que tem em cada cápsula antes de comprar.",
+        "você vai usar um pote por mês e aceita conferir a validade de cada um na chegada."
+      ],
+      "skipIf": [
+        "você procura uma indicação de uso ou um prazo de resultado; a ficha não traz nenhum dos dois.",
+        "você tem alergia a gelatina ou a algum componente e ainda não confirmou na embalagem."
+      ]
+    },
+    "contentSections": [
+      {
+        "heading": "Resposta rápida",
+        "paragraphs": [
+          "O Tons, da Denavita, vem em pote de 30 cápsulas, com uma cápsula por dia junto de uma refeição, segundo a loja. A tabela lista coenzima Q10, proantocianidinas de pinho marítimo e vitamina A. A página não informa prazo para efeito. O EMCASA dá 10% OFF no site oficial."
+        ]
+      },
+      {
+        "heading": "O que tem em uma cápsula do Tons",
+        "paragraphs": [
+          "A tabela nutricional da página do [Tons – Equilíbrio](https://www.denavita.com.br/products/tons) usa a porção de uma cápsula, de 0,7 g."
+        ],
+        "comparisonTable": {
+          "caption": "Tabela nutricional publicada pela Denavita para o Tons, por cápsula.",
+          "headers": [
+            "Componente na tabela",
+            "Por cápsula"
+          ],
+          "rows": [
+            [
+              "Coenzima Q10",
+              "200 mg"
+            ],
+            [
+              "Proantocianidinas (de Pinus pinaster)",
+              "50 mg"
+            ],
+            [
+              "Vitamina A",
+              "800 µg (100% do VD)"
+            ]
+          ]
+        },
+        "postParagraphs": [
+          "A lista de ingredientes traz coenzima Q10, extrato de casca de pinho marítimo (Pinus pinaster Aiton), acetato de retinol e os antiumectantes dióxido de silício, fosfato tricálcico e talco. A cápsula é de gelatina, e a loja declara que o produto não contém glúten. Nem a tabela nem o rótulo lidos trazem aviso de alérgenos ou “pode conter”; quem tem alergia confirma na embalagem.",
+          "Os miligramas não fecham entre as imagens da página. O frasco que a página mostra agora diz “30 cápsulas de 500 mg” e “peso líquido 15 g”, e a tabela usa porção de 0,7 g; na foto do catálogo abaixo, o rótulo diz 700 mg e 21 g. Vale conferir o que vem na embalagem que você receber."
+        ],
+        "images": [
+          {
+            "src": "/images/reviews/denavita/cupom-denavita-primeira-compra-tons.webp",
+            "alt": "Pote de Tons da Denavita em fundo branco, com a frase “Vitamina A contribui para a manutenção da pele” e a indicação de 50 mg de Pinus pinaster e 200 mg de coenzima Q10",
+            "caption": "O pote do Tons, em foto do catálogo da loja. Foto: Denavita.",
+            "objectFit": "contain",
+            "aspectRatio": 1,
+            "href": "https://denavita.gogroup.com.br/emcasacomcecilia"
+          }
+        ]
+      },
+      {
+        "heading": "Para que serve, funciona e é bom?",
+        "paragraphs": [
+          "O rótulo da foto traz a frase “Vitamina A contribui para a manutenção da pele” e a faixa “Skin care”. Fora isso, a ficha que lemos dá composição, dose e advertências, e não informa resultado esperado nem prazo para efeito.",
+          "Por isso este guia não responde se o Tons funciona: o que o rótulo permite dizer é o que está na tabela. Quanto ao “é bom” e à resenha, o guia lê o rótulo e a ficha, sem avaliações de clientes. A página também não traz bula; o que existe é o rótulo e as advertências da loja."
+        ]
+      },
+      {
+        "heading": "Como a loja manda tomar o Tons",
+        "paragraphs": [
+          "A página orienta ingerir 1 cápsula ao dia, junto de uma refeição, sem fixar horário. Para guardar, a loja pede local seco, arejado e ao abrigo da luz; depois de aberto, consumir preferencialmente em 30 dias.",
+          "A loja avisa que o produto não deve ser consumido por gestantes, lactantes e crianças, e que quem tem alergia a algum componente ou condição de saúde pré-existente deve consultar médico ou nutricionista antes do uso."
+        ]
+      },
+      {
+        "heading": "Quanto dura o pote e quanto custa por dia",
+        "paragraphs": [
+          "Com uma cápsula ao dia, o pote de 30 dura 30 dias. A opção de 2 unidades aparece com frete grátis na página."
+        ],
+        "comparisonTable": {
+          "caption": "Preços à vista da página em 23/11, sem frete. Conta pela porção de uma cápsula por dia; a coluna do código é 10% sobre o preço da página.",
+          "headers": [
+            "Opção",
+            "Total",
+            "Por dia, sem o código",
+            "Por dia, com o EMCASA"
+          ],
+          "rows": [
+            [
+              "[1 unidade](https://www.denavita.com.br/products/tons)",
+              "R$ 75,90",
+              "R$ 2,53",
+              "R$ 2,28 (total de R$ 68,31)"
+            ],
+            [
+              "[2 unidades](https://www.denavita.com.br/products/tons)",
+              "R$ 141,90",
+              "R$ 2,37",
+              "R$ 2,13 (total de R$ 127,71)"
+            ],
+            [
+              "[3 unidades](https://www.denavita.com.br/products/tons)",
+              "R$ 208,90",
+              "R$ 2,32",
+              "R$ 2,09 (total de R$ 188,01)"
+            ]
+          ]
+        },
+        "postParagraphs": [
+          "O EMCASA tirou 10% no checkout que testamos, num carrinho com o Tons e outros produtos; nas opções de 2 e 3 unidades, a conta é de 10% sobre o preço da página, então confira a linha “Cupom de desconto” no resumo antes de pagar. Copie o código na página do [cupom Denavita](/cupons/denavita)."
+        ]
+      },
+      {
+        "heading": "Tons: o que a ficha permite concluir",
+        "emphasis": "Na conta por dia, a opção de 3 unidades é a mais baixa para quem já escolheu o Tons, porque o pote sai por R$ 69,63 contra R$ 75,90 do avulso, desde que a validade dos potes permita usar um por mês.",
+        "paragraphs": [
+          "A ficha dá a composição e a dose de uma cápsula por dia; não dá indicação de uso nem prazo de resultado. Quem ainda não escolheu o suplemento tem na tabela apenas os três componentes e as quantidades, e a decisão fica fora do que este guia afirma."
+        ]
+      },
+      {
+        "heading": "Antes de comprar",
+        "paragraphs": [
+          "A faixa da Denavita anuncia frete grátis a partir de R$ 199,90, conforme as regras da loja. As parcelas aparecem com números diferentes: 3x sem juros no preço do Tons, até 10x no bloco do produto e até 12x na faixa do site; confirme no carrinho. A loja aceita desistência em até 7 dias, com o produto lacrado, e problema com o pedido em até 30 dias. Veja também [Denavita é confiável?](/reviews/denavita-e-confiavel), a conta dos outros potes em [Denavita é boa?](/reviews/denavita-e-boa) e o produto vizinho em [Laranja Moro Denavita](/reviews/laranja-moro-denavita)."
+        ],
+        "checklist": {
+          "title": "Antes de pagar",
+          "items": [
+            "Confira no rótulo do pote que chegar a porção e os miligramas.",
+            "Se tem alergia a gelatina ou a algum componente, confirme na embalagem.",
+            "Na opção de 2 ou 3 unidades, confira a validade de cada pote.",
+            "Aplique o EMCASA no campo “Tem um cupom?” e confira a linha Cupom de desconto no resumo."
+          ]
+        }
+      },
+      {
+        "heading": "Perguntas frequentes",
+        "bullets": [
+          "Qual é o cupom da Denavita? O cupom da Denavita é o EMCASA, com 10% OFF no site oficial, em todas as formas de pagamento. Digite no campo “Tem um cupom?” do checkout aberto pelo botão Finalizar compra e confira a linha Cupom de desconto.",
+          "O Tons funciona e para que serve? A ficha não informa resultado nem prazo. O que ela traz é a composição, a dose de uma cápsula ao dia e as advertências; o rótulo da foto cita a vitamina A e a manutenção da pele.",
+          "Como tomar o Tons? Uma cápsula ao dia, junto de uma refeição, segundo a loja. Depois de aberto, a loja manda consumir preferencialmente em 30 dias.",
+          "O Tons tem bula? A página não traz bula. O que existe é o rótulo e as advertências da loja.",
+          "O Tons tem registro na Anvisa? Nem a página nem as imagens que lemos citam a Anvisa ou trazem número de notificação. Confira o rótulo do pote que chegar.",
+          "Quanto dura um pote? Com uma cápsula por dia, 30 dias. As opções de 2 e 3 unidades duram 60 e 90 dias, e cada pote aberto deve ser consumido preferencialmente em 30 dias."
+        ]
+      }
+    ],
+    "updatedAt": "2026-11-23"
   }
 ];
