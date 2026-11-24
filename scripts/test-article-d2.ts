@@ -537,9 +537,11 @@ assert.ok(OLD_HEX.test(changelog()), 'ChangelogDetails padrão (receitas) mudou 
 // A capitular não come o primeiro caractere da marcação: com ela, "**Preços:**" virava "*" e "*Preços:**".
 const dropCap = (text: string) =>
   renderToStaticMarkup(createElement(DropCapParagraph, { text, variant: 'd2', renderText: (rest: string) => `[${rest}]` }));
-assert.ok(!dropCap('**Preços de hoje:** veja a tabela.').includes('aria-hidden'), 'parágrafo que abre com negrito ganhou capitular');
+assert.ok(!dropCap('**Preços de hoje:** veja a tabela.').includes('data-dropcap'), 'parágrafo que abre com negrito ganhou capitular');
 assert.ok(dropCap('**Preços de hoje:** veja a tabela.').includes('[**Preços de hoje:** veja a tabela.]'), 'parágrafo que abre com negrito perdeu a marcação');
-assert.ok(dropCap('Hoje no site.').includes('aria-hidden="true"'), 'parágrafo comum sem capitular');
+assert.ok(dropCap('Hoje no site.').includes('data-dropcap'), 'parágrafo comum sem capitular');
+// A inicial sai uma vez só no texto da página: "CCom certeza" no copiar e no snippet era a letra em dobro.
+assert.equal(dropCap('Hoje no site.').replace(/<[^>]+>/g, ''), 'H[oje no site.]', 'a capitular repetiu a inicial no texto');
 
 // Link do texto (tabela, parágrafo, FAQ) para loja parceira sai com sponsored; para outro site, só com noopener; o interno, sem rel.
 const inline = renderToStaticMarkup(

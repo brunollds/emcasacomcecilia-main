@@ -31,11 +31,12 @@ export function DropCapParagraph({
   const firstLetter = trimmed.charAt(0);
   const rest = trimmed.slice(1);
 
+  // A letra sai uma vez só, visível: com uma cópia em sr-only e outra aria-hidden, o texto da página (copiar,
+  // snippet do Google, leitura por IA) dobrava a inicial ("CCom certeza").
   return (
     <p className={`mb-4 font-editorial text-lg leading-8 ${ink.text} last:mb-0 ${className}`}>
-      <span className="sr-only">{firstLetter}</span>
       <span
-        aria-hidden="true"
+        data-dropcap=""
         className={`float-start me-3 mt-1 font-editorial text-5xl font-bold leading-[0.85] ${ink.cap} md:text-6xl lg:text-7xl`}
       >
         {firstLetter}
