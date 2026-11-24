@@ -29179,7 +29179,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Resposta rápida",
         "paragraphs": [
-          "Para nós, o sofá modular da Damie valeu a pena: cada módulo chega em uma caixa, o que facilita entrar em casa, e o puff separado permite mudar a configuração. O que muda a escolha é medir o acesso e escolher o tecido pela rotina da casa. O código CECILIA12 dá 12% OFF no site da Damie."
+          "Sim, para nós o sofá modular da Damie valeu a pena: cada módulo chega em uma caixa, facilitando entrar em casa, e o puff separado muda a configuração da sala. O que pesa na escolha é medir o acesso e escolher o tecido pela rotina, como detalhamos abaixo. No site, o CECILIA12 dá 12% OFF."
         ]
       },
       {
@@ -33049,7 +33049,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Resposta rápida",
         "paragraphs": [
-          "Para nós, a Levita vale para quem usa a poltrona todo dia: os dois motores reclinam encosto e pés separados até a posição de gravidade zero, com um ruído menor que o de um ventilador. Para quem quer só uma poltrona bonita, não compensa. No site da DAMIE, o cupom CECILIA12 dá 12% OFF."
+          "Claro que vale, para quem usa a poltrona todo dia: para nós, a Levita entrega dois motores que ajustam encosto e pés separados até a gravidade zero, com ruído menor que o de um ventilador. Se busca só decoração, veja abaixo por que não compensa. Na DAMIE, o CECILIA12 dá 12% OFF."
         ]
       },
       {
@@ -33287,7 +33287,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Resposta rápida",
         "paragraphs": [
-          "Para nós, vale a pena: o nosso Sofá Damie na Caixa, de 3 lugares com puff, está na sala há mais de um ano, e os módulos em caixas facilitam a entrada por escada, elevador e corredor. Compare as medidas antes de comprar. No site da Damie, o cupom CECILIA12 dá 12% OFF."
+          "Com certeza valeu para nós: o Sofá Damie na Caixa, de 3 lugares com puff, está na sala há mais de um ano, e os módulos em caixas facilitam passar por escada e elevador. Veja abaixo o que conferir nas medidas antes de pedir. No site da Damie, o cupom CECILIA12 dá 12% OFF."
         ]
       },
       {
@@ -33717,7 +33717,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Resposta rápida",
         "paragraphs": [
-          "Sim, a poltrona reclinável Damie 1.0 valeu o investimento para nós: usamos todos os dias há mais de um ano, a reclinação elétrica é silenciosa e o linho bege respira bem no calor. O que pesa é o preço e a tomada por perto. No site da Damie, o cupom CECILIA12 dá 12% OFF e soma com as promoções."
+          "Vale, sim: a poltrona reclinável Damie 1.0 valeu o investimento para nós, pois usamos todos os dias há mais de um ano, com reclinação elétrica silenciosa e linho bege respirável no calor. O que pesa é o preço e a tomada por perto, como mostramos abaixo. No site da Damie, o CECILIA12 dá 12% OFF e soma com promoções."
         ]
       },
       {
@@ -37596,7 +37596,7 @@ export const reviewsData: unknown[] = [
       "A unidade 127V testada possui plugue de 20A e requer uma tomada compatível, sem adaptadores improvisados",
       "Menos recursos de conectividade (IoT/app) que a NEO e a Vertuo",
       "O painel mostra níveis, sem indicar ml; o manual oferece uma referência de volume por nível",
-      "Há relatos de usuários (inclusive no Reclame Aqui) sobre o painel touch apresentando problemas com o tempo: ainda não temos uso suficiente pra confirmar ou descartar"
+      "Há relatos de usuários sobre o painel touch apresentando problemas com o tempo: ainda não temos uso suficiente pra confirmar ou descartar"
     ],
     "pullQuote": "É a máquina de cápsula mais rápida que já tivemos em casa, mas o painel touch e o reservatório de 800 ml são só a metade da história do primeiro uso.",
     "verdict": {
@@ -37675,7 +37675,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Resposta rápida",
         "paragraphs": [
-          "Vale a pena, com ressalvas, para quem quer uma máquina de cápsula rápida e compacta, com painel touch que responde bem. Pesam contra o pingo entre um preparo e outro e a pouca conectividade perto da NEO e da Vertuo. No site oficial, o [cupom Dolce Gusto](/cupons/dolce-gusto) é o CECI, com 10% OFF a partir de 100 reais."
+          "Vale, sim, para quem quer máquina de cápsula rápida e compacta, com painel touch responsivo. Pesam contra os pingos entre preparos e a pouca conectividade perto da NEO e da Vertuo, detalhados abaixo. No site oficial, o [cupom Dolce Gusto](/cupons/dolce-gusto) CECI dá 10% OFF a partir de 100 reais."
         ]
       },
       {
@@ -37739,7 +37739,7 @@ export const reviewsData: unknown[] = [
         "heading": "O que incomodou (sem só elogiar)",
         "paragraphs": [
           "Além do pingo entre preparos, dois pontos práticos: a unidade 127V testada possui plugue de 20A e deve ser ligada a uma tomada compatível, sem adaptadores improvisados. E, em conectividade, ela fica atrás: a NEO tem mais integração (IoT) e hoje custa praticamente o mesmo que a Touch, e a Nespresso Vertuo (como o modelo Vertuo Pop) também oferece mais nesse quesito por um preço parecido ou um pouco mais alto.",
-          "Vale registrar também: existem relatos de seguidores e reclamações públicas (inclusive no Reclame Aqui) sobre o painel touch da Genio S Touch apresentando problemas depois de um tempo de uso. Com poucos dias de máquina, não temos como confirmar nem descartar esse risco: é algo que vamos acompanhar e atualizar aqui."
+          "Vale registrar também: existem relatos de seguidores e reclamações públicas sobre o painel touch da Genio S Touch apresentando problemas depois de um tempo de uso. Com poucos dias de máquina, não temos como confirmar nem descartar esse risco: é algo que vamos acompanhar e atualizar aqui."
         ]
       },
       {
@@ -43022,7 +43022,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Resposta rápida",
         "paragraphs": [
-          "A Mini Me 2.0 é boa para quem quer uma Dolce Gusto compacta, com controles no painel no lugar da alavanca. Na unidade 127V que o Bruno testou, pesam o plugue de 20A e o pingamento. Na loja oficial, o [cupom Dolce Gusto](/cupons/dolce-gusto) é o CECI, com 10% OFF a partir de 100 reais."
+          "É boa, sim: a Mini Me 2.0 atende quem quer Dolce Gusto compacta e controles no painel no lugar da alavanca. Na unidade 127V que o Bruno testou, pesam o plugue de 20A e o pingamento, pontos detalhados abaixo. Na loja oficial, o [cupom Dolce Gusto](/cupons/dolce-gusto) CECI dá 10% OFF a partir de 100 reais."
         ]
       },
       {
@@ -43759,7 +43759,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Resposta rápida",
         "paragraphs": [
-          "A Genio S Plus é a mais equilibrada: traz Espresso Boost e quatro temperaturas sem painel touch. A Basic serve a quem quer o essencial pagando menos, e a Touch, a quem prefere o toque. Na loja oficial, o [cupom Dolce Gusto](/cupons/dolce-gusto) é o CECI, com 10% OFF a partir de 100 reais."
+          "A Genio S Plus vence no equilíbrio por trazer Espresso Boost e quatro temperaturas sem encarecer pelo touch, enquanto a Basic atende quem quer pagar menos no essencial e a Touch, quem prefere painel ao toque. Compare os recursos abaixo. Na loja oficial, o [cupom Dolce Gusto](/cupons/dolce-gusto) CECI dá 10% OFF a partir de 100 reais."
         ]
       },
       {
@@ -45917,7 +45917,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Resposta rápida: Nutren Creatina é boa?",
         "paragraphs": [
-          "Pelo rótulo, a Nutren Creatina é creatina monohidratada sem mistura, em porção de 3 g e 100 porções no sachê de 300 g. O que decide frente a Growth, FTW e Lavitan é o preço por 100 g e a porção. Na loja oficial da Nestlé Nutre, o cupom CECI dá 10% OFF na compra única."
+          "Sim, vale a pena: pelo rótulo, a Nutren Creatina entrega 100% creatina monohidratada sem mistura, em dose de 3 g e 100 porções no sachê de 300 g. Na Nestlé Nutre, o cupom CECI dá 10% OFF na compra única e deixa o custo por 100 g empatado com a Growth no Pix; compare abaixo contra FTW e Lavitan."
         ]
       },
       {
@@ -53748,24 +53748,24 @@ export const reviewsData: unknown[] = [
     "imageAlt": "Mãos mostrando a espessura do Pillow Top Magnum da I Wanna Sleep.",
     "imageFit": "contain",
     "imageAspect": "landscape",
-    "pros": [
-      "10 cm de altura quando afofado, segundo a marca",
-      "Enchimento gomo a gomo, que distribui a fibra sem acumular",
-      "Capa 100% algodão e certificação OEKO-TEX® informadas pela marca",
-      "Elásticos nas laterais para prender no colchão",
-      "Sleeptest de 30 dias para pillow tops, com regras de troca"
-    ],
-    "cons": [
-      "Não corrige colchão afundado ou com molas danificadas",
-      "Não é impermeável: pede capa protetora por cima",
-      "Lavagem só a seco ou profissional",
-      "Preço alto para uma peça que não troca o colchão (de R$ 1.233 a R$ 2.350, conforme o tamanho)"
-    ],
+    "pros": [],
+    "cons": [],
+    "decision": {
+      "takeIf": [
+        "O seu colchão está íntegro e sem afundamento, mas firme demais.",
+        "Você dorme de lado e quer uma camada mais macia em ombros e quadris."
+      ],
+      "skipIf": [
+        "O colchão já tem buraco no meio, laterais cedendo ou molas danificadas.",
+        "A dor nas costas é persistente: pillow top não trata coluna e pede avaliação médica.",
+        "Você precisa lavar a peça na máquina de casa: o Magnum pede lavagem a seco ou profissional."
+      ]
+    },
     "contentSections": [
       {
         "heading": "Resposta rápida: o Pillow Top Magnum vale a pena?",
         "paragraphs": [
-          "O Pillow Top Magnum vale a pena se o seu colchão está em bom estado, mas firme demais. Ele não resolve colchão afundado nem trata dor nas costas: só muda a superfície, e a base continua a mesma; na dúvida sobre dor nas costas, o caminho é o médico. O CECIEMCASA dá 10% OFF no site da I Wanna Sleep."
+          "Sim, o Pillow Top Magnum vale a pena se o colchão está íntegro, mas firme demais. Ele não corrige colchão afundado nem trata dor nas costas: só muda a superfície e pede avaliação médica se houver dor, como explicamos abaixo. O CECIEMCASA dá 10% OFF no site da I Wanna Sleep."
         ]
       },
       {
@@ -53928,7 +53928,7 @@ export const reviewsData: unknown[] = [
           "O Pillow Top Magnum esquenta? A I Wanna Sleep propõe a combinação de AirFiber com capa 100% algodão para ventilar, mas o conforto térmico varia de pessoa para pessoa. Quem sente muito calor pode testar pelo Sleeptest.",
           "Pode lavar pillow top na máquina? O Magnum deve ser lavado a seco ou em lavanderia profissional, segundo a marca. Use capa protetora por cima para lavar só ela no dia a dia.",
           "Quanto tempo o pillow top leva para encher? A marca orienta afofar gomo a gomo e deixar descansar por 6 horas antes do primeiro uso.",
-          "Tem cupom para o Pillow Top Magnum? Sim: o CECIEMCASA dá 10% no site oficial da I Wanna Sleep, com o valor final no checkout."
+          "Qual é o cupom da I Wanna Sleep? É o CECIEMCASA, que dá 10% OFF no site oficial da I Wanna Sleep, inclusive no Pillow Top Magnum, somando com os 5% do Pix e com o valor final confirmado no checkout."
         ]
       }
     ],
@@ -54274,7 +54274,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Resposta rápida",
         "paragraphs": [
-          "Vale a pena para quem usa pelo menos 3 caixas a cada 1, 2 ou 3 meses: o plano dá 25% de desconto e frete grátis, e a Black Friday sobe o desconto. Em promoção, o avulso pode sair mais barato. O [cupom Dolce Gusto](/cupons/dolce-gusto), o CECI, dá 10% a partir de 100 reais e somou com a assinatura."
+          "Compensa, sim, para quem usa pelo menos três caixas a cada ciclo de 1, 2 ou 3 meses: o plano dá 25% de desconto e frete grátis. Em promoção, o avulso pode sair mais barato, como mostramos abaixo. O [cupom Dolce Gusto](/cupons/dolce-gusto) CECI soma 10% OFF a partir de 100 reais."
         ]
       },
       {
@@ -55791,7 +55791,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Resposta rápida",
         "paragraphs": [
-          "A poltrona de amamentação serve bem à fase do bebê e custa menos; a reclinável ganha no descanso e continua útil na sala depois. Se escolher reclinável para amamentar, prefira a elétrica, mais fácil de ajustar com o bebê no colo. O que decide é o tempo de uso; na DAMIE, o código CECILIA12 dá 12% OFF."
+          "A poltrona de amamentação serve bem à fase do bebê e custa menos; a reclinável ganha no descanso e continua útil na sala depois. Se escolher reclinável para amamentar, prefira a elétrica, mais fácil de ajustar com o bebê no colo. O que decide é o tempo de uso, detalhado na conta abaixo; na DAMIE, o código CECILIA12 dá 12% OFF."
         ]
       },
       {
@@ -75337,10 +75337,11 @@ export const reviewsData: unknown[] = [
       "initials": "CM",
       "url": "/sobre"
     },
-    "description": "A louça Porto Brasil é boa? É cerâmica, não porcelana: veja o que a ficha libera no forno, no micro-ondas e na lava-louças, a garantia, o Reclame Aqui e a comparação com a Oxford.",
-    "metaDescription": "O cupom MAUAD dá 5% OFF na Let's Eat It. Porto Brasil é cerâmica, não porcelana: o que vai ao micro-ondas, à lava-louças e ao forno, e a garantia.",
+    "description": "Veja para quem a louça Porto Brasil vale a pena, as diferenças entre stoneware e faiança, o que vai ao forno e à lava-louças, a comparação com a Oxford e o cupom MAUAD.",
+    "metaDescription": "O cupom MAUAD dá 5% OFF na Let's Eat It. Veja quando a Porto Brasil vale a pena, stoneware vs faiança, forno, lava-louças e Oxford.",
     "publishedAt": "12 de outubro de 2026",
     "publishedAtISO": "2026-10-12",
+    "updatedAt": "2026-11-24",
     "draft": false,
     "isNew": false,
     "image": "/images/reviews/letseatit/porto-brasil-e-boa-capa-v2.webp",
@@ -75351,13 +75352,13 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Resposta rápida",
         "paragraphs": [
-          "A escolha da Porto Brasil depende da peça e do uso: a marca trabalha com cerâmica, e a faiança tem mais restrições de forno que o stoneware. Os modelos com ouro têm mais exceções, então confira a ficha da peça. Na Let's Eat It, o [cupom Let's Eat It](/cupons/letseatit) MAUAD dá 5% OFF em todas as formas de pagamento."
+          "Com certeza vale, principalmente para quem monta mesa posta e quer comparar stoneware e faiança na rotina da cozinha. Peças sem ouro costumam liberar micro-ondas e lava-louças, enquanto o forno muda por modelo. Na Let's Eat It, o cupom MAUAD dá 5% OFF em todas as formas de pagamento. Veja as regras por peça e a comparação com a Oxford abaixo."
         ]
       },
       {
         "heading": "Cerâmica, não porcelana: stoneware ou faiança",
         "paragraphs": [
-          "É cerâmica, não porcelana. A Porto Brasil faz louça de mesa de cerâmica em dois materiais: stoneware, também chamado de grês, nas linhas Bio, Orgânico, Coup Stoneware e Neo, entre outras, e faiança, nas linhas Coup, Roma e Madeleine, entre outras.",
+          "Para montar a mesa do dia a dia ou receber convidados, a Porto Brasil faz louça de cerâmica, não porcelana, em dois materiais que mudam o uso na cozinha: stoneware, também chamado de grês, nas linhas Bio, Orgânico, Coup Stoneware e Neo, entre outras, e faiança, nas linhas Coup, Roma e Madeleine, entre outras.",
           "Uma diferença técnica é quanto a cerâmica absorve de água. Na classificação aduaneira do órgão de fronteira do Canadá (CBSA), a porcelana absorve até 0,5% (medido pelo método ASTM C373) e é translúcida; o grês absorve até 3% e é opaco; a faiança absorve mais de 3% e é opaca e porosa. A Porto Brasil não informa o percentual de absorção das peças.",
           "Na prática, a Porto Brasil libera mais usos para o stoneware do que para a faiança, como mostra a tabela."
         ],
@@ -75407,11 +75408,11 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Micro-ondas, lava-louças, forno e freezer",
         "paragraphs": [
-          "As fichas liberam forno, micro-ondas e freezer para parte do stoneware, mas há exceções por produto. Não use só o nome do material para decidir: confira as indicações da peça.",
-          "“Variação térmica aconselhada” não é a temperatura máxima do forno. As fichas registravam variações de cerca de 180 °C ou 240 °C. No Aparelho de Jantar Bio Vanilla de 16 peças, a descrição indica forno até 180 °C e o campo de cuidados informa variação térmica de 240 °C: são duas indicações diferentes.",
+          "Mesmo dentro do stoneware, forno e freezer mudam por produto; não use só o nome do material para decidir e confira as indicações da página da peça.",
+          "“Variação térmica aconselhada” não é a temperatura máxima do forno. As especificações registravam variações de cerca de 180 °C ou 240 °C. No Aparelho de Jantar Bio Vanilla de 16 peças, a descrição indica forno até 180 °C e o campo de cuidados informa variação térmica de 240 °C: são duas indicações diferentes.",
           "Se a sua peça não tem limite de forno explícito, ou se as instruções de uso se contradizem, confirme com a fabricante antes de colocá-la no forno. Não converta variação térmica em limite de temperatura.",
           "Há exceções. Algumas peças de stoneware, como pratos de entrada, de sobremesa e de massa da linha Orgânico, xícaras de chá da linha Linhas e kits de canecas da Coup Stoneware, trazem \"não é recomendado usar no forno convencional\". Os conjuntos com aplicação de ouro não devem ir ao forno nem ao micro-ondas, e os de filamento de ouro também não vão à lava-louças.",
-          "Na faiança, as fichas liberam micro-ondas e lava-louças. Várias trazem \"não é recomendado usar no forno convencional\", a maior parte não fala de forno nem de freezer, e os kits Celebrar de 18 peças trazem \"Freezer: Não recomendado\"."
+          "Na faiança, as especificações liberam micro-ondas e lava-louças. Várias trazem \"não é recomendado usar no forno convencional\", a maior parte não fala de forno nem de freezer, e os kits Celebrar de 18 peças trazem \"Freezer: Não recomendado\"."
         ],
         "image": {
           "src": "/images/reviews/letseatit/porto-brasil-fichas-stoneware-faianca-uso.webp",
@@ -75423,6 +75424,9 @@ export const reviewsData: unknown[] = [
       },
       {
         "heading": "Cuidados que a própria marca pede",
+        "paragraphs": [
+          "Evitar choque térmico e contato direto com a chama é a principal regra da marca para preservar tanto o stoneware quanto a faiança."
+        ],
         "bullets": [
           "Não tire a peça quente do forno ou do micro-ondas direto para uma superfície fria, nem leve a peça do freezer direto para o forno: o choque térmico pode danificar a cerâmica.",
           "Não use a peça em contato direto com a chama.",
@@ -75447,14 +75451,14 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Garantia e reputação",
         "paragraphs": [
-          "A Porto Brasil dá 90 dias de garantia por defeito de fabricação e uma garantia separada contra gretamento, as rachaduras finas no esmalte, de 9 ou 12 meses, variando por produto.",
-          "No Reclame Aqui, a Porto Brasil Cerâmica tem reputação ÓTIMA, com nota 8,4 de 10 entre abril e setembro de 2026. Foram 110 reclamações, todas respondidas, e 84,3% resolvidas; o assunto mais citado é produto com defeito e pratos. Esses números medem o atendimento da fabricante, não a durabilidade das peças."
+          "A Porto Brasil dá 90 dias de garantia por defeito de fabricação e uma garantia separada contra gretamento, as rachaduras finas no esmalte, de 9 ou 12 meses, variando por produto."
         ]
       },
       {
         "heading": "Onde comprar a Porto Brasil",
         "paragraphs": [
-          "A Let's Eat It vende sobretudo o stoneware da [Porto Brasil](https://letseatit.com.br/collections/porto-brasil?utm_source=embaixador&utm_medium=emcasacomcecilia&utm_campaign=inbazz&utm_content=organico): quase todas as peças da marca no catálogo da loja são desse material. Confira o material e as indicações de uso na página de cada produto. Na última conferência, três aparelhos de 30 peças estavam disponíveis em pré-venda:"
+          "A Let's Eat It vende sobretudo o stoneware da [Porto Brasil](https://letseatit.com.br/collections/porto-brasil?utm_source=embaixador&utm_medium=emcasacomcecilia&utm_campaign=inbazz&utm_content=organico): quase todas as peças da marca no catálogo da loja são desse material. Para conferir CNPJ, entrega, reposição gratuita de avaria e atendimento da loja parceira, veja se a [Let's Eat It é confiável](/reviews/lets-eat-it-e-confiavel) e a análise da [Let's Eat It no Reclame Aqui](/reviews/lets-eat-it-reclame-aqui-nota-reputacao).",
+          "Confira o material e as indicações de uso na página de cada produto; na conferência do catálogo, três aparelhos de 30 peças estavam disponíveis em pré-venda:"
         ],
         "links": [
           {
@@ -75477,7 +75481,8 @@ export const reviewsData: unknown[] = [
           "[Petroleum Night Sky de 30 peças](https://letseatit.com.br/products/aparelho-de-jantar-stoneware-petroleum-night-sky-porto-brasil?utm_source=embaixador&utm_medium=emcasacomcecilia&utm_campaign=inbazz&utm_content=organico): R$ 798,00."
         ],
         "postParagraphs": [
-          "No site, o [cupom Let's Eat It](/cupons/letseatit) dá 5% de desconto com o código MAUAD, em todas as formas de pagamento, e soma com o desconto do Pix, com as promoções e com a pré-venda. Cole o código no campo “Código de desconto” do checkout. Os preços do restante do catálogo estão no nosso guia de Black Friday da loja."
+          "Conta nossa, pelo preço de vitrine dos aparelhos de 30 peças na loja com os 5% OFF do MAUAD (antes do frete e de eventual desconto do Pix): o Bio Latte sai cerca de R$ 24,66 por peça (ou R$ 123,32 por lugar para seis pessoas), e o Bio Oceano e o Petroleum Night Sky caem para R$ 758,10.",
+          "No site, o [cupom Let's Eat It](/cupons/letseatit) dá 5% de desconto com o código MAUAD, em todas as formas de pagamento, e soma com o desconto do Pix, com as promoções e com a pré-venda. Cole o código no campo “Código de desconto” do checkout, clique em “Aplicar” e confira a linha de desconto antes de pagar (o frete é calculado por CEP e peso, sem faixa de frete grátis publicada); os preços de outros itens estão no [guia de Black Friday da loja](/reviews/black-friday-letseatit)."
         ],
         "images": [
           {
@@ -75499,24 +75504,28 @@ export const reviewsData: unknown[] = [
         ]
       },
       {
-        "heading": "Veredito: o que a Porto Brasil entrega",
+        "heading": "Quando escolher a Porto Brasil para a sua mesa",
         "paragraphs": [
-          "Para escolher a Porto Brasil, procure primeiro as indicações do produto: forno e freezer mudam por peça, e os detalhes com ouro acrescentam restrições. A tabela ajuda a filtrar modelos.",
-          "Na comparação com a Oxford, há peças Porto Brasil com forno declarado, enquanto no catálogo Ryo e Unni essa indicação não aparece. Se forno é indispensável, escolha uma peça com autorização e limite claros. Para uso sem essa indicação, confirme com a fabricante antes da compra."
+          "A Porto Brasil vale a pena para quem monta mesa posta e quer louça de cerâmica com linhas claras por uso: o stoneware sem ouro atende bem micro-ondas e lava-louças e conta com peças liberadas para o forno, enquanto a faiança resolve quem serve à mesa sem precisar levar a peça ao forno convencional.",
+          "Na comparação com a Oxford, há peças Porto Brasil de stoneware com forno declarado, enquanto no catálogo Ryo e Unni essa indicação não aparece. Se o forno for indispensável, escolha um modelo com autorização e limite explícitos e, ao comprar na Let's Eat It, aplique o cupom MAUAD no checkout (5% OFF em todas as formas de pagamento) conferindo as regras na página do [cupom Let's Eat It](/cupons/letseatit)."
         ],
-        "emphasis": "O stoneware da Porto Brasil resolve quando a ficha da peça libera o forno; com ouro ou em faiança, trate como louça de mesa."
+        "emphasis": "Com certeza vale apostar na Porto Brasil para montar a mesa posta do dia a dia: vá de stoneware sem ouro se quiser mais liberdade entre lava-louças, micro-ondas e forno (conferindo o limite da peça), ou de faiança para servir à mesa, e use o cupom MAUAD na Let's Eat It para ganhar 5% OFF.",
+        "links": [
+          {
+            "label": "Ver o cupom Let's Eat It",
+            "href": "/cupons/letseatit"
+          }
+        ]
       },
       {
         "heading": "Perguntas frequentes",
         "bullets": [
-          "Qual é o cupom da Let's Eat It? É o MAUAD, com 5% OFF no site oficial da Let's Eat It, em todas as formas de pagamento. Cole no campo “Código de desconto” do checkout. Veja o [cupom Let's Eat It](/cupons/letseatit).",
-          "Porto Brasil é cerâmica ou porcelana? É cerâmica, não porcelana: stoneware (grês) e faiança, segundo a própria fabricante.",
-          "Porto Brasil vai no micro-ondas? Sim, na maior parte das peças de stoneware e de faiança, segundo as fichas; as peças com aplicação de ouro não vão.",
-          "Porto Brasil vai no forno? Só quando a ficha da peça autoriza esse uso. Parte do stoneware permite, mas há peças e conjuntos com ouro que não vão; na faiança, várias fichas não recomendam o forno. Confira também o limite explícito: variação térmica não é temperatura máxima do forno.",
-          "Porto Brasil vai na lava-louças? Sim, na maior parte das peças dos dois materiais; os conjuntos com filamento de ouro não vão.",
-          "Porto Brasil é de onde? A fábrica fica em Porto Ferreira (SP); a empresa foi aberta em 2006 e consta como ativa no cadastro público de CNPJ.",
-          "Porto Brasil ou Oxford: qual escolher? Compare o material e o uso da peça específica. Há stoneware da Porto Brasil com forno declarado, e o catálogo Oxford Ryo e Unni não traz essa indicação.",
-          "A Porto Brasil é confiável? Pelo Reclame Aqui, sim. A reputação é ÓTIMA: nota 8,4 de 10 no período analisado, com todas as 110 reclamações respondidas e 84,3% resolvidas. Isso mede o atendimento da fabricante, não a durabilidade das peças."
+          "A Porto Brasil é boa? Com certeza: a marca oferece linhas de stoneware resistentes para micro-ondas e lava-louças (com modelos também liberados para o forno) e linhas de faiança para a mesa do dia a dia, com garantia contra gretamento e 5% OFF usando o cupom MAUAD na Let's Eat It.",
+          "Qual é o cupom da Let's Eat It? É o MAUAD, com 5% OFF no site oficial da Let's Eat It, em todas as formas de pagamento, somando com promoções, pré-venda e Pix. Cole no campo “Código de desconto” do checkout e veja as regras na página do [cupom Let's Eat It](/cupons/letseatit).",
+          "Porto Brasil é cerâmica ou porcelana? É cerâmica, não porcelana: stoneware (grês) nas linhas como Bio, Orgânico e Neo, e faiança nas linhas como Coup, Roma e Madeleine.",
+          "Porto Brasil vai no micro-ondas e na lava-louças? Sim, na maior parte das peças de stoneware e de faiança, segundo as especificações da fabricante; as peças com aplicação ou filamento de ouro não devem ir.",
+          "Porto Brasil vai no forno? Só quando a página da peça autoriza esse uso com limite explícito. Parte do stoneware permite, mas peças e conjuntos com ouro, algumas canecas Coup Stoneware e várias linhas de faiança não recomendam forno convencional.",
+          "Porto Brasil ou Oxford: qual escolher? Compare o material e o uso da peça específica. Há stoneware da Porto Brasil com forno declarado, e o catálogo Oxford Ryo e Unni não traz essa indicação."
         ]
       }
     ],
@@ -75547,12 +75556,13 @@ export const reviewsData: unknown[] = [
     ],
     "decision": {
       "takeIf": [
-        "Leve o stoneware da Porto Brasil se quer louça que vai da mesa ao micro-ondas e à lava-louças, e confira a ficha da peça para o forno.",
-        "Leve a peça com forno declarado na ficha se você assa e serve no mesmo prato."
+        "Você quer louça de stoneware para o dia a dia com uso em micro-ondas e lava-louças, além de opções com forno declarado na página da peça.",
+        "Você monta mesa posta na Let's Eat It e quer aplicar o cupom MAUAD (5% OFF) em todas as formas de pagamento, inclusive sobre promoções e Pix."
       ],
       "skipIf": [
-        "Passe as peças com filete ou aplicação de ouro se elas vão ao micro-ondas ou ao forno: essas não vão.",
-        "Passe a faiança se o forno é essencial: várias fichas não recomendam o forno convencional."
+        "Você quer peças com filete ou aplicação de ouro para levar ao micro-ondas, ao forno ou à lava-louças, pois esses acabamentos têm restrição.",
+        "Você precisa assar direto na louça com frequência e escolheu uma linha de faiança sem liberação de forno.",
+        "Você procura a leveza translúcida da porcelana fina, já que a Porto Brasil fabrica cerâmica (stoneware e faiança)."
       ]
     }
   },
@@ -75880,7 +75890,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Resposta rápida",
         "paragraphs": [
-          "Vale para quem usa panela de ferro fundido no fogão, inclusive na indução, e no forno, e aceita os cuidados com o esmalte. Ela não vai ao micro-ondas, e a garantia vitalícia não cobre choque térmico nem queda. No site da Let's Eat It, o [cupom Let's Eat It](/cupons/letseatit) MAUAD dá 5% OFF."
+          "Vale a pena, sim, para quem cozinha com ferro fundido no fogão e no forno, inclusive na indução, e aceita os cuidados com o esmalte. Ela não vai ao micro-ondas, e a garantia vitalícia não cobre choque térmico nem queda, detalhes explicados abaixo. Na Let's Eat It, o [cupom Let's Eat It](/cupons/letseatit) MAUAD dá 5% OFF."
         ]
       },
       {
@@ -77149,7 +77159,7 @@ export const reviewsData: unknown[] = [
     "id": 362,
     "slug": "insider-vale-a-pena",
     "title": "Insider vale a pena? O que a marca entrega, quanto custa e para quem compensa",
-    "seoTitle": "Insider vale a pena? Tech, cuecas, linha feminina e cupom",
+    "seoTitle": "Insider vale a pena? Tech, cuecas e linha feminina",
     "type": "Guia de Marca",
     "category": "guias-praticos-utilidade",
     "reviewKind": "guia",
@@ -77160,7 +77170,7 @@ export const reviewsData: unknown[] = [
       "initials": "CM",
       "url": "/sobre"
     },
-    "description": "O que a Insider vende, o que a Tech T-Shirt garante por escrito, quanto custa com o cupom EMCASACOMCECILIA, onde comprar, troca e reputação: para quem a marca compensa.",
+    "description": "O que a Insider vende, o que a Tech T-Shirt garante por escrito, quanto custa com o cupom EMCASACOMCECILIA, onde comprar, troca e confiança: para quem a marca compensa.",
     "metaDescription": "O cupom EMCASACOMCECILIA dá 15% OFF na Insider. Vale a pena? O que a marca vende, a garantia da Tech T-Shirt, onde comprar e as regras de troca.",
     "publishedAt": "12 de outubro de 2026",
     "publishedAtISO": "2026-10-12",
@@ -77177,7 +77187,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Resposta rápida",
         "paragraphs": [
-          "Vale para quem quer camiseta de modal com garantia de cor por escrito e troca sem custo, e topa pagar mais por isso. O [cupom Insider](/cupons/insider) EMCASACOMCECILIA tira 15% OFF na loja online, em todas as formas de pagamento. Na cueca e na linha feminina, a escolha é pelo modelo, e cada uma tem o seu guia abaixo."
+          "Vale, sim, para quem quer camiseta de modal com garantia de cor por escrito e troca gratuita, e aceita pagar mais por isso. O [cupom Insider](/cupons/insider) EMCASACOMCECILIA dá 15% OFF na loja online, em todas as formas de pagamento. Na cueca e na linha feminina, a escolha muda pelo modelo, detalhado abaixo."
         ]
       },
       {
@@ -77305,8 +77315,8 @@ export const reviewsData: unknown[] = [
       {
         "heading": "A Insider é confiável?",
         "paragraphs": [
-          "É. A empresa tem CNPJ ativo, troca sem custo e a reputação mais alta do Reclame Aqui, a RA1000. O ponto de atenção é a entrega, onde está a maior parte das reclamações: acompanhe o rastreio e chame o atendimento, que é só por WhatsApp, com o número do pedido, assim que o prazo vencer.",
-          "Cupom vazado em site de cupons pode ter o pedido cancelado; o EMCASACOMCECILIA é do programa oficial de criadores da marca. Os detalhes estão em [Insider Store é confiável?](/reviews/insider-store-e-confiavel) e em [Insider Store no Reclame Aqui](/reviews/insider-store-reclame-aqui-nota-reputacao)."
+          "Sim: a Insider Comércio e Confecção de Peças do Vestuário Ltda. tem CNPJ ativo (26.520.188/0001-92) em São Paulo, garantia de cor de 2 anos por escrito na Tech T-Shirt e troca gratuita na compra online nos itens elegíveis. Para acompanhar a entrega, guarde o número do pedido e acione o atendimento oficial, que funciona só por WhatsApp.",
+          "Cupom vazado em site de cupons pode ter o pedido cancelado; o EMCASACOMCECILIA é do programa oficial de criadores da marca. Os detalhes de empresa, loja física e garantias estão em [Insider Store é confiável?](/reviews/insider-store-e-confiavel). Para acompanhar como a marca responde aos clientes no pós-venda, veja a [reputação da Insider Store no Reclame Aqui](/reviews/insider-store-reclame-aqui-nota-reputacao)."
         ]
       },
       {
@@ -77335,7 +77345,7 @@ export const reviewsData: unknown[] = [
         "bullets": [
           "Insider vale a pena? Vale para quem quer camiseta de modal com garantia de 2 anos contra desbotamento e troca sem custo, e aceita pagar mais por isso; o cupom EMCASACOMCECILIA tira 15% na loja online.",
           "Qual é o cupom da Insider? É o EMCASACOMCECILIA, com 15% OFF no site oficial da Insider, sem valor mínimo e em todas as formas de pagamento. Não vale em lançamentos, na loja física, no Mercado Livre nem em pedido pago com saldo de gift card, e a loja aceita um cupom por pedido.",
-          "A Insider é confiável? É: tem CNPJ ativo, troca gratuita e a reputação RA1000 no Reclame Aqui, e a reclamação mais comum é a entrega. Os detalhes estão no capítulo \"A Insider é confiável?\".",
+          "A Insider é confiável? Sim: tem CNPJ ativo em São Paulo, garantia de cor por escrito na Tech T-Shirt, troca gratuita na compra online e atendimento oficial por WhatsApp. Os detalhes estão no capítulo \"A Insider é confiável?\".",
           "A Tech T-Shirt tem garantia e é de quê? É de 92% modal e 8% elastano, exceto a cor Índigo (62% modal, 30% viscose e 8% elastano), segundo a página do produto. A garantia por escrito é de 2 anos contra desbotamento, seguindo a etiqueta e considerando uma lavagem por semana; antiodor e \"desamassa no corpo\" são promessas da marca, sem garantia por trás.",
           "Tech, Daily ou Core: qual é a diferença? A Tech é de modal; a Daily e a Core são de viscose, e a Core é mais encorpada, segundo a marca. O guia das camisetas compara as linhas.",
           "A Insider tem frete grátis? Tem, a partir de R$ 399, calculado depois do desconto do cupom.",
@@ -98126,20 +98136,18 @@ export const reviewsData: unknown[] = [
     "imageAlt": "Composição promocional oficial da Lejour com um casal em uma moldura orgânica.",
     "imageFit": "contain",
     "imageAspect": "landscape",
-    "pros": [
-      "Criar a lista no plano Basic é grátis, então não custa nada abrir agora",
-      "Premium e Pro são pagos uma única vez e valem para sempre, à vista ou em até 12x",
-      "Na Black November, o Premium sai a R$ 49,95 e o Pro, a R$ 99,95",
-      "Novos casais elegíveis têm taxa de 1,99% na semana da Black Friday",
-      "O crédito da lista pode virar Pix ou produtos da Fast Shop, com cashback mínimo de 4%"
-    ],
-    "cons": [
-      "O BLACK50 no site é aplicado à mão, e a soma das ofertas depende do regulamento da Lejour",
-      "A taxa de 1,99% é só para novos casais elegíveis e só na Black Week",
-      "Os períodos e as regras das ofertas de 2025 não foram divulgados",
-      "Pela taxa padrão, o Premium só compensa a partir de cerca de R$ 8.325 em presentes, mesmo a R$ 49,95",
-      "O link da Cecília é só uma indicação, sem desconto"
-    ],
+    "pros": [],
+    "cons": [],
+    "decision": {
+      "takeIf": [
+        "Você já pretende assinar o Premium ou o Pro pelo domínio incluso e pelos saques ilimitados.",
+        "A estimativa de presentes da lista supera o ponto de equilíbrio em que a redução da taxa paga o plano."
+      ],
+      "skipIf": [
+        "Os convidados vão pagar a taxa e você não precisa de domínio próprio nem de mais de dois saques gratuitos.",
+        "A lista é menor e o Basic gratuito já atende sem custos extras."
+      ]
+    },
     "cta": {
       "text": "Crie o site e a lista grátis no plano Basic.",
       "label": "Criar a lista na Lejour",
@@ -98166,7 +98174,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Resposta rápida: Black Friday Lejour 2026",
         "paragraphs": [
-          "A Black November da Lejour vai até 30 de novembro, com Premium e Pro pela metade: o código BLACK50 vale no site, e o app já mostra o desconto. Na semana da Black Friday, novos casais elegíveis têm taxa de 1,99% na lista. O nosso link é só indicação, sem desconto."
+          "Sim, a Black Friday da Lejour compensa para quem quer assinar Premium ou Pro pela metade, com o código BLACK50 no site e desconto direto no app durante novembro. Na Black Week, novos casais elegíveis têm taxa de 1,99%. Veja abaixo quando o plano se paga; nosso link é só indicação."
         ]
       },
       {
@@ -98334,7 +98342,7 @@ export const reviewsData: unknown[] = [
         "bullets": [
           "Quando começa e quanto dura a Black Friday da Lejour? A Black November vai o mês inteiro, com planos e adicionais com 50% OFF. A taxa promocional da lista vale só na Black Week, a semana da Black Friday.",
           "Como uso o BLACK50? No site, aplique o código nos planos Premium ou Pro e nos adicionais elegíveis, na hora de pagar. No app, o desconto já aparece no valor, sem código. O BLACK50 é da própria Lejour, não do Em Casa com Cecília.",
-          "Vale assinar o Premium na Black November? Depende da lista. Com o Premium a R$ 49,95, ele compensa a partir de cerca de R$ 8.325 em presentes, pela nossa conta com as taxas padrão; a conta completa está na seção sobre o Premium.",
+          "Vale assinar o Premium na Black November? Compensa quando a lista passa de cerca de R$ 8.325 em presentes, pelas taxas padrão: com o Premium a R$ 49,95, a redução da taxa paga o plano; a conta completa está na seção sobre o Premium.",
           "A taxa da lista fica menor na Black Friday? Para novos casais elegíveis, a Lejour anuncia 1,99% na Black Week, e diz que vale para toda a vida da lista. A taxa padrão é de 3,89% no Basic, 3,29% no Premium e 2,99% no Pro. A elegibilidade e a soma com outras ofertas seguem o regulamento da Lejour.",
           "Quanto a taxa pesa numa lista de R$ 20.000? No Basic, R$ 778,00; no Premium, R$ 658,00; no Pro, R$ 598,00, pelas taxas da tabela. As contas são nossas, e valem quando o casal paga a taxa.",
           "O 50% OFF vale para uma lista já criada? A página cita novos casais elegíveis só na taxa promocional, mas confira no painel da sua lista se o preço de campanha aparece antes de assinar.",
@@ -144902,8 +144910,8 @@ export const reviewsData: unknown[] = [
         "Considere a avulsa se quer apenas uma camiseta. Para três peças, compare também o kit Essenciais, que permite escolher e repetir cores."
       ],
       "skipIf": [
-        "Passe nesta camiseta se você procura corte regular ou baby look: o catálogo só tem oversized.",
-        "Passe se você decide a compra por toque, caimento ou gramatura: a loja não informa a gramatura e não há opinião nossa sobre a peça."
+        "Passe se você procura modelagem baby look ou tamanho acima do G: os dois modelos vão do P ao G e não há baby look no catálogo.",
+        "Passe se você decide pela gramatura da malha, dado que a loja não publica nas fichas, ou se busca cores além das 10 da oversized e das 3 da Comfort."
       ]
     },
     "pros": [],
@@ -144932,7 +144940,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Resposta rápida",
         "paragraphs": [
-          "A Cléa Store tem dois modelos de camiseta: a oversized de algodão penteado, avulsa ou em kit de três, e a Comfort de algodão peruano, de caimento regular. Toque e durabilidade ficam sem opinião: o guia responde só pelo que a loja publica. O CSEMCASACOMCECILIA dá 10% OFF no site, e soma com as promoções."
+          "Vale, sim, para quem busca camiseta de algodão no dia a dia, a Cléa Store traz a oversized de algodão penteado, avulsa ou em kits de três em dez cores, e a Comfort de algodão peruano com caimento regular. O cupom CSEMCASACOMCECILIA dá 10% OFF no site e soma com promoções. Compare abaixo medidas e custo por peça."
         ]
       },
       {
@@ -145145,7 +145153,7 @@ export const reviewsData: unknown[] = [
         "emphasis": "Se eu quisesse três camisetas, começaria comparando o kit Essenciais, que permite escolher e repetir as cores. Só o levaria se o preço por peça ficasse menor que o da avulsa no mesmo dia. Para uma única peça, escolheria a avulsa.",
         "emphasisAfterParagraph": 1,
         "paragraphs": [
-          "A composição e o corte ajudam a filtrar a escolha, mas não respondem como a peça veste ou resiste às lavagens. Confira o tamanho no guia de medidas já indicado e compare a combinação de cores e o preço por peça antes de decidir."
+          "A composição, o corte e o preço por peça definem a escolha entre oversized e Comfort. Confira o tamanho no guia de medidas já indicado e compare a combinação de cores antes de decidir."
         ],
         "bullets": [
           "**Uma camiseta:** compare a cor e o tamanho da [T-Shirts Oversized Algodão](https://www.cleastore.com.br/produto/t-shirts-oversized-algodao-4189).",
@@ -145160,7 +145168,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Perguntas frequentes",
         "bullets": [
-          "Camiseta Cléa Store é boa? Pela ficha, dá para comparar: a oversized tem corpo de algodão penteado, gola com elastano e corte amplo, e a Comfort tem algodão peruano e caimento regular. Como a peça veste e resiste às lavagens não está na ficha; a comparação deste guia é de composição, cores, medidas e preço.",
+          "Camiseta Cléa Store é boa? Vale, sim, para quem busca camisetas 100% algodão no corpo: a oversized traz algodão penteado em corte amplo e opção de kits, enquanto a Comfort usa algodão peruano em caimento regular. Confira medidas e preço por peça nas tabelas acima.",
           "Kit camiseta Cléa Store vale a pena? Compare o preço do kit dividido por três com o preço da avulsa no mesmo dia. Nos valores de lista da tabela, não havia economia. O cupom também vale nas promoções; o kit só compensa pelo preço se o custo por peça ficar menor e você quiser três camisetas.",
           "A Cléa Store tem camiseta básica? Tem, e a \"básica\" da loja é a oversized, de corte amplo. Para corte regular, há a Comfort de algodão peruano. Baby look não aparece no catálogo.",
           "Como lavar a camiseta Cléa Store? Segundo a loja, até 30 °C, com sabão para roupa delicada, sem alvejante, secando no varal e passando até 150 °C.",
@@ -148672,7 +148680,7 @@ export const reviewsData: unknown[] = [
   {
     "id": 610,
     "slug": "pre-treino-exquenta-mais-mu-e-bom",
-    "title": "Exquenta Mais Mu: o que o rótulo mostra em cada sabor, sachê e versão sem cafeína",
+    "title": "Pré-treino Exquenta Mais Mu é bom? Sabores, sachê, versão sem cafeína e dose",
     "seoTitle": "Exquenta Mais Mu: cafeína, taurina e preço por dose",
     "type": "Guia de Escolha",
     "category": "guias-praticos-utilidade",
@@ -148699,7 +148707,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Resposta rápida",
         "paragraphs": [
-          "Pelo rótulo, os potes de 300 g e 500 g e os sachês lidos do Exquenta trazem 150 mg de cafeína por dose de 20 g; o que separa as embalagens é o preço por dose. O pote de 500 g sai mais barato que o de 300 g. O código MMEMCASACOMCECILIA dá 10% no site da Mais Mu."
+          "Compensa, sim, para quem busca pré-treino com 150 mg de cafeína por dose de 20 g nos potes e sachês, ou versão sem cafeína. O pote de 500 g reduz o custo por dose entre as opções com cafeína, e o cupom MMEMCASACOMCECILIA dá 10% OFF na Mais Mu, somando com o Pix; compare sabores e preços abaixo."
         ]
       },
       {
@@ -148931,7 +148939,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Quanto custa cada dose",
         "paragraphs": [
-          "A conta é o preço de venda dividido pelas doses do pote. “Com o cupom” tira 10% do subtotal; “no Pix” usa o valor de Pix da página, sem somar o cupom. A combinação dos dois vem depois da lista."
+          "Conta nossa: dividimos o preço de venda pelas doses do pote. “Com o cupom” tira 10% do subtotal; “no Pix” usa o valor de Pix da página, sem somar o cupom. A combinação dos dois vem depois da lista."
         ],
         "bullets": [
           "**Pote de 300 g (15 doses, de R$ 129,00 por R$ 96,75):** R$ 6,45 por dose; R$ 5,81 com o cupom; R$ 6,26 no Pix.",
@@ -148943,7 +148951,7 @@ export const reviewsData: unknown[] = [
         ],
         "postParagraphs": [
           "Com o cupom e o Pix somados, a conta dá R$ 3,14 por dose no pote de 500 g de R$ 89,99, R$ 4,40 no de 500 g de R$ 125,99 e R$ 5,63 no de 300 g. O cupom é válido em todas as formas de pagamento, inclusive no Pix.",
-          "Os combos com creatina ficam fora desta conta, porque somam a creatina ao preço e a loja não separa o do Exquenta. Fora da conta: o pote de 1 kg de Amora e Melancia, que a loja vende como próximo do vencimento e sem contagem de doses, os Sem Cafeína de 500 g de Pink Lemonade e de Amora e Melancia e o Nitrato com cafeína de 450 g; confira as doses na página de cada um."
+          "Os combos com creatina ficam fora desta conta, porque somam a creatina ao preço e a loja não separa o do Exquenta. Também não entram o pote de 1 kg de Amora e Melancia, que a loja vende como próximo do vencimento e sem contagem de doses, os Sem Cafeína de 500 g de Pink Lemonade e de Amora e Melancia e o Nitrato com cafeína de 450 g; confira as doses na página de cada um."
         ]
       },
       {
@@ -149012,7 +149020,7 @@ export const reviewsData: unknown[] = [
         "heading": "Perguntas frequentes",
         "bullets": [
           "Qual é o cupom da Mais Mu? O cupom da Mais Mu da nossa parceria é MMEMCASACOMCECILIA, com 10% OFF no site oficial, em todas as formas de pagamento. Ele soma com os 3% do Pix.",
-          "O Exquenta é bom? Pelo rótulo, é um pré-treino com 150 mg de cafeína, 400 mg ou 500 mg de taurina e 16 g de açúcares adicionados por dose de 20 g. Pelo preço, o pote de 500 g tem a dose mais barata entre os potes de 300 g e 500 g e os sachês.",
+          "O Exquenta é bom? Compensa, sim, para quem busca pré-treino com 150 mg de cafeína, 400 mg ou 500 mg de taurina e 16 g de açúcares adicionados por dose de 20 g, além das versões sem cafeína; pelo preço, o pote de 500 g traz a dose mais barata entre os potes de 300 g e 500 g e os sachês.",
           "Tem Exquenta sem cafeína? Tem. Este guia leu o rótulo do Sem Cafeína Tropical 450 g e do Nitrato Laranja e Acerola 450 g, e a tabela de cada um não traz linha de cafeína. A loja também vende o Sem Cafeína em pote de 500 g.",
           "Quanta cafeína tem por dose? 150 mg por dose de 20 g nos potes de 300 g e 500 g e nos sachês, pela tabela da loja.",
           "Como tomar o Exquenta? A loja informa porção de 20 g: 4 medidas em 200 ml no pote de 300 g, 2 medidas em 200 ml no de 500 g e um sachê em 200 ml. Nos de 450 g, a porção é de 30 g. Dose, frequência e horário para cada pessoa são com médico ou nutricionista.",
@@ -167139,7 +167147,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Resposta rápida",
         "paragraphs": [
-          "O Criador com IA da Hostinger, o antigo Horizons, vale a pena para quem quer um site ou um app web simples sem programar e aceita que a IA monte a primeira versão. Quem precisa de plugins, tema próprio e controle total segue melhor no WordPress. O SONAR20 dá 20% na compra nova do plano, não na renovação."
+          "Com certeza compensa para quem quer publicar um site ou app web simples sem programar e aceita que a IA monte a primeira versão: já quem precisa de plugins, tema próprio e controle total se dá melhor no WordPress. O SONAR20 dá 20% OFF na compra nova, e a renovação segue a tabela."
         ]
       },
       {
@@ -167446,7 +167454,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Quick answer",
         "paragraphs": [
-          "Hostinger's AI Builder, the former Horizons, is worth it if you want a simple website or web app without coding and you're fine with the AI building the first version. If you need plugins, your own theme and full control, WordPress is the better fit. SONAR20 gives 20% off a new plan purchase, not a renewal."
+          "Definitely worth it if you want to publish a simple website or web app without coding and are fine with the AI building the first version, whereas anyone who needs plugins, a custom theme and full control is better off with WordPress. SONAR20 takes 20% off a new purchase, and renewals follow the list price."
         ]
       },
       {
@@ -167705,7 +167713,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Respuesta rápida",
         "paragraphs": [
-          "El creador con IA de Hostinger, el antiguo Horizons, vale la pena si quieres una web o una app web sencilla sin programar y aceptas que la IA monte la primera versión. Si necesitas plugins, un tema propio y control total, WordPress te conviene más. SONAR20 da 20 % en la compra nueva del plan, no en la renovación."
+          "Por supuesto que vale la pena para quien quiere publicar una web o una app web sencilla sin programar y acepta que la IA monte la primera versión; en cambio, quien necesita plugins, tema propio y control total está mejor en WordPress. SONAR20 da un 20 % de descuento en la compra nueva, y la renovación sigue el precio de lista."
         ]
       },
       {
@@ -167964,7 +167972,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Réponse rapide",
         "paragraphs": [
-          "Le créateur IA de Hostinger, l'ancien Horizons, vaut le coup pour qui veut un site ou une appli web simple sans coder et accepte que l'IA monte la première version. Qui a besoin de plugins, d'un thème à soi et d'un contrôle total est mieux sur WordPress. SONAR20 donne 20 % sur le nouvel achat du forfait, pas au renouvellement."
+          "Bien sûr, il vaut le coup pour qui veut publier un site ou une appli web simple sans coder et accepte que l'IA monte la première version, tandis que ceux qui ont besoin de plugins, d'un thème sur mesure et d'un contrôle total sont mieux sur WordPress. SONAR20 offre 20 % sur un nouvel achat, et le renouvellement suit le prix catalogue."
         ]
       },
       {
@@ -168223,7 +168231,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Risposta rapida",
         "paragraphs": [
-          "L'AI Builder di Hostinger, l'ex Horizons, conviene a chi vuole un sito o un'app web semplici senza programmare e accetta che sia l'IA a montare la prima versione. Chi ha bisogno di plugin, di un tema proprio e del pieno controllo sta meglio su WordPress. Il codice SONAR20 dà il 20% sull'acquisto nuovo del piano, non sul rinnovo."
+          "Certo, conviene a chi vuole pubblicare un sito o un'app web semplici senza programmare e accetta che l'IA costruisca la prima versione, mentre chi ha bisogno di plugin, di un tema proprio e del pieno controllo si trova meglio su WordPress. SONAR20 dà il 20% di sconto sul nuovo acquisto, e il rinnovo segue il listino."
         ]
       },
       {
@@ -168482,7 +168490,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Kurze Antwort",
         "paragraphs": [
-          "Der KI-Builder von Hostinger, das frühere Horizons, lohnt sich für alle, die eine einfache Website oder Web-App ohne Programmieren wollen und akzeptieren, dass die KI die erste Version baut. Wer Plugins, ein eigenes Theme und volle Kontrolle braucht, ist mit WordPress besser bedient. Der Code SONAR20 gibt 20 % auf den Neukauf des Tarifs, nicht auf die Verlängerung."
+          "Auf jeden Fall lohnt er sich für alle, die ohne Programmieren eine einfache Website oder Web-App veröffentlichen möchten und akzeptieren, dass die KI die erste Version baut; wer hingegen Plugins, ein eigenes Theme und volle Kontrolle braucht, fährt mit WordPress besser. SONAR20 spart 20 % beim Neukauf, und die Verlängerung folgt dem Listenpreis."
         ]
       },
       {
@@ -168741,7 +168749,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "クイックアンサー",
         "paragraphs": [
-          "Hostinger の AI Builder（旧 Horizons）は、プログラミングなしでシンプルなサイトや Web アプリを作りたく、最初のバージョンを AI に任せてよい人に向いています。プラグイン、独自テーマ、完全な制御が必要なら WordPress のほうが向いています。SONAR20 でプランの新規購入が 20% オフになります（更新は対象外）。"
+          "もちろん選ぶ価値があります。プログラミングなしでシンプルなサイトや Web アプリを公開したく、最初のバージョンを AI に任せてよい人に向いています。一方、プラグインや独自テーマ、完全な制御が必要なら WordPress のほうが合います。SONAR20 は新規購入で 20% オフになり、更新時は通常料金です。"
         ]
       },
       {
@@ -168999,7 +169007,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "빠른 답변",
         "paragraphs": [
-          "Hostinger의 AI Builder(구 Horizons)는 코딩 없이 간단한 사이트나 웹 앱을 만들고 싶고, 첫 버전은 AI가 만들어도 괜찮은 사람에게 맞습니다. 플러그인, 직접 고른 테마, 완전한 제어가 필요하면 WordPress가 낫습니다. SONAR20 코드는 플랜 신규 구매에 20% 할인을 주며, 갱신에는 적용되지 않습니다."
+          "물론입니다. 코딩 없이 간단한 사이트나 웹 앱을 게시하고 싶고 첫 버전은 AI가 만들어도 괜찮은 분에게 잘 맞습니다. 반면 플러그인과 직접 고른 테마, 완전한 제어가 필요하다면 WordPress가 낫습니다. SONAR20은 신규 구매 시 20% 할인이 적용되며, 갱신은 정가를 따릅니다."
         ]
       },
       {
@@ -169258,7 +169266,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "快速回答",
         "paragraphs": [
-          "Hostinger 的 AI Builder（原 Horizons）适合想不写代码就做一个简单网站或 Web 应用、也接受由 AI 搭出第一版的人。需要插件、自己的主题和完全控制的，还是 WordPress 更合适。SONAR20 可让新购套餐享 20% 折扣，续费不适用。"
+          "当然值得：只要想不写代码就上线一个简单网站或 Web 应用、也接受由 AI 搭出第一版，它就很合适；但如果需要插件、自己的主题和完全控制，选 WordPress 会更好。SONAR20 可让新购享 20% 折扣，续费则按标价计算。"
         ]
       },
       {
@@ -169517,7 +169525,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "快速回答",
         "paragraphs": [
-          "Hostinger 的 AI Builder（原 Horizons）適合想不寫程式就做一個簡單網站或 Web 應用程式、也接受由 AI 搭出第一版的人。需要外掛、自己的主題和完全控制的，還是 WordPress 比較合適。SONAR20 可讓新購方案享 20% 折扣，續訂不適用。"
+          "當然值得：只要想不寫程式就上線一個簡單網站或 Web 應用程式、也接受由 AI 搭出第一版，它就很合適；但若需要外掛、自己的主題和完全控制，選 WordPress 會更好。SONAR20 可讓新購享 20% 折扣，續訂則按定價計算。"
         ]
       },
       {
@@ -178324,7 +178332,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Resposta rápida",
         "paragraphs": [
-          "As três malas de policarbonato da tabela custam de 3,2 a 6 vezes a Detroit de ABS, sem ganhar litros e pesando mais; a única em estoque, a Nova Bahamas, custa 4 vezes. As fichas não comparam a resistência. O CECILIA10 dá 10% OFF em todo o site."
+          "A mala de ABS vence pelo menor preço por litro e a de polipropileno em leveza e volume, enquanto as de policarbonato da tabela pesam mais sem ganhar litros e custam bem mais. Como as fichas não comparam resistência, veja a tabela e os critérios abaixo; o CECILIA10 dá 10% OFF na Bagaggio."
         ]
       },
       {
@@ -178536,8 +178544,8 @@ export const reviewsData: unknown[] = [
     "id": 707,
     "slug": "bagaggio-e-boa-malas-mochilas",
     "locale": "pt",
-    "title": "Bagaggio é boa? Malas, mochilas e bolsas pelo que a loja informa",
-    "seoTitle": "Bagaggio é boa? Malas, mochilas, bolsas e garantia",
+    "title": "Bagaggio é boa? Malas, mochilas, garantia e cupom",
+    "seoTitle": "Bagaggio é boa? Malas, mochilas e garantia",
     "type": "Guia de Produto",
     "category": "guias-praticos-utilidade",
     "reviewKind": "guia",
@@ -178548,11 +178556,11 @@ export const reviewsData: unknown[] = [
       "initials": "CM",
       "url": "/sobre"
     },
-    "description": "O que a loja diz sobre malas, mochilas e bolsas: material, peso, medida, garantia e preço no cartão, e o que é a linha Travelcross no site da Bagaggio.",
-    "metaDescription": "O cupom CECILIA10 dá 10% OFF na Bagaggio. A marca é boa? Material, peso, garantia e preço das malas, mochilas e bolsas, e o que é a linha Travelcross.",
+    "description": "Veja para quem a Bagaggio vale a pena, compare malas de bordo, mochilas e bolsas por material e garantia, entenda a diferença da Travelcross e use o cupom CECILIA10.",
+    "metaDescription": "O cupom CECILIA10 dá 10% OFF na Bagaggio. Veja para quem a marca vale a pena, garantia vitalícia nas malas, mochilas e o recorte da Travelcross.",
     "publishedAt": "29 de outubro de 2026",
     "publishedAtISO": "2026-10-29",
-    "updatedAt": "2026-11-22",
+    "updatedAt": "2026-11-24",
     "draft": false,
     "isNew": false,
     "image": "/images/reviews/bagaggio/bagaggio-e-boa-malas-mochilas-capa-v2.webp",
@@ -178563,13 +178571,20 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Resposta rápida",
         "paragraphs": [
-          "Depende do produto. Nas malas da marca, a página traz garantia vitalícia com regulamento e medidas completas; nas mochilas e bolsas, a garantia tem prazo e falta em parte das linhas; a Downtown PP e a Mochila Tech constam como Travelcross no cadastro da loja. O CECILIA10 dá 10% OFF em todo o site, com um cupom por pedido."
+          "Vale a pena, sim, principalmente para quem procura malas da marca Bagaggio com garantia vitalícia sujeita a regulamento, além de opções em ABS, polipropileno, policarbonato, mochilas e bolsas. O cupom CECILIA10 dá 10% OFF em todo o site e em todas as formas de pagamento. Compare abaixo linhas, garantias e a diferença da Travelcross."
+        ]
+      },
+      {
+        "heading": "Quem é a Bagaggio: origem, catálogo e onde ver a reputação",
+        "paragraphs": [
+          "No mercado desde 1942, a Bagaggio combina lojas físicas e e-commerce com malas de bordo e de viagem, mochilas, bolsas, carteiras, térmicos, acessórios de viagem e personalizáveis. Na vitrine online, além dos itens da marca própria Bagaggio, a loja também vende produtos cadastrados em marcas parceiras como a Travelcross.",
+          "Para conferir CNPJ, políticas de entrega e troca e as notas recentes de atendimento, acesse se a [Bagaggio é confiável](/reviews/bagaggio-e-confiavel) e a análise da [Bagaggio no Reclame Aqui](/reviews/bagaggio-reclame-aqui-nota-reputacao)."
         ]
       },
       {
         "heading": "Malas, mochilas e bolsas lado a lado",
         "paragraphs": [
-          "A loja informa material, peso, medidas e garantia de cada produto. A bolsa Vegas estava sem estoque quando conferimos."
+          "Para comparar rápido por categoria, a tabela reúne material, preço de cartão e garantia informada na página de cada item; a bolsa Vegas aparecia sem estoque na consulta."
         ],
         "comparisonTable": {
           "headers": [
@@ -178645,7 +178660,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Malas: o que a marca informa",
         "paragraphs": [
-          "Quando conferimos, as malas da marca Bagaggio em estoque iam de R$ 249,90, na [Mala de Bordo Detroit Preta](https://www.bagaggio.com.br/mala-de-bordo-10-kg-abs-4-rodas-detroit-preta/p?utm_source=creators&utm_medium=emcasacomcecilia&utm_campaign=inbazz), a R$ 1.999,90, na [Kyoto Trunk Bronze](https://www.bagaggio.com.br/mala-de-viagem-grande-ultra-ampla-policarbonato-4-rodas-kyoto-trunk-bronze/p?utm_source=creators&utm_medium=emcasacomcecilia&utm_campaign=inbazz), de policarbonato. Fica fora dessa faixa uma mala elétrica com patinete, a BG Motion.",
+          "Entre as malas da marca Bagaggio em estoque, os preços iam de R$ 249,90, na [Mala de Bordo Detroit Preta](https://www.bagaggio.com.br/mala-de-bordo-10-kg-abs-4-rodas-detroit-preta/p?utm_source=creators&utm_medium=emcasacomcecilia&utm_campaign=inbazz), a R$ 1.999,90, na [Kyoto Trunk Bronze](https://www.bagaggio.com.br/mala-de-viagem-grande-ultra-ampla-policarbonato-4-rodas-kyoto-trunk-bronze/p?utm_source=creators&utm_medium=emcasacomcecilia&utm_campaign=inbazz), de policarbonato. Fica fora dessa faixa uma mala elétrica com patinete, a BG Motion.",
           "A Detroit é de ABS, a Route de polipropileno e a Nova Bahamas de policarbonato, segundo as fichas. As três têm 55 cm de altura com as rodas. Para comparar com a regra da sua companhia aérea, confirme a medida total com rodas e alças."
         ],
         "bullets": [
@@ -178661,7 +178676,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Mochilas: poliéster, couro e garantia com prazo",
         "paragraphs": [
-          "As mochilas de notebook vão de R$ 79,90, na [Mochila Slim Horizonte](https://www.bagaggio.com.br/mochila-masculina-executiva-para-notebook-horizonte/p?utm_source=creators&utm_medium=emcasacomcecilia&utm_campaign=inbazz), a R$ 699,90, na [Mochila de Couro Joá Café](https://www.bagaggio.com.br/mochila-masculina-executiva-de-couro-para-notebook-joa-cafe/p?utm_source=creators&utm_medium=emcasacomcecilia&utm_campaign=inbazz). A Horizonte estava sem estoque quando conferimos; em estoque, a mais barata é a [Antifurto Urban](https://www.bagaggio.com.br/mochila-masculina-executiva-para-notebook-antifurto-urban-cinza/p?utm_source=creators&utm_medium=emcasacomcecilia&utm_campaign=inbazz), a R$ 129,90.",
+          "As mochilas de notebook vão de R$ 79,90, na [Mochila Slim Horizonte](https://www.bagaggio.com.br/mochila-masculina-executiva-para-notebook-horizonte/p?utm_source=creators&utm_medium=emcasacomcecilia&utm_campaign=inbazz), a R$ 699,90, na [Mochila de Couro Joá Café](https://www.bagaggio.com.br/mochila-masculina-executiva-de-couro-para-notebook-joa-cafe/p?utm_source=creators&utm_medium=emcasacomcecilia&utm_campaign=inbazz). Na consulta ao catálogo, a Horizonte aparecia sem estoque, e a opção disponível mais barata era a [Antifurto Urban](https://www.bagaggio.com.br/mochila-masculina-executiva-para-notebook-antifurto-urban-cinza/p?utm_source=creators&utm_medium=emcasacomcecilia&utm_campaign=inbazz), a R$ 129,90.",
           "A Horizonte é de poliéster, mede 45 x 39 x 11 cm, tem 19,3 L, pesa 0,46 kg e não tem rodas. A descrição cita compartimento para notebook de até 15,6 polegadas, bolso frontal com zíper e alças ajustáveis. A Joá, de couro, pesa 0,44 kg e traz compartimento para notebook de 16 polegadas. Confirme com a loja o compartimento do modelo e da cor escolhidos, porque medidas externas não garantem que o computador caiba."
         ],
         "postParagraphs": [
@@ -178679,7 +178694,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Bolsas de viagem: o essencial",
         "paragraphs": [
-          "Entre as bolsas de viagem, a [Bolsa de Viagem Média Vegas Preta](https://www.bagaggio.com.br/bolsa-de-viagem-masculina-media-vegas-preta/p?utm_source=creators&utm_medium=emcasacomcecilia&utm_campaign=inbazz) custa R$ 99,90, mas estava sem estoque quando conferimos. Ela é de poliéster, tem 42 L, pesa 0,54 kg e a Bagaggio dá 90 dias de garantia.",
+          "Entre as bolsas de viagem, a [Bolsa de Viagem Média Vegas Preta](https://www.bagaggio.com.br/bolsa-de-viagem-masculina-media-vegas-preta/p?utm_source=creators&utm_medium=emcasacomcecilia&utm_campaign=inbazz) custa R$ 99,90, mas aparecia sem estoque na consulta. Ela é de poliéster, tem 42 L, pesa 0,54 kg e a Bagaggio dá 90 dias de garantia.",
           "A [Bolsa de Viagem Crinkle 19J Roxa](https://www.bagaggio.com.br/bolsa-de-viagem-pequena-bagaggio-crinkle-19j-roxa/p?utm_source=creators&utm_medium=emcasacomcecilia&utm_campaign=inbazz) aparecia por R$ 49,90, fora de estoque. Ela é de poliéster, tem estrutura semirrígida e três bolsos externos com zíper, e a Bagaggio anuncia garantia de 6 meses. Nas bolsas da marca, a garantia mais comum entre elas é de 90 dias ou 3 meses."
         ]
       },
@@ -178706,30 +178721,30 @@ export const reviewsData: unknown[] = [
         ]
       },
       {
-        "heading": "Então, a Bagaggio é boa?",
+        "heading": "Como escolher sua Bagaggio e aplicar o cupom",
         "paragraphs": [
-          "Para mala da marca, sim, pelo que a ficha mostra: garantia vitalícia e medidas completas. Em mochila e bolsa, confira a garantia de cada página, porque ela tem prazo e varia.",
-          "As fichas ajudam a comparar o que é verificável antes da compra: material, peso, medidas, compartimentos e garantia informada.",
-          "Para malas, compare os modelos no [guia de malas de bordo](/reviews/mala-de-bordo-bagaggio-qual-compensa). Para levar computador, veja [qual mochila para notebook escolher](/reviews/mochila-notebook-bagaggio-qual-escolher)."
+          "A Bagaggio vale a pena especialmente para quem procura mala de bordo ou de viagem da marca própria, que reúne medidas, peso e capacidade completos na página e conta com garantia vitalícia contra vícios de fabricação dentro do regulamento. A variedade de materiais permite escolher conforme o orçamento e o uso, indo de modelos de entrada em ABS às linhas em polipropileno e policarbonato.",
+          "Para mochilas e bolsas de viagem, o catálogo também atende bem diferentes faixas de preço e materiais, do poliéster ao couro, bastando conferir na página o prazo de garantia da etiqueta e se o modelo é Bagaggio ou de marca parceira como a Travelcross. Para comparar modelos, veja o [guia de malas de bordo](/reviews/mala-de-bordo-bagaggio-qual-compensa) e [qual mochila para notebook escolher](/reviews/mochila-notebook-bagaggio-qual-escolher).",
+          "O cupom CECILIA10 dá 10% OFF em todo o site oficial da Bagaggio (inclusive no Outlet e em produtos já com desconto) em todas as formas de pagamento, acumulando com os 5% do Pix sobre o total já com o cupom.",
+          "A loja aceita um cupom por pedido, então promoções com código próprio não somam com o CECILIA10, e o desconto não vale no Mercado Livre. O código funciona em mala, conjunto e mochila, inclusive sem promoção vigente.",
+          "Na sacola, cole CECILIA10 no campo \"Cupom de desconto\" (não no de vendedor ou influenciador) e confira o abatimento no resumo antes de pagar. Veja o passo a passo em [como usar o cupom da Bagaggio](/reviews/cupom-bagaggio-como-usar) e as condições vigentes na [página do cupom da Bagaggio](/cupons/bagaggio)."
         ],
-        "emphasis": "Para mala, eu compraria a da marca Bagaggio pela garantia vitalícia e pelas medidas completas; para mochila e bolsa, eu conferiria a garantia de cada página antes de decidir."
-      },
-      {
-        "heading": "Parceria e cupom",
-        "paragraphs": [
-          "As condições vigentes do CECILIA10 estão na [página do cupom da Bagaggio](/cupons/bagaggio).",
-          "Pela regra da loja, o CECILIA10 dá 10% OFF em todo o site, inclusive no Outlet e em produtos já com desconto, e a loja aceita um cupom por pedido: promoção com cupom próprio não soma com ele. O Pix de 5% entra sobre o total já com o cupom.",
-          "O cupom vale em mala, conjunto e mochila, como conferimos no carrinho, e também em produto sem promoção. O passo a passo está em [como usar o cupom da Bagaggio](/reviews/cupom-bagaggio-como-usar).",
-          "Na sacola, cole o CECILIA10 no campo Cupom de desconto e confira o desconto no resumo antes de pagar."
+        "emphasis": "Vale a pena escolher a Bagaggio principalmente pelas malas da marca própria com garantia vitalícia conforme o regulamento e pela variedade em ABS, polipropileno e policarbonato; em mochilas, bolsas e linhas Travelcross, confira a garantia da página antes de fechar com o CECILIA10.",
+        "links": [
+          {
+            "label": "Ver o cupom Bagaggio",
+            "href": "/cupons/bagaggio"
+          }
         ]
       },
       {
         "heading": "Perguntas frequentes",
         "bullets": [
+          "A Bagaggio é boa? Sim, a Bagaggio vale a pena especialmente pelas malas da marca própria com garantia vitalícia conforme o regulamento e pela variedade de linhas em ABS, polipropileno, policarbonato, mochilas e bolsas, com 10% OFF no cupom CECILIA10 em todo o site.",
           "Qual é o cupom da Bagaggio? O cupom da Bagaggio é o CECILIA10, que dá 10% OFF em todo o site oficial, inclusive no Outlet, em todas as formas de pagamento. No Pix, a loja tira mais 5% depois do cupom, e ela aceita um cupom por pedido.",
-          "A Bagaggio é boa para malas? As páginas das malas da marca trazem material, peso, medida, cadeado e garantia vitalícia com regulamento. Elas não dizem como a mala se sai na viagem.",
-          "A Bagaggio é boa para mochilas? As páginas trazem material, medida e, em parte das linhas, peso e garantia. A garantia das mochilas tem prazo, na maioria de 90 dias ou 3 meses.",
-          "A mochila Bagaggio tem garantia vitalícia? Não. O programa vitalício da loja é das malas da marca e não inclui mochilas. Para a mochila, confira a cobertura contratual na ficha e na etiqueta.",
+          "A Bagaggio é boa para malas? Sim: as páginas das malas da marca trazem material, peso, medida, tipo de cadeado e garantia vitalícia contra vícios de fabricação dentro do regulamento, com opções em ABS, polipropileno e policarbonato.",
+          "A Bagaggio é boa para mochilas? Vale para comparar por material, peso e capacidade, com opções do poliéster ao couro; apenas confira o prazo de garantia na página de cada modelo, pois a cobertura varia de 90 dias a 3 anos conforme a linha.",
+          "A mochila Bagaggio tem garantia vitalícia? Não. O programa vitalício da loja é das malas da marca Bagaggio e não inclui mochilas ou bolsas, que seguem a garantia da etiqueta além da garantia legal.",
           "A Downtown é Bagaggio ou Travelcross? O cadastro da loja põe a Mala de Bordo PP Downtown na marca Travelcross, embora o campo Marca da página diga Bagaggio. A página dela não traz garantia vitalícia.",
           "A Bagaggio vende Samsonite? Na busca do site, a loja não apresentou produtos Samsonite à venda. O cadastro de uma marca sem anúncios não confirma oferta atual.",
           "A Bagaggio tem cadeado para mala? Tem. O cadeado com chave é vendido à parte, e algumas malas, como a Detroit e a Route, já trazem cadeado com senha embutido."
@@ -178738,12 +178753,12 @@ export const reviewsData: unknown[] = [
     ],
     "decision": {
       "takeIf": [
-        "Quer mala de bordo da marca Bagaggio com garantia vitalícia e medidas completas na ficha.",
-        "Quer comparar material, peso e preço de malas, mochilas e bolsas antes de comprar."
+        "Você procura mala de bordo ou de viagem da marca Bagaggio com garantia vitalícia dentro do regulamento e medidas completas na página.",
+        "Você quer comparar opções em ABS, polipropileno, policarbonato, mochilas e bolsas e aplicar 10% OFF com o CECILIA10 em todo o site."
       ],
       "skipIf": [
-        "Procura garantia vitalícia para mochila ou bolsa: ela é só das malas da marca.",
-        "Está de olho na Downtown ou na Mochila Tech: a loja as cadastra como Travelcross, fora da vitalícia."
+        "Você procura garantia vitalícia para mochila ou bolsa, pois a cobertura vitalícia vale apenas para malas da marca Bagaggio.",
+        "Você está de olho na Downtown ou na Mochila Tech contando com a garantia vitalícia: a loja as cadastra como Travelcross, sem o selo vitalício."
       ]
     },
     "pros": [],
@@ -179726,7 +179741,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Resposta rápida",
         "paragraphs": [
-          "Os três tamanhos servem seis pessoas: o de doze peças traz faca e garfo, o de dezoito acrescenta a colher e o de trinta, garfo e colher de sobremesa. Escolha pelos talheres de que precisa. Na Let's Eat It, o [cupom Let's Eat It](/cupons/letseatit) MAUAD dá 5% OFF em todas as formas de pagamento e soma com o Pix."
+          "Para seis pessoas com sobremesa ou presente, vence o de 30 peças; o de 18 atende o dia a dia e o de 12 serve quem já tem colheres. Confira abaixo estoque e pré-venda. Na Let's Eat It, o [cupom Let's Eat It](/cupons/letseatit) MAUAD dá 5% OFF em todas as formas de pagamento e soma com o Pix."
         ]
       },
       {
@@ -195891,7 +195906,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Resposta rápida",
         "paragraphs": [
-          "Vale a pena quando a sua cor e o seu tamanho ainda aparecem na grade: o desconto do Outlet vai de 32% a 50%, e o [cupom Insider](/cupons/insider), EMCASACOMCECILIA, soma 15% OFF por cima. Os três sutiãs Nakedfeel estavam no preço cheio, e neles só o cupom baixa. Abaixo, as 39 peças por tipo, com o preço final."
+          "Com certeza vale quando a sua cor e o seu tamanho estão na grade: o desconto do Outlet vai de 32% a 50%, e o [cupom Insider](/cupons/insider), EMCASACOMCECILIA, soma 15% OFF por cima. Os três sutiãs Nakedfeel estavam no preço cheio, e neles só o cupom baixa. Veja abaixo as 39 peças por tipo, com a grade e o preço final."
         ]
       },
       {
@@ -196952,7 +196967,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Resposta rápida",
         "paragraphs": [
-          "Vale a pena se a sua cor e o seu tamanho estiverem na página: eram cinco peças, todas com 40% ou mais de desconto sobre o preço riscado, e o [cupom Insider](/cupons/insider), EMCASACOMCECILIA com 15% OFF, entra por cima. O que pesa é a grade curta: a tabela de cada grupo mostra o que ficou."
+          "Vale, sim, quando a sua cor e o seu tamanho aparecem na página: eram cinco peças com 40% ou mais de desconto sobre o preço riscado, e o [cupom Insider](/cupons/insider), EMCASACOMCECILIA com 15% OFF, entra por cima. O que pesa é a grade curta: confira na tabela de cada grupo o que ficou."
         ]
       },
       {
@@ -198606,7 +198621,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Resposta rápida",
         "paragraphs": [
-          "Pelo rótulo, sim: o whey 80% HD declara 23 g de proteína em cada 30 g de dose e teve o menor custo por proteína entre os cinco wheys comparados. O \"100%\" do 100% HD não indica a proteína do pó, e a Creator traz só creatina monohidratada. O CECILIA10 dá 10% OFF em todo o site da Black Skull."
+          "É boa, sim, para quem busca suplemento pelo rótulo: o whey 80% HD declara 23 g de proteína em 30 g de dose e teve o menor custo por proteína entre os cinco comparados. O CECILIA10 dá 10% OFF em todo o site, em todas as formas de pagamento. O que pesa na escolha está nas tabelas abaixo."
         ]
       },
       {
@@ -198919,7 +198934,7 @@ export const reviewsData: unknown[] = [
         "heading": "Perguntas frequentes",
         "bullets": [
           "Qual é o cupom da Black Skull? O cupom da Black Skull da nossa parceria é CECILIA10, com 10% OFF em todo o site oficial, em todas as formas de pagamento, somando com as promoções vigentes. Ele não vale no Mercado Livre.",
-          "O whey da Black Skull é bom? Pelo rótulo, sim: o 80% HD declara mais proteína por dose que o 100% HD e teve o menor custo por proteína entre os cinco wheys comparados.",
+          "O whey da Black Skull é bom? Sim: pelo rótulo, o 80% HD declara mais proteína por dose que o 100% HD e teve o menor custo por proteína entre os cinco wheys comparados.",
           "Qual whey da Black Skull compensa mais? Para pagar menos por proteína, o 80% HD Refil 900 g; para uma mistura de proteínas em muitos sabores, o 100% HD; para a dose mais proteica, o 3W Core.",
           "80% ou 100% HD: qual escolher? O 80% HD tem mais proteína por dose e sai mais barato por proteína. O \"100%\" do nome do outro não é a porcentagem de proteína do pó.",
           "A creatina da Black Skull é boa? Pelo rótulo, o Creator traz só creatina monohidratada e sai mais barato por grama que o Creatine, que tem a mesma lista de ingredientes.",
@@ -198991,7 +199006,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Resposta rápida",
         "paragraphs": [
-          "Pelo rótulo, é boa: o whey da Max Titanium declara a proteína que o nome promete, e o Whey Pro e o 100% Whey Refil saem mais baratos por grama de proteína. O isolado custa mais e a Max não tem whey zero lactose. O [cupom Max Titanium](/cupons/max-titanium) é o MAX10EMCASACOMCECILIA, com até 10% OFF."
+          "Com certeza vale para quem procura proteína de soro mais barata por grama no Whey Pro e no 100% Whey Refil, além de opções como Top Whey 3W e creatina. O ponto de atenção é que a Max não vende whey zero lactose. O [cupom Max Titanium](/cupons/max-titanium) MAX10EMCASACOMCECILIA dá até 10% OFF no site, conforme o produto, explicado abaixo."
         ]
       },
       {
@@ -199120,9 +199135,9 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Perguntas frequentes",
         "bullets": [
-          "O whey da Max Titanium é bom? É, pelo rótulo: cada whey declara a proteína por dose que a tabela mostra, e o Whey Pro e o 100% Whey Refil são os mais baratos por grama de proteína.",
+          "O whey da Max Titanium é bom? Sim: pelo rótulo, cada whey declara a proteína por dose que a tabela mostra, e o Whey Pro e o 100% Whey Refil são os mais baratos por grama de proteína.",
           "Qual é o cupom da Max Titanium? É o MAX10EMCASACOMCECILIA, com até 10% OFF no site oficial e no aplicativo, em todas as formas de pagamento. Cole no campo de cupom do carrinho e confira a linha \"Descontos\"; as regras estão no [cupom Max Titanium](/cupons/max-titanium).",
-          "Qual whey da Max Titanium compensa mais? Depende do que pesa mais: o guia de cada whey, com a conta por grama de proteína, está em [Whey Max Titanium: qual escolher](/reviews/whey-max-titanium-qual-escolher).",
+          "Qual whey da Max Titanium compensa mais? No custo por proteína declarada, vencem o Whey Pro e o 100% Whey Refil; veja a comparação por grama no [Whey Max Titanium: qual escolher](/reviews/whey-max-titanium-qual-escolher).",
           "100% Whey ou Top Whey 3W? O 100% Whey é mais barato por grama de proteína, e o Top Whey 3W tem dose maior; a comparação de cada um está em [Whey Max Titanium: qual escolher](/reviews/whey-max-titanium-qual-escolher).",
           "A Max Titanium tem whey zero lactose? Não: os wheys trazem \"contém lactose\" no rótulo, o isolado também. O \"Zero Lactose\" do menu é o hipercalórico Mass Titanium 17500, cuja lista traz WPI e o aviso de alergênicos cita derivados de leite.",
           "A creatina da Max Titanium é boa? O pote de 500 g é o mais barato por grama, e o guia da creatina traz a conta de cada pote e o selo Creapure.",
@@ -199176,11 +199191,11 @@ export const reviewsData: unknown[] = [
       "initials": "CM",
       "url": "/sobre"
     },
-    "description": "Os rótulos de whey e creatina da Probiótica declaram proteína por dose e composição. Veja como comparar as versões e use o cupom PRO10EMCASACOMCECILIA de até 10%.",
+    "description": "Veja para quem a Probiótica vale a pena: compare os wheys por 100 g de proteína, a linha Zero Lactose, a creatina de 5 g e use o cupom PRO10EMCASACOMCECILIA de até 10%.",
     "metaDescription": "O cupom PRO10EMCASACOMCECILIA dá até 10% OFF na Probiótica. Whey, creatina e glutamina pelo rótulo, com o preço por 100 g e para quem a marca compensa.",
     "publishedAt": "2 de novembro de 2026",
     "publishedAtISO": "2026-11-02",
-    "updatedAt": "2026-11-22",
+    "updatedAt": "2026-11-24",
     "draft": false,
     "isNew": true,
     "image": "/images/reviews/probiotica/probiotica-e-boa-capa-v2.webp",
@@ -199193,20 +199208,21 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Resposta rápida",
         "paragraphs": [
-          "O 100% Pure Whey declara o tipo de proteína e a proteína por dose; o Zero Lactose declara \"sem lactose\", e a creatina traz 5 g por porção. Para escolher, compare composição, alergênicos e preço. No site oficial, o PRO10EMCASACOMCECILIA dá até 10% OFF, com variação por produto."
+          "Com certeza vale para quem escolhe pelo rótulo e custo por dose: a Probiótica declara tipo e teor de proteína no 100% Pure Whey, tem linha Zero Lactose e creatina com 5 g por porção. No site oficial, o PRO10EMCASACOMCECILIA dá até 10% OFF em todas as formas de pagamento, variando por item. Veja abaixo o que compensa mais."
         ]
       },
       {
-        "heading": "O que a Probiótica vende",
+        "heading": "Quem é a Probiótica: origem, reputação e linhas do catálogo",
         "paragraphs": [
-          "A Probiótica é uma marca de suplementos do Grupo Supley, com loja própria no site oficial, e diz atuar desde 1986. O catálogo vai do whey e da creatina a hipercalóricos, colágeno, barras de proteína e kits. Este artigo te guia pelos itens mais procurados da marca e indica o guia que já escrevemos sobre cada um."
+          "A Probiótica é uma marca brasileira de suplementos do Grupo Supley, fabricante sediado em Matão (SP) que também reúne Max Titanium e Dr. Peanut, e afirma no próprio site atuar desde 1986. O catálogo vai de wheys e creatina a glutamina, hipercalóricos, colágeno, barras de proteína e kits, vendidos na loja oficial probiotica.com.br.",
+          "Para conferir CNPJ, política de trocas e frete grátis por região, veja o guia sobre se a [Probiótica é confiável](/reviews/probiotica-e-confiavel); já as notas e o histórico de atendimento estão na análise da [Probiótica no Reclame Aqui](/reviews/probiotica-reclame-aqui-nota-reputacao)."
         ],
         "bullets": [
           "**Whey:** 100% Pure Whey (pote e refil), Zero Lactose, Hiper 100% Whey e o isolado Iso Pro, no próximo capítulo.",
           "**Creatina:** potes de 300 g e de 100 g, Creapure e monodose, comparados em [creatina Probiótica: qual versão compensa](/reviews/creatina-probiotica-qual-compensa).",
           "**Monodose:** os sachês de creatina, em [monodose Probiótica: sachê ou pote](/reviews/monodose-probiotica-sache-ou-pote).",
           "**Glutamina:** potes de 300 g e de 120 g, no [guia de glutamina](/reviews/glutamina-qual-escolher-black-skull-max-probiotica).",
-          "**Hipercalórico, colágeno e barras:** o hipercalórico tem um parágrafo mais abaixo; colágeno e barras ficam fora deste artigo."
+          "**Hipercalórico, colágeno e barras:** o hipercalórico entra em resumo mais abaixo; colágeno e barras ficam para consulta direta na loja."
         ]
       },
       {
@@ -199363,7 +199379,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Hipercalórico, monodose e glutamina",
         "paragraphs": [
-          "Hipercalórico: a Probiótica vende o [Mass Monster 3200](https://www.probiotica.com.br/mass-monster-3200-3kg/p?utm_source=creators&utm_medium=PRO10EMCASACOMCECILIA&utm_campaign=probi), de 3 kg, e o [Massa Nitro](https://www.probiotica.com.br/massa-nitro-refil-/p?utm_source=creators&utm_medium=PRO10EMCASACOMCECILIA&utm_campaign=probi), em refil de 2,52 kg. Este artigo não os compara: a conta é por 100 g de proteína e de carboidrato, na tabela do sabor. Hipercalórico serve para quem procura dose grande de calorias; quem quer só proteína fica no whey.",
+          "Hipercalórico: a Probiótica vende o [Mass Monster 3200](https://www.probiotica.com.br/mass-monster-3200-3kg/p?utm_source=creators&utm_medium=PRO10EMCASACOMCECILIA&utm_campaign=probi), de 3 kg, e o [Massa Nitro](https://www.probiotica.com.br/massa-nitro-refil-/p?utm_source=creators&utm_medium=PRO10EMCASACOMCECILIA&utm_campaign=probi), em refil de 2,52 kg. Para decidir entre os dois, a conta é por 100 g de proteína e de carboidrato na tabela do sabor. Hipercalórico serve para quem procura dose grande de calorias; quem quer só proteína fica no whey.",
           "Monodose: o sachê de creatina traz 5 g por sachê, uma dose pronta para levar na mochila, e custa mais que o dobro por grama do pote de 300 g. Compensa só se a praticidade vale a diferença, e a conta está em [monodose Probiótica: sachê ou pote](/reviews/monodose-probiotica-sache-ou-pote).",
           "Glutamina: a L-Glutamine tem [pote de 300 g](https://www.probiotica.com.br/l-glutamine-pote-300/p?utm_source=creators&utm_medium=PRO10EMCASACOMCECILIA&utm_campaign=probi) e [pote de 120 g](https://www.probiotica.com.br/l-glutamine-pote-120g/p?utm_source=creators&utm_medium=PRO10EMCASACOMCECILIA&utm_campaign=probi), os dois com 5 g de L-glutamina por dose no rótulo. O de 300 g sai a R$ 23,30 por 100 g e o de 120 g, a R$ 32,84; quem usa com regularidade fica com o grande. A conta completa está no [guia de glutamina](/reviews/glutamina-qual-escolher-black-skull-max-probiotica)."
         ]
@@ -199373,7 +199389,7 @@ export const reviewsData: unknown[] = [
         "paragraphs": [
           "O PRO10EMCASACOMCECILIA dá até 10% OFF no site da Probiótica, e o percentual varia por produto: nem todo item chega a 10%. Cole o código no campo \"Cupom de Desconto\" do carrinho, clique em \"Adicionar\" e confira a linha \"Descontos\" no resumo. Vale em todas as formas de pagamento, para conta nova e antiga, e soma com as promoções da loja e com o desconto do Pix.",
           "Num carrinho com colágeno, creatina em promoção, camiseta e barra de proteína, o desconto no total foi de cerca de 8,3%; nos testes de novembro, foi de 2% nos wheys e nas creatinas e de 7% no [Hiper 100% Whey](https://www.probiotica.com.br/hiper-100-whey-900g/p?utm_source=creators&utm_medium=PRO10EMCASACOMCECILIA&utm_campaign=probi) e no [Iso Protein Blend](https://www.probiotica.com.br/iso-protein-blend/p?utm_source=creators&utm_medium=PRO10EMCASACOMCECILIA&utm_campaign=probi) em oferta. Os preços das tabelas são de antes do cupom.",
-          "A compra é no site oficial, [probiotica.com.br](https://www.probiotica.com.br?utm_source=creators&utm_medium=PRO10EMCASACOMCECILIA&utm_campaign=probi), entrando pelo link da parceria."
+          "A loja informa: há parcelamento em até 6x sem juros e frete grátis por região pelo envio de menor valor, a partir de R$ 104 na capital de São Paulo, R$ 134 no Sudeste, R$ 204 no Centro-Oeste, R$ 249 no Sul, R$ 299 no Nordeste e R$ 599 no Norte; confira no carrinho após aplicar o cupom se o total permanece acima do mínimo. A compra oficial acontece em [probiotica.com.br](https://www.probiotica.com.br?utm_source=creators&utm_medium=PRO10EMCASACOMCECILIA&utm_campaign=probi)."
         ],
         "links": [
           {
@@ -199387,27 +199403,35 @@ export const reviewsData: unknown[] = [
         ]
       },
       {
-        "heading": "Para quem vale e para quem não vale",
-        "emphasis": "Pelos números das tabelas, a Probiótica compensa para quem compra whey e creatina pelo preço por grama, com o Hiper 100% Whey enquanto durar a promoção e o pote de 300 g na creatina.",
+        "heading": "Quais suplementos da Probiótica compensam mais",
+        "paragraphs": [
+          "A Probiótica vale a pena principalmente para quem escolhe suplementos pela transparência do rótulo e pelo custo por grama, com opções claras entre concentrado tradicional, concentrado sem lactose, isolado e creatina de 5 g por porção, comprando direto da loja oficial do Grupo Supley.",
+          "Para definir a quantidade diária ideal, avaliar restrição à lactose ou ajustar o uso com condições de saúde, converse sempre com médico ou nutricionista."
+        ],
+        "emphasis": "Com certeza vale a pena comprar na Probiótica para quem compara whey e creatina pela tabela e pelo custo por dose: confira qual versão vence no seu perfil acima e aplique o PRO10EMCASACOMCECILIA no carrinho para garantir até 10% OFF em todas as formas de pagamento.",
         "bullets": [
-          "Para pagar menos pela proteína, o Hiper 100% Whey enquanto estiver em promoção (R$ 24,14 por 100 g de proteína); fora dela, o Zero Lactose (R$ 38,41) e o refil do 100% Pure Whey (R$ 39,28) ficam à frente.",
-          "Para um whey que o rótulo declara sem lactose, o Zero Lactose, lembrando que o aviso de alergênicos cita derivados de leite.",
-          "Para mais proteína por dose, o Iso Pro, que cobra mais por grama de proteína (R$ 44,39 por 100 g) e declara lactose.",
-          "Na creatina, o pote de 300 g para uso regular e o de 100 g só para experimentar; Creapure e monodose custam mais pelo selo e pela embalagem.",
-          "Não vale esperar 10% em tudo: o cupom chega a 10% e varia por produto."
+          "Para pagar menos por proteína: o Hiper 100% Whey lidera enquanto durar a promoção (R$ 24,14 por 100 g de proteína na leitura); fora de oferta, o Zero Lactose e o refil do 100% Pure Whey ficam à frente do pote e do Iso Pro.",
+          "Para quem procura whey declarado sem lactose na tabela: o 100% Pure Whey Zero Lactose, lembrando que o aviso de alergênicos cita derivados de leite.",
+          "Para mais proteína por dose: o Iso Pro Whey entrega 26 g por porção, com lactose declarada e custo maior por grama.",
+          "Na creatina: o pote de 300 g compensa mais por grama no uso contínuo; o de 100 g atende só quem quer testar, enquanto Creapure e monodose cobram a mais pelo selo de origem e pela embalagem individual.",
+          "Atenção ao desconto do código: o PRO10EMCASACOMCECILIA chega a até 10% OFF e varia conforme o item; confira a linha \"Descontos\" no carrinho antes de pagar."
+        ],
+        "links": [
+          {
+            "label": "Ver o cupom Probiótica",
+            "href": "/cupons/probiotica"
+          }
         ]
       },
       {
         "heading": "Perguntas frequentes",
         "bullets": [
+          "A Probiótica é boa? Com certeza vale para quem escolhe suplementos pela tabela nutricional e pelo custo por dose, reunindo 100% Pure Whey em pote, refil e Zero Lactose, além de creatina de 5 g por porção e até 10% OFF com o PRO10EMCASACOMCECILIA no site oficial.",
           "Qual é o cupom da Probiótica? É o PRO10EMCASACOMCECILIA, com até 10% OFF no site oficial da Probiótica, em todas as formas de pagamento. Cole no campo \"Cupom de Desconto\" do carrinho e clique em \"Adicionar\"; as regras estão na página do [cupom Probiótica](/cupons/probiotica).",
-          "O whey da Probiótica é bom? O rótulo declara o tipo de proteína e a proteína por dose. O que muda entre as versões é o preço por grama e a lactose, no [guia do whey](/reviews/whey-probiotica-qual-escolher).",
-          "O 100% Pure Whey é concentrado? É: a descrição da loja e o rótulo dizem proteína concentrada do soro do leite (WPC), e o produto contém lactose.",
-          "O zero lactose serve para quem tem intolerância? O rótulo declara \"lactose: não contém\", e o aviso de alergênicos cita derivados de leite. Quem tem intolerância decide com médico ou nutricionista.",
-          "O Iso Pro é zero lactose? Não: a página do produto declara lactose, e o aviso cita derivados de leite e soja. Confira o rótulo do sabor e da embalagem que você vai comprar.",
-          "O Hiper 100% Whey é concentrado? É: proteína concentrada do soro do leite, em dose de 40 g, e o rótulo diz que contém lactose.",
-          "A creatina Probiótica é boa? Pelo rótulo, a creatina monohidratada traz 5.000 mg por porção de 5 g nos potes e nos sachês, e o pote de 300 g é o mais barato por grama; os números estão em [creatina Probiótica: qual versão compensa](/reviews/creatina-probiotica-qual-compensa).",
-          "O cupom dá 10% em todos os produtos? Não: o percentual varia por produto, e nos testes de novembro foi de 2% nos wheys e nas creatinas e de 7% nos itens em oferta. Confira a linha \"Descontos\" no carrinho."
+          "O whey da Probiótica é bom? Sim, especialmente para quem compara tipo de proteína, lactose e preço por 100 g de proteína nas tabelas do rótulo; veja todas as versões detalhadas no [guia do whey](/reviews/whey-probiotica-qual-escolher).",
+          "O zero lactose serve para quem tem intolerância? O rótulo do 100% Pure Whey Zero Lactose declara \"lactose: não contém\", mas o aviso de alergênicos cita derivados de leite. Quem tem intolerância ou alergia decide com médico ou nutricionista.",
+          "A creatina Probiótica é boa? Sim: pelo rótulo, a creatina monohidratada traz 5.000 mg por porção de 5 g nos potes e nos sachês, e o pote de 300 g é o mais barato por grama; os números estão em [creatina Probiótica: qual versão compensa](/reviews/creatina-probiotica-qual-compensa).",
+          "O cupom dá 10% em todos os produtos? Não: o percentual varia por produto e pode ser menor em alguns itens, somando com promoções e Pix. Confira sempre a linha \"Descontos\" no carrinho antes de finalizar."
         ]
       }
     ],
@@ -199421,12 +199445,13 @@ export const reviewsData: unknown[] = [
     "affiliate": "probiotica",
     "decision": {
       "takeIf": [
-        "Você escolhe whey e creatina pela tabela nutricional e pelo preço por grama.",
-        "Você quer um whey que o rótulo declara sem lactose."
+        "Você escolhe whey e creatina pela tabela nutricional e pelo preço por grama, aproveitando formatos como o refil de 900 g ou a creatina de 300 g.",
+        "Você quer um concentrado que o rótulo declara sem lactose no Zero Lactose ou prefere isolado com 26 g de proteína por dose.",
+        "Você quer somar o cupom PRO10EMCASACOMCECILIA (até 10% OFF) a promoções da loja e ao pagamento no Pix ou em até 6x sem juros."
       ],
       "skipIf": [
-        "Você espera 10% de desconto garantido em todo item: o cupom varia por produto.",
-        "Você precisa evitar leite: o Zero Lactose é sem lactose, e o aviso de alergênicos cita derivados de leite."
+        "Você espera 10% de desconto garantido em todo item do carrinho, já que o percentual do cupom varia por produto.",
+        "Você precisa evitar qualquer derivado de leite, pois até o Zero Lactose traz derivados de leite no aviso de alergênicos."
       ]
     },
     "editorialNote": "Podemos receber comissão pela Probiótica. Ninguém da equipe usou os produtos: os dados são do rótulo e do site da marca.",
@@ -199439,6 +199464,9 @@ export const reviewsData: unknown[] = [
       },
       {
         "slug": "probiotica-ou-growth"
+      },
+      {
+        "slug": "probiotica-e-confiavel"
       }
     ]
   },
@@ -200464,7 +200492,7 @@ export const reviewsData: unknown[] = [
       "initials": "CM",
       "url": "/sobre"
     },
-    "description": "Mais Mu é boa? O Exquenta e a maioria das barras têm tabela; o whey declara a proteína por dose, quase sempre sem tabela. Cupom MMEMCASACOMCECILIA, preço e para quem compensa.",
+    "description": "Mais Mu vale, sim, para quem busca Exquenta e barras com tabela publicada; no whey, confira a porção. Cupom MMEMCASACOMCECILIA de 10% OFF, preços e para quem compensa.",
     "metaDescription": "Whey, Exquenta e barras da Mais Mu pelo rótulo, com o cupom MMEMCASACOMCECILIA de 10% OFF: para quem a marca compensa.",
     "publishedAt": "3 de novembro de 2026",
     "publishedAtISO": "2026-11-03",
@@ -200479,7 +200507,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Resposta rápida",
         "paragraphs": [
-          "Pelo rótulo, a Mais Mu é boa no que publica: o Exquenta e a maior parte das barras trazem tabela nutricional. No whey, a loja declara proteína por dose, mas faltam tabelas completas na maioria dos sabores. O código MMEMCASACOMCECILIA dá 10% no site oficial, e a escolha depende de composição, tamanho da unidade e preço."
+          "Vale, sim, especialmente para quem quer pré-treino Exquenta e barras com tabela nutricional publicada, ou escolhe whey pelo sabor e formato. O ponto de atenção é que a maioria dos wheys não traz tabela completa na página. O cupom MMEMCASACOMCECILIA dá 10% OFF no site, em todas as formas de pagamento. Veja abaixo o que conferir."
         ]
       },
       {
@@ -200581,7 +200609,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "O Exquenta é bom?",
         "paragraphs": [
-          "Pelo rótulo, o Exquenta é um pré-treino de cafeína e taurina com bastante açúcar na dose: 150 mg de cafeína, 500 mg de taurina (400 mg em dois sabores) e 16 g de açúcares adicionados em cada 20 g. A loja não publica teste de efeito, e este texto também não fala de efeito: o que dá para comparar é o rótulo e o preço por dose."
+          "Pelo rótulo, o Exquenta é um pré-treino de cafeína e taurina com bastante açúcar na dose: 150 mg de cafeína, 500 mg de taurina (400 mg em dois sabores) e 16 g de açúcares adicionados em cada 20 g. O rótulo publica a composição completa e permite comparar ingredientes e preço por dose antes da compra."
         ],
         "comparisonTable": {
           "headers": [
@@ -200735,8 +200763,8 @@ export const reviewsData: unknown[] = [
       {
         "heading": "A Mais Mu é confiável?",
         "paragraphs": [
-          "Dá para confiar na empresa, com atenção à entrega. A Mais Mu é uma sociedade anônima com CNPJ ativo e sede em São Paulo, o site oficial é lojamaismu.com.br, e as regras de troca estão publicadas: produto fechado, pedido por e-mail e recolhimento pago pela loja.",
-          "No Reclame Aqui, a reputação dos últimos 6 meses é Boa, com nota 7,1, depois de uma fase Regular no semestre, e a de 12 meses também é Boa, com 7,4. A queixa principal é a entrega: produto não recebido e atraso. Na prática, guarde o número do pedido e acompanhe o rastreio desde a postagem."
+          "Sim: a empresa tem CNPJ ativo (21.526.148/0001-34), loja oficial em lojamaismu.com.br e entrega para todo o Brasil. O site parcela em até 3x sem juros no cartão e aceita Pix com 3% de desconto.",
+          "As regras de troca estão publicadas: produto fechado, pedido por e-mail e recolhimento pago pela loja. Na prática, confira o endereço antes de fechar o carrinho, guarde o número do pedido e acompanhe o rastreio desde a postagem."
         ]
       },
       {
@@ -200774,7 +200802,7 @@ export const reviewsData: unknown[] = [
           "Qual é o cupom da Mais Mu? O cupom da Mais Mu da nossa parceria é MMEMCASACOMCECILIA, com 10% OFF no site oficial, em todas as formas de pagamento. Ele soma com os 3% do Pix e não vale no Mercado Livre.",
           "O whey da Mais Mu é bom? Há proteína por dose em todas as linhas, mas a tabela nutricional completa aparece só em poucos sabores. Leia o capítulo do whey para ver o que dá para comparar antes da compra.",
           "Qual whey da Mais Mu escolher? O concentrado declara 20 g de proteína por dose; o isolado declara 22 g. A proteína vegetal também declara 22 g, mas não é whey. Como as porções podem ter pesos diferentes, esses números sozinhos não definem maior concentração nem melhor compra. O guia do whey detalha sabores e formatos.",
-          "O Exquenta é bom? Pelo rótulo, é um pré-treino de cafeína e taurina com açúcar na dose; a loja não publica teste de efeito, e a conta por dose está no capítulo do Exquenta.",
+          "O Exquenta é bom? Pelo rótulo, é um pré-treino de cafeína e taurina com açúcar na dose; a composição e a conta por dose estão no capítulo do Exquenta.",
           "A Mais Mu publica a tabela nutricional? No Exquenta e na maior parte das barras, sim; nos wheys, só em poucos sabores, como o Baunilha de 450 g, e nos outros a página declara só a proteína por dose.",
           "O cupom soma com o cashback? Não. A loja não acumula cupons, e o crédito do cashback entra como cupom; em cada pedido vale um dos dois."
         ]
@@ -200846,7 +200874,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Resposta rápida",
         "paragraphs": [
-          "Pelo rótulo, é: a pasta leva amendoim e proteína do soro do leite, sem adição de açúcares, e o whey entrega 20 g de proteína por dose. A lactose pesa em tudo o que publica aviso, e o glúten no whey e em parte dos snacks; o alfajor não publica aviso. O código DREMCASACOMCECILIA dá 10% no site oficial."
+          "Claro que vale, para quem busca pasta de amendoim sem adição de açúcares e com proteína do soro do leite, além de whey e snacks. O que muda a compra é a lactose na linha e o glúten no whey e em parte dos snacks. O cupom DREMCASACOMCECILIA dá 10% OFF no site. Veja abaixo os rótulos."
         ]
       },
       {
@@ -200990,7 +201018,7 @@ export const reviewsData: unknown[] = [
           "caption": "Preço no site. A Doctor Bar só se vende em display de 8."
         },
         "postParagraphs": [
-          "Por grama de proteína, a barra sai a R$ 0,73 e o alfajor passa de R$ 2,76: quem compra snack pela proteína fica na barra, quem quer um doce de 35 g fica no alfajor, e o wafer é o menor preço por unidade. A Doctor Bar Avelã e a Doctor Wafer Avelã dizem \"CONTÉM GLÚTEN\" e \"CONTÉM LACTOSE\"; o wafer é de farinha de trigo, e a barra leva maltitol, glicosídeos de esteviol e sucralose. O alfajor é o caso à parte: a loja publica só a tabela nutricional, em imagem, e não publica a lista de ingredientes nem o aviso de alérgicos, então este texto não diz o que ele leva. Quem tem restrição confere a embalagem antes de comer."
+          "Por grama de proteína, a barra sai a R$ 0,73 e o alfajor passa de R$ 2,76: quem compra snack pela proteína fica na barra, quem quer um doce de 35 g fica no alfajor, e o wafer é o menor preço por unidade. A Doctor Bar Avelã e a Doctor Wafer Avelã dizem \"CONTÉM GLÚTEN\" e \"CONTÉM LACTOSE\"; o wafer é de farinha de trigo, e a barra leva maltitol, glicosídeos de esteviol e sucralose. O alfajor é o caso à parte: a loja publica só a tabela nutricional, em imagem, e não publica a lista de ingredientes nem o aviso de alérgicos, sem mostrar a composição na página. Quem tem restrição confere a embalagem antes de comer."
         ],
         "images": [
           {
@@ -201035,8 +201063,8 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Confiança: quem fabrica e como a loja responde",
         "paragraphs": [
-          "A Body Food, de Curitiba, fabrica a Dr. Peanut, e a Supley aparece como sócia; o CNPJ e o endereço ficam no rodapé do site. No Reclame Aqui, a reputação é Boa, com nota 7,9, tanto nos últimos 6 quanto nos últimos 12 meses, e as queixas se concentram na entrega: guarde o rastreio e, assim que o prazo vencer, escreva ao SAC da loja (sac@supley.com.br) com o número do pedido e a nota fiscal.",
-          "Na troca, o arrependimento em 7 dias sai sem custo para você, e a troca por outro produto tem o frete por sua conta. Escolha o sabor antes de fechar o carrinho."
+          "A Body Food Fabricantes de Alimentos Saudáveis Ltda. (CNPJ 28.324.667/0001-69), de Curitiba, fabrica a Dr. Peanut e tem a Supley como sócia, o mesmo grupo da Max Titanium e da Probiótica. Guarde o rastreio do pedido e, se precisar de atendimento, escreva ao SAC oficial (sac@supley.com.br) com o número da compra e a nota fiscal.",
+          "Nas trocas e devoluções, o arrependimento em 7 dias corridos tem devolução sem custo, enquanto a troca por outro produto tem o frete por sua conta. Para defeitos, o prazo publicado é de 30 dias em alimentos e 90 dias em duráveis, com coleta paga pela loja."
         ]
       },
       {
@@ -201127,7 +201155,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Resposta rápida",
         "paragraphs": [
-          "Sim, para quem precisa tirar glúten, leite e lactose: a Belive declara os três em toda a linha, com rótulos publicados para comparar. Nos doces, confira a versão, porque nomes parecidos têm fórmulas diferentes. Preço por unidade e frete por região pesam, e no site oficial o código MAUAD dá 10% OFF em tudo."
+          "Sim, a Belive vale a pena para quem precisa tirar glúten, leite e lactose da mesa: a Belive declara ausência dos três em toda a linha e publica os rótulos. Nos doces, confira a versão exata, porque nomes parecidos mudam a fórmula. O código MAUAD dá 10% OFF no site, em todas as formas de pagamento; preço e frete por região pesam abaixo."
         ]
       },
       {
@@ -201474,8 +201502,8 @@ export const reviewsData: unknown[] = [
   {
     "id": 787,
     "slug": "simple-organic-e-boa",
-    "title": "Simple Organic é boa? Os séruns, as soluções e o que vale comprar da marca",
-    "seoTitle": "Simple Organic é boa? Niacinamida, vitamina C e retinol",
+    "title": "Simple Organic é boa? Tudo que você precisa saber antes de comprar",
+    "seoTitle": "Simple Organic é boa? Linhas, séruns e preços",
     "type": "Guia de Marca",
     "category": "guias-praticos-utilidade",
     "reviewKind": "guia",
@@ -201486,11 +201514,11 @@ export const reviewsData: unknown[] = [
       "initials": "CM",
       "url": "/sobre"
     },
-    "description": "Simple Organic: o que os rótulos de niacinamida, vitamina C, retinol e hidratantes permitem comparar antes da compra, com o cupom de 5% na loja online.",
-    "metaDescription": "O cupom S-EMCASACOMCECILIA dá 5% OFF na loja online. Simple Organic é boa? Niacinamida a 10%, duas vitaminas C, retinol a 0,3% e bakuchiol, pelo rótulo.",
+    "description": "Saiba para quem a Simple Organic vale a pena, conheça as linhas Ultra Sérum e Soluções, compare ativos, hidratantes e fragrâncias e aplique o cupom de 5% OFF.",
+    "metaDescription": "Com o S-EMCASACOMCECILIA você ganha 5% OFF na Simple Organic. Veja se a marca é boa, compare séruns, hidratantes e linhas e saiba o que comprar.",
     "publishedAt": "3 de novembro de 2026",
     "publishedAtISO": "2026-11-03",
-    "updatedAt": "2026-11-22",
+    "updatedAt": "2026-11-24",
     "draft": false,
     "isNew": true,
     "image": "/images/reviews/simple-organic/simple-organic-e-boa-capa-v2.webp",
@@ -201501,29 +201529,36 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Resposta rápida",
         "paragraphs": [
-          "Pelo rótulo, dá para comparar os séruns da Simple Organic: niacinamida e retinol trazem concentração escrita, e as duas vitaminas C usam derivados diferentes. Confira a fórmula de cada produto antes de escolher. O cupom S-EMCASACOMCECILIA dá 5% na loja online."
+          "Com certeza vale para quem busca beleza limpa e vegana com ativos e concentrações claros, como niacinamida a 10%, retinol a 0,3% e duas versões de vitamina C. O cupom S-EMCASACOMCECILIA dá 5% OFF na loja online, inclusive em kits e promoções, em todas as formas de pagamento. Comece pelos séruns de entrada abaixo para comparar cada fórmula."
         ]
       },
       {
-        "heading": "O que a Simple Organic vende",
+        "heading": "Quem é a Simple Organic: origem da marca e onde ver a reputação",
         "paragraphs": [
-          "O que mais se procura na Simple Organic são os séruns, e é por eles que este guia começa. A marca, que assina só \"SIMPLE\" na embalagem, vende beleza limpa e vegana com loja própria no site oficial, e o catálogo vai bem além do sérum:"
+          "Criada em 2017 em Florianópolis (SC) por Patrícia Lima, a Simple Organic nasceu com foco em beleza limpa e vegana e integra o grupo Hypera Pharma desde 2020, segundo a página oficial da marca. Na embalagem e no logo aparece a assinatura curta “SIMPLE”, enquanto o domínio e a loja online oficial usam o nome Simple Organic.",
+          "O catálogo reúne séruns concentrados, hidratantes, limpeza facial, máscaras, maquiagem da linha People Colour, body splash e perfumes de cabelo e corpo. Para conferir CNPJ, lojas físicas, entrega e política de trocas, veja se a [Simple Organic é confiável](/reviews/simple-organic-e-confiavel); para consultar as notas e os atendimentos recentes, acesse a análise da [Simple Organic no Reclame Aqui](/reviews/simple-organic-reclame-aqui-nota-reputacao)."
+        ]
+      },
+      {
+        "heading": "As linhas e os destaques do catálogo",
+        "paragraphs": [
+          "A porta de entrada do catálogo são os séruns faciais divididos entre Ultra Sérum e Soluções, mas a marca também cobre hidratação, limpeza, maquiagem e perfumaria:"
         ],
         "bullets": [
-          "**Séruns:** a linha Ultra Sérum (niacinamida, vitamina C, retinol, ácido hialurônico, mandélico e salicílico) e a linha Soluções (vitamina C, Retinol-Like, Exossomos + PDRN + Peptídeos, Hero, Gaba, Poliglutâmico e Oxyresveratrol), nos próximos capítulos.",
-          "**Hidratantes faciais:** Super Glow, Antioleosidade, Calmante Multirreparador e o Multifuncional, com capítulo próprio.",
-          "**Limpeza, máscaras e sticks:** gel de limpeza, máscaras e sticks faciais; ficam fora deste guia.",
-          "**Maquiagem:** a linha People Colour, com primer, lip combo e companhia; também fora deste guia.",
-          "**Fragrância:** body splash de 100 mL e os perfumes de cabelo e corpo #01, #02 e #03, no capítulo de fragrância."
+          "**Séruns:** a linha Ultra Sérum (niacinamida, vitamina C, retinol, ácido hialurônico, mandélico e salicílico) e a linha Soluções (vitamina C, Retinol-Like, Exossomos + PDRN + Peptídeos, Hero, Gaba, Poliglutâmico e Oxyresveratrol), detalhadas nos próximos capítulos.",
+          "**Hidratantes faciais:** Super Glow, Antioleosidade, Calmante Multirreparador e o Multifuncional, com tabela comparativa abaixo.",
+          "**Limpeza, máscaras e sticks:** gel de limpeza, máscaras e sticks faciais completam a etapa de preparo da pele.",
+          "**Maquiagem:** a linha People Colour reúne primer, lip combo e outros itens dentro da proposta da marca.",
+          "**Fragrância:** body splash de 100 mL e os perfumes de cabelo e corpo #01, #02 e #03, comparados mais adiante."
         ],
         "postParagraphs": [
-          "\"Beleza limpa\" e \"vegana\" são frases da marca: ela se apresenta como vegana, cruelty-free e com matéria-prima orgânica, e aponta selos de terceiros, como o PETA Vegan Approved e o COSMOS Organic da Ecocert, para sustentar isso. Se o selo decide a sua compra, procure o nome da marca no site da certificadora antes de fechar; aqui, ele entra como afirmação da marca."
+          "A Simple Organic se apresenta como vegana, cruelty-free e com matéria-prima orgânica, apontando selos de terceiros como o PETA Vegan Approved e o COSMOS Organic da Ecocert, além da declaração de neutralização de carbono da cadeia. Quem decide a compra por uma certificação específica deve conferir o produto diretamente na página do item ou na certificadora."
         ]
       },
       {
         "heading": "Ultra Sérum ou Solução: o que muda de uma linha para a outra",
         "paragraphs": [
-          "Segundo a marca, o Ultra Sérum Niacinamida mantém a fórmula da antiga Solução Niacinamida e muda a embalagem. Isso não vale para todos os pares: Ultra Sérum Vitamina C e Solução Vitamina C usam derivados diferentes. Compare o rótulo do produto específico."
+          "A página do Ultra Sérum Niacinamida informa que ele mantém a fórmula da antiga Solução Niacinamida e muda apenas a embalagem. Isso não vale para todos os pares: Ultra Sérum Vitamina C e Solução Vitamina C usam derivados diferentes, então a comparação fica pelo rótulo de cada frasco."
         ],
         "comparisonTable": {
           "headers": [
@@ -201611,20 +201646,19 @@ export const reviewsData: unknown[] = [
         ]
       },
       {
-        "heading": "A niacinamida da Simple Organic é boa? O que o rótulo diz",
+        "heading": "Ultra Sérum Niacinamida: concentração, volume e fragrância",
         "paragraphs": [
-          "O [Ultra Sérum Niacinamida](https://simpleorganic.com.br/products/ultra-serum-niacinamida) declara niacinamida a 10%, 30 mL e lista completa de ingredientes na página. Pelos preços de lista e volumes da tabela, custa R$ 2,30 por mL, empatado com os outros Ultra Séruns de 30 mL comparados.",
-          "A loja informa: o Ultra Sérum Niacinamida é \"a mesma fórmula da Solução Niacinamida, agora em uma nova embalagem\", e a composição leva Parfum. O que a página promete para a pele é frase da marca, e este texto não repete.",
-          "Regra prática, sem teste nosso, para quem evita perfume em produto de rosto: leia a lista de ingredientes antes de fechar, porque este sérum leva Parfum e a página mostra a lista inteira. Gestante, lactante e quem tem alguma condição de pele: a própria página manda ao médico ou ao dermatologista, e na dúvida é ele quem responde, não o rótulo.",
-          "É uma opção para quem procura niacinamida com concentração e volume declarados."
+          "O [Ultra Sérum Niacinamida](https://simpleorganic.com.br/products/ultra-serum-niacinamida) entrega o principal para comparar sem surpresas: niacinamida a 10%, frasco de 30 mL e lista completa de ingredientes na página, empatado no custo por mL com os outros Ultra Séruns de 30 mL da tabela.",
+          "A loja informa que ele mantém a fórmula da antiga Solução Niacinamida em uma nova embalagem, e a composição leva Parfum. O que a página promete para a pele fica como declaração da própria marca.",
+          "Regra prática, sem teste nosso: se você evita perfume em produto de rosto, leia a lista de ingredientes na página antes de fechar o pedido, porque este sérum traz Parfum na fórmula. Gestante, lactante e quem tem alguma condição de pele devem conversar com o médico ou dermatologista, como orienta a própria página."
         ]
       },
       {
-        "heading": "A vitamina C da Simple Organic é boa? Duas fórmulas, dois derivados",
+        "heading": "Vitamina C na Simple Organic: duas fórmulas, dois derivados",
         "paragraphs": [
-          "Depende de qual: a marca vende duas vitaminas C que não são o mesmo produto com embalagem nova, e é o rótulo que separa as duas. O [Ultra Sérum Vitamina C](https://simpleorganic.com.br/products/ultra-serum-vitamina-c) traz, impresso no frasco, 10% de vitamina C na forma de ascorbil fosfato de sódio e 0,5% de ácido ferúlico. A [Solução Vitamina C](https://simpleorganic.com.br/products/solucao-vitamina-c) declara na página 15% de ascorbyl glucoside, outro derivado, e custa mais, pela tabela do capítulo das linhas.",
-          "Os dois são derivados da vitamina C, não o ácido ascórbico puro, e os dois dizem isso no rótulo. O número maior da Solução é de outro derivado, então 15% e 10% não se comparam direto, e o resultado na pele é promessa da página, não resposta deste texto. A Solução tem 30 mL, volume informado na página do kit em que ela entra, e sai a R$ 3,30 por mL pelo preço de lista. O Ultra Sérum não tem volume informado pela loja, e por isso a conta por mL não fecha para ele: entre os dois, a comparação fica pelo derivado e pela concentração.",
-          "O Ultra Sérum combina o derivado ascorbil fosfato de sódio, a 10%, com ácido ferúlico; a Solução usa ascorbyl glucoside, a 15%. Não escolha só pelo percentual, porque os derivados são diferentes. Gestantes e lactantes devem conversar com médico ou dermatologista antes de escolher, conforme orientação da página. Para decidir entre vitamina C e niacinamida e em que ordem usar, veja [Vitamina C ou niacinamida na Simple Organic](/reviews/simple-organic-vitamina-c-ou-niacinamida)."
+          "A marca vende duas vitaminas C que não são o mesmo produto com embalagem nova, e é o tipo de derivado no rótulo que separa as duas. O [Ultra Sérum Vitamina C](https://simpleorganic.com.br/products/ultra-serum-vitamina-c) traz, impresso no frasco, 10% de vitamina C na forma de ascorbil fosfato de sódio e 0,5% de ácido ferúlico. A [Solução Vitamina C](https://simpleorganic.com.br/products/solucao-vitamina-c) declara na página 15% de ascorbyl glucoside, outro derivado, com preço de lista maior na tabela acima.",
+          "Os dois usam derivados da vitamina C, não o ácido ascórbico puro, então 15% e 10% não se comparam de forma direta. A Solução traz 30 mL informados na página do kit, saindo mais cara por mL que os Ultra Séruns de 30 mL; já o Ultra Sérum Vitamina C não informa o volume na loja, deixando a escolha pelo derivado, pela presença do ácido ferúlico e pelo preço do frasco.",
+          "Para gestantes e lactantes, vale a orientação da página de consultar um médico ou dermatologista antes de usar. Se a dúvida é como combinar vitamina C com niacinamida na rotina, veja [Vitamina C ou niacinamida na Simple Organic](/reviews/simple-organic-vitamina-c-ou-niacinamida)."
         ]
       },
       {
@@ -201751,33 +201785,42 @@ export const reviewsData: unknown[] = [
         ]
       },
       {
-        "heading": "Quanto custa com o cupom e onde comprar",
+        "heading": "Quanto custa com o cupom S-EMCASACOMCECILIA e onde comprar",
         "paragraphs": [
-          "Os preços das tabelas são de lista, e em campanha a loja põe o preço do dia abaixo dele, como na Clean Friday que está no ar. Por cima do preço que estiver no carrinho entra o S-EMCASACOMCECILIA: 5% na loja online, o [cupom Simple Organic](/cupons/simple-organic) da parceria.",
-          "O código entrou em kit, em duo e em produto com preço de promoção, e os 5% saíram do preço que já estava no carrinho, não do preço riscado. O que confirma é a linha do desconto no resumo do pedido: confira antes de pagar. O link da parceria abre a home da loja com o código aplicado; o link de produto, como os das tabelas, vai sem ele, então copie o código e cole no campo \"Desconto\" do carrinho. O código é da loja online.",
-          "Para um pedido pequeno, compare o total com frete depois de aplicar o código. O frete grátis começa em R$ 99, e o valor conta depois do desconto do código; confirme no carrinho. Se você já pretende comprar outro item, simule os dois juntos e compare com o total de uma compra só. Se a compra é para presente, o guia de [kits de skincare da Simple Organic para presente](/reviews/kit-skincare-presente-simple-organic) compara as opções e mostra quando o kit custa o mesmo que os avulsos.",
-          "O que pesa, da loja, é o prazo de troca: 7 dias corridos depois de receber, com o lacre inviolado. Na troca voluntária e na desistência, sérum aberto não volta por essa regra (defeito é outro caso, e abrir o produto não impede de reclamar do vício), e por isso o rótulo se lê antes de comprar, não depois; é o que este guia tenta adiantar."
+          "Os preços das tabelas são de lista, e em campanhas como a Clean Friday a loja coloca o valor promocional abaixo dele. Por cima do preço que estiver no carrinho entra o S-EMCASACOMCECILIA: 5% OFF na loja online, o [cupom Simple Organic](/cupons/simple-organic) da parceria, válido em todas as formas de pagamento.",
+          "Nos testes no checkout, o código entrou em kits, duos e produtos em promoção, com o desconto aplicado sobre o valor promocional do carrinho. O link da parceria abre a home da loja com o código já aplicado; como links diretos de produto vão sem ele, copie o S-EMCASACOMCECILIA e cole no campo “Desconto” do carrinho ou no checkout antes de pagar.",
+          "Para pedidos menores, confira o total já com o frete depois de aplicar o cupom: o frete grátis começa em R$ 99,00 contados após o desconto. Se você pretende montar rotina ou presentear, o guia de [kits de skincare da Simple Organic para presente](/reviews/kit-skincare-presente-simple-organic) mostra quando o kit sai pelo mesmo preço dos avulsos.",
+          "Vale também observar a regra de devolução: a troca ou desistência na loja online vale por até 7 dias corridos após o recebimento, com embalagem original, sem uso e lacre inviolado. Em defeito de fabricação, o atendimento trata como vício, mas para devolução voluntária o produto aberto não volta: outro motivo para conferir ativo, fragrância e volume antes de abrir."
         ]
       },
       {
-        "heading": "Para quem vale e para quem não vale",
-        "bullets": [
-          "Para comparar niacinamida pelo rótulo: o Ultra Sérum declara ativo, concentração e volume. Seu preço por mL empata com o dos outros Ultra Séruns de 30 mL da tabela.",
-          "Para comparar as vitaminas C, observe o derivado e a fórmula: o Ultra Sérum traz ácido ferúlico; a Solução usa outro derivado. Não escolha só pelo percentual.",
-          "Para retinol, o Ultra Sérum Retinol, com a dose impressa no frasco; para evitar retinol, o Retinol-Like, de bakuchiol.",
-          "No hidratante, um dos de 40 g para quem quer niacinamida também ali; o Multifuncional para quem quer o pote maior, com manteigas e óleos.",
-          "Não vale esperar comparar tudo por mL: metade das páginas não traz o volume."
+        "heading": "Quem aproveita melhor as fórmulas da Simple Organic",
+        "paragraphs": [
+          "A Simple Organic vale a pena para quem procura cosméticos veganos e de beleza limpa com ativos e concentrações bem definidos na linha de entrada, além de variedade para montar rotina facial completa no mesmo carrinho. Entre as opções do catálogo, cada perfil encontra uma escolha clara:"
         ],
-        "emphasis": "Marca que escreve o ativo e a concentração no frasco deixa a escolha com quem compra. O que eu olharia antes de qualquer promessa é essa linha miúda do rótulo."
+        "bullets": [
+          "Para niacinamida com dose e volume claros: o Ultra Sérum Niacinamida declara 10% do ativo em 30 mL e empata no custo por mL com os demais Ultra Séruns de 30 mL.",
+          "Para vitamina C em derivado estável: escolha entre ascorbil fosfato de sódio a 10% com ácido ferúlico (Ultra Sérum) ou ascorbyl glucoside a 15% (Solução).",
+          "Para retinol ou alternativa vegetal: o Ultra Sérum Retinol traz 0,3% impressos no frasco, enquanto a Solução Retinol-Like entrega bakuchiol a 1% sem retinol.",
+          "Para hidratar no dia a dia: os três hidratantes de 40 g levam niacinamida por preço igual, enquanto o Multifuncional de 80 g aposta em manteigas e óleos sem niacinamida.",
+          "Para comparar por mL sem surpresas: lembre que o Ultra Sérum Vitamina C, o de ácido hialurônico, o PDRN e os perfumes capilares não informam o volume na página."
+        ],
+        "emphasis": "Vale a pena comprar na Simple Organic quando você escolhe pelo ativo e pela concentração escritos no frasco ou na página, e aplicar o cupom S-EMCASACOMCECILIA no carrinho garante 5% OFF até sobre kits e promoções.",
+        "links": [
+          {
+            "label": "Ver o cupom Simple Organic",
+            "href": "/cupons/simple-organic"
+          }
+        ]
       },
       {
         "heading": "Perguntas frequentes",
         "bullets": [
-          "A niacinamida da Simple Organic é boa? Pelo rótulo, ela declara o que importa: niacinamida a 10%, 30 mL e a lista de ingredientes na página, com Parfum na fórmula. O que ela faz na sua pele é pergunta para o dermatologista; o capítulo da niacinamida traz o resto.",
-          "O Ultra Sérum é a mesma coisa que a Solução? Depende do par: a página do Ultra Sérum Niacinamida diz que é a mesma fórmula da Solução Niacinamida em embalagem nova, mas a Solução Vitamina C e o Ultra Sérum Vitamina C usam derivados e concentrações diferentes.",
-          "O Retinol-Like tem retinol? Não: o ativo é o bakuchiol, a 1%, que a marca chama de alternativa vegetal ao retinol. O sérum com retinol é o Ultra Sérum Retinol, com 0,3% impressos no frasco.",
-          "A Simple Organic é vegana? Pela própria marca, sim: ela diz que os produtos são veganos e cruelty-free e aponta selos de terceiros, como o PETA Vegan Approved. Se o selo decide a compra, confira o nome da marca na certificadora.",
-          "Qual sérum da Simple escolher? Compare o ativo, a concentração quando declarada e a fórmula completa. Os outros produtos e as diferenças entre eles estão nos capítulos acima. A escolha adequada à sua pele pode ser discutida com o dermatologista."
+          "A Simple Organic é boa? Com certeza vale para quem procura beleza limpa e vegana com ativos e concentrações claros no rótulo, como niacinamida a 10%, retinol a 0,3% e duas opções de vitamina C. Pelo site oficial, o cupom S-EMCASACOMCECILIA ainda garante 5% OFF em todo o catálogo, inclusive kits e promoções.",
+          "Qual é o cupom da Simple Organic? O cupom da Simple Organic da nossa parceria é S-EMCASACOMCECILIA, com 5% OFF na loja online em todas as formas de pagamento, inclusive em kits e itens em promoção. Confira o passo a passo e as regras na página do [cupom Simple Organic](/cupons/simple-organic).",
+          "O Ultra Sérum é a mesma coisa que a Solução? Não em toda a linha: a página do Ultra Sérum Niacinamida informa que a fórmula é a mesma da antiga Solução em nova embalagem, enquanto o Ultra Sérum Vitamina C e a Solução Vitamina C usam derivados e concentrações diferentes.",
+          "O Retinol-Like tem retinol? Não: o ativo é o bakuchiol a 1%, alternativa vegetal usada sem retinol na composição. Quem procura retinol encontra o ativo a 0,3% impressos no frasco do Ultra Sérum Retinol.",
+          "A Simple Organic é vegana? A marca se apresenta como beleza limpa, vegana e cruelty-free e aponta certificações como PETA Vegan Approved e COSMOS Organic da Ecocert. Caso algum selo decida a sua compra, vale confirmar o produto diretamente na certificadora."
         ]
       }
     ],
@@ -201785,14 +201828,14 @@ export const reviewsData: unknown[] = [
     "cons": [],
     "decision": {
       "takeIf": [
-        "Você escolhe sérum pelo rótulo: ativo e concentração escritos na página ou no frasco, como na niacinamida e no retinol.",
-        "Você quer uma marca que se diz vegana e aponta selos de terceiros, e vai conferir o selo na certificadora se ele decide a compra.",
-        "Você já ia comprar no site oficial e quer os 5% do código por cima do preço do dia."
+        "Você busca cosméticos veganos e de beleza limpa e quer escolher séruns por ativo e concentração declarados, como niacinamida a 10% e retinol a 0,3%.",
+        "Você quer aproveitar o cupom S-EMCASACOMCECILIA para ganhar 5% OFF na loja online, inclusive em kits, duos e itens em promoção.",
+        "Você fecha o pedido a partir do mínimo do frete grátis já com o desconto aplicado e confere a lista de ingredientes antes de abrir o lacre."
       ],
       "skipIf": [
-        "Você evita perfume em produto de rosto: a lista do Ultra Sérum Niacinamida leva Parfum.",
-        "Você quer comparar os séruns por mL: o Ultra Sérum Vitamina C, o ácido hialurônico e o PDRN não trazem o volume na página.",
-        "Você vai comprar na loja física ou na farmácia: o código é da loja online."
+        "Você evita perfume ou óleo essencial em produto de rosto: o Ultra Sérum Niacinamida leva Parfum e o Hidratante Multifuncional leva óleo de lemongrass.",
+        "Você faz questão de comparar todos os séruns pelo custo por mL antes da compra, pois o Ultra Sérum Vitamina C, o de ácido hialurônico e a Solução PDRN não informam o volume na página.",
+        "Você pretende comprar na loja física ou em farmácia, já que o cupom S-EMCASACOMCECILIA vale apenas na loja online."
       ]
     },
     "cta": {
@@ -201835,7 +201878,7 @@ export const reviewsData: unknown[] = [
       "initials": "CM",
       "url": "/sobre"
     },
-    "description": "O panetone Belive é bom? Pelo rótulo, sem glúten, sem leite de vaca e sem açúcar adicionado nos dois sabores: ingredientes, tabela nutricional, o chocotone e o preço com o código.",
+    "description": "O panetone Belive é bom? Sim, pelo rótulo, é sem glúten, sem leite de vaca e sem açúcar adicionado nos dois sabores: veja ingredientes, tabela, chocotone e preço.",
     "metaDescription": "O cupom Belive MAUAD dá 10% OFF no panetone. Chocolate e frutas pelo rótulo: ingredientes, tabela nutricional, o que é o chocotone e o preço dos kits.",
     "publishedAt": "4 de novembro de 2026",
     "publishedAtISO": "2026-11-04",
@@ -201850,14 +201893,14 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Resposta rápida",
         "paragraphs": [
-          "Pelo rótulo, sim: os dois panetones da Belive são sem glúten, sem leite de vaca e sem açúcar adicionado, com ingredientes e tabela nutricional na página. O chocotone é o de chocolate, com outro nome nos kits. O que decide é o carboidrato, e a conta é com o nutricionista; no site oficial, o cupom Belive MAUAD dá 10% OFF."
+          "É bom, sim: pelo rótulo, os dois panetones da Belive são sem glúten, sem leite de vaca e sem açúcar adicionado, opção para quem evita esses ingredientes na ceia e quer tabela clara. O chocotone é o de chocolate nos kits. Compare abaixo carboidratos e gorduras com o nutricionista; o cupom Belive MAUAD dá 10% OFF."
         ]
       },
       {
         "heading": "O que a Belive vende em panetone, e o que é o chocotone",
         "paragraphs": [
           "São dois panetones e três kits, e nada mais: não existe chocotone avulso. O panetone de chocolate tem recheio de brownie, gotas de chocolate 42% cacau e cobertura sabor chocolate; o de frutas cristalizadas leva uva-passa e amêndoas laminadas. Os dois vêm em caixa de 420 g. Nos kits de 3, a loja chama o de chocolate de \"chocotone\": [Kit 3 Chocotones](https://belivebefree.com.br/produto/oferta-especial-kit-3-chocotones-sem-gluten-sem-acucar-sem-leite-belive/), [Kit 1 Panetone Frutas + 2 Chocotones](https://belivebefree.com.br/produto/kit-panetone-chocotones-sem-gluten-zero-acucar-belive/) e [Kit 3 Panetones Frutas](https://belivebefree.com.br/produto/oferta-especial-kit-3-panetones-sem-gluten-zero-acucar-frutas-belive/). Quem procura \"chocotone Belive\" está procurando o panetone de chocolate, e a página dele é a mesma.",
-          "Para servir, a marca sugere aquecer a fatia no micro-ondas ou na frigideira. É sugestão da loja, não teste nosso."
+          "Para servir, a marca sugere aquecer a fatia no micro-ondas ou na frigideira."
         ]
       },
       {
@@ -202005,7 +202048,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Perguntas frequentes",
         "bullets": [
-          "O panetone Belive é bom? Pelo rótulo, é um panetone sem glúten, sem leite de vaca e sem açúcar adicionado, em dois sabores, com ingredientes e tabela nutricional publicados; os números estão na tabela por 100 g.",
+          "O panetone Belive é bom? É bom, sim: pelo rótulo, os dois sabores são sem glúten, sem leite de vaca e sem açúcar adicionado, com ingredientes e tabela nutricional publicados na página; compare os números por 100 g na tabela acima.",
           "O chocotone da Belive é o de chocolate? É: \"chocotone\" é o nome que a loja dá ao panetone de chocolate nos kits de 3, e não existe chocotone avulso.",
           "A Belive tem panetone sem açúcar? Tem, nos dois sabores: zero açúcar adicionado, adoçados com maltitol e glicosídeos de esteviol; o de frutas tem o açúcar da própria fruta, como mostra o capítulo dele.",
           "O panetone Belive tem leite ou glúten? O rótulo diz \"não contém glúten\" e a marca declara os dois sem leite e sem lactose; os dois levam leite de coco em pó e trazem amêndoas, ovo e soja na lista de alérgenos.",
@@ -202069,7 +202112,7 @@ export const reviewsData: unknown[] = [
       "initials": "CM",
       "url": "/sobre"
     },
-    "description": "A Skelt é boa? Sim, para quem escolhe pelo rótulo: veja o que cada autobronzeador, body splash e hidratante declara, quanto custam e para quem a marca compensa.",
+    "description": "A Skelt é boa? Claro: para quem escolhe pelo rótulo, veja o que cada autobronzeador, body splash e hidratante declara, quanto custam e para quem a marca compensa.",
     "metaDescription": "O cupom SKEMCASACOMCECILIA dá 10% OFF em todo o site da Skelt. Autobronzeador, body splash e hidratante pelo rótulo, preço e frete: para quem compensa.",
     "publishedAt": "4 de novembro de 2026",
     "publishedAtISO": "2026-11-04",
@@ -202084,7 +202127,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Resposta rápida",
         "paragraphs": [
-          "Sim, para quem escolhe pelo rótulo: a Skelt declara intensidade, duração e nível da maioria dos autobronzeadores, e as notas de cada body splash. O que muda a escolha é o tipo e a intensidade do autobronzeador, e a fragrância do body splash. O SKEMCASACOMCECILIA tira 10% de tudo no site da Skelt."
+          "Claro que vale para quem escolhe pelo rótulo: a Skelt declara intensidade, duração e nível da maioria dos autobronzeadores, além das notas de cada body splash. O que muda a escolha é o tipo de aplicação e a fragrância. O cupom SKEMCASACOMCECILIA dá 10% OFF em todo o site, em todas as formas de pagamento. Veja abaixo cada linha."
         ]
       },
       {
@@ -202424,7 +202467,7 @@ export const reviewsData: unknown[] = [
           "Não vale o pedido pequeno no Norte e no Nordeste: o frete grátis pede R$ 199.",
           "Pele sensível, alergia ou gestação: na dúvida, o dermatologista, antes de qualquer autobronzeador ou fragrância."
         ],
-        "emphasis": "Se eu estivesse começando, eu levaria o Kit Iniciante: o mousse com cor-guia e a luva por menos que as duas peças avulsas.",
+        "emphasis": "Para começar sem erro, o caminho é o Kit Iniciante: ele traz o mousse com cor-guia e a luva por menos que as duas peças avulsas.",
         "links": [
           {
             "label": "Ir para a Skelt com o cupom",
@@ -202441,7 +202484,7 @@ export const reviewsData: unknown[] = [
         "heading": "Perguntas frequentes",
         "bullets": [
           "Qual é o cupom da Skelt? O cupom da Skelt da nossa parceria é SKEMCASACOMCECILIA, com 10% OFF em todo o site oficial, para cliente novo ou antigo, em todas as formas de pagamento. Soma com o Pix da loja, e o teste e as regras estão no capítulo do cupom.",
-          "A Skelt é boa? Pelo rótulo, é uma marca de autobronzeador, body splash e hidratação corporal que publica o que cada produto é: intensidade, duração e nível dos autobronzeadores, a cor-guia quando ela existe, as notas nos body splash; qual serve para você está no capítulo de cada linha.",
+          "A Skelt é boa? Claro: a marca publica intensidade, duração e nível dos autobronzeadores, a cor-guia quando ela existe e as notas nos body splash; qual serve para você está no capítulo de cada linha.",
           "Qual o melhor autobronzeador da Skelt? Não há um para todos: quem nunca usou começa pelo Mousse, com cor-guia e nível iniciante; quem já sabe aplicar e quer mais cor vai às versões Dark; quem não quer cor-guia, à Água ou ao Gel, como mostra a tabela dos autobronzeadores.",
           "Os perfumes e os body splash da Skelt são bons, e qual é o melhor? A marca publica as notas de cada fragrância e o frasco de 100 mL, e o Solar Muse é o mais vendido do site. Não há um melhor para todos, porque cheiro é gosto: a marca descreve as dez como de alta fixação, sem tempo em horas, e os kits de miniaturas servem para provar antes. O capítulo dos body splash agrupa as dez por perfil."
         ]
@@ -202513,7 +202556,7 @@ export const reviewsData: unknown[] = [
       "initials": "CM",
       "url": "/sobre"
     },
-    "description": "A I Wanna Sleep é boa? Sim, para travesseiro: veja as dez linhas por altura e material, a conta dos kits, melatonina e spray pelo rótulo, o código da parceria e onde comprar.",
+    "description": "A I Wanna Sleep é boa? Com certeza vale para travesseiro: veja as dez linhas por altura e material, a conta dos kits, melatonina e spray pelo rótulo, o código e onde comprar.",
     "metaDescription": "O cupom CECIEMCASA dá 10% OFF em todo o site da I Wanna Sleep. Travesseiros por altura e material, kits, melatonina pelo rótulo e onde comprar.",
     "publishedAt": "4 de novembro de 2026",
     "publishedAtISO": "2026-11-04",
@@ -202528,7 +202571,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Resposta rápida",
         "paragraphs": [
-          "Sim, para quem procura travesseiro: a I Wanna Sleep vende dez modelos e informa altura, material e tamanho, e é por isso que se escolhe. Melatonina e spray entram só pelo rótulo, e colchão não se compra pelo site. O que muda a conta é o kit e o código CECIEMCASA, de 10% OFF em todo o site."
+          "Com certeza vale para quem procura travesseiro: a I Wanna Sleep vende dez modelos e informa altura, material e tamanho para acertar a escolha. Colchões ficam só nas lojas físicas de BH, e melatonina entra apenas pelo rótulo. O código CECIEMCASA dá 10% OFF em todo o site; a conta dos kits e cada linha estão abaixo."
         ]
       },
       {
@@ -202788,7 +202831,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Dá para confiar na I Wanna Sleep",
         "paragraphs": [
-          "Dá. A empresa tem CNPJ ativo em Belo Horizonte, sete lojas de rua e shopping e políticas de troca e devolução publicadas. No Reclame Aqui, a janela de seis meses tem o selo RA1000, com nota 8,7 e todas as reclamações respondidas; na janela de 12 meses, a reputação é Boa, com nota 7,9. A queixa mais comum na aba geral, de até três anos, é atraso na entrega. A troca de travesseiro pelo Sleeptest pede a etiqueta intacta, então não rasgue nada antes de decidir, e o domínio oficial é iwannasleep.com.br."
+          "Sim: a empresa tem CNPJ ativo em Belo Horizonte, sete lojas de rua e shopping na cidade, domínio oficial em iwannasleep.com.br e políticas de troca e devolução publicadas. No site, valem os 7 dias corridos de arrependimento com primeira devolução grátis (exceto colchão) e o Sleeptest de 30 dias para travesseiro e pillow top, com uso mínimo de 15 dias e troca por crédito. A troca pelo Sleeptest pede a etiqueta intacta, então não rasgue nada antes de decidir."
         ]
       },
       {
@@ -202807,8 +202850,9 @@ export const reviewsData: unknown[] = [
         "heading": "Perguntas frequentes",
         "bullets": [
           "A I Wanna Sleep é boa? Para travesseiro, sim: a marca vende dez modelos e informa altura, material e tamanho de cada um, como mostra o capítulo dos travesseiros; melatonina e spray entram só pelo rótulo.",
+          "Qual é o cupom da I Wanna Sleep? É o CECIEMCASA, com 10% OFF em todo o site e em todas as formas de pagamento, acumulando com promoções e com os 5% do Pix à vista; as regras e o passo a passo estão na página do [cupom I Wanna Sleep](/cupons/i-wanna-sleep).",
           "A I Wanna Sleep vale a pena? Vale para quem escolhe o travesseiro pela posição e pelo material e compra pelo site com o código da parceria, que dá 10% e soma com o Pix.",
-          "O travesseiro I Wanna Sleep é bom? Depende da posição em que você dorme e da altura de que precisa: o Snow se regula em casa, o Látex vem em três alturas fixas e os cervicais têm contorno para quem dorme de costas ou de lado.",
+          "O travesseiro I Wanna Sleep é bom? Sim, desde que você escolha a altura para a sua posição de dormir: o Snow se regula em casa, o Látex vem em três alturas fixas e os cervicais têm contorno para quem dorme de costas ou de lado.",
           "A melatonina da I Wanna Sleep é boa? É um suplemento em gotas ou em goma, e o rótulo traz a porção e o modo de uso; quantidade, horário e tempo de uso são conversa com o médico, como diz o capítulo da melatonina.",
           "A I Wanna Sleep tem loja em BH? Tem sete, e é nelas que se compra o colchão e se experimenta o box.",
           "Qual travesseiro I Wanna Sleep escolher? O Snow permite ajustar a altura; o Látex vem nas alturas P, M e G; os três cervicais têm contorno; e o Airgelly pode ser lavado por inteiro. Compare as medidas e o material antes de escolher."
@@ -202889,7 +202933,7 @@ export const reviewsData: unknown[] = [
       "initials": "CM",
       "url": "/sobre"
     },
-    "description": "A Cléa Store é boa? Sim, para quem quer camiseta oversized de algodão, body justo e alfaiataria de linho: o que a página mostra, o preço com o cupom e para quem compensa.",
+    "description": "A Cléa Store é boa? Vale, sim, para quem quer camiseta oversized de algodão, body justo e alfaiataria de linho: o que a página mostra, o preço com o cupom e para quem compensa.",
     "metaDescription": "O cupom CSEMCASACOMCECILIA dá 10% OFF em todo o site da Cléa Store. Camiseta oversized, bodies e alfaiataria pelo que a loja publica: para quem compensa.",
     "publishedAt": "4 de novembro de 2026",
     "publishedAtISO": "2026-11-04",
@@ -202904,7 +202948,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Resposta rápida",
         "paragraphs": [
-          "Sim, para quem quer camiseta oversized de algodão, body justo ou alfaiataria de linho numa loja só, com devolução grátis. Camisetas e bodies saem em P, M e G; o que muda a escolha é o tamanho e o preço por peça do kit. O CSEMCASACOMCECILIA dá 10% OFF em todo o site e soma com as promoções."
+          "Vale, sim, para quem quer camiseta oversized de algodão, body justo ou alfaiataria de linho numa loja só, com devolução grátis. Camisetas e bodies saem em P, M e G; o que decide é a medida e o preço por peça do kit. O CSEMCASACOMCECILIA dá 10% OFF em todo o site e soma com promoções, explicado abaixo."
         ]
       },
       {
@@ -203144,16 +203188,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Dá para confiar na Cléa Store",
         "paragraphs": [
-          "Dá, com pontos de atenção. A loja é da Clea Store Ltda., empresa com CNPJ ativo, endereço e razão social publicados no site, em Jaraguá do Sul (SC). No Reclame Aqui, consultado em 21 de novembro de 2026, o perfil mostrava:"
-        ],
-        "bullets": [
-          "**A favor:** reputação Boa nos 6 meses (nota 7,1) e nos 12 (nota 7,2), selo de Empresa Verificada e 5 anos de perfil na plataforma.",
-          "**A favor:** 100% das reclamações respondidas, com 80% resolvidas entre as avaliadas no semestre, e 4,8 em 5 nas avaliações de compra do RA Reviews.",
-          "**Atenção:** só 58% das reclamações avaliadas terminaram com o consumidor disposto a voltar a comprar, e a nota média do consumidor foi de 5,06.",
-          "**Atenção:** produto não recebido é o problema mais citado na aba geral do perfil, com 33,18%, e o tempo médio de resposta foi de 2 dias e 18 horas."
-        ],
-        "postParagraphs": [
-          "Os índices de solução e de recompra valem para quem reclamou e avaliou, não para todas as compradoras, e a nota mede o atendimento às reclamações, não a qualidade das peças. Para comprar tranquila: site oficial, cupom no carrinho, comprovante e rastreio guardados, e a devolução grátis dentro dos 30 dias como rede de segurança."
+          "Sim: a loja é da Clea Store Ltda., empresa com CNPJ ativo, razão social e endereço em Jaraguá do Sul (SC) publicados no site oficial (cleastore.com.br). Para comprar online com tranquilidade, confira as medidas na página de cada peça, guarde o comprovante e o rastreio e conte com a devolução grátis em até 30 dias corridos após o recebimento."
         ]
       },
       {
@@ -203163,7 +203198,7 @@ export const reviewsData: unknown[] = [
           "Para a camiseta de caimento regular, a Comfort de algodão peruano, que custa mais por peça e não tem kit.",
           "Para o body que vai por baixo do blazer e segura o frio, o Gola Alta Manga Longa; para o dia a dia com jeans, o Duplo ou o Cavado.",
           "Para a alfaiataria de linho montada peça a peça, o blazer ou o colete com a calça ou o shorts da mesma cor, enquanto a grade do seu tamanho estiver aberta.",
-          "Não vale para quem precisa saber a gramatura ou o toque antes de comprar: a página não traz, e isso só se decide com a peça na mão.",
+          "Não vale para quem precisa conferir a gramatura da malha antes de comprar, pois essa medida não aparece na página da camiseta.",
           "Não vale o pedido de uma peça só, longe do frete grátis: nesse caso, compare com o Mercado Livre antes de fechar no site."
         ],
         "emphasis": "Eu começaria pela camiseta avulsa, de R$ 129,00: ela mostra se o P, o M ou o G cai bem antes de pagar por três."
@@ -203171,10 +203206,10 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Perguntas frequentes",
         "bullets": [
-          "A Cléa Store é boa? Sim, para quem quer camiseta oversized de algodão, body justo ou alfaiataria de linho numa loja só, com devolução grátis e cupom de 10%; o que pesa é o tamanho e o preço por peça do kit, nos capítulos da camiseta e do cupom.",
+          "A Cléa Store é boa? Vale, sim, para quem quer camiseta oversized de algodão, body justo ou alfaiataria de linho numa loja só, com devolução grátis e cupom de 10%; o que pesa é o tamanho e o preço por peça do kit, nos capítulos da camiseta e do cupom.",
           "A camiseta da Cléa é boa? Pelo que a loja publica, a oversized tem corpo 100% algodão, dez cores e tamanhos P, M e G, sem a gramatura na página, e a Comfort tem algodão peruano e caimento regular; o capítulo da camiseta resume e aponta o guia completo.",
-          "A Cléa Store tem cupom? Tem: o CSEMCASACOMCECILIA dá 10% em todo o site, em todas as formas de pagamento, e soma com as promoções e com o cashback; o capítulo do cupom mostra onde digitar.",
-          "A Cléa Store é confiável? Sim, com pontos de atenção: CNPJ ativo, dados publicados no site, devolução grátis e reputação Boa nos 6 e nos 12 meses no Reclame Aqui, com todas as reclamações respondidas. Só 58% das reclamações avaliadas terminaram com o consumidor disposto a voltar a comprar, como mostra o capítulo de confiança.",
+          "Qual é o cupom da Cléa Store? É o CSEMCASACOMCECILIA, com 10% em todo o site, em todas as formas de pagamento, somando com as promoções e com o cashback; o capítulo do cupom mostra onde digitar.",
+          "A Cléa Store é confiável? Sim: a Clea Store Ltda. tem CNPJ ativo, razão social e endereço publicados no site oficial e oferece devolução grátis em até 30 dias corridos, como mostra o capítulo de confiança.",
           "A Cléa Store tem tabela de medidas? Tem, na página de cada peça, no botão \"Tabela de Medidas\", com busto, cintura e quadril em centímetros; o capítulo de tamanho explica como usar."
         ]
       }
@@ -203187,7 +203222,7 @@ export const reviewsData: unknown[] = [
         "Você escolhe o tamanho pela tabela de medidas de cada peça e aceita a grade de cada peça."
       ],
       "skipIf": [
-        "Você precisa de uma informação que a página não traz, como a gramatura da camiseta ou o toque do tecido.",
+        "Você precisa conferir a gramatura da camiseta antes de comprar: essa informação não está publicada na página.",
         "Você quer só uma camiseta ou um body avulso: o pedido pequeno fica longe do frete grátis, e o Mercado Livre pode sair melhor."
       ]
     },
@@ -203237,7 +203272,7 @@ export const reviewsData: unknown[] = [
     "id": 792,
     "slug": "toda-up-e-boa",
     "title": "Toda Up é boa? Sutiãs, segunda pele, Fita Up e kits: o que vale comprar da marca",
-    "seoTitle": "Toda Up é boa? Sutiã Comfort, SkinUp, Fita Up e o cupom",
+    "seoTitle": "Toda Up é boa? Sutiã Comfort, SkinUp e Fita Up",
     "type": "Guia de Marca",
     "category": "guias-praticos-utilidade",
     "reviewKind": "guia",
@@ -203248,11 +203283,11 @@ export const reviewsData: unknown[] = [
       "initials": "CM",
       "url": "/sobre"
     },
-    "description": "Sutiãs, segunda pele e adesivos Toda Up: como comparar formatos e medidas pelas páginas da loja, quais kits avaliar e como usar o código de desconto.",
-    "metaDescription": "O MAUAD dá 10% OFF em todo o site da Toda Up. Sutiãs Comfort, SkinUp, Cotton Up e Fita Up pela página da loja, os kits que compensam e onde comprar.",
+    "description": "Veja para quem a Toda Up vale a pena, compare sutiãs Comfort, SkinUp, Cotton Up e Fita Up por formato e faixa de tamanhos até o G3, saiba quais kits compensam e use o cupom MAUAD.",
+    "metaDescription": "O MAUAD dá 10% OFF em todo o site da Toda Up. Veja para quem vale, sutiãs Comfort, SkinUp, Cotton Up, Fita Up e quais kits compensam.",
     "publishedAt": "4 de novembro de 2026",
     "publishedAtISO": "2026-11-04",
-    "updatedAt": "2026-11-23",
+    "updatedAt": "2026-11-24",
     "draft": false,
     "isNew": true,
     "image": "/images/reviews/toda-up/toda-up-e-boa-capa-v2.webp",
@@ -203263,14 +203298,14 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Resposta rápida",
         "paragraphs": [
-          "Na Toda Up, comece pelo formato e pela tabela de medidas do modelo: só o Comfort Up chega ao G3, a SkinUp serve para roupa justa e a Cotton Up para algodão e roupa larga. O [cupom Toda Up](/cupons/toda-up), MAUAD, dá 10% OFF no site oficial, em todas as formas de pagamento. A conta dos kits está abaixo."
+          "Com certeza vale para quem busca sutiãs sem costura, segunda pele ou soluções como a Fita Up: a Toda Up entrega variedade de formatos, tamanhos até o G3 no Comfort Up e economia nos kits de três conjuntos ou sutiãs. O cupom MAUAD dá 10% OFF no site oficial, em todas as formas de pagamento. Compare linhas e medidas abaixo."
         ]
       },
       {
         "heading": "O que a Toda Up vende e de onde veio",
         "paragraphs": [
-          "Se você quer sutiã, segunda pele ou adesivo, vai encontrar tudo na mesma loja, em cinco grupos. A marca é de Biguaçu (SC) e começou com a Fita UP, a fita adesiva para decote; cresceu, passou a se chamar Toda Up, e a fita continua à venda. A loja oficial é a todaup.com, e a marca também vende no Mercado Livre, na Amazon e em lojas físicas parceiras, mas o cupom MAUAD vale só no site oficial ([onde comprar a Fita Up original](/reviews/fita-up-onde-comprar-original)).",
-          "As linhas, com o capítulo de cada uma abaixo:"
+          "Originária de Biguaçu (SC), a marca começou vendendo a Fita UP (a fita adesiva para decote), cresceu para moda íntima feminina e passou a se chamar Toda Up, mantendo a fita à venda em cinco linhas principais. A loja oficial é a todaup.com, e a marca também vende no Mercado Livre, na Amazon e em lojas físicas parceiras, embora o cupom MAUAD valha apenas no site oficial ([onde comprar a Fita Up original](/reviews/fita-up-onde-comprar-original)).",
+          "Para conferir o CNPJ da empresa, os canais oficiais e as notas e reclamações recentes, acesse se a [Toda Up é confiável](/reviews/toda-up-e-confiavel) e o panorama da [Toda Up no Reclame Aqui](/reviews/toda-up-reclame-aqui-nota-reputacao). As linhas do catálogo estão resumidas abaixo:"
         ],
         "bullets": [
           "**Sutiãs Comfort:** Comfort Up, Comfort Line e Comfort Slim, o sutiã de todo dia em três formatos.",
@@ -203389,8 +203424,8 @@ export const reviewsData: unknown[] = [
       {
         "heading": "SkinUp: segunda pele sem costura",
         "paragraphs": [
-          "A SkinUp é descrita pela loja como segunda pele de corte a laser e acabamento ultrafino, sem costura. O Top Segunda Pele tem alça larga, sem fecho ou regulagem, e é para quem quer roupa justa sem marcar; quem veste PP fica de fora, porque ele começa no P. O Sutiã Top Alça Fina tem alças reguláveis e fecho de quatro níveis, e é o único dos cinco tops da SkinUp e da Cotton Up com PP. O Sutiã Clássico tem bojo fixo, sem aro, e efeito push-up anunciado pela marca.",
-          "Compare a peça com a roupa que vai por cima e com as suas medidas. O acabamento divulgado pela marca ajuda a escolher o formato, mas não garante invisibilidade em toda roupa."
+          "A SkinUp é a linha indicada para usar sob roupa justa sem marcar, com corte a laser e acabamento ultrafino sem costura segundo a loja. O Top Segunda Pele tem alça larga, sem fecho ou regulagem, e começa no P (deixando quem veste PP de fora). O Sutiã Top Alça Fina traz alças reguláveis e fecho de quatro níveis, sendo o único dos cinco tops da SkinUp e da Cotton Up com tamanho PP. Já o Sutiã Clássico tem bojo fixo, sem aro, com efeito push-up anunciado pela marca.",
+          "Compare a peça com a roupa que vai por cima e com as suas medidas, porque o acabamento ajuda a escolher o formato, mas depende do caimento da peça externa."
         ],
         "comparisonTable": {
           "headers": [
@@ -203496,7 +203531,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Cotton Up: o básico de algodão",
         "paragraphs": [
-          "A Cotton Up é a linha de algodão. O Top Faixa tem corte reto e o Top Triangular, decote em V; os dois têm bojo removível, o Faixa é descrito como algodão com 5% de elastano, e a loja classifica a sustentação como leve. É para quem quer conforto em casa e sob roupa larga: quem precisa de sustentação firme olha o Comfort. A Calcinha Biquíni Cotton Up é a única de algodão, com o cós de elástico à mostra."
+          "A Cotton Up é a linha indicada para quem busca conforto de algodão em casa e sob roupa larga, com sustentação classificada como leve pela loja. O Top Faixa tem corte reto (descrito como algodão com 5% de elastano) e o Top Triangular traz decote em V, ambos com bojo removível; quem precisa de sustentação mais firme deve olhar o Comfort. A Calcinha Biquíni Cotton Up é a única de algodão da marca, com cós de elástico à mostra."
         ],
         "comparisonTable": {
           "headers": [
@@ -203759,28 +203794,25 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Envio, troca e devolução",
         "paragraphs": [
-          "A troca por tamanho é o que protege a compra de sutiã pela internet, e na Toda Up ela vale por 30 dias corridos depois do recebimento, com frete grátis na primeira troca. O pedido sai em até 3 dias úteis depois da confirmação do pagamento, com o rastreio por e-mail. Troca de modelo, tamanho ou cor e devolução por arrependimento se pedem no portal de trocas da loja, com o CPF da titular e o número do pedido; a peça volta com etiqueta, sem sinal de uso, lavagem ou perfume, e a segunda troca tem o frete por conta da cliente. O que a política não fixa é em quantos dias o reembolso cai: no cartão, o estorno é pela administradora. Se o prazo pesa para você, pergunte ao atendimento, por e-mail ou WhatsApp, antes de devolver."
+          "A troca por tamanho é o que protege a compra de sutiã pela internet, e na Toda Up ela vale por 30 dias corridos depois do recebimento. O pedido sai em até 3 dias úteis depois da confirmação do pagamento, com o rastreio por e-mail. Troca de modelo, tamanho ou cor e devolução por arrependimento se pedem no portal de trocas da loja, com o CPF da titular e o número do pedido; a peça volta com etiqueta, sem sinal de uso, lavagem ou perfume, conforme as condições do portal de trocas. O que a política não fixa é em quantos dias o reembolso cai: no cartão, o estorno é pela administradora. Se o prazo pesa para você, pergunte ao atendimento, por e-mail ou WhatsApp, antes de devolver."
         ]
       },
       {
-        "heading": "Dá para confiar na Toda Up",
+        "heading": "Qual linha da Toda Up resolve cada roupa",
         "paragraphs": [
-          "Dá. A loja é da mesma empresa de Biguaçu (SC) que abriu como Fita UP, com CNPJ ativo no rodapé do site, o mesmo da consulta pública e do perfil no Reclame Aqui, e regras de troca, reembolso e frete publicadas. No Reclame Aqui, o perfil estava com reputação Ótima, com nota 8,2 nos seis meses até o fim de outubro, todas as reclamações respondidas e 89% resolvidas.",
-          "Os pontos de atenção: o problema mais citado é atraso na entrega, e nesse caso o caminho é o SAC da loja, com o número do pedido; a política não fixa o prazo de reembolso; e o que a loja diz da qualidade das peças é a marca falando de si."
-        ]
-      },
-      {
-        "heading": "Para quem vale e para quem não vale",
+          "A Toda Up vale a pena porque reúne, na mesma loja oficial, sutiãs sem aro com modelagem até o G3 (Comfort Up), segunda pele sem costura cortada a laser (SkinUp), básicos de algodão (Cotton Up) e soluções adesivas como a Fita Up, com troca por tamanho prevista em até 30 dias corridos após o recebimento. O único cuidado indispensável é conferir a medida em centímetros na coluna do modelo escolhido, já que a mesma letra varia entre as linhas.",
+          "Para pagar menos, priorize os kits de três conjuntos SkinUp ou o Kit Comfort Up quando for usar todas as peças e aplique o cupom MAUAD no checkout (10% OFF em todas as formas de pagamento no site oficial, fora dos itens Black VIP, Todalovers, Influ ou Oferta Exclusiva)."
+        ],
         "bullets": [
-          "Para o sutiã de todo dia com a maior faixa de tamanho, o Comfort Up; para tomara que caia, o Comfort Line, a partir do P.",
+          "Para o sutiã de todo dia com a maior faixa de tamanho, o Comfort Up (PP ao G3); para tomara que caia, o Comfort Line, a partir do P.",
           "Para roupa justa, a SkinUp; entre os cinco tops da SkinUp e da Cotton Up, o Alça Fina é o único com PP.",
           "Para algodão e preço menor, em casa e sob roupa larga, a Cotton Up.",
           "Para o decote sem sutiã, a Fita Up, cortada por uso, ou o Sutiã de Silicone Invisível, pronto.",
           "Para três conjuntos ou os três sutiãs de uma vez, o kit de três conjuntos SkinUp ou o Kit Comfort Up; o de um conjunto quase não economiza.",
           "Não vale para quem veste PP e quer o Comfort Line, o Top Segunda Pele ou um kit de top e calcinha: todos começam no P.",
-          "Não vale para quem precisa saber o prazo do reembolso antes de comprar: a política não fixa."
+          "Não vale para quem precisa saber o prazo exato do reembolso antes de comprar sem consultar o atendimento: a política não fixa."
         ],
-        "emphasis": "O erro caro na Toda Up é comprar pelo número que você usa em outra marca: confira a medida na coluna do modelo, porque a mesma letra não tem a mesma medida nos três Comfort.",
+        "emphasis": "Vale, sim, comprar na Toda Up quando você escolhe a linha certa pelo uso (Comfort, SkinUp, Cotton Up ou Fita Up) e confere a medida na coluna exata do modelo antes de finalizar com o cupom MAUAD.",
         "links": [
           {
             "label": "Ver o Sutiã Comfort Up na Toda Up",
@@ -203797,10 +203829,10 @@ export const reviewsData: unknown[] = [
         "heading": "Perguntas frequentes",
         "bullets": [
           "Qual é o cupom da Toda Up? É o MAUAD, com 10% OFF no site oficial da Toda Up, em todas as formas de pagamento. Ele não vale nos itens marcados como Black VIP, Todalovers, Influ ou Oferta Exclusiva.",
-          "A Toda Up é boa? Depende da peça: cada linha tem um uso definido, e a tabela de medidas de cada modelo mostra o tamanho certo. O cupom deste artigo vale só no site oficial.",
-          "A Toda Up é confiável? É: empresa registrada em Biguaçu (SC), com o CNPJ no rodapé, troca em 30 dias e reputação Ótima no Reclame Aqui; os pontos de atenção estão no capítulo de confiança.",
-          "Sutiã da Toda Up é bom? Pela página da loja, os três sutiãs Comfort têm o mesmo tecido e o mesmo preço, e o que muda é a faixa de tamanho e as alças; o capítulo dos sutiãs resume, e o guia dos Comfort traz a tabela de busto.",
-          "A Toda Up é a mesma Fita Up? É: a Fita UP cresceu e virou Toda Up, a mesma empresa e a mesma equipe; a fita segue à venda."
+          "A Toda Up é boa? Sim, vale a pena para quem busca sutiãs sem aro ou segunda pele sem costura com variedade de formatos, tamanhos até o G3 no Comfort Up e soluções como a Fita Up, além de economia nos kits com três conjuntos ou sutiãs e 10% OFF no site oficial com o cupom MAUAD.",
+          "A Toda Up é confiável? Sim: é a marca da FITA UP LTDA, registrada em Biguaçu (SC), com troca em 30 dias e reputação Ótima no Reclame Aqui. Confira CNPJ, canais e números completos nos guias se a [Toda Up é confiável](/reviews/toda-up-e-confiavel) e [Toda Up no Reclame Aqui](/reviews/toda-up-reclame-aqui-nota-reputacao).",
+          "Sutiã da Toda Up é bom? Sim, especialmente para escolher por faixa de tamanho e uso: a loja informa 76,6% de poliamida e 23,5% de elastano na leitura da linha Comfort (confira a ficha de cada modelo no capítulo Sutiãs Comfort), com destaque para o Comfort Up (do PP ao G3) e o Comfort Line (tomara que caia a partir do P), além da linha sem costura SkinUp.",
+          "A Toda Up é a mesma Fita Up? É: a Fita UP cresceu e virou Toda Up, mantendo a mesma empresa e a mesma equipe; a fita segue à venda."
         ]
       }
     ],
@@ -203861,8 +203893,8 @@ export const reviewsData: unknown[] = [
       "initials": "CM",
       "url": "/sobre"
     },
-    "description": "A Let's Eat It é boa? Sim, para casa e presente com troca em 30 dias: veja o que a loja vende, a Le Creuset no localizador oficial, o código de 5% e o que o Reclame Aqui mostra.",
-    "metaDescription": "O código MAUAD dá 5% OFF no site da Let's Eat It. A loja é boa? Le Creuset no localizador oficial, Porto Brasil, troca em 30 dias e Reclame Aqui.",
+    "description": "É boa, sim, para casa e presente com troca em 30 dias: veja o que a Let's Eat It vende, a Le Creuset no localizador oficial, o código de 5% e os prazos de entrega.",
+    "metaDescription": "O código MAUAD dá 5% OFF no site da Let's Eat It. A loja é boa? Le Creuset no localizador oficial, Porto Brasil, troca em 30 dias e prazos de frete.",
     "publishedAt": "4 de novembro de 2026",
     "publishedAtISO": "2026-11-04",
     "updatedAt": "2026-11-22",
@@ -203876,7 +203908,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Resposta rápida",
         "paragraphs": [
-          "Sim: a Let's Eat It é loja multimarca de casa e presentes, com empresa ativa, troca em 30 dias e a Le Creuset dela no localizador oficial da marca. O que pesa contra é o prazo de entrega e a peça frágil. No site, o [cupom Let's Eat It](/cupons/letseatit) MAUAD dá 5% OFF em todas as formas de pagamento e soma com o Pix."
+          "É boa, sim: a Let's Eat It atende quem busca mesa posta e presentes com troca em 30 dias, empresa ativa e Le Creuset no localizador oficial. O que pesa na compra é o prazo de entrega por CEP e a atenção com peças frágeis. No site, o [cupom Let's Eat It](/cupons/letseatit) MAUAD dá 5% OFF em todas as formas de pagamento."
         ]
       },
       {
@@ -203923,7 +203955,7 @@ export const reviewsData: unknown[] = [
         "heading": "Porto Brasil e as outras louças",
         "paragraphs": [
           "A [Porto Brasil](https://letseatit.com.br/collections/porto-brasil?utm_source=embaixador&utm_medium=emcasacomcecilia&utm_campaign=inbazz&utm_content=organico) é a louça da loja para o dia a dia, e é onde a promoção aparece: toda a coleção estava com preço riscado, de aparelho de jantar a caneca. É cerâmica, não porcelana, e o stoneware da marca libera forno, micro-ondas e freezer na maior parte das peças; as com filete dourado e algumas canecas ficam de fora, então confira a página da peça antes de levar ao forno. Serve para quem quer o aparelho de jantar completo, de 30 peças, ou para repor prato, bowl e xícara da mesma linha; não serve para quem quer porcelana fina.",
-          "O cristal da loja é a [Bohemia](https://letseatit.com.br/collections/tacas?utm_source=embaixador&utm_medium=emcasacomcecilia&utm_campaign=inbazz&utm_content=organico), e as taças pedem outro cuidado: o transporte. Taças estão entre os problemas mais citados nas reclamações da loja, e a política prevê reposição gratuita de avaria, com fotos. Regra prática, sem teste nosso: para quem compra cristal pela internet, fotografe a peça ao abrir a caixa, antes de descartar a embalagem, porque a loja pede essa foto para repor a avaria."
+          "O cristal da loja é a [Bohemia](https://letseatit.com.br/collections/tacas?utm_source=embaixador&utm_medium=emcasacomcecilia&utm_campaign=inbazz&utm_content=organico), e as taças pedem atenção no transporte: a política da loja prevê reposição gratuita de avaria mediante fotos. Regra prática, sem teste nosso: para quem compra cristal pela internet, fotografe a peça ao abrir a caixa, antes de descartar a embalagem, porque a loja pede essa foto para repor a avaria."
         ],
         "images": [
           {
@@ -203987,13 +204019,13 @@ export const reviewsData: unknown[] = [
         ],
         "emphasis": "A Let's Eat It compensa para quem quer Le Creuset e louça com nota fiscal num canal que a marca lista; o cristal pede prazo de sobra para resolver eventual avaria.",
         "paragraphs": [
-          "Sobre confiança, os números do Reclame Aqui são de atenção e não de alarme: nos seis meses até outubro, a reputação é Boa, com nota 7,7, 98% das reclamações respondidas e 95,9% resolvidas entre as 49 avaliadas, mas só 59,2% voltariam a comprar e a resposta leva cerca de 19 dias. A troca ajuda: 30 dias da entrega para devolver, com reembolso integral ou crédito sem validade, e defeito coberto por 90 dias. Peça de cristal pede foto da peça e da caixa ao abrir, porque a reposição de avaria depende delas."
+          "A loja é operada pela N. R. Bennesby Comércio de Utensílios Domésticos Ltda., empresa ativa com matriz no Rio de Janeiro (CNPJ 37.882.316/0001-64) e filiais em São Paulo, Espírito Santo e Santa Catarina, além de constar no localizador oficial da Le Creuset Brasil. A política publicada garante 30 dias da entrega para devolver, com reembolso integral ou crédito sem validade, e 90 dias para defeito; peça de cristal pede foto da peça e da caixa ao abrir para reposição de avaria."
         ]
       },
       {
         "heading": "Perguntas frequentes",
         "bullets": [
-          "A Let's Eat It é confiável? Sim: empresa ativa com filiais em quatro estados, troca em 30 dias e reputação Boa no Reclame Aqui; o pós-venda resolve, mas pode demorar.",
+          "A Let's Eat It é confiável? Sim: é uma empresa ativa com matriz e filiais em quatro estados, aparece no localizador oficial da Le Creuset Brasil e garante troca em até 30 dias da entrega.",
           "Qual é o cupom da Let's Eat It? É o MAUAD, com 5% OFF no site oficial da Let's Eat It, em todas as formas de pagamento, para cliente novo e antigo, e soma com o Pix. Digite no campo \"Código de desconto\" do checkout. As regras estão na página do [cupom Let's Eat It](/cupons/letseatit).",
           "A Let's Eat It vende Le Creuset original? A loja está no localizador oficial de lojas da Le Creuset Brasil, com o endereço da filial de Serra (ES); guarde a nota fiscal, que a marca pede para analisar a garantia.",
           "Tem cupom de primeira compra? A loja não publica cupom de boas-vindas; o MAUAD dá 5% no site para cliente novo e antigo.",
@@ -204012,7 +204044,7 @@ export const reviewsData: unknown[] = [
       "skipIf": [
         "Você precisa da peça em poucos dias: a entrega leva de 3 a 12 dias úteis conforme a região, depois da confirmação do pagamento.",
         "Você quer frete grátis em qualquer pedido: o frete é calculado por CEP e peso, sem faixa de frete grátis publicada.",
-        "A peça é de cristal e você não quer o risco do transporte: taças estão entre os problemas mais citados no Reclame Aqui."
+        "A peça é de cristal e você prefere evitar o risco do transporte: avarias exigem foto da embalagem e da peça ao abrir a caixa para pedir reposição."
       ]
     },
     "cta": {
@@ -204023,7 +204055,7 @@ export const reviewsData: unknown[] = [
     },
     "coupon": "MAUAD",
     "affiliate": "letseatit",
-    "editorialNote": "Podemos receber comissão pela Let's Eat It. Ninguém da equipe comprou na loja: dados do site, do CNPJ e do Reclame Aqui.",
+    "editorialNote": "Podemos receber comissão pela Let's Eat It. Ninguém da equipe comprou na loja: dados do site oficial e do CNPJ.",
     "relatedArticles": [
       {
         "slug": "cupom-mauad-lets-eat-it-como-usar"
@@ -204117,7 +204149,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Resposta rápida",
         "paragraphs": [
-          "Pode valer a pena quando as medidas e a descrição atendem ao que você procura, o prazo tem margem e o total com frete e tributos continua bom. Frete e imposto mudam o custo de cada peça, por isso compare o total. O 4CW5Y dá desconto, sim: use o link da Cecília, ou copie e pesquise no app ou no site, e veja produtos com promoções."
+          "Vale, sim: para quem confere a tabela de medidas antes de fechar o carrinho e pode esperar a entrega, a SHEIN compensa pelo preço total ao revisar frete e tributos no resumo. O código de indicação 4CW5Y dá desconto em produtos selecionados pelo link da Cecília ou na busca do app e do site. Veja abaixo prazo, envio e devolução."
         ]
       },
       {
@@ -204273,7 +204305,7 @@ export const reviewsData: unknown[] = [
         "bullets": [
           "SHEIN vale a pena? Vale para a peça de que você sabe a medida e que pode esperar; o capítulo \"Vale a pena para quem\" diz para qual compra sim e para qual não.",
           "SHEIN vale a pena para comprar roupa cara? Compare medidas, composição, cuidados, prazo, devolução e o total com frete e tributos antes de decidir.",
-          "SHEIN ainda vale a pena? Depende da peça e do total com frete e tributos, além das medidas, prazo e devolução. Um mínimo de frete grátis, sozinho, não decide.",
+          "SHEIN ainda vale a pena? Vale, sim, quando o total com frete e tributos compensa e você confere medidas, prazo e política de devolução. Um mínimo de frete grátis, sozinho, não decide.",
           "Dá para trocar de tamanho na SHEIN? Não: a política é de devolução e reembolso, e o tamanho certo vem num pedido novo; a primeira devolução de cada pedido é grátis, como mostra o capítulo da devolução.",
           "O 4CW5Y dá desconto na SHEIN? Sim: é código de indicação que abre uma seleção de produtos com promoções e descontos, pelo link ou pesquisado no aplicativo ou no site. Quanto e em quais peças, a SHEIN decide; não é cupom."
         ]
@@ -204353,7 +204385,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Quick answer",
         "paragraphs": [
-          "It's worth it for a piece whose size you already know and that can wait for delivery. For an urgent purchase or a piece you need to try on, it isn't. The 4CW5Y does give you a discount: open SHEIN through Cecília's link and search it in the app or on the site to see a selection of products with promotions."
+          "Yes, it's worth it: if you check the size chart before checkout and can wait for delivery, SHEIN pays off on the total price when you include shipping and taxes. Referral code 4CW5Y gives a discount on selected items through Cecília's link or by searching in the app or on the site. Review delivery times, returns, and sizing below before paying."
         ]
       },
       {
@@ -204429,7 +204461,7 @@ export const reviewsData: unknown[] = [
         "bullets": [
           "Is SHEIN worth it? Yes, for a piece whose size you know and that can wait; the section “Who it's worth it for” says which purchases make sense and which don't.",
           "Is SHEIN worth it for expensive clothes? Only for someone who already knows their size and accepts returning instead of trying on.",
-          "Is SHEIN still worth it? It depends on the item and total with shipping and taxes, as well as measurements, delivery and returns. A free-shipping threshold alone does not decide it.",
+          "Is SHEIN still worth it? Yes, when the total with shipping and taxes pays off and you check measurements, delivery times and returns. A free-shipping threshold alone does not decide it.",
           "Can you exchange sizes at SHEIN? It depends on the country: the return and exchange policy for each one is in the SHEIN help center.",
           "Does the 4CW5Y give a discount at SHEIN? Yes: it's a referral code. Open SHEIN through Cecília's link and search it in the app or on the site: it opens a selection of products with promotions and discounts. How much and on which pieces is up to SHEIN; it's not a coupon."
         ]
@@ -204509,7 +204541,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Respuesta rápida",
         "paragraphs": [
-          "Vale la pena para la prenda cuya talla ya sabes y que puedes esperar a que llegue. Para una compra urgente o para una prenda que necesitas probarte, no. El 4CW5Y sí da descuento: abre SHEIN con el enlace de Cecília y búscalo en la app o en el sitio para ver una selección de productos con promociones."
+          "Sí, vale la pena: si revisas la tabla de medidas antes de cerrar el carrito y puedes esperar la entrega, SHEIN compensa en el precio total al incluir envío e impuestos en el resumen. El código de referido 4CW5Y da descuento en productos seleccionados desde el enlace de Cecília o buscándolo en la app o en el sitio. Mira abajo plazos, devoluciones y tallas."
         ]
       },
       {
@@ -204585,7 +204617,7 @@ export const reviewsData: unknown[] = [
         "bullets": [
           "¿SHEIN vale la pena? Vale para la prenda cuya talla conoces y que puede esperar; el apartado «Para quién vale la pena» dice para qué compras sí y para cuáles no.",
           "¿Vale la pena SHEIN para ropa cara? Solo para quien ya sabe su talla y acepta devolver en lugar de probar.",
-          "¿SHEIN todavía vale la pena? Depende de la prenda y el total con envío e impuestos, además de medidas, plazo y devolución. Un mínimo de envío gratis no decide por sí solo.",
+          "¿SHEIN todavía vale la pena? Sí, cuando el total con envío e impuestos compensa y revisas medidas, plazos y devoluciones: un mínimo de envío gratis no decide por sí solo.",
           "¿Se puede cambiar de talla en SHEIN? Depende del país: la política de devolución y cambio de cada uno está en el centro de ayuda de SHEIN.",
           "¿El 4CW5Y da descuento en SHEIN? Sí: es un código de referido. Abre SHEIN con el enlace de Cecília y búscalo en la app o en el sitio: abre una selección de productos con promociones y descuentos. Cuánto y en qué prendas lo decide SHEIN; no es un cupón."
         ]
@@ -204665,7 +204697,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Réponse rapide",
         "paragraphs": [
-          "C'est intéressant pour un vêtement dont vous connaissez déjà la taille et que vous pouvez attendre. Pour un achat urgent, ou pour une pièce qu'il faut essayer, non. Le 4CW5Y donne bien une réduction : ouvrez SHEIN via le lien de Cecília et cherchez-le dans l'appli ou sur le site pour voir une sélection de produits en promotion."
+          "Oui, ça vaut le coup : si vous vérifiez le tableau des mesures avant de valider votre panier et pouvez attendre la livraison, SHEIN reste avantageux sur le prix total en comptant port et taxes. Le code de parrainage 4CW5Y donne une réduction sur une sélection d'articles via le lien de Cecília ou en le cherchant dans l'appli ou sur le site. Voyez ci-dessous délais, retours et tailles."
         ]
       },
       {
@@ -204741,7 +204773,7 @@ export const reviewsData: unknown[] = [
         "bullets": [
           "SHEIN vaut-il le coup ? Oui pour un article dont vous connaissez la taille et qui peut attendre ; la section « Pour qui ça vaut le coup » dit quels achats le justifient et lesquels non.",
           "SHEIN vaut-il le coup pour des vêtements chers ? Seulement pour qui connaît sa taille et accepte un retour plutôt qu'un essayage.",
-          "SHEIN vaut-il toujours le coup ? Cela dépend de l'article, du total avec port et taxes, des mesures, du délai et du retour. Le seuil de livraison offerte ne décide pas seul.",
+          "SHEIN vaut-il toujours le coup ? Oui, dès lors que le total avec port et taxes reste avantageux et que vous vérifiez mesures, délais et retours : le seuil de livraison offerte ne décide pas seul.",
           "Peut-on échanger une taille chez SHEIN ? Cela dépend du pays : la politique de retour et d'échange de chacun figure dans le centre d'aide de SHEIN.",
           "Le 4CW5Y donne-t-il une réduction chez SHEIN ? Oui : c'est un code de parrainage. Ouvrez SHEIN via le lien de Cecília et cherchez-le dans l'appli ou sur le site : il ouvre une sélection de produits avec promotions et réductions. Combien et sur quelles pièces, c'est SHEIN qui décide ; ce n'est pas un coupon."
         ]
@@ -204821,7 +204853,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Kurzantwort",
         "paragraphs": [
-          "Es lohnt sich für ein Teil, dessen Größe Sie schon kennen und dessen Lieferung Sie abwarten können. Für einen eiligen Kauf oder ein Teil, das Sie anprobieren müssen, lohnt es sich nicht. Der 4CW5Y gibt Rabatt: Öffnen Sie SHEIN über Cecílias Link und suchen Sie den Code in der App oder auf der Website, dann sehen Sie eine Auswahl an Produkten mit Aktionen."
+          "Ja, es lohnt sich: Wenn Sie vor dem Bestellen die Maßtabelle prüfen und die Lieferzeit abwarten können, rechnet sich SHEIN beim Gesamtpreis inklusive Versand und Abgaben. Der Empfehlungscode 4CW5Y gibt Rabatt auf ausgewählte Produkte über Cecílias Link oder über die Suche in App und Website. Unten stehen Details zu Lieferzeit, Rückgabe und Größen."
         ]
       },
       {
@@ -204897,7 +204929,7 @@ export const reviewsData: unknown[] = [
         "bullets": [
           "Lohnt sich SHEIN? Ja, für ein Teil, dessen Größe man kennt und das warten kann; der Abschnitt „Für wen es sich lohnt“ sagt, welche Käufe sich lohnen und welche nicht.",
           "Lohnt sich SHEIN auch für teure Kleidung? Nur für jene, die ihre Größe kennen und eine Rückgabe statt einer Anprobe akzeptieren.",
-          "Lohnt sich SHEIN noch? Das hängt vom Artikel, vom Gesamtbetrag mit Versand und Abgaben, von den Maßen, der Lieferzeit und der Rückgabe ab. Der Mindestbetrag für kostenlosen Versand entscheidet nicht allein.",
+          "Lohnt sich SHEIN noch? Ja, solange der Gesamtbetrag mit Versand und Abgaben stimmt und Maße, Lieferzeit und Rückgabe passen – ein Mindestbetrag für kostenlosen Versand entscheidet nicht allein.",
           "Kann man bei SHEIN die Größe tauschen? Das hängt vom Land ab: Die Rückgabe- und Umtauschregeln stehen im Hilfecenter von SHEIN.",
           "Gibt der 4CW5Y bei SHEIN Rabatt? Ja: Es ist ein Empfehlungscode, den Sie nach dem Öffnen von SHEIN über Cecílias Link in App oder Website suchen; er öffnet eine Auswahl an Produkten mit Aktionen und Rabatten. Wie viel und auf welche Teile, entscheidet SHEIN; er ist kein Gutschein."
         ]
@@ -204977,7 +205009,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Risposta rapida",
         "paragraphs": [
-          "Conviene per un capo di cui conosci già la taglia e che puoi aspettare. Per un acquisto urgente o per un capo che devi provare, no. Il 4CW5Y dà sconto, sì: apri SHEIN con il link di Cecília e cercalo nell'app o sul sito per vedere una selezione di prodotti in promozione."
+          "Sì, conviene: per chi controlla la tabella delle misure prima di chiudere il carrello e può aspettare la consegna, SHEIN offre un prezzo totale vantaggioso considerando spedizione e tasse. Il codice invito 4CW5Y dà sconto su una selezione di prodotti tramite il link di Cecília o cercandolo nell'app e sul sito. Qui sotto trovi tempi, resi e dettagli sulle taglie."
         ]
       },
       {
@@ -205053,7 +205085,7 @@ export const reviewsData: unknown[] = [
         "bullets": [
           "SHEIN conviene? Sì per un capo di cui conosci la taglia e che può aspettare; la sezione «Per chi vale la pena» dice per quali acquisti sì e per quali no.",
           "SHEIN conviene anche per i capi costosi? Solo a chi conosce la taglia e accetta di restituire invece di provare.",
-          "SHEIN conviene ancora? Dipende dal capo e dal totale con spedizione e tasse, oltre a misure, tempi e resi. La soglia gratuita non decide da sola.",
+          "SHEIN conviene ancora? Sì, quando il totale con spedizione e tasse resta vantaggioso e controlli misure, tempi e resi: la soglia gratuita non decide da sola.",
           "Si può cambiare taglia su SHEIN? Dipende dal paese: la politica di reso e cambio di ciascuno è nel centro assistenza di SHEIN.",
           "Il 4CW5Y dà sconto su SHEIN? Sì: è un codice invito. Apri SHEIN con il link di Cecília e cercalo nell'app o sul sito: apre una selezione di prodotti con promozioni e sconti. Quanto e su quali capi lo decide SHEIN; non è un coupon."
         ]
@@ -205133,7 +205165,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "빠른 답",
         "paragraphs": [
-          "치수를 이미 알고 배송을 기다릴 수 있는 옷이라면 살 만해요. 급하게 필요하거나 입어 보고 골라야 하는 옷이라면 추천하지 않아요. 4CW5Y는 할인이 있고, Cecília의 링크로 SHEIN에 들어간 뒤 앱이나 사이트에서 코드를 검색하면, 프로모션 중인 추천 상품을 볼 수 있어요."
+          "네, 살 만해요. 장바구니 결제 전에 치수표를 확인하고 배송을 기다릴 수 있다면, 배송비와 세금을 포함한 총액에서도 SHEIN이 가격 이점이 있어요. 추천 코드 4CW5Y는 Cecília의 링크로 열거나 앱이나 사이트에서 검색하면 일부 추천 상품에 할인이 있어요. 아래에서 배송 기간과 반품 조건을 확인해 보세요."
         ]
       },
       {
@@ -205209,7 +205241,7 @@ export const reviewsData: unknown[] = [
         "bullets": [
           "SHEIN은 살 만한가요? 치수를 알고 배송을 기다릴 수 있는 옷이라면 살 만해요. '이런 분께 맞아요' 장에 무엇을 사고 무엇을 건너뛸지 나와 있어요.",
           "SHEIN에서 비싼 옷도 살 만한가요? 치수를 알고, 입어 보는 대신 반품을 받아들일 수 있는 분께만 맞아요.",
-          "SHEIN은 아직 살 만한가요? 옷과 배송비·세금 포함 총액, 치수, 배송과 반품에 달려 있어요. 무료배송 기준만으로 결정하지는 않아요.",
+          "SHEIN은 아직 살 만한가요? 네, 배송비와 세금을 포함한 총액이 유리하고 치수·배송 기간·반품 조건까지 확인한다면 여전히 살 만해요. 무료배송 기준만으로 결정하지는 않아요.",
           "SHEIN에서 사이즈를 교환할 수 있나요? 나라마다 달라요. 교환과 반품 정책은 SHEIN 고객센터에 있어요.",
           "4CW5Y로 SHEIN에서 할인을 받을 수 있나요? 네. 추천 코드예요. Cecília의 링크로 SHEIN에 들어간 뒤 앱이나 사이트에서 검색하면 프로모션과 할인이 있는 추천 상품 페이지가 열려요. 얼마나, 어떤 상품에 적용되는지는 SHEIN이 정해요. 쿠폰은 아니에요."
         ]
@@ -205289,7 +205321,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "結論",
         "paragraphs": [
-          "サイズを把握していて、届くまで待てる商品なら買う価値があります。急ぎの買い物や、試着してから選びたい商品は向きません。4CW5Yは割引になり、CecíliaのリンクからSHEINを開き、コードをアプリかサイトで検索すると、おすすめ商品のセール・割引ページが見られます。"
+          "はい、買う価値があります。カートを確定する前にサイズ表を確認し、配送を待てるなら、送料・税金を含めた総額で見てもSHEINはお得です。紹介コード4CW5Yは、Cecíliaのリンクから開くかアプリ・サイトで検索すると、おすすめ商品の割引になります。下で配送日数や返品、サイズの選び方を確認してください。"
         ]
       },
       {
@@ -205365,7 +205397,7 @@ export const reviewsData: unknown[] = [
         "bullets": [
           "SHEINは買う価値がある？サイズがわかっていて、届くまで待てる商品なら買う価値があります。「向いている人」の章に、買うべき場合と見送るべき場合が書かれています。",
           "SHEINで高い服を買う価値はある？サイズがわかっていて、試着の代わりに返品を受け入れられる人だけです。",
-          "SHEINはまだ買う価値がある？ 商品、送料・税金込みの総額、寸法、配送、返品によります。送料無料ラインだけでは決まりません。",
+          "SHEINはまだ買う価値がある？ はい、送料・税金込みの総額が納得でき、サイズ表・配送日数・返品条件を確認できるなら価値があります。送料無料ラインだけでは決まりません。",
           "SHEINでサイズを交換できる？国によって違います。交換と返品のポリシーは、SHEINのヘルプセンターにあります。",
           "4CW5Yで割引になる？なります。紹介コードです。CecíliaのリンクからSHEINを開き、アプリやサイトで検索すると、セールや割引のあるおすすめ商品のページが開きます。どの商品がいくら安くなるかはSHEINが決めます。クーポンではありません。"
         ]
@@ -205445,7 +205477,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "快速解答",
         "paragraphs": [
-          "如果你已經知道衣服尺碼，而且能等待運送，這樣的商品值得買。急著要的訂單，或需要試穿才能決定的衣服，就不建議。4CW5Y 有折扣：透過 Cecília 的連結開啟 SHEIN，再在 App 或網站搜尋這個碼，就能看到精選的優惠商品。"
+          "是的，值得買：只要在結帳前先核對尺碼表、也能等待運送時間，把運費與稅金算進總價後，SHEIN 依然划算。推薦碼 4CW5Y 會為精選商品帶來折扣，只要透過 Cecília 的連結開啟，或在 App 與網站搜尋即可。付款前請先看下方的運送時間、退貨與尺碼說明。"
         ]
       },
       {
@@ -205521,7 +205553,7 @@ export const reviewsData: unknown[] = [
         "bullets": [
           "SHEIN 值得買嗎？如果你知道尺碼，又能等待運送，就值得。“適合哪些人”一章會說明哪些買了划算，哪些不划算。",
           "在 SHEIN 買貴的衣服值得嗎？只適合已經知道尺寸，並且願意用退貨代替試穿的人。",
-          "SHEIN還值得買嗎？要看商品、含運含稅總額、尺寸、運送和退貨。免運門檻本身不能決定。",
+          "SHEIN還值得買嗎？是的，只要含運含稅後的總價划算，且先核對尺寸、運送時間與退貨規則就值得；免運門檻本身不能決定。",
           "SHEIN 可以換尺寸嗎？要看國家。各地的退換貨政策，都寫在 SHEIN 幫助中心。",
           "4CW5Y 能在 SHEIN 打折嗎？能。它是推薦碼。透過 Cecília 的連結開啟 SHEIN，再在 App 或網站搜尋，就能看到有優惠與折扣的精選商品。折多少、哪些商品，由 SHEIN 決定。它不是優惠券。"
         ]
@@ -205601,7 +205633,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "快速回答",
         "paragraphs": [
-          "如果你已经知道衣服尺码，并且能等待配送，这类商品值得买。着急要的订单，或需要试穿才能决定的衣服，就不推荐。4CW5Y 有折扣：通过 Cecília 的链接打开 SHEIN，再在 App 或网站搜索这个码，就能看到精选的优惠商品。"
+          "是的，值得买：只要在结账前先核对尺码表、也能等待配送时间，把运费和税费算进总价后，SHEIN 依然划算。推荐码 4CW5Y 会为精选商品带来折扣，只要通过 Cecília 的链接打开，或在 App 与网站搜索即可。付款前请先看下方的配送时间、退货和尺码说明。"
         ]
       },
       {
@@ -205677,7 +205709,7 @@ export const reviewsData: unknown[] = [
         "bullets": [
           "SHEIN 值得买吗？如果你知道尺码，又能等待配送，就值得。“适合哪些人”一章会说明哪些买了划算，哪些不划算。",
           "在 SHEIN 买贵的衣服值得吗？只适合已经知道尺码，并且愿意用退货代替试穿的人。",
-          "SHEIN还值得买吗？要看商品、含运费含税总额、尺寸、配送与退货。包邮门槛本身不能决定。",
+          "SHEIN还值得买吗？是的，只要含运费含税后的总价划算，且先核对尺码、配送时间与退货规则就值得；包邮门槛本身不能决定。",
           "SHEIN 能换尺码吗？要看国家。各地的退换货政策，都写在 SHEIN 帮助中心。",
           "4CW5Y 能在 SHEIN 打折吗？能。它是推荐码。通过 Cecília 的链接打开 SHEIN，再在 App 或网站搜索，就能看到有优惠和折扣的精选商品。具体折多少、哪些商品，由 SHEIN 决定。它不是优惠券。"
         ]
@@ -232971,7 +233003,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Resposta rápida",
         "paragraphs": [
-          "A poltrona do papai vale como presente de Natal se seu pai quer uma, ela combina com a rotina dele e cabe na casa. Na DAMIE, o CECILIA12 dá 12% OFF e soma com as promoções. Antes de comprar, confira as medidas e o prazo para o CEP dele, e faça o pedido com duas a três semanas de folga."
+          "Com certeza vale como presente de Natal quando seu pai quer uma reclinável, o mecanismo combina com a rotina dele e há espaço para abri-la em casa. Na DAMIE, o cupom CECILIA12 dá 12% OFF e soma com as promoções. Confira medidas e prazo do CEP abaixo e compre com duas a três semanas de folga."
         ]
       },
       {
@@ -235501,8 +235533,8 @@ export const reviewsData: unknown[] = [
     "id": 896,
     "slug": "holyfoods-e-boa",
     "locale": "pt",
-    "title": "HolyFoods é boa? Sopas, risotos e macs pelo rótulo, um a um",
-    "seoTitle": "HolyFoods é bom? Sopas, risotos e macs pelo rótulo",
+    "title": "HolyFoods é boa? Sopas, risotos, macarrões, preços e cupom",
+    "seoTitle": "HolyFoods é boa? Sopas, risotos, macs e preços",
     "type": "Guia de Marca",
     "category": "guias-praticos-utilidade",
     "reviewKind": "guia",
@@ -235514,7 +235546,7 @@ export const reviewsData: unknown[] = [
       "url": "/sobre"
     },
     "description": "As tabelas de sopas, risotos e macs lado a lado, o que cada lista de ingredientes traz e quando o pack de sopa compensa, com os preços já com o cupom EMCASA.",
-    "metaDescription": "O cupom EMCASA dá 15% OFF na HolyFoods. HolyFoods é bom? Sopas, risotos e macs pelo rótulo: proteína, calorias, sódio, ingredientes e preço com o código.",
+    "metaDescription": "O cupom EMCASA dá 15% OFF na HolyFoods. Veja sopas, risotos e macs com proteína, calorias, sódio, ingredientes e preço calculado pelo código.",
     "publishedAt": "10 de novembro de 2026",
     "publishedAtISO": "2026-11-10",
     "updatedAt": "2026-11-22",
@@ -235568,7 +235600,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Resposta rápida",
         "paragraphs": [
-          "A HolyFoods vale para quem quer comida guardada na despensa e aceita preparar: sopas, risotos e macs exigem cozimento. O sachê avulso custa menos para experimentar, e o pack de sopa custa menos por quantidade de mistura. Com o EMCASA aplicado, a receita sai dos ingredientes que você procura ou evita e do tempo de panela."
+          "Compensa, sim, para quem quer refeições para preparar em casa e guardar na despensa, sem congelador: sopas, risotos e macs pedem cozimento. O cupom EMCASA dá 15% OFF no site oficial e soma com os descontos dos produtos. A escolha entre sachê avulso e pack, além dos rótulos, está abaixo."
         ]
       },
       {
@@ -235840,7 +235872,7 @@ export const reviewsData: unknown[] = [
         },
         "postParagraphs": [
           "Esses preços valem com a campanha no ar. Se os produtos voltarem aos preços de referência que a loja mostra e o EMCASA continuar válido, o avulso sairia por cerca de R$ 16,92 e o pack por cerca de R$ 50,92. O preço depois da campanha depende da oferta que estiver no site.",
-          "O frete entra à parte: confira o total para o seu CEP antes de pagar."
+          "Para aplicar o código, clique em \"Finalizar compra\", abra \"Inserir cupom de desconto\", cole EMCASA em \"Código do cupom\" e clique em \"Adicionar\". Na garantia de 30 dias da loja, dá para provar uma unidade e devolver as outras fechadas sem custo. O frete entra à parte: confira o total para o seu CEP antes de pagar."
         ],
         "links": [
           {
@@ -235907,7 +235939,9 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Perguntas frequentes",
         "bullets": [
+          "A HolyFoods é boa? Compensa, sim, para quem busca sopas, risotos e macarrões de preparo rápido na despensa, sem depender de freezer, comparando proteína, sódio e ingredientes pelo rótulo com 15% OFF no código EMCASA.",
           "HolyFoods é saudável? A resposta depende da receita e de como ela entra na sua alimentação. O rótulo mostra ingredientes e nutrientes, mas ausência de conservantes e presença de proteína não bastam para avaliar uma dieta. Para orientação individual, converse com nutricionista ou médico.",
+          "Qual é o cupom da HolyFoods? É o EMCASA, com 15% OFF em todo o site ao inserir o código em \"Código do cupom\" na tela Finalizar compra; as regras completas estão na página do [cupom HolyFoods](/cupons/holyfoods).",
           "O cupom EMCASA soma com a promoção da loja? Soma: nos testes no checkout, os 15% saíram do preço que já estava com os 30% da campanha. Confira a linha de desconto antes de pagar.",
           "Dá para fazer HolyFoods no micro-ondas? A ficha de risotos e macs traz o preparo no micro-ondas. Para as sopas, a loja indica o fogão.",
           "HolyFoods tem glúten? As listas dos onze produtos declaram não conter glúten. Para outras alergias ou restrições, confira as linhas contém e pode conter na embalagem escolhida."
@@ -244662,8 +244696,8 @@ export const reviewsData: unknown[] = [
     "id": 936,
     "slug": "prohall-e-boa",
     "locale": "pt",
-    "title": "Prohall é boa? As linhas da marca, o que os clientes dizem e para quem vale a pena",
-    "seoTitle": "Prohall é boa? Linhas, avaliações e se vale a pena",
+    "title": "Prohall é boa? As linhas da marca, cuidados e para quem vale a pena",
+    "seoTitle": "Prohall é boa? Linhas, cuidados e se vale a pena",
     "type": "Guia de Marca",
     "category": "guias-praticos-utilidade",
     "reviewKind": "guia",
@@ -244674,8 +244708,8 @@ export const reviewsData: unknown[] = [
       "initials": "CM",
       "url": "/sobre"
     },
-    "description": "As linhas da Prohall por necessidade, o que cada página de produto declara, o que os clientes dizem e para quem a compra vale a pena, com o preço já com o cupom.",
-    "metaDescription": "CECILIAMC dá até 10% OFF na Prohall; nos testes, 7%. Veja as linhas da marca, o que cada produto declara, o que os clientes dizem e para quem vale.",
+    "description": "Saiba para quem a Prohall vale a pena, conheça as linhas de tratamento e os antifrizz térmicos, confira a regra de troca e veja quanto custa com o cupom CECILIAMC.",
+    "metaDescription": "Com CECILIAMC você ganha até 10% OFF na Prohall; nos testes, deu 7%. Veja se a marca é boa, as linhas capilares, cuidados e para quem vale.",
     "publishedAt": "12 de novembro de 2026",
     "publishedAtISO": "2026-11-12",
     "draft": false,
@@ -244688,12 +244722,14 @@ export const reviewsData: unknown[] = [
     "cons": [],
     "decision": {
       "takeIf": [
-        "Você já usa a marca ou já sabe qual linha procura.",
-        "O carrinho passa do mínimo do frete grátis da sua região já com o cupom."
+        "Você já identificou a linha Prohall certa para a necessidade do seu cabelo, seja para rotina de lavagem e cronograma ou para tratamento antifrizz.",
+        "Você quer somar o cupom CECILIAMC às promoções do site oficial ou do aplicativo, em qualquer forma de pagamento, alcançando o frete grátis da sua região.",
+        "Para um produto profissional como Select One ou Burix One, você conta com um cabeleireiro para a aplicação ou segue o teste de mecha e o modo de uso do rótulo."
       ],
       "skipIf": [
-        "Você quer testar e devolver se não gostar: produto aberto não entra em troca.",
-        "Você quer um antifrizz térmico e não tem cabeleireiro para aplicar: Select One e Burix One são de uso profissional."
+        "Você quer comprar para experimentar em casa e devolver se não gostar, porque a troca exige lacre intacto e devolução do pedido completo.",
+        "Você procura um antifrizz térmico e não tem cabeleireiro para aplicar, já que Select One e Burix One trazem indicação de uso profissional.",
+        "Você pretende usar o cupom de cashback da loja no mesmo pedido, pois ele não se soma ao código CECILIAMC."
       ]
     },
     "cta": {
@@ -244723,13 +244759,20 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Resposta rápida",
         "paragraphs": [
-          "A Prohall é uma marca brasileira de produtos para cabelo, com linhas de lavagem e tratamento e os antifrizz térmicos Select One e Burix One. Tem reputação Boa no Reclame Aqui e troca em 30 dias, só com o lacre intacto. Vale mais para quem já sabe que linha procura: produto aberto não volta."
+          "É boa, sim: para quem busca linhas de lavagem e tratamento capilar ou os antifrizz térmicos Select One e Burix One, a Prohall organiza o catálogo por necessidade e dá 30 dias de troca com lacre intacto. O cupom CECILIAMC aplica até 10% OFF no site e no app, em todas as formas de pagamento. Veja abaixo cada linha."
         ]
       },
       {
-        "heading": "O que a Prohall vende",
+        "heading": "Quem é a Prohall: origem da marca e onde ver a reputação",
         "paragraphs": [
-          "A loja organiza o catálogo por necessidade. As linhas mais buscadas, com o que a página de cada produto declara:"
+          "Fundada em 2017 em Lençóis Paulista (SP), a Prohall Professional é uma marca brasileira de produtos para cabelo que atua com loja oficial própria e aplicativo, reunindo linhas de uso diário, cronogramas capilares e produtos com indicação de uso profissional. No site, a marca também declara presença em mais de 32 países.",
+          "Para conferir CNPJ, prazos de entrega, regras completas de devolução e canais de atendimento, veja se a [Prohall é confiável](/reviews/prohall-e-confiavel); para consultar as notas por período e os motivos de reclamação, acesse o guia da [Prohall no Reclame Aqui](/reviews/prohall-reclame-aqui-nota-reputacao)."
+        ]
+      },
+      {
+        "heading": "As linhas e os destaques do catálogo",
+        "paragraphs": [
+          "A Prohall organiza o catálogo por necessidade capilar, separando linhas de lavagem e cuidado diário dos produtos antifrizz e de selagem com indicação de uso profissional:"
         ],
         "comparisonTable": {
           "caption": "O que a marca declara na página de cada produto no site oficial. A coluna da direita é a descrição do fabricante.",
@@ -244752,7 +244795,7 @@ export const reviewsData: unknown[] = [
             [
               "Selagem",
               "[Btx Blend Repair](https://lojaprohall.com.br/products/btx-capilar-organico-blend-repair-300g)",
-              "Selagem das cutículas e redução de frizz e volume; age de 40 a 60 minutos e é enxaguado"
+              "Selagem das cutículas e redução de frizz e volume; produto de enxágue"
             ],
             [
               "Lavagem e cuidado diário",
@@ -244785,11 +244828,11 @@ export const reviewsData: unknown[] = [
         ]
       },
       {
-        "heading": "Select One, Burix One e Btx: o que dá para dizer",
+        "heading": "Select One, Burix One e Btx: o que observar antes da compra",
         "paragraphs": [
-          "São os produtos mais buscados da marca e os que mais pedem atenção ao modo de uso. Select One e Burix One são descritos pela Prohall como tratamentos antifrizz ativados por calor; o Btx Blend Repair, como selagem que age por 40 a 60 minutos e é enxaguada.",
-          "Os rótulos trazem a indicação de uso profissional. A política da loja diz que produtos de uso profissional devem ser usados conforme as instruções do fabricante, e o FAQ dela recomenda o teste de mecha antes de aplicar sobre outra química.",
-          "Para dúvida de composição ou de saúde, valem o rótulo e um profissional. A diferença entre o Select One e o Burix One, com o preço por ml, está em [Select One ou Burix One](/reviews/select-one-ou-burix-one)."
+          "Select One, Burix One e Btx Blend Repair são os produtos mais buscados da marca e os que mais pedem atenção ao modo de uso porque os rótulos trazem a indicação de uso profissional. Select One e Burix One são descritos pela Prohall como tratamentos antifrizz ativados por calor; o Btx Blend Repair, como selagem com enxágue.",
+          "A política da loja informa que produtos de uso profissional devem ser aplicados conforme as instruções do fabricante, e o FAQ da marca recomenda o teste de mecha antes de aplicar sobre outra química.",
+          "Para dúvida de composição ou de saúde capilar, valem o rótulo e a orientação de um profissional. A comparação entre o Select One e o Burix One, com o preço por ml, está em [Select One ou Burix One](/reviews/select-one-ou-burix-one)."
         ],
         "images": [
           {
@@ -244804,31 +244847,26 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Os tratamentos de rotina",
         "paragraphs": [
-          "A Absolut One é a linha de lavagem: shampoo, condicionador e máscara, que a marca indica para hidratação, maciez e brilho. Os cronogramas reúnem três máscaras, uma para cada etapa: hidratação, nutrição e reconstrução.",
-          "A Force Hair reúne shampoo, máscara e tônico. A Prohall descreve o tônico como produto de uso diário no couro cabeludo, sem enxágue. Veja os itens e o modo de uso no [guia Force Hair](/reviews/force-hair-prohall-para-que-serve)."
+          "Para cuidados sem passo térmico profissional, a marca separa o catálogo entre limpeza diária, cronograma de máscaras e atenção ao couro cabeludo. A Absolut One é a linha de lavagem com shampoo, condicionador e máscara, que a loja indica para hidratação, maciez e brilho, enquanto os cronogramas reúnem três máscaras voltadas para hidratação, nutrição e reconstrução.",
+          "A Force Hair reúne shampoo, máscara e tônico, descrito pela Prohall como produto de uso diário no couro cabeludo, sem enxágue. Veja os itens e o modo de uso no [guia Force Hair](/reviews/force-hair-prohall-para-que-serve)."
         ]
       },
       {
-        "heading": "O que os clientes dizem da Prohall?",
+        "heading": "Quanto custa com o cupom CECILIAMC, cashback e frete",
         "paragraphs": [
-          "Na loja, o Select One de 300 ml aparece com nota 4,9 e 1.104 avaliações, e o finalizador 12 em 1 da Absolut One, com 4,9 e 635. São avaliações publicadas pela própria Prohall, no site dela.",
-          "No Reclame Aqui, o perfil da marca tem reputação Boa e nota 7,2 em seis meses, e Ótima, com 8,1, em doze, com todas as reclamações respondidas. A queixa mais citada é o atraso na entrega."
+          "Nos testes de novembro de 2026 no checkout oficial, o cupom CECILIAMC aplicou 7% de desconto (dentro da faixa de até 10% OFF informada pela parceria) tanto em preços cheios quanto sobre produtos em promoção.",
+          "Com o código aplicado nos carrinhos testados, o Kit Completo Absolut One foi de R$ 349,90 para R$ 325,41, um carrinho da linha Force Hair caiu de R$ 264,90 para R$ 246,36 e a combinação de kit Force Hair com Burix One e Select One de 300 ml passou de R$ 279,70 para R$ 260,13.",
+          "No checkout do site oficial ou no aplicativo, digite CECILIAMC no campo “Código de desconto” e toque em “Aplicar”, conferindo a linha “Desconto no pedido” antes de pagar; o código vale em todas as formas de pagamento, mas não se soma ao cupom de cashback da loja. O frete grátis começa em R$ 99 no Sudeste, R$ 149 no Sul, R$ 179 no Centro-Oeste e R$ 199 no Norte e no Nordeste, com o mínimo contado depois do desconto. As regras completas estão na página do [cupom Prohall](/cupons/prohall)."
         ]
       },
       {
-        "heading": "Prohall vale a pena?",
+        "heading": "Qual linha da Prohall faz sentido para o seu cabelo",
         "paragraphs": [
-          "Depende de você já saber o que quer. A troca vale por 30 dias, mas só com o lacre intacto: quem compra para experimentar não consegue devolver depois de abrir.",
-          "No preço, o CECILIAMC dá até 10% OFF. Nos nossos testes de novembro de 2026, tirou 7%: o Kit Completo Absolut One foi de R$ 349,90 para R$ 325,41, um carrinho da linha Force Hair, de R$ 264,90 para R$ 246,36, e o kit Force Hair com Burix One e Select One de 300 ml, de R$ 279,70 para R$ 260,13, sobre preços já em promoção. No checkout do site oficial, digite CECILIAMC no campo “Código de desconto” e toque em “Aplicar”; o resumo do pedido mostra “Desconto no pedido” com o código. O cupom vale também no aplicativo.",
-          "O frete grátis começa em R$ 99 no Sudeste, R$ 149 no Sul, R$ 179 no Centro-Oeste e R$ 199 no Norte e no Nordeste, com o mínimo contado depois do cupom. As condições do código estão na página do [cupom Prohall](/cupons/prohall)."
+          "A Prohall vale a pena para quem procura linhas capilares organizadas por objetivo (como lavagem diária com Absolut One, cronograma capilar, cuidado do couro cabeludo com Force Hair ou os antifrizz térmicos Select One e Burix One) e já identificou qual produto atende à sua rotina.",
+          "Dois cuidados ajudam a comprar sem erro: a troca de 30 dias só vale com o lacre intacto e devolução do pedido inteiro, e Select One, Burix One e Btx têm indicação de uso profissional no rótulo. Quem compra um item novo pela primeira vez reduz risco começando pelo tamanho menor e fechando o pedido acima do mínimo regional de frete grátis já com o CECILIAMC aplicado."
         ],
-        "emphasis": "Eu levaria a Prohall para quem já usa a marca ou já sabe a linha que procura. Para experimentar um produto novo, eu começaria pelo tamanho menor, porque produto aberto não entra em troca.",
+        "emphasis": "Vale a pena comprar na Prohall quando você já escolheu a linha certa para o seu cabelo; para testar um produto novo, comece pelo tamanho menor e aplique o cupom CECILIAMC no checkout para garantir até 10% OFF.",
         "links": [
-          {
-            "label": "Ir para a Prohall com o CECILIAMC",
-            "href": "https://lojaprohall.com.br/",
-            "sponsored": true
-          },
           {
             "label": "Ver o cupom Prohall",
             "href": "/cupons/prohall"
@@ -244838,15 +244876,15 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Perguntas frequentes",
         "bullets": [
-          "Qual é o cupom da Prohall? O cupom da Prohall da nossa parceria é CECILIAMC, com até 10% OFF no site oficial e no aplicativo, em todas as formas de pagamento.",
-          "A Prohall é uma marca boa? É uma marca brasileira com reputação Boa no Reclame Aqui e milhares de avaliações publicadas na própria loja. O guia mostra o que cada linha declara e o que pesa na compra.",
-          "Prohall vale a pena? Vale mais para quem já sabe qual linha procura, porque produto aberto não entra em troca. O cupom CECILIAMC dá até 10% OFF.",
-          "A Prohall é profissional? Os rótulos trazem a indicação de uso profissional, e a loja pede que esses produtos sejam usados conforme as instruções do fabricante.",
-          "Onde comprar Prohall original? No site oficial, lojaprohall.com.br, e no app da marca. No FAQ, a loja afirma que o site é o oficial da marca."
+          "A Prohall é boa? É boa, sim, especialmente para quem busca linhas segmentadas para lavagem, cronograma capilar ou tratamentos antifrizz como Select One e Burix One, com venda direta no site oficial e troca de 30 dias com o lacre intacto. Aplicando o cupom CECILIAMC no checkout, a compra sai com até 10% OFF.",
+          "Qual é o cupom da Prohall? O cupom da Prohall da nossa parceria é CECILIAMC, com até 10% OFF no site oficial e no aplicativo, em todas as formas de pagamento. Veja os testes e as regras de cashback e frete na página do [cupom Prohall](/cupons/prohall).",
+          "Select One e Burix One são para uso em casa ou profissional? Os rótulos trazem a indicação de uso profissional, e a loja orienta seguir as instruções do fabricante e fazer o teste de mecha antes de aplicar sobre outra química.",
+          "A Prohall troca produto aberto? Não: a política de troca vale por 30 dias corridos apenas com a embalagem original, sem sinais de uso, com o lacre intacto e devolução do pedido inteiro.",
+          "Onde comprar Prohall original? No site oficial lojaprohall.com.br e no aplicativo oficial da marca, onde o cupom CECILIAMC também funciona."
         ]
       }
     ],
-    "updatedAt": "2026-11-23"
+    "updatedAt": "2026-11-24"
   },
   {
     "id": 937,
@@ -245820,8 +245858,8 @@ export const reviewsData: unknown[] = [
     "id": 942,
     "slug": "la-ganexa-e-boa",
     "locale": "pt",
-    "title": "La Ganexa é boa? As pastas e o doce de leite pelo rótulo e pelo preço com cupom",
-    "seoTitle": "La Ganexa é boa? Os produtos pelo rótulo e pelo preço",
+    "title": "La Ganexa é boa? Pastas de amendoim, doce de leite, ingredientes e cupom",
+    "seoTitle": "La Ganexa é boa? Pastas de amendoim e doce de leite",
     "type": "Guia de Marca",
     "category": "guias-praticos-utilidade",
     "reviewKind": "guia",
@@ -245832,11 +245870,11 @@ export const reviewsData: unknown[] = [
       "initials": "CM",
       "url": "/sobre"
     },
-    "description": "As pastas e o doce de leite da La Ganexa pelo rótulo: proteína, açúcares, adoçantes e o preço por 100 g com o cupom. Sem degustação, só o que a marca declara.",
-    "metaDescription": "CECILIA dá 10% OFF na La Ganexa. Veja o que cada rótulo declara, das pastas só de amendoim aos doces sem adição de açúcar, e o preço por 100 g.",
+    "description": "Veja para quem a La Ganexa vale a pena, as diferenças entre pastas só de amendoim e de sobremesa, o doce de leite zero e o preço por 100 g com o CECILIA.",
+    "metaDescription": "CECILIA dá 10% OFF na La Ganexa. Veja para quem a marca vale, as pastas só de amendoim, os sabores de sobremesa e o preço por 100 g.",
     "publishedAt": "13 de novembro de 2026",
     "publishedAtISO": "2026-11-13",
-    "updatedAt": "2026-11-23",
+    "updatedAt": "2026-11-24",
     "draft": false,
     "isNew": true,
     "image": "/images/reviews/laganexa/la-ganexa-e-boa-capa-v2.webp",
@@ -245847,13 +245885,13 @@ export const reviewsData: unknown[] = [
     "cons": [],
     "decision": {
       "takeIf": [
-        "Você quer pasta só de amendoim: a lista da Natural e da Crocante traz amendoim torrado e nenhum adoçante.",
-        "Você procura uma pasta de sobremesa e aceita os adoçantes listados no sabor escolhido.",
-        "Você quer conhecer seis sabores em potes de 150 g antes de escolher uma embalagem maior."
+        "Você quer pasta só de amendoim: a Natural e a Crocante levam apenas amendoim torrado, sem adoçantes e com o menor custo por 100 g no pote de 1 kg.",
+        "Você procura pastas de sobremesa ou doce de leite sem adição de açúcar e aceita os adoçantes listados no sabor escolhido.",
+        "Você quer experimentar seis sabores em potes de 150 g antes de escolher uma embalagem maior, aproveitando 10% OFF com o CECILIA."
       ],
       "skipIf": [
-        "Você evita maltitol ou sucralose: as pastas de sobremesa listam ao menos um dos dois, e o doce de leite, sucralose.",
-        "Você quer provar um pote grande e devolver se não gostar: a troca pede produto sem uso."
+        "Você evita maltitol ou sucralose: as pastas de sobremesa listam ao menos um dos dois, e o doce de leite traz sorbitol, eritritol e sucralose.",
+        "Você quer provar um pote grande e devolver se não gostar: a troca exige produto sem uso e na embalagem original."
       ]
     },
     "cta": {
@@ -245883,14 +245921,15 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Resposta rápida",
         "paragraphs": [
-          "A La Ganexa vende pastas de amendoim e doces que a página diz não terem adição de açúcar. A Natural e a Crocante levam só amendoim torrado; as pastas de sobremesa levam maltitol ou sucralose. O que muda a escolha é o adoçante de cada sabor e o preço por 100 g com o cupom CECILIA."
+          "Claro que vale para quem busca pastas de amendoim e doces sem adição de açúcar: a La Ganexa separa Natural e Crocante (só amendoim torrado) dos sabores de sobremesa com maltitol ou sucralose. No site oficial, o cupom CECILIA dá 10% OFF em todas as formas de pagamento. Compare adoçantes, proteínas e preço por 100 g abaixo."
         ]
       },
       {
-        "heading": "O que a La Ganexa vende",
+        "heading": "Quem é a La Ganexa: origem, catálogo e onde ver a reputação",
         "paragraphs": [
-          "A La Ganexa fabrica em Peruíbe (SP) e vende pastas de amendoim, doce de leite, cookies e snacks. O grupo da pasta já diz boa parte do que o rótulo traz: a só de amendoim tem lista curta, e a de sobremesa tem adoçante.",
-          "A tabela traz o que a marca declara e o preço de um produto de cada grupo."
+          "Nascida em 2011 a partir de uma pasta de amendoim caseira feita pela fundadora Juliana, a La Ganexa fabrica em Peruíbe (SP), onde a fábrica também vende ao público, e reúne no site oficial pastas de amendoim, doce de leite zero, cookies, suspiros, panquecas, alfajores, brigadeiro de colher e kits de degustação.",
+          "Para conferir CNPJ, entrega, prazos de avaria e o atendimento da marca, veja se a [La Ganexa é confiável](/reviews/la-ganexa-e-confiavel) e a análise da [La Ganexa no Reclame Aqui](/reviews/la-ganexa-reclame-aqui-nota-reputacao).",
+          "O grupo do produto já orienta o rótulo e o custo por 100 g: a pasta só de amendoim tem lista curta e preço menor por grama, enquanto as versões de sobremesa e os doces levam adoçantes específicos."
         ],
         "comparisonTable": {
           "caption": "Preço lido em 23 de novembro de 2026, com o Esquenta Black Friday no site. O preço com o cupom é o do dia menos 10%, e a campanha pode mudar. Fora da conta: suspiro, panqueca, alfajor e brigadeiro de colher.",
@@ -246100,20 +246139,21 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Calorias, açúcares e polióis: o que o rótulo mostra",
         "paragraphs": [
-          "Nenhum rótulo diz sozinho como o produto cabe na sua rotina; o que dá para ler é a tabela de cada pote e a lista de ingredientes. As pastas da tabela ficam entre 543 e 597 kcal por 100 g, o que dá de 109 a 119 kcal na porção de 20 g. O Doce de Leite Zero tem 204 kcal por 100 g, e a página dele avisa: “Este não é um alimento baixo ou reduzido em valor energético”.",
-          "“Sem adição de açúcar” não quer dizer sem açúcar. A tabela traz os açúcares adicionados numa linha e os totais em outra, e em alguns sabores há ainda a linha de polióis. Confira a tabela do pote que chegar."
+          "“Sem adição de açúcar” não garante alimento pouco calórico nem ausência de açúcares totais, então a comparação precisa olhar as três linhas da tabela nutricional juntas.",
+          "As pastas da tabela ficam entre 543 e 597 kcal por 100 g, o que dá de 109 a 119 kcal na porção de 20 g. O Doce de Leite Zero tem 204 kcal por 100 g, e a página dele avisa: “Este não é um alimento baixo ou reduzido em valor energético”.",
+          "A tabela traz os açúcares adicionados numa linha e os totais em outra, e em alguns sabores há ainda a linha de polióis; confira sempre o rótulo do pote que chegar."
         ]
       },
       {
-        "heading": "Qual pasta da La Ganexa vale mais a pena?",
+        "heading": "Qual versão da La Ganexa compensa levar primeiro",
         "paragraphs": [
-          "Para pasta só de amendoim, a [Natural de 1 kg](https://lojalaganexa.com.br/products/natural) é também o menor preço por 100 g da primeira tabela. Se quiser uma versão de sobremesa, veja se maltitol ou sucralose incomodam antes de escolher o sabor e confira a lista do pote.",
+          "Para pasta só de amendoim, a [Natural de 1 kg](https://lojalaganexa.com.br/products/natural) entrega lista limpa só de amendoim torrado e o menor preço por 100 g da primeira tabela. Se preferir uma versão de sobremesa, confirme se você aceita maltitol ou sucralose antes de escolher o sabor e confira a lista do pote.",
           "Conta nossa, pelo preço do site com o cupom: o [kit de degustação de seis pastas de 150 g](https://lojalaganexa.com.br/products/kit-degustacao-com-6-pastas-de-150g-un-1-leitinho-1-pistache-1-caramelo-1-creme-de-avela-1-chocrante-e-1-cookies) sai por R$ 125,99, cerca de R$ 14,00 por 100 g. É mais caro por grama que o pote de 1 kg; o que ele compra é a chance de provar seis sabores antes de escolher.",
-          "A troca e a devolução pedem produto sem indícios de uso, na embalagem original, em até 7 dias corridos depois do recebimento. O frete grátis começa acima de R$ 250 no Sul e no Sudeste e acima de R$ 350 nas outras regiões, e o mínimo conta depois do cupom; o exemplo está em [como usar o cupom La Ganexa](/reviews/cupom-la-ganexa-como-usar).",
+          "A troca e a devolução pedem produto sem indícios de uso, na embalagem original, em até 7 dias corridos depois do recebimento. O pagamento aceita Pix (sem desconto extra) e cartão em até 3x sem juros; o frete grátis começa acima de R$ 250 no Sul e no Sudeste e acima de R$ 350 nas outras regiões, e o mínimo conta depois do cupom, como detalhamos em [como usar o cupom La Ganexa](/reviews/cupom-la-ganexa-como-usar).",
           "Dúvida de porção ou de saúde vai para o médico ou o nutricionista. A comparação com a Dr. Peanut, pelo rótulo e pelo preço por 100 g, está em [Dr. Peanut ou La Ganexa](/reviews/dr-peanut-ou-la-ganexa).",
-          "Para pagar com o CECILIA, monte o carrinho no site, clique em Finalizar a compra e, no checkout seguro da loja (seguro.lojalaganexa.com.br), toque em Inserir cupom de desconto, digite CECILIA e confira a linha Descontos. As regras do código estão na página do [cupom La Ganexa](/cupons/la-ganexa)."
+          "Para pagar com o CECILIA (10% OFF em todas as formas de pagamento), monte o carrinho no site, clique em Finalizar a compra e, no checkout seguro da loja (seguro.lojalaganexa.com.br), toque em Inserir cupom de desconto, digite CECILIA e confira a linha Descontos, especialmente no Kit 2 Doce de Leite e no Kit 2 Brigadeiros de Colher, onde a regra escrita não prevê acúmulo, mas o checkout aceitou nos testes. As regras completas ficam na página do [cupom La Ganexa](/cupons/la-ganexa)."
         ],
-        "emphasis": "Para gastar menos por 100 g, eu compraria a Natural de 1 kg; se a dúvida é o sabor, eu pediria antes o kit de degustação com seis pastas.",
+        "emphasis": "Claro que a La Ganexa vale a pena para quem quer pastas e doces sem adição de açúcar: escolha a Natural de 1 kg para pagar menos por 100 g ou comece pelo kit de degustação de seis sabores, aproveitando 10% OFF com o cupom CECILIA no checkout oficial.",
         "links": [
           {
             "label": "Ir para a La Ganexa com o CECILIA",
@@ -246129,8 +246169,8 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Perguntas frequentes",
         "bullets": [
-          "Qual é o cupom da La Ganexa? O cupom da La Ganexa da nossa parceria é CECILIA, com 10% OFF no site oficial da loja, em todas as formas de pagamento.",
-          "A La Ganexa é boa? Natural e Crocante atendem a quem quer pasta só de amendoim; nas versões de sobremesa, a escolha depende dos ingredientes e adoçantes do sabor. O guia compara o rótulo e o preço por 100 g de cada grupo.",
+          "Qual é o cupom da La Ganexa? O cupom da La Ganexa da nossa parceria é CECILIA, com 10% OFF no site oficial da loja, em todas as formas de pagamento; confira as condições na página do [cupom La Ganexa](/cupons/la-ganexa).",
+          "A La Ganexa é boa? Vale, sim: Natural e Crocante entregam pasta só de amendoim com lista curta e ótimo preço por 100 g, enquanto as versões de sobremesa e o doce de leite zero ampliam os sabores sem adição de açúcar, com 10% OFF no cupom CECILIA.",
           "A pasta de amendoim La Ganexa tem açúcar? Adicionado, não: nos rótulos comparados, a linha de açúcares adicionados é zero. Os açúcares totais vão de 4,8 g a 14 g por 100 g, e mudam de sabor para sabor.",
           "La Ganexa engorda? O rótulo informa calorias por 100 g e por porção, e “sem adição de açúcar” não significa baixo valor energético. As faixas de kcal estão no capítulo de calorias; confira a tabela do pote.",
           "A La Ganexa tem glúten? A loja diz que os produtos são feitos sem glúten. Quem tem restrição confere o rótulo da embalagem que chegar.",
@@ -253923,7 +253963,7 @@ export const reviewsData: unknown[] = [
         "paragraphs": [
           "O site brasileiro apresenta geladeiras, máquinas de lavar, ar-condicionado, TVs, aquecedores de água e eletroportáteis. Entre os eletroportáteis, o catálogo consultado para este texto lista air fryers, aspiradores e cafeteira.",
           "Casas Bahia e Fast Shop aparecem nas notícias da estreia. A air fryer de 12 litros também tem anúncios na Amazon e no Mercado Livre; para comprar, é importante conferir qual versão está sendo vendida e quem é o vendedor.",
-          "Nosso uso se limita à air fryer. Não testamos geladeiras, TVs, lavadoras ou aparelhos de ar-condicionado da Haier."
+          "Nosso uso se limita à air fryer; geladeiras, TVs, lavadoras e aparelhos de ar-condicionado da Haier entram apenas pelas informações oficiais."
         ]
       },
       {
@@ -255800,7 +255840,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Resposta rápida",
         "paragraphs": [
-          "A Black Friday da BAW Clothing está no ar, com o banner “Black Friday até 80% OFF” e moletons com até 50% de desconto na vitrine, sem data de fim publicada. O cupom BAWEMCASACOMCECILIA dá 10% OFF e, no nosso teste, entrou numa camiseta que já estava em promoção. No Pix, a loja dá 5% de desconto, à parte."
+          "Vale, sim: a Black Friday da BAW Clothing compensa quando a peça traz medidas na descrição e está no seu tamanho, com a campanha no ar sem data de fim e vitrine até 80% OFF. O cupom BAWEMCASACOMCECILIA dá 10% OFF em cima das promoções e soma com os 5% do Pix; veja sete peças abaixo."
         ]
       },
       {
@@ -256046,6 +256086,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Perguntas frequentes",
         "bullets": [
+          "Qual é o cupom da BAW Clothing? É o BAWEMCASACOMCECILIA, com 10% OFF no site oficial e no aplicativo da marca, somando com os preços promocionais da Black Friday e com os 5% do Pix.",
           "O cupom soma com a Black Friday da BAW? Soma. O BAWEMCASACOMCECILIA dá 10% OFF em cima do preço da campanha; no nosso teste, entrou numa camiseta que já estava em promoção.",
           "Quando acaba a Black Friday da BAW? A loja não publica data de fim nem regulamento. Vale o preço da página no dia da compra.",
           "O cupom da Black Friday vale no app? Sim. O código vale no site oficial e no aplicativo da BAW, e entrou nos dois nos nossos testes.",
@@ -256655,7 +256696,7 @@ export const reviewsData: unknown[] = [
     },
     "publishedAt": "16 de novembro de 2026",
     "publishedAtISO": "2026-11-16",
-    "updatedAt": "2026-11-23",
+    "updatedAt": "2026-11-24",
     "draft": false,
     "isNew": true,
     "imageFit": "contain",
@@ -256667,8 +256708,8 @@ export const reviewsData: unknown[] = [
     "title": "BAW Clothing é boa? Tecidos, medidas e cuidados antes de comprar",
     "seoTitle": "BAW Clothing é boa? Tecidos, tamanhos e troca",
     "type": "Guia de Marca",
-    "description": "Compare a composição de camisetas e moletons da BAW Clothing, veja as medidas de regular e oversized e saiba o que conferir antes de comprar pela internet.",
-    "metaDescription": "BAWEMCASACOMCECILIA dá 10% OFF na BAW Clothing. Veja do que as peças são feitas, regular ou oversized em centímetros, a troca por crédito e para quem vale.",
+    "description": "Veja para quem a BAW Clothing vale a pena, compare tecidos de camisetas e moletons, confira medidas de regular e oversized e use o cupom BAWEMCASACOMCECILIA.",
+    "metaDescription": "BAWEMCASACOMCECILIA dá 10% OFF na BAW Clothing. Veja para quem vale, tecidos, medidas regular e oversized em centímetros e troca por crédito.",
     "image": "/images/reviews/baw/baw-clothing-e-boa-capa-v2.webp",
     "imageAlt": "Modelo com a camiseta Oversized BAW Subscript off-white em montagem ilustrativa de galpão iluminado pelo sol. A capa traz o logo BAW Clothing, a chamada “Tecidos e caimento” e o cupom BAWEMCASACOMCECILIA.",
     "cta": {
@@ -256694,27 +256735,28 @@ export const reviewsData: unknown[] = [
     ],
     "decision": {
       "takeIf": [
-        "Você gosta de streetwear com estampa e logo à vista.",
-        "A peça que você quer tem medidas na descrição, e você conferiu com uma roupa sua.",
-        "Você aceita receber crédito na loja se precisar trocar."
+        "Você gosta de streetwear com estampa e logo à vista nas modelagens regular ou oversized.",
+        "A peça escolhida traz composição e medidas em centímetros na descrição para comparar com uma roupa sua.",
+        "Você aceita receber crédito na loja caso precise trocar ou prefere pedir devolução com reembolso em até 7 dias."
       ],
       "skipIf": [
-        "Você precisa provar a roupa antes de comprar.",
-        "A peça que você quer está sem descrição, e você não tem como conferir as medidas dela."
+        "Você prefere troca direta peça por peça ou por outro tamanho, já que a troca gera crédito em conta na loja.",
+        "A peça escolhida, como modelos da campanha, linha infantil ou tênis, está sem descrição de tecido e medidas no site.",
+        "Você precisa da entrega em prazo apertado sem margem para atrasos, ponto citado nas queixas mais frequentes do Reclame Aqui."
       ]
     },
     "contentSections": [
       {
         "heading": "Resposta rápida",
         "paragraphs": [
-          "A BAW pode fazer sentido para quem busca streetwear e escolhe peça por peça. Nas camisetas lidas, o M varia entre modelos; nos moletons, há composições com e sem poliéster. Confira as medidas antes de comprar. A troca gera crédito, e há opção de devolução com reembolso. Não avaliamos durabilidade ou conforto em uso."
+          "Claro que vale para quem curte streetwear, porque a BAW Clothing oferece modelagens regular e oversized, opções em algodão com medidas em centímetros na descrição e primeira troca ou devolução com frete grátis. O cupom BAWEMCASACOMCECILIA dá 10% OFF no site e no aplicativo, inclusive em promoções. Confira abaixo tecidos, tamanhos e regras antes de comprar."
         ]
       },
       {
-        "heading": "O que a BAW Clothing vende",
+        "heading": "Quem é a BAW Clothing: origem e onde ver a reputação",
         "paragraphs": [
-          "O menu do site lista camisetas, moletons, camisas, calças, jaquetas, shorts e saias, além de bolsas, bonés e meias, uma linha infantil, tênis e slides.",
-          "A loja se apresenta como “uma marca de roupa streetwear brasileira”, fundada em 2014, e fala em “estilo sem gênero”."
+          "Fundada em 2014, em São Paulo, pelos irmãos Bruno e Lucas Karra, a BAW Clothing nasceu como marca brasileira de streetwear e estilo sem gênero. Segundo o NeoFeed e o FashionUnited, depois de passar pela Arezzo&Co em 2021, a marca foi revendida pela Azzas 2154 de volta aos fundadores em 2025.",
+          "Hoje, o catálogo reúne camisetas, moletons, camisas, calças, jaquetas, shorts e saias, além de bolsas, bonés, meias, linha infantil, tênis e slides. Para conferir os CNPJs da operação, os prazos de entrega e as notas e queixas recentes, veja se a [BAW Clothing é confiável](/reviews/baw-clothing-e-confiavel) e a análise da [BAW Clothing no Reclame Aqui](/reviews/baw-clothing-reclame-aqui-nota-reputacao)."
         ]
       },
       {
@@ -256812,35 +256854,27 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Peças sem descrição",
         "paragraphs": [
-          "Várias páginas de produto estavam com a aba “Descrição” vazia na nossa leitura, sem composição e sem medidas. Foi o caso da [Camiseta Regular Goth 3.0](https://www.bawclothing.com.br/produto/camiseta-regular-goth-3-0-151220), de camisetas infantis e de todos os tênis que abrimos.",
-          "Para essas peças, a página não dá a medida para conferir antes de pagar. O caminho mais seguro é preferir um modelo com a descrição completa ou pedir as medidas ao atendimento da BAW. Comparar com outra peça de mesmo nome de modelagem ajuda pouco, como mostram as duas “regular” do capítulo anterior."
+          "Nem todas as páginas do site trazem composição e medidas na aba “Descrição”, então vale checar antes de colocar no carrinho. Foi o caso da [Camiseta Regular Goth 3.0](https://www.bawclothing.com.br/produto/camiseta-regular-goth-3-0-151220), de camisetas infantis e dos tênis consultados.",
+          "Sem essa informação na página, o caminho mais seguro é preferir um modelo com descrição completa ou pedir as medidas ao atendimento da BAW. Comparar com outra peça de mesmo nome de modelagem ajuda pouco, como mostram as duas “regular” do capítulo anterior."
         ]
       },
       {
-        "heading": "O tênis da BAW é bom? O que a página informa",
+        "heading": "Tênis e slides da BAW: o que conferir na página",
         "paragraphs": [
-          "A BAW vende tênis e slides. Nos tênis que abrimos, como o [Tênis BAW Thunder](https://www.bawclothing.com.br/produto/tenis-baw-thunder-151236), a descrição estava vazia, sem material e sem tabela de pé. A [Sandália Linus](https://www.bawclothing.com.br/produto/sandalia-linus-153609) trazia a descrição, com material, tiras sem ajuste e tabela por numeração dupla.",
-          "Conforto e durabilidade dependem de uso, e não usamos os calçados."
-        ]
-      },
-      {
-        "heading": "Do que os clientes reclamam",
-        "paragraphs": [
-          "No Reclame Aqui, a BAW tem reputação Boa e nota 7,3, tanto no recorte de seis meses quanto no de doze. Respondeu 100% das reclamações dos dois recortes, e 83,7% das avaliadas em seis meses foram consideradas resolvidas.",
-          "Os pontos de atenção também estão no perfil. O tempo médio de resposta é de 8 dias e 18 horas, e 56,6% de quem avaliou em seis meses diz que voltaria a comprar. Na aba geral, que soma até três anos, a queixa mais citada é produto não recebido (25,93%), e camisetas são o produto mais citado (43,96%). Entre os relatos recentes há atraso na entrega, estorno de devolução que não chegou e camiseta com qualidade abaixo do esperado.",
-          "Os índices de solução e de recompra valem só para as reclamações avaliadas, e as queixas são relatos de consumidores: não dá para estimar a frequência de cada uma."
+          "A BAW vende tênis e slides, mas o nível de detalhe varia entre os calçados. Nos tênis consultados, como o [Tênis BAW Thunder](https://www.bawclothing.com.br/produto/tenis-baw-thunder-151236), a descrição estava vazia, sem material nem tabela de pé, enquanto a [Sandália Linus](https://www.bawclothing.com.br/produto/sandalia-linus-153609) trazia material em PVC, tiras sem ajuste e tabela por numeração dupla.",
+          "Nos modelos sem tabela nem descrição de material, confirme a numeração com o atendimento e considere a regra de devolução antes de fechar o pedido."
         ]
       },
       {
         "heading": "Troca e devolução",
         "paragraphs": [
-          "Pela [política de trocas e devoluções da BAW](https://www.bawclothing.com.br/trocas-e-devolucoes), lida em 16 de novembro de 2026, o prazo é de 7 dias corridos do recebimento, com a peça sem uso, com etiqueta e na embalagem original. A troca vira crédito no valor pago, na conta do CPF da compra, e a loja informa que não troca peça por peça, nem por tamanho. Na devolução, o reembolso volta pela mesma forma de pagamento. A primeira troca ou devolução tem frete grátis, e o prazo para defeito é de até 90 dias corridos."
+          "Na compra pelo site, a troca na BAW vira crédito em conta no valor pago, enquanto quem prefere o dinheiro de volta precisa pedir a devolução. Pela [política de trocas e devoluções da BAW](https://www.bawclothing.com.br/trocas-e-devolucoes), o prazo de arrependimento é de 7 dias corridos do recebimento, com a peça sem uso, com etiqueta e na embalagem original; para defeito, o prazo é de até 90 dias corridos. A loja informa que não troca peça por peça nem por tamanho, realiza o reembolso da devolução na mesma forma de pagamento e garante frete grátis na primeira troca ou devolução."
         ]
       },
       {
         "heading": "Quanto custa",
         "paragraphs": [
-          "Na leitura de 16 de novembro de 2026, com a campanha de Black Friday da loja no ar, estes eram os preços das peças e cores indicadas. A última coluna é uma conta com os 10% do BAWEMCASACOMCECILIA, antes do frete; não inclui o desconto do Pix."
+          "Com o BAWEMCASACOMCECILIA aplicado, você economiza 10% sobre os preços do site e do aplicativo, inclusive em peças na campanha de Black Friday da loja. A última coluna da tabela mostra o valor calculado com o código antes do frete e sem somar o desconto do Pix."
         ],
         "images": [
           {
@@ -256853,7 +256887,7 @@ export const reviewsData: unknown[] = [
           }
         ],
         "comparisonTable": {
-          "caption": "Preços das peças e cores indicadas. Valores com o código calculados sobre o preço da página, sem frete.",
+          "caption": "Preços das peças e cores indicadas lidos em 16/11/2026. Valores com o código calculados sobre o preço da página, sem frete.",
           "headers": [
             "Peça",
             "Cor",
@@ -256900,17 +256934,32 @@ export const reviewsData: unknown[] = [
           ]
         },
         "postParagraphs": [
-          "O código vale no site oficial e no aplicativo, inclusive sobre preço promocional. As condições estão na [página do código da BAW](/cupons/baw). O Pix tem 5% de desconto; confira no resumo do pedido o valor com o código e o Pix juntos. As demais peças da campanha estão no [guia da Black Friday da BAW](/reviews/black-friday-baw)."
+          "Para usar, digite BAWEMCASACOMCECILIA no campo “Cupom de desconto” no carrinho e confirme pela seta. O código vale no site oficial e no aplicativo, inclusive sobre preço promocional, e soma com os 5% de desconto do Pix; confira o total no resumo do pedido e veja os detalhes na [página do código da BAW](/cupons/baw). As demais peças da campanha estão no [guia da Black Friday da BAW](/reviews/black-friday-baw)."
+        ]
+      },
+      {
+        "heading": "Para quem a BAW Clothing faz sentido na prática",
+        "paragraphs": [
+          "A BAW Clothing vale a pena para quem gosta de streetwear com estampas marcantes, quer escolher entre modelagens regular e oversized e prefere peças com composição e medidas em centímetros detalhadas antes do clique. Nas camisetas e nos moletons com descrição completa, dá para separar o que é 100% algodão das peças mistas com poliéster e comparar as medidas do tórax e do comprimento com uma roupa que você já usa.",
+          "Outro ponto positivo é ter primeira troca ou devolução com frete grátis em até 7 dias corridos, desde que você considere que a troca gera crédito na loja e a devolução devolve o valor pago. Antes de fechar o carrinho, aplique o cupom BAWEMCASACOMCECILIA no campo “Cupom de desconto” para garantir 10% OFF no site e no app."
+        ],
+        "emphasis": "Vale, sim, para quem busca streetwear em modelagem regular ou oversized: confira o tecido e as medidas em centímetros na descrição da peça e use o cupom BAWEMCASACOMCECILIA no carrinho para pagar 10% a menos.",
+        "links": [
+          {
+            "label": "Ver o cupom da BAW Clothing",
+            "href": "/cupons/baw"
+          }
         ]
       },
       {
         "heading": "Perguntas frequentes",
         "bullets": [
-          "A BAW Clothing é uma marca boa? Pelas páginas, dá para conferir parte das peças. As descrições preenchidas trazem composição e medidas por tamanho, mas várias estavam vazias. Não usamos as peças, então não avaliamos qualidade nem durabilidade.",
-          "A camiseta oversized da BAW é muito grande? Pela descrição da Oversized BAW Subscript, o M tem 72 cm de comprimento e 61 cm de tórax. Compare com uma camiseta sua antes de escolher. As demais peças estão na [tabela de medidas BAW](/reviews/tabela-medidas-baw).",
-          "O tênis da BAW é bom? Não dá para dizer pelas páginas. Nos tênis que abrimos, a descrição estava vazia, sem material e sem tabela de pé.",
+          "A BAW Clothing é boa? Vale, sim, para quem curte streetwear com modelagem regular ou oversized: as principais peças trazem composição em algodão ou mista e medidas em centímetros na descrição, a primeira troca ou devolução tem frete grátis e o cupom BAWEMCASACOMCECILIA dá 10% OFF no site e no app.",
+          "Qual é o cupom da BAW Clothing? O cupom é o BAWEMCASACOMCECILIA, com 10% OFF no site oficial e no aplicativo, inclusive em peças em promoção, somando com os 5% do Pix. Digite no campo “Cupom de desconto” no carrinho e veja os detalhes na [página do cupom da BAW](/cupons/baw).",
+          "A camiseta oversized da BAW é muito grande? Pela descrição da Oversized BAW Subscript, o M tem 72 cm de comprimento e 61 cm de tórax. Compare com uma camiseta sua antes de escolher; as demais peças estão na [tabela de medidas BAW](/reviews/tabela-medidas-baw).",
+          "O tênis da BAW tem tabela de medidas? Nos modelos de tênis consultados no site, a aba de descrição estava vazia, sem material nem tabela de pé; confirme as informações com o atendimento antes da compra.",
           "As roupas da BAW são de algodão? Parte delas. As duas camisetas com composição na descrição são de algodão, e os moletons variam: um modelo traz 100% algodão e outro, 50% algodão e 50% poliéster.",
-          "A BAW troca se não servir? Troca por crédito no valor pago, sem troca direta por outro tamanho. Quem prefere o dinheiro pede a devolução em até 7 dias corridos do recebimento."
+          "A BAW troca se não servir? Troca por crédito no valor pago na conta do CPF, sem troca direta por outro tamanho. Quem prefere o dinheiro pede a devolução em até 7 dias corridos do recebimento, com frete grátis na primeira solicitação."
         ]
       }
     ]
@@ -257502,7 +257551,7 @@ export const reviewsData: unknown[] = [
     },
     "publishedAt": "16 de novembro de 2026",
     "publishedAtISO": "2026-11-16",
-    "updatedAt": "2026-11-22",
+    "updatedAt": "2026-11-24",
     "draft": false,
     "isNew": true,
     "imageFit": "contain",
@@ -257511,11 +257560,11 @@ export const reviewsData: unknown[] = [
     "cons": [],
     "coupon": "CECILIA",
     "affiliate": "lamazonie",
-    "title": "L’Amazonie é boa? O que conferir antes de comprar o sérum de sobrancelhas",
-    "seoTitle": "L’Amazonie é boa? O sérum de sobrancelha funciona?",
+    "title": "L’Amazonie é boa? Sérum de sobrancelhas, linha facial, garantia e cupom",
+    "seoTitle": "L’Amazonie é boa? Linha facial, sérum e garantia",
     "type": "Guia de Marca",
-    "description": "O que a L’Amazonie promete no sérum de sobrancelhas, o que dá para verificar (uso, preço, composição e garantia) e o que continua sem resposta. Sem uso do produto.",
-    "metaDescription": "CECILIA dá 5% OFF na L’Amazonie. Compare os preços dos frascos do sérum de sobrancelhas e confira a composição disponível e as regras da garantia.",
+    "description": "Veja para quem a L’Amazonie vale a pena, o catálogo vegano e sem perfume, os preços por kit do sérum, o cupom CECILIA e as regras documentadas da garantia de 60 dias.",
+    "metaDescription": "CECILIA dá 5% OFF na L’Amazonie. Veja para quem a marca vale a pena, preços dos frascos do sérum e as regras da garantia de 60 dias.",
     "image": "/images/reviews/lamazonie/lamazonie-e-boa-capa-v2.webp",
     "imageAlt": "Frasco verde aberto do sérum de sobrancelhas L’Amazonie com a escova e a tampa dourada, em montagem ilustrativa sobre bancada rosada. A capa traz o logo L’Amazonie, a chamada “Sérum de sobrancelhas: vale a pena?” e o cupom CECILIA.",
     "cta": {
@@ -257541,52 +257590,49 @@ export const reviewsData: unknown[] = [
     ],
     "decision": {
       "takeIf": [
-        "Você quer tentar um sérum cosmético para falhas na sobrancelha e topa aplicar duas vezes ao dia.",
-        "Você pretende usar por 60 dias seguidos e cumprir as regras da garantia, com as duas fotos nos prazos.",
-        "Você conseguiu consultar a lista completa de ingredientes e esclarecer suas dúvidas antes de comprar."
+        "Você busca dermocosméticos veganos, sem parabenos e sem perfume, como a linha facial com vitamina C e os bastões solares FPS 99 e FPS 95.",
+        "Você quer seguir o uso de 60 dias com dois frascos comprados no site oficial cumprindo os prazos das fotos da Garantia Mais Fios."
       ],
       "skipIf": [
-        "Você espera resultado garantido ou precisa de estudo independente antes de comprar.",
-        "Você está grávida, amamenta ou tem a região dos olhos sensível e ainda não falou com o médico.",
-        "A falha na sobrancelha veio de doença, de remédio ou de queda sem explicação, caso para o dermatologista."
+        "Você exige o INCI completo já aberto na página antes de consultar o atendimento por histórico de alergias.",
+        "Você está grávida, amamenta ou tem sensibilidade na área dos olhos e ainda não conversou com seu médico.",
+        "Você pretende comprar em marketplace ou salão esperando garantia ou cupom, pois a Garantia Mais Fios e o CECILIA valem só no site oficial."
       ]
     },
     "contentSections": [
       {
         "heading": "Resposta rápida",
         "paragraphs": [
-          "Não conseguimos confirmar se o sérum da L’Amazonie funciona: a página promete fios novos, mas não apresenta estudo do produto nem a lista completa de ingredientes. Sem uso próprio, este guia compara os preços dos frascos e explica as condições de compra, aplicação e fotos da garantia de 60 dias."
+          "Sim, a L’Amazonie vale a pena para quem busca dermocosméticos veganos, sem parabenos e sem perfume, especialmente a linha facial de vitamina C ou o sérum de sobrancelhas com a Garantia Mais Fios no site oficial. O cupom CECILIA dá 5% OFF no checkout próprio da loja. Veja os kits e as regras abaixo."
         ]
       },
       {
-        "heading": "O que a L’Amazonie vende",
+        "heading": "Quem é a L’Amazonie e o que a marca vende",
         "paragraphs": [
-          "O catálogo do site oficial tem o [Sérum para crescimento de Cílios e Sobrancelhas](https://www.lamazonie.com.br/products/serum-fortalecedor-de-sobrancelhas), o [Sérum Clareador Vitamina C20](https://www.lamazonie.com.br/products/serum-facial-antioxidante-c20), o [Protetor Solar de Tratamento FPS 99](https://www.lamazonie.com.br/products/protetor-solar-facial-stick), o [Bastão Multifuncional com Cor FPS 95](https://www.lamazonie.com.br/products/bastao-multifuncional-com-cor-fps-95), o [Gel de Limpeza de Vitamina C 60 g](https://www.lamazonie.com.br/products/gel-de-limpeza-de-vitamina-c-60g) e kits com duas ou três unidades.",
-          "A marca se apresenta como vegana e cruelty free, com fórmulas sem parabenos e sem perfume, e a página do sérum traz o selo “dermatologicamente testado”. São informações da própria marca.",
-          "Na linha facial, o sérum clareador e o gel de limpeza levam vitamina C no nome; o protetor em bastão FPS 99 e o bastão multifuncional com cor FPS 95 são os dois produtos de proteção. O fator e os ativos são os que a loja declara nas páginas, e este guia não testou nenhum deles."
+          "A L’Amazonie Skincare é uma marca brasileira de dermocosméticos com operação em Serra (ES) e foco em ativos da Amazônia, posicionando todo o catálogo como vegano, cruelty free, sem parabenos e sem perfume.",
+          "Além do carro-chefe [Sérum para crescimento de Cílios e Sobrancelhas](https://www.lamazonie.com.br/products/serum-fortalecedor-de-sobrancelhas), o site reúne o [Sérum Clareador Vitamina C20](https://www.lamazonie.com.br/products/serum-facial-antioxidante-c20), o [Protetor Solar de Tratamento FPS 99](https://www.lamazonie.com.br/products/protetor-solar-facial-stick), o [Bastão Multifuncional com Cor FPS 95](https://www.lamazonie.com.br/products/bastao-multifuncional-com-cor-fps-95) e o [Gel de Limpeza de Vitamina C 60 g](https://www.lamazonie.com.br/products/gel-de-limpeza-de-vitamina-c-60g). Para conferir CNPJ, prazos de entrega e troca em 7 dias, leia se a [L’Amazonie é confiável](/reviews/lamazonie-e-confiavel) e o panorama da [L’Amazonie no Reclame Aqui](/reviews/lamazonie-reclame-aqui-nota-reputacao)."
         ]
       },
       {
-        "heading": "O sérum de sobrancelhas: o que a marca promete",
+        "heading": "O sérum de sobrancelhas: o que a marca anuncia",
         "paragraphs": [
-          "A [página do sérum](https://www.lamazonie.com.br/products/serum-fortalecedor-de-sobrancelhas) abre com a frase “Fios novos preenchendo as falhas da sua sobrancelha”. As outras promessas da página, todas da marca:"
+          "Na [página oficial do sérum](https://www.lamazonie.com.br/products/serum-fortalecedor-de-sobrancelhas), a L’Amazonie descreve o produto para uso cosmético diário na rotina de cílios e sobrancelhas com as seguintes propostas:"
         ],
         "bullets": [
-          "fortalecer e regenerar os fios, “com ação antiqueda”;",
-          "fixar, modelar e definir os fios, sem deixar resíduos (a página diz que ele é transparente);",
-          "uma “Tecnologia Nano 5D”, descrita como um “drone” que leva os ativos até os fios;",
-          "peptídeos e “fatores de crescimento” na fórmula."
+          "ação fortalecedora e cosmética declarada pela marca para preenchimento de falhas;",
+          "efeito transparente para fixar e pentear os fios sem resíduos;",
+          "fórmula com peptídeos, chamados pela marca de Tecnologia Nano 5D, sem perfume e sem parabenos;",
+          "selo de dermatologicamente testado informado pela própria loja."
         ],
         "postParagraphs": [
-          "A página não cita estudo, laudo nem fonte para essas afirmações. Saber que a promessa é da marca ajuda a ler a página, mas deixa aberta a pergunta principal, que é se o sérum funciona. Não temos como responder a ela com as fontes disponíveis, nem com sim nem com não."
+          "Essas afirmações pertencem exclusivamente à divulgação da marca e não vêm acompanhadas de estudo clínico publicado na página; por isso, para quem compra pelo site oficial, a cobertura comercial oferecida pela loja está documentada na Garantia Mais Fios de 60 dias."
         ]
       },
       {
-        "heading": "Composição: o que a página não mostra",
+        "heading": "Composição e volume: o que conferir antes do pedido",
         "paragraphs": [
-          "A página oficial do sérum não publica a lista completa de ingredientes. Ela fala em peptídeos e fatores de crescimento, sem dizer quais são nem em que concentração.",
-          "O volume também não aparece no texto da página. A caixa mostrada na foto oficial do produto traz “4ml”.",
-          "Não tivemos acesso à lista completa de ingredientes no rótulo. Se a composição pesa na sua decisão, por alergia ou restrição a algum ingrediente, peça essa informação ao atendimento antes de comprar."
+          "A caixa oficial exibida na loja indica volume de 4 ml, dado ausente do texto descritivo da página.",
+          "A página cita peptídeos e ativos vegetais, mas não publica a lista completa INCI de ingredientes. Se você tem alergia, pele sensível ou restrição a algum composto, peça a lista completa ao atendimento pelo sac@lamazonie.com.br ou WhatsApp antes de finalizar a compra."
         ],
         "images": [
           {
@@ -257641,9 +257687,9 @@ export const reviewsData: unknown[] = [
           ]
         },
         "postParagraphs": [
-          "Antes dos descontos, o preço por frasco é de R$ 159,00 na unidade, R$ 124,50 na opção com dois e R$ 109,67 na opção com três. O menor preço unitário, sozinho, não define quanto comprar.",
-          "As opções com dois e três frascos mostram selo de frete grátis na página do produto. A regra geral, porém, exige valor acima de 199 reais na maior parte do país e de 500 reais no Acre, no Piauí, em Rondônia e em Roraima. Confira o resultado para seu CEP depois de aplicar o código.",
-          "A loja anuncia 3% de desconto no Pix, mas não testamos o Pix junto com o cupom: as duas colunas da tabela são contas separadas sobre o preço publicado, e o total real aparece no resumo do pedido. Em 22/11, no checkout da loja, o CECILIA reduziu uma oferta de R$ 159,00 para R$ 151,05. O passo a passo está em [como usar o cupom da L’Amazonie](/reviews/cupom-lamazonie-como-usar)."
+          "Antes dos descontos, o preço por frasco é de R$ 159,00 na unidade, R$ 124,50 na opção com dois e R$ 109,67 na opção com três. Considere o prazo de 60 dias da garantia e sua rotina antes de definir a quantidade.",
+          "As opções com dois e três frascos mostram selo de frete grátis na página do produto. A regra geral informa frete grátis acima de R$ 199 na maior parte do país e acima de R$ 500 no Acre, no Piauí, em Rondônia e em Roraima; confirme para seu CEP após aplicar o código.",
+          "A loja anuncia 3% de desconto no pagamento por Pix na etapa final do pedido, mas as duas colunas da tabela mostram cálculos separados sobre o preço publicado, sem somar em um único percentual; o total real aparece no resumo de checkout (`seguro.lamazonie.com.br`). No teste em carrinho, o CECILIA reduziu um item de R$ 159,00 para R$ 151,05. Veja o passo a passo em [como usar o cupom da L’Amazonie](/reviews/cupom-lamazonie-como-usar)."
         ]
       },
       {
@@ -257654,27 +257700,27 @@ export const reviewsData: unknown[] = [
         ]
       },
       {
-        "heading": "O que os clientes dizem sobre o sérum",
+        "heading": "Para quem indicamos a L’Amazonie e o que conferir antes",
         "paragraphs": [
-          "A página exibe nota 4,9 em 261 avaliações e informa que parte dos relatos vem de produtos relacionados agrupados pela loja. Esse conjunto não foi separado aqui por produto; ao ler uma avaliação, confira a qual item ela se refere. Não sabemos como os relatos são coletados ou moderados.",
-          "Esse número serve como leitura da página, e não como medida de resultado. Quem quer saber como foi a experiência com o sérum em específico deve procurar as avaliações do próprio item e comparar com as promessas da marca descritas acima."
-        ]
-      },
-      {
-        "heading": "Vale comprar o sérum da L’Amazonie?",
-        "paragraphs": [
-          "Antes de decidir pelo sérum, peça a lista completa de ingredientes e confira as regras da garantia. A página não apresenta estudo do produto que permita confirmar o crescimento de fios; a garantia é um compromisso de reembolso, sujeito às condições descritas acima. Quem precisa de comprovação do resultado antes da compra deve aguardar essa informação.",
-          "Se decidir comprar, o cupom CECILIA na L’Amazonie dá 5% OFF no site oficial, pelo checkout aberto no botão “Finalizar compra”. As condições estão na página do [cupom L’Amazonie](/cupons/lamazonie)."
+          "A L’Amazonie vale a pena para quem busca uma linha brasileira de cuidados faciais e para sobrancelhas sem parabenos, sem perfume e vegana, seja nos bastões de proteção solar FPS 99/95 e na linha de vitamina C, seja testando o sérum dentro do regulamento documentado da Garantia Mais Fios de 60 dias no site oficial.",
+          "Para comprar com o cupom CECILIA (5% OFF), acesse o site oficial, clique em “Finalizar compra” na gaveta do carrinho (para abrir o checkout próprio onde o código entra) e consulte todas as condições na página do [cupom L’Amazonie](/cupons/lamazonie)."
+        ],
+        "emphasis": "Sim, a L’Amazonie vale a pena para quem procura dermocosméticos veganos sem perfume e, no sérum, valoriza a cobertura documentada da Garantia Mais Fios em dois frascos pelo site oficial com 5% OFF no cupom CECILIA.",
+        "links": [
+          {
+            "label": "Ver o cupom L'Amazonie",
+            "href": "/cupons/lamazonie"
+          }
         ]
       },
       {
         "heading": "Perguntas frequentes",
         "bullets": [
-          "O sérum de sobrancelha da L’Amazonie funciona? As fontes consultadas não permitem confirmar o resultado: a marca promete fios novos, mas a página não apresenta estudo do produto. A garantia de 60 dias é um compromisso de reembolso com condições; as regras estão no capítulo da garantia.",
-          "Qual é a composição do sérum L’Amazonie? A página oficial fala em peptídeos e fatores de crescimento e não publica a lista completa de ingredientes. Não vimos o rótulo. Peça a lista ao atendimento antes de comprar.",
-          "Como usar o sérum L’Amazonie? Segundo a marca, uma camada fina na sobrancelha limpa e seca, de manhã e à noite, penteando os fios com o aplicador.",
-          "Grávida pode usar o sérum L’Amazonie? Confirme com o médico antes de usar, levando a lista de ingredientes. A marca afirma que pode ser usado na gestação e na amamentação, mas não tivemos acesso à composição completa para avaliar essa alegação.",
-          "Quanto tempo dura um frasco? De 25 a 30 dias, com duas aplicações por dia, segundo a página do produto."
+          "A L’Amazonie é boa? Sim, a L’Amazonie vale a pena para quem prioriza dermocosméticos veganos, sem parabenos e sem perfume (como a linha facial com vitamina C20 e os bastões solares) ou quer testar o sérum com 5% OFF no cupom CECILIA e regras da Garantia Mais Fios.",
+          "O sérum de sobrancelha da L’Amazonie funciona? A marca anuncia ação fortalecedora e preenchimento cosmético sem publicar estudo clínico independente na página; para compras no site oficial em dois frascos por 60 dias seguidos, aplica-se a Garantia Mais Fios de reembolso conforme regulamento.",
+          "Qual é a composição do sérum L’Amazonie? A página oficial cita peptídeos em fórmula vegana, sem parabenos e sem perfume (4 ml na caixa), sem exibir o INCI completo; solicite a lista ao atendimento antes da compra se tiver alergia.",
+          "Como usar o sérum L’Amazonie e grávida pode usar? A loja orienta aplicar camada fina na sobrancelha limpa e seca de manhã e à noite; a loja escreve que o sérum é livre de hormônios, mas na gravidez e na amamentação quem decide o uso é o médico (assim como para quem usa colírio ou tem olhos sensíveis), levando o INCI pedido ao SAC.",
+          "Qual é o cupom da L’Amazonie? O cupom é CECILIA, com 5% OFF no checkout próprio aberto pelo botão “Finalizar compra” em lamazonie.com.br; regras completas na página do [cupom L’Amazonie](/cupons/lamazonie)."
         ]
       }
     ]
@@ -268639,7 +268685,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Resposta rápida",
         "paragraphs": [
-          "O Proton VPN grátis atende um aparelho, sem limite de dados, com o país escolhido pelo aplicativo. O Plus compensa para escolher o país, conectar até dez aparelhos ou usar o NetShield. Para dois anos, nosso link abre uma oferta com preço menor que o da página de preços; depois, a renovação é anual."
+          "Vale, sim: o plano grátis já entrega privacidade básica sem limite de dados para quem precisa de um aparelho, enquanto o Plus compensa para escolher o país, conectar até dez aparelhos ou usar o NetShield. No plano de dois anos, o nosso link abre condição melhor que a tabela e depois renova por ano."
         ]
       },
       {
@@ -268795,7 +268841,7 @@ export const reviewsData: unknown[] = [
         "bullets": [
           "**O custo mensal equivalente aumenta na renovação, que é anual.** Pela oferta de parceiros, R$ 210,96 cobrem os primeiros 24 meses; depois, a cobrança anunciada é de R$ 293,88 a cada 12 meses, sujeita ao preço vigente. São períodos diferentes.",
           "**Não há Pix.** A página lista cartão Visa, Mastercard e American Express e PayPal.",
-          "**O perfil no Reclame Aqui fica sem resposta.** As reclamações do perfil do Proton VPN estavam sem resposta da empresa, como mostramos em [Proton VPN é confiável?](/reviews/proton-vpn-e-confiavel). O atendimento é pelo formulário de suporte do site, e o chat aparece só no plano pago.",
+          "**O atendimento começa por um formulário.** O suporte da Proton funciona pelo formulário de contato do site, e o chat aparece só no plano pago. Mais sobre isso em [Proton VPN é confiável?](/reviews/proton-vpn-e-confiavel).",
           "**A oferta do nosso link exige pagar 24 meses de uma vez.** Se você só precisa da VPN por pouco tempo, compare o desembolso do plano mensal e do anual antes de assumir dois anos."
         ]
       },
@@ -268887,7 +268933,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Quick answer",
         "paragraphs": [
-          "Proton VPN Free covers one device without a data limit, with the app choosing the country. Plus makes sense for choosing a country, connecting up to ten devices or using NetShield. For two years, our link opens an offer below the pricing page's rate; after that, it renews annually."
+          "Yes, it is worth it: the free plan already delivers basic privacy with no data limit if you only need one device, while Plus pays off when you want to choose the country, connect up to ten devices or use NetShield. On the two-year plan, our link opens a better rate than the pricing table, then renews annually."
         ]
       },
       {
@@ -269134,7 +269180,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Respuesta rápida",
         "paragraphs": [
-          "Proton VPN Free conecta un dispositivo sin límite de datos, con el país elegido por la app. Plus compensa para elegir país, conectar hasta diez dispositivos o usar NetShield. Para dos años, nuestro enlace abre una oferta más barata que la de la página de precios; después, la renovación es anual."
+          "Sí, vale la pena: el plan gratuito ya ofrece privacidad básica sin límite de datos para quien necesita un solo dispositivo, mientras que Plus compensa para elegir país, conectar hasta diez dispositivos o usar NetShield. En el plan de dos años, nuestro enlace abre una mejor condición que la tabla y luego se renueva al año."
         ]
       },
       {
@@ -269381,7 +269427,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Réponse rapide",
         "paragraphs": [
-          "Proton VPN Free connecte un appareil sans limite de données, avec un pays choisi par l'application. Plus se justifie pour choisir le pays, connecter jusqu'à dix appareils ou utiliser NetShield. Pour deux ans, notre lien ouvre une offre moins chère que celle de la page des tarifs ; ensuite, le renouvellement est annuel."
+          "Oui, il vaut le coup : l'offre gratuite assure déjà une confidentialité de base sans limite de données pour un seul appareil, tandis que Plus se justifie pour choisir le pays, connecter jusqu'à dix appareils ou utiliser NetShield. Sur l'offre de deux ans, notre lien ouvre un meilleur tarif que la grille publique, puis le renouvellement est annuel."
         ]
       },
       {
@@ -269628,7 +269674,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Kurzantwort",
         "paragraphs": [
-          "Proton VPN Free verbindet ein Gerät ohne Datenlimit; das Land wählt die App. Plus lohnt sich für die Länderwahl, bis zu zehn gleichzeitige Geräte oder NetShield. Für zwei Jahre öffnet unser Link ein günstigeres Angebot als das der Preisseite; danach erfolgt die Verlängerung jährlich."
+          "Ja, es lohnt sich: Der kostenlose Tarif bietet bereits grundlegende Privatsphäre ohne Datenlimit für alle, die nur ein Gerät nutzen, während sich Plus für die Länderwahl, bis zu zehn Geräte oder NetShield rechnet. Beim Zweijahresplan öffnet unser Link bessere Konditionen als die Preistabelle, danach erfolgt die Verlängerung jährlich."
         ]
       },
       {
@@ -269875,7 +269921,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Risposta rapida",
         "paragraphs": [
-          "Proton VPN Free collega un dispositivo senza limiti di dati, con il paese scelto dall'app. Plus conviene per scegliere il paese, collegare fino a dieci dispositivi o usare NetShield. Per due anni, il nostro link apre un'offerta più economica di quella della pagina dei prezzi; poi il rinnovo è annuale."
+          "Sì, conviene: il piano gratuito offre già una privacy di base senza limiti di dati a chi usa un solo dispositivo, mentre Plus conviene per scegliere il paese, collegare fino a dieci dispositivi o usare NetShield. Sul piano biennale, il nostro link apre condizioni migliori rispetto al listino e poi il rinnovo è annuale."
         ]
       },
       {
@@ -270122,7 +270168,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "빠른 답",
         "paragraphs": [
-          "Proton VPN Free는 데이터 제한 없이 기기 1대를 연결하며, 국가는 앱이 고릅니다. 국가를 직접 고르거나 최대 10대를 동시에 연결하거나 NetShield를 쓰려면 Plus를 고려할 만합니다. 2년을 쓸 경우 저희 링크는 요금 페이지보다 저렴한 혜택 페이지로 연결되며, 이후에는 매년 갱신됩니다."
+          "네, 쓸 만합니다. 기기 1대만 필요하다면 무료 플랜만으로도 데이터 제한 없이 기본적인 개인정보 보호를 누릴 수 있고, 접속 국가를 고르거나 최대 10대를 동시에 연결하고 NetShield를 쓰려면 Plus가 제값을 합니다. 2년 플랜은 저희 링크로 요금표보다 나은 조건이 열리며, 이후에는 매년 갱신됩니다."
         ]
       },
       {
@@ -270369,7 +270415,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "結論",
         "paragraphs": [
-          "Proton VPN Freeはデータ量の制限なく1台を接続でき、国はアプリが選びます。国を選ぶ、最大10台を同時接続する、NetShieldを使う必要があるならPlusが候補です。2年間使う場合、当サイトのリンクは料金ページより安いオファーを開き、その後は年ごとの更新になります。"
+          "はい、選ぶ価値があります。無料プランでも端末1台ならデータ容量無制限で基本的なプライバシー保護を得られ、国を選びたい人、最大10台を同時接続したい人、NetShieldを使いたい人にはPlusが向いています。2年プランでは当サイトのリンクから料金表より有利な条件が開き、その後は年単位で更新されます。"
         ]
       },
       {
@@ -270616,7 +270662,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "快速回答",
         "paragraphs": [
-          "Proton VPN 免費方案無流量限制，一次連接 1 台裝置，國家由應用程式選擇。若要自選國家、同時連接最多 10 台裝置或使用 NetShield，可以考慮 Plus。打算用兩年時，我們的連結會開啟比價格頁面更便宜的優惠，之後按年續訂。"
+          "是的，值得用：只要用一台裝置的話，免費方案就已經能提供無流量限制的基本隱私保護；如果想自選國家、同時連接最多十台裝置或使用 NetShield，升級 Plus 會更划算。兩年方案透過我們的連結能開啟比價目表更好的條件，之後按年續訂。"
         ]
       },
       {
@@ -270863,7 +270909,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "快速回答",
         "paragraphs": [
-          "Proton VPN 免费套餐无流量限制，一次连接 1 台设备，国家由应用选择。若要自选国家、同时连接最多 10 台设备或使用 NetShield，可以考虑 Plus。打算用两年时，我们的链接会打开比价格页面更便宜的优惠，之后按年续订。"
+          "是的，值得用：只要用一台设备的话，免费套餐就已经能提供无流量限制的基本隐私保护；如果想自选国家、同时连接最多十台设备或使用 NetShield，升级 Plus 会更划算。两年套餐通过我们的链接能打开比价目表更好的条件，之后按年续订。"
         ]
       },
       {
@@ -271922,14 +271968,14 @@ export const reviewsData: unknown[] = [
     "coupon": "EMCASA",
     "affiliate": "rituaria",
     "type": "Guia de Marca",
-    "title": "Rituária é boa? Composição, preço por porção e o que conferir",
-    "seoTitle": "Rituária é boa? O que dá para conferir antes de comprar",
-    "description": "Compare a composição e o rendimento declarados de 4Mag, Prebiótica e NAC, veja o preço com o EMCASA e saiba o que confirmar na embalagem antes de comprar cada fórmula.",
-    "metaDescription": "EMCASA dá 10% OFF na Rituária. Veja o que a loja informa do 4Mag, da Prebiótica e da NAC e o custo por porção.",
+    "title": "Rituária é boa? Composição, rendimento, preços e cupom",
+    "seoTitle": "Rituária é boa? Composição, porções e preços",
+    "description": "Veja para quem a Rituária vale a pena, as linhas de suplementos e skincare, a composição e o rendimento de 4Mag, Prebiótica e NAC e o cupom EMCASA.",
+    "metaDescription": "EMCASA dá 10% OFF na Rituária. Veja para quem a marca vale a pena, a composição e o custo por porção de 4Mag, Prebiótica e NAC.",
     "image": "/images/reviews/rituaria/rituaria-e-boa-capa-v2.webp",
     "imageAlt": "Frasco da Fórmula NAC da Rituária recortado de uma imagem oficial, em montagem ilustrativa sobre uma bancada terracota. A capa traz o logo Rituária, a chamada “Composição e preço por porção” e o cupom EMCASA.",
     "cta": {
-      "text": "Se a Rituária faz sentido para a sua compra, abra o site oficial pelo botão. O código entra no checkout, no campo “Tem um cupom?”.",
+      "text": "Se a Rituária faz sentido para a sua compra, abra o site oficial pelo botão e digite o cupom EMCASA na Rituária, no campo “Tem um cupom?” do checkout.",
       "label": "Ir para a Rituária",
       "url": "https://www.rituaria.com.br/",
       "sponsored": true
@@ -271944,33 +271990,36 @@ export const reviewsData: unknown[] = [
       },
       {
         "slug": "black-friday-rituaria"
+      },
+      {
+        "slug": "cupom-rituaria-como-usar"
       }
     ],
     "decision": {
       "takeIf": [
-        "Você já considera uma dessas fórmulas e quer comparar embalagens pelo que a loja declara de composição e rendimento.",
-        "O tamanho escolhido corresponde à quantidade que você pretende usar, com orientação profissional quando necessária."
+        "Você quer comparar suplementos, fibras ou skincare pelo rendimento por porção e aproveitar 10% OFF com o cupom EMCASA na Rituária.",
+        "Você aproveita embalagens maiores, como o 4Mag de 90 dias ou o trio da Prebiótica, ou monta trio elegível no Leve 3, Pague 2 para baixar o custo por dose."
       ],
       "skipIf": [
-        "A loja ainda não esclareceu uma divergência de composição ou de porção que muda sua escolha.",
-        "A compra depende de uma promessa de resultado que a composição e o preço, sozinhos, não comprovam.",
-        "Você toma remédio, está grávida ou amamenta e ainda não falou com o médico."
+        "Você pretende comprar um kit de NAC sem antes confirmar com o atendimento qual mineral acompanha o frasco enviado.",
+        "Você conta com o cashback de 10% no mesmo pedido, já que a loja aceita apenas um benefício entre desconto e cashback.",
+        "Você toma remédio, está grávida ou amamenta e ainda não conversou com médico ou nutricionista."
       ]
     },
-    "updatedAt": "2026-11-22",
+    "updatedAt": "2026-11-24",
     "contentSections": [
       {
         "heading": "Resposta rápida",
         "paragraphs": [
-          "Para comparar a Rituária, confira composição, quantidade por porção e rendimento de cada fórmula. A tabela do 4Mag declara 99 mg de magnésio por duas cápsulas; na NAC, as descrições divergem. O cupom EMCASA dá 10% OFF, e os quadros abaixo comparam embalagens do mesmo produto."
+          "Compensa, sim, para quem busca suplementos, superfoods ou skincare e escolhe pelo rendimento por porção, atento às notas de fórmula do 4Mag e da NAC. Na Rituária, o cupom EMCASA dá 10% OFF para clientes novos e antigos, em todas as formas de pagamento. Confira linhas, tabelas de custo e como aproveitar o código abaixo."
         ]
       },
       {
-        "heading": "O que a Rituária vende",
+        "heading": "Quem é a Rituária: origem, catálogo e onde ver a reputação",
         "paragraphs": [
-          "A Rituária vende suplementos em cápsula e em pó, superfoods, skincare e kits que a loja chama de rituais. O site lista mais de cem produtos, e o menu separa tudo por objetivo: intestino, sono, foco, imunidade, saúde da mulher e do homem, pele, entre outros.",
-          "A página Sobre nós diz que a marca nasceu em 2021 e se apresenta como “uma marca brasileira de dermocosméticos, suplementos e superfoods”. Esse é o retrato que a marca faz de si.",
-          "Com tanto produto, o que pesa é comparar pelo que vem dentro. Um kit com nome parecido pode ter outra fórmula, outro tamanho e outro preço por dia. Os capítulos seguintes mostram isso nos três produtos que mais aparecem nas buscas com o nome da marca."
+          "Criada no Brasil em 2021 e idealizada pela Gabi, a Rituária é uma marca brasileira de dermocosméticos, suplementos em cápsula e em pó, superfoods e kits chamados de rituais, operada pela Beauty Hub Varejo Ltda., com CNPJ 60.453.162/0001-07 e endereço em Serra (ES).",
+          "O site reúne mais de cem produtos separados por objetivo (como intestino, sono, foco, imunidade, pele, saúde da mulher e do homem), e comparar pela tabela nutricional evita confundir kits de nomes parecidos com fórmulas ou tamanhos diferentes.",
+          "Para conferir CNPJ, regularização e políticas de troca, veja se a [Rituária é confiável](/reviews/rituaria-e-confiavel); para consultar notas e atendimento recente, acesse a análise da [Rituária no Reclame Aqui](/reviews/rituaria-reclame-aqui-nota-reputacao)."
         ],
         "images": [
           {
@@ -271984,30 +272033,29 @@ export const reviewsData: unknown[] = [
         ]
       },
       {
-        "heading": "Como avaliar as fórmulas antes de comprar",
+        "heading": "As linhas do catálogo e como comparar fórmulas",
         "paragraphs": [
-          "Compare a mesma fórmula e a mesma porção. O nome comercial e a quantidade de potes não bastam para dizer qual embalagem compensa."
+          "No catálogo da Rituária, um kit de nome parecido pode trazer outra fórmula, outra porção e outro custo por dia, então três verificações na página do produto orientam a escolha."
         ],
         "bullets": [
-          "**Composição:** veja quais substâncias a tabela nutricional de cada produto declara e em que quantidade por porção.",
-          "**Rendimento:** confirme quantas cápsulas ou dosadores formam uma porção e quantas porções a embalagem entrega.",
-          "**Preço:** compare o total com o EMCASA dentro da mesma fórmula, considerando frete e eventuais promoções."
+          "**Composição por porção:** veja quais substâncias e quantidades a tabela nutricional declara na porção indicada, e não apenas o nome comercial.",
+          "**Rendimento do pote:** confirme quantas cápsulas ou dosadores formam uma porção diária e quantas porções a embalagem entrega.",
+          "**Preço com o EMCASA na Rituária:** compare o total após os 10% OFF dentro da mesma fórmula entre avulsos, kits e o Leve 3, Pague 2."
         ],
         "postParagraphs": [
-          "Os três produtos abaixo têm composições diferentes. A análise compara as embalagens de cada um, sem tratá-los como substitutos nem avaliar resultado no organismo."
+          "Abaixo estão as comparações de composição, rendimento e custo por porção com o EMCASA na Rituária nos três suplementos centrais da loja: 4Mag, Prebiótica e NAC."
         ]
       },
       {
         "heading": "O 4Mag: quatro formas de magnésio",
         "paragraphs": [
-          "A loja informa duas cápsulas por dia para o [4Mag](https://www.rituaria.com.br/products/formula-4-mag-magnesio). O pote de 30 dias mostra 60 cápsulas, e a embalagem de 90 dias declara 180.",
-          "A imagem nutricional da loja declara, por duas cápsulas, 99 mg de magnésio, 150 mg de L-treonina e 2 mg de vitamina B6. A composição lista malato, bisglicinato, citrato e taurato de magnésio.",
-          "A página traz frases como “Auxilia na formação dos ossos e dentes”. São alegações da marca, e não as conferimos.",
-          "As massas dos compostos listadas na aba de ingredientes não equivalem à quantidade de magnésio da tabela nutricional. Para comparar com outra fórmula, use a quantidade declarada do mineral por porção."
+          "A loja informa: a porção do [4Mag](https://www.rituaria.com.br/products/formula-4-mag-magnesio) é de duas cápsulas por dia, com 60 cápsulas no pote de 30 dias e 180 cápsulas na embalagem de 90 dias.",
+          "A imagem nutricional da loja declara, por duas cápsulas, 99 mg de magnésio, 150 mg de L-treonina e 2 mg de vitamina B6, reunindo malato, bisglicinato, citrato e taurato de magnésio na lista de ingredientes.",
+          "As massas dos compostos listadas na aba de ingredientes não equivalem à quantidade de magnésio da tabela nutricional: para comparar com outra fórmula, use a quantidade declarada do mineral por porção."
         ],
         "postParagraphs": [
-          "No quadro do 4Mag, a embalagem de 180 cápsulas tem o menor custo por porção com o cupom, sem contar a promoção. A conta do Leve 3, Pague 2 mudou depois do nosso teste de 22/11: com três unidades iguais da [Fórmula Brain+](https://www.rituaria.com.br/products/brain-nootropico) de 30 dias, o carrinho foi de R$ 209,70 para R$ 139,80 com a promoção, e o EMCASA tirou mais R$ 13,98, chegando a R$ 125,82. Ou seja, o cupom soma com a campanha, inclusive com três iguais.",
-          "Aplicando a mesma regra ao 4Mag, três potes de 30 dias sairiam por cerca de R$ 95,22 com o EMCASA, sem frete, perto de R$ 1,06 por porção, abaixo dos R$ 1,20 do pote de 90 dias. É uma conta pela regra dos termos da loja, e não um teste com o 4Mag: confira o total no checkout."
+          "No quadro do 4Mag, a embalagem avulsa de 180 cápsulas tem o menor custo por porção com o cupom EMCASA na Rituária fora das promoções. A conta do Leve 3, Pague 2 mudou no teste de 22/11: com três unidades iguais da [Fórmula Brain+](https://www.rituaria.com.br/products/brain-nootropico) de 30 dias, o carrinho foi de R$ 209,70 para R$ 139,80 com a promoção, e o cupom EMCASA da Rituária tirou mais R$ 13,98, chegando a R$ 125,82.",
+          "Conta nossa, aplicando a regra do Leve 3, Pague 2 ao preço de vitrine do 4Mag de 30 dias: três potes sairiam por cerca de R$ 95,22 com o EMCASA na Rituária, sem frete, perto de R$ 1,06 por porção, abaixo dos R$ 1,20 do pote de 90 dias. É uma simulação pela regra dos termos da loja, e não um teste feito com o 4Mag no carrinho: confira o total no checkout antes de pagar."
         ],
         "images": [
           {
@@ -272020,7 +272068,7 @@ export const reviewsData: unknown[] = [
           }
         ],
         "comparisonTable": {
-          "caption": "Preços de vitrine na consulta mais recente, no cartão. Simulação com EMCASA: 10% OFF; sem frete, Pix ou Leve 3, Pague 2. Custo por porção de duas cápsulas. No kit 3x, o rendimento é estimado pelo nome; confirme o conteúdo antes de comprar.",
+          "caption": "Preços de vitrine na consulta mais recente, no cartão. Simulação com EMCASA (10% OFF na Rituária); sem frete, Pix ou Leve 3, Pague 2. Custo por porção de duas cápsulas. No kit 3x, o rendimento é estimado pelo nome; confirme o conteúdo antes de comprar.",
           "headers": [
             "Embalagem",
             "Vitrine",
@@ -272058,12 +272106,11 @@ export const reviewsData: unknown[] = [
       {
         "heading": "A Prebiótica: cinco fibras num pó de 200 g",
         "paragraphs": [
-          "A [Prebiótica](https://www.rituaria.com.br/products/formula-prebiotica) é vendida em pote de 200 g. A composição lista inulina, goma acácia, psyllium, ágar e FOS, sem informar a quantidade individual de cada fibra.",
-          "A imagem nutricional declara 30 porções de 6,6 g, com 5,8 g de fibras por porção. A imagem de modo de uso da própria página fala em 1 dosador (6 g) ou 2 (12 g).",
-          "A conta do quadro usa as 30 porções declaradas na imagem nutricional. Confirme a medida do dosador e a orientação da embalagem antes de usar essa conta como duração do pote."
+          "A [Prebiótica](https://www.rituaria.com.br/products/formula-prebiotica) entrega 5,8 g de fibras por porção de 6,6 g no pote de 200 g, combinando inulina, goma acácia, psyllium, ágar e FOS, sem informar a quantidade individual de cada fibra.",
+          "A imagem nutricional declara 30 porções de 6,6 g, enquanto a imagem de modo de uso da própria página fala em 1 dosador (6 g) ou 2 (12 g). Confirme a medida do dosador e a orientação da embalagem antes de usar essa conta como duração do pote."
         ],
         "postParagraphs": [
-          "Se forem utilizadas duas porções de 6,6 g por dia, as 30 porções duram 15 dias e o custo diário dobra. A conta mede rendimento e não recomenda dose."
+          "Se forem utilizadas duas porções de 6,6 g por dia, as 30 porções duram 15 dias e o custo diário dobra; considere esse consumo ao decidir entre o pote avulso e o kit de três unidades."
         ],
         "images": [
           {
@@ -272076,7 +272123,7 @@ export const reviewsData: unknown[] = [
           }
         ],
         "comparisonTable": {
-          "caption": "Preços de vitrine na consulta mais recente, no cartão. Simulação com EMCASA: 10% OFF; sem frete, Pix ou Leve 3, Pague 2. Custo por porção de 6,6 g.",
+          "caption": "Preços de vitrine na consulta mais recente, no cartão. Simulação com EMCASA (10% OFF na Rituária); sem frete, Pix ou Leve 3, Pague 2. Custo por porção de 6,6 g.",
           "headers": [
             "Embalagem",
             "Vitrine",
@@ -272108,9 +272155,9 @@ export const reviewsData: unknown[] = [
       {
         "heading": "NAC: confirme a composição antes de comparar",
         "paragraphs": [
-          "A página da [NAC](https://www.rituaria.com.br/products/nac) apresenta a fórmula como N-acetil-L-cisteína com selênio e molibdênio. A arte nutricional mostra 600 mg de “L-Cisteína”, 68 mcg de selênio e 45 mcg de molibdênio por cápsula; na embalagem da mesma imagem está escrito N-acetil-L-cisteína.",
-          "A nomenclatura da arte e a da embalagem não coincidem. Antes de comparar essa composição com a de outra NAC, peça à loja a confirmação do nome do ativo e uma foto do rótulo.",
-          "Para o rendimento, a página informa uma cápsula por dia, e o pote de 30 dias declara 30 cápsulas. Os preços abaixo usam essa quantidade declarada, sem avaliar a adequação do uso."
+          "Antes de comparar a [NAC](https://www.rituaria.com.br/products/nac) da Rituária com outra marca, peça à loja a confirmação do ativo e uma foto do rótulo, porque a nomenclatura da arte nutricional e a da embalagem não coincidem.",
+          "A página apresenta a fórmula como N-acetil-L-cisteína com selênio e molibdênio e a embalagem da foto traz “N-acetil-L-cisteína”, mas a arte nutricional mostra 600 mg de “L-Cisteína”, 68 mcg de selênio e 45 mcg de molibdênio por cápsula.",
+          "Para o rendimento, a página informa uma cápsula por dia e 30 cápsulas no pote de 30 dias, quantidade usada na conta por porção abaixo."
         ],
         "images": [
           {
@@ -272123,7 +272170,7 @@ export const reviewsData: unknown[] = [
           }
         ],
         "comparisonTable": {
-          "caption": "Preços de vitrine na consulta mais recente, no cartão. Simulação com EMCASA: 10% OFF; sem frete, Pix ou Leve 3, Pague 2. Custo por porção de uma cápsula. No kit 3x, o rendimento é estimado pelo nome; confirme o conteúdo antes de comprar.",
+          "caption": "Preços de vitrine na consulta mais recente, no cartão. Simulação com EMCASA (10% OFF na Rituária); sem frete, Pix ou Leve 3, Pague 2. Custo por porção de uma cápsula. No kit 3x, o rendimento é estimado pelo nome; confirme o conteúdo antes de comprar.",
           "headers": [
             "Embalagem",
             "Vitrine",
@@ -272153,39 +272200,27 @@ export const reviewsData: unknown[] = [
         }
       },
       {
-        "heading": "O que muda de uma página para outra",
+        "heading": "O que muda de uma página para outra nos kits de NAC",
         "paragraphs": [
-          "A mesma NAC aparece com composição diferente em duas páginas de kit. O [Trio Essencial](https://www.rituaria.com.br/products/trio-essencial) diz “Fórmula NAC + Selênio + Zinco (30 cápsulas)”. O [Ritual Detox](https://www.rituaria.com.br/products/ritual-detox) diz “Fórmula NAC + Selênio + Molibdênio”. As páginas da [NAC de 30 dias](https://www.rituaria.com.br/products/nac) e da [NAC de 90 dias](https://www.rituaria.com.br/products/formula-nac-90-dias) dizem N-acetil-L-cisteína, selênio e molibdênio.",
-          "A divergência continuou na última consulta: o molibdênio aparece nas páginas da NAC e do Ritual Detox, e o zinco, só no Trio Essencial. Não sabemos qual das descrições reflete o frasco que a loja envia, e não vamos adivinhar.",
-          "Na prática, quem compra o kit por causa de um dos dois minerais precisa conferir antes. Peça à loja a confirmação de qual composição corresponde ao produto enviado e uma foto do rótulo. Não é preciso esperar receber a caixa para perguntar.",
-          "Vale o mesmo cuidado em qualquer comparação entre embalagens: o nome comercial parecido não garante a mesma fórmula, e a tabela nutricional de cada página é a referência de cada produto."
+          "Nos kits que incluem NAC, a descrição muda de mineral conforme a página, então confirme qual composição acompanha o frasco antes de fechar o pedido.",
+          "As páginas da [NAC de 30 dias](https://www.rituaria.com.br/products/nac), da [NAC de 90 dias](https://www.rituaria.com.br/products/formula-nac-90-dias) e do [Ritual Detox](https://www.rituaria.com.br/products/ritual-detox) informam “Fórmula NAC + Selênio + Molibdênio”, enquanto o [Trio Essencial](https://www.rituaria.com.br/products/trio-essencial) descreve “Fórmula NAC + Selênio + Zinco (30 cápsulas)”.",
+          "Se você compra o kit por causa do molibdênio ou do zinco, peça ao atendimento uma foto do rótulo do produto enviado antes de pagar. Vale o mesmo cuidado em qualquer comparação: nomes comerciais parecidos não garantem fórmulas idênticas."
         ]
       },
       {
-        "heading": "Como escolher entre potes, kits e avulsos",
-        "emphasis": "Pelas tabelas, o menor custo por porção com o EMCASA está no 4Mag de 90 dias, nas 3 Prebióticas e no pote avulso de NAC; o kit maior só compensa se você for usar todas as porções.",
+        "heading": "Quanto custa com o cupom EMCASA na Rituária: kits, frete e checkout",
         "paragraphs": [
-          "Compare embalagens da mesma fórmula. Os quadros mostram o custo por porção com o EMCASA, usando o rendimento declarado pela loja.",
-          "Nos kits 3x de 4Mag e de NAC, o rendimento foi estimado pelos 90 dias anunciados no nome. Antes de escolher pelo custo por porção, confirme quais potes e quantas cápsulas vêm no kit."
-        ],
-        "postParagraphs": [
-          "Na campanha Leve 3, Pague 2, unidades avulsas elegíveis formam outra conta, e os quadros não a simulam. Os termos da loja dizem que, se os três produtos forem iguais, um deles sai de graça, e o nosso teste de 22/11 com três Brain+ iguais confirmou isso no checkout. Compare o total do checkout antes de concluir que o kit ou o pote sai mais barato.",
-          "O [cupom Rituária](/cupons/rituaria) EMCASA dá 10% sobre o preço promocional e, no teste, somou com a promoção. Não incluímos o desconto do Pix nem o frete nesses cálculos. A conta completa está no [guia da Black Friday da Rituária](/reviews/black-friday-rituaria)."
-        ]
-      },
-      {
-        "heading": "O que os clientes dizem, e de onde vem cada número",
-        "paragraphs": [
-          "As notas são altas, mas estão publicadas no site da própria marca. A do 4Mag tem nota 4,8 com 5.829 avaliações, e a da NAC tem 4,8 com 2.025. Não sabemos se o número junta produtos parecidos.",
-          "O resumo automático de avaliações da NAC cita pó solto, fragmentos de cápsula, embalagem sem fechamento hermético e preço alto. Como não conferimos os relatos que o geraram, o resumo não mostra com que frequência esses problemas aparecem.",
-          "Não encontramos resenha de veículo ou de nutricionista sem código de desconto."
+          "Pelas tabelas, o menor custo por porção com o cupom EMCASA na Rituária está no 4Mag de 90 dias, nas 3 Prebióticas e no pote avulso de NAC; nos kits 3x de 4Mag e de NAC (estimados pelos 90 dias do nome), confirme quantas cápsulas vêm no pacote antes de fechar.",
+          "Na campanha Leve 3, Pague 2 com suplementos elegíveis da coleção, três unidades iguais fazem uma sair grátis no checkout e o cupom EMCASA na Rituária soma os 10% sobre o total restante, como confirmamos no teste com três Brain+ iguais. A conta detalhada está no [guia da Black Friday da Rituária](/reviews/black-friday-rituaria).",
+          "Para usar o EMCASA na Rituária, monte o carrinho no site oficial (o carrinho da vitrine não mostra descontos) e avance para o checkout próprio em seguro.rituaria.com.br; no resumo, digite EMCASA no campo “Tem um cupom?”, clique em “Adicionar” e confira a linha “Descontos” antes de pagar.",
+          "O código vale para cliente novo e antigo, em todas as formas de pagamento. A loja parcela em até 3x sem juros no cartão e o checkout mostra 5% de desconto no Pix na etapa de identificação, mas a soma do Pix com o EMCASA não foi testada na simulação (as tabelas não incluem Pix nem frete). Já o cashback de 10% para a próxima compra não acumula com desconto pelos termos da loja, e o frete grátis pelos Correios começa acima de R$ 199 (SP, ES, RJ e MG), R$ 229 (PR, SC, RS, DF, GO, MS e MT), R$ 279 (Nordeste) e R$ 349 (Norte); o passo a passo completo está em [como usar o cupom EMCASA](/reviews/cupom-rituaria-como-usar) e na página do [cupom Rituária](/cupons/rituaria)."
         ]
       },
       {
         "heading": "O que não dá para saber",
         "paragraphs": [
           "Composição, porção e preço ajudam a comparar a compra, mas não demonstram como uma pessoa vai responder ao produto. Nos casos de divergência mostrados acima, peça à loja o rótulo do produto antes de pagar.",
-          "Se comprar fora do site oficial, confira o vendedor e as regras de cada anúncio. Este guia não verificou os vendedores dos marketplaces; o EMCASA vale no site oficial da Rituária.",
+          "Se comprar fora do site oficial, confira o vendedor e as regras de cada anúncio; o EMCASA vale apenas no site oficial da Rituária.",
           "Sobre a busca por emagrecimento: suplementos alimentares não podem ser anunciados com alegação de emagrecimento. A existência dessa categoria no menu da loja não comprova resultado de uma fórmula, e dúvidas sobre uso e objetivos de saúde devem ir a um profissional.",
           "Ao receber, compare a embalagem com o pedido e verifique o rótulo antes de abrir. A política de desistência e o portal de trocas estão no capítulo seguinte."
         ]
@@ -272199,14 +272234,28 @@ export const reviewsData: unknown[] = [
         ]
       },
       {
+        "heading": "Quando a Rituária compensa na conta por porção",
+        "paragraphs": [
+          "A Rituária compensa para quem compara rótulo e custo por porção antes de escolher a embalagem, aproveitando o 4Mag de 90 dias, o trio da Prebiótica ou trios elegíveis do Leve 3, Pague 2 com 10% OFF pelo cupom EMCASA na Rituária. Quem compra em marketplaces não conta com o código (exclusivo do site oficial), e quem escolhe kits com NAC deve confirmar antes qual mineral acompanha o frasco.",
+          "Ao receber o pedido, confira lacre e rótulo antes de abrir: a loja aceita desistência em até 7 dias corridos após o recebimento (produto completo e sem sinais de uso, com devolução gratuita e reembolso integral) e até 30 dias para defeito, avaria ou item errado. Leve dúvidas sobre dosagem, gravidez, amamentação ou uso de medicamentos ao médico ou nutricionista."
+        ],
+        "emphasis": "Compensa, sim, escolher a Rituária para comparar rendimento por porção em suplementos, superfoods e skincare: confira o rótulo em kits com divergência e aplique o cupom EMCASA na Rituária no checkout para garantir 10% OFF em todas as formas de pagamento.",
+        "links": [
+          {
+            "label": "Ver o cupom Rituária",
+            "href": "/cupons/rituaria"
+          }
+        ]
+      },
+      {
         "heading": "Perguntas frequentes",
         "bullets": [
-          "A Rituária é boa? O guia identifica composição, rendimento e custo das embalagens analisadas, com divergências que precisam ser esclarecidas pela loja. Esses dados ajudam a avaliar a compra, mas não demonstram eficácia dos produtos.",
-          "Qual é o cupom da Rituária? É o EMCASA, com 10% OFF no site oficial, para cliente novo e antigo e em todas as formas de pagamento. Ele entra no campo Tem um cupom? do checkout, e as condições estão na página do [cupom Rituária](/cupons/rituaria).",
-          "A Rituária funciona? Composição e relatos de clientes, sozinhos, não comprovam resultado para o seu caso. Para escolher e usar uma fórmula, confirme o rótulo e procure orientação profissional.",
-          "A Rituária vale a pena? Compare embalagens da mesma fórmula pelo custo por porção com o EMCASA e pelo total entregue. No Leve 3, Pague 2, o EMCASA somou com a promoção no nosso teste com três unidades iguais, e vale conferir o total no checkout.",
-          "A Rituária emagrece? Não há comprovação de emagrecimento apresentada neste guia, e suplementos não podem ser anunciados com essa alegação.",
-          "Quem toma remédio pode usar? A compatibilidade depende do medicamento, da composição e da pessoa. Converse com médico ou nutricionista antes de usar suplementos."
+          "A Rituária é boa? Compensa, sim, para quem busca suplementos, superfoods e skincare com informações de porção e rendimento, comparando embalagens e aplicando o cupom EMCASA na Rituária para ganhar 10% OFF no checkout oficial.",
+          "Qual é o cupom da Rituária? É o EMCASA, com 10% OFF na Rituária pelo site oficial, para cliente novo e antigo e em todas as formas de pagamento. Ele entra no campo Tem um cupom? do checkout, e as condições estão na página do [cupom Rituária](/cupons/rituaria).",
+          "A Rituária vale a pena? Vale, sim, quando você compara o custo por porção na mesma fórmula (como no 4Mag de 90 dias, nas 3 Prebióticas ou em trios elegíveis do Leve 3, Pague 2) e aplica o cupom EMCASA na Rituária no resumo do pedido.",
+          "O que conferir no 4Mag e na NAC antes de comprar? No 4Mag, compare o magnésio declarado por porção de duas cápsulas; na NAC, peça ao atendimento a confirmação do ativo e de qual mineral (molibdênio ou zinco) acompanha o kit escolhido.",
+          "A Rituária emagrece? Suplementos alimentares não podem ser anunciados com alegação de emagrecimento; consulte médico ou nutricionista para avaliar objetivos de saúde e uso.",
+          "Quem toma remédio pode usar suplementos da Rituária? A compatibilidade depende do medicamento, da composição e de cada pessoa; converse com médico ou nutricionista antes de usar qualquer fórmula."
         ]
       }
     ]
@@ -272868,6 +272917,7 @@ export const reviewsData: unknown[] = [
     },
     "publishedAt": "18 de novembro de 2026",
     "publishedAtISO": "2026-11-18",
+    "updatedAt": "2026-11-24",
     "draft": false,
     "isNew": true,
     "imageFit": "contain",
@@ -272877,10 +272927,10 @@ export const reviewsData: unknown[] = [
     "coupon": "CECILIA",
     "affiliate": "adaptogen",
     "type": "Guia de Marca",
-    "title": "Adaptogen é boa? O que dá para conferir nos wheys e na creatina antes de comprar",
-    "seoTitle": "Adaptogen é boa? O que conferir antes de comprar",
-    "description": "O que a Adaptogen vende, o que cada whey é de fato, o que a página informa e o que só o rótulo mostra, com a conta por dose e para quem cada um faz sentido.",
-    "metaDescription": "CECILIA dá 10% OFF na Adaptogen. Veja o que a loja informa do Tasty Whey, do HIT Protein e da creatina e a conta por dose antes de escolher.",
+    "title": "Adaptogen é boa? Gold Whey, Tasty Iso, creatina e cupom",
+    "seoTitle": "Adaptogen é boa? Gold Whey, Tasty Iso e creatina",
+    "description": "Veja para quem a Adaptogen vale a pena: compare Gold Whey, Tasty Whey 3W, HIT Protein, Tasty Iso e creatina pelo custo por dose e use o cupom CECILIA de 10% OFF.",
+    "metaDescription": "CECILIA dá 10% OFF na Adaptogen. Compare Gold Whey, Tasty Whey, HIT e Tasty Iso pelo custo por dose e veja quando cada creatina compensa.",
     "image": "/images/reviews/adaptogen/adaptogen-e-boa-capa-v2.webp",
     "imageAlt": "Pote de Creatina Platinum da Adaptogen fotografado para o catálogo sobre fundo preto texturado. A capa traz o logo Adaptogen, a chamada “Whey e creatina: o que conferir” e o cupom CECILIA.",
     "cta": {
@@ -272895,6 +272945,9 @@ export const reviewsData: unknown[] = [
         "slug": "cupom-adaptogen-como-usar"
       },
       {
+        "slug": "tasty-iso-adaptogen-vale-a-pena"
+      },
+      {
         "slug": "black-friday-adaptogen"
       },
       {
@@ -272903,28 +272956,28 @@ export const reviewsData: unknown[] = [
     ],
     "decision": {
       "takeIf": [
-        "Você quer comparar whey por custo de proteína: o Gold Whey tem o menor por 100 g entre os três cujas páginas não citam colágeno.",
-        "Você procura um isolado descrito como zero lactose e aceita pagar mais por 100 g de proteína no Tasty Iso."
+        "Você quer o menor custo por 100 g de proteína entre os wheys sem colágeno declarado da marca, com o Gold Whey.",
+        "Você busca um whey isolado e hidrolisado descrito como zero lactose no Tasty Iso ou mais variedade de sabores no Tasty Whey 3W.",
+        "Você quer somar 10% OFF com o cupom CECILIA para clientes novos e antigos no checkout oficial."
       ],
       "skipIf": [
-        "Você quer saber de sabor e digestão antes de comprar: o guia fica na composição e no preço.",
-        "Você evita glúten e escolheria o Cookies and Cream do Tasty Whey 3W ou do Tasty Iso, que as páginas dizem conter glúten.",
-        "Você pensa em levar o HIT só pelo preço: a loja não informa quanto da proteína vem do colágeno."
+        "Você evita glúten e pretende escolher sabores específicos como Cookies and Cream do Tasty Whey 3W ou do Tasty Iso, que declaram glúten.",
+        "Você pensa em levar o HIT Protein esperando apenas proteína do soro do leite, já que a loja combina whey e colágeno sem informar a proporção.",
+        "Você compara creatinas apenas pelo peso total do pote sem observar a porção de 3 g e o rendimento de doses."
       ]
     },
     "contentSections": [
       {
         "heading": "Resposta rápida",
         "paragraphs": [
-          "Pela composição e pelo preço, o Gold Whey tem o menor custo de proteína entre os três wheys cujas páginas não citam colágeno, e o Tasty Iso é descrito como zero lactose. O HIT custa menos, mas mistura whey e colágeno sem informar a proporção. O [cupom Adaptogen](/cupons/adaptogen) CECILIA dá 10% OFF; abaixo estão as diferenças e os preços."
+          "Vale, sim, especialmente para quem compara proteína por grama: o Gold Whey tem o menor custo entre os wheys sem colágeno declarado, o Tasty Iso é opção zero lactose e o HIT mistura whey e colágeno. O cupom CECILIA dá 10% OFF para cliente novo e antigo. Veja abaixo as contas por dose de wheys e creatina."
         ]
       },
       {
-        "heading": "O que a Adaptogen vende e como separar as linhas",
+        "heading": "Quem é a Adaptogen: origem e linhas do catálogo",
         "paragraphs": [
-          "A linha da Adaptogen vai de wheys e creatina a pré-treinos, aminoácidos, vitaminas, snacks e roupas. Este guia fica nos wheys e na creatina.",
-          "Segundo a loja, a marca foi criada em 2014 e a [Tasty Whey](https://www.adaptogen.com.br/produto/tasty-whey-3w-gourmet-900g-23-sabores-150434?parceiro=CECILIA) foi o primeiro produto.",
-          "Para comparar preço, separe primeiro os produtos: o [Gold](https://www.adaptogen.com.br/produto/gold-whey-900g-9-sabores-150305?parceiro=CECILIA) é concentrado; o Tasty Whey 3W mistura concentrado, isolado e hidrolisado; o [Tasty Iso](https://www.adaptogen.com.br/produto/tasty-iso-900g-7-sabores-150214?parceiro=CECILIA) é descrito como isolado e hidrolisado. O [HIT](https://www.adaptogen.com.br/produto/hit-protein-bag-900g-8-sabores-150309?parceiro=CECILIA) combina whey e colágeno. Na creatina, compare o custo da porção que fornece 3 g de creatina, não apenas o peso do pote."
+          "A Adaptogen Science foi criada em 2014 nos Estados Unidos (Hollywood, Flórida) por Fernando Rosenberg e Mário Crespo, tendo a [Tasty Whey](https://www.adaptogen.com.br/produto/tasty-whey-3w-gourmet-900g-23-sabores-150434?parceiro=CECILIA) como primeiro produto; no Brasil, a loja oficial é operada pela Adapto Company do Brasil Suplementos Alimentares Ltda. Além de wheys e creatina, o catálogo inclui pré-treinos (como Panic e Muscle Bunny), aminoácidos, vitaminas, snacks e roupas.",
+          "Para comparar os principais suplementos da marca abaixo, separe primeiro os tipos de proteína: o [Gold](https://www.adaptogen.com.br/produto/gold-whey-900g-9-sabores-150305?parceiro=CECILIA) é concentrado; o Tasty Whey 3W mistura concentrado, isolado e hidrolisado; o [Tasty Iso](https://www.adaptogen.com.br/produto/tasty-iso-900g-7-sabores-150214?parceiro=CECILIA) é descrito como isolado e hidrolisado; e o [HIT](https://www.adaptogen.com.br/produto/hit-protein-bag-900g-8-sabores-150309?parceiro=CECILIA) combina whey e colágeno. Na creatina, compare o custo da porção que fornece 3 g de creatina, não apenas o peso do pote."
         ]
       },
       {
@@ -273040,10 +273093,10 @@ export const reviewsData: unknown[] = [
         "heading": "Quanto custa cada dose",
         "paragraphs": [
           "Os preços foram lidos na vitrine, no cartão, sem frete e sem Pix. A loja mostrava preços de Black Friday, explicados no [guia da Black Friday da Adaptogen](/reviews/black-friday-adaptogen).",
-          "A coluna com o CECILIA é uma simulação de 10% sobre o preço do cartão. Os três wheys foram testados com o cupom no carrinho, como mostra o [artigo do Tasty Iso](/reviews/tasty-iso-adaptogen-vale-a-pena): o [Tasty Iso](https://www.adaptogen.com.br/produto/tasty-iso-900g-7-sabores-150214?parceiro=CECILIA) saiu a R$ 352,59, o [Tasty Whey 3W](https://www.adaptogen.com.br/produto/tasty-whey-3w-gourmet-900g-23-sabores-150434?parceiro=CECILIA) a R$ 243,20 e o [Gold Whey](https://www.adaptogen.com.br/produto/gold-whey-900g-9-sabores-150305?parceiro=CECILIA) a R$ 201,12. Os outros produtos da tabela ficam só na conta."
+          "A coluna com o CECILIA é uma simulação de 10% sobre o preço do cartão. Os três wheys foram testados com o cupom no carrinho, como mostra o [artigo do Tasty Iso](/reviews/tasty-iso-adaptogen-vale-a-pena): o [Tasty Iso](https://www.adaptogen.com.br/produto/tasty-iso-900g-7-sabores-150214?parceiro=CECILIA) saiu a R$ 352,59, o [Tasty Whey 3W](https://www.adaptogen.com.br/produto/tasty-whey-3w-gourmet-900g-23-sabores-150434?parceiro=CECILIA) a R$ 243,20 e o [Gold Whey](https://www.adaptogen.com.br/produto/gold-whey-900g-9-sabores-150305?parceiro=CECILIA) a R$ 201,12. Nos demais itens da tabela, a última coluna mostra a simulação de 10% sobre o preço do cartão."
         ],
         "comparisonTable": {
-          "caption": "Conta por porção: preço do pote × gramas da porção ÷ peso do pote, sem arredondar o número de porções antes. Na Flavor, usamos as 81 porções informadas pela loja. Sem frete e sem Pix; a coluna com CECILIA é calculada.",
+          "caption": "Preços da vitrine em 22/11, no cartão, sem frete e sem Pix. Conta por porção: preço do pote × gramas da porção ÷ peso do pote, sem arredondar o número de porções antes. Na Flavor, usamos as 81 porções informadas pela loja; a coluna com CECILIA é calculada.",
           "headers": [
             "Embalagem e porção",
             "Cartão, pote",
@@ -273090,8 +273143,8 @@ export const reviewsData: unknown[] = [
           ]
         },
         "postParagraphs": [
-          "No teste de 22/11, com a Creatina Flavor no carrinho, o cupom levou R$ 97,75 a R$ 87,97, com a linha Cupom em R$ 9,78. Em outro carrinho, com a Creatina Flavor e o HIT Protein, o total foi de R$ 244,93 para R$ 220,44, com a linha Cupom em R$ 24,49. Nos dois testes, o cupom somou com o preço de campanha. Não abrimos o pagamento.",
-          "No checkout, digite CECILIA no campo Cupom de desconto e clique em Aplicar: aparecem o aviso Cupom aplicado e a linha Cupom no resumo. A página do [cupom Adaptogen](/cupons/adaptogen) reúne o código e as condições, e o passo a passo do campo está no [guia de como usar o código](/reviews/cupom-adaptogen-como-usar)."
+          "Nos testes no carrinho com a Creatina Flavor, o cupom levou R$ 97,75 a R$ 87,97, com a linha Cupom em R$ 9,78. Em outro carrinho, com a Creatina Flavor e o HIT Protein, o total foi de R$ 244,93 para R$ 220,44, com a linha Cupom em R$ 24,49. Nos dois testes, o cupom somou com o preço de campanha.",
+          "No checkout, digite CECILIA no campo Cupom de desconto e clique em Aplicar: aparecem o aviso Cupom aplicado e a linha Cupom no resumo. No site oficial, há parcelamento no cartão em até 6x sem juros, Pix parcelado em até 4x sem juros (parcela mínima de R$ 50) e frete grátis a partir de R$ 199 no Sudeste, R$ 249 no Sul e Centro-Oeste, R$ 399 no Nordeste e R$ 599 no Norte. A página do [cupom Adaptogen](/cupons/adaptogen) reúne o código e as condições, e o passo a passo está no [guia de como usar o código](/reviews/cupom-adaptogen-como-usar)."
         ]
       },
       {
@@ -273100,7 +273153,7 @@ export const reviewsData: unknown[] = [
           "Entre [Gold Whey](https://www.adaptogen.com.br/produto/gold-whey-900g-9-sabores-150305?parceiro=CECILIA), [Tasty Whey 3W](https://www.adaptogen.com.br/produto/tasty-whey-3w-gourmet-900g-23-sabores-150434?parceiro=CECILIA) e [Tasty Iso](https://www.adaptogen.com.br/produto/tasty-iso-900g-7-sabores-150214?parceiro=CECILIA), o Gold tem o menor custo por 100 g de proteína declarada. As páginas desses três não citam colágeno. O [HIT](https://www.adaptogen.com.br/produto/hit-protein-bag-900g-8-sabores-150309?parceiro=CECILIA) fica separado: sua proteína inclui whey e colágeno, e a loja não informa a participação de cada um."
         ],
         "comparisonTable": {
-          "caption": "Conta nossa com a porção declarada (no Tasty Whey 3W, pote de 900 g dividido pela dose de 34 g, vezes 24 g de proteína): proteína por porção ÷ gramas de pó × 900 g. Valores no cartão; a coluna com CECILIA simula 10% de desconto. O HIT, com colágeno, é apresentado separadamente abaixo.",
+          "caption": "Cálculo pela porção declarada (no Tasty Whey 3W, pote de 900 g dividido pela dose de 34 g, vezes 24 g de proteína): proteína por porção ÷ gramas de pó × 900 g. Valores no cartão; a coluna com CECILIA simula 10% de desconto. O HIT, com colágeno, é apresentado separadamente abaixo.",
           "headers": [
             "Produto",
             "Proteína no pacote de 900 g",
@@ -273134,9 +273187,9 @@ export const reviewsData: unknown[] = [
         ]
       },
       {
-        "heading": "Qual escolher entre os produtos comparados",
+        "heading": "Qual whey ou creatina da Adaptogen escolher",
         "paragraphs": [
-          "Pelo preço e pela composição declarada, a escolha fica assim:"
+          "A Adaptogen vale a pena principalmente para quem compara suplementos pelo custo real por grama de proteína ou por porção de creatina, com opções claras para cada bolso e restrição alimentar, além de 10% OFF no [cupom Adaptogen](/cupons/adaptogen) CECILIA em todas as compras:"
         ],
         "bullets": [
           "**Menor custo entre os três cujas páginas não citam colágeno:** [Gold Whey](https://www.adaptogen.com.br/produto/gold-whey-900g-9-sabores-150305?parceiro=CECILIA), concentrado. Ele fica abaixo do [Tasty Whey 3W](https://www.adaptogen.com.br/produto/tasty-whey-3w-gourmet-900g-23-sabores-150434?parceiro=CECILIA) e do [Tasty Iso](https://www.adaptogen.com.br/produto/tasty-iso-900g-7-sabores-150214?parceiro=CECILIA) por 100 g de proteína.",
@@ -273145,26 +273198,26 @@ export const reviewsData: unknown[] = [
           "Considera o [HIT](https://www.adaptogen.com.br/produto/hit-protein-bag-900g-8-sabores-150309?parceiro=CECILIA) pelo preço: ele combina whey e colágeno. A proporção não informada impede calcular quanto se paga pela proteína de whey.",
           "**Creatina saborizada ou sem sabor:** a [Flavor](https://www.adaptogen.com.br/produto/creatina-flavor-300g-2-sabores-150228?parceiro=CECILIA) oferece 81 porções com 3 g de creatina; a [Platinum](https://www.adaptogen.com.br/produto/creatina-platinum-series-150227?parceiro=CECILIA) de 300 g declara 100 porções de 3 g e tem o menor custo por porção entre essas duas."
         ],
-        "emphasis": "Pelos números das tabelas, quem decide pelo menor custo por 100 g de proteína sem colágeno leva o Gold Whey, e o Tasty Iso só compensa para quem quer o isolado zero lactose e aceita pagar mais."
-      },
-      {
-        "heading": "Antes de começar e o que não dá para saber daqui",
-        "paragraphs": [
-          "As porções citadas são as dos rótulos e servem às contas de preço, não à indicação de quanto tomar.",
-          "Quem tem alguma condição de saúde, toma remédio, está grávida ou amamenta fala com médico ou nutricionista antes de usar.",
-          "Sabor e digestão ficam fora deste guia, e as páginas que lemos não tinham avaliações de clientes.",
-          "A tabela que lemos é a imagem da página. Confira a tabela impressa e a lista de ingredientes da embalagem que chega antes de usar.",
-          "A loja informa 7 dias corridos, a contar do recebimento, para desistir da compra, com o produto lacrado, sem uso e com nota fiscal. Para defeito, o prazo é de 30 dias. A expedição sai em até 2 dias úteis depois do pagamento confirmado."
+        "postParagraphs": [
+          "As porções citadas vêm dos rótulos para base de cálculo; quem tem alguma condição de saúde, toma medicamento, está grávida ou amamenta deve consultar médico ou nutricionista antes de usar, além de conferir a tabela impressa e a lista de ingredientes da embalagem recebida.",
+          "Para trocas e devoluções, as regras da loja preveem 7 dias corridos a contar do recebimento para desistência (com produto lacrado, sem uso e com nota fiscal) e 30 dias para defeito, com expedição em até 2 dias úteis após o pagamento confirmado."
+        ],
+        "emphasis": "Vale, sim, comprar na Adaptogen escolhendo pelo perfil de rótulo: leve o Gold Whey pelo menor custo por 100 g de proteína sem colágeno declarado, o Tasty Iso se precisa da opção zero lactose ou a Platinum Series de 300 g na creatina, sempre aplicando o cupom CECILIA no checkout para garantir 10% OFF.",
+        "links": [
+          {
+            "label": "Ver o cupom Adaptogen",
+            "href": "/cupons/adaptogen"
+          }
         ]
       },
       {
         "heading": "Perguntas frequentes",
         "bullets": [
-          "A Adaptogen é uma boa marca de whey? Este guia compara composição e preço. Entre os três produtos cujas páginas não citam colágeno, o Gold tem o menor custo por 100 g de proteína; o Tasty Iso é descrito como zero lactose. O HIT mistura whey e colágeno, sem proporção informada.",
-          "Qual é o cupom da Adaptogen? É o CECILIA, com 10% OFF no site oficial, para cliente novo e antigo. Cole no campo Cupom de desconto do checkout; a página do [cupom Adaptogen](/cupons/adaptogen) traz o código em vigor.",
-          "O Tasty Whey é isolado ou concentrado? É um 3W, que mistura concentrado, isolado e hidrolisado. A página não diz a proporção de cada um.",
-          "O HIT Protein é whey? Segundo a página, é whey concentrado com peptídeos de colágeno hidrolisado. A loja não informa quanto dos 20 g por dose vem do colágeno.",
-          "A creatina da Adaptogen é monohidratada? As páginas da Creatina Flavor e da Platinum Series dizem que sim."
+          "A Adaptogen é boa? Vale, sim, especialmente para quem compara proteína pelo custo por grama: o Gold Whey entrega o menor preço entre os wheys sem colágeno declarado, o Tasty Iso atende quem quer versão zero lactose e o cupom CECILIA dá 10% OFF no site oficial.",
+          "Qual é o cupom da Adaptogen? É o CECILIA, com 10% OFF no site oficial, para cliente novo e antigo. Cole no campo Cupom de desconto do checkout; a página do [cupom Adaptogen](/cupons/adaptogen) traz o código e as condições em vigor.",
+          "O Tasty Whey é isolado ou concentrado? É um 3W, que mistura concentrado, isolado e hidrolisado, em 23 sabores. A página não diz a proporção de cada fração.",
+          "O HIT Protein é whey? Segundo a página, é whey concentrado com peptídeos de colágeno hidrolisado. A loja não informa quanto dos 20 g por dose vem do colágeno, por isso vale comparar separado dos wheys sem colágeno declarado.",
+          "A creatina da Adaptogen é monohidratada? Sim: as páginas da Creatina Flavor e da Platinum Series informam creatina monohidratada, com 3 g por porção."
         ]
       }
     ]
@@ -274090,10 +274143,10 @@ export const reviewsData: unknown[] = [
     "coupon": "CECILIALINHARES",
     "affiliate": "barbours",
     "type": "Guia de Marca",
-    "title": "Barbour's Beauty é boa? O que a página, as avaliações e o Reclame Aqui mostram",
-    "seoTitle": "Barbour's Beauty é boa? Body splash, fixação e avaliações",
-    "description": "O que a página da loja, as avaliações no site da loja e o Reclame Aqui mostram sobre o body splash, com fixação, preço e reputação. Cheiro e duração só o uso mostra.",
-    "metaDescription": "CECILIALINHARES dá 10% OFF na Barbour's Beauty. Veja o que a página diz do body splash, as avaliações no site da loja e a nota no Reclame Aqui.",
+    "title": "Barbour's Beauty é boa? Body splash, linhas, preços e cupom",
+    "seoTitle": "Barbour's Beauty é boa? Body splash, linhas e kits",
+    "description": "Veja para quem a Barbour's Beauty vale a pena, os diferenciais dos body splashes de 200 ml e kits, a linha masculina Homme e o cupom CECILIALINHARES.",
+    "metaDescription": "CECILIALINHARES dá 10% OFF na Barbour's Beauty. Veja para quem a marca vale a pena, linhas de body splash e como pagar menos nos kits.",
     "image": "/images/reviews/barbours/barbours-e-boa-capa-v2.webp",
     "imageAlt": "Frasco My Sweet Delight de 200 ml da Barbour’s Beauty em montagem ilustrativa sobre uma bancada rosada. A capa traz o logo Barbour’s Beauty, a chamada “Body splash: vale a pena?” e o cupom CECILIALINHARES.",
     "cta": {
@@ -274116,34 +274169,33 @@ export const reviewsData: unknown[] = [
     ],
     "decision": {
       "takeIf": [
-        "Você quer conhecer a proposta de um desodorante colônia em frasco de 200 ml e aceita escolher pela descrição da loja.",
-        "Você já escolheu uma fragrância e vai conferir o total com CECILIALINHARES, o frete e o prazo antes de pagar."
+        "Você busca body splashes de 200 ml com várias famílias olfativas (femininas e linha masculina Homme) para uso diário e reaplicação.",
+        "Você quer aproveitar o preço dos trios promocionais somado aos 10% OFF de CECILIALINHARES no checkout oficial."
       ],
       "skipIf": [
-        "Você precisa de uma duração em horas comprovada antes de comprar: este guia não tem teste de fixação.",
-        "Você tem pressa. A loja informa prazo médio de 7 a 10 dias úteis."
+        "Você procura a concentração e o rastro de um eau de parfum intenso e não pretende reaplicar desodorante colônia.",
+        "Você precisa do pedido em poucos dias, pois a loja informa prazo médio de entrega de 7 a 10 dias úteis."
       ]
     },
     "contentSections": [
       {
         "heading": "Resposta rápida",
         "paragraphs": [
-          "O body splash da Barbour's Beauty é vendido como desodorante colônia de 200 ml, e o My Sweet Delight tem média de 4,50 de 5 no site da loja. Essas avaliações não comprovam quantas horas a fragrância dura, ponto que não testamos. O cupom Barbour's CECILIALINHARES dá 10% OFF; abaixo estão as promessas e os dados disponíveis."
+          "Vale, sim: para quem busca body splashes em frascos de 200 ml com boa variedade de notas e quer economizar nos trios e kits, a Barbour's Beauty entrega ótimo custo. O cupom Barbour's CECILIALINHARES dá 10% OFF para clientes novos e antigos no checkout oficial. Veja as linhas abaixo."
         ]
       },
       {
-        "heading": "O que o guia permite escolher",
+        "heading": "Quem é a Barbour's Beauty e onde conferir a reputação",
         "paragraphs": [
-          "Este guia ajuda a conferir tamanho do frasco, descrição da fragrância e preço. Cheiro na pele e duração continuam sem avaliação nossa. As estrelas do produto e a reputação de atendimento aparecem separadas, porque respondem a perguntas diferentes.",
-          "Se a dúvida é qual fragrância escolher, o [guia das inspirações de cada body splash](/reviews/barbours-body-splash-inspiracoes) lista a linha inteira, com as notas que a loja publica para cada uma."
+          "A Barbour's Beauty é uma marca brasileira de fragrâncias corporais operada pela Beauty Hub Varejo Ltda., com centro em Serra (ES), reunindo body splashes de 200 ml, perfumes capilares, hidratantes, óleos de banho e a linha masculina Homme em vitrine própria com checkout seguro exclusivo.",
+          "Para conferir CNPJ, entrega, trocas e o histórico completo de atendimento no Reclame Aqui, veja o guia se a [Barbour's Beauty é confiável](/reviews/barbours-e-confiavel) e a análise da [Barbour's Beauty no Reclame Aqui](/reviews/barbours-reclame-aqui-nota-reputacao). Já a lista completa das famílias olfativas está no [guia das inspirações de cada body splash](/reviews/barbours-body-splash-inspiracoes)."
         ]
       },
       {
-        "heading": "O que é o body splash da Barbour's",
+        "heading": "As linhas de body splash e formatos de 200 ml",
         "paragraphs": [
-          "O [My Sweet Delight](https://www.thebarboursbeauty.com.br/products/body-splash-delight-deo-colonia-6947ecad195b8) é vendido em frasco de 200 ml e classificado pela loja como desodorante colônia. Na descrição da fragrância, a marca cita lichia, ruibarbo e bergamota na abertura, rosa turca e peônia no coração e notas de fundo como cedro e vetiver.",
-          "Essas são notas anunciadas pela marca, não uma descrição de uso nossa. Elas ajudam a conhecer a proposta da fragrância, mas não permitem afirmar se você vai gostar ou por quanto tempo ela ficará na pele.",
-          "A linha masculina se chama Homme e tem body splashes como o [Bold Homme](https://www.thebarboursbeauty.com.br/products/body-splash-bold-homme-desodorante-colonia-200ml) e o [Midnight Homme](https://www.thebarboursbeauty.com.br/products/body-splash-midnight-homme-desodorante-colonia-200ml); a [coleção Homme](https://www.thebarboursbeauty.com.br/collections/body-splash-homme) reúne todos."
+          "O carro-chefe da marca é o body splash de 200 ml, classificado pela loja como desodorante colônia. No [My Sweet Delight](https://www.thebarboursbeauty.com.br/products/body-splash-delight-deo-colonia-6947ecad195b8), a ficha traz lichia, ruibarbo e bergamota na saída, rosa turca e peônia no corpo e cedro com vetiver ao fundo.",
+          "Além das linhas femininas e da coleção Feliz no Simples by Theodoro, o catálogo inclui itens de cuidado corporal (geleia, body cream, óleo de banho e roll-on) e a [coleção masculina Homme](https://www.thebarboursbeauty.com.br/collections/body-splash-homme), com opções como [Bold Homme](https://www.thebarboursbeauty.com.br/products/body-splash-bold-homme-desodorante-colonia-200ml) e [Midnight Homme](https://www.thebarboursbeauty.com.br/products/body-splash-midnight-homme-desodorante-colonia-200ml) no mesmo frasco de 200 ml."
         ],
         "images": [
           {
@@ -274151,103 +274203,50 @@ export const reviewsData: unknown[] = [
             "alt": "Frasco do body splash My Sweet Delight da Barbour's Beauty, de 200 ml, em foto oficial da loja",
             "caption": "Foto oficial da loja, da página do My Sweet Delight.",
             "objectFit": "contain",
-            "aspectRatio": 1
+            "aspectRatio": 1,
+            "href": "https://barbours.gogroup.com.br/emcasacomcecilia"
           }
         ]
       },
       {
-        "heading": "Tem boa fixação?",
+        "heading": "O que esperar da fixação de um body splash",
         "paragraphs": [
-          "Não temos uma duração em horas para informar. A loja anuncia longa duração e “97% mais fixação”, mas a página não identifica o produto ou a condição usados como comparação.",
-          "A página não informa o que as estrelas do site medem, então a nota geral não responde a essa pergunta."
+          "Por ser vendido como desodorante colônia em embalagem de 200 ml, o body splash entrega proposta mais leve e cotidiana do que um eau de parfum concentrado, pedindo reaplicação ao longo do dia conforme a pele e o clima.",
+          "A loja informa: a marca divulga longa duração e cita '97% mais fixação', sem especificar com qual produto a comparação foi feita. Por isso, o volume maior de 200 ml é a principal vantagem prática para reaplicar sem pesar no custo por ml, especialmente quando comprado em kits."
         ]
       },
       {
-        "heading": "O que dizem as avaliações no site da loja",
+        "heading": "Quanto custam os avulsos e trios com o código",
         "paragraphs": [
-          "A página do [My Sweet Delight](https://www.thebarboursbeauty.com.br/products/body-splash-delight-deo-colonia-6947ecad195b8) traz 4.580 avaliações no site da loja, com média de 4,50 de 5. O widget marca que elas foram coletadas por convite da loja."
+          "Na vitrine oficial, a maior parte dos body splashes avulsos de 200 ml aparece por R$ 39,90, com opções como o [Midnight Homme](https://www.thebarboursbeauty.com.br/products/body-splash-midnight-homme-desodorante-colonia-200ml) a R$ 34,90. Os trios, como o [Trio Favoritos](https://www.thebarboursbeauty.com.br/products/kit-3-body-splash-desodorante-colonia-200ml-good-graces-my-sweet-delight-e-very-sexy-69456fdca0517-6947f59d6db84) (Good Graces, Very Sexy e My Sweet Delight), saem por R$ 109,90 antes do código, reduzindo o preço unitário frente a três avulsos de R$ 39,90.",
+          "Aplicando CECILIALINHARES pelo botão Finalizar a compra do carrinho (no checkout seguro da loja, já que o /checkout direto não aceita cupom), o desconto é de 10% para clientes novos e antigos. No teste em carrinho do [Kit Clássicos Masculinos](https://www.thebarboursbeauty.com.br/products/kit-classicos-masculinos-bold-homme-seduction-homme-e-ocean-homme), o trio de R$ 109,90 caiu para R$ 98,91. A política de frete grátis varia por região (a partir de R$ 119 em SP, R$ 149 no restante do Sudeste, R$ 169 no Sul e Centro-Oeste, R$ 199 no Nordeste e R$ 259 no Norte), com prazo médio de 7 a 10 dias úteis. Confira detalhes no [cupom Barbour's](/cupons/barbours) e em [como usar o cupom](/reviews/cupom-barbours-como-usar)."
+        ]
+      },
+      {
+        "heading": "Quando compensa escolher a Barbour's Beauty",
+        "paragraphs": [
+          "A Barbour's Beauty vale a pena principalmente para quem quer montar uma coleção de body splashes para o dia a dia ou presentear gastando menos por frasco nos trios promocionais somados aos 10% OFF do CECILIALINHARES. Quem prefere frascos menores ou fixação de perfume intenso encontra mais sentido em outro formato; já para uso generoso pós-banho, o frasco de 200 ml com nota olfativa descrita por linha resolve bem."
         ],
-        "comparisonTable": {
-          "caption": "Avaliações do Body Splash My Sweet Delight por nota, no site da loja. Total de 4.580.",
-          "headers": [
-            "Nota",
-            "Avaliações",
-            "Parte do total"
-          ],
-          "rows": [
-            [
-              "5 estrelas",
-              "3.662",
-              "80%"
-            ],
-            [
-              "4 estrelas",
-              "278",
-              "6%"
-            ],
-            [
-              "3 estrelas",
-              "207",
-              "5%"
-            ],
-            [
-              "2 estrelas",
-              "139",
-              "3%"
-            ],
-            [
-              "1 estrela",
-              "294",
-              "6%"
-            ]
-          ]
-        },
-        "postParagraphs": [
-          "As cinco estrelas representam cerca de 80% das avaliações publicadas, e uma estrela, cerca de 6%. A distribuição mostra as notas exibidas, mas não identifica quanto cada pessoa avaliou de cheiro, duração, embalagem ou entrega."
-        ],
-        "images": [
+        "emphasis": "Vale, sim, especialmente para quem procura desodorante colônia de 200 ml variado no dia a dia: combine os trios do site com o cupom CECILIALINHARES no Finalizar a compra para pagar menos por frasco.",
+        "links": [
           {
-            "src": "/images/reviews/barbours/barbours-e-boa-avaliacoes-site.webp",
-            "alt": "Print do site da Barbour's Beauty com a média de 4,50 de 5 e a contagem de avaliações por nota do Body Splash My Sweet Delight",
-            "caption": "Print do site da loja, com a média e a contagem de cada nota.",
-            "objectFit": "contain",
-            "aspectRatio": 2.9
+            "label": "Ver o cupom Barbour's",
+            "href": "/cupons/barbours"
           }
-        ]
-      },
-      {
-        "heading": "O que o Reclame Aqui mostra",
-        "paragraphs": [
-          "O Reclame Aqui mede o atendimento a quem reclama, não o cheiro nem a fixação. No semestre de maio a outubro, a Barbour's tinha reputação RA1000, nota 9,1 e 100% das reclamações respondidas. Entre as reclamações avaliadas pelos consumidores, 97,9% foram consideradas resolvidas.",
-          "O ponto de atenção está em outra aba. Na aba geral, que reúne até três anos, o problema mais citado é produto não recebido, com 32,6% dos principais problemas. Por isso, vale guardar o número do pedido e acompanhar o rastreio.",
-          "Os números completos, com o que conferir antes de comprar, estão no [artigo sobre a reputação da loja](/reviews/barbours-reclame-aqui-nota-reputacao)."
-        ]
-      },
-      {
-        "heading": "Quanto sai com o código",
-        "paragraphs": [
-          "Na página, a maior parte dos body splashes de 200 ml aparece por R$ 39,90, e alguns por R$ 34,90, como o [Midnight Homme](https://www.thebarboursbeauty.com.br/products/body-splash-midnight-homme-desodorante-colonia-200ml). Os trios, como o [Trio Favoritos](https://www.thebarboursbeauty.com.br/products/kit-3-body-splash-desodorante-colonia-200ml-good-graces-my-sweet-delight-e-very-sexy-69456fdca0517-6947f59d6db84), com Good Graces, Very Sexy e My Sweet Delight, saem por R$ 109,90.",
-          "O código CECILIALINHARES dá 10% OFF, para cliente novo e antigo. No carrinho que testamos, o [Kit Clássicos Masculinos](https://www.thebarboursbeauty.com.br/products/kit-classicos-masculinos-bold-homme-seduction-homme-e-ocean-homme), de R$ 109,90 em promoção, saiu por R$ 98,91. As condições estão na página de [cupom Barbour's](/cupons/barbours), e o passo a passo do checkout está no [guia de como usar o cupom](/reviews/cupom-barbours-como-usar)."
-        ]
-      },
-      {
-        "heading": "Vale a pena para você?",
-        "paragraphs": [
-          "Para quem já conhece a fragrância e quer comprar online, a decisão passa pelo preço do frasco, pelo cupom e pelo total entregue. Para quem ainda não conhece, a descrição de notas ajuda a escolher uma proposta, mas as avaliações publicadas não substituem experimentar o cheiro.",
-          "Se a fixação é o critério principal, os dados publicados ainda não bastam para uma escolha segura. A oferta pode ser conferida pelos preços e pelo checkout; a duração na pele exige uma referência de uso."
         ]
       },
       {
         "heading": "Perguntas frequentes",
         "bullets": [
-          "O body splash da Barbour's fixa? A loja promete longa duração e 97% mais fixação, sem dizer em relação a quê. A página também não informa o que as estrelas do site medem.",
-          "Body splash é perfume? A página classifica o body splash como desodorante colônia.",
-          "A Barbour's tem linha masculina? Sim. A loja vende body splashes masculinos na linha Homme, como o Bold Homme e o Midnight Homme.",
-          "A Barbour's Beauty é confiável? O [artigo sobre a confiabilidade da Barbour's](/reviews/barbours-e-confiavel) junta o CNPJ, o site oficial e o histórico de reclamações."
+          "A Barbour's Beauty é boa? Vale, sim, para quem busca body splashes de 200 ml com variedade olfativa para uso diário e aproveita o custo menor dos trios com 10% OFF usando CECILIALINHARES no checkout oficial.",
+          "Qual é o cupom da Barbour's Beauty? O cupom é CECILIALINHARES, com 10% OFF para cliente novo e antigo quando aplicado após clicar em Finalizar a compra (checkout próprio); detalhes na página do [cupom Barbour's](/cupons/barbours).",
+          "O body splash da Barbour's fixa bem? Ele é classificado como desodorante colônia de 200 ml; a loja divulga longa duração e '97% mais fixação' sem informar o termo de comparação, sendo indicado para reaplicação diária.",
+          "A Barbour's tem linha masculina? Sim. A linha Homme reúne body splashes de 200 ml como Bold Homme e Midnight Homme, além de kits com desconto no site.",
+          "A Barbour's Beauty é confiável? Sim; o [guia sobre se a Barbour's Beauty é confiável](/reviews/barbours-e-confiavel) reúne CNPJ, política de trocas e os dados do Reclame Aqui."
         ]
       }
     ],
-    "updatedAt": "2026-11-21"
+    "updatedAt": "2026-11-24"
   },
   {
     "id": 1064,
@@ -275905,7 +275904,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Resposta rápida",
         "paragraphs": [
-          "O BOLD 21 g tem o menor custo por proteína declarada entre as linhas comparadas; Wafer e Tube custam menos por unidade. O colágeno aparece nos ingredientes de três linhas, sem proporção informada, por isso o preço não compara fontes equivalentes. O cupom BOLD CECILIA15 deu 20% OFF no nosso teste; veja abaixo as diferenças."
+          "É boa, sim: para quem quer barra proteica em diferentes formatos, a BOLD 21 g entrega o menor custo por proteína declarada, enquanto Wafer e Tube custam menos por unidade. Vale conferir o rótulo porque três linhas levam colágeno nos ingredientes, sem proporção informada. O cupom CECILIA15 deu 20% OFF no nosso teste; compare abaixo rótulos e preços."
         ]
       },
       {
@@ -276097,8 +276096,8 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Perguntas frequentes",
         "bullets": [
-          "A barra BOLD é boa? Para escolher pelo que o rótulo informa, compare tamanho, ingredientes e preço. O BOLD 21 g tem o menor custo por proteína declarada; o 14 g é uma unidade menor, e Wafer e Tube custam menos por barra. Sabor e textura não foram avaliados neste guia.",
-          "A barra BOLD vale a pena? Depende da régua de cada um. Pelo preço por 100 g de proteína, o BOLD 21 g custa menos que as linhas Crunch, Wafer e Tube, com ou sem o CECILIA15, e os preços de Black Friday aproximam a 21 g da 14 g.",
+          "A barra BOLD é boa? É boa, sim, para quem escolhe pela tabela e pelo formato: o BOLD 21 g tem o menor custo por proteína declarada, o 14 g entrega porção menor, e Wafer e Tube custam menos por barra. Confira na lista de ingredientes se a presença de colágeno e alérgenos atende ao que você procura.",
+          "A barra BOLD vale a pena? Vale para quem compara o custo por proteína com o cupom CECILIA15: o BOLD 21 g custa menos por 100 g de proteína que Crunch, Wafer e Tube, e nas ofertas da loja a diferença por proteína entre 21 g e 14 g diminui.",
           "A barra BOLD é saudável? Saudável não é uma palavra do rótulo: o que se compara é proteína, calorias, açúcares e ingredientes de cada sabor, e o guia [Barra BOLD é saudável? Açúcar, calorias, glúten e lactose pelo rótulo](/reviews/barra-bold-saudavel-rotulo) mostra essa leitura por linha.",
           "A barra BOLD tem açúcar? A loja informa “zero açúcar adicionado”, e a tabela mostra açúcares totais de 1,6 g a 5,3 g por barra, conforme o sabor; a leitura por linha está no [guia do rótulo da barra BOLD](/reviews/barra-bold-saudavel-rotulo).",
           "A barra BOLD tem glúten e lactose? O alerta de alérgicos de cada sabor diz que contém os dois. Quem tem doença celíaca ou intolerância à lactose segue o rótulo da embalagem e o profissional de saúde; o “pode conter” de cada linha está no [guia do rótulo da barra BOLD](/reviews/barra-bold-saudavel-rotulo)."
@@ -279692,7 +279691,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Resposta rápida",
         "paragraphs": [
-          "A NEO vale a pena para quem toma café preto todo dia e quer cápsulas de papel; a Cecília usa a dela diariamente. Para cappuccino ou para aproveitar cápsulas Original, veja a Genio S. Na loja oficial, o [cupom Dolce Gusto](/cupons/dolce-gusto) é o CECI, com 10% OFF a partir de 100 reais."
+          "Claro que vale: a NEO vale a pena para quem toma café preto todo dia e quer cápsulas de papel, como a Cecília usa diariamente em casa. Para cappuccino ou cápsulas Original, veja a Genio S abaixo. Na loja oficial, o [cupom Dolce Gusto](/cupons/dolce-gusto) CECI dá 10% OFF a partir de 100 reais."
         ]
       },
       {
@@ -279966,7 +279965,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Resposta rápida",
         "paragraphs": [
-          "Uso a Hostinger desde 2024. Este site roda nela, e também uso VPS, e-mail profissional e domínios. Para começar um site ou um WordPress, a hospedagem costuma bastar. O VPS faz sentido quando você precisa administrar o servidor. Antes de contratar, compare o total do primeiro período e o preço da renovação."
+          "Com certeza vale para quem busca hospedagem compartilhada, WordPress, e-mail e domínios no mesmo painel: usamos a Hostinger neste site desde 2024 e também rodamos um VPS lá. Para começar um site, a hospedagem basta; o VPS faz sentido se alguém administra o servidor. Antes de pagar, compare o primeiro período com a renovação."
         ]
       },
       {
@@ -280196,7 +280195,7 @@ export const reviewsData: unknown[] = [
         "heading": "Perguntas frequentes",
         "bullets": [
           "Qual é o cupom da Hostinger? O cupom da Hostinger é o SONAR20, com 20% OFF no primeiro período de uma compra nova elegível: digite o código no campo \"Tem um cupom de desconto?\" do carrinho e confira a linha \"Cupom aplicado\" antes de pagar. A renovação sai pelo preço de tabela, sem desconto.",
-          "A Hostinger vale a pena? Vale para quem quer site, WordPress, e-mail ou VPS com entrada barata e se planeja para a renovação; o capítulo de preço mostra quanto ela sobe.",
+          "A Hostinger vale a pena? Vale, sim, para quem quer site, WordPress, e-mail ou VPS com entrada barata e se planeja para a renovação; o capítulo de preço mostra quanto ela sobe.",
           "A Hostinger é boa para WordPress? É: o WordPress se instala nos planos de hospedagem, e o capítulo sobre criar site aponta o plano para cada número de sites.",
           "A Hostinger é confiável? Para mim, que uso quatro produtos dela e tenho este site lá, é; quem cobra e como funciona o reembolso estão no [Hostinger é confiável](/reviews/hostinger-e-confiavel).",
           "A Hostinger tem reembolso? Tem: 30 dias para pedir reembolso na hospedagem e no VPS, com as exceções explicadas no artigo de confiança.",
@@ -280286,7 +280285,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Quick answer",
         "paragraphs": [
-          "I’ve used Hostinger since 2024. This site runs there, and I also use its VPS, email and domains. Web hosting is usually enough for a first site or a WordPress blog. A VPS makes sense if you need to manage the server. Check the upfront total and the renewal rate before you sign up."
+          "Yes, Hostinger is worth it for anyone looking for shared hosting, WordPress, email, and domains in one panel: we have used Hostinger for this site since 2024 and also run a VPS there. For getting a site started, web hosting is enough; a VPS makes sense if someone manages the server. Before paying, compare the first term with the renewal rate."
         ]
       },
       {
@@ -280491,7 +280490,7 @@ export const reviewsData: unknown[] = [
         "heading": "Frequently asked questions",
         "bullets": [
           "What is the Hostinger coupon code? The Hostinger coupon code is SONAR20, with 20% off the first period of an eligible new purchase: enter the code in the \"Have a coupon code?\" field of the cart and check the \"Coupon applied\" line before paying. Renewal is charged at the list price, with no discount.",
-          "Is Hostinger worth it? It is for anyone who wants a website, WordPress, email or a VPS at a low entry price and plans for the renewal; the pricing chapter shows how much it goes up.",
+          "Is Hostinger worth it? Yes, it is worth it for anyone who wants a website, WordPress, email or a VPS at a low entry price and plans for the renewal; the pricing chapter shows how much it goes up.",
           "Is Hostinger good for WordPress? Yes: WordPress installs on the hosting plans, and the chapter on building a website points to the plan for each number of sites.",
           "Is Hostinger legit? For me, with four of its products and this site hosted there, yes; who bills you and how the refund works are in [Is Hostinger legit?](/en/reviews/is-hostinger-legit).",
           "Does Hostinger have refunds? Yes: 30 days to ask for a refund on hosting and VPS, with the exceptions explained in the trust article.",
@@ -280581,7 +280580,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Respuesta rápida",
         "paragraphs": [
-          "Uso Hostinger desde 2024. Aquí funciona este sitio. También uso su VPS, correo y dominios. Para un primer sitio o un blog en WordPress, suele bastar el alojamiento web. El VPS tiene sentido si necesitas administrar el servidor. Antes de contratar, comprueba el total inicial y el precio de renovación."
+          "Sí, sin duda vale la pena para quien busca hosting compartido, WordPress, correo y dominios en el mismo panel: usamos Hostinger en este sitio desde 2024 y también operamos un VPS allí. Para empezar un sitio, el hosting basta; el VPS tiene sentido si alguien administra el servidor. Antes de pagar, compara el primer período con el precio de renovación."
         ]
       },
       {
@@ -280786,7 +280785,7 @@ export const reviewsData: unknown[] = [
         "heading": "Preguntas frecuentes",
         "bullets": [
           "¿Cuál es el cupón de Hostinger? El cupón de Hostinger es SONAR20, con un 20 % de descuento en el primer período de una compra nueva elegible: introduce el código en el campo \"Have a coupon code?\" del carrito y revisa la línea \"Coupon applied\" antes de pagar. La renovación se cobra al precio de lista, sin descuento.",
-          "¿Vale la pena Hostinger? Vale para quien quiere sitio web, WordPress, correo o VPS con entrada barata y se prepara para la renovación; el capítulo de precios muestra cuánto sube.",
+          "¿Vale la pena Hostinger? Sí, vale para quien quiere sitio web, WordPress, correo o VPS con entrada barata y se prepara para la renovación; el capítulo de precios muestra cuánto sube.",
           "¿Hostinger es bueno para WordPress? Sí: WordPress se instala en los planes de hosting, y el capítulo sobre crear un sitio indica el plan para cada número de sitios.",
           "¿Es confiable Hostinger? Para mí, que uso cuatro productos suyos y tengo este sitio ahí, sí; quién cobra y cómo funciona el reembolso están en [¿Es confiable Hostinger?](/es/reviews/hostinger-es-confiable).",
           "¿Hostinger tiene reembolso? Sí: 30 días para pedir el reembolso en hosting y VPS, con las excepciones explicadas en el artículo de confianza.",
@@ -280876,7 +280875,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Réponse rapide",
         "paragraphs": [
-          "Je suis client de Hostinger depuis 2024. J’y héberge ce site et j’y utilise un VPS, mes adresses e-mail et mes noms de domaine. L’hébergement web suffit généralement pour débuter sur WordPress. Envisagez un VPS si vous avez besoin de gérer le serveur. Vérifiez le total à payer et le tarif au renouvellement."
+          "Oui, sans hésiter, Hostinger vaut le coup pour qui cherche un hébergement mutualisé, WordPress, des e-mails et des domaines dans le même panneau : nous utilisons Hostinger pour ce site depuis 2024 et y faisons aussi tourner un VPS. Pour lancer un site, l'hébergement suffit ; le VPS a du sens si quelqu'un administre le serveur. Avant de payer, comparez la première période au tarif de renouvellement."
         ]
       },
       {
@@ -281081,7 +281080,7 @@ export const reviewsData: unknown[] = [
         "heading": "Questions fréquentes",
         "bullets": [
           "Quel est le code promo Hostinger ? Le code promo Hostinger est SONAR20, avec 20 % de réduction sur la première période d'un nouvel achat éligible : saisissez le code dans le champ « Have a coupon code? » du panier et vérifiez la ligne « Coupon applied » avant de payer. Le renouvellement est facturé au prix catalogue, sans réduction.",
-          "Hostinger vaut-il le coup ? Oui pour qui veut un site, WordPress, un e-mail ou un VPS avec un prix d'appel bas et prépare le renouvellement ; le chapitre sur le coût montre de combien il monte.",
+          "Hostinger vaut-il le coup ? Oui, il vaut le coup pour qui veut un site, WordPress, un e-mail ou un VPS avec un prix d'appel bas et prépare le renouvellement ; le chapitre sur le coût montre de combien il monte.",
           "Hostinger est-il bon pour WordPress ? Oui : WordPress s'installe sur les forfaits d'hébergement, et le chapitre sur la création de site indique le forfait selon le nombre de sites.",
           "Hostinger est-il fiable ? Pour moi, qui utilise quatre de ses produits et héberge ce site chez eux, oui ; qui facture et comment marche le remboursement, c'est dans [Hostinger est-il fiable ?](/fr/reviews/hostinger-est-il-fiable).",
           "Hostinger propose-t-il un remboursement ? Oui : 30 jours pour demander le remboursement sur l'hébergement et le VPS, avec les exceptions expliquées dans l'article sur la confiance.",
@@ -281171,7 +281170,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Kurze Antwort",
         "paragraphs": [
-          "Ich bin seit 2024 bei Hostinger. Dort läuft diese Website. Auch VPS, E-Mail und Domains nutze ich dort. Für die erste Website oder einen WordPress-Blog reicht meist Webhosting. Ein VPS ist sinnvoll, wenn Sie den Server selbst verwalten möchten. Prüfen Sie vor der Buchung den Gesamtpreis der ersten Laufzeit und den Verlängerungspreis."
+          "Ja, Hostinger lohnt sich definitiv für alle, die Shared Hosting, WordPress, E-Mail und Domains in einem Dashboard suchen – wir nutzen Hostinger für diese Website seit 2024 und betreiben dort auch einen VPS. Für den Start einer Website genügt das Hosting; ein VPS lohnt sich, wenn jemand den Server verwaltet. Vergleichen Sie vor dem Bezahlen die erste Laufzeit mit dem Verlängerungspreis."
         ]
       },
       {
@@ -281376,7 +281375,7 @@ export const reviewsData: unknown[] = [
         "heading": "Häufige Fragen",
         "bullets": [
           "Wie lautet der Hostinger-Gutscheincode? Der Hostinger-Gutscheincode ist SONAR20, mit 20 % Rabatt auf den ersten Zeitraum eines berechtigten Neukaufs: Geben Sie den Code im Feld „Have a coupon code?“ des Warenkorbs ein und prüfen Sie vor dem Bezahlen die Zeile „Coupon applied“. Die Verlängerung wird zum Listenpreis berechnet, ohne Rabatt.",
-          "Lohnt sich Hostinger? Für alle, die Website, WordPress, E-Mail oder einen VPS mit günstigem Einstieg wollen und die Verlängerung einplanen; das Preiskapitel zeigt, wie stark sie steigt.",
+          "Lohnt sich Hostinger? Ja, für alle, die Website, WordPress, E-Mail oder einen VPS mit günstigem Einstieg wollen und die Verlängerung einplanen; das Preiskapitel zeigt, wie stark sie steigt.",
           "Ist Hostinger gut für WordPress? Ja: WordPress lässt sich in den Hosting-Tarifen installieren, und das Kapitel zum Erstellen einer Website nennt den Tarif für jede Anzahl Websites.",
           "Ist Hostinger seriös? Für mich, der ich vier Produkte nutze und diese Website dort habe, ja; wer abbucht und wie die Erstattung funktioniert, steht in [Ist Hostinger seriös?](/de/reviews/ist-hostinger-serioes).",
           "Gibt es bei Hostinger eine Erstattung? Ja: 30 Tage, um bei Hosting und VPS eine Erstattung zu beantragen, mit den Ausnahmen, die der Vertrauensartikel erklärt.",
@@ -281466,7 +281465,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Risposta rapida",
         "paragraphs": [
-          "Uso Hostinger dal 2024. Ospito qui il sito e uso anche VPS, email e domini. Per un primo sito o un blog WordPress, di solito basta l’hosting web. Un VPS ha senso se serve gestire il server. Prima di acquistare, controlla il costo totale del primo periodo e il prezzo del rinnovo."
+          "Sì, Hostinger conviene decisamente a chi cerca hosting condiviso, WordPress, email e domini nello stesso pannello: usiamo Hostinger per questo sito dal 2024 e abbiamo anche un VPS lì. Per avviare un sito l'hosting basta; il VPS ha senso se qualcuno gestisce il server. Prima di pagare, confronta il primo periodo con il prezzo di rinnovo."
         ]
       },
       {
@@ -281671,7 +281670,7 @@ export const reviewsData: unknown[] = [
         "heading": "Domande frequenti",
         "bullets": [
           "Qual è il codice sconto di Hostinger? Il codice sconto di Hostinger è SONAR20, con il 20% di sconto sul primo periodo di un nuovo acquisto idoneo: inserisci il codice nel campo «Have a coupon code?» del carrello e controlla la riga «Coupon applied» prima di pagare. Il rinnovo si paga al prezzo di listino, senza sconto.",
-          "Hostinger conviene? Per chi vuole sito, WordPress, email o VPS con un ingresso economico e mette in conto il rinnovo; il capitolo sui costi mostra di quanto sale.",
+          "Hostinger conviene? Sì, per chi vuole sito, WordPress, email o VPS con un ingresso economico e mette in conto il rinnovo; il capitolo sui costi mostra di quanto sale.",
           "Hostinger va bene per WordPress? Sì: WordPress si installa nei piani di hosting, e il capitolo su come creare un sito indica il piano per ogni numero di siti.",
           "Hostinger è affidabile? Per me, che uso quattro suoi prodotti e ho questo sito da loro, sì; chi addebita e come funziona il rimborso sono in [Hostinger è affidabile?](/it/reviews/hostinger-e-affidabile).",
           "Hostinger prevede il rimborso? Sì: 30 giorni per chiederlo su hosting e VPS, con le eccezioni spiegate nell'articolo sull'affidabilità.",
@@ -281761,7 +281760,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "빠른 답변",
         "paragraphs": [
-          "저는 2024년부터 호스팅어를 쓰고 있습니다. 이 사이트를 운영하고 VPS, 비즈니스 이메일, 도메인도 사용합니다. 처음 만드는 사이트나 워드프레스 블로그에는 대개 웹호스팅이면 충분합니다. 서버를 직접 관리해야 한다면 VPS를 고려하세요. 계약하기 전에 첫 결제 총액과 갱신 요금을 확인하세요."
+          "네, 공유 호스팅과 워드프레스, 이메일, 도메인을 한 패널에서 관리하려는 분께는 확실히 괜찮습니다. 저희는 2024년부터 이 사이트를 호스팅어에서 운영하고 있고 VPS도 함께 쓰고 있습니다. 일반 사이트를 시작하는 용도라면 웹호스팅으로 충분하며, 서버를 직접 관리할 사람이 있을 때만 VPS가 맞습니다. 결제 전에 첫 계약 기간 요금과 갱신 가격을 비교해 보세요."
         ]
       },
       {
@@ -281966,7 +281965,7 @@ export const reviewsData: unknown[] = [
         "heading": "자주 묻는 질문",
         "bullets": [
           "호스팅어 쿠폰 코드는 무엇인가요? 호스팅어 쿠폰 코드는 SONAR20이며, 대상 신규 구매의 첫 결제 기간에 20% 할인됩니다. 장바구니의 «Have a coupon code?» 입력란에 코드를 넣고 결제 전에 «Coupon applied» 줄을 확인하세요. 갱신은 할인 없이 정가로 청구됩니다.",
-          "호스팅어를 쓸 만한가요? 워드프레스나 간단한 사이트를 시작한다면 웹호스팅부터 보세요. 서버를 직접 관리해야 한다면 VPS를 고려할 수 있습니다. 계약 전에 갱신 요금도 확인하세요.",
+          "호스팅어를 쓸 만한가요? 네, 저렴한 첫 가격으로 웹사이트, 워드프레스, 이메일, VPS를 시작하고 갱신 요금까지 미리 계획하는 분께는 쓸 만합니다. 갱신 때 얼마나 오르는지는 요금 장에서 확인할 수 있습니다.",
           "호스팅어는 워드프레스에 좋은가요? 좋습니다. 워드프레스는 호스팅 플랜에 설치하고, 사이트 만들기 장에서 사이트 수별로 맞는 플랜을 안내합니다.",
           "호스팅어는 믿을 만한가요? 제품 네 가지를 쓰고 이 사이트도 거기 두고 있는 저에게는 그렇습니다. 누가 결제를 청구하고 환불이 어떻게 돌아가는지는 [호스팅어 신뢰도 가이드](/ko/reviews/hostinger-trust-guide-ko)에 있습니다.",
           "호스팅어는 환불이 되나요? 됩니다. 호스팅과 VPS는 30일 안에 환불을 요청할 수 있고, 예외는 신뢰도 글에 설명했습니다.",
@@ -282056,7 +282055,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "クイックアンサー",
         "paragraphs": [
-          "2024年からHostingerを使っています。このサイトの運営に加え、VPS、メール、ドメインも契約しています。初めてのサイトやWordPressブログなら、通常のウェブホスティングで十分です。サーバーを自分で管理する必要があるならVPSを検討してください。契約前に、初回の支払総額と更新時の料金を確認しましょう。"
+          "はい、共有ホスティング・WordPress・メール・ドメインをひとつの管理画面にまとめたい方には間違いなくおすすめです。このサイトでは2024年からHostingerを利用しており、VPSも運用しています。サイトを始めるだけならホスティングで十分で、VPSはサーバーを管理できる人がいる場合に適しています。支払い前に初回期間と更新時の料金を比較してください。"
         ]
       },
       {
@@ -282261,7 +282260,7 @@ export const reviewsData: unknown[] = [
         "heading": "よくある質問",
         "bullets": [
           "Hostingerのクーポンコードは何ですか？ HostingerのクーポンコードはSONAR20で、対象となる新規購入の初回期間が20%割引になります。カートの「Have a coupon code?」欄にコードを入れ、支払い前に「Coupon applied」の行を確認してください。更新は通常料金で、割引はありません。",
-          "Hostingerは使う価値がありますか？ サイト、WordPress、メール、VPSを安い初期料金で始めたく、更新に備えて計画する人には価値があります。更新でどれだけ上がるかは料金の章に出ています。",
+          "Hostingerは使う価値がありますか？ はい、サイト、WordPress、メール、VPSを安い初期料金で始めたく、更新に備えて計画する人には価値があります。更新でどれだけ上がるかは料金の章に出ています。",
           "HostingerはWordPressに向いていますか？ 向いています。WordPressはホスティングのプランに入れられ、サイト作成の章にサイト数ごとのプランを載せています。",
           "Hostingerは信頼できますか？ 4つの製品を使い、このサイトも置いている私にとっては信頼できます。誰が請求するか、返金の仕組みは[Hostingerは信頼できる？](/ja/reviews/hostinger-trust-guide-ja)にあります。",
           "Hostingerは返金してもらえますか？ はい。ホスティングとVPSは30日以内に返金を申請できます。例外は信頼性の記事で説明しています。",
@@ -282351,7 +282350,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "快速回答",
         "paragraphs": [
-          "我從 2024 年開始使用 Hostinger。這個網站架在這裡，我也用它的 VPS、電子郵件和網域。第一次架站或做 WordPress 部落格，通常用網站主機就夠了。需要自己管理伺服器時，可以考慮 VPS。購買前先看首期總價和續訂月費。"
+          "當然值得，適合想在同一個後台管理共享主機、WordPress、郵箱和網域的人：我們從 2024 年起就用 Hostinger 運行這個網站，同時也在上面架了一台 VPS。架設一般網站用網站主機就夠了；只有當有人負責維護伺服器時，VPS 才有意義。付款前請先比較首期價格和續訂價格。"
         ]
       },
       {
@@ -282556,7 +282555,7 @@ export const reviewsData: unknown[] = [
         "heading": "常見問題",
         "bullets": [
           "Hostinger 的優惠碼是什麼？Hostinger 的優惠碼是 SONAR20，符合資格的新購首期可享 20% 折扣：在購物車的「Have a coupon code?」欄輸入代碼，付款前確認「Coupon applied」那一行。續訂按定價計算，沒有折扣。",
-          "Hostinger 值得買嗎？ 適合想用低入門價買網站主機、WordPress、郵箱或 VPS，並事先規劃續訂的人；價格章節寫了續訂會漲多少。",
+          "Hostinger 值得買嗎？ 值得，適合想用低入門價買網站主機、WordPress、郵箱或 VPS，並事先規劃續訂的人；價格章節寫了續訂會漲多少。",
           "Hostinger 適合 WordPress 嗎？ 適合：WordPress 可以裝在主機方案裡，建站那一章依網站數量指出了對應的方案。",
           "Hostinger 可靠嗎？ 對我來說是可靠的：我用著它的四個產品，這個網站也放在上面；誰來收費、退款怎麼運作，見[Hostinger 可靠嗎](/zh-hant/reviews/hostinger-trust-guide-zh-hant)。",
           "Hostinger 可以退款嗎？ 可以：主機和 VPS 在 30 天內可以申請退款，例外情況在那篇可靠性文章裡有說明。",
@@ -282646,7 +282645,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "快速回答",
         "paragraphs": [
-          "我从 2024 年起就在用 Hostinger。这个网站托管在这里，我也用它的 VPS、邮箱和域名。第一次建站或开 WordPress 博客，通常用网站主机就够了。需要自己管理服务器时，可以考虑 VPS。下单前先看首期总价和续费月价。"
+          "当然值得，适合想在同一个后台管理共享主机、WordPress、邮箱和域名的人：我们自 2024 年起就用 Hostinger 运行这个网站，同时也在上面跑了一台 VPS。新建普通网站用主机就够了；只有当有人负责维护服务器时，VPS 才有意义。付款前请先对比首期价格和续费价格。"
         ]
       },
       {
@@ -282851,7 +282850,7 @@ export const reviewsData: unknown[] = [
         "heading": "常见问题",
         "bullets": [
           "Hostinger 的优惠码是什么？Hostinger 的优惠码是 SONAR20，符合条件的新购首期可享 20% 折扣：在购物车的“Have a coupon code?”栏输入代码，付款前确认“Coupon applied”那一行。续费按标价收费，没有折扣。",
-          "Hostinger 值得买吗？ 适合想用低入门价买网站主机、WordPress、邮箱或 VPS，并提前规划续费的人；价格章节写了续费会涨多少。",
+          "Hostinger 值得买吗？ 值得，适合想用低入门价买网站主机、WordPress、邮箱或 VPS，并提前规划续费的人；价格章节写了续费会涨多少。",
           "Hostinger 适合 WordPress 吗？ 适合：WordPress 可以装在主机方案里，建站那一章按网站数量指出了对应的方案。",
           "Hostinger 可靠吗？ 对我来说是可靠的：我用着它的四个产品，这个网站也放在上面；谁来收费、退款怎么运作，见[Hostinger 可靠吗](/zh-hans/reviews/hostinger-trust-guide-zh-hans)。",
           "Hostinger 可以退款吗？ 可以：主机和 VPS 在 30 天内可以申请退款，例外情况在那篇可靠性文章里有说明。",
@@ -283564,8 +283563,8 @@ export const reviewsData: unknown[] = [
     "title": "Pink Cheeks é boa? Como escolher entre Pink Stick, Pro Stick e Clear Stick",
     "seoTitle": "Pink Cheeks é boa? Pink Stick, Pro Stick e Clear Stick",
     "type": "Guia de Marca",
-    "description": "Compare o acabamento, o FPS e os preços do Pink Stick, do Pro Stick e do Clear Stick. Veja as amostras de cor da marca e como conferir os ingredientes antes de escolher.",
-    "metaDescription": "PNK-EMCASACOMCECILIA dá 10% OFF na Pink Cheeks. Compare Pink Stick, Pro Stick e Clear Stick por cobertura, FPS e preço.",
+    "description": "Veja para quem a Pink Cheeks vale a pena, compare acabamento, FPS e preço de Pink Stick, Pro Stick e Clear Stick e aplique o cupom de 10% OFF no site oficial.",
+    "metaDescription": "Com PNK-EMCASACOMCECILIA você ganha 10% OFF na Pink Cheeks. Veja se a marca é boa e compare Pink Stick, Pro Stick e Clear Stick por acabamento e FPS.",
     "image": "/images/reviews/pinkcheeks/pinkcheeks-e-boa-capa-v2.webp",
     "imageAlt": "Pink Stick aberto, com embalagem laranja e branca, em foto oficial montada sobre bancada azul ilustrativa. A capa traz o logo Pink Cheeks e a chamada “Qual stick escolher?”, com o cupom PNK-EMCASACOMCECILIA.",
     "cta": {
@@ -283591,35 +283590,44 @@ export const reviewsData: unknown[] = [
     ],
     "decision": {
       "takeIf": [
-        "Você quer cobertura leve a média em bastão e encontrou um tom do Pink Stick que combina com sua pele, ou prefere o 5 KM incolor.",
-        "Você prefere comparar os acabamentos antes de comprar. O Pro Stick tem alta cobertura e o Clear Stick é transparente."
+        "Você quer protetor solar facial em bastão e escolhe pelo acabamento: cobertura leve a média no Pink Stick, incolor no 5 KM, alta cobertura mate no Pro Stick ou transparente no Clear Stick.",
+        "Você busca maquiagem com FPS ou linha antiatrito para esporte e quer aplicar o cupom PNK-EMCASACOMCECILIA para ter 10% OFF em todas as formas de pagamento.",
+        "Você já conferiu o nome exato do tom pelas amostras e verificou a lista de ingredientes do bastão escolhido."
       ],
       "skipIf": [
-        "Você evita fragrância. A ficha do Pink Stick 21 KM lista perfume, limoneno e linalol.",
-        "Você procura um protetor para o corpo todo. Compare os formatos da linha corporal."
+        "Você evita fragrância em produtos faciais, pois a composição do Pink Stick 21 KM lista perfume, limoneno e linalol.",
+        "Você procura um protetor fluido ou em creme para o corpo inteiro em frasco grande e não quer optar pelos bastões corporais ou pelo bifásico da marca.",
+        "Você quer testar o produto aberto e devolver caso não goste da cor, já que a desistência em sete dias exige o produto lacrado."
       ]
     },
     "contentSections": [
       {
         "heading": "Resposta rápida",
         "paragraphs": [
-          "Se você quer protetor facial em bastão, a escolha na Pink Cheeks começa pelo acabamento. O Pink Stick tem cobertura leve a média e uma versão 5 KM incolor, o Pro Stick tem alta cobertura e o Clear Stick é transparente. A ficha do Pink Stick informa FPS 90, FPUVA 70 e perfume na fórmula."
+          "Claro que vale, sobretudo para quem quer protetor facial em bastão pelo acabamento: cobertura leve a média no Pink Stick FPS 90, versão incolor no 5 KM, alta cobertura mate no Pro Stick ou transparente no Clear Stick. O cupom PNK-EMCASACOMCECILIA dá 10% OFF no site oficial, em todas as formas de pagamento. Compare opções e preços abaixo."
+        ]
+      },
+      {
+        "heading": "Quem é a Pink Cheeks: origem e onde ver a reputação",
+        "paragraphs": [
+          "Criada por atletas no Brasil e nascida no esporte há mais de uma década, segundo a própria loja, a Pink Cheeks reúne proteção solar facial e corporal, maquiagens com FPS (blush, pó, batom, corretivo e sombra), linha antiatrito, itens para cabelos, kits e acessórios.",
+          "Para conferir os dados da empresa, os canais de atendimento e as regras completas de troca e devolução, veja se a [Pink Cheeks é confiável](/reviews/pinkcheeks-e-confiavel); para consultar as notas e os registros de reclamações, acesse a análise da [Pink Cheeks no Reclame Aqui](/reviews/pinkcheeks-reclame-aqui-nota-reputacao)."
         ]
       },
       {
         "heading": "Antes de escolher o bastão",
         "paragraphs": [
-          "Comece pelo acabamento que você quer usar no rosto. O Pink Stick tem oito tons com cor e o 5 KM incolor, o Pro Stick tem seis tons e o Clear Stick não tem cor. Se prefere evitar fragrância, veja a lista de ingredientes da versão que pretende comprar.",
-          "Para comparar todos os tons do Pink Stick, com preço e foto de cada um, use o [guia do Pink Stick](/reviews/pink-stick-qual-cor-escolher). Aqui o foco é a diferença entre os três bastões."
+          "Escolha o bastão facial pela combinação entre nível de cobertura e disponibilidade de cor. O Pink Stick tem oito tons com cor e o 5 KM incolor, o Pro Stick tem seis tons e o Clear Stick não tem cor. Se você evita fragrância, confira a lista de ingredientes da versão escolhida antes de fechar o pedido.",
+          "Para comparar todos os tons do Pink Stick, com preço e foto de cada um, veja o [guia do Pink Stick](/reviews/pink-stick-qual-cor-escolher). Aqui o foco é a diferença entre os três bastões."
         ]
       },
       {
         "heading": "Pink Stick: o que o rótulo informa",
         "paragraphs": [
-          "O [Pink Stick 21 KM](https://pinkcheeks.com.br/products/pink-stick-fps90-fpuva70-21km) é um protetor facial em bastão com cor, de 15,5 g. A ficha informa FPS 90, FPUVA 70 e filtros orgânicos e inorgânicos."
+          "O [Pink Stick 21 KM](https://pinkcheeks.com.br/products/pink-stick-fps90-fpuva70-21km) é um protetor facial em bastão com cor, de 15,5 g. A página do produto informa FPS 90, FPUVA 70 e filtros orgânicos e inorgânicos."
         ],
         "bullets": [
-          "Segundo a ficha, a resistência à água e ao suor é de até duas horas. Siga a orientação de reaplicação da embalagem, inclusive após nadar, suar muito ou secar o rosto com toalha.",
+          "A loja informa: a resistência à água e ao suor é de até duas horas. Siga a orientação de reaplicação da embalagem, inclusive após nadar, suar muito ou secar o rosto com toalha.",
           "A lista de ingredientes traz perfume, limoneno e linalol. Vale conferir a composição antes de escolher o tom.",
           "O FAQ da loja estima cerca de 60 aplicações por bastão. Para tirar no fim do dia, a página indica demaquilante, água micelar ou cleansing oil, seguido de sabonete facial."
         ],
@@ -283630,17 +283638,17 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Como comparar os tons do Pink Stick",
         "paragraphs": [
-          "Os tons usam nomes de distâncias de corrida, como 10 KM e 42 KM, e o [5 KM](https://pinkcheeks.com.br/products/pink-stick-fps90-fpuva70-5km) é a versão incolor. Veja as amostras em braços e rostos nas fotos da marca. Na ficha, o botão “Prove virtualmente” ajuda a comparar as versões. Confirme o nome do tom escolhido antes de fechar o pedido.",
+          "Os tons usam nomes de distâncias de corrida, como 10 KM e 42 KM, e o [5 KM](https://pinkcheeks.com.br/products/pink-stick-fps90-fpuva70-5km) é a versão incolor. Veja as amostras em braços e rostos nas fotos da marca. Na página do item, o botão “Prove virtualmente” ajuda a comparar as versões. Confirme o nome do tom escolhido antes de fechar o pedido.",
           "A loja não descreve subtom em texto, e o [guia do Pink Stick](/reviews/pink-stick-qual-cor-escolher) reúne os links dos nove tons e o que cruzar antes de decidir."
         ]
       },
       {
         "heading": "Pink Stick, Pro Stick ou Clear Stick",
         "paragraphs": [
-          "Compare o acabamento que a loja informa para cada bastão. Os preços são de 22/11 e a coluna com cupom é uma estimativa de 10% sobre o preço publicado."
+          "A escolha entre os três bastões sai pelo acabamento que a loja declara para cada modelo e pela relação entre peso e proteção solar."
         ],
         "comparisonTable": {
-          "caption": "Preço por bastão antes do frete.",
+          "caption": "Preços do site lidos em 22/11, por bastão antes do frete.",
           "headers": [
             "Bastão",
             "Acabamento",
@@ -283669,21 +283677,17 @@ export const reviewsData: unknown[] = [
           ]
         },
         "postParagraphs": [
-          "Pink Stick e Pro Stick custavam o mesmo na leitura. Para decidir entre os dois, veja quanta cobertura você quer. O Clear Stick é a opção transparente desta comparação.",
-          "O [cupom Pink Cheeks](/cupons/pinkcheeks) PNK-EMCASACOMCECILIA dá 10% OFF no site oficial. No teste de 22/11, ele abateu 10% de um carrinho com um Pink Stick de R$ 99,90 e um kit; a coluna acima é a mesma conta aplicada a cada bastão."
+          "Pink Stick e Pro Stick custavam o mesmo na leitura, então a decisão entre os dois fica entre cobertura leve a média (ou a versão sem cor 5 KM) e alta cobertura mate. O Clear Stick é a opção transparente desta comparação.",
+          "Conta nossa, aplicando os 10% do [cupom Pink Cheeks](/cupons/pinkcheeks) PNK-EMCASACOMCECILIA sobre os preços publicados nessa leitura: a coluna da direita mostra a mesma regra conferida no teste em que o código abateu 10% de um carrinho com um Pink Stick de R$ 99,90 e um kit. Para aplicar, digite o código no campo “Código de desconto ou cartão-presente” do checkout, válido em todas as formas de pagamento (inclusive Pix) e em até 5x sem juros no cartão.",
+          "Observe também o frete e a regra de devolução: a Entrega Normal tem frete grátis a partir de R$ 199 em uma única compra, e a desistência em até 7 dias corridos exige o produto lacrado."
         ]
       },
       {
-        "heading": "E o antiatrito?",
+        "heading": "Protetor corporal, pele oleosa e outras linhas da marca",
         "paragraphs": [
-          "A Pink Cheeks tem uma linha antiatrito com bastão, spray em dois tamanhos, creme e o bastão Speedo. Para ver o que a ficha informa de cada item, onde a loja indica a aplicação e o preço com o código, leia o [guia do antiatrito Pink Cheeks](/reviews/pinkcheeks-antiatrito-bastao-spray-creme)."
-        ]
-      },
-      {
-        "heading": "Protetor facial ou corporal",
-        "paragraphs": [
-          "Para comparar opções para o corpo, veja as fichas do [Shield FPS 60 e FPUVA 50, de 45 g](https://pinkcheeks.com.br/products/shield-protetor-corporal-fps60-fpuva50-45g), a R$ 99,90, e do [bifásico FPS 57 e FPUVA 30, de 100 ml](https://pinkcheeks.com.br/products/protetor-solar-corporal-facial-bifasico-fps-57-fpuva-30-100ml), também a R$ 99,90, que a loja indica para corpo e rosto.",
-          "Para o rosto, a loja também vende o [protetor facial antioleosidade e antiacne de 18 g](https://pinkcheeks.com.br/products/protetor-solar-facial-antioleosidade-e-antiacne-18g), a R$ 109,90, descrito como bastão. Se você tem acne ou sensibilidade e está em dúvida sobre a fórmula, converse com um dermatologista."
+          "Além dos três bastões faciais principais, a Pink Cheeks divide a proteção solar entre formatos corporais, uma versão específica para pele oleosa e uma linha voltada à prática esportiva.",
+          "Para comparar opções para o corpo, veja as páginas do [Shield FPS 60 e FPUVA 50, de 45 g](https://pinkcheeks.com.br/products/shield-protetor-corporal-fps60-fpuva50-45g), a R$ 99,90, e do [bifásico FPS 57 e FPUVA 30, de 100 ml](https://pinkcheeks.com.br/products/protetor-solar-corporal-facial-bifasico-fps-57-fpuva-30-100ml), também a R$ 99,90, que a loja indica para corpo e rosto.",
+          "Para o rosto, a loja também vende o [protetor facial antioleosidade e antiacne de 18 g](https://pinkcheeks.com.br/products/protetor-solar-facial-antioleosidade-e-antiacne-18g), a R$ 109,90, descrito como bastão; quem tem acne ou sensibilidade deve conversar com um dermatologista sobre a fórmula. Já no catálogo esportivo e de maquiagem com FPS, entram itens como blush, pó translúcido, batom, corretivo, sombra e a linha antiatrito (bastão, spray em dois tamanhos, creme e bastão Speedo), detalhada no [guia do antiatrito Pink Cheeks](/reviews/pinkcheeks-antiatrito-bastao-spray-creme)."
         ],
         "images": [
           {
@@ -283697,13 +283701,27 @@ export const reviewsData: unknown[] = [
         ]
       },
       {
+        "heading": "Qual bastão da Pink Cheeks escolher para a sua rotina",
+        "paragraphs": [
+          "A Pink Cheeks vale a pena para quem busca protetor solar em bastão ou maquiagem com FPS e prefere escolher diretamente pelo acabamento, pela cobertura e pelas informações declaradas no rótulo. A divisão entre Pink Stick, 5 KM incolor, Pro Stick mate e Clear Stick transparente, somada aos formatos corporais e à linha antiatrito, atende tanto quem quer praticidade no nécessaire quanto quem monta rotina para treinos ao ar livre.",
+          "Antes de concluir o pedido, confira o nome do tom desejado pelas amostras visuais da loja, verifique a presença de fragrância se tiver sensibilidade e aplique o [cupom Pink Cheeks](/cupons/pinkcheeks) PNK-EMCASACOMCECILIA no checkout para garantir 10% OFF."
+        ],
+        "emphasis": "Vale a pena comprar na Pink Cheeks quando você escolhe o bastão pelo nível de cobertura que usa no rosto, e aplicar o código PNK-EMCASACOMCECILIA no checkout garante 10% OFF em todo o pedido.",
+        "links": [
+          {
+            "label": "Ver o cupom Pink Cheeks",
+            "href": "/cupons/pinkcheeks"
+          }
+        ]
+      },
+      {
         "heading": "Perguntas frequentes",
         "bullets": [
+          "A Pink Cheeks é boa? Claro que vale para quem procura protetor solar em bastão com escolha objetiva de acabamento (cobertura leve a média no Pink Stick, incolor no 5 KM, alta cobertura mate no Pro Stick ou transparente no Clear Stick) e resistência declarada de até duas horas à água e ao suor. No site oficial, o código PNK-EMCASACOMCECILIA ainda dá 10% OFF, inclusive em promoções.",
+          "Qual é o cupom da Pink Cheeks? O cupom Pink Cheeks da nossa parceria é PNK-EMCASACOMCECILIA, com 10% OFF no site oficial para clientes novos e antigos, em todas as formas de pagamento. Veja o passo a passo e as condições na página do [cupom Pink Cheeks](/cupons/pinkcheeks).",
           "O protetor da Pink Cheeks é físico ou químico? A página do Pink Stick informa que o filtro é de amplo espectro e une filtros orgânicos e inorgânicos, ou seja, os dois tipos.",
-          "O Pink Stick é resistente à água? A ficha informa resistência à água e ao suor por até duas horas. Consulte a embalagem para ver quando reaplicar, inclusive após nadar ou suar muito.",
-          "Qual é a diferença entre Pink Stick e Pro Stick? O Pink Stick tem FPS 90, FPUVA 70 e cobertura leve a média. O Pro Stick tem FPS 96, FPUVA 43, alta cobertura e acabamento mate.",
-          "Existe Pink Stick sem cor? O 5 KM é a versão incolor da linha, com o mesmo FPS 90 e FPUVA 70 das versões com cor, segundo a loja.",
-          "O protetor Pink Cheeks é bom para pele oleosa? A indicação da loja para pele oleosa é o protetor antioleosidade e antiacne. Se ele serve à sua pele, quem responde é um dermatologista."
+          "Qual é a diferença entre Pink Stick e Pro Stick? O Pink Stick tem FPS 90, FPUVA 70 e cobertura leve a média, além da versão incolor 5 KM. O Pro Stick tem FPS 96, FPUVA 43, alta cobertura e acabamento mate.",
+          "O protetor Pink Cheeks é bom para pele oleosa? A indicação da loja para pele oleosa é o protetor antioleosidade e antiacne. Para saber se ele atende às necessidades da sua pele, consulte um dermatologista."
         ]
       }
     ],
@@ -284816,7 +284834,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Resposta rápida",
         "paragraphs": [
-          "A Gocase faz sentido para quem quer personalizar uma garrafa, bolsa ou capinha. A loja oferece a Fresh em três tamanhos e a Urban de 500 ml. Para notebook, escolha a bolsa pelas medidas do compartimento. Os tempos de conservação e as medidas vêm das fichas da marca."
+          "Vale a pena, sim, sobretudo para quem quer garrafas, bolsas ou capinhas personalizáveis com ficha clara. A Fresh vem em três tamanhos e a Urban em 500 ml, com conservação térmica declarada, e as bolsas trazem medidas do compartimento de notebook. O cupom CECILIAA dá 5% OFF no site. Veja abaixo capacidades e regras de troca."
         ]
       },
       {
@@ -287323,12 +287341,12 @@ export const reviewsData: unknown[] = [
     "type": "Guia de Marca",
     "title": "Denavita é boa? Compare os suplementos pelo rótulo e pelo preço por dia",
     "seoTitle": "Denavita é boa? Rótulo, preço por dia e kits",
-    "description": "Compare o custo por dia de seis suplementos da Denavita com o EMCASA, veja como a porção da ficha muda a conta e decida entre pote avulso e opção por quantidade.",
+    "description": "Veja para quem a Denavita compensa: compare tamanho do pote, porção diária, economia dos kits e o custo por dia de seis suplementos com o cupom EMCASA da Denavita.",
     "metaDescription": "EMCASA dá 10% OFF na Denavita. Compare o preço por dia de seis suplementos e veja a diferença entre avulsos e kits.",
     "image": "/images/reviews/denavita/denavita-e-boa-hero-pt-v2.webp",
     "imageAlt": "Pote inclinado de NAC + Polivitamínico da Denavita com cápsulas ao redor, em foto com fundo lilás. A capa pergunta «É boa?», cita rótulo e preço e mostra o cupom EMCASA.",
     "cta": {
-      "text": "Se a Denavita faz sentido para você, abra o site oficial pelo botão. O código entra no checkout, no campo “Tem um cupom?”, e a linha Cupom de desconto confirma o valor.",
+      "text": "Se a Denavita faz sentido para você, abra o site oficial pelo botão. O código EMCASA da Denavita entra no checkout, no campo “Tem um cupom?”, e a linha Cupom de desconto confirma o valor.",
       "label": "Ir para a Denavita",
       "url": "https://denavita.gogroup.com.br/emcasacomcecilia",
       "sponsored": true
@@ -287342,37 +287360,43 @@ export const reviewsData: unknown[] = [
         "slug": "denavita-e-confiavel"
       },
       {
+        "slug": "denavita-reclame-aqui-nota-reputacao"
+      },
+      {
         "slug": "cupom-denavita-como-usar"
       }
     ],
     "decision": {
       "takeIf": [
-        "Você já escolheu o suplemento e quer comparar pote avulso e oferta do mesmo produto.",
-        "Você conferiu a quantidade da embalagem e a validade de cada pote do kit."
+        "Você compara suplementos pelo número de cápsulas ou doses, concentração declarada na ficha e custo por dia.",
+        "Você já faz uso contínuo de um item da marca e quer baixar o valor por pote nas ofertas por quantidade ou kits.",
+        "Você quer somar os 10% OFF do cupom EMCASA da Denavita inclusive no Pix ou parcelar no cartão em até 12x."
       ],
       "skipIf": [
-        "Você ainda não escolheu o suplemento e procura uma indicação de uso.",
-        "Você precisa esclarecer um alergênico da ficha antes de decidir."
+        "Você procura indicação clínica de qual suplemento tomar ou qual dose usar sem consultar médico ou nutricionista.",
+        "Você evita algum item da lista de alergênicos (como derivados de soja, peixe, crustáceos, ovo ou cápsula de gelatina) sem confirmar a embalagem.",
+        "Você não pretende consumir os vários frascos de uma compra por quantidade dentro da validade indicada no rótulo."
       ]
     },
     "contentSections": [
       {
         "heading": "Resposta rápida",
         "paragraphs": [
-          "Se você já decidiu qual suplemento comprar, compare na Denavita o tamanho do pote, a porção da ficha e o custo diário. Há avulsos, kits e opções por quantidade. O cupom EMCASA dá 10% OFF, e as tabelas mostram o preço estimado com o código. Para o mesmo produto, compare também a validade dos potes e o frete."
+          "Sim, a Denavita compensa para quem compara tamanho do pote, porção e concentração por dia na ficha e aproveita kits ou ofertas com vários potes. O cupom EMCASA da Denavita dá 10% OFF para cliente novo e antigo, inclusive em kits e no Pix. Confira abaixo o custo diário e onde vale cada compra."
         ]
       },
       {
-        "heading": "O que a Denavita vende",
+        "heading": "Quem é a Denavita: origem, reputação e o que vende",
         "paragraphs": [
-          "A Denavita vende cápsulas, gomas e suplementos em pó, com compra pelo site oficial. Entre os avulsos estão [Laranja Moro](https://www.denavita.com.br/products/laranja-moro-cafe-verde-e-cromo-30-caps), [Trio Magnésio](https://www.denavita.com.br/products/trio-magnesio), [NAC + Polivitamínico](https://www.denavita.com.br/products/nac-polivitaminico) e [Creatina 100% Pura](https://www.denavita.com.br/products/creatina-monohidratada-creatine-100-pura-micronizada-250g-denavita). Há também o shot [Jejoom](https://www.denavita.com.br/products/jejoom-shot-matinal-para-metabolismo) e o [Digestino](https://www.denavita.com.br/products/digestino).",
-          "Alguns kits juntam produtos diferentes, como o [Kit Vida Fit](https://www.denavita.com.br/products/kit-vida-fit) e o [Turbo Metabolismo](https://www.denavita.com.br/products/turbo-metabolismo). Já as opções por quantidade reúnem vários potes do mesmo produto e aparecem como variantes na página de cada um. Os preços deste guia são os da página em 21 de novembro de 2026. O pagamento vai até 12x no cartão ou no Pix."
+          "A Denavita é uma marca brasileira de vitaminas e suplementos em cápsulas, gomas, pós e shots, com vitrine oficial em denavita.com.br operada pela Vitalita Comércio e Estratégias Digitais Ltda. e checkout próprio em seguro.denavita.com.br. Entre os avulsos mais buscados estão [Laranja Moro](https://www.denavita.com.br/products/laranja-moro-cafe-verde-e-cromo-30-caps), [Trio Magnésio](https://www.denavita.com.br/products/trio-magnesio), [NAC + Polivitamínico](https://www.denavita.com.br/products/nac-polivitaminico), [Creatina 100% Pura](https://www.denavita.com.br/products/creatina-monohidratada-creatine-100-pura-micronizada-250g-denavita), o shot [Jejoom](https://www.denavita.com.br/products/jejoom-shot-matinal-para-metabolismo) e o [Digestino](https://www.denavita.com.br/products/digestino).",
+          "O catálogo também reúne kits que juntam produtos diferentes (como o [Kit Vida Fit](https://www.denavita.com.br/products/kit-vida-fit) e o [Turbo Metabolismo](https://www.denavita.com.br/products/turbo-metabolismo)) e ofertas por quantidade de vários potes do mesmo item, com pagamento em até 12x no cartão ou no Pix.",
+          "Para conferir o CNPJ, a consulta de regularização na embalagem e as regras de devolução, veja se a [Denavita é confiável](/reviews/denavita-e-confiavel); já as notas, o tempo de resposta e o histórico de entregas estão na análise da [Denavita no Reclame Aqui](/reviews/denavita-reclame-aqui-nota-reputacao)."
         ]
       },
       {
         "heading": "Porção, composição e alergênicos nas fichas",
         "paragraphs": [
-          "As porções e a composição vêm das fichas da Denavita. Confira na embalagem se a versão recebida é a que você escolheu."
+          "A loja informa: as porções, as concentrações e os alergênicos vêm das fichas da Denavita; confira na embalagem recebida se o rótulo bate com a versão escolhida."
         ],
         "bullets": [
           "**Laranja Moro.** A ficha lista Morosil®, extrato de café verde e picolinato de cromo. A quantidade de cafeína não aparece. Veja a [composição do Laranja Moro](/reviews/laranja-moro-denavita).",
@@ -287393,15 +287417,15 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Quanto custa por dia cada pote avulso",
         "paragraphs": [
-          "Calculamos o custo diário pela porção declarada na ficha. Use o valor para orçar o produto que escolheu. O desconto da tabela é estimado sobre o preço exibido."
+          "Conta nossa: dividimos o preço anunciado de cada pote pelos dias de rendimento conforme a porção diária declarada na ficha e simulamos os 10% OFF do cupom EMCASA da Denavita para estimar o custo por dia antes do frete."
         ],
         "comparisonTable": {
-          "caption": "Preços da página e preço com o EMCASA, no cartão e antes do frete. Porções das fichas da loja.",
+          "caption": "Preços da página da Denavita em 21/11, no cartão e antes do frete, com estimativa do cupom EMCASA da Denavita. Porções das fichas da loja.",
           "headers": [
             "Produto e dias por pote",
             "Preço anunciado",
-            "Com EMCASA (estimativa)",
-            "Por dia, antes e com EMCASA"
+            "Com EMCASA na Denavita (estimativa)",
+            "Por dia, antes e com EMCASA na Denavita"
           ],
           "rows": [
             [
@@ -287509,7 +287533,7 @@ export const reviewsData: unknown[] = [
         },
         "postParagraphs": [
           "A validade do pote fechado e o prazo depois de abrir são informações diferentes. Confira as duas na embalagem.",
-          "O [cupom Denavita](/cupons/denavita) EMCASA deu 10% OFF nos produtos avulsos e nos kits que testamos. No teste do Bruno, o Kit Queridinhos, o Kit Vida Fit e o Turbo Metabolismo somavam R$ 659,70 no carrinho e saíram por R$ 593,73 com o EMCASA. Testamos o código em avulsos e em kits. Nas opções por quantidade, confira a linha “Cupom de desconto” no resumo antes de pagar."
+          "O [cupom Denavita](/cupons/denavita) EMCASA deu 10% OFF nos produtos avulsos e nos kits que testamos. No teste do Bruno, o Kit Queridinhos, o Kit Vida Fit e o Turbo Metabolismo somavam R$ 659,70 no carrinho e saíram por R$ 593,73 com o cupom EMCASA da Denavita. Nas opções por quantidade, confira a linha “Cupom de desconto” no resumo antes de pagar."
         ],
         "images": [
           {
@@ -287522,29 +287546,38 @@ export const reviewsData: unknown[] = [
         ]
       },
       {
-        "heading": "Entrega e prazo no checkout",
+        "heading": "Onde aplicar o cupom, entrega e devolução",
         "paragraphs": [
-          "A faixa da Denavita anuncia frete grátis a partir de R$ 199,90, conforme as regras da loja. Informe o CEP, aplique o cupom e confira o prazo e o total com a entrega no checkout.",
-          "Para saber quem vende e como funcionam as trocas, veja [Denavita é confiável?](/reviews/denavita-e-confiavel)."
+          "Para usar o código, finalize o carrinho até o checkout em seguro.denavita.com.br, digite o cupom EMCASA da Denavita no campo “Tem um cupom?” e clique em “Adicionar”; o abatimento de 10% aparece na linha “Cupom de desconto” do resumo, funcionando para clientes novos e antigos no cartão em até 12x e também no Pix. Veja o passo a passo de tela em [como usar o cupom Denavita](/reviews/cupom-denavita-como-usar).",
+          "A faixa da Denavita anuncia frete grátis a partir de R$ 199,90, conforme as regras da loja. Informe o CEP, aplique o cupom EMCASA da Denavita e confira o prazo e o total com a entrega no checkout. Para trocas, a central da loja informa até 7 dias corridos do recebimento para desistência (com a caixa fechada) e até 30 dias para defeito ou item diferente pelo portal de trocas."
         ]
       },
       {
-        "heading": "Quando a conta do kit ajuda",
+        "heading": "Onde a Denavita vale o pedido e como decidir pelo rótulo",
         "paragraphs": [
-          "Se você já compra o mesmo produto, compare o preço por pote e o total entregue antes de escolher entre avulso e kit. No Laranja Moro, a compra por quantidade tinha menor custo por dia e exigia um desembolso maior no pedido.",
-          "Para decidir se deve usar o suplemento, confirmar a dose ou avaliar o uso com medicamentos, fale com médico ou nutricionista."
+          "A Denavita vale a pena para quem já sabe qual suplemento procura e escolhe pelo rendimento do pote, pela concentração declarada na ficha e pelo custo diário. Nos itens de uso contínuo (como Laranja Moro, Trio Magnésio, NAC + Polivitamínico e Coenzima Q10), as ofertas por quantidade reduzem o valor por pote antes mesmo dos 10% OFF do cupom EMCASA da Denavita.",
+          "Já quem prefere testar um único frasco ou reunir fórmulas diferentes encontra nos avulsos e nos kits combinados (como o Kit Vida Fit e o Turbo Metabolismo) um caminho prático, conferindo a validade de potes múltiplos e o mínimo do frete grátis no checkout. Para decidir se deve usar o suplemento, ajustar a dose diária ou avaliar o uso com medicamentos e condições de saúde, fale sempre com médico ou nutricionista."
+        ],
+        "emphasis": "Sim, a Denavita compensa para quem compra suplemento pelo rótulo e pela conta por dia: aproveite os combos de múltiplos potes ou kits quando fizer sentido no seu consumo e aplique o cupom EMCASA da Denavita no checkout para garantir 10% OFF, inclusive no Pix.",
+        "links": [
+          {
+            "label": "Ver o cupom Denavita",
+            "href": "/cupons/denavita"
+          }
         ]
       },
       {
         "heading": "Perguntas frequentes",
         "bullets": [
-          "O que dá para comparar nos suplementos da Denavita? Use a composição e a porção da ficha para identificar o produto. Depois compare o custo diário, a quantidade que vem no pote e o frete.",
-          "Vale mais a pena comprar o kit? Compare o preço por pote do mesmo produto. O custo unitário pode cair, e vale conferir quanto você vai pagar no pedido e a validade das unidades.",
-          "A Denavita tem cupom? O EMCASA dá 10% OFF no site oficial, no cartão em até 12x ou no Pix. Aplique no campo “Tem um cupom?” e confira a linha Cupom de desconto no resumo."
+          "A Denavita é boa? Sim, a Denavita compensa para quem compara os suplementos pelo tamanho do pote, pela porção diária declarada na ficha e pela economia nos kits e combos por quantidade, somando ainda 10% OFF com o cupom EMCASA da Denavita no site oficial.",
+          "Qual é o cupom da Denavita? É o cupom EMCASA da Denavita, com 10% OFF no site oficial para clientes novos e antigos, no cartão em até 12x ou no Pix. Cole no campo “Tem um cupom?” do checkout e clique em “Adicionar”; veja as regras na página do [cupom Denavita](/cupons/denavita).",
+          "Vale mais a pena comprar pote avulso ou kit na Denavita? Para uso contínuo do mesmo suplemento, as ofertas por quantidade reduzem o valor por pote na tabela acima; já para testar um item pela primeira vez, o pote avulso evita estoque parado antes de conferir a validade.",
+          "A Denavita é confiável? Sim: a loja oficial pertence à Vitalita, possui política de trocas publicada e tem reputação Ótima no Reclame Aqui; veja todos os dados em [Denavita é confiável?](/reviews/denavita-e-confiavel) e [Denavita no Reclame Aqui](/reviews/denavita-reclame-aqui-nota-reputacao).",
+          "O cupom EMCASA da Denavita funciona em kits e no Pix? Sim: nos testes feitos no checkout, o cupom EMCASA da Denavita aplicou 10% OFF sobre produtos avulsos, kits combinados e no pagamento via Pix; nas ofertas por quantidade, confira a linha “Cupom de desconto” no resumo antes de pagar."
         ]
       }
     ],
-    "updatedAt": "2026-11-21"
+    "updatedAt": "2026-11-24"
   },
   {
     "id": 1117,
@@ -288693,7 +288726,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Resposta rápida",
         "paragraphs": [
-          "A Starlink vale a pena onde a internet cai com frequência ou entrega bem menos que o contratado. Nós a contratamos como alternativa e backup à nossa fibra instável. Se a sua fibra é estável, ela tende a sair mais barata.",
+          "Com certeza vale onde não chega internet estável ou a fibra cai com frequência: nós contratamos a Starlink como alternativa e backup da nossa fibra instável. Se a sua fibra local funciona bem, ela tende a custar menos, e há 30 dias para testar e devolver o kit.",
           "Novos clientes podem receber 200 reais de crédito na fatura no Brasil ou 45 € em Portugal. Abra nosso link de indicação antes de contratar, confirme o bônus no pedido e mantenha os dois primeiros ciclos completos em dia."
         ],
         "links": [
@@ -288902,16 +288935,17 @@ export const reviewsData: unknown[] = [
         ]
       },
       {
-        "heading": "O que os clientes reclamam",
+        "heading": "Limitações práticas, contrato e atendimento",
         "paragraphs": [
-          "O perfil verificado tem reputação Boa no Reclame Aqui. Cobrança indevida aparece entre as queixas mais frequentes. Guarde a oferta do pedido para comparar com a fatura. Veja [a leitura do Reclame Aqui](/reviews/starlink-reclame-aqui-nota-reputacao)."
+          "O custo de saída em planos subsidiados e a falta de preço fixo permanente são as principais limitações contratuais da Starlink depois dos 30 dias de teste. Quando o endereço exige fidelidade, como no Residencial Max com kit subsidiado em Alto Paraíso, o contrato de 12 meses prevê multa de rescisão antecipada até o teto exibido no resumo da oferta. Além disso, os preços promocionais não têm trava permanente nem garantia de preço fixo; por isso, salve um print do resumo do pedido antes de pagar para conferir cada fatura.",
+          "No atendimento e no uso diário, também há restrições práticas importantes. O suporte para contestar cobranças, pedir reembolso ou abrir a devolução do kit funciona pela conta no site ou no aplicativo da Starlink, então guarde o número do pedido e do chamado. No sinal, a antena exige visão livre do céu e sofre interrupções se galhos ou telhados entrarem no campo de visão, perde desempenho temporariamente em chuvas muito fortes ou tempestades e depende de energia elétrica para antena e roteador funcionarem. Veja também nossa análise da [reputação da Starlink no Reclame Aqui](/reviews/starlink-reclame-aqui-nota-reputacao)."
         ]
       },
       {
         "heading": "Perguntas frequentes",
         "bullets": [
           "A Starlink tem cupom de desconto? Não. A Starlink não tem cupom: pelo link de indicação da Cecília, quem assina recebe R$ 200 no Brasil (45 € em Portugal) depois de dois meses de assinatura, como crédito na fatura, e quem indicou recebe o mesmo valor.",
-          "Starlink vale a pena na cidade? Depende da qualidade real da sua fibra atual. Se ela é barata e estável, tende a vencer no bolso. Se cai com frequência ou entrega muito abaixo do combinado, a Starlink pode valer a pena como alternativa ou backup, desde que haja céu aberto. Foi o nosso caso.",
+          "Starlink vale a pena na cidade? Vale, sim, onde a fibra local cai com frequência ou entrega muito abaixo do combinado, desde que haja céu aberto (foi o nosso caso); já se a sua fibra é barata e estável, ela tende a vencer no bolso.",
           "Starlink é melhor que fibra? Em velocidade máxima e latência, uma fibra saudável costuma levar vantagem. Em continuidade contra quedas locais e cabos rompidos na rua, a Starlink ajuda por ser uma rota independente do provedor local.",
           "Starlink é boa para jogos? Teste a latência e as interrupções no seu endereço. A faixa típica que a Starlink publica é uma referência geral.",
           "A Starlink é ilimitada? A Starlink anuncia dados ilimitados nos planos residenciais. Confira os limites de velocidade do plano que aparece no pedido.",
@@ -290368,8 +290402,8 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Quick answer",
         "paragraphs": [
-          "Yes, Starlink is worth it where no stable connection reaches you, and also where fiber exists but keeps dropping or delivers far less than advertised. We subscribed ourselves as an alternative and backup to our unstable fiber. If your fiber is genuinely stable, it usually wins on price and latency. The Nevada offer we checked listed a $0 rental kit and $20 plus taxes due when ordering.",
-          "New customers can get a $100 bill credit in the US or £40 in the UK. Open our referral link before you order, check that the reward is shown, and keep your eligible subscription paid and active for two full billing cycles."
+          "Yes, Starlink is worth it where no stable connection reaches you, and also where fiber exists but keeps dropping or delivers far less than advertised. We subscribed ourselves as an alternative and backup to our unstable fiber. If your fiber is genuinely stable, it usually wins on price and latency. The Nevada offer we checked listed a $0 rental kit, $20 plus taxes due upfront, and 30 days to try and return it.",
+          "New customers can get a $100 bill credit in the US or £40 in the UK after two full paid cycles, not as a kit discount. Open our referral link, confirm the reward on your order before paying, and keep your subscription active and paid."
         ],
         "links": [
           {
@@ -290585,16 +290619,17 @@ export const reviewsData: unknown[] = [
         ]
       },
       {
-        "heading": "What customers complain about",
+        "heading": "Practical, contract and support limitations",
         "paragraphs": [
-          "The Starlink profile on Trustpilot has a TrustScore of 1.6, and the most common complaints are support that is hard to reach and bills that rise. Save a screenshot of the offer on your order to compare with the invoice. See [our reading of the Trustpilot reviews](/en/reviews/starlink-trustpilot-reviews)."
+          "Hardware return rules and non-fixed monthly pricing are Starlink’s main contractual limits after the 30-day trial window. On the Nevada and London order pages we read, there is no 12-month contract, but the kit is a rental you must return undamaged if you cancel. Promotional monthly rates also have no fixed duration or permanent price lock, so save a screenshot of your order summary before paying to compare with every bill.",
+          "On support and daily operation, there are clear practical constraints as well. Support tickets, billing disputes and kit returns are handled digitally through your Starlink account on the website or in the app, so keep your order number, cancellation date and case number if an invoice differs from your order. In operation, the dish requires an unobstructed view of the sky and drops out when branches or roofs block it, slows down temporarily in very heavy rain or storms, and stops during power cuts unless backed by a UPS or portable power station. For customer feedback on billing and support, see [our reading of Starlink on Trustpilot](/en/reviews/starlink-trustpilot-reviews)."
         ]
       },
       {
         "heading": "Frequently asked questions",
         "bullets": [
           "Does Starlink have a discount coupon? No. Starlink has no coupon: through Cecília's referral link, the person who subscribes gets US$ 100 in the US (£ 40 in the UK) after two months of subscription, as credit on the bill, and the person who referred gets the same amount.",
-          "Is Starlink worth it in a city? It depends on how good your current fiber really is. If it is cheap and stable, it tends to win on cost. If it drops often or delivers far below what you pay for, Starlink can be worth it as an alternative or backup, as long as you have open sky. That was our case.",
+          "Is Starlink worth it in a city? Yes, where local fiber drops often or delivers far below what you pay for, as long as you have open sky (that was our case); if your current fiber is cheap and stable, it tends to win on cost.",
           "Is Starlink better than fiber? On peak speed and latency, healthy fiber usually has the edge. On continuity against local outages and cables cut in the street, Starlink helps because it is a route independent of the local provider.",
           "Is Starlink good for gaming? Test the latency and the interruptions at your own address. The typical range Starlink publishes is a general reference.",
           "Is Starlink unlimited? Starlink advertises unlimited data on residential plans. Check the speed limits of the plan shown on your order.",
@@ -292052,7 +292087,7 @@ export const reviewsData: unknown[] = [
         "heading": "Respuesta rápida",
         "paragraphs": [
           "Sí, Starlink vale la pena donde no llega una conexión estable y también donde hay fibra, pero se corta a menudo o rinde muy por debajo de lo contratado. Nosotros la contratamos como alternativa y respaldo de nuestra fibra inestable. Si tu fibra es realmente estable, suele ganar en precio y latencia. Probar tiene poco riesgo: en el pedido de Madrid el kit va en alquiler a 0 € y hay 30 días para devolverlo.",
-          "En tu primera suscripción elegible puedes recibir crédito en la factura. Las referencias de noviembre son 45 € en España y 700 pesos en México. Abre nuestro enlace, confirma el importe en el pedido y mantén el plan activo y al día durante dos ciclos completos."
+          "En tu primera suscripción elegible puedes recibir crédito en la factura (no descuenta del kit) tras dos ciclos completos al día: 45 € en España y 700 pesos en México (referencia publicada en noviembre por terceros). Abre nuestro enlace y confirma el importe en el pedido antes de pagar."
         ],
         "links": [
           {
@@ -292261,16 +292296,17 @@ export const reviewsData: unknown[] = [
         ]
       },
       {
-        "heading": "Qué cuentan los clientes",
+        "heading": "Limitaciones prácticas, contrato y soporte",
         "paragraphs": [
-          "El perfil de starlink.com en Trustpilot tiene una nota de 1,6 sobre 5 y no está reclamado por la empresa. Entre las quejas más comunes están el soporte difícil de contactar y las subidas de cuota. Guarda una captura de la oferta del pedido para compararla con la factura. Mira la [lectura de Trustpilot](/es/reviews/starlink-trustpilot-opiniones)."
+          "Las condiciones de devolución del equipo, la permanencia en ciertos kits y las cuotas no fijas marcan las principales limitaciones contractuales de Starlink tras los 30 días de prueba. En Madrid el kit va en alquiler a 0 € sin permanencia, pero debe devolverse en buen estado si cancelas; en México, en cambio, el Standard 4 X del plan Max conlleva un plazo de 12 meses con una tarifa de rescisión anticipada de hasta 4.600 pesos. Además, los precios promocionales no tienen una duración fija ni garantía de precio permanente, así que guarda una captura del resumen del pedido antes de pagar para cotejarla con tu factura.",
+          "En soporte y uso diario también hay límites concretos. La atención para revisar facturas, gestionar la baja o tramitar la devolución del equipo se realiza desde tu cuenta en la web o en la aplicación de Starlink, por lo que conviene conservar el número de pedido y el de caso ante cualquier incidencia. En la práctica diaria, la antena requiere cielo despejado y sufre cortes si hay ramas o tejados en su campo de visión, pierde rendimiento de forma temporal bajo lluvia muy fuerte o tormentas y deja de funcionar en cortes de luz sin un SAI o batería. Consulta nuestra [lectura de Starlink en Trustpilot](/es/reviews/starlink-trustpilot-opiniones) para ver qué reportan otros usuarios sobre atención y cobros."
         ]
       },
       {
         "heading": "Preguntas frecuentes",
         "bullets": [
           "¿Tiene Starlink un cupón de descuento? No. Starlink no tiene cupón: con el enlace de referido de Cecília, quien se suscribe recibe 45 € en España tras dos meses de suscripción, como crédito en la factura, y quien invitó recibe el mismo valor.",
-          "¿Vale la pena Starlink en la ciudad? Depende de lo buena que sea de verdad tu fibra actual. Si es barata y estable, suele ganar en coste. Si se corta a menudo o rinde muy por debajo de lo contratado, Starlink puede valer la pena como alternativa o respaldo, siempre que tengas cielo abierto. Ese fue nuestro caso.",
+          "¿Vale la pena Starlink en la ciudad? Sí, donde la fibra local se corta a menudo o rinde muy por debajo de lo contratado, siempre que tengas cielo abierto (ese fue nuestro caso); si tu fibra actual es barata y estable, suele ganar en coste.",
           "¿Es mejor Starlink que la fibra? En velocidad máxima y latencia, una fibra sana suele llevar ventaja. En continuidad frente a cortes locales y cables rotos en la calle, Starlink ayuda por ser una ruta independiente del operador local.",
           "¿Es buena Starlink para jugar? Prueba la latencia y los cortes en tu dirección. La latencia típica que publica Starlink es una referencia general.",
           "¿Es ilimitada Starlink? Starlink anuncia datos ilimitados en los planes residenciales. Comprueba los límites de velocidad del plan que aparece en tu pedido.",
@@ -293716,7 +293752,7 @@ export const reviewsData: unknown[] = [
         "heading": "Réponse rapide",
         "paragraphs": [
           "Oui, Starlink vaut le coup là où aucune connexion stable n’arrive, mais aussi là où la fibre existe et coupe souvent ou débite bien moins que prévu. Nous l’avons souscrite comme alternative et connexion de secours à notre fibre instable. Si votre fibre est vraiment stable, elle reste plus avantageuse en prix et en latence. L’essai est peu risqué : le kit est loué à 0 € sur la commande de Paris, avec 30 jours pour le renvoyer.",
-          "Vous souscrivez pour la première fois en France ? Vous pouvez recevoir 45 € de crédit sur votre facture. Ouvrez notre lien de parrainage avant de commander, vérifiez le montant affiché et gardez votre abonnement éligible actif et à jour pendant deux cycles complets de facturation."
+          "Vous souscrivez pour la première fois en France ? Vous pouvez recevoir 45 € de crédit sur votre facture (sans remise immédiate sur le kit). Ouvrez notre lien de parrainage, vérifiez le montant sur votre commande avant de payer et gardez votre abonnement éligible actif et à jour pendant deux cycles complets."
         ],
         "links": [
           {
@@ -293925,16 +293961,17 @@ export const reviewsData: unknown[] = [
         ]
       },
       {
-        "heading": "Ce que disent les clients",
+        "heading": "Limites pratiques, contrat et support",
         "paragraphs": [
-          "Le profil starlink.com sur Trustpilot affiche 1,6 sur 5, et les plaintes visent surtout le support et la facturation. Faites une capture de l'offre de votre commande pour la comparer à la facture. Voyez [la lecture de Trustpilot](/fr/reviews/starlink-trustpilot-avis)."
+          "La restitution obligatoire du matériel loué et l’absence de tarif mensuel figé constituent les principales limites contractuelles après les 30 jours d’essai. Sur la commande consultée à Paris, il n’y a pas de durée minimale, mais le kit à 0 € reste loué et doit être renvoyé en bon état en cas de résiliation. De plus, les prix promotionnels affichés n’ont pas de durée fixe ni de blocage tarifaire permanent : pensez à enregistrer une capture du récapitulatif avant de payer pour la comparer à vos factures.",
+          "Sur le support et le fonctionnement quotidien, plusieurs contraintes s’appliquent aussi. L’assistance, le suivi de facturation et le retour du kit passent par votre compte Starlink sur le site ou dans l’application, d’où l’intérêt de conserver le numéro de commande et la référence de dossier en cas d’écart sur une facture. À l’usage, l’antenne exige une vue dégagée sur le ciel (branches et toits provoquent des coupures), subit des baisses temporaires de débit par très forte pluie ou orage, et s’interrompt lors des coupures de courant sans onduleur. Voyez aussi notre [lecture de Starlink sur Trustpilot](/fr/reviews/starlink-trustpilot-avis) sur l’assistance et la facturation."
         ]
       },
       {
         "heading": "Questions fréquentes",
         "bullets": [
           "Starlink a-t-il un code promo ? Non. Starlink n'a pas de code promo : avec le lien de parrainage de Cecília, la personne qui s'abonne reçoit 45 € en France après deux mois d'abonnement, sous forme de crédit sur la facture, et le parrain reçoit le même montant.",
-          "Starlink vaut-il le coup en ville ? Cela dépend de la vraie qualité de votre fibre actuelle. Si elle est bon marché et stable, elle gagne souvent sur le coût. Si elle coupe souvent ou débite bien moins que prévu, Starlink peut valoir le coup comme alternative ou secours, à condition d’avoir un ciel dégagé. C’était notre cas.",
+          "Starlink vaut-il le coup en ville ? Oui, là où la fibre locale coupe souvent ou débite bien moins que prévu, à condition d’avoir un ciel dégagé (c’était notre cas) ; si votre fibre actuelle est bon marché et stable, elle reste plus économique.",
           "Starlink est-il meilleur que la fibre ? En débit maximal et en latence, une fibre saine garde souvent l’avantage. En continuité face aux pannes locales et aux câbles coupés dans la rue, Starlink aide parce que c’est une voie indépendante de l’opérateur local.",
           "Starlink est-il bon pour les jeux ? Testez la latence et les coupures à votre adresse. La plage typique publiée par Starlink est une référence générale.",
           "Starlink est-il illimité ? Starlink annonce des données illimitées sur les forfaits résidentiels. Vérifiez sur la commande les limites de débit du forfait affiché.",
@@ -295356,7 +295393,7 @@ export const reviewsData: unknown[] = [
         "heading": "Schnelle Antwort",
         "paragraphs": [
           "Ja, Starlink lohnt sich dort, wo keine stabile Verbindung ankommt, aber auch dort, wo Glasfaser liegt und trotzdem oft ausfällt oder deutlich weniger Tempo liefert als gebucht. Wir haben Starlink selbst als Alternative und Backup zu unserer instabilen Glasfaser gebucht. Läuft Ihre Glasfaser wirklich stabil, bleibt sie bei Preis und Latenz meist vorn. Der Test ist risikoarm: Das Kit ist in der Berliner Bestellung zur Miete für 0 €, und Sie haben 30 Tage für die Rückgabe.",
-          "Als Neukunde in Deutschland können Sie 45 € Rechnungsguthaben erhalten. Öffnen Sie vor der Bestellung unseren Empfehlungslink, prüfen Sie die Prämie in der Bestellübersicht und halten Sie Ihren berechtigten Tarif zwei volle Abrechnungszyklen aktiv und bezahlt."
+          "Als Neukunde in Deutschland können Sie 45 € Rechnungsguthaben erhalten (kein Sofortrabatt auf das Kit). Öffnen Sie vor der Bestellung unseren Empfehlungslink, prüfen Sie die Prämie vor dem Bezahlen in der Bestellübersicht und halten Sie Ihren berechtigten Tarif zwei volle Abrechnungszyklen aktiv und bezahlt."
         ],
         "links": [
           {
@@ -295565,16 +295602,17 @@ export const reviewsData: unknown[] = [
         ]
       },
       {
-        "heading": "Was Kunden beanstanden",
+        "heading": "Praktische Grenzen, Vertrag und Support",
         "paragraphs": [
-          "Das Trustpilot-Profil der Domain starlink.com steht bei einem TrustScore von 1,6, bei vielen Beschwerden zu Support und Rechnung. Bewahren Sie das Angebot der Bestellung auf, um es mit der Rechnung zu vergleichen. Lesen Sie dazu [die Auswertung der Trustpilot-Bewertungen](/de/reviews/starlink-trustpilot-bewertungen)."
+          "Die Rückgabepflicht für das Mietkit und zeitlich begrenzte Aktionspreise sind nach den 30 Tagen Testphase die wichtigsten vertraglichen Grenzen. In Berlin verlängert sich der Vertrag monatlich auf unbestimmte Zeit und ist gebührenfrei kündbar, doch das gemietete Kit muss bei Kündigung unbeschädigt zurückgeschickt werden. Außerdem gilt der Berliner 50-%-Aktionspreis nur für die ersten 3 Monate (danach gelten 35 €, 55 € bzw. 75 € ohne dauerhafte Preisgarantie): Speichern Sie vor dem Bezahlen einen Screenshot der Bestellübersicht zum Abgleich mit der Rechnung.",
+          "Auch bei Support und Betrieb gibt es klare praktische Grenzen. Anfragen zu Rechnungen, Tarifwechseln oder der Kit-Rückgabe laufen über Ihr Starlink-Konto auf der Website oder in der App; notieren Sie sich deshalb Bestellnummer, Kündigungsdatum und Vorgangsnummer für eventuelle Rückfragen. Im Alltag verlangt die Antenne freie Sicht zum Himmel (Äste oder Dächer verursachen Ausfälle), verliert bei sehr starkem Regen oder Sturm vorübergehend an Leistung und fällt bei Stromausfällen ohne USV oder Powerstation aus. Eine Einordnung von Berichten zu Support und Abrechnung finden Sie in unserer [Auswertung zu Starlink auf Trustpilot](/de/reviews/starlink-trustpilot-bewertungen)."
         ]
       },
       {
         "heading": "Häufige Fragen",
         "bullets": [
           "Hat Starlink einen Rabattgutschein? Nein. Starlink hat keinen Gutschein: Über den Empfehlungslink von Cecília erhält, wer abonniert, in Deutschland 45 € nach zwei Monaten Abonnement, als Gutschrift auf der Rechnung, und wer empfohlen hat, erhält denselben Betrag.",
-          "Lohnt sich Starlink in der Stadt? Das hängt davon ab, wie gut Ihre jetzige Glasfaser wirklich ist. Ist sie günstig und stabil, gewinnt sie meist bei den Kosten. Fällt sie oft aus oder liefert deutlich weniger als gebucht, kann sich Starlink als Alternative oder Backup lohnen, sofern der Himmel frei ist. So war es bei uns.",
+          "Lohnt sich Starlink in der Stadt? Ja, dort, wo die lokale Glasfaser oft ausfällt oder deutlich weniger liefert als gebucht, sofern der Himmel frei ist – so war es bei uns; ist Ihre Glasfaser günstig und stabil, gewinnt sie bei den Kosten.",
           "Ist Starlink besser als Glasfaser? Bei Spitzentempo und Latenz hat gesunde Glasfaser meist die Nase vorn. Bei der Ausfallsicherheit gegen lokale Störungen und durchtrennte Kabel hilft Starlink, weil es ein vom örtlichen Anbieter unabhängiger Weg ist.",
           "Ist Starlink gut zum Spielen? Testen Sie Reaktionszeit und Unterbrechungen an Ihrer Adresse. Die typische Spanne, die Starlink nennt, ist ein allgemeiner Richtwert.",
           "Ist Starlink unbegrenzt? Starlink bewirbt unbegrenztes Datenvolumen bei den Tarifen für Privathaushalte. Prüfen Sie in der Bestellung die Geschwindigkeitsgrenzen des angezeigten Tarifs.",
@@ -296998,7 +297036,7 @@ export const reviewsData: unknown[] = [
         "heading": "Risposta rapida",
         "paragraphs": [
           "Sì, Starlink conviene dove non arriva una connessione stabile e anche dove c’è la fibra, ma cade spesso o dà molta meno banda di quella contrattata. Noi l’abbiamo attivata come alternativa e backup alla nostra fibra instabile. Se la tua fibra è davvero stabile, resta più conveniente per prezzo e latenza. La prova è a basso rischio: nell’ordine di Milano il kit è a noleggio a 0 €, con 30 giorni per restituirlo.",
-          "Se sei un nuovo cliente in Italia, puoi ricevere 45 € di credito in fattura. Apri il nostro link di invito prima di ordinare, controlla l’importo indicato e mantieni l’abbonamento idoneo attivo e in regola per due cicli completi di fatturazione."
+          "Se sei un nuovo cliente in Italia, puoi ricevere 45 € di credito in fattura (non riduce il prezzo del kit). Apri il nostro link di invito prima di ordinare, controlla l’importo nel riepilogo prima di pagare e mantieni l’abbonamento idoneo attivo e in regola per due cicli completi di fatturazione."
         ],
         "links": [
           {
@@ -297207,16 +297245,17 @@ export const reviewsData: unknown[] = [
         ]
       },
       {
-        "heading": "Cosa dicono i clienti",
+        "heading": "Limiti pratici, contratto e assistenza",
         "paragraphs": [
-          "Su Trustpilot il profilo di Starlink ha un punteggio di 1,6 su 5, e non è un profilo rivendicato dall'azienda. Le lamentele più citate riguardano l'assistenza e i costi in fattura. Conserva l'offerta dell'ordine per confrontarla con la fattura. Leggi [l'analisi di Trustpilot](/it/reviews/starlink-trustpilot-recensioni)."
+          "L’obbligo di restituire il kit a noleggio e i prezzi promozionali a termine sono i principali limiti contrattuali dopo i 30 giorni di prova. Nell’ordine consultato a Milano compare «Nessun contratto», ma l’hardware a 0 € resta a noleggio e va rispedito integro in caso di disdetta. Inoltre lo sconto del 50 % visto a Milano dura solo per i primi 3 mesi prima del ritorno al canone pieno e non offre un blocco permanente del prezzo: salva uno screenshot del riepilogo prima di pagare per verificarlo con le fatture.",
+          "Anche sul piano operativo e dell’assistenza ci sono vincoli precisi. Le richieste di supporto per fatturazione, disdetta o reso del kit passano dall’account sul sito o dall’app Starlink, quindi conserva numero d’ordine, data di annullamento e numero della richiesta in caso di addebiti imprevisti. Nell’uso quotidiano l’antenna richiede cielo libero da rami e tetti per evitare interruzioni, può rallentare temporaneamente con pioggia molto forte o temporali e si spegne durante i blackout senza un gruppo di continuità. Per i riscontri degli utenti su assistenza e addebiti, leggi la nostra [analisi di Starlink su Trustpilot](/it/reviews/starlink-trustpilot-recensioni)."
         ]
       },
       {
         "heading": "Domande frequenti",
         "bullets": [
           "Starlink ha un coupon sconto? No. Starlink non ha coupon: con il link di invito di Cecília, chi si abbona riceve 45 € in Italia dopo due mesi di abbonamento, come credito in fattura, e chi ha invitato riceve lo stesso importo.",
-          "Starlink conviene in città? Dipende da quanto è davvero buona la tua fibra attuale. Se costa poco ed è stabile, di solito vince sul prezzo. Se cade spesso o dà molto meno del contratto, Starlink può convenire come alternativa o backup, purché ci sia il cielo aperto. È stato il nostro caso.",
+          "Starlink conviene in città? Sì, dove la fibra locale cade spesso o rende molto meno del contratto, purché ci sia il cielo aperto (è stato il nostro caso); se la tua fibra attuale costa poco ed è stabile, di solito vince sul prezzo.",
           "Starlink è meglio della fibra? Per velocità massima e latenza, una fibra sana di solito è in vantaggio. Per la continuità contro i guasti locali e i cavi tranciati in strada, Starlink aiuta perché è una via indipendente dall’operatore locale.",
           "Starlink va bene per i giochi? Prova latenza e interruzioni al tuo indirizzo. L’intervallo tipico che Starlink pubblica è un riferimento generale.",
           "Starlink è illimitata? Starlink dichiara dati illimitati nei piani residenziali. Controlla nell’ordine i limiti di velocità del piano mostrato.",
@@ -298629,7 +298668,7 @@ export const reviewsData: unknown[] = [
         "heading": "クイックアンサー",
         "paragraphs": [
           "はい、Starlinkは安定した回線が届かない地域だけでなく、光回線があっても頻繁に切れる、契約速度より極端に遅いといった家庭でも価値があります。当サイトでも、不安定な光回線の代替・バックアップとしてStarlinkを契約しました。光回線が本当に安定しているなら、料金と遅延では光回線が有利です。試すリスクは小さく、東京の注文画面ではキットは初期費用0円のレンタルで、30日以内なら返却できます。",
-          "日本で初めてStarlinkを契約する方は、7,000円分の請求額クレジットを受け取れます。注文前に私たちの紹介リンクを開き、特典の表示を確認してください。対象プランを契約し、2回の請求サイクルを完了するまで支払いを続けることが条件です。"
+          "日本で初めてStarlinkを契約する方は、7,000円分の請求額クレジットを受け取れます（キット購入時の割引ではありません）。注文前に私たちの紹介リンクを開き、支払い前に特典の表示を確認してください。対象プランを契約し、2回の請求サイクルを完了するまで支払いを続けることが条件です。"
         ],
         "links": [
           {
@@ -298834,16 +298873,17 @@ export const reviewsData: unknown[] = [
         ]
       },
       {
-        "heading": "利用者の不満",
+        "heading": "契約・運用・サポート面での注意点",
         "paragraphs": [
-          "StarlinkのTrustpilotのページは、スコア1.6です。サポートにつながりにくいことや、毎月の請求の増額が目立ちます。注文画面のオファーを控えて、請求書と見比べてください。[Trustpilotの読み方](/ja/reviews/starlink-trustpilot-ja)も参考にしてください。"
+          "30日間のお試し期間を過ぎたあとに意識したいのは、レンタル機器の返却ルールと割引料金の変動リスクです。東京駅の注文画面では契約期間の定めはありませんでしたが、レンタルのMiniキットは解約時に損傷なく返却する必要があります。また、50%オフの月額3,550円が永久に固定される保証はなく、通常料金の7,100円に戻る可能性や将来の料金改定も示されているため、支払い前に注文画面のスクリーンショットを保存して請求書と照らし合わせるのが安全です。",
+          "サポートや日々の運用にも実務上の制約があります。請求内容の確認、解約、キット返却の手続きはStarlinkの公式サイトまたはアプリ内のアカウント画面から行うため、問い合わせに備えて注文番号やケース番号を控えておくと安心です。設置面では上空に枝や屋根などの障害物があると通信が途切れやすく、非常に強い雨や嵐で一時的に性能が落ちるほか、停電時はUPSやポータブル電源がないとアンテナとルーターも停止します。サポートや請求に関する利用者の声は、[Trustpilotの読み方](/ja/reviews/starlink-trustpilot-ja)も参考にしてください。"
         ]
       },
       {
         "heading": "よくある質問",
         "bullets": [
           "Starlinkに割引クーポンはありますか？ いいえ。Starlinkにクーポンはありません。私たちの紹介リンクから契約すると、2か月の契約を続けたあとに、日本では7,000円が請求へのクレジットとして付与され、紹介した人にも同じ額が入ります。",
-          "都市部でもStarlinkは買う価値がありますか？ 今の光回線がどれだけ良いかによります。安くて安定しているなら、費用面で光回線が有利です。頻繁に切れる、契約より大幅に遅いなら、空が開けていることを条件に、代替やバックアップとしてStarlinkに価値があります。私たちはその理由で契約しました。",
+          "都市部でもStarlinkは買う価値がありますか？ はい、今の光回線が頻繁に切れる、または契約速度より大幅に遅いなら、空が開けていることを条件に代替やバックアップとして価値があります（私たちが契約したのもその理由です）。安くて安定しているなら費用面では光回線が有利です。",
           "Starlinkは光回線より良いですか？ 最高速度と遅延では、健全な光回線が有利なことが多いです。地域の障害や道路の断線への強さでは、地域の事業者と独立した経路であるStarlinkが役に立ちます。",
           "Starlinkはゲームに向いていますか？ あなたの住所で応答時間と途切れを試してください。Starlinkが公表する一般的な範囲は、全体の目安です。",
           "Starlinkは無制限ですか？ Starlinkは住宅向けプランのデータを無制限と案内しています。注文画面で、表示されたプランの速度制限を確認してください。",
@@ -300231,7 +300271,7 @@ export const reviewsData: unknown[] = [
         "heading": "빠른 답변",
         "paragraphs": [
           "네, 스타링크는 유선 인터넷이 닿지 않는 곳뿐 아니라, 광랜이 있어도 자주 끊기거나 계약 속도에 못 미치는 곳에서도 가치가 있습니다. 저희도 불안정한 광랜의 대안이자 백업 회선으로 스타링크를 계약했습니다. 광랜이 정말 안정적이라면 요금과 지연 시간에서는 광랜이 유리합니다. 한국에서는 키트를 구매하는 방식이므로, 서울 주문 화면 기준으로 약정 없이 30일 안에 반납하면 환불받는 조건을 확인해 보세요.",
-          "한국에서 처음 가입하면 11월 기준 65,000원 상당의 청구서 크레딧을 받을 수 있습니다. 저희 추천 링크를 열어 결제 전에 금액을 확인하고, 대상 요금제를 두 번의 전체 청구 주기 동안 유지하며 요금을 납부하세요."
+          "한국에서 처음 가입하면 11월 외부 참고 기준 65,000원 상당의 청구서 크레딧을 받을 수 있습니다(키트 즉시 할인은 아닙니다). 저희 추천 링크를 열어 결제 전에 주문 화면에서 금액을 꼭 확인하고, 대상 요금제를 두 번의 전체 청구 주기 동안 유지하며 요금을 납부하세요."
         ],
         "links": [
           {
@@ -300440,16 +300480,17 @@ export const reviewsData: unknown[] = [
         ]
       },
       {
-        "heading": "이용자들이 불만을 말하는 부분",
+        "heading": "계약·운영·고객지원 측면의 제한",
         "paragraphs": [
-          "트러스트파일럿에서 스타링크 공식 도메인 프로필의 평점은 낮은 편입니다. 지원 연결과 요금 인상이 자주 언급됩니다. 청구서는 주문 화면과 비교하세요. [트러스트파일럿 평점 분석](/ko/reviews/starlink-trustpilot-ko)을 참고하세요."
+          "30일 환불 기간 이후에는 할인가 변동 가능성과 구매·결제 조건이 가장 큰 현실적 제한입니다. 서울시청 주문 화면에서는 12개월 약정이 없고 키트를 직접 구매하는 방식이었지만(결제에는 한국 발급 카드가 필요), 프로모션 50% 할인이 영구 고정되는 것은 아니어서 할인 종료 뒤에는 정상 요금(₩68,000 또는 ₩93,000)이 적용될 수 있습니다. 따라서 결제 전 주문 요약 화면을 스크린샷으로 저장해 두고 첫 청구서와 비교하는 편이 안전합니다.",
+          "고객지원과 일상 사용에서도 분명한 제약이 있습니다. 청구 확인, 해지 신청, 키트 반품 안내는 스타링크 웹사이트나 앱의 계정에서 티켓을 열어 처리하므로 주문 번호와 문의 번호를 함께 보관해 두어야 합니다. 또한 안테나는 하늘 시야가 넓게 트여 있어야 나뭇가지나 지붕에 따른 끊김을 피할 수 있고, 매우 강한 비나 폭풍 시 일시적으로 속도가 떨어질 수 있으며, 정전 시에는 UPS나 휴대용 전원장치가 없으면 연결도 함께 끊어집니다. 고객지원과 요금 관련 이용자 평가는 [트러스트파일럿 평판 분석](/ko/reviews/starlink-trustpilot-ko)에서 확인할 수 있습니다."
         ]
       },
       {
         "heading": "자주 묻는 질문",
         "bullets": [
           "스타링크에 할인 쿠폰이 있나요? 아니요. 스타링크에는 쿠폰이 없습니다. 저희 추천 링크로 가입하면 두 달 동안 구독을 유지한 뒤 보상을 받고, 금액은 국가에 따라 다릅니다(예: 미국은 US$ 100). 기본은 청구서 크레딧이며, 추천한 사람도 같은 금액을 받습니다.",
-          "도심에서도 스타링크가 가입할 만한가요? 지금 쓰는 광랜이 얼마나 좋은지에 달려 있습니다. 값싸고 안정적이면 비용 면에서 광랜이 유리합니다. 자주 끊기거나 계약보다 크게 느리다면, 하늘이 열려 있다는 조건에서 대안이나 백업으로 스타링크가 가치가 있습니다. 저희가 계약한 이유입니다.",
+          "도심에서도 스타링크가 가입할 만한가요? 네, 지금 쓰는 광랜이 자주 끊기거나 계약 속도보다 크게 느리다면, 하늘이 열려 있다는 조건에서 대안이나 백업으로 충분히 가치가 있습니다(저희가 계약한 이유이기도 합니다). 요금이 저렴하고 안정적이라면 비용 면에서는 광랜이 유리합니다.",
           "스타링크가 광랜보다 나은가요? 최대 속도와 지연 시간에서는 건강한 광랜이 유리한 경우가 많습니다. 지역 장애와 도로 케이블 단선에 대한 지속성에서는 지역 사업자와 독립된 경로인 스타링크가 도움이 됩니다.",
           "스타링크는 게임에 좋은가요? 본인 주소에서 지연 시간과 끊김을 확인하세요. 스타링크가 공개한 일반 지연 시간은 참고용입니다.",
           "스타링크는 무제한인가요? 스타링크는 가정용 요금제를 무제한 데이터로 안내합니다. 주문 화면에서 요금제의 속도 제한을 확인하세요.",
@@ -301850,7 +301891,7 @@ export const reviewsData: unknown[] = [
         "heading": "快速回答",
         "paragraphs": [
           "是的，Starlink 不只適合沒有光纖的地方，也適合有光纖卻常常斷線、或實際網速遠低於合約的家庭。我們自己也是為了替代並備援不穩定的光纖而申裝 Starlink。如果現有光纖確實穩定，費用與延遲仍是光纖占優。試用的風險不高：馬來西亞的 Max 方案設備租賃 RM 0，100 Mbps 方案的設備購買後也有 30 天可退。",
-          "首次訂閱符合資格的方案可獲得帳單折抵。以馬來西亞為例，11 月的參考金額為 RM 180。請先打開我們的推薦連結，確認你的地址及獎勵金額，再維持方案有效並按時繳費滿兩個完整帳單週期。"
+          "首次訂閱符合資格的方案可獲得帳單折抵（非套件結帳折扣）。以馬來西亞為例，11 月外部參考金額為 RM 180。請先打開我們的推薦連結，在付款前確認你的地址與訂購頁顯示的獎勵金額，再維持方案有效並按時繳費滿兩個完整帳單週期。"
         ],
         "links": [
           {
@@ -302060,16 +302101,17 @@ export const reviewsData: unknown[] = [
         ]
       },
       {
-        "heading": "用戶的抱怨",
+        "heading": "合約、操作與客服方面的限制",
         "paragraphs": [
-          "Starlink 在 Trustpilot 的評分是 1.6，最常見的抱怨是客服難以聯絡，以及月費與額外費用上漲。請保留訂購頁的優惠畫面，和帳單對照。詳見[Trustpilot 評分的解讀](/zh-hant/reviews/starlink-trustpilot-zh-hant)。"
+          "超過 30 天退貨觀察期後，硬體歸還規定與促銷月費變動是最主要的合約限制。以馬來西亞吉隆坡的訂購頁為例，雖然沒有看到 12 個月合約，但 Max 方案的租賃設備在取消時必須完好歸還（100 Mbps 則為購買 Mini X），且台灣、香港與中國大陸目前未看到住宅直營銷售、訂購選單也沒有中文。此外，促銷月費沒有永久鎖價保證，付款前務必截圖保存訂購頁摘要以核對帳單。",
+          "客服管道與實際安裝條件同樣有明顯限制。帳單疑問、取消服務或設備退回都要透過 Starlink 官網或應用程式的帳戶處理，因此建議保留訂單編號、取消日期與案件編號。在訊號表現上，天線必須有開闊的天空視野，樹枝或屋頂遮擋都會造成斷線；豪雨與風暴期間網速可能暫時下降，停電時若沒有搭配 UPS 或行動電源站也會無法連線。關於客服與帳單的用戶回饋，可參考[Trustpilot 評分的解讀](/zh-hant/reviews/starlink-trustpilot-zh-hant)。"
         ]
       },
       {
         "heading": "常見問題",
         "bullets": [
           "Starlink 有折扣優惠券嗎？沒有。Starlink 沒有優惠券：透過我們的推薦連結訂閱，滿兩個月後可獲得獎勵，金額依國家而定（例如美國為 US$ 100），預設為帳單抵免，推薦人也獲得相同金額。",
-          "住在市區值得買 Starlink 嗎？取決於你現有光纖到底好不好。又便宜又穩定，費用上通常光纖勝出。如果常斷線或遠低於合約速度，在天空開闊的前提下，Starlink 可作為替代或備援。我們就是這個原因申裝的。",
+          "住在市區值得買 Starlink 嗎？值得，只要你當地的光纖常斷線或實際網速遠低於合約標準，在天空開闊的前提下就很適合作為替代或備援（我們也是因此申裝）；若現有光纖便宜又穩定，費用上通常仍是光纖勝出。",
           "Starlink 比光纖好嗎？在最高速度與延遲上，健康的光纖通常占優。在對抗區域性故障與街上電纜被切斷的持續性上，Starlink 是獨立於當地業者的路徑，有幫助。",
           "Starlink 適合玩遊戲嗎？請在你的地址測試延遲與中斷。官方公布的典型延遲只是一般參考。",
           "Starlink 流量沒有上限嗎？Starlink 標示住宅方案流量不限。請看訂購頁的方案速度限制。",
@@ -303491,7 +303533,7 @@ export const reviewsData: unknown[] = [
         "heading": "快速回答",
         "paragraphs": [
           "是的，Starlink 不仅适合没有光纤的地方，也适合有光纤却经常掉线、或实际网速远低于合同标准的家庭。我们自己也是为了替代并备用不稳定的光纤而办理 Starlink。如果现有光纤确实稳定，费用和延迟上仍是光纤占优。试用的风险不高：马来西亚的 Max 套餐设备租赁 RM 0，100 Mbps 套餐的设备购买后也有 30 天可退。",
-          "首次订阅符合条件的套餐可获得账单抵扣。以马来西亚为例，11 月的参考金额为 RM 180。请先打开我们的推荐链接，确认你的地址与奖励金额，然后保持套餐有效并按时付费满两个完整账单周期。"
+          "首次订阅符合条件的套餐可获得账单抵扣（非套件下单折扣）。以马来西亚为例，11 月外部参考金额为 RM 180。请先打开我们的推荐链接，在付款前确认你的地址与订购页显示的奖励金额，然后保持套餐有效并按时付费满两个完整账单周期。"
         ],
         "links": [
           {
@@ -303695,16 +303737,17 @@ export const reviewsData: unknown[] = [
         ]
       },
       {
-        "heading": "用户抱怨什么",
+        "heading": "合约、使用与客服方面的限制",
         "paragraphs": [
-          "Starlink 在 Trustpilot 上的评分是 1.6，我们读到的集中抱怨是客服难联系和费用上涨。这个页面的评价未必有代表性。见[Trustpilot 评价解读](/zh-hans/reviews/starlink-trustpilot-zh-hans)。"
+          "超过 30 天退货观察期后，硬件归还规则和促销月费变动是最主要的合约限制。以马来西亚吉隆坡的订购页为例，虽然没有看到 12 个月合约，但 Max 套餐的租赁设备在取消时必须完好归还（100 Mbps 为购买 Mini X），而且中国大陆、台湾和香港目前未看到住宅直营销售、订购菜单也没有中文。此外，促销月费没有永久锁定价格的保证，付款前请务必截图保存订购摘要以便对照账单。",
+          "客服通道与日常运行条件同样存在明确限制。账单核对、取消服务与设备退回都需通过 Starlink 官网或应用内的账户处理，建议留存订单号、取消日期和工单编号。在信号方面，天线需要开阔无遮挡的天空视野，树枝和屋顶遮挡会导致断线；暴雨或风暴期间性能可能短暂下降，停电时若未配备 UPS 或便携储能电源，天线和路由器也会停止工作。关于客服和账单方面的用户反馈，可参见[Trustpilot 评价解读](/zh-hans/reviews/starlink-trustpilot-zh-hans)。"
         ]
       },
       {
         "heading": "常见问题",
         "bullets": [
           "Starlink 有折扣优惠券吗？没有。Starlink 没有优惠券：通过我们的推荐链接订阅，满两个月后可获得奖励，金额因国家而异（例如美国为 US$ 100），默认以账单抵扣的形式发放，推荐人获得相同金额。",
-          "在城市里值得买 Starlink 吗？取决于你现有光纤到底好不好。又便宜又稳定，费用上通常光纤胜出。如果经常掉线或远低于合同速度，在天空开阔的前提下，Starlink 可作为替代或备用。我们就是这个原因办理的。",
+          "在城市里值得买 Starlink 吗？值得，只要当地光纤经常掉线或实际网速远低于合同标准，在天空开阔的前提下就很适合作为替代或备用（我们也是因此办理的）；如果现有光纤便宜又稳定，费用上通常仍是光纤胜出。",
           "Starlink 比光纤好吗？在最高速度和延迟上，健康的光纤通常占优。在应对区域性故障和街上电缆被挖断的持续性上，Starlink 是独立于当地运营商的路径，有帮助。",
           "Starlink 适合玩游戏吗？请在你的地址测延迟和中断。Starlink 公布的典型范围只是通用参考。",
           "Starlink 是不限量的吗？Starlink 说家用套餐不限数据量。请看订购页所选套餐的速度限制。",
@@ -304844,10 +304887,10 @@ export const reviewsData: unknown[] = [
     "coupon": "EMCASABIOBIO",
     "affiliate": "biobio",
     "type": "Guia de Marca",
-    "title": "Protetor solar BioBio é bom? O mineral FPS 30, o infantil FPS 50 e o que a loja informa",
+    "title": "Protetor solar BioBio é bom? Mineral FPS 30, infantil FPS 50 e preços",
     "seoTitle": "Protetor solar BioBio é bom? Mineral FPS 30 e Kids FPS 50",
-    "description": "O que a loja informa do protetor solar BioBio mineral FPS 30 e do infantil FPS 50 em bastão, quanto custam com o cupom e para quem cada um faz sentido.",
-    "metaDescription": "EMCASABIOBIO dá 10% OFF no protetor solar BioBio. Veja o que a loja informa do mineral FPS 30 e do infantil FPS 50 e para quem serve.",
+    "description": "Compare o protetor solar BioBio mineral FPS 30 e o infantil FPS 50 em bastão, veja ingredientes da ficha, quanto custam com cupom e para quem cada um serve.",
+    "metaDescription": "EMCASABIOBIO dá 10% OFF no protetor solar BioBio. Compare o mineral FPS 30 e o infantil FPS 50 em bastão e veja para quem cada um serve.",
     "image": "/images/reviews/biobio/protetor-solar-biobio-e-bom-capa-v2.webp",
     "imageAlt": "Tubo dourado do Sunnature Facial ao lado de uma foto do protetor Sunnature Kids em um cenário de acampamento em miniatura. A capa pergunta «Protetor solar é bom?» e mostra o cupom EMCASABIOBIO.",
     "cta": {
@@ -304882,7 +304925,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Resposta rápida",
         "paragraphs": [
-          "A BioBio tem dois protetores de filtros minerais, segundo a loja. O Sunnature Facial FPS 30 é sem cor e não resiste à água; o Kids FPS 50, em bastão, resiste à água e ao suor por até 40 minutos e é indicado a partir de 6 meses. Rosto fora da água, o Facial; criança na água, o Kids."
+          "Com certeza compensa para quem busca protetor de filtros minerais: segundo a BioBio, o Sunnature Facial FPS 30 é sem cor para o rosto fora da água, enquanto o Kids FPS 50 em bastão resiste à água por até 40 minutos a partir de 6 meses. O cupom EMCASABIOBIO dá 10% OFF no site; compare versões e preços abaixo."
         ]
       },
       {
@@ -305059,7 +305102,8 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Perguntas frequentes",
         "bullets": [
-          "O protetor solar BioBio é bom? Pelas especificações da loja, o Facial tem FPS 30 e UVA 16, e o Kids, FPS 50 e UVA 25, os dois com filtros minerais. Como cada um se comporta na sua pele só o uso mostra; em caso de pele sensível, fale com o dermatologista.",
+          "O protetor solar BioBio é bom? Com certeza compensa para quem busca filtros minerais (óxido de zinco e dióxido de titânio): o Facial traz FPS 30 e UVA 16 sem cor para uso fora da água, e o Kids em bastão traz FPS 50, UVA 25 e resistência à água informada pela marca. Confira a lista de óleos essenciais ou consulte o dermatologista em pele sensível.",
+          "Qual é o cupom da BioBio? É o EMCASABIOBIO, que dá 10% OFF no site oficial ao digitar o código no campo Cupom (opcional) do resumo da compra; veja as regras em [cupom BioBio](/cupons/biobio).",
           "O protetor BioBio é mineral? A loja descreve o Facial como 100% físico e mineral e o Kids como 100% mineral, com óxido de zinco e dióxido de titânio.",
           "O protetor BioBio tem cor? O Facial é sem cor, segundo a loja. O Kids começa branco e, diz a loja, se adapta ao tom da pele ao espalhar. Com cor mesmo, veja a [base em bastão](/reviews/base-biobio-bastao-cores).",
           "O Sunnature Kids pode ser usado em bebê? A página indica o Kids a partir de 6 meses; abaixo dessa idade, consulte o pediatra antes de usar.",
@@ -305736,7 +305780,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Resposta rápida",
         "paragraphs": [
-          "O whey BOLD é um 3W, com proteína do soro do leite concentrada, isolada e hidrolisada. A tabela traz 22 g de proteína por dose de 30 g e 0 g de açúcar adicionado. O rótulo declara lactose e glúten. O pacote de 900 g sai mais barato por dose, e o cupom CECILIA15 deu 20% no nosso teste."
+          "Claro que vale: pelo rótulo, o whey BOLD é um 3W com 22 g de proteína por dose de 30 g e 0 g de açúcar adicionado, opção para quem quer proteína do leite e aceita lactose e glúten. O de 900 g reduz o custo por dose, e o cupom CECILIA15 deu 20% OFF no teste; compare tamanhos e marcas abaixo."
         ]
       },
       {
@@ -305983,7 +306027,7 @@ export const reviewsData: unknown[] = [
           ]
         },
         "postParagraphs": [
-          "Os ingredientes mudam pouco: o Chocolate leva cacau em pó; o Cookies & Cream, biscoito triturado de cacau zero açúcares; o Doce de Leite, os corantes caramelo IV e amarelo crepúsculo; o Mousse de Morango, morango desidratado, o corante carmim e ácido cítrico. Todos usam sucralose. Sabor, textura e como o pó se mistura não foram avaliados neste guia, porque não usamos o produto."
+          "Os ingredientes mudam pouco: o Chocolate leva cacau em pó; o Cookies & Cream, biscoito triturado de cacau zero açúcares; o Doce de Leite, os corantes caramelo IV e amarelo crepúsculo; o Mousse de Morango, morango desidratado, o corante carmim e ácido cítrico. Todos usam sucralose."
         ]
       },
       {
@@ -306039,7 +306083,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Perguntas frequentes",
         "bullets": [
-          "Whey BOLD é bom? Pelo rótulo, ele entrega 22 g de proteína em 30 g, sem açúcar adicionado, e o 900 g sai mais barato por dose que os outros formatos. Por 100 g de proteína, há wheys mais baratos nos nossos artigos. Sabor e textura não foram avaliados.",
+          "Whey BOLD é bom? Claro, pelo rótulo ele entrega 22 g de proteína em 30 g e 0 g de açúcar adicionado, com melhor custo por dose no pacote de 900 g. Vale comparar a tabela de preço por 100 g de proteína acima, onde há opções mais baratas em outras marcas, e conferir o alerta de lactose e glúten.",
           "Whey BOLD é isolado ou concentrado? É um 3W: a lista traz proteína do soro do leite concentrada, isolada e hidrolisada, sem a proporção de cada uma.",
           "Quantas doses tem o whey BOLD de 900 g? A loja informa 30 doses de 30 g. O pacote de 450 g tem 15 doses, e o kit de sachês, 10.",
           "Whey BOLD tem lactose? O rótulo declara “contém lactose” e “contém glúten”. Quem tem intolerância ou doença celíaca confere o alerta impresso no pacote e fala com o profissional de saúde.",
@@ -313337,7 +313381,7 @@ export const reviewsData: unknown[] = [
     "cons": [],
     "coupon": "BAWEMCASACOMCECILIA",
     "affiliate": "baw",
-    "title": "Tênis BAW é bom? Os modelos, preço, numeração e o que cada ficha diz",
+    "title": "Tênis BAW é bom? Modelos, numeração, preços e cupom",
     "seoTitle": "Tênis BAW é bom? Modelos, preço e numeração",
     "type": "Guia de Escolha",
     "description": "Os tênis da BAW lado a lado: Truck, Grip Mad, Baseline e os outros, com preço, numeração e o que cada ficha descreve, e qual deles lembra o estilo da Vans.",
@@ -313383,7 +313427,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Resposta rápida",
         "paragraphs": [
-          "A BAW vende seis modelos de tênis de estilo urbano, da faixa de entrada ao Truck. Só o Grip Mad e o Truck têm ficha com material e sola; os outros quatro não descrevem nada. A numeração vai até o 44 em três deles. Pesa na escolha a troca, que vira crédito na loja. O BAWEMCASACOMCECILIA dá 10% OFF."
+          "Vale, sim, para quem curte estilo urbano e numeração que chega ao 44 em três modelos da BAW. Na hora de escolher, só o Grip Mad e o Truck detalham material e sola na ficha, enquanto os outros quatro trazem descrição vazia. O cupom BAWEMCASACOMCECILIA dá 10% OFF; confira abaixo tabelas e regras de troca."
         ]
       },
       {
@@ -313548,11 +313592,11 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Perguntas frequentes",
         "bullets": [
-          "Tênis BAW é bom? Pelas páginas, só dá para saber material e sola no Grip Mad e no Truck; os outros quatro modelos estão sem descrição. Ninguém da equipe usou os tênis, então não avaliamos conforto nem durabilidade.",
+          "Tênis BAW é bom? Vale, sim, para quem busca visual urbano e quer escolher com ficha preenchida: Grip Mad e Truck detalham material e sola nas páginas, e o Grip Mad traz tabela de medidas completa. Os outros quatro modelos não têm descrição, então confira numeração e regra de troca antes de fechar.",
           "Tênis BAW é masculino ou feminino? As fichas do Grip Mad e do Truck não indicam público, e a home da BAW diz que a coleção é “feita para homens e mulheres”. Na grade, Grip Mad, Truck e Session Revival vão do 33 ao 44.",
           "Qual a numeração do tênis BAW? Grip Mad, Truck e Session Revival vão do 33 ao 44; Baseline e Audacity, do 35 ao 43; Thunder, do 36 ao 41, sem o 40. No Truck, a tabela de medidas fala em 35 a 43, então confira antes de comprar.",
-          "Tênis BAW parece Vans? No estilo, o Grip Mad é o modelo dessa linha: a ficha descreve lona, camurça, cadarço e sola de borracha TR. Não comparamos acabamento nem qualidade.",
-          "Tem cupom para tênis BAW? Sim, o BAWEMCASACOMCECILIA dá 10% OFF na BAW. Não o testamos nestes modelos, então confira a linha do desconto no carrinho."
+          "Tênis BAW parece Vans? No estilo, o Grip Mad é o modelo dessa linha: a ficha descreve lona, camurça, cadarço e sola de borracha TR, com numeração do 33 ao 44.",
+          "Qual é o cupom da BAW? É o BAWEMCASACOMCECILIA, que dá 10% OFF no site e no aplicativo da BAW; confira a linha do desconto no carrinho antes de finalizar o pedido."
         ]
       }
     ]
@@ -314087,7 +314131,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "الإجابة السريعة",
         "paragraphs": [
-          "منشئ الذكاء الاصطناعي من Hostinger، Horizons سابقًا، يستحق الشراء إن كنت تريد موقعًا أو تطبيق ويب بسيطًا دون برمجة، ولا مانع لديك أن يبني الذكاء الاصطناعي النسخة الأولى. أما إن كنت تحتاج إلى إضافات وقالبك الخاص وتحكمًا كاملًا، فـ WordPress هو الأنسب. يمنح SONAR20 خصمًا بنسبة 20% عند شراء خطة جديدة، لا عند التجديد."
+          "بالتأكيد يستحق الشراء لمن يريد نشر موقع أو تطبيق ويب بسيط دون برمجة ولا مانع لديه أن يبني الذكاء الاصطناعي النسخة الأولى؛ أما من يحتاج إلى إضافات وقالب خاص وتحكم كامل فـ WordPress أنسب له. يمنح SONAR20 خصمًا بنسبة 20% عند الشراء الجديد، بينما يسري التجديد بسعر القائمة."
         ]
       },
       {
@@ -315083,7 +315127,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "الإجابة السريعة",
         "paragraphs": [
-          "أستخدم Hostinger منذ عام 2024. يعمل هذا الموقع عليها، وأستخدم كذلك VPS والبريد والنطاقات لديها. تكفي استضافة الويب عادةً لموقع أول أو مدونة WordPress. ويكون VPS منطقيًا إن احتجت إلى إدارة الخادم. تحقق من الإجمالي المدفوع مقدمًا ومن سعر التجديد قبل أن تشترك."
+          "نعم، تستحق Hostinger بالتأكيد لمن يبحث عن استضافة مشتركة وWordPress وبريد إلكتروني ونطاقات في لوحة تحكم واحدة: فنحن نستخدم Hostinger لتشغيل هذا الموقع منذ عام 2024 ونشغّل عليها خادم VPS أيضًا. تكفي استضافة الويب لبدء موقع عادي، بينما يكون VPS منطقيًا إذا كان هناك من يدير الخادم. وقبل الدفع، قارن بين الفترة الأولى وسعر التجديد."
         ]
       },
       {
@@ -315288,7 +315332,7 @@ export const reviewsData: unknown[] = [
         "heading": "الأسئلة الشائعة",
         "bullets": [
           "ما هو كوبون Hostinger؟ كوبون Hostinger هو SONAR20، بخصم 20% على الفترة الأولى من عملية شراء جديدة مؤهلة: أدخل الرمز في حقل «Have a coupon code?» بالسلة وتحقق من سطر «Coupon applied» قبل الدفع. أما التجديد فيُحاسَب بسعر القائمة، دون خصم.",
-          "هل تستحق Hostinger؟ تستحق لمن يريد موقعًا أو WordPress أو بريدًا أو VPS بسعر بداية منخفض ويحسب حساب التجديد؛ ويبيّن فصل الأسعار كم يرتفع.",
+          "هل تستحق Hostinger؟ نعم، تستحق لمن يريد موقعًا أو WordPress أو بريدًا أو VPS بسعر بداية منخفض ويحسب حساب التجديد؛ ويبيّن فصل الأسعار كم يرتفع.",
           "هل Hostinger جيدة لـ WordPress؟ نعم: يُثبَّت WordPress على خطط الاستضافة، ويشير فصل بناء الموقع إلى الخطة المناسبة لكل عدد من المواقع.",
           "هل Hostinger جديرة بالثقة؟ بالنسبة إلي، مع أربعة من منتجاتها ومع استضافة هذا الموقع لديها، نعم؛ ومن يحاسبك وكيف يعمل الاسترداد في [هل Hostinger جديرة بالثقة؟](/ar/reviews/hostinger-trust-guide-ar).",
           "هل لدى Hostinger استرداد؟ نعم: 30 يومًا لطلب الاسترداد على الاستضافة وVPS، مع الاستثناءات الموضحة في مقال الثقة.",
@@ -319231,7 +319275,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "الإجابة السريعة",
         "paragraphs": [
-          "تغطي Proton VPN Free جهازًا واحدًا دون حدّ للبيانات، ويختار التطبيق الدولة. وتكون Plus منطقية إذا أردت اختيار الدولة أو الاتصال بما يصل إلى عشرة أجهزة أو استخدام NetShield. وعلى مدى سنتين، يفتح رابطنا عرضًا أقل من سعر صفحة الأسعار؛ وبعد ذلك يتجدد سنويًا."
+          "نعم، تستحق الاشتراك: فالخطة المجانية توفّر خصوصية أساسية دون حدّ للبيانات لمن يكفيه جهاز واحد، بينما تستحق Plus لمن يريد اختيار الدولة أو ربط ما يصل إلى عشرة أجهزة أو استخدام NetShield. وفي خطة السنتين يفتح رابطنا شروطًا أفضل من جدول الأسعار، ثم يتجدد الاشتراك سنويًا."
         ]
       },
       {
@@ -322251,7 +322295,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "الإجابة السريعة",
         "paragraphs": [
-          "يستحق الشراء لقطعة تعرف مقاسها مسبقًا ويمكنها انتظار التسليم. أما للشراء العاجل أو لقطعة تحتاج إلى تجربتها، فلا. رمز 4CW5Y يمنحك خصمًا فعلًا: افتح SHEIN عبر رابط Cecília وابحث عنه في التطبيق أو على الموقع لترى مجموعة منتجات مع عروض."
+          "نعم، تستحق الشراء: لمن يراجع جدول المقاسات قبل تأكيد السلة ويستطيع انتظار التسليم، تكون SHEIN مجزية من حيث السعر الإجمالي عند التحقق من الشحن والضرائب في الملخص. ويمنح رمز الإحالة 4CW5Y خصمًا على منتجات مختارة عبر رابط Cecília أو بالبحث عنه في التطبيق أو على الموقع. طالع أدناه تفاصيل التسليم والإرجاع والمقاسات قبل الدفع."
         ]
       },
       {
@@ -322327,7 +322371,7 @@ export const reviewsData: unknown[] = [
         "bullets": [
           "هل تستحق SHEIN الشراء؟ نعم، لقطعة تعرف مقاسها ويمكنها الانتظار؛ ويبيّن قسم «لمن يستحق الشراء» أي المشتريات منطقية وأيها لا.",
           "هل تستحق SHEIN شراء الملابس الغالية؟ فقط لمن يعرف مقاسه ويقبل الإرجاع بدل التجربة.",
-          "هل لا تزال SHEIN تستحق الشراء؟ يعتمد ذلك على القطعة والإجمالي مع الشحن والضرائب، وعلى القياسات والتسليم والإرجاع. وحد الشحن المجاني وحده لا يحسم الأمر.",
+          "هل لا تزال SHEIN تستحق الشراء؟ نعم، عندما يكون الإجمالي مع الشحن والضرائب مجزيًا وتراجع القياسات ومواعيد التسليم والإرجاع، فحدّ الشحن المجاني وحده لا يحسم الأمر.",
           "هل يمكن تبديل المقاس في SHEIN؟ يعتمد على البلد: سياسة الإرجاع والتبديل لكل بلد موجودة في مركز مساعدة SHEIN.",
           "هل يمنح 4CW5Y خصمًا في SHEIN؟ نعم، فهو رمز إحالة: افتح SHEIN عبر رابط Cecília وابحث عنه في التطبيق أو على الموقع، فتُفتح مجموعة منتجات مع عروض وخصومات. أما المقدار والقطع المشمولة فتقرره SHEIN، وهو ليس كوبونًا."
         ]
@@ -324824,7 +324868,7 @@ export const reviewsData: unknown[] = [
         "heading": "الإجابة السريعة",
         "paragraphs": [
           "نعم، تستحق Starlink الاشتراك حيث لا يصل اتصال مستقر، وأيضًا حيث توجد ألياف لكنها تنقطع كثيرًا أو تقدّم سرعة أقل بكثير مما تدفع مقابله. اشتركنا نحن في Starlink كبديل وخط احتياطي لألياف غير مستقرة. وإذا كانت الألياف لديك مستقرة فعلًا فهي تظل أوفر وأقل تأخيرًا. والتجربة قليلة المخاطر: في عُمان تذكر الصفحة «بدون تعاقد» مع فترة تجريبية مدتها 30 يومًا.",
-          "يمكن للعملاء الجدد الحصول على رصيد في الفاتورة. المبلغ المرجعي في نوفمبر هو 15 ريالًا عُمانيًا في عُمان و160 ريالًا قطريًا في قطر. افتح رابطنا قبل الطلب وتحقق من المبلغ لعنوانك، ثم أبقِ اشتراكك المؤهل نشطًا ومدفوعًا لدورتَي فوترة كاملتَين."
+          "يمكن للعملاء الجدد الحصول على رصيد في الفاتورة (ولا يخفض سعر الجهاز عند الشراء). المبلغ المرجعي المنشور في نوفمبر هو 15 ريالًا عُمانيًا في عُمان و160 ريالًا قطريًا في قطر. افتح رابطنا قبل الطلب وتحقق من المبلغ في صفحة الطلب قبل الدفع، ثم أبقِ اشتراكك المؤهل نشطًا ومدفوعًا لدورتَي فوترة كاملتَين."
         ],
         "links": [
           {
@@ -325033,16 +325077,17 @@ export const reviewsData: unknown[] = [
         ]
       },
       {
-        "heading": "ما يشتكي منه العملاء",
+        "heading": "القيود العملية وشروط العقد والدعم",
         "paragraphs": [
-          "لصفحة Starlink على Trustpilot تقييم TrustScore بقيمة 1.6، وأكثر الشكاوى تكرارًا دعم يصعب الوصول إليه وفواتير ترتفع. احفظ لقطة شاشة للعرض في طلبك لتقارنها بالفاتورة. اطّلع على [قراءتنا لمراجعات Trustpilot](/ar/reviews/starlink-trustpilot-ar)."
+          "بعد انتهاء الفترة التجريبية البالغة 30 يومًا، تبقى شروط الجهاز وإمكانية تغيّر الأسعار الشهرية أبرز القيود التعاقدية. في عُمان وقطر يُشترى الجهاز دون مدة تعاقد معلنة مع طلب مستند هوية بصورة بعد الطلب، بينما في الولايات المتحدة (نيفادا في المقارنة أعلاه) يُستأجر الجهاز بـ 0$ ويجب إعادته سليمًا عند الإلغاء. كما أن الأسعار الشهرية الترويجية ليست مضمونة لمدة ثابتة ولا يوجد تثبيت دائم للسعر، لذا احتفظ بلقطة شاشة لملخص الطلب قبل الدفع لمقارنتها بكل فاتورة.",
+          "وفي الدعم الفني والتشغيل اليومي توجد قيود واضحة أيضًا. تُدار طلبات الدعم وتعديل الفواتير والإلغاء وإرجاع الجهاز عبر حسابك على موقع Starlink أو داخل التطبيق، لذلك احتفظ برقم الطلب وتاريخ الإلغاء ورقم التذكرة عند مراجعة أي فاتورة. ومن الناحية التشغيلية، يحتاج الطبق إلى سماء مفتوحة تمامًا لأن الأغصان والأسطح تسبب انقطاعات، كما يتأثر الأداء مؤقتًا بالمطر الغزير جدًا أو العواصف ويتوقف الاتصال عند انقطاع الكهرباء دون جهاز UPS أو محطة طاقة. وللاطلاع على آراء المستخدمين حول الدعم والفواتير، راجع [قراءتنا لمراجعات Trustpilot](/ar/reviews/starlink-trustpilot-ar)."
         ]
       },
       {
         "heading": "الأسئلة الشائعة",
         "bullets": [
           "هل لدى Starlink كوبون خصم؟ لا. ليس لدى Starlink كوبون: عبر رابط الإحالة الخاص بنا، يحصل المشترك على مكافأة بعد شهرين من الاشتراك، ويعتمد المبلغ على البلد (مثلًا 100 دولار أمريكي في الولايات المتحدة)، وتُصرف افتراضيًا رصيدًا على الفاتورة، ويحصل المحيل على المبلغ نفسه.",
-          "هل تستحق Starlink الاشتراك في المدينة؟ يعتمد ذلك على جودة الألياف الحالية فعلًا. إن كانت رخيصة ومستقرة فهي تفوز عادةً في التكلفة. وإن كانت تنقطع كثيرًا أو تقدّم أقل بكثير مما تدفع، فقد تستحق Starlink كبديل أو خط احتياطي بشرط وجود سماء مفتوحة. وهذا ما حدث معنا.",
+          "هل تستحق Starlink الاشتراك في المدينة؟ نعم، عندما تنقطع الألياف المحلية كثيرًا أو تقدّم سرعة أقل بكثير مما تدفع مقابله بشرط وجود سماء مفتوحة (وهذا ما حدث معنا)؛ أما إن كانت الألياف لديك رخيصة ومستقرة فهي تفوز عادةً في التكلفة.",
           "هل Starlink أفضل من الألياف؟ في أقصى سرعة وزمن الاستجابة تتفوق الألياف السليمة عادةً. وفي الاستمرارية أمام الأعطال المحلية والكابلات المقطوعة في الشارع تفيد Starlink لأنها مسار مستقل عن المزوّد المحلي.",
           "هل Starlink جيدة للألعاب؟ اختبر زمن الاستجابة والانقطاعات في عنوانك. فالنطاق النموذجي الذي تنشره Starlink مرجع عام.",
           "هل Starlink غير محدودة؟ تعلن Starlink عن بيانات غير محدودة في باقات المنازل. تحقق في طلبك من حدود السرعة للباقة المعروضة.",
@@ -328889,14 +328934,14 @@ export const reviewsData: unknown[] = [
       "skipIf": [
         "O seu critério é o menor preço por proteína: na conta, o Tasty Whey 3W e o Gold Whey da marca ficam abaixo.",
         "Você precisa evitar glúten e escolheria o Cookies & Cream do pote ou o Cookies do Bag, que as páginas dizem conter glúten.",
-        "Você quer saber de sabor, textura e digestão antes de comprar: este guia fica na composição e no preço."
+        "Você quer a lista completa de ingredientes já na página antes de receber o pote: no de 900 g, ela não aparece em texto nem na imagem da tabela."
       ]
     },
     "contentSections": [
       {
         "heading": "Resposta rápida",
         "paragraphs": [
-          "O Tasty Iso declara 25 g de proteína por dose, e a Adaptogen anuncia zero lactose na maioria dos sabores: confira o rótulo do sabor escolhido. No carrinho com o [cupom Adaptogen](/cupons/adaptogen) (CECILIA), saiu mais caro por 100 g de proteína que o Tasty Whey 3W e o Gold Whey. Compensa para quem quer o isolado; pelo preço, ganha o Gold Whey."
+          "Vale a pena, sim, sobretudo para quem busca whey isolado e hidrolisado com 25 g de proteína por dose e precisa conferir o sabor pela lactose declarada. No site da Adaptogen, o cupom CECILIA dá 10% OFF, mas o Tasty Iso custa mais por proteína que o Gold Whey e o Tasty Whey 3W; compare abaixo."
         ]
       },
       {
@@ -328989,7 +329034,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Quanto sai por 100 g de proteína",
         "paragraphs": [
-          "Dividimos o preço de cada pote pela proteína total declarada para a embalagem e multiplicamos por 100. O teste de carrinho usa Banana no Tasty Iso, Banoffee no 3W e Baunilha no Gold, sem desconto de Pix. A página do Tasty Whey 3W informa porção de 34 g, cerca de 26 porções e 24 g de proteína por porção, ou cerca de 635 g de proteína no pote (900 g ÷ 34 g × 24 g), como valores de referência que podem variar conforme o sabor."
+          "Conta nossa: dividimos o preço de cada pote pela proteína total declarada para a embalagem e multiplicamos por 100. O teste de carrinho usa Banana no Tasty Iso, Banoffee no 3W e Baunilha no Gold, sem desconto de Pix. A página do Tasty Whey 3W informa porção de 34 g, cerca de 26 porções e 24 g de proteína por porção, ou cerca de 635 g de proteína no pote (900 g ÷ 34 g × 24 g), como valores de referência que podem variar conforme o sabor."
         ],
         "comparisonTable": {
           "caption": "Carrinhos com CECILIA. A conta usa porções por embalagem × gramas de proteína por porção. Para o Tasty Whey 3W, a base foi a tabela de referência da página: pote de 900 g dividido pela dose de 34 g, vezes 24 g de proteína.",
@@ -329048,12 +329093,13 @@ export const reviewsData: unknown[] = [
         "heading": "Antes de começar e o que não dá para saber daqui",
         "paragraphs": [
           "As porções citadas vêm da página e do rótulo e servem para calcular o custo, não para indicar quanto tomar. Quem tem doença renal, está grávida, amamenta ou usa medicamentos deve conversar com médico ou nutricionista antes de iniciar o uso.",
-          "Sabor, textura e digestão ficam fora do que a página informa, e este guia não usa avaliações de clientes."
+          "Sabor e textura não aparecem nas fichas da loja; confira a tabela e os alertas de lactose e glúten no rótulo do sabor escolhido."
         ]
       },
       {
         "heading": "Perguntas frequentes",
         "bullets": [
+          "Tasty Iso vale a pena? Vale a pena, sim, sobretudo para quem busca whey isolado e hidrolisado com 25 g de proteína por dose e confere o sabor pela declaração de lactose. Pelo menor custo por 100 g de proteína, o Gold Whey e o Tasty Whey 3W ficam abaixo nos carrinhos com o cupom CECILIA.",
           "O Tasty Iso é isolado ou concentrado? A página o descreve como proteína isolada e hidrolisada, processada a frio.",
           "Qual é o cupom da Adaptogen? É o CECILIA, com 10% OFF no site oficial, para cliente novo e antigo. Cole no campo Cupom de desconto do checkout; a página do [cupom Adaptogen](/cupons/adaptogen) traz o código em vigor.",
           "O Tasty Iso tem zero lactose? A lista de sabores da página do 900 g marca zero lactose em todos, mas outro trecho fala em “a maioria dos sabores”: confira o rótulo do sabor. O Cookies & Cream contém glúten, e os demais são descritos como sem glúten.",
@@ -332528,15 +332574,15 @@ export const reviewsData: unknown[] = [
     "cons": [],
     "coupon": "EMCASA",
     "affiliate": "oceane",
-    "title": "Océane é boa? O que a loja informa sobre a marca, os selos e as linhas",
-    "seoTitle": "Océane é boa? Marca, selos e linhas pelo site",
+    "title": "Océane é boa? Tudo que você precisa saber antes de comprar",
+    "seoTitle": "Océane é boa? Maquiagem, skincare e kits da marca",
     "type": "Guia de Marca",
-    "description": "Marca brasileira, com skincare que a loja diz produzir na Coreia do Sul e selos vegano e cruelty free por produto: veja o que conferir nas linhas, nos kits e nos preços.",
-    "metaDescription": "EMCASA dá 10% OFF na Océane. Veja o que a loja informa sobre a marca, as linhas, os selos veganos e cruelty free e a faixa de preço.",
+    "description": "Veja para quem a Océane vale a pena, como começou a marca brasileira e como escolher entre as linhas de maquiagem prática, skincare e kits de miniaturas com cupom.",
+    "metaDescription": "EMCASA dá 10% OFF na Océane. Veja para quem a marca vale a pena e como escolher entre as linhas de maquiagem, skincare e kits.",
     "image": "/images/reviews/oceane/oceane-e-boa-hero-pt-v2.webp",
     "imageAlt": "Modelo da Océane aplicando batom Glossy Rosé Pink, com o produto junto aos lábios. A capa pergunta «É boa?» e traz «Linhas e selos».",
     "cta": {
-      "text": "Veja os tons, os selos e a origem na página de cada produto. Na sacola, aplique EMCASA e confira os 10% OFF.",
+      "text": "Escolha formatos e tons na página de cada item e aplique o cupom EMCASA na sacola para garantir 10% OFF no site e no app.",
       "label": "Ir para a Océane",
       "url": "https://www.oceane.com.br/?utmi_pc=emcasa",
       "sponsored": true
@@ -332561,26 +332607,27 @@ export const reviewsData: unknown[] = [
     ],
     "decision": {
       "takeIf": [
-        "Você quer maquiagem com selo vegano e cruelty free e confere o selo na página do produto antes de pagar.",
-        "Você procura skincare e quer saber, produto a produto, se a página diz que ele foi feito na Coreia do Sul."
+        "Você quer maquiagem em formatos práticos para o dia a dia, como blush, contorno e base em bastão, com opções de tons para escolher.",
+        "Você procura séruns e máscaras de skincare e confere na página de cada item quais fórmulas são fabricadas na Coreia do Sul.",
+        "Você quer experimentar a marca ou montar presente começando pelos kits de miniaturas Minis Edition com desconto de cupom na sacola."
       ],
       "skipIf": [
-        "Você quer saber se a base ou o sérum funcionam na sua pele: só o uso responde isso.",
-        "Você espera um selo da marca inteira: vegano e cruelty free mudam de um produto para outro."
+        "Você exige que toda a marca seja vegana sem checar produto por produto, já que parte dos acessórios, esponjas e kits não traz o selo na ficha.",
+        "Você procura uma marca inteiramente sul-coreana, pois a Océane é brasileira e apenas itens específicos do skincare têm fabricação na Coreia do Sul."
       ]
     },
     "contentSections": [
       {
         "heading": "Resposta rápida",
         "paragraphs": [
-          "Na Océane, a escolha sai da página de cada produto: na maquiagem, o formato e os tons; em tudo, os selos vegano e cruelty free, que são de cada produto e não da marca inteira; e a origem, que a ficha informa. A marca é brasileira, e só parte do skincare traz \"Feito na Coreia do Sul\" na ficha."
+          "Sim, a Océane vale a pena para quem quer maquiagem em formatos práticos, como blush e contorno em bastão, e opções de tons para escolher. O cupom EMCASA dá 10% de desconto no site e no app, em todas as formas de pagamento. Se você quer experimentar a marca, comece pelos kits de miniaturas que mostramos abaixo."
         ]
       },
       {
-        "heading": "Quem é a Océane: uma marca brasileira",
+        "heading": "Quem é a Océane: origem da marca e onde ver a reputação",
         "paragraphs": [
-          "A Océane é uma marca brasileira, nascida em 2008, como conta o blog da marca. A loja informa: o primeiro produto foram os lenços removedores de esmalte. Na apresentação, ela diz que \"não somos uma marca de beleza\", e sim \"uma nova forma de comprar, consumir e pensar a beleza\".",
-          "Na prática, é um catálogo grande: mais de mil produtos entre maquiagem, skincare, cabelos, bem-estar e presentes. Quem chega querendo \"a base da Océane\" ou \"o sérum da Océane\" encontra versões, tons e kits, e a pergunta \"é boa\" precisa ser feita produto a produto. Para saber quem vende, por quais canais e como funcionam as trocas, veja se a [Océane é confiável](/reviews/oceane-e-confiavel)."
+          "Criada no Brasil em 2008, como conta o blog da marca, e com operação em Vila Velha (ES), a Océane começou com os lenços removedores de esmalte, seu primeiro produto, e expandiu o catálogo para maquiagem em formatos práticos, como bastões de blush, contorno e base, além de linhas de skincare, cabelos, bem-estar e acessórios.",
+          "Hoje o site reúne mais de mil itens, entre linhas próprias como a Océane Edition, kits de miniaturas e produtos específicos de skincare fabricados na Coreia do Sul. Para conferir CNPJ, canais oficiais de venda e política de trocas, veja nosso guia sobre se a [Océane é confiável](/reviews/oceane-e-confiavel); para consultar as notas e o atendimento recente, acesse a análise da [Océane no Reclame Aqui](/reviews/oceane-reclame-aqui-nota-reputacao)."
         ]
       },
       {
@@ -332769,7 +332816,7 @@ export const reviewsData: unknown[] = [
         },
         "postParagraphs": [
           "Para escolher, o caminho mais seguro é pelo nome do tom que a página usa: a base líquida e o Skin Tint vão de 110f a 550d, a cushion de 05 a 80, e o bastão tem nomes como Ivory, Honey e Espresso. Confirme o nome do tom na sacola antes de fechar o pedido.",
-          "Se a sua dúvida é tipo de pele, como \"base boa para pele oleosa\", procure na página o que a Océane indica para aquele produto."
+          "Para acertar no seu tipo de pele (oleosa, mista ou seca), veja o acabamento indicado na página de cada formato (matte, semi-matte ou hidratante) antes de escolher o tom."
         ],
         "images": [
           {
@@ -332945,7 +332992,7 @@ export const reviewsData: unknown[] = [
         },
         "postParagraphs": [
           "Conta nossa, pelo desconto que o EMCASA tirou na sacola: a coluna da direita aplica os 10% às duas pontas de cada faixa.",
-          "O que vimos na sacola: no site, o cupom tirou 10% de um creme para os olhos; no app, tirou 10% de uma sacola que já tinha duas peças com preço especial do app; e, na Black Month da loja, tirou 10% sobre o preço de oferta. Promoção do tipo \"leve X por R$ Y\" e brinde nós não testamos: nesses casos, confira a linha \"Descontos\" na sacola antes de pagar.",
+          "O que vimos na sacola: no site, o cupom tirou 10% de um creme para os olhos; no app, tirou 10% de uma sacola que já tinha duas peças com preço especial do app; e, na Black Month da loja, tirou 10% sobre o preço de oferta. Em promoções do tipo \"leve X por R$ Y\" ou com brinde, confira sempre a linha \"Descontos\" na sacola antes de pagar.",
           "Para usar, no site digite EMCASA no campo \"Cupom de desconto\" da sacola e clique em \"Adicionar\", antes da identificação; a linha \"Descontos\" mostra o quanto saiu. No app, o cupom entra na Sacola. O EMCASA na Océane vale para cliente novo e antigo e em todas as formas de pagamento.",
           "O frete não entra na conta. Aplique o cupom, informe o CEP e confira o total com frete. Segundo a política de entrega, o frete grátis vale acima de um valor mínimo, que pode variar por estado."
         ]
@@ -332995,11 +333042,11 @@ export const reviewsData: unknown[] = [
         ]
       },
       {
-        "heading": "Para quem a Océane faz sentido",
+        "heading": "Onde a Océane mais acerta e por onde começar",
         "paragraphs": [
-          "A resposta para \"é boa\" depende do que você procura. Para quem quer maquiagem com selo vegano e cruelty free por produto, a Océane deixa conferir antes de pagar, produto a produto, e o EMCASA entra na sacola. Para quem procura skincare de origem coreana, vale a página do produto, não a marca. Para quem quer saber se a base ou o sérum funcionam na pele, o rótulo não responde."
+          "A Océane vale a pena principalmente para quem procura maquiagem prática de rotina (com destaque para os itens em bastão da linha Océane Edition) e para quem quer testar versões menores ou montar presentes pelos kits Minis Edition. Como o catálogo passa de mil itens, três conferências rápidas na página de cada produto ajudam a acertar na sacola: o nome exato do tom na maquiagem, a presença dos selos Vegano e Cruelty Free no item escolhido e, no skincare, quais fórmulas trazem origem na Coreia do Sul."
         ],
-        "emphasis": "Eu julgo a compra pelo que dá para conferir antes de pagar. Na Océane, a página de cada produto mostra o tom, o selo e a origem. Para mim, vale quando você confere isso primeiro e fecha o pedido com o EMCASA na Océane.",
+        "emphasis": "Sim, a Océane vale a pena para montar o nécessaire do dia a dia ou comprar kits de presente: escolha os formatos e tons na página de cada item e aplique o cupom EMCASA na sacola para garantir 10% OFF no site e no app, em todas as formas de pagamento.",
         "links": [
           {
             "label": "Ver o cupom Océane",
@@ -333011,14 +333058,14 @@ export const reviewsData: unknown[] = [
         "heading": "Perguntas frequentes",
         "bullets": [
           "Qual é o cupom da Océane? O cupom da Océane da nossa parceria é EMCASA, com 10% OFF no pedido, no site e no app, em todas as formas de pagamento. O passo a passo e o teste estão na página do [cupom Océane](/cupons/oceane).",
-          "A Océane é uma marca brasileira? Sim. O que a loja descreve como feito na Coreia do Sul é parte do skincare, produto a produto.",
+          "A Océane é uma marca brasileira? Sim, com operação em Vila Velha (ES) e mais de quinze anos de história segundo a página institucional; o que a loja descreve como feito na Coreia do Sul é parte do catálogo de skincare, produto a produto.",
           "A Océane é coreana? A marca não: é brasileira. A origem coreana vale só para o produto de skincare cuja página escreve isso, e a maquiagem não traz essa origem.",
-          "A Océane é vegana e cruelty free? Depende do produto: os selos aparecem na página de cada um, não na marca. A maior parte do catálogo traz os dois, e o capítulo dos selos mostra a contagem e como conferir.",
-          "Os produtos da Océane são bons? Dá para conferir origem, selos, tons e preço antes de comprar, e os capítulos acima mostram como. Resultado na pele só o uso responde."
+          "A Océane é vegana e cruelty free? A maior parte do catálogo traz os selos, mas eles variam por item e em kits, sem selo único para a marca inteira. Confira a divisão por família no capítulo sobre os selos e valide na página do produto.",
+          "Os produtos da Océane são bons? Sim, a Océane vale a pena especialmente pela maquiagem prática em bastão, pela variedade de tons e pelos kits Minis Edition, além de contar com itens específicos de skincare feitos na Coreia do Sul e 10% OFF com o cupom EMCASA no site e no app, em todas as formas de pagamento."
         ]
       }
     ],
-    "updatedAt": "2026-11-23"
+    "updatedAt": "2026-11-24"
   },
   {
     "id": 1310,

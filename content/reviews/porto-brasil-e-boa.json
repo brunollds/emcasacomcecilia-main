@@ -13,10 +13,11 @@
     "initials": "CM",
     "url": "/sobre"
   },
-  "description": "A louça Porto Brasil é boa? É cerâmica, não porcelana: veja o que a ficha libera no forno, no micro-ondas e na lava-louças, a garantia, o Reclame Aqui e a comparação com a Oxford.",
-  "metaDescription": "O cupom MAUAD dá 5% OFF na Let's Eat It. Porto Brasil é cerâmica, não porcelana: o que vai ao micro-ondas, à lava-louças e ao forno, e a garantia.",
+  "description": "Veja para quem a louça Porto Brasil vale a pena, as diferenças entre stoneware e faiança, o que vai ao forno e à lava-louças, a comparação com a Oxford e o cupom MAUAD.",
+  "metaDescription": "O cupom MAUAD dá 5% OFF na Let's Eat It. Veja quando a Porto Brasil vale a pena, stoneware vs faiança, forno, lava-louças e Oxford.",
   "publishedAt": "12 de outubro de 2026",
   "publishedAtISO": "2026-10-12",
+  "updatedAt": "2026-11-24",
   "draft": false,
   "isNew": false,
   "image": "/images/reviews/letseatit/porto-brasil-e-boa-capa-v2.webp",
@@ -27,13 +28,13 @@
     {
       "heading": "Resposta rápida",
       "paragraphs": [
-        "A escolha da Porto Brasil depende da peça e do uso: a marca trabalha com cerâmica, e a faiança tem mais restrições de forno que o stoneware. Os modelos com ouro têm mais exceções, então confira a ficha da peça. Na Let's Eat It, o [cupom Let's Eat It](/cupons/letseatit) MAUAD dá 5% OFF em todas as formas de pagamento."
+        "Com certeza vale, principalmente para quem monta mesa posta e quer comparar stoneware e faiança na rotina da cozinha. Peças sem ouro costumam liberar micro-ondas e lava-louças, enquanto o forno muda por modelo. Na Let's Eat It, o cupom MAUAD dá 5% OFF em todas as formas de pagamento. Veja as regras por peça e a comparação com a Oxford abaixo."
       ]
     },
     {
       "heading": "Cerâmica, não porcelana: stoneware ou faiança",
       "paragraphs": [
-        "É cerâmica, não porcelana. A Porto Brasil faz louça de mesa de cerâmica em dois materiais: stoneware, também chamado de grês, nas linhas Bio, Orgânico, Coup Stoneware e Neo, entre outras, e faiança, nas linhas Coup, Roma e Madeleine, entre outras.",
+        "Para montar a mesa do dia a dia ou receber convidados, a Porto Brasil faz louça de cerâmica, não porcelana, em dois materiais que mudam o uso na cozinha: stoneware, também chamado de grês, nas linhas Bio, Orgânico, Coup Stoneware e Neo, entre outras, e faiança, nas linhas Coup, Roma e Madeleine, entre outras.",
         "Uma diferença técnica é quanto a cerâmica absorve de água. Na classificação aduaneira do órgão de fronteira do Canadá (CBSA), a porcelana absorve até 0,5% (medido pelo método ASTM C373) e é translúcida; o grês absorve até 3% e é opaco; a faiança absorve mais de 3% e é opaca e porosa. A Porto Brasil não informa o percentual de absorção das peças.",
         "Na prática, a Porto Brasil libera mais usos para o stoneware do que para a faiança, como mostra a tabela."
       ],
@@ -83,11 +84,11 @@
     {
       "heading": "Micro-ondas, lava-louças, forno e freezer",
       "paragraphs": [
-        "As fichas liberam forno, micro-ondas e freezer para parte do stoneware, mas há exceções por produto. Não use só o nome do material para decidir: confira as indicações da peça.",
-        "“Variação térmica aconselhada” não é a temperatura máxima do forno. As fichas registravam variações de cerca de 180 °C ou 240 °C. No Aparelho de Jantar Bio Vanilla de 16 peças, a descrição indica forno até 180 °C e o campo de cuidados informa variação térmica de 240 °C: são duas indicações diferentes.",
+        "Mesmo dentro do stoneware, forno e freezer mudam por produto; não use só o nome do material para decidir e confira as indicações da página da peça.",
+        "“Variação térmica aconselhada” não é a temperatura máxima do forno. As especificações registravam variações de cerca de 180 °C ou 240 °C. No Aparelho de Jantar Bio Vanilla de 16 peças, a descrição indica forno até 180 °C e o campo de cuidados informa variação térmica de 240 °C: são duas indicações diferentes.",
         "Se a sua peça não tem limite de forno explícito, ou se as instruções de uso se contradizem, confirme com a fabricante antes de colocá-la no forno. Não converta variação térmica em limite de temperatura.",
         "Há exceções. Algumas peças de stoneware, como pratos de entrada, de sobremesa e de massa da linha Orgânico, xícaras de chá da linha Linhas e kits de canecas da Coup Stoneware, trazem \"não é recomendado usar no forno convencional\". Os conjuntos com aplicação de ouro não devem ir ao forno nem ao micro-ondas, e os de filamento de ouro também não vão à lava-louças.",
-        "Na faiança, as fichas liberam micro-ondas e lava-louças. Várias trazem \"não é recomendado usar no forno convencional\", a maior parte não fala de forno nem de freezer, e os kits Celebrar de 18 peças trazem \"Freezer: Não recomendado\"."
+        "Na faiança, as especificações liberam micro-ondas e lava-louças. Várias trazem \"não é recomendado usar no forno convencional\", a maior parte não fala de forno nem de freezer, e os kits Celebrar de 18 peças trazem \"Freezer: Não recomendado\"."
       ],
       "image": {
         "src": "/images/reviews/letseatit/porto-brasil-fichas-stoneware-faianca-uso.webp",
@@ -99,6 +100,9 @@
     },
     {
       "heading": "Cuidados que a própria marca pede",
+      "paragraphs": [
+        "Evitar choque térmico e contato direto com a chama é a principal regra da marca para preservar tanto o stoneware quanto a faiança."
+      ],
       "bullets": [
         "Não tire a peça quente do forno ou do micro-ondas direto para uma superfície fria, nem leve a peça do freezer direto para o forno: o choque térmico pode danificar a cerâmica.",
         "Não use a peça em contato direto com a chama.",
@@ -123,14 +127,14 @@
     {
       "heading": "Garantia e reputação",
       "paragraphs": [
-        "A Porto Brasil dá 90 dias de garantia por defeito de fabricação e uma garantia separada contra gretamento, as rachaduras finas no esmalte, de 9 ou 12 meses, variando por produto.",
-        "No Reclame Aqui, a Porto Brasil Cerâmica tem reputação ÓTIMA, com nota 8,4 de 10 entre abril e setembro de 2026. Foram 110 reclamações, todas respondidas, e 84,3% resolvidas; o assunto mais citado é produto com defeito e pratos. Esses números medem o atendimento da fabricante, não a durabilidade das peças."
+        "A Porto Brasil dá 90 dias de garantia por defeito de fabricação e uma garantia separada contra gretamento, as rachaduras finas no esmalte, de 9 ou 12 meses, variando por produto."
       ]
     },
     {
       "heading": "Onde comprar a Porto Brasil",
       "paragraphs": [
-        "A Let's Eat It vende sobretudo o stoneware da [Porto Brasil](https://letseatit.com.br/collections/porto-brasil?utm_source=embaixador&utm_medium=emcasacomcecilia&utm_campaign=inbazz&utm_content=organico): quase todas as peças da marca no catálogo da loja são desse material. Confira o material e as indicações de uso na página de cada produto. Na última conferência, três aparelhos de 30 peças estavam disponíveis em pré-venda:"
+        "A Let's Eat It vende sobretudo o stoneware da [Porto Brasil](https://letseatit.com.br/collections/porto-brasil?utm_source=embaixador&utm_medium=emcasacomcecilia&utm_campaign=inbazz&utm_content=organico): quase todas as peças da marca no catálogo da loja são desse material. Para conferir CNPJ, entrega, reposição gratuita de avaria e atendimento da loja parceira, veja se a [Let's Eat It é confiável](/reviews/lets-eat-it-e-confiavel) e a análise da [Let's Eat It no Reclame Aqui](/reviews/lets-eat-it-reclame-aqui-nota-reputacao).",
+        "Confira o material e as indicações de uso na página de cada produto; na conferência do catálogo, três aparelhos de 30 peças estavam disponíveis em pré-venda:"
       ],
       "links": [
         {
@@ -153,7 +157,8 @@
         "[Petroleum Night Sky de 30 peças](https://letseatit.com.br/products/aparelho-de-jantar-stoneware-petroleum-night-sky-porto-brasil?utm_source=embaixador&utm_medium=emcasacomcecilia&utm_campaign=inbazz&utm_content=organico): R$ 798,00."
       ],
       "postParagraphs": [
-        "No site, o [cupom Let's Eat It](/cupons/letseatit) dá 5% de desconto com o código MAUAD, em todas as formas de pagamento, e soma com o desconto do Pix, com as promoções e com a pré-venda. Cole o código no campo “Código de desconto” do checkout. Os preços do restante do catálogo estão no nosso guia de Black Friday da loja."
+        "Conta nossa, pelo preço de vitrine dos aparelhos de 30 peças na loja com os 5% OFF do MAUAD (antes do frete e de eventual desconto do Pix): o Bio Latte sai cerca de R$ 24,66 por peça (ou R$ 123,32 por lugar para seis pessoas), e o Bio Oceano e o Petroleum Night Sky caem para R$ 758,10.",
+        "No site, o [cupom Let's Eat It](/cupons/letseatit) dá 5% de desconto com o código MAUAD, em todas as formas de pagamento, e soma com o desconto do Pix, com as promoções e com a pré-venda. Cole o código no campo “Código de desconto” do checkout, clique em “Aplicar” e confira a linha de desconto antes de pagar (o frete é calculado por CEP e peso, sem faixa de frete grátis publicada); os preços de outros itens estão no [guia de Black Friday da loja](/reviews/black-friday-letseatit)."
       ],
       "images": [
         {
@@ -175,24 +180,28 @@
       ]
     },
     {
-      "heading": "Veredito: o que a Porto Brasil entrega",
+      "heading": "Quando escolher a Porto Brasil para a sua mesa",
       "paragraphs": [
-        "Para escolher a Porto Brasil, procure primeiro as indicações do produto: forno e freezer mudam por peça, e os detalhes com ouro acrescentam restrições. A tabela ajuda a filtrar modelos.",
-        "Na comparação com a Oxford, há peças Porto Brasil com forno declarado, enquanto no catálogo Ryo e Unni essa indicação não aparece. Se forno é indispensável, escolha uma peça com autorização e limite claros. Para uso sem essa indicação, confirme com a fabricante antes da compra."
+        "A Porto Brasil vale a pena para quem monta mesa posta e quer louça de cerâmica com linhas claras por uso: o stoneware sem ouro atende bem micro-ondas e lava-louças e conta com peças liberadas para o forno, enquanto a faiança resolve quem serve à mesa sem precisar levar a peça ao forno convencional.",
+        "Na comparação com a Oxford, há peças Porto Brasil de stoneware com forno declarado, enquanto no catálogo Ryo e Unni essa indicação não aparece. Se o forno for indispensável, escolha um modelo com autorização e limite explícitos e, ao comprar na Let's Eat It, aplique o cupom MAUAD no checkout (5% OFF em todas as formas de pagamento) conferindo as regras na página do [cupom Let's Eat It](/cupons/letseatit)."
       ],
-      "emphasis": "O stoneware da Porto Brasil resolve quando a ficha da peça libera o forno; com ouro ou em faiança, trate como louça de mesa."
+      "emphasis": "Com certeza vale apostar na Porto Brasil para montar a mesa posta do dia a dia: vá de stoneware sem ouro se quiser mais liberdade entre lava-louças, micro-ondas e forno (conferindo o limite da peça), ou de faiança para servir à mesa, e use o cupom MAUAD na Let's Eat It para ganhar 5% OFF.",
+      "links": [
+        {
+          "label": "Ver o cupom Let's Eat It",
+          "href": "/cupons/letseatit"
+        }
+      ]
     },
     {
       "heading": "Perguntas frequentes",
       "bullets": [
-        "Qual é o cupom da Let's Eat It? É o MAUAD, com 5% OFF no site oficial da Let's Eat It, em todas as formas de pagamento. Cole no campo “Código de desconto” do checkout. Veja o [cupom Let's Eat It](/cupons/letseatit).",
-        "Porto Brasil é cerâmica ou porcelana? É cerâmica, não porcelana: stoneware (grês) e faiança, segundo a própria fabricante.",
-        "Porto Brasil vai no micro-ondas? Sim, na maior parte das peças de stoneware e de faiança, segundo as fichas; as peças com aplicação de ouro não vão.",
-        "Porto Brasil vai no forno? Só quando a ficha da peça autoriza esse uso. Parte do stoneware permite, mas há peças e conjuntos com ouro que não vão; na faiança, várias fichas não recomendam o forno. Confira também o limite explícito: variação térmica não é temperatura máxima do forno.",
-        "Porto Brasil vai na lava-louças? Sim, na maior parte das peças dos dois materiais; os conjuntos com filamento de ouro não vão.",
-        "Porto Brasil é de onde? A fábrica fica em Porto Ferreira (SP); a empresa foi aberta em 2006 e consta como ativa no cadastro público de CNPJ.",
-        "Porto Brasil ou Oxford: qual escolher? Compare o material e o uso da peça específica. Há stoneware da Porto Brasil com forno declarado, e o catálogo Oxford Ryo e Unni não traz essa indicação.",
-        "A Porto Brasil é confiável? Pelo Reclame Aqui, sim. A reputação é ÓTIMA: nota 8,4 de 10 no período analisado, com todas as 110 reclamações respondidas e 84,3% resolvidas. Isso mede o atendimento da fabricante, não a durabilidade das peças."
+        "A Porto Brasil é boa? Com certeza: a marca oferece linhas de stoneware resistentes para micro-ondas e lava-louças (com modelos também liberados para o forno) e linhas de faiança para a mesa do dia a dia, com garantia contra gretamento e 5% OFF usando o cupom MAUAD na Let's Eat It.",
+        "Qual é o cupom da Let's Eat It? É o MAUAD, com 5% OFF no site oficial da Let's Eat It, em todas as formas de pagamento, somando com promoções, pré-venda e Pix. Cole no campo “Código de desconto” do checkout e veja as regras na página do [cupom Let's Eat It](/cupons/letseatit).",
+        "Porto Brasil é cerâmica ou porcelana? É cerâmica, não porcelana: stoneware (grês) nas linhas como Bio, Orgânico e Neo, e faiança nas linhas como Coup, Roma e Madeleine.",
+        "Porto Brasil vai no micro-ondas e na lava-louças? Sim, na maior parte das peças de stoneware e de faiança, segundo as especificações da fabricante; as peças com aplicação ou filamento de ouro não devem ir.",
+        "Porto Brasil vai no forno? Só quando a página da peça autoriza esse uso com limite explícito. Parte do stoneware permite, mas peças e conjuntos com ouro, algumas canecas Coup Stoneware e várias linhas de faiança não recomendam forno convencional.",
+        "Porto Brasil ou Oxford: qual escolher? Compare o material e o uso da peça específica. Há stoneware da Porto Brasil com forno declarado, e o catálogo Oxford Ryo e Unni não traz essa indicação."
       ]
     }
   ],
@@ -223,12 +232,13 @@
   ],
   "decision": {
     "takeIf": [
-      "Leve o stoneware da Porto Brasil se quer louça que vai da mesa ao micro-ondas e à lava-louças, e confira a ficha da peça para o forno.",
-      "Leve a peça com forno declarado na ficha se você assa e serve no mesmo prato."
+      "Você quer louça de stoneware para o dia a dia com uso em micro-ondas e lava-louças, além de opções com forno declarado na página da peça.",
+      "Você monta mesa posta na Let's Eat It e quer aplicar o cupom MAUAD (5% OFF) em todas as formas de pagamento, inclusive sobre promoções e Pix."
     ],
     "skipIf": [
-      "Passe as peças com filete ou aplicação de ouro se elas vão ao micro-ondas ou ao forno: essas não vão.",
-      "Passe a faiança se o forno é essencial: várias fichas não recomendam o forno convencional."
+      "Você quer peças com filete ou aplicação de ouro para levar ao micro-ondas, ao forno ou à lava-louças, pois esses acabamentos têm restrição.",
+      "Você precisa assar direto na louça com frequência e escolheu uma linha de faiança sem liberação de forno.",
+      "Você procura a leveza translúcida da porcelana fina, já que a Porto Brasil fabrica cerâmica (stoneware e faiança)."
     ]
   }
 }

@@ -38,7 +38,7 @@
     {
       "heading": "Resposta rápida",
       "paragraphs": [
-        "A Starlink vale a pena onde a internet cai com frequência ou entrega bem menos que o contratado. Nós a contratamos como alternativa e backup à nossa fibra instável. Se a sua fibra é estável, ela tende a sair mais barata.",
+        "Com certeza vale onde não chega internet estável ou a fibra cai com frequência: nós contratamos a Starlink como alternativa e backup da nossa fibra instável. Se a sua fibra local funciona bem, ela tende a custar menos, e há 30 dias para testar e devolver o kit.",
         "Novos clientes podem receber 200 reais de crédito na fatura no Brasil ou 45 € em Portugal. Abra nosso link de indicação antes de contratar, confirme o bônus no pedido e mantenha os dois primeiros ciclos completos em dia."
       ],
       "links": [
@@ -247,16 +247,17 @@
       ]
     },
     {
-      "heading": "O que os clientes reclamam",
+      "heading": "Limitações práticas, contrato e atendimento",
       "paragraphs": [
-        "O perfil verificado tem reputação Boa no Reclame Aqui. Cobrança indevida aparece entre as queixas mais frequentes. Guarde a oferta do pedido para comparar com a fatura. Veja [a leitura do Reclame Aqui](/reviews/starlink-reclame-aqui-nota-reputacao)."
+        "O custo de saída em planos subsidiados e a falta de preço fixo permanente são as principais limitações contratuais da Starlink depois dos 30 dias de teste. Quando o endereço exige fidelidade, como no Residencial Max com kit subsidiado em Alto Paraíso, o contrato de 12 meses prevê multa de rescisão antecipada até o teto exibido no resumo da oferta. Além disso, os preços promocionais não têm trava permanente nem garantia de preço fixo; por isso, salve um print do resumo do pedido antes de pagar para conferir cada fatura.",
+        "No atendimento e no uso diário, também há restrições práticas importantes. O suporte para contestar cobranças, pedir reembolso ou abrir a devolução do kit funciona pela conta no site ou no aplicativo da Starlink, então guarde o número do pedido e do chamado. No sinal, a antena exige visão livre do céu e sofre interrupções se galhos ou telhados entrarem no campo de visão, perde desempenho temporariamente em chuvas muito fortes ou tempestades e depende de energia elétrica para antena e roteador funcionarem. Veja também nossa análise da [reputação da Starlink no Reclame Aqui](/reviews/starlink-reclame-aqui-nota-reputacao)."
       ]
     },
     {
       "heading": "Perguntas frequentes",
       "bullets": [
         "A Starlink tem cupom de desconto? Não. A Starlink não tem cupom: pelo link de indicação da Cecília, quem assina recebe R$ 200 no Brasil (45 € em Portugal) depois de dois meses de assinatura, como crédito na fatura, e quem indicou recebe o mesmo valor.",
-        "Starlink vale a pena na cidade? Depende da qualidade real da sua fibra atual. Se ela é barata e estável, tende a vencer no bolso. Se cai com frequência ou entrega muito abaixo do combinado, a Starlink pode valer a pena como alternativa ou backup, desde que haja céu aberto. Foi o nosso caso.",
+        "Starlink vale a pena na cidade? Vale, sim, onde a fibra local cai com frequência ou entrega muito abaixo do combinado, desde que haja céu aberto (foi o nosso caso); já se a sua fibra é barata e estável, ela tende a vencer no bolso.",
         "Starlink é melhor que fibra? Em velocidade máxima e latência, uma fibra saudável costuma levar vantagem. Em continuidade contra quedas locais e cabos rompidos na rua, a Starlink ajuda por ser uma rota independente do provedor local.",
         "Starlink é boa para jogos? Teste a latência e as interrupções no seu endereço. A faixa típica que a Starlink publica é uma referência geral.",
         "A Starlink é ilimitada? A Starlink anuncia dados ilimitados nos planos residenciais. Confira os limites de velocidade do plano que aparece no pedido.",

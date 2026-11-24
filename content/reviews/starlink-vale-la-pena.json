@@ -40,7 +40,7 @@
       "heading": "Respuesta rápida",
       "paragraphs": [
         "Sí, Starlink vale la pena donde no llega una conexión estable y también donde hay fibra, pero se corta a menudo o rinde muy por debajo de lo contratado. Nosotros la contratamos como alternativa y respaldo de nuestra fibra inestable. Si tu fibra es realmente estable, suele ganar en precio y latencia. Probar tiene poco riesgo: en el pedido de Madrid el kit va en alquiler a 0 € y hay 30 días para devolverlo.",
-        "En tu primera suscripción elegible puedes recibir crédito en la factura. Las referencias de noviembre son 45 € en España y 700 pesos en México. Abre nuestro enlace, confirma el importe en el pedido y mantén el plan activo y al día durante dos ciclos completos."
+        "En tu primera suscripción elegible puedes recibir crédito en la factura (no descuenta del kit) tras dos ciclos completos al día: 45 € en España y 700 pesos en México (referencia publicada en noviembre por terceros). Abre nuestro enlace y confirma el importe en el pedido antes de pagar."
       ],
       "links": [
         {
@@ -249,16 +249,17 @@
       ]
     },
     {
-      "heading": "Qué cuentan los clientes",
+      "heading": "Limitaciones prácticas, contrato y soporte",
       "paragraphs": [
-        "El perfil de starlink.com en Trustpilot tiene una nota de 1,6 sobre 5 y no está reclamado por la empresa. Entre las quejas más comunes están el soporte difícil de contactar y las subidas de cuota. Guarda una captura de la oferta del pedido para compararla con la factura. Mira la [lectura de Trustpilot](/es/reviews/starlink-trustpilot-opiniones)."
+        "Las condiciones de devolución del equipo, la permanencia en ciertos kits y las cuotas no fijas marcan las principales limitaciones contractuales de Starlink tras los 30 días de prueba. En Madrid el kit va en alquiler a 0 € sin permanencia, pero debe devolverse en buen estado si cancelas; en México, en cambio, el Standard 4 X del plan Max conlleva un plazo de 12 meses con una tarifa de rescisión anticipada de hasta 4.600 pesos. Además, los precios promocionales no tienen una duración fija ni garantía de precio permanente, así que guarda una captura del resumen del pedido antes de pagar para cotejarla con tu factura.",
+        "En soporte y uso diario también hay límites concretos. La atención para revisar facturas, gestionar la baja o tramitar la devolución del equipo se realiza desde tu cuenta en la web o en la aplicación de Starlink, por lo que conviene conservar el número de pedido y el de caso ante cualquier incidencia. En la práctica diaria, la antena requiere cielo despejado y sufre cortes si hay ramas o tejados en su campo de visión, pierde rendimiento de forma temporal bajo lluvia muy fuerte o tormentas y deja de funcionar en cortes de luz sin un SAI o batería. Consulta nuestra [lectura de Starlink en Trustpilot](/es/reviews/starlink-trustpilot-opiniones) para ver qué reportan otros usuarios sobre atención y cobros."
       ]
     },
     {
       "heading": "Preguntas frecuentes",
       "bullets": [
         "¿Tiene Starlink un cupón de descuento? No. Starlink no tiene cupón: con el enlace de referido de Cecília, quien se suscribe recibe 45 € en España tras dos meses de suscripción, como crédito en la factura, y quien invitó recibe el mismo valor.",
-        "¿Vale la pena Starlink en la ciudad? Depende de lo buena que sea de verdad tu fibra actual. Si es barata y estable, suele ganar en coste. Si se corta a menudo o rinde muy por debajo de lo contratado, Starlink puede valer la pena como alternativa o respaldo, siempre que tengas cielo abierto. Ese fue nuestro caso.",
+        "¿Vale la pena Starlink en la ciudad? Sí, donde la fibra local se corta a menudo o rinde muy por debajo de lo contratado, siempre que tengas cielo abierto (ese fue nuestro caso); si tu fibra actual es barata y estable, suele ganar en coste.",
         "¿Es mejor Starlink que la fibra? En velocidad máxima y latencia, una fibra sana suele llevar ventaja. En continuidad frente a cortes locales y cables rotos en la calle, Starlink ayuda por ser una ruta independiente del operador local.",
         "¿Es buena Starlink para jugar? Prueba la latencia y los cortes en tu dirección. La latencia típica que publica Starlink es una referencia general.",
         "¿Es ilimitada Starlink? Starlink anuncia datos ilimitados en los planes residenciales. Comprueba los límites de velocidad del plan que aparece en tu pedido.",

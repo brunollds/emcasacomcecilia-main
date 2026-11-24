@@ -21,15 +21,15 @@
   "cons": [],
   "coupon": "EMCASA",
   "affiliate": "oceane",
-  "title": "Océane é boa? O que a loja informa sobre a marca, os selos e as linhas",
-  "seoTitle": "Océane é boa? Marca, selos e linhas pelo site",
+  "title": "Océane é boa? Tudo que você precisa saber antes de comprar",
+  "seoTitle": "Océane é boa? Maquiagem, skincare e kits da marca",
   "type": "Guia de Marca",
-  "description": "Marca brasileira, com skincare que a loja diz produzir na Coreia do Sul e selos vegano e cruelty free por produto: veja o que conferir nas linhas, nos kits e nos preços.",
-  "metaDescription": "EMCASA dá 10% OFF na Océane. Veja o que a loja informa sobre a marca, as linhas, os selos veganos e cruelty free e a faixa de preço.",
+  "description": "Veja para quem a Océane vale a pena, como começou a marca brasileira e como escolher entre as linhas de maquiagem prática, skincare e kits de miniaturas com cupom.",
+  "metaDescription": "EMCASA dá 10% OFF na Océane. Veja para quem a marca vale a pena e como escolher entre as linhas de maquiagem, skincare e kits.",
   "image": "/images/reviews/oceane/oceane-e-boa-hero-pt-v2.webp",
   "imageAlt": "Modelo da Océane aplicando batom Glossy Rosé Pink, com o produto junto aos lábios. A capa pergunta «É boa?» e traz «Linhas e selos».",
   "cta": {
-    "text": "Veja os tons, os selos e a origem na página de cada produto. Na sacola, aplique EMCASA e confira os 10% OFF.",
+    "text": "Escolha formatos e tons na página de cada item e aplique o cupom EMCASA na sacola para garantir 10% OFF no site e no app.",
     "label": "Ir para a Océane",
     "url": "https://www.oceane.com.br/?utmi_pc=emcasa",
     "sponsored": true
@@ -54,26 +54,27 @@
   ],
   "decision": {
     "takeIf": [
-      "Você quer maquiagem com selo vegano e cruelty free e confere o selo na página do produto antes de pagar.",
-      "Você procura skincare e quer saber, produto a produto, se a página diz que ele foi feito na Coreia do Sul."
+      "Você quer maquiagem em formatos práticos para o dia a dia, como blush, contorno e base em bastão, com opções de tons para escolher.",
+      "Você procura séruns e máscaras de skincare e confere na página de cada item quais fórmulas são fabricadas na Coreia do Sul.",
+      "Você quer experimentar a marca ou montar presente começando pelos kits de miniaturas Minis Edition com desconto de cupom na sacola."
     ],
     "skipIf": [
-      "Você quer saber se a base ou o sérum funcionam na sua pele: só o uso responde isso.",
-      "Você espera um selo da marca inteira: vegano e cruelty free mudam de um produto para outro."
+      "Você exige que toda a marca seja vegana sem checar produto por produto, já que parte dos acessórios, esponjas e kits não traz o selo na ficha.",
+      "Você procura uma marca inteiramente sul-coreana, pois a Océane é brasileira e apenas itens específicos do skincare têm fabricação na Coreia do Sul."
     ]
   },
   "contentSections": [
     {
       "heading": "Resposta rápida",
       "paragraphs": [
-        "Na Océane, a escolha sai da página de cada produto: na maquiagem, o formato e os tons; em tudo, os selos vegano e cruelty free, que são de cada produto e não da marca inteira; e a origem, que a ficha informa. A marca é brasileira, e só parte do skincare traz \"Feito na Coreia do Sul\" na ficha."
+        "Sim, a Océane vale a pena para quem quer maquiagem em formatos práticos, como blush e contorno em bastão, e opções de tons para escolher. O cupom EMCASA dá 10% de desconto no site e no app, em todas as formas de pagamento. Se você quer experimentar a marca, comece pelos kits de miniaturas que mostramos abaixo."
       ]
     },
     {
-      "heading": "Quem é a Océane: uma marca brasileira",
+      "heading": "Quem é a Océane: origem da marca e onde ver a reputação",
       "paragraphs": [
-        "A Océane é uma marca brasileira, nascida em 2008, como conta o blog da marca. A loja informa: o primeiro produto foram os lenços removedores de esmalte. Na apresentação, ela diz que \"não somos uma marca de beleza\", e sim \"uma nova forma de comprar, consumir e pensar a beleza\".",
-        "Na prática, é um catálogo grande: mais de mil produtos entre maquiagem, skincare, cabelos, bem-estar e presentes. Quem chega querendo \"a base da Océane\" ou \"o sérum da Océane\" encontra versões, tons e kits, e a pergunta \"é boa\" precisa ser feita produto a produto. Para saber quem vende, por quais canais e como funcionam as trocas, veja se a [Océane é confiável](/reviews/oceane-e-confiavel)."
+        "Criada no Brasil em 2008, como conta o blog da marca, e com operação em Vila Velha (ES), a Océane começou com os lenços removedores de esmalte, seu primeiro produto, e expandiu o catálogo para maquiagem em formatos práticos, como bastões de blush, contorno e base, além de linhas de skincare, cabelos, bem-estar e acessórios.",
+        "Hoje o site reúne mais de mil itens, entre linhas próprias como a Océane Edition, kits de miniaturas e produtos específicos de skincare fabricados na Coreia do Sul. Para conferir CNPJ, canais oficiais de venda e política de trocas, veja nosso guia sobre se a [Océane é confiável](/reviews/oceane-e-confiavel); para consultar as notas e o atendimento recente, acesse a análise da [Océane no Reclame Aqui](/reviews/oceane-reclame-aqui-nota-reputacao)."
       ]
     },
     {
@@ -262,7 +263,7 @@
       },
       "postParagraphs": [
         "Para escolher, o caminho mais seguro é pelo nome do tom que a página usa: a base líquida e o Skin Tint vão de 110f a 550d, a cushion de 05 a 80, e o bastão tem nomes como Ivory, Honey e Espresso. Confirme o nome do tom na sacola antes de fechar o pedido.",
-        "Se a sua dúvida é tipo de pele, como \"base boa para pele oleosa\", procure na página o que a Océane indica para aquele produto."
+        "Para acertar no seu tipo de pele (oleosa, mista ou seca), veja o acabamento indicado na página de cada formato (matte, semi-matte ou hidratante) antes de escolher o tom."
       ],
       "images": [
         {
@@ -438,7 +439,7 @@
       },
       "postParagraphs": [
         "Conta nossa, pelo desconto que o EMCASA tirou na sacola: a coluna da direita aplica os 10% às duas pontas de cada faixa.",
-        "O que vimos na sacola: no site, o cupom tirou 10% de um creme para os olhos; no app, tirou 10% de uma sacola que já tinha duas peças com preço especial do app; e, na Black Month da loja, tirou 10% sobre o preço de oferta. Promoção do tipo \"leve X por R$ Y\" e brinde nós não testamos: nesses casos, confira a linha \"Descontos\" na sacola antes de pagar.",
+        "O que vimos na sacola: no site, o cupom tirou 10% de um creme para os olhos; no app, tirou 10% de uma sacola que já tinha duas peças com preço especial do app; e, na Black Month da loja, tirou 10% sobre o preço de oferta. Em promoções do tipo \"leve X por R$ Y\" ou com brinde, confira sempre a linha \"Descontos\" na sacola antes de pagar.",
         "Para usar, no site digite EMCASA no campo \"Cupom de desconto\" da sacola e clique em \"Adicionar\", antes da identificação; a linha \"Descontos\" mostra o quanto saiu. No app, o cupom entra na Sacola. O EMCASA na Océane vale para cliente novo e antigo e em todas as formas de pagamento.",
         "O frete não entra na conta. Aplique o cupom, informe o CEP e confira o total com frete. Segundo a política de entrega, o frete grátis vale acima de um valor mínimo, que pode variar por estado."
       ]
@@ -488,11 +489,11 @@
       ]
     },
     {
-      "heading": "Para quem a Océane faz sentido",
+      "heading": "Onde a Océane mais acerta e por onde começar",
       "paragraphs": [
-        "A resposta para \"é boa\" depende do que você procura. Para quem quer maquiagem com selo vegano e cruelty free por produto, a Océane deixa conferir antes de pagar, produto a produto, e o EMCASA entra na sacola. Para quem procura skincare de origem coreana, vale a página do produto, não a marca. Para quem quer saber se a base ou o sérum funcionam na pele, o rótulo não responde."
+        "A Océane vale a pena principalmente para quem procura maquiagem prática de rotina (com destaque para os itens em bastão da linha Océane Edition) e para quem quer testar versões menores ou montar presentes pelos kits Minis Edition. Como o catálogo passa de mil itens, três conferências rápidas na página de cada produto ajudam a acertar na sacola: o nome exato do tom na maquiagem, a presença dos selos Vegano e Cruelty Free no item escolhido e, no skincare, quais fórmulas trazem origem na Coreia do Sul."
       ],
-      "emphasis": "Eu julgo a compra pelo que dá para conferir antes de pagar. Na Océane, a página de cada produto mostra o tom, o selo e a origem. Para mim, vale quando você confere isso primeiro e fecha o pedido com o EMCASA na Océane.",
+      "emphasis": "Sim, a Océane vale a pena para montar o nécessaire do dia a dia ou comprar kits de presente: escolha os formatos e tons na página de cada item e aplique o cupom EMCASA na sacola para garantir 10% OFF no site e no app, em todas as formas de pagamento.",
       "links": [
         {
           "label": "Ver o cupom Océane",
@@ -504,12 +505,12 @@
       "heading": "Perguntas frequentes",
       "bullets": [
         "Qual é o cupom da Océane? O cupom da Océane da nossa parceria é EMCASA, com 10% OFF no pedido, no site e no app, em todas as formas de pagamento. O passo a passo e o teste estão na página do [cupom Océane](/cupons/oceane).",
-        "A Océane é uma marca brasileira? Sim. O que a loja descreve como feito na Coreia do Sul é parte do skincare, produto a produto.",
+        "A Océane é uma marca brasileira? Sim, com operação em Vila Velha (ES) e mais de quinze anos de história segundo a página institucional; o que a loja descreve como feito na Coreia do Sul é parte do catálogo de skincare, produto a produto.",
         "A Océane é coreana? A marca não: é brasileira. A origem coreana vale só para o produto de skincare cuja página escreve isso, e a maquiagem não traz essa origem.",
-        "A Océane é vegana e cruelty free? Depende do produto: os selos aparecem na página de cada um, não na marca. A maior parte do catálogo traz os dois, e o capítulo dos selos mostra a contagem e como conferir.",
-        "Os produtos da Océane são bons? Dá para conferir origem, selos, tons e preço antes de comprar, e os capítulos acima mostram como. Resultado na pele só o uso responde."
+        "A Océane é vegana e cruelty free? A maior parte do catálogo traz os selos, mas eles variam por item e em kits, sem selo único para a marca inteira. Confira a divisão por família no capítulo sobre os selos e valide na página do produto.",
+        "Os produtos da Océane são bons? Sim, a Océane vale a pena especialmente pela maquiagem prática em bastão, pela variedade de tons e pelos kits Minis Edition, além de contar com itens específicos de skincare feitos na Coreia do Sul e 10% OFF com o cupom EMCASA no site e no app, em todas as formas de pagamento."
       ]
     }
   ],
-  "updatedAt": "2026-11-23"
+  "updatedAt": "2026-11-24"
 }

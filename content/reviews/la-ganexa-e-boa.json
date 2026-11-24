@@ -2,8 +2,8 @@
   "id": 942,
   "slug": "la-ganexa-e-boa",
   "locale": "pt",
-  "title": "La Ganexa é boa? As pastas e o doce de leite pelo rótulo e pelo preço com cupom",
-  "seoTitle": "La Ganexa é boa? Os produtos pelo rótulo e pelo preço",
+  "title": "La Ganexa é boa? Pastas de amendoim, doce de leite, ingredientes e cupom",
+  "seoTitle": "La Ganexa é boa? Pastas de amendoim e doce de leite",
   "type": "Guia de Marca",
   "category": "guias-praticos-utilidade",
   "reviewKind": "guia",
@@ -14,11 +14,11 @@
     "initials": "CM",
     "url": "/sobre"
   },
-  "description": "As pastas e o doce de leite da La Ganexa pelo rótulo: proteína, açúcares, adoçantes e o preço por 100 g com o cupom. Sem degustação, só o que a marca declara.",
-  "metaDescription": "CECILIA dá 10% OFF na La Ganexa. Veja o que cada rótulo declara, das pastas só de amendoim aos doces sem adição de açúcar, e o preço por 100 g.",
+  "description": "Veja para quem a La Ganexa vale a pena, as diferenças entre pastas só de amendoim e de sobremesa, o doce de leite zero e o preço por 100 g com o CECILIA.",
+  "metaDescription": "CECILIA dá 10% OFF na La Ganexa. Veja para quem a marca vale, as pastas só de amendoim, os sabores de sobremesa e o preço por 100 g.",
   "publishedAt": "13 de novembro de 2026",
   "publishedAtISO": "2026-11-13",
-  "updatedAt": "2026-11-23",
+  "updatedAt": "2026-11-24",
   "draft": false,
   "isNew": true,
   "image": "/images/reviews/laganexa/la-ganexa-e-boa-capa-v2.webp",
@@ -29,13 +29,13 @@
   "cons": [],
   "decision": {
     "takeIf": [
-      "Você quer pasta só de amendoim: a lista da Natural e da Crocante traz amendoim torrado e nenhum adoçante.",
-      "Você procura uma pasta de sobremesa e aceita os adoçantes listados no sabor escolhido.",
-      "Você quer conhecer seis sabores em potes de 150 g antes de escolher uma embalagem maior."
+      "Você quer pasta só de amendoim: a Natural e a Crocante levam apenas amendoim torrado, sem adoçantes e com o menor custo por 100 g no pote de 1 kg.",
+      "Você procura pastas de sobremesa ou doce de leite sem adição de açúcar e aceita os adoçantes listados no sabor escolhido.",
+      "Você quer experimentar seis sabores em potes de 150 g antes de escolher uma embalagem maior, aproveitando 10% OFF com o CECILIA."
     ],
     "skipIf": [
-      "Você evita maltitol ou sucralose: as pastas de sobremesa listam ao menos um dos dois, e o doce de leite, sucralose.",
-      "Você quer provar um pote grande e devolver se não gostar: a troca pede produto sem uso."
+      "Você evita maltitol ou sucralose: as pastas de sobremesa listam ao menos um dos dois, e o doce de leite traz sorbitol, eritritol e sucralose.",
+      "Você quer provar um pote grande e devolver se não gostar: a troca exige produto sem uso e na embalagem original."
     ]
   },
   "cta": {
@@ -65,14 +65,15 @@
     {
       "heading": "Resposta rápida",
       "paragraphs": [
-        "A La Ganexa vende pastas de amendoim e doces que a página diz não terem adição de açúcar. A Natural e a Crocante levam só amendoim torrado; as pastas de sobremesa levam maltitol ou sucralose. O que muda a escolha é o adoçante de cada sabor e o preço por 100 g com o cupom CECILIA."
+        "Claro que vale para quem busca pastas de amendoim e doces sem adição de açúcar: a La Ganexa separa Natural e Crocante (só amendoim torrado) dos sabores de sobremesa com maltitol ou sucralose. No site oficial, o cupom CECILIA dá 10% OFF em todas as formas de pagamento. Compare adoçantes, proteínas e preço por 100 g abaixo."
       ]
     },
     {
-      "heading": "O que a La Ganexa vende",
+      "heading": "Quem é a La Ganexa: origem, catálogo e onde ver a reputação",
       "paragraphs": [
-        "A La Ganexa fabrica em Peruíbe (SP) e vende pastas de amendoim, doce de leite, cookies e snacks. O grupo da pasta já diz boa parte do que o rótulo traz: a só de amendoim tem lista curta, e a de sobremesa tem adoçante.",
-        "A tabela traz o que a marca declara e o preço de um produto de cada grupo."
+        "Nascida em 2011 a partir de uma pasta de amendoim caseira feita pela fundadora Juliana, a La Ganexa fabrica em Peruíbe (SP), onde a fábrica também vende ao público, e reúne no site oficial pastas de amendoim, doce de leite zero, cookies, suspiros, panquecas, alfajores, brigadeiro de colher e kits de degustação.",
+        "Para conferir CNPJ, entrega, prazos de avaria e o atendimento da marca, veja se a [La Ganexa é confiável](/reviews/la-ganexa-e-confiavel) e a análise da [La Ganexa no Reclame Aqui](/reviews/la-ganexa-reclame-aqui-nota-reputacao).",
+        "O grupo do produto já orienta o rótulo e o custo por 100 g: a pasta só de amendoim tem lista curta e preço menor por grama, enquanto as versões de sobremesa e os doces levam adoçantes específicos."
       ],
       "comparisonTable": {
         "caption": "Preço lido em 23 de novembro de 2026, com o Esquenta Black Friday no site. O preço com o cupom é o do dia menos 10%, e a campanha pode mudar. Fora da conta: suspiro, panqueca, alfajor e brigadeiro de colher.",
@@ -282,20 +283,21 @@
     {
       "heading": "Calorias, açúcares e polióis: o que o rótulo mostra",
       "paragraphs": [
-        "Nenhum rótulo diz sozinho como o produto cabe na sua rotina; o que dá para ler é a tabela de cada pote e a lista de ingredientes. As pastas da tabela ficam entre 543 e 597 kcal por 100 g, o que dá de 109 a 119 kcal na porção de 20 g. O Doce de Leite Zero tem 204 kcal por 100 g, e a página dele avisa: “Este não é um alimento baixo ou reduzido em valor energético”.",
-        "“Sem adição de açúcar” não quer dizer sem açúcar. A tabela traz os açúcares adicionados numa linha e os totais em outra, e em alguns sabores há ainda a linha de polióis. Confira a tabela do pote que chegar."
+        "“Sem adição de açúcar” não garante alimento pouco calórico nem ausência de açúcares totais, então a comparação precisa olhar as três linhas da tabela nutricional juntas.",
+        "As pastas da tabela ficam entre 543 e 597 kcal por 100 g, o que dá de 109 a 119 kcal na porção de 20 g. O Doce de Leite Zero tem 204 kcal por 100 g, e a página dele avisa: “Este não é um alimento baixo ou reduzido em valor energético”.",
+        "A tabela traz os açúcares adicionados numa linha e os totais em outra, e em alguns sabores há ainda a linha de polióis; confira sempre o rótulo do pote que chegar."
       ]
     },
     {
-      "heading": "Qual pasta da La Ganexa vale mais a pena?",
+      "heading": "Qual versão da La Ganexa compensa levar primeiro",
       "paragraphs": [
-        "Para pasta só de amendoim, a [Natural de 1 kg](https://lojalaganexa.com.br/products/natural) é também o menor preço por 100 g da primeira tabela. Se quiser uma versão de sobremesa, veja se maltitol ou sucralose incomodam antes de escolher o sabor e confira a lista do pote.",
+        "Para pasta só de amendoim, a [Natural de 1 kg](https://lojalaganexa.com.br/products/natural) entrega lista limpa só de amendoim torrado e o menor preço por 100 g da primeira tabela. Se preferir uma versão de sobremesa, confirme se você aceita maltitol ou sucralose antes de escolher o sabor e confira a lista do pote.",
         "Conta nossa, pelo preço do site com o cupom: o [kit de degustação de seis pastas de 150 g](https://lojalaganexa.com.br/products/kit-degustacao-com-6-pastas-de-150g-un-1-leitinho-1-pistache-1-caramelo-1-creme-de-avela-1-chocrante-e-1-cookies) sai por R$ 125,99, cerca de R$ 14,00 por 100 g. É mais caro por grama que o pote de 1 kg; o que ele compra é a chance de provar seis sabores antes de escolher.",
-        "A troca e a devolução pedem produto sem indícios de uso, na embalagem original, em até 7 dias corridos depois do recebimento. O frete grátis começa acima de R$ 250 no Sul e no Sudeste e acima de R$ 350 nas outras regiões, e o mínimo conta depois do cupom; o exemplo está em [como usar o cupom La Ganexa](/reviews/cupom-la-ganexa-como-usar).",
+        "A troca e a devolução pedem produto sem indícios de uso, na embalagem original, em até 7 dias corridos depois do recebimento. O pagamento aceita Pix (sem desconto extra) e cartão em até 3x sem juros; o frete grátis começa acima de R$ 250 no Sul e no Sudeste e acima de R$ 350 nas outras regiões, e o mínimo conta depois do cupom, como detalhamos em [como usar o cupom La Ganexa](/reviews/cupom-la-ganexa-como-usar).",
         "Dúvida de porção ou de saúde vai para o médico ou o nutricionista. A comparação com a Dr. Peanut, pelo rótulo e pelo preço por 100 g, está em [Dr. Peanut ou La Ganexa](/reviews/dr-peanut-ou-la-ganexa).",
-        "Para pagar com o CECILIA, monte o carrinho no site, clique em Finalizar a compra e, no checkout seguro da loja (seguro.lojalaganexa.com.br), toque em Inserir cupom de desconto, digite CECILIA e confira a linha Descontos. As regras do código estão na página do [cupom La Ganexa](/cupons/la-ganexa)."
+        "Para pagar com o CECILIA (10% OFF em todas as formas de pagamento), monte o carrinho no site, clique em Finalizar a compra e, no checkout seguro da loja (seguro.lojalaganexa.com.br), toque em Inserir cupom de desconto, digite CECILIA e confira a linha Descontos, especialmente no Kit 2 Doce de Leite e no Kit 2 Brigadeiros de Colher, onde a regra escrita não prevê acúmulo, mas o checkout aceitou nos testes. As regras completas ficam na página do [cupom La Ganexa](/cupons/la-ganexa)."
       ],
-      "emphasis": "Para gastar menos por 100 g, eu compraria a Natural de 1 kg; se a dúvida é o sabor, eu pediria antes o kit de degustação com seis pastas.",
+      "emphasis": "Claro que a La Ganexa vale a pena para quem quer pastas e doces sem adição de açúcar: escolha a Natural de 1 kg para pagar menos por 100 g ou comece pelo kit de degustação de seis sabores, aproveitando 10% OFF com o cupom CECILIA no checkout oficial.",
       "links": [
         {
           "label": "Ir para a La Ganexa com o CECILIA",
@@ -311,8 +313,8 @@
     {
       "heading": "Perguntas frequentes",
       "bullets": [
-        "Qual é o cupom da La Ganexa? O cupom da La Ganexa da nossa parceria é CECILIA, com 10% OFF no site oficial da loja, em todas as formas de pagamento.",
-        "A La Ganexa é boa? Natural e Crocante atendem a quem quer pasta só de amendoim; nas versões de sobremesa, a escolha depende dos ingredientes e adoçantes do sabor. O guia compara o rótulo e o preço por 100 g de cada grupo.",
+        "Qual é o cupom da La Ganexa? O cupom da La Ganexa da nossa parceria é CECILIA, com 10% OFF no site oficial da loja, em todas as formas de pagamento; confira as condições na página do [cupom La Ganexa](/cupons/la-ganexa).",
+        "A La Ganexa é boa? Vale, sim: Natural e Crocante entregam pasta só de amendoim com lista curta e ótimo preço por 100 g, enquanto as versões de sobremesa e o doce de leite zero ampliam os sabores sem adição de açúcar, com 10% OFF no cupom CECILIA.",
         "A pasta de amendoim La Ganexa tem açúcar? Adicionado, não: nos rótulos comparados, a linha de açúcares adicionados é zero. Os açúcares totais vão de 4,8 g a 14 g por 100 g, e mudam de sabor para sabor.",
         "La Ganexa engorda? O rótulo informa calorias por 100 g e por porção, e “sem adição de açúcar” não significa baixo valor energético. As faixas de kcal estão no capítulo de calorias; confira a tabela do pote.",
         "A La Ganexa tem glúten? A loja diz que os produtos são feitos sem glúten. Quem tem restrição confere o rótulo da embalagem que chegar.",

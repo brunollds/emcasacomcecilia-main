@@ -40,7 +40,7 @@
       "heading": "Risposta rapida",
       "paragraphs": [
         "Sì, Starlink conviene dove non arriva una connessione stabile e anche dove c’è la fibra, ma cade spesso o dà molta meno banda di quella contrattata. Noi l’abbiamo attivata come alternativa e backup alla nostra fibra instabile. Se la tua fibra è davvero stabile, resta più conveniente per prezzo e latenza. La prova è a basso rischio: nell’ordine di Milano il kit è a noleggio a 0 €, con 30 giorni per restituirlo.",
-        "Se sei un nuovo cliente in Italia, puoi ricevere 45 € di credito in fattura. Apri il nostro link di invito prima di ordinare, controlla l’importo indicato e mantieni l’abbonamento idoneo attivo e in regola per due cicli completi di fatturazione."
+        "Se sei un nuovo cliente in Italia, puoi ricevere 45 € di credito in fattura (non riduce il prezzo del kit). Apri il nostro link di invito prima di ordinare, controlla l’importo nel riepilogo prima di pagare e mantieni l’abbonamento idoneo attivo e in regola per due cicli completi di fatturazione."
       ],
       "links": [
         {
@@ -249,16 +249,17 @@
       ]
     },
     {
-      "heading": "Cosa dicono i clienti",
+      "heading": "Limiti pratici, contratto e assistenza",
       "paragraphs": [
-        "Su Trustpilot il profilo di Starlink ha un punteggio di 1,6 su 5, e non è un profilo rivendicato dall'azienda. Le lamentele più citate riguardano l'assistenza e i costi in fattura. Conserva l'offerta dell'ordine per confrontarla con la fattura. Leggi [l'analisi di Trustpilot](/it/reviews/starlink-trustpilot-recensioni)."
+        "L’obbligo di restituire il kit a noleggio e i prezzi promozionali a termine sono i principali limiti contrattuali dopo i 30 giorni di prova. Nell’ordine consultato a Milano compare «Nessun contratto», ma l’hardware a 0 € resta a noleggio e va rispedito integro in caso di disdetta. Inoltre lo sconto del 50 % visto a Milano dura solo per i primi 3 mesi prima del ritorno al canone pieno e non offre un blocco permanente del prezzo: salva uno screenshot del riepilogo prima di pagare per verificarlo con le fatture.",
+        "Anche sul piano operativo e dell’assistenza ci sono vincoli precisi. Le richieste di supporto per fatturazione, disdetta o reso del kit passano dall’account sul sito o dall’app Starlink, quindi conserva numero d’ordine, data di annullamento e numero della richiesta in caso di addebiti imprevisti. Nell’uso quotidiano l’antenna richiede cielo libero da rami e tetti per evitare interruzioni, può rallentare temporaneamente con pioggia molto forte o temporali e si spegne durante i blackout senza un gruppo di continuità. Per i riscontri degli utenti su assistenza e addebiti, leggi la nostra [analisi di Starlink su Trustpilot](/it/reviews/starlink-trustpilot-recensioni)."
       ]
     },
     {
       "heading": "Domande frequenti",
       "bullets": [
         "Starlink ha un coupon sconto? No. Starlink non ha coupon: con il link di invito di Cecília, chi si abbona riceve 45 € in Italia dopo due mesi di abbonamento, come credito in fattura, e chi ha invitato riceve lo stesso importo.",
-        "Starlink conviene in città? Dipende da quanto è davvero buona la tua fibra attuale. Se costa poco ed è stabile, di solito vince sul prezzo. Se cade spesso o dà molto meno del contratto, Starlink può convenire come alternativa o backup, purché ci sia il cielo aperto. È stato il nostro caso.",
+        "Starlink conviene in città? Sì, dove la fibra locale cade spesso o rende molto meno del contratto, purché ci sia il cielo aperto (è stato il nostro caso); se la tua fibra attuale costa poco ed è stabile, di solito vince sul prezzo.",
         "Starlink è meglio della fibra? Per velocità massima e latenza, una fibra sana di solito è in vantaggio. Per la continuità contro i guasti locali e i cavi tranciati in strada, Starlink aiuta perché è una via indipendente dall’operatore locale.",
         "Starlink va bene per i giochi? Prova latenza e interruzioni al tuo indirizzo. L’intervallo tipico che Starlink pubblica è un riferimento generale.",
         "Starlink è illimitata? Starlink dichiara dati illimitati nei piani residenziali. Controlla nell’ordine i limiti di velocità del piano mostrato.",

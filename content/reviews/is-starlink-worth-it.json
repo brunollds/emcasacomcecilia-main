@@ -39,8 +39,8 @@
     {
       "heading": "Quick answer",
       "paragraphs": [
-        "Yes, Starlink is worth it where no stable connection reaches you, and also where fiber exists but keeps dropping or delivers far less than advertised. We subscribed ourselves as an alternative and backup to our unstable fiber. If your fiber is genuinely stable, it usually wins on price and latency. The Nevada offer we checked listed a $0 rental kit and $20 plus taxes due when ordering.",
-        "New customers can get a $100 bill credit in the US or £40 in the UK. Open our referral link before you order, check that the reward is shown, and keep your eligible subscription paid and active for two full billing cycles."
+        "Yes, Starlink is worth it where no stable connection reaches you, and also where fiber exists but keeps dropping or delivers far less than advertised. We subscribed ourselves as an alternative and backup to our unstable fiber. If your fiber is genuinely stable, it usually wins on price and latency. The Nevada offer we checked listed a $0 rental kit, $20 plus taxes due upfront, and 30 days to try and return it.",
+        "New customers can get a $100 bill credit in the US or £40 in the UK after two full paid cycles, not as a kit discount. Open our referral link, confirm the reward on your order before paying, and keep your subscription active and paid."
       ],
       "links": [
         {
@@ -256,16 +256,17 @@
       ]
     },
     {
-      "heading": "What customers complain about",
+      "heading": "Practical, contract and support limitations",
       "paragraphs": [
-        "The Starlink profile on Trustpilot has a TrustScore of 1.6, and the most common complaints are support that is hard to reach and bills that rise. Save a screenshot of the offer on your order to compare with the invoice. See [our reading of the Trustpilot reviews](/en/reviews/starlink-trustpilot-reviews)."
+        "Hardware return rules and non-fixed monthly pricing are Starlink’s main contractual limits after the 30-day trial window. On the Nevada and London order pages we read, there is no 12-month contract, but the kit is a rental you must return undamaged if you cancel. Promotional monthly rates also have no fixed duration or permanent price lock, so save a screenshot of your order summary before paying to compare with every bill.",
+        "On support and daily operation, there are clear practical constraints as well. Support tickets, billing disputes and kit returns are handled digitally through your Starlink account on the website or in the app, so keep your order number, cancellation date and case number if an invoice differs from your order. In operation, the dish requires an unobstructed view of the sky and drops out when branches or roofs block it, slows down temporarily in very heavy rain or storms, and stops during power cuts unless backed by a UPS or portable power station. For customer feedback on billing and support, see [our reading of Starlink on Trustpilot](/en/reviews/starlink-trustpilot-reviews)."
       ]
     },
     {
       "heading": "Frequently asked questions",
       "bullets": [
         "Does Starlink have a discount coupon? No. Starlink has no coupon: through Cecília's referral link, the person who subscribes gets US$ 100 in the US (£ 40 in the UK) after two months of subscription, as credit on the bill, and the person who referred gets the same amount.",
-        "Is Starlink worth it in a city? It depends on how good your current fiber really is. If it is cheap and stable, it tends to win on cost. If it drops often or delivers far below what you pay for, Starlink can be worth it as an alternative or backup, as long as you have open sky. That was our case.",
+        "Is Starlink worth it in a city? Yes, where local fiber drops often or delivers far below what you pay for, as long as you have open sky (that was our case); if your current fiber is cheap and stable, it tends to win on cost.",
         "Is Starlink better than fiber? On peak speed and latency, healthy fiber usually has the edge. On continuity against local outages and cables cut in the street, Starlink helps because it is a route independent of the local provider.",
         "Is Starlink good for gaming? Test the latency and the interruptions at your own address. The typical range Starlink publishes is a general reference.",
         "Is Starlink unlimited? Starlink advertises unlimited data on residential plans. Check the speed limits of the plan shown on your order.",

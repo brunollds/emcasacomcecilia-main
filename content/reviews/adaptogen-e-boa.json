@@ -13,6 +13,7 @@
   },
   "publishedAt": "18 de novembro de 2026",
   "publishedAtISO": "2026-11-18",
+  "updatedAt": "2026-11-24",
   "draft": false,
   "isNew": true,
   "imageFit": "contain",
@@ -22,10 +23,10 @@
   "coupon": "CECILIA",
   "affiliate": "adaptogen",
   "type": "Guia de Marca",
-  "title": "Adaptogen é boa? O que dá para conferir nos wheys e na creatina antes de comprar",
-  "seoTitle": "Adaptogen é boa? O que conferir antes de comprar",
-  "description": "O que a Adaptogen vende, o que cada whey é de fato, o que a página informa e o que só o rótulo mostra, com a conta por dose e para quem cada um faz sentido.",
-  "metaDescription": "CECILIA dá 10% OFF na Adaptogen. Veja o que a loja informa do Tasty Whey, do HIT Protein e da creatina e a conta por dose antes de escolher.",
+  "title": "Adaptogen é boa? Gold Whey, Tasty Iso, creatina e cupom",
+  "seoTitle": "Adaptogen é boa? Gold Whey, Tasty Iso e creatina",
+  "description": "Veja para quem a Adaptogen vale a pena: compare Gold Whey, Tasty Whey 3W, HIT Protein, Tasty Iso e creatina pelo custo por dose e use o cupom CECILIA de 10% OFF.",
+  "metaDescription": "CECILIA dá 10% OFF na Adaptogen. Compare Gold Whey, Tasty Whey, HIT e Tasty Iso pelo custo por dose e veja quando cada creatina compensa.",
   "image": "/images/reviews/adaptogen/adaptogen-e-boa-capa-v2.webp",
   "imageAlt": "Pote de Creatina Platinum da Adaptogen fotografado para o catálogo sobre fundo preto texturado. A capa traz o logo Adaptogen, a chamada “Whey e creatina: o que conferir” e o cupom CECILIA.",
   "cta": {
@@ -40,6 +41,9 @@
       "slug": "cupom-adaptogen-como-usar"
     },
     {
+      "slug": "tasty-iso-adaptogen-vale-a-pena"
+    },
+    {
       "slug": "black-friday-adaptogen"
     },
     {
@@ -48,28 +52,28 @@
   ],
   "decision": {
     "takeIf": [
-      "Você quer comparar whey por custo de proteína: o Gold Whey tem o menor por 100 g entre os três cujas páginas não citam colágeno.",
-      "Você procura um isolado descrito como zero lactose e aceita pagar mais por 100 g de proteína no Tasty Iso."
+      "Você quer o menor custo por 100 g de proteína entre os wheys sem colágeno declarado da marca, com o Gold Whey.",
+      "Você busca um whey isolado e hidrolisado descrito como zero lactose no Tasty Iso ou mais variedade de sabores no Tasty Whey 3W.",
+      "Você quer somar 10% OFF com o cupom CECILIA para clientes novos e antigos no checkout oficial."
     ],
     "skipIf": [
-      "Você quer saber de sabor e digestão antes de comprar: o guia fica na composição e no preço.",
-      "Você evita glúten e escolheria o Cookies and Cream do Tasty Whey 3W ou do Tasty Iso, que as páginas dizem conter glúten.",
-      "Você pensa em levar o HIT só pelo preço: a loja não informa quanto da proteína vem do colágeno."
+      "Você evita glúten e pretende escolher sabores específicos como Cookies and Cream do Tasty Whey 3W ou do Tasty Iso, que declaram glúten.",
+      "Você pensa em levar o HIT Protein esperando apenas proteína do soro do leite, já que a loja combina whey e colágeno sem informar a proporção.",
+      "Você compara creatinas apenas pelo peso total do pote sem observar a porção de 3 g e o rendimento de doses."
     ]
   },
   "contentSections": [
     {
       "heading": "Resposta rápida",
       "paragraphs": [
-        "Pela composição e pelo preço, o Gold Whey tem o menor custo de proteína entre os três wheys cujas páginas não citam colágeno, e o Tasty Iso é descrito como zero lactose. O HIT custa menos, mas mistura whey e colágeno sem informar a proporção. O [cupom Adaptogen](/cupons/adaptogen) CECILIA dá 10% OFF; abaixo estão as diferenças e os preços."
+        "Vale, sim, especialmente para quem compara proteína por grama: o Gold Whey tem o menor custo entre os wheys sem colágeno declarado, o Tasty Iso é opção zero lactose e o HIT mistura whey e colágeno. O cupom CECILIA dá 10% OFF para cliente novo e antigo. Veja abaixo as contas por dose de wheys e creatina."
       ]
     },
     {
-      "heading": "O que a Adaptogen vende e como separar as linhas",
+      "heading": "Quem é a Adaptogen: origem e linhas do catálogo",
       "paragraphs": [
-        "A linha da Adaptogen vai de wheys e creatina a pré-treinos, aminoácidos, vitaminas, snacks e roupas. Este guia fica nos wheys e na creatina.",
-        "Segundo a loja, a marca foi criada em 2014 e a [Tasty Whey](https://www.adaptogen.com.br/produto/tasty-whey-3w-gourmet-900g-23-sabores-150434?parceiro=CECILIA) foi o primeiro produto.",
-        "Para comparar preço, separe primeiro os produtos: o [Gold](https://www.adaptogen.com.br/produto/gold-whey-900g-9-sabores-150305?parceiro=CECILIA) é concentrado; o Tasty Whey 3W mistura concentrado, isolado e hidrolisado; o [Tasty Iso](https://www.adaptogen.com.br/produto/tasty-iso-900g-7-sabores-150214?parceiro=CECILIA) é descrito como isolado e hidrolisado. O [HIT](https://www.adaptogen.com.br/produto/hit-protein-bag-900g-8-sabores-150309?parceiro=CECILIA) combina whey e colágeno. Na creatina, compare o custo da porção que fornece 3 g de creatina, não apenas o peso do pote."
+        "A Adaptogen Science foi criada em 2014 nos Estados Unidos (Hollywood, Flórida) por Fernando Rosenberg e Mário Crespo, tendo a [Tasty Whey](https://www.adaptogen.com.br/produto/tasty-whey-3w-gourmet-900g-23-sabores-150434?parceiro=CECILIA) como primeiro produto; no Brasil, a loja oficial é operada pela Adapto Company do Brasil Suplementos Alimentares Ltda. Além de wheys e creatina, o catálogo inclui pré-treinos (como Panic e Muscle Bunny), aminoácidos, vitaminas, snacks e roupas.",
+        "Para comparar os principais suplementos da marca abaixo, separe primeiro os tipos de proteína: o [Gold](https://www.adaptogen.com.br/produto/gold-whey-900g-9-sabores-150305?parceiro=CECILIA) é concentrado; o Tasty Whey 3W mistura concentrado, isolado e hidrolisado; o [Tasty Iso](https://www.adaptogen.com.br/produto/tasty-iso-900g-7-sabores-150214?parceiro=CECILIA) é descrito como isolado e hidrolisado; e o [HIT](https://www.adaptogen.com.br/produto/hit-protein-bag-900g-8-sabores-150309?parceiro=CECILIA) combina whey e colágeno. Na creatina, compare o custo da porção que fornece 3 g de creatina, não apenas o peso do pote."
       ]
     },
     {
@@ -185,10 +189,10 @@
       "heading": "Quanto custa cada dose",
       "paragraphs": [
         "Os preços foram lidos na vitrine, no cartão, sem frete e sem Pix. A loja mostrava preços de Black Friday, explicados no [guia da Black Friday da Adaptogen](/reviews/black-friday-adaptogen).",
-        "A coluna com o CECILIA é uma simulação de 10% sobre o preço do cartão. Os três wheys foram testados com o cupom no carrinho, como mostra o [artigo do Tasty Iso](/reviews/tasty-iso-adaptogen-vale-a-pena): o [Tasty Iso](https://www.adaptogen.com.br/produto/tasty-iso-900g-7-sabores-150214?parceiro=CECILIA) saiu a R$ 352,59, o [Tasty Whey 3W](https://www.adaptogen.com.br/produto/tasty-whey-3w-gourmet-900g-23-sabores-150434?parceiro=CECILIA) a R$ 243,20 e o [Gold Whey](https://www.adaptogen.com.br/produto/gold-whey-900g-9-sabores-150305?parceiro=CECILIA) a R$ 201,12. Os outros produtos da tabela ficam só na conta."
+        "A coluna com o CECILIA é uma simulação de 10% sobre o preço do cartão. Os três wheys foram testados com o cupom no carrinho, como mostra o [artigo do Tasty Iso](/reviews/tasty-iso-adaptogen-vale-a-pena): o [Tasty Iso](https://www.adaptogen.com.br/produto/tasty-iso-900g-7-sabores-150214?parceiro=CECILIA) saiu a R$ 352,59, o [Tasty Whey 3W](https://www.adaptogen.com.br/produto/tasty-whey-3w-gourmet-900g-23-sabores-150434?parceiro=CECILIA) a R$ 243,20 e o [Gold Whey](https://www.adaptogen.com.br/produto/gold-whey-900g-9-sabores-150305?parceiro=CECILIA) a R$ 201,12. Nos demais itens da tabela, a última coluna mostra a simulação de 10% sobre o preço do cartão."
       ],
       "comparisonTable": {
-        "caption": "Conta por porção: preço do pote × gramas da porção ÷ peso do pote, sem arredondar o número de porções antes. Na Flavor, usamos as 81 porções informadas pela loja. Sem frete e sem Pix; a coluna com CECILIA é calculada.",
+        "caption": "Preços da vitrine em 22/11, no cartão, sem frete e sem Pix. Conta por porção: preço do pote × gramas da porção ÷ peso do pote, sem arredondar o número de porções antes. Na Flavor, usamos as 81 porções informadas pela loja; a coluna com CECILIA é calculada.",
         "headers": [
           "Embalagem e porção",
           "Cartão, pote",
@@ -235,8 +239,8 @@
         ]
       },
       "postParagraphs": [
-        "No teste de 22/11, com a Creatina Flavor no carrinho, o cupom levou R$ 97,75 a R$ 87,97, com a linha Cupom em R$ 9,78. Em outro carrinho, com a Creatina Flavor e o HIT Protein, o total foi de R$ 244,93 para R$ 220,44, com a linha Cupom em R$ 24,49. Nos dois testes, o cupom somou com o preço de campanha. Não abrimos o pagamento.",
-        "No checkout, digite CECILIA no campo Cupom de desconto e clique em Aplicar: aparecem o aviso Cupom aplicado e a linha Cupom no resumo. A página do [cupom Adaptogen](/cupons/adaptogen) reúne o código e as condições, e o passo a passo do campo está no [guia de como usar o código](/reviews/cupom-adaptogen-como-usar)."
+        "Nos testes no carrinho com a Creatina Flavor, o cupom levou R$ 97,75 a R$ 87,97, com a linha Cupom em R$ 9,78. Em outro carrinho, com a Creatina Flavor e o HIT Protein, o total foi de R$ 244,93 para R$ 220,44, com a linha Cupom em R$ 24,49. Nos dois testes, o cupom somou com o preço de campanha.",
+        "No checkout, digite CECILIA no campo Cupom de desconto e clique em Aplicar: aparecem o aviso Cupom aplicado e a linha Cupom no resumo. No site oficial, há parcelamento no cartão em até 6x sem juros, Pix parcelado em até 4x sem juros (parcela mínima de R$ 50) e frete grátis a partir de R$ 199 no Sudeste, R$ 249 no Sul e Centro-Oeste, R$ 399 no Nordeste e R$ 599 no Norte. A página do [cupom Adaptogen](/cupons/adaptogen) reúne o código e as condições, e o passo a passo está no [guia de como usar o código](/reviews/cupom-adaptogen-como-usar)."
       ]
     },
     {
@@ -245,7 +249,7 @@
         "Entre [Gold Whey](https://www.adaptogen.com.br/produto/gold-whey-900g-9-sabores-150305?parceiro=CECILIA), [Tasty Whey 3W](https://www.adaptogen.com.br/produto/tasty-whey-3w-gourmet-900g-23-sabores-150434?parceiro=CECILIA) e [Tasty Iso](https://www.adaptogen.com.br/produto/tasty-iso-900g-7-sabores-150214?parceiro=CECILIA), o Gold tem o menor custo por 100 g de proteína declarada. As páginas desses três não citam colágeno. O [HIT](https://www.adaptogen.com.br/produto/hit-protein-bag-900g-8-sabores-150309?parceiro=CECILIA) fica separado: sua proteína inclui whey e colágeno, e a loja não informa a participação de cada um."
       ],
       "comparisonTable": {
-        "caption": "Conta nossa com a porção declarada (no Tasty Whey 3W, pote de 900 g dividido pela dose de 34 g, vezes 24 g de proteína): proteína por porção ÷ gramas de pó × 900 g. Valores no cartão; a coluna com CECILIA simula 10% de desconto. O HIT, com colágeno, é apresentado separadamente abaixo.",
+        "caption": "Cálculo pela porção declarada (no Tasty Whey 3W, pote de 900 g dividido pela dose de 34 g, vezes 24 g de proteína): proteína por porção ÷ gramas de pó × 900 g. Valores no cartão; a coluna com CECILIA simula 10% de desconto. O HIT, com colágeno, é apresentado separadamente abaixo.",
         "headers": [
           "Produto",
           "Proteína no pacote de 900 g",
@@ -279,9 +283,9 @@
       ]
     },
     {
-      "heading": "Qual escolher entre os produtos comparados",
+      "heading": "Qual whey ou creatina da Adaptogen escolher",
       "paragraphs": [
-        "Pelo preço e pela composição declarada, a escolha fica assim:"
+        "A Adaptogen vale a pena principalmente para quem compara suplementos pelo custo real por grama de proteína ou por porção de creatina, com opções claras para cada bolso e restrição alimentar, além de 10% OFF no [cupom Adaptogen](/cupons/adaptogen) CECILIA em todas as compras:"
       ],
       "bullets": [
         "**Menor custo entre os três cujas páginas não citam colágeno:** [Gold Whey](https://www.adaptogen.com.br/produto/gold-whey-900g-9-sabores-150305?parceiro=CECILIA), concentrado. Ele fica abaixo do [Tasty Whey 3W](https://www.adaptogen.com.br/produto/tasty-whey-3w-gourmet-900g-23-sabores-150434?parceiro=CECILIA) e do [Tasty Iso](https://www.adaptogen.com.br/produto/tasty-iso-900g-7-sabores-150214?parceiro=CECILIA) por 100 g de proteína.",
@@ -290,26 +294,26 @@
         "Considera o [HIT](https://www.adaptogen.com.br/produto/hit-protein-bag-900g-8-sabores-150309?parceiro=CECILIA) pelo preço: ele combina whey e colágeno. A proporção não informada impede calcular quanto se paga pela proteína de whey.",
         "**Creatina saborizada ou sem sabor:** a [Flavor](https://www.adaptogen.com.br/produto/creatina-flavor-300g-2-sabores-150228?parceiro=CECILIA) oferece 81 porções com 3 g de creatina; a [Platinum](https://www.adaptogen.com.br/produto/creatina-platinum-series-150227?parceiro=CECILIA) de 300 g declara 100 porções de 3 g e tem o menor custo por porção entre essas duas."
       ],
-      "emphasis": "Pelos números das tabelas, quem decide pelo menor custo por 100 g de proteína sem colágeno leva o Gold Whey, e o Tasty Iso só compensa para quem quer o isolado zero lactose e aceita pagar mais."
-    },
-    {
-      "heading": "Antes de começar e o que não dá para saber daqui",
-      "paragraphs": [
-        "As porções citadas são as dos rótulos e servem às contas de preço, não à indicação de quanto tomar.",
-        "Quem tem alguma condição de saúde, toma remédio, está grávida ou amamenta fala com médico ou nutricionista antes de usar.",
-        "Sabor e digestão ficam fora deste guia, e as páginas que lemos não tinham avaliações de clientes.",
-        "A tabela que lemos é a imagem da página. Confira a tabela impressa e a lista de ingredientes da embalagem que chega antes de usar.",
-        "A loja informa 7 dias corridos, a contar do recebimento, para desistir da compra, com o produto lacrado, sem uso e com nota fiscal. Para defeito, o prazo é de 30 dias. A expedição sai em até 2 dias úteis depois do pagamento confirmado."
+      "postParagraphs": [
+        "As porções citadas vêm dos rótulos para base de cálculo; quem tem alguma condição de saúde, toma medicamento, está grávida ou amamenta deve consultar médico ou nutricionista antes de usar, além de conferir a tabela impressa e a lista de ingredientes da embalagem recebida.",
+        "Para trocas e devoluções, as regras da loja preveem 7 dias corridos a contar do recebimento para desistência (com produto lacrado, sem uso e com nota fiscal) e 30 dias para defeito, com expedição em até 2 dias úteis após o pagamento confirmado."
+      ],
+      "emphasis": "Vale, sim, comprar na Adaptogen escolhendo pelo perfil de rótulo: leve o Gold Whey pelo menor custo por 100 g de proteína sem colágeno declarado, o Tasty Iso se precisa da opção zero lactose ou a Platinum Series de 300 g na creatina, sempre aplicando o cupom CECILIA no checkout para garantir 10% OFF.",
+      "links": [
+        {
+          "label": "Ver o cupom Adaptogen",
+          "href": "/cupons/adaptogen"
+        }
       ]
     },
     {
       "heading": "Perguntas frequentes",
       "bullets": [
-        "A Adaptogen é uma boa marca de whey? Este guia compara composição e preço. Entre os três produtos cujas páginas não citam colágeno, o Gold tem o menor custo por 100 g de proteína; o Tasty Iso é descrito como zero lactose. O HIT mistura whey e colágeno, sem proporção informada.",
-        "Qual é o cupom da Adaptogen? É o CECILIA, com 10% OFF no site oficial, para cliente novo e antigo. Cole no campo Cupom de desconto do checkout; a página do [cupom Adaptogen](/cupons/adaptogen) traz o código em vigor.",
-        "O Tasty Whey é isolado ou concentrado? É um 3W, que mistura concentrado, isolado e hidrolisado. A página não diz a proporção de cada um.",
-        "O HIT Protein é whey? Segundo a página, é whey concentrado com peptídeos de colágeno hidrolisado. A loja não informa quanto dos 20 g por dose vem do colágeno.",
-        "A creatina da Adaptogen é monohidratada? As páginas da Creatina Flavor e da Platinum Series dizem que sim."
+        "A Adaptogen é boa? Vale, sim, especialmente para quem compara proteína pelo custo por grama: o Gold Whey entrega o menor preço entre os wheys sem colágeno declarado, o Tasty Iso atende quem quer versão zero lactose e o cupom CECILIA dá 10% OFF no site oficial.",
+        "Qual é o cupom da Adaptogen? É o CECILIA, com 10% OFF no site oficial, para cliente novo e antigo. Cole no campo Cupom de desconto do checkout; a página do [cupom Adaptogen](/cupons/adaptogen) traz o código e as condições em vigor.",
+        "O Tasty Whey é isolado ou concentrado? É um 3W, que mistura concentrado, isolado e hidrolisado, em 23 sabores. A página não diz a proporção de cada fração.",
+        "O HIT Protein é whey? Segundo a página, é whey concentrado com peptídeos de colágeno hidrolisado. A loja não informa quanto dos 20 g por dose vem do colágeno, por isso vale comparar separado dos wheys sem colágeno declarado.",
+        "A creatina da Adaptogen é monohidratada? Sim: as páginas da Creatina Flavor e da Platinum Series informam creatina monohidratada, com 3 g por porção."
       ]
     }
   ]

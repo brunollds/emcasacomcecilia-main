@@ -40,7 +40,7 @@
       "heading": "Réponse rapide",
       "paragraphs": [
         "Oui, Starlink vaut le coup là où aucune connexion stable n’arrive, mais aussi là où la fibre existe et coupe souvent ou débite bien moins que prévu. Nous l’avons souscrite comme alternative et connexion de secours à notre fibre instable. Si votre fibre est vraiment stable, elle reste plus avantageuse en prix et en latence. L’essai est peu risqué : le kit est loué à 0 € sur la commande de Paris, avec 30 jours pour le renvoyer.",
-        "Vous souscrivez pour la première fois en France ? Vous pouvez recevoir 45 € de crédit sur votre facture. Ouvrez notre lien de parrainage avant de commander, vérifiez le montant affiché et gardez votre abonnement éligible actif et à jour pendant deux cycles complets de facturation."
+        "Vous souscrivez pour la première fois en France ? Vous pouvez recevoir 45 € de crédit sur votre facture (sans remise immédiate sur le kit). Ouvrez notre lien de parrainage, vérifiez le montant sur votre commande avant de payer et gardez votre abonnement éligible actif et à jour pendant deux cycles complets."
       ],
       "links": [
         {
@@ -249,16 +249,17 @@
       ]
     },
     {
-      "heading": "Ce que disent les clients",
+      "heading": "Limites pratiques, contrat et support",
       "paragraphs": [
-        "Le profil starlink.com sur Trustpilot affiche 1,6 sur 5, et les plaintes visent surtout le support et la facturation. Faites une capture de l'offre de votre commande pour la comparer à la facture. Voyez [la lecture de Trustpilot](/fr/reviews/starlink-trustpilot-avis)."
+        "La restitution obligatoire du matériel loué et l’absence de tarif mensuel figé constituent les principales limites contractuelles après les 30 jours d’essai. Sur la commande consultée à Paris, il n’y a pas de durée minimale, mais le kit à 0 € reste loué et doit être renvoyé en bon état en cas de résiliation. De plus, les prix promotionnels affichés n’ont pas de durée fixe ni de blocage tarifaire permanent : pensez à enregistrer une capture du récapitulatif avant de payer pour la comparer à vos factures.",
+        "Sur le support et le fonctionnement quotidien, plusieurs contraintes s’appliquent aussi. L’assistance, le suivi de facturation et le retour du kit passent par votre compte Starlink sur le site ou dans l’application, d’où l’intérêt de conserver le numéro de commande et la référence de dossier en cas d’écart sur une facture. À l’usage, l’antenne exige une vue dégagée sur le ciel (branches et toits provoquent des coupures), subit des baisses temporaires de débit par très forte pluie ou orage, et s’interrompt lors des coupures de courant sans onduleur. Voyez aussi notre [lecture de Starlink sur Trustpilot](/fr/reviews/starlink-trustpilot-avis) sur l’assistance et la facturation."
       ]
     },
     {
       "heading": "Questions fréquentes",
       "bullets": [
         "Starlink a-t-il un code promo ? Non. Starlink n'a pas de code promo : avec le lien de parrainage de Cecília, la personne qui s'abonne reçoit 45 € en France après deux mois d'abonnement, sous forme de crédit sur la facture, et le parrain reçoit le même montant.",
-        "Starlink vaut-il le coup en ville ? Cela dépend de la vraie qualité de votre fibre actuelle. Si elle est bon marché et stable, elle gagne souvent sur le coût. Si elle coupe souvent ou débite bien moins que prévu, Starlink peut valoir le coup comme alternative ou secours, à condition d’avoir un ciel dégagé. C’était notre cas.",
+        "Starlink vaut-il le coup en ville ? Oui, là où la fibre locale coupe souvent ou débite bien moins que prévu, à condition d’avoir un ciel dégagé (c’était notre cas) ; si votre fibre actuelle est bon marché et stable, elle reste plus économique.",
         "Starlink est-il meilleur que la fibre ? En débit maximal et en latence, une fibre saine garde souvent l’avantage. En continuité face aux pannes locales et aux câbles coupés dans la rue, Starlink aide parce que c’est une voie indépendante de l’opérateur local.",
         "Starlink est-il bon pour les jeux ? Testez la latence et les coupures à votre adresse. La plage typique publiée par Starlink est une référence générale.",
         "Starlink est-il illimité ? Starlink annonce des données illimitées sur les forfaits résidentiels. Vérifiez sur la commande les limites de débit du forfait affiché.",

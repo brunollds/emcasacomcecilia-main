@@ -25,20 +25,18 @@
   "imageAlt": "Composição promocional oficial da Lejour com um casal em uma moldura orgânica.",
   "imageFit": "contain",
   "imageAspect": "landscape",
-  "pros": [
-    "Criar a lista no plano Basic é grátis, então não custa nada abrir agora",
-    "Premium e Pro são pagos uma única vez e valem para sempre, à vista ou em até 12x",
-    "Na Black November, o Premium sai a R$ 49,95 e o Pro, a R$ 99,95",
-    "Novos casais elegíveis têm taxa de 1,99% na semana da Black Friday",
-    "O crédito da lista pode virar Pix ou produtos da Fast Shop, com cashback mínimo de 4%"
-  ],
-  "cons": [
-    "O BLACK50 no site é aplicado à mão, e a soma das ofertas depende do regulamento da Lejour",
-    "A taxa de 1,99% é só para novos casais elegíveis e só na Black Week",
-    "Os períodos e as regras das ofertas de 2025 não foram divulgados",
-    "Pela taxa padrão, o Premium só compensa a partir de cerca de R$ 8.325 em presentes, mesmo a R$ 49,95",
-    "O link da Cecília é só uma indicação, sem desconto"
-  ],
+  "pros": [],
+  "cons": [],
+  "decision": {
+    "takeIf": [
+      "Você já pretende assinar o Premium ou o Pro pelo domínio incluso e pelos saques ilimitados.",
+      "A estimativa de presentes da lista supera o ponto de equilíbrio em que a redução da taxa paga o plano."
+    ],
+    "skipIf": [
+      "Os convidados vão pagar a taxa e você não precisa de domínio próprio nem de mais de dois saques gratuitos.",
+      "A lista é menor e o Basic gratuito já atende sem custos extras."
+    ]
+  },
   "cta": {
     "text": "Crie o site e a lista grátis no plano Basic.",
     "label": "Criar a lista na Lejour",
@@ -65,7 +63,7 @@
     {
       "heading": "Resposta rápida: Black Friday Lejour 2026",
       "paragraphs": [
-        "A Black November da Lejour vai até 30 de novembro, com Premium e Pro pela metade: o código BLACK50 vale no site, e o app já mostra o desconto. Na semana da Black Friday, novos casais elegíveis têm taxa de 1,99% na lista. O nosso link é só indicação, sem desconto."
+        "Sim, a Black Friday da Lejour compensa para quem quer assinar Premium ou Pro pela metade, com o código BLACK50 no site e desconto direto no app durante novembro. Na Black Week, novos casais elegíveis têm taxa de 1,99%. Veja abaixo quando o plano se paga; nosso link é só indicação."
       ]
     },
     {
@@ -233,7 +231,7 @@
       "bullets": [
         "Quando começa e quanto dura a Black Friday da Lejour? A Black November vai o mês inteiro, com planos e adicionais com 50% OFF. A taxa promocional da lista vale só na Black Week, a semana da Black Friday.",
         "Como uso o BLACK50? No site, aplique o código nos planos Premium ou Pro e nos adicionais elegíveis, na hora de pagar. No app, o desconto já aparece no valor, sem código. O BLACK50 é da própria Lejour, não do Em Casa com Cecília.",
-        "Vale assinar o Premium na Black November? Depende da lista. Com o Premium a R$ 49,95, ele compensa a partir de cerca de R$ 8.325 em presentes, pela nossa conta com as taxas padrão; a conta completa está na seção sobre o Premium.",
+        "Vale assinar o Premium na Black November? Compensa quando a lista passa de cerca de R$ 8.325 em presentes, pelas taxas padrão: com o Premium a R$ 49,95, a redução da taxa paga o plano; a conta completa está na seção sobre o Premium.",
         "A taxa da lista fica menor na Black Friday? Para novos casais elegíveis, a Lejour anuncia 1,99% na Black Week, e diz que vale para toda a vida da lista. A taxa padrão é de 3,89% no Basic, 3,29% no Premium e 2,99% no Pro. A elegibilidade e a soma com outras ofertas seguem o regulamento da Lejour.",
         "Quanto a taxa pesa numa lista de R$ 20.000? No Basic, R$ 778,00; no Premium, R$ 658,00; no Pro, R$ 598,00, pelas taxas da tabela. As contas são nossas, e valem quando o casal paga a taxa.",
         "O 50% OFF vale para uma lista já criada? A página cita novos casais elegíveis só na taxa promocional, mas confira no painel da sua lista se o preço de campanha aparece antes de assinar.",

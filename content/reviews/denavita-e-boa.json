@@ -24,12 +24,12 @@
   "type": "Guia de Marca",
   "title": "Denavita é boa? Compare os suplementos pelo rótulo e pelo preço por dia",
   "seoTitle": "Denavita é boa? Rótulo, preço por dia e kits",
-  "description": "Compare o custo por dia de seis suplementos da Denavita com o EMCASA, veja como a porção da ficha muda a conta e decida entre pote avulso e opção por quantidade.",
+  "description": "Veja para quem a Denavita compensa: compare tamanho do pote, porção diária, economia dos kits e o custo por dia de seis suplementos com o cupom EMCASA da Denavita.",
   "metaDescription": "EMCASA dá 10% OFF na Denavita. Compare o preço por dia de seis suplementos e veja a diferença entre avulsos e kits.",
   "image": "/images/reviews/denavita/denavita-e-boa-hero-pt-v2.webp",
   "imageAlt": "Pote inclinado de NAC + Polivitamínico da Denavita com cápsulas ao redor, em foto com fundo lilás. A capa pergunta «É boa?», cita rótulo e preço e mostra o cupom EMCASA.",
   "cta": {
-    "text": "Se a Denavita faz sentido para você, abra o site oficial pelo botão. O código entra no checkout, no campo “Tem um cupom?”, e a linha Cupom de desconto confirma o valor.",
+    "text": "Se a Denavita faz sentido para você, abra o site oficial pelo botão. O código EMCASA da Denavita entra no checkout, no campo “Tem um cupom?”, e a linha Cupom de desconto confirma o valor.",
     "label": "Ir para a Denavita",
     "url": "https://denavita.gogroup.com.br/emcasacomcecilia",
     "sponsored": true
@@ -43,37 +43,43 @@
       "slug": "denavita-e-confiavel"
     },
     {
+      "slug": "denavita-reclame-aqui-nota-reputacao"
+    },
+    {
       "slug": "cupom-denavita-como-usar"
     }
   ],
   "decision": {
     "takeIf": [
-      "Você já escolheu o suplemento e quer comparar pote avulso e oferta do mesmo produto.",
-      "Você conferiu a quantidade da embalagem e a validade de cada pote do kit."
+      "Você compara suplementos pelo número de cápsulas ou doses, concentração declarada na ficha e custo por dia.",
+      "Você já faz uso contínuo de um item da marca e quer baixar o valor por pote nas ofertas por quantidade ou kits.",
+      "Você quer somar os 10% OFF do cupom EMCASA da Denavita inclusive no Pix ou parcelar no cartão em até 12x."
     ],
     "skipIf": [
-      "Você ainda não escolheu o suplemento e procura uma indicação de uso.",
-      "Você precisa esclarecer um alergênico da ficha antes de decidir."
+      "Você procura indicação clínica de qual suplemento tomar ou qual dose usar sem consultar médico ou nutricionista.",
+      "Você evita algum item da lista de alergênicos (como derivados de soja, peixe, crustáceos, ovo ou cápsula de gelatina) sem confirmar a embalagem.",
+      "Você não pretende consumir os vários frascos de uma compra por quantidade dentro da validade indicada no rótulo."
     ]
   },
   "contentSections": [
     {
       "heading": "Resposta rápida",
       "paragraphs": [
-        "Se você já decidiu qual suplemento comprar, compare na Denavita o tamanho do pote, a porção da ficha e o custo diário. Há avulsos, kits e opções por quantidade. O cupom EMCASA dá 10% OFF, e as tabelas mostram o preço estimado com o código. Para o mesmo produto, compare também a validade dos potes e o frete."
+        "Sim, a Denavita compensa para quem compara tamanho do pote, porção e concentração por dia na ficha e aproveita kits ou ofertas com vários potes. O cupom EMCASA da Denavita dá 10% OFF para cliente novo e antigo, inclusive em kits e no Pix. Confira abaixo o custo diário e onde vale cada compra."
       ]
     },
     {
-      "heading": "O que a Denavita vende",
+      "heading": "Quem é a Denavita: origem, reputação e o que vende",
       "paragraphs": [
-        "A Denavita vende cápsulas, gomas e suplementos em pó, com compra pelo site oficial. Entre os avulsos estão [Laranja Moro](https://www.denavita.com.br/products/laranja-moro-cafe-verde-e-cromo-30-caps), [Trio Magnésio](https://www.denavita.com.br/products/trio-magnesio), [NAC + Polivitamínico](https://www.denavita.com.br/products/nac-polivitaminico) e [Creatina 100% Pura](https://www.denavita.com.br/products/creatina-monohidratada-creatine-100-pura-micronizada-250g-denavita). Há também o shot [Jejoom](https://www.denavita.com.br/products/jejoom-shot-matinal-para-metabolismo) e o [Digestino](https://www.denavita.com.br/products/digestino).",
-        "Alguns kits juntam produtos diferentes, como o [Kit Vida Fit](https://www.denavita.com.br/products/kit-vida-fit) e o [Turbo Metabolismo](https://www.denavita.com.br/products/turbo-metabolismo). Já as opções por quantidade reúnem vários potes do mesmo produto e aparecem como variantes na página de cada um. Os preços deste guia são os da página em 21 de novembro de 2026. O pagamento vai até 12x no cartão ou no Pix."
+        "A Denavita é uma marca brasileira de vitaminas e suplementos em cápsulas, gomas, pós e shots, com vitrine oficial em denavita.com.br operada pela Vitalita Comércio e Estratégias Digitais Ltda. e checkout próprio em seguro.denavita.com.br. Entre os avulsos mais buscados estão [Laranja Moro](https://www.denavita.com.br/products/laranja-moro-cafe-verde-e-cromo-30-caps), [Trio Magnésio](https://www.denavita.com.br/products/trio-magnesio), [NAC + Polivitamínico](https://www.denavita.com.br/products/nac-polivitaminico), [Creatina 100% Pura](https://www.denavita.com.br/products/creatina-monohidratada-creatine-100-pura-micronizada-250g-denavita), o shot [Jejoom](https://www.denavita.com.br/products/jejoom-shot-matinal-para-metabolismo) e o [Digestino](https://www.denavita.com.br/products/digestino).",
+        "O catálogo também reúne kits que juntam produtos diferentes (como o [Kit Vida Fit](https://www.denavita.com.br/products/kit-vida-fit) e o [Turbo Metabolismo](https://www.denavita.com.br/products/turbo-metabolismo)) e ofertas por quantidade de vários potes do mesmo item, com pagamento em até 12x no cartão ou no Pix.",
+        "Para conferir o CNPJ, a consulta de regularização na embalagem e as regras de devolução, veja se a [Denavita é confiável](/reviews/denavita-e-confiavel); já as notas, o tempo de resposta e o histórico de entregas estão na análise da [Denavita no Reclame Aqui](/reviews/denavita-reclame-aqui-nota-reputacao)."
       ]
     },
     {
       "heading": "Porção, composição e alergênicos nas fichas",
       "paragraphs": [
-        "As porções e a composição vêm das fichas da Denavita. Confira na embalagem se a versão recebida é a que você escolheu."
+        "A loja informa: as porções, as concentrações e os alergênicos vêm das fichas da Denavita; confira na embalagem recebida se o rótulo bate com a versão escolhida."
       ],
       "bullets": [
         "**Laranja Moro.** A ficha lista Morosil®, extrato de café verde e picolinato de cromo. A quantidade de cafeína não aparece. Veja a [composição do Laranja Moro](/reviews/laranja-moro-denavita).",
@@ -94,15 +100,15 @@
     {
       "heading": "Quanto custa por dia cada pote avulso",
       "paragraphs": [
-        "Calculamos o custo diário pela porção declarada na ficha. Use o valor para orçar o produto que escolheu. O desconto da tabela é estimado sobre o preço exibido."
+        "Conta nossa: dividimos o preço anunciado de cada pote pelos dias de rendimento conforme a porção diária declarada na ficha e simulamos os 10% OFF do cupom EMCASA da Denavita para estimar o custo por dia antes do frete."
       ],
       "comparisonTable": {
-        "caption": "Preços da página e preço com o EMCASA, no cartão e antes do frete. Porções das fichas da loja.",
+        "caption": "Preços da página da Denavita em 21/11, no cartão e antes do frete, com estimativa do cupom EMCASA da Denavita. Porções das fichas da loja.",
         "headers": [
           "Produto e dias por pote",
           "Preço anunciado",
-          "Com EMCASA (estimativa)",
-          "Por dia, antes e com EMCASA"
+          "Com EMCASA na Denavita (estimativa)",
+          "Por dia, antes e com EMCASA na Denavita"
         ],
         "rows": [
           [
@@ -210,7 +216,7 @@
       },
       "postParagraphs": [
         "A validade do pote fechado e o prazo depois de abrir são informações diferentes. Confira as duas na embalagem.",
-        "O [cupom Denavita](/cupons/denavita) EMCASA deu 10% OFF nos produtos avulsos e nos kits que testamos. No teste do Bruno, o Kit Queridinhos, o Kit Vida Fit e o Turbo Metabolismo somavam R$ 659,70 no carrinho e saíram por R$ 593,73 com o EMCASA. Testamos o código em avulsos e em kits. Nas opções por quantidade, confira a linha “Cupom de desconto” no resumo antes de pagar."
+        "O [cupom Denavita](/cupons/denavita) EMCASA deu 10% OFF nos produtos avulsos e nos kits que testamos. No teste do Bruno, o Kit Queridinhos, o Kit Vida Fit e o Turbo Metabolismo somavam R$ 659,70 no carrinho e saíram por R$ 593,73 com o cupom EMCASA da Denavita. Nas opções por quantidade, confira a linha “Cupom de desconto” no resumo antes de pagar."
       ],
       "images": [
         {
@@ -223,27 +229,36 @@
       ]
     },
     {
-      "heading": "Entrega e prazo no checkout",
+      "heading": "Onde aplicar o cupom, entrega e devolução",
       "paragraphs": [
-        "A faixa da Denavita anuncia frete grátis a partir de R$ 199,90, conforme as regras da loja. Informe o CEP, aplique o cupom e confira o prazo e o total com a entrega no checkout.",
-        "Para saber quem vende e como funcionam as trocas, veja [Denavita é confiável?](/reviews/denavita-e-confiavel)."
+        "Para usar o código, finalize o carrinho até o checkout em seguro.denavita.com.br, digite o cupom EMCASA da Denavita no campo “Tem um cupom?” e clique em “Adicionar”; o abatimento de 10% aparece na linha “Cupom de desconto” do resumo, funcionando para clientes novos e antigos no cartão em até 12x e também no Pix. Veja o passo a passo de tela em [como usar o cupom Denavita](/reviews/cupom-denavita-como-usar).",
+        "A faixa da Denavita anuncia frete grátis a partir de R$ 199,90, conforme as regras da loja. Informe o CEP, aplique o cupom EMCASA da Denavita e confira o prazo e o total com a entrega no checkout. Para trocas, a central da loja informa até 7 dias corridos do recebimento para desistência (com a caixa fechada) e até 30 dias para defeito ou item diferente pelo portal de trocas."
       ]
     },
     {
-      "heading": "Quando a conta do kit ajuda",
+      "heading": "Onde a Denavita vale o pedido e como decidir pelo rótulo",
       "paragraphs": [
-        "Se você já compra o mesmo produto, compare o preço por pote e o total entregue antes de escolher entre avulso e kit. No Laranja Moro, a compra por quantidade tinha menor custo por dia e exigia um desembolso maior no pedido.",
-        "Para decidir se deve usar o suplemento, confirmar a dose ou avaliar o uso com medicamentos, fale com médico ou nutricionista."
+        "A Denavita vale a pena para quem já sabe qual suplemento procura e escolhe pelo rendimento do pote, pela concentração declarada na ficha e pelo custo diário. Nos itens de uso contínuo (como Laranja Moro, Trio Magnésio, NAC + Polivitamínico e Coenzima Q10), as ofertas por quantidade reduzem o valor por pote antes mesmo dos 10% OFF do cupom EMCASA da Denavita.",
+        "Já quem prefere testar um único frasco ou reunir fórmulas diferentes encontra nos avulsos e nos kits combinados (como o Kit Vida Fit e o Turbo Metabolismo) um caminho prático, conferindo a validade de potes múltiplos e o mínimo do frete grátis no checkout. Para decidir se deve usar o suplemento, ajustar a dose diária ou avaliar o uso com medicamentos e condições de saúde, fale sempre com médico ou nutricionista."
+      ],
+      "emphasis": "Sim, a Denavita compensa para quem compra suplemento pelo rótulo e pela conta por dia: aproveite os combos de múltiplos potes ou kits quando fizer sentido no seu consumo e aplique o cupom EMCASA da Denavita no checkout para garantir 10% OFF, inclusive no Pix.",
+      "links": [
+        {
+          "label": "Ver o cupom Denavita",
+          "href": "/cupons/denavita"
+        }
       ]
     },
     {
       "heading": "Perguntas frequentes",
       "bullets": [
-        "O que dá para comparar nos suplementos da Denavita? Use a composição e a porção da ficha para identificar o produto. Depois compare o custo diário, a quantidade que vem no pote e o frete.",
-        "Vale mais a pena comprar o kit? Compare o preço por pote do mesmo produto. O custo unitário pode cair, e vale conferir quanto você vai pagar no pedido e a validade das unidades.",
-        "A Denavita tem cupom? O EMCASA dá 10% OFF no site oficial, no cartão em até 12x ou no Pix. Aplique no campo “Tem um cupom?” e confira a linha Cupom de desconto no resumo."
+        "A Denavita é boa? Sim, a Denavita compensa para quem compara os suplementos pelo tamanho do pote, pela porção diária declarada na ficha e pela economia nos kits e combos por quantidade, somando ainda 10% OFF com o cupom EMCASA da Denavita no site oficial.",
+        "Qual é o cupom da Denavita? É o cupom EMCASA da Denavita, com 10% OFF no site oficial para clientes novos e antigos, no cartão em até 12x ou no Pix. Cole no campo “Tem um cupom?” do checkout e clique em “Adicionar”; veja as regras na página do [cupom Denavita](/cupons/denavita).",
+        "Vale mais a pena comprar pote avulso ou kit na Denavita? Para uso contínuo do mesmo suplemento, as ofertas por quantidade reduzem o valor por pote na tabela acima; já para testar um item pela primeira vez, o pote avulso evita estoque parado antes de conferir a validade.",
+        "A Denavita é confiável? Sim: a loja oficial pertence à Vitalita, possui política de trocas publicada e tem reputação Ótima no Reclame Aqui; veja todos os dados em [Denavita é confiável?](/reviews/denavita-e-confiavel) e [Denavita no Reclame Aqui](/reviews/denavita-reclame-aqui-nota-reputacao).",
+        "O cupom EMCASA da Denavita funciona em kits e no Pix? Sim: nos testes feitos no checkout, o cupom EMCASA da Denavita aplicou 10% OFF sobre produtos avulsos, kits combinados e no pagamento via Pix; nas ofertas por quantidade, confira a linha “Cupom de desconto” no resumo antes de pagar."
       ]
     }
   ],
-  "updatedAt": "2026-11-21"
+  "updatedAt": "2026-11-24"
 }
