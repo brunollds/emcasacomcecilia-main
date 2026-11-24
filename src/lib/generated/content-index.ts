@@ -328951,7 +328951,7 @@ export const reviewsData: unknown[] = [
         "paragraphs": [
           "A loja não diz qual cor serve a qual tom de pele, e este guia também não vai dizer. A Pink Cheeks apresenta as duas como cores que “se adaptam aos diferentes tons de pele”, e é só isso: não há tabela de tom nem texto que separe uma cor da outra. O Pink Stick tem paleta oficial, como mostra o [guia do Pink Stick](/reviews/pink-stick-qual-cor-escolher); para o Glow Booster, a loja não indica critério de cor.",
           "A única pista é visual, e ela é desigual: só a página do Rose Gold mostra a cor aplicada na pele (“COR ROSE GOLD”). No Pure Gold, você julga pelo frasco e pela textura. Abra as duas páginas, a do [Pure Gold](https://pinkcheeks.com.br/products/glow-booster-pure-gold-fps70-30ml) e a do [Rose Gold](https://pinkcheeks.com.br/products/glow-booster-rose-gold-fps70-30ml), antes de pagar.",
-          "A desistência em 7 dias só vale com o produto lacrado, então a cor se decide antes de abrir. As regras estão em [se a Pink Cheeks é confiável](/reviews/pinkcheeks-e-confiavel). E não confunda: o Iluminador Multifuncional Gold, da mesma loja, é outro produto, com FPS 90."
+          "A política de trocas da Pink Cheeks pede o produto lacrado na desistência em 7 dias. A regra é da loja: o arrependimento da compra online vem do Código de Defesa do Consumidor, e numa recusa o caminho é o Procon. Na prática, decida a cor antes de abrir. As regras estão em [se a Pink Cheeks é confiável](/reviews/pinkcheeks-e-confiavel). E não confunda: o Iluminador Multifuncional Gold, da mesma loja, é outro produto, com FPS 90."
         ],
         "images": [
           {
@@ -329042,7 +329042,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Quem leva o Glow Booster e como decidir a cor",
         "paragraphs": [
-          "O que o quadro acima não diz: só o Rose Gold aparece aplicado na pele, e a desistência em 7 dias só vale com o produto lacrado. A cor se decide antes de abrir o frasco."
+          "O que o quadro acima não diz: só o Rose Gold aparece aplicado na pele, e a política da loja pede o produto lacrado para a desistência. Decida a cor antes de abrir o frasco."
         ],
         "emphasis": "Pure Gold e Rose Gold têm a mesma ficha, então a decisão é por filtro e perfume, que estão na lista, e a cor fica para as fotos das duas páginas."
       },
@@ -329113,7 +329113,7 @@ export const reviewsData: unknown[] = [
       "takeIf": [
         "Você sente atrito em áreas pequenas, como o top ou a fita do frequencímetro, e quer um item fácil de levar. A loja indica o bastão Redless para tecidos e acessórios.",
         "Você quer cobrir coxas ou pés de uma vez. A loja indica o spray Redless Coat para pele com pele, em 35 ml ou 75 ml.",
-        "Você prefere aplicar com a mão em área íntima. A loja indica o Chamois Cream para virilha, coxas e axilas."
+        "Você prefere aplicar um creme com a mão. A loja indica o Chamois Cream para a pele externa da virilha, coxas e axilas."
       ],
       "skipIf": [
         "Você tem pele sensível ou evita perfume. O Chamois Cream e o bastão Speedo não trazem perfume na lista; o bastão Redless e o spray trazem, e a dúvida vai para um dermatologista.",
@@ -329124,7 +329124,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Resposta rápida",
         "paragraphs": [
-          "Na linha antiatrito da Pink Cheeks, a escolha sai da área do atrito: a loja indica o bastão Redless para o contato da pele com tecidos e acessórios, o spray Redless Coat para pele com pele e o Chamois Cream para áreas íntimas. Quem evita perfume confere a coluna de perfume da tabela abaixo."
+          "Na linha antiatrito da Pink Cheeks, a escolha sai da área do atrito: a loja indica o bastão Redless para o contato da pele com tecidos e acessórios, o spray Redless Coat para pele com pele e o Chamois Cream para a virilha, as coxas e as axilas. Quem evita perfume confere a coluna de perfume da tabela abaixo."
         ]
       },
       {
@@ -329180,16 +329180,16 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Onde aplicar cada um, segundo a loja",
         "paragraphs": [
-          "A loja separa os itens pelo tipo de atrito: pele com tecido, pele com pele e áreas íntimas."
+          "A loja separa os itens pelo tipo de atrito: pele com tecido, pele com pele e a virilha."
         ],
         "bullets": [
           "Bastão Redless: para atrito entre a pele e tecidos ou acessórios. A ficha cita áreas como o top e a fita do frequencímetro.",
           "Spray Redless Coat: para pele com pele. A loja indica para coxas e pés, áreas em que ela cita bolhas.",
-          "Redless Chamois Cream: para áreas íntimas. A ficha lista virilha, braços, coxas e axilas.",
+          "Redless Chamois Cream: a ficha lista virilha, braços, coxas e axilas.",
           "Bastão Speedo: a loja destaca a camada seca e transparente, sem apontar uma área específica."
         ],
         "postParagraphs": [
-          "Coxas aparecem no spray e no creme. Pela separação da loja, o spray é para pele roçando em pele e o creme, para áreas íntimas."
+          "Coxas aparecem no spray e no creme. Pela separação da loja, o spray é para pele roçando em pele e o creme, para a virilha."
         ],
         "images": [
           {
@@ -329280,9 +329280,9 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Perguntas frequentes",
         "bullets": [
-          "Qual antiatrito Pink Cheeks é melhor? Depende da área do atrito. No FAQ da loja, o bastão Redless é para tecidos e acessórios, o spray Redless Coat é para pele com pele e o Chamois Cream é para áreas íntimas.",
+          "Qual antiatrito Pink Cheeks é melhor? Depende da área do atrito. No FAQ da loja, o bastão Redless é para tecidos e acessórios, o spray Redless Coat é para pele com pele e o Chamois Cream é para a virilha e outras áreas de atrito.",
           "Antiatrito Pink Cheeks é bom? A loja diz que o spray forma uma película que facilita o deslizamento, sem sensação pegajosa, e que o bastão Speedo deixa uma camada seca e transparente. A tabela do início mostra o que ela destaca em cada item.",
-          "Pink Cheeks tem antiatrito em spray? Tem, o Redless Coat, em 35 ml e em 75 ml. Segundo as fichas, os dois têm a mesma fórmula e o mesmo registro.",
+          "Pink Cheeks tem antiatrito em spray? Tem, o Redless Coat, em 35 ml e em 75 ml. Segundo as fichas, os dois têm a mesma lista de ingredientes e informam o mesmo número de processo na Anvisa.",
           "Existe antiatrito Pink Cheeks de 45 g? Não existe na loja. O bastão Redless tem 18 g, o spray tem 35 ml ou 75 ml, o creme tem 100 g e o bastão Speedo tem 13 g. O único item de 45 g do catálogo é o protetor corporal Shield.",
           "Qual é o cupom da Pink Cheeks? É o PNK-EMCASACOMCECILIA, com 10% OFF no site da Pink Cheeks, para cliente novo e antigo; o capítulo de preço mostra onde colar."
         ]
