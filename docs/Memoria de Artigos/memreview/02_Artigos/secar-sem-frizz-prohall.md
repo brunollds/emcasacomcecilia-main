@@ -12,7 +12,7 @@ category: "guias-praticos-utilidade"
 reviewKind: "guia"
 type: "Guia Prático"
 anexo_tipo: "Anexo-Beleza"
-status: "pauta-aprovada"
+status: "pronto-para-deploy"
 responsavel: "Job-1"
 proxima_acao: "redacao"
 bloqueado_por: "conteúdo do Kit Completo e a ordem de uso dos itens: [PENDENTE: navegador]"
@@ -187,3 +187,10 @@ Demanda: Trends (Brasil, 12 meses) com "seca sem frizz prohall" em aumento repen
 
 - GO (Bruno, 23/11). Kits (Leave-In + Absolut One, Trio Finalizador, Kit Completo) entram só depois de lidos. A ordem de uso sai da página da loja; se ela não disser, o texto dá só o que cada ficha diz do próprio produto (o óleo se declara o último passo) e não monta protocolo nosso.
 - Leituras pendentes: pelo navegador do app no dia da redação (as leituras de 23/11 estão em [[leituras-grupo2-2311]]). Preço: a régua é o preço de tabela (memória "preço real, não promocional"); em 23/11 quase tudo estava em Black Friday, então reler fora da campanha se possível.
+
+## Capa e imagens (Job 6, aprovadas pelo Bruno em 23/11/2026)
+
+- Capa: `/images/reviews/prohall/secar-sem-frizz-prohall-capa.webp` (1600 × 900, painel verde à esquerda, `imageFit: "contain"`). Alt: Frascos da linha Secar sem Frizz da Prohall sobre a máscara, em foto oficial ambientada da loja. A capa traz o logo Prohall e a chamada “Secar sem Frizz: kit ou avulsos?”. Origem: foto oficial do site oficial lojaprohall.com.br, baixada em 23/11/2026; montagem nossa.
+- Corpo, `contentSections[2]` ("Os seis itens e o que a loja diz de cada um"): `/images/reviews/prohall/secar-sem-frizz-prohall-leave-in.webp`. Alt: Frasco Secar sem Frizz de 200 ml com bico spray, em foto oficial da Prohall. Legenda: Secar sem Frizz de 200 ml, o leave-in da linha. Foto: Prohall.
+- Corpo, `contentSections[4]` ("Kit Completo ou avulsos: onde a conta fecha"): `/images/reviews/prohall/secar-sem-frizz-prohall-kit.webp`. Alt: Itens da linha Secar sem Frizz da Prohall em infográfico oficial, com os frascos e a máscara ao lado dos ativos citados pela loja. Legenda: Itens da linha Secar sem Frizz. Imagem: Prohall.
+- Imagens novas no CDN e no mapa de entrega pelo Guia de mídia; imagens de corpo reaproveitadas já estavam no CDN.

@@ -77,10 +77,10 @@
     {
       "heading": "A referência que a loja indica em cada um",
       "paragraphs": [
-        "Cada página traz o campo “Cheiro inspirado por”. A tabela reproduz o que a loja publica e a família olfativa que o rótulo traseiro informa, quando há."
+        "Cada página traz o campo “Cheiro inspirado por”. A tabela reproduz o que a loja publica e a família olfativa que a ficha informa."
       ],
       "comparisonTable": {
-        "caption": "Referência indicada pela loja na página de cada body splash de 200 ml. A família vem do rótulo traseiro; onde não consta, a ficha não informa.",
+        "caption": "Referência indicada pela loja na página de cada body splash de 200 ml. A família é a que a ficha informa, no subtítulo ou no texto do produto.",
         "headers": [
           "Body splash",
           "Referência que a loja indica",
@@ -90,17 +90,17 @@
           [
             "[Bold Homme](https://www.thebarboursbeauty.com.br/products/body-splash-bold-homme-desodorante-colonia-200ml)",
             "Sauvage - Dior",
-            "Não informa"
+            "Aromática fougère"
           ],
           [
             "[Seduction Homme](https://www.thebarboursbeauty.com.br/products/body-splash-seduction-homme-desodorante-colonia-200ml)",
             "Bleu - Chanel",
-            "Não informa"
+            "Amadeirada aromática"
           ],
           [
             "[Ocean Homme](https://www.thebarboursbeauty.com.br/products/body-splash-ocean-homme-desodorante-colonia-200ml)",
             "Acqua di Giò Elixir - Giorgio Armani",
-            "Não informa"
+            "Amadeirado aquático (o texto da ficha diz amadeirada aromática)"
           ],
           [
             "[Midnight Homme](https://www.thebarboursbeauty.com.br/products/body-splash-midnight-homme-desodorante-colonia-200ml)",
@@ -194,7 +194,7 @@
       "bullets": [
         "Todos os seis abrem com algum cítrico (bergamota, toranja, pomelo ou mandarina), então o que separa um do outro está no corpo e no fundo.",
         "O Ocean é o único que lista notas aquáticas, no coração, e é também o único com couro no fundo.",
-        "Midnight e Urban são os dois que a loja classifica como aromática fougère, ambos com lavanda no corpo e baunilha e fava tonka no fundo.",
+        "Bold, Midnight e Urban são os três que a loja classifica como fougère. Midnight e Urban têm lavanda no corpo e baunilha e fava tonka no fundo; o Bold traz bergamota, lavanda e patchouli no subtítulo.",
         "Bold e Seduction têm pimenta-rosa no coração. O Bold fecha com patchouli e musgo de carvalho, e o Seduction, com cedro e sândalo.",
         "O Signature é o único com cardamomo no corpo e chá preto e olíbano no fundo, e a loja o chama de cítrica aromática."
       ]
@@ -249,7 +249,7 @@
       "paragraphs": [
         "O [cupom Barbour's](/cupons/barbours) CECILIALINHARES dá 10% OFF no site oficial, para cliente novo e antigo. No nosso teste com um Bold Homme avulso, o checkout aberto por Finalizar a compra mostrou Descontos de R$ 3,99 e total de R$ 35,91, em vez de R$ 39,90. O passo a passo está em [como usar o cupom CECILIALINHARES](/reviews/cupom-barbours-como-usar).",
         "Nos kits, o código também entrou sobre o preço promocional em outro teste nosso: um kit de três a R$ 109,90 saiu por R$ 98,91. Com o kit a R$ 99,90, a conta de 10% daria R$ 89,91, mas esse valor é conta nossa. Confira a linha Descontos antes de pagar.",
-        "O frete grátis muda por região, e a barra do carrinho conta o valor antes do cupom. Um frasco avulso e o kit de três ficam abaixo do mínimo de qualquer região. O kit de seis, de R$ 209,90, passa do mínimo de todas, menos o Norte, e continua acima do mínimo do Nordeste (R$ 199) mesmo com o código, porque a barra conta o valor de R$ 209,90, antes do desconto."
+        "O frete grátis muda por região, e a barra do carrinho conta o valor antes do cupom. Um frasco avulso e o kit de três ficam abaixo do mínimo de qualquer região. O kit de seis, de R$ 209,90, cai para R$ 188,91 com o código. Ele só passa o mínimo de R$ 199 do Nordeste se a loja considerar o subtotal antes do cupom, como a barra do carrinho mostrou na nossa conferência; o frete grátis com o código não está garantido."
       ],
       "comparisonTable": {
         "caption": "Mínimo para frete grátis na Barbour's, segundo a central de ajuda da loja.",

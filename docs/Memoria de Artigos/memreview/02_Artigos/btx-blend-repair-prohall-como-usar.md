@@ -12,7 +12,7 @@ category: "guias-praticos-utilidade"
 reviewKind: "guia"
 type: "Guia Prático"
 anexo_tipo: "Anexo-Beleza"
-status: "pauta-aprovada"
+status: "pronto-para-deploy"
 responsavel: "Job-1"
 proxima_acao: "redacao"
 bloqueado_por: "modo de uso completo e uso (casa ou salão) do BTX: [PENDENTE: navegador, rótulo e FAQ da página]"
@@ -186,3 +186,9 @@ Preço por grama (conta nossa, sem cupom, preço de 23/11): 300 g, R$ 0,21/g; 1 
 
 - GO (Bruno, 23/11). Se é para casa ou para profissional sai da página do produto (FAQ, rótulo) no dia da redação; sem a frase da loja, o texto diz que a ficha não informa. Tabela só com o 300 g e o 1 kg; os kits numa linha, sem conta. Formol remete à PH9 quando ela estiver no ar; antes disso, nada sobre formol.
 - Leituras pendentes: pelo navegador do app no dia da redação (as leituras de 23/11 estão em [[leituras-grupo2-2311]]). Preço: a régua é o preço de tabela (memória "preço real, não promocional"); em 23/11 quase tudo estava em Black Friday, então reler fora da campanha se possível.
+
+## Capa e imagens (Job 6, aprovadas pelo Bruno em 23/11/2026)
+
+- Capa: `/images/reviews/prohall/btx-blend-repair-prohall-como-usar-capa.webp` (1600 × 900, painel verde à esquerda, `imageFit: "contain"`). Alt: Pote do BTX Blend Repair de 300 g da Prohall, de frente, em foto oficial da loja. A capa traz o logo Prohall e a chamada “BTX Blend Repair: como usar”. Origem: foto oficial do site oficial lojaprohall.com.br, baixada em 23/11/2026; montagem nossa.
+- Corpo, `contentSections[2]` ("Casa ou profissional: a página do 300 g se contradiz"): `/images/reviews/prohall/black-friday-prohall-btx-blend-repair-300g.webp`. Alt: Pote branco de 300 gramas do BTX Blend Repair da Prohall, em foto oficial da loja Legenda: BTX Blend Repair 300 g. Foto: Prohall.
+- Imagens novas no CDN e no mapa de entrega pelo Guia de mídia; imagens de corpo reaproveitadas já estavam no CDN.

@@ -99899,7 +99899,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Resposta rápida",
         "paragraphs": [
-          "Não são a mesma marca: a Probiótica não é linha da Max Titanium, e as duas são do grupo Supley, com linhas e preços próprios. A Max leva o concentrado e o 3W pelo menor custo por 100 g de proteína; a Probiótica tem mais sabores e zero lactose. Os códigos MAX10EMCASACOMCECILIA e PRO10EMCASACOMCECILIA dão até 10% OFF."
+          "Não são a mesma marca: a Probiótica não é linha da Max Titanium, e as duas são do grupo Supley. A Max leva o concentrado e o 3W pelo menor custo por 100 g de proteína; a Probiótica tem mais sabores e o Pure Whey Zero Lactose. Os códigos MAX10EMCASACOMCECILIA e PRO10EMCASACOMCECILIA dão até 10% OFF."
         ]
       },
       {
@@ -100133,7 +100133,7 @@ export const reviewsData: unknown[] = [
           "O concentrado da Max Titanium é o [100% Whey](https://www.maxtitanium.com.br/100-whey-pote-900g/p). O da Probiótica é o [100% Pure Whey](https://www.probiotica.com.br/100-pure-whey-pote-900g/p?utm_source=creators&utm_medium=PRO10EMCASACOMCECILIA&utm_campaign=probi). Os dois vêm em pote e em refil de 900 g, com porção de 30 g e 30 porções.",
           "Na tabela de Baunilha, o 100% Whey tem 1 g de proteína a mais por porção. A proteína muda com o sabor: a página da Max fala em 20 g a 21 g, e a da Probiótica em 20 g a 24 g. Em alguns sabores, o Pure Whey passa o 100% Whey na dose. Antes de comprar, confira a tabela do sabor que você quer na página do produto.",
           "A diferença maior está no preço: o pote da Probiótica custava R$ 42,10 a mais, e o refil, R$ 39,26 a mais.",
-          "A vantagem da Probiótica está nos sabores e na lactose. São 13 sabores: Baunilha, Cookies & Cream, Chocolate Branco, Doce de Leite, Chocolate com Avelã, Leite, Caramelo Salgado, Cappuccino, Chocolate, Iogurte com Coco, Iogurte com Limão, Iogurte com Morango e Morango. A Max tem 7: Baunilha, Chocolate, Cookies & Cream, Morango, Chocolate Maltado, Pistache com Chocolate Branco e Leite.",
+          "A vantagem da Probiótica está nos sabores e em ter uma versão zero lactose. São 13 sabores: Baunilha, Cookies & Cream, Chocolate Branco, Doce de Leite, Chocolate com Avelã, Leite, Caramelo Salgado, Cappuccino, Chocolate, Iogurte com Coco, Iogurte com Limão, Iogurte com Morango e Morango. A Max tem 7: Baunilha, Chocolate, Cookies & Cream, Morango, Chocolate Maltado, Pistache com Chocolate Branco e Leite.",
           "A Probiótica também vende o [100% Pure Whey Zero Lactose](https://www.probiotica.com.br/100--pure-whey-zero-lactose-pote-900g/p?utm_source=creators&utm_medium=PRO10EMCASACOMCECILIA&utm_campaign=probi), em 3 sabores. A tabela traz 21 g de proteína em 30 g (a frente do pote diz 22 g), e o pote custava R$ 241,97. Por 100 g de proteína, ele sai a R$ 38,41, mais barato que o 100% Pure Whey comum. A busca da loja da Max não mostrou whey zero lactose."
         ],
         "images": [
@@ -148694,7 +148694,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Resposta rápida",
         "paragraphs": [
-          "Pelo rótulo, o Exquenta é um pré-treino com 150 mg de cafeína por dose de 20 g; o que separa as embalagens é o preço por dose e a versão sem cafeína. O pote de 500 g sai mais barato por dose que o de 300 g. O código MMEMCASACOMCECILIA dá 10% no site da Mais Mu."
+          "Pelo rótulo, os potes de 300 g e 500 g e os sachês lidos do Exquenta trazem 150 mg de cafeína por dose de 20 g; o que separa as embalagens é o preço por dose. O pote de 500 g sai mais barato que o de 300 g. O código MMEMCASACOMCECILIA dá 10% no site da Mais Mu."
         ]
       },
       {
@@ -305647,7 +305647,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Quais sabores existem em cada linha",
         "paragraphs": [
-          "O sabor muda de linha para linha, e a mesma palavra no nome não quer dizer o mesmo tamanho de barra. O Pistache, por exemplo, só existe no Tube, de 40 g e 10 g de proteína; a linha de 21 g não tem Pistache. O Mousse de Maracujá só existe na 21 g, e a 14 g não o tem."
+          "O sabor muda de linha para linha, e a mesma palavra no nome não quer dizer o mesmo tamanho de barra. O Pistache, por exemplo, só apareceu no Tube na vitrine consultada, de 40 g e 10 g de proteína; a linha de 21 g não tem Pistache. O Mousse de Maracujá só existe na 21 g, e a 14 g não o tem."
         ],
         "comparisonTable": {
           "caption": "A loja informa: sabores do catálogo de cada linha, sem as caixas mistas. Use os filtros para ver uma linha por vez.",
@@ -306250,9 +306250,9 @@ export const reviewsData: unknown[] = [
           "Qual a diferença da barra BOLD 21 g para a 14 g? A 21 g pesa 60 g e declara 21 g de proteína, de 215 a 239 kcal. A 14 g pesa 40 g e declara 14 g de proteína, de 151 a 161 kcal. A 21 g custa menos por 100 g de proteína declarada.",
           "Quantas calorias tem a barra BOLD? Depende da linha e do sabor: de 151 a 161 kcal na 14 g, de 215 a 239 kcal na 21 g, de 209 a 215 kcal no Crunch, de 192 a 202 kcal no Wafer e de 183 a 186 kcal no Tube, nos sabores com tabela.",
           "Qual barra BOLD tem mais proteína? A BOLD 21 g, com 21 g por barra. O Crunch declara 18 g, a 14 g declara 14 g, e o Wafer e o Tube, 10 g cada.",
-          "Qual sabor da barra BOLD tem menos açúcar? Nas tabelas usadas neste guia, o Bombom Crocante 14 g tem o menor valor, 1,6 g de açúcares totais; o maior é o do Chocomalte 21 g, com 5,3 g.",
+          "Qual sabor da barra BOLD tem menos açúcar? Nas tabelas usadas neste guia, o Bombom Crocante 14 g tem o menor valor, 1,6 g de açúcares totais; o maior é o do Chocomalte 21 g, com 5,3 g no texto da loja e 5,4 g na foto do rótulo.",
           "Quantas barras vêm na caixa da BOLD? As caixas das cinco linhas têm 12 unidades.",
-          "A barra BOLD tem sabor Pistache? Tem, só no Tube, de 40 g e 10 g de proteína. A linha de 21 g não tem Pistache.",
+          "A barra BOLD tem sabor Pistache? Na vitrine consultada, encontramos Pistache só no Tube, de 40 g e 10 g de proteína, e não na linha de 21 g.",
           "Quais sabores tem a barra BOLD de 14 g? Bombom Crocante, Chocomalte, Cookies Black, Cookies & Cream, Doce de Leite e Trufa de Chocolate. O Mousse de Maracujá existe só na linha de 21 g."
         ]
       }
@@ -332742,7 +332742,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "A barra BOLD tem açúcar? Zero adicionado e açúcares totais",
         "paragraphs": [
-          "A loja informa “zero açúcar adicionado”, e a tabela de cada sabor lido traz açúcares adicionados de 0 g. Isso não é o mesmo que zero açúcar: a linha de açúcares totais mostra de 1,6 g a 5,3 g por barra, conforme a linha e o sabor. Quem controla açúcar lê a linha de açúcares totais."
+          "A loja informa “zero açúcar adicionado”, e a tabela de cada sabor lido traz açúcares adicionados de 0 g. Isso não é o mesmo que zero açúcar: a linha de açúcares totais mostra de 1,6 g a 5,3 g por barra, conforme a linha e o sabor. O 5,3 g, do Chocomalte 21 g, é o valor do texto da loja; a foto do rótulo desse sabor mostra 5,4 g. Quem controla açúcar lê a linha de açúcares totais."
         ],
         "comparisonTable": {
           "caption": "Valores das páginas de cada sabor lido, por barra, e os adoçantes da lista de ingredientes.",
@@ -332976,7 +332976,7 @@ export const reviewsData: unknown[] = [
         "paragraphs": [
           "O que decide a compra é a pergunta de rótulo de cada pessoa, e não a palavra saudável. Quem precisa evitar glúten, lactose, leite ou soja encontra o mesmo “contém” em todas as linhas lidas. Quem acompanha açúcar lê a linha de açúcares totais, e quem só quer comparar tamanho e preço vai ao guia da 21 g ou 14 g."
         ],
-        "emphasis": "Para quem controla o açúcar, a escolha é comparar o sabor e não só a linha: os açúcares totais vão de 1,6 g a 5,3 g por barra, e as faixas das linhas se sobrepõem."
+        "emphasis": "Para quem controla o açúcar, a escolha é comparar o sabor e não só a linha: os açúcares totais vão de 1,6 g a 5,3 g por barra no texto da loja (5,4 g na foto do rótulo do Chocomalte 21 g), e as faixas das linhas se sobrepõem."
       },
       {
         "heading": "Perguntas frequentes",
@@ -333043,7 +333043,7 @@ export const reviewsData: unknown[] = [
       "takeIf": [
         "Denavita: você quer ômega 3 pelo menor preço por dia, ou o pote de coenzima Q10 mais barato, com o código.",
         "Rituária: você quer NAC com 600 mg por cápsula, sem o polivitamínico, coenzima Q10 com mais miligramas por real ou ômega 3 com certificação IFOS, e dá peso à nota maior no Reclame Aqui.",
-        "As duas: você quer magnésio ou NAC e vai decidir pela fórmula, já que o preço por dia é o mesmo."
+        "As duas: você quer magnésio ou NAC e vai decidir pela fórmula, já que o preço por frasco é o mesmo."
       ],
       "skipIf": [
         "Denavita: você quer magnésio ou NAC em cápsula sem gelatina; as da Denavita são de gelatina.",
@@ -333061,7 +333061,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Magnésio e NAC: o que cada rótulo informa",
         "paragraphs": [
-          "Os dois pares têm o mesmo preço no site, então a diferença está na fórmula. Os números abaixo são os das páginas de produto de cada loja."
+          "Os dois pares têm o mesmo preço por frasco no site, então a diferença está na fórmula. Os números abaixo são os das páginas de produto de cada loja."
         ],
         "comparisonTable": {
           "caption": "Fichas das páginas de produto. A Rituária não traz imagem de tabela nutricional na galeria do magnésio, e os valores dela vêm do texto e do FAQ da loja.",
@@ -333115,7 +333115,7 @@ export const reviewsData: unknown[] = [
         },
         "postParagraphs": [
           "Os números de magnésio não se comparam direto. A Denavita publica 210 mg na tabela; a Rituária lista os sais e fala em 152 mg de magnésio elementar na resposta do FAQ, sem tabela na galeria. Antes de comparar, vale pedir à loja a mesma base, por porção.",
-          "No NAC, as fórmulas não são equivalentes: a da Denavita é um polivitamínico com NAC; a da Rituária, NAC com dois minerais. A tabela e o FAQ da Denavita imprimem “Iodo (mg) 150”, como está escrito; a unidade a loja pode esclarecer."
+          "No NAC, as fórmulas não são equivalentes: a da Denavita é um polivitamínico com NAC; a da Rituária, NAC com dois minerais. A ficha da Denavita imprime “150 mg” de iodo, mas a unidade deve ser conferida no rótulo. A página também traz valores diferentes de NAC: 600 mg por cápsula no texto e 300 mg de L-cisteína na fórmula."
         ],
         "images": [
           {
@@ -333198,7 +333198,7 @@ export const reviewsData: unknown[] = [
           "Os potes têm cápsulas e porções diferentes, então a comparação é pelo preço por dia, pela porção que a ficha de cada loja informa."
         ],
         "comparisonTable": {
-          "caption": "Preço de cada página em 23/11, em promoção, compra única, sem frete e sem Pix. A coluna do código é a conta de 10% sobre o preço da página.",
+          "caption": "Preço de cada página em 23/11, em promoção, compra única, sem frete e sem Pix. A coluna do código é a conta de 10% sobre o preço da página. No NAC da Denavita, o valor por dia supõe as 2 cápsulas do modo de uso; a página cita 1 cápsula em outro trecho.",
           "headers": [
             "Par",
             "Loja e pote",
@@ -333273,7 +333273,7 @@ export const reviewsData: unknown[] = [
           ]
         },
         "postParagraphs": [
-          "Conta nossa: o preço da página, vezes 0,9, dividido pelos dias que o pote rende na porção da ficha. Magnésio e NAC empatam; em ômega 3 e no pote de coenzima Q10, a Denavita é mais barata com o mesmo número de dias. Por 100 mg de coenzima Q10, a conta inverte: R$ 1,89 por 100 mg na Denavita (100 mg por cápsula) e R$ 1,40 na Rituária (R$ 2,10 ÷ 1,5, com 150 mg por cápsula). Preço igual ou menor por dia não quer dizer produto igual, como os dois capítulos anteriores mostram.",
+          "Conta nossa: o preço da página, vezes 0,9, dividido pelos dias que o pote rende na porção da ficha. Magnésio empata por dia e o NAC empata por frasco (o da Denavita, só se forem 2 cápsulas ao dia); em ômega 3 e no pote de coenzima Q10, a Denavita é mais barata com o mesmo número de dias. Por 100 mg de coenzima Q10, a conta inverte: R$ 1,89 por 100 mg na Denavita (100 mg por cápsula) e R$ 1,40 na Rituária (R$ 2,10 ÷ 1,5, com 150 mg por cápsula). Preço igual ou menor por dia não quer dizer produto igual, como os dois capítulos anteriores mostram.",
           "Não montamos par para o que só lemos de um lado: Laranja Moro e Tons, na Denavita ([Laranja Moro Denavita](/reviews/laranja-moro-denavita), [Denavita Tons](/reviews/denavita-tons)), e o Brain+, na Rituária ([Rituária Brain+](/reviews/rituaria-brain-para-que-serve))."
         ]
       },
@@ -333406,13 +333406,13 @@ export const reviewsData: unknown[] = [
       },
       {
         "heading": "Denavita ou Rituária: qual escolher por produto?",
-        "emphasis": "Em magnésio e NAC, o preço por dia empata e a escolha passa a ser a fórmula; em ômega 3, a Denavita custa menos por dia, porque o pote dela é mais barato para os mesmos 30 dias; em coenzima Q10, o pote da Denavita é mais barato, mas a Rituária custa menos por 100 mg (conta nossa).",
+        "emphasis": "Em magnésio, o preço por dia empata, e em NAC o preço por frasco empata; nos dois, a escolha passa a ser a fórmula; em ômega 3, a Denavita custa menos por dia, porque o pote dela é mais barato para os mesmos 30 dias; em coenzima Q10, o pote da Denavita é mais barato, mas a Rituária custa menos por 100 mg (conta nossa).",
         "paragraphs": [
           "Entre os produtos comparados:"
         ],
         "bullets": [
           "**Quer magnésio:** o preço empata. A Denavita publica 210 mg de magnésio na tabela, em cápsula de gelatina; a Rituária usa cápsula vegana e põe L-treonina e vitamina B6 na fórmula.",
-          "**Quer NAC:** o preço empata. A Rituária tem 600 mg de NAC por cápsula, com selênio e molibdênio; a Denavita é um polivitamínico com NAC, de 2 cápsulas por dia.",
+          "**Quer NAC:** o preço por frasco empata. A Rituária tem 600 mg de NAC por cápsula, com selênio e molibdênio; a Denavita é um polivitamínico com NAC, de 2 cápsulas por dia.",
           "**Quer coenzima Q10:** a Rituária tem 150 mg de coenzima Q10 por cápsula, contra 100 mg da Denavita, que também leva ômega 3 vegetal; por dia, o pote da Denavita sai mais barato, mas por 100 mg de coenzima Q10 a da Rituária custa menos (conta nossa).",
           "**Quer ômega 3:** a Denavita custa menos por dia que as duas fórmulas da Rituária. A Rituária tem certificação IFOS e separa a fórmula por foco, e a base dos números da Denavita não está explícita.",
           "**Pesa a reputação no atendimento:** a Rituária tem nota maior no Reclame Aqui, e as duas respondem a todas as reclamações."
@@ -333439,8 +333439,8 @@ export const reviewsData: unknown[] = [
         "heading": "Perguntas frequentes",
         "bullets": [
           "Qual é o cupom da Denavita e o da Rituária? O cupom das duas é o EMCASA, com 10% OFF no site oficial de cada loja, para cliente novo ou antigo. Cada loja tem o seu carrinho, então são dois pedidos, e o código vale em cada um.",
-          "Denavita ou Rituária, qual é melhor? Depende do produto: em magnésio e NAC o preço por dia empata e a escolha é pela fórmula; no ômega 3, a Denavita sai mais barata por dia; na coenzima Q10, o pote da Denavita é mais barato, mas a Rituária custa menos por 100 mg; no Reclame Aqui, a Rituária tem a nota maior. Os perfis estão no capítulo do veredito.",
-          "Qual sai mais barata por dia? Por pote e por dia, a Denavita custa o mesmo ou menos nos quatro pares. Na coenzima Q10, por 100 mg, a Rituária custa menos (conta nossa). O produto não é igual em todos os pares, então vale olhar o rótulo antes do preço.",
+          "Denavita ou Rituária, qual é melhor? Depende do produto: em magnésio o preço por dia empata e em NAC o preço por frasco empata, e a escolha é pela fórmula; no ômega 3, a Denavita sai mais barata por dia; na coenzima Q10, o pote da Denavita é mais barato, mas a Rituária custa menos por 100 mg; no Reclame Aqui, a Rituária tem a nota maior. Os perfis estão no capítulo do veredito.",
+          "Qual sai mais barata por dia? Por pote, a Denavita custa o mesmo ou menos nos quatro pares. Na coenzima Q10, por 100 mg, a Rituária custa menos (conta nossa). O produto não é igual em todos os pares, então vale olhar o rótulo antes do preço.",
           "O código soma com a promoção? Na Rituária, o EMCASA somou com o “Leve 3, Pague 2” no carrinho que testamos. Na Denavita, ele entrou sobre preço promocional e kits; nas opções por quantidade, confira a linha “Cupom de desconto” no resumo.",
           "As duas têm Anvisa? Não lemos número de notificação em nenhuma das duas páginas. A Rituária diz, no FAQ do 4Mag, seguir as normas e as especificações da Anvisa, o que é uma declaração da loja, não uma aprovação. Confira o rótulo do pote que chegar.",
           "Onde comprar? Nos sites oficiais de cada loja, onde o código vale. Não conferimos as duas em marketplaces."
@@ -333561,7 +333561,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Para que serve, funciona e é bom?",
         "paragraphs": [
-          "O rótulo da foto traz a frase “Vitamina A contribui para a manutenção da pele” e a faixa “Skin care”. Fora isso, a ficha que lemos dá composição, dose e advertências, e não informa resultado esperado nem prazo para efeito.",
+          "A Denavita apresenta o Tons como suporte diário para o cuidado com a pele e atribui à vitamina A a manutenção da pele. A ficha dá composição, dose e advertências, e não informa resultado esperado nem prazo para efeito.",
           "Por isso este guia não responde se o Tons funciona: o que o rótulo permite dizer é o que está na tabela. Quanto ao “é bom” e à resenha, o guia lê o rótulo e a ficha, sem avaliações de clientes. A página também não traz bula; o que existe é o rótulo e as advertências da loja."
         ]
       },
@@ -333575,7 +333575,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Quanto dura o pote e quanto custa por dia",
         "paragraphs": [
-          "Com uma cápsula ao dia, o pote de 30 dura 30 dias. A opção de 2 unidades aparece com frete grátis na página."
+          "Com uma cápsula ao dia, o pote de 30 dura 30 dias. O selo “Frete Grátis” aparece na opção de 3 unidades."
         ],
         "comparisonTable": {
           "caption": "Preços à vista da página em 23/11, sem frete. Conta pela porção de uma cápsula por dia; a coluna do código é 10% sobre o preço da página.",
@@ -333636,7 +333636,7 @@ export const reviewsData: unknown[] = [
         "heading": "Perguntas frequentes",
         "bullets": [
           "Qual é o cupom da Denavita? O cupom da Denavita é o EMCASA, com 10% OFF no site oficial, em todas as formas de pagamento. Digite no campo “Tem um cupom?” do checkout aberto pelo botão Finalizar compra e confira a linha Cupom de desconto.",
-          "O Tons funciona e para que serve? A ficha não informa resultado nem prazo. O que ela traz é a composição, a dose de uma cápsula ao dia e as advertências; o rótulo da foto cita a vitamina A e a manutenção da pele.",
+          "O Tons funciona e para que serve? A Denavita apresenta o Tons como suporte diário para o cuidado com a pele e atribui à vitamina A a manutenção da pele. A ficha não informa resultado nem prazo; traz a composição, a dose de uma cápsula ao dia e as advertências.",
           "Como tomar o Tons? Uma cápsula ao dia, junto de uma refeição, segundo a loja. Depois de aberto, a loja manda consumir preferencialmente em 30 dias.",
           "O Tons tem bula? A página não traz bula. O que existe é o rótulo e as advertências da loja.",
           "O Tons tem registro na Anvisa? Nem a página nem as imagens que lemos citam a Anvisa ou trazem número de notificação. Confira o rótulo do pote que chegar.",
@@ -333725,10 +333725,10 @@ export const reviewsData: unknown[] = [
       {
         "heading": "A referência que a loja indica em cada um",
         "paragraphs": [
-          "Cada página traz o campo “Cheiro inspirado por”. A tabela reproduz o que a loja publica e a família olfativa que o rótulo traseiro informa, quando há."
+          "Cada página traz o campo “Cheiro inspirado por”. A tabela reproduz o que a loja publica e a família olfativa que a ficha informa."
         ],
         "comparisonTable": {
-          "caption": "Referência indicada pela loja na página de cada body splash de 200 ml. A família vem do rótulo traseiro; onde não consta, a ficha não informa.",
+          "caption": "Referência indicada pela loja na página de cada body splash de 200 ml. A família é a que a ficha informa, no subtítulo ou no texto do produto.",
           "headers": [
             "Body splash",
             "Referência que a loja indica",
@@ -333738,17 +333738,17 @@ export const reviewsData: unknown[] = [
             [
               "[Bold Homme](https://www.thebarboursbeauty.com.br/products/body-splash-bold-homme-desodorante-colonia-200ml)",
               "Sauvage - Dior",
-              "Não informa"
+              "Aromática fougère"
             ],
             [
               "[Seduction Homme](https://www.thebarboursbeauty.com.br/products/body-splash-seduction-homme-desodorante-colonia-200ml)",
               "Bleu - Chanel",
-              "Não informa"
+              "Amadeirada aromática"
             ],
             [
               "[Ocean Homme](https://www.thebarboursbeauty.com.br/products/body-splash-ocean-homme-desodorante-colonia-200ml)",
               "Acqua di Giò Elixir - Giorgio Armani",
-              "Não informa"
+              "Amadeirado aquático (o texto da ficha diz amadeirada aromática)"
             ],
             [
               "[Midnight Homme](https://www.thebarboursbeauty.com.br/products/body-splash-midnight-homme-desodorante-colonia-200ml)",
@@ -333842,7 +333842,7 @@ export const reviewsData: unknown[] = [
         "bullets": [
           "Todos os seis abrem com algum cítrico (bergamota, toranja, pomelo ou mandarina), então o que separa um do outro está no corpo e no fundo.",
           "O Ocean é o único que lista notas aquáticas, no coração, e é também o único com couro no fundo.",
-          "Midnight e Urban são os dois que a loja classifica como aromática fougère, ambos com lavanda no corpo e baunilha e fava tonka no fundo.",
+          "Bold, Midnight e Urban são os três que a loja classifica como fougère. Midnight e Urban têm lavanda no corpo e baunilha e fava tonka no fundo; o Bold traz bergamota, lavanda e patchouli no subtítulo.",
           "Bold e Seduction têm pimenta-rosa no coração. O Bold fecha com patchouli e musgo de carvalho, e o Seduction, com cedro e sândalo.",
           "O Signature é o único com cardamomo no corpo e chá preto e olíbano no fundo, e a loja o chama de cítrica aromática."
         ]
@@ -333897,7 +333897,7 @@ export const reviewsData: unknown[] = [
         "paragraphs": [
           "O [cupom Barbour's](/cupons/barbours) CECILIALINHARES dá 10% OFF no site oficial, para cliente novo e antigo. No nosso teste com um Bold Homme avulso, o checkout aberto por Finalizar a compra mostrou Descontos de R$ 3,99 e total de R$ 35,91, em vez de R$ 39,90. O passo a passo está em [como usar o cupom CECILIALINHARES](/reviews/cupom-barbours-como-usar).",
           "Nos kits, o código também entrou sobre o preço promocional em outro teste nosso: um kit de três a R$ 109,90 saiu por R$ 98,91. Com o kit a R$ 99,90, a conta de 10% daria R$ 89,91, mas esse valor é conta nossa. Confira a linha Descontos antes de pagar.",
-          "O frete grátis muda por região, e a barra do carrinho conta o valor antes do cupom. Um frasco avulso e o kit de três ficam abaixo do mínimo de qualquer região. O kit de seis, de R$ 209,90, passa do mínimo de todas, menos o Norte, e continua acima do mínimo do Nordeste (R$ 199) mesmo com o código, porque a barra conta o valor de R$ 209,90, antes do desconto."
+          "O frete grátis muda por região, e a barra do carrinho conta o valor antes do cupom. Um frasco avulso e o kit de três ficam abaixo do mínimo de qualquer região. O kit de seis, de R$ 209,90, cai para R$ 188,91 com o código. Ele só passa o mínimo de R$ 199 do Nordeste se a loja considerar o subtotal antes do cupom, como a barra do carrinho mostrou na nossa conferência; o frete grátis com o código não está garantido."
         ],
         "comparisonTable": {
           "caption": "Mínimo para frete grátis na Barbour's, segundo a central de ajuda da loja.",
@@ -334032,9 +334032,15 @@ export const reviewsData: unknown[] = [
         ]
       },
       {
+        "heading": "Os valores por frasco",
+        "paragraphs": [
+          "Na Wepink, o body splash de 200 ml aparece a R$ 31,90 ou R$ 33,90 nos exemplos que conferimos. Na Barbour's, o frasco avulso custa R$ 39,90 e fica em R$ 35,91 com o CECILIALINHARES. São valores de frasco, antes do frete."
+        ]
+      },
+      {
         "heading": "Qual sai por menos por ml",
         "paragraphs": [
-          "Os dois vendem body splash de 200 ml, então a comparação é direta: o preço do frasco dividido por 200 ml, com o código da Barbour's aplicado primeiro. A Wepink não tem código nosso. Entram só frascos avulsos, sem kit, frete nem outra promoção."
+          "Os dois vendem body splash de 200 ml, então a comparação é direta: o preço do frasco dividido por 200 ml, com o código da Barbour's aplicado primeiro. A Wepink não tem código nosso. Entram só frascos avulsos, sem kit, frete nem outra promoção, e a conclusão vale antes do frete."
         ],
         "comparisonTable": {
           "caption": "Preço de venda nos sites oficiais em 23 de novembro de 2026, frasco avulso de 200 ml, sem o valor riscado e antes do frete. O CECILIALINHARES foi testado no frasco avulso da Barbour's.",
@@ -334237,7 +334243,7 @@ export const reviewsData: unknown[] = [
           "A Wepink ganha para quem compra pelo preço por ml e quer escolher entre muitas fragrâncias, a R$ 31,90 ou R$ 33,90, contra R$ 35,91 na Barbour's já com o código.",
           "A Barbour's ganha para quem quer a referência olfativa e as notas na ficha, usa o [cupom Barbour's](/cupons/barbours) CECILIALINHARES e dá peso à nota maior no Reclame Aqui. Ela avisa que a referência não promete cheiro idêntico ao do perfume citado.",
           "No kit de três da Barbour's, a conta de 10% (nossa, não testada nesse preço) daria R$ 14,99 por 100 ml, abaixo dos R$ 15,95 da Wepink no frasco avulso. Os kits da Wepink não foram comparados.",
-          "Quem precisa de frete grátis deve conferir o mínimo da região: um frasco avulso não chega a ele em nenhuma."
+          "Quem precisa de frete grátis deve conferir o mínimo da região: só o mínimo regional da Barbour's foi confirmado, e nele um frasco avulso fica abaixo."
         ],
         "emphasis": "Para quem compra frasco avulso pelo preço por ml, a Wepink sai na frente: R$ 31,90 o frasco de 200 ml contra R$ 35,91 na Barbour's já com o código; para quem quer a referência e as notas na ficha, a Barbour's."
       },
@@ -334313,14 +334319,14 @@ export const reviewsData: unknown[] = [
       ],
       "skipIf": [
         "a peça que você quer está sem descrição e você não tem como conferir a medida.",
-        "você conta com trocar direto por outro tamanho: na BAW, a troca vira crédito e o dinheiro só volta na devolução."
+        "você conta com trocar direto por outro tamanho: na BAW, a troca por tamanho vira crédito para um novo pedido."
       ]
     },
     "contentSections": [
       {
         "heading": "Resposta rápida",
         "paragraphs": [
-          "A BAW não tem uma tabela de tamanhos única: as medidas ficam na descrição de cada peça, com variação de até 3%. A troca vira crédito, e a devolução devolve o dinheiro em até 7 dias corridos, mas a política não cita tamanho como motivo: confirme com o atendimento. O BAWEMCASACOMCECILIA dá 10% OFF no site e no aplicativo."
+          "A BAW não tem uma tabela de tamanhos única: as medidas ficam na descrição de cada peça, com variação de até 3%. A troca vira crédito, e a devolução pode ser solicitada em até 7 dias corridos do recebimento. O BAWEMCASACOMCECILIA dá 10% OFF no site e no aplicativo."
         ]
       },
       {
@@ -334781,8 +334787,8 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Troca e devolução se o tamanho não servir",
         "paragraphs": [
-          "Pela [política de trocas e devoluções da BAW](https://www.bawclothing.com.br/trocas-e-devolucoes), lida em 16 de novembro de 2026, “as trocas na BAW são feitas exclusivamente através de crédito em conta”, e a loja informa que não faz “trocas manuais de peça por peça, nem mesmo em casos de troca por tamanho”. A devolução é outra coisa: devolve o dinheiro, na mesma forma de pagamento. Para troca ou devolução, o prazo é de 7 dias corridos do recebimento, com a peça sem uso, com etiqueta e na embalagem original, e a primeira troca ou devolução tem frete grátis.",
-          "A política não cita tamanho como motivo de devolução. Se você quer o dinheiro de volta em vez de crédito, confirme com o atendimento antes de comprar. O capítulo de troca e devolução está no guia [BAW Clothing é confiável?](/reviews/baw-clothing-e-confiavel)."
+          "Pela [política de trocas e devoluções da BAW](https://www.bawclothing.com.br/trocas-e-devolucoes), lida em 16 de novembro de 2026, “as trocas na BAW são feitas exclusivamente através de crédito em conta”, e a loja informa que não faz “trocas manuais de peça por peça, nem mesmo em casos de troca por tamanho”. A devolução é outra coisa: devolve o dinheiro, na mesma forma de pagamento. Sete dias corridos do recebimento é o prazo para solicitar a troca ou a devolução, com a peça sem uso, com etiqueta e na embalagem original, e a primeira troca ou devolução tem frete grátis. A loja informa até dez dias úteis para analisar a peça depois de recebê-la, e o prazo do reembolso começa depois disso.",
+          "Se a peça não serviu, solicite a devolução em até sete dias corridos do recebimento. A troca por outro tamanho é feita via crédito para um novo pedido. O capítulo de troca e devolução está no guia [BAW Clothing é confiável?](/reviews/baw-clothing-e-confiavel)."
         ]
       },
       {
@@ -334990,7 +334996,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Troca, envio e onde comprar",
         "paragraphs": [
-          "Na BAW, a troca vira crédito, e a devolução devolve o dinheiro, em até 7 dias corridos, com a peça sem uso e com etiqueta. A primeira troca ou devolução tem frete grátis. Os detalhes estão em [BAW Clothing é confiável?](/reviews/baw-clothing-e-confiavel).",
+          "Na BAW, a troca vira crédito, e a devolução devolve o dinheiro. Sete dias corridos do recebimento é o prazo para solicitar, com a peça sem uso e com etiqueta, e a loja informa até dez dias úteis para analisar a peça depois de recebê-la. A primeira troca ou devolução tem frete grátis. Os detalhes estão em [BAW Clothing é confiável?](/reviews/baw-clothing-e-confiavel).",
           "A Carnan informa, em sua página de trocas e devoluções, que a primeira troca ou devolução é gratuita, pelo portal Troque Fácil, com reembolso em até 7 dias úteis ou voucher. Para o envio, informa até 10 dias úteis de separação e despacho, e retirada na loja de Pinheiros, em São Paulo.",
           "Cada marca vende no próprio site. Para a BAW, o endereço é [bawclothing.com.br](https://www.bawclothing.com.br/). A Carnan não é parceira nossa, e por isso não há link nem código dela aqui. Na BAW, o [cupom BAW](/cupons/baw) BAWEMCASACOMCECILIA dá 10% OFF e se digita no campo de cupom do carrinho. As condições estão em [como usar o cupom da BAW](/reviews/cupom-baw-como-usar)."
         ]
@@ -335107,7 +335113,7 @@ export const reviewsData: unknown[] = [
           "FPS 30 e FPS 50 caem na mesma faixa da norma; o número que quase ninguém olha é o UVA. Pela [RDC 629/2022](https://anvisalegis.datalegis.net/action/ActionDatalegis.php?acao=abrirTextoAto&tipo=RDC&numeroAto=00000629&seqAto=000&valorAno=2022&orgao=RDC/DC/ANVISA/MS&codTipo=&desItem=&desItemFim=&cod_menu=1696&cod_modulo=134&pesquisa=true), o FPS é a razão entre a dose de radiação que causa vermelhidão na pele (eritema) com o produto e sem ele, uma medida ligada à queimadura. O fator de proteção UVA, o FPUVA, segue a mesma lógica, mas olha o escurecimento persistente da pele, a reação usada para medir o UVA. A [SBD](https://www.sbd.org.br/cuidados/cuidados-com-a-pele-no-verao/) pede para ler os dois: o FPS, que indica o UVB, e o PPD, que indica o UVA.",
           "O artigo 12 da norma fixa o mínimo de todo protetor: FPS 6, comprimento de onda crítico de 370 nm e FPUVA de pelo menos um terço do FPS declarado na rotulagem. Para a dúvida entre FPS 30 e 50, o anexo da norma agrupa de 30 a 50 numa faixa só, a de alta proteção, e chama de proteção muito alta o que passa de 50.",
           "O terço é a regra do protetor solar. Base, BBS e pó entram na mesma conta para comparação; se forem multifuncionais pela norma, a exigência deles é outra, e a embalagem diz qual é o caso.",
-          "A tabela divide o UVA pelo FPS de cada produto da BioBio e compara com o mínimo da norma, um terço, ou 0,33. A loja escreve só \"UVA\" e um número, e a conta trata esse número como o FPUVA da norma."
+          "A tabela divide o UVA pelo FPS de cada produto da BioBio. A loja escreve só \"UVA\" e um número, e a conta trata esse número como o FPUVA da norma."
         ],
         "comparisonTable": {
           "caption": "FPS e UVA vêm da página de cada produto; a divisão é conta nossa.",
@@ -335116,7 +335122,7 @@ export const reviewsData: unknown[] = [
             "FPS",
             "UVA",
             "UVA ÷ FPS",
-            "Contra o mínimo de um terço"
+            "Regra do terço (só para protetor solar)"
           ],
           "rows": [
             [
@@ -335138,26 +335144,26 @@ export const reviewsData: unknown[] = [
               "33",
               "25",
               "0,76",
-              "Acima do mínimo"
+              "Só comparação: produto com cor"
             ],
             [
               "BBS Blush, Batom e Sombra FPS 63",
               "63",
               "24",
               "0,38",
-              "Acima do mínimo"
+              "Só comparação: produto com cor"
             ],
             [
               "Pó Translúcido Facial FPS 42",
               "42",
               "14",
               "0,33",
-              "Exatamente um terço (14 × 3 = 42)"
+              "Só comparação: produto com cor"
             ]
           ]
         },
         "postParagraphs": [
-          "Pelos números da loja, o Facial e o Kids ficam acima do terço. Os três com cor também, e o pó fica exatamente nele. A conta serve para conferir se o rótulo fecha com a regra, não para ordenar produtos."
+          "Pelos números da loja, o Facial e o Kids, os dois protetores, ficam acima do terço. Na base, no BBS e no pó, a divisão aparece só para comparar: a regra do terço é a do protetor solar, e a norma trata o produto multifuncional em artigos próprios. A conta não ordena produtos."
         ],
         "images": [
           {
@@ -336010,5 +336016,983 @@ export const reviewsData: unknown[] = [
       }
     ],
     "updatedAt": "2026-11-24"
+  },
+  {
+    "id": 1405,
+    "slug": "btx-blend-repair-prohall-como-usar",
+    "locale": "pt",
+    "title": "BTX Blend Repair Prohall: como usar e qual tamanho escolher",
+    "seoTitle": "BTX Blend Repair Prohall: como usar e qual tamanho",
+    "type": "Guia Prático",
+    "category": "guias-praticos-utilidade",
+    "reviewKind": "guia",
+    "author": {
+      "name": "Cecília Mauad",
+      "slug": "cecilia-mauad",
+      "role": "Em Casa com Cecília",
+      "initials": "CM",
+      "url": "/sobre"
+    },
+    "description": "O BTX Blend Repair da Prohall: o passo a passo que a página publica, a contradição entre uso em casa e uso profissional, e o preço por grama dos tamanhos de 300 g e 1 kg.",
+    "metaDescription": "O CECILIAMC dá até 10% na Prohall. BTX Blend Repair: o que a ficha diz do modo de uso e qual tamanho pedir, pelo preço por grama do dia.",
+    "publishedAt": "24 de novembro de 2026",
+    "publishedAtISO": "2026-11-24",
+    "draft": false,
+    "isNew": true,
+    "image": "/images/reviews/prohall/btx-blend-repair-prohall-como-usar-capa.webp",
+    "imageAlt": "Pote do BTX Blend Repair de 300 g da Prohall, de frente, em foto oficial da loja. A capa traz o logo Prohall e a chamada “BTX Blend Repair: como usar”.",
+    "imageFit": "contain",
+    "imageAspect": "landscape",
+    "pros": [],
+    "cons": [],
+    "decision": {
+      "takeIf": [
+        "Você vai aplicar com um cabeleireiro ou já tirou com a loja a dúvida sobre o uso em casa.",
+        "Você usa com frequência e vai gastar o pote de 1 kg inteiro, que sai mais barato por grama."
+      ],
+      "skipIf": [
+        "Você quer aplicar em casa sem dúvida: a página do 300 g fala em casa e em cabeleireiro habilitado ao mesmo tempo.",
+        "Você precisa da composição completa: a lista de ingredientes só está no rótulo do pote, não no site."
+      ]
+    },
+    "cta": {
+      "text": "Se o BTX Blend Repair faz sentido para você, abra o site oficial pelo botão e digite CECILIAMC em “Código de desconto”, no checkout.",
+      "label": "Ir para a Prohall",
+      "url": "https://lojaprohall.com.br/",
+      "sponsored": true
+    },
+    "coupon": "CECILIAMC",
+    "affiliate": "prohall",
+    "editorialNote": "Dados das páginas dos produtos; não usamos o BTX. Podemos receber comissão pelo cupom.",
+    "relatedArticles": [
+      {
+        "slug": "prohall-e-boa"
+      },
+      {
+        "slug": "cupom-prohall-como-usar"
+      },
+      {
+        "slug": "secar-sem-frizz-prohall"
+      },
+      {
+        "slug": "biomask-prohall-para-que-serve"
+      }
+    ],
+    "contentSections": [
+      {
+        "heading": "Resposta rápida",
+        "paragraphs": [
+          "A página do pote de 300 g do BTX Blend Repair traz “Uso profissional: Fórmula desenvolvida para salão, para aplicação por cabeleireiro habilitado”, embora o título fale em casa. O passo a passo da loja: lavar, aplicar mecha por mecha, deixar agir de 40 a 60 minutos e enxaguar. O CECILIAMC dá até 10% no site."
+        ]
+      },
+      {
+        "heading": "O que é o BTX Blend Repair e quais tamanhos existem",
+        "paragraphs": [
+          "O BTX Blend Repair é uma selagem enxaguada, vendida em pote de 300 g e de 1 kg. A loja o descreve como um BTX capilar orgânico, com “selagem e antifrizz dos fios”, indicado para todos os tipos de cabelo, inclusive com química, em transição ou nos métodos LOW e NO POO. Os ativos que a página cita são colágeno hidrolisado, ácido lático, óleo de coco e o Lumini System, sem quantidade de cada um.",
+          "O guia [Prohall é boa?](/reviews/prohall-e-boa) mostra onde o BTX entra entre as linhas da marca; aqui o assunto é só ele."
+        ]
+      },
+      {
+        "heading": "Casa ou profissional: a página do 300 g se contradiz",
+        "paragraphs": [
+          "Este é o ponto que mais pesa antes de comprar, e a própria página do pote de 300 g dá duas respostas. O título do produto diz “Antifrizz em Casa”, e o subtítulo fala em um produto “no tamanho ideal para casa”.",
+          "Mais abaixo, o bloco institucional da mesma página diz: “Uso profissional: Fórmula desenvolvida para salão, para aplicação por cabeleireiro habilitado.” A foto do rótulo do pote também traz a inscrição USO PROFISSIONAL / PROFESSIONAL USE. No pote de 1 kg não há essa dupla leitura: o título é “Antifrizz Profissional” e o rótulo traz a mesma inscrição.",
+          "A página não diz qual das duas vale. Se você pretende aplicar em casa, pergunte à loja antes de comprar."
+        ],
+        "images": [
+          {
+            "src": "/images/reviews/prohall/black-friday-prohall-btx-blend-repair-300g.webp",
+            "alt": "Pote branco de 300 gramas do BTX Blend Repair da Prohall, em foto oficial da loja",
+            "caption": "BTX Blend Repair 300 g. Foto: Prohall.",
+            "objectFit": "contain",
+            "aspectRatio": 1
+          }
+        ]
+      },
+      {
+        "heading": "Como usar o BTX Blend Repair: os quatro passos da loja",
+        "paragraphs": [
+          "A loja informa quatro passos, e nenhum deles muda a dúvida do capítulo anterior."
+        ],
+        "bullets": [
+          "Lave o cabelo com um shampoo de limpeza profunda e tire o excesso de umidade com a toalha.",
+          "Aplique o produto mecha por mecha.",
+          "Deixe agir de 40 a 60 minutos, “de acordo com o alinhamento desejado”.",
+          "Enxágue por completo e faça a escova."
+        ],
+        "postParagraphs": [
+          "No FAQ da página, a loja fala em “finalize como preferir”. Ela não explica o que muda entre 40 e 60 minutos. Quem procura uma linha pensada para a hora de secar encontra outra opção no guia [Secar sem Frizz da Prohall](/reviews/secar-sem-frizz-prohall)."
+        ]
+      },
+      {
+        "heading": "O que conferir no rótulo antes de aplicar",
+        "paragraphs": [
+          "A lista completa de ingredientes só está no rótulo do pote: a Prohall não a publica no site. Intervalo entre aplicações, teste de mecha e validade depois de aberto também não aparecem na página. A prancha só surge em respostas a clientes, fora do passo a passo.",
+          "Em dúvida de saúde do couro cabeludo ou do fio, a orientação é a do dermatologista."
+        ],
+        "checklist": {
+          "title": "Conferir no rótulo antes de aplicar",
+          "items": [
+            "Lista completa de ingredientes, se você tem alergia ou sensibilidade.",
+            "Intervalo recomendado entre as aplicações.",
+            "Prazo de validade depois de aberto.",
+            "Se há orientação de teste de mecha."
+          ]
+        }
+      },
+      {
+        "heading": "Qual tamanho escolher: 300 g ou 1 kg",
+        "paragraphs": [
+          "O 1 kg custa menos por grama, e o 300 g custa menos para quem quer só começar."
+        ],
+        "comparisonTable": {
+          "caption": "Preço do dia no site da Prohall, 23/11.",
+          "headers": [
+            "Tamanho",
+            "Preço no site",
+            "Preço por g",
+            "Com o CECILIAMC"
+          ],
+          "rows": [
+            [
+              "[BTX Blend Repair 300 g](https://lojaprohall.com.br/products/btx-capilar-organico-blend-repair-300g)",
+              "R$ 62,90",
+              "R$ 0,21 por g",
+              "R$ 58,50 (testado no carrinho)"
+            ],
+            [
+              "[BTX Blend Repair 1 kg](https://lojaprohall.com.br/products/btx-capilar-organico-blend-repair-1kg)",
+              "R$ 149,90",
+              "R$ 0,15 por g",
+              "não testado"
+            ]
+          ]
+        },
+        "postParagraphs": [
+          "Conta nossa: a diferença é de cerca de R$ 0,06 por grama a favor do 1 kg. Ela só vale se você usar o pote inteiro, e a validade depois de aberto não está na página. Segundo a loja, a tabela comparativa da página do 300 g fala em até 5 aplicações completas.",
+          "Quem aplica com profissional ou com frequência leva o 1 kg; quem vai testar leva o 300 g. A loja vende ainda kits com o BTX, como o de 300 g com a máscara Biomask; o preço e o conteúdo de cada um ficam na página do kit."
+        ],
+        "emphasis": "Eu só pediria depois de perguntar à loja se o uso em casa vale: a página diz as duas coisas, e essa resposta pesa mais na escolha do que a diferença por grama."
+      },
+      {
+        "heading": "Como aplicar o CECILIAMC",
+        "paragraphs": [
+          "O CECILIAMC vale até 10% na Prohall, e nos nossos testes o carrinho mostrou 7%. Para usar, no checkout do site oficial, digite CECILIAMC no campo “Código de desconto” e toque em “Aplicar”. As condições estão na página do [cupom Prohall](/cupons/prohall), e o passo a passo, em [como usar o cupom da Prohall](/reviews/cupom-prohall-como-usar)."
+        ],
+        "links": [
+          {
+            "label": "Ir para a Prohall com o CECILIAMC",
+            "href": "https://lojaprohall.com.br/",
+            "sponsored": true
+          },
+          {
+            "label": "Ver o cupom Prohall",
+            "href": "/cupons/prohall"
+          }
+        ]
+      },
+      {
+        "heading": "Perguntas frequentes",
+        "bullets": [
+          "Qual é o cupom da Prohall? O cupom da Prohall da nossa parceria é CECILIAMC, com até 10% OFF no site oficial, em todas as formas de pagamento. Nos nossos testes, o desconto foi de 7%.",
+          "BTX Prohall: como usar? A loja informa quatro passos, do shampoo de limpeza profunda ao enxágue e à escova, com 40 a 60 minutos de ação. Veja o capítulo do passo a passo.",
+          "O BTX Blend Repair é para usar em casa? A página do 300 g se contradiz; veja o capítulo sobre casa ou uso profissional. Se você pretende aplicar em casa, pergunte à loja antes de comprar.",
+          "Qual a composição do BTX Blend Repair? A página cita colágeno hidrolisado, ácido lático, óleo de coco e Lumini System. A lista completa de ingredientes só está no rótulo do pote.",
+          "Qual tamanho do BTX Prohall compensa mais? O de 1 kg tem o menor preço por grama, mas só compensa para quem usa o pote inteiro. O de 300 g custa menos para começar.",
+          "Existe BTX Blond da Prohall? Não. O BTX Blend Repair existe em 300 g e 1 kg; o Select Blond é outra linha da marca.",
+          "Onde comprar o BTX Blend Repair? No site oficial da Prohall, com o código CECILIAMC no campo “Código de desconto”, no checkout."
+        ]
+      }
+    ]
+  },
+  {
+    "id": 1406,
+    "slug": "prohall-ou-cadiveu",
+    "locale": "pt",
+    "title": "Prohall ou Cadiveu: BTX Blend Repair ou Bye Bye Frizz, o que cada loja declara e o preço do dia",
+    "seoTitle": "Prohall ou Cadiveu: BTX ou selagem, o que cada loja diz",
+    "type": "Comparativo",
+    "category": "guias-praticos-utilidade",
+    "reviewKind": "guia",
+    "author": {
+      "name": "Cecília Mauad",
+      "slug": "cecilia-mauad",
+      "role": "Em Casa com Cecília",
+      "initials": "CM",
+      "url": "/sobre"
+    },
+    "description": "BTX Blend Repair, da Prohall, e Bye Bye Frizz, da Cadiveu, lado a lado: o que cada página declara, o volume, o preço do dia, os kits e as condições de cada loja.",
+    "metaDescription": "Com o CECILIAMC, até 10% de desconto na Prohall. Prohall ou Cadiveu: o que cada loja declara sobre a selagem, o volume, o preço do dia e as condições.",
+    "publishedAt": "24 de novembro de 2026",
+    "publishedAtISO": "2026-11-24",
+    "draft": false,
+    "isNew": true,
+    "image": "/images/reviews/prohall/prohall-e-boa-capa-v2.webp",
+    "imageAlt": "Frasco Burix One da Prohall com tampa e rótulo visíveis, em recorte de arte oficial da marca, com logo, “Prohall é boa?” e cupom CECILIAMC.",
+    "imageFit": "contain",
+    "imageAspect": "landscape",
+    "pros": [],
+    "cons": [],
+    "decision": {
+      "takeIf": [
+        "Você quer o tratamento de pausa e enxágue e tem um cabeleireiro para aplicar, ou já confirmou com a Prohall o uso em casa.",
+        "Você quer escolher entre o pote de 300 g e o de 1 kg e usar o CECILIAMC no site da Prohall."
+      ],
+      "skipIf": [
+        "Você só compra com a lista completa de ingredientes na página: a do BTX fica no rótulo, e a Cadiveu publica a da Bye Bye Frizz.",
+        "Você quer um produto para finalizar o cabelo no dia a dia sem enxaguar: é assim que a Cadiveu descreve a Bye Bye Frizz.",
+        "Você não aplicaria um produto de uso profissional sem um cabeleireiro habilitado."
+      ]
+    },
+    "cta": {
+      "text": "Se a comparação ajudou, abra o site oficial pelo botão e digite CECILIAMC em “Código de desconto”, no checkout.",
+      "label": "Ir para a Prohall",
+      "url": "https://lojaprohall.com.br/",
+      "sponsored": true
+    },
+    "coupon": "CECILIAMC",
+    "affiliate": "prohall",
+    "editorialNote": "Podemos receber comissão pelo cupom da Prohall. Ninguém da equipe usou os produtos.",
+    "relatedArticles": [
+      {
+        "slug": "prohall-e-boa"
+      },
+      {
+        "slug": "btx-blend-repair-prohall-como-usar"
+      },
+      {
+        "slug": "prohall-ou-forever-liss"
+      },
+      {
+        "slug": "prohall-reclame-aqui-nota-reputacao"
+      }
+    ],
+    "contentSections": [
+      {
+        "heading": "Resposta rápida",
+        "paragraphs": [
+          "Pelas próprias páginas, são etapas diferentes: a Cadiveu apresenta a Bye Bye Frizz como produto da etapa de finalização, aplicado no cabelo úmido, sem enxágue, com o calor para potencializar; o BTX da Prohall tem pausa de 40 a 60 minutos, enxágue e escova. A página do BTX ainda se contradiz sobre casa ou salão."
+        ]
+      },
+      {
+        "heading": "Os dois produtos lado a lado",
+        "paragraphs": [
+          "O BTX custa menos por frasco com o CECILIAMC e vem em pote maior; a Bye Bye Frizz tem a lista de ingredientes na página. A tabela põe lado a lado o que cada loja declara."
+        ],
+        "comparisonTable": {
+          "caption": "Preço do dia no site de cada loja, 23/11. A linha do cupom é o teste no carrinho. O volume é o declarado na página.",
+          "headers": [
+            "O que a página diz",
+            "Prohall: BTX Blend Repair 300 g",
+            "Cadiveu: Bye Bye Frizz Selagem Gradativa 200 ml"
+          ],
+          "rows": [
+            [
+              "Preço do dia",
+              "R$ 62,90",
+              "R$ 63,90"
+            ],
+            [
+              "Com o CECILIAMC (teste no carrinho)",
+              "R$ 58,50",
+              "Não se aplica"
+            ],
+            [
+              "Volume declarado",
+              "300 g",
+              "200 ml"
+            ],
+            [
+              "Nome e descrição na página",
+              "[BTX capilar orgânico](https://lojaprohall.com.br/products/btx-capilar-organico-blend-repair-300g), “selagem e antifrizz dos fios”",
+              "Selagem gradativa; declara “100% vegana”"
+            ],
+            [
+              "Como a página descreve o uso",
+              "Mecha por mecha, de 40 a 60 minutos, enxágue e escova",
+              "Etapa de finalização, em cabelo limpo e úmido, no comprimento e nas pontas, sem enxágue; calor opcional para potencializar o efeito"
+            ],
+            [
+              "Calor e duração, como a loja diz",
+              "Proteção térmica até 230 °C; rendimento de até 5 aplicações completas",
+              "Protege contra o calor de até 180 °C; ação antifrizz por até 72 horas"
+            ],
+            [
+              "Composição na página",
+              "Cita colágeno hidrolisado, ácido lático, óleo de coco e Lumini System; a lista completa fica só no rótulo, segundo a Prohall",
+              "Lista completa de ingredientes publicada; ativos citados: óleo de camélia, óleo e extrato de germe de trigo e manteiga de karité"
+            ]
+          ]
+        }
+      },
+      {
+        "heading": "Selagem nas duas lojas: o que cada página descreve",
+        "paragraphs": [
+          "A Prohall chama o BTX de “selagem e antifrizz dos fios”, e o modo de uso da página manda aplicar mecha por mecha, deixar agir de 40 a 60 minutos, enxaguar e fazer escova; a página cita proteção térmica até 230 °C. A Cadiveu apresenta a Bye Bye Frizz como produto da etapa de finalização: com o cabelo limpo e úmido, aplica-se no comprimento e nas pontas, sem enxágue, e as ferramentas de calor servem para potencializar o efeito. A página fala em proteção contra o calor de até 180 °C, ação antifrizz por até 72 horas e, em pequenas quantidades, retoque de frizz localizado; declara “100% vegana” e publica a lista de ingredientes.",
+          "As duas páginas usam a mesma palavra, selagem, mas, segundo elas, são etapas diferentes: o BTX é um tratamento com pausa e enxágue, e a Bye Bye Frizz é de finalização, sem enxágue.",
+          "As frases de resultado, como a ação antifrizz por até 72 horas, são da Cadiveu, e “selagem e antifrizz” é da Prohall. Este guia não compara resultado."
+        ]
+      },
+      {
+        "heading": "Casa ou salão: a página do BTX se contradiz",
+        "paragraphs": [
+          "A página do BTX de 300 g dá duas respostas. O título do produto diz “Antifrizz em Casa”, e o subtítulo fala em um tamanho “ideal para casa”. Mais abaixo, o bloco institucional diz “Uso profissional: Fórmula desenvolvida para salão, para aplicação por cabeleireiro habilitado”, e a foto do rótulo traz a inscrição USO PROFISSIONAL / PROFESSIONAL USE. O pote de [1 kg](https://lojaprohall.com.br/products/btx-capilar-organico-blend-repair-1kg) se chama “Antifrizz Profissional”.",
+          "Como a página do BTX dá as duas respostas, vale o rótulo do pote e o que a Prohall responder no atendimento.",
+          "Se você tem couro cabeludo sensível, alergia ou fez química recentemente, converse com um cabeleireiro ou com um dermatologista antes de aplicar qualquer selagem. O passo a passo do BTX, como a Prohall o publica, está em [BTX Blend Repair da Prohall: como usar](/reviews/btx-blend-repair-prohall-como-usar)."
+        ],
+        "images": [
+          {
+            "src": "/images/reviews/prohall/black-friday-prohall-btx-blend-repair-300g.webp",
+            "alt": "Pote branco de 300 gramas do Btx Blend Repair da Prohall, com rótulo verde, em foto oficial da loja",
+            "caption": "BTX Blend Repair 300 g. Foto: Prohall.",
+            "objectFit": "contain",
+            "aspectRatio": 1
+          }
+        ]
+      },
+      {
+        "heading": "Preço do frasco, com o volume ao lado",
+        "paragraphs": [
+          "Compare o frasco pelo volume escrito, e não por grama ou por ml: o BTX vem em gramas e a Bye Bye Frizz, em mililitros. Dentro da Prohall a conta existe: o pote de 300 g, a R$ 62,90, sai a cerca de R$ 0,21 por grama, e o de 1 kg, a R$ 149,90, a cerca de R$ 0,15.",
+          "O [cupom Prohall](/cupons/prohall) CECILIAMC dá até 10% OFF no site oficial. No nosso teste de checkout com o BTX de 300 g, o preço foi de R$ 62,90 para R$ 58,50, antes do frete: 7%. O código é só da Prohall.",
+          "O preço do BTX é o da campanha de novembro e pode subir quando ela acabar; o da Bye Bye Frizz não estava em promoção. Confira os dois antes de comprar."
+        ]
+      },
+      {
+        "heading": "Os kits do BTX",
+        "paragraphs": [
+          "O kit do BTX compensa pouco: a economia sobre os itens avulsos é de R$ 2,90 a R$ 9,90. A tabela mostra o que a página de cada kit informa."
+        ],
+        "comparisonTable": {
+          "caption": "Preço do dia no site da Prohall, 23/11, sem cupom.",
+          "headers": [
+            "Kit",
+            "Preço do dia",
+            "O que a página informa"
+          ],
+          "rows": [
+            [
+              "[Kit BTX 300 g e Biomask 300 g](https://lojaprohall.com.br/products/kit-btx-organico-blend-repair-mascara-biomask-2x300g)",
+              "R$ 119,90",
+              "BTX Blend Repair e máscara Biomask, de 300 g cada"
+            ],
+            [
+              "[Kit BTX 1 kg e Âmbar Oil 60 ml](https://lojaprohall.com.br/products/btx-capilar-organico-blend-repair-1kg-oleo-finalizador-ambar-oil)",
+              "R$ 209,90",
+              "BTX Blend Repair e óleo finalizador"
+            ]
+          ]
+        },
+        "postParagraphs": [
+          "Conta nossa, pelos preços do dia: o kit do BTX de 300 g com a Biomask sai R$ 2,90 abaixo dos dois avulsos (R$ 62,90 mais R$ 59,90, ou R$ 122,80), e o kit do BTX de 1 kg com o Âmbar Oil, R$ 9,90 abaixo (R$ 149,90 mais R$ 69,90, ou R$ 219,80)."
+        ]
+      },
+      {
+        "heading": "Secar sem Frizz e Liso Mágico: o shampoo do dia a dia",
+        "paragraphs": [
+          "Se a dúvida é a linha do dia a dia e não a selagem, o shampoo é o item que dá para comparar direto: o [shampoo da Secar sem Frizz](https://lojaprohall.com.br/products/secar-sem-frizz-shampoo-limpeza-suave), da Prohall, custa R$ 59,90 em 250 ml, e o do Liso Mágico, da Cadiveu, R$ 45,90 em 250 ml. Os outros itens da linha da Prohall estão em [Secar sem Frizz da Prohall](/reviews/secar-sem-frizz-prohall)."
+        ]
+      },
+      {
+        "heading": "Frete, parcelamento e trocas",
+        "paragraphs": [
+          "O frete e as trocas não decidem a escolha: as duas lojas têm prazo de arrependimento igual, e o frete grátis depende do valor do carrinho."
+        ],
+        "comparisonTable": {
+          "headers": [
+            "O que a loja informa",
+            "Prohall",
+            "Cadiveu"
+          ],
+          "rows": [
+            [
+              "Frete grátis",
+              "Mínimo por região: R$ 99 no Sudeste, R$ 149 no Sul, R$ 179 no Centro-Oeste e R$ 199 no Norte e no Nordeste; pelo que a loja nos informou, o mínimo conta depois do cupom",
+              "Acima de R$ 399 e só na região Sudeste"
+            ],
+            [
+              "Parcelamento",
+              "Até 10x sem juros no cartão, com parcela mínima de R$ 20",
+              "Não exibido na página da Bye Bye Frizz"
+            ],
+            [
+              "Arrependimento",
+              "7 dias, com reembolso; o pedido volta completo, e a política da Prohall cobra do cliente a postagem da devolução",
+              "7 dias"
+            ],
+            [
+              "Defeito ou avaria",
+              "Reembolso pedido em até 30 dias, com autorização de postagem dos Correios",
+              "Avaria avisada em 24 horas; defeito em até 30 dias corridos"
+            ],
+            [
+              "Estorno",
+              "No cartão, em até duas faturas; no boleto, em até 30 dias úteis",
+              "No cartão, em até duas faturas; no boleto, 10 dias úteis; no Pix, 2 dias úteis"
+            ]
+          ]
+        },
+        "postParagraphs": [
+          "Uma selagem sozinha não chega ao frete grátis em nenhuma das duas: na Prohall o mínimo muda com a região, e na Cadiveu só vale no Sudeste.",
+          "Pelo Código de Defesa do Consumidor, no arrependimento da compra online o consumidor recebe de volta o que pagou; se houver cobrança de frete na devolução, o caminho é o Procon."
+        ]
+      },
+      {
+        "heading": "Qual levar, por perfil",
+        "paragraphs": [
+          "Se você tem um cabeleireiro para aplicar, ou já confirmou com a Prohall o uso em casa, o BTX sai por R$ 58,50 com o CECILIAMC, em pote de 300 g, contra R$ 63,90 da Bye Bye Frizz em 200 ml. Se você só compra com a lista completa de ingredientes na página, a Cadiveu publica a da Bye Bye Frizz, e a Prohall deixa a do BTX no rótulo. Quem quer um pote maior encontra o BTX também em 1 kg."
+        ],
+        "emphasis": "Eu não compraria o BTX para aplicar sozinha sem antes perguntar à Prohall se o pote de 300 g é para casa. Com a resposta, a conta fica simples: frasco, volume e o código.",
+        "links": [
+          {
+            "label": "Ir para a Prohall com o CECILIAMC",
+            "href": "https://lojaprohall.com.br/",
+            "sponsored": true
+          },
+          {
+            "label": "Ver o cupom Prohall",
+            "href": "/cupons/prohall"
+          }
+        ]
+      },
+      {
+        "heading": "Perguntas frequentes",
+        "bullets": [
+          "O BTX da Prohall é igual à selagem da Cadiveu? As duas lojas usam o nome selagem, mas, segundo as páginas, são etapas diferentes: a Prohall fala em pausa, enxágue e escova, e a Cadiveu, em finalização sem enxágue, com o calor para potencializar.",
+          "O BTX Blend Repair é para casa ou para salão? A página do pote de 300 g se contradiz: o título diz “Antifrizz em Casa”, e o bloco institucional e o rótulo dizem uso profissional. Confirme com a Prohall e leia o rótulo antes de aplicar.",
+          "A Cadiveu tem progressiva? Na loja oficial não encontramos a progressiva à venda. Isso não quer dizer que a marca não a fabrique: confirme com a Cadiveu.",
+          "Qual é o cupom da Prohall? O CECILIAMC, com até 10% OFF no site oficial e no aplicativo, em todas as formas de pagamento. No nosso teste com o BTX de 300 g, o desconto foi de 7%.",
+          "Dá para comparar o preço da Prohall e da Cadiveu por grama ou por ml? Não entre o BTX e a Bye Bye Frizz, porque um vem em gramas e o outro em mililitros. Compare o preço do frasco com o volume ao lado.",
+          "Onde comprar a Prohall e a Cadiveu? Na loja oficial de cada marca. O CECILIAMC vale no site e no aplicativo da Prohall."
+        ]
+      }
+    ]
+  },
+  {
+    "id": 1407,
+    "slug": "prohall-ou-forever-liss",
+    "locale": "pt",
+    "title": "Prohall ou Forever Liss: BTX ou máscara de volume, pelo tamanho e pelo preço por grama",
+    "seoTitle": "Prohall ou Forever Liss: o que declaram e preço por grama",
+    "type": "Comparativo",
+    "category": "guias-praticos-utilidade",
+    "reviewKind": "guia",
+    "author": {
+      "name": "Cecília Mauad",
+      "slug": "cecilia-mauad",
+      "role": "Em Casa com Cecília",
+      "initials": "CM",
+      "url": "/sobre"
+    },
+    "description": "BTX Blend Repair da Prohall e Máscara Progressiva Volume Zero da Forever Liss: tamanhos, preço por grama, uso indicado e a lista de ingredientes que cada página publica.",
+    "metaDescription": "Com o CECILIAMC, até 10% na Prohall. Prohall ou Forever Liss: BTX e máscara de redução de volume, lado a lado, pelo tamanho e pelo preço por grama.",
+    "publishedAt": "24 de novembro de 2026",
+    "publishedAtISO": "2026-11-24",
+    "draft": false,
+    "isNew": true,
+    "image": "/images/reviews/prohall/prohall-ou-forever-liss-capa.webp",
+    "imageAlt": "Cabelo longo e liso de costas, com o pote do BTX Blend Repair de 1 kg da Prohall na mão, em foto oficial da loja. A capa traz o logo Prohall e a chamada “Prohall ou Forever Liss?”, sem foto da Forever Liss.",
+    "imageFit": "contain",
+    "imageAspect": "landscape",
+    "pros": [],
+    "cons": [],
+    "decision": {
+      "takeIf": [
+        "Você quer o BTX de 300 g da Prohall, o pote pequeno, tem cabeleireiro para aplicar e vai usar o CECILIAMC.",
+        "Você quer comparar tamanho e preço por grama antes de escolher onde comprar."
+      ],
+      "skipIf": [
+        "Seu cabelo é descolorido ou tem alisante: as precauções da página da Forever Liss proíbem o uso nesse caso.",
+        "Você pretende aplicar sem profissional: as duas lojas indicam uso profissional."
+      ]
+    },
+    "cta": {
+      "text": "Se a comparação ajudou, abra o site oficial da Prohall pelo botão e digite CECILIAMC em “Código de desconto”, no checkout.",
+      "label": "Ir para a Prohall",
+      "url": "https://lojaprohall.com.br/",
+      "sponsored": true
+    },
+    "coupon": "CECILIAMC",
+    "affiliate": "prohall",
+    "editorialNote": "Podemos receber comissão pelo cupom da Prohall. Ninguém da equipe usou os produtos.",
+    "relatedArticles": [
+      {
+        "slug": "prohall-e-boa"
+      },
+      {
+        "slug": "btx-blend-repair-prohall-como-usar"
+      },
+      {
+        "slug": "prohall-ou-cadiveu"
+      },
+      {
+        "slug": "cupom-prohall-como-usar"
+      }
+    ],
+    "contentSections": [
+      {
+        "heading": "Resposta rápida",
+        "paragraphs": [
+          "Não são o mesmo tipo de produto pelo que cada loja declara: a Prohall vende um BTX de selagem, e a máscara da Forever Liss traz nas precauções que alisa e tinge. A ordem do preço por grama muda entre o pote pequeno e o grande. Antes do preço, veja quem vai aplicar: as duas lojas indicam uso profissional."
+        ]
+      },
+      {
+        "heading": "BTX Blend Repair e Máscara Volume Zero: o par da comparação",
+        "paragraphs": [
+          "Quem busca as duas juntas quer saber qual escolher, e nenhuma das lojas compara com a outra. O que dá para colocar lado a lado é o que cada página publica e quanto custa o grama.",
+          "A Prohall descreve o BTX Blend Repair como selagem das cutículas e redução de frizz e volume, em potes de 300 g e de 1 kg. A Forever Liss vende a Máscara Progressiva Volume Zero em 250 g e em 1000 g. A loja informa: a máscara “nutre e reduz o volume dos cabelos crespos e com frizz da raiz às pontas sem cheiros e ardência”.",
+          "Nas precauções, a Forever Liss escreve que a máscara “alisa e tinge os cabelos” e proíbe o uso em cabelo com amônia, alisantes ou descoloração. Quem tem o cabelo descolorido ou com química lê essa linha antes do preço."
+        ],
+        "images": [
+          {
+            "src": "/images/reviews/prohall/black-friday-prohall-btx-blend-repair-300g.webp",
+            "alt": "Pote branco de 300 gramas do Btx Blend Repair da Prohall, com rótulo verde, em foto oficial da loja",
+            "caption": "Btx Capilar Orgânico Blend Repair 300 g, da Prohall. Foto: Prohall.",
+            "objectFit": "square"
+          }
+        ]
+      },
+      {
+        "heading": "O que cada página declara",
+        "paragraphs": [
+          "As duas páginas coincidem no que mais pesa: pausa de 40 a 60 minutos e indicação de uso profissional. O que muda está na tabela, com o texto literal da página entre aspas."
+        ],
+        "comparisonTable": {
+          "caption": "O que a Prohall e a Forever Liss publicam na página do produto no site de cada uma.",
+          "headers": [
+            "Item",
+            "Prohall BTX Blend Repair",
+            "Forever Liss Máscara Volume Zero"
+          ],
+          "rows": [
+            [
+              "Como a loja descreve",
+              "Selagem das cutículas e redução de frizz e volume",
+              "Nutre e reduz o volume de cabelos crespos e com frizz, da raiz às pontas"
+            ],
+            [
+              "Tamanhos",
+              "300 g e 1 kg",
+              "250 g e 1000 g"
+            ],
+            [
+              "Ingredientes que a página traz",
+              "Colágeno hidrolisado, ácido lático, óleo de coco e Lumini System; a lista completa fica no rótulo do pote",
+              "Lista de ingredientes, com Pyrogallol, DMDM Hydantoin e Lactic Acid entre eles"
+            ],
+            [
+              "Tempo de pausa",
+              "40 a 60 minutos, conforme o alinhamento desejado",
+              "40 a 60 minutos, com teste de mecha obrigatório"
+            ],
+            [
+              "Onde fala em casa",
+              "Título “Antifrizz em Casa” e subtítulo “no tamanho ideal para casa” (300 g); no 1 kg, o título é “Antifrizz Profissional”",
+              "Tag “Salão em casa”"
+            ],
+            [
+              "O que dizem as precauções",
+              "“Uso profissional: Fórmula desenvolvida para salão, para aplicação por cabeleireiro habilitado”, e o rótulo traz USO PROFISSIONAL",
+              "“CONTÉM PIROGALOL”, “Alisa e tinge os cabelos” e “Somente para uso profissional”"
+            ]
+          ]
+        }
+      },
+      {
+        "heading": "Uso em casa ou no salão: as duas páginas se contradizem",
+        "paragraphs": [
+          "Nas duas lojas, a palavra casa aparece num ponto da página e a indicação de uso profissional, em outro. Na Prohall, o título do BTX de 300 g fala em casa e o rótulo diz uso profissional; no 1 kg, o título já é “Antifrizz Profissional”, e o uso do BTX está em [como usar o BTX Blend Repair](/reviews/btx-blend-repair-prohall-como-usar). Na Forever Liss, a tag fala em salão em casa, e as precauções dizem que o uso é somente profissional.",
+          "As páginas não resolvem a diferença. Antes de comprar para aplicar sem profissional, pergunte à loja e ao cabeleireiro, e siga o rótulo do pote. Para gestantes, lactantes e crianças, a Forever Liss também destaca a proibição nas precauções."
+        ]
+      },
+      {
+        "heading": "Composição: o que está publicado e o que não está",
+        "paragraphs": [
+          "Só a Forever Liss publica a lista completa de ingredientes na página. Nela está o Pyrogallol, o mesmo pirogalol do aviso “CONTÉM PIROGALOL” das precauções. A Prohall cita quatro ativos do BTX e informa que a lista completa fica no rótulo do pote.",
+          "O ácido lático aparece nas duas: como ativo citado na Prohall e como Lactic Acid na lista de ingredientes da Forever Liss. Para conferir um ingrediente antes da compra, só a página da Forever Liss serve; no BTX, o caminho é o rótulo do pote ou perguntar à Prohall. Na dúvida, o dermatologista."
+        ]
+      },
+      {
+        "heading": "Modo de uso: o que cada loja pede e onde a resposta se divide",
+        "paragraphs": [
+          "Os dois produtos têm pausa de 40 a 60 minutos. A Forever Liss pede teste de mecha obrigatório, conferido a cada 5 minutos, aplicação a 1 cm da raiz, enxágue completo, secagem e escova. O passo a passo do BTX, que termina em escova, está em [como usar o BTX Blend Repair da Prohall](/reviews/btx-blend-repair-prohall-como-usar).",
+          "No campo de perguntas e respostas da máscara de 250 g, uma resposta manda lavar com antirresíduos e aplicar no cabelo úmido, e outra manda aplicar no cabelo seco. As duas respostas estão na mesma página, e a loja não diz qual vale. Na dúvida, o rótulo do pote e a orientação de quem vai aplicar decidem."
+        ]
+      },
+      {
+        "heading": "Preço por grama: 250 g, 300 g e 1 kg",
+        "paragraphs": [
+          "Conta nossa: o preço do dia no cartão dividido pelo peso do pote, arredondado para o centavo, a partir dos preços lidos nas páginas dos produtos."
+        ],
+        "comparisonTable": {
+          "caption": "Preço do dia no site, 23/11, no cartão, sem Pix e sem frete. A coluna do CECILIAMC vale só na Prohall. Preço por grama é o preço do cartão dividido pelos gramas do pote.",
+          "headers": [
+            "Produto",
+            "Pote",
+            "Com CECILIAMC",
+            "Preço no cartão",
+            "Preço por grama"
+          ],
+          "rows": [
+            [
+              "Prohall BTX Blend Repair",
+              "300 g",
+              "R$ 58,50 (R$ 0,20/g), testado no carrinho",
+              "[R$ 62,90](https://lojaprohall.com.br/products/btx-capilar-organico-blend-repair-300g)",
+              "R$ 0,21"
+            ],
+            [
+              "Forever Liss Máscara Volume Zero",
+              "250 g",
+              "—",
+              "R$ 59,90",
+              "R$ 0,24"
+            ],
+            [
+              "Prohall BTX Blend Repair",
+              "1 kg",
+              "Não testado",
+              "[R$ 149,90](https://lojaprohall.com.br/products/btx-capilar-organico-blend-repair-1kg)",
+              "R$ 0,15"
+            ],
+            [
+              "Forever Liss Máscara Volume Zero",
+              "1000 g",
+              "—",
+              "R$ 129,90",
+              "R$ 0,13"
+            ]
+          ]
+        },
+        "postParagraphs": [
+          "No pote pequeno, a Prohall leva 50 g a mais por R$ 3 a mais, e o grama sai R$ 0,03 mais barato. No pote grande, a Forever Liss sai R$ 20 mais barata e o grama custa R$ 0,02 a menos. Quem olha só o preço do pote vê a Forever Liss mais barata nos dois tamanhos e perde a ordem por grama no menor.",
+          "Os preços da tabela estão abaixo do preço cheio nas duas lojas. Pelo preço cheio que cada página mostra, a ordem por grama é a mesma da tabela: a Prohall sai mais barata no pote pequeno, e o pote de 1000 g da Forever Liss sai a R$ 0,21, abaixo dos R$ 0,22 do 1 kg da Prohall."
+        ],
+        "images": [
+          {
+            "src": "/images/reviews/prohall/prohall-ou-forever-liss-preco-por-grama.webp",
+            "alt": "Pote do BTX Blend Repair de 1 kg da Prohall, de frente, sobre fundo branco, em foto oficial da loja.",
+            "caption": "BTX Blend Repair de 1 kg. Foto: Prohall.",
+            "objectFit": "contain",
+            "aspectRatio": 1,
+            "href": "https://lojaprohall.com.br/products/btx-capilar-organico-blend-repair-1kg"
+          }
+        ]
+      },
+      {
+        "heading": "Frete, parcelamento e Pix",
+        "paragraphs": [
+          "Nas duas lojas o frete grátis depende de um valor mínimo, e na Prohall esse mínimo muda por região. O parcelamento é sem juros em todos os potes."
+        ],
+        "comparisonTable": {
+          "caption": "Condições publicadas pelas lojas nas páginas de pagamento e de produto.",
+          "headers": [
+            "Item",
+            "Prohall",
+            "Forever Liss"
+          ],
+          "rows": [
+            [
+              "Parcelamento",
+              "BTX de 300 g em 3x de R$ 20,97 e BTX de 1 kg em 7x de R$ 21,41, sem juros",
+              "Máscara de 250 g em 6x de R$ 9,98 e máscara de 1000 g em 10x de R$ 12,99, sem juros"
+            ],
+            [
+              "Frete grátis",
+              "A partir de R$ 99 no Sudeste, R$ 149 no Sul, R$ 179 no Centro-Oeste e R$ 199 no Norte e no Nordeste, com o mínimo contado depois do cupom",
+              "A partir de R$ 120 em São Paulo e de R$ 150 no Brasil, válido só para compras de até R$ 600"
+            ]
+          ]
+        },
+        "postParagraphs": [
+          "A Forever Liss informa 5% de desconto no Pix, que leva a máscara de 250 g a R$ 56,91 e a de 1000 g a R$ 123,41. Na Prohall, o total com Pix selecionado foi o mesmo do cartão. Esse desconto não entra na conta por grama."
+        ]
+      },
+      {
+        "heading": "O CECILIAMC na Prohall",
+        "paragraphs": [
+          "O CECILIAMC é o código da Cecília na Prohall, com até 10% OFF no site e no aplicativo, em todas as formas de pagamento, e só vale lá. As condições estão na página do [cupom Prohall](/cupons/prohall), e o passo a passo de onde digitar, em [como usar o cupom da Prohall](/reviews/cupom-prohall-como-usar). No checkout do site oficial, digite CECILIAMC em “Código de desconto” e toque em “Aplicar”.",
+          "No teste de checkout com o BTX de 300 g, o código tirou R$ 4,40 (7%) e o pedido passou de R$ 62,90 para R$ 58,50. Com isso, o grama fica em cerca de R$ 0,20, abaixo dos R$ 0,24 da máscara de 250 g no cartão. Só o BTX de 300 g passou pelo teste; no de 1 kg, o desconto pode ser diferente."
+        ]
+      },
+      {
+        "heading": "Qual escolher por tamanho",
+        "paragraphs": [
+          "A ordem do preço por grama muda entre o pote pequeno e o grande, e a tabela mostra a conta. O preço é dado de referência; quem decide é o uso. Quem tem cabeleireiro para aplicar e quer um pote só olha o BTX de 300 g da Prohall, e quem usa muito produto faz a conta do pote grande em cada loja, com as precauções da página ao lado.",
+          "Como as duas páginas indicam uso profissional, a pergunta que vem antes do preço é quem vai aplicar. Quem precisa da lista completa de ingredientes antes de comprar encontra hoje só a da Forever Liss; no BTX, ela está no rótulo do pote. Para o modo de uso do BTX, veja [como usar o BTX Blend Repair](/reviews/btx-blend-repair-prohall-como-usar); para as outras linhas da marca, [Prohall é boa?](/reviews/prohall-e-boa)."
+        ],
+        "emphasis": "Antes do preço por grama, leia as precauções da página e decida quem vai aplicar: as duas lojas indicam uso profissional, e a página da Forever Liss proíbe o uso em cabelo descolorido ou com alisante.",
+        "links": [
+          {
+            "label": "Ir para a Prohall com o CECILIAMC",
+            "href": "https://lojaprohall.com.br/",
+            "sponsored": true
+          },
+          {
+            "label": "Ver o cupom Prohall",
+            "href": "/cupons/prohall"
+          }
+        ]
+      },
+      {
+        "heading": "Perguntas frequentes",
+        "bullets": [
+          "Qual é o cupom da Prohall? O cupom da Prohall da nossa parceria é CECILIAMC, com até 10% OFF no site oficial e no aplicativo, em todas as formas de pagamento.",
+          "Prohall ou Forever Liss, qual é melhor? Nenhuma das lojas compara um produto com o outro, e as páginas não trazem dado que decida resultado. O que dá para comparar é tamanho, preço por grama e uso indicado; veja o capítulo de escolha por tamanho.",
+          "Prohall ou Forever Liss, qual é mais barata? Depende do tamanho: por grama, a Prohall sai mais barata no pote pequeno e a Forever Liss, no grande. A conta está no capítulo de preço por grama.",
+          "O que a Forever Liss publica sobre a composição da Máscara Volume Zero? A página traz a lista completa de ingredientes e, nas precauções, as frases “CONTÉM PIROGALOL”, “Alisa e tinge os cabelos” e “Somente para uso profissional”. Leve a lista ao cabeleireiro ou ao dermatologista antes de aplicar.",
+          "O BTX da Prohall e a máscara da Forever Liss são para usar em casa? A página do BTX de 300 g e a da máscara falam em casa num ponto e indicam uso profissional em outro, e não resolvem a diferença. O capítulo sobre uso em casa ou no salão mostra onde cada uma diz o quê."
+        ]
+      }
+    ],
+    "updatedAt": "2026-11-24"
+  },
+  {
+    "id": 1408,
+    "slug": "secar-sem-frizz-prohall",
+    "locale": "pt",
+    "title": "Secar sem Frizz Prohall: os itens da linha, a ordem de uso e qual comprar",
+    "seoTitle": "Secar sem Frizz Prohall: linha, ordem de uso e o que comprar",
+    "type": "Guia Prático",
+    "category": "guias-praticos-utilidade",
+    "reviewKind": "guia",
+    "author": {
+      "name": "Cecília Mauad",
+      "slug": "cecilia-mauad",
+      "role": "Em Casa com Cecília",
+      "initials": "CM",
+      "url": "/sobre"
+    },
+    "description": "Os seis itens da linha Secar sem Frizz da Prohall, o que a página diz de cada um, a ordem de uso do kit e a conta do Kit Completo contra os itens avulsos.",
+    "metaDescription": "Com o CECILIAMC, até 10% na Prohall. Secar sem Frizz: os itens da linha, a ordem de uso e o que o Kit Completo leva e não leva.",
+    "publishedAt": "24 de novembro de 2026",
+    "publishedAtISO": "2026-11-24",
+    "draft": false,
+    "isNew": true,
+    "image": "/images/reviews/prohall/secar-sem-frizz-prohall-capa.webp",
+    "imageAlt": "Frascos da linha Secar sem Frizz da Prohall sobre a máscara, em foto oficial ambientada da loja. A capa traz o logo Prohall e a chamada “Secar sem Frizz: kit ou avulsos?”.",
+    "imageFit": "contain",
+    "imageAspect": "landscape",
+    "pros": [],
+    "cons": [],
+    "decision": {
+      "takeIf": [
+        "Leve os itens avulsos se você quer montar o protocolo: nos preços desta semana de promoção, os cinco do kit saem mais em conta separados.",
+        "Leve só o leave-in se você quer entrar na linha pelo item mais barato, em spray e sem enxágue.",
+        "Leve o Kit Completo se você quer tudo numa compra só e a ordem de uso já definida pela loja, e aceita pagar a mais por isso."
+      ],
+      "skipIf": [
+        "Passe no Kit Completo se a razão é economizar nos preços desta semana de promoção, ou se você conta com o leave-in dentro dele: ele não vem.",
+        "Passe na linha se o que você procura é secar o cabelo mais rápido: o que a loja descreve é controle de frizz.",
+        "Passe no pré-shampoo se o couro cabeludo é sensível ou irritado: a loja o descreve como esfoliante, e a dúvida é do dermatologista."
+      ]
+    },
+    "cta": {
+      "text": "Se algum item da Secar sem Frizz faz sentido para você, abra o site oficial pelo botão e digite CECILIAMC em “Código de desconto”, no checkout.",
+      "label": "Ir para a Prohall",
+      "url": "https://lojaprohall.com.br/",
+      "sponsored": true
+    },
+    "coupon": "CECILIAMC",
+    "affiliate": "prohall",
+    "editorialNote": "Podemos receber comissão pelo cupom. Ninguém da equipe usou os produtos.",
+    "relatedArticles": [
+      {
+        "slug": "prohall-e-boa"
+      },
+      {
+        "slug": "cupom-prohall-como-usar"
+      },
+      {
+        "slug": "cabelo-fino-e-fraco-qual-linha-prohall"
+      },
+      {
+        "slug": "btx-blend-repair-prohall-como-usar"
+      }
+    ],
+    "contentSections": [
+      {
+        "heading": "Resposta rápida",
+        "paragraphs": [
+          "A Secar sem Frizz é a linha da Prohall para quem deixa o cabelo secar sem secador e quer menos frizz: seis itens, do pré-shampoo ao óleo. O Kit Completo leva cinco deles, sem o leave-in. Nos preços desta semana, montar os cinco avulsos sai mais em conta que o kit; a conta está abaixo."
+        ]
+      },
+      {
+        "heading": "Secar sem Frizz: o que o nome da linha quer dizer",
+        "paragraphs": [
+          "Pelas frases da Prohall, a proposta é deixar o cabelo secar sem secador com o frizz controlado; nenhuma página fala em secar mais rápido. A linha serve a quem deixa o cabelo secar ao natural e quer menos frizz.",
+          "As frases vêm de itens diferentes: o leave-in é apresentado para “controlar o frizz sem secador”, a máscara leva “Seca Alinhado Sem Calor” e o óleo, que a loja chama de passo final do protocolo, aparece como “Sequei Sem Frizz”. Já o sérum de vitrificação vai por outro caminho: a Prohall manda usá-lo nos fios úmidos antes da escova, do secador ou da chapinha, ou nos fios secos."
+        ]
+      },
+      {
+        "heading": "Os seis itens e o que a loja diz de cada um",
+        "paragraphs": [
+          "A linha tem seis itens, todos vendidos avulsos, e o leave-in é o único que não entra no Kit Completo.",
+          "A loja informa: a tabela junta o que a descrição de cada item diz e o preço. Para as outras linhas da marca, veja [Prohall é boa?](/reviews/prohall-e-boa)."
+        ],
+        "comparisonTable": {
+          "caption": "Preço do dia no site, 23/11, sem cupom.",
+          "headers": [
+            "Item",
+            "O que a loja diz",
+            "Preço"
+          ],
+          "rows": [
+            [
+              "[Pré-Shampoo 200 ml](https://lojaprohall.com.br/products/secar-sem-frizz-pre-shampoo)",
+              "Esfoliante de couro cabeludo; lista niacinamida, pantenol, ácido lático e melaleuca",
+              "R$ 59,90"
+            ],
+            [
+              "[Shampoo de Limpeza Suave 250 ml](https://lojaprohall.com.br/products/secar-sem-frizz-shampoo-limpeza-suave)",
+              "Limpeza suave antifrizz; é o segundo passo da sequência do kit",
+              "R$ 59,90"
+            ],
+            [
+              "[Máscara de Blindagem Antifrizz 250 g](https://lojaprohall.com.br/products/secar-sem-frizz-mascara-antifrizz)",
+              "“Seca Alinhado Sem Calor”; lista óleo de coco, pantenol, ácido hialurônico e proteína de trigo",
+              "R$ 69,90"
+            ],
+            [
+              "[Sérum de Vitrificação 200 ml](https://lojaprohall.com.br/products/secar-sem-frizz-serum-vitrificacao)",
+              "Para fios úmidos, antes de escova, secador ou chapinha, ou para fios secos",
+              "R$ 49,90"
+            ],
+            [
+              "[Óleo de Blindagem 60 ml](https://lojaprohall.com.br/products/secar-sem-frizz-oleo-de-blindagem)",
+              "“Passo final do protocolo”; blend de silicones, óleo de camelina e vitamina E; “efeito Glass Finish”",
+              "R$ 34,90"
+            ],
+            [
+              "[Leave-In 200 ml](https://lojaprohall.com.br/products/secar-sem-frizz-controle-de-frizz-e-protecao-sem-uso-de-secador-200ml)",
+              "Creme fluido em spray, para “controlar o frizz sem secador”; lista pantenol, ácido hialurônico e ácido lático",
+              "R$ 29,90"
+            ]
+          ]
+        },
+        "images": [
+          {
+            "src": "/images/reviews/prohall/secar-sem-frizz-prohall-leave-in.webp",
+            "alt": "Frasco Secar sem Frizz de 200 ml com bico spray, em foto oficial da Prohall.",
+            "caption": "Secar sem Frizz de 200 ml, o leave-in da linha. Foto: Prohall.",
+            "objectFit": "contain",
+            "aspectRatio": 1,
+            "href": "https://lojaprohall.com.br/products/secar-sem-frizz-controle-de-frizz-e-protecao-sem-uso-de-secador-200ml"
+          }
+        ]
+      },
+      {
+        "heading": "A ordem de uso: o que a loja publica",
+        "paragraphs": [
+          "A Prohall publica a ordem na página do Kit Completo, em cinco passos, e diz que o kit rende até 60 aplicações. Para a quantidade e o tempo de cada passo, manda seguir as instruções da embalagem."
+        ],
+        "bullets": [
+          "1. Pré-Shampoo.",
+          "2. Shampoo.",
+          "3. Máscara.",
+          "4. Sérum de Vitrificação: de 1 a 3 acionamentos nos fios úmidos, antes de escova, secador ou chapinha, ou 1 acionamento nos fios secos.",
+          "5. Óleo de Blindagem, o passo final do protocolo."
+        ],
+        "postParagraphs": [
+          "O leave-in fica fora dessa sequência: a página dele pede fios úmidos ou secos, sem enxágue.",
+          "No uso do leave-in, a Prohall manda agitar, borrifar e evitar passar as mãos enquanto o cabelo seca, e diz que pode ser reaplicado nos fios secos."
+        ]
+      },
+      {
+        "heading": "Kit Completo ou avulsos: onde a conta fecha",
+        "paragraphs": [
+          "O Kit Completo leva cinco itens, e o leave-in não é um deles. Conta nossa, pelos preços das páginas, sem cupom: os mesmos cinco itens comprados separados saem mais baratos que o kit, e com o leave-in a mais a compra ainda fica abaixo do preço do kit."
+        ],
+        "comparisonTable": {
+          "caption": "Preço do dia no site, 23/11, antes do frete.",
+          "headers": [
+            "Compra",
+            "O que leva",
+            "Total"
+          ],
+          "rows": [
+            [
+              "[Kit Completo](https://lojaprohall.com.br/products/kit-completo-secar-sem-frizz)",
+              "Pré-shampoo, shampoo, máscara, sérum e óleo",
+              "R$ 319,90"
+            ],
+            [
+              "Os mesmos cinco, avulsos",
+              "Pré-shampoo, shampoo, máscara, sérum e óleo",
+              "R$ 274,50"
+            ],
+            [
+              "Os cinco avulsos e o leave-in",
+              "Os seis itens da linha",
+              "R$ 304,40"
+            ],
+            [
+              "Diferença",
+              "Kit menos os cinco avulsos",
+              "R$ 45,40"
+            ]
+          ]
+        },
+        "postParagraphs": [
+          "Os avulsos estão em promoção mais funda que o kit. Quando a promoção acabar, refaça a soma: a conta pode virar.",
+          "A Prohall tem ainda dois kits que juntam um item da linha com produtos de outras: o [Leave-In + Absolut One](https://lojaprohall.com.br/products/kit-leave-in-secar-sem-frizz-mascara-absolut-one), a R$ 119,90, com a Absolut One no passo 1 e o leave-in no passo 2, e o [Trio Finalizador](https://lojaprohall.com.br/products/trio-finalizador-para-nutricao-blindagem-e-brilho-espelhado-ambar-oil-oleo-de-blindagem-secar-sem-frizz-absolut-oil), a R$ 139,90, com Absolut Oil, Âmbar Oil e Óleo de Blindagem, nessa ordem."
+        ],
+        "images": [
+          {
+            "src": "/images/reviews/prohall/secar-sem-frizz-prohall-kit.webp",
+            "alt": "Itens da linha Secar sem Frizz da Prohall em infográfico oficial, com os frascos e a máscara ao lado dos ativos citados pela loja.",
+            "caption": "Itens da linha Secar sem Frizz. Imagem: Prohall.",
+            "objectFit": "contain",
+            "aspectRatio": 1,
+            "href": "https://lojaprohall.com.br/products/kit-completo-secar-sem-frizz"
+          }
+        ]
+      },
+      {
+        "heading": "O código e o frete",
+        "paragraphs": [
+          "O CECILIAMC dá até 10% no site da Prohall, e o percentual muda de produto para produto: o carrinho mostra o valor antes de pagar. Vale também no aplicativo, em todas as formas de pagamento, e soma com as promoções do site. Você digita no campo “Código de desconto” do checkout. Mais detalhes no [cupom Prohall](/cupons/prohall).",
+          "O frete grátis começa em R$ 99 no Sudeste, R$ 149 no Sul, R$ 179 no Centro-Oeste e R$ 199 no Norte e no Nordeste, e o mínimo conta depois do cupom. Com o código, os cinco avulsos e o Kit Completo passam do mínimo de frete grátis em todas as regiões; o leave-in sozinho não passa em nenhuma."
+        ],
+        "checklist": {
+          "items": [
+            "O leave-in está no carrinho, se você o quer?",
+            "Você somou os avulsos antes de pagar o kit?",
+            "O carrinho passa do mínimo de frete da sua região, já contando o desconto do código?",
+            "O CECILIAMC está no campo Código de desconto, e o resumo do pedido mostra o percentual?"
+          ]
+        }
+      },
+      {
+        "heading": "Qual comprar: um item, o protocolo ou o kit",
+        "paragraphs": [
+          "Quem quer um item só começa pelo leave-in, o mais barato da linha, em spray e sem enxágue. Quem prefere finalizar compra o óleo, que a loja põe no fim da rotina.",
+          "Quem quer o protocolo inteiro monta os cinco passos avulsos e decide à parte se leva o leave-in. Quem já tem shampoo compra só os itens que faltam.",
+          "O pré-shampoo é o item que a loja descreve como esfoliante de couro cabeludo. Couro cabeludo sensível, irritado ou com ferida é assunto do dermatologista, antes de qualquer esfoliante."
+        ],
+        "emphasis": "Nos preços desta semana de promoção, some os avulsos antes de pagar o kit: a conta fecha a favor de quem monta o próprio protocolo, e o leave-in é o item mais barato da linha.",
+        "links": [
+          {
+            "label": "Ir para a Prohall com o CECILIAMC",
+            "href": "https://lojaprohall.com.br/",
+            "sponsored": true
+          },
+          {
+            "label": "Ver o cupom Prohall",
+            "href": "/cupons/prohall"
+          }
+        ]
+      },
+      {
+        "heading": "Perguntas frequentes",
+        "bullets": [
+          "Qual é o cupom da Prohall? O cupom da Prohall da nossa parceria é CECILIAMC, com até 10% OFF no site oficial e no aplicativo, em todas as formas de pagamento.",
+          "Secar sem Frizz seca o cabelo mais rápido? Pelas frases da Prohall, a proposta é deixar o cabelo secar sem secador com o frizz controlado; nenhuma página fala em secar mais rápido.",
+          "Pode usar com secador ou chapinha? A Prohall prevê o sérum de vitrificação nos fios úmidos antes de escova, secador ou chapinha, com 1 a 3 acionamentos, ou nos fios secos.",
+          "O Kit Completo da Secar sem Frizz vem com leave-in? Não. Ele leva cinco itens, sem o leave-in, que se compra à parte; a conta do kit contra os avulsos está no capítulo do kit.",
+          "Onde comprar a Secar sem Frizz da Prohall? No site oficial da Prohall, com o CECILIAMC no campo Código de desconto do checkout."
+        ]
+      }
+    ]
   }
 ];
