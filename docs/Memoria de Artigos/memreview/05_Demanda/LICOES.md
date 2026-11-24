@@ -132,6 +132,29 @@ Aplicar as mudanças das duas tabelas de propostas, com a aprovação do Bruno. 
 
 As duas tabelas de "Mudanças propostas, ainda não aplicadas" acima foram resolvidas por esta entrada.
 
+## 2026-11-24 · BAW · fechamento de insumos
+
+- **O que aconteceu:**
+  - O bruto conferiu inteiro: 645 hashes, nenhum diferente. Catálogo, sinais e dados se refazem iguais num checkout
+    limpo.
+  - A cobertura não se refez. O gerador lê os artigos como estão no disco, e o cluster da BAW mudou entre a coleta e o
+    fechamento: 5 artigos novos e a reforma dos antigos.
+  - Duas perguntas (o tênis, na P1, e a P2) foram decididas e executadas fora do programa, com pesquisa própria das
+    sessões de pauta e de artigos, antes de a análise começar.
+  - Conflito de dono: o brief da etapa 2 mandou escrever no `COMO-REFAZER.md`, que o diário dá à coordenação.
+- **O que mudou** (arquivo e seção):
+  - `parceiros/baw/DIARIO.md`, seção "Fechamento de insumos".
+  - `parceiros/baw/2-processado/COMO-REFAZER.md`, com os comandos da etapa 3 e da etapa 4 e a ressalva da 4B.
+- **Regras para as próximas rodadas:**
+  - Gerador que lê `content/` ou `src/` lê num commit fixo e o registra no relato. Sem isso, a cobertura não se refaz.
+  - O `COMO-REFAZER.md` é da coordenação. A sessão escreve o comando no próprio relato, e a coordenação o passa ao
+    arquivo no fechamento. O modelo `modelos/briefs/etapa-2-catalogo.md` precisa dizer isso (a corrigir antes da
+    próxima rodada).
+  - O fechamento de insumos acontece no mesmo dia em que a última etapa entra na `main`. No parceiro com pauta em
+    andamento, a orientação lista as pautas abertas na Fila, e as sessões de pauta e de artigos sabem que a rodada
+    está aberta.
+- **Vale para os outros parceiros?** Sim.
+
 Modelo de registro:
 
 ```markdown
