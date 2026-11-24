@@ -9,8 +9,8 @@ export function generateMetadata(): Metadata {
   const activeCount = getActiveCoupons().length;
   const isBf = isBlackFridaySeason(Date.now());
   const title = isBf
-    ? `Festival de Cupons EXCLUSIVOS da Cecília — Black Friday (${activeCount} lojas)`
-    : `Festival de Cupons EXCLUSIVOS da Cecília (${activeCount} lojas parceiras)`;
+    ? 'Festival de Cupons EXCLUSIVOS da Cecília — Black Friday'
+    : 'Festival de Cupons EXCLUSIVOS da Cecília';
   const description = `${activeCount} lojas parceiras num lugar só. Toque no código exclusivo para copiar e já abrir a loja oficial: Insider, DAMIE, Dolce Gusto, I Wanna Sleep e mais.`;
 
   return {

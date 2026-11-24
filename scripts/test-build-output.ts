@@ -5132,9 +5132,9 @@ assert.equal(hreflangOf(ptFaqHead, 'x-default'), `${SITE_URL}/en/faq`, '/faqs: x
   }
 }
 
-// /blackfriday e /blackfriday/[slug]: páginas de evento fora do Google e fora do sitemap/llms, todos os links externos de
-// loja marcados com sponsored + aba nova, nenhum link interno com sponsored, códigos ativos presentes e filtro 15%+ só
-// para descontos percentuais fixos de código (sem Magalu em R$ nem Proton por link).
+// /blackfriday e /blackfriday/[slug]: páginas de evento fora do Google e fora do sitemap/llms, og:image e twitter:image
+// apontando para rota gerada no build (sem 404), todos os links externos de loja marcados com sponsored + aba nova,
+// nenhum link interno com sponsored, códigos ativos presentes e filtro 15%+ só para descontos percentuais fixos de código.
 function blackFridayPageProblems(
   html: string,
   inSitemap: boolean,
@@ -5149,6 +5149,18 @@ function blackFridayPageProblems(
   if (!head.includes('<meta name="robots" content="noindex, nofollow"/>')) problems.push('sem robots noindex, nofollow');
   if (head.includes('<meta name="googlebot"')) problems.push('googlebot do layout vazou para página noindex');
   if (head.includes('max-image-preview')) problems.push('robots do Discover vazou para página noindex');
+  const ogImage = decodeHtml(head.match(/<meta property="og:image" content="([^"]*)"/)?.[1] ?? '');
+  if (!ogImage.startsWith(`${SITE_URL}/`)) {
+    problems.push(`og:image ausente ou fora do site: ${ogImage || 'vazio'}`);
+  } else if (!builtFile(ogImage)) {
+    problems.push(`og:image aponta para rota inexistente (404): ${ogImage}`);
+  }
+  const twitterImage = decodeHtml(head.match(/<meta name="twitter:image" content="([^"]*)"/)?.[1] ?? '');
+  if (!twitterImage.startsWith(`${SITE_URL}/`)) {
+    problems.push(`twitter:image ausente ou fora do site: ${twitterImage || 'vazio'}`);
+  } else if (!builtFile(twitterImage)) {
+    problems.push(`twitter:image aponta para rota inexistente (404): ${twitterImage}`);
+  }
   const body = bodyOf(html);
   let externalStoreLinks = 0;
   for (const [tag] of body.matchAll(/<a\b[^>]*>/g)) {
@@ -5186,7 +5198,18 @@ function blackFridayPageProblems(
   const bfFile = builtFile(bfUrl);
   assert.ok(bfFile, '/blackfriday: página não gerada no build');
   const bfHtml = read(bfFile);
+  const bfHead = headOf(bfHtml);
   assert.ok(!bfHtml.includes('sofás na caixa'), '/blackfriday: frase sem lastro "sofás na caixa"');
+  assert.doesNotMatch(
+    bfHead.match(/<meta property="og:title" content="([^"]*)"/)?.[1] ?? '',
+    /\(\d+\s+lojas/i,
+    '/blackfriday: og:title não deve trazer "(N lojas)"',
+  );
+  assert.match(
+    bfHead.match(/<meta property="og:description" content="([^"]*)"/)?.[1] ?? '',
+    /\b\d+\s+lojas parceiras\b/i,
+    '/blackfriday: og:description deve manter a contagem de lojas no subtítulo',
+  );
   assert.deepEqual(
     blackFridayPageProblems(bfHtml, sitemapUrls.includes(bfUrl), llmsUrls.includes(bfUrl), []),
     [],
@@ -5228,6 +5251,23 @@ function blackFridayPageProblems(
     [],
     '/blackfriday: controle do sponsored passou',
   );
+  const brokenOg404 = bfHtml.replace(
+    /<meta property="og:image" content="[^"]*"\/>/,
+    `<meta property="og:image" content="${SITE_URL}/blackfriday/opengraph-image"/>`,
+  );
+  assert.notEqual(brokenOg404, bfHtml, '/blackfriday: controle do og:image 404 não achou a meta tag');
+  assert.notDeepEqual(blackFridayPageProblems(brokenOg404, false, false, []), [], '/blackfriday: controle do og:image 404 passou');
+
+  const brokenTw404 = bfHtml.replace(
+    /<meta name="twitter:image" content="[^"]*"\/>/,
+    `<meta name="twitter:image" content="${SITE_URL}/blackfriday/twitter-image"/>`,
+  );
+  assert.notEqual(brokenTw404, bfHtml, '/blackfriday: controle do twitter:image 404 não achou a meta tag');
+  assert.notDeepEqual(blackFridayPageProblems(brokenTw404, false, false, []), [], '/blackfriday: controle do twitter:image 404 passou');
+
+  const missingOg = bfHtml.replace(/<meta property="og:image" content="[^"]*"\/>/, '');
+  assert.notEqual(missingOg, bfHtml, '/blackfriday: controle sem og:image não achou a meta tag');
+  assert.notDeepEqual(blackFridayPageProblems(missingOg, false, false, []), [], '/blackfriday: controle sem og:image passou');
 }
 
 console.log(
