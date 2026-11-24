@@ -3,8 +3,8 @@
   "slug": "starlink-black-friday-oferta",
   "translationKey": "starlink-black-friday",
   "locale": "es",
-  "title": "Black Friday Starlink 2026 en España: 100 Mbps a 24,50 €, kit en alquiler a 0 € y recompensa por referido",
-  "seoTitle": "Black Friday Starlink 2026: 24,50 € al mes y kit a 0 €",
+  "title": "Black Friday Starlink 2026 en España: 100 Mbps a 24,50 €, kit en alquiler a 0 € y 45 € por referido",
+  "seoTitle": "Black Friday Starlink 2026: 24,50 €/mes, alquiler 0 € y 45 €",
   "type": "Guía de Black Friday",
   "category": "cupons-como-usar",
   "reviewKind": "guia",
@@ -23,11 +23,11 @@
       "initials": "BL"
     }
   ],
-  "description": "En Madrid, Starlink mostraba el 100 Mbps a 24,50 € al mes, el 200 Mbps a 31,50 € y el kit en alquiler a 0 €. Mira la cuenta del primer pedido y cómo entra el referido.",
-  "metaDescription": "Starlink Black Friday en España: 30 % en los planes y kit en alquiler a 0 €. Mira los precios de Madrid, la devolución y cómo entra el referido.",
+  "description": "En Madrid, Starlink mostraba 100 Mbps a 24,50 €/mes hasta el 30 nov. y kit en alquiler a 0 €, más 45 € por referido (700 pesos en México). Comprueba tu dirección.",
+  "metaDescription": "Starlink Black Friday hasta el 30 nov.: 30 % (desde 24,50 €/mes), kit en alquiler a 0 € y 45 € de referido en España (700 pesos MX). Consulta tu dirección.",
   "publishedAt": "20 de noviembre de 2026",
   "publishedAtISO": "2026-11-20",
-  "updatedAt": "2026-11-23",
+  "updatedAt": "2026-11-24",
   "draft": false,
   "isNew": true,
   "hideFromPortugueseListings": true,
@@ -39,12 +39,12 @@
     {
       "heading": "Respuesta rápida",
       "paragraphs": [
-        "En tu primera suscripción elegible puedes recibir crédito en la factura. Las referencias de noviembre son 45 € en España y 700 pesos en México. Abre nuestro enlace, confirma el importe en el pedido y mantén el plan activo y al día durante dos ciclos completos.",
-        "El pedido de Starlink que consultamos en Madrid mostraba un 30 % de descuento en el servicio hasta el 30 de noviembre: 24,50 € al mes el 100 Mbps, 31,50 € el 200 Mbps y 45,50 € el Máx., con el kit en alquiler a 0 € y 19 € a pagar hoy. El equipo se devuelve si cancelas y tienes 30 días de prueba."
+        "En el Black Friday de Starlink, las zonas elegibles combinan un 30 % de descuento mensual —24,50 € al mes en Madrid para el 100 Mbps— con el kit en alquiler a 0 € (19 € de envío hoy) y, entrando desde nuestro enlace de referido, los nuevos clientes suman una bonificación en factura: la referencia publicada en noviembre es de 45 € en España y 700 pesos en México (confírmala en tu pedido antes de pagar).",
+        "Ten en cuenta los dos plazos distintos: la campaña de Black Friday termina el 30 de noviembre en áreas seleccionadas, mientras que nuestro bono de referido sigue activo mientras exista el programa oficial de referidos de Starlink. El crédito llega a tu factura tras dos ciclos mensuales completos pagados al día y no descuenta el precio del kit en el momento del pago. Consulta tu dirección gratis y sin compromiso en el enlace de abajo."
       ],
       "links": [
         {
-          "label": "Consultar mi dirección con la bonificación de Starlink",
+          "label": "Consultar mi dirección gratis con el bono de 45 € / 700 pesos",
           "href": "https://starlink.com/?referral=RC-DF-17132118-63432-88",
           "sponsored": true
         }
@@ -54,7 +54,7 @@
       "heading": "Los tres planes en Madrid, con y sin descuento",
       "paragraphs": [
         "Leímos el pedido oficial para una dirección de Puerta del Sol, en Madrid, el 23 de noviembre de 2026, sin completar la compra. El Residencial 100 Mbps costaba 24,50 € al mes (35 € sin descuento), el 200 Mbps 31,50 € (45 €) y el Máx. 45,50 € (65 €), todos con el kit en alquiler: 0 € al empezar y 0 € al mes. Los 19 € que se pagan hoy corresponden al envío.",
-        "La instalación profesional es opcional y cuesta 172 € en el 100 y el 200 Mbps, y es gratuita en el Máx. La recompensa del referido aparece en el pedido cuando lo abres desde el enlace, se abona como crédito en la factura tras dos ciclos mensuales completos y no se descuenta del precio del kit."
+        "La instalación profesional es opcional y cuesta 172 € en el 100 y el 200 Mbps, y 0 € en el Máx. Con la referencia de 45 € en España (700 pesos en México; confirma el importe en tu pedido), la bonificación equivale a cerca de 1,8 meses del plan de 100 Mbps a 24,50 € al mes; se abona como crédito en la factura tras dos ciclos mensuales completos y no se descuenta del precio del kit."
       ],
       "comparisonTable": {
         "headers": [
@@ -162,13 +162,20 @@
       "postParagraphs": [
         "El 200 Mbps queda en medio: 31,50 € al mes con 30 %, frente a los 45 € de su precio normal. Si el Máx. te sobra y el 100 Mbps se queda corto, es el plan que conviene comparar primero."
       ],
-      "emphasis": "Según la tabla, el pedido de Madrid pide 19 € el primer día y 24,50 €, 31,50 € o 45,50 € al mes según el plan, y la recompensa llega solo tras dos ciclos mensuales completos."
+      "emphasis": "Según la tabla, el pedido de Madrid pide 19 € el primer día y 24,50 €, 31,50 € o 45,50 € al mes según el plan, y la recompensa (45 € en España —cerca de 1,8 meses a 24,50 €— o 700 pesos en México) llega solo tras dos ciclos mensuales completos.",
+      "links": [
+        {
+          "label": "Ver el 30 % y los 45 € / 700 pesos en mi dirección",
+          "href": "https://starlink.com/?referral=RC-DF-17132118-63432-88",
+          "sponsored": true
+        }
+      ]
     },
     {
       "heading": "Cómo se ve en el pedido",
       "paragraphs": [
         "La captura muestra el aviso “Referral Code Applied” de un pedido de Estados Unidos abierto con enlace de referido. El pedido con enlace enseña el aviso de referido aplicado y el importe de la recompensa de tu país.",
-        "Para comprobar el tuyo, abre el enlace, introduce tu dirección y busca el mismo aviso antes de pagar. Mira si el pedido muestra la recompensa y el precio mensual."
+        "Abrir el enlace y escribir tu dirección no cobra nada ni pide tarjeta: ves antes de pagar el precio mensual exacto, las condiciones del kit y el aviso verde de referido aplicado."
       ],
       "image": {
         "src": "/images/reviews/starlink/starlink-order-referral-applied-en.webp",
@@ -207,7 +214,7 @@
       },
       "links": [
         {
-          "label": "Consultar la Black Friday y el referido en mi dirección",
+          "label": "Probar Starlink 30 días con 30 % y bono de 45 € / 700 pesos",
           "href": "https://starlink.com/?referral=RC-DF-17132118-63432-88",
           "sponsored": true
         }
@@ -245,8 +252,15 @@
     {
       "heading": "Cómo usar el enlace",
       "paragraphs": [
-        "Abrir el enlace no te compromete a nada: los precios, la disponibilidad y la oferta solo aparecen después de escribir tu dirección. Introduce la dirección donde vas a instalar la antena, elige el plan, comprueba el referido aplicado y guarda la oferta que aparece antes de pagar.",
+        "Abrir el enlace e introducir tu dirección no cuesta nada, no exige tarjeta ni te compromete a contratar: los precios, la disponibilidad y el aviso verde de referido aplicado aparecen antes de cualquier pago. Escribe la dirección donde instalarás la antena, elige el plan, confirma ese aviso verde en pantalla y guarda una captura antes de pagar.",
         "En la [página del referido de Starlink](/es/coupons/starlink) están el enlace y las reglas del programa."
+      ],
+      "links": [
+        {
+          "label": "Abrir starlink.com con el enlace de referido aplicado",
+          "href": "https://starlink.com/?referral=RC-DF-17132118-63432-88",
+          "sponsored": true
+        }
       ]
     },
     {
@@ -259,13 +273,13 @@
         "¿Cuánto cuestan los planes al mes? En esa consulta, 24,50 € el Residencial 100 Mbps, 31,50 € el 200 Mbps y 45,50 € el Máx., con el 30 % de descuento. Cambian según la dirección.",
         "¿Puedo probar Starlink antes de decidir? Sí. Starlink devuelve el kit y el primer mes si cancelas y devuelves el equipo en buen estado dentro de los 30 días.",
         "¿Puedo añadir el referido después de pagar? No. Solo cuenta en el pedido abierto desde el enlace, antes de pagar.",
-        "¿Hasta cuándo vale la oferta? Starlink la anuncia hasta el final de noviembre. Introduce tu dirección para ver si está disponible."
+        "¿Hasta cuándo vale la oferta? Hay dos plazos distintos: la promoción Black Friday del 30 % está anunciada hasta el 30 de noviembre en zonas elegibles, mientras que el bono por referido mediante nuestro enlace (45 € de referencia en España y 700 pesos en México) sigue vigente mientras exista el programa oficial de referidos de Starlink. Introduce tu dirección para comprobar tu pedido antes de pagar."
       ]
     }
   ],
   "cta": {
-    "text": "Los nuevos clientes pueden recibir crédito tras dos ciclos completos de facturación al día. La referencia es de 45 € en España y 700 pesos en México. Abre el pedido oficial con nuestro enlace y verifica el importe antes de pagar.",
-    "label": "Abrir mi pedido con el enlace de referido",
+    "text": "Combina la campaña de Black Friday (hasta el 30 de noviembre en zonas elegibles) con la bonificación por referido tras dos ciclos mensuales completos pagados al día: referencia de 45 € en España y 700 pesos en México. Consultar tu dirección no cuesta nada ni pide tarjeta; confirma el aviso verde en tu pedido antes de pagar.",
+    "label": "Consultar mi dirección gratis con 45 € / 700 pesos",
     "url": "https://starlink.com/?referral=RC-DF-17132118-63432-88",
     "sponsored": true
   },

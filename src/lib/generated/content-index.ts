@@ -288388,8 +288388,8 @@ export const reviewsData: unknown[] = [
     "slug": "black-friday-starlink",
     "translationKey": "starlink-black-friday",
     "locale": "pt",
-    "title": "Black Friday Starlink 2026: preços dos planos e R$ 200 de crédito por indicação",
-    "seoTitle": "Black Friday Starlink 2026: preços e crédito de R$ 200",
+    "title": "Black Friday Starlink 2026: kit a R$ 49, 30% na mensalidade e R$ 200 de crédito no link",
+    "seoTitle": "Black Friday Starlink 2026: kit R$ 49, 30% e R$ 200",
     "type": "Guia de Black Friday",
     "category": "cupons-como-usar",
     "reviewKind": "guia",
@@ -288408,11 +288408,11 @@ export const reviewsData: unknown[] = [
         "initials": "BL"
       }
     ],
-    "description": "Veja os preços do 100 Mbps e do Max na Black Friday da Starlink e como receber R$ 200 de crédito na fatura com o link de indicação.",
-    "metaDescription": "Black Friday Starlink: veja os preços do 100 Mbps e do Max, as condições de cada pedido e como receber 200 reais de crédito na fatura.",
+    "description": "Kit a R$ 49 no Max ou Mini X sem fidelidade no 100 Mbps, 30% OFF na mensalidade até 30/11 em áreas elegíveis e R$ 200 de crédito na fatura pelo link de indicação.",
+    "metaDescription": "Black Friday Starlink até 30/11: kit a R$ 49 (ou sem fidelidade no 100 Mbps), 30% na mensalidade e R$ 200 de crédito na fatura pelo link (45 € PT).",
     "publishedAt": "19 de novembro de 2026",
     "publishedAtISO": "2026-11-19",
-    "updatedAt": "2026-11-23",
+    "updatedAt": "2026-11-24",
     "draft": false,
     "isNew": true,
     "image": "/images/reviews/starlink/black-friday-starlink-hero-pt-v2.webp",
@@ -288424,12 +288424,12 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Resposta rápida",
         "paragraphs": [
-          "Novos clientes podem receber 200 reais de crédito na fatura no Brasil ou 45 € em Portugal. Abra nosso link de indicação antes de contratar, confirme o bônus no pedido e mantenha os dois primeiros ciclos completos em dia.",
-          "Na oferta consultada em Alto Paraíso de Goiás, o Max trazia kit a 49 reais e contrato de 12 meses. A tela do 100 Mbps mostrava o Mini X comprado por 299 reais. A campanha vai até 30 de novembro em áreas selecionadas."
+          "Na Black Friday da Starlink, o kit sai a partir de R$ 49 no plano Max (ou o Mini X por R$ 299, sem fidelidade, no 100 Mbps), com 30% de desconto na mensalidade residencial. Pelo nosso link, novos clientes ainda recebem R$ 200 de crédito na fatura no Brasil, ou 45 € em Portugal, onde o kit sai alugado a 0 €.",
+          "A campanha de Black Friday vai até 30 de novembro em áreas selecionadas, enquanto o nosso bônus vale enquanto existir o programa de indicação da Starlink (entrando como crédito após dois ciclos pagos em dia, sem reduzir o kit na hora). Consulte seu endereço pelo link abaixo e confira o aviso de indicação antes de pagar."
         ],
         "links": [
           {
-            "label": "Consultar meu endereço com o bônus Starlink",
+            "label": "Conferir oferta no meu endereço + R$ 200 de crédito (45 € PT)",
             "href": "https://starlink.com/?referral=RC-DF-17132118-63432-88",
             "sponsored": true
           }
@@ -288439,7 +288439,7 @@ export const reviewsData: unknown[] = [
         "heading": "Os dois caminhos, lado a lado",
         "paragraphs": [
           "Em 23 de novembro de 2026, o pedido de Alto Paraíso de Goiás mostrou os dois planos com 30% de desconto na mensalidade. No Residencial Max, o Mini X custa R$ 49 (R$ 99 menos R$ 50 de desconto), com instalação profissional incluída, mensalidade de R$ 174,30 e contrato de 12 meses. No Residencial 100 Mbps, o Mini X sai por R$ 299 (R$ 499 menos R$ 200), a mensalidade é de R$ 132,30 e o resumo do pedido não traz contrato de 12 meses.",
-          "Com o link de indicação, depois de dois ciclos mensais pagos e sem atraso, R$ 200 voltam como crédito na fatura. O crédito não reduz o preço do kit: kit e primeira mensalidade somam R$ 223,30 no Max e R$ 431,30 no 100 Mbps, e o crédito aparece só depois. O 100 Mbps não tem multa de saída."
+          "Com o link de indicação, depois de dois ciclos mensais pagos e sem atraso, R$ 200 voltam como crédito na fatura — o equivalente a mais de uma mensalidade inteira do Max (R$ 174,30) ou cerca de um mês e meio do 100 Mbps (R$ 132,30). O crédito não reduz o preço do kit na hora do pagamento: kit e primeira mensalidade somam R$ 223,30 no Max e R$ 431,30 no 100 Mbps, e o crédito entra depois. O 100 Mbps não tem multa de saída."
         ],
         "comparisonTable": {
           "headers": [
@@ -288552,13 +288552,20 @@ export const reviewsData: unknown[] = [
         "postParagraphs": [
           "O 100 Mbps cobra R$ 42 a menos por mês, e o kit dele custa R$ 250 a mais. Se o preço promocional do 100 Mbps se mantiver, as duas contas se encontram por volta do sexto mês. Até lá o Max sai na frente pelo kit de entrada menor, mas ele é o plano de cima e prende você por 12 meses: compare também a velocidade de que você precisa."
         ],
-        "emphasis": "Pelos números da tabela, kit e primeira mensalidade somam R$ 223,30 no Max (12 meses de contrato) e R$ 431,30 no 100 Mbps (sem cláusula de 12 meses na tela); nos dois, R$ 200 voltam como crédito na fatura depois de dois meses, sem reduzir o preço do kit."
+        "emphasis": "Pelos números da tabela, kit e primeira mensalidade somam R$ 223,30 no Max (12 meses de contrato) e R$ 431,30 no 100 Mbps (sem cláusula de 12 meses na tela); nos dois, R$ 200 voltam como crédito na fatura depois de dois meses, sem reduzir o preço do kit.",
+        "links": [
+          {
+            "label": "Simular meu CEP com os 30% + R$ 200 de bônus",
+            "href": "https://starlink.com/?referral=RC-DF-17132118-63432-88",
+            "sponsored": true
+          }
+        ]
       },
       {
         "heading": "Como aparece no pedido",
         "paragraphs": [
           "Veja no print o aviso verde de indicação aplicada, os 30% de desconto e o total a pagar no dia. Para conferir a fidelidade, veja os termos do plano e do kit no resumo do seu pedido.",
-          "Para conferir a sua oferta, abra o link, informe o endereço e procure o mesmo aviso antes de pagar. Veja se o pedido mostra o valor da recompensa e as condições da mensalidade."
+          "Para conferir a sua oferta sem compromisso nem cobrança no cartão, abra o link, informe o endereço e procure o mesmo aviso antes de pagar. Veja se o pedido mostra o valor da recompensa e as condições da mensalidade."
         ],
         "image": {
           "src": "/images/reviews/starlink/starlink-pedido-indicacao-aplicada.webp",
@@ -288598,7 +288605,7 @@ export const reviewsData: unknown[] = [
         },
         "links": [
           {
-            "label": "Consultar a Black Friday e o bônus de R$ 200 no meu endereço",
+            "label": "Checar disponibilidade e bônus de R$ 200 no meu endereço",
             "href": "https://starlink.com/?referral=RC-DF-17132118-63432-88",
             "sponsored": true
           }
@@ -288636,8 +288643,15 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Como usar o link",
         "paragraphs": [
-          "Abrir o link não compromete nada: preço, disponibilidade, desconto e fidelidade só aparecem depois que você digita o endereço. Informe o endereço em que vai instalar a antena, escolha o plano, confira a indicação aplicada e guarde a oferta que aparece antes de pagar.",
+          "Abrir o link não compromete nada nem pede cartão: preço do kit, disponibilidade, desconto na mensalidade e fidelidade aparecem na hora depois que você digita o endereço. Informe o CEP em que vai instalar a antena, escolha o plano, confirme o aviso verde de indicação aplicada e salve a tela antes de pagar.",
           "Na página da [indicação Starlink](/cupons/starlink) estão o link e as regras do programa."
+        ],
+        "links": [
+          {
+            "label": "Abrir pedido oficial com R$ 200 de indicação aplicada",
+            "href": "https://starlink.com/?referral=RC-DF-17132118-63432-88",
+            "sponsored": true
+          }
         ]
       },
       {
@@ -288650,13 +288664,13 @@ export const reviewsData: unknown[] = [
           "Posso testar a Starlink antes de decidir? Sim. A Starlink oferece um teste inicial de 30 dias. Confira quando a contagem começa, o que é reembolsável e como cancelar e devolver o kit em bom estado.",
           "Dá para pedir a indicação depois de pagar? Não. A indicação só vale no pedido aberto pelo link, antes do pagamento.",
           "E se o meu endereço estiver em pré-venda? Sem os 30%, a mensalidade aparece cheia e o pedido cobra um depósito que abate o kit. Na consulta da Avenida Paulista, o depósito era de R$ 275 e não havia contrato de 12 meses.",
-          "Até quando vai a oferta? A oferta de fim de novembro vale para pedidos feitos até o fim do mês, em áreas selecionadas. Informe o endereço no pedido para ver se ela está disponível."
+          "Até quando vai a oferta? Os 30% na mensalidade e o kit promocional valem até o fim do mês em áreas selecionadas; já o crédito de R$ 200 (ou 45 € em Portugal) pelo nosso link continua valendo para novos clientes enquanto existir o programa oficial de indicação da Starlink."
         ]
       }
     ],
     "cta": {
-      "text": "Pelo nosso link de indicação, novos clientes elegíveis recebem R$ 200 de crédito na fatura no Brasil ou 45 € em Portugal, após dois ciclos completos em dia. Confira o valor no pedido oficial da Starlink antes de pagar.",
-      "label": "Abrir meu pedido pelo link de indicação",
+      "text": "Ao abrir starlink.com pelo nosso link de indicação, novos clientes elegíveis recebem R$ 200 de crédito na fatura no Brasil (ou 45 € em Portugal) depois de dois ciclos completos em dia. Consultar o endereço e o desconto no seu CEP não custa nada.",
+      "label": "Receber R$ 200 de crédito na fatura pelo link oficial",
       "url": "https://starlink.com/?referral=RC-DF-17132118-63432-88",
       "sponsored": true
     },
@@ -290059,8 +290073,8 @@ export const reviewsData: unknown[] = [
     "slug": "starlink-black-friday-deal",
     "translationKey": "starlink-black-friday",
     "locale": "en",
-    "title": "Starlink Black Friday 2026: $38.50 a month, a $0 rental kit and the $100 referral reward",
-    "seoTitle": "Starlink Black Friday 2026: 30% off, $0 rental kit, $100 referral",
+    "title": "Starlink Black Friday 2026: $38.50 a month, $0 rental kit and $100 or £40 referral reward",
+    "seoTitle": "Starlink Black Friday 2026: 30% off, $0 rental kit, $100 or £40",
     "type": "Black Friday Guide",
     "category": "cupons-como-usar",
     "reviewKind": "guia",
@@ -290079,11 +290093,11 @@ export const reviewsData: unknown[] = [
         "initials": "BL"
       }
     ],
-    "description": "In Nevada, Starlink showed 100 Mbps at $38.50 a month with a $0 rental kit. See the US and UK numbers, how the $100 referral fits in and what to check first.",
-    "metaDescription": "Starlink Black Friday: 30% off service, a $0 rental kit and a $100 US referral reward. See the Nevada and UK numbers and check your address.",
+    "description": "In Nevada, Starlink showed 100 Mbps at $38.50 a month until Nov. 30 with a $0 rental kit. See US and UK prices, plus the $100 US or £40 UK referral credit.",
+    "metaDescription": "Starlink Black Friday until Nov. 30: 30% off in select US areas ($38.50/mo), $0 rental kit, plus $100 US or £40 UK referral credit. Check your address.",
     "publishedAt": "November 20, 2026",
     "publishedAtISO": "2026-11-20",
-    "updatedAt": "2026-11-23",
+    "updatedAt": "2026-11-24",
     "draft": false,
     "isNew": true,
     "hideFromPortugueseListings": true,
@@ -290095,12 +290109,12 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Quick answer",
         "paragraphs": [
-          "New customers can get a $100 bill credit in the US or £40 in the UK. Open our referral link before you order, check that the reward is shown, and keep your eligible subscription paid and active for two full billing cycles.",
-          "Starlink's Black Friday offer takes 30% off the monthly plan in select areas, with a $0 rental kit that you return if you cancel. In Nevada the 100 Mbps plan was $38.50 a month, with $20 plus taxes due today. The offer runs until November 30."
+          "On Starlink's Black Friday offer, select areas get 30% off the monthly plan—$38.50 a month for 100 Mbps in Nevada—plus a $0 rental kit ($20 plus taxes due today for shipping) and, exclusively through our referral link, new customers can earn an extra $100 bill credit in the US or £40 in the UK.",
+          "Pay close attention to the two separate timelines: the 30% Black Friday discount runs until November 30 in eligible areas, while our referral bonus stays available for as long as Starlink's official referral program remains active. The credit lands on your bill after two full billing cycles paid on time and does not discount the kit price at checkout. Check your address for free with no obligation using the link below before you pay."
         ],
         "links": [
           {
-            "label": "Check my address for the Starlink reward",
+            "label": "Check my address free for Black Friday + $100 / £40 credit",
             "href": "https://starlink.com/?referral=RC-DF-17132118-63432-88",
             "sponsored": true
           }
@@ -290110,7 +290124,7 @@ export const reviewsData: unknown[] = [
         "heading": "The numbers: 100 Mbps, 200 Mbps and Max in Nevada and the UK",
         "paragraphs": [
           "We read the order pages on November 23, 2026, without completing a purchase. In Nevada, Residential 100 Mbps was $38.50 a month (regular price $55), 200 Mbps was $59.50 ($85) and Max was $91 ($130), all with a $0 rental kit. The order summary for 100 Mbps showed $20 plus taxes due today, which is the shipping, because the Starlink V5 and Router Mini rental was $349 minus $349.",
-          "In the UK, the order summary showed £40, £60 and £80 a month for 100 Mbps, 200 Mbps and Max, a £0 rental kit, £19 due today and no contracts. Through our link, the referral reward is $100 in the US and £40 in the UK, paid after two monthly cycles. That is more than two and a half months of the Nevada 100 Mbps price, or a full month in the UK. The credit does not reduce the price of the kit."
+          "In the UK, the order summary showed £40, £60 and £80 a month for 100 Mbps, 200 Mbps and Max, a £0 rental kit, £19 due today and no contracts. Through our link, the referral reward is $100 in the US and £40 in the UK, paid after two monthly cycles. That $100 credit covers more than 2.5 months of the $38.50 Nevada 100 Mbps plan (or one full £40 month in the UK), and does not reduce the kit price."
         ],
         "comparisonTable": {
           "headers": [
@@ -290226,15 +290240,22 @@ export const reviewsData: unknown[] = [
           ]
         },
         "postParagraphs": [
-          "The 200 Mbps plan sits in the middle: $59.50 a month in Nevada, with the Starlink V4 and Router 4 on rental and $0 professional installation. Max also comes with free professional installation, while the 100 Mbps plan lists it as an optional $99 extra."
+          "The 200 Mbps plan sits in the middle: $59.50 a month in Nevada, with the Starlink V4 and Router 4 on rental and $0 professional installation. Max also comes with $0 professional installation, while the 100 Mbps plan lists it as an optional $99 extra."
         ],
-        "emphasis": "By the numbers in the table, the Nevada order is $20 plus taxes today and $38.50 a month for 100 Mbps, and the $100 reward only lands after two full paid cycles, so the first bills come out of pocket."
+        "emphasis": "By the numbers in the table, the Nevada order is $20 plus taxes today and $38.50 a month for 100 Mbps, and the $100 reward (over 2.5 months of service at $38.50) only lands after two full paid cycles, so the first bills come out of pocket.",
+        "links": [
+          {
+            "label": "Check 30% off and $100 / £40 credit at my address",
+            "href": "https://starlink.com/?referral=RC-DF-17132118-63432-88",
+            "sponsored": true
+          }
+        ]
       },
       {
         "heading": "What the order looks like",
         "paragraphs": [
           "The screenshot shows “Referral Code Applied” and a displayed offer of $100 each for the new customer and the referrer. Starlink checks eligibility before the reward is paid.",
-          "To check your own offer, open the link, enter your address and look for the same notice before you pay. See whether the order shows the reward and the monthly price."
+          "Opening the link and typing your address charges nothing and does not require a card—you see your exact monthly price, kit terms and the green “Referral Code Applied” notice before any payment step."
         ],
         "image": {
           "src": "/images/reviews/starlink/starlink-order-referral-applied-en.webp",
@@ -290273,7 +290294,7 @@ export const reviewsData: unknown[] = [
         },
         "links": [
           {
-            "label": "Check Black Friday and the $100 reward at my address",
+            "label": "Test Starlink for 30 days with Black Friday + $100 / £40 credit",
             "href": "https://starlink.com/?referral=RC-DF-17132118-63432-88",
             "sponsored": true
           }
@@ -290311,8 +290332,15 @@ export const reviewsData: unknown[] = [
       {
         "heading": "How to use the link",
         "paragraphs": [
-          "Opening the link commits you to nothing: prices, availability and the offer only appear after you type your address. Enter the address where you will install the dish, pick the plan, check that the referral shows as applied and save the offer that appears before you pay.",
+          "Opening the link and entering your address costs nothing, asks for no payment card and commits you to nothing: prices, availability and the offer appear first. Type the installation address, pick your plan, make sure the green referral notice is visible before you pay, and take a screenshot of the summary.",
           "The [Starlink referral page](/en/coupons/starlink) has the link and the program rules."
+        ],
+        "links": [
+          {
+            "label": "Open starlink.com with the $100 US / £40 UK referral applied",
+            "href": "https://starlink.com/?referral=RC-DF-17132118-63432-88",
+            "sponsored": true
+          }
         ]
       },
       {
@@ -290325,13 +290353,13 @@ export const reviewsData: unknown[] = [
           "Is the Starlink kit free? It is a rental, with $0 upfront and $0 a month, and you have to return it if you cancel.",
           "Can I try Starlink before committing? Yes. Starlink refunds the kit and the first month if you cancel and return the kit undamaged within 30 days of the payment due date.",
           "Can I add the referral after paying? No. It only counts on an order opened through the link, before payment.",
-          "How long does the offer run? Starlink advertises it until the end of November. Enter your address on the order page to see whether it is available."
+          "How long does the offer run? There are two separate timelines: the 30% Black Friday plan promotion runs until November 30 in eligible areas, while the $100 US / £40 UK referral bonus through our link remains valid for as long as Starlink's official referral program exists. Enter your address on the order page to check availability before paying."
         ]
       }
     ],
     "cta": {
-      "text": "New customers who order through our link can get a $100 bill credit in the US or £40 in the UK after two full paid billing cycles. Check the reward on your Starlink order before you pay.",
-      "label": "Open my Starlink order with the referral",
+      "text": "Combine the Black Friday offer (until November 30 in select areas) with a $100 US or £40 UK referral bill credit after two full monthly cycles paid on time. Checking your address charges nothing and requires no card—confirm the green referral notice before you pay.",
+      "label": "Check my address free with $100 / £40 referral",
       "url": "https://starlink.com/?referral=RC-DF-17132118-63432-88",
       "sponsored": true
     },
@@ -291753,8 +291781,8 @@ export const reviewsData: unknown[] = [
     "slug": "starlink-black-friday-oferta",
     "translationKey": "starlink-black-friday",
     "locale": "es",
-    "title": "Black Friday Starlink 2026 en España: 100 Mbps a 24,50 €, kit en alquiler a 0 € y recompensa por referido",
-    "seoTitle": "Black Friday Starlink 2026: 24,50 € al mes y kit a 0 €",
+    "title": "Black Friday Starlink 2026 en España: 100 Mbps a 24,50 €, kit en alquiler a 0 € y 45 € por referido",
+    "seoTitle": "Black Friday Starlink 2026: 24,50 €/mes, alquiler 0 € y 45 €",
     "type": "Guía de Black Friday",
     "category": "cupons-como-usar",
     "reviewKind": "guia",
@@ -291773,11 +291801,11 @@ export const reviewsData: unknown[] = [
         "initials": "BL"
       }
     ],
-    "description": "En Madrid, Starlink mostraba el 100 Mbps a 24,50 € al mes, el 200 Mbps a 31,50 € y el kit en alquiler a 0 €. Mira la cuenta del primer pedido y cómo entra el referido.",
-    "metaDescription": "Starlink Black Friday en España: 30 % en los planes y kit en alquiler a 0 €. Mira los precios de Madrid, la devolución y cómo entra el referido.",
+    "description": "En Madrid, Starlink mostraba 100 Mbps a 24,50 €/mes hasta el 30 nov. y kit en alquiler a 0 €, más 45 € por referido (700 pesos en México). Comprueba tu dirección.",
+    "metaDescription": "Starlink Black Friday hasta el 30 nov.: 30 % (desde 24,50 €/mes), kit en alquiler a 0 € y 45 € de referido en España (700 pesos MX). Consulta tu dirección.",
     "publishedAt": "20 de noviembre de 2026",
     "publishedAtISO": "2026-11-20",
-    "updatedAt": "2026-11-23",
+    "updatedAt": "2026-11-24",
     "draft": false,
     "isNew": true,
     "hideFromPortugueseListings": true,
@@ -291789,12 +291817,12 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Respuesta rápida",
         "paragraphs": [
-          "En tu primera suscripción elegible puedes recibir crédito en la factura. Las referencias de noviembre son 45 € en España y 700 pesos en México. Abre nuestro enlace, confirma el importe en el pedido y mantén el plan activo y al día durante dos ciclos completos.",
-          "El pedido de Starlink que consultamos en Madrid mostraba un 30 % de descuento en el servicio hasta el 30 de noviembre: 24,50 € al mes el 100 Mbps, 31,50 € el 200 Mbps y 45,50 € el Máx., con el kit en alquiler a 0 € y 19 € a pagar hoy. El equipo se devuelve si cancelas y tienes 30 días de prueba."
+          "En el Black Friday de Starlink, las zonas elegibles combinan un 30 % de descuento mensual —24,50 € al mes en Madrid para el 100 Mbps— con el kit en alquiler a 0 € (19 € de envío hoy) y, entrando desde nuestro enlace de referido, los nuevos clientes suman una bonificación en factura: la referencia publicada en noviembre es de 45 € en España y 700 pesos en México (confírmala en tu pedido antes de pagar).",
+          "Ten en cuenta los dos plazos distintos: la campaña de Black Friday termina el 30 de noviembre en áreas seleccionadas, mientras que nuestro bono de referido sigue activo mientras exista el programa oficial de referidos de Starlink. El crédito llega a tu factura tras dos ciclos mensuales completos pagados al día y no descuenta el precio del kit en el momento del pago. Consulta tu dirección gratis y sin compromiso en el enlace de abajo."
         ],
         "links": [
           {
-            "label": "Consultar mi dirección con la bonificación de Starlink",
+            "label": "Consultar mi dirección gratis con el bono de 45 € / 700 pesos",
             "href": "https://starlink.com/?referral=RC-DF-17132118-63432-88",
             "sponsored": true
           }
@@ -291804,7 +291832,7 @@ export const reviewsData: unknown[] = [
         "heading": "Los tres planes en Madrid, con y sin descuento",
         "paragraphs": [
           "Leímos el pedido oficial para una dirección de Puerta del Sol, en Madrid, el 23 de noviembre de 2026, sin completar la compra. El Residencial 100 Mbps costaba 24,50 € al mes (35 € sin descuento), el 200 Mbps 31,50 € (45 €) y el Máx. 45,50 € (65 €), todos con el kit en alquiler: 0 € al empezar y 0 € al mes. Los 19 € que se pagan hoy corresponden al envío.",
-          "La instalación profesional es opcional y cuesta 172 € en el 100 y el 200 Mbps, y es gratuita en el Máx. La recompensa del referido aparece en el pedido cuando lo abres desde el enlace, se abona como crédito en la factura tras dos ciclos mensuales completos y no se descuenta del precio del kit."
+          "La instalación profesional es opcional y cuesta 172 € en el 100 y el 200 Mbps, y 0 € en el Máx. Con la referencia de 45 € en España (700 pesos en México; confirma el importe en tu pedido), la bonificación equivale a cerca de 1,8 meses del plan de 100 Mbps a 24,50 € al mes; se abona como crédito en la factura tras dos ciclos mensuales completos y no se descuenta del precio del kit."
         ],
         "comparisonTable": {
           "headers": [
@@ -291912,13 +291940,20 @@ export const reviewsData: unknown[] = [
         "postParagraphs": [
           "El 200 Mbps queda en medio: 31,50 € al mes con 30 %, frente a los 45 € de su precio normal. Si el Máx. te sobra y el 100 Mbps se queda corto, es el plan que conviene comparar primero."
         ],
-        "emphasis": "Según la tabla, el pedido de Madrid pide 19 € el primer día y 24,50 €, 31,50 € o 45,50 € al mes según el plan, y la recompensa llega solo tras dos ciclos mensuales completos."
+        "emphasis": "Según la tabla, el pedido de Madrid pide 19 € el primer día y 24,50 €, 31,50 € o 45,50 € al mes según el plan, y la recompensa (45 € en España —cerca de 1,8 meses a 24,50 €— o 700 pesos en México) llega solo tras dos ciclos mensuales completos.",
+        "links": [
+          {
+            "label": "Ver el 30 % y los 45 € / 700 pesos en mi dirección",
+            "href": "https://starlink.com/?referral=RC-DF-17132118-63432-88",
+            "sponsored": true
+          }
+        ]
       },
       {
         "heading": "Cómo se ve en el pedido",
         "paragraphs": [
           "La captura muestra el aviso “Referral Code Applied” de un pedido de Estados Unidos abierto con enlace de referido. El pedido con enlace enseña el aviso de referido aplicado y el importe de la recompensa de tu país.",
-          "Para comprobar el tuyo, abre el enlace, introduce tu dirección y busca el mismo aviso antes de pagar. Mira si el pedido muestra la recompensa y el precio mensual."
+          "Abrir el enlace y escribir tu dirección no cobra nada ni pide tarjeta: ves antes de pagar el precio mensual exacto, las condiciones del kit y el aviso verde de referido aplicado."
         ],
         "image": {
           "src": "/images/reviews/starlink/starlink-order-referral-applied-en.webp",
@@ -291957,7 +291992,7 @@ export const reviewsData: unknown[] = [
         },
         "links": [
           {
-            "label": "Consultar la Black Friday y el referido en mi dirección",
+            "label": "Probar Starlink 30 días con 30 % y bono de 45 € / 700 pesos",
             "href": "https://starlink.com/?referral=RC-DF-17132118-63432-88",
             "sponsored": true
           }
@@ -291995,8 +292030,15 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Cómo usar el enlace",
         "paragraphs": [
-          "Abrir el enlace no te compromete a nada: los precios, la disponibilidad y la oferta solo aparecen después de escribir tu dirección. Introduce la dirección donde vas a instalar la antena, elige el plan, comprueba el referido aplicado y guarda la oferta que aparece antes de pagar.",
+          "Abrir el enlace e introducir tu dirección no cuesta nada, no exige tarjeta ni te compromete a contratar: los precios, la disponibilidad y el aviso verde de referido aplicado aparecen antes de cualquier pago. Escribe la dirección donde instalarás la antena, elige el plan, confirma ese aviso verde en pantalla y guarda una captura antes de pagar.",
           "En la [página del referido de Starlink](/es/coupons/starlink) están el enlace y las reglas del programa."
+        ],
+        "links": [
+          {
+            "label": "Abrir starlink.com con el enlace de referido aplicado",
+            "href": "https://starlink.com/?referral=RC-DF-17132118-63432-88",
+            "sponsored": true
+          }
         ]
       },
       {
@@ -292009,13 +292051,13 @@ export const reviewsData: unknown[] = [
           "¿Cuánto cuestan los planes al mes? En esa consulta, 24,50 € el Residencial 100 Mbps, 31,50 € el 200 Mbps y 45,50 € el Máx., con el 30 % de descuento. Cambian según la dirección.",
           "¿Puedo probar Starlink antes de decidir? Sí. Starlink devuelve el kit y el primer mes si cancelas y devuelves el equipo en buen estado dentro de los 30 días.",
           "¿Puedo añadir el referido después de pagar? No. Solo cuenta en el pedido abierto desde el enlace, antes de pagar.",
-          "¿Hasta cuándo vale la oferta? Starlink la anuncia hasta el final de noviembre. Introduce tu dirección para ver si está disponible."
+          "¿Hasta cuándo vale la oferta? Hay dos plazos distintos: la promoción Black Friday del 30 % está anunciada hasta el 30 de noviembre en zonas elegibles, mientras que el bono por referido mediante nuestro enlace (45 € de referencia en España y 700 pesos en México) sigue vigente mientras exista el programa oficial de referidos de Starlink. Introduce tu dirección para comprobar tu pedido antes de pagar."
         ]
       }
     ],
     "cta": {
-      "text": "Los nuevos clientes pueden recibir crédito tras dos ciclos completos de facturación al día. La referencia es de 45 € en España y 700 pesos en México. Abre el pedido oficial con nuestro enlace y verifica el importe antes de pagar.",
-      "label": "Abrir mi pedido con el enlace de referido",
+      "text": "Combina la campaña de Black Friday (hasta el 30 de noviembre en zonas elegibles) con la bonificación por referido tras dos ciclos mensuales completos pagados al día: referencia de 45 € en España y 700 pesos en México. Consultar tu dirección no cuesta nada ni pide tarjeta; confirma el aviso verde en tu pedido antes de pagar.",
+      "label": "Consultar mi dirección gratis con 45 € / 700 pesos",
       "url": "https://starlink.com/?referral=RC-DF-17132118-63432-88",
       "sponsored": true
     },
@@ -293418,8 +293460,8 @@ export const reviewsData: unknown[] = [
     "slug": "starlink-black-friday-offre",
     "translationKey": "starlink-black-friday",
     "locale": "fr",
-    "title": "Black Friday Starlink 2026 : 100 Mbit/s à 24,50 €, kit loué à 0 € et la récompense du parrainage",
-    "seoTitle": "Black Friday Starlink 2026 : 24,50 € par mois, kit loué à 0 €",
+    "title": "Black Friday Starlink 2026 : 100 Mbit/s à 24,50 €, kit loué à 0 € et 45 € de parrainage",
+    "seoTitle": "Black Friday Starlink : 24,50 €/mois, kit loué à 0 € et 45 €",
     "type": "Guide Black Friday",
     "category": "cupons-como-usar",
     "reviewKind": "guia",
@@ -293438,11 +293480,11 @@ export const reviewsData: unknown[] = [
         "initials": "BL"
       }
     ],
-    "description": "À Paris, la commande Starlink affichait le 100 Mbit/s à 24,50 € par mois et le kit loué à 0 €. Voyez le calcul de la première commande et comment entre le parrainage.",
-    "metaDescription": "Starlink Black Friday : 30 % sur les forfaits et kit loué à 0 €. Voyez les prix de Paris, le retour du kit et comment le parrainage entre dans le calcul.",
+    "description": "À Paris, Starlink affichait 100 Mbit/s à 24,50 €/mois jusqu'au 30 nov., kit loué à 0 € et 45 € de crédit parrainage en France. Voyez les tarifs et ce qu'il faut vérifier.",
+    "metaDescription": "Starlink Black Friday jusqu'au 30 nov. : 30 % sur les forfaits (dès 24,50 €/mois), kit loué à 0 € et 45 € de parrainage en France. Vérifiez votre adresse.",
     "publishedAt": "20 novembre 2026",
     "publishedAtISO": "2026-11-20",
-    "updatedAt": "2026-11-23",
+    "updatedAt": "2026-11-24",
     "draft": false,
     "isNew": true,
     "hideFromPortugueseListings": true,
@@ -293454,12 +293496,12 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Réponse rapide",
         "paragraphs": [
-          "Vous souscrivez pour la première fois en France ? Vous pouvez recevoir 45 € de crédit sur votre facture. Ouvrez notre lien de parrainage avant de commander, vérifiez le montant affiché et gardez votre abonnement éligible actif et à jour pendant deux cycles complets de facturation.",
-          "La commande Starlink lue à Paris affichait 30 % de réduction sur les forfaits jusqu'au 30 novembre : 24,50 € par mois pour le 100 Mbit/s, 31,50 € pour le 200 Mbit/s et 45,50 € pour le Max, avec un kit loué à 0 € et 19 € à payer le jour même. Le matériel se renvoie si vous annulez, avec 30 jours d'essai."
+          "Avec le Black Friday Starlink, les zones éligibles associent 30 % de réduction sur l'abonnement — 24,50 € par mois pour le 100 Mbit/s à Paris — au kit loué à 0 € (19 € de livraison le jour même), et les nouveaux clients qui commandent via notre lien reçoivent 45 € de crédit de parrainage sur leur facture en France.",
+          "Gardez en tête deux délais distincts : l'offre Black Friday de 30 % est valable jusqu'au 30 novembre dans les zones sélectionnées, alors que notre bonus de parrainage reste disponible tant que le programme officiel de parrainage Starlink existe. Ce crédit arrive sur votre facture après deux cycles mensuels complets réglés à temps et ne réduit pas le prix du kit au moment du paiement. Vérifiez votre adresse gratuitement et sans engagement via le lien ci-dessous."
         ],
         "links": [
           {
-            "label": "Vérifier mon adresse et le crédit Starlink",
+            "label": "Vérifier mon adresse gratuitement avec le bonus de 45 €",
             "href": "https://starlink.com/?referral=RC-DF-17132118-63432-88",
             "sponsored": true
           }
@@ -293469,7 +293511,7 @@ export const reviewsData: unknown[] = [
         "heading": "Les trois forfaits à Paris, avec et sans réduction",
         "paragraphs": [
           "Nous avons lu la commande officielle pour une adresse de l'Hôtel-de-Ville, à Paris, le 23 novembre 2026, sans finaliser d'achat. Le Résidentiel 100 Mbit/s coûtait 24,50 € par mois (35 € hors réduction), le 200 Mbit/s 31,50 € (45 €) et le Max 45,50 € (65 €), tous avec le kit loué : 0 € au départ et 0 € par mois. Les 19 € à payer le jour même correspondent à la livraison.",
-          "L'installation professionnelle est optionnelle à 172 € sur le 100 et le 200 Mbit/s, et gratuite sur le Max. La récompense du parrainage apparaît sur la commande ouverte depuis le lien, se verse en crédit sur la facture après deux cycles mensuels complets et ne réduit pas le prix du kit."
+          "L'installation professionnelle est optionnelle à 172 € sur le 100 et le 200 Mbit/s, et à 0 € sur le Max. En France, le crédit de parrainage de 45 € couvre environ 1,8 mois du forfait 100 Mbit/s à 24,50 € par mois ; il apparaît sur la commande ouverte depuis le lien, est versé sur la facture après deux cycles mensuels complets et ne réduit pas le prix du kit."
         ],
         "comparisonTable": {
           "headers": [
@@ -293549,7 +293591,7 @@ export const reviewsData: unknown[] = [
               ],
               "totalLabel": "À payer le jour même (livraison)",
               "totalValue": "19 €",
-              "note": "L'installation professionnelle est gratuite sur le Max."
+              "note": "L'installation professionnelle est à 0 € sur le Max."
             },
             {
               "label": "Sans le lien",
@@ -293577,13 +293619,20 @@ export const reviewsData: unknown[] = [
         "postParagraphs": [
           "Le 200 Mbit/s se place au milieu : 31,50 € par mois avec la réduction, contre 45 € au prix normal. Si le 100 Mbit/s vous paraît juste et le Max trop, c'est le forfait à comparer en premier."
         ],
-        "emphasis": "D'après le tableau, la commande à Paris demande 19 € le jour même, puis 24,50 €, 31,50 € ou 45,50 € par mois selon le forfait, et la récompense n'arrive qu'après deux cycles mensuels complets."
+        "emphasis": "D'après le tableau, la commande à Paris demande 19 € le jour même, puis 24,50 €, 31,50 € ou 45,50 € par mois selon le forfait, et la récompense de 45 € (environ 1,8 mois à 24,50 €) n'arrive qu'après deux cycles mensuels complets.",
+        "links": [
+          {
+            "label": "Voir les 30 % et le crédit de 45 € à mon adresse",
+            "href": "https://starlink.com/?referral=RC-DF-17132118-63432-88",
+            "sponsored": true
+          }
+        ]
       },
       {
         "heading": "Ce que montre la commande",
         "paragraphs": [
           "La capture montre l'avis « Referral Code Applied » d'une commande américaine ouverte avec un lien de parrainage. La commande ouverte avec le lien affiche l'avis de parrainage appliqué et le montant de la récompense de votre pays.",
-          "Pour vérifier la vôtre, ouvrez le lien, saisissez votre adresse et cherchez le même avis avant de payer. Regardez si la commande montre la récompense et le prix mensuel."
+          "Ouvrir le lien et saisir votre adresse ne coûte rien et ne demande aucune carte bancaire : vous vérifiez ainsi votre prix mensuel, le kit et l'avis vert de parrainage appliqué avant tout paiement."
         ],
         "image": {
           "src": "/images/reviews/starlink/starlink-order-referral-applied-en.webp",
@@ -293622,7 +293671,7 @@ export const reviewsData: unknown[] = [
         },
         "links": [
           {
-            "label": "Consulter le Black Friday et le parrainage à mon adresse",
+            "label": "Tester Starlink 30 jours avec 30 % et 45 € de parrainage",
             "href": "https://starlink.com/?referral=RC-DF-17132118-63432-88",
             "sponsored": true
           }
@@ -293660,8 +293709,15 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Comment utiliser le lien",
         "paragraphs": [
-          "Ouvrir le lien n'engage à rien : les prix, la disponibilité et l'offre n'apparaissent qu'après la saisie de l'adresse. Saisissez l'adresse d'installation de l'antenne, choisissez le forfait, vérifiez le parrainage appliqué et faites une capture de l'offre affichée avant de payer.",
+          "Ouvrir le lien et taper votre adresse ne facture rien, n'exige pas de carte et n'engage à rien : les tarifs, la disponibilité et l'avis vert de parrainage appliqué s'affichent d'abord. Saisissez l'adresse d'installation de l'antenne, choisissez le forfait, confirmez cet avis vert à l'écran et conservez une capture avant de payer.",
           "La [page du parrainage Starlink](/fr/coupons/starlink) réunit le lien et les règles du programme."
+        ],
+        "links": [
+          {
+            "label": "Ouvrir starlink.com avec le parrainage de 45 € appliqué",
+            "href": "https://starlink.com/?referral=RC-DF-17132118-63432-88",
+            "sponsored": true
+          }
         ]
       },
       {
@@ -293674,15 +293730,15 @@ export const reviewsData: unknown[] = [
           "Combien coûtent les forfaits par mois ? Dans cette lecture, 24,50 € le 100 Mbit/s, 31,50 € le 200 Mbit/s et 45,50 € le Max, avec les 30 %. Cela change selon l'adresse.",
           "Puis-je essayer Starlink avant de me décider ? Oui. Starlink rembourse le kit et le premier mois si vous annulez et renvoyez le kit en bon état dans les 30 jours.",
           "Puis-je ajouter le parrainage après le paiement ? Non. Il ne compte que sur la commande ouverte depuis le lien, avant le paiement.",
-          "Jusqu'à quand dure l'offre ? Starlink annonce la fin novembre. Saisissez votre adresse sur la commande pour voir si elle est disponible."
+          "Jusqu'à quand dure l'offre ? Il y a deux délais distincts : l'offre Black Friday de 30 % court jusqu'au 30 novembre dans les zones éligibles, tandis que le bonus de parrainage de 45 € via notre lien reste valable tant que le programme officiel de parrainage Starlink existe. Saisissez votre adresse sur la commande pour vérifier avant de payer."
         ]
       }
     ],
     "pros": [],
     "cons": [],
     "cta": {
-      "text": "Les nouveaux clients en France peuvent recevoir 45 € de crédit sur leur facture après deux cycles complets réglés. Ouvrez la commande Starlink via notre lien et vérifiez le montant avant de payer.",
-      "label": "Ouvrir ma commande avec le parrainage",
+      "text": "Cumulez l'offre Black Friday (jusqu'au 30 novembre dans les zones éligibles) avec 45 € de crédit de parrainage sur votre facture en France après deux cycles complets réglés à temps. Saisir votre adresse ne coûte rien et ne demande aucune carte : vérifiez l'avis vert avant de payer.",
+      "label": "Vérifier mon adresse gratuitement avec 45 €",
       "url": "https://starlink.com/?referral=RC-DF-17132118-63432-88",
       "sponsored": true
     },
@@ -295059,8 +295115,8 @@ export const reviewsData: unknown[] = [
     "slug": "starlink-black-friday-angebot",
     "translationKey": "starlink-black-friday",
     "locale": "de",
-    "title": "Starlink Black Friday 2026: 50 % Rabatt für 3 Monate, Kit zur Miete für 0 € und die Empfehlungsprämie",
-    "seoTitle": "Starlink Black Friday 2026: 17,50 € im Monat und Kit für 0 €",
+    "title": "Starlink Black Friday 2026: 50 % Rabatt für 3 Monate, Kit zur Miete für 0 € und 45 € Prämie",
+    "seoTitle": "Starlink Black Friday 2026: 17,50 €/Monat, Miet-Kit 0 € + 45 €",
     "type": "Black-Friday-Ratgeber",
     "category": "cupons-como-usar",
     "reviewKind": "guia",
@@ -295079,11 +295135,11 @@ export const reviewsData: unknown[] = [
         "initials": "BL"
       }
     ],
-    "description": "In Berlin zeigte Starlink 100 Mbit/s für 17,50 € im Monat statt 35 €, drei Monate lang, und das Kit zur Miete für 0 €. Die Rechnung für Berlin und die Empfehlungsprämie.",
-    "metaDescription": "Starlink Black Friday: 50 % auf die Tarife für 3 Monate, Kit zur Miete für 0 €, monatlich kündbar. Die Rechnung für Berlin und die Empfehlungsprämie.",
+    "description": "In Berlin zeigte Starlink 100 Mbit/s für 17,50 €/Monat statt 35 € (3 Monate, bis 30.11.), das Miet-Kit für 0 € und 45 € Empfehlungsprämie. Alle Zahlen im Check.",
+    "metaDescription": "Starlink Black Friday bis 30.11.: 50 % auf Tarife für 3 Monate (ab 17,50 €), Miet-Kit für 0 €, monatlich kündbar und 45 € Prämie über Link. Adresse prüfen.",
     "publishedAt": "20. November 2026",
     "publishedAtISO": "2026-11-20",
-    "updatedAt": "2026-11-23",
+    "updatedAt": "2026-11-24",
     "draft": false,
     "isNew": true,
     "hideFromPortugueseListings": true,
@@ -295095,12 +295151,12 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Schnelle Antwort",
         "paragraphs": [
-          "Als Neukunde in Deutschland können Sie 45 € Rechnungsguthaben erhalten. Öffnen Sie vor der Bestellung unseren Empfehlungslink, prüfen Sie die Prämie in der Bestellübersicht und halten Sie Ihren berechtigten Tarif zwei volle Abrechnungszyklen aktiv und bezahlt.",
-          "Die Bestellseite von Starlink zeigte in Berlin 50 % Rabatt auf die Tarife für die ersten 3 Monate, bei Bestellung bis zum 30. November: 100 Mbit/s für 17,50 € im Monat, 200 Mbit/s für 27,50 € und Max für 37,50 €, dazu das Kit zur Miete für 0 € und 19 € am Bestelltag. Der Vertrag läuft von Monat zu Monat und ist gebührenfrei kündbar."
+          "Beim Starlink Black Friday kombinieren ausgewählte Gebiete 50 % Rabatt auf die ersten 3 Monate — in Berlin 17,50 € im Monat für 100 Mbit/s — mit dem Kit zur Miete für 0 € (19 € am Bestelltag, monatlich gebührenfrei kündbar), plus 45 € Empfehlungsguthaben in Deutschland für Neukunden über unseren Link.",
+          "Wichtig sind die zwei unterschiedlichen Fristen: Die Black-Friday-Aktion läuft nur bis zum 30. November in ausgewählten Gebieten, während unser Empfehlungsbonus so lange gilt, wie das offizielle Starlink-Empfehlungsprogramm besteht. Die Gutschrift landet nach zwei pünktlich bezahlten Monatszyklen auf Ihrer Rechnung und mindert den Kit-Preis bei der Bestellung nicht. Prüfen Sie Ihre Adresse kostenlos und unverbindlich über den Link unten."
         ],
         "links": [
           {
-            "label": "Starlink-Prämie für meine Adresse prüfen",
+            "label": "Adresse kostenlos prüfen: Black Friday + 45 € Prämie",
             "href": "https://starlink.com/?referral=RC-DF-17132118-63432-88",
             "sponsored": true
           }
@@ -295110,7 +295166,7 @@ export const reviewsData: unknown[] = [
         "heading": "Die drei Tarife in Berlin: Aktionspreis und Normalpreis",
         "paragraphs": [
           "Wir haben die Bestellseite für eine Adresse am Alexanderplatz in Berlin am 23. November 2026 gelesen, ohne den Kauf abzuschließen. Der Tarif Privathaushalt mit 100 Mbit/s kostete 17,50 € im Monat statt 35 €, mit 200 Mbit/s 27,50 € statt 55 € und der Max 37,50 € statt 75 €. Die 50 % gelten für 3 Monate. Das Kit ist zur Miete, mit 0 € Vorauszahlung und 0 € im Monat, und am Bestelltag waren 19 € fällig (15,97 € plus 3,03 € Umsatzsteuer).",
-          "In der Bestellübersicht steht bei jedem Tarif, dass der Vertrag automatisch von Monat zu Monat auf unbestimmte Zeit verlängert wird, bis er gekündigt wird, und dass die Kündigung gebührenfrei ist. Die professionelle Montage ist bei 100 und 200 Mbit/s optional für 172 € und beim Max gratis. Die Prämie kommt als Gutschrift auf der Rechnung und senkt den Preis des Kits nicht."
+          "In der Bestellübersicht steht bei jedem Tarif, dass der Vertrag automatisch von Monat zu Monat auf unbestimmte Zeit verlängert wird, bis er gekündigt wird, und dass die Kündigung gebührenfrei ist. Die professionelle Montage ist bei 100 und 200 Mbit/s optional für 172 € und beim Max für 0 € enthalten. Über unseren Empfehlungslink gibt es in Deutschland 45 € Rechnungsguthaben nach zwei bezahlten Zyklen — das entspricht mehr als 2,5 Monaten im 100-Mbit/s-Tarif zu 17,50 € — und senkt den Preis des Kits bei der Bestellung nicht."
         ],
         "comparisonTable": {
           "headers": [
@@ -295218,13 +295274,20 @@ export const reviewsData: unknown[] = [
         "postParagraphs": [
           "Auf drei Monate gerechnet kostet der 100-Mbit/s-Tarif 52,50 €, der 200-Mbit/s-Tarif 82,50 € und der Max 112,50 €. Danach verdoppelt sich der Monatspreis, weil der Normalpreis gilt. Wer länger bleiben will, rechnet deshalb mit 35 €, 55 € oder 75 €."
         ],
-        "emphasis": "Nach den Zahlen der Tabelle zahlt, wer in Berlin bestellt, 19 € am Bestelltag und danach 17,50 € bis 37,50 € im Monat, und die Prämie wird erst nach zwei vollen Monatszyklen gutgeschrieben, sodass die ersten Rechnungen aus eigener Tasche kommen."
+        "emphasis": "Nach den Zahlen der Tabelle zahlt, wer in Berlin bestellt, 19 € am Bestelltag und danach 17,50 € bis 37,50 € im Monat in den ersten 3 Monaten; die 45 € Prämie (über 2,5 Monate beim 100-Mbit/s-Tarif zu 17,50 €) wird erst nach zwei vollen Monatszyklen gutgeschrieben, sodass die ersten Rechnungen aus eigener Tasche kommen.",
+        "links": [
+          {
+            "label": "50 % Rabatt und 45 € Prämie für meine Adresse prüfen",
+            "href": "https://starlink.com/?referral=RC-DF-17132118-63432-88",
+            "sponsored": true
+          }
+        ]
       },
       {
         "heading": "So sieht es in der Bestellung aus",
         "paragraphs": [
           "Der Screenshot zeigt den Hinweis „Referral Code Applied“ einer US-Bestellung, die über einen Empfehlungslink geöffnet wurde. Die Bestellung mit dem Link zeigt den Hinweis auf die angewendete Empfehlung und den Betrag der Prämie für Ihr Land.",
-          "Um Ihr Angebot zu prüfen, öffnen Sie den Link, geben die Adresse ein und suchen den Hinweis, bevor Sie bezahlen. Achten Sie darauf, ob die Bestellung die Prämie und die Bedingungen des Monatspreises zeigt."
+          "Das Öffnen des Links und die Adresseingabe kosten nichts und erfordern keine Zahlungskarte — Sie sehen Ihren genauen Monatspreis, die Kit-Konditionen und den grünen Empfehlungshinweis noch vor jeder Zahlung."
         ],
         "image": {
           "src": "/images/reviews/starlink/starlink-order-referral-applied-en.webp",
@@ -295263,7 +295326,7 @@ export const reviewsData: unknown[] = [
         },
         "links": [
           {
-            "label": "Black Friday und Empfehlungsprämie für meine Adresse prüfen",
+            "label": "Starlink 30 Tage testen: 50 % auf 3 Monate + 45 € Prämie",
             "href": "https://starlink.com/?referral=RC-DF-17132118-63432-88",
             "sponsored": true
           }
@@ -295301,8 +295364,15 @@ export const reviewsData: unknown[] = [
       {
         "heading": "So nutzen Sie den Link",
         "paragraphs": [
-          "Das Öffnen des Links verpflichtet zu nichts: Preise, Verfügbarkeit und Angebot erscheinen erst nach der Eingabe Ihrer Adresse. Geben Sie die Adresse ein, an der Sie die Antenne installieren, wählen Sie den Tarif, prüfen Sie die angewendete Empfehlung und speichern Sie das Angebot, das vor dem Bezahlen erscheint.",
+          "Das Öffnen des Links und die Eingabe Ihrer Adresse lösen keine Abbuchung aus, verlangen keine Karte und verpflichten zu nichts: Preise, Verfügbarkeit und der grüne Empfehlungshinweis erscheinen vor dem Bezahlen. Geben Sie den Installationsort ein, wählen Sie Ihren Tarif, prüfen Sie den grünen Hinweis auf dem Bildschirm und speichern Sie das Angebot vor dem Kauf.",
           "Auf der Seite zur [Starlink-Empfehlung](/de/coupons/starlink) stehen der Link und die Regeln des Programms."
+        ],
+        "links": [
+          {
+            "label": "starlink.com mit aktiviertem 45-€-Empfehlungslink öffnen",
+            "href": "https://starlink.com/?referral=RC-DF-17132118-63432-88",
+            "sponsored": true
+          }
         ]
       },
       {
@@ -295315,13 +295385,13 @@ export const reviewsData: unknown[] = [
           "Was kosten die Tarife im Monat? In Berlin 17,50 € für 100 Mbit/s, 27,50 € für 200 Mbit/s und 37,50 € für den Max, drei Monate lang. Danach gilt der Normalpreis von 35 €, 55 € und 75 €.",
           "Kann ich Starlink vor der Entscheidung testen? Ja. Starlink erstattet Kit und ersten Monat, wenn Sie kündigen und das Kit unbeschädigt innerhalb von 30 Tagen zurückschicken.",
           "Kann ich die Empfehlung nach dem Bezahlen nachtragen? Nein. Sie zählt nur bei der Bestellung, die über den Link geöffnet wurde, vor der Zahlung.",
-          "Wie lange läuft das Angebot? Laut Starlink endet das Angebot Ende November. Geben Sie Ihre Adresse in der Bestellung ein, um zu sehen, ob sie dort gilt."
+          "Wie lange läuft das Angebot? Es gelten zwei unterschiedliche Fristen: Die Black-Friday-Aktion mit 50 % Rabatt für 3 Monate läuft bis zum 30. November in ausgewählten Gebieten, während der 45-€-Empfehlungsbonus über unseren Link so lange gültig bleibt, wie das offizielle Starlink-Empfehlungsprogramm besteht. Geben Sie Ihre Adresse vor dem Bezahlen unverbindlich in der Bestellung ein."
         ]
       }
     ],
     "cta": {
-      "text": "Neukunden in Deutschland können nach zwei vollständig bezahlten Abrechnungszyklen 45 € Rechnungsguthaben erhalten. Öffnen Sie die Starlink-Bestellung über unseren Link und prüfen Sie die Prämie vor dem Bezahlen.",
-      "label": "Meine Bestellung über den Empfehlungslink öffnen",
+      "text": "Kombinieren Sie die Black-Friday-Aktion (bis zum 30. November in ausgewählten Gebieten) mit 45 € Empfehlungsguthaben in Deutschland nach zwei pünktlich bezahlten Monatszyklen. Die Adressprüfung kostet nichts und verlangt keine Karte — prüfen Sie den grünen Hinweis vor dem Bezahlen.",
+      "label": "Adresse kostenlos prüfen mit 45 € Prämie",
       "url": "https://starlink.com/?referral=RC-DF-17132118-63432-88",
       "sponsored": true
     },
@@ -296703,7 +296773,7 @@ export const reviewsData: unknown[] = [
     "translationKey": "starlink-black-friday",
     "locale": "it",
     "title": "Black Friday Starlink 2026 in Italia: 50% per 3 mesi, kit a noleggio a 0 € e 45 € di invito",
-    "seoTitle": "Black Friday Starlink 2026: 17,50 € al mese e kit a 0 €",
+    "seoTitle": "Black Friday Starlink 2026: 17,50 €/mese, noleggio 0 € + 45 €",
     "type": "Guida al Black Friday",
     "category": "cupons-como-usar",
     "reviewKind": "guia",
@@ -296722,11 +296792,11 @@ export const reviewsData: unknown[] = [
         "initials": "BL"
       }
     ],
-    "description": "A Milano l'ordine Starlink mostrava il 100 Mbps a 17,50 € al mese per 3 mesi e il kit a noleggio a 0 €. Vedi i tre piani, i 45 € dell'invito e come controllare il tuo indirizzo.",
-    "metaDescription": "Starlink Black Friday: 50% di sconto sui piani per 3 mesi, kit a noleggio a 0 € e 45 € di invito in Italia. Controlla il tuo indirizzo.",
+    "description": "A Milano Starlink mostrava 100 Mbps a 17,50 €/mese per 3 mesi (entro il 30 nov.) e kit a noleggio a 0 €. Vedi i tre piani, i 45 € dell'invito e come controllare l'indirizzo.",
+    "metaDescription": "Starlink Black Friday entro il 30 nov.: 50% sui piani per 3 mesi (da 17,50 €/mese), kit a noleggio a 0 € e 45 € di invito in Italia. Verifica l'indirizzo.",
     "publishedAt": "20 novembre 2026",
     "publishedAtISO": "2026-11-20",
-    "updatedAt": "2026-11-23",
+    "updatedAt": "2026-11-24",
     "draft": false,
     "isNew": true,
     "hideFromPortugueseListings": true,
@@ -296738,12 +296808,12 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Risposta rapida",
         "paragraphs": [
-          "Se sei un nuovo cliente in Italia, puoi ricevere 45 € di credito in fattura. Apri il nostro link di invito prima di ordinare, controlla l’importo indicato e mantieni l’abbonamento idoneo attivo e in regola per due cicli completi di fatturazione.",
-          "A Milano l'ordine Starlink mostrava il 50% di sconto per 3 mesi, con iscrizione entro il 30 novembre: 100 Mbps a 17,50 € al mese, 200 Mbps a 22,50 € e Max a 32,50 €, con il kit a noleggio a 0 € e 19 € da pagare oggi. La pagina riportava «Nessun contratto» e una prova di 30 giorni."
+          "Con il Black Friday Starlink, nelle aree selezionate trovi il 50% di sconto per 3 mesi sul canone — 17,50 € al mese per 100 Mbps a Milano — insieme al kit a noleggio a 0 € (19 € di spedizione oggi, nessun contratto) e, passando dal nostro link di invito, i nuovi clienti in Italia ricevono un extra di 45 € di credito in fattura.",
+          "Fai attenzione alle due scadenze distinte: la promozione Black Friday del 50% è valida fino al 30 novembre nelle zone idonee, mentre il nostro bonus di invito resta valido finché esisterà il programma ufficiale di invito Starlink. Il credito arriva in fattura dopo due cicli mensili completi pagati puntualmente e non riduce il prezzo del kit al momento del pagamento. Verifica gratis e senza impegno il tuo indirizzo dal link qui sotto."
         ],
         "links": [
           {
-            "label": "Verificare il bonus Starlink al mio indirizzo",
+            "label": "Verifica gratis il tuo indirizzo: Black Friday + 45 € di bonus",
             "href": "https://starlink.com/?referral=RC-DF-17132118-63432-88",
             "sponsored": true
           }
@@ -296753,7 +296823,7 @@ export const reviewsData: unknown[] = [
         "heading": "I tre piani a Milano: prezzo in offerta e prezzo pieno",
         "paragraphs": [
           "Il 23 novembre 2026 abbiamo letto l'ordine per un indirizzo di Milano, in piazza del Duomo, senza completare l'acquisto. Il Residenziale 100 Mbps costava 17,50 € al mese invece di 35 €, il 200 Mbps 22,50 € invece di 45 € e il Max 32,50 € invece di 65 €, per 3 mesi. Il kit è a noleggio, con 0 € iniziali e 0 € al mese, e i 19 € da pagare oggi sono la spedizione.",
-          "L'installazione professionale è facoltativa a 172 € sul 100 e sul 200 Mbps e gratuita sul Max. Il bonus dell'invito in Italia è di 45 €, accreditato in fattura dopo due cicli mensili completi: sono più di due mesi e mezzo del 100 Mbps in offerta, e non riducono il prezzo del kit."
+          "L'installazione professionale è facoltativa a 172 € sul 100 e sul 200 Mbps e a 0 € sul Max. Il bonus dell'invito in Italia è di 45 €, accreditato in fattura dopo due cicli mensili completi: copre più di 2,5 mesi del 100 Mbps in offerta a 17,50 € al mese e non riduce il prezzo del kit al momento dell'acquisto."
         ],
         "comparisonTable": {
           "headers": [
@@ -296861,13 +296931,20 @@ export const reviewsData: unknown[] = [
         "postParagraphs": [
           "Dopo i 3 mesi il canone sale al prezzo pieno: 35 € per il 100 Mbps, 45 € per il 200 Mbps e 65 € per il Max. Chi pensa di restare più di un trimestre deve fare il conto con questi valori."
         ],
-        "emphasis": "Secondo i numeri della tabella, a Milano si pagano 19 € oggi e poi tra 17,50 € e 32,50 € al mese per 3 mesi, e il bonus di 45 € arriva solo dopo due cicli mensili completi, quindi le prime bollette escono dalla tua tasca."
+        "emphasis": "Secondo i numeri della tabella, a Milano si pagano 19 € oggi e poi tra 17,50 € e 32,50 € al mese per 3 mesi, e il bonus di 45 € (oltre 2,5 mesi a 17,50 €) arriva solo dopo due cicli mensili completi, quindi le prime bollette escono dalla tua tasca.",
+        "links": [
+          {
+            "label": "Controlla il 50% e i 45 € di bonus al tuo indirizzo",
+            "href": "https://starlink.com/?referral=RC-DF-17132118-63432-88",
+            "sponsored": true
+          }
+        ]
       },
       {
         "heading": "Come compare nell'ordine",
         "paragraphs": [
           "Lo screenshot mostra l'avviso “Referral Code Applied” di un ordine statunitense aperto da un link di invito. L'ordine aperto dal link mostra l'invito applicato e il valore della ricompensa del tuo paese.",
-          "Per controllare la tua offerta, apri il link, inserisci l'indirizzo e cerca lo stesso avviso prima di pagare. Guarda se l'ordine mostra la ricompensa e le condizioni dei 3 mesi di sconto."
+          "Aprire il link e inserire l'indirizzo non addebita nulla e non richiede alcuna carta: vedi subito il canone esatto, le condizioni del kit e l'avviso verde dell'invito applicato prima di pagare."
         ],
         "image": {
           "src": "/images/reviews/starlink/starlink-order-referral-applied-en.webp",
@@ -296906,7 +296983,7 @@ export const reviewsData: unknown[] = [
         },
         "links": [
           {
-            "label": "Controllare Black Friday e bonus da 45 € al mio indirizzo",
+            "label": "Prova Starlink 30 giorni con 50% per 3 mesi + 45 € di bonus",
             "href": "https://starlink.com/?referral=RC-DF-17132118-63432-88",
             "sponsored": true
           }
@@ -296944,8 +297021,15 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Come usare il link",
         "paragraphs": [
-          "Aprire il link non ti impegna in nulla: prezzi, disponibilità e offerta compaiono solo dopo aver digitato l'indirizzo. Inserisci l'indirizzo in cui installerai l'antenna, scegli il piano, controlla l'invito applicato e conserva l'offerta che compare prima di pagare.",
+          "Aprire il link e digitare l'indirizzo non costa nulla, non chiede la carta e non ti vincola all'acquisto: prezzi, disponibilità e l'avviso verde dell'invito compaiono prima del pagamento. Inserisci l'indirizzo di installazione, scegli il piano, assicurati che l'avviso verde sia visibile e salva uno screenshot prima di pagare.",
           "Nella pagina dell'[invito Starlink](/it/coupons/starlink) trovi il link e le regole del programma."
+        ],
+        "links": [
+          {
+            "label": "Apri starlink.com con il link di invito da 45 € applicato",
+            "href": "https://starlink.com/?referral=RC-DF-17132118-63432-88",
+            "sponsored": true
+          }
         ]
       },
       {
@@ -296958,15 +297042,15 @@ export const reviewsData: unknown[] = [
           "Quanto costano i piani al mese? A Milano, 17,50 € il 100 Mbps, 22,50 € il 200 Mbps e 32,50 € il Max per 3 mesi. Poi 35 €, 45 € e 65 €.",
           "C'è un vincolo contrattuale? L'ordine indicava «Nessun contratto», con 30 giorni di prova e restituzione del kit se annulli.",
           "Posso aggiungere l'invito dopo aver pagato? No. Conta solo sull'ordine aperto dal link, prima del pagamento.",
-          "Fino a quando dura l'offerta? Starlink indica il 30 novembre. Inserisci l'indirizzo nell'ordine per vedere se è disponibile."
+          "Fino a quando dura l'offerta? Ci sono due scadenze distinte: la promozione Black Friday del 50% per 3 mesi è valida fino al 30 novembre nelle aree idonee, mentre il bonus di invito da 45 € tramite il nostro link resta attivo finché esisterà il programma ufficiale di invito Starlink. Inserisci il tuo indirizzo nell'ordine per verificare prima di pagare."
         ]
       }
     ],
     "pros": [],
     "cons": [],
     "cta": {
-      "text": "I nuovi clienti in Italia possono ricevere 45 € di credito in fattura dopo due cicli completi regolarmente pagati. Apri l’ordine ufficiale con il nostro link e verifica l’importo prima di pagare.",
-      "label": "Aprire il mio ordine con il link di invito",
+      "text": "Combina l'offerta Black Friday (fino al 30 novembre nelle aree idonee) con 45 € di credito in fattura in Italia dopo due cicli mensili completi pagati puntualmente. Inserire l'indirizzo non costa nulla e non chiede la carta: verifica l'avviso verde prima di pagare.",
+      "label": "Verifica gratis l'indirizzo con 45 € di bonus",
       "url": "https://starlink.com/?referral=RC-DF-17132118-63432-88",
       "sponsored": true
     },
@@ -298339,8 +298423,8 @@ export const reviewsData: unknown[] = [
     "slug": "starlink-black-friday-ja",
     "translationKey": "starlink-black-friday",
     "locale": "ja",
-    "title": "Starlink ブラックフライデー2026：ホームが月3,550円、レンタル0円、紹介特典7,000円",
-    "seoTitle": "Starlink ブラックフライデー2026：50%オフと紹介7,000円",
+    "title": "Starlink ブラックフライデー2026：ホーム50%オフ月3,550円＋レンタル0円＋紹介特典7,000円",
+    "seoTitle": "Starlink ブラックフライデー2026：50%オフ月3,550円＋紹介7,000円",
     "type": "ブラックフライデーガイド",
     "category": "cupons-como-usar",
     "reviewKind": "guia",
@@ -298359,11 +298443,11 @@ export const reviewsData: unknown[] = [
         "initials": "BL"
       }
     ],
-    "description": "東京の注文画面では、ホームプランが50%オフの月3,550円で、ミニキットのレンタルは0円でした。支払いの内訳、紹介特典7,000円の入り方、住所ごとの確認方法を整理します。",
-    "metaDescription": "Starlinkのホームプランが50%オフで月3,550円、キットのレンタルは0円。紹介特典7,000円の入り方と、住所ごとの確認方法を注文画面で解説します。",
+    "description": "東京の注文画面でホームが50%オフの月3,550円、ミニキットレンタル0円、本日のお支払いは配送3,000円。さらに新規紹介リンクで7,000円クレジット（割引後約2か月分）。11月30日までの割引期限と紹介の併用条件を解説します。",
+    "metaDescription": "Starlinkホーム50%オフ月3,550円＋ミニキットレンタル0円（11月30日まで）＋新規紹介リンクで7,000円クレジット。東京の実測画面と住所別確認手順を解説します。",
     "publishedAt": "2026年11月20日",
     "publishedAtISO": "2026-11-20",
-    "updatedAt": "2026-11-23",
+    "updatedAt": "2026-11-24",
     "draft": false,
     "isNew": true,
     "hideFromPortugueseListings": true,
@@ -298375,12 +298459,12 @@ export const reviewsData: unknown[] = [
       {
         "heading": "クイックアンサー",
         "paragraphs": [
-          "日本で初めてStarlinkを契約する方は、7,000円分の請求額クレジットを受け取れます。注文前に私たちの紹介リンクを開き、特典の表示を確認してください。対象プランを契約し、2回の請求サイクルを完了するまで支払いを続けることが条件です。",
-          "東京の注文画面では、Starlinkのホームプランが通常月7,100円のところ50%オフの3,550円で、ミニキットはレンタル0円、本日のお支払いは配送料の3,000円でした。割引は11月30日までに注文した場合の案内です。"
+          "日本の新規契約なら、ホームプラン50%オフの月3,550円（通常7,100円）＋ミニキットレンタル0円に加え、私たちの紹介リンク経由限定で7,000円分の請求額クレジット（割引後約2か月分相当）を受け取れます。紹介特典は対象プランを契約し、請求サイクル2回分の支払いを完了したあとに請求へ付与され、注文時のキット価格を下げるものではありません。",
+          "期限は2つに分かれています。50%オフとレンタル0円のブラックフライデー割引は11月30日までの注文が対象ですが、紹介リンクの7,000円特典はStarlink公式の紹介プログラムが続く限り有効です。下のリンクから設置先の住所を入力するだけなら費用は一切かからず、カード入力や購入義務もないため、まずはご自身の住所で金額と特典表示を確認してみてください。"
         ],
         "links": [
           {
-            "label": "利用住所でStarlinkの紹介特典を確認",
+            "label": "紹介リンクで自宅住所の50%オフと7,000円特典を確認する",
             "href": "https://starlink.com/?referral=RC-DF-17132118-63432-88",
             "sponsored": true
           }
@@ -298390,7 +298474,7 @@ export const reviewsData: unknown[] = [
         "heading": "東京の注文画面：割引価格と通常価格",
         "paragraphs": [
           "11月23日に、東京駅の住所で注文画面を読みました。購入は完了していません。日本ではホームプランのみで、月額は通常7,100円のところ、50%オフで3,550円でした。ミニキットと小型ルーターのレンタルはどちらも0円、月額のキット料金も0円で、本日のお支払いは配送料の3,000円でした。",
-          "紹介リンクから開いた注文で、日本の紹介特典は7,000円です。2か月の利用後に請求へのクレジットとして付与され、割引後の月額3,550円のほぼ2か月分にあたります。キットの価格は下がりません。"
+          "紹介リンクから開いた注文で、日本の紹介特典は7,000円です。請求サイクルを2回支払い終えたあとに請求へのクレジットとして付与され、割引後の月額3,550円なら約2か月分、通常月額7,100円でも約1か月分をまかなえます（キットの価格は下がりません）。注文前の段階でリンクを開いて住所を入力するだけなら請求もカード登録も発生せず、支払い前に紹介の適用を先に固定できます。"
         ],
         "comparisonTable": {
           "headers": [
@@ -298491,15 +298575,22 @@ export const reviewsData: unknown[] = [
           ]
         },
         "postParagraphs": [
-          "注文画面の説明では、11月30日までに注文すれば割引後の月額料金が続くとされています。ただし将来の料金は変わることがあるので、長く使う予定なら通常価格の7,100円でも計算してください。"
+          "注文画面の説明では、11月30日までに注文すれば割引後の月額料金が続くとされています。ただし将来の料金は変わることがあるので、長く使う予定なら通常価格の7,100円でも計算してください。なお、紹介リンクから画面を開いて住所を調べるだけでは料金は発生しないため、まずはご自身の住所で適用状況を見比べてから判断できます。"
         ],
-        "emphasis": "表の数字では、東京駅の住所の注文は本日の支払いが3,000円で、ホームプランは月3,550円です。紹介特典の7,000円は請求サイクルが2回完了したあとに付与されるため、それまでの請求は自己負担になります。"
+        "emphasis": "表の数字では、東京駅の住所の注文は本日の支払いが3,000円で、ホームプランは月3,550円です。紹介特典の7,000円（割引後約2か月分相当）は請求サイクルが2回完了したあとに付与されるため、それまでの請求は自己負担になります。",
+        "links": [
+          {
+            "label": "紹介リンクで住所の支払額と7,000円特典を確認する",
+            "href": "https://starlink.com/?referral=RC-DF-17132118-63432-88",
+            "sponsored": true
+          }
+        ]
       },
       {
         "heading": "注文画面での見え方",
         "paragraphs": [
           "スクリーンショットには、紹介リンクから開いた米国の注文の「Referral Code Applied」が出ています。リンクから開いた注文には、紹介が適用された表示と、お住まいの国の特典額が表示されます。",
-          "自分の注文を確認するには、リンクを開いて住所を入力し、支払いの前に同じ表示を探してください。特典額と月額の条件が出ているかも見ます。"
+          "自分の注文を確認するには、リンクを開いて住所を入力し、支払いの前に同じ表示を探してください。この確認段階では決済もカード入力も行われず、特典額と月額条件が出ているかを落ち着いて見極めながら、支払い前に紹介の適用状態をロックできます。"
         ],
         "image": {
           "src": "/images/reviews/starlink/starlink-order-referral-applied-en.webp",
@@ -298538,7 +298629,7 @@ export const reviewsData: unknown[] = [
         },
         "links": [
           {
-            "label": "ブラックフライデーと紹介特典を自分の住所で確認する",
+            "label": "紹介リンクで住所の50%オフ・レンタル0円・7,000円特典を確認する",
             "href": "https://starlink.com/?referral=RC-DF-17132118-63432-88",
             "sponsored": true
           }
@@ -298576,8 +298667,15 @@ export const reviewsData: unknown[] = [
       {
         "heading": "リンクの使い方",
         "paragraphs": [
-          "リンクを開くだけなら、何も約束することはありません。価格、提供状況、オファーは、住所を入力して初めて表示されます。アンテナを設置する住所を入力し、プランを選び、紹介が適用されていることを確認して、支払いの前に表示されるオファーを控えておきます。",
-          "リンクと条件は、[Starlinkの紹介ページ](/ja/coupons/starlink)にあります。"
+          "リンクを開くだけなら費用はかからず、クレジットカード情報の入力や購入の約束も一切ありません。価格、提供状況、オファーは、住所を入力して初めて表示されます。同じ端末・同じブラウザのままアンテナを設置する住所を入力してプランを選び、支払い前に紹介の適用表示をロックしたうえで、表示されたオファーをスクリーンショットで控えておいてください。",
+          "リンクと条件は、[Starlinkの紹介ページ](/ja/coupons/starlink)にもまとめています。"
+        ],
+        "links": [
+          {
+            "label": "紹介リンクでStarlink公式画面を開き住所を確認する",
+            "href": "https://starlink.com/?referral=RC-DF-17132118-63432-88",
+            "sponsored": true
+          }
         ]
       },
       {
@@ -298590,13 +298688,13 @@ export const reviewsData: unknown[] = [
           "キットはレンタルですか？ はい。初期費用0円、月額0円のレンタルで、キャンセル時に返却する条件です。",
           "契約の前に試せますか？ はい。キャンセルしてキットを破損のない状態で30日以内に返却すると、キットと最初の月の料金が返金されます。",
           "支払いのあとで紹介を追加できますか？ できません。紹介リンクから開いた注文で、支払いの前に適用されたものだけが対象です。",
-          "申込期限はいつですか？ Starlinkは11月末までのオファーとして案内しています。設置先の住所を入力し、選んだプランの注文画面で確認してください。"
+          "申込期限はいつですか？ 2つの期限が分かれています。ホーム50%オフとレンタル0円のブラックフライデー割引は11月30日までの注文が対象です。一方、紹介リンクによる7,000円特典は11月末で終わるものではなく、Starlink公式の紹介プログラムが続く限り利用できます（支払い前の適用と2回の請求サイクル完了が条件）。"
         ]
       }
     ],
     "cta": {
-      "text": "日本の新規契約者は、対象プランで2回の請求サイクルの支払いを完了すると、7,000円分のクレジットを受け取れます。私たちの紹介リンクから注文画面を開き、支払い前に特典をご確認ください。",
-      "label": "紹介リンクでStarlinkの注文を開く",
+      "text": "東京の実測ではホーム50%オフの月3,550円＋ミニキットレンタル0円（11月30日まで）に加え、新規紹介リンク経由で請求サイクル2回の支払い完了後に7,000円クレジット（割引後約2か月分相当）が付与されます。紹介リンクは紹介プログラムが続く限り有効で、住所の確認だけなら請求もカード入力も不要です。",
+      "label": "紹介リンクで住所の料金と7,000円特典を確認する",
       "url": "https://starlink.com/?referral=RC-DF-17132118-63432-88",
       "sponsored": true
     },
@@ -298617,8 +298715,8 @@ export const reviewsData: unknown[] = [
     "cons": [],
     "decision": {
       "takeIf": [
-        "住所を入力した注文画面に、50%オフのプランとレンタルキットの条件が支払いの前に出る。",
-        "特典が入るまで請求サイクル2回分を待ち、その間の請求を払える。"
+        "住所を入力した注文画面に、割引プランとレンタルキットの条件が支払いの前に出る。",
+        "特典が入るまで請求サイクル二回分を待ち、その間の請求を払える。"
       ],
       "skipIf": [
         "注文画面にオファーが表示されない。読んだ価格は確認した住所のものだ。",
@@ -299937,8 +300035,8 @@ export const reviewsData: unknown[] = [
     "slug": "starlink-black-friday-ko",
     "locale": "ko",
     "translationKey": "starlink-black-friday",
-    "title": "블랙프라이데이 스타링크 2026: 하드웨어와 서비스 50% 할인, 서울 주문 화면 계산과 추천 보상",
-    "seoTitle": "블랙프라이데이 스타링크 2026: 50% 할인과 추천 보상",
+    "title": "블랙프라이데이 스타링크 2026: 요금·하드웨어 50% 할인(월 34,000원·키트 160,000원)과 추천 크레딧",
+    "seoTitle": "블랙프라이데이 스타링크 2026: 50% 할인(월 34,000원)과 추천 크레딧",
     "type": "블랙프라이데이 가이드",
     "category": "cupons-como-usar",
     "reviewKind": "guia",
@@ -299957,11 +300055,11 @@ export const reviewsData: unknown[] = [
         "initials": "BL"
       }
     ],
-    "description": "서울시청 주소의 주문 화면에서 100Mbps는 월 34,000원, 미니 키트는 16만 원, 오늘 결제액은 19만 2천 원이었습니다. 추천 보상이 들어오는 시점과 확인 방법을 정리했습니다.",
-    "metaDescription": "스타링크가 서비스와 하드웨어에 50% 할인을 안내합니다. 서울 주문 화면의 월 요금과 초기 결제액, 추천 보상이 들어오는 시점을 확인하세요.",
+    "description": "서울 주문 화면에서 100Mbps 월 34,000원·미니 키트 구매 160,000원(50% 할인, 11월 30일까지)과 신규 추천 링크 청구서 크레딧(11월 제3자 참고치 65,000원, 결제 전 확인)까지. 두 가지 기한과 초기 결제액을 정리했습니다.",
+    "metaDescription": "스타링크 요금·키트 50% 할인(월 34,000원·160,000원, 11월 30일까지) + 신규 추천 링크 크레딧(11월 제3자 참고치 65,000원, 주문 화면 확인). 서울 실측 계산을 확인하세요.",
     "publishedAt": "2026년 11월 20일",
     "publishedAtISO": "2026-11-20",
-    "updatedAt": "2026-11-23",
+    "updatedAt": "2026-11-24",
     "draft": false,
     "isNew": true,
     "hideFromPortugueseListings": true,
@@ -299973,12 +300071,12 @@ export const reviewsData: unknown[] = [
       {
         "heading": "빠른 답변",
         "paragraphs": [
-          "한국에서 처음 가입하면 11월 기준 65,000원 상당의 청구서 크레딧을 받을 수 있습니다. 저희 추천 링크를 열어 결제 전에 금액을 확인하고, 대상 요금제를 두 번의 전체 청구 주기 동안 유지하며 요금을 납부하세요.",
-          "서울시청 주소의 주문 화면에서 스타링크 주거용 100Mbps는 정가 월 68,000원에서 50% 할인된 34,000원이었고, 미니 키트는 임대가 아닌 구매 방식으로 160,000원, 오늘 결제액은 배송비와 세금을 더해 192,000원이었습니다. 할인은 11월 30일까지의 안내입니다."
+          "주거용 요금과 하드웨어 모두 50% 할인(100Mbps 월 34,000원, 미니 키트 구매 160,000원·서울시청 주소 기준 오늘 결제액 192,000원)에 더해, 저희 추천 링크로 처음 가입하는 분은 청구서 크레딧도 받을 수 있습니다(11월에 공개된 제3자 참고치 65,000원, 결제 전 주문 화면에서 최종 금액 확인). 이 크레딧은 대상 요금제를 두 번의 전체 청구 주기 동안 정상 유지·납부한 뒤 청구서에 반영되며, 주문 시 키트 가격을 깎아 주지는 않습니다.",
+          "기한은 두 가지로 나뉩니다. 서비스·하드웨어 50% 블랙프라이데이 할인은 11월 30일까지의 주문 안내이고, 추천 링크 혜택은 스타링크 공식 추천 프로그램이 운영되는 동안 계속 유효합니다. 아래 링크를 눌러 주소를 조회하는 것만으로는 결제나 카드 입력이 전혀 필요 없으므로, 먼저 내 주소의 최종 가격과 추천 크레딧 금액을 부담 없이 확인해 보세요."
         ],
         "links": [
           {
-            "label": "내 주소의 스타링크 추천 혜택 확인",
+            "label": "추천 링크로 내 주소 50% 할인·추천 크레딧 확인하기",
             "href": "https://starlink.com/?referral=RC-DF-17132118-63432-88",
             "sponsored": true
           }
@@ -299988,7 +300086,7 @@ export const reviewsData: unknown[] = [
         "heading": "서울 주문 화면: 할인가와 정가",
         "paragraphs": [
           "11월 23일에 서울시청 주소로 주문 화면을 읽었습니다. 결제는 완료하지 않았습니다. 주거용 100Mbps는 정가 월 ₩68,000이 50% 할인된 ₩34,000이었고, 맥스는 정가 ₩93,000이 ₩46,500이었습니다. 한국에서는 키트를 임대하지 않고 구매합니다. 미니 키트는 ₩160,000(정가 약 ₩290,909에서 50% 할인, 세금 별도), 스탠다드 4 X는 ₩275,000이었습니다.",
-          "미니 키트와 100Mbps를 고르면 오늘 결제액은 배송비 ₩29,091과 세금 ₩17,455를 포함해 ₩192,000이었고, 맥스와 스탠다드 4 X는 ₩307,000이었습니다. 추천 보상은 국가마다 다르며, 예를 들어 미국에서는 100달러입니다. 한국 주문에서 얼마가 나오는지는 추천 링크로 연 주문 화면에서 확인하세요. 보상은 청구서 크레딧이며 키트 가격을 낮추지 않습니다."
+          "미니 키트와 100Mbps를 고르면 오늘 결제액은 배송비 ₩29,091과 세금 ₩17,455를 포함해 ₩192,000이었고, 맥스와 스탠다드 4 X는 ₩307,000이었습니다. 추천 크레딧은 국가마다 다르며 미국에서는 100달러이고, 한국은 11월에 공개된 제3자 참고치가 65,000원입니다(최종 금액은 추천 링크로 연 본인 주문 화면에서 결제 전 확인). 만약 주문 화면에서도 같은 65,000원 크레딧이 확인된다면 50% 할인된 100Mbps 월 34,000원 기준으로 거의 2개월분 요금에 해당합니다. 보상은 청구서 크레딧이며 키트 구매 가격을 낮추지는 않습니다."
         ],
         "comparisonTable": {
           "headers": [
@@ -300094,15 +300192,22 @@ export const reviewsData: unknown[] = [
           ]
         },
         "postParagraphs": [
-          "한국에서는 임대가 없고 키트를 사서 쓰는 방식이라, 환불을 받으려면 30일 안에 손상 없이 반납해야 합니다. 대신 임대 키트를 돌려줘야 하는 다른 나라와 달리 해지 때 반납할 키트가 따로 없습니다."
+          "한국에서는 임대가 없고 키트를 사서 쓰는 방식이라, 환불을 받으려면 30일 안에 손상 없이 반납해야 합니다. 대신 임대 키트를 돌려줘야 하는 다른 나라와 달리 해지 때 반납할 키트가 따로 없습니다. 추천 링크를 열어 주소만 조회해 보는 단계에서는 결제나 카드 입력이 요구되지 않으며, 결제 전에 추천 적용 상태를 미리 고정해 둘 수 있습니다."
         ],
-        "emphasis": "표의 숫자를 보면 서울시청 주소 기준 오늘 결제액은 미니 키트와 100Mbps가 ₩192,000이고 월 요금은 ₩34,000입니다. 추천 보상은 월 결제 주기를 두 번 채운 뒤에 들어오므로 그 전의 요금은 직접 내야 합니다."
+        "emphasis": "표의 숫자를 보면 서울시청 주소 기준 오늘 결제액은 미니 키트와 100Mbps가 ₩192,000이고 월 요금은 ₩34,000입니다. 추천 보상은 월 결제 주기를 두 번 채운 뒤에 들어오므로 그 전의 요금은 직접 내야 하며, 결제 전 주문 화면에서 최종 크레딧 금액을 꼭 확인하세요.",
+        "links": [
+          {
+            "label": "추천 링크로 내 주소 실측 요금과 크레딧 확인하기",
+            "href": "https://starlink.com/?referral=RC-DF-17132118-63432-88",
+            "sponsored": true
+          }
+        ]
       },
       {
         "heading": "주문 화면에서 보이는 것",
         "paragraphs": [
           "스크린샷에는 추천 링크로 연 미국 주문의 “Referral Code Applied” 안내가 나옵니다. 링크로 연 주문에는 추천이 적용되었다는 안내와 내 나라의 보상 금액이 표시됩니다.",
-          "내 오퍼를 확인하려면 링크를 열고 주소를 입력한 다음, 결제 전에 같은 안내를 찾아보세요. 보상 금액과 요금 조건이 나오는지도 봅니다."
+          "내 오퍼를 확인하려면 링크를 열고 주소를 입력한 다음, 결제 전에 같은 안내를 찾아보세요. 주소를 조회하는 단계에서는 비용이 청구되거나 카드 입력을 요구하지 않으므로, 보상 금액과 요금 조건을 꼼꼼히 확인하면서 결제 전 추천 적용 상태를 안전하게 고정할 수 있습니다."
         ],
         "image": {
           "src": "/images/reviews/starlink/starlink-order-referral-applied-en.webp",
@@ -300141,7 +300246,7 @@ export const reviewsData: unknown[] = [
         },
         "links": [
           {
-            "label": "블랙프라이데이와 추천 보상을 내 주소에서 확인하기",
+            "label": "추천 링크로 내 주소의 50% 할인·크레딧·30일 체험 조건 보기",
             "href": "https://starlink.com/?referral=RC-DF-17132118-63432-88",
             "sponsored": true
           }
@@ -300179,8 +300284,15 @@ export const reviewsData: unknown[] = [
       {
         "heading": "링크 사용법",
         "paragraphs": [
-          "링크를 여는 것만으로는 아무것도 약속하지 않습니다. 가격, 제공 여부, 오퍼는 주소를 입력해야 나타납니다. 안테나를 설치할 주소를 입력하고, 요금제를 고르고, 추천 적용을 확인한 뒤, 결제 전에 화면에 뜬 오퍼를 저장해 두세요.",
+          "링크를 여는 것만으로는 아무런 비용이나 의무가 생기지 않으며 결제 카드 입력도 필요 없습니다. 가격, 제공 여부, 오퍼는 주소를 입력해야 나타납니다. 같은 기기·브라우저에서 안테나를 설치할 주소를 입력하고 요금제를 고른 뒤, 결제 전에 추천 적용 안내가 고정되었는지 확인하고 화면에 뜬 오퍼를 저장해 두세요.",
           "[스타링크 추천 안내 페이지](/ko/coupons/starlink)에서 링크와 프로그램 규정을 볼 수 있습니다."
+        ],
+        "links": [
+          {
+            "label": "추천 링크로 스타링크 주문 화면 열어 주소 확인하기",
+            "href": "https://starlink.com/?referral=RC-DF-17132118-63432-88",
+            "sponsored": true
+          }
         ]
       },
       {
@@ -300193,13 +300305,13 @@ export const reviewsData: unknown[] = [
           "키트는 임대인가요, 구매인가요? 한국 주문 화면에서는 키트를 구매하는 방식이었고, 옵션은 미니와 스탠다드였습니다. 한국에서 발행한 카드로만 결제할 수 있습니다.",
           "결정 전에 써 볼 수 있나요? 네. 서비스를 취소하고 키트를 손상 없이 결제일로부터 30일 안에 반납하면 키트와 첫 달 요금이 환불됩니다.",
           "결제한 뒤에 추천을 추가할 수 있나요? 없습니다. 결제 전에 추천 링크로 연 주문에만 적용됩니다.",
-          "오퍼는 언제까지인가요? 스타링크는 11월 말까지의 오퍼로 안내합니다. 주문 화면에서 주소와 요금제를 선택해 확인하세요."
+          "오퍼는 언제까지인가요? 두 가지 기한이 다릅니다. 요금제·하드웨어 50% 블랙프라이데이 할인은 11월 30일까지의 주문 안내이며, 추천 링크 크레딧 혜택은 스타링크 공식 추천 프로그램이 존재하는 동안 계속 유효합니다(결제 전 링크 적용 및 2회 청구 주기 납부 완료 조건). 본인 주소와 요금제를 선택해 주문 화면에서 최종 조건을 확인하세요."
         ]
       }
     ],
     "cta": {
-      "text": "한국 신규 고객의 추천 혜택은 11월 기준 65,000원입니다. 대상 요금제를 두 번의 전체 청구 주기 동안 유지하고 요금을 납부하면 청구서 크레딧을 받을 수 있습니다. 저희 링크에서 주문을 열고 결제 전에 금액을 확인하세요.",
-      "label": "추천 링크로 스타링크 주문 열기",
+      "text": "서울 기준 요금·하드웨어 50% 할인(100Mbps 월 34,000원·미니 키트 160,000원, 11월 30일까지)에 더해, 추천 프로그램이 운영되는 동안 신규 고객은 추천 링크로 2회 청구 주기를 완납하면 청구서 크레딧을 받을 수 있습니다(11월 제3자 참고치 65,000원, 결제 전 주문 화면에서 최종 금액 확인). 주소 확인만으로는 결제나 카드 입력이 필요 없습니다.",
+      "label": "추천 링크로 내 주소 할인·크레딧 확인하기",
       "url": "https://starlink.com/?referral=RC-DF-17132118-63432-88",
       "sponsored": true
     },
@@ -300220,7 +300332,7 @@ export const reviewsData: unknown[] = [
     "cons": [],
     "decision": {
       "takeIf": [
-        "내 주소의 주문 화면에 50% 할인 요금제와 키트 구매 조건이 결제 전에 표시된다.",
+        "내 주소의 주문 화면에 할인 요금제와 키트 구매 조건이 결제 전에 표시된다.",
         "추천 보상이 들어올 때까지 월 결제 주기를 두 번 기다리며 그사이 요금을 낼 수 있다."
       ],
       "skipIf": [
@@ -301551,8 +301663,8 @@ export const reviewsData: unknown[] = [
     "slug": "starlink-black-friday-zh-hant",
     "locale": "zh-hant",
     "translationKey": "starlink-black-friday",
-    "title": "Starlink 2026 黑色星期五：馬來西亞、美國、日本的真實訂單怎麼算，推薦獎勵何時入帳",
-    "seoTitle": "Starlink 2026 黑色星期五：三個市場的訂單怎麼算",
+    "title": "Starlink 2026 黑色星期五：美國 US$38.50、日本 ¥3,550、馬來西亞實測與推薦獎勵",
+    "seoTitle": "Starlink 2026 黑色星期五：美日馬來西亞月費折扣與推薦獎勵",
     "type": "黑色星期五指南",
     "category": "cupons-como-usar",
     "reviewKind": "guia",
@@ -301571,11 +301683,11 @@ export const reviewsData: unknown[] = [
         "initials": "BL"
       }
     ],
-    "description": "Starlink 官網沒有中文介面。我們用馬來西亞、美國和日本的真實訂購頁，算清當天應付、月費、設備是租是買，以及推薦獎勵何時入帳。",
-    "metaDescription": "Starlink 黑色星期五優惠依地址而異。看馬來西亞、美國、日本的訂單怎麼算，設備是租還是買，以及推薦獎勵何時入帳。",
+    "description": "Starlink 官網無中文介面：美國月費 US$38.50＋US$100 推薦抵扣、日本 ¥3,550＋¥7,000（折扣至 11/30），馬來西亞 100 Mbps RM 135 與 Max 租用 RM 0（11 月第三方參考獎勵 RM 180，付款前依訂單為準）。",
+    "metaDescription": "美國月費 US$38.50＋US$100 推薦獎勵、日本 ¥3,550＋¥7,000（至 11/30），馬來西亞實測方案與 11 月第三方參考獎勵 RM 180（付款前依訂單頁確認），一篇算清租買與入帳條件。",
     "publishedAt": "2026年11月20日",
     "publishedAtISO": "2026-11-20",
-    "updatedAt": "2026-11-23",
+    "updatedAt": "2026-11-24",
     "draft": false,
     "isNew": true,
     "hideFromPortugueseListings": true,
@@ -301587,12 +301699,12 @@ export const reviewsData: unknown[] = [
       {
         "heading": "快速回答",
         "paragraphs": [
-          "首次訂閱符合資格的方案可獲得帳單折抵。以馬來西亞為例，11 月的參考金額為 RM 180。請先打開我們的推薦連結，確認你的地址及獎勵金額，再維持方案有效並按時繳費滿兩個完整帳單週期。",
-          "Starlink 官網沒有中文介面，所以我們讀了馬來西亞、美國和日本的訂購頁：馬來西亞 100 Mbps 月費 RM 135 且設備需購買（RM 900），Max 月費 RM 235 且設備免費租用；美國 100 Mbps 優惠後月費 US$38.50，設備租用 US$0；日本ホーム優惠後月費 ¥3,550。美國和日本的優惠到 11 月 30 日。"
+          "Starlink 官網沒有中文介面，但透過我們的推薦連結下單仍可拿新客戶帳單抵扣：美國 100 Mbps 優惠月費 US$38.50＋設備租用 US$0＋US$100 推薦抵扣；日本ホーム優惠月費 ¥3,550＋設備租用 ¥0＋¥7,000 推薦抵扣（約抵扣 2 個優惠月費）；馬來西亞 Max 設備租用 RM 0（月費 RM 235），100 Mbps 月費 RM 135＋購買 Mini X RM 900（馬來西亞 11 月第三方公開參考獎勵為 RM 180，實際金額請在付款前於訂單頁確認）。所有推薦獎勵皆於按時付滿兩個完整帳單週期後抵扣帳單，不會在結帳時折減設備價格。",
+          "請特別區分兩個截止時間：美國（30% 折扣）與日本（50% 折扣）的黑色星期五優惠只到 11 月 30 日（馬來西亞本次未記錄到黑五折扣），而透過我們推薦連結獲得的帳單獎勵則在 Starlink 官方推薦計畫存續期間持續有效。打開下方連結輸入安裝地址試算價格，完全不收費也無須填寫付款卡，沒有任何購買義務。"
         ],
         "links": [
           {
-            "label": "查看我的地址適用的 Starlink 推薦獎勵",
+            "label": "透過推薦連結查詢地址優惠與推薦獎勵",
             "href": "https://starlink.com/?referral=RC-DF-17132118-63432-88",
             "sponsored": true
           }
@@ -301602,7 +301714,7 @@ export const reviewsData: unknown[] = [
         "heading": "三個市場的訂單：月費、設備與當天應付",
         "paragraphs": [
           "我們在 11 月 23 日讀了三個市場的訂購頁，沒有完成購買。馬來西亞（吉隆坡）：100 Mbps 月費 RM 135，設備是購買，Mini X 要 RM 900，當天應付 RM 989；Max 月費 RM 235，設備是租用，租賃費 RM 0，當天只付運費 RM 89。同一個國家、同一個地址，兩個方案的設備方式並不一樣。",
-          "美國（內華達州）：100 Mbps 優惠後月費 US$38.50（原價 US$55），設備租用 US$0，當天應付 US$20 加稅。日本（東京）：ホーム方案優惠後月費 ¥3,550（原價 ¥7,100），設備租用 ¥0，當天應付運費 ¥3,000。推薦獎勵在美國是 US$100，在日本是 ¥7,000，是帳單抵扣，不會降低設備價格。"
+          "美國（內華達州）：100 Mbps 優惠後月費 US$38.50（原價 US$55），設備租用 US$0，當天應付 US$20 加稅。日本（東京）：ホーム方案優惠後月費 ¥3,550（原價 ¥7,100），設備租用 ¥0，當天應付運費 ¥3,000。推薦獎勵在美國是 US$100（約可抵扣 2.6 個優惠月費），在日本是 ¥7,000（約等於 2 個優惠月費，或原價約 1 個月）；至於馬來西亞，11 月第三方公開參考金額為 RM 180（請以付款前訂單頁顯示為準，若於訂單頁確認適用，可抵扣超過 100 Mbps 方案一個月 RM 135 的月費）。獎勵只作帳單抵扣，不會降低設備結帳價格。"
         ],
         "comparisonTable": {
           "headers": [
@@ -301708,15 +301820,22 @@ export const reviewsData: unknown[] = [
           ]
         },
         "postParagraphs": [
-          "馬來西亞的例子說明為什麼要看每個方案的設備那一行：100 Mbps 要買 Mini X，Max 則是免費租用，兩者月費相差 RM 100。讀訂購頁時，先看設備是購買還是租用，再比較月費。"
+          "馬來西亞的例子說明為什麼要看每個方案的設備那一行：100 Mbps 要買 Mini X，Max 則是 RM 0 租用，兩者月費相差 RM 100。讀訂購頁時，先看設備是購買還是租用，再比較月費。透過推薦連結打開頁面試查你的地址不會產生費用，也無須輸入信用卡，就能在付款前先確認訂單上顯示了推薦。"
         ],
-        "emphasis": "各國訂購頁的月費、設備方式和當天應付各不相同，所以優惠是否划算，只能看你所在地址訂購頁上的當天應付總額；推薦獎勵要滿兩個完整計費週期後才發放，在那之前月費照付。"
+        "emphasis": "各國訂購頁的月費、設備方式和當天應付各不相同，所以優惠是否划算，只能看你所在地址訂購頁上的當天應付總額；推薦獎勵要滿兩個完整計費週期後才發放，在那之前月費照付，並務必於付款前核對訂單頁顯示的獎勵金額。",
+        "links": [
+          {
+            "label": "立即透過推薦連結確認你地址的當天應付與推薦獎勵",
+            "href": "https://starlink.com/?referral=RC-DF-17132118-63432-88",
+            "sponsored": true
+          }
+        ]
       },
       {
         "heading": "訂購頁怎麼看",
         "paragraphs": [
           "截圖是透過推薦連結開啟的美國訂單，上面有「Referral Code Applied」的提示。透過連結開啟的訂單會顯示推薦已套用，以及你所在國家的獎勵金額。",
-          "要核對自己的優惠，先開啟連結，輸入地址，付款前找同樣的提示，再看訂單有沒有顯示獎勵金額與月費條件。"
+          "要核對自己的優惠，先開啟連結，輸入地址，付款前找同樣的提示，再看訂單有沒有顯示獎勵金額與月費條件。試查地址與核對提示的步驟完全不收費、無須綁卡，還能在付款前確認推薦獎勵已顯示在訂單中。"
         ],
         "images": [
           {
@@ -301761,7 +301880,7 @@ export const reviewsData: unknown[] = [
         ],
         "links": [
           {
-            "label": "查看你地址的黑色星期五與推薦獎勵",
+            "label": "透過推薦連結查看你地址的優惠、租購方式與推薦獎勵",
             "href": "https://starlink.com/?referral=RC-DF-17132118-63432-88",
             "sponsored": true
           }
@@ -301799,8 +301918,15 @@ export const reviewsData: unknown[] = [
       {
         "heading": "如何使用連結",
         "paragraphs": [
-          "開啟連結不會讓你承擔任何義務：價格、是否可訂購和優惠，都要輸入地址之後才會顯示。輸入要安裝天線的地址，選好方案，確認推薦已套用，並在付款前保存訂單裡顯示的優惠。",
-          "從[本站的 Starlink 頁面](/zh-hant/coupons/starlink)開啟連結，並看該頁的計畫規則。"
+          "開啟連結不會讓你產生任何費用、無須提供付款卡，也不必承擔任何義務：價格、是否可訂購和優惠，都要輸入地址之後才會顯示。請在同一台裝置與瀏覽器上輸入要安裝天線的地址，選好方案，付款前確認訂單已顯示推薦，最後截圖保存訂單頁顯示的優惠再結帳。",
+          "也可從[本站的 Starlink 頁面](/zh-hant/coupons/starlink)開啟連結，並查看計畫規則。"
+        ],
+        "links": [
+          {
+            "label": "立即開啟 Starlink 官方推薦連結確認地址與獎勵",
+            "href": "https://starlink.com/?referral=RC-DF-17132118-63432-88",
+            "sponsored": true
+          }
         ]
       },
       {
@@ -301813,13 +301939,13 @@ export const reviewsData: unknown[] = [
           "設備是租還是買？依國家與方案而異。馬來西亞的 100 Mbps 要買 Mini X，Max 是租用；美國和日本是租用，取消時要歸還。",
           "訂購前能先試用嗎？可以。取消服務並在付款到期日起 30 天內把設備完好退回，設備和第一個月費用會退還。",
           "付款之後還能補推薦嗎？不能。推薦只在付款前透過推薦連結開啟的訂單上有效。",
-          "優惠到什麼時候？請以你所在市場的訂購頁為準，分別查看申請截止日和優惠價適用多久。"
+          "優惠到什麼時候？兩個期限要分開看：美國（30% 折扣）與日本（50% 折扣）的黑色星期五優惠下單截止到 11 月 30 日（馬來西亞本次未記錄黑五折扣）；至於推薦連結獎勵，只要 Starlink 官方推薦計畫仍在運作就持續有效（需在付款前套用連結並付滿兩個完整計費週期）。請在訂單頁輸入地址查看適用期限。"
         ]
       }
     ],
     "cta": {
-      "text": "符合資格的新客戶可在付費滿兩個完整帳單週期後獲得帳單折抵。馬來西亞 11 月的參考金額為 RM 180。請從我們的連結開啟官方訂單，在付款前核對金額。",
-      "label": "透過推薦連結開啟 Starlink 訂單",
+      "text": "美國優惠月費 US$38.50＋US$100 抵扣、日本 ¥3,550＋¥7,000（折扣至 11 月 30 日），馬來西亞則依方案為租用 RM 0 或購買 Mini X（11 月第三方參考獎勵 RM 180，付款前依訂單確認）。只要官方推薦計畫持續運作，新客戶付滿兩個計費週期即可享帳單抵扣；開連結查地址不收費也無須綁卡。",
+      "label": "透過推薦連結確認地址優惠與推薦獎勵",
       "url": "https://starlink.com/?referral=RC-DF-17132118-63432-88",
       "sponsored": true
     },
@@ -303199,8 +303325,8 @@ export const reviewsData: unknown[] = [
     "slug": "starlink-black-friday-zh-hans",
     "translationKey": "starlink-black-friday",
     "locale": "zh-hans",
-    "title": "Starlink 2026 黑色星期五：马来西亚、美国、日本的真实订单怎么算，推荐奖励何时到账",
-    "seoTitle": "Starlink 2026 黑色星期五：三个市场的订单怎么算",
+    "title": "Starlink 2026 黑色星期五：美国 US$38.50、日本 ¥3,550、马来西亚实测与推荐奖励",
+    "seoTitle": "Starlink 2026 黑色星期五：美日马来西亚月费折扣与推荐奖励",
     "type": "黑色星期五指南",
     "category": "cupons-como-usar",
     "reviewKind": "guia",
@@ -303219,11 +303345,11 @@ export const reviewsData: unknown[] = [
         "initials": "BL"
       }
     ],
-    "description": "Starlink 官网没有中文界面。我们用马来西亚、美国和日本的真实订单页，算清当天应付、月费、套件是租是买，以及推荐奖励何时到账。",
-    "metaDescription": "Starlink 黑色星期五优惠依地址而定。看马来西亚、美国、日本的订单怎么算，套件是租还是买，以及推荐奖励何时到账。",
+    "description": "Starlink 官网无中文界面：美国月费 US$38.50＋US$100 推荐抵扣、日本 ¥3,550＋¥7,000（优惠至 11/30），马来西亚 100 Mbps RM 135 与 Max 租用 RM 0（11 月第三方参考奖励 RM 180，付款前以订单为准）。",
+    "metaDescription": "美国月费 US$38.50＋US$100 推荐奖励、日本 ¥3,550＋¥7,000（至 11/30），马来西亚实测方案与 11 月第三方参考奖励 RM 180（付款前以订单页确认为准），一文算清租买与到账规则。",
     "publishedAt": "2026年11月20日",
     "publishedAtISO": "2026-11-20",
-    "updatedAt": "2026-11-23",
+    "updatedAt": "2026-11-24",
     "draft": false,
     "isNew": true,
     "hideFromPortugueseListings": true,
@@ -303235,12 +303361,12 @@ export const reviewsData: unknown[] = [
       {
         "heading": "快速回答",
         "paragraphs": [
-          "首次订阅符合条件的套餐可获得账单抵扣。以马来西亚为例，11 月的参考金额为 RM 180。请先打开我们的推荐链接，确认你的地址与奖励金额，然后保持套餐有效并按时付费满两个完整账单周期。",
-          "Starlink 官网没有中文界面，所以我们读了马来西亚、美国和日本的订单页：马来西亚 100 Mbps 月费 RM 135 且套件需购买（RM 900），Max 月费 RM 235 且套件免费租用；美国 100 Mbps 优惠后月费 US$38.50，套件租用 US$0；日本ホーム优惠后月费 ¥3,550。美国和日本的优惠到 11 月 30 日。"
+          "Starlink 官网没有中文界面，但通过我们的推荐链接下单仍可拿新客户账单抵扣：美国 100 Mbps 优惠月费 US$38.50＋套件租用 US$0＋US$100 推荐抵扣；日本ホーム优惠月费 ¥3,550＋套件租用 ¥0＋¥7,000 推荐抵扣（约抵扣 2 个优惠月费）；马来西亚 Max 套件租用 RM 0（月费 RM 235），100 Mbps 月费 RM 135＋购买 Mini X RM 900（马来西亚 11 月第三方公开参考奖励为 RM 180，实际金额请在付款前于订单页确认）。所有推荐奖励均在按时付满两个完整账单周期后抵扣账单，不会在结账时降低套件价格。",
+          "请特别区分两个截止时间：美国（30% 折扣）与日本（50% 折扣）的黑色星期五优惠只到 11 月 30 日（马来西亚本次未记录到黑五折扣），而通过我们推荐链接获得的账单奖励则在 Starlink 官方推荐计划存续期间持续有效。打开下方链接输入安装地址试算价格，完全不收费也无需填写银行卡，没有任何购买义务。"
         ],
         "links": [
           {
-            "label": "查看我的地址适用的 Starlink 推荐奖励",
+            "label": "通过推荐链接查询地址优惠与推荐奖励",
             "href": "https://starlink.com/?referral=RC-DF-17132118-63432-88",
             "sponsored": true
           }
@@ -303250,7 +303376,7 @@ export const reviewsData: unknown[] = [
         "heading": "三个市场的订单：月费、套件和当天应付",
         "paragraphs": [
           "我们在 11 月 23 日读了三个市场的订单页，没有完成购买。马来西亚（吉隆坡）：100 Mbps 月费 RM 135，套件是购买，Mini X 要 RM 900，当天应付 RM 989；Max 月费 RM 235，套件是租用，租赁费 RM 0，当天只付运费 RM 89。同一个国家、同一个地址，两个套餐的套件方式并不一样。",
-          "美国（内华达州）：100 Mbps 优惠后月费 US$38.50（原价 US$55），套件租用 US$0，当天应付 US$20 加税。日本（东京）：ホーム计划优惠后月费 ¥3,550（原价 ¥7,100），套件租用 ¥0，当天应付配送费 ¥3,000。推荐奖励在美国是 US$100，在日本是 ¥7,000，是账单抵扣，不会降低套件价格。"
+          "美国（内华达州）：100 Mbps 优惠后月费 US$38.50（原价 US$55），套件租用 US$0，当天应付 US$20 加税。日本（东京）：ホーム计划优惠后月费 ¥3,550（原价 ¥7,100），套件租用 ¥0，当天应付配送费 ¥3,000。推荐奖励在美国是 US$100（约可抵扣 2.6 个优惠月费），在日本是 ¥7,000（约等于 2 个优惠月费，或原价约 1 个月）；至于马来西亚，11 月第三方公开参考金额为 RM 180（请以付款前订单页显示为准，若于订单页确认适用，可抵扣超过 100 Mbps 套餐一个月 RM 135 的月费）。奖励只作账单抵扣，不会降低套件结账价格。"
         ],
         "comparisonTable": {
           "headers": [
@@ -303356,15 +303482,22 @@ export const reviewsData: unknown[] = [
           ]
         },
         "postParagraphs": [
-          "马来西亚的例子说明为什么要看每个套餐的套件那一行：100 Mbps 要买 Mini X，Max 则是免费租用，两者月费相差 RM 100。读订单页时，先看套件是购买还是租用，再比较月费。"
+          "马来西亚的例子说明为什么要看每个套餐的套件那一行：100 Mbps 要买 Mini X，Max 则是 RM 0 租用，两者月费相差 RM 100。读订单页时，先看套件是购买还是租用，再比较月费。通过推荐链接打开页面试查你的地址不会产生费用，也无需输入银行卡，就能在付款前先确认订单上显示了推荐。"
         ],
-        "emphasis": "各国订单页的月费、套件方式和当天应付各不相同，所以优惠是否划算，只能看你所在地址订单页上的当天应付总额；推荐奖励要满两个完整计费周期后才发放，在此之前月费照付。"
+        "emphasis": "各国订单页的月费、套件方式和当天应付各不相同，所以优惠是否划算，只能看你所在地址订单页上的当天应付总额；推荐奖励要满两个完整计费周期后才发放，在此之前月费照付，并务必在付款前核对订单页显示的奖励金额。",
+        "links": [
+          {
+            "label": "立即通过推荐链接确认你地址的当天应付和推荐奖励",
+            "href": "https://starlink.com/?referral=RC-DF-17132118-63432-88",
+            "sponsored": true
+          }
+        ]
       },
       {
         "heading": "订单页怎么看",
         "paragraphs": [
           "截图是通过推荐链接打开的美国订单，上面有“Referral Code Applied”的提示。通过链接打开的订单会显示推荐已应用，以及你所在国家的奖励金额。",
-          "要核对自己的优惠，先打开链接，输入地址，付款前找同样的提示，再看订单有没有显示奖励金额和月费条件。"
+          "要核对自己的优惠，先打开链接，输入地址，付款前找同样的提示，再看订单有没有显示奖励金额和月费条件。试查地址和核对提示的步骤完全不收费、无需绑卡，还能在付款前确认推荐奖励已显示在订单中。"
         ],
         "image": {
           "src": "/images/reviews/starlink/starlink-order-referral-applied-en.webp",
@@ -303403,7 +303536,7 @@ export const reviewsData: unknown[] = [
         },
         "links": [
           {
-            "label": "查看你所在地址的黑色星期五和推荐奖励",
+            "label": "通过推荐链接查看你地址的优惠、租购方式与推荐奖励",
             "href": "https://starlink.com/?referral=RC-DF-17132118-63432-88",
             "sponsored": true
           }
@@ -303441,8 +303574,15 @@ export const reviewsData: unknown[] = [
       {
         "heading": "如何使用链接",
         "paragraphs": [
-          "打开链接不会让你承担任何义务：价格、是否可订购和优惠，都要输入地址之后才会显示。输入要安装天线的地址，选好套餐，确认推荐已应用，并在付款前保存订单里显示的优惠。",
+          "打开链接不会让你产生任何费用、无需提供银行卡，也不必承担任何义务：价格、是否可订购和优惠，都要输入地址之后才会显示。请在同一台设备和浏览器上输入要安装天线的地址，选好套餐，付款前确认订单已显示推荐，最后截图保存订单页显示的优惠再结账。",
           "链接和规则也在[Starlink 推荐页面](/zh-hans/coupons/starlink)。"
+        ],
+        "links": [
+          {
+            "label": "立即打开 Starlink 官方推荐链接确认地址与奖励",
+            "href": "https://starlink.com/?referral=RC-DF-17132118-63432-88",
+            "sponsored": true
+          }
         ]
       },
       {
@@ -303455,15 +303595,15 @@ export const reviewsData: unknown[] = [
           "套件是租还是买？因国家和套餐而异。马来西亚的 100 Mbps 要买 Mini X，Max 是租用；美国和日本是租用，取消时要退回。",
           "订购前能先试用吗？可以。取消服务并在付款到期日起 30 天内把套件完好退回，套件和第一个月费用会退还。",
           "付款以后还能补推荐吗？不能。推荐只在付款前通过推荐链接打开的订单上有效。",
-          "活动到什么时候？请在你所在市场的订单页查看申请截止日和优惠价的适用期限。"
+          "活动到什么时候？两个期限要分开看：美国（30% 折扣）和日本（50% 折扣）的黑色星期五优惠订购截止到 11 月 30 日（马来西亚本次未记录黑五折扣）；至于推荐链接奖励，只要 Starlink 官方推荐计划仍在运行就持续有效（需在付款前应用链接并付满两个完整计费周期）。请在订单页输入地址查看适用期限。"
         ]
       }
     ],
     "pros": [],
     "cons": [],
     "cta": {
-      "text": "符合条件的新客户可在付费满两个完整账单周期后获得账单抵扣。马来西亚 11 月的参考金额为 RM 180。请从我们的链接打开官方订单，在付款前核对金额。",
-      "label": "通过推荐链接打开 Starlink 订单",
+      "text": "美国优惠月费 US$38.50＋US$100 抵扣、日本 ¥3,550＋¥7,000（折扣至 11 月 30 日），马来西亚则按套餐为租用 RM 0 或购买 Mini X（11 月第三方参考奖励 RM 180，付款前以订单确认为准）。只要官方推荐计划持续运行，新客户付满两个计费周期即可享账单抵扣；开链接查地址不收费也无需绑卡。",
+      "label": "通过推荐链接确认地址优惠与推荐奖励",
       "url": "https://starlink.com/?referral=RC-DF-17132118-63432-88",
       "sponsored": true
     },
@@ -323533,8 +323673,8 @@ export const reviewsData: unknown[] = [
     "slug": "starlink-black-friday-ar",
     "translationKey": "starlink-black-friday",
     "locale": "ar",
-    "title": "Starlink في الجمعة البيضاء 2026: أسعار عُمان وقطر بالعربية ومقارنتها بعروض أمريكا وأوروبا",
-    "seoTitle": "Starlink في الجمعة البيضاء 2026: عُمان وقطر وأمريكا وأوروبا",
+    "title": "Starlink في الجمعة البيضاء 2026: أسعار عُمان وقطر بالعربية وخصم 30% في أمريكا وأوروبا ومكافأة الإحالة",
+    "seoTitle": "Starlink في الجمعة البيضاء 2026: عُمان وقطر وخصم 30% في أمريكا وأوروبا",
     "type": "دليل الجمعة البيضاء",
     "category": "cupons-como-usar",
     "reviewKind": "guia",
@@ -323553,11 +323693,11 @@ export const reviewsData: unknown[] = [
         "initials": "BL"
       }
     ],
-    "description": "موقع Starlink الرسمي متاح بالعربية في عُمان وقطر: 30 ر.ع. شهريًا في عُمان بلا تعاقد. قارنّا الأسعار بعروض الجمعة البيضاء في أمريكا وأوروبا وشرحنا مكافأة الإحالة.",
-    "metaDescription": "أسعار Starlink بالعربية في عُمان وقطر، مقارنةً بخصم 30% في أمريكا وأوروبا، وكيف تُحتسب مكافأة الإحالة وكيف تتحقق من عنوانك.",
+    "description": "موقع Starlink بالعربية: عُمان (30 ر.ع. بلا تعاقد) وقطر (220 ر.ق.) وخصم 30% حتى 30 نوفمبر بأمريكا وأوروبا (مرجع خارجي لنوفمبر 15 ر.ع./160 ر.ق. يُؤكد قبل الدفع).",
+    "metaDescription": "موقع Starlink بالعربية في عُمان (30 ر.ع.) وقطر (220 ر.ق.) مقابل خصم 30% حتى 30 نوفمبر بأمريكا وأوروبا وإحالة 100$/45 يورو (مرجع خارجي لنوفمبر 15 ر.ع./160 ر.ق. يُؤكد بالطلب).",
     "publishedAt": "21 نوفمبر 2026",
     "publishedAtISO": "2026-11-21",
-    "updatedAt": "2026-11-23",
+    "updatedAt": "2026-11-24",
     "draft": false,
     "isNew": true,
     "hideFromPortugueseListings": true,
@@ -323569,12 +323709,12 @@ export const reviewsData: unknown[] = [
       {
         "heading": "الإجابة السريعة",
         "paragraphs": [
-          "يمكن للعملاء الجدد الحصول على رصيد في الفاتورة. المبلغ المرجعي في نوفمبر هو 15 ريالًا عُمانيًا في عُمان و160 ريالًا قطريًا في قطر. افتح رابطنا قبل الطلب وتحقق من المبلغ لعنوانك، ثم أبقِ اشتراكك المؤهل نشطًا ومدفوعًا لدورتَي فوترة كاملتَين.",
-          "يعمل موقع Starlink بالعربية في عُمان وقطر. في مسقط قرأنا الباقة المنزلية بـ 30 ر.ع. شهريًا مع شراء الجهاز (Standard 4 X بـ 160 ر.ع.) وبلا تعاقد وبتجربة 30 يومًا. أما عروض الجمعة البيضاء الظاهرة في قراءتنا فكانت في أمريكا (خصم 30% حتى 30 نوفمبر) وأوروبا."
+          "يعمل موقع Starlink الرسمي بالعربية في عُمان (الباقة المنزلية بـ 30 ر.ع. شهريًا بلا تعاقد مع شراء Standard 4 X بـ 160 ر.ع. أو Mini بـ 80 ر.ع.) وقطر (220 ر.ق. شهريًا)، بينما قدّمت قراءاتنا للجمعة البيضاء في أمريكا وأوروبا (البرتغال) خصم 30% على الاشتراك (38.50$ أمريكا و24.50 يورو البرتغال) مع إيجار جهاز 0$ و0 يورو. ومع رابط الإحالة الخاص بنا، يحصل العملاء الجدد على رصيد فاتورة إضافي بعد إتمام دورتَي فوترة مدفوعتين: 100$ في أمريكا و45 يورو في البرتغال، وبحسب مرجع خارجي منشور في نوفمبر قد يبلغ 15 ر.ع. في عُمان و160 ر.ق. في قطر (يُتأكد من القيمة النهائية في صفحة الطلب قبل الدفع)، دون أن يخفض هذا الرصيد سعر الجهاز عند الشراء.",
+          "تختلف مدة كل ميزة عن الأخرى: فخصومات الجمعة البيضاء البالغة 30% في أمريكا وأوروبا مستمرة حتى 30 نوفمبر فقط (ولم نسجّل خصمًا في عُمان وقطر)، أما مكافأة رابط الإحالة فتبقى متاحة ما دام برنامج الإحالة الرسمي من Starlink قائمًا. افتح الرابط أدناه وأدخل عنوانك لمراجعة السعر والمكافأة: هذه الخطوة لا تفرض أي رسوم ولا تتطلب بطاقة دفع أو التزامًا قبل أن تقرر الشراء."
         ],
         "links": [
           {
-            "label": "تحقق من مكافأة Starlink لعنواني",
+            "label": "افتح رابط الإحالة وتحقّق من سعر عنوانك ومكافأة الرصيد",
             "href": "https://starlink.com/?referral=RC-DF-17132118-63432-88",
             "sponsored": true
           }
@@ -323584,7 +323724,7 @@ export const reviewsData: unknown[] = [
         "heading": "الأسعار في عُمان وقطر وأمريكا وأوروبا",
         "paragraphs": [
           "قرأنا صفحات الطلب الرسمية في 23 نوفمبر 2026 دون إتمام أي عملية شراء. في مسقط، عُمان، كانت الباقة المنزلية بسعر 30 ر.ع. شهريًا، والجهاز بالشراء لا بالإيجار: Standard 4 X بـ 160 ر.ع. أو Mini بـ 80 ر.ع.، مع شحن بـ 10 ر.ع.، فيكون المستحق اليوم 170 ر.ع. مع Standard 4 X. وفي الدوحة، قطر، كانت باقة المنازل Lite بـ 220 ريالًا شهريًا مع Standard 4 X بـ 1,500 ريال وشحن 80 ريالًا، فالمستحق اليوم 1,580 ريالًا.",
-          "وللمقارنة، في ولاية نيفادا الأمريكية كانت باقة 100 ميغابت بـ 38.50$ شهريًا بعد خصم 30% (السعر العادي 55$) مع جهاز مستأجر بـ 0$ ومستحق اليوم 20$ زائد الضرائب، وفي لشبونة بالبرتغال 24.50 يورو شهريًا (السعر العادي 35 يورو) مع جهاز مستأجر بـ 0 يورو وشحن 20 يورو. مكافأة الإحالة 100$ في الولايات المتحدة و45 يورو في البرتغال، وتُضاف إلى الفاتورة بعد دورتين شهريتين، ولا تخفّض سعر الجهاز."
+          "وللمقارنة، في ولاية نيفادا الأمريكية كانت باقة 100 ميغابت بـ 38.50$ شهريًا بعد خصم 30% (السعر العادي 55$) مع جهاز مستأجر بـ 0$ ومستحق اليوم 20$ زائد الضرائب، وفي لشبونة بالبرتغال 24.50 يورو شهريًا (السعر العادي 35 يورو) مع جهاز مستأجر بـ 0 يورو وشحن 20 يورو. مكافأة الإحالة تبلغ 100$ في أمريكا (تغطي نحو شهرين ونصف من الباقة المخفضة) و45 يورو في البرتغال (تقارب شهرين بالخصم)، وفي عُمان وقطر يُتحقق في صفحة الطلب من القيمة المرجعية الخارجية المنشورة في نوفمبر (15 ر.ع. في عُمان أي نصف شهر تقريبًا، و160 ر.ق. في قطر أي أكثر من ثلثَي الشهر الأول). وتُضاف المكافأة للفاتورة بعد دورتين شهريتين، ولا تخفّض سعر الجهاز."
         ],
         "comparisonTable": {
           "headers": [
@@ -323690,15 +323830,22 @@ export const reviewsData: unknown[] = [
           ]
         },
         "postParagraphs": [
-          "الفرق الجوهري بين السوقين أن الجهاز في عُمان وقطر يُشترى فيبقى لك، بينما هو في أمريكا وأوروبا مستأجر بـ 0 ويجب إعادته عند الإلغاء. لذلك قارن المبلغ المستحق اليوم لا السعر الشهري وحده."
+          "الفرق الجوهري بين السوقين أن الجهاز في عُمان وقطر يُشترى فيبقى لك، بينما هو في أمريكا وأوروبا مستأجر بـ 0 ويجب إعادته عند الإلغاء. لذلك قارن المبلغ المستحق اليوم لا السعر الشهري وحده. وفتح الطلب عبر رابط الإحالة للتحقق من عنوانك لا يفرض عليك أي رسوم ولا يطلب بطاقة بنكية، بل يثبّت تطبيق الإحالة على طلبك قبل الدفع."
         ],
-        "emphasis": "بحسب الأرقام في الجدول، يُدفع في عُمان 170 ر.ع. اليوم مع Standard 4 X ثم 30 ر.ع. شهريًا، ولا تصل مكافأة الإحالة إلا بعد دورتين شهريتين كاملتين، فتُدفع الفواتير الأولى من مالك الخاص."
+        "emphasis": "بحسب الأرقام في الجدول، يُدفع في عُمان 170 ر.ع. اليوم مع Standard 4 X ثم 30 ر.ع. شهريًا، ولا تصل مكافأة الإحالة إلا بعد دورتين شهريتين كاملتين، فتُدفع الفواتير الأولى من مالك الخاص، لذا تأكد من القيمة النهائية الظاهرة في صفحة الطلب قبل السداد.",
+        "links": [
+          {
+            "label": "تحقّق عبر رابط الإحالة من المستحق اليوم ومكافأة عنوانك",
+            "href": "https://starlink.com/?referral=RC-DF-17132118-63432-88",
+            "sponsored": true
+          }
+        ]
       },
       {
         "heading": "كيف يبدو الطلب",
         "paragraphs": [
           "تُظهر لقطة الشاشة عبارة “Referral Code Applied” في طلب أمريكي فُتح عبر رابط إحالة. الطلب الذي يُفتح عبر الرابط يعرض أن الإحالة مطبّقة وقيمة المكافأة في بلدك.",
-          "للتحقق من عرضك، افتح الرابط وأدخل عنوانك وابحث عن الإشعار نفسه قبل الدفع، وانظر هل يعرض الطلب المكافأة وشروط السعر الشهري."
+          "للتحقق من عرضك، افتح الرابط وأدخل عنوانك وابحث عن الإشعار نفسه قبل الدفع، وانظر هل يعرض الطلب المكافأة وشروط السعر الشهري. هذا الفحص لا يترتب عليه أي سحب مالي ولا إدخال بطاقة دفع، كما يضمن تثبيت الإحالة على الطلب قبل الانتقال إلى السداد."
         ],
         "image": {
           "src": "/images/reviews/starlink/starlink-order-referral-applied-en.webp",
@@ -323737,7 +323884,7 @@ export const reviewsData: unknown[] = [
         },
         "links": [
           {
-            "label": "اطّلع على الجمعة البيضاء ومكافأة الإحالة لعنوانك",
+            "label": "تحقّق عبر رابط الإحالة من عرض الجمعة البيضاء وتجربة 30 يومًا لعنوانك",
             "href": "https://starlink.com/?referral=RC-DF-17132118-63432-88",
             "sponsored": true
           }
@@ -323775,8 +323922,15 @@ export const reviewsData: unknown[] = [
       {
         "heading": "كيف تستخدم الرابط",
         "paragraphs": [
-          "فتح الرابط لا يُلزمك بشيء: الأسعار والتوفر والعرض لا تظهر إلا بعد أن تكتب عنوانك. أدخل العنوان الذي ستركّب فيه الطبق، واختر الباقة، وتأكد من ظهور الإحالة على أنها مطبّقة، واحفظ العرض الذي يظهر قبل أن تدفع.",
+          "فتح الرابط لا يُلزمك بشيء ولا يفرض أي رسوم أو إدخال بطاقة دفع: الأسعار والتوفر والعرض لا تظهر إلا بعد أن تكتب عنوانك. على نفس الجهاز والمتصفح، أدخل العنوان الذي ستركّب فيه الطبق، واختر الباقة، وتأكد من تثبيت عبارة تطبيق الإحالة قبل الدفع، واحفظ لقطة للعرض الظاهر أمامك.",
           "تضم [صفحة إحالة Starlink](/ar/coupons/starlink) الرابط وقواعد البرنامج."
+        ],
+        "links": [
+          {
+            "label": "افتح طلب Starlink الرسمي عبر رابط الإحالة وتحقّق من عنوانك",
+            "href": "https://starlink.com/?referral=RC-DF-17132118-63432-88",
+            "sponsored": true
+          }
         ]
       },
       {
@@ -323789,13 +323943,13 @@ export const reviewsData: unknown[] = [
           "هل جهاز Starlink مجاني؟ ليس في عُمان وقطر، فالجهاز يُشترى. وفي أمريكا وأوروبا يُستأجر بـ 0 مقدمًا و0 شهريًا ويجب إعادته إذا ألغيت.",
           "هل أستطيع تجربة Starlink قبل الالتزام؟ نعم. الصفحة تنص على بدون تعاقد وفترة تجريبية 30 يومًا، ويُرد ثمن الجهاز والشهر الأول إذا ألغيت وأعدت الجهاز سليمًا خلال 30 يومًا.",
           "هل أستطيع إضافة الإحالة بعد الدفع؟ لا. لا تُحتسب إلا للطلب الذي يُفتح عبر الرابط قبل الدفع.",
-          "إلى متى يستمر العرض؟ تعلن Starlink أنه سارٍ حتى نهاية نوفمبر في الأسواق التي قرأنا فيها الخصم. أدخل عنوانك في صفحة الطلب لترى هل هو متاح."
+          "إلى متى يستمر العرض؟ هناك موعدان مختلفان: خصم الجمعة البيضاء بنسبة 30% في أمريكا وأوروبا (البرتغال) سارٍ حتى 30 نوفمبر فقط (ولم نسجّل خصمًا في عُمان وقطر)، أما مكافأة رابط الإحالة فتبقى سارية ما دام برنامج الإحالة الرسمي من Starlink موجودًا، بشرط فتح الطلب عبر الرابط قبل الدفع وسداد دورتَي فوترة كاملتين. أدخل عنوانك في صفحة الطلب لتتأكد مما يظهر لموقعك."
         ]
       }
     ],
     "cta": {
-      "text": "يمكن للعملاء الجدد الحصول على رصيد بعد سداد دورتَي فوترة كاملتَين على باقة مؤهلة. المبلغ المرجعي في نوفمبر هو 15 ريالًا عُمانيًا في عُمان و160 ريالًا قطريًا في قطر. افتح الطلب الرسمي عبر رابطنا وتحقق من المبلغ قبل الدفع.",
-      "label": "افتح طلب Starlink عبر رابط الإحالة",
+      "text": "سواء كنت تطلب بالعربية في عُمان (30 ر.ع. شهريًا بلا تعاقد) وقطر (220 ر.ق.) أو تستفيد من خصم 30% حتى 30 نوفمبر في أمريكا وأوروبا، يحصل العملاء الجدد عبر رابط الإحالة بعد سداد دورتَي فوترة كاملتين على رصيد فاتورة (100$ أمريكا / 45 يورو البرتغال، وبمرجع خارجي منشور في نوفمبر 15 ر.ع. عُمان / 160 ر.ق. قطر يُؤكد في الطلب قبل الدفع). فحص عنوانك عبر الرابط بلا رسوم ولا بطاقة دفع، ويبقى الرابط ساريًا ما دام برنامج إحالة Starlink قائمًا.",
+      "label": "افتح رابط الإحالة وتحقّق من سعر عنوانك ومكافأة الرصيد",
       "url": "https://starlink.com/?referral=RC-DF-17132118-63432-88",
       "sponsored": true
     },
