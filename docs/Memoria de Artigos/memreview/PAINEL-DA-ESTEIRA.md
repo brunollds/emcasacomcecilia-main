@@ -36,7 +36,7 @@
 
 ## 6. Prontos para Deploy (`status: pronto-para-deploy`)
 *Gates verdes; o deploy é decisão do Bruno.*
-- *(Nenhum artigo no momento)*
+- [ ] [[creatina-mais-mu-e-pura]]: Creatina Mais Mu é pura? Creapure, rótulo e preço por dose (só PT, id 1310; MU1, MMEMCASACOMCECILIA, Mais Mu; PR do lote G1/G2 A2, aguardando deploy)
 
 ---
 

@@ -99885,10 +99885,10 @@ export const reviewsData: unknown[] = [
       "url": "/sobre"
     },
     "description": "Max Titanium e Probiótica são do mesmo grupo, mas não vendem os mesmos potes. Veja lado a lado proteína por porção, preço por 100 g, creatina e cupom, e qual escolher.",
-    "metaDescription": "MAX10EMCASACOMCECILIA e PRO10EMCASACOMCECILIA: até 10% OFF na Max e na Probiótica. Mesma fábrica, linhas diferentes: proteína, preço por 100 g e creatina.",
+    "metaDescription": "MAX10EMCASACOMCECILIA e PRO10EMCASACOMCECILIA: até 10% OFF. Não são a mesma marca: são do grupo Supley, com linhas e preços diferentes.",
     "publishedAt": "16 de outubro de 2026",
     "publishedAtISO": "2026-10-16",
-    "updatedAt": "2026-11-22",
+    "updatedAt": "2026-11-23",
     "draft": false,
     "isNew": false,
     "image": "/images/reviews/max-titanium/max-titanium-ou-probiotica-capa-v2.webp",
@@ -99899,7 +99899,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Resposta rápida",
         "paragraphs": [
-          "Max Titanium e Probiótica são do mesmo grupo, mas as fórmulas variam por linha e sabor. A Max teve menor custo por 100 g de proteína no concentrado e no 3W; a Probiótica trouxe mais sabores e zero lactose. Os códigos são MAX10EMCASACOMCECILIA, no [cupom Max Titanium](/cupons/max-titanium), e PRO10EMCASACOMCECILIA, no [cupom Probiótica](/cupons/probiotica), com até 10% OFF."
+          "Não são a mesma marca: a Probiótica não é linha da Max Titanium, e as duas são do grupo Supley, com linhas e preços próprios. A Max leva o concentrado e o 3W pelo menor custo por 100 g de proteína; a Probiótica tem mais sabores e zero lactose. Os códigos MAX10EMCASACOMCECILIA e PRO10EMCASACOMCECILIA dão até 10% OFF."
         ]
       },
       {
@@ -100449,7 +100449,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Perguntas frequentes",
         "bullets": [
-          "Max Titanium e Probiótica são a mesma coisa? São marcas do mesmo grupo, o Supley, e o rótulo das duas aponta a mesma fábrica, mas as linhas, as porções e os preços são diferentes.",
+          "Max Titanium e Probiótica são a mesma coisa? Não. São marcas do grupo Supley, e o rótulo das duas aponta a mesma fábrica, mas as linhas, as porções e os preços são diferentes. A Probiótica não é linha da Max Titanium; de quem é cada marca está em [Probiótica é confiável? Quem fabrica, site oficial, trocas e reputação](/reviews/probiotica-e-confiavel).",
           "Qual é o cupom da Max Titanium e o da Probiótica? O da Max Titanium é o MAX10EMCASACOMCECILIA, com até 10% OFF no site oficial e no aplicativo; o da Probiótica é o PRO10EMCASACOMCECILIA, com até 10% OFF no site oficial. Os dois valem em todas as formas de pagamento. Na Max, clique em “Adicionar cupom de desconto” no carrinho, digite o código no campo “Código” e clique em “Adicionar”; na Probiótica, use o campo “Cupom de Desconto”. Os códigos e as regras ficam no [cupom Max Titanium](/cupons/max-titanium) e no [cupom Probiótica](/cupons/probiotica).",
           "Qual a diferença entre Probiótica e Max Titanium? Mudam as linhas, o número de sabores e as porções. No whey concentrado, a Max tem 21 g em 30 g e a Probiótica 20 g em 30 g (sabor Baunilha), com 13 sabores e versão zero lactose.",
           "Qual a melhor creatina, Max Titanium ou Probiótica? O pote de 300 g tem a mesma porção de 5 g e o mesmo preço nas duas lojas; a diferença está nos outros tamanhos e formatos de cada uma.",
@@ -148694,7 +148694,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Resposta rápida",
         "paragraphs": [
-          "O pote de 500 g sai mais barato por dose que o de 300 g, com os mesmos 150 mg de cafeína. Na Blue Friday, três sabores de 500 g têm o menor preço por dose entre os potes de 300 g e 500 g e os sachês. O código MMEMCASACOMCECILIA dá 10% no site da Mais Mu."
+          "Pelo rótulo, o Exquenta é um pré-treino com 150 mg de cafeína por dose de 20 g; o que separa as embalagens é o preço por dose e a versão sem cafeína. O pote de 500 g sai mais barato por dose que o de 300 g. O código MMEMCASACOMCECILIA dá 10% no site da Mais Mu."
         ]
       },
       {
@@ -148973,6 +148973,7 @@ export const reviewsData: unknown[] = [
         "bullets": [
           "**Palatinose:** nenhuma tabela tem linha dela. As faixas de destaque dos potes de 300 g e 500 g e dos sachês dizem 16 g por dose.",
           "**Fabricante:** nenhuma página declara quem fabrica o produto.",
+          "**Tempo antes do treino:** nenhuma página dá minutagem; as fichas dizem só \"Antes do treino\", e as perguntas e respostas da loja dizem que pode ser usado em qualquer horário do dia.",
           "**Aviso de idade, de gestação e de dose máxima:** nenhuma página do Exquenta traz. Nos combos, aparece só \"conforme orientação de seu nutricionista\".",
           "**Lista completa de ingredientes do Nitrato e do Sem Cafeína:** as páginas não trazem.",
           "**Quantidade de nitrato:** o Nitrato 450 g não publica."
@@ -149008,7 +149009,10 @@ export const reviewsData: unknown[] = [
           "Qual é o cupom da Mais Mu? O cupom da Mais Mu da nossa parceria é MMEMCASACOMCECILIA, com 10% OFF no site oficial, em todas as formas de pagamento. Ele soma com os 3% do Pix.",
           "O Exquenta é bom? Pelo rótulo, é um pré-treino com 150 mg de cafeína, 400 mg ou 500 mg de taurina e 16 g de açúcares adicionados por dose de 20 g. Pelo preço, o pote de 500 g tem a dose mais barata entre os potes de 300 g e 500 g e os sachês.",
           "Tem Exquenta sem cafeína? Tem. Este guia leu o rótulo do Sem Cafeína Tropical 450 g e do Nitrato Laranja e Acerola 450 g, e a tabela de cada um não traz linha de cafeína. A loja também vende o Sem Cafeína em pote de 500 g.",
-          "Quanta cafeína tem por dose? 150 mg por dose de 20 g nos potes de 300 g e 500 g e nos sachês, pela tabela da loja."
+          "Quanta cafeína tem por dose? 150 mg por dose de 20 g nos potes de 300 g e 500 g e nos sachês, pela tabela da loja.",
+          "Como tomar o Exquenta? A loja informa porção de 20 g: 4 medidas em 200 ml no pote de 300 g, 2 medidas em 200 ml no de 500 g e um sachê em 200 ml. Nos de 450 g, a porção é de 30 g. Dose, frequência e horário para cada pessoa são com médico ou nutricionista.",
+          "Quanto tempo antes do treino tomar o Exquenta? Nenhuma ficha nem as perguntas e respostas da loja dão minutagem. As fichas dizem só \"Antes do treino\", e a loja responde que o Exquenta pode ser utilizado em qualquer horário do dia.",
+          "O Exquenta quebra o jejum? A tabela da dose de 20 g traz 64 kcal e 16 g de carboidratos, e os 16 g são de açúcares adicionados; no Sem Cafeína de 450 g, a dose de 30 g traz 102 kcal e 6 g de açúcares adicionados. Quem controla calorias e carboidratos do dia tem esses números, e a conta do plano alimentar é com o nutricionista."
         ]
       }
     ],
@@ -149835,7 +149839,8 @@ export const reviewsData: unknown[] = [
           "Chocowheyfer tem açúcar? Nos sabores com tabela nesta comparação, há açúcar total e 0 g de açúcar adicionado declarado. Veja a quantidade por sabor na tabela de calorias; “zero adicionado” não significa ausência de açúcar total.",
           "Mukebar tem glúten? No sabor Chocolate com Avelã, sim: a página declara CONTÉM GLÚTEN e CONTÉM LACTOSE. Nos demais sabores, confira o aviso de alérgenos na página e na embalagem antes de comprar.",
           "Qual barra tem mais proteína? Por unidade, a Mukebar 720 g, com 15 g em 60 g pela tabela do sabor Avelã. Em seguida vem o Chocowheyfer Max, com 12 g em 50 g.",
-          "Tem barra vegana? A listagem da loja não traz barra vegana. O Veggie Wafer é chamado de vegetal pela loja, mas o aviso diz que pode conter leite, e a página não mostra selo vegano. Confira o aviso de alérgenos antes de comprar."
+          "Chocowheyfer ou Mukebar: qual a diferença? A loja diz, no FAQ do site, que o Chocowheyfer tem 6 g de proteína e a Mukebar, 15 g. Pelas tabelas, o wafer Chocowheyfer de 25 g (Sem Cobertura e 300 g) tem 6 g, o Chocowheyfer Max de 50 g tem 12 g, e a Mukebar Chocolate com Avelã, barra de 60 g, tem 15 g. Por grama de proteína, a Mukebar sai a R$ 0,50 e o Chocowheyfer, de R$ 0,75 a R$ 0,87, pelos preços da tabela do artigo (conta nossa). São formatos diferentes, e a Mukebar de 720 g só tem tabela no sabor Avelã.",
+          "Tem barra vegana? A listagem da loja não traz barra vegana, e a Mukebar Vegana, citada na descrição da Mukebar, não está à venda. O Veggie Wafer é chamado de vegetal pela loja, mas o aviso diz que pode conter leite, e a página não mostra selo vegano. Confira o aviso de alérgenos antes de comprar."
         ]
       }
     ],
@@ -165781,7 +165786,7 @@ export const reviewsData: unknown[] = [
     "metaDescription": "O cupom PRO10EMCASACOMCECILIA dá até 10% OFF na Probiótica. Creatina de 300 g, 100 g, Creapure e monodose: qual compensa pelo preço por 100 g e por dose.",
     "publishedAt": "28 de outubro de 2026",
     "publishedAtISO": "2026-10-28",
-    "updatedAt": "2026-11-22",
+    "updatedAt": "2026-11-23",
     "draft": false,
     "isNew": false,
     "image": "/images/reviews/probiotica/creatina-probiotica-qual-compensa-capa-v2.webp",
@@ -165854,7 +165859,8 @@ export const reviewsData: unknown[] = [
         "heading": "Pote de 300 g: a que mais compensa",
         "paragraphs": [
           "O [pote de 300 g](https://www.probiotica.com.br/creatina-300g/p?utm_source=creators&utm_medium=PRO10EMCASACOMCECILIA&utm_campaign=probi) é o que mais compensa: R$ 59,90. A tabela do rótulo declara 60 porções de 5 g (1 dosador), com 5.000 mg de creatina por porção, sem quantidade significativa de calorias, carboidratos, proteínas, gorduras e sódio. Dá R$ 19,97 por 100 g e R$ 1,00 por dose.",
-          "A página do produto traz um selo de \"3.000 mg de creatina por dose\" ao lado do texto de \"5.000 mg por porção\". A tabela do rótulo diz 5.000 mg por porção de 5 g, e é o número que a conta usa."
+          "A página do produto traz um selo de \"3.000 mg de creatina por dose\" ao lado do texto de \"5.000 mg por porção\". A tabela do rótulo diz 5.000 mg por porção de 5 g, e é o número que a conta usa.",
+          "O pote azul da foto é o que a página mostra hoje, sem explicar a mudança. A explicação está no [blog oficial da Probiótica](https://blog.probiotica.com.br/probiotica-de-cara-nova-mais-proxima-mais-real-mais-voce/), que anunciou em 2 de abril de 2025 a nova identidade visual das embalagens e cita a Creatina Creapure 150 g e a Creatina 100 g e 300 g. Embalagem nova muda o visual do pote; a conta deste guia segue a tabela da ficha."
         ],
         "images": [
           {
@@ -166016,6 +166022,9 @@ export const reviewsData: unknown[] = [
           "Qual é o cupom da Probiótica? É o PRO10EMCASACOMCECILIA, com até 10% OFF no site oficial da Probiótica, em todas as formas de pagamento. Cole no campo \"Cupom de Desconto\" do carrinho e clique em \"Adicionar\"; nas creatinas, o desconto medido nos testes de novembro foi de 2%. As regras estão na página do [cupom Probiótica](/cupons/probiotica).",
           "Creatina Probiótica é boa? Pelo rótulo, os potes de 300 g e de 100 g, a Creapure e os sachês, todos com porção de 5 g, trazem creatina monohidratada com 5.000 mg por porção; a Pure Creatina Monster tem porção de 3 g, com 3.000 mg. A tabela não lista carboidrato, proteína, gordura nem sódio em quantidade significativa. A qualidade de cada lote não se mede pela ficha; o texto lê o rótulo e o preço.",
           "Creatina Probiótica é pura? \"Pura\" é o nome do produto. O rótulo declara creatina monohidratada, com 5.000 mg por porção de 5 g na tabela (3.000 mg em 3 g na Pure Creatina Monster). A Creapure traz o selo de origem da matéria-prima, com a mesma composição por porção na tabela.",
+          "Como saber se a creatina da Probiótica é original? Compre no site oficial, probiotica.com.br, ou numa revenda indicada pelo localizador \"Encontre a loja mais próxima\", do \"Quem Somos\". O site mostra o selo \"Garantia de originalidade\", que é da própria marca e não uma certificação de terceiros. Na embalagem, o selo Creapure com o código 18SP11 aparece só nas versões Creapure, e o verso da Creapure diz que o produto é fabricado pela Supley em Matão (SP). Em marketplace, confira o vendedor antes de pagar. Mais sobre onde comprar em [Probiótica é confiável? Quem fabrica, site oficial, trocas e reputação](/reviews/probiotica-e-confiavel).",
+          "A embalagem da creatina Probiótica mudou? Segundo o blog oficial da marca, sim: a Probiótica anunciou uma nova identidade visual para as embalagens e citou a Creatina Creapure 150 g e a Creatina 100 g e 300 g. A página do pote de 300 g já mostra o pote azul, sem texto explicando a mudança. O capítulo do pote de 300 g traz o link do comunicado.",
+          "A creatina da Probiótica tem laudo? Não encontramos laudo de terceiro da creatina publicado no site nem no blog da Probiótica. O que a loja publica é a tabela do rótulo, com 5.000 mg por porção de 5 g. Quem quer o dado de pureza de um lote pede à loja, pelo SAC do rótulo.",
           "Creatina Probiótica é Creapure? Só as versões com o selo no rótulo: a Creatina Creapure Monohidratada de 150 g e a Pure Creatina de 150 g da linha Monster, as duas a R$ 99,89. Os potes de 300 g e de 100 g e a monodose não trazem o selo.",
           "Qual tamanho custa menos por grama? O pote de 300 g, a R$ 19,97 por 100 g, contra R$ 33,89 do de 100 g, R$ 46,59 da monodose e R$ 66,59 da Creapure. Confira os preços atuais antes de comprar.",
           "A creatina da Probiótica tem sabor? O catálogo da Probiótica não traz creatina com sabor. As versões da marca são sem sabor; para potes com sabor de outras marcas, veja [creatina com sabor: qual escolher](/reviews/creatina-com-sabor-qual-escolher)."
@@ -166042,6 +166051,9 @@ export const reviewsData: unknown[] = [
       },
       {
         "slug": "monodose-probiotica-sache-ou-pote"
+      },
+      {
+        "slug": "probiotica-e-confiavel"
       }
     ],
     "decision": {
@@ -200712,61 +200724,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "A creatina da Mais Mu",
         "paragraphs": [
-          "A Mais Mu vende creatina monohidratada em pote, de 200 g sem sabor e de 210 g com sabor, e em refil de 500 g, sem sabor ou com sabor. A tabela compara quatro delas. A sem sabor leva só creatina monohidratada; as de sabor somam acidulante, aroma e o adoçante estévia, e a de melancia, corante de beterraba."
-        ],
-        "comparisonTable": {
-          "headers": [
-            "Produto",
-            "Doses",
-            "Ingredientes",
-            "Preço de lista",
-            "Por dose"
-          ],
-          "rows": [
-            [
-              "[Creatina Sem Sabor 200 g](https://www.lojamaismu.com.br/produtos/creatina-sem-sabor-200g/)",
-              "66",
-              "só creatina monohidratada",
-              "R$ 89,99",
-              "R$ 1,36"
-            ],
-            [
-              "[Creatina Limonada 210 g](https://www.lojamaismu.com.br/produtos/creatina-limonada-210g/)",
-              "60",
-              "creatina, acidulante, aroma e estévia",
-              "R$ 89,99",
-              "R$ 1,50"
-            ],
-            [
-              "[Refil Creatina Sem Sabor 500 g](https://www.lojamaismu.com.br/produtos/creatina-refil-sem-sabor-500g/)",
-              "cerca de 167",
-              "só creatina monohidratada",
-              "R$ 119,90",
-              "R$ 0,72"
-            ],
-            [
-              "[Refil Creatina Melancia 500 g](https://www.lojamaismu.com.br/produtos/creatina-performance-refil-melancia-500g/)",
-              "143",
-              "creatina, acidulante, aroma, corante de beterraba e estévia",
-              "R$ 119,90",
-              "R$ 0,84"
-            ]
-          ],
-          "caption": "Preço de lista, como nas outras tabelas; a loja vende com desconto de promoção. Doses e ingredientes como a loja informa."
-        },
-        "postParagraphs": [
-          "O refil de 500 g sai por pouco mais da metade do preço por dose do pote pequeno. Para quem já toma creatina todo dia, o refil sem sabor; o pote serve para quem quer conhecer o sabor antes de levar o refil.",
-          "Pela página, as quatro não contêm glúten e podem conter traços de amendoim, castanhas, leite, soja e ovo."
-        ],
-        "images": [
-          {
-            "src": "/images/reviews/mais-mu/mais-mu-ou-dux-creatina.webp",
-            "alt": "Creatina Mais Mu limonada 210 g, sem sabor 200 g, refil melancia 500 g e refil sem sabor 500 g",
-            "caption": "Quatro creatinas da Mais Mu: dois potes e dois refis. Imagem: Mais Mu.",
-            "objectFit": "contain",
-            "href": "https://www.lojamaismu.com.br/produtos/creatina-refil-sem-sabor-500g/",
-            "aspectRatio": 1.7778
-          }
+          "A Mais Mu vende creatina monohidratada em pote e em refil, sem sabor e com sabor. O que o rótulo diz, o que a loja responde sobre Creapure e laudo, como tomar e o preço por dose de cada embalagem estão em [creatina Mais Mu é pura? Creapure, rótulo e preço por dose](/reviews/creatina-mais-mu-e-pura)."
         ]
       },
       {
@@ -200847,6 +200805,9 @@ export const reviewsData: unknown[] = [
       },
       {
         "slug": "barra-de-proteina-mais-mu-qual-escolher"
+      },
+      {
+        "slug": "creatina-mais-mu-e-pura"
       }
     ]
   },
@@ -325498,5 +325459,241 @@ export const reviewsData: unknown[] = [
       }
     ],
     "updatedAt": "2026-11-23"
+  },
+  {
+    "id": 1310,
+    "slug": "creatina-mais-mu-e-pura",
+    "title": "Creatina Mais Mu é pura? Creapure, rótulo e preço por dose",
+    "seoTitle": "Creatina Mais Mu é pura? Rótulo, Creapure e preço",
+    "type": "Guia de Produto",
+    "category": "guias-praticos-utilidade",
+    "reviewKind": "guia",
+    "author": {
+      "name": "Cecília Mauad",
+      "slug": "cecilia-mauad",
+      "role": "Em Casa com Cecília",
+      "initials": "CM",
+      "url": "/sobre"
+    },
+    "metaDescription": "MMEMCASACOMCECILIA dá 10% OFF na Mais Mu. Creatina sem sabor: o rótulo lista só creatina monohidratada, e a loja diz que não usa Creapure.",
+    "description": "Creatina Mais Mu pelo rótulo: o que o nome 100% Pura cobre, o que a loja diz sobre Creapure e laudo, como tomar e quanto custa a dose em pote e refil, com o cupom.",
+    "publishedAt": "23 de novembro de 2026",
+    "publishedAtISO": "2026-11-23",
+    "updatedAt": "2026-11-23",
+    "draft": false,
+    "isNew": true,
+    "image": "/images/reviews/mais-mu/creatina-mais-mu-e-pura-capa.webp",
+    "imageAlt": "Pouch de creatina monohidratada Mais Mu sem sabor, de 500 g, azul, sobre fundo branco.",
+    "imageFit": "contain",
+    "imageAspect": "landscape",
+    "contentSections": [
+      {
+        "heading": "Resposta rápida",
+        "paragraphs": [
+          "Pelo rótulo, a creatina sem sabor da Mais Mu é só creatina monohidratada, em dose de 3 g, e as de sabor somam acidulante, aroma e estévia. A loja diz que não usa a Creapure e que tem laudo de pureza, que a página não publica. O código MMEMCASACOMCECILIA dá 10% OFF no site oficial."
+        ]
+      },
+      {
+        "heading": "Creatina Mais Mu é pura? O que o nome e o rótulo dizem",
+        "paragraphs": [
+          "A linha se chama Creatina 100% Pura Mais Mu Performance, em todos os sabores. O nome é da marca e não é uma medida de pureza de lote. O que a página permite conferir é a lista de ingredientes: no sem sabor, só creatina monohidratada. Nos sabores, a loja informa o que vem junto da creatina."
+        ],
+        "comparisonTable": {
+          "headers": [
+            "Produto",
+            "Ingredientes (a loja informa)"
+          ],
+          "rows": [
+            [
+              "[Sem Sabor, pote de 200 g](https://www.lojamaismu.com.br/produtos/creatina-sem-sabor-200g/)",
+              "creatina monohidratada"
+            ],
+            [
+              "[Limonada, pote de 210 g](https://www.lojamaismu.com.br/produtos/creatina-limonada-210g/)",
+              "creatina monohidratada; ácido cítrico; aroma idêntico ao natural; estévia"
+            ],
+            [
+              "Tropical, pote de 210 g",
+              "creatina monohidratada; aromatizante sintético idêntico ao natural; curcumina e extrato de urucum; ácido cítrico; estévia"
+            ],
+            [
+              "Melancia, pote de 210 g",
+              "creatina monohidratada; ácido cítrico; aroma idêntico ao natural; beterraba; estévia"
+            ],
+            [
+              "Manga, pote de 210 g",
+              "creatina monohidratada; aromatizante sintético idêntico ao natural; curcumina e extrato de urucum; ácido cítrico; estévia"
+            ],
+            [
+              "[Refil Sem Sabor, 500 g](https://www.lojamaismu.com.br/produtos/creatina-refil-sem-sabor-500g/)",
+              "só creatina monohidratada"
+            ],
+            [
+              "[Refil Melancia, 500 g](https://www.lojamaismu.com.br/produtos/creatina-performance-refil-melancia-500g/)",
+              "creatina, acidulante, aroma, corante de beterraba e estévia"
+            ]
+          ],
+          "caption": "Ingredientes como a loja informa em cada página."
+        },
+        "postParagraphs": [
+          "Quem quer só creatina escolhe o sem sabor, porque nos de sabor o ácido cítrico, o aroma e a estévia entram na lista. A cor do Tropical e do Manga vem de curcumina e extrato de urucum, e a da Melancia, de beterraba.",
+          "Os alergênicos são os mesmos nos de sabor e no sem sabor: a página diz que pode conter amendoim, avelãs, castanha-de-caju, nozes, leite, soja e ovos, e que não contém glúten."
+        ],
+        "images": [
+          {
+            "src": "/images/reviews/mais-mu/mais-mu-ou-dux-creatina.webp",
+            "alt": "Creatina Mais Mu limonada 210 g, sem sabor 200 g, refil melancia 500 g e refil sem sabor 500 g",
+            "caption": "As quatro embalagens da creatina Mais Mu: dois potes e dois refis. Imagem: Mais Mu.",
+            "objectFit": "contain",
+            "href": "https://www.lojamaismu.com.br/produtos/creatina-refil-sem-sabor-500g/",
+            "aspectRatio": 1.7778
+          }
+        ]
+      },
+      {
+        "heading": "Tem selo Creapure? O que a loja diz",
+        "paragraphs": [
+          "A descrição e o rótulo não citam Creapure. Nas perguntas e respostas da página, a loja diz que a creatina que usa não é a Creapure e que tem o laudo de análise de pureza da creatina. Esse laudo não está publicado na página, e a ficha também não declara quem fabrica.",
+          "Quem quer o selo Creapure declarado por outra marca compara no [Mais Mu ou Dux](/reviews/mais-mu-ou-dux) e no [Mais Mu ou Growth](/reviews/mais-mu-ou-growth), que já fazem essa conta por grama de creatina."
+        ]
+      },
+      {
+        "heading": "Como tomar: o que a ficha diz",
+        "paragraphs": [
+          "O modo de uso da ficha é uma vez por dia, todos os dias, ou conforme a orientação de um profissional. A página fala em período de saturação e em manutenção, mas não dá dose de saturação, e este artigo também não dá. No FAQ da loja, a resposta sobre como consumir é que o ideal é tomar todos os dias, misturada em água, suco ou no que a pessoa quiser.",
+          "A dose do rótulo do sem sabor é de 3 g, uma medida padrão. Nos de sabor, a porção é de 3,5 g, com 3 g de creatina. Quanto tomar e por quanto tempo é conversa com médico ou nutricionista, sobretudo para quem tem condição de saúde ou usa medicamento."
+        ]
+      },
+      {
+        "heading": "Qualidade: o que dá para checar sem laudo",
+        "paragraphs": [
+          "Sem o laudo publicado, o que dá para conferir sozinho está no rótulo e na página: a lista de ingredientes, o aviso de alergênicos, a dose e o número de doses. O que o leitor não confere é a pureza de um lote, e quem precisa desse dado pede o laudo e o número do lote à loja, pelo e-mail de contato do rodapé do site.",
+          "Na conferência dos números, o pote sem sabor tem três versões na mesma página: a frente da embalagem diz 200 g e 66 doses, a tabela diz porção de 3 g e cerca de 67 porções, e o texto da descrição diz 210 g e 60 doses. A conta deste artigo usa o peso de 200 g e as 66 doses da frente da embalagem."
+        ]
+      },
+      {
+        "heading": "Quanto custa a dose: pote, refil e sabor",
+        "paragraphs": [
+          "Preço de lista do site, com a conta por dose de 3 g de creatina. Em campanha, a loja baixa o preço, e vale conferir o valor no carrinho. As quatro creatinas de sabor do pote custam o mesmo e trazem 60 doses de 3,5 g; o refil sem sabor traz 167 doses, como a embalagem declara, e o de melancia, 143."
+        ],
+        "comparisonTable": {
+          "headers": [
+            "Produto",
+            "Doses",
+            "Preço de lista",
+            "Por dose",
+            "Por dose com cupom e Pix"
+          ],
+          "rows": [
+            [
+              "[Sem Sabor, pote de 200 g](https://www.lojamaismu.com.br/produtos/creatina-sem-sabor-200g/)",
+              "66",
+              "R$ 89,99",
+              "R$ 1,36",
+              "R$ 1,19"
+            ],
+            [
+              "[Limonada, pote de 210 g](https://www.lojamaismu.com.br/produtos/creatina-limonada-210g/)",
+              "60",
+              "R$ 89,99",
+              "R$ 1,50",
+              "R$ 1,31"
+            ],
+            [
+              "[Refil Sem Sabor, 500 g](https://www.lojamaismu.com.br/produtos/creatina-refil-sem-sabor-500g/)",
+              "167",
+              "R$ 119,90",
+              "R$ 0,72",
+              "R$ 0,63"
+            ],
+            [
+              "[Refil Melancia, 500 g](https://www.lojamaismu.com.br/produtos/creatina-performance-refil-melancia-500g/)",
+              "143",
+              "R$ 119,90",
+              "R$ 0,84",
+              "R$ 0,73"
+            ]
+          ],
+          "caption": "Preço de lista na loja em 23/11; em campanha, o carrinho mostra menos. Sem frete. Por dose = preço ÷ doses; com cupom e Pix = preço de lista × 0,873 (10% do cupom e 3% do Pix). Contas nossas."
+        },
+        "postParagraphs": [
+          "Conta nossa, sobre o preço de lista: no Pix, sem o cupom, o pote de 200 g sai a R$ 87,29 e o refil de 500 g, a R$ 116,30. Só com o cupom, o pote fica em R$ 80,99 e o refil, em R$ 107,91.",
+          "Com uma dose por dia, como na conta, o refil de 500 g dura cerca de cinco meses e meio e o pote de 200 g, cerca de dois meses. A armadilha está em levar o pote de sabor para o uso diário: a dose sai a mais que o dobro da do refil sem sabor, e o sabor traz acidulante, aroma e estévia.",
+          "No carrinho, toque em Iniciar compra; no checkout, digite MMEMCASACOMCECILIA em Adicionar cupom de desconto e confira a linha Desconto do cupom. O passo a passo está em [Cupom Mais Mu: como usar](/reviews/cupom-mais-mu-como-usar)."
+        ]
+      },
+      {
+        "heading": "Qual creatina da Mais Mu vale mais a pena?",
+        "emphasis": "Para quem toma uma dose por dia, o refil sem sabor de 500 g é a escolha que a tabela favorece: a dose sai a R$ 0,72 no preço de lista, menos da metade da do pote de sabor.",
+        "bullets": [
+          "**Uso diário, sem sabor:** o refil sem sabor de 500 g, com 167 doses e só creatina monohidratada na lista.",
+          "**Quer sabor e não toma todo dia:** o pote de sabor, a R$ 1,50 por dose no preço de lista; o refil de melancia, a R$ 0,84 por dose.",
+          "**Quer o selo Creapure declarado:** não é este produto, e a loja diz isso nas perguntas e respostas da página.",
+          "**Quer conhecer antes de levar o refil:** o pote sem sabor de 200 g, com as 66 doses da frente da embalagem."
+        ],
+        "postParagraphs": [
+          "O MMEMCASACOMCECILIA dá 10% OFF em todo o site, em todas as formas de pagamento, e soma com os 3% do Pix. A loja não acumula cupons: o crédito do cashback, programa da própria loja, não soma com o nosso.",
+          "Pelo rótulo, o sem sabor lista só creatina monohidratada; a pureza de cada lote, só o laudo mostra. Dose, horário e objetivo são conversa com médico ou nutricionista."
+        ],
+        "links": [
+          {
+            "label": "Ir para a Mais Mu com o MMEMCASACOMCECILIA",
+            "href": "https://www.lojamaismu.com.br/",
+            "sponsored": true
+          },
+          {
+            "label": "Ver o cupom Mais Mu",
+            "href": "/cupons/mais-mu"
+          }
+        ]
+      },
+      {
+        "heading": "Perguntas frequentes",
+        "bullets": [
+          "Qual é o cupom da Mais Mu? O cupom da Mais Mu da nossa parceria é MMEMCASACOMCECILIA, com 10% OFF no site oficial, em todas as formas de pagamento. Ele soma com os 3% do Pix e não vale no Mercado Livre.",
+          "A creatina da Mais Mu é pura? A linha se chama 100% Pura e a lista do sem sabor traz só creatina monohidratada. A pureza de um lote não se lê na ficha: a loja diz ter laudo, que a página não publica, e quem precisa do dado pede o laudo e o lote à loja.",
+          "A creatina da Mais Mu tem Creapure? Não. A descrição e o rótulo não citam Creapure, e a loja diz nas perguntas e respostas da página que a creatina que usa não é a Creapure.",
+          "Como tomar a creatina da Mais Mu? A ficha diz uma vez por dia, todos os dias, ou conforme a orientação de um profissional, e o FAQ da loja diz que o ideal é tomar todos os dias, misturada em água, suco ou no que a pessoa quiser.",
+          "Quanto tomar de creatina por dia? A dose do rótulo é de 3 g no sem sabor e de 3,5 g, com 3 g de creatina, nos de sabor. A quantidade para cada pessoa é com médico ou nutricionista.",
+          "Qual creatina da Mais Mu custa menos por dose? O refil sem sabor de 500 g. A conta de cada embalagem está no capítulo de preço.",
+          "A creatina da Mais Mu é boa? Pelo rótulo, é creatina monohidratada com dose declarada, sem o selo Creapure e sem laudo publicado. A marca inteira, do whey às barras, está no [guia Mais Mu é boa](/reviews/mais-mu-e-boa)."
+        ]
+      }
+    ],
+    "pros": [],
+    "cons": [],
+    "decision": {
+      "takeIf": [
+        "Você toma creatina todo dia e quer o menor preço por dose: o refil sem sabor de 500 g.",
+        "Você quer conhecer a creatina antes de comprar o refil: o pote sem sabor de 200 g."
+      ],
+      "skipIf": [
+        "Você decide pelo preço por dose: os potes de sabor custam mais que o dobro do refil sem sabor.",
+        "Você exige o selo Creapure ou o laudo publicado: a página não traz nenhum dos dois."
+      ]
+    },
+    "cta": {
+      "label": "Ir para a Mais Mu com o cupom",
+      "text": "Entre no site oficial da Mais Mu, clique em Adicionar cupom de desconto no checkout e cole o MMEMCASACOMCECILIA.",
+      "url": "https://www.lojamaismu.com.br/",
+      "sponsored": true
+    },
+    "coupon": "MMEMCASACOMCECILIA",
+    "affiliate": "mais-mu",
+    "editorialNote": "Ninguém da equipe usou a creatina. Podemos receber comissão pelo cupom.",
+    "relatedArticles": [
+      {
+        "slug": "mais-mu-ou-dux"
+      },
+      {
+        "slug": "mais-mu-ou-growth"
+      },
+      {
+        "slug": "mais-mu-e-boa"
+      },
+      {
+        "slug": "creatina-com-sabor-qual-escolher"
+      }
+    ]
   }
 ];
