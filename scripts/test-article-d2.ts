@@ -534,12 +534,23 @@ const changelog = (variant?: 'd2') => renderToStaticMarkup(createElement(Changel
 assert.ok(!OLD_HEX.test(changelog('d2')), 'ChangelogDetails d2 com cor antiga');
 assert.ok(OLD_HEX.test(changelog()), 'ChangelogDetails padrão (receitas) mudou de cor');
 
-// A capitular não come o primeiro caractere da marcação: com ela, "**Preços:**" virava "*" e "*Preços:**".
+// A capitular é desenhada pelo CSS (::first-letter) e o texto chega inteiro ao HTML: com a letra num elemento à
+// parte, a página dizia "CCom certeza" (a letra em dobro), copiar dava "Éboa" e "**Preços:**" virava "*" e "*Preços:**".
 const dropCap = (text: string) =>
-  renderToStaticMarkup(createElement(DropCapParagraph, { text, variant: 'd2', renderText: (rest: string) => `[${rest}]` }));
-assert.ok(!dropCap('**Preços de hoje:** veja a tabela.').includes('aria-hidden'), 'parágrafo que abre com negrito ganhou capitular');
-assert.ok(dropCap('**Preços de hoje:** veja a tabela.').includes('[**Preços de hoje:** veja a tabela.]'), 'parágrafo que abre com negrito perdeu a marcação');
-assert.ok(dropCap('Hoje no site.').includes('aria-hidden="true"'), 'parágrafo comum sem capitular');
+  renderToStaticMarkup(createElement(DropCapParagraph, { text, variant: 'd2', renderText: (whole: string) => `[${whole}]` }));
+const NBSP = ' ';
+for (const text of ['Hoje no site.', 'É boa, sim.', '**Preços de hoje:** veja a tabela.', '**A** marca é boa.']) {
+  const html = dropCap(text);
+  assert.match(html, /^<p data-dropcap="" class="[^"]*\bfirst-letter:float-start\b[^"]*">/, `${text}: parágrafo sem a capitular`);
+  assert.equal(html.replace(/<[^>]+>/g, '').replaceAll(NBSP, ' '), `[${text}]`, `${text}: o texto do parágrafo não chegou inteiro`);
+  assert.equal(html.match(/<[a-z]/g)?.length, 1, `${text}: a capitular voltou a ser um elemento à parte`);
+}
+// Depois da palavra de uma letra só, o espaço é o fixo: o comum cai no início da linha, some e copiar dava "Éboa".
+assert.ok(dropCap('É boa, sim.').includes(`[É${NBSP}boa, sim.]`), 'palavra de uma letra: o espaço depois da capitular some ao copiar');
+assert.ok(dropCap('**A** marca é boa.').includes(`[**A**${NBSP}marca é boa.]`), 'palavra de uma letra em negrito: o espaço some ao copiar');
+assert.ok(dropCap('A, B e C.').includes(`[A,${NBSP}B e C.]`), 'letra com vírgula: o espaço depois da capitular some ao copiar');
+assert.ok(!dropCap('Hoje no site.').includes(NBSP), 'palavra comum ganhou espaço fixo');
+assert.ok(dropCap('É boa, sim.').includes('first-letter:me-2') && dropCap('Hoje no site.').includes('first-letter:me-3'), 'margem da capitular');
 
 // Link do texto (tabela, parágrafo, FAQ) para loja parceira sai com sponsored; para outro site, só com noopener; o interno, sem rel.
 const inline = renderToStaticMarkup(
