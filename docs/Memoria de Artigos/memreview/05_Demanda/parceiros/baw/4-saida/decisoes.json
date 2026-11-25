@@ -14,13 +14,13 @@
   "op-baw-0012": {
     "decisao": "aprovada: carrinho de teste sem compra na semana de 27/11, que responde a esta linha e à op-baw-0013",
     "data": "2026-11-25",
-    "execucao": "pendente: o carrinho ainda não foi feito; depois dele, a BW6 pela sessão de artigos",
-    "evidencia": "GO do Bruno na sessão de coordenação, 25/11 (\"Sim, aprovar\")"
+    "execucao": "carrinho feito em 25/11 pela coordenação, sem compra e sem login: o código soma com o \"pague 3, leve 4\" (4 camisetas, R$ 213,30 com o código; a peça de graça continua de graça e o código tira 10% das outras), a Pix Night saiu do banner e o site volta a dizer 5% no Pix; falta a BW6 pela sessão de artigos",
+    "evidencia": "carrinho de 25/11, coleta 1-bruto/20261125-1617-navegador-carrinho (FONTE.md); GO do Bruno na sessão de coordenação, 25/11 (\"Sim, aprovar\" e \"Esta sessão faz\")"
   },
   "op-baw-0013": {
     "decisao": "aprovada: carrinho de teste sem compra na semana de 27/11, que responde a esta linha e à op-baw-0012",
     "data": "2026-11-25",
-    "execucao": "pendente: o carrinho ainda não foi feito; depois dele, a /cupons/baw pela sessão de cupons",
-    "evidencia": "GO do Bruno na sessão de coordenação, 25/11 (\"Sim, aprovar\")"
+    "execucao": "carrinho feito em 25/11 pela coordenação, sem compra e sem login: o código vale na Black Week e soma com o \"pague 3, leve 4\"; a faixa do site diz frete grátis a partir de R$ 399 e o mini-carrinho confirma, mas o resumo do carrinho seguiu cobrando o frete até R$ 553 e o pagamento pede login; os R$ 499 não aparecem no site; falta a /cupons/baw pela sessão de cupons",
+    "evidencia": "carrinho de 25/11, coleta 1-bruto/20261125-1617-navegador-carrinho (FONTE.md); GO do Bruno na sessão de coordenação, 25/11 (\"Sim, aprovar\" e \"Esta sessão faz\")"
   }
 }
