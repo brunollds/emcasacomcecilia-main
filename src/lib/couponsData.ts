@@ -770,7 +770,7 @@ const STORE_COUPONS: Coupon[] = [
     hubCategory: 'alimentacao',
     shortDescription: 'produtos Nestlé Nutre, como a linha Nutren, exceto Alfamino, Alfaré e fórmulas infantis de 0 a 12 meses',
     longDescription:
-      'O cupom Nestlé Nutre CECI dá 10% OFF na loja oficial, para quem compra pela primeira vez e para quem já é cliente, e soma com as promoções; não vale em Alfamino, Alfaré nem fórmulas infantis de 0 a 12 meses. Testado na Semana Black Friday: entrou sobre o preço da campanha, com 10% a menos no total.',
+      'O cupom Nestlé Nutre CECI dá 10% OFF na loja oficial, em linhas como a Nutren, para quem compra pela primeira vez e para quem já é cliente, e soma com as promoções; não vale em Alfamino, Alfaré nem fórmulas infantis de 0 a 12 meses. Testado na Semana Black Friday: entrou sobre o preço da campanha, com 10% a menos no total.',
     metaTitle: 'Cupom Nestlé Nutre: 10% OFF com CECI',
     metaTitleMonth: true,
     metaDescription:
