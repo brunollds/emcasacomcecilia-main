@@ -24,7 +24,7 @@ import { IMAGE_REMOTE_PATTERNS } from '@/lib/imageHosts.mjs';
 import { LOCALES, LOCALE_KEYS } from '@/lib/i18n/locales';
 import { getLocaleFaqPage } from '@/lib/localeFaq';
 import { absoluteUrl, getBreadcrumbListJsonLd } from '@/lib/pageSeo';
-import { PRIVACY_META, PRIVACY_SECTIONS, PRIVACY_TRAIL, privacyPlainText, type PrivacyText } from '@/lib/privacyPage';
+import { PRIVACY_LAST_UPDATED, PRIVACY_META, PRIVACY_SECTIONS, PRIVACY_TRAIL, privacyPlainText, type PrivacyText } from '@/lib/privacyPage';
 import { getListedPortugueseReviews } from '@/lib/reviewDiscovery';
 import { SEARCH_COPY, SEARCH_TRAIL, createSearchPage, getSearchQuery, searchSite } from '@/lib/searchPage';
 import { SEARCH_PAGE_METADATA } from '@/lib/siteSearch.mjs';
@@ -391,8 +391,8 @@ for (const pageHtml of [faqHtml, contactHtml]) {
   assert.doesNotMatch(pageHtml.match(/<header[\s\S]*?<\/header>/)?.[0] ?? '', /lg:self-end/, 'cabeçalho sem aside com lg:self-end');
 }
 
-// A privacidade: as 13 seções do texto aprovado, o que a política precisa dizer e nenhum marcador por resolver.
-assert.equal(PRIVACY_SECTIONS.length, 13, 'a política não tem 13 seções');
+// A privacidade: as 14 seções do texto aprovado, o que a política precisa dizer e nenhum marcador por resolver.
+assert.equal(PRIVACY_SECTIONS.length, 14, 'a política não tem 14 seções');
 assert.deepEqual(
   PRIVACY_SECTIONS.map((section) => Number(section.title.match(/^(\d+)\. /)?.[1])),
   PRIVACY_SECTIONS.map((_, index) => index + 1),
@@ -406,6 +406,10 @@ for (const [label, needle] of [
   ['pessoa física', 'Cecília Mauad, pessoa física'],
   ['consentimento', 'consentimento (art. 7º, I)'],
   ['o e-mail de contato', brandLinks.contactEmail],
+  ['a Anthropic no DICA', 'vai à Anthropic'],
+  ['os 90 dias das perguntas do DICA', 'Perguntas ao assistente DICA: 90 dias'],
+  ['o registro do DICA sem IP', 'não inclui IP'],
+  ['a base legal do DICA', 'Assistente DICA: legítimo interesse'],
 ] as const) {
   assert.ok(privacyText.includes(needle), `política sem ${label}`);
 }
@@ -436,7 +440,7 @@ for (const link of externalPrivacyLinks) {
   }
 }
 for (const href of [brandLinks.contactMailto, '/contato']) assert.ok(privacyHtml.includes(`href="${href}"`), `/privacidade sem o link ${href}`);
-assert.ok(privacyPageText.includes('Última atualização: outubro de 2026.'), 'sem a data da última revisão');
+assert.ok(privacyPageText.includes(PRIVACY_LAST_UPDATED), 'sem a data da última revisão');
 assert.ok(privacyPageText.includes('Google Analytics (medição de audiência) — policies.google.com/privacy'), 'o negrito colou no texto');
 
 // A busca: um termo conhecido acha o artigo e a receita com o link e a capa, e um termo sem resultado mostra
