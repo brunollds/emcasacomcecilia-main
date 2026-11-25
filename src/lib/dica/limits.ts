@@ -1,5 +1,8 @@
-// Limites do DICA, em memória por processo. A Hostinger roda de 1 a 4 processos, então o teto real pode ser até 4× o
-// daqui: serve contra abuso. O teto de gasto de verdade é o da conta da Anthropic.
+import { mkdir, readdir, writeFile } from 'node:fs/promises';
+import path from 'node:path';
+
+// Limites do DICA. Os por visitante ficam na memória de cada processo (a Hostinger roda de 1 a 4), contra abuso; o teto
+// diário da IA é um só para todos, num arquivo da DICA_LOG_DIR. O teto de gasto final é o da Workspace da Anthropic.
 
 export type DicaInterpretation = { terms: string[]; searchTerm: string; outOfScope: boolean; viaFallback: boolean };
 
@@ -68,10 +71,35 @@ export function checkVisitor(ip: string, now = Date.now()): { ok: true } | { ok:
 let aiDay = '';
 let aiCount = 0;
 
-// Uma vaga no teto diário de chamadas à IA (DICA_AI_DAILY_LIMIT). Sem vaga, a rota usa a busca local. O teto é por
-// processo e zera ao reiniciar: com 4 processos, o dia pode ter até 4×. O limite de gasto é o da Workspace da Anthropic.
-export function takeAiSlot(now = Date.now()): boolean {
+export const AI_QUOTA_PATTERN = /^ai-quota-(\d{4}-\d{2}-\d{2})$/;
+
+// Uma vaga no teto diário de chamadas à IA (DICA_AI_DAILY_LIMIT). Sem vaga, a rota usa a busca local.
+// Com DICA_LOG_DIR, o teto é um só para todos os processos e sobrevive a reinício e deploy: cada vaga é um arquivo
+// vazio numerado na pasta do dia, criado com "wx", que o sistema só deixa um processo criar. Quem perde a corrida por
+// um número tenta o seguinte, até o teto. Sem a pasta, ou se ela falhar, vale o contador da memória, por processo.
+export async function takeAiSlot(now = Date.now(), dir = process.env.DICA_LOG_DIR): Promise<boolean> {
   const limit = Number(process.env.DICA_AI_DAILY_LIMIT) || DEFAULT_AI_DAILY_LIMIT;
+  if (dir) {
+    try {
+      const dayDir = path.join(dir, `ai-quota-${brasiliaDay(now)}`);
+      await mkdir(dayDir, { recursive: true });
+      for (let slot = (await readdir(dayDir)).length + 1; slot <= limit; slot += 1) {
+        try {
+          await writeFile(path.join(dayDir, String(slot)), '', { flag: 'wx' });
+          return true;
+        } catch (error) {
+          if ((error as NodeJS.ErrnoException).code !== 'EEXIST') throw error;
+        }
+      }
+      return false;
+    } catch {
+      // Cai no contador da memória.
+    }
+  }
+  return takeMemorySlot(now, limit);
+}
+
+function takeMemorySlot(now: number, limit: number): boolean {
   const day = brasiliaDay(now);
   if (day !== aiDay) {
     aiDay = day;

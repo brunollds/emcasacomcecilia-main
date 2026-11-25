@@ -1,7 +1,7 @@
-import { appendFile, mkdir, readdir, unlink } from 'node:fs/promises';
+import { appendFile, mkdir, readdir, rm, unlink } from 'node:fs/promises';
 import path from 'node:path';
 import type { DicaResult } from './dicaTypes';
-import { brasiliaDay } from './limits';
+import { AI_QUOTA_PATTERN, brasiliaDay } from './limits';
 
 // As perguntas guardadas para ver o que o público procura: sem IP, cookie, navegador ou sessão, e sem o que parecer dado
 // pessoal. Um arquivo por dia em DICA_LOG_DIR, 90 dias. Sem a variável, nada é gravado.
@@ -39,6 +39,9 @@ async function removeOldFiles(dir: string, now: Date): Promise<void> {
   for (const name of await readdir(dir)) {
     const day = FILE_PATTERN.exec(name)?.[1];
     if (day && Date.parse(`${day}T23:59:59-03:00`) < limit) await unlink(path.join(dir, name));
+    // O contador da IA só vale no dia dele.
+    const quotaDay = AI_QUOTA_PATTERN.exec(name)?.[1];
+    if (quotaDay && quotaDay < today) await rm(path.join(dir, name), { recursive: true, force: true });
   }
 }
 
