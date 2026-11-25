@@ -1,0 +1,80 @@
+Carrinho de teste da BAW, 25/11/2026, 16:17 a 16:25 (horário de Brasília). Navegador embutido, sem login, sem compra.
+Trechos copiados da saída das ferramentas (get_page_text, read_page e scripts de leitura na página), na ordem da leitura.
+CEP usado no frete: 01001-000 (Praça da Sé, São Paulo), público. Nenhum dado pessoal digitado.
+
+== 1. /blackfriday/ (16:17)
+Contagem: "841 PRODUTOS"
+Imagem de destaque: https://bawclothing.fbitsstatic.net/media/lp_p3l4black.jpg?v=20261125124322 (2880 x 700)
+Texto da imagem: "BLACKWEEK" / "Até 80%OFF" / "PAGUE 3, LEVE 4" / "NO SITE TODO"
+Busca no texto da página: "pix", "15%", "pague 3", "leve 4", "regulamento", "válid" e "até " sem ocorrência; "frete" só no rodapé.
+
+== 2. Ficha da Camiseta BR Regular Flaming BAW (153829)
+Preço: "R$ 79,00" / "R$ 109,00" / "R$ 7,90 de CASHBACK"
+Linhas com pix ou frete: "5% OFF no PIX" / "Baixe e finalize sua compra no BAW APP e ganhe frete grátis em todos dos pedidos. Saiba mais"
+
+== 3. Peças postas no carrinho (todas tamanho M, preço da vitrine e "de")
+CAMISETA BR REGULAR FLAMING BAW BRANCO M      R$ 79,00 (de R$ 109,00)
+CAMISETA BR REGULAR SELFIE LOGO PRETO M       R$ 79,00 (de R$ 99,00)
+CAMISETA BR REGULAR BAW SIGNATURE BRANCO M    R$ 69,00 (de R$ 109,00)
+CAMISETA BR REGULAR SLIME PRETO STONED M      R$ 79,00 (de R$ 119,00)
+
+== 4. /checkout com 3 peças (Signature, Flaming, Selfie)
+Sem código: "SUBTOTAL: R$ 227,00" / "Cupom: -" / "VALOR TOTAL R$ 227,00"
+Aviso que abriu sozinho na página: "Seu kit novo com desconto EXTRA!" / "Ganhe 5% OFF no PIX"
+Frete (CEP 01001-000): "Loggi Envio Nacional R$ 9,76" / "Em até 4 dias úteis"
+Com BAWEMCASACOMCECILIA: "Cupom aplicado" / "Subtotal: R$ 227,00" / "Desconto: -" / "Cupom: -R$ 22,70" / "TOTAL: R$ 204,30"
+
+== 5. /checkout com 4 peças, código aplicado
+Linhas: Signature "R$ 6,90" (de R$ 109,00); Flaming "R$ 79,00"; Selfie "R$ 79,00"; Slime "R$ 79,00"
+"SUBTOTAL: R$ 243,90" / "Cupom: -R$ 30,60" / "VALOR TOTAL R$ 213,30"
+Frete (CEP 01001-000): "Loggi Envio Nacional R$ 10,09" / "Em até 4 dias úteis"
+Mini-carrinho logo depois da 4ª peça (o código já estava aplicado no carrinho desde o item 4): Signature "R$ 6,90"
+
+== 6. /checkout com 5 peças (Flaming x2), código aplicado
+"Subtotal: R$ 322,90" / "Desconto: -R$ 62,10" / "Cupom: -R$ 38,50" / "TOTAL: R$ 284,40"
+
+== 7. /checkout com 6 peças (Flaming x3), código aplicado
+"Subtotal: R$ 401,90" / "Desconto: -R$ 62,10" / "Cupom: -R$ 46,40" / "TOTAL: R$ 355,50"
+Frete recalculado: "Loggi Envio Nacional R$ 11,63"
+
+== 8. /checkout com 6 peças, código retirado ("TROCAR")
+Signature "R$ 0,01" (de R$ 109,00)
+"Subtotal: R$ 395,01" / "Desconto: -R$ 68,99" / "Cupom: -" / "TOTAL: R$ 395,01"
+
+== 9. /checkout com 7 peças (Selfie x2), sem código
+"Subtotal: R$ 474,01" / "Desconto: -R$ 68,99" / "TOTAL: R$ 474,01"
+Frete recalculado: "Loggi Envio Nacional R$ 12,67"
+
+== 10. /checkout com 8 peças (Slime x2), sem código
+Signature "R$ 0,00"; Flaming x3 "R$ 237,00"; Selfie x2 "R$ 158,00"; Slime x2 "R$ 158,00"
+"Subtotal: R$ 553,00" / "Desconto: -R$ 69,00" / "TOTAL: R$ 553,00"
+Frete recalculado: "Loggi Envio Nacional R$ 13,06"
+
+== 11. Home, com as 8 peças no carrinho
+Faixa do topo: "FRETE GRÁTIS A PARTIR DE R$399" / "5% OFF NO PIX" / "PARCELAMENTO EM ATÉ 10X SEM JUROS"
+Mini-carrinho (HTML): "Parabéns! Você ganhou Frete Grátis!", barra <input id="free-shipping" min="0" max="399" value="553.00">, "R$ 553,00 R$ 399 Subtotal"
+
+== 12. Clique errado registrado
+Um clique da sessão para abrir o mini-carrinho acertou o botão de sugestão e pôs no carrinho a
+"CAMISETA REGULAR ATHLETIC LOGO 3.0 PRETO P", R$ 49,00 (de R$ 89,00). Leitura com 9 peças, sem código:
+Signature "R$ 0,00"; Athletic "R$ 49,00"; "SUBTOTAL: R$ 602,00" / "VALOR TOTAL R$ 602,00".
+A peça foi retirada ("Excluir") antes da leitura seguinte.
+
+== 13. /checkout com 8 peças, código aplicado de novo, CEP 01001-000
+Signature "R$ 6,90"; Flaming x3 "R$ 237,00"; Selfie x2 "R$ 86,90" (unitário "R$ 43,45"); Slime x2 "R$ 158,00"
+"Subtotal: R$ 488,80" / "Desconto: -R$ 133,20" / "Cupom: -R$ 62,20" / "TOTAL: R$ 426,60"
+Frete: "Loggi Envio Nacional R$ 13,06"
+
+== 14. /checkout com 8 peças, código retirado de novo
+Signature "R$ 0,00"; Selfie x2 "R$ 158,00"
+"Subtotal: R$ 553,00" / "Desconto: -R$ 69,00" / "TOTAL: R$ 553,00"; frete "Loggi Envio Nacional R$ 13,06"
+
+== 15. Etapa de pagamento
+/checkout/complete levou a /login?returnUrl=...: "Login simplificado" / "Informe um E-mail para prosseguir". A sessão parou aqui.
+
+== 16. Páginas institucionais
+/entrega-e-frete: "O valor do frete e o tempo estimado são calculados automaticamente na finalização da compra, com base no CEP informado." Nenhum valor mínimo de frete grátis no texto.
+/forma-de-pagamento: "PIX: pagamento instantâneo e com aprovação automática." Nenhum desconto do Pix no texto.
+
+== 17. Fim
+Carrinho esvaziado peça por peça ("Produto removido do carrinho"); tela final "CARRINHO DE COMPRAS ESTÁ VAZIO".

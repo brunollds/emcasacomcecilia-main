@@ -30,11 +30,13 @@ Fluxo v2. Plano em `ROTEIRO-PILOTO.md`; perguntas e escopo em `0-orientacao.md`;
 | Revisão, primeira passada | 2026-11-25 01:05 | 2026-11-25 01:15 | 10 | Relógio da máquina |
 | Correção do analista | 2026-11-25 01:15 | 2026-11-25 01:20 | 5 | Mensagem 5 |
 | Revisão, segunda passada | 2026-11-25 01:19 | 2026-11-25 01:23 | 4 | Mensagem 6 |
+| Carrinho de teste (coordenação) | 2026-11-25 16:17 | 2026-11-25 16:25 | 8 | Designação do Bruno ("Esta sessão faz"); sem compra, parou no login do pagamento |
 
 Soma do trabalho das sessões do parceiro até 18/11: 77 minutos (31 + 20 + 6 + 20), sem a coordenação e sem as esperas.
 Soma da rodada inteira, só o trabalho das sessões do parceiro: 150 minutos. São os 77 de 18/11, mais o recorte dirigido
 (12) e o Clarity (5) da noite de 18/11, a releitura (8), a cobertura nova (12), a análise (17), as duas passadas da
-revisão (10 e 4) e a correção (5). Ficam de fora a coordenação, que não foi cronometrada, e as esperas: a do cartão da
+revisão (10 e 4) e a correção (5). O carrinho de 25/11 (8 minutos) foi feito pela coordenação, depois da decisão, e não
+entra nessa soma. Ficam de fora a coordenação, que não foi cronometrada, e as esperas: a do cartão da
 etapa 3 (7h17) e os seis dias entre a última coleta (18/11) e o fechamento de insumos (24/11).
 
 ## Registro
@@ -106,6 +108,18 @@ etapa 3 (7h17) e os seis dias entre a última coleta (18/11) e o fechamento de i
 - **2026-11-25 01:32:** decisão do Bruno ("Sim, aprovar"): o carrinho de teste sem compra na semana de 27/11, que
   responde à `op-baw-0012` (BW6) e à `op-baw-0013` (`/cupons/baw`). Registrado em `4-saida/decisoes.json`, com a
   execução pendente; as outras 31 esperam.
+- **2026-11-25 16:17 a 16:25:** carrinho de teste feito pela coordenação, por designação do Bruno ("Esta sessão
+  faz"), adiantado da semana de 27/11. Sem compra e sem login; a etapa de pagamento pediu e-mail e a sessão parou ali.
+  Coleta `1-bruto/20261125-1617-navegador-carrinho/` (FONTE.md, `leituras.txt`, 16 capturas e o banner). O que saiu:
+  - o BAWEMCASACOMCECILIA soma com o "pague 3, leve 4": com quatro camisetas, R$ 213,30 com o código, a peça de
+    graça continua de graça e o código tira 10% das outras três;
+  - a Pix Night saiu: o banner de 25/11 é "BLACKWEEK / Até 80%OFF / PAGUE 3, LEVE 4 / NO SITE TODO", e o site diz
+    "5% OFF NO PIX"; a base do Pix só se vê no pagamento, com login;
+  - frete grátis: a faixa diz R$ 399 e o mini-carrinho confirma, mas o resumo do carrinho cobrou a Loggi até R$ 553
+    (CEP 01001-000); os R$ 499 não aparecem no site.
+
+  `4-saida/decisoes.json` e `recomendacoes.md` atualizados; faltam a BW6 (sessão de artigos) e a `/cupons/baw` (sessão
+  de cupons), que recebem o resultado pelo Bruno.
 
 ## Fechamento de insumos
 
