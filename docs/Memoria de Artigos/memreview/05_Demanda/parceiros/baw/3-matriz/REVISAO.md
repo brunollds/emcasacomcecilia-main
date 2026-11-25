@@ -240,3 +240,53 @@ Nenhuma linha recomenda de novo uma pauta que já tem briefing ou decisão do Br
 
 Fica para depois da correção do analista, só sobre a diferença, pelo commit novo que a coordenação mandar em mensagem
 numerada.
+
+## 9. Segunda passada (25/11/2026)
+
+Pedida pela mensagem 6 da coordenação. Só sobre a diferença do analista, sem coleta nova.
+
+- **Commit revisado:** `caa17fffe1a4d16497cc44196e3230cf3553fb50`, topo do PR #1445 (`git fetch origin pull/1445/head`),
+  comparado com `5ad2ca03`, o da primeira passada.
+- **Início:** `2026-11-25T01:19-03:00`. **Fim:** `2026-11-25T01:23-03:00`. **Tempo:** cerca de 4 minutos, pelo relógio
+  da máquina.
+
+### 9.1 Gerador, validador e alcance da diferença
+
+```text
+$ node montar-matriz.cjs     -> matriz.csv: 35 linhas (git status vazio: sai igual ao commit)
+$ node validar-matriz.cjs
+matriz.csv: 35 oportunidades, 20 colunas, 1464 referências conferidas
+por ação: criar-artigo 2, melhorar-capitulo 5, atualizar-fatos 1, melhorar-pagina-cupom 1, links-internos 3, video 1, manter 12, nao-criar 6, ideia-registrada 4
+por prioridade: alta 2, media 5, baixa 6, @nao-se-aplica 22
+por confiança: alta 3, media 25, baixa 7
+sem erros
+```
+
+O commit `caa17fffe` toca só `matriz.csv`, `montar-matriz.cjs`, `LEITURA.md` e `relatos/etapa-5.md`. Comparei a matriz
+célula a célula entre `5ad2ca03` e `caa17fffe`: mudaram só as linhas `op-0006` (lacuna, notas), `op-0009` (lacuna,
+justificativa, dependências, notas), `op-0012` (evidências principais, justificativa, notas), `op-0013` (justificativa,
+notas) e `op-0014` (evidências principais, lacuna, justificativa, dependências, notas). Ação, prioridade, confiança e
+estado ficaram iguais em todas; as outras 30 linhas não mudaram em nenhuma célula. As mudanças do `LEITURA.md` (P7,
+seções 3, 4, 5 e 7) falam só dessas cinco linhas.
+
+### 9.2 Evidências novas abertas
+
+| Linha | O que abri | Confere? |
+|---|---|---|
+| `op-0006` | Semente, seção 10 (Pipeline: "Lidos o título, a linha fina e os dois primeiros parágrafos"; o plano de exterior está no trecho e no título) e seção 11; texto da BW3 em `4c639f06` | Sim |
+| `op-0009` | Semente, seções 4 (com a correção do #1444) e 11 (NeoFeed: "só título e linha fina"; FashionUnited: "só o título") | Sim |
+| `op-0012` | `sin-1079` (banner "PAGUE 3, LEVE 4", sem regra), `sin-1087` (Subscript a R$ 79,00, de R$ 159,00), `cob-0025` (BW6, Subscript, preço de 16/11, parcial); `sin-1082`; dossiê, seção 1 (Pix de 5% pela ficha de 16/11, revisar em 16/12) | Sim |
+| `op-0013` | `sin-1082` e o FAQ da `/cupons/baw` em `4c639f06` | Sim |
+| `op-0014` | `cat-0035` (`/combos`, 68 na contagem da página), `pagina-combos.txt` ("68 PRODUTOS", banner `lp_crazy_ultimas_v2`) e o `FONTE.md` da coleta `20261118-1314-navegador-paginas` | Sim |
+
+### 9.3 Veredito final das cinco
+
+| Id | Veredito | O que a correção fez |
+|---|---|---|
+| `op-0006` | pronta | Tirou "planos de exterior" da lista do que a BW3 cita; a lista agora é a que a BW3 traz (recompra e CEO pela Pipeline), e o exterior fica nas notas, só com atribuição ao título |
+| `op-0009` | pronta | A frase do Bom Retiro aparece como não lida, citando as seções 4 e 11 da semente; ler uma reportagem de 2025 entrou nas dependências, e sem leitura o texto não cita loja fechada. "Nenhuma página nossa responde" virou "nenhuma diz onde a loja fica", e a lacuna cita o item da BW3 |
+| `op-0012` | pronta | "Muda a resposta central" virou "só o carrinho diz". Os 15% do Pix como campanha curta estão marcados como leitura do analista, a conferir no carrinho; até lá, o Pix de 5% entra com data e fonte. A alta tem agora o motivo que vale sem carrinho (Subscript de R$ 89,00 no texto contra R$ 79,00 na vitrine, banner datado) |
+| `op-0013` | pronta | "Banner sem regra publicada" no lugar de "regra nova", e a alta dita como condicionada ao carrinho da semana de 27/11: sem ele, a linha não tem ação |
+| `op-0014` | pronta | Cita a leitura da `/combos` de 18/11 e põe nas dependências só o que não foi lido (o banner de topo, as páginas de kit e o carrinho). Tirou "oferta permanente". A resposta curta sem carrinho entrou na lacuna, e a média e a confiança baixa estão justificadas pelo banner não lido |
+
+**Resultado final:** as 35 linhas ficam `pronta`. Nenhuma correção mudou o sentido de uma linha que eu tinha aprovado.
