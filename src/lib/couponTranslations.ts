@@ -4553,15 +4553,15 @@ const STARLINK_TRANSLATIONS: Record<TranslatedLocale, AffiliateOfferTranslation>
       'Il referral funziona solo per chi non è mai stato cliente Starlink e solo per gli ordini fatti su starlink.com tramite il link. Chi ti ha invitato riceve lo stesso importo.',
   },
   ko: {
-    discount: '국가별 추천 보상',
+    discount: '한국 65,000원',
     offerTypeLabel: '추천',
     offerTypeLabelPlural: '추천',
     offerActionLabel: '추천 보상 받기',
     cutoutNote: 'Cecília의 링크로 자동 적용됩니다.',
     category: '위성 인터넷',
-    shortDescription: '신규 고객이라면 Cecília의 링크로 Starlink 공식 추천 프로그램의 보상을 2개월 후 서비스 크레딧으로 받을 수 있습니다. 금액은 국가마다 다릅니다(예: 미국 100달러)',
+    shortDescription: '신규 고객이라면 Cecília의 링크로 Starlink 공식 추천 프로그램의 보상을 2개월 후 서비스 크레딧으로 받을 수 있습니다. 금액은 국가마다 다릅니다(예: 한국 65,000원)',
     longDescription:
-      '신규 고객이라면 Cecília의 링크로 주문해 Starlink 추천 보상을 받으세요. 금액은 가입하는 국가에 따라 다릅니다(예: 미국 100달러). 첫 달 요금을 내고 서비스를 개통한 뒤 2개월 동안 가입을 유지해야 합니다. 보상은 보통 청구서에 서비스 크레딧으로 적용되며, Starlink가 제공하는 지역에서는 현금으로 지급됩니다. 키트 주문 결제 금액을 깎아 주는 할인이 아닙니다. 해당 국가의 금액은 Starlink 계정에 표시됩니다. starlink.com에서 주문한 Residential과 Roam 요금제에 적용되며, 30일 이내에 반품하면 Starlink가 키트와 첫 달 요금을 전액 환불합니다.',
+      '신규 고객이라면 Cecília의 링크로 주문해 Starlink 추천 보상을 받으세요. 금액은 가입하는 국가에 따라 다릅니다(예: 한국 65,000원). 첫 달 요금을 내고 서비스를 개통한 뒤 2개월 동안 가입을 유지해야 합니다. 보상은 보통 청구서에 서비스 크레딧으로 적용되며, Starlink가 제공하는 지역에서는 현금으로 지급됩니다. 키트 주문 결제 금액을 깎아 주는 할인이 아닙니다. 해당 국가의 금액은 Starlink 계정에 표시됩니다. starlink.com에서 주문한 Residential과 Roam 요금제에 적용되며, 30일 이내에 반품하면 Starlink가 키트와 첫 달 요금을 전액 환불합니다.',
     metaTitle: 'Starlink 추천 코드? Cecília의 링크로 보상 받기',
     metaDescription:
       'Starlink 추천: Cecília의 링크로 가입한 신규 고객은 2개월 후 크레딧 또는 현금으로 보상을 받습니다. Residential, Roam 요금제.',
@@ -4588,7 +4588,7 @@ const STARLINK_TRANSLATIONS: Record<TranslatedLocale, AffiliateOfferTranslation>
       {
         question: 'Starlink 추천 보상은 얼마인가요?',
         answer:
-          '가입하는 국가에 따라 다르며, 금액은 Starlink 계정에 표시됩니다. 미국에서는 100달러이며 서비스 크레딧으로, Starlink가 제공하는 지역에서는 현금으로 지급됩니다. 주문 결제 시 키트 가격이 할인되지는 않습니다.',
+          '가입하는 국가에 따라 다르며, 금액은 Starlink 계정에 표시됩니다. 한국에서는 65,000원이며 서비스 크레딧으로, Starlink가 제공하는 지역에서는 현금으로 지급됩니다. 주문 결제 시 키트 가격이 할인되지는 않습니다.',
       },
       {
         question: '추천 보상은 누가 받을 수 있나요?',
@@ -4709,15 +4709,15 @@ const STARLINK_TRANSLATIONS: Record<TranslatedLocale, AffiliateOfferTranslation>
       '紹介が有効なのは、これまで Starlink のお客様だったことがない方が、リンク経由で starlink.com から注文した場合だけです。紹介した人も同じ金額を受け取ります。',
   },
   'zh-hant': {
-    discount: '依國家而定的獎勵',
+    discount: '馬來西亞 RM180',
     offerTypeLabel: '推薦',
     offerTypeLabelPlural: '推薦',
     offerActionLabel: '領取推薦獎勵',
     cutoutNote: '透過 Cecília 的連結自動套用。',
     category: '衛星互聯網',
-    shortDescription: '新客戶透過 Cecília 的連結，可從 Starlink 官方推薦計畫獲得獎勵，使用服務滿兩個月後以服務抵免額發放；金額因國家而異（例如美國為 100 美元）',
+    shortDescription: '新客戶透過 Cecília 的連結，可從 Starlink 官方推薦計畫獲得獎勵，使用服務滿兩個月後以服務抵免額發放；金額因國家而異（例如馬來西亞 RM180）',
     longDescription:
-      '新客戶嗎？透過 Cecília 的推薦連結下單，即可符合 Starlink 推薦獎勵的資格，金額依你註冊所在的國家而定（例如美國為 100 美元）。請支付第一個月費用、啟用服務，並連續訂閱滿兩個月。獎勵通常以服務抵免額的形式套用在帳單上，在 Starlink 提供的地區也可選擇現金；它不會降低訂購套件時的結帳價格。你所在國家的金額會顯示在 Starlink 帳戶中。適用於在 starlink.com 訂購的 Residential 和 Roam 方案，如在 30 天內退貨，Starlink 會全額退還套件和第一個月的費用。',
+      '新客戶嗎？透過 Cecília 的推薦連結下單，即可符合 Starlink 推薦獎勵的資格，金額依你註冊所在的國家而定（例如馬來西亞 RM180）。請支付第一個月費用、啟用服務，並連續訂閱滿兩個月。獎勵通常以服務抵免額的形式套用在帳單上，在 Starlink 提供的地區也可選擇現金；它不會降低訂購套件時的結帳價格。你所在國家的金額會顯示在 Starlink 帳戶中。適用於在 starlink.com 訂購的 Residential 和 Roam 方案，如在 30 天內退貨，Starlink 會全額退還套件和第一個月的費用。',
     metaTitle: 'Starlink 推薦碼？透過 Cecília 的連結領取獎勵',
     metaDescription:
       'Starlink 推薦：透過 Cecília 的連結註冊的新客戶，滿兩個月後可獲得抵免額或現金獎勵。適用於 Residential 和 Roam 方案。',
@@ -4744,7 +4744,7 @@ const STARLINK_TRANSLATIONS: Record<TranslatedLocale, AffiliateOfferTranslation>
       {
         question: 'Starlink 推薦獎勵是多少？',
         answer:
-          '視乎你註冊所在的國家，金額會顯示在你的 Starlink 帳戶中。在美國為 100 美元，以服務抵免額發放，在 Starlink 提供的地區也可選擇現金。它不會降低訂購套件時的結帳價格。',
+          '視乎你註冊所在的國家，金額會顯示在你的 Starlink 帳戶中。在馬來西亞為 RM180，以服務抵免額發放，在 Starlink 提供的地區也可選擇現金。它不會降低訂購套件時的結帳價格。',
       },
       {
         question: '誰可以獲得推薦獎勵？',
@@ -4787,15 +4787,15 @@ const STARLINK_TRANSLATIONS: Record<TranslatedLocale, AffiliateOfferTranslation>
       '推薦僅適用於從未成為 Starlink 客戶的人，且僅限透過連結在 starlink.com 下的訂單。推薦人會獲得相同的金額。',
   },
   'zh-hans': {
-    discount: '因国家而异的奖励',
+    discount: '马来西亚 RM180',
     offerTypeLabel: '推荐',
     offerTypeLabelPlural: '推荐',
     offerActionLabel: '领取推荐奖励',
     cutoutNote: '通过 Cecília 的链接自动应用。',
     category: '卫星互联网',
-    shortDescription: '新客户通过 Cecília 的链接，可从 Starlink 官方推荐计划获得奖励，使用服务满两个月后以服务抵扣额发放；金额因国家而异（例如美国为 100 美元）',
+    shortDescription: '新客户通过 Cecília 的链接，可从 Starlink 官方推荐计划获得奖励，使用服务满两个月后以服务抵扣额发放；金额因国家而异（例如马来西亚 RM180）',
     longDescription:
-      '新客户吗？通过 Cecília 的推荐链接下单，即可符合 Starlink 推荐奖励的资格，金额取决于你注册所在的国家（例如美国为 100 美元）。请支付第一个月费用、开通服务，并连续订阅满两个月。奖励通常以服务抵扣额的形式应用在账单上，在 Starlink 提供的地区也可选择现金；它不会降低订购套件时的结账价格。你所在国家的金额会显示在 Starlink 账户中。适用于在 starlink.com 订购的 Residential 和 Roam 套餐，如在 30 天内退货，Starlink 会全额退还套件和第一个月的费用。',
+      '新客户吗？通过 Cecília 的推荐链接下单，即可符合 Starlink 推荐奖励的资格，金额取决于你注册所在的国家（例如马来西亚 RM180）。请支付第一个月费用、开通服务，并连续订阅满两个月。奖励通常以服务抵扣额的形式应用在账单上，在 Starlink 提供的地区也可选择现金；它不会降低订购套件时的结账价格。你所在国家的金额会显示在 Starlink 账户中。适用于在 starlink.com 订购的 Residential 和 Roam 套餐，如在 30 天内退货，Starlink 会全额退还套件和第一个月的费用。',
     metaTitle: 'Starlink 推荐码？通过 Cecília 的链接领取奖励',
     metaDescription:
       'Starlink 推荐：通过 Cecília 的链接注册的新客户，满两个月后可获得抵扣额或现金奖励。适用于 Residential 和 Roam 套餐。',
@@ -4822,7 +4822,7 @@ const STARLINK_TRANSLATIONS: Record<TranslatedLocale, AffiliateOfferTranslation>
       {
         question: 'Starlink 推荐奖励是多少？',
         answer:
-          '取决于你注册所在的国家，金额会显示在你的 Starlink 账户中。在美国为 100 美元，以服务抵扣额发放，在 Starlink 提供的地区也可选择现金。它不会降低订购套件时的结账价格。',
+          '取决于你注册所在的国家，金额会显示在你的 Starlink 账户中。在马来西亚为 RM180，以服务抵扣额发放，在 Starlink 提供的地区也可选择现金。它不会降低订购套件时的结账价格。',
       },
       {
         question: '谁可以获得推荐奖励？',
@@ -4865,15 +4865,15 @@ const STARLINK_TRANSLATIONS: Record<TranslatedLocale, AffiliateOfferTranslation>
       '推荐仅适用于从未成为 Starlink 客户的人，且仅限通过链接在 starlink.com 下的订单。推荐人会获得相同的金额。',
   },
   ar: {
-    discount: '$100 في الولايات المتحدة · £40 في المملكة المتحدة',
+    discount: 'ر.ق. 160 في قطر · د.إ. 150 في الإمارات',
     offerTypeLabel: 'إحالة',
     offerTypeLabelPlural: 'إحالات',
     offerActionLabel: 'احصل على مكافأة الإحالة',
     cutoutNote: 'تُطبَّق تلقائيًا عبر رابط سيسيليا.',
     category: 'الإنترنت عبر الأقمار الصناعية',
-    shortDescription: 'للعميل الجديد: $100 في الولايات المتحدة أو £40 في المملكة المتحدة من برنامج الإحالة الرسمي في Starlink عبر رابط سيسيليا، على شكل رصيد خدمة بعد شهرين',
+    shortDescription: 'للعميل الجديد: ر.ق. 160 في قطر أو د.إ. 150 في الإمارات من برنامج الإحالة الرسمي في Starlink عبر رابط سيسيليا، على شكل رصيد خدمة بعد شهرين',
     longDescription:
-      'عميل جديد؟ اطلب عبر رابط الإحالة الخاص بسيسيليا لتستحق مكافأة الإحالة من Starlink: $100 في الولايات المتحدة أو £40 في المملكة المتحدة. ادفع الشهر الأول وفعّل خدمتك واستمر في الاشتراك شهرين كاملين. تُضاف المكافأة عادةً كرصيد خدمة على فاتورتك، أو كمبلغ نقدي حيث تتيح Starlink ذلك؛ ولا تخفض سعر الجهاز عند الدفع. في بلدان أخرى يختلف المبلغ ويظهر في حسابك على Starlink. تسري على باقتي Residential وRoam المطلوبتين من starlink.com، وتعيد Starlink كامل ثمن الجهاز والشهر الأول إذا أعدته خلال 30 يومًا.',
+      'عميل جديد؟ اطلب عبر رابط الإحالة الخاص بسيسيليا لتستحق مكافأة الإحالة من Starlink: ر.ق. 160 في قطر، د.إ. 150 في الإمارات، د.أ. 30 في الأردن، ر.ع. 15 في عُمان، د.ب. 15 في البحرين، د.ك. 15 في الكويت. ادفع الشهر الأول وفعّل خدمتك واستمر في الاشتراك شهرين كاملين. تُضاف المكافأة عادةً كرصيد خدمة على فاتورتك، أو كمبلغ نقدي حيث تتيح Starlink ذلك؛ ولا تخفض سعر الجهاز عند الدفع. في العراق واليمن ولبنان والصومال تصدر المكافأة رصيد خدمة فقط: د.ع. 59,000 في العراق، و$45 في اليمن ولبنان، و$35 في الصومال. في بلدان أخرى يختلف المبلغ ويظهر في حسابك على Starlink. تسري على باقتي Residential وRoam المطلوبتين من starlink.com، وتعيد Starlink كامل ثمن الجهاز والشهر الأول إذا أعدته خلال 30 يومًا.',
     metaTitle: 'رمز إحالة Starlink؟ احصل على مكافأتك عبر رابط سيسيليا',
     metaDescription:
       'إحالة Starlink: العملاء الجدد الذين يسجلون عبر رابط سيسيليا يحصلون على مكافأة بعد شهرين، رصيدًا أو نقدًا. باقتا Residential وRoam.',
@@ -4900,7 +4900,7 @@ const STARLINK_TRANSLATIONS: Record<TranslatedLocale, AffiliateOfferTranslation>
       {
         question: 'كم تبلغ مكافأة إحالة Starlink؟',
         answer:
-          'تعتمد على البلد الذي تسجل فيه، ويظهر المبلغ في حسابك على Starlink. وهي $100 في الولايات المتحدة و£40 في المملكة المتحدة، رصيد خدمة أو نقدًا حيث تتيح Starlink ذلك. ولا تخفض سعر الجهاز عند الدفع.',
+          'تعتمد على البلد الذي تسجل فيه، ويظهر المبلغ في حسابك على Starlink. وهي ر.ق. 160 في قطر، د.إ. 150 في الإمارات، د.أ. 30 في الأردن، ر.ع. 15 في عُمان، د.ب. 15 في البحرين، د.ك. 15 في الكويت، رصيد خدمة أو نقدًا حيث تتيح Starlink ذلك. في العراق واليمن ولبنان والصومال تصدر المكافأة رصيد خدمة فقط: د.ع. 59,000 في العراق، و$45 في اليمن ولبنان، و$35 في الصومال. ولا تخفض سعر الجهاز عند الدفع.',
       },
       {
         question: 'من يستحق مكافأة الإحالة؟',
