@@ -89,3 +89,22 @@ Sem quadro `decision`.
 | Passo a passo de cancelamento | A loja informa: | central de ajuda | ler no dia |
 | Multa proporcional; pausar | - | não lido | só com a página |
 | Kit sem fidelidade R$ 229 | - | não confirmado | não escrever |
+
+## Capa v2 nos 11 idiomas (24/11/2026)
+
+- **Capas:** uma por idioma, mesmo enquadramento, chamada e alt próprios de cada idioma (`imageFit: contain`). Fontes e hashes no `MAPA-110-ROTAS-E-ALTS.json`.
+- **Lote 77 do piloto de capas (sequência 26 do Codex, revisão independente do GPT-6.1 Terra, parecer vigente `lotes/77/REVISAO-TERRA.json`):** entregue em `docs/auditoria-capas/ENTREGA-110-HEROES-110-PAGINAS-SEQUENCIA-26-CLAUDE.zip` (`lotes/77/out/`) no checkout principal, no padrão vigente das capas (painel verde à esquerda). As capas anteriores ficam no CDN, sem uso como capa.
+
+| Idioma | Artigo | Capa | Alt |
+| --- | --- | --- | --- |
+| pt | `starlink-fidelidade-como-cancelar` | `/images/reviews/starlink/starlink-fidelidade-como-cancelar-hero-pt-v2.webp` | Pessoa carrega uma antena Starlink Mini ao lado do corpo, em um campo ao pôr do sol. A capa diz “Fidelidade e cancelamento”. |
+| en | `starlink-contract-cancel-refund` | `/images/reviews/starlink/starlink-fidelidade-como-cancelar-hero-en-v2.webp` | A person carries a Starlink Mini dish at their side in a field at sunset. The cover reads “Contract & cancellation”. |
+| es | `starlink-permanencia-cancelar` | `/images/reviews/starlink/starlink-fidelidade-como-cancelar-hero-es-v2.webp` | Una persona lleva a un lado una antena Starlink Mini en un campo al atardecer. La portada dice «Permanencia y cancelación». |
+| fr | `starlink-engagement-resilier` | `/images/reviews/starlink/starlink-fidelidade-como-cancelar-hero-fr-v2.webp` | Une personne porte une antenne Starlink Mini à la main dans un champ au coucher du soleil. La couverture indique « Engagement et résiliation ». |
+| de | `starlink-vertrag-kuendigen` | `/images/reviews/starlink/starlink-fidelidade-como-cancelar-hero-de-v2.webp` | Eine Person trägt bei Sonnenuntergang eine Starlink-Mini-Antenne auf einem Feld. Auf dem Titelbild steht „Vertrag und Kündigung“. |
+| it | `starlink-contratto-disdetta` | `/images/reviews/starlink/starlink-fidelidade-como-cancelar-hero-it-v2.webp` | Una persona porta al fianco un’antenna Starlink Mini in un campo al tramonto. La copertina dice «Contratto e disdetta». |
+| ja | `starlink-cancel-ja` | `/images/reviews/starlink/starlink-fidelidade-como-cancelar-hero-ja-v2.webp` | 日没の草地でStarlink Miniのアンテナを脇に抱えた人。表紙の文字は「契約の縛りと解約方法」です。 |
+| ko | `starlink-cancel-ko` | `/images/reviews/starlink/starlink-fidelidade-como-cancelar-hero-ko-v2.webp` | 해 질 무렵 들판에서 스타링크 미니 안테나를 옆에 들고 있는 사람. 표지에는 ‘약정과 해지’라고 적혀 있습니다. |
+| zh-hans | `starlink-cancel-zh-hans` | `/images/reviews/starlink/starlink-fidelidade-como-cancelar-hero-zh-hans-v2.webp` | 夕阳下，一人站在野外，手边拿着 Starlink Mini 天线。封面写着“合约与取消”。 |
+| zh-hant | `starlink-cancel-zh-hant` | `/images/reviews/starlink/starlink-fidelidade-como-cancelar-hero-zh-hant-v2.webp` | 夕陽下，一人站在野外，手邊拿著 Starlink Mini 天線。封面寫著「合約與解約」。 |
+| ar | `starlink-cancel-ar` | `/images/reviews/starlink/starlink-fidelidade-como-cancelar-hero-ar-v2.webp` | شخص يحمل طبق ستارلينك ميني بجانبه في حقل عند غروب الشمس. عنوان الغلاف «الالتزام وإلغاء الخدمة». |

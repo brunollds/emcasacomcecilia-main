@@ -171,3 +171,22 @@ print do quadro do Reclame Aqui, da releitura.
 - **Tabela das alegações** passa a dizer o alcance de cada evidência.
 - **Reclame Aqui:** saiu a comparação das 14 reclamações com os 100 milhões de downloads (medidas diferentes).
 - **Botão:** anuncia a oferta paga, sem prometer que a página de destino mostra o plano gratuito (não foi conferido).
+
+## Capa v2 nos 11 idiomas (24/11/2026)
+
+- **Capas:** uma por idioma, mesmo enquadramento, chamada e alt próprios de cada idioma (`imageFit: contain`). Fontes e hashes no `MAPA-110-ROTAS-E-ALTS.json`.
+- **Lote 78 do piloto de capas (sequência 26 do Codex, revisão independente do GPT-6.1 Terra, parecer vigente `lotes/78/REVISAO-TERRA.json`):** entregue em `docs/auditoria-capas/ENTREGA-110-HEROES-110-PAGINAS-SEQUENCIA-26-CLAUDE.zip` (`lotes/78/out/`) no checkout principal, no padrão vigente das capas (painel verde à esquerda). As capas anteriores ficam no CDN, sem uso como capa.
+
+| Idioma | Artigo | Capa | Alt |
+| --- | --- | --- | --- |
+| pt | `proton-vpn-e-confiavel` | `/images/reviews/proton/proton-vpn-e-confiavel-hero-pt-v2.webp` | Escudo roxo com símbolo de código e lupa verde, em ilustração da Proton sobre auditoria. A capa pergunta “É confiável?”. |
+| en | `is-proton-vpn-safe` | `/images/reviews/proton/proton-vpn-e-confiavel-hero-en-v2.webp` | A purple shield with a code symbol and a green magnifying glass, in Proton’s audit illustration. The cover asks “Is it safe?”. |
+| es | `proton-vpn-es-confiable` | `/images/reviews/proton/proton-vpn-e-confiavel-hero-es-v2.webp` | Escudo violeta con símbolo de código y lupa verde, en una ilustración de Proton sobre auditoría. La portada pregunta «¿Es seguro?». |
+| fr | `proton-vpn-est-il-fiable` | `/images/reviews/proton/proton-vpn-e-confiavel-hero-fr-v2.webp` | Bouclier violet avec un symbole de code et une loupe verte, dans une illustration de Proton sur l’audit. La couverture demande « Est-ce fiable ? ». |
+| de | `ist-proton-vpn-serioes` | `/images/reviews/proton/proton-vpn-e-confiavel-hero-de-v2.webp` | Violettes Schild mit Codesymbol und grüner Lupe in einer Audit-Illustration von Proton. Auf dem Titelbild steht „Ist der Dienst seriös?“. |
+| it | `proton-vpn-e-affidabile` | `/images/reviews/proton/proton-vpn-e-confiavel-hero-it-v2.webp` | Scudo viola con simbolo del codice e lente verde, in un’illustrazione di Proton sull’audit. La copertina chiede «È affidabile?». |
+| ja | `proton-vpn-trust-ja` | `/images/reviews/proton/proton-vpn-e-confiavel-hero-ja-v2.webp` | コード記号入りの紫の盾と緑の虫眼鏡を描いた、Protonの監査イメージ。表紙の文字は「安全なの？」です。 |
+| ko | `proton-vpn-trust-ko` | `/images/reviews/proton/proton-vpn-e-confiavel-hero-ko-v2.webp` | 코드 기호가 있는 보라색 방패와 초록색 돋보기가 담긴 Proton의 감사 일러스트. 표지에는 ‘안전할까요?’라고 적혀 있습니다. |
+| zh-hans | `proton-vpn-trust-zh-hans` | `/images/reviews/proton/proton-vpn-e-confiavel-hero-zh-hans-v2.webp` | Proton 的审计插图，画面中有带代码符号的紫色盾牌和绿色放大镜。封面提问“安全吗？”。 |
+| zh-hant | `proton-vpn-trust-zh-hant` | `/images/reviews/proton/proton-vpn-e-confiavel-hero-zh-hant-v2.webp` | Proton 的稽核插圖，畫面中有帶程式碼符號的紫色盾牌和綠色放大鏡。封面提問「安全嗎？」。 |
+| ar | `proton-vpn-trust-ar` | `/images/reviews/proton/proton-vpn-e-confiavel-hero-ar-v2.webp` | درع أرجواني يحمل رمزًا برمجيًا وبجانبه عدسة خضراء، في رسم من Proton عن التدقيق. يسأل الغلاف «هل الخدمة آمنة؟». |

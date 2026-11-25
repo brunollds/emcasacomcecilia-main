@@ -142,3 +142,22 @@ coupon: null
   - Substituição da promessa de autonomia em bateria/nobreak ("mais do que o dobro") nos idiomas afetados por redação conservadora apoiada nas fichas (`25–40 W` vs `75–100 W`: *"consome menos e tende a durar mais na mesma bateria"*).
   - Atualização dos botões (`B1`, `B2` e `cta.label`) em todos os 11 idiomas usando o `SL7` como referência, com valor local oficial onde aplicável e a explicação de que o crédito entra na fatura após dois ciclos pagos.
 - **O que fica pendente:** revisão final e GO explícito do Bruno para merge do PR `#1407` e posterior deploy.
+
+## Capa v2 nos 11 idiomas (24/11/2026)
+
+- **Capas:** uma por idioma, mesmo enquadramento, chamada e alt próprios de cada idioma (`imageFit: contain`). Fontes e hashes no `MAPA-110-ROTAS-E-ALTS.json`.
+- **Lote 76 do piloto de capas (sequência 26 do Codex, revisão independente do GPT-6.1 Terra, parecer vigente `lotes/76/REVISAO-TERRA.json`):** entregue em `docs/auditoria-capas/ENTREGA-110-HEROES-110-PAGINAS-SEQUENCIA-26-CLAUDE.zip` (`lotes/76/out/`) no checkout principal, no padrão vigente das capas (painel verde à esquerda). As capas anteriores ficam no CDN, sem uso como capa.
+
+| Idioma | Artigo | Capa | Alt |
+| --- | --- | --- | --- |
+| pt | `starlink-mini-ou-padrao-qual-escolher` | `/images/reviews/starlink/starlink-mini-ou-padrao-qual-escolher-hero-pt-v2.webp` | Antena Starlink Mini à esquerda e antena Padrão com roteador à direita, sobre fundo azul. A capa pergunta “Mini ou Padrão?”. |
+| en | `starlink-mini-vs-standard-which-to-choose` | `/images/reviews/starlink/starlink-mini-ou-padrao-qual-escolher-hero-en-v2.webp` | The Starlink Mini dish on the left and the Standard dish with its router on the right, against a blue background. The cover asks “Mini or Standard?”. |
+| es | `starlink-mini-o-estandar-cual-elegir` | `/images/reviews/starlink/starlink-mini-ou-padrao-qual-escolher-hero-es-v2.webp` | Antena Starlink Mini a la izquierda y antena Estándar con su router a la derecha, sobre fondo azul. La portada pregunta «¿Mini o Estándar?». |
+| fr | `starlink-mini-ou-standard-quel-kit-choisir` | `/images/reviews/starlink/starlink-mini-ou-padrao-qual-escolher-hero-fr-v2.webp` | Antenne Starlink Mini à gauche et antenne Standard avec routeur à droite, sur fond bleu. La couverture demande « Mini ou Standard ? ». |
+| de | `starlink-mini-oder-standard-vergleich` | `/images/reviews/starlink/starlink-mini-ou-padrao-qual-escolher-hero-de-v2.webp` | Starlink Mini links und Standard-Antenne mit Router rechts vor blauem Hintergrund. Auf dem Titelbild steht „Mini oder Standard?“. |
+| it | `starlink-mini-o-standard-quale-scegliere` | `/images/reviews/starlink/starlink-mini-ou-padrao-qual-escolher-hero-it-v2.webp` | Antenna Starlink Mini a sinistra e antenna Standard con router a destra, su sfondo blu. La copertina chiede «Mini o Standard?». |
+| ja | `starlink-mini-or-standard-ja` | `/images/reviews/starlink/starlink-mini-ou-padrao-qual-escolher-hero-ja-v2.webp` | 青い背景の左側にStarlink Mini、右側に標準アンテナとルーター。表紙には「Miniと標準 どちらを選ぶ？」とあります。 |
+| ko | `starlink-mini-or-standard-ko` | `/images/reviews/starlink/starlink-mini-ou-padrao-qual-escolher-hero-ko-v2.webp` | 파란색 배경의 왼쪽에 스타링크 미니, 오른쪽에 스탠다드 안테나와 라우터가 보입니다. 표지에는 ‘Mini와 스탠다드, 무엇을 고를까?’라고 적혀 있습니다. |
+| zh-hans | `starlink-mini-or-standard-zh-hans` | `/images/reviews/starlink/starlink-mini-ou-padrao-qual-escolher-hero-zh-hans-v2.webp` | 蓝色背景左侧是 Starlink Mini 天线，右侧是标准版天线和路由器。封面提问“Mini 还是标准版？”。 |
+| zh-hant | `starlink-mini-or-standard-zh-hant` | `/images/reviews/starlink/starlink-mini-ou-padrao-qual-escolher-hero-zh-hant-v2.webp` | 藍色背景左側是 Starlink Mini 天線，右側是標準版天線與路由器。封面提問「Mini 還是標準版？」。 |
+| ar | `starlink-mini-or-standard-ar` | `/images/reviews/starlink/starlink-mini-ou-padrao-qual-escolher-hero-ar-v2.webp` | طبق ستارلينك ميني على اليسار وطبق ستاندرد مع جهاز التوجيه على اليمين على خلفية زرقاء. يسأل الغلاف «ميني أم ستاندرد؟». |

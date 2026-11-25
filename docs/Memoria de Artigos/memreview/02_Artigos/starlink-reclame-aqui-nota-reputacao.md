@@ -96,3 +96,22 @@ Sem quadro `decision`.
 | Cobrança indevida 15,19% (até 3 anos) | Conta nossa: | perfil, 19/11 | verificado |
 | Perfil "Starlink": Não Recomendada, 0%, site não oficial | Conta nossa: | perfil, 19/11 | verificado; sem link |
 | Reclamação individual | - | fora | não escrever |
+
+## Capa v2 nos 11 idiomas (24/11/2026)
+
+- **Capas:** uma por idioma, mesmo enquadramento, chamada e alt próprios de cada idioma (`imageFit: contain`). Fontes e hashes no `MAPA-110-ROTAS-E-ALTS.json`.
+- **Lote 77 do piloto de capas (sequência 26 do Codex, revisão independente do GPT-6.1 Terra, parecer vigente `lotes/77/REVISAO-TERRA.json`):** entregue em `docs/auditoria-capas/ENTREGA-110-HEROES-110-PAGINAS-SEQUENCIA-26-CLAUDE.zip` (`lotes/77/out/`) no checkout principal, no padrão vigente das capas (painel verde à esquerda). As capas anteriores ficam no CDN, sem uso como capa.
+
+| Idioma | Artigo | Capa | Alt |
+| --- | --- | --- | --- |
+| pt | `starlink-reclame-aqui-nota-reputacao` | `/images/reviews/starlink/starlink-reclame-aqui-nota-reputacao-hero-pt-v2.webp` | Antena Starlink à frente de uma pessoa usando um notebook num acampamento ao anoitecer. A capa diz “Reclame Aqui” e “Nota e queixas”. |
+| en | `starlink-trustpilot-reviews` | `/images/reviews/starlink/starlink-reclame-aqui-nota-reputacao-hero-en-v2.webp` | A Starlink dish in front of a person using a laptop at a campsite at dusk. The cover reads “Trustpilot” and “User reviews”. |
+| es | `starlink-trustpilot-opiniones` | `/images/reviews/starlink/starlink-reclame-aqui-nota-reputacao-hero-es-v2.webp` | Antena Starlink delante de una persona que usa un portátil en un campamento al anochecer. La portada dice «Trustpilot» y «Nota y quejas». |
+| fr | `starlink-trustpilot-avis` | `/images/reviews/starlink/starlink-reclame-aqui-nota-reputacao-hero-fr-v2.webp` | Antenne Starlink devant une personne utilisant un ordinateur portable dans un campement au crépuscule. La couverture indique « Trustpilot » et « Note et avis ». |
+| de | `starlink-trustpilot-bewertungen` | `/images/reviews/starlink/starlink-reclame-aqui-nota-reputacao-hero-de-v2.webp` | Eine Starlink-Antenne vor einer Person, die in der Dämmerung auf einem Campingplatz einen Laptop benutzt. Auf dem Titelbild steht „Trustpilot“ und „Bewertungen“. |
+| it | `starlink-trustpilot-recensioni` | `/images/reviews/starlink/starlink-reclame-aqui-nota-reputacao-hero-it-v2.webp` | Antenna Starlink davanti a una persona che usa un portatile al campeggio, al crepuscolo. In copertina si leggono «Trustpilot» e «Voto e reclami». |
+| ja | `starlink-trustpilot-ja` | `/images/reviews/starlink/starlink-reclame-aqui-nota-reputacao-hero-ja-v2.webp` | 日暮れのキャンプ場でノートパソコンを使う人の手前にStarlinkのアンテナがあります。表紙の文字は「Trustpilot 評価と口コミ」です。 |
+| ko | `starlink-trustpilot-ko` | `/images/reviews/starlink/starlink-reclame-aqui-nota-reputacao-hero-ko-v2.webp` | 해 질 무렵 캠핑장에서 노트북을 사용하는 사람 앞에 스타링크 안테나가 있습니다. 표지에는 ‘Trustpilot’과 ‘평점과 불만’이 적혀 있습니다. |
+| zh-hans | `starlink-trustpilot-zh-hans` | `/images/reviews/starlink/starlink-reclame-aqui-nota-reputacao-hero-zh-hans-v2.webp` | 黄昏的营地里，有人正在使用笔记本电脑，前方放着 Starlink 天线。封面写着“Trustpilot”和“评分和差评”。 |
+| zh-hant | `starlink-trustpilot-zh-hant` | `/images/reviews/starlink/starlink-reclame-aqui-nota-reputacao-hero-zh-hant-v2.webp` | 黃昏的營地裡，有人正在使用筆電，前方放著 Starlink 天線。封面寫著「Trustpilot」和「評分與負評」。 |
+| ar | `starlink-trustpilot-ar` | `/images/reviews/starlink/starlink-reclame-aqui-nota-reputacao-hero-ar-v2.webp` | طبق ستارلينك أمام شخص يستخدم حاسوبًا محمولًا في مخيم عند الغسق. عنوان الغلاف «Trustpilot: التقييم والشكاوى». |

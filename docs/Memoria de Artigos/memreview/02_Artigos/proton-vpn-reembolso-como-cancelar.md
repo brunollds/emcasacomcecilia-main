@@ -162,3 +162,22 @@ condições; se a central de ajuda mostrar, print da tela de assinatura do paine
 - **Renovação:** o ciclo de renovação pode ser diferente do período inicial (a oferta de 24 meses renova a cada 12).
 - **Depois dos 30 dias:** saiu "sem regra a seu favor"; fica a política comercial, sem definir outros direitos. No PT, o CDC entra condicionado à sua aplicação, com o art. 49.
 - **Botão:** dirigido a quem ainda avalia assinar; cancelamento e reembolso seguem pelo canal do guia.
+
+## Capa v2 nos 11 idiomas (24/11/2026)
+
+- **Capas:** uma por idioma, mesmo enquadramento, chamada e alt próprios de cada idioma (`imageFit: contain`). Fontes e hashes no `MAPA-110-ROTAS-E-ALTS.json`.
+- **Lote 78 do piloto de capas (sequência 26 do Codex, revisão independente do GPT-6.1 Terra, parecer vigente `lotes/78/REVISAO-TERRA.json`):** entregue em `docs/auditoria-capas/ENTREGA-110-HEROES-110-PAGINAS-SEQUENCIA-26-CLAUDE.zip` (`lotes/78/out/`) no checkout principal, no padrão vigente das capas (painel verde à esquerda). As capas anteriores ficam no CDN, sem uso como capa.
+
+| Idioma | Artigo | Capa | Alt |
+| --- | --- | --- | --- |
+| pt | `proton-vpn-reembolso-como-cancelar` | `/images/reviews/proton/proton-vpn-reembolso-como-cancelar-hero-pt-v2.webp` | Recorte do guia oficial da Proton na seção “Cancel subscription”, com o botão “Continue” destacado. A capa diz “Cancelar e pedir reembolso”. |
+| en | `proton-vpn-refund-how-to-cancel` | `/images/reviews/proton/proton-vpn-reembolso-como-cancelar-hero-en-v2.webp` | An image from Proton’s official guide showing “Cancel subscription” and the highlighted “Continue” button. The cover reads “Cancellation and refunds”. |
+| es | `proton-vpn-reembolso-cancelar-suscripcion` | `/images/reviews/proton/proton-vpn-reembolso-como-cancelar-hero-es-v2.webp` | Recorte de la guía oficial de Proton con la sección «Cancel subscription» y el botón «Continue» resaltado. La portada dice «Cancelar y pedir reembolso». |
+| fr | `proton-vpn-remboursement-resilier` | `/images/reviews/proton/proton-vpn-reembolso-como-cancelar-hero-fr-v2.webp` | Extrait du guide officiel de Proton montrant « Cancel subscription » et le bouton « Continue » mis en évidence. La couverture indique « Résiliation » et « Remboursement ». |
+| de | `proton-vpn-kuendigen-rueckerstattung` | `/images/reviews/proton/proton-vpn-reembolso-como-cancelar-hero-de-v2.webp` | Ausschnitt aus der offiziellen Proton-Anleitung mit „Cancel subscription“ und der markierten Schaltfläche „Continue“. Auf dem Titelbild steht „Kündigung & Erstattung“. |
+| it | `proton-vpn-rimborso-come-disdire` | `/images/reviews/proton/proton-vpn-reembolso-como-cancelar-hero-it-v2.webp` | Ritaglio della guida ufficiale di Proton con la sezione «Cancel subscription» e il tasto «Continue» evidenziato. La copertina dice «Disdetta e rimborso». |
+| ja | `proton-vpn-refund-ja` | `/images/reviews/proton/proton-vpn-reembolso-como-cancelar-hero-ja-v2.webp` | Proton公式ガイドの「Cancel subscription」欄。続行する「Continue」ボタンが強調されています。表紙の文字は「解約と返金」です。 |
+| ko | `proton-vpn-refund-ko` | `/images/reviews/proton/proton-vpn-reembolso-como-cancelar-hero-ko-v2.webp` | Proton 공식 가이드의 ‘Cancel subscription’ 영역에서 ‘Continue’ 버튼이 강조돼 있습니다. 표지 문구는 ‘해지와 환불’입니다. |
+| zh-hans | `proton-vpn-refund-zh-hans` | `/images/reviews/proton/proton-vpn-reembolso-como-cancelar-hero-zh-hans-v2.webp` | Proton 官方指南中“Cancel subscription”区域的截图，其中“Continue”按钮被标出。封面写着“取消订阅，申请退款”。 |
+| zh-hant | `proton-vpn-refund-zh-hant` | `/images/reviews/proton/proton-vpn-reembolso-como-cancelar-hero-zh-hant-v2.webp` | Proton 官方指南中「Cancel subscription」區塊的截圖，其中「Continue」按鈕已標示。封面寫著「取消訂閱、申請退款」。 |
+| ar | `proton-vpn-refund-ar` | `/images/reviews/proton/proton-vpn-reembolso-como-cancelar-hero-ar-v2.webp` | لقطة من دليل Proton الرسمي تعرض قسم «Cancel subscription» وزر «Continue» مميزًا بإطار. عنوان الغلاف «إلغاء الاشتراك وطلب الاسترداد». |

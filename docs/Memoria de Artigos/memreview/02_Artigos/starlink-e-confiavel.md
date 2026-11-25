@@ -98,3 +98,22 @@ Sem quadro `decision`.
 | Perfil "Starlink": Não Recomendada, 0% respondidas, site não oficial | Conta nossa: | Reclame Aqui, 19/11 | verificado; sem link |
 | Revendedores autorizados | A loja informa: | página do rodapé | ler no dia |
 | Chip, cartão, banco, IPTV | - | não lido | só com a página |
+
+## Capa v2 nos 11 idiomas (24/11/2026)
+
+- **Capas:** uma por idioma, mesmo enquadramento, chamada e alt próprios de cada idioma (`imageFit: contain`). Fontes e hashes no `MAPA-110-ROTAS-E-ALTS.json`.
+- **Lote 77 do piloto de capas (sequência 26 do Codex, revisão independente do GPT-6.1 Terra, parecer vigente `lotes/77/REVISAO-TERRA.json`):** entregue em `docs/auditoria-capas/ENTREGA-110-HEROES-110-PAGINAS-SEQUENCIA-26-CLAUDE.zip` (`lotes/77/out/`) no checkout principal, no padrão vigente das capas (painel verde à esquerda). As capas anteriores ficam no CDN, sem uso como capa.
+
+| Idioma | Artigo | Capa | Alt |
+| --- | --- | --- | --- |
+| pt | `starlink-e-confiavel` | `/images/reviews/starlink/starlink-e-confiavel-hero-pt-v2.webp` | Antena Starlink em um poste diante de montanhas. A capa pergunta “É confiável?”. |
+| en | `is-starlink-legit` | `/images/reviews/starlink/starlink-e-confiavel-hero-en-v2.webp` | A Starlink dish mounted on a pole in front of mountains. The cover asks “Is it legit?”. |
+| es | `starlink-es-fiable` | `/images/reviews/starlink/starlink-e-confiavel-hero-es-v2.webp` | Antena Starlink montada en un poste frente a las montañas. La portada pregunta «¿Es fiable?». |
+| fr | `starlink-est-il-fiable` | `/images/reviews/starlink/starlink-e-confiavel-hero-fr-v2.webp` | Antenne Starlink fixée à un mât devant des montagnes. La couverture demande « Est-ce fiable ? ». |
+| de | `ist-starlink-serioes` | `/images/reviews/starlink/starlink-e-confiavel-hero-de-v2.webp` | Eine Starlink-Antenne auf einem Mast vor Bergen. Auf dem Titelbild steht „Ist der Dienst seriös?“. |
+| it | `starlink-e-affidabile` | `/images/reviews/starlink/starlink-e-confiavel-hero-it-v2.webp` | Antenna Starlink montata su un palo davanti alle montagne. La copertina chiede «È affidabile?». |
+| ja | `starlink-trust-ja` | `/images/reviews/starlink/starlink-e-confiavel-hero-ja-v2.webp` | 山を背景にポールに取り付けられたStarlinkのアンテナ。表紙には「信頼できる？」とあります。 |
+| ko | `starlink-trust-ko` | `/images/reviews/starlink/starlink-e-confiavel-hero-ko-v2.webp` | 산을 배경으로 기둥에 설치된 스타링크 안테나. 표지에는 ‘믿을 만한가요?’라고 적혀 있습니다. |
+| zh-hans | `starlink-trust-zh-hans` | `/images/reviews/starlink/starlink-e-confiavel-hero-zh-hans-v2.webp` | 群山前架在立杆上的 Starlink 天线。封面提问“靠谱吗？”。 |
+| zh-hant | `starlink-trust-zh-hant` | `/images/reviews/starlink/starlink-e-confiavel-hero-zh-hant-v2.webp` | 群山前裝在立桿上的 Starlink 天線。封面提問「可靠嗎？」。 |
+| ar | `starlink-trust-ar` | `/images/reviews/starlink/starlink-e-confiavel-hero-ar-v2.webp` | طبق ستارلينك مثبت على عمود وخلفه جبال. يسأل الغلاف «هل الخدمة موثوقة؟». |

@@ -151,3 +151,22 @@ coupon: null
   - Comparação estrutural sem preços de varejo/marketplaces de terceiros, destacando apenas a lista oficial de varejistas autorizados (`8a90222d...`) em cada mercado e as regras de bloqueio/transferência de hardware usado (90/120 dias).
   - Ajuste pós-revisão nos botões (`B1`, `B2` e `cta.label`) em todos os 11 idiomas para reforçar a razão de clique, o valor local onde há referência oficial (`R$ 200` / `45 €`, `US$ 100` / `£40`, `45 €` ES, `7,000円` JP) e que o crédito entra na fatura após dois ciclos mensais pagos (mantendo `Resposta rápida` sem `R$`/`preço` e cifras regionais não oficiais restritas ao corpo/notas com aviso para confirmar no pedido).
 - **O que fica pendente:** revisão final e GO explícito do Bruno para merge do PR `#1407` e posterior deploy (`deploy:prepare` / `deploy:finish`).
+
+## Capa v2 nos 11 idiomas (24/11/2026)
+
+- **Capas:** uma por idioma, mesmo enquadramento, chamada e alt próprios de cada idioma (`imageFit: contain`). Fontes e hashes no `MAPA-110-ROTAS-E-ALTS.json`.
+- **Lote 76 do piloto de capas (sequência 26 do Codex, revisão independente do GPT-6.1 Terra, parecer vigente `lotes/76/REVISAO-TERRA.json`):** entregue em `docs/auditoria-capas/ENTREGA-110-HEROES-110-PAGINAS-SEQUENCIA-26-CLAUDE.zip` (`lotes/76/out/`) no checkout principal, no padrão vigente das capas (painel verde à esquerda). As capas anteriores ficam no CDN, sem uso como capa.
+
+| Idioma | Artigo | Capa | Alt |
+| --- | --- | --- | --- |
+| pt | `starlink-site-oficial-ou-mercado-livre-varejo` | `/images/reviews/starlink/starlink-site-oficial-ou-mercado-livre-varejo-hero-pt-v2.webp` | Antena do kit Starlink Mini com fonte, cabo e peças de montagem sobre fundo escuro. A capa pergunta “Site oficial ou varejo?”. |
+| en | `buy-starlink-official-site-or-retailers` | `/images/reviews/starlink/starlink-site-oficial-ou-mercado-livre-varejo-hero-en-v2.webp` | The Starlink Mini dish, power supply, cable and mounting parts on a dark background. The cover asks “Official site or retailers?”. |
+| es | `comprar-starlink-web-oficial-o-tiendas` | `/images/reviews/starlink/starlink-site-oficial-ou-mercado-livre-varejo-hero-es-v2.webp` | Antena del kit Starlink Mini con fuente de alimentación, cable y piezas de montaje sobre fondo oscuro. La portada pregunta «¿Web oficial o tiendas?». |
+| fr | `acheter-starlink-site-officiel-ou-revendeurs` | `/images/reviews/starlink/starlink-site-oficial-ou-mercado-livre-varejo-hero-fr-v2.webp` | Antenne du kit Starlink Mini, bloc d’alimentation, câble et accessoires de montage sur fond sombre. La couverture demande « Site officiel ou revendeurs ? ». |
+| de | `starlink-offizielle-seite-oder-haendler` | `/images/reviews/starlink/starlink-site-oficial-ou-mercado-livre-varejo-hero-de-v2.webp` | Antenne, Netzteil, Kabel und Montageteile des Starlink Mini Kits vor dunklem Hintergrund. Auf dem Titelbild steht „Offizielle Seite oder Händler?“. |
+| it | `comprare-starlink-sito-ufficiale-o-negozi` | `/images/reviews/starlink/starlink-site-oficial-ou-mercado-livre-varejo-hero-it-v2.webp` | Antenna del kit Starlink Mini con alimentatore, cavo e accessori di montaggio su fondo scuro. La copertina chiede «Sito ufficiale o negozi?». |
+| ja | `starlink-buy-official-or-retail-ja` | `/images/reviews/starlink/starlink-site-oficial-ou-mercado-livre-varejo-hero-ja-v2.webp` | 暗い背景に並べたStarlink Miniのアンテナ、電源、ケーブル、取り付け部品。表紙には「公式サイトか量販店か？」とあります。 |
+| ko | `starlink-buy-official-or-retail-ko` | `/images/reviews/starlink/starlink-site-oficial-ou-mercado-livre-varejo-hero-ko-v2.webp` | 어두운 배경에 놓인 스타링크 미니 안테나, 전원 어댑터, 케이블과 설치 부품. 표지 문구는 ‘공식몰과 판매점 비교’입니다. |
+| zh-hans | `starlink-buy-official-or-retail-zh-hans` | `/images/reviews/starlink/starlink-site-oficial-ou-mercado-livre-varejo-hero-zh-hans-v2.webp` | 深色背景上的 Starlink Mini 天线、电源、线缆和安装配件。封面提问“官网还是零售商？”。 |
+| zh-hant | `starlink-buy-official-or-retail-zh-hant` | `/images/reviews/starlink/starlink-site-oficial-ou-mercado-livre-varejo-hero-zh-hant-v2.webp` | 深色背景上的 Starlink Mini 天線、電源、纜線與安裝配件。封面提問「官網還是零售商？」。 |
+| ar | `starlink-buy-official-or-retail-ar` | `/images/reviews/starlink/starlink-site-oficial-ou-mercado-livre-varejo-hero-ar-v2.webp` | طبق ستارلينك ميني مع وحدة الطاقة والكابل وقطع التثبيت على خلفية داكنة. يسأل الغلاف «الموقع الرسمي أم المتاجر؟». |
