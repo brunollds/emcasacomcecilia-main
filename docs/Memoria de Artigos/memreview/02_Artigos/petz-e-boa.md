@@ -9,9 +9,9 @@ category: "guias-praticos-utilidade"
 reviewKind: "guia"
 type: "Guia de Marca"
 anexo_tipo: "Anexo-E-Boa-Vale-a-Pena"
-status: "pauta-aprovada"
-responsavel: "Job-1"
-proxima_acao: "redacao"
+status: "redigido"
+responsavel: "Job-6"
+proxima_acao: "deploy"
 bloqueado_por: null
 pauta_id: "PZ16"
 score_autoridade: 70
@@ -190,3 +190,9 @@ A análise colada pelo Bruno pede o briefing; os três pontos abaixo foram fecha
 1. **Título (Bruno, 24/11, segundo pedido):** "Petz é boa? Quando vale a pena comprar no site e no app (e como pagar menos)". Papel: vitrine das linhas da Petz e as três formas de economizar (EMCASA no avulso, EMCASA com os 5% do Retire na Loja, e quando a oferta ou a Assinatura vence), com link para os artigos filhos. A primeira versão deste briefing usava "Tudo o que você precisa saber antes de comprar"; o Bruno manteve o H1 da análise.
 2. **seoTitle (Bruno, 24/11):** "Petz é boa? Comprar no site e app vale a pena?", para afastar a leitura de ações (PETZ3 e AUAU3) sem canibalizar `assinatura-petz-ou-cupom`. Registro da conferência: "comprar na petz vale a pena" não aparece no autocompletar, e a busca de "petz é boa" é pela marca da casa. Por isso o capítulo das marcas próprias continua sendo o central, e "marca própria" entra num H2 e no FAQ, já que saiu do seoTitle.
 3. **Preço em Black Friday:** a campanha vai até 30/11. O artigo tem poucos preços (só a tabela das marcas próprias) e usa o preço de tabela, nunca o riscado; se o item só mostrar preço de campanha, fica sem preço e entra na releitura de 01/12 que a Fila já tem para a Petz.
+
+## Redação, revisão e mídia (24/11/2026, Claude)
+
+- **Leituras do navegador feitas:** Selections cão adulto mini/pequeno frango 3 kg (Premium, 23% PB mín., 1º ingrediente farinha de carne e ossos de bovino, tabela R$ 57,99); Selections gatos castrados frango 3 kg (Premium, 36,5% PB mín., 1º ingrediente farinha de vísceras de aves, tabela R$ 74,99); `/nutrifresh` ("alimentação super premium natural": latas úmidas a partir de R$ 23,99, petiscos, alimento para roedores); coleira Petz existe (Waterproof, Pastel, Naked; Waterproof de PVC, fecho de 4 pontos, PP a G, R$ 69,99); garantia "Satisfação 100% Garantida Marca Própria Petz" relida palavra por palavra (rações de pássaros e roedores, úmidos e rações secas Selections e Nutrifresh; não cobre areia nem coleira). Clubz fora, como decidido. Sacola não retestada (teste de 11/11 com menos de 30 dias).
+- **Job 3:** revisor Fable; 8 ajustes aplicados (troca garantida só das rações e úmidos, "A loja informa:" repetido, "biscoitos" e superlativos sem fonte, serviço não testado).
+- **Job 6:** capa `/images/reviews/petz/petz-e-boa-hero-pt-v1.webp` (painel verde, logo Petz, "É boa? Marcas próprias", EMCASA; fotos oficiais da Petz) e 3 fotos do corpo (`petz-e-boa-selections-caes-adultos`, `-selections-gatos-castrados`, `-coleira-waterproof`), aprovadas pelo Bruno em 24/11 e enviadas ao CDN. Trabalho em `docs/auditoria-capas/lote-20261124-pz16/` (checkout principal).
