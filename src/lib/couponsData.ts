@@ -469,7 +469,7 @@ const STORE_COUPONS: Coupon[] = [
       'A Nescafé Dolce Gusto é uma linha de cafés e bebidas em cápsulas da Nestlé, com máquinas e sabores pensados para preparo rápido em casa. A marca combina praticidade com variedade: cafés intensos, bebidas com leite, cappuccinos, chocolates e opções geladas aparecem no catálogo da loja oficial. O cupom CECI entra como benefício para quem acompanha a Cecília e quer economizar em compras na loja oficial. Como em toda parceria comercial, a recomendação deve ser conferida no checkout: o desconto aparece antes da finalização quando a regra da campanha permite.',
     faqs: [
       {
-        question: 'Qual é o cupom da Dolce Gusto?',
+        question: 'Qual é o cupom de desconto da Dolce Gusto?',
         answer:
           'É o CECI, com 10% OFF na loja oficial e no app da Nescafé Dolce Gusto em compras a partir de R$ 100, em todas as formas de pagamento. No carrinho, clique em "Resgatar códigos promocionais", digite CECI em "Código do voucher" e confira a linha do desconto antes de pagar.',
       },
@@ -768,7 +768,7 @@ const STORE_COUPONS: Coupon[] = [
     discountNumber: 10,
     category: 'Nutrição e bem-estar',
     hubCategory: 'alimentacao',
-    shortDescription: 'produtos Nestlé Nutre, exceto Alfamino, Alfaré e fórmulas infantis de 0 a 12 meses',
+    shortDescription: 'produtos Nestlé Nutre, como a linha Nutren, exceto Alfamino, Alfaré e fórmulas infantis de 0 a 12 meses',
     longDescription:
       'O cupom Nestlé Nutre CECI dá 10% OFF na loja oficial, para quem compra pela primeira vez e para quem já é cliente, e soma com as promoções; não vale em Alfamino, Alfaré nem fórmulas infantis de 0 a 12 meses. Testado na Semana Black Friday: entrou sobre o preço da campanha, com 10% a menos no total.',
     metaTitle: 'Cupom Nestlé Nutre: 10% OFF com CECI',
@@ -796,7 +796,7 @@ const STORE_COUPONS: Coupon[] = [
       'A Nestlé Nutre é uma loja oficial da Nestlé voltada a produtos de nutrição e suplementação, com opções para diferentes rotinas e necessidades alimentares. Os produtos disponíveis podem fazer parte do dia a dia de quem busca praticidade na alimentação, sempre conforme as indicações do rótulo e, quando necessário, com orientação de um profissional de saúde. O cupom CECI foi criado para quem acompanha o Em Casa com Cecília e quer economizar na loja oficial, com exceção de Alfamino e Alfaré. A loja também vende fórmulas infantis NAN para bebês de 0 a 12 meses; nesses produtos o cupom não deve ser usado, porque o art. 5º do Decreto 9.579/2018 proíbe cupons e descontos promocionais em fórmulas para lactentes, inclusive na internet. Como em toda parceria comercial, a recomendação é conferir o desconto aplicado no checkout antes de finalizar a compra.',
     faqs: [
       {
-        question: 'Qual é o cupom da Nestlé Nutre?',
+        question: 'Qual é o cupom de desconto da Nestlé Nutre?',
         answer:
           'O cupom da Nestlé Nutre da nossa parceria é o CECI, com 10% OFF na compra única do site oficial, em todas as formas de pagamento, e soma com as promoções da loja. Não vale em Alfamino, Alfaré, fórmulas infantis de 0 a 12 meses, na assinatura nem no Mercado Livre.',
       },
@@ -1562,9 +1562,9 @@ const STORE_COUPONS: Coupon[] = [
       'A Insider é uma marca brasileira de roupas com tecnologia têxtil, que cria peças funcionais e com proposta sustentável: camisetas, underwear, roupas esportivas e acessórios para usar no dia a dia. O cupom EMCASACOMCECILIA é o benefício da parceria para quem acompanha o Em Casa com Cecília e vale nas compras da loja online, com exceção dos lançamentos. Ele não vale nas lojas físicas e não acumula com outro cupom no mesmo pedido. O cupom dá 15% OFF, e o desconto aparece no carrinho quando o código é aceito; a recomendação é conferir o resumo do pedido antes de finalizar.',
     faqs: [
       {
-        question: 'Qual é o cupom da Insider?',
+        question: 'Qual é o cupom de desconto da Insider?',
         answer:
-          'É o EMCASACOMCECILIA, com 15% OFF no site oficial da Insider, sem valor mínimo e em todas as formas de pagamento. Não vale em lançamentos, na loja física, no Mercado Livre nem em pedido pago com saldo de gift card, e a loja aceita um cupom por pedido.',
+          'É o EMCASACOMCECILIA, com 15% OFF no site oficial da Insider Store, sem valor mínimo e em todas as formas de pagamento. Não vale em lançamentos, na loja física, no Mercado Livre nem em pedido pago com saldo de gift card, e a loja aceita um cupom por pedido.',
       },
       {
         question: 'O cupom EMCASACOMCECILIA vale para todos os produtos da Insider?',
