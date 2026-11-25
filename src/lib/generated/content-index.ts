@@ -348723,7 +348723,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Quanto custa com o cupom CECILIA12 e o desconto no Pix",
         "paragraphs": [
-          "No site oficial da DAMIE, o código CECILIA12 aplica 12% de desconto em todas as formas de pagamento e soma com os 10% de abatimento do pagamento via Pix. Aplicados em sequência, os dois descontos reduzem o preço cheio de cartão em 20,8%. O código não acumula com outro cupom nem com giftback promocional de 15%, e só funciona em damie.com.br.",
+          "No site oficial da DAMIE, o código CECILIA12 aplica 12% de desconto em todas as formas de pagamento e soma com os 10% de abatimento do pagamento via Pix. Aplicados em sequência, os dois descontos reduzem o preço cheio de cartão em 20,8%. O código não acumula com outro cupom nem com o giftback, o bônus de 15% da compra que a DAMIE libera como cupom para o pedido seguinte, e só funciona em damie.com.br.",
           "Conta nossa: o teste de carrinho registrado na página do [cupom DAMIE](/cupons/damie) foi com um puff avulso, a última linha da tabela. Na poltrona e no sofá, aplicamos os mesmos dois descontos sobre o preço do site, antes de eventual frete fora da faixa gratuita."
         ],
         "comparisonTable": {
@@ -348833,7 +348833,7 @@ export const reviewsData: unknown[] = [
     "coupon": "EMCASABIOBIO",
     "affiliate": "biobio",
     "type": "Guia de Marca",
-    "title": "BioBio Cosméticos: quando vale a pena comprar os bastões, o protetor e os kits",
+    "title": "BioBio Cosméticos é boa? Bastões, protetor e kits: quando vale a pena comprar",
     "seoTitle": "BioBio Cosméticos é boa? Protetor, bastões e kits",
     "description": "Quando vale a pena comprar na BioBio Cosméticos: skincare em bastão, proteção solar mineral, maquiagem multifuncional e a conta dos kits com o EMCASABIOBIO.",
     "metaDescription": "O código EMCASABIOBIO dá 10% OFF na BioBio Cosméticos em todas as formas de pagamento. Veja quando valem os bastões, o protetor mineral e os kits.",

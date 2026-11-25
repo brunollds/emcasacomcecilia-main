@@ -38,7 +38,7 @@
 *Gates verdes; o deploy é decisão do Bruno.*
 - [ ] [[colaedecora-e-boa]]: Cola e Decora é boa? Móveis montessorianos, decoração infantil e quando vale a pena (só PT, id 1443; CD7, EMCASACOMCECILIA, Cola e Decora; PR #1440, aguardando deploy)
 - [ ] [[damie-e-boa]]: DAMIE é boa? Poltronas, sofás e o que vale o investimento (só PT, id 1444; DM4, CECILIA12, DAMIE; PR #1440, aguardando deploy)
-- [ ] [[biobio-e-boa]]: BioBio Cosméticos: quando vale a pena comprar os bastões, o protetor e os kits (só PT, id 1445; BI8, EMCASABIOBIO, BioBio; PR #1440, aguardando deploy)
+- [ ] [[biobio-e-boa]]: BioBio Cosméticos é boa? Bastões, protetor e kits: quando vale a pena comprar (só PT, id 1445; BI8, EMCASABIOBIO, BioBio; PR #1440, aguardando deploy)
 - [ ] [[nestle-nutre-vale-a-pena]]: Nestlé Nutre: quando vale a pena comprar na loja oficial (só PT, id 1446; NM11, CECI, Nestlé Nutre; PR #1440, aguardando deploy)
 - [ ] [[dolce-gusto-maquinas-qual-escolher]]: reforma DG5 do guia de máquinas Dolce Gusto (só PT, id 219; CECI, Dolce Gusto; PR #1440, aguardando deploy)
 - [ ] [[secar-sem-frizz-prohall]]: Secar sem Frizz Prohall: os itens da linha, a ordem de uso e qual comprar (só PT, id 1408; PH20, Conta 2; gates verdes em 23/11/2026, aguarda o GO do Bruno)
