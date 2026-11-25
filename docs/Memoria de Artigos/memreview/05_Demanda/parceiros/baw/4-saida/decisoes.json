@@ -1,0 +1,14 @@
+{
+  "op-baw-0011": {
+    "decisao": "decidida fora do programa, antes da análise (Bruno, 20/11: série de calçados)",
+    "data": "2026-11-20",
+    "execucao": "concluída: BW7 `tenis-baw-e-bom` no ar desde 21/11 (release c0747380)",
+    "evidencia": "PR #1310; cobertura de 25/11"
+  },
+  "op-baw-0019": {
+    "decisao": "decidida fora do programa, antes da análise (briefing de 23/11)",
+    "data": "2026-11-23",
+    "execucao": "concluída: BW10 `tabela-medidas-baw`, publicada em 23/11; o site respondeu 200 em 25/11 (a data do deploy não foi conferida)",
+    "evidencia": "PR #1397; DIARIO.md, fechamento de insumos"
+  }
+}

@@ -3,8 +3,9 @@
 Analista: sessão da etapa 5, aberta pela coordenação "Pesquisa de pautas" com o `briefs/etapa-5.md` e o adendo de
 25/11/2026. Relato em `relatos/etapa-5.md`.
 
-- **Estado:** todas as linhas em `em-revisao`. O `pronta` é gravado pela coordenação, na integração, a partir do
-  parecer do revisor.
+- **Estado:** as 35 linhas em `pronta` (revisão concluída, não aprovação), gravadas pela coordenação na integração de
+  25/11/2026 a partir do `REVISAO.md`: 30 pela primeira passada (commit `5ad2ca03`) e 5 pela segunda (`caa17fffe`),
+  em `estados-revisao.csv`. A decisão do Bruno fica em `4-saida/decisoes.json`.
 - **Insumos:** fechados no commit `5544b2e1` (a `main` com o fechamento de insumos; os insumos são os mesmos de
   `7ae53114`). A cobertura lê os onze artigos no commit `4c639f06`; `content/` e `src/lib/couponsData.ts` não mudaram
   entre `4c639f06` e `5544b2e1` (`git diff --stat` vazio).

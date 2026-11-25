@@ -37,6 +37,20 @@ const CABECALHO = [
 
 // Cada linha: entidades, intencao, perguntas, sinais, nossos, comercial, cobertura, principais, lacuna, acao,
 // prioridade, justificativa, confianca, dependencias e notas. O estado sai em-revisao (entrega para a revisão).
+// Na integração, a coordenação grava o estado do parecer por id em estados-revisao.csv (arquivo dela), que este gerador
+// lê; id que não existe na matriz faz o script parar. Mudança acrescentada pela coordenação em 25/11/2026 (DIARIO.md).
+const ESTADOS = new Map();
+const arquivoEstados = path.join(AQUI, 'estados-revisao.csv');
+if (fs.existsSync(arquivoEstados)) {
+  const [cab, ...resto] = fs.readFileSync(arquivoEstados, 'utf8').replace(/\r\n/g, '\n').trim().split('\n');
+  if (cab !== 'oportunidade_id,estado_revisao,parecer,commit_revisado') throw new Error('estados-revisao.csv: cabeçalho inesperado');
+  for (const linha of resto) {
+    const [id, estado] = linha.split(',');
+    if (ESTADOS.has(id)) throw new Error(`estados-revisao.csv: ${id} repetido`);
+    ESTADOS.set(id, estado);
+  }
+}
+
 const LINHAS = [
   // ---------- Páginas no ar: /cupons/baw e o cupom ----------
   {
@@ -721,7 +735,7 @@ const linhasCsv = LINHAS.map((l, i) => {
     justificativa_prioridade: l.justificativa,
     confianca: l.confianca,
     dependencias: l.dependencias,
-    estado_revisao: l.estado || 'em-revisao',
+    estado_revisao: ESTADOS.get(id) || l.estado || 'em-revisao',
     notas: l.notas,
   };
   for (const c of CABECALHO) {
@@ -729,6 +743,10 @@ const linhasCsv = LINHAS.map((l, i) => {
   }
   return CABECALHO.map((c) => esc(String(linha[c]))).join(',');
 });
+
+for (const id of ESTADOS.keys()) {
+  if (!/^op-baw-\d{4}$/.test(id) || Number(id.slice(-4)) > LINHAS.length) throw new Error(`estados-revisao.csv: ${id} não existe na matriz`);
+}
 
 fs.writeFileSync(path.join(AQUI, 'matriz.csv'), `${CABECALHO.join(',')}\n${linhasCsv.join('\n')}\n`);
 
