@@ -96,8 +96,19 @@ se mede o tempo gasto.
   loja não dá desconto no Pix.
 - **Percentual dos sites de cupom:** refazer a busca das lojas com o FAQ "Existe cupom <loja> de X%?" e
   acertar o percentual da pergunta; loja em que nenhum site anuncia mais que o nosso perde a pergunta.
-- **Print do carrinho:** o carrinho do teste rende o print novo. Trocar o `cartPrint` só quando o código
-  ou o percentual da imagem deixar de valer; print novo entra pelo fluxo de mídia.
+- **Print do carrinho:** capturar o print em todo reteste. Trocar o `cartPrint` quando o código, o valor, o
+  percentual ou a tela da imagem deixar de valer, ou quando o print no ar tiver mais de 90 dias; print
+  novo entra pelo fluxo de mídia. Print que só mostra onde digitar o código fica enquanto a tela for a
+  mesma.
+- **Só o teste vigente na página (Bruno, 25/11/2026):** ao avançar o `testedAt`, reescrever o `testNote`
+  só com o teste novo e reler toda FAQ e regra da loja que cita data, mês ou valor de teste: atualiza-se o
+  cenário inteiro (data, valores e conclusão), não só a data. Cenário que o teste novo não repetiu
+  (carrinho abaixo do mínimo, pré-venda) sai do texto datado: se virou regra, fica nos campos de regra
+  sem data; o registro com a data e os valores originais vai para o dossiê `01_Parceiros/<Loja>.md` e
+  para o `docs/rodadas/AAAA-MM.md`. O `npm run test:coupon-offer-modes` lista, por loja, toda data ou
+  "teste de <mês>" anterior ao mês do `testedAt` (sem `testedAt`, do `lastVerified`); a lista tem de sair
+  vazia antes do PR da rodada. Data de leitura de política ("lida em") entra na mesma lista: reler a
+  fonte e trocar a data.
 - **Mecânica própria, com roteiro próprio:** SHEIN, Magalu, Lejour, Hostinger, YesStyle, Temu e AliExpress. O
   `validate:yesstyle` confere os nossos dados; não prova que a loja aceitou o código.
 - **Sem login, sem cadastro e sem finalizar compra.** Site que bloqueia robôs (Petz) vai pelo navegador.

@@ -266,6 +266,44 @@ for (const coupon of COUPONS) {
   }
 }
 
+// Depois do reteste, nenhum texto público da loja pode citar data ou mês anterior ao do último teste
+// (Bruno, 25/11/2026): a página mostra só o teste vigente, e o histórico fica no dossiê da loja.
+// Por ora só avisa; vira erro depois da limpeza da rodada de 01/12/2026.
+const MONTHS = ['janeiro', 'fevereiro', 'março', 'abril', 'maio', 'junho', 'julho', 'agosto', 'setembro', 'outubro', 'novembro', 'dezembro'];
+function collectStrings(value: unknown, out: string[] = []): string[] {
+  if (typeof value === 'string') out.push(value);
+  else if (Array.isArray(value)) value.forEach((item) => collectStrings(item, out));
+  else if (value && typeof value === 'object') Object.values(value).forEach((item) => collectStrings(item, out));
+  return out;
+}
+function findStaleTestDates(texts: string[], referenceDay: string): string[] {
+  const reference = referenceDay.slice(0, 7);
+  const year = referenceDay.slice(0, 4);
+  const stale: string[] = [];
+  for (const text of texts) {
+    for (const match of text.matchAll(/(\d{2})\/(\d{2})\/(\d{4})/g)) {
+      if (`${match[3]}-${match[2]}` < reference) stale.push(`${match[0]}: "${text.slice(Math.max(0, match.index - 40), match.index + 30)}"`);
+    }
+    for (const match of text.matchAll(/teste de (janeiro|fevereiro|março|abril|maio|junho|julho|agosto|setembro|outubro|novembro|dezembro)/g)) {
+      const month = String(MONTHS.indexOf(match[1]) + 1).padStart(2, '0');
+      if (`${year}-${month}` < reference) stale.push(`${match[0]}: "${text.slice(Math.max(0, match.index - 40), match.index + 40)}"`);
+    }
+  }
+  return stale;
+}
+assert.equal(findStaleTestDates(['No teste de 14/10/2026, valeu.', 'Em 02/12/2026, valeu.'], '2026-12-02').length, 1);
+assert.equal(findStaleTestDates(['no teste de novembro deu 10%', 'no teste de dezembro deu 10%'], '2026-12-02').length, 1);
+assert.deepEqual(findStaleTestDates(['Em 23/11/2026, valeu.'], '2026-11-23'), []);
+for (const coupon of COUPONS) {
+  if (coupon.status !== 'ativo') continue;
+  const reference = (coupon.offerMode === 'discount-code' ? coupon.testedAt : undefined) ?? coupon.lastVerified;
+  const stale = findStaleTestDates(collectStrings(coupon), reference);
+  if (stale.length) {
+    console.warn(`⚠️ ${coupon.slug}: ${stale.length} data(s) anteriores ao mês de ${reference} no texto da página:`);
+    for (const item of stale) console.warn(`   ${item}`);
+  }
+}
+
 // Hub /cupons: a DAMIE abre os Destaques por ser a maior receita, e a Dolce Gusto vem logo depois.
 const hub = getCouponHubSections();
 assert.deepEqual(
