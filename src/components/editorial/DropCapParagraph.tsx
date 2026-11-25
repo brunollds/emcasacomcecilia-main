@@ -5,11 +5,20 @@ import type { ReactNode } from 'react';
 export interface DropCapParagraphProps {
   text: string;
   className?: string;
-  // Monta o texto depois da capitular (ex.: com os códigos destacados); sem ele, o texto puro.
+  // Monta o texto do parágrafo (ex.: com os códigos destacados); sem ele, o texto puro.
   renderText?: (text: string) => ReactNode;
   // 'd2' (artigos): o texto e a capitular em marinho.
   variant?: 'editorial' | 'd2';
 }
+
+// A capitular é só CSS (::first-letter) e o texto fica inteiro no HTML. Com a letra num elemento à parte, o texto
+// da página dobrava a inicial ("CCom certeza") e o parágrafo que abre com negrito ficava sem capitular.
+const DROP_CAP =
+  'first-letter:float-start first-letter:mt-1 first-letter:text-5xl first-letter:font-bold first-letter:leading-[0.85] md:first-letter:text-6xl lg:first-letter:text-7xl';
+
+// Palavra de uma letra só no começo ("É boa", "A marca"): o espaço logo depois da capitular cai no início da
+// linha, o navegador o descarta e copiar dava "Éboa". O espaço fixo fica, e a margem menor compensa a largura dele.
+const ONE_LETTER_WORD = /^(\p{P}*[\p{L}\p{N}]\p{P}*) /u;
 
 export function DropCapParagraph({
   text,
@@ -20,28 +29,14 @@ export function DropCapParagraph({
   const trimmed = text.trim();
   if (trimmed.length === 0) return <p className={className} />;
 
-  const ink = variant === 'd2' ? { text: 'text-marinho', cap: 'text-marinho' } : { text: 'text-[#24313d]', cap: 'text-[#1a4d2e]' };
+  const ink = variant === 'd2' ? 'text-marinho' : 'text-[#24313d] first-letter:text-[#1a4d2e]';
+  const oneLetterWord = ONE_LETTER_WORD.test(trimmed);
+  const body = oneLetterWord ? trimmed.replace(ONE_LETTER_WORD, '$1 ') : trimmed;
+  const gap = oneLetterWord ? 'first-letter:me-2' : 'first-letter:me-3';
 
-  // Parágrafo que abre com markdown (`**negrito**`, `[link](…)`) fica sem capitular: tirar o primeiro
-  // caractere quebraria a marcação e deixaria o asterisco ou o colchete à vista.
-  if (/^[*[]/.test(trimmed)) {
-    return <p className={`mb-4 font-editorial text-lg leading-8 ${ink.text} last:mb-0 ${className}`}>{renderText ? renderText(trimmed) : trimmed}</p>;
-  }
-
-  const firstLetter = trimmed.charAt(0);
-  const rest = trimmed.slice(1);
-
-  // A letra sai uma vez só, visível: com uma cópia em sr-only e outra aria-hidden, o texto da página (copiar,
-  // snippet do Google, leitura por IA) dobrava a inicial ("CCom certeza").
   return (
-    <p className={`mb-4 font-editorial text-lg leading-8 ${ink.text} last:mb-0 ${className}`}>
-      <span
-        data-dropcap=""
-        className={`float-start me-3 mt-1 font-editorial text-5xl font-bold leading-[0.85] ${ink.cap} md:text-6xl lg:text-7xl`}
-      >
-        {firstLetter}
-      </span>
-      {renderText ? renderText(rest) : rest}
+    <p data-dropcap="" className={`mb-4 font-editorial text-lg leading-8 ${ink} ${DROP_CAP} ${gap} last:mb-0 ${className}`}>
+      {renderText ? renderText(body) : body}
     </p>
   );
 }
