@@ -120,6 +120,15 @@ etapa 3 (7h17) e os seis dias entre a última coleta (18/11) e o fechamento de i
 
   `4-saida/decisoes.json` e `recomendacoes.md` atualizados; faltam a BW6 (sessão de artigos) e a `/cupons/baw` (sessão
   de cupons), que recebem o resultado pelo Bruno.
+- **2026-11-25 16:40:** com o OK do Bruno ("Sim, mandar"), o resultado foi para a sessão de artigos ("Elaborador de
+  Artigos") e para a de cupons ("Adicionar Cupons"), com as regras de sempre e o frete grátis mantido como aviso do site.
+- **2026-11-25 18:15:** execução conferida pela coordenação:
+  - a coleta `20261125-1617-navegador-carrinho` bate num checkout limpo da `main` (`b48d5c7f6`): os 18 arquivos com os
+    bytes e o SHA-256 do `FONTE.md`;
+  - `/cupons/baw` (PR #1467, revisado pela "Redesenho do site", que trocou "sobre o preço da campanha" por "soma com a
+    campanha") e BW6 (PR #1469) no ar: o site mostra os R$ 22,70 e os R$ 213,30 do teste. O print da `/cupons/baw` segue
+    o de 17/11;
+  - `op-baw-0012` e `op-baw-0013` concluídas em `4-saida/decisoes.json`; as outras 31 linhas esperam o Bruno.
 
 ## Fechamento de insumos
 

@@ -59,7 +59,7 @@ O resto não tem prazo. As páginas da BAW têm poucos dias de dado: o export ú
 - **Destino, se aprovada:** Primeiro o carrinho de teste da semana de 27/11 (Bruno ou sessão de cupons, sem compra); depois a sessão de artigos, na BW6
 - **Revisado por:** sessão de revisão independente, 25/11/2026
 - **Decisão do Bruno:** aprovada: carrinho de teste sem compra na semana de 27/11, que responde a esta linha e à op-baw-0013, em 2026-11-25
-- **Execução:** carrinho feito em 25/11 pela coordenação, sem compra e sem login: o código soma com o "pague 3, leve 4" (4 camisetas, R$ 213,30 com o código; a peça de graça continua de graça e o código tira 10% das outras), a Pix Night saiu do banner e o site volta a dizer 5% no Pix; falta a BW6 pela sessão de artigos (carrinho de 25/11, coleta 1-bruto/20261125-1617-navegador-carrinho (FONTE.md); GO do Bruno na sessão de coordenação, 25/11 ("Sim, aprovar" e "Esta sessão faz"))
+- **Execução:** concluída: carrinho de 25/11 feito pela coordenação (sem compra, sem login) e BW6 `black-friday-baw` atualizada pela sessão de artigos com o "pague 3, leve 4" e o teste do código (PR #1469); no ar em 25/11, conferido às 18:15 (carrinho de 25/11, coleta 1-bruto/20261125-1617-navegador-carrinho (FONTE.md); GO do Bruno na sessão de coordenação, 25/11 ("Sim, aprovar", "Esta sessão faz" e "Sim, mandar"); PR #1469)
 
 ### op-baw-0013 · melhorar-pagina-cupom · prioridade alta
 
@@ -76,7 +76,7 @@ O resto não tem prazo. As páginas da BAW têm poucos dias de dado: o export ú
 - **Destino, se aprovada:** O mesmo carrinho da `op-baw-0012`; depois a sessão de cupons
 - **Revisado por:** sessão de revisão independente, 25/11/2026
 - **Decisão do Bruno:** aprovada: carrinho de teste sem compra na semana de 27/11, que responde a esta linha e à op-baw-0012, em 2026-11-25
-- **Execução:** carrinho feito em 25/11 pela coordenação, sem compra e sem login: o código vale na Black Week e soma com o "pague 3, leve 4"; a faixa do site diz frete grátis a partir de R$ 399 e o mini-carrinho confirma, mas o resumo do carrinho seguiu cobrando o frete até R$ 553 e o pagamento pede login; os R$ 499 não aparecem no site; falta a /cupons/baw pela sessão de cupons (carrinho de 25/11, coleta 1-bruto/20261125-1617-navegador-carrinho (FONTE.md); GO do Bruno na sessão de coordenação, 25/11 ("Sim, aprovar" e "Esta sessão faz"))
+- **Execução:** concluída: carrinho de 25/11 feito pela coordenação e /cupons/baw atualizada pela sessão de cupons com o teste de 25/11 e a soma com o "pague 3, leve 4", frete grátis mantido como aviso do site (PR #1467, revisado pela "Redesenho do site"); no ar em 25/11, conferido às 18:15 (carrinho de 25/11, coleta 1-bruto/20261125-1617-navegador-carrinho (FONTE.md); GO do Bruno na sessão de coordenação, 25/11 ("Sim, aprovar", "Esta sessão faz" e "Sim, mandar"); PR #1467)
 
 ### op-baw-0006 · melhorar-capitulo · prioridade media
 
