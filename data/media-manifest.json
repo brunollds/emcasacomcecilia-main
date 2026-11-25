@@ -121471,6 +121471,190 @@
       "verification_status": "verified"
     },
     {
+      "source_path": "public/images/reviews/lamazonie/serum-vitamina-c20-lamazonie-capa.webp",
+      "local_url": "/images/reviews/lamazonie/serum-vitamina-c20-lamazonie-capa.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 79214,
+      "sha256": "e1d2f1f84248b3b91a66633d4693d668a95a2002113e59e685c5b0e92791da92",
+      "width": 1600,
+      "height": 900,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "serum-vitamina-c20-lamazonie-capa.webp",
+      "storage_filename": "serum-vitamina-c20-lamazonie-capa.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/serum-vitamina-c20-lamazonie.json",
+        "src/lib/generated/content-index.ts"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/serum-vitamina-c20-lamazonie.json",
+          "line": 29,
+          "column": 13,
+          "literal": "/images/reviews/lamazonie/serum-vitamina-c20-lamazonie-capa.webp",
+          "authority": "source"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 258216,
+          "column": 15,
+          "literal": "/images/reviews/lamazonie/serum-vitamina-c20-lamazonie-capa.webp",
+          "authority": "generated"
+        }
+      ],
+      "remote_key": "v1/image/e1d2f1f84248b3b91a66633d4693d668a95a2002113e59e685c5b0e92791da92/serum-vitamina-c20-lamazonie-capa.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/e1d2f1f84248b3b91a66633d4693d668a95a2002113e59e685c5b0e92791da92/serum-vitamina-c20-lamazonie-capa.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-11-25T22:07:47.223Z",
+      "verification_etag_or_digest": "e1d2f1f84248b3b91a66633d4693d668a95a2002113e59e685c5b0e92791da92",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/lamazonie/serum-vitamina-c20-lamazonie-checkout-kit-cecilia.webp",
+      "local_url": "/images/reviews/lamazonie/serum-vitamina-c20-lamazonie-checkout-kit-cecilia.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 9070,
+      "sha256": "668d0ddc98c0b07795abfd5fcb66b618f1876725557dc3d784c0eec637a250b0",
+      "width": 400,
+      "height": 360,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "serum-vitamina-c20-lamazonie-checkout-kit-cecilia.webp",
+      "storage_filename": "serum-vitamina-c20-lamazonie-checkout-kit-cecilia.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/serum-vitamina-c20-lamazonie.json",
+        "src/lib/generated/content-index.ts"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/serum-vitamina-c20-lamazonie.json",
+          "line": 205,
+          "column": 19,
+          "literal": "/images/reviews/lamazonie/serum-vitamina-c20-lamazonie-checkout-kit-cecilia.webp",
+          "authority": "source"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 258392,
+          "column": 21,
+          "literal": "/images/reviews/lamazonie/serum-vitamina-c20-lamazonie-checkout-kit-cecilia.webp",
+          "authority": "generated"
+        }
+      ],
+      "remote_key": "v1/image/668d0ddc98c0b07795abfd5fcb66b618f1876725557dc3d784c0eec637a250b0/serum-vitamina-c20-lamazonie-checkout-kit-cecilia.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/668d0ddc98c0b07795abfd5fcb66b618f1876725557dc3d784c0eec637a250b0/serum-vitamina-c20-lamazonie-checkout-kit-cecilia.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-11-25T22:07:47.223Z",
+      "verification_etag_or_digest": "668d0ddc98c0b07795abfd5fcb66b618f1876725557dc3d784c0eec637a250b0",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/lamazonie/serum-vitamina-c20-lamazonie-embalagens.webp",
+      "local_url": "/images/reviews/lamazonie/serum-vitamina-c20-lamazonie-embalagens.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 68812,
+      "sha256": "ed070d8345120ffdf798304cd04cb4eff8a94991fcb7aec2d6e0455bbb39f6fc",
+      "width": 1100,
+      "height": 1072,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "serum-vitamina-c20-lamazonie-embalagens.webp",
+      "storage_filename": "serum-vitamina-c20-lamazonie-embalagens.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/serum-vitamina-c20-lamazonie.json",
+        "src/lib/generated/content-index.ts"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/serum-vitamina-c20-lamazonie.json",
+          "line": 100,
+          "column": 19,
+          "literal": "/images/reviews/lamazonie/serum-vitamina-c20-lamazonie-embalagens.webp",
+          "authority": "source"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 258287,
+          "column": 21,
+          "literal": "/images/reviews/lamazonie/serum-vitamina-c20-lamazonie-embalagens.webp",
+          "authority": "generated"
+        }
+      ],
+      "remote_key": "v1/image/ed070d8345120ffdf798304cd04cb4eff8a94991fcb7aec2d6e0455bbb39f6fc/serum-vitamina-c20-lamazonie-embalagens.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/ed070d8345120ffdf798304cd04cb4eff8a94991fcb7aec2d6e0455bbb39f6fc/serum-vitamina-c20-lamazonie-embalagens.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-11-25T22:07:47.223Z",
+      "verification_etag_or_digest": "ed070d8345120ffdf798304cd04cb4eff8a94991fcb7aec2d6e0455bbb39f6fc",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/lamazonie/serum-vitamina-c20-lamazonie-tubo-30ml.webp",
+      "local_url": "/images/reviews/lamazonie/serum-vitamina-c20-lamazonie-tubo-30ml.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 49200,
+      "sha256": "6616a63f1267bd3c687c91d4b036e403c8c63093970245272d0dcf5a9e476fdb",
+      "width": 649,
+      "height": 1100,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "serum-vitamina-c20-lamazonie-tubo-30ml.webp",
+      "storage_filename": "serum-vitamina-c20-lamazonie-tubo-30ml.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/serum-vitamina-c20-lamazonie.json",
+        "src/lib/generated/content-index.ts"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/serum-vitamina-c20-lamazonie.json",
+          "line": 92,
+          "column": 19,
+          "literal": "/images/reviews/lamazonie/serum-vitamina-c20-lamazonie-tubo-30ml.webp",
+          "authority": "source"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 258279,
+          "column": 21,
+          "literal": "/images/reviews/lamazonie/serum-vitamina-c20-lamazonie-tubo-30ml.webp",
+          "authority": "generated"
+        }
+      ],
+      "remote_key": "v1/image/6616a63f1267bd3c687c91d4b036e403c8c63093970245272d0dcf5a9e476fdb/serum-vitamina-c20-lamazonie-tubo-30ml.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/6616a63f1267bd3c687c91d4b036e403c8c63093970245272d0dcf5a9e476fdb/serum-vitamina-c20-lamazonie-tubo-30ml.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-11-25T22:07:47.223Z",
+      "verification_etag_or_digest": "6616a63f1267bd3c687c91d4b036e403c8c63093970245272d0dcf5a9e476fdb",
+      "verification_status": "verified"
+    },
+    {
       "source_path": "public/images/reviews/lejour/black-friday-lejour-capa-discover.webp",
       "local_url": "/images/reviews/lejour/black-friday-lejour-capa-discover.webp",
       "media_kind": "image",
