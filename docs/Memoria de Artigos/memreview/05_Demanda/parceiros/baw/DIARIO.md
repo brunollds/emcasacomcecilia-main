@@ -129,6 +129,11 @@ etapa 3 (7h17) e os seis dias entre a última coleta (18/11) e o fechamento de i
     campanha") e BW6 (PR #1469) no ar: o site mostra os R$ 22,70 e os R$ 213,30 do teste. O print da `/cupons/baw` segue
     o de 17/11;
   - `op-baw-0012` e `op-baw-0013` concluídas em `4-saida/decisoes.json`; as outras 31 linhas esperam o Bruno.
+- **2026-11-25 20:37:** decisão do Bruno ("Sim, aprovar pacote"), depois de ver as 31 linhas que faltavam: `op-baw-0021`,
+  `op-baw-0022`, `op-baw-0023` e `op-baw-0006` (links para a BW10, a BW7 e a BW11, e o "O que aconteceu com a BAW?" na
+  BW3), numa edição só da sessão de artigos. As outras 27 seguem em espera: 7 com ação dependem de fonte, leitura ou
+  GO; as 4 ideias e as 6 de não criar ficam como estão, e as 10 de manter voltam com o export do Search Console de depois
+  de 30/11.
 
 ## Fechamento de insumos
 
