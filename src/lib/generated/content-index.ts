@@ -91249,7 +91249,7 @@ const reviewsChunk0: unknown[] = [
       {
         "heading": "Resposta rápida",
         "paragraphs": [
-          "Digite PRO10EMCASACOMCECILIA no campo “Cupom de Desconto” do carrinho e clique em “Adicionar”. O [cupom Probiótica](/cupons/probiotica) dá até 10% OFF, com percentual menor em alguns produtos, e vale em todas as formas de pagamento, para conta nova e para quem já comprou. Confira no resumo se o total ainda atinge o mínimo de frete grátis do seu CEP."
+          "Digite PRO10EMCASACOMCECILIA no campo “Cupom de Desconto” do carrinho e clique em “Adicionar”. O [cupom Probiótica](/cupons/probiotica) dá até 10% OFF e vale em todas as formas de pagamento, para conta nova e para quem já comprou. Confira no resumo se o total ainda atinge o mínimo de frete grátis do seu CEP."
         ]
       },
       {
@@ -95024,7 +95024,7 @@ const reviewsChunk0: unknown[] = [
     "id": 432,
     "slug": "cupom-max-titanium-como-usar",
     "title": "Como usar o cupom MAX10EMCASACOMCECILIA na Max Titanium: até 10% OFF",
-    "seoTitle": "Cupom Max Titanium: como usar MAX10EMCASACOMCECILIA",
+    "seoTitle": "Como usar o cupom MAX10EMCASACOMCECILIA na Max Titanium",
     "type": "Guia & Cupons",
     "category": "cupons-como-usar",
     "reviewKind": "guia",
@@ -95072,7 +95072,7 @@ const reviewsChunk0: unknown[] = [
       {
         "heading": "Resposta rápida",
         "paragraphs": [
-          "O [cupom Max Titanium](/cupons/max-titanium) MAX10EMCASACOMCECILIA dá até 10% OFF no site oficial e no app, em todas as formas de pagamento. No carrinho, clique em “Adicionar cupom de desconto”, digite o código no campo “Código” e clique em “Adicionar”. Confira a linha “Descontos” antes de pagar: o percentual varia por produto."
+          "O [cupom Max Titanium](/cupons/max-titanium) MAX10EMCASACOMCECILIA dá até 10% OFF no site oficial e no app, em todas as formas de pagamento. No carrinho, clique em “Adicionar cupom de desconto”, digite o código no campo “Código” e clique em “Adicionar”. Confira a linha “Descontos” antes de pagar."
         ]
       },
       {
@@ -96491,7 +96491,7 @@ const reviewsChunk0: unknown[] = [
       {
         "heading": "Resposta rápida",
         "paragraphs": [
-          "O Max November vai até o fim de novembro, com até 50% OFF e brindes por faixa de pedido. O [cupom Max Titanium](/cupons/max-titanium) MAX10EMCASACOMCECILIA dá até 10% OFF, em todas as formas de pagamento, e soma com as promoções. No carrinho de novembro, o código rendeu 8,9% em cinco itens em oferta e 2% nos demais."
+          "O Max November vai até o fim de novembro, com até 50% OFF e brindes por faixa de pedido. O [cupom Max Titanium](/cupons/max-titanium) MAX10EMCASACOMCECILIA dá até 10% OFF, em todas as formas de pagamento, e soma com as promoções. Nos wheys em oferta, o código rendeu 8,9% no carrinho de novembro."
         ]
       },
       {
@@ -97431,7 +97431,7 @@ const reviewsChunk0: unknown[] = [
       {
         "heading": "Resposta rápida",
         "paragraphs": [
-          "O Novembro PRO da Probiótica segue no ar, sem data de fim, e o [cupom Probiótica](/cupons/probiotica) PRO10EMCASACOMCECILIA dá até 10% OFF por cima do preço de campanha. Nos nossos carrinhos de novembro, tirou 2% na maioria dos produtos e 7% em dois wheys em oferta. O que muda o total é o frete e a faixa dos brindes."
+          "O Novembro PRO da Probiótica segue no ar, sem data de fim, e o [cupom Probiótica](/cupons/probiotica) PRO10EMCASACOMCECILIA dá até 10% OFF por cima do preço de campanha. Nos nossos carrinhos de novembro, tirou 7% em dois wheys em oferta. O que muda o total é o frete e a faixa dos brindes."
         ]
       },
       {
@@ -108886,7 +108886,7 @@ const reviewsChunk0: unknown[] = [
       {
         "heading": "Resposta rápida",
         "paragraphs": [
-          "A Growth sai mais barata no whey concentrado e, no Pix, também no isolado; a Max leva a creatina de 500 g e o hipercalórico. O código MAX10EMCASACOMCECILIA dá até 10% OFF em todas as formas de pagamento, mas no teste de novembro rendeu 2% na maioria dos itens. Veja o [cupom Max Titanium](/cupons/max-titanium)."
+          "A Growth sai mais barata no whey concentrado e, no Pix, também no isolado; a Max leva a creatina de 500 g e o hipercalórico. O [cupom Max Titanium](/cupons/max-titanium) MAX10EMCASACOMCECILIA dá até 10% OFF em todas as formas de pagamento."
         ]
       },
       {
@@ -124412,7 +124412,7 @@ const reviewsChunk0: unknown[] = [
       {
         "heading": "Resposta rápida",
         "paragraphs": [
-          "Pelo preço no cartão, a Max sai mais barata no whey, na creatina e no pré-treino, e a Dux, no multivitamínico. O código MAX10EMCASACOMCECILIA dá até 10% OFF na Max em todas as formas de pagamento, mas rendeu 2% nos wheys e nas creatinas no teste de novembro. Veja o [cupom Max Titanium](/cupons/max-titanium)."
+          "Pelo preço no cartão, a Max sai mais barata no whey, na creatina e no pré-treino, e a Dux, no multivitamínico. O [cupom Max Titanium](/cupons/max-titanium) MAX10EMCASACOMCECILIA dá até 10% OFF em todas as formas de pagamento e soma com as promoções do site."
         ]
       },
       {
@@ -166383,7 +166383,7 @@ const reviewsChunk1: unknown[] = [
       {
         "heading": "Resposta rápida",
         "paragraphs": [
-          "Pelos preços da tabela, o pote de 500 g tem o menor custo por grama e por porção de 5 g. A Creapure de 250 g, a única com selo, custa 4 vezes o valor por grama do pote de 500 g. O [cupom Max Titanium](/cupons/max-titanium) MAX10EMCASACOMCECILIA dá até 10% OFF, e as creatinas receberam 2% em novembro."
+          "Pelos preços da tabela, o pote de 500 g tem o menor custo por grama e por porção de 5 g. A Creapure de 250 g, a única com selo, custa 4 vezes o valor por grama do pote de 500 g. O [cupom Max Titanium](/cupons/max-titanium) MAX10EMCASACOMCECILIA dá até 10% OFF."
         ]
       },
       {
@@ -199073,7 +199073,7 @@ const reviewsChunk1: unknown[] = [
       {
         "heading": "Resposta rápida",
         "paragraphs": [
-          "Com certeza vale para quem procura proteína de soro mais barata por grama no Whey Pro e no 100% Whey Refil, além de opções como Top Whey 3W e creatina. O ponto de atenção é que a Max não vende whey zero lactose. O [cupom Max Titanium](/cupons/max-titanium) MAX10EMCASACOMCECILIA dá até 10% OFF no site, conforme o produto, explicado abaixo."
+          "Com certeza vale para quem procura proteína de soro mais barata por grama no Whey Pro e no 100% Whey Refil, além de opções como Top Whey 3W e creatina. O ponto de atenção é que a Max não vende whey zero lactose. O [cupom Max Titanium](/cupons/max-titanium) MAX10EMCASACOMCECILIA dá até 10% OFF no site."
         ]
       },
       {
@@ -199275,7 +199275,7 @@ const reviewsChunk1: unknown[] = [
       {
         "heading": "Resposta rápida",
         "paragraphs": [
-          "Com certeza vale para quem escolhe pelo rótulo e custo por dose: a Probiótica declara tipo e teor de proteína no 100% Pure Whey, tem linha Zero Lactose e creatina com 5 g por porção. No site oficial, o PRO10EMCASACOMCECILIA dá até 10% OFF em todas as formas de pagamento, variando por item. Veja abaixo o que compensa mais."
+          "Com certeza vale para quem escolhe pelo rótulo e custo por dose: a Probiótica declara tipo e teor de proteína no 100% Pure Whey, tem linha Zero Lactose e creatina com 5 g por porção. No site oficial, o PRO10EMCASACOMCECILIA dá até 10% OFF em todas as formas de pagamento. Veja abaixo o que compensa mais."
         ]
       },
       {
@@ -213287,7 +213287,7 @@ const reviewsChunk1: unknown[] = [
       {
         "heading": "Resposta rápida",
         "paragraphs": [
-          "O 100% Whey Dr. Peanut é o mesmo pote na Dr. Peanut e na Max Titanium, com os mesmos cinco sabores e o mesmo preço. Na Dr. Peanut, o [cupom DREMCASACOMCECILIA](/cupons/dr-peanut) dá 10% OFF e soma com o Pix; na Max, o código dela também funciona, mas o percentual varia por produto."
+          "O 100% Whey Dr. Peanut é o mesmo pote na Dr. Peanut e na Max Titanium, com os mesmos cinco sabores e o mesmo preço. Na Dr. Peanut, o [cupom DREMCASACOMCECILIA](/cupons/dr-peanut) dá 10% OFF e soma com o Pix; na Max, o MAX10EMCASACOMCECILIA dá até 10% OFF."
         ]
       },
       {
@@ -213991,7 +213991,7 @@ const reviewsChunk1: unknown[] = [
       {
         "heading": "Resposta rápida",
         "paragraphs": [
-          "No quadro comparado, o Whey Pro e o 100% Whey Refil têm os menores custos por proteína declarada. O Top Whey 3W reúne três proteínas do soro, o IsoWhey é isolado e o Super Whey leva carboidrato. O [cupom Max Titanium](/cupons/max-titanium) MAX10EMCASACOMCECILIA dá até 10% OFF: no teste de novembro, 8,9% no Whey Pro e 2% no Refil."
+          "No quadro comparado, o Whey Pro e o 100% Whey Refil têm os menores custos por proteína declarada. O Top Whey 3W reúne três proteínas do soro, o IsoWhey é isolado e o Super Whey leva carboidrato. O [cupom Max Titanium](/cupons/max-titanium) MAX10EMCASACOMCECILIA dá até 10% OFF."
         ]
       },
       {
@@ -240602,7 +240602,7 @@ const reviewsChunk1: unknown[] = [
     "id": 913,
     "slug": "cupom-probiotica-primeira-compra",
     "title": "Cupom Probiótica primeira compra: PRO10EMCASACOMCECILIA dá até 10% OFF e vale nas compras seguintes",
-    "seoTitle": "Cupom Probiótica primeira compra: PRO10EMCASACOMCECILIA",
+    "seoTitle": "Cupom Probiótica 1ª compra: até 10% com PRO10EMCASACOMCECILIA",
     "type": "Guia & Cupons",
     "category": "cupons-como-usar",
     "reviewKind": "guia",
@@ -240613,8 +240613,8 @@ const reviewsChunk1: unknown[] = [
       "initials": "CM",
       "url": "/sobre"
     },
-    "description": "O PRO10EMCASACOMCECILIA dá até 10% no site oficial da Probiótica, no primeiro pedido e nos seguintes. Veja como o desconto varia por produto e o que o frete exige.",
-    "metaDescription": "Para a primeira compra na Probiótica, use PRO10EMCASACOMCECILIA: até 10% OFF no site oficial, conforme o produto. O mesmo código vale para quem já comprou.",
+    "description": "O PRO10EMCASACOMCECILIA dá até 10% no site oficial da Probiótica, no primeiro pedido e nos seguintes. Veja quanto o cupom tirou no nosso teste e o que o frete exige.",
+    "metaDescription": "Para a primeira compra na Probiótica, use PRO10EMCASACOMCECILIA: até 10% OFF no site oficial. O mesmo código vale para quem já comprou.",
     "publishedAt": "12 de novembro de 2026",
     "publishedAtISO": "2026-11-12",
     "updatedAt": "2026-11-22",
@@ -240650,7 +240650,7 @@ const reviewsChunk1: unknown[] = [
       {
         "heading": "Resposta rápida",
         "paragraphs": [
-          "Para a primeira compra na Probiótica, use PRO10EMCASACOMCECILIA: até 10% OFF no site oficial. O percentual varia por produto, e o mesmo código vale para quem já comprou. Ele soma com as promoções e com o Pix e não vale no Mercado Livre; o mínimo do frete grátis de cada região está abaixo."
+          "Para a primeira compra na Probiótica, use PRO10EMCASACOMCECILIA: até 10% OFF no site oficial. O mesmo código vale para quem já comprou. Ele soma com as promoções e com o Pix e não vale no Mercado Livre; o mínimo do frete grátis de cada região está abaixo."
         ]
       },
       {
@@ -242068,7 +242068,7 @@ const reviewsChunk1: unknown[] = [
     "id": 921,
     "slug": "cupom-max-titanium-primeira-compra",
     "title": "Cupom Max Titanium primeira compra: MAX10EMCASACOMCECILIA dá até 10% OFF e vale nas compras seguintes",
-    "seoTitle": "Cupom Max Titanium primeira compra: MAX10EMCASACOMCECILIA",
+    "seoTitle": "Cupom Max Titanium 1ª compra: até 10% com MAX10EMCASACOMCECILIA",
     "type": "Guia & Cupons",
     "category": "cupons-como-usar",
     "reviewKind": "guia",
@@ -242080,7 +242080,7 @@ const reviewsChunk1: unknown[] = [
       "url": "/sobre"
     },
     "description": "O MAX10EMCASACOMCECILIA dá até 10% na Max Titanium no primeiro pedido e nos seguintes. Veja quanto o cupom descontou em dois produtos e o que conferir no frete.",
-    "metaDescription": "Para a primeira compra na Max Titanium, use MAX10EMCASACOMCECILIA: até 10% OFF, conforme o produto. O mesmo código vale para quem já comprou.",
+    "metaDescription": "Para a primeira compra na Max Titanium, use MAX10EMCASACOMCECILIA: até 10% OFF em todas as formas de pagamento. O mesmo código vale para quem já comprou.",
     "publishedAt": "12 de novembro de 2026",
     "publishedAtISO": "2026-11-12",
     "updatedAt": "2026-11-22",
@@ -242116,7 +242116,7 @@ const reviewsChunk1: unknown[] = [
       {
         "heading": "Resposta rápida",
         "paragraphs": [
-          "Para a primeira compra na Max Titanium, use o [cupom Max Titanium](/cupons/max-titanium) MAX10EMCASACOMCECILIA: até 10% OFF no site oficial e no aplicativo, em todas as formas de pagamento. O percentual varia por produto, e o carrinho mostra quanto cada item recebeu. O mesmo código vale para quem já comprou e soma com as promoções do site."
+          "Para a primeira compra na Max Titanium, use o [cupom Max Titanium](/cupons/max-titanium) MAX10EMCASACOMCECILIA: até 10% OFF no site oficial e no aplicativo, em todas as formas de pagamento. O mesmo código vale para quem já comprou e soma com as promoções do site."
         ]
       },
       {
