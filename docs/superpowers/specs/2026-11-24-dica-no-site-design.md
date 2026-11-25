@@ -129,7 +129,8 @@ pressão, sem dado interno. Ficam num arquivo de textos (`dicaCopy.ts`).
 - Componente cliente carregado só no toque do botão (import dinâmico). Não importa o catálogo, o
   `couponsData.ts` nem `@/lib/data`: manda `{ q }` e recebe os cartões prontos (o `test:client-bundle`
   segue valendo).
-- Onde aparece primeiro: home, `/cupons`, `/reviews` e `/blackfriday`. Fora dos artigos e das páginas de
+- Onde aparece: só no `/blackfriday`, como teste na página do evento (decisão do Bruno, 25/11/2026). Esteve na home,
+  em `/cupons` e em `/reviews` de 24 a 25/11 por um erro de escopo. Fora dos artigos e das páginas de
   loja no começo, porque lá o dock do celular ocupa o rodapé. Só em PT.
 - Espera o aviso de cookies sair antes de aparecer; respeita "reduzir movimento".
 - Linha fixa na caixa: "Sua pergunta é lida por uma IA. Não escreva dados pessoais."

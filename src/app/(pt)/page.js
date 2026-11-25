@@ -7,7 +7,6 @@ import { couponFontVariables } from '@/components/coupons/CouponBlocks';
 import { PopularRecipes } from '@/components/sections/PopularRecipes';
 import { MyLinks } from '@/components/sections/MyLinks';
 import { CTA } from '@/components/sections/CTA';
-import { DicaLauncher } from '@/components/dica/DicaLauncher';
 import homeEventsConfig from '@/../content/home-events.json';
 import { CECILIA_PHOTO, getHomeLatest, getHomeStoreTabs } from '@/lib/homeStores';
 import { getFeaturedOffers } from '@/lib/dicasOffers';
@@ -95,8 +94,6 @@ export default async function Home() {
 
       {/* Últimos vídeos: só aparece com vídeo */}
       <CTA />
-
-      <DicaLauncher />
     </div>
   );
 }
