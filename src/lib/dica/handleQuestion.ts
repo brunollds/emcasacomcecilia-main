@@ -35,7 +35,7 @@ export async function handleQuestion(input: {
 
   // Sem o IP (o proxy não mandou o x-forwarded-for), todo visitante cairia na mesma cota e o DICA pararia para o site
   // inteiro depois de 25 perguntas: fica sem o limite por visitante, e o gasto segue preso ao teto diário da IA.
-  const visitor = input.ip === UNKNOWN_IP ? ({ ok: true } as const) : checkVisitor(input.ip, now);
+  const visitor = input.ip === UNKNOWN_IP ? ({ ok: true } as const) : await checkVisitor(input.ip, now);
   if (visitor.ok === false) {
     const body: DicaAnswer = {
       result: 'limite',

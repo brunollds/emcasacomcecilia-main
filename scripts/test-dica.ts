@@ -154,27 +154,49 @@ async function main() {
     new Promise((_resolve, reject) => init?.signal?.addEventListener('abort', () => reject(new Error('abort'))))) as unknown as typeof fetch;
   assert.equal(await interpretQuestion('x', { apiKey: 'teste', fetchImpl: hang, timeoutMs: 50 }), null);
 
-  // Limites por IP: 1 a cada 3 s, 8 em 5 min, 25 no dia.
-  resetDicaLimitsForTests();
+  // Limites por IP: 1 a cada 3 s, 8 em 5 min, 25 no dia. As mesmas regras na memória e nos arquivos; nos arquivos, a
+  // memória é zerada antes de cada pergunta, como se cada uma caísse num processo novo.
   const t0 = Date.parse('2026-11-24T10:00:00-03:00');
-  assert.equal(checkVisitor('1.1.1.1', t0).ok, true);
-  assert.equal(checkVisitor('1.1.1.1', t0 + 1000).ok, false, '2ª pergunta em 1 s');
-  assert.equal(checkVisitor('2.2.2.2', t0 + 1000).ok, true, 'outro IP não divide o limite');
-  for (let i = 1; i < 8; i += 1) assert.equal(checkVisitor('1.1.1.1', t0 + i * 4000).ok, true, `pergunta ${i + 1} em 5 min`);
-  assert.equal(checkVisitor('1.1.1.1', t0 + 8 * 4000).ok, false, '9ª pergunta em 5 min');
+  const visitorDir = mkdtempSync(path.join(tmpdir(), 'dica-visitantes-'));
+  try {
+    for (const dir of ['', visitorDir]) {
+      const mode = dir ? 'arquivos' : 'memória';
+      resetDicaLimitsForTests();
+      const check = (ip: string, at: number) => {
+        if (dir) resetDicaLimitsForTests();
+        return checkVisitor(ip, at, dir);
+      };
+      assert.equal((await check('1.1.1.1', t0)).ok, true, mode);
+      assert.equal((await check('1.1.1.1', t0 + 1000)).ok, false, `${mode}: 2ª pergunta em 1 s`);
+      assert.equal((await check('2.2.2.2', t0 + 1000)).ok, true, `${mode}: outro IP não divide o limite`);
+      for (let i = 1; i < 8; i += 1) assert.equal((await check('1.1.1.1', t0 + i * 4000)).ok, true, `${mode}: pergunta ${i + 1} em 5 min`);
+      assert.equal((await check('1.1.1.1', t0 + 8 * 4000)).ok, false, `${mode}: 9ª pergunta em 5 min`);
+      for (let i = 0; i < 25; i += 1) assert.equal((await check('3.3.3.3', t0 + i * 60_000)).ok, true, `${mode}: pergunta ${i + 1} do dia`);
+      const blocked = await check('3.3.3.3', t0 + 25 * 60_000);
+      assert.equal(blocked.ok, false, `${mode}: 26ª pergunta do dia`);
+      const midnight = Date.parse('2026-11-25T00:00:00-03:00');
+      if (blocked.ok === false) assert.equal(blocked.retryAfterSec, Math.ceil((midnight - (t0 + 25 * 60_000)) / 1000), `${mode}: Retry-After até a meia-noite`);
+      assert.equal((await check('3.3.3.3', Date.parse('2026-11-25T00:05:00-03:00'))).ok, true, `${mode}: o dia vira em Brasília`);
+    }
+    // Em corrida, os 3 s podem falhar entre processos, mas o teto do dia não.
+    resetDicaLimitsForTests();
+    const race = await Promise.all(Array.from({ length: 30 }, (_, i) => checkVisitor('4.4.4.4', t0 + i, visitorDir)));
+    assert.ok(race.filter((verdict) => verdict.ok).length <= 25, 'mais de 25 perguntas no dia em corrida');
+    // O IP não vai ao disco: a pasta do visitante é o código do dia, e a chave some com a pasta na virada.
+    const stored = readdirSync(visitorDir, { recursive: true }).map(String).join(' ');
+    assert.ok(!/\d+\.\d+\.\d+\.\d+/.test(stored), 'IP no nome de arquivo');
+    resetQuestionLogForTests();
+    await cleanupQuestionLog({ dir: visitorDir, now: new Date('2026-11-25T12:00:00-03:00') });
+    assert.deepEqual(readdirSync(visitorDir), ['visitantes-2026-11-25'], 'a contagem de ontem ficou');
+  } finally {
+    rmSync(visitorDir, { recursive: true, force: true });
+  }
+  // Na memória, a contagem de ontem some na virada, com ou sem pergunta: o 1.1.1.1 de ontem volta do zero.
   resetDicaLimitsForTests();
-  for (let i = 0; i < 25; i += 1) assert.equal(checkVisitor('3.3.3.3', t0 + i * 60_000).ok, true, `pergunta ${i + 1} do dia`);
-  const blocked = checkVisitor('3.3.3.3', t0 + 25 * 60_000);
-  assert.equal(blocked.ok, false, '26ª pergunta do dia');
-  const midnight = Date.parse('2026-11-25T00:00:00-03:00');
-  if (blocked.ok === false) assert.equal(blocked.retryAfterSec, Math.ceil((midnight - (t0 + 25 * 60_000)) / 1000), 'Retry-After até a meia-noite');
-  assert.equal(checkVisitor('3.3.3.3', Date.parse('2026-11-25T00:05:00-03:00')).ok, true, 'o dia vira em Brasília');
-  // A contagem de ontem some na virada, com ou sem pergunta: o 1.1.1.1 de ontem volta do zero.
-  resetDicaLimitsForTests();
-  checkVisitor('1.1.1.1', t0);
+  await checkVisitor('1.1.1.1', t0, '');
   pruneVisitors(Date.parse('2026-11-25T00:01:00-03:00'));
-  assert.equal(checkVisitor('1.1.1.1', Date.parse('2026-11-25T00:01:01-03:00')).ok, true, 'contagem de ontem apagada');
-  assert.equal(checkVisitor('1.1.1.1', Date.parse('2026-11-25T00:01:02-03:00')).ok, false, 'a de hoje segue valendo');
+  assert.equal((await checkVisitor('1.1.1.1', Date.parse('2026-11-25T00:01:01-03:00'), '')).ok, true, 'contagem de ontem apagada');
+  assert.equal((await checkVisitor('1.1.1.1', Date.parse('2026-11-25T00:01:02-03:00'), '')).ok, false, 'a de hoje segue valendo');
 
   // Teto diário da IA, sem pasta: na memória do processo.
   resetDicaLimitsForTests();

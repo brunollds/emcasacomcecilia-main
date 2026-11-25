@@ -217,7 +217,7 @@ export const PRIVACY_SECTIONS: PrivacySection[] = [
         'Antes de sair do nosso servidor, a pergunta passa por uma limpeza automática que tenta remover e-mails e sequências de 8 dígitos ou mais, como CPF, telefone e CEP. Nomes, endereços e outros dados ainda podem passar: evite escrever dados pessoais na pergunta.',
         'Quando a pergunta precisa da IA, o texto limpo vai à Anthropic, empresa da IA Claude, só para identificar os produtos procurados na nossa lista de parceiros. A Anthropic guarda os dados nos Estados Unidos, apaga o texto em até 30 dias, salvo as exceções dos termos dela (como a apuração de abuso), e não usa esse texto para treinar os modelos.',
         'Guardamos o texto limpo, a data, a hora e o resultado (as lojas indicadas ou a busca no Dicas) para melhorar o assistente e a lista de parceiros. Esse registro não inclui IP, cookies, dados do navegador nem identificador de sessão, e uma rotina automática apaga as perguntas depois de 90 dias.',
-        'Para limitar o número de perguntas, o servidor conta as perguntas de cada IP só na memória, fora desse registro, e apaga essa contagem depois da virada do dia.',
+        'Para limitar o número de perguntas, o servidor conta as perguntas de cada IP fora desse registro. Na contagem, o IP é trocado por um código embaralhado com uma chave aleatória do dia, e a contagem e a chave são apagadas depois da virada do dia.',
         'O texto da caixa aparece mascarado nas gravações do Microsoft Clarity.'
       ),
     ],

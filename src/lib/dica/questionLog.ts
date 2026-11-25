@@ -1,7 +1,7 @@
 import { appendFile, mkdir, readdir, rm, unlink } from 'node:fs/promises';
 import path from 'node:path';
 import type { DicaResult } from './dicaTypes';
-import { AI_QUOTA_PATTERN, brasiliaDay } from './limits';
+import { AI_QUOTA_PATTERN, VISITORS_PATTERN, brasiliaDay } from './limits';
 
 // As perguntas guardadas para ver o que o público procura: sem IP, cookie, navegador ou sessão, e sem o que parecer dado
 // pessoal. Um arquivo por dia em DICA_LOG_DIR, 90 dias. Sem a variável, nada é gravado.
@@ -39,13 +39,13 @@ async function removeOldFiles(dir: string, now: Date): Promise<void> {
   for (const name of await readdir(dir)) {
     const day = FILE_PATTERN.exec(name)?.[1];
     if (day && Date.parse(`${day}T23:59:59-03:00`) < limit) await unlink(path.join(dir, name));
-    // O contador da IA só vale no dia dele.
-    const quotaDay = AI_QUOTA_PATTERN.exec(name)?.[1];
+    // O contador da IA e a contagem por visitante (com a chave do dia) só valem no dia deles.
+    const quotaDay = AI_QUOTA_PATTERN.exec(name)?.[1] ?? VISITORS_PATTERN.exec(name)?.[1];
     if (quotaDay && quotaDay < today) await rm(path.join(dir, name), { recursive: true, force: true });
   }
 }
 
-// A limpeza dos 90 dias sem depender de pergunta nova: o instrumentation.ts chama ao subir o servidor e a cada 6 horas,
+// A limpeza dos 90 dias sem depender de pergunta nova: o instrumentation.ts chama ao subir o servidor e de hora em hora,
 // então ela roda mesmo com o DICA parado. Sem DICA_LOG_DIR ou sem a pasta, não faz nada.
 export async function cleanupQuestionLog(opts: { dir?: string; now?: Date } = {}): Promise<void> {
   const dir = opts.dir ?? process.env.DICA_LOG_DIR;

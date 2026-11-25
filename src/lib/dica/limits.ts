@@ -1,8 +1,10 @@
-import { mkdir, readdir, writeFile } from 'node:fs/promises';
+import { createHmac, randomBytes } from 'node:crypto';
+import { mkdir, readdir, readFile, writeFile } from 'node:fs/promises';
 import path from 'node:path';
 
-// Limites do DICA. Os por visitante ficam na memória de cada processo (a Hostinger roda de 1 a 4), contra abuso; o teto
-// diário da IA é um só para todos, num arquivo da DICA_LOG_DIR. O teto de gasto final é o da Workspace da Anthropic.
+// Limites do DICA. Com DICA_LOG_DIR, os por visitante e o teto diário da IA valem para todos os processos (a Hostinger
+// roda de 1 a 4) e sobrevivem ao reinício, em arquivos da pasta do dia; sem ela, ou se ela falhar, ficam na memória de
+// cada processo. O teto de gasto final é o da Workspace da Anthropic.
 
 export type DicaInterpretation = { terms: string[]; searchTerm: string; outOfScope: boolean; viaFallback: boolean };
 
@@ -39,7 +41,81 @@ export function pruneVisitors(now = Date.now()): void {
   for (const [key, visitor] of visitors) if (visitor.day !== day) visitors.delete(key);
 }
 
-export function checkVisitor(ip: string, now = Date.now()): { ok: true } | { ok: false; retryAfterSec: number } {
+type VisitorVerdict = { ok: true } | { ok: false; retryAfterSec: number };
+
+// A regra, igual na memória e nos arquivos: `recent` são as perguntas dos últimos 5 min, da mais antiga à mais nova.
+function judgeVisitor(recent: number[], dayCount: number, now: number): VisitorVerdict {
+  const last = recent[recent.length - 1];
+  const wait = (until: number) => ({ ok: false as const, retryAfterSec: Math.max(1, Math.ceil((until - now) / 1000)) });
+  if (last !== undefined && now - last < MIN_GAP_MS) return wait(last + MIN_GAP_MS);
+  if (recent.length >= WINDOW_MAX) return wait(recent[recent.length - WINDOW_MAX] + WINDOW_MS);
+  if (dayCount >= DAY_MAX) return wait(nextBrasiliaMidnight(now));
+  return { ok: true };
+}
+
+export const VISITORS_PATTERN = /^visitantes-(\d{4}-\d{2}-\d{2})$/;
+const SALT_FILE = 'chave';
+
+// A chave aleatória do dia, criada pelo primeiro processo que chega ("wx") e apagada com a pasta na virada.
+async function daySalt(dayDir: string): Promise<Buffer> {
+  const file = path.join(dayDir, SALT_FILE);
+  try {
+    await writeFile(file, randomBytes(32), { flag: 'wx' });
+  } catch (error) {
+    if ((error as NodeJS.ErrnoException).code !== 'EEXIST') throw error;
+  }
+  // Outro processo pode estar no meio da escrita.
+  for (let attempt = 0; attempt < 5; attempt += 1) {
+    const salt = await readFile(file);
+    if (salt.length === 32) return salt;
+    await new Promise((resolve) => setTimeout(resolve, 10));
+  }
+  throw new Error('chave do dia incompleta');
+}
+
+// Um visitante é uma pasta com o IP trocado por um código (HMAC com a chave do dia): o IP não vai ao disco. Cada
+// pergunta é um arquivo numerado com a hora dela, criado com "wx", então o teto do dia vale entre processos. Os 3 s e
+// os 5 min leem as horas das últimas perguntas; duas perguntas no mesmo instante, em processos diferentes, podem
+// passar as duas, mas o teto do dia não.
+async function checkVisitorInFiles(ip: string, now: number, dir: string): Promise<VisitorVerdict> {
+  const dayDir = path.join(dir, `visitantes-${brasiliaDay(now)}`);
+  await mkdir(dayDir, { recursive: true });
+  const id = createHmac('sha256', await daySalt(dayDir)).update(ip).digest('hex').slice(0, 32);
+  const ipDir = path.join(dayDir, id);
+  await mkdir(ipDir, { recursive: true });
+  const slots = (await readdir(ipDir))
+    .map(Number)
+    .filter(Number.isInteger)
+    .sort((a, b) => a - b);
+  const times = await Promise.all(
+    slots.slice(-WINDOW_MAX).map((slot) => readFile(path.join(ipDir, String(slot)), 'utf8').then(Number, () => 0))
+  );
+  const recent = times.filter((at) => at > now - WINDOW_MS).sort((a, b) => a - b);
+  const verdict = judgeVisitor(recent, slots.length, now);
+  if (verdict.ok === false) return verdict;
+  for (let slot = slots.length + 1; slot <= DAY_MAX; slot += 1) {
+    try {
+      await writeFile(path.join(ipDir, String(slot)), String(now), { flag: 'wx' });
+      return { ok: true };
+    } catch (error) {
+      if ((error as NodeJS.ErrnoException).code !== 'EEXIST') throw error;
+    }
+  }
+  return judgeVisitor([], DAY_MAX, now);
+}
+
+export async function checkVisitor(ip: string, now = Date.now(), dir = process.env.DICA_LOG_DIR): Promise<VisitorVerdict> {
+  if (dir) {
+    try {
+      return await checkVisitorInFiles(ip, now, dir);
+    } catch {
+      // Cai na memória.
+    }
+  }
+  return checkVisitorInMemory(ip, now);
+}
+
+function checkVisitorInMemory(ip: string, now: number): VisitorVerdict {
   const day = brasiliaDay(now);
   if (day !== prunedDay) pruneVisitors(now);
   // Teto de memória: com muitos IPs, sai o que entrou primeiro.
@@ -57,11 +133,8 @@ export function checkVisitor(ip: string, now = Date.now()): { ok: true } | { ok:
   visitor.recent = visitor.recent.filter((at) => at > now - WINDOW_MS);
   visitors.set(ip, visitor);
 
-  const last = visitor.recent[visitor.recent.length - 1];
-  const wait = (until: number) => ({ ok: false as const, retryAfterSec: Math.max(1, Math.ceil((until - now) / 1000)) });
-  if (last !== undefined && now - last < MIN_GAP_MS) return wait(last + MIN_GAP_MS);
-  if (visitor.recent.length >= WINDOW_MAX) return wait(visitor.recent[0] + WINDOW_MS);
-  if (visitor.dayCount >= DAY_MAX) return wait(nextBrasiliaMidnight(now));
+  const verdict = judgeVisitor(visitor.recent, visitor.dayCount, now);
+  if (verdict.ok === false) return verdict;
 
   visitor.recent.push(now);
   visitor.dayCount += 1;
