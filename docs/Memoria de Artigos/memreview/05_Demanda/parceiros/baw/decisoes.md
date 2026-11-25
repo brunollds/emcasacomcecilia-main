@@ -25,4 +25,4 @@ vale agora, a quem foi avisado e quando a sessão confirmou a leitura.
 - **Agora:** a sessão da etapa 4 refaz o `cobertura.csv` para os 11 artigos e o `/cupons/baw`, com o gerador lendo os
   artigos num commit fixo, registrado no relato. P1 (tênis) e P2 entram como executadas pela BW7 e pela BW10.
 - **Avisado:** mensagem 4 da coordenação à sessão da etapa 4, em 25/11 às 00:20; o turno dela começou com a mensagem.
-  Confirmação de leitura: a registrar quando ela responder.
+  Confirmação de leitura: em 25/11 às 00:21 ("Li a mensagem 4"), antes de agir.
