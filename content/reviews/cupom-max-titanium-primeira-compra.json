@@ -155,9 +155,9 @@
       "heading": "Perguntas frequentes",
       "bullets": [
         "Qual é o cupom da Max Titanium? É o MAX10EMCASACOMCECILIA, com até 10% OFF no site oficial e no aplicativo, em todas as formas de pagamento. Cole no campo de cupom do carrinho; as regras estão no [cupom Max Titanium](/cupons/max-titanium).",
-        "Como conseguir desconto na primeira compra na Max Titanium? Cole o código no carrinho antes de pagar. Ele vale no primeiro pedido e nos seguintes, conforme o produto.",
+        "Como conseguir desconto na primeira compra na Max Titanium? Cole o código no carrinho antes de pagar. Ele vale no primeiro pedido e nos seguintes.",
         "Qual cupom Max Titanium vale para quem já é cliente? O mesmo MAX10EMCASACOMCECILIA, na reposição do whey ou em outro item.",
-        "Quanto de desconto o cupom Max Titanium dá? Até 10%. O percentual varia por produto, e o carrinho mostra o desconto de cada item.",
+        "Quanto de desconto o cupom Max Titanium dá? Até 10% OFF. No nosso teste, o Top Whey 3W + Sabor foi de R$ 189,00 para R$ 172,25; a linha “Descontos” do carrinho mostra o valor do seu pedido.",
         "O cupom Max Titanium vale no aplicativo? Sim, no aplicativo Max Titanium Suplementos.",
         "O cupom Max Titanium vale no Mercado Livre? Não. Pelo Mercado Livre, vale o preço do anúncio."
       ]
@@ -170,7 +170,7 @@
     ],
     "skipIf": [
       "Você vai comprar pelo Mercado Livre: o código não vale lá.",
-      "Você espera 10% em todo item: no teste de novembro, a maior parte dos itens recebeu 2%."
+      "O total fica logo acima do mínimo de frete grátis da sua região e o cupom o deixaria abaixo dele: confira o frete antes de pagar."
     ]
   }
 }

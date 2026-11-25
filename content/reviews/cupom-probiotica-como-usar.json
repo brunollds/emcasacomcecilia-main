@@ -228,7 +228,6 @@
     ],
     "skipIf": [
       "O pedido fica logo acima do mínimo de frete grátis e o cupom o derrubaria abaixo dele: compare o frete antes de aplicar.",
-      "Você espera 10% cheio em todo item: o percentual varia por produto e pode ser bem menor.",
       "Você quer comprar pelo Mercado Livre, onde o código não vale."
     ]
   }

@@ -106,7 +106,7 @@
       ]
     },
     {
-      "heading": "Por que o desconto pode ficar abaixo de 10%",
+      "heading": "Quanto o cupom tirou no nosso teste",
       "paragraphs": [
         "O código pode entrar sobre um produto em promoção sem aplicar os 10% cheios. No teste do cupom de 11/11/2026, registrado na nossa página de cupom, o Hiper 100% Whey de 900 g ficou assim:"
       ],
@@ -184,7 +184,7 @@
         "Qual é o cupom da Probiótica? É o PRO10EMCASACOMCECILIA, com até 10% OFF no site oficial, em todas as formas de pagamento. Cole o código no campo \"Cupom de Desconto\" do carrinho; as condições estão na [página do cupom da Probiótica](/cupons/probiotica).",
         "Como conseguir desconto na primeira compra na Probiótica? Com esse mesmo código, aplicado no carrinho do site oficial, no primeiro pedido e nos seguintes. O percentual de cada item aparece na linha de descontos.",
         "Qual cupom Probiótica vale para quem já é cliente? O mesmo PRO10EMCASACOMCECILIA, com o mesmo teto de 10%.",
-        "O cupom Probiótica soma com o Pix e com as promoções? Sim, com os dois. O percentual do código varia por produto; o exemplo está no capítulo da conta.",
+        "O cupom Probiótica soma com o Pix e com as promoções? Sim, com os dois. O exemplo está no capítulo da conta.",
         "O cupom Probiótica vale no Mercado Livre? Não. Ele vale só no site oficial da Probiótica."
       ]
     }
@@ -197,8 +197,7 @@
     ],
     "skipIf": [
       "O pedido fica logo acima do mínimo de frete grátis e o cupom o derrubaria abaixo dele: confira o frete antes de pagar.",
-      "Você quer o produto no Mercado Livre, onde o código não vale.",
-      "Você espera 10% cheio em todo produto: o percentual varia por item."
+      "Você quer o produto no Mercado Livre, onde o código não vale."
     ]
   }
 }
