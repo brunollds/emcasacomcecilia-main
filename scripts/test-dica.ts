@@ -214,6 +214,11 @@ async function main() {
     resetDicaLimitsForTests();
     assert.equal(await takeAiSlot(t0, quotaDir), false, 'o reinício zerou o teto do dia');
     assert.equal(await takeAiSlot(Date.parse('2026-11-25T00:01:00-03:00'), quotaDir), true, 'o teto do arquivo volta no dia seguinte');
+    // Pasta com defeito (aqui, um arquivo no lugar dela): sem IA, e não o contador da memória.
+    const notADir = path.join(tmpdir(), `dica-nao-pasta-${process.pid}`);
+    writeFileSync(notADir, '');
+    assert.equal(await takeAiSlot(t0, path.join(notADir, 'dica')), false, 'pasta com defeito liberou a IA');
+    rmSync(notADir, { force: true });
     resetQuestionLogForTests();
     await cleanupQuestionLog({ dir: quotaDir, now: new Date('2026-11-25T12:00:00-03:00') });
     assert.deepEqual(readdirSync(quotaDir), ['ai-quota-2026-11-25'], 'o contador de ontem ficou');

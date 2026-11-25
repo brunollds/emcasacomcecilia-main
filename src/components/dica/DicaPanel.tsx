@@ -53,7 +53,8 @@ const THEMES = {
     subtitle: 'text-[#bfb4dc]',
     chip: `border-2 border-[#d9ff43]/60 bg-transparent font-bold text-[#f7f5ff] hover:bg-[#d9ff43] hover:text-[#0d081c] ${FOCUS_RING_ON_DARK}`,
     muted: 'text-[#bfb4dc]',
-    bubble: 'bg-[#ff2e93] text-white',
+    // Texto escuro no rosa: o branco dá 3,5:1, abaixo dos 4,5:1 do texto pequeno; o #0d081c dá 5,7:1.
+    bubble: 'bg-[#ff2e93] text-[#0d081c]',
     card: 'border-2 border-[#e6dcff]/30 bg-[#1b1236] text-[#f7f5ff]',
     codeCard:
       'border-2 border-dashed border-[#d9ff43] bg-[#1b1236] text-[#f7f5ff] has-[[data-copied=true]]:border-solid has-[[data-copied=true]]:border-[#2ef2a0]',
@@ -61,13 +62,13 @@ const THEMES = {
     code: 'text-[#d9ff43] [font-family:var(--font-jetbrains-mono),monospace]',
     warning: 'border border-[#ff2e93]/50 bg-[#ff2e93]/15',
     pageLink: `text-[#bfb4dc] hover:text-[#f7f5ff] ${FOCUS_RING_ON_DARK}`,
-    store: `${ACTION} bg-[#ff2e93] font-black text-white ${FOCUS_RING_ON_DARK}`,
+    store: `${ACTION} bg-[#ff2e93] font-black text-[#0d081c] ${FOCUS_RING_ON_DARK}`,
     copied: 'data-[copied=true]:bg-[#2ef2a0] data-[copied=true]:text-[#042215]',
     dicasBox: 'border-2 border-[#e6dcff]/30 bg-[#1b1236]',
     dicas: `${ACTION} bg-[#d9ff43] font-black text-[#0d081c] ${FOCUS_RING_ON_DARK}`,
     form: 'border-t border-[#e6dcff]/15 bg-[#140d29]',
     input: `border-2 border-[#e6dcff]/30 bg-[#090614] text-[#f7f5ff] placeholder:text-[#bfb4dc]/70 ${FOCUS_RING_ON_DARK}`,
-    send: `bg-[#ff2e93] font-black text-white ${FOCUS_RING_ON_DARK}`,
+    send: `bg-[#ff2e93] font-black text-[#0d081c] ${FOCUS_RING_ON_DARK}`,
     focus: FOCUS_RING_ON_DARK,
   },
 } as const;

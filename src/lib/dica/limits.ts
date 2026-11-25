@@ -149,7 +149,8 @@ export const AI_QUOTA_PATTERN = /^ai-quota-(\d{4}-\d{2}-\d{2})$/;
 // Uma vaga no teto diário de chamadas à IA (DICA_AI_DAILY_LIMIT). Sem vaga, a rota usa a busca local.
 // Com DICA_LOG_DIR, o teto é um só para todos os processos e sobrevive a reinício e deploy: cada vaga é um arquivo
 // vazio numerado na pasta do dia, criado com "wx", que o sistema só deixa um processo criar. Quem perde a corrida por
-// um número tenta o seguinte, até o teto. Sem a pasta, ou se ela falhar, vale o contador da memória, por processo.
+// um número tenta o seguinte, até o teto. Sem a pasta, vale o contador da memória, por processo;
+// com a pasta com defeito, não há vaga.
 export async function takeAiSlot(now = Date.now(), dir = process.env.DICA_LOG_DIR): Promise<boolean> {
   const limit = Number(process.env.DICA_AI_DAILY_LIMIT) || DEFAULT_AI_DAILY_LIMIT;
   if (dir) {
@@ -166,7 +167,9 @@ export async function takeAiSlot(now = Date.now(), dir = process.env.DICA_LOG_DI
       }
       return false;
     } catch {
-      // Cai no contador da memória.
+      // Pasta configurada mas com defeito: sem IA, a rota responde pela busca local. Cair na memória multiplicaria o teto
+      // pelo número de processos.
+      return false;
     }
   }
   return takeMemorySlot(now, limit);
