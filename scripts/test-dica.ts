@@ -203,6 +203,8 @@ async function main() {
   for (let i = 0; i < 1500; i += 1) assert.equal(await takeAiSlot(t0, ''), true);
   assert.equal(await takeAiSlot(t0, ''), false, '1501ª chamada à IA');
   assert.equal(await takeAiSlot(Date.parse('2026-11-25T00:01:00-03:00'), ''), true, 'o teto volta no dia seguinte');
+  // Em produção sem a pasta, nada de IA: o teto por processo multiplicaria os 400.
+  assert.equal(await takeAiSlot(Date.parse('2026-11-26T10:00:00-03:00'), '', true), false, 'IA em produção sem DICA_LOG_DIR');
 
   // Com a pasta: um teto só para todos os processos, que sobrevive ao reinício. 12 pedidos ao mesmo tempo disputam 5 vagas.
   const quotaDir = mkdtempSync(path.join(tmpdir(), 'dica-cota-'));
