@@ -304,7 +304,7 @@ export default function DicaPanel({
       onClose={onClose}
       onMouseDown={onDialogMouseDown}
       onClick={onDialogClick}
-      className={`fixed inset-x-0 top-auto bottom-0 m-0 mt-auto h-auto max-h-[85dvh] w-full max-w-none overflow-hidden rounded-t-3xl border-x-2 border-t-2 p-0 motion-safe:animate-[slide-up_0.25s_ease-out] sm:inset-x-auto sm:end-5 sm:bottom-5 sm:max-h-[min(640px,82dvh)] sm:w-[400px] sm:rounded-2xl sm:border-2 ${theme.dialog}`}
+      className={`fixed inset-x-0 top-auto bottom-0 m-0 mt-auto h-auto max-h-[85dvh] w-full max-w-none overflow-hidden rounded-t-3xl border-x-2 border-t-2 p-0 motion-safe:animate-[slide-up_0.25s_ease-out] sm:mx-auto sm:bottom-5 sm:max-h-[min(640px,82dvh)] sm:w-[400px] sm:rounded-2xl sm:border-2 ${theme.dialog}`}
     >
       <div className="flex max-h-[inherit] flex-col">
         <header className={`flex shrink-0 items-start gap-3 px-4 py-3 ${theme.header}`}>

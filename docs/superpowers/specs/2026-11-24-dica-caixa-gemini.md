@@ -11,14 +11,14 @@ Task 8 de `docs/superpowers/plans/2026-11-24-dica-no-site.md`.
   - Chamada "Tem nos parceiros? Pergunte aqui" e, embaixo, o subtexto "Ex: tem whey?, tem sofá?".
   - Pílula `bg-laranja text-marinho font-extrabold px-3 py-2 rounded-xl text-xs` com "Perguntar".
   - Botão "–" de 44 × 44 px que recolhe a barra numa pílula lateral compacta ("✦ DICA · Tem cupom?") até o fim da sessão.
-- **Computador (`sm:`):** ancorada à direita, `sm:inset-x-auto sm:end-5 sm:bottom-5 sm:w-[360px]`.
+- **Computador (`sm:`):** centralizada embaixo, `sm:inset-x-0 sm:mx-auto sm:bottom-5 sm:w-[360px]` (a pílula recolhida também, com `sm:w-fit`).
 - **Variante `variant="festival"`, em `/blackfriday`:** superfície `#150d2c`, borda `#d9ff43`, texto `#f7f5ff`, sombra `4px 4px 0 #ff2e93` e pílula `#ff2e93` com texto branco.
 
 ## `DicaPanel.tsx`: a gaveta aberta
 
 - **Funcionamento:** `<dialog>` nativo aberto com `showModal()`. Fecha com Esc e com o clique fora da caixa, e devolve o foco ao botão. Animações só dentro de `motion-safe:`.
 - **Celular:** bottom-sheet `inset-x-0 bottom-0 mt-auto w-full max-h-[85dvh] rounded-t-3xl border-t-2 border-x-2 border-marinho bg-creme`.
-- **Computador:** `sm:inset-auto sm:end-5 sm:bottom-5 sm:w-[400px] sm:max-h-[min(640px,82dvh)] sm:rounded-2xl sm:border-2 sm:shadow-[6px_6px_0_var(--color-marinho)]`.
+- **Computador:** centralizada embaixo, `sm:inset-x-0 sm:mx-auto sm:bottom-5 sm:w-[400px] sm:max-h-[min(640px,82dvh)] sm:rounded-2xl sm:border-2 sm:shadow-[6px_6px_0_var(--color-marinho)]`.
 - **Cabeçalho:** `bg-marinho text-white`, com:
   - o selo amarelo "✦ DICA";
   - o título "Dica · Parceiros & Códigos";
