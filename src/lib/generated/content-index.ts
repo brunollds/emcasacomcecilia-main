@@ -258186,6 +258186,236 @@ const reviewsChunk1: unknown[] = [
     ]
   },
   {
+    "id": 1459,
+    "slug": "serum-vitamina-c20-lamazonie",
+    "locale": "pt",
+    "category": "guias-praticos-utilidade",
+    "reviewKind": "guia",
+    "author": {
+      "name": "Cecília Mauad",
+      "slug": "cecilia-mauad",
+      "role": "Em Casa com Cecília",
+      "initials": "CM",
+      "url": "/sobre"
+    },
+    "publishedAt": "25 de novembro de 2026",
+    "publishedAtISO": "2026-11-25",
+    "draft": false,
+    "isNew": true,
+    "imageFit": "contain",
+    "imageAspect": "landscape",
+    "pros": [],
+    "cons": [],
+    "coupon": "CECILIA",
+    "affiliate": "lamazonie",
+    "title": "Sérum Vitamina C20 L’Amazonie: o que a fórmula declara, como usar e quanto custa",
+    "seoTitle": "Sérum Vitamina C20 L’Amazonie: fórmula, uso e preço",
+    "type": "Guia de Produto",
+    "description": "Os ativos e as concentrações que a L’Amazonie declara no Sérum Vitamina C20, o uso com protetor solar, a conta por frasco e onde entra o cupom CECILIA no checkout.",
+    "metaDescription": "Com o CECILIA, 5% OFF no Sérum Vitamina C20 L’Amazonie. Veja os ativos que a marca declara, como usar de manhã e à noite e o preço por frasco.",
+    "image": "/images/reviews/lamazonie/serum-vitamina-c20-lamazonie-capa.webp",
+    "imageAlt": "Dois tubos verdes do Sérum Vitamina C20 da L’Amazonie, com as concentrações e 30 ml impressos na embalagem, em foto oficial da loja. A capa traz o logo L’Amazonie, a chamada “Sérum Vitamina C20: fórmula, uso e preço” e o cupom CECILIA.",
+    "cta": {
+      "text": "Se o sérum faz sentido para a sua rotina, abra o site oficial pelo botão, clique em “Finalizar compra” no carrinho e digite CECILIA no campo “Tem um cupom?”.",
+      "label": "Ir para a L’Amazonie",
+      "url": "https://www.lamazonie.com.br/",
+      "sponsored": true
+    },
+    "editorialNote": "Feito com a página e as políticas da loja, sem uso do produto. Podemos receber comissão pelo cupom.",
+    "relatedArticles": [
+      {
+        "slug": "cupom-lamazonie-como-usar"
+      },
+      {
+        "slug": "lamazonie-e-boa"
+      },
+      {
+        "slug": "lamazonie-e-confiavel"
+      },
+      {
+        "slug": "lamazonie-reclame-aqui-nota-reputacao"
+      },
+      {
+        "slug": "black-friday-lamazonie"
+      }
+    ],
+    "decision": {
+      "takeIf": [
+        "Você quer um sérum de vitamina C vegano e sem perfume, com as concentrações que a marca declara impressas no tubo.",
+        "Você aceita comprar sem a lista completa de ingredientes na página e pode pedir a lista ao atendimento antes.",
+        "Você já usa protetor solar todos os dias, como a advertência da página exige."
+      ],
+      "skipIf": [
+        "Você só compra cosmético com a lista INCI completa na mão e não quer esperar a resposta do atendimento.",
+        "Sua pele está irritada ou lesionada agora: a própria página pede para não aplicar nesses casos.",
+        "Você trata melasma e ainda não falou com o dermatologista sobre incluir o sérum na rotina."
+      ]
+    },
+    "contentSections": [
+      {
+        "heading": "Resposta rápida",
+        "paragraphs": [
+          "O Sérum Clareador Vitamina C20 da L’Amazonie é um sérum facial vegano e sem perfume com 20% de vitamina C, 5% de pantenol, 1% de niacinamida, vitamina E e ácido ferúlico, segundo a marca. A página indica uso de manhã e à noite, com protetor solar de dia. O cupom CECILIA na L’Amazonie dá 5% OFF."
+        ]
+      },
+      {
+        "heading": "O que a fórmula declara",
+        "paragraphs": [
+          "A [L’Amazonie](/reviews/lamazonie-e-boa) declara cinco ativos no sérum, cada um com a concentração e a função. Na [página do produto](https://www.lamazonie.com.br/products/serum-facial-antioxidante-c20), o nome é Sérum Clareador Vitamina C20, e a descrição também o chama de Sérum Antioxidante Vitamina C 20, da linha Amazon Miracle. Os cinco:"
+        ],
+        "bullets": [
+          "vitamina C pura, a 20%: manchas e ação antioxidante, segundo a marca;",
+          "niacinamida, a 1%: manchas e controle da oleosidade;",
+          "pantenol, a 5%: hidratação;",
+          "vitamina E, a 1%: antioxidante;",
+          "ácido ferúlico, a 0,5%: antioxidante."
+        ],
+        "postParagraphs": [
+          "As três primeiras concentrações aparecem nas perguntas frequentes da página; as da vitamina E e do ácido ferúlico, só no tubo das fotos da loja, que também indica 30 ml. A página não publica a lista completa de ingredientes (INCI): quem tem alergia ou restrição a algum componente pode pedir a lista ao atendimento antes de comprar.",
+          "As fotos mostram ainda a troca de embalagem, do frasco âmbar com válvula para o tubo verde, com a frase “nova embalagem, mesma fórmula”. A marca informa que o sérum é dermatologicamente testado, vegano, sem parabenos, sem perfume e cruelty free."
+        ],
+        "images": [
+          {
+            "src": "/images/reviews/lamazonie/serum-vitamina-c20-lamazonie-tubo-30ml.webp",
+            "alt": "Tubo verde do Sérum Vitamina C20 da L’Amazonie, linha Amazon Miracle, com 20% de vitamina C, 5% de pantenol, 1% de niacinamida, 1% de vitamina E, 0,5% de ácido ferúlico e 30 ml impressos na embalagem",
+            "caption": "O tubo com as cinco concentrações e o volume. Foto: L’Amazonie.",
+            "objectFit": "contain",
+            "aspectRatio": 0.59,
+            "href": "https://www.lamazonie.com.br/products/serum-facial-antioxidante-c20"
+          },
+          {
+            "src": "/images/reviews/lamazonie/serum-vitamina-c20-lamazonie-embalagens.webp",
+            "alt": "Frasco âmbar com tampa dourada, a embalagem antiga do Sérum Vitamina C20 da L’Amazonie, ao lado do tubo verde da embalagem nova, os dois com 30 ml",
+            "caption": "A embalagem antiga, de frasco, e a nova, em tubo. Foto: L’Amazonie.",
+            "objectFit": "contain",
+            "aspectRatio": 1.03
+          }
+        ]
+      },
+      {
+        "heading": "O que a marca promete e o que não dá para conferir",
+        "paragraphs": [
+          "A L’Amazonie promete clarear manchas, inclusive de melasma, acne e sol, iluminar, hidratar, firmar, suavizar rugas finas e uniformizar o tom da pele, “sem efeito rebote”. São promessas da marca. Para sustentá-las, a página cita um estudo com 30 participantes do sexo feminino, de fototipos variados e com sinais de envelhecimento, ao longo de 30 dias de uso, sem publicar o laudo.",
+          "Para manchas e melasma, na dúvida, o dermatologista decide se o sérum entra na sua rotina."
+        ]
+      },
+      {
+        "heading": "Como usar",
+        "paragraphs": [
+          "O sérum vai na pele limpa e seca, de manhã e à noite, e de manhã o protetor solar entra por cima. O passo a passo da página:"
+        ],
+        "bullets": [
+          "aplicar na pele limpa e seca;",
+          "usar 1 pump ou meio pump (medida da embalagem antiga, com válvula), de manhã e à noite;",
+          "de manhã, passar o protetor solar por cima."
+        ],
+        "postParagraphs": [
+          "A descrição fala em uso “de manhã e/ou à noite” no rosto e no pescoço, e as perguntas frequentes, em duas vezes ao dia. Para o tubo, a página não diz a quantidade equivalente. Segundo a marca, o sérum pode ir no rosto, no pescoço, no colo, no dorso das mãos e na região dos olhos.",
+          "As advertências da página: evitar exposição ao sol e bronzeamento artificial durante o uso, usar protetor solar com FPS maior que 15 e não aplicar em pele irritada ou lesionada."
+        ]
+      },
+      {
+        "heading": "Para quem a marca indica",
+        "paragraphs": [
+          "A página diz que o sérum serve para todos os tipos de pele e cita a pele madura, a seca, a oleosa, a mista, a sensível e a com rosácea. Nas perguntas frequentes, a marca liga a pele sensível ao pantenol e a oleosa à niacinamida.",
+          "O sérum faz sentido para quem já quer um produto de vitamina C sem perfume e aceita comprar com as concentrações declaradas pela marca. Quem está com a pele irritada ou lesionada espera, como pede a advertência, e quem tem rosácea ou trata melasma fala antes com o dermatologista."
+        ]
+      },
+      {
+        "heading": "Quanto custa por frasco",
+        "paragraphs": [
+          "O frasco avulso é o mais caro por unidade: com dois ou três, o preço por frasco cai cerca de um terço. A tabela divide o preço do site pelo número de frascos e aplica os 5% do CECILIA, sem frete e sem o desconto do Pix."
+        ],
+        "comparisonTable": {
+          "caption": "Preços do site em 25/11/2026. O total de 3 unidades com o CECILIA é o do teste no carrinho; os outros são a mesma conta de 5%.",
+          "headers": [
+            "Quantidade",
+            "Preço no site",
+            "Por frasco",
+            "Com CECILIA (total)",
+            "Com CECILIA (por frasco)"
+          ],
+          "rows": [
+            [
+              "1 unidade",
+              "R$ 289,00",
+              "R$ 289,00",
+              "R$ 274,55",
+              "R$ 274,55"
+            ],
+            [
+              "2 unidades",
+              "R$ 397,00",
+              "R$ 198,50",
+              "R$ 377,15",
+              "R$ 188,58"
+            ],
+            [
+              "3 unidades",
+              "R$ 569,00",
+              "R$ 189,67",
+              "R$ 540,55",
+              "R$ 180,18"
+            ]
+          ]
+        },
+        "postParagraphs": [
+          "A loja parcela em até 6x sem juros. Há também dois kits com o sérum: o [Kit Sérum Vitamina C20 + Protetor Solar de Tratamento](https://www.lamazonie.com.br/products/kit-serum-amazon-miracle-protetor-solar-de-tratamento), por R$ 365,90, e o [Kit Completo com protetor e gel de limpeza](https://www.lamazonie.com.br/products/kit-completo-serum-protetor-gel-de-limpeza), por R$ 397,00. No kit com protetor, o CECILIA também entrou: o total caiu para R$ 347,61.",
+          "A página mostra “frete grátis” nas três quantidades, mas a regra da loja é frete grátis acima de R$ 199, e acima de R$ 500 no Acre, no Piauí, em Rondônia e em Roraima. Nesses quatro estados, um e dois frascos ficam abaixo do mínimo: confira o frete pelo CEP no checkout.",
+          "A troca, pela política da loja, pede a caixa lacrada e sem uso, em até 7 dias; um frasco aberto para testar a pele não volta. A Garantia Mais Fios é do sérum de sobrancelhas e não cobre este sérum. Para o resto das regras e a reputação da loja, veja se a [L’Amazonie é confiável](/reviews/lamazonie-e-confiavel) e a [nota no Reclame Aqui](/reviews/lamazonie-reclame-aqui-nota-reputacao)."
+        ],
+        "emphasis": "Regra prática, sem teste nosso: o frasco avulso é o que faz sentido para quem nunca usou o produto; duas ou três unidades só para quem já sabe que a pele aceita a fórmula.",
+        "links": [
+          {
+            "label": "Ver o sérum na L’Amazonie",
+            "href": "https://www.lamazonie.com.br/products/serum-facial-antioxidante-c20",
+            "sponsored": true
+          }
+        ]
+      },
+      {
+        "heading": "Como aplicar o CECILIA",
+        "paragraphs": [
+          "O CECILIA entra no checkout próprio da loja, e não no carrinho padrão, que recusa o código. O caminho:"
+        ],
+        "bullets": [
+          "na página do sérum, escolha a quantidade e clique em adicionar ao carrinho;",
+          "na gaveta do carrinho, clique em “Finalizar compra”;",
+          "no resumo do pedido, digite CECILIA no campo “Tem um cupom?” e clique em “Adicionar”;",
+          "confira a linha “Descontos” antes de seguir para a entrega."
+        ],
+        "postParagraphs": [
+          "No mesmo dia da tabela, com três frascos no carrinho, o CECILIA tirou R$ 28,45, e o total foi o da última linha dela. O checkout também mostra 3% de desconto no pagamento por Pix; o valor final, com o frete do seu CEP, aparece no resumo antes do pagamento. As outras regras do código estão na página do [cupom L’Amazonie](/cupons/lamazonie) e no passo a passo de [como usar o cupom da L’Amazonie](/reviews/cupom-lamazonie-como-usar)."
+        ],
+        "images": [
+          {
+            "src": "/images/reviews/lamazonie/serum-vitamina-c20-lamazonie-checkout-kit-cecilia.webp",
+            "alt": "Resumo do checkout da L’Amazonie com o Kit Sérum Vitamina C20 + Protetor Solar de Tratamento, o código CECILIA no campo “Tem um cupom?”, desconto de R$ 18,30 e total de R$ 347,61",
+            "caption": "O CECILIA aplicado no kit com protetor, no checkout próprio da loja.",
+            "objectFit": "contain",
+            "aspectRatio": 1.11
+          }
+        ],
+        "links": [
+          {
+            "label": "Ver o cupom L’Amazonie",
+            "href": "/cupons/lamazonie"
+          }
+        ]
+      },
+      {
+        "heading": "Perguntas frequentes",
+        "bullets": [
+          "Pode usar o sérum de vitamina C da L’Amazonie de dia? Sim, segundo a página: de manhã, com protetor solar por cima. A advertência pede FPS maior que 15 e evitar exposição ao sol durante o uso.",
+          "O Sérum Vitamina C20 serve para pele sensível? A marca diz que sim e liga a pele sensível ao pantenol da fórmula. A própria página pede para não aplicar em pele irritada ou lesionada.",
+          "Em quanto tempo a marca fala em resultado? As perguntas frequentes da loja falam em primeiros resultados a partir de 15 dias e em tratamento de 90 dias. É prazo da marca.",
+          "Grávida ou lactante pode usar o sérum? Nas perguntas frequentes, a marca responde que a gestante e a lactante devem consultar o dermatologista antes de usar.",
+          "Qual é o cupom da L’Amazonie? O cupom é CECILIA, com 5% OFF no campo “Tem um cupom?” do checkout próprio da loja. No teste no carrinho, ele entrou no sérum e no kit com o protetor solar; as contas estão em “Quanto custa por frasco”."
+        ]
+      }
+    ]
+  },
+  {
     "id": 999,
     "slug": "black-friday-proton",
     "locale": "pt",
@@ -261685,7 +261915,10 @@ const reviewsChunk1: unknown[] = [
         "slug": "proton-vpn-vaut-il-le-coup"
       }
     ]
-  },
+  }
+];
+
+const reviewsChunk2: unknown[] = [
   {
     "id": 1013,
     "slug": "proton-vpn-kuendigen-rueckerstattung",
@@ -261892,10 +262125,7 @@ const reviewsChunk1: unknown[] = [
         "slug": "lohnt-sich-proton-vpn"
       }
     ]
-  }
-];
-
-const reviewsChunk2: unknown[] = [
+  },
   {
     "id": 1014,
     "slug": "proton-vpn-rimborso-come-disdire",

@@ -9,7 +9,7 @@ category: "guias-praticos-utilidade"
 reviewKind: "guia"
 type: "Guia de Produto"
 anexo_tipo: "Anexo-Beleza"
-status: "pauta-aprovada"
+status: "em-pr"
 responsavel: "Job-1"
 proxima_acao: "redacao"
 bloqueado_por: null
@@ -321,6 +321,32 @@ número na Anvisa, validade e conservação. No artigo, só as duas primeiras, e
 1. **Gestação e amamentação:** entra como pergunta do FAQ, só com a resposta cautelosa da marca ("consulte o seu dermatologista"). O "sem contraindicações" do quadro comparativo não é repetido.
 2. **Rótulo e código no kit:** sem resposta até 25/11; valem as sugestões (publicar sem o rótulo e acrescentar depois; um carrinho com o kit no dia da redação).
 
+## Redação e revisão (Jobs 2 a 4, 25/11/2026)
+
+- **Releitura do dia:** preços iguais aos do briefing; kits pelo catálogo público: sérum + protetor R$ 365,90, kit completo
+  com gel R$ 397,00.
+- **Teste do CECILIA no checkout próprio** (adicionar ao carrinho, "Finalizar compra", "Tem um cupom?", "Adicionar"):
+  3 frascos R$ 569,00 → desconto R$ 28,45 → R$ 540,55; kit com protetor R$ 365,90 → desconto R$ 18,30 → R$ 347,61 (o
+  checkout arredonda). Pedido não finalizado, sem dado pessoal.
+- **Volume e concentrações (decisão do Bruno, 25/11):** as fotos da galeria da página mostram o tubo verde com 30 ml,
+  20% de vitamina C, 5% de pantenol, 1% de niacinamida, 1% de vitamina E e 0,5% de ácido ferúlico, e a troca de
+  embalagem ("nova embalagem, mesma fórmula": frasco âmbar com válvula → tubo). O artigo usa os dados atribuídos às
+  fotos e segue dizendo que a página não publica o INCI. O frasco antigo lista quatro ativos (sem ácido ferúlico); o
+  texto só repete a frase da marca. O passo a passo ainda fala em pump, da embalagem antiga.
+- **Job 3:** revisor independente (Fable 5.2): "aprovado com ajustes"; os seis obrigatórios e a sugestão do pump
+  aplicados. Ordem dos capítulos mantida pelo esqueleto do briefing.
+
+## Capa e imagens (Job 6, folha aprovada pelo Bruno em 25/11/2026)
+
+| Arquivo (`/images/reviews/lamazonie/`) | Onde | Origem |
+|---|---|---|
+| `serum-vitamina-c20-lamazonie-capa.webp` (1600×900) | Capa; modelo das capas v2 da loja (painel verde, logo, título, CECILIA) | Foto oficial da galeria da página (dois tubos), 25/11 |
+| `serum-vitamina-c20-lamazonie-tubo-30ml.webp` | "O que a fórmula declara", com `href` da página do sérum | Foto oficial da galeria, 25/11 |
+| `serum-vitamina-c20-lamazonie-embalagens.webp` | "O que a fórmula declara" | Foto oficial da galeria ("nova embalagem"), recortada sem o texto, 25/11 |
+| `serum-vitamina-c20-lamazonie-checkout-kit-cecilia.webp` | "Como aplicar o CECILIA" | Print nosso do checkout com o kit, 25/11 |
+
+Alts e legendas no JSON. Upload FTPS, verificação HTTPS (`verified`) e mapa de entrega no mesmo dia.
+
 ## Publicação
 
-Pendente (briefing de 25/11, aberto a pedido do Bruno; completado no mesmo dia pelo roteiro do Job 1: inventário da página, frete, banner, marketplace, estrutura e banco de perguntas). Preço relido depois da Black Friday, de 28/11 em diante.
+PR aberto em 25/11/2026; merge e deploy com o Bruno. Preço relido depois da Black Friday, de 28/11 em diante.
