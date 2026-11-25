@@ -1,0 +1,243 @@
+{
+  "id": 1455,
+  "slug": "yesstyle-worth-it-ja",
+  "locale": "ja",
+  "translationKey": "yesstyle-worth-it",
+  "title": "YesStyleは買う価値ある？アジアコスメで狙うべき商品と買い時の判断基準",
+  "seoTitle": "YesStyleは買う価値ある？K-beauty・配送・リワードコード",
+  "type": "購入ガイド",
+  "category": "guias-praticos-utilidade",
+  "reviewKind": "guia",
+  "author": {
+    "name": "Cecília Mauad",
+    "slug": "cecilia-mauad",
+    "role": "Em Casa com Cecília",
+    "initials": "CM",
+    "url": "/sobre"
+  },
+  "description": "YesStyleでK-beautyやJ-beautyをまとめ買いするメリット、入荷待ち商品が発送全体を遅らせる仕組み、注文を分ける基準とリワードコードCECILIA010の併用方法をまとめました。",
+  "metaDescription": "リワードコードCECILIA010でYesStyleの初回購入が5%追加、2回目以降は2%追加のお得な買い物に。選ぶべきアジアコスメ、出荷日数、送料無料条件と返品ルールを解説します。",
+  "publishedAt": "2026年11月25日",
+  "publishedAtISO": "2026-11-25",
+  "draft": false,
+  "isNew": false,
+  "hideFromPortugueseListings": true,
+  "image": "/images/reviews/yesstyle/yesstyle-vale-a-pena-hero-ja.webp",
+  "imageAlt": "明るい背景に韓国スキンケアのボトル、YesStyleのロゴ、リワードコードCECILIA010を配置した購入ガイドのカバー画像。",
+  "imageFit": "contain",
+  "imageAspect": "landscape",
+  "pros": [],
+  "cons": [],
+  "cta": {
+    "text": "カート内で各商品の出荷ステータスと日本向け送料を確認し、Reward Code欄にリワードコードCECILIA010を入力してください。",
+    "label": "YesStyleへ進む",
+    "url": "https://ystyle.co/rQYQv",
+    "sponsored": true
+  },
+  "coupon": "CECILIA010",
+  "affiliate": "yesstyle",
+  "editorialNote": "公式情報に基づく解説で、個人の購入レビューではありません。リンクおよびリワードコードCECILIA010を通じて報酬を受け取る場合があります。",
+  "relatedArticles": [
+    {
+      "slug": "yesstyle-trust-guide-ja"
+    },
+    {
+      "slug": "yesstyle-shipping-japan-ja"
+    },
+    {
+      "slug": "yesstyle-kbeauty-guide-ja"
+    },
+    {
+      "slug": "yesstyle-reward-code-cecilia010-ja"
+    },
+    {
+      "slug": "yesstyle-vs-stylevana-ja"
+    },
+    {
+      "slug": "yesstyle-vs-olive-young-ja"
+    }
+  ],
+  "decision": {
+    "takeIf": [
+      "複数のK-beautyとJ-beautyブランドを1つのカートにまとめ、ショップごとの送料を払わずに買い揃えたいとき",
+      "各商品の香港倉庫からの出荷目安を事前に確認し、厳密な到着指定なしに海外配送を待てるとき",
+      "日本向けの送料無料ラインであるUS$50以上を無理なく満たしつつ、ストアクーポンとリワードコードCECILIA010を併用したいとき"
+    ],
+    "skipIf": [
+      "近い予定に合わせてコスメをすぐ使う必要があり、入荷待ち日数と輸送日数の合計を待つ余裕がないとき",
+      "自宅で化粧品を開封して試してから、合わなければ返品したいと考えているとき（開封済みコスメは返品不可）",
+      "US$50未満の単品1点だけを急いで買いたく、US$5の送料負担で割高感が出てしまうとき"
+    ]
+  },
+  "contentSections": [
+    {
+      "heading": "まずは結論",
+      "paragraphs": [
+        "はい、K-beautyやJ-beautyのスキンケア・メイクアップアイテムを1回の注文でまとめて揃えたいとき、急ぎの配送でなければYesStyleは買う価値があります。リワードコードCECILIA010はチェックアウト時にストアクーポンと併用でき、初回購入で5%オフ、2回目以降は2%オフが追加されます。以下で在庫ごとの出荷日数と注文を分ける計算を確認しましょう。"
+      ]
+    },
+    {
+      "heading": "YesStyleの運営会社と仕組み",
+      "paragraphs": [
+        "YesStyleは2006年創業、香港に本社を置くオンラインストアで、香港証券取引所に上場しているYesAsia Holdings Limited（2209.HK）が運営母体です。すべての注文は香港にある同社の倉庫から150以上の国と地域へ発送されます。",
+        "コスメカテゴリについては、韓国のメーカーまたは正規代理店からK-beautyブランドを直接仕入れているとストア側が表明していますが、第三者機関による独立監査を伴うものではなく自己申告です。企業データや到着時に確認すべきポイントは[YesStyleは安全？](/ja/reviews/yesstyle-trust-guide-ja)に、各国の最近の配送評価は[YesStyleのTrustpilot評価](/ja/reviews/yesstyle-trustpilot-reviews-ja)にまとめています。"
+      ]
+    },
+    {
+      "heading": "カタログで狙うべきアイテム",
+      "paragraphs": [
+        "YesStyleの強みは、ブランドごとの公式サイトで別々に送料を払う代わりに、K-beautyとJ-beautyの定番品を1つのカートにまとめられる点にあります。普段のスキンケアを整えたり愛用品をリピートしたりするときに、美容液、エッセンス、化粧水、日焼け止め、メイク、ヘアケアが特に選ばれています。",
+        "ストアの案内によれば、COSRX、SKIN1004、Beauty of Joseon、Anua、Abib、Isntree、Etude Houseなど400以上の韓国ブランドを取り扱うほか、肌ラボ（Hada Labo）やロート製薬など日本のブランドも扱っています。購入前には商品ページで全成分、容量（ml）、バージョン表示を必ず確認してください。"
+      ],
+      "images": [
+        {
+          "src": "/images/reviews/yesstyle/cosrx-advanced-snail-96-essence-yesstyle.webp",
+          "alt": "YesStyleのカタログに掲載されたCOSRX Advanced Snail 96 Mucin Power Essence 100mlボトル",
+          "caption": "YesStyleで取り扱われているK-beautyアイテムの一例、COSRX Advanced Snail 96 Mucin Power Essence。写真：YesStyle。",
+          "objectFit": "square"
+        },
+        {
+          "src": "/images/reviews/yesstyle/skin1004-madagascar-centella-ampoule-yesstyle.webp",
+          "alt": "YesStyleのカタログに掲載されたスポイト付きボトルのSKIN1004 Madagascar Centella Ampoule",
+          "caption": "韓国スキンケアのラインアップに含まれるSKIN1004 Madagascar Centella Ampoule。写真：YesStyle。",
+          "objectFit": "square"
+        }
+      ],
+      "links": [
+        {
+          "label": "K-Beautyとは何か、世界的な人気と購入方法のガイド",
+          "href": "/ja/reviews/yesstyle-kbeauty-guide-ja"
+        }
+      ]
+    },
+    {
+      "heading": "在庫状況と倉庫からの出荷日数",
+      "paragraphs": [
+        "商品バリエーションの横に表示される在庫ステータスは、自宅に届く日ではなく香港の倉庫を出るまでの日数を示しています。合計の待ち時間は商品の出荷準備日数と配送日数を足したもので、いずれも香港時間（GMT+8）の営業日で数えます。"
+      ],
+      "bullets": [
+        "**In-Stock（在庫あり・1〜3営業日）：** 倉庫に在庫が確保されており、速やかに出荷されます。",
+        "**Awaiting Stock: 3-5 days（入荷待ち・3〜5日）：** ストアの地域倉庫から取り寄せたうえで3〜5営業日で出荷されます。",
+        "**Awaiting Stock: 7、7-14、21、30 days（入荷待ち）：** 支払い後にサプライヤーへ手配するため、表示された営業日数だけ出荷を待ちます。"
+      ],
+      "postParagraphs": [
+        "在庫ありの商品と入荷待ちの商品を混ぜて注文すると、1つの荷物にまとめて出荷される場合は一番遅い商品がそろうまで発送が止まります。在庫や配送業者、通関条件によっては、YesStyle側の判断で注文が複数便に分かれて別々の日に届くこともあります。"
+      ],
+      "image": {
+        "src": "/images/reviews/yesstyle/yesstyle-prazo-disponibilidade-mais-envio.webp",
+        "alt": "YesStyleの合計配送日数が商品の在庫準備日数と配送日数の合計であることを示す図解",
+        "caption": "合計の到着目安は、商品ごとの倉庫準備日数と日本までの輸送日数を合算したものです。",
+        "objectFit": "contain",
+        "aspectRatio": 1.7778
+      }
+    },
+    {
+      "heading": "遅い商品を残す・外す・分ける：2パターンの送料計算",
+      "paragraphs": [
+        "入荷待ち商品をカートに残すかどうかは、送料無料の最低金額と受け取りたい時期で判断します。日本向けの送料表にはExpress便（4〜5営業日）が掲載されており、US$50以上で送料無料、US$50未満では送料US$5がかかります。",
+        "在庫あり商品US$65と出荷まで7〜14営業日かかる商品US$20を組み合わせた合計US$85のカートを例に、まとめて注文する・遅い商品を外す・注文を2つに分ける場合の日数と送料を比べました。"
+      ],
+      "comparisonTable": {
+        "caption": "2026年11月25日確認の日本向け配送ルールにもとづく試算（在庫ありUS$65 + 7〜14営業日待ちUS$20）。",
+        "headers": [
+          "パターン",
+          "出荷と到着までの合計目安",
+          "日本向け送料（US$50以上で無料）",
+          "向いている選び方"
+        ],
+        "rows": [
+          [
+            "1つの注文にまとめる（US$85）",
+            "まとめ発送なら7〜14営業日で出荷（合計11〜19営業日）",
+            "無料（US$50以上）",
+            "急ぐ予定がなく、送料を一切かけたくないとき"
+          ],
+          [
+            "遅い商品を外す（US$65）",
+            "1〜3営業日で出荷（合計5〜8営業日）",
+            "無料（US$50以上を維持）",
+            "在庫ありの製品だけを追加送料なしで早く受け取りたいとき"
+          ],
+          [
+            "2つの注文に分ける（US$65 + US$20）",
+            "1件目は1〜3営業日で出荷、2件目は7〜14営業日後に待機",
+            "合計US$5（1件目は無料、2件目はUS$50未満のためUS$5）",
+            "遅い商品も確保しつつ、他の商品の到着を待たせたくないとき"
+          ]
+        ]
+      },
+      "postParagraphs": [
+        "税金と関税については、YesStyleに日本向けの税金案内ページがなく、日本向けの税額も事前表示・事前徴収されません。到着時に日本の通関判断で関税や消費税が請求される可能性を念頭に置いておく必要があります。",
+        "クーポン適用前・送料抜きの注文金額がUS$1,000未満で、配達時に関税関連の税金や手数料を支払った場合は、支払い日付入りの領収書を30日以内にカスタマーサービスへメールで送ることでYesStyle Creditによる返金を申請できます。チェックアウト時に徴収済みの税金や、郵便局・配送会社の保管料や受取手数料は返金対象外です。"
+      ],
+      "links": [
+        {
+          "label": "YesStyleの日本への配送：日数・送料・関税",
+          "href": "/ja/reviews/yesstyle-shipping-japan-ja"
+        },
+        {
+          "label": "YesStyleとStylevanaを比較：返品・送料無料の条件・リワードコード",
+          "href": "/ja/reviews/yesstyle-vs-stylevana-ja"
+        }
+      ]
+    },
+    {
+      "heading": "衣類・アクセサリーと返品ルール",
+      "paragraphs": [
+        "YesStyleではセンチメートル表記のサイズ表付きでファッションやアクセサリーも販売されていますが、配送先の国を選ぶと一部の衣料品で日本向け配送不可と表示されることがあります。送料無料の金額に届かせるために服などを追加する前に、各商品ページで配送可否を必ず確認してください。",
+        "自己都合の返品やサイズ交換は、受取から14日以内にRMA番号を申請し、承認後30日以内に発送する必要があります。香港オフィスまたは米国・カナダの返品パートナー宛ての返送料は購入者負担です。また、開封済みの美容製品、サプリメント、特別セール品（Buy 1 Get 1 Free、Clearance、Lucky Bundle、Deals）、インナー類は返品できず、肌トラブルによる返金も対象外です。"
+      ]
+    },
+    {
+      "heading": "リワードコードCECILIA010、ストアクーポン、YS Points",
+      "paragraphs": [
+        "YesStyleの公式規約では、1回の注文につきCoupon Code欄に入力できるプロモーションクーポンは1つまでですが、セール価格、別枠のリワードコードCECILIA010、および支払い時のYS Pointsと併用できます。",
+        "リワードコードCECILIA010は、ウェブサイト（Reward Code欄）とアプリ（Enter Code内のInfluencer / Rewards Code欄）のどちらでも、対象商品に対して初回購入で5%追加、2回目以降は2%追加のオフが適用されます。一部ブランドやセール品は対象外となることがあるため、決済前にカートで両方の値引き行が反映されているか確認してください。現在使えるストアクーポンは[YesStyleクーポンページ](/ja/coupons/yesstyle)にまとめています。"
+      ],
+      "image": {
+        "src": "/images/reviews/yesstyle/yesstyle-app-codigo-checkout-2810.webp",
+        "alt": "Coupon Code欄とInfluencer / Rewards Code欄が分かれており、リワードコードCECILIA010が適用されたYesStyleアプリの3画面",
+        "caption": "YesStyleアプリでストアクーポン欄とは別の専用欄にリワードコードCECILIA010を入力した様子。",
+        "objectFit": "contain",
+        "aspectRatio": 1.4382
+      },
+      "links": [
+        {
+          "label": "リワードコードCECILIA010の使い方をステップ別に解説",
+          "href": "/ja/reviews/yesstyle-reward-code-cecilia010-ja"
+        },
+        {
+          "label": "最新のYesStyleクーポンとリワードコードCECILIA010を見る",
+          "href": "/ja/coupons/yesstyle"
+        }
+      ]
+    },
+    {
+      "heading": "YesStyleが向いている人：タイプ別の結論",
+      "paragraphs": [
+        "韓国や日本のコスメを1つの注文でまとめ買いでき、香港倉庫からの出荷目安を確認しながら待てるなら、YesStyleは品揃えの広さに加え、セール価格、ストアクーポン、リワードコードCECILIA010の組み合わせで負担を抑えやすいストアです。一方、数日以内に手元に欲しい場合や開封後の無料返品を重視する場合は国内ショップと比べるのが安心です。"
+      ],
+      "bullets": [
+        "**向いている人：** 在庫あり（In-Stock）のK-beauty・J-beautyアイテムをまとめて注文し、無駄な買い足しなしでUS$50以上の送料無料ラインを自然に超えられるとき。",
+        "**向かない人：** 決まった期日までに急ぎで必要なとき、US$50未満の少額アイテム1点だけ欲しいとき、開封して試した後に返品できることを前提に買いたいとき。"
+      ],
+      "emphasis": "Cecíliaのまとめ：在庫あり商品に絞って箱全体の発送遅れを防ぎ、送料無料のために不要な品を増やす代わりに、ストアクーポンとリワードコードCECILIA010を併用するのがYesStyleを賢く使うコツです。",
+      "links": [
+        {
+          "label": "YesStyleとOlive Youngを比較：送料無料・税金・返品",
+          "href": "/ja/reviews/yesstyle-vs-olive-young-ja"
+        }
+      ]
+    },
+    {
+      "heading": "よくある質問",
+      "bullets": [
+        "YesStyleは本当に買う価値がありますか？はい、複数のK-beautyやJ-beautyブランドをまとめて購入し、商品ごとの出荷ステータスを確認したうえで、ストアクーポンとリワードコードCECILIA010を組み合わせて使うならメリットが大きいです。",
+        "YesStyleのリワードコードは何で、いくらお得になりますか？リワードコードCECILIA010を入力すると、対象商品で初回購入が5%追加、2回目以降は2%追加のオフになります。通常のクーポン欄とは別のReward Code欄に入れ、ストアのクーポン1つ、セール価格、YS Pointsと併用できます。",
+        "入荷待ちの商品が1つあるだけで注文全体が遅れるのはなぜですか？1つの荷物でまとめて出荷される場合、香港倉庫からの発送は最も手配に時間がかかる商品（最大30営業日）がそろうまで待つためです。決済前に必ず各商品の在庫状況を確認してください。",
+        "日本向けの送料無料条件と関税返金はどうなっていますか？日本へはExpress便でUS$50以上が送料無料、US$50未満は送料US$5です。クーポン前・送料抜きでUS$1,000未満の注文に関税等がかかった場合、領収書の日付から30日以内に提出すればYesStyle Creditで返金申請できますが、郵便保管料や購入時に徴収済みの税金は対象外です。",
+        "YesStyleで衣類や開封済みの化粧品は返品できますか？自己都合返品は受取後14日以内にRMAを申請する必要があり、返送料は自己負担です。また一部の衣類は配送先によって発送対象外となります。開封したコスメ、サプリメント、インナー類は返品できません。"
+      ]
+    }
+  ]
+}
