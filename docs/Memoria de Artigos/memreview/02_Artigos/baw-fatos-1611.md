@@ -79,6 +79,11 @@ bawclothing.com.br, 11 anos no Reclame Aqui.
 
 ## 4. De quem é a BAW (imprensa, lida em 16/11/2026)
 
+**Correção de 25/11/2026:** a seção 11 registra que da FashionUnited só se leu o título (o corpo pede cadastro). As
+linhas abaixo que citam só a FashionUnited (o faturamento de R$ 40 milhões e a loja do Bom Retiro) não têm o trecho
+lido: ficam **a confirmar** e não se citam até alguém ler a reportagem. A compra por R$ 105 milhões tem outra fonte, o
+Mercado & Consumo, que o `baw-clothing-e-confiavel` cita. Contradição apontada pela revisão do Programa de Demanda (#1443).
+
 | Fato | Fonte |
 |---|---|
 | Marca de streetwear fundada em 2014 pelos irmãos Bruno e Lucas Karra | Mercado & Consumo, 2021 (`mercadoeconsumo.com.br/11/06/2021/ecommerce/arezzo-confirma-aquisicao-da-baw-clothing-por-r-105-milhoes/`); só o resumo da busca foi lido |

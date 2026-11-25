@@ -11,7 +11,7 @@ Fluxo v2. Plano em `ROTEIRO-PILOTO.md`; perguntas e escopo em `0-orientacao.md`;
 | `sinais.csv`, `resumo-sinais.md`, `relatos/etapa-3.md` | Pesquisa | BAW: interesse externo (etapa 3), `local_03eee6e1-fdee-4fa2-b2cc-bf2b8a5779f3` | `docs/demanda-baw-etapa3`, #1184 |
 | `nossos-dados.csv`, `comercial.csv`, `cobertura.csv`, `relatos/etapa-4.md` | Dados | BAW: dados do parceiro e cobertura (etapa 4), `local_b6baaa22-0b04-421b-9742-052c18fe6405` | `docs/demanda-baw-etapa4` (#1138), `docs/demanda-baw-etapa4b` (#1140), recorte dirigido (#1190, #1192) e correção (#1193) |
 | `3-matriz/matriz.csv`, `3-matriz/LEITURA.md`, `relatos/etapa-5.md` | Analista | BAW: análise (etapa 5), `local_f80a0ce2-52ea-465f-8f20-f1e42885e881` | `docs/demanda-baw-etapa5`, #1441 |
-| `3-matriz/REVISAO.md` | Revisor | cartão "BAW: revisão da análise" proposto em 25/11, espera o Bruno iniciar | — |
+| `3-matriz/REVISAO.md` | Revisor | BAW: revisão da análise, `local_11195b15-472e-446a-81f5-cb5ec5e06d4b` | #1443 |
 
 ## Tempo
 
@@ -27,9 +27,10 @@ Fluxo v2. Plano em `ROTEIRO-PILOTO.md`; perguntas e escopo em `0-orientacao.md`;
 | Releitura da vitrine (etapa 3) | 2026-11-24 18:07 | 2026-11-24 18:15 | 8 | Mensagem 3 |
 | Cobertura nova (4B) | 2026-11-25 00:21 | 2026-11-25 00:33 | 12 | Mensagem 4 |
 | Análise (etapa 5) | 2026-11-25 00:46 | 2026-11-25 01:03 | 17 | Relógio da máquina |
+| Revisão, primeira passada | 2026-11-25 01:05 | 2026-11-25 01:15 | 10 | Relógio da máquina |
 
 Soma do trabalho das sessões do parceiro até 18/11: 77 minutos (31 + 20 + 6 + 20), sem a coordenação e sem as esperas.
-Com a releitura, a cobertura nova e a análise: 114 minutos (77 + 8 + 12 + 17).
+Com a releitura, a cobertura nova, a análise e a primeira passada da revisão: 124 minutos (77 + 8 + 12 + 17 + 10).
 
 ## Registro
 
@@ -75,6 +76,14 @@ Com a releitura, a cobertura nova e a análise: 114 minutos (77 + 8 + 12 + 17).
 - **2026-11-25 01:05:** o Bruno tinha pedido para abrir a revisão quando a análise entregasse. A abertura direta foi
   recusada, porque o turno veio da mensagem da análise, e não do Bruno; a revisão ficou como cartão proposto, à espera de
   ele iniciar.
+- **2026-11-25 01:05 a 01:15:** o Bruno iniciou o cartão. Primeira passada da revisão no #1443, sobre o commit
+  `5ad2ca03`: a matriz sai igual do gerador e o validador passa. 30 linhas `pronta` e 5 `devolvida`: op-baw-0006, 0009,
+  0012, 0013 e 0014. As duas altas (0012 e 0013) ficam altas, mas a leitura da oferta nova tem de ser condicionada ao
+  carrinho de 27/11; a 0014 perdeu a leitura da `/combos` de 18/11. Bruto aberto em 24 linhas (as 10 obrigatórias e
+  mais 14) e as outras 11 conferidas pelo registro.
+- **2026-11-25 01:15:** mensagem 5 ao analista: corrigir as 5 linhas, numa branch nova. A coordenação corrigiu a
+  contradição da semente apontada pela revisão (§4 contra §11, FashionUnited): os fatos que só citam a FashionUnited
+  ficam a confirmar.
 
 ## Fechamento de insumos
 
