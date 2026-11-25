@@ -5,7 +5,7 @@ a matriz ou as decisões e gerar de novo. Segundo piloto do Programa de Demanda 
 `5544b2e1` e revisão concluída em 25/11/2026.
 
 **Estado: 35 oportunidades revisadas: 13 com ação recomendada, 4 ideias registradas, 6 de não
-criar e 12 de manter. Todas passaram pela revisão independente (`3-matriz/REVISAO.md`, duas passadas). 4 têm
+criar e 12 de manter. Todas passaram pela revisão independente (`3-matriz/REVISAO.md`, duas passadas). 8 têm
 decisão registrada em `decisoes.json` (duas delas tomadas fora do programa, antes da análise); as outras esperam o Bruno.**
 
 Revisão, decisão e execução são coisas diferentes: a matriz guarda o estado da revisão; a decisão do Bruno e o que já
@@ -91,7 +91,8 @@ O resto não tem prazo. As páginas da BAW têm poucos dias de dado: o export ú
 - **Pendências e notas:** O texto da resposta do "As pessoas também perguntam" não foi aberto na coleta: não sabemos o que o Google responde. A releitura da página do Google é do redator, no dia. Planos de exterior: estão só no título da reportagem da Pipeline ("A vida após Azzas: Baw Clothing quer exterior e sócios influenciadores", 14/07/2026), da qual se leram a linha fina e os dois primeiros parágrafos (semente, seções 10 e 11); a BW3 não os cita, e se entrarem é com atribuição ao título. Correção de 25/11, item 4.1 da revisão.
 - **Destino, se aprovada:** Sessão de artigos, com esta ficha como escopo
 - **Revisado por:** sessão de revisão independente, 25/11/2026
-- **Decisão do Bruno:** em espera
+- **Decisão do Bruno:** aprovada no pacote de links e capítulos: "O que aconteceu com a BAW?" e "A BAW faliu?" na BW3 `baw-clothing-e-confiavel`, só com o que as reportagens citadas dizem, em 2026-11-25
+- **Execução:** pendente: enviada à sessão de artigos em 25/11 (GO do Bruno na sessão de coordenação, 25/11 ("Sim, aprovar pacote": 0021, 0022, 0023 e 0006))
 
 ### op-baw-0009 · criar-artigo · prioridade media
 
@@ -137,7 +138,8 @@ O resto não tem prazo. As páginas da BAW têm poucos dias de dado: o export ú
 - **Pendências e notas:** A BW6 também fala de medidas peça a peça; um link para a BW10 cabe na mesma edição da op-baw-0012.
 - **Destino, se aprovada:** Sessão de artigos
 - **Revisado por:** sessão de revisão independente, 25/11/2026
-- **Decisão do Bruno:** em espera
+- **Decisão do Bruno:** aprovada no pacote de links e capítulos: link para a BW10 `tabela-medidas-baw` nos capítulos de tamanho da BW1 `cupom-baw-como-usar` e da BW4 `cupom-baw-primeira-compra`, e na BW6 `black-friday-baw`, em 2026-11-25
+- **Execução:** pendente: enviada à sessão de artigos em 25/11 (GO do Bruno na sessão de coordenação, 25/11 ("Sim, aprovar pacote": 0021, 0022, 0023 e 0006))
 
 ### op-baw-0022 · links-internos · prioridade media
 
@@ -152,7 +154,8 @@ O resto não tem prazo. As páginas da BAW têm poucos dias de dado: o export ú
 - **Pendências e notas:** O capítulo da BW5 pode encolher para a resposta curta e o link, como foi feito com o regular ou oversized (Fila, seção 4).
 - **Destino, se aprovada:** Sessão de artigos
 - **Revisado por:** sessão de revisão independente, 25/11/2026
-- **Decisão do Bruno:** em espera
+- **Decisão do Bruno:** aprovada no pacote de links e capítulos: link para a BW7 `tenis-baw-e-bom` no capítulo do tênis da BW5 `baw-clothing-e-boa` e no do Thunder da BW6 `black-friday-baw` (a edição da BW6 de 25/11, #1469, não trouxe o link), em 2026-11-25
+- **Execução:** pendente: enviada à sessão de artigos em 25/11 (GO do Bruno na sessão de coordenação, 25/11 ("Sim, aprovar pacote": 0021, 0022, 0023 e 0006))
 
 ### op-baw-0008 · melhorar-capitulo · prioridade baixa
 
@@ -212,7 +215,8 @@ O resto não tem prazo. As páginas da BAW têm poucos dias de dado: o export ú
 - **Pendências e notas:** Quando a BW12 (Piet) for ao ar, entra no mesmo lugar.
 - **Destino, se aprovada:** Sessão de artigos
 - **Revisado por:** sessão de revisão independente, 25/11/2026
-- **Decisão do Bruno:** em espera
+- **Decisão do Bruno:** aprovada no pacote de links e capítulos: link para a BW11 `baw-ou-carnan` (e a BW8 `baw-ou-pace`) no capítulo "Para quem a BAW faz sentido" da BW5 e na BW10, em 2026-11-25
+- **Execução:** pendente: enviada à sessão de artigos em 25/11 (GO do Bruno na sessão de coordenação, 25/11 ("Sim, aprovar pacote": 0021, 0022, 0023 e 0006))
 
 ### op-baw-0025 · criar-artigo · prioridade baixa
 

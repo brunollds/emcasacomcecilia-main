@@ -22,5 +22,29 @@
     "data": "2026-11-25",
     "execucao": "concluída: carrinho de 25/11 feito pela coordenação e /cupons/baw atualizada pela sessão de cupons com o teste de 25/11 e a soma com o \"pague 3, leve 4\", frete grátis mantido como aviso do site (PR #1467, revisado pela \"Redesenho do site\"); no ar em 25/11, conferido às 18:15",
     "evidencia": "carrinho de 25/11, coleta 1-bruto/20261125-1617-navegador-carrinho (FONTE.md); GO do Bruno na sessão de coordenação, 25/11 (\"Sim, aprovar\", \"Esta sessão faz\" e \"Sim, mandar\"); PR #1467"
+  },
+  "op-baw-0021": {
+    "decisao": "aprovada no pacote de links e capítulos: link para a BW10 `tabela-medidas-baw` nos capítulos de tamanho da BW1 `cupom-baw-como-usar` e da BW4 `cupom-baw-primeira-compra`, e na BW6 `black-friday-baw`",
+    "data": "2026-11-25",
+    "execucao": "pendente: enviada à sessão de artigos em 25/11",
+    "evidencia": "GO do Bruno na sessão de coordenação, 25/11 (\"Sim, aprovar pacote\": 0021, 0022, 0023 e 0006)"
+  },
+  "op-baw-0022": {
+    "decisao": "aprovada no pacote de links e capítulos: link para a BW7 `tenis-baw-e-bom` no capítulo do tênis da BW5 `baw-clothing-e-boa` e no do Thunder da BW6 `black-friday-baw` (a edição da BW6 de 25/11, #1469, não trouxe o link)",
+    "data": "2026-11-25",
+    "execucao": "pendente: enviada à sessão de artigos em 25/11",
+    "evidencia": "GO do Bruno na sessão de coordenação, 25/11 (\"Sim, aprovar pacote\": 0021, 0022, 0023 e 0006)"
+  },
+  "op-baw-0023": {
+    "decisao": "aprovada no pacote de links e capítulos: link para a BW11 `baw-ou-carnan` (e a BW8 `baw-ou-pace`) no capítulo \"Para quem a BAW faz sentido\" da BW5 e na BW10",
+    "data": "2026-11-25",
+    "execucao": "pendente: enviada à sessão de artigos em 25/11",
+    "evidencia": "GO do Bruno na sessão de coordenação, 25/11 (\"Sim, aprovar pacote\": 0021, 0022, 0023 e 0006)"
+  },
+  "op-baw-0006": {
+    "decisao": "aprovada no pacote de links e capítulos: \"O que aconteceu com a BAW?\" e \"A BAW faliu?\" na BW3 `baw-clothing-e-confiavel`, só com o que as reportagens citadas dizem",
+    "data": "2026-11-25",
+    "execucao": "pendente: enviada à sessão de artigos em 25/11",
+    "evidencia": "GO do Bruno na sessão de coordenação, 25/11 (\"Sim, aprovar pacote\": 0021, 0022, 0023 e 0006)"
   }
 }
