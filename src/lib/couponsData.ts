@@ -4802,7 +4802,7 @@ const STORE_COUPONS: Coupon[] = [
     combinable:
       'Soma com as promoções vigentes do site e com os 5% de desconto do Pix, e vale com todas as formas de pagamento e no aplicativo; o frete grátis depende do valor do pedido, não do cupom',
     stacking: [
-      { benefit: 'promocoes', stacks: 'sim', condition: 'Entra sobre o preço promocional: no teste, os 10% entraram numa camiseta em promoção de Black Friday' },
+      { benefit: 'promocoes', stacks: 'sim', condition: 'Soma com as promoções: no teste, o código entrou junto com o "pague 3, leve 4" da Black Week' },
       { benefit: 'pix', stacks: 'sim', condition: 'No Pix, a loja dá 5% de desconto, que soma com o código' },
       { benefit: 'frete', stacks: 'depende', condition: 'Grátis a partir de R$ 399, segundo o aviso do site; abaixo disso, o frete sai pelo CEP, à parte do cupom' },
     ],
@@ -4810,10 +4810,10 @@ const STORE_COUPONS: Coupon[] = [
       'Até 10x sem juros no cartão, com parcela mínima de R$ 50',
       'Programa de fidelidade BAWPOINTS, com pontos e cashback para quem se cadastra no site',
     ],
-    lastVerified: '2026-11-22',
-    testedAt: '2026-11-17',
+    lastVerified: '2026-11-25',
+    testedAt: '2026-11-25',
     testNote:
-      'Num carrinho com duas camisetas, a Regular Locally Grown pelo preço cheio de R$ 89,00 e a Regular Goth 3.0 em promoção de Black Friday, de R$ 89,00 por R$ 59,00, o BAWEMCASACOMCECILIA tirou R$ 14,80 dos R$ 148,00 e o total caiu para R$ 133,20: os 10% entraram também sobre a peça em promoção. O frete, calculado pelo CEP, ficou de fora do desconto. Em 17/11/2026, o BAWEMCASACOMCECILIA e o FIRSTBAW, o cupom de primeira compra da própria BAW, deram o mesmo desconto no mesmo carrinho, no aplicativo e no site. No site, com a Camiseta Regular Logo e a Camiseta Regular Pima, os dois tiraram R$ 20,80 de R$ 208,00, e o total ficou em R$ 187,20.',
+      'Na Black Week, com três camisetas BR Regular em promoção, o BAWEMCASACOMCECILIA tirou R$ 22,70 dos R$ 227,00 e o total caiu para R$ 204,30. Com a quarta camiseta, o "pague 3, leve 4" da loja entrou junto com o código: as quatro, que somavam R$ 306,00 na vitrine, saíram por R$ 213,30. O frete, calculado pelo CEP, ficou de fora do desconto. Em 17/11/2026, o BAWEMCASACOMCECILIA e o FIRSTBAW, o cupom de primeira compra da própria BAW, deram o mesmo desconto no mesmo carrinho, no aplicativo e no site. No site, com a Camiseta Regular Logo e a Camiseta Regular Pima, os dois tiraram R$ 20,80 de R$ 208,00, e o total ficou em R$ 187,20.',
     codeInstructions: [
       'Copie o código BAWEMCASACOMCECILIA no card acima.',
       'Acesse o site oficial da BAW Clothing pelo botão indicado, escolha o tamanho de cada peça e coloque no carrinho.',
@@ -4826,7 +4826,7 @@ const STORE_COUPONS: Coupon[] = [
       {
         question: 'Quanto de desconto o cupom BAWEMCASACOMCECILIA dá?',
         answer:
-          '10% OFF em todo o site e no aplicativo da BAW Clothing. No nosso teste, o cupom tirou R$ 14,80 de um carrinho de R$ 148,00, e o resumo mostrou o valor na linha Cupom.',
+          '10% OFF em todo o site e no aplicativo da BAW Clothing. No nosso teste, o cupom tirou R$ 22,70 de um carrinho de R$ 227,00, e o resumo mostrou o valor na linha Cupom.',
       },
       {
         question: 'O cupom BAWEMCASACOMCECILIA soma com o desconto do Pix?',
@@ -4851,7 +4851,7 @@ const STORE_COUPONS: Coupon[] = [
       {
         question: 'O cupom soma com produtos em promoção?',
         answer:
-          'Sim. No nosso teste, uma das camisetas estava em promoção de Black Friday, de R$ 89,00 por R$ 59,00, e o cupom tirou os 10% dela também.',
+          'Sim. No nosso teste, na Black Week, o cupom tirou R$ 22,70 de três camisetas em promoção que somavam R$ 227,00. Com a quarta camiseta, ele somou com o "pague 3, leve 4" da loja, e as quatro saíram por R$ 213,30.',
       },
       {
         question: 'O cupom BAWEMCASACOMCECILIA está funcionando hoje?',
@@ -4871,12 +4871,12 @@ const STORE_COUPONS: Coupon[] = [
       {
         question: 'Tem cupom BAW Clothing na Black Friday?',
         answer:
-          'Tem. O cupom BAW Clothing BAWEMCASACOMCECILIA dá 10% OFF no site oficial, em todas as formas de pagamento, e é o mesmo código do resto do ano. Na Black Friday, a BAW anuncia peças com até 80% OFF, e os 10% do código entram sobre o preço da campanha.',
+          'Tem. O cupom BAW Clothing BAWEMCASACOMCECILIA dá 10% OFF no site oficial, em todas as formas de pagamento, e é o mesmo código do resto do ano. Na Black Friday, a BAW anuncia peças com até 80% OFF, e os 10% do código somam com a campanha.',
       },
       {
         question: 'O cupom BAW Clothing vale na Black Friday?',
         answer:
-          'Vale. No nosso teste, em novembro, os 10% entraram numa camiseta que já estava em promoção de Black Friday. Confira a linha Cupom no resumo antes de pagar.',
+          'Vale. No nosso teste, em novembro, os 10% entraram nas camisetas em promoção da Black Week e somaram com o "pague 3, leve 4" da loja. Confira a linha Cupom no resumo antes de pagar.',
       },
       {
         question: 'O cupom dá frete grátis?',

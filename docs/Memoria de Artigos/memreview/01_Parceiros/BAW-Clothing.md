@@ -93,3 +93,7 @@ fora da página.
 - Marca-d'água: `/images/logos/watermarks/baw.webp`, do mesmo SVG, na cor das marcas-d'água (#0F1D3A).
 - Print do resumo com o cupom: `/images/reviews/baw/cupom-baw-carrinho-com-cupom.webp` (do teste de 16/11;
   demonstração visual, sem data).
+
+## Teste de 25/11/2026 (Black Week)
+
+Carrinho pelo navegador, sem login e sem compra (evidência em `05_Demanda/parceiros/baw/1-bruto/20261125-1617-navegador-carrinho/`). Três camisetas BR Regular em promoção: R$ 227,00 → R$ 204,30 com o BAWEMCASACOMCECILIA (linha Cupom, menos R$ 22,70). Quatro camisetas (R$ 306,00 na vitrine): subtotal R$ 243,90 com o "pague 3, leve 4" (a quarta peça a R$ 6,90), Cupom menos R$ 30,60, total R$ 213,30. Pix: a loja anuncia 5%; a base do cálculo não foi vista (pede login). Frete: a faixa diz grátis a partir de R$ 399, mas o resumo cobrou a Loggi (R$ 11,63 a R$ 13,06, CEP 01001-000) em carrinhos acima disso: frete grátis não confirmado. Fim da Black Week e peças do "pague 3, leve 4": a loja não publica. O teste de 17/11 (R$ 148,00 → R$ 133,20) saiu da página e fica registrado acima.
