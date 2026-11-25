@@ -28797,7 +28797,7 @@ export const recipesData: unknown[] = [
   }
 ];
 
-export const reviewsData: unknown[] = [
+const reviewsChunk0: unknown[] = [
   {
     "id": 232,
     "slug": "poltrona-damie-e-boa",
@@ -149129,7 +149129,10 @@ export const reviewsData: unknown[] = [
         "slug": "pre-treino-black-skull-bope-ou-bone-crusher"
       }
     ]
-  },
+  }
+];
+
+const reviewsChunk1: unknown[] = [
   {
     "id": 611,
     "slug": "whey-mais-mu-qual-escolher",
@@ -261889,7 +261892,10 @@ export const reviewsData: unknown[] = [
         "slug": "lohnt-sich-proton-vpn"
       }
     ]
-  },
+  }
+];
+
+const reviewsChunk2: unknown[] = [
   {
     "id": 1014,
     "slug": "proton-vpn-rimborso-come-disdire",
@@ -349289,3 +349295,5 @@ export const reviewsData: unknown[] = [
     ]
   }
 ];
+
+export const reviewsData: unknown[] = ([] as unknown[]).concat(reviewsChunk0, reviewsChunk1, reviewsChunk2);

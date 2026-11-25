@@ -2,6 +2,7 @@
 // TS gerado com anotação `unknown[]` (NÃO `as const`, NÃO json import):
 // evita a inferência de tipo literal de ~4MB no tsc e funciona em client
 // components (bundler embute como módulo, igual ao literal de hoje).
+// Arrays acima de 400 itens são divididos em chunks `unknown[]` para evitar TS2590.
 // Roda em TODO build (self-healing: drift entre content/ e índice é impossível).
 // Uso: node scripts/content/build-index.mjs
 import { mkdirSync, readFileSync, readdirSync, writeFileSync } from 'node:fs';
@@ -32,9 +33,24 @@ const banner =
   '// GERADO por scripts/content/build-index.mjs a partir de content/ — NÃO EDITAR.\n' +
   '// Regenerado em todo build (npm run build). A fonte da verdade é content/.\n';
 
+function formatUnknownArrayExport(exportName, prefix, items, chunkSize = 400) {
+  if (items.length <= chunkSize) {
+    return `export const ${exportName}: unknown[] = ${JSON.stringify(items, null, 2)};\n`;
+  }
+  const chunkNames = [];
+  const parts = [];
+  for (let i = 0, idx = 0; i < items.length; i += chunkSize, idx += 1) {
+    const chunkName = `${prefix}Chunk${idx}`;
+    chunkNames.push(chunkName);
+    parts.push(`const ${chunkName}: unknown[] = ${JSON.stringify(items.slice(i, i + chunkSize), null, 2)};`);
+  }
+  parts.push(`export const ${exportName}: unknown[] = ([] as unknown[]).concat(${chunkNames.join(', ')});`);
+  return `${parts.join('\n\n')}\n`;
+}
+
 const body =
-  `export const recipesData: unknown[] = ${JSON.stringify(recipes, null, 2)};\n\n` +
-  `export const reviewsData: unknown[] = ${JSON.stringify(reviews, null, 2)};\n`;
+  `${formatUnknownArrayExport('recipesData', 'recipes', recipes)}\n` +
+  formatUnknownArrayExport('reviewsData', 'reviews', reviews);
 
 mkdirSync(path.join('src', 'lib', 'generated'), { recursive: true });
 writeFileSync(path.join('src', 'lib', 'generated', 'content-index.ts'), banner + body);
