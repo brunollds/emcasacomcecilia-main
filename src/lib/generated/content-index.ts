@@ -255856,6 +255856,7 @@ const reviewsChunk1: unknown[] = [
     },
     "publishedAt": "16 de novembro de 2026",
     "publishedAtISO": "2026-11-16",
+    "updatedAt": "2026-11-25",
     "draft": false,
     "isNew": true,
     "imageFit": "contain",
@@ -255903,13 +255904,13 @@ const reviewsChunk1: unknown[] = [
       {
         "heading": "Resposta rápida",
         "paragraphs": [
-          "Vale, sim: a Black Friday da BAW Clothing compensa quando a peça traz medidas na descrição e está no seu tamanho, com a campanha no ar sem data de fim e vitrine até 80% OFF. O cupom BAWEMCASACOMCECILIA dá 10% OFF em cima das promoções e soma com os 5% do Pix; veja sete peças abaixo."
+          "Vale, sim: a Black Friday da BAW Clothing compensa quando a peça traz medidas na descrição e está no seu tamanho, com vitrine até 80% OFF e “pague 3, leve 4” no site todo, sem data de fim. O cupom BAWEMCASACOMCECILIA dá 10% OFF em cima das promoções, entra junto com o leve 4 e soma com os 5% do Pix; veja sete peças abaixo."
         ]
       },
       {
         "heading": "A Black Friday da BAW já começou?",
         "paragraphs": [
-          "Já. O menu do site tem o item Black Friday, e o banner da home anuncia “Black Friday até 80% OFF”, com camisetas, moletons e outras peças em preço promocional. Os moletons aparecem com até 50% de desconto na vitrine.",
+          "Já. O menu do site tem o item Black Friday, e o banner da home anuncia “Black Friday até 80% OFF”, com camisetas, moletons e outras peças em preço promocional. Os moletons aparecem com até 50% de desconto na vitrine. Na semana da Black Friday, o banner da campanha passou a anunciar “Black Week, até 80% OFF, pague 3, leve 4, no site todo”.",
           "A loja não publica regulamento nem datas de início e de fim. Como a campanha pode mudar sem aviso, o preço que vale é o da página no dia da compra.",
           "A faixa do site informa frete grátis a partir de R$ 399, 5% OFF no Pix e parcelamento em até 10x sem juros."
         ]
@@ -255918,6 +255919,7 @@ const reviewsChunk1: unknown[] = [
         "heading": "O cupom soma com a Black Friday?",
         "paragraphs": [
           "Soma. Em 16 de novembro de 2026, montamos um carrinho com a [Camiseta Regular Goth 3.0](https://www.bawclothing.com.br/produto/camiseta-regular-goth-3-0-151220), que estava na campanha de R$ 89,00 por R$ 59,00, e a [Camiseta BR Regular Locally Grown](https://www.bawclothing.com.br/produto/camiseta-br-regular-locally-grown-154255), a R$ 89,00. O BAWEMCASACOMCECILIA tirou R$ 14,80 dos R$ 148,00 em produtos, deixando R$ 133,20 antes do frete: os 10% entraram também sobre a peça em promoção.",
+          "Com o “pague 3, leve 4” no ar, repetimos o teste com quatro camisetas BR Regular, uma de R$ 69,00 e três de R$ 79,00: R$ 306,00 na vitrine. O total ficou em R$ 213,30 antes do frete: a de R$ 69,00 saiu de graça e o código tirou 10% das outras três, R$ 23,70 sobre R$ 237,00. Na tela, a peça grátis aparece a R$ 6,90 e a linha do cupom mostra R$ 30,60; o total é o mesmo. Com três camisetas, sem peça grátis, o código tirou os 10% exatos: R$ 22,70 sobre R$ 227,00.",
           "No Pix, a BAW dá 5% de desconto, que soma com o código. São dois descontos separados. O passo a passo do campo está em [como usar o cupom BAW](/reviews/cupom-baw-como-usar), e as condições do código, na página do [cupom BAW Clothing](/cupons/baw)."
         ]
       },
@@ -256120,6 +256122,7 @@ const reviewsChunk1: unknown[] = [
           "**Tamanho.** As medidas ficam na aba “Descrição” de cada peça, quando a loja publica, com o aviso de variação de até 3%. A loja não tem um guia de tamanhos único.",
           "**Cor.** O preço e os tamanhos disponíveis mudam por cor. Confira o seu tamanho na página, na cor que você quer.",
           "**Total entregue.** O cupom não dá frete grátis: o frete sai pelo CEP. A faixa do site anuncia frete grátis a partir de R$ 399; confira no carrinho se o seu pedido entra. O que se compara é o total, com os produtos já com o desconto e o frete.",
+          "**Pague 3, leve 4.** Nem toda peça entra: no nosso carrinho, uma camiseta de outra linha ficou de fora, e o site não lista quais participam. O carrinho mostra qual peça saiu de graça antes de você pagar.",
           "**Prazo.** A página de entrega diz que o prazo conta a partir do faturamento e que, “em períodos promocionais, os prazos de envio podem sofrer alterações”."
         ]
       },
@@ -256151,6 +256154,7 @@ const reviewsChunk1: unknown[] = [
         "bullets": [
           "Qual é o cupom da BAW Clothing? É o BAWEMCASACOMCECILIA, com 10% OFF no site oficial e no aplicativo da marca, somando com os preços promocionais da Black Friday e com os 5% do Pix.",
           "O cupom soma com a Black Friday da BAW? Soma. O BAWEMCASACOMCECILIA dá 10% OFF em cima do preço da campanha; no nosso teste, entrou numa camiseta que já estava em promoção.",
+          "O cupom vale no pague 3, leve 4 da BAW? Vale. No nosso teste com quatro camisetas, uma saiu de graça e o BAWEMCASACOMCECILIA tirou 10% das outras três. Nem toda peça entra na promoção: o carrinho mostra qual saiu de graça.",
           "Quando acaba a Black Friday da BAW? A loja não publica data de fim nem regulamento. Vale o preço da página no dia da compra.",
           "O cupom da Black Friday vale no app? Sim. O código vale no site oficial e no aplicativo da BAW, e entrou nos dois nos nossos testes.",
           "Posso trocar uma peça comprada na Black Friday? Pela política da loja, pode, em até 7 dias corridos do recebimento. A troca vira crédito na loja; para receber o dinheiro de volta, o pedido é de devolução."
