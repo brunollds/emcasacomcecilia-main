@@ -5507,7 +5507,7 @@ const STORE_COUPONS: Coupon[] = [
       'Confira a linha Descontos e o total no resumo antes de pagar.',
     ],
     aboutBrand:
-      "A Barbour's Beauty é uma marca brasileira de fragrâncias para o corpo: body splash, perfume para cabelo, geleias e cremes hidratantes, óleo de banho, iluminador corporal e a linha masculina Homme, vendidos em unidades e em kits no site oficial. O cupom CECILIALINHARES é o benefício da parceria para quem acompanha o Em Casa com Cecília: 10% OFF, com qualquer forma de pagamento e também sobre os kits em promoção.",
+      "A Barbour's Beauty é uma marca brasileira de fragrâncias para o corpo: body splash, perfume para cabelo, geleias e cremes hidratantes, óleo de banho, iluminador corporal e a linha masculina Homme, vendidos em unidades e em kits no site oficial, thebarboursbeauty.com.br. O cupom CECILIALINHARES é o benefício da parceria para quem acompanha o Em Casa com Cecília: 10% OFF, com qualquer forma de pagamento e também sobre os kits em promoção.",
     faqs: [
       {
         question: "Quanto de desconto o cupom CECILIALINHARES dá na Barbour's?",
@@ -5536,6 +5536,11 @@ const STORE_COUPONS: Coupon[] = [
         question: "O CECILIALINHARES é cupom de influenciadora da Barbour's?",
         answer:
           "Sim. CECILIALINHARES é o cupom do Em Casa com Cecília na Barbour's Beauty e dá 10% OFF no site oficial para clientes novos e antigos.",
+      },
+      {
+        question: "Cupom Barbours e cupom Barbour's Beauty são o mesmo?",
+        answer:
+          "São. Barbours, Barbour's e The Barbours Beauty são a mesma loja, no site thebarboursbeauty.com.br, e o cupom é um só: CECILIALINHARES, com 10% OFF.",
       },
       {
         question: 'O cupom soma com produtos em promoção?',
