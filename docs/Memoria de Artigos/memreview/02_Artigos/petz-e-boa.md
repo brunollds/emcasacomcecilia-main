@@ -1,6 +1,6 @@
 ---
-titulo_provisorio: "Petz é boa? Tudo o que você precisa saber antes de comprar"
-seo_title: "Petz é boa? Marcas próprias, preço e cupom EMCASA"
+titulo_provisorio: "Petz é boa? Quando vale a pena comprar no site e no app (e como pagar menos)"
+seo_title: "Petz é boa? Comprar no site e app vale a pena?"
 meta_description: "O EMCASA dá 10% OFF na Petz, no site e no app, em produto sem oferta. Veja as marcas próprias, quando a promoção ganha e os 5% do Retire na Loja."
 slug_sugerido: "petz-e-boa"
 parceiro: "[[Petz]]"
@@ -28,9 +28,9 @@ affiliate: "petz"
 coupon: "EMCASA"
 ---
 
-# Briefing de Pauta: Petz é boa? Tudo o que você precisa saber antes de comprar (PZ16)
+# Briefing de Pauta: Petz é boa? Quando vale a pena comprar no site e no app (e como pagar menos) (PZ16)
 
-Fatos: `01_Parceiros/Petz.md` (seções 1 a 3), [[petz-fatos-1111]] (seções 3 a 8), [[petz-areia-fatos-1511]] e as leituras de hoje (fim deste arquivo). Sem experiência própria: ninguém da equipe registrou compra ou uso de produto da Petz. É guia da Trilha A do `Anexo-E-Boa-Vale-a-Pena.md`: abre com a afirmação, para quem vale e um motivo concreto, e não inventa uso.
+Fatos: `01_Parceiros/Petz.md` (seções 1 a 3), [[petz-fatos-1111]] (seções 3 a 8), [[petz-areia-fatos-1511]] e as leituras de hoje (fim deste arquivo). Sem experiência própria: ninguém da equipe registrou compra ou uso de produto da Petz. É guia da Trilha A do `Anexo-E-Boa-Vale-a-Pena.md` (v3): abre com a afirmação, para quem vale e um motivo concreto, e não inventa uso.
 
 Origem: análise de outra sessão colada pelo Bruno em 24/11 ("falta o artigo da Petz: é boa ou vale a pena"). Dois pontos dela não se confirmaram na conferência de hoje e mudam o recorte: ver "O que a conferência mudou".
 
@@ -38,7 +38,7 @@ Origem: análise de outra sessão colada pelo Bruno em 24/11 ("falta o artigo da
 
 - **A Petz tem 12 artigos no ar, não 9** (`affiliate: "petz"` em `content/reviews/`): os oito de 11/11, `cupom-petz-primeira-compra`, `areia-para-gato-petz-custo-por-quilo`, `enxoval-filhote-cachorro-lista-com-preco` e `peitoral-cachorro`.
 - **"petz vale a pena" é mesmo busca de investidor e de quem quer trabalhar lá.** O autocompletar devolve "vale a pena investir", "ações petz vale a pena", "afiliado petz", "parceiro petz", "vale a pena trabalhar na petz", além de "assinatura petz vale a pena" (dona: `assinatura-petz-ou-cupom`) e "clube petz vale a pena". A busca aberta de hoje também veio com Money Times, Empiricus e Genial no topo. Confirma a análise: "vale a pena" não vai para o título.
-- **"comprar na petz vale a pena" e "comprar na petz é bom" não aparecem no autocompletar.** "comprar na petz é" só completa com "é seguro", e essa busca já é do `petz-e-confiavel`. O seoTitle proposto na análise ("Comprar no site e app vale a pena?") mirava uma busca sem sinal: saiu.
+- **"comprar na petz vale a pena" e "comprar na petz é bom" não aparecem no autocompletar.** "comprar na petz é" só completa com "é seguro", e essa busca já é do `petz-e-confiavel`. O seoTitle "Comprar no site e app vale a pena?" não tem sinal próprio no autocompletar; ficou por decisão do Bruno (ver Decisões), porque afasta a leitura de investidor.
 - **O que o Google completa para "petz é boa" é produto da marca da casa:** "areia petz é boa", "ração petz é boa", "ração selections petz é boa", "ração da marca petz é boa", "coleira petz é boa". Há ainda "petz é barato". O capítulo que só este artigo pode ter é o das marcas próprias, e é ele que puxa a busca.
 
 ## Conflito com artigo no ar (gate 4)
@@ -144,7 +144,7 @@ Somente PT. Loja brasileira, sem página `/coupons/petz` em outros idiomas.
 
 ## 9. Esqueleto do artigo (Trilha A do anexo)
 
-- **Resposta rápida (40 a 65 palavras, sem R$, sem data):** a afirmação com variação ("Vale, sim" ou "Sim"), para quem (quem quer resolver ração, areia, farmácia e acessórios numa loja só, com a opção de retirar na loja) e o motivo concreto (as marcas próprias têm troca garantida pela loja). Segunda frase: EMCASA, 10% no site e no app em produto sem oferta, somando com os 5% do Retire na Loja onde ele vale. Terceira: por onde começar (marca da casa para quem quer gastar menos; o comparativo para quem compra marca de fora). Rascunho da análise, a adaptar: "Vale a pena, sim, principalmente para quem quer resolver tudo do pet num lugar só […] O cupom EMCASA dá 10% OFF no site e no app nas compras sem oferta e ainda soma mais 5% no Retire na Loja elegível." Trocar "receber rápido" por "Entrega Expressa em algumas regiões".
+- **Resposta rápida (40 a 65 palavras, sem R$, sem data; v3 do anexo: o leque do catálogo e um destaque, sem "pelo rótulo" e sem ressalva operacional na abertura):** a afirmação com variação ("Vale a pena, sim, principalmente para quem…"), para quem (quem quer resolver ração, areia, farmácia e acessórios numa loja só, com a opção de retirar na loja) e o motivo concreto (as marcas próprias têm troca garantida pela loja). Segunda frase: EMCASA, 10% no site e no app em produto sem oferta, somando com os 5% do Retire na Loja onde ele vale. Terceira: por onde começar (marca da casa para quem quer gastar menos; o comparativo para quem compra marca de fora). Rascunho da análise, a adaptar: "Vale a pena, sim, principalmente para quem quer resolver tudo do pet num lugar só […] O cupom EMCASA dá 10% OFF no site e no app nas compras sem oferta e ainda soma mais 5% no Retire na Loja elegível." Trocar "receber rápido" por "Entrega Expressa em algumas regiões".
 - **H2 "Quem é a Petz e onde ver a reputação":** rede brasileira de pet shops, com lojas físicas, site e app; razão social como está no dossiê. Uma frase com os links do "é confiável" e do Reclame Aqui. Sem fusão, sem número de lojas.
 - **H2 "O que a Petz vende":** o mapa por animal e por departamento, em prosa curta ou lista. Sem contagem de produtos.
 - **H2 "As marcas próprias da Petz são boas?":** capítulo central. Tabela: marca (Selections, Nutrifresh, areias Petz, coleira e tapete da marca, se a leitura confirmar), o que é, para quem, o que a ficha declara. A garantia de troca como argumento. "Ração Selections é boa?" responde pela ficha (fase, porte, ingredientes, níveis de garantia) e pela garantia de troca, sem efeito e sem comparar com ração não medida. Areia: resumo e link.
@@ -187,6 +187,6 @@ A fechar na redação, depois das leituras: de 4 a 6 itens das marcas próprias 
 
 A análise colada pelo Bruno pede o briefing; os três pontos abaixo foram fechados por Claude dentro desse pedido e o Bruno pode trocar qualquer um antes da redação.
 
-1. **Título:** o padrão que o Bruno pediu para a série em 24/11 ("<Marca> é boa? Tudo o que você precisa saber antes de comprar"), e não o H1 da análise ("Quando vale a pena comprar no site e no app (e como pagar menos)"). Motivo: "comprar na petz vale a pena" não tem sinal de busca e "vale a pena" puxa a intenção de investidor.
-2. **seoTitle:** "Petz é boa? Marcas próprias, preço e cupom EMCASA", no lugar de "Comprar no site e app vale a pena?", pelo mesmo motivo e porque a busca real é pela marca da casa.
+1. **Título (Bruno, 24/11, segundo pedido):** "Petz é boa? Quando vale a pena comprar no site e no app (e como pagar menos)". Papel: vitrine das linhas da Petz e as três formas de economizar (EMCASA no avulso, EMCASA com os 5% do Retire na Loja, e quando a oferta ou a Assinatura vence), com link para os artigos filhos. A primeira versão deste briefing usava "Tudo o que você precisa saber antes de comprar"; o Bruno manteve o H1 da análise.
+2. **seoTitle (Bruno, 24/11):** "Petz é boa? Comprar no site e app vale a pena?", para afastar a leitura de ações (PETZ3 e AUAU3) sem canibalizar `assinatura-petz-ou-cupom`. Registro da conferência: "comprar na petz vale a pena" não aparece no autocompletar, e a busca de "petz é boa" é pela marca da casa. Por isso o capítulo das marcas próprias continua sendo o central, e "marca própria" entra num H2 e no FAQ, já que saiu do seoTitle.
 3. **Preço em Black Friday:** a campanha vai até 30/11. O artigo tem poucos preços (só a tabela das marcas próprias) e usa o preço de tabela, nunca o riscado; se o item só mostrar preço de campanha, fica sem preço e entra na releitura de 01/12 que a Fila já tem para a Petz.
