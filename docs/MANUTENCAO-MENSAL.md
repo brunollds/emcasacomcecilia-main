@@ -638,6 +638,31 @@ Ao reconferir, atualizar número, data e conclusão. Uma variação material pod
 veredito; trocar apenas a nota preserva uma conclusão possivelmente falsa. Manter atribuição e
 separar claramente dado da marca, dado de plataforma pública e experiência da Cecília.
 
+### Trustpilot: rotina mensal
+
+A reputação da YesStyle é acompanhada pelo Trustpilot, não pelo Reclame Aqui: a loja não tem artigo
+da série Reclame Aqui e não entra no grupo mensal dele (decisão do Bruno, 25/11/2026).
+
+| Loja | Família (`translationKey` no JSON do PT) | Versões | Última leitura |
+|---|---|---|---|
+| YesStyle | `yesstyle-trustpilot-nota-reclamacoes.json` | 11 | 23/11/2026: 4,4 com 105.442 avaliações (#1385) |
+
+Em cada rodada:
+
+1. Reler na página da loja no Trustpilot a nota, o total de avaliações e a data da leitura.
+2. Atualizar as 11 versões juntas, no mesmo PR: o `test:review-i18n` exige a família inteira. Fora
+   do PT são `yesstyle-trustpilot-reviews` (en, ja, ko, zh-hans, zh-hant, ar),
+   `yesstyle-opiniones-trustpilot` (es), `yesstyle-avis-trustpilot` (fr),
+   `yesstyle-recensioni-trustpilot` (it) e `yesstyle-trustpilot-bewertungen` (de).
+3. Se a nota mudou a ponto de mexer na conclusão, rever o veredito e a resposta rápida, não só o
+   número.
+4. Avançar a "Última leitura" da tabela acima.
+
+SHEIN, Hostinger e Starlink também têm família do Trustpilot nos 11 idiomas, mas ainda não estão
+nesta rotina: seguem a regra trimestral desta seção até o Bruno decidir. SHEIN e Hostinger têm artigo
+da série Reclame Aqui (`shein-reclame-aqui-nota-reputacao.json` e
+`hostinger-reclame-aqui-nota-reputacao.json`) e podem entrar no grupo mensal dele.
+
 ---
 
 ## 7. Vídeos
