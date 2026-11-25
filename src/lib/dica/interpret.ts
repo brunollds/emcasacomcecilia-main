@@ -1,12 +1,17 @@
 import { getVocabulary, normalize } from './catalog';
 
 // A IA só interpreta: escolhe termos do vocabulário do catálogo. Loja, código e texto da resposta saem do código.
-// Qualquer falha (sem chave, erro, JSON ruim, demora) devolve null, e a rota cai na busca local.
+// Qualquer falha (sem chave, erro, JSON ruim, demora) devolve null, e a rota cai na busca local, com o motivo no log do
+// servidor (status, tipo do erro, stop_reason), nunca a pergunta nem a chave.
 
 export type Interpretation = { terms: string[]; searchTerm: string; outOfScope: boolean };
 
 const DEFAULT_MODEL = 'claude-haiku-5-5';
 const DEFAULT_TIMEOUT_MS = 4000;
+// O Haiku 5.5 pensa por padrão, e o pensamento gasta o max_tokens: com 300 tokens a resposta saía cortada no meio do
+// JSON. Esforço baixo e folga no teto; desligar o pensamento também resolve, mas acerta menos termos ("presente para
+// minha mãe" deixa de achar Kits e presentes).
+const MAX_TOKENS = 1024;
 
 const INSTRUCTIONS = [
   'Você interpreta perguntas de compra para o site Em Casa com Cecília.',
@@ -38,8 +43,12 @@ function parseJson(text: string): unknown {
 
 export async function interpretQuestion(
   question: string,
-  opts: { fetchImpl?: typeof fetch; apiKey?: string; timeoutMs?: number; model?: string } = {},
+  opts: { fetchImpl?: typeof fetch; apiKey?: string; timeoutMs?: number; model?: string; onFailure?: (reason: string) => void } = {},
 ): Promise<Interpretation | null> {
+  const fail = (reason: string) => {
+    (opts.onFailure ?? ((text: string) => console.warn(`[dica] IA sem resposta útil: ${text}`)))(reason);
+    return null;
+  };
   const apiKey = opts.apiKey ?? process.env.ANTHROPIC_API_KEY_DICA_SITE;
   if (!apiKey) return null;
   const fetchImpl = opts.fetchImpl ?? fetch;
@@ -52,7 +61,8 @@ export async function interpretQuestion(
       headers: { 'x-api-key': apiKey, 'anthropic-version': '2023-06-01', 'content-type': 'application/json' },
       body: JSON.stringify({
         model: opts.model ?? (process.env.DICA_AI_MODEL || DEFAULT_MODEL),
-        max_tokens: 300,
+        max_tokens: MAX_TOKENS,
+        output_config: { effort: 'low' },
         system: [
           { type: 'text', text: INSTRUCTIONS },
           { type: 'text', text: getVocabularyBlock(), cache_control: { type: 'ephemeral' } },
@@ -61,11 +71,18 @@ export async function interpretQuestion(
       }),
       signal: controller.signal,
     });
-    if (!response.ok) return null;
-    const data = (await response.json()) as { content?: { type: string; text?: string }[] };
+    if (!response.ok) {
+      const body = (await response.json().catch(() => undefined)) as { error?: { type?: unknown } } | undefined;
+      const type = typeof body?.error?.type === 'string' ? body.error.type : 'sem tipo';
+      return fail(`HTTP ${response.status} (${type})`);
+    }
+    const data = (await response.json()) as { content?: { type: string; text?: string }[]; stop_reason?: unknown };
+    if (data.stop_reason === 'max_tokens') return fail('resposta cortada (stop_reason max_tokens)');
     const text = data.content?.find((block) => block.type === 'text')?.text ?? '';
     const parsed = parseJson(text) as { termos?: unknown; buscaDicas?: unknown; foraDeEscopo?: unknown } | undefined;
-    if (!parsed || !Array.isArray(parsed.termos)) return null;
+    if (!parsed || !Array.isArray(parsed.termos)) {
+      return fail(`${text ? 'JSON inválido' : 'sem texto'} (stop_reason ${String(data.stop_reason ?? 'nenhum')})`);
+    }
 
     const vocabulary = getVocabulary();
     const terms = [
@@ -78,8 +95,8 @@ export async function interpretQuestion(
     ];
     const searchTerm = typeof parsed.buscaDicas === 'string' ? parsed.buscaDicas.trim().slice(0, 60) : '';
     return { terms, searchTerm, outOfScope: parsed.foraDeEscopo === true };
-  } catch {
-    return null;
+  } catch (error) {
+    return fail(controller.signal.aborted ? 'tempo esgotado' : `falha de rede (${error instanceof Error ? error.name : 'erro'})`);
   } finally {
     clearTimeout(timer);
   }

@@ -146,8 +146,48 @@ async function main() {
   });
   assert.deepEqual(interpreted?.terms.map(normalize), ['whey protein'], 'termo fora do vocabulário ou repetido');
   assert.equal(interpreted?.searchTerm, 'whey');
-  assert.equal(await interpretQuestion('x', { apiKey: 'teste', fetchImpl: reply('não sei') }), null);
-  assert.equal(await interpretQuestion('x', { apiKey: 'teste', fetchImpl: reply('{"termos":[]}', 500) }), null);
+  // O corpo da chamada: esforço baixo e folga no teto (no Haiku 5.5 o pensamento vem ligado e gastava os 300 tokens antes
+  // do fim do JSON). Sem temperature, top_p ou top_k: fora do padrão, o Haiku 5.5 responde 400.
+  let sentBody: Record<string, unknown> = {};
+  const capture = (async (_url: string, init?: RequestInit) => {
+    sentBody = JSON.parse(String(init?.body));
+    // Resposta com o bloco de pensamento antes do texto, como o Haiku 5.5 devolve quando pensa.
+    return new Response(
+      JSON.stringify({ content: [{ type: 'thinking', thinking: '' }, { type: 'text', text: '{"termos":["whey protein"]}' }], stop_reason: 'end_turn' }),
+    );
+  }) as unknown as typeof fetch;
+  const afterThinking = await interpretQuestion('tem whey?', { apiKey: 'teste', fetchImpl: capture });
+  assert.deepEqual(afterThinking?.terms.map(normalize), ['whey protein'], 'texto depois do bloco de pensamento');
+  assert.deepEqual(sentBody.output_config, { effort: 'low' }, 'esforço da chamada');
+  assert.ok(Number(sentBody.max_tokens) >= 1024, 'max_tokens sem folga para o JSON');
+  for (const key of ['thinking', 'temperature', 'top_p', 'top_k']) assert.ok(!(key in sentBody), `${key} na chamada`);
+
+  // Cada falha devolve null e diz o motivo, sem a pergunta nem a chave.
+  const reasons: string[] = [];
+  const quiet = { apiKey: 'chave-secreta', onFailure: (reason: string) => reasons.push(reason) };
+  assert.equal(await interpretQuestion('meu email a@b.com', { ...quiet, fetchImpl: reply('não sei') }), null);
+  assert.equal(await interpretQuestion('x', { ...quiet, fetchImpl: reply('{"termos":[]}', 500) }), null);
+  // O caso de 25/11: o pensamento gastou o teto e o JSON saiu cortado.
+  const cut = (async () =>
+    new Response(
+      JSON.stringify({ content: [{ type: 'thinking', thinking: '' }, { type: 'text', text: '{"termos": ["Whey protein"],' }], stop_reason: 'max_tokens' }),
+    )) as unknown as typeof fetch;
+  assert.equal(await interpretQuestion('x', { ...quiet, fetchImpl: cut }), null);
+  // Cortado num ponto em que o JSON ainda fecha: também é falha, e não uma lista de termos pela metade.
+  const cutButValid = (async () =>
+    new Response(JSON.stringify({ content: [{ type: 'text', text: '{"termos":["whey protein"]}' }], stop_reason: 'max_tokens' }))) as unknown as typeof fetch;
+  assert.equal(await interpretQuestion('x', { ...quiet, fetchImpl: cutButValid }), null);
+  const unauthorized = (async () =>
+    new Response(JSON.stringify({ type: 'error', error: { type: 'authentication_error', message: 'invalid x-api-key' } }), { status: 401 })) as unknown as typeof fetch;
+  assert.equal(await interpretQuestion('x', { ...quiet, fetchImpl: unauthorized }), null);
+  assert.deepEqual(reasons, [
+    'JSON inválido (stop_reason nenhum)',
+    'HTTP 500 (sem tipo)',
+    'resposta cortada (stop_reason max_tokens)',
+    'resposta cortada (stop_reason max_tokens)',
+    'HTTP 401 (authentication_error)',
+  ]);
+  assert.ok(!reasons.join(' ').includes('chave-secreta') && !reasons.join(' ').includes('a@b.com'), 'segredo ou pergunta no motivo');
   let called = false;
   const spy = (async () => {
     called = true;
@@ -157,7 +197,8 @@ async function main() {
   assert.equal(called, false, 'chamou a IA sem chave');
   const hang = ((_url: string, init?: RequestInit) =>
     new Promise((_resolve, reject) => init?.signal?.addEventListener('abort', () => reject(new Error('abort'))))) as unknown as typeof fetch;
-  assert.equal(await interpretQuestion('x', { apiKey: 'teste', fetchImpl: hang, timeoutMs: 50 }), null);
+  assert.equal(await interpretQuestion('x', { ...quiet, fetchImpl: hang, timeoutMs: 50 }), null);
+  assert.equal(reasons.at(-1), 'tempo esgotado');
 
   // Limites por IP: 1 a cada 3 s, 8 em 5 min, 25 no dia. As mesmas regras na memória e nos arquivos; nos arquivos, a
   // memória é zerada antes de cada pergunta, como se cada uma caísse num processo novo.
