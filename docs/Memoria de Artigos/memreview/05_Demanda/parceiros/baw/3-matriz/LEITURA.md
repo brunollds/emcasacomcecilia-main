@@ -59,7 +59,7 @@ Gerado por `montar-matriz.cjs`: 35 oportunidades (`op-baw-0001` a `op-baw-0035`)
 | P4 | Loja física: criar, com dependências de fonte. Collabs à venda: ideia registrada até o código ser testado numa peça delas. Collabs fora do site: não criar | `op-baw-0009`, `0029`, `0030` |
 | P5 | O erro sobre o dono é de terceiros e a BW3 já o corrige. O ChatGPT acha o nosso código, mas recomenda trocá-lo na primeira compra; a BW4 já diz o que o teste mostrou. Nenhuma visão de IA do Google cita o nosso site | `op-baw-0001`, `0003`, `0005` |
 | P6 | Sem leitura da loja oficial (bloqueio em 16 e 18/11). A frase genérica dos artigos está certa; melhora só com a leitura | `op-baw-0008` |
-| P7 | Perguntas sem resposta nos onze: "o que aconteceu com a BAW" e "faliu", "o que significa BAW", desconto progressivo, modelos de tênis que a loja não vende hoje, loja física | `op-baw-0006`, `0007`, `0009`, `0014`, `0015` |
+| P7 | Perguntas sem resposta nos onze: "o que aconteceu com a BAW" e "faliu", "o que significa BAW", desconto progressivo (a loja não publica escala na `/combos`, lida em 18/11; faltam o banner dela, as páginas de kit e o carrinho), modelos de tênis que a loja não vende hoje, loja física | `op-baw-0006`, `0007`, `0009`, `0014`, `0015` |
 
 ## 3. Fatos que decidem (dado, com o id)
 
@@ -80,6 +80,9 @@ Gerado por `montar-matriz.cjs`: 35 oportunidades (`op-baw-0001` a `op-baw-0035`)
 - **Visão de IA de "cupom baw"** (`sin-baw-0822`; bruto `serp-09-cupom-baw.txt`, linhas 21 e 25): descreve "descontos
   progressivos" com escalas de sites de cupom e "Frete Grátis: Disponível para pedidos acima de R$ 499"; a
   `/cupons/baw` diz R$ 399, pela faixa do site.
+- **Página de combos, 18/11** (coleta `20261118-1314-navegador-paginas`, `pagina-combos.txt`, sem linha de sinal): a
+  `/combos` é vitrine de peças avulsas ("68 PRODUTOS"), sem regra de combo, de "leve N" ou de preço por quantidade no
+  texto; o banner de topo não foi baixado (`op-baw-0014`).
 - **Nossos dados, 16 a 18/11** (`nos-baw-0431` a `0506`): 3 impressões por consulta e 4 por página, nenhum clique; 1
   visitante na `/cupons/baw` e 1 na BW4. Nada disso mede demanda. BW7 a BW11 são de depois do recorte.
 - **Ligações internas no texto** (artigos no commit `4c639f06`): a BW1 e a BW4 não linkam a BW10; a BW5 e a BW6 não
@@ -88,9 +91,12 @@ Gerado por `montar-matriz.cjs`: 35 oportunidades (`op-baw-0001` a `op-baw-0035`)
 ## 4. Leitura do analista (interpretação, a conferir na revisão)
 
 - **O que tem prazo é a Black Friday.** As duas linhas altas (`op-baw-0012` e `0013`) dependem do mesmo carrinho de
-  teste. Sem ele, a atualização se limita a preços relidos e à ressalva de que a Pix Night e o "pague 3, leve 4" são
-  regras sem texto publicado. Os 15% do Pix já apareceram duas vezes em campanhas de um dia ou de uma noite: a leitura
-  é que são campanha curta, e não o Pix de sempre.
+  teste, e o banner não traz regra (`sin-baw-1082`): se ele muda a resposta "o código soma?", só o carrinho diz. Sem
+  ele, a `op-baw-0012` se limita ao preço relido da Oversized BAW Subscript (`sin-baw-1087`) e ao banner datado, como
+  anúncio sem regra; a `op-baw-0013` fica sem ação. Os 15% do Pix já apareceram duas vezes, no "PIX DAY" de 16/11
+  (dossiê, sem bruto) e na Pix Night de 24/11: a leitura, a conferir no carrinho, é que podem ser campanha curta, e não o
+  Pix de sempre. O banner diz "NO SITE TODO" e não traz data, então o texto não afirma nem uma coisa nem outra antes do
+  carrinho; até lá, vale o Pix de 5% da ficha de 16/11 (dossiê, seção 1), com a data.
 - **O pacote de onze artigos cobre as decisões principais da marca.** A maior parte da matriz é `manter`, e o que
   sobra é capítulo, link ou ideia que espera um fato. Só duas pautas novas passam: loja física (média, com a fonte
   como dependência) e moletom (baixa agora, pela temporada).
@@ -106,8 +112,9 @@ Gerado por `montar-matriz.cjs`: 35 oportunidades (`op-baw-0001` a `op-baw-0035`)
 
 1. A mudança da vitrine de 24/11 (Pix Night, "pague 3, leve 4", fim da "segunda peça") e os preços por peça, com
    captura: base das duas linhas de prioridade alta.
-2. O desconto progressivo e os combos como pergunta sem resposta, com duas versões de terceiros que se contradizem e a
-   divergência do frete grátis na visão de IA (R$ 499 contra R$ 399).
+2. O desconto progressivo e os combos como pergunta que os onze não tratam: a `/combos` não publica regra (18/11), as
+   duas versões que circulam são de terceiros e se contradizem, e a visão de IA diverge no frete grátis (R$ 499 contra
+   R$ 399).
 3. A repetição de "O que aconteceu com a BAW?" em 9 de 13 buscas e o "faliu" no autocompletar (a semente viu a pergunta
    numa busca só).
 4. A loja física com endereço formulado no autocompletar, outlets por bairro e a vitrine "Loja 3 Rios" no próprio site.
@@ -121,7 +128,9 @@ Gerado por `montar-matriz.cjs`: 35 oportunidades (`op-baw-0001` a `op-baw-0035`)
 **O que o programa não trouxe ou perdeu:**
 
 - Reclame Aqui, imprensa e políticas não foram recoletados (escopo enxuto): entram pela semente, por seção. O corpo das
-  reportagens do NeoFeed e da FashionUnited segue sem leitura, o que limita a resposta a "faliu".
+  reportagens do NeoFeed e da FashionUnited segue sem leitura, o que limita a resposta a "faliu" e às lojas fechadas: a
+  frase "a marca ficaria só com a loja do Bom Retiro", que a semente atribui à FashionUnited (seção 4), é tratada como
+  não lida, porque a própria semente registra só o título dessa reportagem (seção 11) (`op-baw-0009`).
 - A loja oficial no Mercado Livre continua sem leitura, como na semente; o dossiê afirma que ela existe sem que nenhuma
   sessão a tenha aberto (seção 8).
 - "baw é do leo picon" continua sem fonte, como na semente (9.8, item 5).
@@ -148,8 +157,9 @@ Gerado por `montar-matriz.cjs`: 35 oportunidades (`op-baw-0001` a `op-baw-0035`)
 | Lacuna ou pergunta | Destino | Linha |
 |---|---|---|
 | Código com o "pague 3, leve 4", base dos 15% do Pix, fim da Pix Night e frete grátis na campanha | Carrinho na semana de 27/11 (Bruno ou sessão de cupons) | `op-baw-0012`, `0013` |
-| Regra dos combos e soma com o código | Páginas de combo e carrinho (fora do programa) | `op-baw-0014` |
+| Regra dos combos e soma com o código | Banner de topo da `/combos` (a página foi lida em 18/11, sem regra no texto), páginas de kit e carrinho (fora do programa) | `op-baw-0014` |
 | Fonte da loja física: Instagram e perfil do Google bastam? O código vale na loja? | Bruno e a parceira | `op-baw-0009` |
+| Lojas fechadas em 2025 (a frase do Bom Retiro da semente não tem leitura) | Corpo de uma reportagem de 2025 ou outra fonte | `op-baw-0009` |
 | Loja oficial no Mercado Livre | Chrome do Bruno, logado | `op-baw-0008` |
 | Código numa peça de collab | Carrinho (fora do programa) | `op-baw-0029` |
 | BAWPOINTS com o código | Página `/cashback` e carrinho | `op-baw-0034` |

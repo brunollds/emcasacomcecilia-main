@@ -101,3 +101,27 @@ sessão de cupons.
    próximos parceiros.
 3. **Estado "executada fora do programa".** P1 e P2 viraram linhas `manter` com nota. Se isso se repetir, uma ação ou
    uma convenção na nota ajuda a integração a ligar a linha ao `decisoes.json`.
+
+## 10. Correção da revisão (25/11/2026)
+
+Mensagem 5 da coordenação: a revisão independente (PR #1443, `3-matriz/REVISAO.md`, sobre o commit `5ad2ca03`) deu
+30 linhas `pronta` e 5 `devolvida`. Corrigi só as cinco, pelo gerador, numa branch nova a partir de `origin/main`
+(`e84f026c`), `docs/demanda-baw-etapa5-correcao`. Os estados seguem `em-revisao`. A frase do Bom Retiro está tratada
+como não lida, como a coordenação pediu; a contradição da semente (seção 4 contra seção 11) fica com ela.
+
+- **Início:** `2026-11-25T01:15-03:00`
+- **Fim:** `2026-11-25T01:20-03:00`
+- **Tempo gasto:** 5 minutos (parecer, `pagina-combos.txt`, semente e BW6 para conferir as frases novas; gerador,
+  validador, `LEITURA.md` e este relato)
+
+| Linha | Item da revisão | O que mudou |
+|---|---|---|
+| `op-baw-0006` | 4.1 | Saiu "planos de exterior pela Pipeline em 2026" do que a BW3 já cita. A BW3 cita a Pipeline pela recompra do controle e por Bruno Karra como CEO, e é isso que a lacuna diz agora. A nota registra que o exterior está só no título da reportagem e, se entrar, entra com atribuição ao título |
+| `op-baw-0009` | 4.2 | A frase "a marca ficaria só com a loja do Bom Retiro" saiu do que o texto acrescenta e está marcada como sem leitura (a semente leu só o título da FashionUnited). Nas dependências, ler o corpo de uma reportagem de 2025 ou outra fonte; sem leitura, o texto não cita loja fechada. "Nenhuma página nossa responde" virou "nenhuma página nossa diz onde a loja fica", e a lacuna diz o que a BW3 responde no item dela. Prioridade média e confiança baixa mantidas |
+| `op-baw-0012` | 4.3 | Justificativa: o banner "pode mudar" a resposta, porque não tem regra (`sin-baw-1082`); só o carrinho diz. A alta fica pelo prazo, pelo Trends e pelo que se atualiza sem carrinho: a Subscript, a R$ 89,00 no texto e a R$ 79,00 na vitrine de 24/11 (`sin-baw-1087`). Notas: os 15% do Pix como campanha curta viraram leitura do analista, a conferir no carrinho, com o "NO SITE TODO" sem data e o "pix" que só aparece na imagem da `/blackfriday`; o Pix de 5% tem fonte e data (dossiê, seção 1, ficha de 16/11, revisar até 16/12). Evidências principais: `sin-baw-1079`, `sin-baw-1087` e `cob-baw-0025` (eram `1079`, `1080` e `cob-baw-0020`) |
+| `op-baw-0013` | 4.4 | "Mesma regra nova" virou "mesmo banner sem regra publicada". A alta está condicionada ao carrinho na semana de 27/11; sem ele, a linha não tem ação |
+| `op-baw-0014` | 4.5 | A lacuna cita a leitura da `/combos` de 18/11 (`20261118-1314-navegador-paginas`, `pagina-combos.txt`): sem regra de combo nem de quantidade, vitrine de avulsos. Saiu "a etapa 2 coletou só as listas"; a dependência ficou no banner de topo da `/combos`, nas páginas de kit e no carrinho. Saiu "os combos são oferta permanente", sem fonte. Entrou a resposta curta possível sem carrinho (a loja não publica escala na `/combos`; as que circulam são de terceiros e se contradizem). Prioridade média mantida, agora por essa resposta; confiança baixa mantida, porque a regra pode estar no banner. Evidências principais: `sin-baw-0104`, `sin-baw-0822` e `cat-baw-0035` (era `sin-baw-0827` no lugar do último) |
+
+Contagens sem mudança (nenhuma ação, prioridade ou confiança mudou). No `LEITURA.md`: P7 (desconto progressivo),
+seção 3 (a leitura da `/combos` como fato), seção 4 (a Black Friday e o Pix como leitura condicionada ao carrinho),
+seção 5 (item 2 e a frase do Bom Retiro como não lida) e seção 7 (linha dos combos e linha nova das lojas fechadas).
