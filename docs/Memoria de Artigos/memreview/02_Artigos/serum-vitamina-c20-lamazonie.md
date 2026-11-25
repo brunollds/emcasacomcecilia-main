@@ -9,9 +9,9 @@ category: "guias-praticos-utilidade"
 reviewKind: "guia"
 type: "Guia de Produto"
 anexo_tipo: "Anexo-Beleza"
-status: "briefing"
+status: "pauta-aprovada"
 responsavel: "Job-1"
-proxima_acao: "decisao-do-bruno"
+proxima_acao: "redacao"
 bloqueado_por: null
 score_autoridade: 50
 score_conversao: 58
@@ -53,7 +53,7 @@ produto: a [[lamazonie-e-boa]] só cita a "linha facial de vitamina C" numa fras
   advertências, perguntas frequentes e preço de 1, 2 e 3 frascos). **Fora da página:** a lista INCI e o volume do
   frasco. O artigo diz isso em uma frase e não usa o "30 ml" do anúncio de marketplace.
 - [x] **2. Segurança Regulatória & Ética:** sem "funciona", sem "clareia", sem "trata melasma" na nossa voz. Gestação e
-  amamentação: ver a pergunta 1 para o Bruno. Anvisa fora do texto (a linha "Serum Facial Clareador" da base não foi
+  amamentação: só a resposta cautelosa da marca, no FAQ (Bruno, 25/11). Anvisa fora do texto (a linha "Serum Facial Clareador" da base não foi
   ligada ao frasco: falta o número do processo no rótulo).
 - [x] **3. Fronteira Factual vs Experiência:** só página, perguntas frequentes da loja e conta nossa de preço.
 - [x] **4. Anti-Canibalização:** passa. A LZ5 cita a linha em uma frase; a LZ8 é dos cremes do corpo; a LZ7 é o sérum
@@ -197,6 +197,11 @@ produto: a [[lamazonie-e-boa]] só cita a "linha facial de vitamina C" numa fras
    com a fórmula. Sugestão: publicar sem ela e acrescentar depois, junto com o rótulo do sérum de sobrancelha (LZ7).
 3. **Código no kit:** quer o teste do CECILIA também no kit com protetor, pelo caminho do cliente, sem finalizar?
    Sugestão: sim, um carrinho só, no dia da redação.
+
+## Decisões do Bruno (25/11/2026)
+
+1. **Gestação e amamentação:** entra como pergunta do FAQ, só com a resposta cautelosa da marca ("consulte o seu dermatologista"). O "sem contraindicações" do quadro comparativo não é repetido.
+2. **Rótulo e código no kit:** sem resposta; valem as sugestões (publicar sem o rótulo e acrescentar depois; um carrinho com o kit no dia da redação).
 
 ## Publicação
 
