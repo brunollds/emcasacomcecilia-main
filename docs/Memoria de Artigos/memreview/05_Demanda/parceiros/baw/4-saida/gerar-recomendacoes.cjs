@@ -79,7 +79,7 @@ a matriz ou as decisões e gerar de novo. Segundo piloto do Programa de Demanda 
 
 **Estado: ${ops.length} oportunidades revisadas: ${acoes.length} com ação recomendada, ${registro.length} ideias registradas, ${naoCriar.length} de não
 criar e ${manter.length} de manter. Todas passaram pela revisão independente (\`3-matriz/REVISAO.md\`, duas passadas). ${decididas} têm
-decisão registrada em \`decisoes.json\`, ambas tomadas fora do programa antes da análise; as outras esperam o Bruno.**
+decisão registrada em \`decisoes.json\` (duas delas tomadas fora do programa, antes da análise); as outras esperam o Bruno.**
 
 Revisão, decisão e execução são coisas diferentes: a matriz guarda o estado da revisão; a decisão do Bruno e o que já
 foi executado estão em \`decisoes.json\` e aparecem em cada item. Fato e leitura estão separados em

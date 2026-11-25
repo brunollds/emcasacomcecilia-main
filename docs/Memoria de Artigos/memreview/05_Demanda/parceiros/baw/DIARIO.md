@@ -103,6 +103,9 @@ etapa 3 (7h17) e os seis dias entre a última coleta (18/11) e o fechamento de i
     criar e 12 de manter;
   - `4-saida/decisoes.json` com as duas linhas executadas fora do programa: o tênis (BW7) e a tabela de medidas (BW10).
     As outras 33 esperam a decisão do Bruno.
+- **2026-11-25 01:32:** decisão do Bruno ("Sim, aprovar"): o carrinho de teste sem compra na semana de 27/11, que
+  responde à `op-baw-0012` (BW6) e à `op-baw-0013` (`/cupons/baw`). Registrado em `4-saida/decisoes.json`, com a
+  execução pendente; as outras 31 esperam.
 
 ## Fechamento de insumos
 

@@ -5,8 +5,8 @@ a matriz ou as decisões e gerar de novo. Segundo piloto do Programa de Demanda 
 `5544b2e1` e revisão concluída em 25/11/2026.
 
 **Estado: 35 oportunidades revisadas: 13 com ação recomendada, 4 ideias registradas, 6 de não
-criar e 12 de manter. Todas passaram pela revisão independente (`3-matriz/REVISAO.md`, duas passadas). 2 têm
-decisão registrada em `decisoes.json`, ambas tomadas fora do programa antes da análise; as outras esperam o Bruno.**
+criar e 12 de manter. Todas passaram pela revisão independente (`3-matriz/REVISAO.md`, duas passadas). 4 têm
+decisão registrada em `decisoes.json` (duas delas tomadas fora do programa, antes da análise); as outras esperam o Bruno.**
 
 Revisão, decisão e execução são coisas diferentes: a matriz guarda o estado da revisão; a decisão do Bruno e o que já
 foi executado estão em `decisoes.json` e aparecem em cada item. Fato e leitura estão separados em
@@ -58,7 +58,8 @@ O resto não tem prazo. As páginas da BAW têm poucos dias de dado: o export ú
 - **Ressalva da coordenação:** A oferta de 24/11 (Pix Night, "pague 3, leve 4", +15% no Pix) não tem data nem regulamento publicados: tudo o que a linha diz dela é leitura até o carrinho. O banner do site (`content/campanhas/baw-black-friday-2026.json`) já diz "até 80% OFF e pague 3, leve 4".
 - **Destino, se aprovada:** Primeiro o carrinho de teste da semana de 27/11 (Bruno ou sessão de cupons, sem compra); depois a sessão de artigos, na BW6
 - **Revisado por:** sessão de revisão independente, 25/11/2026
-- **Decisão do Bruno:** em espera
+- **Decisão do Bruno:** aprovada: carrinho de teste sem compra na semana de 27/11, que responde a esta linha e à op-baw-0013, em 2026-11-25
+- **Execução:** pendente: o carrinho ainda não foi feito; depois dele, a BW6 pela sessão de artigos (GO do Bruno na sessão de coordenação, 25/11 ("Sim, aprovar"))
 
 ### op-baw-0013 · melhorar-pagina-cupom · prioridade alta
 
@@ -74,7 +75,8 @@ O resto não tem prazo. As páginas da BAW têm poucos dias de dado: o export ú
 - **Ressalva da coordenação:** Sem o carrinho não há o que mudar na página: a prioridade alta é pelo prazo, e a ação depende do teste.
 - **Destino, se aprovada:** O mesmo carrinho da `op-baw-0012`; depois a sessão de cupons
 - **Revisado por:** sessão de revisão independente, 25/11/2026
-- **Decisão do Bruno:** em espera
+- **Decisão do Bruno:** aprovada: carrinho de teste sem compra na semana de 27/11, que responde a esta linha e à op-baw-0012, em 2026-11-25
+- **Execução:** pendente: o carrinho ainda não foi feito; depois dele, a /cupons/baw pela sessão de cupons (GO do Bruno na sessão de coordenação, 25/11 ("Sim, aprovar"))
 
 ### op-baw-0006 · melhorar-capitulo · prioridade media
 

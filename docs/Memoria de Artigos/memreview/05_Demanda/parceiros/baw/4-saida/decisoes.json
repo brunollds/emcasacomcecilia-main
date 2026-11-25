@@ -10,5 +10,17 @@
     "data": "2026-11-23",
     "execucao": "concluída: BW10 `tabela-medidas-baw`, publicada em 23/11; o site respondeu 200 em 25/11 (a data do deploy não foi conferida)",
     "evidencia": "PR #1397; DIARIO.md, fechamento de insumos"
+  },
+  "op-baw-0012": {
+    "decisao": "aprovada: carrinho de teste sem compra na semana de 27/11, que responde a esta linha e à op-baw-0013",
+    "data": "2026-11-25",
+    "execucao": "pendente: o carrinho ainda não foi feito; depois dele, a BW6 pela sessão de artigos",
+    "evidencia": "GO do Bruno na sessão de coordenação, 25/11 (\"Sim, aprovar\")"
+  },
+  "op-baw-0013": {
+    "decisao": "aprovada: carrinho de teste sem compra na semana de 27/11, que responde a esta linha e à op-baw-0012",
+    "data": "2026-11-25",
+    "execucao": "pendente: o carrinho ainda não foi feito; depois dele, a /cupons/baw pela sessão de cupons",
+    "evidencia": "GO do Bruno na sessão de coordenação, 25/11 (\"Sim, aprovar\")"
   }
 }
