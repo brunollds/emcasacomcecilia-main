@@ -1,5 +1,5 @@
 ---
-titulo_provisorio: "BioBio Cosméticos: quando vale a pena comprar os bastões, o protetor e os kits"
+titulo_provisorio: "BioBio Cosméticos é boa? Bastões, protetor e kits: quando vale a pena comprar"
 seo_title: "BioBio Cosméticos é boa? Protetor, bastões e kits"
 meta_description: "O código EMCASABIOBIO dá 10% OFF na BioBio Cosméticos em todas as formas de pagamento. Veja quando valem os bastões, o protetor mineral e os kits."
 slug_sugerido: "biobio-e-boa"
