@@ -113,7 +113,7 @@ export const PRIVACY_SECTIONS: PrivacySection[] = [
         ),
         item(
           'Assistente DICA:',
-          'legítimo interesse em responder à pergunta que você faz e em guardar as perguntas, sem identificar quem perguntou, para melhorar o assistente e a lista de parceiros (art. 7º, IX).'
+          'legítimo interesse em responder à pergunta que você faz e em guardar as perguntas, sem IP, cookies nem dados do navegador, para melhorar o assistente e a lista de parceiros (art. 7º, IX).'
         ),
         item('Preferências no navegador:', 'necessárias ao funcionamento da função que você usa.')
       ),
@@ -246,7 +246,7 @@ export const PRIVACY_SECTIONS: PrivacySection[] = [
         item('Microsoft Clarity:', 'pelos prazos da Microsoft para gravações e mapas de calor.'),
         item(
           'Perguntas ao assistente DICA:',
-          '90 dias no nosso registro, sem identificar quem perguntou; na Anthropic, até 30 dias, salvo as exceções dos termos dela.'
+          '90 dias no nosso registro, que não guarda IP, cookies nem dados do navegador (o que você escrever na pergunta fica nele, como descrito na seção 9); na Anthropic, até 30 dias, salvo as exceções dos termos dela.'
         )
       ),
     ],

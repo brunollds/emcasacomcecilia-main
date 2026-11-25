@@ -12,14 +12,6 @@ const MAX_LENGTH = 200;
 
 export type DicaResponse = { status: number; body: DicaAnswer | { error: string }; retryAfterSec?: number };
 
-// O termo da busca do Dicas sem a IA: a pergunta sem o "tem" do começo e sem a pontuação do fim.
-function fallbackSearchTerm(question: string): string {
-  return question
-    .replace(/^\s*(?:voc[eê]s\s+)?(?:t[eê]m|vendem?|procuro|quero)\s+/i, '')
-    .replace(/[?!.\s]+$/, '')
-    .slice(0, 60);
-}
-
 export async function handleQuestion(input: {
   q: unknown;
   ip: string;
@@ -45,7 +37,7 @@ export async function handleQuestion(input: {
       result: 'limite',
       message: DICA_COPY.limit,
       cards: [],
-      dicasUrl: dicasSearchUrl(fallbackSearchTerm(question)),
+      dicasUrl: dicasSearchUrl(''),
     };
     return { status: 429, body, retryAfterSec: visitor.retryAfterSec };
   }
@@ -62,12 +54,12 @@ export async function handleQuestion(input: {
   if (!interpretation) {
     const fromAi = takeAiSlot(now) ? await interpret(question) : null;
     if (fromAi) {
-      const searchTerm = scrubPersonalData(fromAi.searchTerm) || fallbackSearchTerm(question);
-      interpretation = { ...fromAi, searchTerm, viaFallback: false };
+      interpretation = { ...fromAi, searchTerm: scrubPersonalData(fromAi.searchTerm), viaFallback: false };
       cacheSet(key, interpretation, now);
     } else {
-      // A reserva não entra no cache: quando a IA voltar, a mesma pergunta já passa por ela.
-      interpretation = { terms: matchLocal(question), searchTerm: fallbackSearchTerm(question), outOfScope: false, viaFallback: true };
+      // A reserva não entra no cache: quando a IA voltar, a mesma pergunta já passa por ela. Sem a IA não dá para separar o
+      // produto do resto da pergunta (um nome, um endereço), então a busca do Dicas abre vazia.
+      interpretation = { terms: matchLocal(question), searchTerm: '', outOfScope: false, viaFallback: true };
     }
   }
 

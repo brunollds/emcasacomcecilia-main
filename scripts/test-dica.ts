@@ -273,12 +273,15 @@ async function main() {
   const fallback = await ask('tem sofá?', '7.7.7.7', async () => null);
   assert.equal((fallback.body as { result: string }).result, 'reserva-parceiros');
   const fallbackDicas = await ask('tem anel de prata?', '7.7.7.8', async () => null);
-  assert.equal((fallbackDicas.body as { dicasUrl?: string }).dicasUrl, 'https://dicas.emcasacomcecilia.com/?q=anel%20de%20prata');
+  assert.equal((fallbackDicas.body as { dicasUrl?: string }).dicasUrl, 'https://dicas.emcasacomcecilia.com/', 'sem a IA, a busca abre vazia');
+  const withName = await ask('tem anel de prata pra Maria Souza?', '7.7.7.9', async () => null);
+  assert.ok(!(withName.body as { dicasUrl?: string }).dicasUrl?.includes('Maria'), 'nome da pergunta no link do Dicas');
 
-  const burst = await handleQuestion({ q: 'tem whey?', ip: '7.7.7.8', now: clock + 1000, interpret: fakeAi, log: noLog });
+  const burst = await handleQuestion({ q: 'tem whey?', ip: '7.7.7.9', now: clock + 1000, interpret: fakeAi, log: noLog });
   assert.equal(burst.status, 429, '2ª pergunta do mesmo IP em 1 s');
   assert.ok(burst.retryAfterSec && burst.retryAfterSec >= 1);
   assert.equal((burst.body as { result: string }).result, 'limite');
+  assert.equal((burst.body as { dicasUrl?: string }).dicasUrl, 'https://dicas.emcasacomcecilia.com/', 'no limite, a busca abre vazia');
 
   assert.equal(visitorIp(new Headers({ 'cf-connecting-ip': '1.2.3.4', 'x-forwarded-for': '5.6.7.8' })), '1.2.3.4');
   assert.equal(visitorIp(new Headers({ 'x-forwarded-for': '6.6.6.6, 5.6.7.8' })), '5.6.7.8', 'o primeiro valor é do cliente');

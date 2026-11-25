@@ -6,8 +6,11 @@ import type { DicaAnswer, DicaCard, DicaResult } from './dicaTypes';
 
 const MAX_CARDS = 8;
 
+// Sem termo, a busca abre vazia. O endereço vai ao histórico do navegador e às gravações do Clarity, que capturam o
+// link clicado: ele leva só o produto que a IA tirou da pergunta, nunca a pergunta.
 export function dicasSearchUrl(term: string): string {
-  return `${brandLinks.dicas.replace(/\/$/, '')}/?q=${encodeURIComponent(term)}`;
+  const base = `${brandLinks.dicas.replace(/\/$/, '')}/`;
+  return term.trim() ? `${base}?q=${encodeURIComponent(term.trim())}` : base;
 }
 
 function codeOf(coupon: Coupon, now: number): { code?: string; discount?: string; codeLabel: string } {
