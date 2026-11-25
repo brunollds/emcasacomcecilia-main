@@ -4802,7 +4802,7 @@ const STORE_COUPONS: Coupon[] = [
     combinable:
       'Soma com as promoções vigentes do site e com os 5% de desconto do Pix, e vale com todas as formas de pagamento e no aplicativo; o frete grátis depende do valor do pedido, não do cupom',
     stacking: [
-      { benefit: 'promocoes', stacks: 'sim', condition: 'Entra sobre o preço promocional: no teste, o código somou com o "pague 3, leve 4" da Black Week' },
+      { benefit: 'promocoes', stacks: 'sim', condition: 'Soma com as promoções: no teste, o código entrou junto com o "pague 3, leve 4" da Black Week' },
       { benefit: 'pix', stacks: 'sim', condition: 'No Pix, a loja dá 5% de desconto, que soma com o código' },
       { benefit: 'frete', stacks: 'depende', condition: 'Grátis a partir de R$ 399, segundo o aviso do site; abaixo disso, o frete sai pelo CEP, à parte do cupom' },
     ],
@@ -4871,7 +4871,7 @@ const STORE_COUPONS: Coupon[] = [
       {
         question: 'Tem cupom BAW Clothing na Black Friday?',
         answer:
-          'Tem. O cupom BAW Clothing BAWEMCASACOMCECILIA dá 10% OFF no site oficial, em todas as formas de pagamento, e é o mesmo código do resto do ano. Na Black Friday, a BAW anuncia peças com até 80% OFF, e os 10% do código entram sobre o preço da campanha.',
+          'Tem. O cupom BAW Clothing BAWEMCASACOMCECILIA dá 10% OFF no site oficial, em todas as formas de pagamento, e é o mesmo código do resto do ano. Na Black Friday, a BAW anuncia peças com até 80% OFF, e os 10% do código somam com a campanha.',
       },
       {
         question: 'O cupom BAW Clothing vale na Black Friday?',
