@@ -10,8 +10,8 @@ Fluxo v2. Plano em `ROTEIRO-PILOTO.md`; perguntas e escopo em `0-orientacao.md`;
 | `catalogo.csv`, `ids-catalogo.csv`, `relatos/etapa-2.md` | Catálogo | BAW: catálogo do parceiro (etapa 2), `local_3f62aa43-6445-4826-8502-0d911fed5b9c` | `docs/demanda-baw-etapa2`, #1139 |
 | `sinais.csv`, `resumo-sinais.md`, `relatos/etapa-3.md` | Pesquisa | BAW: interesse externo (etapa 3), `local_03eee6e1-fdee-4fa2-b2cc-bf2b8a5779f3` | `docs/demanda-baw-etapa3`, #1184 |
 | `nossos-dados.csv`, `comercial.csv`, `cobertura.csv`, `relatos/etapa-4.md` | Dados | BAW: dados do parceiro e cobertura (etapa 4), `local_b6baaa22-0b04-421b-9742-052c18fe6405` | `docs/demanda-baw-etapa4` (#1138), `docs/demanda-baw-etapa4b` (#1140), recorte dirigido (#1190, #1192) e correção (#1193) |
-| `3-matriz/matriz.csv`, `3-matriz/LEITURA.md`, `relatos/etapa-5.md` | Analista | BAW: análise (etapa 5), `local_f80a0ce2-52ea-465f-8f20-f1e42885e881` | PR a abrir |
-| `3-matriz/REVISAO.md` | Revisor | a abrir | — |
+| `3-matriz/matriz.csv`, `3-matriz/LEITURA.md`, `relatos/etapa-5.md` | Analista | BAW: análise (etapa 5), `local_f80a0ce2-52ea-465f-8f20-f1e42885e881` | `docs/demanda-baw-etapa5`, #1441 |
+| `3-matriz/REVISAO.md` | Revisor | cartão "BAW: revisão da análise" proposto em 25/11, espera o Bruno iniciar | — |
 
 ## Tempo
 
@@ -24,8 +24,12 @@ Fluxo v2. Plano em `ROTEIRO-PILOTO.md`; perguntas e escopo em `0-orientacao.md`;
 | Cobertura (4B) | 2026-11-18 13:27 | 2026-11-18 13:33 | 6 | |
 | Espera da etapa 3 | 2026-11-18 13:26 | 2026-11-18 20:43 | 437 | O cartão da sessão esperou o Bruno iniciar; é espera de intervenção, não trabalho |
 | Pesquisa (etapa 3) | 2026-11-18 20:43 | 2026-11-18 21:04 | 20 | Coleta de 20:45 a 20:56; o Mercado Livre pediu verificação de conta no primeiro pedido e a sessão parou nele |
+| Releitura da vitrine (etapa 3) | 2026-11-24 18:07 | 2026-11-24 18:15 | 8 | Mensagem 3 |
+| Cobertura nova (4B) | 2026-11-25 00:21 | 2026-11-25 00:33 | 12 | Mensagem 4 |
+| Análise (etapa 5) | 2026-11-25 00:46 | 2026-11-25 01:03 | 17 | Relógio da máquina |
 
-Soma do trabalho das sessões do parceiro: 77 minutos (31 + 20 + 6 + 20), sem a coordenação e sem as esperas.
+Soma do trabalho das sessões do parceiro até 18/11: 77 minutos (31 + 20 + 6 + 20), sem a coordenação e sem as esperas.
+Com a releitura, a cobertura nova e a análise: 114 minutos (77 + 8 + 12 + 17).
 
 ## Registro
 
@@ -61,6 +65,16 @@ Soma do trabalho das sessões do parceiro: 77 minutos (31 + 20 + 6 + 20), sem a 
 - **2026-11-25 00:46:** GO do Bruno ("Sim, abrir"). Aberta a sessão da análise, com o `briefs/etapa-5.md` e um adendo: commit
   `5544b2e1`, os 11 artigos e a cobertura de 25/11, P1 (tênis) e P2 executadas, P3 respondida e as pautas da Fila a
   conferir antes de recomendar.
+- **2026-11-25 01:03:** análise entregue no #1441: matriz de 35 linhas, todas `em-revisao`. Por ação: manter 12,
+  `nao-criar` 6, `melhorar-capitulo` 5, `ideia-registrada` 4, `links-internos` 3, `criar-artigo` 2, `atualizar-fatos` 1,
+  `melhorar-pagina-cupom` 1 e `video` 1. Por prioridade: alta 2 (op-0012 e op-0013, presas ao carrinho de teste da semana
+  de 27/11), média 5, baixa 6 e `@nao-se-aplica` 22. A análise apontou quatro divergências em arquivos de outros donos.
+  Três a coordenação corrigiu: no dossiê, a abertura e a linha do Mercado Livre; na Fila, o "tênis BAW é bom?" no estoque.
+  A quarta, a lista de 6 publicados nos briefs enviados, fica como está, porque é o registro do que foi pedido; o
+  adendo corrigiu.
+- **2026-11-25 01:05:** o Bruno tinha pedido para abrir a revisão quando a análise entregasse. A abertura direta foi
+  recusada, porque o turno veio da mensagem da análise, e não do Bruno; a revisão ficou como cartão proposto, à espera de
+  ele iniciar.
 
 ## Fechamento de insumos
 
