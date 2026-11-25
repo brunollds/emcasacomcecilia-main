@@ -643,15 +643,17 @@ separar claramente dado da marca, dado de plataforma pública e experiência da 
 A reputação da YesStyle é acompanhada pelo Trustpilot, não pelo Reclame Aqui: a loja não tem artigo
 da série Reclame Aqui e não entra no grupo mensal dele (decisão do Bruno, 25/11/2026).
 
-| Loja | Família (`translationKey` no JSON do PT) | Versões | Última leitura |
-|---|---|---|---|
-| YesStyle | `yesstyle-trustpilot-nota-reclamacoes.json` | 11 | 23/11/2026: 4,4 com 105.442 avaliações (#1385) |
+| Loja | Família (`translationKey`) | Artigo em PT | Versões | Última leitura |
+|---|---|---|---|---|
+| YesStyle | `yesstyle-reputation` | `yesstyle-trustpilot-nota-reclamacoes.json` | 11 | 23/11/2026: 4,4 com 105.442 avaliações (#1385) |
 
 Em cada rodada:
 
-1. Reler na página da loja no Trustpilot a nota, o total de avaliações e a data da leitura.
-2. Atualizar as 11 versões juntas, no mesmo PR: o `test:review-i18n` exige a família inteira. Fora
-   do PT são `yesstyle-trustpilot-reviews` (en, ja, ko, zh-hans, zh-hant, ar),
+1. Reler na página da loja no Trustpilot a nota, o total de avaliações, a distribuição por estrelas,
+   o total dos últimos 12 meses e a data da leitura: os cinco aparecem no texto.
+2. Atualizar as 11 versões juntas, no mesmo PR. O `test:review-i18n` só confere que as 11 existem:
+   a igualdade dos números entre elas é conferida à mão, com um `rg` de cada número novo nos 11
+   arquivos antes do PR. Fora do PT são `yesstyle-trustpilot-reviews` (en, ja, ko, zh-hans, zh-hant, ar),
    `yesstyle-opiniones-trustpilot` (es), `yesstyle-avis-trustpilot` (fr),
    `yesstyle-recensioni-trustpilot` (it) e `yesstyle-trustpilot-bewertungen` (de).
 3. Se a nota mudou a ponto de mexer na conclusão, rever o veredito e a resposta rápida, não só o
