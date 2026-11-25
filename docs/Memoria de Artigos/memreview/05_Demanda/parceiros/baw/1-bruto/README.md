@@ -2,7 +2,8 @@
 
 Uma pasta por coleta (`AAAAMMDD-HHMM-<fonte>-<assunto>`), cada uma com `FONTE.md`. Bruto não se edita.
 
-**Estado: 12 coletas de 18/11/2026**, conferidas no fechamento de insumos de 24/11 (`DIARIO.md`). A pesquisa semente
+**Estado: 13 coletas**, 12 de 18/11/2026 e a releitura da vitrine de 24/11, conferidas no fechamento de insumos de 24 e
+25/11 (`DIARIO.md`). A pesquisa semente
 de 16/11 (`02_Artigos/baw-fatos-1611.md`) não tem bruto: entra como evidência da semente, citada por seção. Os HTML da
 loja ficam fora do repositório, na pasta de brutos pesados (`baw/<coleta-id>/`).
 
@@ -20,3 +21,4 @@ loja ficam fora do repositório, na pasta de brutos pesados (`baw/<coleta-id>/`)
 | `20261118-2054-google-trends` | Google Trends | Etapa 3 | 6 arquivos |
 | `20261118-2152-recorte-dirigido` | Search Console, GA4 e Bing, com o Bruno logado | Etapa 4 | 21 arquivos |
 | `20261118-2208-clarity-painel` | Painéis do Clarity das oito páginas da BAW | Etapa 4 | 8 arquivos, sem gravações |
+| `20261124-1808-vitrine-blackfriday` | Vitrine `/blackfriday`, releitura da P3 | Etapa 3 | 18 arquivos no repositório, 13 HTML nos brutos pesados |

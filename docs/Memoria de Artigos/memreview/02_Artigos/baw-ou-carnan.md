@@ -9,7 +9,7 @@ category: "guias-praticos-utilidade"
 reviewKind: "guia"
 type: "Comparativo"
 anexo_tipo: "Anexo-Moda"
-status: "pauta-aprovada"
+status: "publicado"
 responsavel: "Job-1"
 proxima_acao: "redacao"
 bloqueado_por: null
