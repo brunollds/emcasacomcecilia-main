@@ -36,6 +36,8 @@
 
 ## 6. Prontos para Deploy (`status: pronto-para-deploy`)
 *Gates verdes; o deploy é decisão do Bruno.*
+- [ ] [[bold-snacks-e-boa]]: BOLD Snacks é boa? O que comprar entre barras, wafers, tubes e whey (só PT, id 1447; BO12, CECILIA15, BOLD; PR #1452, aguardando deploy)
+- [ ] [[yesstyle-vale-a-pena]]: YesStyle vale a pena? O que comprar de beleza asiática e quando compensa importar (11 idiomas, ids 1448 a 1458; YS1, código de recompensa CECILIA010, YesStyle; PR #1452, aguardando deploy)
 - [ ] [[colaedecora-e-boa]]: Cola e Decora é boa? Móveis montessorianos, decoração infantil e quando vale a pena (só PT, id 1443; CD7, EMCASACOMCECILIA, Cola e Decora; PR #1440, aguardando deploy)
 - [ ] [[damie-e-boa]]: DAMIE é boa? Poltronas, sofás e o que vale o investimento (só PT, id 1444; DM4, CECILIA12, DAMIE; PR #1440, aguardando deploy)
 - [ ] [[biobio-e-boa]]: BioBio Cosméticos é boa? Bastões, protetor e kits: quando vale a pena comprar (só PT, id 1445; BI8, EMCASABIOBIO, BioBio; PR #1440, aguardando deploy)
