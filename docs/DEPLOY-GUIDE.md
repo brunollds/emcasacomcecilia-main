@@ -295,6 +295,11 @@ recebe:
   `C:/Program Files/Git/sitemap.xml`);
 - URL que não seja `https://emcasacomcecilia.com/...`, como as de `www.`, `cdn.` ou `http://`.
 
+Com `--since <ref>` (por exemplo o commit do deploy anterior), o script monta a lista pelo `git diff`:
+artigos e receitas alterados, a página de cupom das lojas citadas e, quando o `src/lib/couponsData.ts`
+muda, o `/cupons` e o `/cupons/<slug>` de cada loja ativa cujo objeto mudou ou entrou. Mudança fora dos
+objetos (tipos, funções) leva só o `/cupons`.
+
 ---
 
 ## Secrets do repo GitHub (Settings → Secrets → Actions)

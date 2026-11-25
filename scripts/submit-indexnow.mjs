@@ -28,8 +28,9 @@ function normalizeUrl(input) {
 }
 
 // Lê os objetos de 1º nível de STORE_COUPONS sem depender de indentação, quebras de linha ou ordem de chaves.
-export function parseActiveCouponSlugsFromSource(source) {
-  const slugs = new Set();
+// Cada item traz o texto inteiro do objeto, para comparar duas versões do arquivo.
+export function parseCouponEntriesFromSource(source) {
+  const entries = [];
   let i = 0;
 
   const skipString = (quote) => {
@@ -94,11 +95,12 @@ export function parseActiveCouponSlugsFromSource(source) {
     }
     i += 1;
   }
-  if (!foundArrayStart) return slugs;
+  if (!foundArrayStart) return entries;
 
   let arrayDepth = 1;
   let braceDepth = 0;
   let topLevel = '';
+  let objectStart = 0;
 
   while (i < source.length && arrayDepth > 0) {
     const ch = source[i];
@@ -130,7 +132,10 @@ export function parseActiveCouponSlugsFromSource(source) {
       continue;
     }
     if (ch === '{') {
-      if (arrayDepth === 1 && braceDepth === 0) topLevel = '';
+      if (arrayDepth === 1 && braceDepth === 0) {
+        topLevel = '';
+        objectStart = i;
+      }
       braceDepth += 1;
       i += 1;
       continue;
@@ -141,7 +146,7 @@ export function parseActiveCouponSlugsFromSource(source) {
         const offerMode = /\bofferMode\s*:\s*(['"])([^'"]+)\1/.exec(topLevel)?.[2];
         const slug = /\bslug\s*:\s*(['"])([^'"]+)\1/.exec(topLevel)?.[2];
         const status = /\bstatus\s*:\s*(['"])([^'"]+)\1/.exec(topLevel)?.[2];
-        if (offerMode && slug && status === 'ativo') slugs.add(slug);
+        if (offerMode && slug) entries.push({ slug, status, text: source.slice(objectStart, i + 1) });
       }
       i += 1;
       continue;
@@ -149,7 +154,44 @@ export function parseActiveCouponSlugsFromSource(source) {
     if (arrayDepth === 1 && braceDepth === 1) topLevel += ch;
     i += 1;
   }
-  return slugs;
+  return entries;
+}
+
+export function parseActiveCouponSlugsFromSource(source) {
+  return new Set(
+    parseCouponEntriesFromSource(source)
+      .filter((entry) => entry.status === 'ativo')
+      .map((entry) => entry.slug)
+  );
+}
+
+// Slugs ativos cujo objeto em STORE_COUPONS mudou ou apareceu entre as duas versões do arquivo.
+// Mudança fora dos objetos (tipos, funções) não aponta loja nenhuma e fica só com o /cupons.
+// O arquivo local pode estar em CRLF (Windows) e o git show sempre sai em LF: compara sem o \r.
+export function changedActiveCouponSlugs(previousSource, currentSource) {
+  const textBySlug = (source) => {
+    const map = new Map();
+    for (const entry of parseCouponEntriesFromSource(source)) {
+      map.set(entry.slug, (map.get(entry.slug) ?? '') + entry.text.replace(/\r\n/g, '\n'));
+    }
+    return map;
+  };
+  const before = textBySlug(previousSource);
+  const after = textBySlug(currentSource);
+  const active = parseActiveCouponSlugsFromSource(currentSource);
+  return [...after].filter(([slug, text]) => active.has(slug) && before.get(slug) !== text).map(([slug]) => slug);
+}
+
+function readFileAtRef(ref, file) {
+  try {
+    return execFileSync('git', ['show', `${ref}:${file}`], {
+      encoding: 'utf8',
+      maxBuffer: 64 * 1024 * 1024,
+      stdio: ['ignore', 'pipe', 'ignore'],
+    });
+  } catch {
+    return '';
+  }
 }
 
 function readActiveCouponSlugs() {
@@ -211,7 +253,14 @@ function resolveUrlsSinceGitRef(ref) {
       resolved.push(`/receitas/${slug}`);
       continue;
     }
-    if (file === 'src/lib/couponsData.ts' || file === 'src/lib/couponTranslations.ts') {
+    if (file === 'src/lib/couponsData.ts') {
+      touchedCoupons = true;
+      const current = existsSync(file) ? readFileSync(file, 'utf8') : '';
+      for (const slug of changedActiveCouponSlugs(readFileAtRef(ref, file), current)) {
+        resolved.push(`/cupons/${slug}`);
+      }
+    }
+    if (file === 'src/lib/couponTranslations.ts') {
       touchedCoupons = true;
     }
     if (file === 'data/coupons/yesstyle.json') {

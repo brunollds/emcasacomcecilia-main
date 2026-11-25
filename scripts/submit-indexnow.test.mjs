@@ -226,6 +226,74 @@ test('--since coleta URLs alteradas num repositório temporário e filtra afilia
   }
 });
 
+test('--since com couponsData.ts alterado manda a página de cada loja ativa que mudou', () => {
+  const tempDir = mkdtempSync(join(tmpdir(), 'ecc-indexnow-cupons-'));
+  try {
+    const git = (...gitArgs) =>
+      execFileSync('git', gitArgs, { cwd: tempDir, encoding: 'utf8', stdio: ['ignore', 'pipe', 'pipe'] });
+    const coupon = (slug, status, code) =>
+      `  {
+    offerMode: 'discount-code',
+    slug: '${slug}',
+    status: '${status}',
+    code: '${code}',
+  },`;
+    const writeCoupons = (header, entries) =>
+      writeFileSync(
+        join(tempDir, 'src/lib/couponsData.ts'),
+        [header, 'const STORE_COUPONS = [', ...entries, '];'].join('\n'),
+        'utf8'
+      );
+
+    git('init');
+    git('config', 'user.name', 'Test');
+    git('config', 'user.email', 'test@example.com');
+    mkdirSync(join(tempDir, 'src/lib'), { recursive: true });
+
+    writeCoupons('// v1', [coupon('belive', 'ativo', 'MAUAD'), coupon('kopenhagen', 'pausado', 'K10'), coupon('proton', 'ativo', 'P1')]);
+    git('add', '.');
+    git('commit', '-m', 'base');
+
+    // belive muda o código, gocase entra, kopenhagen muda mas segue pausada, proton fica igual.
+    writeCoupons('// v1', [
+      coupon('belive', 'ativo', 'MAUAD15'),
+      coupon('kopenhagen', 'pausado', 'K15'),
+      coupon('proton', 'ativo', 'P1'),
+      coupon('gocase', 'ativo', 'CECILIAA'),
+    ]);
+    git('commit', '-am', 'cupons');
+
+    const stores = run(['--dry-run', '--since', 'HEAD~1'], {}, tempDir);
+    assert.equal(stores.status, 0, stores.stderr);
+    assert.deepEqual(dryRunPayload(stores.stdout).urlList, [
+      `${BASE_URL}/cupons/belive`,
+      `${BASE_URL}/cupons/gocase`,
+      `${BASE_URL}/cupons`,
+      `${BASE_URL}/sitemap.xml`,
+      `${BASE_URL}/llms.txt`,
+    ]);
+
+    // Mudança só fora dos objetos não aponta loja.
+    writeCoupons('// v2', [
+      coupon('belive', 'ativo', 'MAUAD15'),
+      coupon('kopenhagen', 'pausado', 'K15'),
+      coupon('proton', 'ativo', 'P1'),
+      coupon('gocase', 'ativo', 'CECILIAA'),
+    ]);
+    git('commit', '-am', 'comentário');
+
+    const header = run(['--dry-run', '--since', 'HEAD~1'], {}, tempDir);
+    assert.equal(header.status, 0, header.stderr);
+    assert.deepEqual(dryRunPayload(header.stdout).urlList, [
+      `${BASE_URL}/cupons`,
+      `${BASE_URL}/sitemap.xml`,
+      `${BASE_URL}/llms.txt`,
+    ]);
+  } finally {
+    rmSync(tempDir, { recursive: true, force: true });
+  }
+});
+
 test('parseActiveCouponSlugsFromSource independe de indentação, quebras de linha ou chaves aninhadas', () => {
   const reformatted = [
     '// Comentário com STORE_COUPONS = [{ slug: "falso", offerMode: "discount-code", status: "ativo" }]',
