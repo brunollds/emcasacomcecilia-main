@@ -17,7 +17,9 @@ const DIGIT_RUN = /\+?\(?\d[\d\s().-]*\d/g;
 const MIN_PERSONAL_DIGITS = 8;
 
 export function scrubPersonalData(text: string): string {
+  // NFC primeiro: o "ã" escrito como "a" + til solto não é letra para o \p{L} e cortaria o e-mail no meio.
   return text
+    .normalize('NFC')
     .replace(EMAIL, '[removido]')
     .replace(DIGIT_RUN, (run) => {
       if (run.replace(/\D/g, '').length < MIN_PERSONAL_DIGITS) return run;

@@ -194,6 +194,11 @@ async function main() {
   assert.equal(scrubPersonalData('tem whey de 900g? 12 meses, 1,8 kg'), 'tem whey de 900g? 12 meses, 1,8 kg');
   assert.equal(scrubPersonalData('anel 1000000 pontos'), 'anel 1000000 pontos');
   assert.equal(scrubPersonalData('sou joão.silva@exemplo.com.br, tem whey?'), 'sou [removido], tem whey?', 'e-mail com acento');
+  assert.equal(
+    scrubPersonalData('sou joão.silva@exemplo.com.br, tem whey?'.normalize('NFD')),
+    'sou [removido], tem whey?',
+    'e-mail com o acento solto (NFD)',
+  );
   for (const personal of ['11 9 8765-4321', '11 9.8765-4321', '+55 (11) 9 8765-4321', '98765-4321', '3456-7890', '123 456 789-09', '123.456.789 09', '01310-100']) {
     assert.equal(scrubPersonalData(`fone ${personal} tem whey`), 'fone [removido] tem whey', `não limpou ${personal}`);
   }
