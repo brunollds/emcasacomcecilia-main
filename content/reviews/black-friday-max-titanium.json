@@ -542,7 +542,7 @@
         "Quanto é o frete grátis da Max Titanium? Depende da região do CEP: R$ 104 na capital de São Paulo, R$ 134 no Sudeste, R$ 204 no Centro-Oeste, R$ 249 no Sul, R$ 299 no Nordeste e R$ 599 no Norte. O valor do frete não conta para o mínimo, e Sedex fica de fora.",
         "O cupom pode tirar o frete grátis? Pode. Se o total depois do cupom ficar abaixo do mínimo da sua região, o frete pode ser cobrado. Confira o total no carrinho antes de pagar.",
         "Posso usar o cupom na primeira compra? Pode. O código vale para conta nova e para quem já comprou, e depois o resumo do pedido mostra a linha “Descontos”.",
-        "Quanto o MAX10EMCASACOMCECILIA desconta de verdade? Até 10%, conforme o produto. Nos carrinhos de novembro, o desconto ficou em 8,9% no Top Whey 3W + Sabor, no Whey Pro, no Whey Blend, no Kit 2x Whey Pro e no Femini Whey, e em 2% na maior parte dos outros itens testados.",
+        "Quanto o MAX10EMCASACOMCECILIA desconta de verdade? Até 10% OFF. Nos carrinhos de novembro, o desconto ficou em 8,9% no Top Whey 3W + Sabor, no Whey Pro, no Whey Blend, no Kit 2x Whey Pro e no Femini Whey; nos outros itens testados o percentual foi menor, e a linha “Descontos” mostra o valor de cada um.",
         "Qual pré-treino da Max Titanium sai mais barato por porção? Na nossa leitura, o Égide de 300 g: a porção do rótulo é de 6 g, o pote rende 50 porções, e cada uma saiu por menos de R$ 2 com o cupom."
       ]
     }
@@ -554,7 +554,7 @@
       "Pegue o Égide de 300 g se o critério é preço por porção: ele ficou abaixo do Hórus na conta da tabela."
     ],
     "skipIf": [
-      "Não use o Max November como atalho para 10% cheios: nos 31 itens testados, o 10% só apareceu na coqueteleira rosa.",
+      "Passe no Top Whey 3W + Performance se o preço decide: a preço cheio, a proteína dele saiu mais cara que a do + Sabor em oferta.",
       "Passe no Super Whey se a conta é proteína: o pote parece barato, mas a proteína dele é a mais cara da tabela."
     ]
   }

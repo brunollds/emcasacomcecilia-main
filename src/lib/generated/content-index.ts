@@ -90942,7 +90942,7 @@ const reviewsChunk0: unknown[] = [
         "heading": "Perguntas frequentes",
         "bullets": [
           "A Probiótica é confiável? Sim. A loja oficial é operada pela Supley e publica identificação e política de trocas; a reputação no Reclame Aqui é Boa, com 100% das reclamações respondidas nos últimos seis meses.",
-          "Qual é o cupom da Probiótica? É o PRO10EMCASACOMCECILIA, com até 10% OFF no site oficial, e o percentual pode ser menor em alguns produtos. Cole o código no campo \"Cupom de Desconto\" do carrinho e clique em \"Adicionar\". Ele vale em todas as formas de pagamento, para conta nova e para quem já comprou. Veja o [cupom Probiótica](/cupons/probiotica).",
+          "Qual é o cupom da Probiótica? É o PRO10EMCASACOMCECILIA, com até 10% OFF no site oficial. Cole o código no campo \"Cupom de Desconto\" do carrinho e clique em \"Adicionar\". Ele vale em todas as formas de pagamento, para conta nova e para quem já comprou. Veja o [cupom Probiótica](/cupons/probiotica).",
           "A Probiótica é da Supley? Sim. A própria Supley lista a Probiótica entre as marcas do grupo, ao lado de Max Titanium, Dr. Peanut e Znack That, e o rodapé da loja traz a razão social da Supley.",
           "A Probiótica é da Max Titanium? Não. As duas são marcas irmãs do mesmo grupo, a Supley, mas a Probiótica não pertence à Max Titanium.",
           "O site da Probiótica é seguro? O endereço oficial é probiotica.com.br, e o rodapé mostra razão social, CNPJ e endereço. Confira o domínio na barra do navegador antes de digitar dados de pagamento, principalmente se chegou por anúncio.",
@@ -91186,7 +91186,7 @@ const reviewsChunk0: unknown[] = [
         "heading": "Perguntas frequentes",
         "bullets": [
           "Qual a nota da Probiótica no Reclame Aqui? Na aba de seis meses, a reputação é Boa, com nota 7,9. Nos 12 meses é Boa, com 7,3. A média que os consumidores deram ao atendimento nos seis meses é 6,66.",
-          "Qual é o cupom da Probiótica? É o PRO10EMCASACOMCECILIA, com até 10% OFF no site oficial. Cole o código no campo \"Cupom de Desconto\" do carrinho e clique em \"Adicionar\"; o percentual varia por produto e aparece na linha \"Descontos\". Ele vale em todas as formas de pagamento. Veja o [cupom Probiótica](/cupons/probiotica).",
+          "Qual é o cupom da Probiótica? É o PRO10EMCASACOMCECILIA, com até 10% OFF no site oficial. Cole o código no campo \"Cupom de Desconto\" do carrinho e clique em \"Adicionar\"; o desconto aparece na linha \"Descontos\". Ele vale em todas as formas de pagamento. Veja o [cupom Probiótica](/cupons/probiotica).",
           "A Probiótica tem o selo RA1000 ou Empresa Verificada? Não. O perfil não mostra nenhum dos dois selos, mas tem 17 anos de cadastro e responde às reclamações.",
           "A Probiótica responde e resolve as reclamações? Nos seis meses, respondeu 100% das 98 reclamações, em média em 7 dias e 22 horas. Entre as 64 avaliadas, 85,9% foram consideradas resolvidas.",
           "Quais as reclamações mais comuns da Probiótica? Na aba Geral, o atraso na entrega é o problema mais citado, com 16,22%, e o Whey Protein é o produto mais citado, com 35,49%.",
@@ -91427,7 +91427,6 @@ const reviewsChunk0: unknown[] = [
       ],
       "skipIf": [
         "O pedido fica logo acima do mínimo de frete grátis e o cupom o derrubaria abaixo dele: compare o frete antes de aplicar.",
-        "Você espera 10% cheio em todo item: o percentual varia por produto e pode ser bem menor.",
         "Você quer comprar pelo Mercado Livre, onde o código não vale."
       ]
     }
@@ -95278,7 +95277,7 @@ const reviewsChunk0: unknown[] = [
           "O cupom soma com produto em promoção? Sim. No nosso teste, o cupom deu R$ 16,75 de desconto num whey que já estava com preço promocional, e os brindes continuaram no carrinho.",
           "Por que o cupom não deu 10% em todos os produtos? Porque o desconto varia por produto: o cupom liga um 2% OFF em produtos selecionados e, em alguns itens, um 7% OFF adicional. No teste de novembro, foram 8,9% em cinco itens e 2% na maior parte dos outros, e a linha “Descontos” mostra o valor abatido no seu pedido.",
           "O cupom da Max Titanium dá frete grátis? Não necessariamente. O frete grátis é uma regra da loja, que depende do valor do pedido e da região, de R$ 104 na capital de São Paulo a R$ 599 no Norte, e não vale no Sedex. Se o cupom deixar o total abaixo do mínimo da sua região, o frete pode ser cobrado.",
-          "Tem cupom para whey da Max Titanium? Sim: o MAX10EMCASACOMCECILIA vale no site oficial, e o nosso teste foi num Top Whey 3W de 900 g, que recebeu 8,9%. Em outros wheys, como o 100% Whey Refil, foram 2%; confira a linha “Descontos” no carrinho."
+          "Tem cupom para whey da Max Titanium? Sim: o MAX10EMCASACOMCECILIA vale no site oficial, e o nosso teste foi num Top Whey 3W de 900 g, que foi de R$ 189,00 para R$ 172,25. Confira a linha “Descontos” no carrinho."
         ]
       }
     ],
@@ -96982,7 +96981,7 @@ const reviewsChunk0: unknown[] = [
           "Quanto é o frete grátis da Max Titanium? Depende da região do CEP: R$ 104 na capital de São Paulo, R$ 134 no Sudeste, R$ 204 no Centro-Oeste, R$ 249 no Sul, R$ 299 no Nordeste e R$ 599 no Norte. O valor do frete não conta para o mínimo, e Sedex fica de fora.",
           "O cupom pode tirar o frete grátis? Pode. Se o total depois do cupom ficar abaixo do mínimo da sua região, o frete pode ser cobrado. Confira o total no carrinho antes de pagar.",
           "Posso usar o cupom na primeira compra? Pode. O código vale para conta nova e para quem já comprou, e depois o resumo do pedido mostra a linha “Descontos”.",
-          "Quanto o MAX10EMCASACOMCECILIA desconta de verdade? Até 10%, conforme o produto. Nos carrinhos de novembro, o desconto ficou em 8,9% no Top Whey 3W + Sabor, no Whey Pro, no Whey Blend, no Kit 2x Whey Pro e no Femini Whey, e em 2% na maior parte dos outros itens testados.",
+          "Quanto o MAX10EMCASACOMCECILIA desconta de verdade? Até 10% OFF. Nos carrinhos de novembro, o desconto ficou em 8,9% no Top Whey 3W + Sabor, no Whey Pro, no Whey Blend, no Kit 2x Whey Pro e no Femini Whey; nos outros itens testados o percentual foi menor, e a linha “Descontos” mostra o valor de cada um.",
           "Qual pré-treino da Max Titanium sai mais barato por porção? Na nossa leitura, o Égide de 300 g: a porção do rótulo é de 6 g, o pote rende 50 porções, e cada uma saiu por menos de R$ 2 com o cupom."
         ]
       }
@@ -96994,7 +96993,7 @@ const reviewsChunk0: unknown[] = [
         "Pegue o Égide de 300 g se o critério é preço por porção: ele ficou abaixo do Hórus na conta da tabela."
       ],
       "skipIf": [
-        "Não use o Max November como atalho para 10% cheios: nos 31 itens testados, o 10% só apareceu na coqueteleira rosa.",
+        "Passe no Top Whey 3W + Performance se o preço decide: a preço cheio, a proteína dele saiu mais cara que a do + Sabor em oferta.",
         "Passe no Super Whey se a conta é proteína: o pote parece barato, mas a proteína dele é a mais cara da tabela."
       ]
     }
@@ -97795,7 +97794,7 @@ const reviewsChunk0: unknown[] = [
           "Qual é o cupom da Probiótica? É o PRO10EMCASACOMCECILIA, com até 10% OFF no site oficial, em todas as formas de pagamento. Cole o código no campo \"Cupom de Desconto\" do carrinho, clique em \"Adicionar\" e confira a linha \"Descontos\"; as condições estão na [página do cupom da Probiótica](/cupons/probiotica).",
           "Quando começa e quanto dura a Black Friday da Probiótica? O Novembro PRO já está no ar, por tempo limitado, sem data de fim publicada. A Black Friday do calendário é a última sexta de novembro. As ofertas podem sair do site sem aviso quando o estoque acaba; confirme as disponíveis no dia da compra.",
           "Os preços da Probiótica caíram no Novembro PRO? Nos cinco produtos que comparamos, o preço de meados de novembro é o mesmo de outubro: Iso Protein Blend, 100% Pure Whey, creatina de 300 g, Whey Bar Creamy e Pro Collagen.",
-          "Quanto o cupom PRO10EMCASACOMCECILIA tira de verdade? Depende do produto. Nos nossos carrinhos de novembro, tirou 2% na maioria dos itens e 7% no Iso Protein Blend e no Hiper 100% Whey, que estavam em oferta. A linha \"Descontos\" do carrinho mostra o valor antes de pagar.",
+          "Quanto o cupom PRO10EMCASACOMCECILIA tira de verdade? Até 10% OFF. Nos nossos carrinhos de novembro, tirou 7% do Iso Protein Blend e do Hiper 100% Whey, que estavam em oferta; nos outros itens o percentual foi menor. A linha \"Descontos\" do carrinho mostra o valor antes de pagar.",
           "O cupom vale na Black Friday? Vale. Ele entrou em todos os carrinhos de novembro, inclusive nos produtos com preço promocional.",
           "Qual whey da Probiótica compensa mais? Pelo custo da proteína, o Iso Protein Blend de 900 g, que mistura soja e whey: R$ 73,47 com o cupom, R$ 13,06 por 100 g de proteína. Só de whey, o Hiper 100% Whey sai por R$ 116,16, R$ 22,45 por 100 g de proteína.",
           "O cupom vale no Pix? Vale, em todas as formas de pagamento. A faixa do site anuncia até 5% OFF no Pix e no boleto, mas o desconto varia por item e, em alguns carrinhos de novembro, o total no Pix foi igual ao do cartão.",
@@ -97835,8 +97834,7 @@ const reviewsChunk0: unknown[] = [
       ],
       "skipIf": [
         "Você só compraria pelo preço riscado: ele já existia em outubro e não prova desconto novo.",
-        "O total está perto do mínimo de frete ou de uma faixa de brinde e o cupom o deixaria abaixo dela.",
-        "Você espera 10% cheio em todo item: nos carrinhos de novembro, o cupom tirou 2% na maioria dos produtos."
+        "O total está perto do mínimo de frete ou de uma faixa de brinde e o cupom o deixaria abaixo dela."
       ]
     }
   },
@@ -109256,7 +109254,7 @@ const reviewsChunk0: unknown[] = [
         "bullets": [
           "Max Titanium ou Growth: qual é melhor? Depende do produto e da forma de pagamento. A Growth tem o whey concentrado mais barato por grama de proteína e o isolado mais barato no Pix; a Max leva a creatina de 500 g, o hipercalórico e o isolado no cartão.",
           "Qual é o cupom da Max Titanium? É o MAX10EMCASACOMCECILIA, com até 10% OFF no site oficial e no aplicativo, em todas as formas de pagamento. No carrinho, clique em “Adicionar cupom de desconto”, digite o código no campo “Código” e clique em “Adicionar”. As regras estão na página do [cupom Max Titanium](/cupons/max-titanium).",
-          "O cupom da Max vale na creatina? Vale. No teste de novembro, deu 2% na creatina; o percentual varia por produto, e o carrinho mostra o desconto de cada item.",
+          "O cupom da Max vale na creatina? Vale: o MAX10EMCASACOMCECILIA dá até 10% OFF em todas as formas de pagamento, e o carrinho mostra o desconto de cada item.",
           "A Growth tem cupom? Não oferecemos cupom da Growth: ela não é parceira do site, então não há cupom nem link de afiliado dela aqui.",
           "A Max tem creatina Creapure? Sim. A Creatina Creapure 250 g traz o selo declarado pela loja. A página da Growth não declara o selo.",
           "Vale esperar a Black Friday? O cupom vale hoje e soma com as promoções do site. Quando começa a Black Friday da Max e o que soma com o cupom estão no guia da [Black Friday Max Titanium](/reviews/black-friday-max-titanium)."
@@ -109549,7 +109547,7 @@ const reviewsChunk0: unknown[] = [
         "bullets": [
           "Probiótica ou Growth: qual é melhor? No cartão, a Growth vence no whey por 100 g de proteína e a Probiótica de 300 g vence na creatina. No Pix, o refil de 500 g da Growth pode passar à frente na creatina, porque o Pix varia por item e por dia. A escolha pesa também a linha Zero Lactose e os sabores.",
           "Qual é o cupom da Probiótica? É o PRO10EMCASACOMCECILIA, com até 10% OFF no site oficial da Probiótica, em todas as formas de pagamento. Cole no campo \"Cupom de Desconto\" do carrinho e clique em \"Adicionar\"; as regras estão na página do [cupom Probiótica](/cupons/probiotica).",
-          "O cupom vale na creatina? Vale nos produtos do site, e o percentual varia por item: nos testes de novembro, as creatinas receberam 2%. Confira a linha de descontos no seu carrinho.",
+          "O cupom vale na creatina? Vale: o PRO10EMCASACOMCECILIA dá até 10% OFF nos produtos do site. Confira a linha de descontos no seu carrinho.",
           "A Growth tem cupom? Não temos cupom nem parceria com a Growth; as promoções dela ficam no site da marca. O passo a passo do PRO10EMCASACOMCECILIA está no [guia do cupom da Probiótica](/reviews/cupom-probiotica-como-usar)."
         ]
       }
@@ -166099,7 +166097,7 @@ const reviewsChunk1: unknown[] = [
       {
         "heading": "Perguntas frequentes",
         "bullets": [
-          "Qual é o cupom da Probiótica? É o PRO10EMCASACOMCECILIA, com até 10% OFF no site oficial da Probiótica, em todas as formas de pagamento. Cole no campo \"Cupom de Desconto\" do carrinho e clique em \"Adicionar\"; nas creatinas, o desconto medido nos testes de novembro foi de 2%. As regras estão na página do [cupom Probiótica](/cupons/probiotica).",
+          "Qual é o cupom da Probiótica? É o PRO10EMCASACOMCECILIA, com até 10% OFF no site oficial da Probiótica, em todas as formas de pagamento. Cole no campo \"Cupom de Desconto\" do carrinho e clique em \"Adicionar\". As regras estão na página do [cupom Probiótica](/cupons/probiotica).",
           "Creatina Probiótica é boa? Pelo rótulo, os potes de 300 g e de 100 g, a Creapure e os sachês, todos com porção de 5 g, trazem creatina monohidratada com 5.000 mg por porção; a Pure Creatina Monster tem porção de 3 g, com 3.000 mg. A tabela não lista carboidrato, proteína, gordura nem sódio em quantidade significativa. A qualidade de cada lote não se mede pela ficha; o texto lê o rótulo e o preço.",
           "Creatina Probiótica é pura? \"Pura\" é o nome do produto. O rótulo declara creatina monohidratada, com 5.000 mg por porção de 5 g na tabela (3.000 mg em 3 g na Pure Creatina Monster). A Creapure traz o selo de origem da matéria-prima, com a mesma composição por porção na tabela.",
           "Como saber se a creatina da Probiótica é original? Compre no site oficial, probiotica.com.br, ou numa revenda indicada pelo localizador \"Encontre a loja mais próxima\", do \"Quem Somos\". O site mostra o selo \"Garantia de originalidade\", que é da própria marca e não uma certificação de terceiros. Na embalagem, o selo Creapure com o código 18SP11 aparece só nas versões Creapure, e o verso da Creapure diz que o produto é fabricado pela Supley em Matão (SP). Em marketplace, confira o vendedor antes de pagar. Mais sobre onde comprar em [Probiótica é confiável? Quem fabrica, site oficial, trocas e reputação](/reviews/probiotica-e-confiavel).",
@@ -166311,7 +166309,7 @@ const reviewsChunk1: unknown[] = [
       {
         "heading": "Perguntas frequentes",
         "bullets": [
-          "Qual é o cupom da Probiótica? É o PRO10EMCASACOMCECILIA, com até 10% OFF no site oficial da Probiótica, em todas as formas de pagamento. Cole no campo \"Cupom de Desconto\" do carrinho e clique em \"Adicionar\"; nas creatinas, o desconto medido nos testes de novembro foi de 2%. As regras estão na página do [cupom Probiótica](/cupons/probiotica).",
+          "Qual é o cupom da Probiótica? É o PRO10EMCASACOMCECILIA, com até 10% OFF no site oficial da Probiótica, em todas as formas de pagamento. Cole no campo \"Cupom de Desconto\" do carrinho e clique em \"Adicionar\". As regras estão na página do [cupom Probiótica](/cupons/probiotica).",
           "Creatina monodose da Probiótica vale a pena? Pelo preço da tabela acima, o sachê sai a R$ 2,33 por porção de 5 g, contra cerca de R$ 1 no pote de 300 g. A diferença é de R$ 1,33 por porção; escolha o sachê se a conveniência justificar esse custo para você.",
           "A creatina monodose tem a mesma dose do pote? Pelo rótulo, sim: a tabela do sachê diz porção de 5 g com 5.000 mg de creatina, a mesma dos potes de 300 g e de 100 g.",
           "Quantos sachês vêm na creatina monodose da Probiótica? São 30 sachês de 5 g, 150 g no total, por R$ 69,89.",
@@ -199517,7 +199515,6 @@ const reviewsChunk1: unknown[] = [
         "Você quer somar o cupom PRO10EMCASACOMCECILIA (até 10% OFF) a promoções da loja e ao pagamento no Pix ou em até 6x sem juros."
       ],
       "skipIf": [
-        "Você espera 10% de desconto garantido em todo item do carrinho, já que o percentual do cupom varia por produto.",
         "Você precisa evitar qualquer derivado de leite, pois até o Zero Lactose traz derivados de leite no aviso de alergênicos."
       ]
     },
@@ -214251,7 +214248,7 @@ const reviewsChunk1: unknown[] = [
         ]
       },
       {
-        "heading": "Cupom MAX10EMCASACOMCECILIA: 2% ou 8,9%, por produto",
+        "heading": "Cupom MAX10EMCASACOMCECILIA: até 10% OFF e o que o teste mostrou",
         "paragraphs": [
           "O cupom MAX10EMCASACOMCECILIA dá até 10% OFF no site e no app da Max Titanium. No teste de novembro, ele ligou duas promoções da loja: 2% OFF em produtos selecionados, que apareceu em todos os itens testados, e um 7% OFF adicional em alguns. O resultado foi 8,9% no Whey Pro, no Top Whey 3W + Sabor e no Whey Blend, e 2% no 100% Whey, no Top Whey 3W + Performance, no IsoWhey e no Super Whey. O percentual aparece no carrinho, na linha “Descontos”.",
           "O cupom vale em todas as formas de pagamento e soma com as promoções do site. As regras estão em [cupons da Max Titanium](/cupons/max-titanium)."
@@ -234851,7 +234848,7 @@ const reviewsChunk1: unknown[] = [
       {
         "heading": "Perguntas frequentes",
         "bullets": [
-          "Qual é o cupom de cada loja? Black Skull: CECILIA10, com 10%. Max Titanium: MAX10EMCASACOMCECILIA, até 10%, conforme o produto (no nosso teste, 2% no IsoWhey e 8,86% no Top Whey 3W Mais Sabor). Probiótica: PRO10EMCASACOMCECILIA, até 10%, conforme o produto (2% no teste). Mais Mu: MMEMCASACOMCECILIA, com 10%. Cada código vale só na loja dele.",
+          "Qual é o cupom de cada loja? Black Skull: CECILIA10, com 10%. Max Titanium: MAX10EMCASACOMCECILIA, com até 10% OFF. Probiótica: PRO10EMCASACOMCECILIA, com até 10% OFF. Mais Mu: MMEMCASACOMCECILIA, com 10%. Cada código vale só na loja dele.",
           "Qual whey é parecido com o da Growth? O 80% HD da Black Skull é uma alternativa ao concentrado: nos sabores usados na comparação, ele tem a mesma concentração de proteína do (TOP) da Growth. Com CECILIA10, fica abaixo das referências da tabela no cartão.",
           "Tem whey mais barato que o da Growth? Há alternativas nas quatro categorias do artigo, considerando a mesma quantidade de proteína. No concentrado, veja a diferença entre o preço do cartão e o do Pix; na Max e na Probiótica, o código deu 2% na maioria dos produtos do nosso teste, o que reduz a vantagem no isolado e no zero lactose.",
           "Qual whey isolado é mais barato que o da Growth? A Mais Mu, na Blue Friday, oferece menor custo com MMEMCASACOMCECILIA, mas mistura isolado, concentrado e hidrolisado. Para uma opção com apenas proteína isolada como fonte proteica, veja o IsoWhey da Max: abaixo da Growth no cartão; no Pix, compare o total final.",
@@ -235549,7 +235546,7 @@ const reviewsChunk1: unknown[] = [
       {
         "heading": "Perguntas frequentes",
         "bullets": [
-          "Qual é o cupom de cada loja? Black Skull: CECILIA10, com 10%. Probiótica: PRO10EMCASACOMCECILIA, até 10%, conforme o produto (2% na Monodose e na Caps, no nosso teste). Max Titanium: MAX10EMCASACOMCECILIA, até 10%, conforme o produto (2% nas creatinas, no nosso teste). Mais Mu: MMEMCASACOMCECILIA, com 10%. Cada código vale só na loja dele.",
+          "Qual é o cupom de cada loja? Black Skull: CECILIA10, com 10%. Probiótica: PRO10EMCASACOMCECILIA, com até 10% OFF. Max Titanium: MAX10EMCASACOMCECILIA, com até 10% OFF. Mais Mu: MMEMCASACOMCECILIA, com 10%. Cada código vale só na loja dele.",
           "Qual creatina é mais barata que a da Growth? Entre as parceiras, o Creator refil de 500 g da Black Skull: com o CECILIA10, custa menos da metade do pote de 250 g da Growth por grama de creatina, em qualquer forma de pagamento.",
           "Tem alternativa à creatina gummy da Growth? A Creatina Monodose da Probiótica é a nossa recomendação: a dose pronta em sachê, com 5 g de creatina, por menos que a gummy por dose. Para quem quer sabor, há creatina em pó com sabor na Mais Mu, na Max e na Black Skull.",
           "Creatina em sachê vale a pena? Pela praticidade, cada sachê é uma dose pronta. Por grama, ele custa mais que o pó em pote; a troca compensa contra a gummy, não contra o pote.",
@@ -240706,7 +240703,7 @@ const reviewsChunk1: unknown[] = [
         ]
       },
       {
-        "heading": "Por que o desconto pode ficar abaixo de 10%",
+        "heading": "Quanto o cupom tirou no nosso teste",
         "paragraphs": [
           "O código pode entrar sobre um produto em promoção sem aplicar os 10% cheios. No teste do cupom de 11/11/2026, registrado na nossa página de cupom, o Hiper 100% Whey de 900 g ficou assim:"
         ],
@@ -240784,7 +240781,7 @@ const reviewsChunk1: unknown[] = [
           "Qual é o cupom da Probiótica? É o PRO10EMCASACOMCECILIA, com até 10% OFF no site oficial, em todas as formas de pagamento. Cole o código no campo \"Cupom de Desconto\" do carrinho; as condições estão na [página do cupom da Probiótica](/cupons/probiotica).",
           "Como conseguir desconto na primeira compra na Probiótica? Com esse mesmo código, aplicado no carrinho do site oficial, no primeiro pedido e nos seguintes. O percentual de cada item aparece na linha de descontos.",
           "Qual cupom Probiótica vale para quem já é cliente? O mesmo PRO10EMCASACOMCECILIA, com o mesmo teto de 10%.",
-          "O cupom Probiótica soma com o Pix e com as promoções? Sim, com os dois. O percentual do código varia por produto; o exemplo está no capítulo da conta.",
+          "O cupom Probiótica soma com o Pix e com as promoções? Sim, com os dois. O exemplo está no capítulo da conta.",
           "O cupom Probiótica vale no Mercado Livre? Não. Ele vale só no site oficial da Probiótica."
         ]
       }
@@ -240797,8 +240794,7 @@ const reviewsChunk1: unknown[] = [
       ],
       "skipIf": [
         "O pedido fica logo acima do mínimo de frete grátis e o cupom o derrubaria abaixo dele: confira o frete antes de pagar.",
-        "Você quer o produto no Mercado Livre, onde o código não vale.",
-        "Você espera 10% cheio em todo produto: o percentual varia por item."
+        "Você quer o produto no Mercado Livre, onde o código não vale."
       ]
     }
   },
@@ -242221,9 +242217,9 @@ const reviewsChunk1: unknown[] = [
         "heading": "Perguntas frequentes",
         "bullets": [
           "Qual é o cupom da Max Titanium? É o MAX10EMCASACOMCECILIA, com até 10% OFF no site oficial e no aplicativo, em todas as formas de pagamento. Cole no campo de cupom do carrinho; as regras estão no [cupom Max Titanium](/cupons/max-titanium).",
-          "Como conseguir desconto na primeira compra na Max Titanium? Cole o código no carrinho antes de pagar. Ele vale no primeiro pedido e nos seguintes, conforme o produto.",
+          "Como conseguir desconto na primeira compra na Max Titanium? Cole o código no carrinho antes de pagar. Ele vale no primeiro pedido e nos seguintes.",
           "Qual cupom Max Titanium vale para quem já é cliente? O mesmo MAX10EMCASACOMCECILIA, na reposição do whey ou em outro item.",
-          "Quanto de desconto o cupom Max Titanium dá? Até 10%. O percentual varia por produto, e o carrinho mostra o desconto de cada item.",
+          "Quanto de desconto o cupom Max Titanium dá? Até 10% OFF. No nosso teste, o Top Whey 3W + Sabor foi de R$ 189,00 para R$ 172,25; a linha “Descontos” do carrinho mostra o valor do seu pedido.",
           "O cupom Max Titanium vale no aplicativo? Sim, no aplicativo Max Titanium Suplementos.",
           "O cupom Max Titanium vale no Mercado Livre? Não. Pelo Mercado Livre, vale o preço do anúncio."
         ]
@@ -242236,7 +242232,7 @@ const reviewsChunk1: unknown[] = [
       ],
       "skipIf": [
         "Você vai comprar pelo Mercado Livre: o código não vale lá.",
-        "Você espera 10% em todo item: no teste de novembro, a maior parte dos itens recebeu 2%."
+        "O total fica logo acima do mínimo de frete grátis da sua região e o cupom o deixaria abaixo dele: confira o frete antes de pagar."
       ]
     }
   },
@@ -253585,7 +253581,7 @@ const reviewsChunk1: unknown[] = [
       {
         "heading": "Perguntas frequentes",
         "bullets": [
-          "Qual é o cupom de cada loja? Probiótica: PRO10EMCASACOMCECILIA, até 10%, conforme o produto (2% nas duas caixas de barra, no nosso teste). Black Skull: CECILIA10, com 10%. Dr. Peanut: DREMCASACOMCECILIA, com 10%. Mais Mu: MMEMCASACOMCECILIA, com 10%. Cada código vale só na loja dele.",
+          "Qual é o cupom de cada loja? Probiótica: PRO10EMCASACOMCECILIA, com até 10% OFF. Black Skull: CECILIA10, com 10%. Dr. Peanut: DREMCASACOMCECILIA, com 10%. Mais Mu: MMEMCASACOMCECILIA, com 10%. Cada código vale só na loja dele.",
           "Qual barra tem o menor preço por grama de proteína? Entre as seis comparadas, a Whey Bar da Probiótica, já com o código de cada loja. Ela leva açúcar adicionado.",
           "Qual barra de proteína não tem açúcar? Nenhuma das seis tem zero açúcar total. Creamy, Gourmet Zero, Mukebar e Crush Bar declaram zero açúcar adicionado nos rótulos comparados.",
           "A Gourmet Zero da Black Skull é zero lactose? Não. A página declara que ela contém lactose; o aviso de que não contém glúten é outra informação.",

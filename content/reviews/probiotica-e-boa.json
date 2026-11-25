@@ -272,7 +272,6 @@
       "Você quer somar o cupom PRO10EMCASACOMCECILIA (até 10% OFF) a promoções da loja e ao pagamento no Pix ou em até 6x sem juros."
     ],
     "skipIf": [
-      "Você espera 10% de desconto garantido em todo item do carrinho, já que o percentual do cupom varia por produto.",
       "Você precisa evitar qualquer derivado de leite, pois até o Zero Lactose traz derivados de leite no aviso de alergênicos."
     ]
   },
