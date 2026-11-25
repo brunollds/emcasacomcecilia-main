@@ -42,3 +42,6 @@ Task 8 de `docs/superpowers/plans/2026-11-24-dica-no-site.md`.
   - borda sólida `border-2 border-marinho`, sem `.recorte` e sem `<Scissors />`, como em `/cupons`, onde a tesoura só aparece com código copiável;
   - mostra o `card.codeLabel`, o `card.note` e os `card.warnings`, com o `CouponStoreLink`.
 - **`DicaLauncher.tsx`:** o snapshot do servidor do `useSyncExternalStore` devolve `null`, como o `ConsentBanner`. Assim nenhum HTML entra no prerender de `/`, `/cupons`, `/reviews` e `/blackfriday`.
+- **Clarity:** `data-clarity-mask="true"` no contêiner da conversa do `DicaPanel` (pergunta mostrada, cartões e respostas). O
+  Clarity já mascara o `<input>`, mas a pergunta que vira texto na tela seria gravada. A `/privacidade` (seção 9) promete
+  que o texto da caixa aparece mascarado nas gravações.
