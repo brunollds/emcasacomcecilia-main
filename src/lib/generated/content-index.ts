@@ -34887,11 +34887,11 @@ export const reviewsData: unknown[] = [
       "initials": "CM",
       "url": "/sobre"
     },
-    "description": "Mini Me 2.0, Genio S ou NEO? As cinco máquinas Dolce Gusto da loja oficial lado a lado, com preço, medidas e cápsulas, para escolher pelo seu jeito de tomar café.",
-    "metaDescription": "Qual Dolce Gusto comprar, com o cupom CECI de 10% OFF na loja oficial a partir de R$ 100: Mini Me 2.0, Genio S, Touch ou NEO, com preço e medidas.",
+    "description": "Dolce Gusto vale a pena? Compare Mini Me 2.0, Genio S e NEO lado a lado com preços, medidas, compatibilidade de cápsulas e quanto custa o primeiro mês.",
+    "metaDescription": "Com o CECI, 10% OFF na Dolce Gusto a partir de R$ 100: veja se vale a pena, compare Mini Me 2.0, Genio S e NEO, medidas e quanto custa começar.",
     "publishedAt": "12 de outubro de 2026",
     "publishedAtISO": "2026-10-12",
-    "updatedAt": "2026-11-23",
+    "updatedAt": "2026-11-24",
     "draft": false,
     "isNew": false,
     "image": "/images/reviews/dolcegusto/dolce-gusto-maquinas-qual-escolher-capa-v2.webp",
@@ -34901,22 +34901,22 @@ export const reviewsData: unknown[] = [
     "imagePosition": "top",
     "contentSections": [
       {
-        "heading": "Resposta rápida: qual Dolce Gusto comprar",
+        "heading": "Resposta rápida",
         "paragraphs": [
-          "Para gastar menos, a Mini Me 2.0; para ter XL e quatro temperaturas, a Genio S Plus; para cápsula compostável e reservatório de 1 litro, a NEO, que aceita só cápsulas NEO. As duas primeiras usam as mesmas cápsulas Original. No site oficial, o [cupom Dolce Gusto](/cupons/dolce-gusto) é o CECI e dá 10% OFF a partir de 100 reais."
+          "A Dolce Gusto vale a pena, sim, para quem alterna café preto, cappuccino, chocolate e chá na mesma máquina. Para gastar menos, a Mini Me 2.0; para ter XL e quatro temperaturas, a Genio S Plus. O [cupom Dolce Gusto](/cupons/dolce-gusto) CECI dá 10% OFF na loja oficial acima do pedido mínimo."
         ]
       },
       {
-        "heading": "As cinco máquinas à venda na loja oficial",
+        "heading": "As cinco máquinas no catálogo da loja oficial",
         "paragraphs": [
-          "Para escolher, primeiro separe por cápsula: a loja oficial vende cinco máquinas, quatro do sistema Original (a [Mini Me 2.0](https://www.nescafe-dolcegusto.com.br/maquinas-cafe/mini-me-2) e as três Genio S: [Basic](https://www.nescafe-dolcegusto.com.br/maquinas-cafe/genio-s-basic-grafite-110v-new-2), [Plus](https://www.nescafe-dolcegusto.com.br/maquinas-cafe/genio-s-plus-preta-110v-new) e [Touch](https://www.nescafe-dolcegusto.com.br/maquinas-cafe/genio-s-touch-prata-110v-1)) e a [NEO](https://www.nescafe-dolcegusto.com.br/maquinas-cafe-neo), de outra cápsula. Infinissima, Piccolo, Piccolo XS e Lumio não estão à venda no site.",
+          "Para escolher, primeiro separe por cápsula: a loja oficial tem no catálogo cinco máquinas da marca, presente no Brasil desde 2009, sendo quatro do sistema Original (a [Mini Me 2.0](https://www.nescafe-dolcegusto.com.br/maquinas-cafe/mini-me-2) e as três Genio S: [Basic](https://www.nescafe-dolcegusto.com.br/maquinas-cafe/genio-s-basic-grafite-110v-new-2), [Plus](https://www.nescafe-dolcegusto.com.br/maquinas-cafe/genio-s-plus-preta-110v-new) e [Touch](https://www.nescafe-dolcegusto.com.br/maquinas-cafe/genio-s-touch-prata-110v-1)) e a [NEO](https://www.nescafe-dolcegusto.com.br/maquinas-cafe-neo), de outra cápsula. Infinissima, Piccolo, Piccolo XS e Lumio não estão à venda no site.",
           "As quatro do sistema Original aceitam as mesmas cápsulas, com mais de 30 bebidas quentes ou frias, entre cafés, lattes, cappuccinos, chocolates e chás. Elas trabalham com 15 bar de pressão e, no comparativo oficial, aparecem com tomada de 20 A.",
-          "A NEO aceita só as cápsulas NEO compostáveis, trabalha com até 15 bar e tem o maior reservatório entre as cinco, com 1 litro."
+          "A NEO aceita só as cápsulas NEO compostáveis, trabalha com até 15 bar e tem o maior reservatório entre as cinco, com 1 litro. Na nossa consulta, as quatro máquinas Original estavam à venda e a página da NEO avisava que o modelo estava indisponível para compra."
         ],
         "image": {
           "src": "/images/reviews/dolcegusto/dolce-gusto-cinco-maquinas-oficial.webp",
           "alt": "Cafeteiras Dolce Gusto Mini Me 2.0 preta, Genio S Basic taupe, Genio S Plus vermelha, Genio S Touch prata e NEO preta, lado a lado na mesma altura",
-          "caption": "As cinco máquinas à venda na loja oficial: Mini Me 2.0, Genio S Basic, Genio S Plus, Genio S Touch e NEO. Fotos da loja, fora de escala.",
+          "caption": "As cinco máquinas no catálogo da loja oficial: Mini Me 2.0, Genio S Basic, Genio S Plus, Genio S Touch e NEO. Fotos da loja, fora de escala.",
           "objectFit": "wide",
           "aspectRatio": 2.6,
           "href": "https://www.nescafe-dolcegusto.com.br/maquinas-cafe"
@@ -34925,7 +34925,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Preço, tamanho e recursos lado a lado",
         "comparisonTable": {
-          "caption": "Preços de venda na loja oficial em 23/11. Medidas e recursos das máquinas Original no comparativo oficial. Altura da NEO na ficha da loja.",
+          "caption": "Preços de venda e disponibilidade na loja oficial em 24/11/2026. Medidas e recursos das máquinas Original no comparativo oficial. Altura da NEO na especificação oficial.",
           "headers": [
             "Recurso",
             "Mini Me 2.0",
@@ -34940,8 +34940,8 @@ export const reviewsData: unknown[] = [
               "R$ 349,90",
               "R$ 389,90",
               "R$ 489,90",
-              "R$ 799,90",
-              "A partir de R$ 799,00"
+              "R$ 599,90",
+              "R$ 799,00 (indisponível)"
             ],
             [
               "Reservatório",
@@ -34957,7 +34957,7 @@ export const reviewsData: unknown[] = [
               "27,3 × 11,2 × 28,6 cm",
               "27,3 × 11,2 × 28,6 cm",
               "27,2 × 11,2 × 28,6 cm",
-              "31,2 cm de altura na ficha da loja"
+              "31,2 cm de altura na especificação oficial"
             ],
             [
               "XL",
@@ -34986,7 +34986,7 @@ export const reviewsData: unknown[] = [
           ]
         },
         "postParagraphs": [
-          "A Mini Me 2.0 tem o mesmo preço em todas as cores. A NEO tem ficha própria na página da máquina.",
+          "A loja informa: a Genio S Touch estava em oferta nesta consulta, e a Mini Me 2.0 tem o mesmo preço em todas as cores.",
           "A Genio S Plus e a Genio S Touch têm também a bandeja de metal. A diferença técnica entre as três Genio S, recurso por recurso, está no nosso comparativo Basic, Plus e Touch."
         ],
         "links": [
@@ -35006,12 +35006,12 @@ export const reviewsData: unknown[] = [
         "paragraphs": [
           "A Genio S é a mais estreita, com 11,2 cm de largura, e também a mais baixa entre as quatro do sistema Original, com cerca de 27 cm de altura. Para um canto apertado, confira só os 28,6 cm de profundidade.",
           "A Mini Me 2.0 é a menos funda das quatro do sistema Original, com 24 cm, mas também a mais alta, com 30,5 cm, e tem 16 cm de largura. Se ela for ficar embaixo de um armário, meça a altura antes.",
-          "A ficha da loja informa 31,2 cm de altura para a NEO. O manual traz outras dimensões. Confirme a medida da versão com a loja se a cafeteira for ficar num nicho."
+          "Na página da NEO, a altura indicada é de 31,2 cm. O manual traz outras dimensões. Confirme a medida da versão com a loja se a cafeteira for ficar num nicho."
         ],
         "image": {
           "src": "/images/reviews/dolcegusto/genio-s-touch-lateral.webp",
           "alt": "Imagem comercial da cafeteira Dolce Gusto Genio S Touch prata, em três quartos, com o reservatório de água atrás",
-          "caption": "A Genio S de lado: 11,2 cm de largura e 28,6 cm de profundidade, segundo o comparativo oficial.",
+          "caption": "A Genio S de lado: 11,2 cm de largura e 28,6 cm de profundidade, mostra o comparativo oficial.",
           "objectFit": "square",
           "href": "https://www.nescafe-dolcegusto.com.br/maquinas-cafe/genio-s-touch-prata-110v-1"
         }
@@ -35055,7 +35055,7 @@ export const reviewsData: unknown[] = [
         "paragraphs": [
           "A Mini Me 2.0 passou pelo nosso teste em casa, com o Lungo e o Café Matinal no dia a dia de trabalho. O review conta como foi.",
           "A Genio S Touch também tem review próprio. Foi nela que vimos que o preparo frio não gela: com a opção fria do painel, o Chá de Pêssego saiu morno, por volta de 40 °C. Para bebida gelada, prepare antes e leve à geladeira ou ponha gelo no copo.",
-          "A Cecília usa a NEO no dia a dia, e o [review da Dolce Gusto NEO](/reviews/dolce-gusto-neo-vale-a-pena) conta como é. A Genio S Basic e a Genio S Plus entram aqui pelas especificações oficiais."
+          "Usei: a NEO é a máquina do meu dia a dia, e o [review da Dolce Gusto NEO](/reviews/dolce-gusto-neo-vale-a-pena) conta como é. A Genio S Basic e a Genio S Plus entram aqui pelas especificações oficiais."
         ],
         "images": [
           {
@@ -35069,8 +35069,7 @@ export const reviewsData: unknown[] = [
             "src": "/images/reviews/dolcegusto/dolce-gusto-neo-cecilia.webp",
             "alt": "Cecília na cozinha com a cafeteira Dolce Gusto NEO branca, segurando o reservatório de água transparente",
             "caption": "A Cecília com a NEO, que ela usa no dia a dia.",
-            "objectFit": "portrait",
-            "href": "https://www.nescafe-dolcegusto.com.br/maquinas-cafe-neo"
+            "objectFit": "portrait"
           }
         ],
         "links": [
@@ -35089,19 +35088,76 @@ export const reviewsData: unknown[] = [
         ]
       },
       {
+        "heading": "Quanto custa começar na Dolce Gusto e repor 30 bebidas no mês",
+        "paragraphs": [
+          "Para responder se a Dolce Gusto vale a pena no orçamento da casa, não basta olhar só a máquina: o que pesa todo mês é quantas xícaras cada caixa prepara. Cafés pretos como o Espresso Intenso usam 1 cápsula por xícara (10 bebidas por caixa de 10 cápsulas), enquanto o Cappuccino gasta 2 cápsulas por bebida (5 de café e 5 de leite na caixa de 10), rendendo 5 bebidas por caixa.",
+          "Conta nossa: numa cesta de 30 bebidas para o primeiro mês, duas caixas de Espresso Intenso (R$ 15,90 cada, 20 bebidas, a R$ 1,59 por xícara) e duas de Cappuccino (R$ 15,90 cada, 10 bebidas, a R$ 3,18 por xícara) somam R$ 63,60, abaixo do mínimo de R$ 100 do CECI.",
+          "Quando o pedido inicial junta a Mini Me 2.0 e essas 4 caixas no mesmo carrinho, os 10% do CECI entram sobre tudo; comprando separado, só a máquina atinge o mínimo do cupom e as cápsulas ficam sem desconto. Pela regra do cupom, o pedido junto sai R$ 6,36 mais barato, antes dos fretes."
+        ],
+        "image": {
+          "src": "/images/reviews/dolcegusto/dolce-gusto-espresso-intenso-e-cappuccino-oficial.webp",
+          "alt": "Caixas de 10 cápsulas NESCAFÉ Dolce Gusto Espresso Intenso e Cappuccino lado a lado em fotos oficiais da loja.",
+          "caption": "Espresso Intenso rende 10 bebidas por caixa; Cappuccino usa 2 cápsulas por xícara e rende 5 bebidas. Foto: Dolce Gusto.",
+          "objectFit": "wide",
+          "aspectRatio": 1.7778,
+          "href": "https://www.nescafe-dolcegusto.com.br/sabores"
+        },
+        "comparisonTable": {
+          "caption": "Simulação para 30 bebidas no sistema Original com preços da loja oficial na mesma consulta, antes do frete; ofertas e estoque mudam sem aviso.",
+          "headers": [
+            "Cenário",
+            "Itens",
+            "Total sem cupom",
+            "Com CECI (simulação)"
+          ],
+          "rows": [
+            [
+              "Reposição mensal (30 bebidas)",
+              "2× Espresso Intenso (20 bebidas) + 2× Cappuccino (10 bebidas, 2 cápsulas cada)",
+              "R$ 63,60",
+              "Sem CECI (abaixo de R$ 100)"
+            ],
+            [
+              "Mini Me 2.0 + cesta juntos",
+              "Máquina (R$ 349,90) + 4 caixas (R$ 63,60)",
+              "R$ 413,50",
+              "R$ 372,15"
+            ],
+            [
+              "Mini Me 2.0 + cesta separados",
+              "Máquina com CECI (R$ 314,91) + 4 caixas sem cupom (R$ 63,60)",
+              "R$ 413,50",
+              "R$ 378,51"
+            ]
+          ]
+        },
+        "postParagraphs": [
+          "Os valores acima são uma simulação pela regra do cupom, não um teste de carrinho com máquina e cápsulas juntas: confira o frete pelo CEP e o desconto no carrinho antes de pagar. Veja também se a campanha do dia traz frete grátis na máquina ao incluir 1 DGusta (a caixa de 50 ou 100 cápsulas) no pedido ou as 30 cápsulas de brinde na compra de máquina Original, que não entram na conta desta cesta. Para ver o preço de cada bebida avulsa, no DGusta, no combo e na assinatura, consulte o guia de custo por cápsula."
+        ],
+        "links": [
+          {
+            "label": "Quanto custa cada bebida Dolce Gusto: preço por cápsula, por caixa e por xícara",
+            "href": "/reviews/quanto-custa-capsula-dolce-gusto"
+          },
+          {
+            "label": "Qual sabor de cápsula Dolce Gusto escolher: guia por perfil, Original e NEO",
+            "href": "/reviews/melhores-capsulas-dolce-gusto-2026"
+          }
+        ]
+      },
+      {
         "heading": "Qual escolher pelo seu jeito de tomar café",
         "bullets": [
-          "Menor investimento nas opções comparadas: Mini Me 2.0. Usa as mesmas cápsulas das Genio S, mas não tem XL.",
+          "Menor investimento nas opções comparadas: Mini Me 2.0, com o mesmo preço em todas as cores. Usa as mesmas cápsulas das Genio S, mas não tem XL.",
           "Quer alternar o volume e a temperatura de preparo: Genio S Plus, com XL e quatro temperaturas. Café, café com leite e chá também estão disponíveis nas outras máquinas Original, conforme a cápsula escolhida.",
-          "Café o dia todo, em casa ou no escritório: a NEO tem o maior reservatório, com 1 litro; entre as do sistema Original, a Genio S Plus e a Touch somam XL e Espresso Boost.",
-          "Café preto, cápsula compostável e reservatório de 1 litro: NEO, que custa a partir de R$ 799,00.",
+          "Café o dia todo, em casa ou no escritório: entre as do sistema Original, a Genio S Plus e a Touch somam XL e Espresso Boost; o reservatório maior, de 1 litro, é o da NEO.",
+          "Café preto, cápsula compostável e reservatório de 1 litro: NEO, o modelo mais caro da tabela e indisponível na loja na nossa consulta (confira se voltou antes de contar com ela).",
           "Bebida gelada: prepare e ponha gelo no copo; no nosso teste da Touch, o modo frio não gelou a bebida.",
           "Bancada pequena: Genio S, a mais estreita, com 11,2 cm.",
           "XL pagando menos: Genio S Basic, sem as 4 temperaturas e o Espresso Boost.",
-          "Os recursos da Plus com tela de toque: Genio S Touch.",
-          "Menor preço: Mini Me 2.0, igual em todas as cores."
+          "Os recursos da Plus com tela de toque: Genio S Touch."
         ],
-        "emphasis": "Para alternar bebidas e volumes, eu escolheria a Genio S Plus: junta XL, quatro temperaturas e Espresso Boost e custa bem menos que a Touch, que tem os mesmos recursos com tela de toque.",
+        "emphasis": "Para alternar bebidas e volumes, a escolha mais equilibrada é a Genio S Plus: junta XL, quatro temperaturas e Espresso Boost e custa menos que a Touch, que tem os mesmos recursos com tela de toque.",
         "links": [
           {
             "label": "Ver Genio S Plus na loja oficial",
@@ -35117,9 +35173,9 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Onde comprar e o cupom CECI",
         "paragraphs": [
-          "Os preços deste guia são da loja oficial e mudam com as promoções. A garantia da máquina é de 1 ano, e o parcelamento vai até 10x sem juros. As promoções do site mudam quase todo dia e podem acabar sem aviso: confira no regulamento e no carrinho.",
-          "Na consulta de novembro, a compra de uma máquina Original dava 30 cápsulas predefinidas, e os brindes entram sozinhos no carrinho. O combo com máquina levava uma Mini Me de brinde acima de 65 caixas de cápsulas Original; o número de caixas muda de uma campanha para outra (já foi de 45 a 80 caixas), então confira o piso no regulamento e no carrinho. O frete grátis nas máquinas vinha ao pôr 1 DGusta no pedido. Veja o que a Black Friday trouxe no guia da [Black Friday da Dolce Gusto](/reviews/black-friday-dolce-gusto).",
-          "O cupom CECI dá 10% OFF na loja oficial e no app, em compras a partir de 100 reais e em todas as formas de pagamento. Para usar, clique em Resgatar códigos promocionais, digite CECI em Código do voucher e confira a linha do desconto antes de pagar. Ele não vale no frete nem junto com o resgate de pontos do Club.",
+          "Para pagar menos na loja oficial, some os 10% do CECI às ofertas diárias da vitrine e confira os brindes que entram sozinhos no carrinho. A garantia da máquina é de 1 ano, e o parcelamento vai até 10x sem juros. As promoções do site mudam quase todo dia e podem acabar sem aviso: confira no regulamento e no carrinho. Para ver CNPJ, política de entrega e atendimento, consulte [Dolce Gusto é confiável?](/reviews/dolce-gusto-e-confiavel) e [Dolce Gusto no Reclame Aqui](/reviews/dolce-gusto-reclame-aqui-nota-reputacao).",
+          "Na campanha observada na loja, a compra de uma máquina Original dava 30 cápsulas predefinidas. O combo com máquina levava uma Mini Me de brinde acima de 65 caixas de cápsulas Original; o número de caixas muda de uma campanha para outra (já foi de 45 a 80 caixas), então confira o piso no regulamento, no carrinho e no guia de [caixas + Mini Me grátis](/reviews/promocao-dolce-gusto-caixas-mini-me-gratis). O frete grátis nas máquinas aparecia ao pôr 1 DGusta no pedido. Veja também as opções de [assinatura Dolce Gusto](/reviews/assinatura-dolce-gusto-vale-a-pena), os [combos para CNPJ](/reviews/dolce-gusto-cnpj-negocios-combos) e o guia da [Black Friday da Dolce Gusto](/reviews/black-friday-dolce-gusto).",
+          "O cupom CECI dá 10% OFF na loja oficial e no app, em compras a partir de R$ 100 e em todas as formas de pagamento. Para usar, clique em Resgatar códigos promocionais, digite CECI em Código do voucher e confira a linha do desconto antes de pagar. Ele não vale no frete nem junto com o resgate de pontos do Club. Regra prática, sem teste nosso: quando for repor cápsulas sem máquina, junte ao menos sete caixas promocionais para passar do mínimo do cupom e comparar o frete.",
           "Na dúvida entre Dolce Gusto e Nespresso, veja o comparativo das marcas."
         ],
         "links": [
@@ -35141,12 +35197,14 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Perguntas frequentes",
         "bullets": [
+          "Dolce Gusto vale a pena? Vale, sim, para quem alterna cafés pretos, bebidas com leite, chocolates e chás na mesma máquina do sistema Original, sabendo do gasto recorrente com cápsulas. Quem toma apenas café preto ou poucas doses no mês deve comparar a conta mensal da cesta antes de comprar.",
           "Qual é o cupom da Dolce Gusto? É o CECI, com 10% OFF na loja oficial e no app da Nescafé Dolce Gusto em compras a partir de 100 reais, em todas as formas de pagamento. Clique em Resgatar códigos promocionais, digite CECI em Código do voucher e confira a linha do desconto antes de pagar.",
+          "Quantas bebidas faz uma caixa de Cappuccino Dolce Gusto? Cinco bebidas por caixa de dez cápsulas, porque cada xícara usa uma cápsula de leite e outra de café. Já nos cafés pretos, como o Espresso Intenso, cada cápsula faz uma bebida e a caixa rende dez.",
           "Qual Dolce Gusto faz bebida gelada? Nenhuma gela a bebida: o preparo frio da Genio S Touch saiu morno, por volta de 40 °C, e o gelado vem do gelo no copo.",
           "Qual Dolce Gusto aceita todas as cápsulas? Nenhuma: as máquinas do sistema Original aceitam as cápsulas Original e, nos modelos que a loja lista como compatíveis, alguns cafés NEO (espresso e lungo) com o Adaptador NEO Start; a NEO aceita só cápsulas NEO.",
           "Qual cafeteira Dolce Gusto é a menor? Depende da medida: a Genio S é a mais estreita (11,2 cm) e, entre as do sistema Original, a mais baixa; a Mini Me 2.0 é a menos funda das do sistema Original (24 cm).",
           "Mini Me ou Genio S: qual vale mais a pena? A Mini Me 2.0 é a opção de menor preço na tabela. As três Genio S têm XL; a Plus e a Touch acrescentam quatro temperaturas e Espresso Boost. Todas usam as mesmas cápsulas Original.",
-          "Dolce Gusto NEO ou Genio S: qual escolher? Escolha a NEO se quer cápsula compostável e reservatório de 1 litro e aceita só cápsulas NEO, de café preto. Escolha a Genio S se quer o sistema Original, com mais de 30 bebidas, entre cafés, lattes, chocolates e chás.",
+          "Dolce Gusto NEO ou Genio S: qual escolher? Escolha a NEO se quer cápsula compostável e reservatório de 1 litro e aceita só cápsulas NEO, de café preto, conferindo antes se voltou ao estoque na loja. Escolha a Genio S se quer o sistema Original, com mais de 30 bebidas, entre cafés, lattes, chocolates e chás.",
           "Quais são as dimensões da Mini Me 2.0 e da Genio S Plus? A Mini Me 2.0 mede 30,5 × 16 × 24 cm (altura, largura e profundidade), e a Genio S Plus, cerca de 27 × 11,2 × 28,6 cm. A tabela do capítulo de preço, tamanho e recursos traz as cinco máquinas."
         ]
       }
@@ -35170,6 +35228,12 @@ export const reviewsData: unknown[] = [
         "slug": "dolce-gusto-mini-me-2-0-vale-a-pena"
       },
       {
+        "slug": "quanto-custa-capsula-dolce-gusto"
+      },
+      {
+        "slug": "dolce-gusto-neo-vale-a-pena"
+      },
+      {
         "slug": "black-friday-dolce-gusto"
       }
     ],
@@ -35177,10 +35241,10 @@ export const reviewsData: unknown[] = [
       "takeIf": [
         "Você quer gastar menos e aceita uma máquina sem XL: a Mini Me 2.0.",
         "Você quer XL, quatro temperaturas e Espresso Boost sem pagar pela tela de toque: a Genio S Plus.",
-        "Você toma só café preto e quer cápsula compostável: a NEO."
+        "Você alterna café preto e bebidas com leite e aceita repor caixas todo mês."
       ],
       "skipIf": [
-        "Você já tem caixas Original em casa: a NEO não aceita nenhuma.",
+        "Você já tem caixas Original em casa e pensa na NEO: ela não aceita nenhuma.",
         "Você espera bebida gelada direto da máquina: o modo frio da Touch saiu morno, e o gelado vem do gelo no copo.",
         "Você vai pôr a máquina num nicho apertado: meça antes a altura da Mini Me 2.0 e da NEO."
       ]
@@ -348270,6 +348334,956 @@ export const reviewsData: unknown[] = [
           "Qual é o cupom da Petz? É o EMCASA, com 10% OFF no site e no app nos produtos sem oferta; na retirada em loja, soma com os 5% da retirada.",
           "O cupom da Petz vale no app? Vale: o EMCASA entra no campo \"Digite seu cupom\" da sacola, no site e no app.",
           "Posso trocar a ração se o pet não gostar? Nas rações e nos úmidos das marcas próprias, sim: na embalagem original, em até 30 dias, a loja troca por um cupom no valor do produto. Nas rações, precisa sobrar pelo menos 70% do peso; os úmidos ficam fora dessa regra."
+        ]
+      }
+    ]
+  },
+  {
+    "id": 1443,
+    "slug": "colaedecora-e-boa",
+    "locale": "pt",
+    "category": "guias-praticos-utilidade",
+    "reviewKind": "guia",
+    "author": {
+      "name": "Cecília Mauad",
+      "slug": "cecilia-mauad",
+      "role": "Em Casa com Cecília",
+      "initials": "CM",
+      "url": "/sobre"
+    },
+    "publishedAt": "24 de novembro de 2026",
+    "publishedAtISO": "2026-11-24",
+    "updatedAt": "2026-11-24",
+    "draft": false,
+    "isNew": true,
+    "imageFit": "contain",
+    "imageAspect": "landscape",
+    "pros": [],
+    "cons": [],
+    "coupon": "EMCASACOMCECILIA",
+    "affiliate": "colaedecora",
+    "title": "Cola e Decora é boa? Móveis montessorianos, decoração infantil e quando vale a pena",
+    "seoTitle": "Loja Cola e Decora é boa? Móveis e quarto infantil",
+    "type": "Guia de Marca",
+    "description": "Veja o que a Cola e Decora vende para montar o quarto infantil, os detalhes da penteadeira com regulagem e da linha Theo, e quanto sai com o cupom.",
+    "metaDescription": "O EMCASACOMCECILIA dá 10% OFF na Cola e Decora e soma com ofertas. Veja camas, penteadeira, linha Theo e por que comprar com antecedência.",
+    "image": "/images/reviews/colaedecora/colaedecora-e-boa-hero-pt.webp",
+    "imageAlt": "Montagem com criança diante da Penteadeira com Regulagem rosa aberta e crianças brincando na Mesa Infantil Theo em quartos decorados, acima da faixa verde com o logo Cola e Decora, o título «Cola e Decora é boa?» e o subtítulo sobre móveis, decoração e quando vale a pena.",
+    "cta": {
+      "text": "Acesse a Cola e Decora pelo botão e cole EMCASACOMCECILIA no campo “Tem um cupom?” do carrinho lateral.",
+      "label": "Ir para a Cola e Decora",
+      "url": "https://www.lojacolaedecora.com.br/",
+      "sponsored": true
+    },
+    "editorialNote": "Feito com as páginas da loja e dois testes de carrinho; não usamos os móveis. Podemos receber comissão pelo cupom.",
+    "relatedArticles": [
+      {
+        "slug": "cama-montessoriana-colaedecora"
+      },
+      {
+        "slug": "colaedecora-e-confiavel"
+      },
+      {
+        "slug": "colaedecora-reclame-aqui-nota-reputacao"
+      },
+      {
+        "slug": "cupom-colaedecora-como-usar"
+      },
+      {
+        "slug": "cupom-colaedecora-primeira-compra"
+      },
+      {
+        "slug": "black-friday-colaedecora"
+      }
+    ],
+    "decision": {
+      "takeIf": [
+        "Você quer montar o quarto infantil inteiro num mesmo estilo, combinando camas, prateleiras e mesa no mesmo pedido.",
+        "Você já passou do mínimo do frete grátis da loja e quer somar os 10% do cupom em cima do preço em oferta.",
+        "Você compra com folga no calendário e aceita montar os móveis em casa com manual e ferragens."
+      ],
+      "skipIf": [
+        "Você precisa do móvel pronto para uma data marcada e próxima: confira antes o prazo pelo CEP na finalização da compra.",
+        "Você não quer receber o móvel desmontado nem contratar montagem por fora.",
+        "Você vai pedir só uma peça pequena abaixo do mínimo de frete grátis e o valor da entrega encarece a compra."
+      ]
+    },
+    "contentSections": [
+      {
+        "heading": "Resposta rápida",
+        "paragraphs": [
+          "É boa, sim, para quem monta o quarto infantil e busca móveis e decoração no mesmo estilo, como camas montessorianas, penteadeira com regulagem, linha Theo, prateleiras, tapetes e quadros. O EMCASACOMCECILIA dá 10% OFF no site oficial, soma com ofertas e vale em todas as formas de pagamento. Abaixo estão as linhas e duas contas de pedido."
+        ]
+      },
+      {
+        "heading": "Quem é a Cola e Decora e onde ver a reputação",
+        "paragraphs": [
+          "A Cola e Decora é uma loja brasileira de móveis e decoração para quarto infantil, ligada à empresa Muller & Spengler Store Ltda, com sede em Gaspar (SC). A página institucional apresenta o catálogo como voltado para autonomia e criatividade no quarto das crianças.",
+          "Para conferir CNPJ, políticas de entrega e os indicadores do atendimento ao consumidor antes de fechar o pedido, veja [Cola e Decora é confiável?](/reviews/colaedecora-e-confiavel) e a análise de [Cola e Decora no Reclame Aqui](/reviews/colaedecora-reclame-aqui-nota-reputacao)."
+        ]
+      },
+      {
+        "heading": "O que a Cola e Decora vende: o quarto por partes",
+        "paragraphs": [
+          "Quem monta um quarto infantil do zero ou renova só um cantinho encontra quatro blocos principais no menu da loja:"
+        ],
+        "bullets": [
+          "**Dormir:** camas montessorianas (Baixa, Evolutiva Nina, Bella, Cercadinho solteiro e casal, Pinus Theo, Noah com livreiro e Casinha), bicamas Theo e Nina, além de roupa de cama.",
+          "**Brincar e estudar:** Penteadeira com Regulagem, Mini Penteadeira de Bancada Flor, mesas e cadeiras da linha Theo e com regulagem, escrivaninha juvenil, mercadinho infantil e brinquedos.",
+          "**Guardar e organizar:** baús organizadores, estantes Bella, estante de livros com caixote e prateleiras de parede.",
+          "**Decorar e completar:** quadros individuais e kits, móbiles, almofadas, tapetes (inclusive de nylon), bastidores e pelúcias."
+        ],
+        "postParagraphs": [
+          "O material varia conforme a peça: há modelos em pinus maciço, outros que combinam estrutura em pinus com MDF laqueado e itens em MDF, então confira a descrição oficial de cada produto antes de misturar acabamentos. Se a dúvida principal for a cama, a comparação de medidas externas, altura do chão, colchão e carga máxima fica em [cama montessoriana Cola e Decora](/reviews/cama-montessoriana-colaedecora)."
+        ]
+      },
+      {
+        "heading": "Penteadeira com regulagem e Mini Penteadeira",
+        "paragraphs": [
+          "A [Penteadeira com Regulagem](https://www.lojacolaedecora.com.br/penteadeira-evolutiva-rosa) acompanha mais tempo do crescimento por ter dois níveis de altura (49 cm ou 63,5 cm), enquanto a Mini Penteadeira de Bancada Flor resolve quando só há espaço sobre uma cômoda. A loja informa: o modelo maior é indicado para \"crianças de 3 até 10 anos\" e sai em sete cores (Azul, Verde, Rosa, Branca, Cinza Greige, Verde Oliva e Rosa Blush). A estrutura é de pinus maciço, com acabamento em MDF laqueado fosco e tinta 100% atóxica, e o parcelamento anunciado vai até 9x sem juros.",
+          "As medidas externas na página do produto são 64 × 60 × 40 cm (comprimento, largura e profundidade), com nicho colmeia de 15 compartimentos (11 × 8 cm) e nicho grande de 29,5 × 37 cm. Antes de fechar, saiba que o espelho vem incluso, mas a cadeira ou banqueta é vendida à parte e a penteadeira chega desmontada, com manual. A Mini Penteadeira de Bancada Flor custa R$ 299,90 e sai em quatro cores."
+        ],
+        "images": [
+          {
+            "src": "/images/reviews/colaedecora/colaedecora-e-boa-penteadeira-nichos.webp",
+            "alt": "Penteadeira com Regulagem rosa aberta da Cola e Decora com espelho interno e 15 nichos colmeia, enquanto uma criança organiza acessórios na cadeira infantil.",
+            "caption": "Penteadeira com Regulagem rosa aberta, com espelho e nichos internos. A cadeira não acompanha o móvel. Foto: Cola e Decora.",
+            "objectFit": "square",
+            "href": "https://www.lojacolaedecora.com.br/penteadeira-evolutiva-rosa"
+          }
+        ]
+      },
+      {
+        "heading": "Linha Theo, prateleiras e quadros para completar o quarto",
+        "paragraphs": [
+          "Quem quer montar cantinhos combinando encontra na linha Theo uma entrada mais acessível: Cama Pinus Theo (R$ 1.099,00), Bicama Theo em cinco cores (R$ 1.299,00), Mesa Theo, [Cadeira Infantil Branca Theo](https://www.lojacolaedecora.com.br/cadeira-infantil-branca-theo) e [Prateleira de Livros 50 cm Theo](https://www.lojacolaedecora.com.br/prateleira-de-livros-50cm-rosa). Na descrição oficial da cadeira branca Theo, a marca detalha estrutura em madeira maciça pinus com assento e encosto em MDF laqueado fosco, cantos arredondados e capacidade para até 50 kg.",
+          "Para aproveitar paredes e completar o pedido, a Prateleira de Livros 50 cm Theo mede 18 × 50 × 8,5 cm, comporta de 6 a 12 livros infantis até 5 kg e une MDF com acabamento frontal em pinus. Já o [Quadro Infantil Oração Santo Anjo](https://www.lojacolaedecora.com.br/quadro-infantil-oracao-santo-anjo) tem versões Média (24 × 34 cm, A4) e Grande (34 × 44 cm, A3), com moldura de madeira de 2 cm (Branco ou Pinus), fundo em Eucatex, gancho e sem vidro."
+        ],
+        "images": [
+          {
+            "src": "/images/reviews/colaedecora/colaedecora-e-boa-cadeira-theo.webp",
+            "alt": "Cadeira Infantil Branca Theo da Cola e Decora em fundo branco, com estrutura em pinus aparente e assento e encosto brancos.",
+            "caption": "Cadeira Infantil Branca Theo, em pinus e MDF laqueado, com suporte para até 50 kg. Foto: Cola e Decora.",
+            "objectFit": "square",
+            "href": "https://www.lojacolaedecora.com.br/cadeira-infantil-branca-theo"
+          },
+          {
+            "src": "/images/reviews/colaedecora/cupom-colaedecora-prateleira-theo-rosa.webp",
+            "alt": "Prateleira de Livros 50cm Rosa Theo da Cola e Decora com livros infantis e arco-íris decorativo atrás da barra de pinus.",
+            "caption": "Prateleira de Livros 50 cm Rosa - Theo, para 6 a 12 livros. Foto: Cola e Decora.",
+            "objectFit": "square",
+            "href": "https://www.lojacolaedecora.com.br/prateleira-de-livros-50cm-rosa"
+          },
+          {
+            "src": "/images/reviews/colaedecora/colaedecora-e-boa-quadro-santo-anjo.webp",
+            "alt": "Quadro Infantil Oração Santo Anjo com moldura clara de madeira apoiado sobre aparador branco ao lado de bichinho de pelúcia e luminária de nuvem.",
+            "caption": "Quadro Infantil Oração Santo Anjo, vendido sem vidro. Foto: Cola e Decora.",
+            "objectFit": "contain",
+            "aspectRatio": 1.4991,
+            "href": "https://www.lojacolaedecora.com.br/quadro-infantil-oracao-santo-anjo"
+          }
+        ]
+      },
+      {
+        "heading": "Quanto custa com o cupom EMCASACOMCECILIA",
+        "paragraphs": [
+          "O [cupom Cola e Decora](/cupons/colaedecora) é o EMCASACOMCECILIA, com 10% OFF no site oficial para clientes novos e antigos, em todas as formas de pagamento. Em dois testes de carrinho registrados em 19/11/2026, o código somou com preços já promocionais: num pedido com o Quadro Santo Anjo e a Prateleira de Livros 50 cm Theo, o subtotal caiu de R$ 139,80 para R$ 125,82 (desconto de R$ 13,98); noutro, com cinco cadeiras Theo, foi de R$ 799,50 para R$ 719,55 com Pix selecionado, sem desconto extra sobre o cupom.",
+          "Conta nossa: somando a Penteadeira com Regulagem e a Cadeira Infantil Branca Theo pelos preços do site, o pedido passa dos R$ 599 do frete grátis, mas com os 10% do EMCASACOMCECILIA o total fica abaixo desse valor (última linha da tabela)."
+        ],
+        "comparisonTable": {
+          "caption": "Preços de venda lidos no site em 24/11/2026 e estimativa com 10% do EMCASACOMCECILIA, antes do frete; ofertas mudam sem aviso.",
+          "headers": [
+            "Item ou simulação",
+            "Preço no site",
+            "Com EMCASACOMCECILIA"
+          ],
+          "rows": [
+            [
+              "Prateleira de Livros 50 cm Theo (no teste registrado)",
+              "R$ 59,90",
+              "R$ 53,91"
+            ],
+            [
+              "Quadro Infantil Oração Santo Anjo (no teste registrado)",
+              "R$ 79,90",
+              "R$ 71,91"
+            ],
+            [
+              "Cadeira Infantil Branca Theo",
+              "R$ 159,90",
+              "R$ 143,91"
+            ],
+            [
+              "Mesa Infantil Theo",
+              "R$ 269,90",
+              "R$ 242,91"
+            ],
+            [
+              "Penteadeira com Regulagem",
+              "R$ 469,90",
+              "R$ 422,91"
+            ],
+            [
+              "Simulação: Penteadeira com Regulagem + Cadeira Theo",
+              "R$ 629,80",
+              "R$ 566,82"
+            ]
+          ]
+        },
+        "postParagraphs": [
+          "Fique atento ao frete grátis: a página da loja anuncia entrega gratuita acima de R$ 599 para todo o Brasil, mas o carrinho lateral mostrou a regra só para Sul e Sudeste. Por isso, aplique o código primeiro, informe o CEP e confira o frete no carrinho antes de pagar.",
+          "Se quiser ver o passo a passo completo, consulte [como usar o cupom Cola e Decora](/reviews/cupom-colaedecora-como-usar) e [cupom na primeira compra](/reviews/cupom-colaedecora-primeira-compra). Os preços de campanha da loja ficam em [Ofertas da Live da Cola e Decora](/reviews/black-friday-colaedecora)."
+        ],
+        "checklist": {
+          "title": "Onde digitar o EMCASACOMCECILIA",
+          "items": [
+            "Abra o produto no site oficial e clique em Comprar para abrir o carrinho lateral.",
+            "Toque em “Tem um cupom?”, digite EMCASACOMCECILIA sem espaços e clique em aplicar.",
+            "Confira o aviso de 10% OFF, o subtotal e a cotação do CEP antes de seguir para a etapa de pagamento."
+          ]
+        },
+        "image": {
+          "src": "/images/reviews/colaedecora/cupom-colaedecora-carrinho-com-cupom.webp",
+          "alt": "Carrinho lateral da Cola e Decora com o Quadro Infantil Oração Santo Anjo e a Prateleira de Livros 50cm Rosa Theo, desconto de 10% do cupom EMCASACOMCECILIA e subtotal reduzido.",
+          "caption": "O EMCASACOMCECILIA aplicado sobre preços em oferta no carrinho de teste. Print: Em Casa com Cecília.",
+          "objectFit": "contain",
+          "aspectRatio": 1.2765
+        }
+      },
+      {
+        "heading": "Prazo, montagem e troca: peça com antecedência",
+        "paragraphs": [
+          "Os móveis da loja vão desmontados, com manual e ferragens, e a página do produto da Penteadeira com Regulagem confirma o envio desmontado. O prazo de entrega só aparece ao digitar o CEP no carrinho ou na finalização da compra, e a loja não publica um prazo fixo de produção para toda a linha.",
+          "Regra prática, sem teste nosso: se a compra for para aniversário, mudança ou chegada do bebê, faça o pedido com semanas de folga sobre o prazo calculado pelo CEP e marque montador apenas depois que as caixas chegarem e forem conferidas.",
+          "No pós-venda, a troca pode ser pedida em até 7 dias corridos depois do recebimento, com o item sem uso, na embalagem original, com etiquetas e nota fiscal, e o carrinho anuncia a primeira devolução grátis. As páginas das camas informam 30 dias de garantia contra defeito de fábrica. No cartão, o site anuncia até 10x sem juros, dependendo do pedido."
+        ]
+      },
+      {
+        "heading": "Por que vale a pena e para quem indicamos",
+        "paragraphs": [
+          "A Cola e Decora vale a pena para quem quer montar o quarto infantil inteiro no mesmo estilo visual e aproveitar um cupom de 10% que soma sobre preços promocionais. Para quem já tem a cama, a penteadeira com regulagem, a linha Theo e os itens de parede resolvem cantos de estudo e organização sem precisar garimpar peças em várias lojas.",
+          "A ressalva é comprar sabendo que os móveis chegam desmontados e que o prazo precisa de folga no calendário, conferindo sempre o frete pelo CEP depois de aplicar o [cupom Cola e Decora](/cupons/colaedecora)."
+        ],
+        "emphasis": "Nossa indicação: vale montar o quarto ou um cantinho completo num único pedido para somar os 10% do EMCASACOMCECILIA nas ofertas, mas só feche se o prazo do CEP der folga antes da data de uso.",
+        "links": [
+          {
+            "label": "Visitar o site oficial da Cola e Decora",
+            "href": "https://www.lojacolaedecora.com.br/",
+            "sponsored": true
+          },
+          {
+            "label": "Ver regras do cupom Cola e Decora",
+            "href": "/cupons/colaedecora"
+          }
+        ]
+      },
+      {
+        "heading": "Perguntas frequentes",
+        "bullets": [
+          "A loja Cola e Decora é boa? Vale, sim, para quem monta o quarto infantil com móveis, prateleiras e decoração combinando e aproveita os 10% do EMCASACOMCECILIA em cima das ofertas. Antes de pagar, confira medidas, envio desmontado e prazo pelo CEP na finalização da compra.",
+          "Qual é o cupom da Cola e Decora? É o EMCASACOMCECILIA, com 10% OFF no site oficial para clientes novos e antigos, em todas as formas de pagamento. Ele entra no campo “Tem um cupom?” do carrinho lateral.",
+          "O cupom da Cola e Decora soma com as ofertas? Sim. Nos testes registrados pela equipe no carrinho do site oficial, os 10% foram aplicados sobre itens que já estavam em oferta na vitrine.",
+          "A penteadeira com regulagem vem montada ou com banqueta? Não. A descrição oficial confirma que a penteadeira vai desmontada com manual, traz espelho incluso e não acompanha cadeira nem banqueta.",
+          "Como funciona o frete grátis e quanto tempo demora a entrega? A página de frete grátis anuncia entrega gratuita acima de 599 reais para todo o Brasil, mas o carrinho lateral já mostrou a regra só para Sul e Sudeste. Como o prazo sai só pelo CEP na etapa de pagamento e pode variar por peça, simule com o cupom aplicado e peça com antecedência.",
+          "A Cola e Decora é a mesma loja dos adesivos de envelopamento? Não. A loja infantil de Gaspar (SC) pertence a outra empresa e não tem relação com a marca homônima de envelopamento."
+        ]
+      }
+    ]
+  },
+  {
+    "id": 1444,
+    "slug": "damie-e-boa",
+    "locale": "pt",
+    "category": "guias-praticos-utilidade",
+    "reviewKind": "guia",
+    "author": {
+      "name": "Cecília Mauad",
+      "slug": "cecilia-mauad",
+      "role": "Em Casa com Cecília",
+      "initials": "CM",
+      "url": "/sobre"
+    },
+    "publishedAt": "24 de novembro de 2026",
+    "publishedAtISO": "2026-11-24",
+    "updatedAt": "2026-11-24",
+    "draft": false,
+    "isNew": true,
+    "imageFit": "contain",
+    "imageAspect": "landscape",
+    "pros": [],
+    "cons": [],
+    "coupon": "CECILIA12",
+    "affiliate": "damie",
+    "type": "Guia de Marca",
+    "title": "DAMIE é boa? Poltronas, sofás e o que vale o investimento",
+    "seoTitle": "DAMIE é boa? Poltronas e sofás na nossa casa",
+    "description": "Quais poltronas reclináveis e sofás da DAMIE realmente usamos em casa, como funciona o teste de 30 dias, onde o frete é grátis e como somar o cupom CECILIA12 com o Pix.",
+    "metaDescription": "Com o cupom CECILIA12, você ganha 12% OFF no site da DAMIE e soma com 10% no Pix. Veja os modelos usados em casa e como escolher poltronas e sofás.",
+    "image": "/images/reviews/damie/damie-e-boa-hero-pt.webp",
+    "imageAlt": "Poltrona reclinável caramelo com pufe de apoio e sofá modular bege de três lugares da DAMIE sobre fundo branco, acima da faixa verde com o logo da marca e a pergunta «DAMIE é boa?».",
+    "cta": {
+      "text": "Acesse o site oficial da DAMIE pelo botão e aplique CECILIA12 na finalização da compra para somar 12% OFF ao desconto do Pix.",
+      "label": "Ir para a DAMIE",
+      "url": "https://damie.emcasacomcecilia.com/cupom-cecilia12?utm_source=site-principal&utm_medium=blog&utm_campaign=cecilia12&utm_content=damie-e-boa",
+      "sponsored": true
+    },
+    "editorialNote": "Recebemos poltronas e sofá modular em parceria; a Cinema e a linha Garden entram pelo site da marca. Podemos receber comissão.",
+    "relatedArticles": [
+      {
+        "slug": "poltrona-damie-e-boa"
+      },
+      {
+        "slug": "sofa-damie-modular-vale-a-pena"
+      },
+      {
+        "slug": "poltrona-levita-o-topo-da-tecnologia-e-conforto"
+      },
+      {
+        "slug": "damie-reclame-aqui-o-que-os-dados-mostram"
+      },
+      {
+        "slug": "damie-mercado-livre-ou-site"
+      },
+      {
+        "slug": "cupom-cecilia12-como-usar"
+      }
+    ],
+    "decision": {
+      "takeIf": [
+        "Você procura poltrona reclinável ou sofá modular compacto com entrega direta em caixas que passam por portas e elevadores comuns.",
+        "Você mora no Sul ou Sudeste (frete grátis em poltronas e sofás) e vai comprar no site oficial para somar CECILIA12 com 10% no Pix.",
+        "Você quer opção de reclinação elétrica, giro de 180 graus e balanço, e conferiu o espaço de parede necessário para estender os pés."
+      ],
+      "skipIf": [
+        "Você mora no Norte ou Nordeste e precisa usar o CECILIA12, já que o envio nessas regiões segue pela DAMIE Oficial no Mercado Livre sem o cupom do site.",
+        "Você precisa de um modelo que vire leito para dormir toda noite, fora da proposta dos sofás modulares da marca.",
+        "Você exige showroom físico na sua cidade antes de decidir ou pretende descartar as caixas antes de confirmar as regras da devolução."
+      ]
+    },
+    "contentSections": [
+      {
+        "heading": "Resposta rápida",
+        "paragraphs": [
+          "Sim, a DAMIE é boa para quem busca poltrona reclinável ou sofá modular compacto em caixa: as duas Reclináveis 1.0 e o sofá modular estão em casa há mais de um ano. No site oficial, o cupom CECILIA12 dá 12% OFF em todas as formas de pagamento e soma com o Pix. Abaixo estão os modelos, as diferenças de base e a conta no Pix."
+        ]
+      },
+      {
+        "heading": "Quem é a DAMIE e o que aparece no catálogo oficial",
+        "paragraphs": [
+          "A DAMIE é uma marca brasileira de móveis estofados com venda direta ao consumidor no site oficial e operação sem lojas físicas. Os móveis chegam em caixas compactas, feitas para passar por elevadores e corredores, e a montagem dispensa ferramentas complexas.",
+          "A loja informa: o catálogo tem quatro linhas, que são Poltrona Reclinável, Poltrona Cinema, Sofá Modular e Área Externa (Garden).",
+          "Para conferir CNPJ, histórico de entrega e como a marca responde aos chamados de pós-venda antes de comprar, vale consultar a análise do [Reclame Aqui da DAMIE](/reviews/damie-reclame-aqui-o-que-os-dados-mostram)."
+        ]
+      },
+      {
+        "heading": "O que usamos em casa versus o que está só no catálogo",
+        "paragraphs": [
+          "Recebi: quatro modelos da DAMIE, em parceria com a marca, e todos estão em uso aqui em casa. Eles diferem no tamanho, no revestimento e no tipo de acionamento."
+        ],
+        "bullets": [
+          "**Duas Poltronas Reclináveis 1.0 elétricas em linho bege:** estão na sala de TV há mais de um ano e também entraram na rotina noturna de amamentação. É a primeira geração da linha; veja os detalhes em [poltronas reclináveis DAMIE valem o investimento](/reviews/poltronas-reclinaveis-damie-vale-o-investimento) e [como escolher poltrona de amamentação](/reviews/poltrona-de-amamentacao-como-escolher).",
+          "**Poltrona Reclinável 2.0 elétrica em corino caramelo:** nossa peça de segunda geração veio com base de giro de 180 graus e balanço, apoio de cabeça regulável, bolsos laterais mais amplos, apoio contínuo para braços e opcionais de massagem e mesa. A análise completa da linha fica em [poltrona DAMIE 2.0 é boa](/reviews/poltrona-damie-e-boa).",
+          "**Poltrona Levita elétrica em couro caramelo:** o topo da linha de poltronas traz dois motores independentes para ajustar encosto e apoio de pés separadamente, com base giratória em aço e sem balanço. Veja como funciona em [poltrona Levita: tecnologia e conforto](/reviews/poltrona-levita-o-topo-da-tecnologia-e-conforto).",
+          "**Sofá Modular de 3 lugares em azul denim com puff separado:** também está em casa há mais de um ano, entregue em módulos individuais em caixa e equipado com carregamento USB e por indução. Veja medidas e uso em [sofá DAMIE modular vale a pena](/reviews/sofa-damie-modular-vale-a-pena)."
+        ],
+        "postParagraphs": [
+          "Além dos quatro modelos recebidos, o catálogo da loja inclui a Poltrona Cinema 2.0 e a linha Área Externa (Garden), que entram aqui pelas especificações e políticas publicadas no site oficial.",
+          "Na linha Reclinável 2.0, vale atenção extra à diferença entre a versão manual e as versões elétricas. A versão manual de base fixa funciona por acionamento mecânico e não depende de tomada na parede, enquanto as versões motorizadas trazem botão para reclinar e variam na disponibilidade de giro de 180 graus, balanço e opcionais como entrada USB, massagem ou mesa, dependendo da versão selecionada na página do produto."
+        ],
+        "images": [
+          {
+            "src": "/images/reviews/damie/poltrona-damie-2-0-almofada-regulavel.webp",
+            "alt": "Mãos ajustando a almofada de apoio removível no encosto da Poltrona Reclinável 2.0 da DAMIE em revestimento sintético escuro",
+            "caption": "Poltrona Reclinável DAMIE 2.0, com almofada de cabeça regulável. Foto: DAMIE.",
+            "objectFit": "contain",
+            "aspectRatio": 1.4989,
+            "href": "https://www.damie.com.br/products/poltrona-reclinavel-2-0"
+          },
+          {
+            "src": "/images/reviews/damie/poltrona-reclinavel-damie-1-0-giro-balanco-bege.webp",
+            "alt": "Poltrona reclinável DAMIE em linho bege vista de frente em ambiente claro",
+            "caption": "Poltrona reclinável DAMIE em linho bege: proposta compacta para sala de TV ou quarto de amamentação. Foto: DAMIE.",
+            "objectFit": "square"
+          },
+          {
+            "src": "/images/reviews/sofa-damie-modular-puff-4x5.webp",
+            "alt": "Sofá modular DAMIE de três lugares e puff em tecido azul na sala da Cecília",
+            "caption": "Sofá Modular de três lugares com puff separado em casa, entregue em caixas por módulo.",
+            "objectFit": "contain",
+            "aspectRatio": 0.8
+          },
+          {
+            "src": "/images/reviews/damie/natal-poltrona-cinema-damie.webp",
+            "alt": "Poltrona Cinema 2.0 da DAMIE em foto de catálogo em ambiente residencial",
+            "caption": "Poltrona Cinema 2.0 da linha oficial de catálogo da marca. Foto: DAMIE.",
+            "objectFit": "square"
+          }
+        ]
+      },
+      {
+        "heading": "Quanto custa com o cupom CECILIA12 e o desconto no Pix",
+        "paragraphs": [
+          "No site oficial da DAMIE, o código CECILIA12 aplica 12% de desconto em todas as formas de pagamento e soma com os 10% de abatimento do pagamento via Pix. Aplicados em sequência, os dois descontos reduzem o preço cheio de cartão em 20,8%. O código não acumula com outro cupom nem com giftback promocional de 15%, e só funciona em damie.com.br.",
+          "Conta nossa: o teste de carrinho registrado na página do [cupom DAMIE](/cupons/damie) foi com um puff avulso, a última linha da tabela. Na poltrona e no sofá, aplicamos os mesmos dois descontos sobre o preço do site, antes de eventual frete fora da faixa gratuita."
+        ],
+        "comparisonTable": {
+          "caption": "Preços no site oficial em 24/11 antes do frete; o puff teve teste real no carrinho e poltrona e sofá são simulações com CECILIA12 no cartão e acumulado com 10% no Pix.",
+          "headers": [
+            "Modelo",
+            "Preço no cartão",
+            "Com CECILIA12 no cartão",
+            "Com CECILIA12 + Pix (20,8% OFF)"
+          ],
+          "rows": [
+            [
+              "[Poltrona Reclinável 2.0 manual (base fixa)](https://www.damie.com.br/products/poltrona-reclinavel-2-0)",
+              "R$ 2.969,00",
+              "R$ 2.612,72 (simulado)",
+              "R$ 2.351,45 (simulado)"
+            ],
+            [
+              "Sofá Modular 2 lugares com puff",
+              "R$ 3.850,00",
+              "R$ 3.388,00 (simulado)",
+              "R$ 3.049,20 (simulado)"
+            ],
+            [
+              "Puff avulso (referência do teste)",
+              "R$ 1.300,00",
+              "R$ 1.144,00 (simulado)",
+              "R$ 1.029,60 (testado)"
+            ]
+          ]
+        },
+        "postParagraphs": [
+          "Na vitrine à vista no Pix sem cupom, a Poltrona Reclinável 2.0 manual aparecia por R$ 2.672,10 e o Sofá Modular de 2 lugares com puff por R$ 3.465,00; aplicando os 12% do CECILIA12 sobre esse valor à vista chega-se aos totais da última coluna. Em campanhas sazonais (veja as ofertas da [Black Friday DAMIE](/reviews/black-friday-damie)), confirme no carrinho se o preço promocional mantém a soma dos dois descontos. O passo a passo com prints está em [como usar o cupom CECILIA12](/reviews/cupom-cecilia12-como-usar)."
+        ]
+      },
+      {
+        "heading": "Entrega por região, teste de 30 dias e pontos de atenção",
+        "paragraphs": [
+          "No envio, o site oficial oferece frete grátis em poltronas e sofás para Sul e Sudeste, enquanto o Centro-Oeste varia pelo CEP no carrinho. Já quem mora no Norte ou Nordeste compra pela loja oficial da marca no Mercado Livre, onde o frete e a logística são próprios da plataforma e o CECILIA12 não entra; compare os cenários em [DAMIE no Mercado Livre ou no site](/reviews/damie-mercado-livre-ou-site), [DAMIE para Norte e Nordeste](/reviews/damie-norte-nordeste) e [prazo de entrega da DAMIE](/reviews/damie-prazo-de-entrega).",
+          "Nas regras de devolução há uma divergência que exige atenção antes da compra: as páginas de produto e do teste em casa divulgam 30 dias para testar o móvel exigindo embalagem original completa e sem sinais de mau uso, mas a política de reembolso publicada no rodapé cita prazo de 7 dias, item não usado e restrição a peças promocionais ou personalizadas.",
+          "Regra prática, sem teste nosso: se você conta com a devolução caso não se adapte ao conforto, confirme por escrito no atendimento se o teste de 30 dias vale para o modelo e a campanha escolhidos. Guarde as caixas originais até decidir ficar com a peça e, antes de fechar o pedido, meça portas, elevadores e o recuo livre para reclinar."
+        ],
+        "checklist": {
+          "title": "O que conferir antes de fechar o pedido na DAMIE",
+          "items": [
+            "Confirmar no CEP se a entrega segue pelo site oficial (com CECILIA12) ou pela DAMIE Oficial no Mercado Livre (Norte e Nordeste).",
+            "Medir portas, corredor, elevador e a folga necessária na sala ou no quarto para reclinar e girar a poltrona.",
+            "Escolher entre base fixa manual (sem tomada) e versões elétricas (com ponto de energia próximo) conferindo se o modelo escolhido traz os opcionais desejados.",
+            "Digitar CECILIA12 na etapa de pagamento de damie.com.br e conferir os 12% OFF no cartão ou os 20,8% acumulados no Pix antes de pagar.",
+            "Guardar as caixas originais intactas e validar com o atendimento as condições do teste de 30 dias para o seu pedido."
+          ]
+        }
+      },
+      {
+        "heading": "Quando a DAMIE vale o investimento e onde olhar primeiro",
+        "paragraphs": [
+          "A DAMIE vale o investimento quando você precisa de poltrona reclinável ou sofá modular compacto que entre em casa em caixas e quer somar o CECILIA12 ao desconto do Pix no site oficial. Entre os modelos da nossa rotina, as Reclináveis 1.0 estão na sala de TV há mais de um ano e entraram na rotina de amamentação, o Sofá Modular atende quem quer modularidade em apartamento e a Levita, quem quer ajustar encosto e pés separadamente.",
+          "Para acertar na escolha, defina primeiro se o uso pede versão manual ou elétrica com giro de 180 graus e balanço, confira as regras de entrega para o seu estado e valide sempre o desconto ativo na página do [cupom DAMIE](/cupons/damie) antes de concluir o pagamento."
+        ],
+        "emphasis": "Nossa indicação: com as Reclináveis 1.0 e o sofá modular em casa há mais de um ano, indicamos a DAMIE para quem mediu o espaço e mora onde o site oficial entrega; ali, o CECILIA12 com o Pix chega a 20,8% de desconto.",
+        "links": [
+          {
+            "label": "Ir para o site oficial da DAMIE",
+            "href": "https://damie.emcasacomcecilia.com/cupom-cecilia12?utm_source=site-principal&utm_medium=blog&utm_campaign=cecilia12&utm_content=damie-e-boa",
+            "sponsored": true
+          },
+          {
+            "label": "Ver regras do cupom CECILIA12",
+            "href": "/cupons/damie"
+          }
+        ]
+      },
+      {
+        "heading": "Perguntas frequentes",
+        "bullets": [
+          "A DAMIE é boa? Vale a pena, sim, para quem precisa de poltrona reclinável ou sofá modular compacto em caixa que passa por portas e elevadores comuns, com opções manuais ou elétricas no catálogo. A marca oferece 1 ano de garantia com suporte vitalício após esse prazo, frete grátis para Sul e Sudeste e cupom CECILIA12 acumulável com o Pix no site oficial.",
+          "Qual é o cupom da DAMIE? O cupom é CECILIA12, válido no site oficial da DAMIE para dar 12% de desconto em todas as formas de pagamento e acumular com os 10% do Pix, totalizando 20,8% sobre o preço cheio. Veja os detalhes na página de cupom da DAMIE.",
+          "O cupom CECILIA12 funciona no Mercado Livre da DAMIE? Não, porque o código vale exclusivamente no site oficial. Quem compra poltrona ou sofá no Norte e Nordeste é direcionado para a loja oficial da marca no Mercado Livre, onde o cupom não se aplica.",
+          "Qual a diferença entre a Poltrona Reclinável 2.0 manual e a elétrica? A versão manual de base fixa reclina por acionamento mecânico e não precisa de tomada, sem giro nem balanço. Já as opções elétricas usam botão para reclinar e podem incluir giro de 180 graus, balanço e opcionais como mesa e massagem dependendo da versão.",
+          "Como funciona o teste de 30 dias em casa? A loja anuncia 30 dias para testar exigindo a embalagem original completa, mas a política formal de reembolso menciona prazo de 7 dias e restrições para peças promocionais ou personalizadas. Confirme por escrito no atendimento antes de descartar as caixas."
+        ]
+      }
+    ]
+  },
+  {
+    "id": 1445,
+    "slug": "biobio-e-boa",
+    "locale": "pt",
+    "category": "guias-praticos-utilidade",
+    "reviewKind": "guia",
+    "author": {
+      "name": "Cecília Mauad",
+      "slug": "cecilia-mauad",
+      "role": "Em Casa com Cecília",
+      "initials": "CM",
+      "url": "/sobre"
+    },
+    "publishedAt": "24 de novembro de 2026",
+    "publishedAtISO": "2026-11-24",
+    "updatedAt": "2026-11-24",
+    "draft": false,
+    "isNew": true,
+    "imageFit": "contain",
+    "imageAspect": "landscape",
+    "pros": [],
+    "cons": [],
+    "coupon": "EMCASABIOBIO",
+    "affiliate": "biobio",
+    "type": "Guia de Marca",
+    "title": "BioBio Cosméticos: quando vale a pena comprar os bastões, o protetor e os kits",
+    "seoTitle": "BioBio Cosméticos é boa? Protetor, bastões e kits",
+    "description": "Quando vale a pena comprar na BioBio Cosméticos: skincare em bastão, proteção solar mineral, maquiagem multifuncional e a conta dos kits com o EMCASABIOBIO.",
+    "metaDescription": "O código EMCASABIOBIO dá 10% OFF na BioBio Cosméticos em todas as formas de pagamento. Veja quando valem os bastões, o protetor mineral e os kits.",
+    "image": "/images/reviews/biobio/biobio-e-boa-hero-pt.webp",
+    "imageAlt": "Três bastões da BioBio Cosméticos alinhados sobre fundo branco (Bastão Antimarcas, BBS Blush Batom e Sombra FPS 63 e Bastão Anti Inchaço), acima da faixa verde com o logo BIOBIO e a pergunta «BioBio Cosméticos é boa?».",
+    "cta": {
+      "text": "Acesse o site oficial da BioBio Cosméticos pelo botão e aplique EMCASABIOBIO na finalização do pedido para garantir 10% OFF em todas as formas de pagamento.",
+      "label": "Ir para a BioBio",
+      "url": "https://biobio.com.br/",
+      "sponsored": true
+    },
+    "editorialNote": "Feito com o site da BioBio e testes de carrinho; ninguém da equipe usou os produtos. Podemos receber comissão.",
+    "relatedArticles": [
+      {
+        "slug": "protetor-solar-biobio-e-bom"
+      },
+      {
+        "slug": "base-biobio-bastao-cores"
+      },
+      {
+        "slug": "biobio-e-confiavel"
+      },
+      {
+        "slug": "cupom-biobio-como-usar"
+      },
+      {
+        "slug": "cupom-biobio-primeira-compra"
+      },
+      {
+        "slug": "black-friday-biobio"
+      }
+    ],
+    "decision": {
+      "takeIf": [
+        "Você prefere aplicação em bastão para maquiagem ou rotina facial.",
+        "Você busca protetor solar com filtros minerais e quer aplicar 10% OFF com EMCASABIOBIO em todas as formas de pagamento.",
+        "Você vai usar os três bastões do Trio Anti, e aí o kit sai mais barato que os avulsos."
+      ],
+      "skipIf": [
+        "Você busca indicação clínica ou orientação dermatológica individual antes de montar uma rotina de pele ou proteção solar.",
+        "Você quer comprar itens soltos de baixo valor contando apenas com o frete grátis promocional sem simular o CEP na finalização do pedido.",
+        "Você conta com o cashback como se fosse desconto imediato no pedido: ele é crédito futuro e as regras da loja divergem."
+      ]
+    },
+    "contentSections": [
+      {
+        "heading": "Resposta rápida",
+        "paragraphs": [
+          "Vale a pena, sim, para quem gosta de maquiagem e cuidado facial em bastão e quer protetor solar com filtros minerais; nos kits, o preço cai bem em relação aos avulsos. O cupom EMCASABIOBIO dá 10% de desconto em todas as formas de pagamento. Abaixo está a conta do Trio Anti contra os três bastões soltos."
+        ]
+      },
+      {
+        "heading": "Quem é a BioBio Cosméticos e como o catálogo se divide",
+        "paragraphs": [
+          "A BioBio Cosméticos é uma marca brasileira de cosméticos focada em formatos em bastão, proteção solar e maquiagem funcional, com venda direta pelo site oficial e finalização da compra em seguro.biobio.com.br. Dados societários, políticas de troca e o histórico de atendimento ao consumidor ficam reunidos na análise de [BioBio é confiável?](/reviews/biobio-e-confiavel).",
+          "A loja informa: os produtos são veganos, e a linha solar não usa filtros químicos hidrossolúveis. O catálogo se divide em três frentes:"
+        ],
+        "bullets": [
+          "**Bastões de cuidado facial:** Bastão Antimarcas, Bastão Anti Inchaço e Bastão Antioleosidade, vendidos avulsos ou juntos no Trio Anti.",
+          "**Proteção solar Sunnature:** o Sunnature Facial tem FPS 30, UVA 16 e 99,01% de ingredientes de origem natural.",
+          "**Maquiagem multifuncional em bastão e pó:** Base em Bastão FPS 33, BBS FPS 63 e Pó Translúcido Sunnature FPS 42."
+        ],
+        "postParagraphs": [
+          "Para ler os detalhes técnicos dos filtros solares, veja [protetor solar BioBio é bom](/reviews/protetor-solar-biobio-e-bom) e [protetor solar mineral ou químico pelo rótulo](/reviews/protetor-solar-mineral-ou-quimico-rotulo). Já a comparação das nuances de cor está em [cores da base BioBio em bastão](/reviews/base-biobio-bastao-cores)."
+        ],
+        "images": [
+          {
+            "src": "/images/reviews/biobio/cupom-biobio-primeira-compra-base-bbs-po.webp",
+            "alt": "Base em bastão, BBS e pote de pó facial da BioBio sobre fundo branco, em foto oficial da loja",
+            "caption": "Base em Bastão, BBS FPS 63 e Pó FPS 42 da linha oficial BioBio. Foto: BioBio.",
+            "objectFit": "square"
+          },
+          {
+            "src": "/images/reviews/biobio/protetor-solar-biobio-e-bom-facial.webp",
+            "alt": "Tubo e caixa do protetor solar Sunnature Facial FPS 30 da BioBio",
+            "caption": "Sunnature Facial FPS 30 (50 g), opção facial com filtros minerais declarados na página do produto. Foto: BioBio.",
+            "objectFit": "square"
+          }
+        ]
+      },
+      {
+        "heading": "Avulsos versus kits: quando o Trio Anti muda a conta",
+        "paragraphs": [
+          "Na comparação direta de preço, o Trio Anti compensa frente aos três bastões soltos quando os três entram na sua rotina.",
+          "Conta nossa: testamos o cupom EMCASABIOBIO na finalização do pedido em dois itens, o protetor Sunnature Facial FPS 30 (50 g) e o kit [Trio Anti](https://biobio.com.br/products/trio-anti), e aplicamos os mesmos 10% sobre a soma dos três bastões avulsos nos mesmos tamanhos, sempre antes do frete. Avulsos, o Bastão Antimarcas (11 g) custava R$ 95,83, o Anti Inchaço (13 g), R$ 74,94, e o Antioleosidade (11 g), R$ 95,13: o kit sai cerca de um quarto mais barato que os três juntos."
+        ],
+        "comparisonTable": {
+          "caption": "Valores conferidos no site e na finalização oficial do pedido em 24/11 antes do frete; Sunnature Facial e Trio Anti foram testados com EMCASABIOBIO e os avulsos são simulação de 10% OFF.",
+          "headers": [
+            "Item ou combinação",
+            "Preço de vitrine",
+            "Com EMCASABIOBIO (10% OFF)",
+            "Origem do dado"
+          ],
+          "rows": [
+            [
+              "[Trio Anti](https://biobio.com.br/products/trio-anti) (11 g + 13 g + 11 g)",
+              "R$ 198,85",
+              "R$ 178,97",
+              "Testado no resumo da compra"
+            ],
+            [
+              "3 bastões avulsos (11 g + 13 g + 11 g)",
+              "R$ 265,90",
+              "R$ 239,31",
+              "Simulação (10% sobre a soma)"
+            ],
+            [
+              "Economia estimada do kit",
+              "R$ 67,05 a menos",
+              "R$ 60,34 a menos",
+              "Cálculo sobre a tabela"
+            ],
+            [
+              "Sunnature Facial FPS 30 (50 g)",
+              "R$ 104,93",
+              "R$ 94,44",
+              "Testado no resumo da compra"
+            ]
+          ]
+        },
+        "postParagraphs": [
+          "Na parte de maquiagem, a vitrine listava a Base em Bastão FPS 33 (14 g) a partir de R$ 111,92, o BBS FPS 63 (4,5 g) a partir de R$ 59,94 e o Pó Translúcido Sunnature FPS 42 (4 g) por R$ 114,31; as faixas promocionais ficam em [Black Friday BioBio](/reviews/black-friday-biobio).",
+          "Mesmo com a diferença favorável ao conjunto, se a sua necessidade se concentra em um único bastão ou em tamanhos diferentes dos do kit, a compra avulsa evita item parado no nécessaire."
+        ],
+        "images": [
+          {
+            "src": "/images/reviews/biobio/biobio-e-boa-trio-anti.webp",
+            "alt": "Kit Trio Anti da BioBio Cosméticos com Bastão Antimarcas de 11 g, Bastão Anti Inchaço de 13 g e Bastão Antioleosidade de 11 g",
+            "caption": "Kit Trio Anti (11 g + 13 g + 11 g), que sai mais barato que os três bastões avulsos. Foto: BioBio.",
+            "objectFit": "square",
+            "href": "https://biobio.com.br/products/trio-anti"
+          }
+        ]
+      },
+      {
+        "heading": "Cupom, frete e cashback: o que conferir antes de pagar",
+        "paragraphs": [
+          "O cupom EMCASABIOBIO aplica 10% OFF para clientes novos e recorrentes, em todas as formas de pagamento aceitas no site (o parcelamento vai até 8x sem juros, dependendo do pedido). Para aplicar, avance até o resumo do pedido em seguro.biobio.com.br, abra o campo Inserir cupom de desconto, preencha Cupom (opcional) com EMCASABIOBIO e clique em Adicionar; o passo a passo detalhado fica em [como usar o cupom BioBio](/reviews/cupom-biobio-como-usar), [cupom BioBio primeira compra](/reviews/cupom-biobio-primeira-compra) e na página do [cupom BioBio](/cupons/biobio).",
+          "No frete, a loja calcula prazo e valor pelo CEP no carrinho e trabalha com faixas promocionais de envio gratuito (como pedidos acima de R$ 279 para Sul e Sudeste nas campanhas vigentes), que podem mudar sem aviso prévio. Nas políticas da loja, dois pontos pedem conferência antes de fechar a compra:"
+        ],
+        "bullets": [
+          "**Cashback de 10% (45 dias vs. 30 dias):** a página informativa de cashback cita validade de 45 dias e acúmulo com cupom de desconto, enquanto os Termos de Serviço registram prazo de 30 dias e vedam acúmulo no momento do resgate. Confira diretamente no resumo do carrinho como o benefício aparece no seu pedido.",
+          "**Quantidade de cores:** a descrição da Base em Bastão FPS 33 cita 6 tons, mas o seletor da página já listou 8 opções; no BBS FPS 63, o texto fala em 5 cores e o seletor mostra 7. Escolha o tom pelo seletor."
+        ],
+        "postParagraphs": [
+          "Regra prática, sem teste nosso: trate os 10% do EMCASABIOBIO como o desconto certo do pedido e o cashback como bônus, que só vale se aparecer no resumo do carrinho."
+        ],
+        "checklist": {
+          "title": "Antes de finalizar o pedido na BioBio",
+          "items": [
+            "Confirmar no seletor de variantes da página a tonalidade exata em estoque para Base FPS 33 ou BBS FPS 63.",
+            "Comparar se um kit como o Trio Anti contém apenas bastões que fazem parte da sua rotina.",
+            "Colar EMCASABIOBIO no campo Cupom (opcional) do resumo da compra e validar os 10% OFF em todas as formas de pagamento.",
+            "Simular o CEP após o desconto do cupom para checar o frete real e eventual faixa promocional ativa.",
+            "Conferir no resumo do pedido se o crédito de cashback aparece elegível e considerar o saldo como bônus separado do desconto imediato."
+          ]
+        }
+      },
+      {
+        "heading": "Quando a BioBio Cosméticos faz sentido na sua compra",
+        "paragraphs": [
+          "A BioBio Cosméticos faz mais sentido para quem busca praticidade de aplicação em bastão, prioriza filtros solares minerais e aproveita os kits quando todos os itens têm uso real. Cada bastão tem uma proposta cosmética própria: leia o rótulo completo e consulte um dermatologista se tiver dúvida sobre a sua pele.",
+          "Antes de concluir o pagamento, cheque a cor disponível no seletor de variantes, valide o frete após o abatimento e confirme os 10% OFF com o [cupom BioBio](/cupons/biobio)."
+        ],
+        "emphasis": "Nossa indicação: leve o Trio Anti só se os três bastões entram na sua rotina; aí o kit sai cerca de um quarto mais barato que os avulsos, antes mesmo do EMCASABIOBIO.",
+        "links": [
+          {
+            "label": "Ir para o site oficial da BioBio",
+            "href": "https://biobio.com.br/",
+            "sponsored": true
+          },
+          {
+            "label": "Ver regras do cupom EMCASABIOBIO",
+            "href": "/cupons/biobio"
+          }
+        ]
+      },
+      {
+        "heading": "Perguntas frequentes",
+        "bullets": [
+          "A BioBio Cosméticos é boa? Sim, compensa para quem busca formatos em bastão práticos, proteção solar com filtros minerais e economia nos kits quando todos os itens entram na rotina, somando 10% OFF com EMCASABIOBIO em todas as formas de pagamento.",
+          "Qual é o cupom da BioBio? É o EMCASABIOBIO, válido para clientes novos e recorrentes com 10% de desconto no site oficial em todas as formas de pagamento. Ele entra no campo Cupom (opcional) do Resumo da compra na finalização do pedido.",
+          "Vale mais comprar o Trio Anti ou os bastões avulsos? Nos preços conferidos na loja oficial com EMCASABIOBIO aplicado, o Trio Anti saiu mais barato do que a simulação dos três bastões avulsos equivalentes. O kit compensa quando você realmente pretende usar os três itens da combinação.",
+          "O cashback de 10% da BioBio acumula com o cupom EMCASABIOBIO? As páginas da própria loja divergem: a página dedicada de cashback menciona 45 dias e acúmulo com cupom, enquanto os Termos de Serviço citam 30 dias e restrição no resgate. Confira sempre no resumo do carrinho antes de contar com esse crédito futuro.",
+          "Quantas cores têm a Base em Bastão e o BBS da BioBio? A descrição textual dos produtos informa menos opções do que o seletor real da vitrine, que exibe até 8 tons na Base FPS 33 e 7 variantes no BBS FPS 63. Valide a disponibilidade diretamente no seletor da página do item."
+        ]
+      }
+    ]
+  },
+  {
+    "id": 1446,
+    "slug": "nestle-nutre-vale-a-pena",
+    "locale": "pt",
+    "category": "guias-praticos-utilidade",
+    "reviewKind": "guia",
+    "author": {
+      "name": "Cecília Mauad",
+      "slug": "cecilia-mauad",
+      "role": "Em Casa com Cecília",
+      "initials": "CM",
+      "url": "/sobre"
+    },
+    "publishedAt": "24 de novembro de 2026",
+    "publishedAtISO": "2026-11-24",
+    "updatedAt": "2026-11-24",
+    "draft": false,
+    "isNew": true,
+    "imageFit": "contain",
+    "imageAspect": "landscape",
+    "pros": [],
+    "cons": [],
+    "coupon": "CECI",
+    "affiliate": "nestle-nutre",
+    "title": "Nestlé Nutre: quando vale a pena comprar na loja oficial",
+    "seoTitle": "Nestlé Nutre: quando vale a pena comprar direto",
+    "type": "Guia de Marca",
+    "description": "Compare compra única com o CECI, combo, assinatura e farmácia para o mesmo produto da Nestlé Nutre e veja quando o frete muda a conta.",
+    "metaDescription": "Com o CECI, 10% OFF na compra única elegível da Nestlé Nutre. Compare o total entregue na loja oficial, no combo, na assinatura e na farmácia.",
+    "image": "/images/reviews/nutren/nestle-nutre-vale-a-pena-hero-pt.webp",
+    "imageAlt": "Três latas adultas da Nestlé Health Science alinhadas sobre fundo branco (Nutren Senior Zero Lactose Sem Sabor 740 g, Nutren Fortify Sem Sabor 360 g e Nutren Protein Baunilha 400 g), acima da faixa verde com o logo Nestlé Nutre e o título «Nestlé Nutre vale a pena?».",
+    "cta": {
+      "text": "Entre na loja oficial da Nestlé Nutre e aplique o cupom CECI na finalização da compra única para receber 10% OFF nos itens elegíveis.",
+      "label": "Ir para a Nestlé Nutre",
+      "url": "https://www.nestlenutre.com.br/",
+      "sponsored": true
+    },
+    "editorialNote": "Preços e fretes conferidos na loja oficial e na farmácia; não usamos os produtos. Podemos receber comissão.",
+    "relatedArticles": [
+      {
+        "slug": "cupom-ceci-nestle-nutre-como-usar"
+      },
+      {
+        "slug": "nestle-nutre-e-confiavel"
+      },
+      {
+        "slug": "nutren-senior-kit-combo-ou-assinatura"
+      },
+      {
+        "slug": "nestle-nutre-produtos-para-que-servem"
+      },
+      {
+        "slug": "black-friday-nestle-nutre"
+      },
+      {
+        "slug": "cupom-nestle-nutre-primeira-compra"
+      }
+    ],
+    "decision": {
+      "takeIf": [
+        "Você já sabe o que vai repor e quer comprar direto da loja oficial usando o cupom CECI na compra única.",
+        "Você vai levar duas ou mais unidades, como combos ou cestas de linhas adultas, onde o preço por lata cai e o frete pesa menos no total.",
+        "Você repete a mesma reposição no cartão de crédito, atinge o pedido mínimo da assinatura e planeja manter entregas consecutivas."
+      ],
+      "skipIf": [
+        "Você precisa de uma única lata hoje e tem retirada gratuita em farmácia próxima, onde o frete da entrega online encarece o pedido.",
+        "Você quer assinar apenas uma embalagem abaixo do pedido mínimo da recorrência ou prefere pagar sempre via Pix.",
+        "O item buscado é Alfamino, Alfaré ou fórmula infantil de 0 a 12 meses, pois ficam fora do cupom e seguem prescrição médica ou pediátrica."
+      ]
+    },
+    "contentSections": [
+      {
+        "heading": "Resposta rápida",
+        "paragraphs": [
+          "Compensa, sim, comprar direto na loja oficial da Nestlé Nutre quando você já sabe o que vai repor e quer reunir linhas adultas e combos no mesmo pedido. Na compra única, o cupom CECI dá 10% OFF nos itens elegíveis em todas as formas de pagamento. Veja abaixo quando o frete ou a assinatura mudam a conta final."
+        ]
+      },
+      {
+        "heading": "O que a loja oficial vende",
+        "paragraphs": [
+          "A loja oficial faz mais sentido quando você quer reunir suplementos adultos e linhas especializadas num pedido só, sem depender do estoque picado de cada farmácia.",
+          "A loja informa: o e-commerce direto da Nestlé Health Science no Brasil concentra as linhas adultas Nutren Senior, Nutren Protein, Nutren Control, Nutren Just Protein e Nutren Creatina, além da linha de fibras FiberMais em lata e sachês e das linhas de nutrição especializada Novasource e Impact.",
+          "Para comparar rótulos antes de escolher o produto, veja [qual Nutren escolher](/reviews/nestle-nutre-produtos-para-que-servem) e os guias dedicados de [Nutren Just Protein](/reviews/nutren-just-protein-para-que-serve), [Nutren Creatina](/reviews/nutren-creatina-e-boa-comparativo-growth-ftw-cimed), [FiberMais em receitas e bebidas](/reviews/fibermais-como-usar-em-receitas-e-bebidas) e [Novasource Proline](/reviews/novasource-proline-para-que-serve). Para conferir CNPJ, canais de atendimento, nota no Reclame Aqui e regras de devolução em até 7 dias, acesse [Nestlé Nutre é confiável](/reviews/nestle-nutre-e-confiavel)."
+        ]
+      },
+      {
+        "heading": "Compra única ou combo: a conta da mesma lata",
+        "paragraphs": [
+          "Quando a reposição pede duas latas do mesmo suplemento, o combo fechado da loja oficial reduz o valor por unidade em relação a duas compras avulsas antes mesmo do cupom.",
+          "Conta nossa: no teste de carrinho com o Nutren Creatina de 300 g em campanha, o CECI tirou 10% do preço já reduzido, de R$ 47,92 para R$ 43,13. Aplicando os mesmos 10% ao preço do Nutren Just Protein de 280 g na página, o combo de duas latas sai R$ 23,17 mais barato que duas latas avulsas."
+        ],
+        "comparisonTable": {
+          "caption": "Preços de compra única lidos na loja oficial em 24/11/2026, em todas as formas de pagamento, sem frete. Os valores com CECI no Just Protein são simulação de 10% sobre o preço de venda lido.",
+          "headers": [
+            "Formato (Nutren Just Protein 280 g)",
+            "Compra única na loja",
+            "Com CECI (simulado)",
+            "Por lata com CECI (simulado)"
+          ],
+          "rows": [
+            [
+              "[1 lata avulsa](https://www.nestlenutre.com.br/nutren-just-protein-280g)",
+              "R$ 96,59",
+              "R$ 86,93",
+              "R$ 86,93"
+            ],
+            [
+              "2 latas avulsas (2 × unidade)",
+              "R$ 193,18",
+              "R$ 173,86",
+              "R$ 86,93"
+            ],
+            [
+              "[Combo 2 latas](https://www.nestlenutre.com.br/combo-nutren-just-protein-lata-2-unidades)",
+              "R$ 167,43",
+              "R$ 150,69",
+              "R$ 75,35"
+            ]
+          ]
+        },
+        "postParagraphs": [
+          "Só compensa levar o combo se o ritmo de uso da casa acompanhar a validade depois de aberto: o rótulo do Just Protein orienta consumir em até 30 dias. Deixe a segunda lata lacrada até terminar a primeira.",
+          "Em outras linhas, confira sempre se a loja também oferece kit com o mesmo conteúdo antes de fechar o combo, porque fora de campanha os dois preços podem diferir. As contas do Senior e os preços da temporada estão em [Nutren Senior: kit, combo ou assinatura](/reviews/nutren-senior-kit-combo-ou-assinatura) e em [Black Friday Nestlé Nutre](/reviews/black-friday-nestle-nutre)."
+        ],
+        "image": {
+          "src": "/images/reviews/nutren/nutren-just-protein-lata-280g.avif",
+          "alt": "Lata de 280 g do Nutren Just Protein sem sabor, em foto oficial da Nestlé Nutre",
+          "caption": "Nutren Just Protein de 280 g, usado na comparação entre duas latas avulsas e o combo.",
+          "objectFit": "square",
+          "href": "https://www.nestlenutre.com.br/nutren-just-protein-280g"
+        },
+        "links": [
+          {
+            "label": "Ver Combo Nutren Just Protein 2 latas na Nestlé Nutre",
+            "href": "https://www.nestlenutre.com.br/combo-nutren-just-protein-lata-2-unidades",
+            "sponsored": true
+          }
+        ]
+      },
+      {
+        "heading": "Loja oficial ou farmácia: onde o frete vira o jogo",
+        "paragraphs": [
+          "Numa lata avulsa, quem decide é o frete e a retirada no balcão, mais do que o preço da vitrine.",
+          "Comparamos o mesmo produto, o FiberMais Sem Sabor em lata de 260 g, na loja oficial e na Droga Raia (venda da própria Raia), para um CEP da Avenida Paulista, em São Paulo. Na Semana Black Friday, a loja oficial anunciava frete grátis acima de R$ 100, e a lata passou do piso. No nosso teste de carrinho, o envio grátis pela transportadora JT continuou depois do CECI, mesmo com o total abaixo de R$ 100."
+        ],
+        "comparisonTable": {
+          "caption": "Mesmo produto (FiberMais Sem Sabor 260 g, EAN 7896001303119) cotado em 24/11/2026 para o CEP 01310-100. Na Nestlé Nutre, a linha com CECI foi testada no carrinho, com o frete grátis da campanha.",
+          "headers": [
+            "Canal e modalidade",
+            "Produto",
+            "Frete no CEP 01310-100",
+            "Total entregue",
+            "Prazo informado"
+          ],
+          "rows": [
+            [
+              "[Nestlé Nutre (compra única, sem cupom)](https://www.nestlenutre.com.br/fibermais-sem-sabor-lata-260g)",
+              "R$ 101,42",
+              "R$ 0,00 (JT na campanha)",
+              "R$ 101,42",
+              "5 dias úteis"
+            ],
+            [
+              "Nestlé Nutre (compra única, com CECI)",
+              "R$ 91,28",
+              "R$ 0,00 (JT na campanha)",
+              "R$ 91,28",
+              "5 dias úteis"
+            ],
+            [
+              "Droga Raia (venda própria Raia, retirada)",
+              "R$ 96,29",
+              "R$ 0,00 (Retirar na farmácia)",
+              "R$ 96,29",
+              "30 minutos"
+            ],
+            [
+              "Droga Raia (venda própria Raia, entrega)",
+              "R$ 96,29",
+              "R$ 6,99 (até 1 dia útil)",
+              "R$ 103,28",
+              "Até 1 dia útil"
+            ]
+          ]
+        },
+        "postParagraphs": [
+          "Mesmo ganhando no preço durante a campanha, a loja oficial leva alguns dias úteis para entregar, enquanto a farmácia entrega no balcão no mesmo dia por R$ 5,01 a mais. Fora da campanha, o frete grátis da compra única na Nestlé Nutre começa em R$ 400, e a lata avulsa passa a pagar envio: na mesma consulta, o Just Protein de R$ 96,59 cotou R$ 6,94 pela JT.",
+          "Regra prática, sem teste nosso: mantidos os preços desta consulta, a retirada grátis na farmácia sai mais barata sempre que o frete do FiberMais na loja oficial passar de R$ 5,01, e ainda ganha no prazo."
+        ],
+        "image": {
+          "src": "/images/reviews/nutren/fibermais-sem-sabor-lata-oficial-v2.webp",
+          "alt": "Lata de 260 g do FiberMais Sem Sabor da Nestlé Health Science",
+          "caption": "FiberMais Sem Sabor lata de 260 g, usado no comparativo entre loja oficial e farmácia.",
+          "objectFit": "square",
+          "href": "https://www.nestlenutre.com.br/fibermais-sem-sabor-lata-260g"
+        },
+        "links": [
+          {
+            "label": "Ver FiberMais Sem Sabor 260 g na Nestlé Nutre",
+            "href": "https://www.nestlenutre.com.br/fibermais-sem-sabor-lata-260g",
+            "sponsored": true
+          }
+        ]
+      },
+      {
+        "heading": "Quando a entrega programada compensa",
+        "paragraphs": [
+          "A entrega programada ganha da compra única com cupom quando a reposição da casa chega ao mínimo de R$ 200,00 no cartão de crédito: o desconto da assinatura soma com as promoções do site, e o CECI fica de fora.",
+          "Pelas regras do [Programa de Assinaturas](https://www.nestlenutre.com.br/assinaturas), a recorrência oferece 10% nas 3 primeiras entregas e 15% a partir da 4ª entrega, acumula com promoções elegíveis até 40% no total e não aceita o cupom CECI. Os envios podem ser programados a cada 30, 60 ou 90 dias, sem taxa de adesão, com direito a pular até 2 entregas por ano e cancelar sem custo com no mínimo 3 dias de antecedência, pagando exclusivamente no cartão de crédito em até 6x pelas regras do site.",
+          "O preço de assinatura da página do produto só vale se o pedido chegar ao mínimo: o FiberMais 260 g aparece por R$ 86,93 assinando e o Just Protein 280 g, por R$ 83,71, mas nenhum dos dois fecha sozinho os R$ 200,00 que liberam a assinatura e o frete grátis. Também não vale completar o carrinho com itens sem uso só para alcançar o piso.",
+          "Numa cesta hipotética já pensada para reposição, somando 2 latas de FiberMais 260 g e 1 lata de Just Protein 280 g, o subtotal na vitrine da compra única é de R$ 299,43, cai para R$ 269,49 com o CECI simulado e fica em R$ 257,57 pelos preços de assinatura das páginas, antes do frete. Lembre que cada renovação cobra o preço vigente no site na data da cobrança, então descontos temporários de hoje não ficam travados para os ciclos seguintes."
+        ],
+        "links": [
+          {
+            "label": "Ver regras do Programa de Assinaturas na Nestlé Nutre",
+            "href": "https://www.nestlenutre.com.br/assinaturas",
+            "sponsored": true
+          }
+        ]
+      },
+      {
+        "heading": "Como aplicar o cupom CECI e o que fica de fora",
+        "paragraphs": [
+          "Na compra única do site oficial, o cupom CECI tira 10% sobre o preço dos produtos elegíveis sem valor mínimo de pedido, em todas as formas de pagamento, e soma com as promoções vigentes da loja.",
+          "O código vale na primeira compra e nas seguintes, mas ficam de fora Alfamino, Alfaré, fórmulas infantis de 0 a 12 meses, pedidos na assinatura e compras feitas pelo Mercado Livre. O passo a passo com imagens do carrinho está em [como usar o cupom CECI](/reviews/cupom-ceci-nestle-nutre-como-usar) e os detalhes atualizados ficam na página do [cupom Nestlé Nutre](/cupons/nestle-nutre)."
+        ],
+        "checklist": {
+          "title": "Como conferir o desconto antes de pagar",
+          "items": [
+            "Acesse o site oficial da Nestlé Nutre e monte o carrinho na modalidade de compra única.",
+            "Confirme que nenhum item do pedido é Alfamino, Alfaré ou fórmula infantil de 0 a 12 meses.",
+            "Digite CECI no campo de cupom na finalização da compra, clique em aplicar e veja os 10% descontados no resumo do pedido antes de escolher a forma de pagamento.",
+            "Informe o CEP de entrega para confirmar se o frete continua vantajoso no total final."
+          ]
+        }
+      },
+      {
+        "heading": "Quando comprar direto na Nestlé Nutre vale mais a pena",
+        "paragraphs": [
+          "Comprar direto na loja oficial da Nestlé Nutre compensa mais para quem já definiu a reposição de linhas adultas e monta combos ou cestas que diluem o frete e aproveitam os 10% do CECI na compra única.",
+          "Se você precisa de apenas uma lata para hoje e há retirada gratuita em farmácia por perto, o balcão resolve em minutos e leva vantagem sempre que o frete da entrega online superar a diferença no produto. Para quem leva duas unidades do mesmo suplemento ou alcança o frete grátis na compra única, o combo com CECI reduz o custo por lata; já quem mantém reposição contínua a partir de R$ 200 no cartão aproveita os 15% da assinatura a partir da quarta entrega.",
+          "Para dúvidas sobre dose diária, ingredientes, restrições alimentares ou adequação ao seu consumo, quem orienta a escolha é o médico ou nutricionista; com o pedido definido, confira também as regras em [cupom Nestlé Nutre](/cupons/nestle-nutre)."
+        ],
+        "emphasis": "Nossa conclusão: para repor linhas adultas sem urgência de balcão, monte o pedido com combo ou cesta na compra única da loja oficial com o CECI; se for só uma lata para hoje e o frete passar da economia do cupom no item, retire na farmácia.",
+        "links": [
+          {
+            "label": "Consultar regras atuais do cupom Nestlé Nutre",
+            "href": "/cupons/nestle-nutre"
+          }
+        ]
+      },
+      {
+        "heading": "Perguntas frequentes",
+        "bullets": [
+          "Vale a pena comprar na loja oficial Nestlé Nutre? Vale, sim, para quem já sabe o que vai repor nas linhas adultas e quer reunir combos, promoções vigentes e os 10% OFF do cupom CECI na compra única. A escolha só perde força numa lata avulsa urgente quando o frete supera a diferença de preço para a retirada em farmácia, como mostram as tabelas acima.",
+          "Qual é o cupom da Nestlé Nutre? O cupom da Nestlé Nutre é o CECI, com 10% OFF na compra única do site oficial, em todas as formas de pagamento, somando com as promoções vigentes. Ele não vale em Alfamino, Alfaré, fórmulas infantis de 0 a 12 meses, na assinatura nem no Mercado Livre.",
+          "O cupom CECI vale na assinatura da Nestlé Nutre? Não. A assinatura tem desconto próprio de 10% nas 3 primeiras entregas e 15% a partir da 4ª entrega, com pedido mínimo de R$ 200, pagamento apenas no cartão de crédito e intervalos de 30, 60 ou 90 dias.",
+          "Como comparar o preço da loja oficial com o da farmácia? Verifique se a embalagem, o sabor e o peso são idênticos, confira se o vendedor na farmácia é venda própria e simule o frete para o seu CEP nos dois canais. Se o envio da loja oficial ultrapassar a economia do cupom no item, a retirada gratuita na farmácia ganha no total e no prazo; a simulação completa está na tabela comparativa acima.",
+          "Quando o combo compensa mais do que comprar latas avulsas? Quando o valor unitário do combo com o cupom fica menor que o de duas latas separadas e o consumo da casa acompanha o prazo após a abertura, mantendo a segunda embalagem lacrada até usar a primeira. Veja a conta detalhada na tabela do capítulo de combo acima.",
+          "Quais produtos ficam fora do cupom CECI? Ficam de fora Alfamino, Alfaré e fórmulas infantis para bebês de 0 a 12 meses, além da assinatura e de compras no Mercado Livre. Para itens de nutrição especializada ou infantil, a orientação cabe ao médico, nutricionista ou pediatra."
         ]
       }
     ]

@@ -10,7 +10,8 @@ status: "publicado"
 responsavel: "Claude"
 proxima_acao: "nenhuma"
 publicado_em: "2026-10-12"
-nota_publicacao: "Publicado no PR #65 em 12/10/2026 (decisão do Bruno), com os preços de 12/10; o rascunho id 219 saiu do rascunho."
+atualizado_em: "2026-11-24"
+nota_publicacao: "Publicado no PR #65 em 12/10/2026 (decisão do Bruno), com os preços de 12/10; o rascunho id 219 saiu do rascunho. Atualização DG5 aplicada em 24/11/2026 (preços de vitrine, indisponibilidade da NEO e cesta de 30 bebidas do primeiro mês; sem NT6)."
 bloqueado_por: null
 score_autoridade: 80 # 0 a 100
 score_conversao: 90 # 0 a 100
@@ -254,7 +255,7 @@ Não consultados: manuais em PDF; `/maquinas-cafe/mini-me` (404, endereço errad
 
 Pedido do Bruno de 12/10/2026; folha de contato aprovada por ele em 13/10/2026. Origem em `midia-staging\2026-10-12-retrofit-fase1\ORIGEM.md`.
 
-- "As cinco máquinas à venda na loja oficial": `dolce-gusto-cinco-maquinas-oficial.webp`, 2340×900, fotos oficiais da loja Nescafé Dolce Gusto baixadas em 13/10/2026 pelo navegador embutido (com o OK do Bruno), sem os selos "110v" e "neo". Fora de escala: a página da NEO não diz qual medida é a altura.
+- "As cinco máquinas no catálogo da loja oficial": `dolce-gusto-cinco-maquinas-oficial.webp`, 2340×900, fotos oficiais da loja Nescafé Dolce Gusto baixadas em 13/10/2026 pelo navegador embutido (com o OK do Bruno), sem os selos "110v" e "neo". Fora de escala: a página da NEO não diz qual medida é a altura.
 - "Cápsulas: Original, NEO e o adaptador": carrossel com duas imagens já no site, `dolce-gusto-original-e-neo-oficial.webp` e `adaptador-neo-start-encaixe.webp`.
 - "O que a gente já usou aqui em casa": carrossel com `mini-me-2-0-bruno-video-1.webp` (já no site) e `dolce-gusto-neo-cecilia.webp`, recorte da miniatura do Short `_EyAiTwjGTU` (o Bruno preferiu a miniatura a um frame).
 - Tabela virada (máquinas nas colunas, as três medidas numa linha); o preço da Mini Me Cinza Chumbo e a ressalva da NEO foram para a frase abaixo da tabela.
@@ -265,3 +266,18 @@ Pedido do Bruno de 12/10/2026; folha de contato aprovada por ele em 13/10/2026. 
 - **Alt:** Cecília segura uma Dolce Gusto Genio S Touch prata na cozinha, ao lado da pergunta Qual máquina escolher? e do subtítulo Original ou NEO?.
 - **Origem:** foto própria da Cecília com a Genio S Touch, reaproveitada do próprio artigo (era a capa anterior); não representa teste das outras máquinas. Sem geração por IA.
 - **Lote 30 do piloto de capas (sequência 9 do Codex, revisão independente do GPT-6.1 Terra):** aprovado pelo Bruno em 11/11/2026 e entregue em `docs/auditoria-capas/ENTREGA-24-HEROES-SEQUENCIA-9-CLAUDE.zip` no checkout principal: painel verde à esquerda, Sharp e Segoe UI, sem a faixa de baixo, no padrão vigente das capas (não é exceção nova ao Job 6). A capa anterior (`/images/reviews/dolcegusto/genio-s-touch-cecilia-hero.webp`) fica no CDN, sem uso como capa.
+
+## Atualização DG5 (24/11/2026)
+
+- **Escopo aplicado:** apenas **DG5** (`content/reviews/dolce-gusto-maquinas-qual-escolher.json`, `id: 219`, `isNew: false`, `updatedAt: "2026-11-24"`). A pauta **NT6** (seção de presente de Natal) **não** foi incluída nesta atualização.
+- **Preços e disponibilidade atualizados (`browser_facts_2411.json`, leitura de 24/11/2026):**
+  - Mini Me 2.0: `R$ 349,90` (em estoque)
+  - Genio S Basic: `R$ 389,90` (em estoque)
+  - Genio S Plus: `R$ 489,90` (em estoque)
+  - Genio S Touch: caiu de `R$ 799,90` para `R$ 599,90` (em estoque)
+  - NEO: listada a `R$ 799,00`, com aviso de indisponibilidade para compra na página do modelo; o `href` comercial foi removido de `dolce-gusto-neo-cecilia.webp` em `"O que a gente já usou aqui em casa"`.
+- **Capítulo novo de custo de entrada e reposição (DG5):**
+  - Cesta simulada de 30 bebidas no sistema Original: `2× Espresso Intenso` (`R$ 15,90` cada = 20 bebidas, `R$ 1,59` por xícara) + `2× Cappuccino` (`R$ 15,90` cada = 10 bebidas no total porque cada xícara consome 2 cápsulas, 5 de café e 5 de leite por caixa, `R$ 3,18` por xícara) = 4 caixas / 30 bebidas / `R$ 63,60` de reposição mensal (abaixo do mínimo de `R$ 100` do CECI).
+  - Comparação com a Mini Me 2.0 (`R$ 349,90`): pedido junto (`R$ 413,50`, simulado com CECI 10% -> `R$ 372,15`) contra separado (`R$ 314,91` na máquina com CECI + `R$ 63,60` nas 4 caixas sem CECI = `R$ 378,51`, diferença simulada de `R$ 6,36` antes dos fretes). Orientação explícita para conferir frete pelo CEP, `1 DGusta` e `30 cápsulas` predefinidas de campanha no carrinho.
+  - Imagem reutilizada do CDN: `/images/reviews/dolcegusto/dolce-gusto-espresso-intenso-e-cappuccino-oficial.webp` (`objectFit: "wide"`, `aspectRatio: 1.7778`, `href: "https://www.nescafe-dolcegusto.com.br/sabores"`).
+- **Abertura, enquadramento e regras:** `"Dolce Gusto vale a pena?"` coberto em `description`, `metaDescription`, `Resposta rápida` (57 palavras, abertura `"Vale, sim,"`, sem `R$`, sem data) e primeira pergunta do FAQ; H2 direto `"Quanto custa começar na Dolce Gusto e repor 30 bebidas no mês"`. Total de 1 data no corpo (`24/11/2026` na legenda da tabela das máquinas; tabela da cesta usa `"na mesma consulta"`), zero datas fora do corpo, zero negrito ou centavos no FAQ, zero `—`, zero `"Pix e cartão"`, rótulos de evidência usados no máximo 1 vez cada e sem 1ª pessoa no `emphasis` da Genio S Plus. Atualização DG5 aprovada em Job 3 e Job 6 em `25/11/2026`.

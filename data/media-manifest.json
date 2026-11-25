@@ -30887,6 +30887,114 @@
       "verification_status": "verified"
     },
     {
+      "source_path": "public/images/reviews/biobio/biobio-e-boa-hero-pt.webp",
+      "local_url": "/images/reviews/biobio/biobio-e-boa-hero-pt.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 56724,
+      "sha256": "0a978a603b9b717bd990ce778c4af2d4e67c6819358e727fd859b1e0dbe35fcb",
+      "width": 1600,
+      "height": 900,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "biobio-e-boa-hero-pt.webp",
+      "storage_filename": "biobio-e-boa-hero-pt.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/biobio-e-boa.json",
+        "docs/Memoria de Artigos/memreview/02_Artigos/biobio-e-boa.md",
+        "src/lib/generated/content-index.ts"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/biobio-e-boa.json",
+          "line": 30,
+          "column": 13,
+          "literal": "/images/reviews/biobio/biobio-e-boa-hero-pt.webp",
+          "authority": "source"
+        },
+        {
+          "file": "docs/Memoria de Artigos/memreview/02_Artigos/biobio-e-boa.md",
+          "line": 42,
+          "column": 14,
+          "literal": "/images/reviews/biobio/biobio-e-boa-hero-pt.webp",
+          "authority": "source"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 348841,
+          "column": 15,
+          "literal": "/images/reviews/biobio/biobio-e-boa-hero-pt.webp",
+          "authority": "generated"
+        }
+      ],
+      "remote_key": "v1/image/0a978a603b9b717bd990ce778c4af2d4e67c6819358e727fd859b1e0dbe35fcb/biobio-e-boa-hero-pt.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/0a978a603b9b717bd990ce778c4af2d4e67c6819358e727fd859b1e0dbe35fcb/biobio-e-boa-hero-pt.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-11-25T03:30:32.325Z",
+      "verification_etag_or_digest": "0a978a603b9b717bd990ce778c4af2d4e67c6819358e727fd859b1e0dbe35fcb",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/biobio/biobio-e-boa-trio-anti.webp",
+      "local_url": "/images/reviews/biobio/biobio-e-boa-trio-anti.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 55694,
+      "sha256": "1f8b903885a16ca1aeb52f8bc9adb8b414ca9dd22156854795b9d676924dd446",
+      "width": 1200,
+      "height": 1200,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "biobio-e-boa-trio-anti.webp",
+      "storage_filename": "biobio-e-boa-trio-anti.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/biobio-e-boa.json",
+        "docs/Memoria de Artigos/memreview/02_Artigos/biobio-e-boa.md",
+        "src/lib/generated/content-index.ts"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/biobio-e-boa.json",
+          "line": 147,
+          "column": 19,
+          "literal": "/images/reviews/biobio/biobio-e-boa-trio-anti.webp",
+          "authority": "source"
+        },
+        {
+          "file": "docs/Memoria de Artigos/memreview/02_Artigos/biobio-e-boa.md",
+          "line": 46,
+          "column": 6,
+          "literal": "/images/reviews/biobio/biobio-e-boa-trio-anti.webp",
+          "authority": "source"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 348958,
+          "column": 21,
+          "literal": "/images/reviews/biobio/biobio-e-boa-trio-anti.webp",
+          "authority": "generated"
+        }
+      ],
+      "remote_key": "v1/image/1f8b903885a16ca1aeb52f8bc9adb8b414ca9dd22156854795b9d676924dd446/biobio-e-boa-trio-anti.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/1f8b903885a16ca1aeb52f8bc9adb8b414ca9dd22156854795b9d676924dd446/biobio-e-boa-trio-anti.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-11-25T03:30:32.326Z",
+      "verification_etag_or_digest": "1f8b903885a16ca1aeb52f8bc9adb8b414ca9dd22156854795b9d676924dd446",
+      "verification_status": "verified"
+    },
+    {
       "source_path": "public/images/reviews/biobio/biobio-e-confiavel-bbs.webp",
       "local_url": "/images/reviews/biobio/biobio-e-confiavel-bbs.webp",
       "media_kind": "image",
@@ -45316,6 +45424,222 @@
       "verification_status": "verified"
     },
     {
+      "source_path": "public/images/reviews/colaedecora/colaedecora-e-boa-cadeira-theo.webp",
+      "local_url": "/images/reviews/colaedecora/colaedecora-e-boa-cadeira-theo.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 15220,
+      "sha256": "3c072fc58dab03fab69dbed523d679fd832942f110ffd75ae11d38a0d71c7e54",
+      "width": 800,
+      "height": 800,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "colaedecora-e-boa-cadeira-theo.webp",
+      "storage_filename": "colaedecora-e-boa-cadeira-theo.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/colaedecora-e-boa.json",
+        "docs/Memoria de Artigos/memreview/02_Artigos/colaedecora-e-boa.md",
+        "src/lib/generated/content-index.ts"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/colaedecora-e-boa.json",
+          "line": 112,
+          "column": 19,
+          "literal": "/images/reviews/colaedecora/colaedecora-e-boa-cadeira-theo.webp",
+          "authority": "source"
+        },
+        {
+          "file": "docs/Memoria de Artigos/memreview/02_Artigos/colaedecora-e-boa.md",
+          "line": 197,
+          "column": 262,
+          "literal": "/images/reviews/colaedecora/colaedecora-e-boa-cadeira-theo.webp",
+          "authority": "source"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 348465,
+          "column": 21,
+          "literal": "/images/reviews/colaedecora/colaedecora-e-boa-cadeira-theo.webp",
+          "authority": "generated"
+        }
+      ],
+      "remote_key": "v1/image/3c072fc58dab03fab69dbed523d679fd832942f110ffd75ae11d38a0d71c7e54/colaedecora-e-boa-cadeira-theo.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/3c072fc58dab03fab69dbed523d679fd832942f110ffd75ae11d38a0d71c7e54/colaedecora-e-boa-cadeira-theo.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-11-25T03:30:32.326Z",
+      "verification_etag_or_digest": "3c072fc58dab03fab69dbed523d679fd832942f110ffd75ae11d38a0d71c7e54",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/colaedecora/colaedecora-e-boa-hero-pt.webp",
+      "local_url": "/images/reviews/colaedecora/colaedecora-e-boa-hero-pt.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 122744,
+      "sha256": "8830b6f3b97167fb6b2955fb61a58a7544a2e6a2ab253a00e180ed031d5e3ddb",
+      "width": 1600,
+      "height": 900,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "colaedecora-e-boa-hero-pt.webp",
+      "storage_filename": "colaedecora-e-boa-hero-pt.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/colaedecora-e-boa.json",
+        "docs/Memoria de Artigos/memreview/02_Artigos/colaedecora-e-boa.md",
+        "src/lib/generated/content-index.ts"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/colaedecora-e-boa.json",
+          "line": 30,
+          "column": 13,
+          "literal": "/images/reviews/colaedecora/colaedecora-e-boa-hero-pt.webp",
+          "authority": "source"
+        },
+        {
+          "file": "docs/Memoria de Artigos/memreview/02_Artigos/colaedecora-e-boa.md",
+          "line": 197,
+          "column": 29,
+          "literal": "/images/reviews/colaedecora/colaedecora-e-boa-hero-pt.webp",
+          "authority": "source"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 348371,
+          "column": 15,
+          "literal": "/images/reviews/colaedecora/colaedecora-e-boa-hero-pt.webp",
+          "authority": "generated"
+        }
+      ],
+      "remote_key": "v1/image/8830b6f3b97167fb6b2955fb61a58a7544a2e6a2ab253a00e180ed031d5e3ddb/colaedecora-e-boa-hero-pt.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/8830b6f3b97167fb6b2955fb61a58a7544a2e6a2ab253a00e180ed031d5e3ddb/colaedecora-e-boa-hero-pt.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-11-25T03:30:32.326Z",
+      "verification_etag_or_digest": "8830b6f3b97167fb6b2955fb61a58a7544a2e6a2ab253a00e180ed031d5e3ddb",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/colaedecora/colaedecora-e-boa-penteadeira-nichos.webp",
+      "local_url": "/images/reviews/colaedecora/colaedecora-e-boa-penteadeira-nichos.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 104238,
+      "sha256": "a73ee93c4b31c487209b33b86ebc375ae9d6fcbeebcb15eff64fcdc4e817d40d",
+      "width": 800,
+      "height": 800,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "colaedecora-e-boa-penteadeira-nichos.webp",
+      "storage_filename": "colaedecora-e-boa-penteadeira-nichos.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/colaedecora-e-boa.json",
+        "docs/Memoria de Artigos/memreview/02_Artigos/colaedecora-e-boa.md",
+        "src/lib/generated/content-index.ts"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/colaedecora-e-boa.json",
+          "line": 96,
+          "column": 19,
+          "literal": "/images/reviews/colaedecora/colaedecora-e-boa-penteadeira-nichos.webp",
+          "authority": "source"
+        },
+        {
+          "file": "docs/Memoria de Artigos/memreview/02_Artigos/colaedecora-e-boa.md",
+          "line": 197,
+          "column": 153,
+          "literal": "/images/reviews/colaedecora/colaedecora-e-boa-penteadeira-nichos.webp",
+          "authority": "source"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 348449,
+          "column": 21,
+          "literal": "/images/reviews/colaedecora/colaedecora-e-boa-penteadeira-nichos.webp",
+          "authority": "generated"
+        }
+      ],
+      "remote_key": "v1/image/a73ee93c4b31c487209b33b86ebc375ae9d6fcbeebcb15eff64fcdc4e817d40d/colaedecora-e-boa-penteadeira-nichos.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/a73ee93c4b31c487209b33b86ebc375ae9d6fcbeebcb15eff64fcdc4e817d40d/colaedecora-e-boa-penteadeira-nichos.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-11-25T03:30:32.326Z",
+      "verification_etag_or_digest": "a73ee93c4b31c487209b33b86ebc375ae9d6fcbeebcb15eff64fcdc4e817d40d",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/colaedecora/colaedecora-e-boa-quadro-santo-anjo.webp",
+      "local_url": "/images/reviews/colaedecora/colaedecora-e-boa-quadro-santo-anjo.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 41840,
+      "sha256": "9b540af3d03f49b6568a86fd6c1c77d942b222d77551b9564304623c840724b9",
+      "width": 799,
+      "height": 533,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "colaedecora-e-boa-quadro-santo-anjo.webp",
+      "storage_filename": "colaedecora-e-boa-quadro-santo-anjo.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/colaedecora-e-boa.json",
+        "docs/Memoria de Artigos/memreview/02_Artigos/colaedecora-e-boa.md",
+        "src/lib/generated/content-index.ts"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/colaedecora-e-boa.json",
+          "line": 126,
+          "column": 19,
+          "literal": "/images/reviews/colaedecora/colaedecora-e-boa-quadro-santo-anjo.webp",
+          "authority": "source"
+        },
+        {
+          "file": "docs/Memoria de Artigos/memreview/02_Artigos/colaedecora-e-boa.md",
+          "line": 197,
+          "column": 476,
+          "literal": "/images/reviews/colaedecora/colaedecora-e-boa-quadro-santo-anjo.webp",
+          "authority": "source"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 348479,
+          "column": 21,
+          "literal": "/images/reviews/colaedecora/colaedecora-e-boa-quadro-santo-anjo.webp",
+          "authority": "generated"
+        }
+      ],
+      "remote_key": "v1/image/9b540af3d03f49b6568a86fd6c1c77d942b222d77551b9564304623c840724b9/colaedecora-e-boa-quadro-santo-anjo.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/9b540af3d03f49b6568a86fd6c1c77d942b222d77551b9564304623c840724b9/colaedecora-e-boa-quadro-santo-anjo.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-11-25T03:30:32.326Z",
+      "verification_etag_or_digest": "9b540af3d03f49b6568a86fd6c1c77d942b222d77551b9564304623c840724b9",
+      "verification_status": "verified"
+    },
+    {
       "source_path": "public/images/reviews/colaedecora/colaedecora-e-confiavel-capa-v2.webp",
       "local_url": "/images/reviews/colaedecora/colaedecora-e-confiavel-capa-v2.webp",
       "media_kind": "image",
@@ -52833,6 +53157,60 @@
       "uploaded_at": null,
       "verified_at": "2026-11-12T18:10:08.094Z",
       "verification_etag_or_digest": "c01bd023b0b525aedab14a7993cd87ffdbeba25416f1d2fbbb3af032d80af966",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/damie/damie-e-boa-hero-pt.webp",
+      "local_url": "/images/reviews/damie/damie-e-boa-hero-pt.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 39998,
+      "sha256": "e1d3ff84b2316e58a951b697babb077230032c31e236264a1794921cb35f9037",
+      "width": 1600,
+      "height": 900,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "damie-e-boa-hero-pt.webp",
+      "storage_filename": "damie-e-boa-hero-pt.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/damie-e-boa.json",
+        "docs/Memoria de Artigos/memreview/02_Artigos/damie-e-boa.md",
+        "src/lib/generated/content-index.ts"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/damie-e-boa.json",
+          "line": 30,
+          "column": 13,
+          "literal": "/images/reviews/damie/damie-e-boa-hero-pt.webp",
+          "authority": "source"
+        },
+        {
+          "file": "docs/Memoria de Artigos/memreview/02_Artigos/damie-e-boa.md",
+          "line": 39,
+          "column": 14,
+          "literal": "/images/reviews/damie/damie-e-boa-hero-pt.webp",
+          "authority": "source"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 348623,
+          "column": 15,
+          "literal": "/images/reviews/damie/damie-e-boa-hero-pt.webp",
+          "authority": "generated"
+        }
+      ],
+      "remote_key": "v1/image/e1d3ff84b2316e58a951b697babb077230032c31e236264a1794921cb35f9037/damie-e-boa-hero-pt.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/e1d3ff84b2316e58a951b697babb077230032c31e236264a1794921cb35f9037/damie-e-boa-hero-pt.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-11-25T03:30:32.326Z",
+      "verification_etag_or_digest": "e1d3ff84b2316e58a951b697babb077230032c31e236264a1794921cb35f9037",
       "verification_status": "verified"
     },
     {
@@ -142571,6 +142949,60 @@
       "uploaded_at": null,
       "verified_at": "2026-11-19T12:01:37.889Z",
       "verification_etag_or_digest": "f65dd9374818f2015d4db0577acec0cfbb370b9ec1710da5d8e6849a2196a713",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/nutren/nestle-nutre-vale-a-pena-hero-pt.webp",
+      "local_url": "/images/reviews/nutren/nestle-nutre-vale-a-pena-hero-pt.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 121604,
+      "sha256": "1f6d4e8388e9cd5ba7966ef5262f09a465ac918575f4223d86dffe2b396d4040",
+      "width": 1600,
+      "height": 900,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "nestle-nutre-vale-a-pena-hero-pt.webp",
+      "storage_filename": "nestle-nutre-vale-a-pena-hero-pt.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/nestle-nutre-vale-a-pena.json",
+        "docs/Memoria de Artigos/memreview/02_Artigos/nestle-nutre-vale-a-pena.md",
+        "src/lib/generated/content-index.ts"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/nestle-nutre-vale-a-pena.json",
+          "line": 30,
+          "column": 13,
+          "literal": "/images/reviews/nutren/nestle-nutre-vale-a-pena-hero-pt.webp",
+          "authority": "source"
+        },
+        {
+          "file": "docs/Memoria de Artigos/memreview/02_Artigos/nestle-nutre-vale-a-pena.md",
+          "line": 71,
+          "column": 14,
+          "literal": "/images/reviews/nutren/nestle-nutre-vale-a-pena-hero-pt.webp",
+          "authority": "source"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 349048,
+          "column": 15,
+          "literal": "/images/reviews/nutren/nestle-nutre-vale-a-pena-hero-pt.webp",
+          "authority": "generated"
+        }
+      ],
+      "remote_key": "v1/image/1f6d4e8388e9cd5ba7966ef5262f09a465ac918575f4223d86dffe2b396d4040/nestle-nutre-vale-a-pena-hero-pt.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/1f6d4e8388e9cd5ba7966ef5262f09a465ac918575f4223d86dffe2b396d4040/nestle-nutre-vale-a-pena-hero-pt.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-11-25T03:30:32.326Z",
+      "verification_etag_or_digest": "1f6d4e8388e9cd5ba7966ef5262f09a465ac918575f4223d86dffe2b396d4040",
       "verification_status": "verified"
     },
     {

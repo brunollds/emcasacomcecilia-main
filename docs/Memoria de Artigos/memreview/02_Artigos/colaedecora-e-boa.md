@@ -9,9 +9,9 @@ category: "guias-praticos-utilidade"
 reviewKind: "guia"
 type: "Guia de Marca"
 anexo_tipo: "Anexo-E-Boa-Vale-a-Pena"
-status: "pauta-aprovada"
-responsavel: "Job-1"
-proxima_acao: "redacao"
+status: "pronto-para-deploy"
+responsavel: "Job-5"
+proxima_acao: "deploy-com-aprovacao-do-bruno"
 bloqueado_por: null
 pauta_id: "CD7"
 score_autoridade: 66
@@ -182,3 +182,28 @@ Penteadeira com Regulagem; Mini Penteadeira de Bancada Flor; Cama Infantil Pinus
 
 - Título, seoTitle e papel: como o Bruno pediu em 24/11.
 - Por Claude, dentro do pedido: o atraso de entrega entra como recomendação de antecedência e link, sem número do Reclame Aqui e fora da primeira frase; preço da tabela é o "por" do dia, com releitura na redação.
+
+## Redação, verificação de 24/11/2026 e mídia
+
+- **Arquivo gerado:** `content/reviews/colaedecora-e-boa.json` (`id: 1443`, `draft: false`, `isNew: true`, `publishedAtISO: "2026-11-24"`, `updatedAt: "2026-11-24"`, `affiliate: "colaedecora"`, `coupon: "EMCASACOMCECILIA"`).
+- **Verificação de fichas e preços (24/11/2026, `browser_facts_2411.json`):**
+  - Penteadeira com Regulagem (`/penteadeira-evolutiva-rosa`): `R$ 469,90` (de `R$ 699,90`), até 9x de `R$ 52,21` sem juros, em estoque (envio em até 7 dias), `C 64 × L 60 × P 40 cm`, nicho colmeia 15 compartimentos (`11 × 8 cm`), nicho grande (`29,5 × 37 cm`), 2 níveis (`49 cm` / `63,5 cm`), indicada pela marca para 3 a 10 anos, pinus maciço + MDF laqueado fosco (tinta 100% atóxica), espelho incluso, cadeira/banqueta não inclusa, vai desmontada com manual.
+  - Prateleira de Livros 50 cm Rosa - Theo (`/prateleira-de-livros-50cm-rosa`): `R$ 59,90` (de `R$ 199,90`), `A 18 × L 50 × P 8,5 cm`, 6 a 12 livros infantis, até 5 kg, MDF + acabamento frontal em pinus, pintura laqueada atóxica.
+  - Quadro Infantil Oração Santo Anjo (`/quadro-infantil-oracao-santo-anjo`): `R$ 79,90` (de `R$ 99,90`), envio imediato, Médio `24 × 34 cm` (A4) e Grande `34 × 44 cm` (A3), moldura de madeira `2 cm` (Branco ou Pinus), fundo Eucatex, sem vidro, com gancho.
+  - Cadeira Infantil Branca Theo (`/cadeira-infantil-branca-theo`): `R$ 159,90` (de `R$ 229,90`), envio imediato, pinus maciço + assento e encosto em MDF laqueado fosco, cantos arredondados, até `50 kg`.
+  - **Divergência de frete grátis registrada:** `/pagina/frete-gratis.html` informa frete grátis acima de `R$ 599` para todo o Brasil, enquanto a gaveta do carrinho em 19/11 mostrou Sul e Sudeste. Na simulação Penteadeira (`R$ 469,90`) + Cadeira Theo (`R$ 159,90`) = `R$ 629,80`, o cupom reduz para `R$ 566,82` (abaixo de `R$ 599`): o texto orienta aplicar o cupom primeiro e conferir CEP e frete no carrinho.
+  - **Separação de cenários:** teste registrado de 19/11 (`R$ 139,80 -> R$ 125,82` e 5 cadeiras `R$ 799,50 -> R$ 719,55` no Pix) separado da simulação `R$ 629,80 -> R$ 566,82`.
+- **Travas aplicadas (Anexo v3 e Job 1):** `Resposta rápida` com 57 palavras (sem `R$`, sem data, abertura `"É boa, sim,"`, sem água fria); `editorialNote` sem uso físico; nenhum número do Reclame Aqui no corpo; camas despachadas para `/reviews/cama-montessoriana-colaedecora`; material descrito sem generalizar `"madeira maciça"` para toda a loja; sem citar `PRIMEIRAVEZ`; zero travessão `—`; zero `"Pix e cartão"`; zero negrito ou centavos no FAQ; no máximo 2 datas no corpo (`19/11/2026` e `24/11/2026`).
+- **Revisão Job 3 aplicada:** C12 corrigido na abertura do capítulo da penteadeira, removidos preços da tabela repetidos na prosa (`C6`), mantido 1 único `"A loja informa:"`, removidos `"ficha"` e `"checkout"`, e ajustado `emphasis` do veredito. Parecer final: `APROVADO`.
+
+## Capa e imagens (aprovado em 25/11/2026)
+
+Folha de contato aprovada por Bruno em `25/11/2026`; upload FTPS e verificação HTTPS (`verify-remote.mjs`) concluídos (`verification_status: verified`).
+
+- **Capa (`#1`):** `/images/reviews/colaedecora/colaedecora-e-boa-hero-pt.webp` (`1600×900`, `imageFit: "contain"`, `imageAspect: "landscape"`). CDN: `https://cdn.emcasacomcecilia.com/v1/image/8830b6f3b97167fb6b2955fb61a58a7544a2e6a2ab253a00e180ed031d5e3ddb/colaedecora-e-boa-hero-pt.webp`. Composição com criança diante da Penteadeira com Regulagem aberta (esquerda) + crianças na Mesa Infantil Theo (direita) + watermark `colaedecora.webp`, sem repetir fotos do corpo nem de outras capas do cluster. Origem: imagens oficiais da loja Cola e Decora em 24/11/2026.
+  - `imageAlt`: "Montagem com criança diante da Penteadeira com Regulagem rosa aberta e crianças brincando na Mesa Infantil Theo em quartos decorados, acima da faixa verde com o logo Cola e Decora, o título «Cola e Decora é boa?» e o subtítulo sobre móveis, decoração e quando vale a pena."
+- **Corpo — imagens novas (`#5`–`#7`, todas com `href` para a loja oficial):**
+  - `#5` `/images/reviews/colaedecora/colaedecora-e-boa-penteadeira-nichos.webp` (`800×800`, `square`): `https://cdn.emcasacomcecilia.com/v1/image/a73ee93c4b31c487209b33b86ebc375ae9d6fcbeebcb15eff64fcdc4e817d40d/colaedecora-e-boa-penteadeira-nichos.webp` — colmeia de 15 nichos e espelho aberto (removida da capa). Origem: Cola e Decora, 24/11/2026.
+  - `#6` `/images/reviews/colaedecora/colaedecora-e-boa-cadeira-theo.webp` (`800×800`, `square`): `https://cdn.emcasacomcecilia.com/v1/image/3c072fc58dab03fab69dbed523d679fd832942f110ffd75ae11d38a0d71c7e54/colaedecora-e-boa-cadeira-theo.webp` — Cadeira Infantil Branca Theo em pinus + MDF. Origem: Cola e Decora, 24/11/2026.
+  - `#7` `/images/reviews/colaedecora/colaedecora-e-boa-quadro-santo-anjo.webp` (`799×533`, `contain`, `aspectRatio: 1.4991`): `https://cdn.emcasacomcecilia.com/v1/image/9b540af3d03f49b6568a86fd6c1c77d942b222d77551b9564304623c840724b9/colaedecora-e-boa-quadro-santo-anjo.webp` — Quadro Infantil Oração Santo Anjo ambientado. Origem: Cola e Decora, 24/11/2026.
+- **Corpo — imagens reutilizadas do CDN:** `/images/reviews/colaedecora/cupom-colaedecora-prateleira-theo-rosa.webp` (`square`) e `/images/reviews/colaedecora/cupom-colaedecora-carrinho-com-cupom.webp` (`contain`, `aspectRatio: 1.2765`).
