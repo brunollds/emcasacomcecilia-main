@@ -81,6 +81,35 @@ para a primeira compra ("Você ganhou um cupom para sua 1a compra!"): não entra
 - A caixa lacrada e o frete da devolução por conta do cliente são condições da política da loja, não do art. 49 do CDC.
 - Três empresas aparecem nas fontes (rodapé, Reclame Aqui e Anvisa): cada CNPJ com a sua fonte, sem explicar a relação.
 - Não sugerir comprar 1 frasco "para testar" nem recomendar o kit maior só pelo preço por unidade.
+- Gestação e amamentação (Bruno, 25/11/2026, LZ9): o tema só entra com a resposta cautelosa da marca ("consulte o seu
+  dermatologista"), em uma pergunta do FAQ. O "seguro durante a gravidez e amamentação, sem contraindicações" do
+  quadro comparativo da página do Sérum Vitamina C20 não é repetido em nenhum artigo.
+- Sérum Clareador Vitamina C20: a página (25/11/2026) não publica lista de ingredientes, volume, fabricante nem
+  número na Anvisa; as concentrações (20% de vitamina C pura, 5% de pantenol, 1% de niacinamida) só aparecem nas
+  perguntas frequentes da página. A Garantia Mais Fios não cobre este produto. Inventário em
+  [[serum-vitamina-c20-lamazonie]].
+- A página de produto mostra "+ FRETE GRÁTIS" sem a exceção de Acre, Piauí, Rondônia e Roraima (R$ 500): o texto traz
+  a exceção com a fonte.
+
+---
+
+## Perguntas reais
+
+Consultas literais, com a fonte. Autocompletar é presença, sem volume.
+
+| Pergunta ou consulta | Fonte |
+|---|---|
+| serum vitamina c l'amazonie | Autocompletar, 25/11/2026 |
+| vitamina c l'amazonie | Autocompletar, 25/11/2026 |
+| serum clareador l'amazonie | Autocompletar, 25/11/2026 |
+| serum clareador anti manchas l'amazonie | Autocompletar, 25/11/2026 |
+| sérum clareador vitamina c20 l'amazonie | Autocompletar, 25/11/2026 |
+| sérum l'amazonie | Search Console, 1 a 23/11/2026 (leitura do Gemini de 25/11, não reconferida); na maior parte, busca do sérum de sobrancelha |
+| como sérum l'amazonie skincare se compara a outras opções… onde posso comprá-lo? | Search Console, mesma leitura; consulta de assistente de IA, transcrita com o corte da fonte |
+
+Sem sugestão no autocompletar em 25/11/2026: "serum clareador l'amazonie funciona", "serum vitamina c l'amazonie é
+bom", "l'amazonie vitamina c20" e "serum l'amazonie vitamina c preço". As consultas dos cremes clareadores (23/11)
+estão no briefing [[clareador-lamazonie-o-que-diz-o-rotulo]].
 
 ---
 
