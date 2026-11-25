@@ -349293,6 +349293,2935 @@ const reviewsChunk2: unknown[] = [
         ]
       }
     ]
+  },
+  {
+    "id": 1447,
+    "slug": "bold-snacks-e-boa",
+    "locale": "pt",
+    "category": "guias-praticos-utilidade",
+    "reviewKind": "guia",
+    "type": "Guia de Marca",
+    "author": {
+      "name": "Cecília Mauad",
+      "slug": "cecilia-mauad",
+      "role": "Em Casa com Cecília",
+      "initials": "CM",
+      "url": "/sobre"
+    },
+    "publishedAt": "25 de novembro de 2026",
+    "publishedAtISO": "2026-11-25",
+    "updatedAt": "2026-11-25",
+    "draft": false,
+    "isNew": true,
+    "image": "/images/reviews/bold/bold-snacks-e-boa-hero-pt.webp",
+    "imageAlt": "Três formatos da BOLD Snacks lado a lado (Caixa Mista de barras 21 g, Caixa Mista de BOLD Wafer e pacote de 450 g de BOLD Whey), ao lado do painel verde com o logo BOLD, a chamada «BOLD Snacks é boa?» e o cupom CECILIA15.",
+    "imageFit": "contain",
+    "imageAspect": "landscape",
+    "pros": [],
+    "cons": [],
+    "affiliate": "bold",
+    "coupon": "CECILIA15",
+    "title": "BOLD Snacks é boa? O que comprar entre barras, wafers, tubes e whey",
+    "seoTitle": "BOLD Snacks é boa? Barras, wafers, tubes e whey",
+    "description": "Como montar seu primeiro pedido na BOLD Snacks entre barras, wafers, tubes e whey, quanto custa cada formato com o CECILIA15 e o que conferir no rótulo.",
+    "metaDescription": "O CECILIA15 deu 20% OFF na BOLD Snacks no teste. Compare barras, wafers, tubes e whey para escolher o que vai no primeiro pedido.",
+    "cta": {
+      "label": "Ir para a BOLD Snacks",
+      "text": "Escolha os formatos para o seu primeiro pedido no site oficial da BOLD Snacks e digite CECILIA15 no campo Código de desconto ou cartão-presente no checkout.",
+      "url": "https://www.boldsnacks.com.br/discount/CECILIA15",
+      "sponsored": true
+    },
+    "editorialNote": "Já provamos os produtos da BOLD, mas este guia usa as páginas e as tabelas da loja; o cupom foi testado no checkout. Podemos receber comissão.",
+    "relatedArticles": [
+      {
+        "slug": "bold-snacks-e-confiavel"
+      },
+      {
+        "slug": "barra-bold-e-boa"
+      },
+      {
+        "slug": "barra-bold-21g-ou-14g"
+      },
+      {
+        "slug": "barra-bold-saudavel-rotulo"
+      },
+      {
+        "slug": "whey-bold-e-bom"
+      },
+      {
+        "slug": "cupom-bold-snacks-como-usar"
+      }
+    ],
+    "decision": {
+      "takeIf": [
+        "Você quer começar por uma caixa mista de 12 unidades (21 g, 14 g, Crunch, Wafer ou Tube) para experimentar vários sabores no mesmo pedido.",
+        "Você busca praticidade no preparo com whey 3W de 22 g de proteína por dose e quer escolher entre sachês individuais ou o pacote de 450 g.",
+        "Você compra direto no site oficial com o cupom CECILIA15 e confere no carrinho o frete para o seu CEP antes de pagar."
+      ],
+      "skipIf": [
+        "Você precisa excluir glúten, lactose, leite ou soja da alimentação: as linhas lidas trazem esses avisos na embalagem.",
+        "Você quer comprar apenas uma barra avulsa ou evitar caixa fechada de 12 unidades e display de 10 sachês.",
+        "Você conta com o cashback da loja somado ao cupom: pela política da loja, os dois não acumulam automaticamente."
+      ]
+    },
+    "contentSections": [
+      {
+        "heading": "Resposta rápida",
+        "paragraphs": [
+          "Sim, a BOLD Snacks é boa para quem busca variedade entre snacks prontos (barras de 21 g e 14 g, Crunch, Wafer e Tube) e whey em sachês ou pacote. O cupom CECILIA15 deu 20% OFF no teste do site oficial, para cliente novo e antigo. Veja abaixo qual formato cabe no primeiro pedido."
+        ]
+      },
+      {
+        "heading": "Como surgiu a BOLD Snacks e onde conferir a reputação",
+        "paragraphs": [
+          "A BOLD Snacks é uma marca brasileira criada em 2018 em Divinópolis (MG) e vende direto ao consumidor pelo site oficial. A loja informa: a marca reúne hoje mais de 20.000 pontos de venda e estrutura própria, da produção à distribuição.",
+          "Em 2026, o Grupo Ferrero anunciou um acordo para comprar a BOLD; a operação ainda depende de aprovações, e a loja não publicou mudança nos produtos. Para consultar CNPJ, políticas de entrega e trocas, como identificar o site verdadeiro e os números de atendimento, veja [BOLD Snacks é confiável?](/reviews/bold-snacks-e-confiavel) e a análise da [BOLD Snacks no Reclame Aqui](/reviews/bold-snacks-reclame-aqui-nota-reputacao)."
+        ]
+      },
+      {
+        "heading": "Por onde começar no catálogo: barras, crocantes, wafers, tubes ou whey",
+        "paragraphs": [
+          "Para montar o primeiro pedido sem errar no formato, comece decidindo se você quer um snack pronto para abrir na hora ou proteína em pó para preparar em casa. Cada família da vitrine atende a uma rotina diferente:"
+        ],
+        "bullets": [
+          "**Barras BOLD 21 g e 14 g:** são a porta de entrada tradicional em caixas de 12 unidades. A barra de 60 g (21 g de proteína declarada) serve a quem prioriza mais proteína por unidade; a de 40 g (14 g de proteína) atende a quem quer uma porção menor no lanche. Os detalhes estão em [Barra BOLD é boa?](/reviews/barra-bold-e-boa) e [Barra BOLD 21 g ou 14 g?](/reviews/barra-bold-21g-ou-14g).",
+          "**BOLD Crunch:** barras de 60 g com 18 g de proteína e crispies de proteína de soja. Vale para quem quer a versão crocante, sabendo que o custo por proteína fica acima da barra de 21 g.",
+          "**BOLD Wafer e BOLD Tube:** formatos de doce recheado em caixas de 12 unidades (10 g de proteína por porção). Valem para quem escolhe pelo formato de wafer ou tubinho com menor valor por unidade, não para quem busca máxima proteína por porção.",
+          "**BOLD Whey (sachês ou pacote):** whey 3W (concentrado, isolado e hidrolisado) com 22 g de proteína por dose de 30 g. A caixa mista com 10 sachês em 5 sabores resolve para experimentar ou levar doses na mochila; o pacote de 450 g (15 doses) funciona para uso diário de um sabor já escolhido, e o de 900 g entra para quem já repete a compra, como comparamos em [Whey BOLD é bom?](/reviews/whey-bold-e-bom)."
+        ],
+        "images": [
+          {
+            "src": "/images/reviews/bold/barra-bold-21g-ou-14g-crunch.webp",
+            "alt": "Barras BOLD Crunch sobre cadernos coloridos em cena promocional da marca",
+            "caption": "Barras da linha BOLD Crunch, formato de 60 g com 18 g de proteína declarada e crispies de soja. Foto: BOLD Snacks.",
+            "objectFit": "square",
+            "aspectRatio": 1
+          },
+          {
+            "src": "/images/reviews/bold/barra-bold-21g-ou-14g-tube.webp",
+            "alt": "Caixa do BOLD Tube com uma barra recheada posicionada ao lado",
+            "caption": "Caixa de 12 unidades e barra individual do BOLD Tube, com 10 g de proteína declarada por unidade. Foto: BOLD Snacks.",
+            "objectFit": "square",
+            "aspectRatio": 1
+          },
+          {
+            "src": "/images/reviews/bold/whey-bold-e-bom-sache.webp",
+            "alt": "Display com 10 sachês de whey BOLD de 30 g, trazendo os selos de 10 unidades, 22 g de proteína e 5 sabores",
+            "caption": "Caixa Mista de BOLD Whey com 10 sachês de 30 g em cinco sabores para testar antes do pacote maior. Foto: BOLD Snacks.",
+            "objectFit": "square",
+            "aspectRatio": 1
+          }
+        ]
+      },
+      {
+        "heading": "Primeiro pedido por perfil: quanto sai na caixa mista e no whey",
+        "paragraphs": [
+          "As caixas mistas de Wafer, Tube e da barra de 14 g pedem o menor desembolso inicial, enquanto a barra de 21 g e o whey em pacote reduzem o custo quando você olha para uma porção maior de proteína por unidade ou dose."
+        ],
+        "comparisonTable": {
+          "caption": "Preços de vitrine e testes no checkout do site oficial em 25/11/2026 para o CEP 01310-100, antes do frete. Caixa Mista 21 g, Wafer Caixa Mista e Whey 450 g passaram pelo carrinho com o cupom CECILIA15; os demais itens usam simulação de 20% sobre o preço de vitrine.",
+          "headers": [
+            "Produto e apresentação",
+            "Vitrine",
+            "Com CECILIA15 (20%)",
+            "Por unidade ou dose",
+            "Origem do dado"
+          ],
+          "rows": [
+            [
+              "BOLD Caixa Mista (12 barras 60 g, 21 g proteína)",
+              "R$ 159,00",
+              "R$ 127,20",
+              "R$ 10,60 / barra",
+              "Testado no carrinho"
+            ],
+            [
+              "BOLD Caixa Mista 14g (12 barras 40 g, 14 g proteína)",
+              "R$ 109,00",
+              "R$ 87,20",
+              "R$ 7,27 / barra",
+              "Simulação de 20%"
+            ],
+            [
+              "BOLD Crunch Caixa Mista (12 barras 60 g, 18 g proteína)",
+              "R$ 159,00",
+              "R$ 127,20",
+              "R$ 10,60 / barra",
+              "Simulação de 20%"
+            ],
+            [
+              "BOLD Wafer Caixa Mista (12 un., 10 g proteína)",
+              "R$ 109,00",
+              "R$ 87,20",
+              "R$ 7,27 / un.",
+              "Testado no carrinho"
+            ],
+            [
+              "BOLD Tube Caixa Mista (12 un., 10 g proteína)",
+              "R$ 109,00",
+              "R$ 87,20",
+              "R$ 7,27 / un.",
+              "Simulação de 20%"
+            ],
+            [
+              "BOLD Whey Caixa Mista (10 sachês 30 g, 5 sabores, 22 g proteína)",
+              "R$ 139,00",
+              "R$ 111,20",
+              "R$ 11,12 / dose",
+              "Simulação de 20%"
+            ],
+            [
+              "BOLD Whey Chocolate ao Leite 450g (15 doses 30 g, 22 g proteína)",
+              "R$ 189,00",
+              "R$ 151,20",
+              "R$ 10,08 / dose",
+              "Testado no carrinho"
+            ]
+          ]
+        },
+        "postParagraphs": [
+          "Conta nossa: no carrinho testado, a Caixa Mista de 21 g e o pacote de Whey 450 g juntos caíram de R$ 348,00 para R$ 278,40 com o CECILIA15, com entrega grátis pela Mandaê Econômico.",
+          "Entre as caixas, a de 21 g custa R$ 40,00 a mais que as de 14 g, Wafer e Tube depois do desconto, mas traz 252 g de proteína na caixa, contra 168 g na de 14 g e 120 g em Wafer e Tube.",
+          "No whey, o pacote de 450 g sai R$ 40,00 acima da caixa de sachês, rende cinco doses a mais e baixa o custo em R$ 1,04 por preparo."
+        ]
+      },
+      {
+        "heading": "Como ler o rótulo antes de escolher o sabor",
+        "paragraphs": [
+          "Antes de fechar a caixa só pelo nome do doce, confira três pontos que mudam a escolha na embalagem de cada sabor: açúcares totais, presença de colágeno e avisos de alérgenos.",
+          "Primeiro, \"zero açúcar adicionado\" não significa zero açúcar na tabela nutricional. Na página do Wafer Avelã, por exemplo, a porção declara 2,2 g de açúcares totais e 0 g de açúcares adicionados; no Whey Chocolate ao Leite de 450 g, a dose de 30 g também registra 2,2 g de açúcares totais e 0 g adicionados, enquanto as linhas de barra trazem açúcares totais variáveis por sabor e edulcorantes como maltitol, sorbitol ou sucralose dependendo da linha.",
+          "Segundo, as linhas BOLD 21 g, BOLD 14 g e Crunch trazem colágeno hidrolisado na lista de ingredientes, junto das proteínas lácteas (e de soja no Crunch), sem dizer quanta proteína vem de cada fonte; Wafer e Tube não levam colágeno.",
+          "Por fim, os alérgenos: as barras e o whey declaram \"contém glúten\" e \"contém lactose\", além de leite. A soja aparece nos ingredientes ou no \"pode conter\", dependendo da linha e do sabor, e há avisos próprios de cada sabor, como trigo no Wafer e no Tube e amendoim e pistache no Tube Pistache.",
+          "Quem tem doença celíaca, intolerância à lactose, alergia alimentar ou dúvidas sobre quantidade diária e encaixe alimentar deve conferir a embalagem física recebida e conversar com um médico ou nutricionista. O comparativo detalhado por linha fica em [Barra BOLD é saudável? Açúcar, calorias, glúten e lactose pelo rótulo](/reviews/barra-bold-saudavel-rotulo)."
+        ]
+      },
+      {
+        "heading": "Onde o cupom CECILIA15 muda o pedido, frete e cashback",
+        "paragraphs": [
+          "O cupom CECILIA15 tirou 20% sobre os preços de venda atuais nos nossos testes de carrinho, embora leve 15 no nome por conta do identificador da parceria. Ele vale no site oficial para clientes novos e antigos, em todas as formas de pagamento, com limite de um cupom por pedido.",
+          "Como o percentual aplicado pode mudar com as campanhas da loja, confira sempre o desconto exibido no resumo antes de pagar. Já o cashback da loja (de até 10% de crédito para a compra seguinte, com validade de 60 a 120 dias e limite de abatimento de até 30%) não vale em itens em promoção nem acumula automaticamente com cupons, pelas regras da política de cashback do site. Regra prática, sem teste nosso: pelo regulamento da loja, trate os 20% do cupom como o abatimento imediato do pedido e não conte com saldo de cashback somado na mesma compra.",
+          "No frete, valor e prazo saem pelo CEP no checkout. A loja exibia frete grátis acima de R$ 99, e no teste com uma única caixa de Wafer a entrega continuou grátis mesmo depois de o cupom baixar o total para R$ 87,20. Como essa faixa é promocional, simule o seu CEP no carrinho já com o código aplicado. Se precisar desistir ou trocar, a loja prevê devolução em até 7 dias a contar da entrega, com embalagem original de lacre intacto e todos os itens do pedido."
+        ],
+        "bullets": [
+          "No site oficial, adicione os produtos ao carrinho e clique em FINALIZAR na gaveta (feche eventual popup de pré-venda).",
+          "No checkout, digite CECILIA15 no campo “Código de desconto ou cartão-presente” e clique em Aplicar.",
+          "Confira o código e o abatimento exibidos abaixo de cada produto e valide o frete para o seu CEP antes de concluir o pagamento."
+        ],
+        "postParagraphs": [
+          "As regras atualizadas ficam na página do [cupom BOLD](/cupons/bold), e o passo a passo completo com os testes anteriores está em [como usar o cupom CECILIA15](/reviews/cupom-bold-snacks-como-usar)."
+        ],
+        "images": [
+          {
+            "src": "/images/reviews/bold/cupom-bold-checkout-com-cupom.webp",
+            "alt": "Resumo do checkout da BOLD Snacks com o cupom CECILIA15 aplicado embaixo de cada produto e o desconto exibido no total",
+            "caption": "Exemplo anterior no checkout da BOLD Snacks: o código CECILIA15 aparece embaixo de cada item com o valor abatido.",
+            "objectFit": "contain",
+            "aspectRatio": 0.9165
+          }
+        ]
+      },
+      {
+        "heading": "Por que vale a pena comprar na BOLD Snacks e para quem indicamos",
+        "paragraphs": [
+          "A BOLD Snacks vale a pena para quem quer montar uma rotina prática de lanches proteicos prontos ou complementar o pedido com whey em pó direto do site oficial, usando os 20% testados com o CECILIA15 em cima dos preços de vitrine.",
+          "Para experimentar sabores no primeiro pedido, a Caixa Mista de 21 g entrega mais proteína declarada por barra, enquanto as caixas de 14 g, Wafer e Tube reduzem o desembolso de entrada por caixa; no whey, o display com 10 sachês evita arriscar um pacote fechado de um único sabor, e o pacote de 450 g diminui o valor por dose para quem já escolheu o sabor fixo. Antes de fechar, valide glúten, lactose, açúcares totais e o frete pelo CEP com o [cupom BOLD](/cupons/bold)."
+        ],
+        "emphasis": "Nossa indicação: para uma primeira cesta equilibrada, combine uma caixa mista no formato que cabe no seu orçamento com os 10 sachês de whey se quiser testar sabores ou o pacote de 450 g se já definiu um sabor, sempre conferindo rótulo e frete após o CECILIA15.",
+        "links": [
+          {
+            "label": "Ir para a BOLD Snacks",
+            "href": "https://www.boldsnacks.com.br/discount/CECILIA15",
+            "sponsored": true
+          },
+          {
+            "label": "Consultar regras do cupom BOLD",
+            "href": "/cupons/bold"
+          }
+        ]
+      },
+      {
+        "heading": "Perguntas frequentes",
+        "bullets": [
+          "A BOLD Snacks é boa? Sim, compensa para quem busca variedade de snacks proteicos em caixas mistas (barras de 21 g e 14 g, Crunch, Wafer e Tube) e whey em sachês ou pacote, com tabelas publicadas por sabor e 20% OFF testados com o cupom CECILIA15. O cuidado principal é conferir os avisos de glúten e lactose e simular o frete pelo CEP.",
+          "Qual é o cupom da BOLD Snacks? O cupom da parceria é o CECILIA15, que aplicou 20% OFF nos nossos testes no site oficial, para clientes novos e antigos e em todas as formas de pagamento. Embora tenha 15 no nome, o percentual pode variar com as campanhas da loja, com limite de um cupom por pedido.",
+          "O que escolher primeiro entre caixa mista de barras, Wafer, Tube e whey? As caixas mistas de Wafer, Tube e da barra de 14 g pedem o menor desembolso inicial por caixa de 12 unidades, enquanto a de 21 g entrega mais proteína por barra. No whey, a caixa com 10 sachês serve para provar cinco sabores, e o pacote de 450 g reduz o custo por dose para quem já fechou um sabor, como mostra a tabela acima.",
+          "Os produtos da BOLD Snacks têm glúten, lactose e açúcar? Os itens lidos nas páginas oficiais declaram que contêm glúten e lactose, além de leite e soja na maioria das versões. Mesmo nos produtos anunciados como zero açúcar adicionado, a tabela traz açúcares totais por porção, e dúvidas de consumo vão ao médico ou nutricionista.",
+          "O cupom CECILIA15 acumula com cashback ou tira o frete grátis? Pela política da loja, o cashback de até 10% para a próxima compra não vale em itens em promoção nem acumula automaticamente com cupons. O frete grátis depende da faixa promocional e do CEP; no nosso teste, ele continuou valendo depois do desconto."
+        ]
+      }
+    ]
+  },
+  {
+    "id": 1448,
+    "slug": "yesstyle-vale-a-pena",
+    "locale": "pt",
+    "translationKey": "yesstyle-worth-it",
+    "title": "YesStyle vale a pena? O que comprar de beleza asiática e quando compensa importar",
+    "seoTitle": "YesStyle vale a pena? K-beauty, entrega e descontos",
+    "type": "Guia de Compra",
+    "category": "guias-praticos-utilidade",
+    "reviewKind": "guia",
+    "author": {
+      "name": "Cecília Mauad",
+      "slug": "cecilia-mauad",
+      "role": "Em Casa com Cecília",
+      "initials": "CM",
+      "url": "/sobre"
+    },
+    "description": "Para quem a YesStyle compensa na beleza asiática, como evitar que um item atrasado segure o carrinho inteiro, quando dividir a sacola e como somar o CECILIA010.",
+    "metaDescription": "Com o código de recompensa CECILIA010, ganhe até 5% extra na YesStyle. Veja o que comprar de beleza asiática, prazos de estoque, frete e devolução.",
+    "publishedAt": "25 de novembro de 2026",
+    "publishedAtISO": "2026-11-25",
+    "draft": false,
+    "isNew": true,
+    "image": "/images/reviews/yesstyle/yesstyle-vale-a-pena-hero-pt.webp",
+    "imageAlt": "Capa do guia YesStyle vale a pena com frascos de skincare coreano sobre fundo claro, logotipo da YesStyle e o código de recompensa CECILIA010.",
+    "imageFit": "contain",
+    "imageAspect": "landscape",
+    "pros": [],
+    "cons": [],
+    "cta": {
+      "text": "Confira a disponibilidade de cada item no carrinho, simule o frete para o seu endereço e cole o código de recompensa CECILIA010 no campo Reward Code.",
+      "label": "Ir para a YesStyle",
+      "url": "https://ystyle.co/rQYQv",
+      "sponsored": true
+    },
+    "coupon": "CECILIA010",
+    "affiliate": "yesstyle",
+    "editorialNote": "Fontes oficiais, sem compra pessoal. Podemos receber comissão pelos links e pelo código de recompensa CECILIA010.",
+    "relatedArticles": [
+      {
+        "slug": "yesstyle-e-confiavel"
+      },
+      {
+        "slug": "yesstyle-entrega-no-brasil-e-portugal"
+      },
+      {
+        "slug": "k-beauty-o-que-e-onde-comprar"
+      },
+      {
+        "slug": "codigo-cecilia010-yesstyle-como-usar"
+      },
+      {
+        "slug": "yesstyle-ou-stylevana"
+      },
+      {
+        "slug": "yesstyle-ou-olive-young"
+      }
+    ],
+    "decision": {
+      "takeIf": [
+        "Você quer reunir marcas de K-beauty e J-beauty no mesmo pedido sem depender de vários sites e fretes separados.",
+        "Você confere o prazo de saída do armazém em cada item e aceita esperar a entrega internacional sem data fixa.",
+        "Você quer somar um cupom da loja com o código de recompensa CECILIA010 e conferir os impostos do seu país antes de pagar."
+      ],
+      "skipIf": [
+        "Você precisa de cosméticos com entrega rápida para um evento próximo e não tem margem para o tempo de saída do armazém somado ao envio.",
+        "Você quer testar um cosmético em casa para devolver depois de abrir, pois itens de beleza abertos não têm devolução na política da loja.",
+        "Você, no Brasil, quer o imposto já fechado na hora de pagar: a loja não participa do Remessa Conforme, e os tributos são cobrados na chegada."
+      ]
+    },
+    "contentSections": [
+      {
+        "heading": "Resposta rápida",
+        "paragraphs": [
+          "Sim, compensa comprar na YesStyle quando você quer reunir skincare e maquiagem asiática de K-beauty e J-beauty num único pedido sem pressa de entrega. O código de recompensa CECILIA010 soma com cupons da loja no checkout e dá 5% na primeira compra e 2% nas seguintes. Confira abaixo os prazos de estoque e a conta de dividir a sacola."
+        ]
+      },
+      {
+        "heading": "Quem é a YesStyle e como opera",
+        "paragraphs": [
+          "A YesStyle é uma varejista online sediada em Hong Kong, fundada em 2006 e controlada pela YesAsia Holdings Limited (2209.HK), listada na Bolsa de Hong Kong. Todos os pedidos saem do armazém da empresa em Hong Kong para mais de 150 países e regiões.",
+          "Na linha de cosméticos, a loja declara comprar marcas de K-beauty diretamente dos fabricantes na Coreia do Sul ou de distribuidores autorizados. Para analisar os dados societários e as conferências recomendadas antes do pedido, leia [YesStyle é confiável?](/reviews/yesstyle-e-confiavel); para ver a leitura das avaliações recentes de entrega por país, consulte [YesStyle na Trustpilot](/reviews/yesstyle-trustpilot-nota-reclamacoes)."
+        ]
+      },
+      {
+        "heading": "O que vale a pena comprar no catálogo",
+        "paragraphs": [
+          "O ponto forte da plataforma é concentrar marcas de K-beauty e J-beauty num único carrinho, evitando pagar fretes separados em vários sites especializados. Para quem monta a rotina ou repõe itens conhecidos, o catálogo reúne séruns, essências, tônicos, protetores solares, maquiagem e produtos capilares.",
+          "A loja informa ser distribuidora autorizada de mais de 400 marcas coreanas, incluindo nomes procurados como COSRX, SKIN1004, Beauty of Joseon, Anua, Abib, Isntree e Etude House, além de rótulos japoneses como Hada Labo e Rohto. Sempre leia a lista de ingredientes e o volume em mililitros na página de cada item antes de decidir."
+        ],
+        "images": [
+          {
+            "src": "/images/reviews/yesstyle/cosrx-advanced-snail-96-essence-yesstyle.webp",
+            "alt": "Frasco da essência COSRX Advanced Snail 96 Mucin Power Essence de 100 ml no catálogo da YesStyle",
+            "caption": "COSRX Advanced Snail 96 Mucin Power Essence, exemplo de item de K-beauty vendido na loja. Foto: YesStyle.",
+            "objectFit": "square"
+          },
+          {
+            "src": "/images/reviews/yesstyle/skin1004-madagascar-centella-ampoule-yesstyle.webp",
+            "alt": "Frasco conta-gotas da ampola SKIN1004 Madagascar Centella Ampoule no catálogo da YesStyle",
+            "caption": "SKIN1004 Madagascar Centella Ampoule, presente nas seleções de skincare coreano da vitrine. Foto: YesStyle.",
+            "objectFit": "square"
+          }
+        ],
+        "links": [
+          {
+            "label": "K-Beauty: o que é, tendências e como comprar na YesStyle",
+            "href": "/reviews/k-beauty-o-que-e-onde-comprar"
+          }
+        ]
+      },
+      {
+        "heading": "Disponibilidade e prazo de saída do armazém",
+        "paragraphs": [
+          "O prazo exibido na página do produto indica apenas quando o item sai do armazém de Hong Kong, e não o dia da chegada à sua casa. Ao prazo de envio para o país de destino se soma o tempo de disponibilidade de cada item, ambos contados em dias úteis no fuso GMT+8."
+        ],
+        "bullets": [
+          "**Em estoque (1 a 3 dias úteis):** o item já está pronto no centro de distribuição e costuma ser despachado rapidamente.",
+          "**Aguardando estoque (3 a 5 dias úteis):** o produto vem de um armazém regional da rede antes de seguir viagem.",
+          "**Aguardando estoque (7, 7-14, 21 ou 30 dias úteis):** a loja encomenda a unidade do fornecedor após o pagamento, e o envio espera esse período."
+        ],
+        "postParagraphs": [
+          "Quando a sacola mistura itens em estoque com um item de reposição demorada, o pedido que sai junto fica retido pelo item mais lento. Em alguns casos, a YesStyle pode dividir a remessa de acordo com a disponibilidade, a transportadora ou regras alfandegárias, gerando entregas em datas diferentes."
+        ],
+        "image": {
+          "src": "/images/reviews/yesstyle/yesstyle-prazo-disponibilidade-mais-envio.webp",
+          "alt": "Ilustração mostrando que o prazo total da YesStyle soma o tempo de disponibilidade no estoque ao prazo de envio",
+          "caption": "O prazo total resulta da soma entre a disponibilidade de cada item e o transporte até o país de destino.",
+          "objectFit": "contain",
+          "aspectRatio": 1.7778
+        }
+      },
+      {
+        "heading": "Manter, tirar ou dividir um item demorado: a conta das duas sacolas",
+        "paragraphs": [
+          "Antes de fechar o carrinho, compare o peso do frete com a pressa pelo pacote. A YesStyle voltou a entregar no Brasil com envio Standard de 21 a 25 dias úteis, frete grátis a partir de US$ 80 e envio de US$ 15 abaixo desse piso; para Portugal, o Standard leva de 10 a 15 dias úteis, fica grátis a partir de US$ 60 e custa US$ 5 abaixo disso.",
+          "Conta nossa: numa sacola mista com US$ 65 em itens em estoque e um item de 7 a 14 dias úteis por US$ 20 (total de US$ 85), veja como o frete e a espera mudam no Brasil e em Portugal entre manter tudo junto, tirar o item lento ou dividir em dois pedidos."
+        ],
+        "comparisonTable": {
+          "caption": "Simulação de sacola mista (US$ 65 em estoque + US$ 20 com espera de 7 a 14 dias úteis), pelas regras de frete conferidas em 25/11/2026.",
+          "headers": [
+            "Cenário",
+            "Saída do armazém",
+            "Frete no Brasil (piso US$ 80)",
+            "Frete em Portugal (piso US$ 60)"
+          ],
+          "rows": [
+            [
+              "Pedido único com tudo junto (US$ 85)",
+              "7 a 14 dias úteis se sair num único envio (espera o item mais lento)",
+              "Grátis (passa de US$ 80)",
+              "Grátis (passa de US$ 60)"
+            ],
+            [
+              "Tirar o item demorado (US$ 65)",
+              "1 a 3 dias úteis (22 a 28 dias úteis no total no Brasil; 11 a 18 em Portugal)",
+              "US$ 15 (fica abaixo de US$ 80)",
+              "Grátis (continua acima de US$ 60)"
+            ],
+            [
+              "Dividir em 2 pedidos (US$ 65 + US$ 20)",
+              "1º sai em 1 a 3 dias úteis; 2º sai após 7 a 14 dias úteis",
+              "US$ 30 somando os dois envios (US$ 15 + US$ 15)",
+              "US$ 5 (1º grátis; 2º abaixo de US$ 60 paga US$ 5)"
+            ]
+          ]
+        },
+        "postParagraphs": [
+          "Nos impostos, a diferença entre os mercados é direta: em Portugal, o IVA de 23% já entra no preço e a loja declara pagar atualmente a taxa europeia de € 3 por categoria aduaneira em encomendas abaixo de € 150. No Brasil, a loja não participa do Remessa Conforme: fora do programa, incidem Imposto de Importação de 60% sobre produto, frete e seguro, além de ICMS estadual de 17% a 20% na entrega.",
+          "Para pedidos abaixo de US$ 1.000 (valor antes do cupom e sem o frete), a YesStyle oferece reembolso em crédito na loja de impostos e taxas alfandegárias cobrados na entrega, desde que você envie o comprovante ao atendimento em até 30 dias da data do pagamento. Impostos cobrados no checkout (como o IVA em Portugal) e taxas postais de armazenagem ficam de fora, e a política não menciona expressamente o ICMS brasileiro, então confirme com o suporte antes de contar com esse crédito."
+        ],
+        "links": [
+          {
+            "label": "YesStyle entrega no Brasil e em Portugal? Prazos, frete e impostos",
+            "href": "/reviews/yesstyle-entrega-no-brasil-e-portugal"
+          },
+          {
+            "label": "YesStyle ou Stylevana: comparação de frete, imposto e devolução",
+            "href": "/reviews/yesstyle-ou-stylevana"
+          }
+        ]
+      },
+      {
+        "heading": "Roupas, acessórios e regras de devolução",
+        "paragraphs": [
+          "A YesStyle também vende moda e acessórios, com tabelas em centímetros, mas parte das peças aparece como indisponível para envio quando você seleciona o seu país. Antes de incluir roupas ou calçados para completar o frete grátis, confira o selo de disponibilidade para o seu destino na página exata da peça.",
+          "Na política de devolução, a desistência ou a troca de tamanho exige pedir o número de RMA em até 14 dias do recebimento e enviar o item em até 30 dias. O frete de retorno, para o escritório em Hong Kong ou para parceiros nos Estados Unidos e no Canadá, é do comprador. Cosméticos abertos, suplementos, itens de liquidação ou ofertas especiais e peças de uso íntimo não podem ser devolvidos, e reações na pele não dão direito a reembolso."
+        ]
+      },
+      {
+        "heading": "Código de recompensa CECILIA010, cupons da loja e YS Points",
+        "paragraphs": [
+          "Pelos termos oficiais da loja, cada pedido aceita apenas um cupom promocional no campo Coupon Code, mas ele soma com preços em oferta, com o código de recompensa CECILIA010 em seu campo próprio e com o saldo de YS Points aplicado na etapa de pagamento.",
+          "O código de recompensa CECILIA010 aplica 5% extra na primeira compra e 2% nas seguintes em itens elegíveis, tanto no site (campo Reward Code) quanto no app (campo Influencer / Rewards Code dentro de Enter Code). Como alguns produtos e marcas promocionais podem ter restrição, confirme sempre a elegibilidade e as duas linhas de desconto na sacola antes de concluir o pagamento; os cupons promocionais vigentes da loja ficam reunidos na página de [cupons YesStyle](/cupons/yesstyle)."
+        ],
+        "image": {
+          "src": "/images/reviews/yesstyle/yesstyle-app-codigo-checkout-2810.webp",
+          "alt": "Três telas do aplicativo YesStyle mostrando os campos separados de Coupon Code e Influencer / Rewards Code com o código de recompensa CECILIA010 aplicado",
+          "caption": "Aplicação do código de recompensa CECILIA010 no app da YesStyle em campo separado dos cupons da loja.",
+          "objectFit": "contain",
+          "aspectRatio": 1.4382
+        },
+        "links": [
+          {
+            "label": "Como usar o código de recompensa CECILIA010 passo a passo",
+            "href": "/reviews/codigo-cecilia010-yesstyle-como-usar"
+          },
+          {
+            "label": "Ver os cupons da YesStyle vigentes e o código CECILIA010",
+            "href": "/cupons/yesstyle"
+          }
+        ]
+      },
+      {
+        "heading": "Para quem a YesStyle vale a pena: veredito por perfil",
+        "paragraphs": [
+          "Para quem monta rotina completa de skincare coreano ou japonês e aceita acompanhar os prazos de saída de Hong Kong, a YesStyle entrega variedade num só carrinho com custo menor ao combinar ofertas, um cupom da loja e o código de recompensa CECILIA010. Já quem tem prazo curto ou prefere comprar em loja com tributo já fechado no Brasil precisa comparar antes de pagar."
+        ],
+        "bullets": [
+          "**Vale mais a pena:** para quem reúne vários itens em estoque de K-beauty e J-beauty, atinge o piso de frete grátis sem adicionar supérfluos e acompanha o pedido sem data marcada.",
+          "**Vale menos:** para compras urgentes com data fixa, para quem só precisa de um produto avulso abaixo do mínimo de frete ou para quem conta com devolução gratuita em cosméticos testados."
+        ],
+        "emphasis": "Nossa indicação: a YesStyle compensa quando você filtra os itens em estoque para não travar a caixa inteira e usa o código de recompensa CECILIA010 junto com o cupom vigente da loja, sem acrescentar itens só para bater o frete grátis.",
+        "links": [
+          {
+            "label": "YesStyle ou Olive Young: qual escolher por frete e devolução",
+            "href": "/reviews/yesstyle-ou-olive-young"
+          }
+        ]
+      },
+      {
+        "heading": "Perguntas frequentes",
+        "bullets": [
+          "YesStyle vale a pena? Sim, compensa para quem quer reunir marcas de K-beauty e J-beauty no mesmo pedido, confere o prazo de estoque de cada item e aproveita o código de recompensa CECILIA010 junto com cupons vigentes da loja.",
+          "Qual é o código de recompensa da YesStyle e quanto ele dá? É o CECILIA010, que oferece 5% extra na primeira compra e 2% nas seguintes em itens elegíveis. Ele entra no campo Reward Code, separado do campo de cupom, e soma com um cupom promocional da loja, preços em oferta e YS Points.",
+          "Por que um item demorado pode atrasar todo o pedido da YesStyle? Porque, se os produtos saírem num único pacote, o despacho espera o item com maior prazo de reposição, que pode levar até 30 dias úteis para sair do armazém em Hong Kong. Confira sempre o selo de disponibilidade antes de fechar a sacola.",
+          "Como funciona o frete grátis e o reembolso de taxas na YesStyle? No Brasil, o envio Standard é grátis a partir de US$ 80 e custa US$ 15 abaixo disso; em Portugal, é grátis a partir de US$ 60 e custa US$ 5 abaixo disso. Para pedidos elegíveis abaixo de US$ 1.000, a loja reembolsa taxas alfandegárias pagas na entrega em crédito na loja se o comprovante for enviado em até 30 dias, fora tributos já cobrados no checkout como o IVA.",
+          "Posso devolver roupas ou cosméticos abertos na YesStyle? Pedidos de desistência ou troca exigem solicitação de RMA em até 14 dias do recebimento, com frete de retorno pago pelo comprador, e parte das roupas pode não enviar ao seu país. Produtos de beleza abertos, suplementos e itens íntimos não têm devolução."
+        ]
+      }
+    ]
+  },
+  {
+    "id": 1449,
+    "slug": "is-yesstyle-worth-it",
+    "locale": "en",
+    "translationKey": "yesstyle-worth-it",
+    "title": "Is YesStyle Worth It? What Asian Beauty to Buy and When Ordering Pays Off",
+    "seoTitle": "Is YesStyle Worth It? K-Beauty, Shipping & Rewards",
+    "type": "Buying Guide",
+    "category": "guias-praticos-utilidade",
+    "reviewKind": "guia",
+    "author": {
+      "name": "Cecília Mauad",
+      "slug": "cecilia-mauad",
+      "role": "Em Casa com Cecília",
+      "initials": "CM",
+      "url": "/sobre"
+    },
+    "description": "When YesStyle pays off for K-beauty and J-beauty, how slow items hold up your basket, when splitting orders saves time, and how Reward Code CECILIA010 stacks.",
+    "metaDescription": "Use Reward Code CECILIA010 for up to 5% extra at YesStyle. See what Asian beauty to buy, dispatch times, shipping thresholds, and return rules.",
+    "publishedAt": "November 25, 2026",
+    "publishedAtISO": "2026-11-25",
+    "draft": false,
+    "isNew": false,
+    "hideFromPortugueseListings": true,
+    "image": "/images/reviews/yesstyle/yesstyle-vale-a-pena-hero-en.webp",
+    "imageAlt": "Is YesStyle Worth It guide cover showing Korean skincare bottles on a light background, the YesStyle logo, and Reward Code CECILIA010.",
+    "imageFit": "contain",
+    "imageAspect": "landscape",
+    "pros": [],
+    "cons": [],
+    "cta": {
+      "text": "Check item dispatch status in your bag, review shipping for your country, and paste Reward Code CECILIA010 in the Reward Code field.",
+      "label": "Go to YesStyle",
+      "url": "https://ystyle.co/rQYQv",
+      "sponsored": true
+    },
+    "coupon": "CECILIA010",
+    "affiliate": "yesstyle",
+    "editorialNote": "Official sources, no personal purchase. We may earn a commission via links and Reward Code CECILIA010.",
+    "relatedArticles": [
+      {
+        "slug": "is-yesstyle-legit-and-safe-review"
+      },
+      {
+        "slug": "yesstyle-shipping-us-uk-canada-australia"
+      },
+      {
+        "slug": "k-beauty-trend-explained-where-to-buy"
+      },
+      {
+        "slug": "yesstyle-reward-code-coupon-cecilia010"
+      },
+      {
+        "slug": "yesstyle-vs-stylevana-olive-young"
+      },
+      {
+        "slug": "yesstyle-vs-olive-young"
+      }
+    ],
+    "decision": {
+      "takeIf": [
+        "You want to combine multiple K-beauty and J-beauty brands in one bag instead of paying separate shipping across single-brand stores.",
+        "You check each item's warehouse dispatch badge before checkout and can wait for international transit without a strict deadline.",
+        "You plan to pair an eligible store coupon with Reward Code CECILIA010 while clearing your destination's free-shipping threshold naturally."
+      ],
+      "skipIf": [
+        "You need beauty items by a fixed date soon and cannot risk warehouse restocking delays on top of transit time.",
+        "You want to open and test skincare or makeup at home with the option to send it back, since opened beauty items are excluded from returns.",
+        "You need a low-value single item below the free-shipping threshold where standard shipping erases the savings."
+      ]
+    },
+    "contentSections": [
+      {
+        "heading": "Quick answer",
+        "paragraphs": [
+          "Yes, YesStyle is worth it when you want K-beauty and J-beauty skincare and makeup in a single cart without rush delivery. Reward Code CECILIA010 stacks with eligible store promo coupons at checkout for 5% off your first order and 2% off returning orders. Check warehouse dispatch times and the two-bag shipping math below."
+        ]
+      },
+      {
+        "heading": "Who YesStyle is and how it operates",
+        "paragraphs": [
+          "YesStyle is an online retailer headquartered in Hong Kong, founded in 2006 and owned by YesAsia Holdings Limited (2209.HK), which is listed on the Hong Kong Stock Exchange. All orders dispatch from its Hong Kong warehouse to more than 150 countries and regions.",
+          "For cosmetics, YesStyle states that it sources K-beauty brands directly from manufacturers in South Korea or from authorized partner distributors, a claim made by the store without an independent third-party audit. For corporate details and arrival checks, read [Is YesStyle Legit and Safe?](/en/reviews/is-yesstyle-legit-and-safe-review); for recent buyer delivery feedback by region, see [YesStyle on Trustpilot](/en/reviews/yesstyle-trustpilot-reviews)."
+        ]
+      },
+      {
+        "heading": "What to buy in the catalog",
+        "paragraphs": [
+          "YesStyle's core advantage is letting you group K-beauty and J-beauty staples in one checkout instead of paying separate shipping fees across brand websites. Shoppers mostly turn to the catalog for serums, essences, toners, sunscreens, makeup, and hair care.",
+          "The retailer says it is an authorized distributor for more than 400 Korean beauty brands, including COSRX, SKIN1004, Beauty of Joseon, Anua, Abib, Isntree, and Etude House, alongside Japanese labels such as Hada Labo and Rohto. Always check the ingredient list, bottle volume, and version on the product page before adding an item to your bag."
+        ],
+        "images": [
+          {
+            "src": "/images/reviews/yesstyle/cosrx-advanced-snail-96-essence-yesstyle.webp",
+            "alt": "COSRX Advanced Snail 96 Mucin Power Essence 100 ml bottle listed in the YesStyle catalog",
+            "caption": "COSRX Advanced Snail 96 Mucin Power Essence, part of YesStyle's K-beauty selection. Photo: YesStyle.",
+            "objectFit": "square"
+          },
+          {
+            "src": "/images/reviews/yesstyle/skin1004-madagascar-centella-ampoule-yesstyle.webp",
+            "alt": "SKIN1004 Madagascar Centella Ampoule dropper bottle shown in the YesStyle catalog",
+            "caption": "SKIN1004 Madagascar Centella Ampoule, featured in the store's Korean skincare catalog. Photo: YesStyle.",
+            "objectFit": "square"
+          }
+        ],
+        "links": [
+          {
+            "label": "K-Beauty Explained: What It Is and Where to Buy",
+            "href": "/en/reviews/k-beauty-trend-explained-where-to-buy"
+          }
+        ]
+      },
+      {
+        "heading": "Availability and warehouse dispatch time",
+        "paragraphs": [
+          "The availability badge next to each product option tells you when the item leaves YesStyle's Hong Kong warehouse, not when it reaches your door. Total delivery time adds item availability to shipping transit time, both counted in business days in Hong Kong time (GMT+8)."
+        ],
+        "bullets": [
+          "**In-Stock (1 to 3 business days):** the item is ready at the warehouse and dispatches promptly.",
+          "**Awaiting Stock: 3-5 days:** the item transfers from one of YesStyle's regional warehouses within 3 to 5 business days.",
+          "**Awaiting Stock: 7, 7-14, 21 or 30 days:** YesStyle orders the item from its supplier after you pay, holding dispatch for that number of business days."
+        ],
+        "postParagraphs": [
+          "When a mixed basket combines in-stock items with one slow SKU, a single combined shipment waits until the slowest item becomes available. Depending on stock, carrier rules, or customs limits, YesStyle may also split your order into separate parcels arriving on different dates."
+        ],
+        "image": {
+          "src": "/images/reviews/yesstyle/yesstyle-prazo-disponibilidade-mais-envio.webp",
+          "alt": "Diagram showing that total YesStyle delivery time equals item availability time plus shipping transit time",
+          "caption": "Total wait time combines per-item warehouse availability and international shipping.",
+          "objectFit": "contain",
+          "aspectRatio": 1.7778
+        }
+      },
+      {
+        "heading": "Keep, drop, or split a slow item: the two-bag math",
+        "paragraphs": [
+          "Whether to keep a slow SKU in your cart depends on your country's free-shipping minimum. In the United States, Standard shipping takes 7 to 11 business days and is free from US$ 35 (US$ 6 below US$ 35). Thresholds differ in other English-speaking markets: US$ 50 in the UK (US$ 5 below, 5 to 12 business days) and Canada (US$ 6 below, 7 to 14 business days), US$ 35 in Australia (US$ 5.50 below, 6 to 8 business days) and New Zealand (US$ 5 below, 7 to 14 business days), and US$ 45 in Ireland (US$ 5 below, 12 to 18 business days).",
+          "Using US Standard shipping (free from US$ 35, US$ 6 below) on a sample basket with US$ 38 of in-stock items plus an US$ 18 item marked 7 to 14 business days (US$ 56 total), here is how keeping, dropping, or splitting changes cost and timing."
+        ],
+        "comparisonTable": {
+          "caption": "Two-bag shipping simulation for the US market (US$ 38 in-stock + US$ 18 awaiting 7 to 14 business days), based on YesStyle shipping rules checked on November 25, 2026.",
+          "headers": [
+            "Scenario",
+            "Warehouse dispatch",
+            "US Standard shipping (US$ 35+ free)",
+            "Best fit"
+          ],
+          "rows": [
+            [
+              "Single combined order (US$ 56)",
+              "7 to 14 business days if shipped together (14 to 25 business days total)",
+              "Free (clears US$ 35)",
+              "Lowest shipping cost when nothing is urgent"
+            ],
+            [
+              "Remove the slow item (US$ 38)",
+              "1 to 3 business days (8 to 14 business days total)",
+              "Free (still clears US$ 35)",
+              "Faster delivery without extra shipping fees"
+            ],
+            [
+              "Split into 2 orders (US$ 38 + US$ 18)",
+              "1st leaves in 1 to 3 business days; 2nd waits 7 to 14 business days",
+              "US$ 6 total (1st free; 2nd under US$ 35 pays US$ 6)",
+              "When you still need the slow item later without delaying the rest"
+            ]
+          ]
+        },
+        "postParagraphs": [
+          "Tax treatment also varies by country: VAT or GST is already included in product prices for the UK (20% VAT), Ireland (23% VAT, where YesStyle says it currently covers the € 3 EU fee per customs category on parcels under € 150), Australia (10% GST), and New Zealand (15% GST). In the US, sales tax (in 40 states and DC) and Import Fees are added at checkout; in Canada, Saskatchewan adds 6% PST at checkout.",
+          "For eligible customs-related taxes and fees charged on delivery for orders under US$ 1,000 (calculated before coupons and excluding shipping), YesStyle offers a store-credit refund if you email your dated payment receipt within 30 days. Taxes already collected at checkout (such as VAT, GST, US sales tax, or Import Fees) and carrier storage or handling fees are excluded."
+        ],
+        "links": [
+          {
+            "label": "YesStyle Shipping to US, UK, Canada, Australia, Ireland & NZ",
+            "href": "/en/reviews/yesstyle-shipping-us-uk-canada-australia"
+          },
+          {
+            "label": "YesStyle vs Stylevana: Shipping, Tax and Returns Compared",
+            "href": "/en/reviews/yesstyle-vs-stylevana-olive-young"
+          }
+        ]
+      },
+      {
+        "heading": "Clothing, accessories, and return rules",
+        "paragraphs": [
+          "Although YesStyle carries fashion and accessories with centimeter measurement charts, certain apparel listings may show as unavailable for your destination once your country is selected. Always verify the destination badge and size availability on each SKU page before using clothing to reach a free-shipping threshold.",
+          "For returns, change-of-mind or size-exchange requests require an RMA number within 14 days of delivery and must ship within 30 days of RMA approval. Return shipping to YesStyle's Hong Kong office or its US/Canada return partners is paid by the buyer, while opened beauty products, supplements, clearance or special-deal items (Buy 1 Get 1 Free, Clearance, Lucky Bundle, Deals), and intimate wear cannot be returned, and skin reactions do not qualify for refunds."
+        ]
+      },
+      {
+        "heading": "Reward Code CECILIA010, store promo coupons, and YS Points",
+        "paragraphs": [
+          "Under YesStyle's official Terms, you can apply one eligible store promo coupon in the Coupon Code field per order and stack it with existing sale prices, Reward Code CECILIA010 in its separate field, and YS Points at the payment step.",
+          "Reward Code CECILIA010 gives 5% extra off your first purchase and 2% off returning orders on eligible items, both on the website (Reward Code field) and in the app (Influencer / Rewards Code under Enter Code). Check item eligibility and verify both discount lines in your bag before paying; active store promo coupons are listed on our [YesStyle coupons page](/en/coupons/yesstyle)."
+        ],
+        "image": {
+          "src": "/images/reviews/yesstyle/yesstyle-app-codigo-checkout-2810.webp",
+          "alt": "Three YesStyle app screens showing separate Coupon Code and Influencer / Rewards Code fields with Reward Code CECILIA010 applied",
+          "caption": "Applying Reward Code CECILIA010 in the YesStyle app inside its separate field from store promo coupons.",
+          "objectFit": "contain",
+          "aspectRatio": 1.4382
+        },
+        "links": [
+          {
+            "label": "How to Use YesStyle Reward Code CECILIA010 Step by Step",
+            "href": "/en/reviews/yesstyle-reward-code-coupon-cecilia010"
+          },
+          {
+            "label": "See Today's YesStyle Promo Coupons and Reward Code CECILIA010",
+            "href": "/en/coupons/yesstyle"
+          }
+        ]
+      },
+      {
+        "heading": "Who YesStyle is worth it for: verdict by profile",
+        "paragraphs": [
+          "If you want multiple K-beauty and J-beauty brands in a single checkout and do not mind checking warehouse dispatch times, YesStyle delivers strong catalog breadth and solid savings when pairing sale prices, one store promo coupon, and Reward Code CECILIA010. Buyers needing fast delivery or free returns on opened cosmetics should look at local retailers instead."
+        ],
+        "bullets": [
+          "**Best fit:** shoppers combining In-Stock K-beauty and J-beauty items, hitting free shipping naturally without padding the bag, and ordering ahead of need.",
+          "**Skip if:** you have a tight deadline, only need one small item below the shipping minimum, or want to test opened skincare with a free return option."
+        ],
+        "emphasis": "Cecília's takeaway: YesStyle pays off when you filter for In-Stock items so one slow SKU does not hold up the whole box, and stack Reward Code CECILIA010 with an eligible store promo coupon instead of adding filler items for free shipping.",
+        "links": [
+          {
+            "label": "YesStyle vs Olive Young Global: Shipping, Tax and Returns",
+            "href": "/en/reviews/yesstyle-vs-olive-young"
+          }
+        ]
+      },
+      {
+        "heading": "Frequently asked questions",
+        "bullets": [
+          "Is YesStyle worth it? Yes, it is worth it when you want K-beauty and J-beauty brands in one order, check warehouse dispatch badges on every item, and stack Reward Code CECILIA010 with active store promo coupons.",
+          "What is YesStyle's Reward Code and how much does it save? CECILIA010 is our Reward Code for 5% extra off your first order and 2% off returning orders on eligible items. It goes in the separate Reward Code field and stacks with one store promo coupon, sale prices, and YS Points.",
+          "Why can one slow item delay an entire YesStyle order? If your order ships as one package, dispatch from Hong Kong waits until the slowest awaiting-stock SKU becomes available, which can take up to 30 business days. Always verify each product's stock status before checking out.",
+          "What are YesStyle's free-shipping minimums and customs refund rules? Standard shipping is free from US$ 35 in the US, Australia, and New Zealand (US$ 6, US$ 5.50, and US$ 5 below), US$ 50 in the UK and Canada, and US$ 45 in Ireland. Eligible delivery customs charges on orders under US$ 1,000 can be refunded as store credit if you email the receipt within 30 days, excluding checkout-collected VAT, GST, or US sales tax.",
+          "Can you return clothing or opened beauty products at YesStyle? Change-of-mind returns require an RMA request within 14 days of receipt with buyer-paid return shipping, and some clothing SKUs may not ship to every country. Opened beauty products, supplements, and intimate items cannot be returned."
+        ]
+      }
+    ]
+  },
+  {
+    "id": 1450,
+    "slug": "yesstyle-vale-la-pena",
+    "locale": "es",
+    "translationKey": "yesstyle-worth-it",
+    "title": "¿YesStyle vale la pena? Qué comprar de belleza asiática y cuándo compensa pedir",
+    "seoTitle": "¿YesStyle vale la pena? K-beauty, envíos y ahorro",
+    "type": "Guía de compra",
+    "category": "guias-praticos-utilidade",
+    "reviewKind": "guia",
+    "author": {
+      "name": "Cecília Mauad",
+      "slug": "cecilia-mauad",
+      "role": "Em Casa com Cecília",
+      "initials": "CM",
+      "url": "/sobre"
+    },
+    "description": "Cuándo compensa YesStyle para K-beauty y J-beauty, cómo evitar que un artículo en espera frene todo el paquete y cómo sumar el código de recompensa CECILIA010.",
+    "metaDescription": "Con el código de recompensa CECILIA010 obtienes hasta un 5% extra en YesStyle. Qué comprar en belleza asiática, plazos de almacén, envíos y devoluciones.",
+    "publishedAt": "25 de noviembre de 2026",
+    "publishedAtISO": "2026-11-25",
+    "draft": false,
+    "isNew": false,
+    "hideFromPortugueseListings": true,
+    "image": "/images/reviews/yesstyle/yesstyle-vale-a-pena-hero-es.webp",
+    "imageAlt": "Portada de la guía ¿YesStyle vale la pena? con frascos de skincare coreano sobre fondo claro, logotipo de YesStyle y el código de recompensa CECILIA010.",
+    "imageFit": "contain",
+    "imageAspect": "landscape",
+    "pros": [],
+    "cons": [],
+    "cta": {
+      "text": "Revisa la disponibilidad de cada artículo en tu bolsa, confirma el envío para tu país y pega el código de recompensa CECILIA010 en el campo Reward Code.",
+      "label": "Ir a YesStyle",
+      "url": "https://ystyle.co/rQYQv",
+      "sponsored": true
+    },
+    "coupon": "CECILIA010",
+    "affiliate": "yesstyle",
+    "editorialNote": "Fuentes oficiales, sin compra personal. Comisión posible por enlaces y código de recompensa CECILIA010.",
+    "relatedArticles": [
+      {
+        "slug": "es-yesstyle-de-fiar-y-seguro"
+      },
+      {
+        "slug": "yesstyle-envios-espana-mexico-chile-peru-argentina-colombia"
+      },
+      {
+        "slug": "k-beauty-marcas-coreanas-tendencia-mundial"
+      },
+      {
+        "slug": "codigo-de-recompensa-yesstyle-cupon-cecilia010"
+      },
+      {
+        "slug": "yesstyle-o-stylevana-cual-elegir"
+      },
+      {
+        "slug": "yesstyle-o-olive-young-cual-elegir"
+      }
+    ],
+    "decision": {
+      "takeIf": [
+        "Quieres reunir varias marcas de K-beauty y J-beauty en un mismo pedido sin pagar envíos separados en tiendas distintas.",
+        "Revisas el plazo de salida del almacén de cada producto antes de pagar y puedes esperar el envío internacional sin fecha límite fija.",
+        "Quieres combinar un cupón promocional de la tienda con el código de recompensa CECILIA010 alcanzando el envío gratis sin añadir relleno."
+      ],
+      "skipIf": [
+        "Necesitas tus productos de belleza en una fecha próxima y no tienes margen para sumar el tiempo de espera del almacén al tránsito.",
+        "Buscas probar un cosmético en casa con opción de devolverlo si lo abres, ya que la tienda no admite devolución de belleza abierta.",
+        "Solo vas a comprar un producto barato por debajo del mínimo de envío gratis, donde el costo del envío reduce el ahorro."
+      ]
+    },
+    "contentSections": [
+      {
+        "heading": "Respuesta rápida",
+        "paragraphs": [
+          "Sí, YesStyle vale la pena para reunir skincare y maquillaje K-beauty y J-beauty en un solo pedido sin prisa. El código de recompensa CECILIA010 suma con cupones de la tienda al pagar: 5% en tu primera compra y 2% en las siguientes. Revisa abajo los plazos de stock y el cálculo de dividir el carrito."
+        ]
+      },
+      {
+        "heading": "Quién es YesStyle y cómo funciona",
+        "paragraphs": [
+          "YesStyle es una tienda en línea con sede en Hong Kong, fundada en 2006 y perteneciente a YesAsia Holdings Limited (2209.HK), que cotiza en la Bolsa de Hong Kong. Todos los pedidos salen de su almacén en Hong Kong hacia más de 150 países y regiones.",
+          "En cosmética, la tienda afirma comprar marcas de K-beauty directamente a fabricantes en Corea del Sur o a distribuidores autorizados, una declaración propia de la empresa sin auditoría externa independiente. Puedes ver los datos societarios y qué revisar al recibir el paquete en [¿YesStyle es de fiar y seguro?](/es/reviews/es-yesstyle-de-fiar-y-seguro) y las quejas de envío globales en [YesStyle en Trustpilot](/es/reviews/yesstyle-opiniones-trustpilot)."
+        ]
+      },
+      {
+        "heading": "Qué comprar en el catálogo",
+        "paragraphs": [
+          "Su punto fuerte es reunir marcas de K-beauty y J-beauty en un único carrito para no pagar varios envíos internacionales por separado. El catálogo destaca en sérums, esencias, tónicos, protectores solares, maquillaje y cuidado capilar.",
+          "La empresa declara distribuir más de 400 marcas coreanas, entre ellas COSRX, SKIN1004, Beauty of Joseon, Anua, Abib, Isntree y Etude House, además de firmas japonesas como Hada Labo y Rohto. Revisa siempre la lista de ingredientes y el formato en mililitros en la ficha de cada producto antes de añadirlo."
+        ],
+        "images": [
+          {
+            "src": "/images/reviews/yesstyle/cosrx-advanced-snail-96-essence-yesstyle.webp",
+            "alt": "Frasco de la esencia COSRX Advanced Snail 96 Mucin Power Essence de 100 ml en el catálogo de YesStyle",
+            "caption": "COSRX Advanced Snail 96 Mucin Power Essence, ejemplo de K-beauty disponible en YesStyle. Foto: YesStyle.",
+            "objectFit": "square"
+          },
+          {
+            "src": "/images/reviews/yesstyle/skin1004-madagascar-centella-ampoule-yesstyle.webp",
+            "alt": "Frasco con gotero de SKIN1004 Madagascar Centella Ampoule en el catálogo de YesStyle",
+            "caption": "SKIN1004 Madagascar Centella Ampoule, parte del surtido de cuidado facial coreano de la tienda. Foto: YesStyle.",
+            "objectFit": "square"
+          }
+        ],
+        "links": [
+          {
+            "label": "K-Beauty: qué es, marcas coreanas y dónde comprar",
+            "href": "/es/reviews/k-beauty-marcas-coreanas-tendencia-mundial"
+          }
+        ]
+      },
+      {
+        "heading": "Disponibilidad y tiempo de salida del almacén",
+        "paragraphs": [
+          "La etiqueta de disponibilidad junto a la versión del producto indica cuándo sale de Hong Kong, no cuándo llega a tu domicilio. Al plazo de envío hasta tu país se suma el tiempo que tarda cada artículo en quedar disponible, ambos contados en días hábiles según la hora de Hong Kong (GMT+8)."
+        ],
+        "bullets": [
+          "**Disponible (1 a 3 días hábiles):** el artículo está listo en el almacén y sale con rapidez.",
+          "**A la espera de producto (3-5 días):** la tienda lo traslada desde un almacén regional antes de despacharlo.",
+          "**A la espera de producto (7, 7-14, 21 o 30 días):** la tienda solicita el producto al proveedor tras la compra y tarda esos días hábiles en salir."
+        ],
+        "postParagraphs": [
+          "Si mezclas artículos disponibles con un producto de reposición lenta, el pedido conjunto queda retenido hasta que el último esté listo. Según el stock, el transportista o la aduana, YesStyle también puede dividir el pedido en más de un envío."
+        ],
+        "image": {
+          "src": "/images/reviews/yesstyle/yesstyle-prazo-disponibilidade-mais-envio.webp",
+          "alt": "Ilustración que muestra que el plazo total en YesStyle suma la disponibilidad del producto al tiempo de envío",
+          "caption": "El plazo total suma la disponibilidad de cada artículo en almacén y el tiempo de transporte.",
+          "objectFit": "contain",
+          "aspectRatio": 1.7778
+        }
+      },
+      {
+        "heading": "Mantener, quitar o dividir un artículo lento: la cuenta en dos carritos",
+        "paragraphs": [
+          "Conservar o apartar un producto lento depende del mínimo de envío gratis de tu país. En España peninsular (sin Baleares, Canarias, Ceuta ni Melilla), el envío Standard tarda de 10 a 15 días hábiles y es gratis desde US$ 45 (US$ 5 por debajo). En Latinoamérica, el Standard es gratis desde US$ 45 en México (US$ 6 debajo, 10 a 13 días hábiles) y Colombia (US$ 5 debajo, 15 a 22 días), y desde US$ 60 en Chile (US$ 6), Perú (US$ 6) y Argentina (US$ 8).",
+          "Tomando como base España (envío gratis desde US$ 45 y US$ 5 por debajo) con un carrito mixto de US$ 48 en stock más un producto de US$ 18 con espera de 7 a 14 días hábiles (US$ 66 en total), así cambian tiempos y costos entre las tres opciones."
+        ],
+        "comparisonTable": {
+          "caption": "Simulación en dos carritos para España (US$ 48 disponibles + US$ 18 con espera de 7 a 14 días hábiles), según reglas de envío revisadas el 25 de noviembre de 2026.",
+          "headers": [
+            "Escenario",
+            "Salida del almacén",
+            "Envío en España (gratis desde US$ 45)",
+            "Cuándo conviene"
+          ],
+          "rows": [
+            [
+              "Pedido único con todo junto (US$ 66)",
+              "7 a 14 días hábiles si sale unido (17 a 29 días hábiles en total)",
+              "Gratis (supera US$ 45)",
+              "Cuando no tienes prisa y priorizas evitar gastos extra"
+            ],
+            [
+              "Quitar el artículo lento (US$ 48)",
+              "1 a 3 días hábiles (11 a 18 días hábiles en total)",
+              "Gratis (sigue por encima de US$ 45)",
+              "Cuando quieres recibir antes los artículos disponibles"
+            ],
+            [
+              "Dividir en 2 pedidos (US$ 48 + US$ 18)",
+              "El 1.º sale en 1 a 3 días hábiles; el 2.º espera 7 a 14 días hábiles",
+              "US$ 5 en total (1.º gratis; 2.º por debajo de US$ 45 paga US$ 5)",
+              "Cuando quieres separar el artículo lento sin retrasar el resto"
+            ]
+          ]
+        },
+        "postParagraphs": [
+          "En impuestos, España incluye el IVA del 21% en los precios y YesStyle indica que, por ahora, asume la tasa europea de 3 € por categoría aduanera en paquetes de menos de 150 €. En México, Chile, Perú, Argentina y Colombia, los impuestos de aduana se pagan si los cobra la entrega.",
+          "Para pedidos inferiores a US$ 1.000 (antes de cupones y sin envío), YesStyle reembolsa en crédito de tienda los impuestos y tasas aduaneras cobrados al entregar si envías el comprobante fechado al servicio al cliente en un plazo máximo de 30 días. Quedan excluidos el IVA ya cobrado en España y las tarifas postales de almacenaje."
+        ],
+        "links": [
+          {
+            "label": "Envíos de YesStyle a España, México, Chile, Perú, Argentina y Colombia",
+            "href": "/es/reviews/yesstyle-envios-espana-mexico-chile-peru-argentina-colombia"
+          },
+          {
+            "label": "YesStyle o Stylevana: envíos, impuestos y devoluciones",
+            "href": "/es/reviews/yesstyle-o-stylevana-cual-elegir"
+          }
+        ]
+      },
+      {
+        "heading": "Ropa, accesorios y normas de devolución",
+        "paragraphs": [
+          "Aunque YesStyle ofrece moda y accesorios con tablas de medidas en centímetros, algunos anuncios pueden figurar como no disponibles para tu dirección al elegir el país de envío. Verifica siempre el aviso de disponibilidad de destino en cada prenda antes de usarla para completar el envío gratis.",
+          "Para devoluciones por desistimiento o cambio de talla, debes solicitar un número de RMA dentro de los 14 días posteriores a la entrega y enviar el paquete en 30 días, asumiendo el envío de vuelta a Hong Kong o a los socios de devolución en Estados Unidos y Canadá. Los cosméticos abiertos, suplementos, artículos de ofertas especiales (Buy 1 Get 1 Free, Clearance, Lucky Bundle, Deals) y prendas íntimas no se devuelven, y una reacción cutánea no da derecho a reembolso."
+        ]
+      },
+      {
+        "heading": "Código de recompensa CECILIA010, cupones de la tienda y YS Points",
+        "paragraphs": [
+          "Según los términos oficiales de YesStyle, cada pedido admite un único cupón promocional en Coupon Code, pero se combina con precios rebajados, con el código de recompensa CECILIA010 en su propio campo y con los YS Points en el paso de pago.",
+          "El código de recompensa CECILIA010 aplica un 5% extra en la primera compra y un 2% en las siguientes sobre artículos elegibles, tanto en la web (campo Reward Code) como en la app (campo Influencer / Rewards Code dentro de Enter Code). Comprueba siempre en la bolsa qué artículos son elegibles y confirma ambos descuentos en el resumen antes de pagar; los cupones promocionales vigentes están en la página de [cupones de YesStyle](/es/coupons/yesstyle)."
+        ],
+        "image": {
+          "src": "/images/reviews/yesstyle/yesstyle-app-codigo-checkout-2810.webp",
+          "alt": "Tres capturas de la app de YesStyle con los campos separados Coupon Code e Influencer / Rewards Code y el código de recompensa CECILIA010 aplicado",
+          "caption": "Aplicación del código de recompensa CECILIA010 en la app de YesStyle en su casilla separada de los cupones de la tienda.",
+          "objectFit": "contain",
+          "aspectRatio": 1.4382
+        },
+        "links": [
+          {
+            "label": "Cómo usar el código de recompensa CECILIA010 paso a paso",
+            "href": "/es/reviews/codigo-de-recompensa-yesstyle-cupon-cecilia010"
+          },
+          {
+            "label": "Ver los cupones de YesStyle vigentes y el código CECILIA010",
+            "href": "/es/coupons/yesstyle"
+          }
+        ]
+      },
+      {
+        "heading": "Para quién vale la pena YesStyle: veredicto por perfil",
+        "paragraphs": [
+          "Para quienes reúnen cuidado facial y maquillaje coreano o japonés en una sola compra y pueden revisar la salida del almacén de Hong Kong, YesStyle destaca por su variedad y por sumar precios de oferta, un cupón promocional de la tienda y el código de recompensa CECILIA010. Si necesitas entrega urgente o devolución gratuita en productos abiertos, conviene evaluar opciones locales."
+        ],
+        "bullets": [
+          "**Conviene más:** si combinas artículos en stock de K-beauty y J-beauty, alcanzas el mínimo de envío gratis sin rellenar la cesta y compras con margen de tiempo.",
+          "**Conviene menos:** si tienes una fecha fija cercana, buscas un solo artículo barato debajo del mínimo o esperas devolver cosméticos ya abiertos."
+        ],
+        "emphasis": "Conclusión de Cecília: YesStyle compensa cuando eliges productos disponibles para no bloquear toda la caja y combinas el código de recompensa CECILIA010 con el cupón vigente de la tienda sin añadir compras innecesarias por el envío gratis.",
+        "links": [
+          {
+            "label": "YesStyle o Olive Young: envío, impuestos y devoluciones",
+            "href": "/es/reviews/yesstyle-o-olive-young-cual-elegir"
+          }
+        ]
+      },
+      {
+        "heading": "Preguntas frecuentes",
+        "bullets": [
+          "¿YesStyle vale la pena? Sí, compensa cuando quieres reunir varias marcas de K-beauty y J-beauty en un mismo envío, revisas la disponibilidad de almacén por producto y sumas el código de recompensa CECILIA010 con cupones promocionales de la tienda.",
+          "¿Cuál es el código de recompensa de YesStyle y cuánto ahorra? Es CECILIA010, que otorga un 5% extra en la primera compra y un 2% en compras siguientes sobre productos elegibles. Se introduce en el campo Reward Code, aparte de los cupones de la tienda, precios rebajados y YS Points.",
+          "¿Por qué un artículo en espera puede retrasar todo mi pedido en YesStyle? Porque si el pedido sale en un único paquete desde Hong Kong, espera al producto con mayor plazo de reposición, que puede tardar hasta 30 días hábiles. Revisa la etiqueta de stock antes de finalizar.",
+          "¿Cómo funciona el envío gratis y el reembolso aduanero en YesStyle? El envío Standard es gratis desde US$ 45 en España, México y Colombia (US$ 5 o US$ 6 debajo) y desde US$ 60 en Chile, Perú y Argentina. Para tasas aduaneras cobradas en la entrega en pedidos menores a US$ 1.000, YesStyle las reembolsa en crédito de tienda enviando el comprobante en 30 días, excluyendo el IVA de España.",
+          "¿Puedo devolver ropa o cosméticos abiertos en YesStyle? Para cambios o desistimiento debes pedir el RMA en 14 días desde la entrega pagando el envío de retorno, y parte de la ropa no envía a todos los destinos. Cosméticos abiertos, suplementos y prendas íntimas no admiten devolución."
+        ]
+      }
+    ]
+  },
+  {
+    "id": 1451,
+    "slug": "yesstyle-vaut-il-le-coup",
+    "locale": "fr",
+    "translationKey": "yesstyle-worth-it",
+    "title": "YesStyle vaut-il le coup ? Quoi acheter en beauté asiatique et quand commander",
+    "seoTitle": "YesStyle vaut-il le coup ? K-beauty, livraison et prix",
+    "type": "Guide d'achat",
+    "category": "guias-praticos-utilidade",
+    "reviewKind": "guia",
+    "author": {
+      "name": "Cecília Mauad",
+      "slug": "cecilia-mauad",
+      "role": "Em Casa com Cecília",
+      "initials": "CM",
+      "url": "/sobre"
+    },
+    "description": "Quand YesStyle vaut le coup pour la K-beauty et la J-beauty, comment éviter qu'un article en attente bloque tout le colis et comment cumuler le code récompense CECILIA010.",
+    "metaDescription": "Avec le code récompense CECILIA010, obtenez jusqu'à 5 % en plus sur YesStyle. Quoi acheter en beauté asiatique, délais de stock, livraison et retours.",
+    "publishedAt": "25 novembre 2026",
+    "publishedAtISO": "2026-11-25",
+    "draft": false,
+    "isNew": false,
+    "hideFromPortugueseListings": true,
+    "image": "/images/reviews/yesstyle/yesstyle-vale-a-pena-hero-fr.webp",
+    "imageAlt": "Couverture du guide YesStyle vaut-il le coup avec des flacons de soins coréens sur fond clair, le logo YesStyle et le code récompense CECILIA010.",
+    "imageFit": "contain",
+    "imageAspect": "landscape",
+    "pros": [],
+    "cons": [],
+    "cta": {
+      "text": "Vérifiez la disponibilité de chaque produit dans le panier, contrôlez les frais pour votre adresse et collez le code récompense CECILIA010 dans le champ Reward Code.",
+      "label": "Aller sur YesStyle",
+      "url": "https://ystyle.co/rQYQv",
+      "sponsored": true
+    },
+    "coupon": "CECILIA010",
+    "affiliate": "yesstyle",
+    "editorialNote": "Sources officielles, sans achat personnel. Commission possible via les liens et le code récompense CECILIA010.",
+    "relatedArticles": [
+      {
+        "slug": "yesstyle-est-il-fiable-et-sur"
+      },
+      {
+        "slug": "yesstyle-livraison-france-belgique-canada"
+      },
+      {
+        "slug": "k-beauty-tendance-beaute-coreenne"
+      },
+      {
+        "slug": "code-recompense-yesstyle-cecilia010"
+      },
+      {
+        "slug": "yesstyle-ou-stylevana-que-choisir"
+      },
+      {
+        "slug": "yesstyle-ou-olive-young-que-choisir"
+      }
+    ],
+    "decision": {
+      "takeIf": [
+        "Vous souhaitez regrouper plusieurs marques K-beauty et J-beauty dans un seul panier au lieu de payer plusieurs frais de port séparés.",
+        "Vous vérifiez le délai de sortie d'entrepôt sur chaque fiche produit et pouvez attendre une livraison internationale sans date fixe.",
+        "Vous voulez cumuler un coupon promotionnel de la boutique avec le code récompense CECILIA010 tout en atteignant le seuil de livraison gratuite."
+      ],
+      "skipIf": [
+        "Vous avez besoin de vos soins rapidement pour une date précise sans marge pour l'attente de réapprovisionnement et le transport.",
+        "Vous comptez ouvrir un produit de beauté pour l'essayer avant de le renvoyer, car les cosmétiques ouverts ne sont pas repris.",
+        "Vous ne commandez qu'un petit article sous le seuil de gratuité et les frais d'envoi annulent l'économie réalisée."
+      ]
+    },
+    "contentSections": [
+      {
+        "heading": "Réponse rapide",
+        "paragraphs": [
+          "Oui, YesStyle vaut le coup pour regrouper soins et maquillage K-beauty et J-beauty dans un panier sans urgence. Le code récompense CECILIA010 se cumule avec un coupon de la boutique au paiement : 5 % sur le premier achat et 2 % ensuite. Vérifiez ci-dessous les délais de stock et le calcul de deux paniers."
+        ]
+      },
+      {
+        "heading": "Qui est YesStyle et comment la boutique opère",
+        "paragraphs": [
+          "YesStyle est une boutique en ligne basée à Hong Kong, fondée en 2006 et détenue par YesAsia Holdings Limited (2209.HK), société cotée à la Bourse de Hong Kong. Toutes les commandes partent de son entrepôt à Hong Kong vers plus de 150 pays et régions.",
+          "Pour les cosmétiques, la boutique déclare s'approvisionner directement auprès des fabricants en Corée du Sud ou de distributeurs agréés, une affirmation propre à l'enseigne sans audit indépendant externe. Pour consulter les données sur l'entreprise et les vérifications à la réception, lisez [YesStyle est-il fiable et sûr ?](/fr/reviews/yesstyle-est-il-fiable-et-sur) ; pour les avis récents sur la livraison, voyez [YesStyle sur Trustpilot](/fr/reviews/yesstyle-avis-trustpilot)."
+        ]
+      },
+      {
+        "heading": "Quoi acheter dans le catalogue",
+        "paragraphs": [
+          "L'intérêt principal de la plateforme est de réunir des marques K-beauty et J-beauty dans une seule commande plutôt que de multiplier les paniers sur des sites distincts. L'offre se distingue notamment sur les sérums, essences, lotions toniques, protections solaires, le maquillage et les soins capillaires.",
+          "YesStyle se déclare distributeur agréé de plus de 400 marques coréennes, dont COSRX, SKIN1004, Beauty of Joseon, Anua, Abib, Isntree et Etude House, aux côtés de marques japonaises comme Hada Labo et Rohto. Vérifiez toujours la liste des ingrédients et la contenance en millilitres sur la page de chaque produit avant de commander."
+        ],
+        "images": [
+          {
+            "src": "/images/reviews/yesstyle/cosrx-advanced-snail-96-essence-yesstyle.webp",
+            "alt": "Flacon de l'essence COSRX Advanced Snail 96 Mucin Power Essence 100 ml au catalogue YesStyle",
+            "caption": "COSRX Advanced Snail 96 Mucin Power Essence, exemple de référence K-beauty vendue sur le site. Photo : YesStyle.",
+            "objectFit": "square"
+          },
+          {
+            "src": "/images/reviews/yesstyle/skin1004-madagascar-centella-ampoule-yesstyle.webp",
+            "alt": "Flacon compte-gouttes de SKIN1004 Madagascar Centella Ampoule au catalogue YesStyle",
+            "caption": "SKIN1004 Madagascar Centella Ampoule, présente dans l'assortiment de soins coréens. Photo : YesStyle.",
+            "objectFit": "square"
+          }
+        ],
+        "links": [
+          {
+            "label": "K-Beauty : qu'est-ce que c'est et où acheter les marques coréennes",
+            "href": "/fr/reviews/k-beauty-tendance-beaute-coreenne"
+          }
+        ]
+      },
+      {
+        "heading": "Disponibilité et délai de sortie d'entrepôt",
+        "paragraphs": [
+          "La mention affichée à côté du format d'un article indique quand il quitte l'entrepôt de Hong Kong, et non sa date d'arrivée chez vous. Le délai total additionne cette disponibilité au délai d'expédition vers votre pays, comptés en jours ouvrés à l'heure de Hong Kong (GMT+8)."
+        ],
+        "bullets": [
+          "**En stock (1 à 3 jours ouvrés) :** l'article est prêt à partir rapidement depuis l'entrepôt principal.",
+          "**Réapprovisionnement (3 à 5 jours ouvrés) :** l'article provient d'un entrepôt régional de l'enseigne.",
+          "**Réapprovisionnement (7, 7-14, 21 ou 30 jours) :** la boutique commande l'article au fournisseur après votre paiement et le prépare dans ce délai."
+        ],
+        "postParagraphs": [
+          "Si le panier mélange des produits en stock et un article en réapprovisionnement long, une expédition groupée reste bloquée jusqu'à ce que le dernier article soit prêt. Selon la disponibilité, le transporteur ou la douane, YesStyle peut également scinder l'envoi en plusieurs colis."
+        ],
+        "image": {
+          "src": "/images/reviews/yesstyle/yesstyle-prazo-disponibilidade-mais-envio.webp",
+          "alt": "Illustration montrant que le délai total YesStyle additionne le temps de disponibilité et le délai d'expédition",
+          "caption": "Le délai total combine la disponibilité de chaque référence en entrepôt et le transport international.",
+          "objectFit": "contain",
+          "aspectRatio": 1.7778
+        }
+      },
+      {
+        "heading": "Garder, retirer ou séparer un article lent : le calcul des deux paniers",
+        "paragraphs": [
+          "Le choix de garder ou non un article en réapprovisionnement dépend du seuil de livraison gratuite de votre pays. En France métropolitaine (hors territoires d'outre-mer) et en Belgique, la livraison Standard prend 10 à 15 jours ouvrés et devient gratuite dès US$ 45 (US$ 5 en dessous). Au Canada, le mode Premium Standard prend 7 à 14 jours ouvrés et devient gratuit dès US$ 50 (US$ 6 en dessous).",
+          "En prenant l'exemple de la France (livraison gratuite dès US$ 45, US$ 5 en dessous) avec un panier mixte contenant US$ 48 en stock et un article à US$ 18 sous 7 à 14 jours ouvrés (US$ 66 au total), voici ce que donnent les trois options."
+        ],
+        "comparisonTable": {
+          "caption": "Simulation pour la France (US$ 48 en stock + US$ 18 en attente de 7 à 14 jours ouvrés), d'après les règles de livraison vérifiées le 25 novembre 2026.",
+          "headers": [
+            "Scénario",
+            "Sortie d'entrepôt",
+            "Port en France (gratuit dès US$ 45)",
+            "Quand cette option convient"
+          ],
+          "rows": [
+            [
+              "Commande unique groupée (US$ 66)",
+              "7 à 14 jours ouvrés si tout part ensemble (17 à 29 jours ouvrés au total)",
+              "Gratuit (dépasse US$ 45)",
+              "Pour éviter des frais de port supplémentaires sans contrainte de date"
+            ],
+            [
+              "Retirer l'article lent (US$ 48)",
+              "1 à 3 jours ouvrés (11 à 18 jours ouvrés au total)",
+              "Gratuit (reste au-dessus de US$ 45)",
+              "Pour recevoir plus vite les soins disponibles sans payer de port"
+            ],
+            [
+              "Séparer en 2 commandes (US$ 48 + US$ 18)",
+              "La 1re part en 1 à 3 jours ouvrés ; la 2e attend 7 à 14 jours ouvrés",
+              "US$ 5 au total (1re gratuite ; 2e sous US$ 45 facturée US$ 5)",
+              "Pour débloquer les articles en stock tout en commandant le dernier à part"
+            ]
+          ]
+        },
+        "postParagraphs": [
+          "Côté taxes, la TVA est déjà incluse dans les prix en France (20 %) et en Belgique (21 %), et YesStyle indique régler actuellement la taxe européenne de 3 € par catégorie douanière pour les colis de moins de 150 €. Au Canada, seule la Saskatchewan ajoute une PST de 6 % au paiement.",
+          "Pour les commandes inférieures à US$ 1 000 (avant coupon et hors frais de port), YesStyle rembourse en crédit boutique les droits et taxes douaniers payés à la livraison sur envoi du justificatif daté sous 30 jours. La TVA déjà perçue en France ou en Belgique, la PST canadienne et les frais de stockage du transporteur restent exclus."
+        ],
+        "links": [
+          {
+            "label": "YesStyle livre-t-il en France, en Belgique et au Canada ?",
+            "href": "/fr/reviews/yesstyle-livraison-france-belgique-canada"
+          },
+          {
+            "label": "YesStyle ou Stylevana : livraison, taxes et retours comparés",
+            "href": "/fr/reviews/yesstyle-ou-stylevana-que-choisir"
+          }
+        ]
+      },
+      {
+        "heading": "Vêtements, accessoires et conditions de retour",
+        "paragraphs": [
+          "Si YesStyle propose aussi des vêtements et accessoires avec des mesures en centimètres, certains articles s'affichent indisponibles pour votre pays une fois la destination sélectionnée. Contrôlez donc le badge d'expédition propre à chaque référence avant de l'ajouter pour atteindre la livraison gratuite.",
+          "Pour un retour pour changement d'avis ou échange de taille, la demande de numéro RMA s'effectue dans les 14 jours suivant la réception avec expédition sous 30 jours, aux frais de l'acheteur vers Hong Kong ou les partenaires de retour aux États-Unis et au Canada. Les cosmétiques ouverts, compléments alimentaires, offres spéciales (Buy 1 Get 1 Free, Clearance, Lucky Bundle, Deals) et articles intimes sont exclus, et une réaction cutanée ne donne pas droit au remboursement."
+        ]
+      },
+      {
+        "heading": "Code récompense CECILIA010, coupons boutique et YS Points",
+        "paragraphs": [
+          "Conformément aux conditions officielles de YesStyle, une commande accepte un seul coupon promotionnel dans le champ Coupon Code, mais celui-ci se cumule avec les prix soldés, avec le code récompense CECILIA010 dans son champ dédié et avec les YS Points à l'étape de paiement.",
+          "Le code récompense CECILIA010 offre 5 % en plus sur la première commande et 2 % sur les suivantes sur les articles éligibles, sur le site (champ Reward Code) comme sur l'application (champ Influencer / Rewards Code dans Enter Code). Vérifiez l'éligibilité des produits et les deux lignes de remise dans votre panier avant de payer ; les coupons promotionnels du moment figurent sur notre page [coupons YesStyle](/fr/coupons/yesstyle)."
+        ],
+        "image": {
+          "src": "/images/reviews/yesstyle/yesstyle-app-codigo-checkout-2810.webp",
+          "alt": "Trois écrans de l'application YesStyle montrant les champs séparés Coupon Code et Influencer / Rewards Code avec le code récompense CECILIA010 appliqué",
+          "caption": "Saisie du code récompense CECILIA010 dans l'application YesStyle, à côté du champ réservé au coupon boutique.",
+          "objectFit": "contain",
+          "aspectRatio": 1.4382
+        },
+        "links": [
+          {
+            "label": "Comment utiliser le code récompense CECILIA010 étape par étape",
+            "href": "/fr/reviews/code-recompense-yesstyle-cecilia010"
+          },
+          {
+            "label": "Voir les coupons YesStyle du jour et le code récompense CECILIA010",
+            "href": "/fr/coupons/yesstyle"
+          }
+        ]
+      },
+      {
+        "heading": "Pour qui YesStyle vaut le coup : verdict par profil",
+        "paragraphs": [
+          "Pour regrouper soins coréens et japonais dans un seul envoi sans contrainte de date serrée, YesStyle reste avantageux grâce à l'étendue de son catalogue et au cumul entre offres, coupon promotionnel de la boutique et code récompense CECILIA010. Si vous êtes pressé ou souhaitez pouvoir renvoyer un cosmétique ouvert sans frais, mieux vaut privilégier une enseigne locale."
+        ],
+        "bullets": [
+          "**À privilégier :** si vous regroupez des soins K-beauty et J-beauty en stock, atteignez naturellement la livraison gratuite et anticipez vos achats.",
+          "**À éviter :** pour un besoin urgent à date fixe, une petite commande sous le seuil de gratuité ou l'essai de produits que vous voudriez retourner après ouverture."
+        ],
+        "emphasis": "L'avis de Cecília : YesStyle vaut vraiment le coup lorsque vous filtrez les articles en stock pour ne pas immobiliser tout le colis et que vous associez le code récompense CECILIA010 au coupon du moment, sans gonfler le panier juste pour le port offert.",
+        "links": [
+          {
+            "label": "YesStyle ou Olive Young : livraison, taxes et retours comparés",
+            "href": "/fr/reviews/yesstyle-ou-olive-young-que-choisir"
+          }
+        ]
+      },
+      {
+        "heading": "Questions fréquentes",
+        "bullets": [
+          "YesStyle vaut-il le coup ? Oui, il vaut le coup pour réunir plusieurs marques K-beauty et J-beauty dans un panier, en vérifiant les délais de disponibilité en stock et en cumulant le code récompense CECILIA010 avec un coupon promotionnel de la boutique.",
+          "Quel est le code récompense YesStyle et quelle remise donne-t-il ? Il s'agit de CECILIA010, valable pour 5 % en plus sur la première commande et 2 % sur les suivantes sur les articles éligibles. Il se saisit dans le champ Reward Code et se cumule avec un coupon boutique, les promotions en cours et les YS Points.",
+          "Pourquoi un seul article en attente peut-il retarder toute la commande YesStyle ? Si les produits partent dans un colis unique depuis Hong Kong, l'expédition attend la référence ayant le délai de réapprovisionnement le plus long, parfois jusqu'à 30 jours ouvrés. Vérifiez la disponibilité de chaque produit avant de payer.",
+          "Comment fonctionnent la livraison gratuite et le remboursement douanier chez YesStyle ? La livraison Standard est gratuite dès US$ 45 en France et en Belgique (US$ 5 en dessous) et dès US$ 50 au Canada (US$ 6 en dessous). Sur les commandes de moins de US$ 1 000, YesStyle rembourse les droits douaniers payés à la livraison en crédit boutique sous 30 jours avec justificatif, hors TVA déjà incluse au paiement.",
+          "Peut-on retourner des vêtements ou des cosmétiques ouverts sur YesStyle ? Un retour nécessite un numéro RMA demandé sous 14 jours après réception, avec frais de renvoi à la charge du client, et certains vêtements ne livrent pas partout. Les cosmétiques ouverts, compléments et articles intimes ne sont jamais repris."
+        ]
+      }
+    ]
+  },
+  {
+    "id": 1452,
+    "slug": "lohnt-sich-yesstyle",
+    "locale": "de",
+    "translationKey": "yesstyle-worth-it",
+    "title": "Lohnt sich YesStyle? Was sich bei asiatischer Kosmetik lohnt und wann die Bestellung aufgeht",
+    "seoTitle": "Lohnt sich YesStyle? K-Beauty, Versand und Ersparnis",
+    "type": "Kaufratgeber",
+    "category": "guias-praticos-utilidade",
+    "reviewKind": "guia",
+    "author": {
+      "name": "Cecília Mauad",
+      "slug": "cecilia-mauad",
+      "role": "Em Casa com Cecília",
+      "initials": "CM",
+      "url": "/sobre"
+    },
+    "description": "Wann sich YesStyle für K-Beauty und J-Beauty lohnt, wie ein Artikel mit Wartezeit das Paket bremst, wann zwei Bestellungen sinnvoll sind und wie der Reward Code CECILIA010 wirkt.",
+    "metaDescription": "Mit dem Reward Code CECILIA010 bis zu 5% extra bei YesStyle sparen. Welche asiatische Kosmetik sich lohnt, Lagerzeiten, Versandkosten und Rückgabe im Überblick.",
+    "publishedAt": "25. November 2026",
+    "publishedAtISO": "2026-11-25",
+    "draft": false,
+    "isNew": false,
+    "hideFromPortugueseListings": true,
+    "image": "/images/reviews/yesstyle/yesstyle-vale-a-pena-hero-de.webp",
+    "imageAlt": "Titelbild des Ratgebers Lohnt sich YesStyle mit koreanischen Pflegeflaschen auf hellem Hintergrund, YesStyle-Logo und dem Reward Code CECILIA010.",
+    "imageFit": "contain",
+    "imageAspect": "landscape",
+    "pros": [],
+    "cons": [],
+    "cta": {
+      "text": "Prüfen Sie den Lagerstatus jedes Artikels im Warenkorb, die Versandkosten für Ihr Land und geben Sie den Reward Code CECILIA010 im Feld Reward Code ein.",
+      "label": "Zu YesStyle",
+      "url": "https://ystyle.co/rQYQv",
+      "sponsored": true
+    },
+    "coupon": "CECILIA010",
+    "affiliate": "yesstyle",
+    "editorialNote": "Offizielle Quellen, kein Privatkauf. Provision über Links und den Reward Code CECILIA010 möglich.",
+    "relatedArticles": [
+      {
+        "slug": "ist-yesstyle-serioes-und-sicher"
+      },
+      {
+        "slug": "yesstyle-versand-deutschland-oesterreich-schweiz"
+      },
+      {
+        "slug": "k-beauty-trend-koreanische-marken-kaufen"
+      },
+      {
+        "slug": "yesstyle-reward-code-rabatt-cecilia010"
+      },
+      {
+        "slug": "yesstyle-oder-stylevana-welcher-shop"
+      },
+      {
+        "slug": "yesstyle-oder-olive-young-welcher-shop"
+      }
+    ],
+    "decision": {
+      "takeIf": [
+        "Sie möchten mehrere K-Beauty- und J-Beauty-Marken in einer einzigen Bestellung bündeln, statt mehrfach Versandkosten zu zahlen.",
+        "Sie prüfen auf jeder Produktseite den Lagerstatus für die Auslieferung und können ohne festen Termin auf das Paket warten.",
+        "Sie kombinieren einen Aktionsgutschein des Shops mit dem Reward Code CECILIA010 und erreichen den Mindestwert für Gratisversand sinnvoll."
+      ],
+      "skipIf": [
+        "Sie brauchen Pflege oder Make-up zu einem festen Datum und haben keinen Puffer für Lagerwartezeit plus internationalen Versand.",
+        "Sie möchten Kosmetik nach dem Öffnen testen und bei Nichtgefallen zurücksenden, da geöffnete Beauty-Produkte ausgeschlossen sind.",
+        "Sie planen nur einen günstigen Einzelartikel unter dem Mindestbestellwert, bei dem der Versand die Ersparnis aufzehrt."
+      ]
+    },
+    "contentSections": [
+      {
+        "heading": "Kurz gesagt",
+        "paragraphs": [
+          "Ja, YesStyle lohnt sich, wenn Sie K-Beauty- und J-Beauty-Pflege sowie Make-up ohne Zeitdruck in einem Warenkorb bündeln möchten. Der Reward Code CECILIA010 lässt sich an der Kasse mit einem Shop-Gutschein kombinieren und bringt 5% bei der ersten Bestellung sowie 2% danach. Prüfen Sie unten die Lagerzeiten und die Rechnung mit zwei Paketen."
+        ]
+      },
+      {
+        "heading": "Wer hinter YesStyle steckt und wie der Shop arbeitet",
+        "paragraphs": [
+          "YesStyle ist ein Online-Händler mit Sitz in Hongkong, gegründet 2006 und Teil der an der Börse in Hongkong notierten YesAsia Holdings Limited (2209.HK). Alle Bestellungen verlassen das Lager in Hongkong und gehen in mehr als 150 Länder und Regionen.",
+          "Bei Kosmetik gibt der Shop an, K-Beauty-Marken direkt von Herstellern in Südkorea oder von autorisierten Partnern zu beziehen; das ist eine Eigenangabe ohne unabhängiges Audit von dritter Seite. Hintergründe zur Unternehmensstruktur und Checks bei Ankunft stehen in [Ist YesStyle seriös und sicher?](/de/reviews/ist-yesstyle-serioes-und-sicher), aktuelle Liefererfahrungen in [YesStyle auf Trustpilot](/de/reviews/yesstyle-trustpilot-bewertungen)."
+        ]
+      },
+      {
+        "heading": "Was sich im Sortiment zu kaufen lohnt",
+        "paragraphs": [
+          "Die größte Stärke des Shops liegt darin, K-Beauty und J-Beauty in einer einzigen Bestellung zusammenzuführen, statt Versandkosten auf mehreren Markenseiten zu zahlen. Gefragt sind vor allem Seren, Essenzen, Toner, Sonnenschutz, Make-up und Haarpflege.",
+          "Laut eigenen Angaben ist YesStyle autorisierter Vertriebspartner von über 400 koreanischen Marken, darunter COSRX, SKIN1004, Beauty of Joseon, Anua, Abib, Isntree und Etude House, ergänzt durch japanische Marken wie Hada Labo und Rohto. Lesen Sie vor der Wahl stets die Inhaltsstoffliste, die Füllmenge und die angebotene Produktversion."
+        ],
+        "images": [
+          {
+            "src": "/images/reviews/yesstyle/cosrx-advanced-snail-96-essence-yesstyle.webp",
+            "alt": "Flasche der COSRX Advanced Snail 96 Mucin Power Essence 100 ml im YesStyle-Sortiment",
+            "caption": "COSRX Advanced Snail 96 Mucin Power Essence als Beispiel aus dem K-Beauty-Angebot. Foto: YesStyle.",
+            "objectFit": "square"
+          },
+          {
+            "src": "/images/reviews/yesstyle/skin1004-madagascar-centella-ampoule-yesstyle.webp",
+            "alt": "Pipettenflasche der SKIN1004 Madagascar Centella Ampoule im YesStyle-Sortiment",
+            "caption": "SKIN1004 Madagascar Centella Ampoule aus dem koreanischen Pflegekatalog des Shops. Foto: YesStyle.",
+            "objectFit": "square"
+          }
+        ],
+        "links": [
+          {
+            "label": "K-Beauty-Trend: Was dahintersteckt und wo man Marken kauft",
+            "href": "/de/reviews/k-beauty-trend-koreanische-marken-kaufen"
+          }
+        ]
+      },
+      {
+        "heading": "Verfügbarkeit und Bearbeitungszeit im Lager",
+        "paragraphs": [
+          "Die Angabe neben der Produktvariante zeigt nur an, wann der Artikel das Lager in Hongkong verlässt, nicht wann er bei Ihnen eintrifft. Die Gesamtzeit addiert diese Verfügbarkeit zur Versanddauer, jeweils in Werktagen nach Hongkonger Zeit (GMT+8)."
+        ],
+        "bullets": [
+          "**Auf Lager (1 bis 3 Werktage):** Der Artikel liegt im Hauptlager bereit und geht zügig in den Versand.",
+          "**Mit Wartezeit (3–5 Tage):** Der Artikel wird zunächst aus einem regionalen Lager zugeführt.",
+          "**Mit Wartezeit (7, 7–14, 21 oder 30 Tage):** Der Shop bestellt das Produkt erst nach Zahlung beim Lieferanten und versendet entsprechend später."
+        ],
+        "postParagraphs": [
+          "Enthält ein Warenkorb sowohl vorrätige Produkte als auch einen Artikel mit langer Wartezeit, wartet eine gemeinsame Sendung auf den langsamsten Artikel. Je nach Verfügbarkeit, Paketdienst oder Zollvorgaben kann YesStyle Bestellungen auch auf mehrere Sendungen aufteilen."
+        ],
+        "image": {
+          "src": "/images/reviews/yesstyle/yesstyle-prazo-disponibilidade-mais-envio.webp",
+          "alt": "Grafik zur Lieferzeitberechnung bei YesStyle aus Lagerverfügbarkeit plus Versanddauer",
+          "caption": "Die gesamte Lieferzeit ergibt sich aus der Verfügbarkeit im Lager zuzüglich der Versanddauer.",
+          "objectFit": "contain",
+          "aspectRatio": 1.7778
+        }
+      },
+      {
+        "heading": "Langsamen Artikel behalten, streichen oder aufteilen: Rechnung für zwei Warenkörbe",
+        "paragraphs": [
+          "Ob ein Artikel mit Wartezeit im Warenkorb bleiben sollte, hängt von der Grenze für den Gratisversand ab. In Deutschland, Österreich und der Schweiz dauert der Standardversand 10 bis 15 Werktage und ist ab US$ 45 kostenlos (darunter US$ 5; in Österreich gibt es zum gleichen Preis auch die Abholung an einer Abholstelle).",
+          "Für einen gemischten Warenkorb aus Deutschland, Österreich oder der Schweiz mit US$ 48 an vorrätigen Artikeln und einem Artikel für US$ 18 mit 7–14 Werktagen Wartezeit (US$ 66 gesamt) zeigen sich zwischen den drei Varianten deutliche Unterschiede."
+        ],
+        "comparisonTable": {
+          "caption": "Simulation für Deutschland, Österreich und die Schweiz (US$ 48 auf Lager + US$ 18 mit 7–14 Werktagen Wartezeit), nach den am 25. November 2026 geprüften Versandregeln.",
+          "headers": [
+            "Variante",
+            "Lagerabgang",
+            "Versand D/AT/CH (ab US$ 45 gratis)",
+            "Wann sinnvoll"
+          ],
+          "rows": [
+            [
+              "Eine gemeinsame Bestellung (US$ 66)",
+              "7–14 Werktage bei gemeinsamer Lieferung (17–29 Werktage gesamt)",
+              "Kostenlos (über US$ 45)",
+              "Wenn kein Zeitdruck besteht und keine Zusatzkosten entstehen sollen"
+            ],
+            [
+              "Langsamen Artikel streichen (US$ 48)",
+              "1–3 Werktage (11–18 Werktage gesamt)",
+              "Kostenlos (weiterhin über US$ 45)",
+              "Wenn die vorrätigen Produkte deutlich früher ankommen sollen"
+            ],
+            [
+              "In 2 Bestellungen aufteilen (US$ 48 + US$ 18)",
+              "1. Paket in 1–3 Werktagen; 2. Paket nach 7–14 Werktagen",
+              "US$ 5 gesamt (1. gratis; 2. unter US$ 45 kostet US$ 5)",
+              "Wenn das Nachzügler-Produkt später kommen darf, ohne den Rest zu bremsen"
+            ]
+          ]
+        },
+        "postParagraphs": [
+          "Bei den Steuern ist der Endpreis gut kalkulierbar: Die Mehrwertsteuer steckt bereits im Produktpreis (19% in Deutschland, 20% in Österreich, 8,1% in der Schweiz), und für Deutschland sowie Österreich übernimmt YesStyle laut eigener Angabe derzeit auch die EU-Gebühr von 3 € je Zollkategorie bei Sendungen unter 150 € (die Schweiz liegt außerhalb der EU).",
+          "Erhebt der Zoll bei Lieferung auf Bestellungen unter US$ 1.000 (vor Abzug von Gutscheinen und ohne Versand) dennoch erstattungsfähige Abgaben, schreibt YesStyle diese als Shop-Guthaben gut, sofern der datierte Zahlungsbeleg binnen 30 Tagen per E-Mail eingereicht wird. Bereits im Checkout erhobene Mehrwertsteuer sowie Lagergebühren der Post sind ausgeschlossen."
+        ],
+        "links": [
+          {
+            "label": "YesStyle-Versand nach Deutschland, Österreich und in die Schweiz",
+            "href": "/de/reviews/yesstyle-versand-deutschland-oesterreich-schweiz"
+          },
+          {
+            "label": "YesStyle oder Stylevana: Versand, Zoll und Rückgabe im Vergleich",
+            "href": "/de/reviews/yesstyle-oder-stylevana-welcher-shop"
+          }
+        ]
+      },
+      {
+        "heading": "Kleidung, Accessoires und Rückgaberegeln",
+        "paragraphs": [
+          "Obwohl YesStyle Mode und Accessoires mit Maßangaben in Zentimetern listet, sind manche Artikel nach Auswahl des Ziellandes nicht für den Versand dorthin freigegeben. Prüfen Sie daher auf der genauen Produktseite, ob der Versand in Ihr Land angezeigt wird, bevor Sie Mode für den Gratisversand einplanen.",
+          "Für eine Rückgabe wegen Sinnesänderung oder Größentausch müssen Sie innerhalb von 14 Tagen nach Erhalt eine RMA-Nummer beantragen und das Paket binnen 30 Tagen zurücksenden; die Rücksendekosten nach Hongkong oder an Rückgabepartner in den USA und Kanada trägt der Käufer. Geöffnete Beauty-Produkte, Nahrungsergänzungsmittel, Aktionsartikel (Buy 1 Get 1 Free, Clearance, Lucky Bundle, Deals) und Intimartikel sind ausgeschlossen, und Hautreaktionen begründen keine Erstattung."
+        ]
+      },
+      {
+        "heading": "Reward Code CECILIA010, Shop-Gutscheine und YS Points",
+        "paragraphs": [
+          "Nach den offiziellen Bedingungen von YesStyle gilt pro Bestellung ein Aktionsgutschein im Feld Coupon Code, der sich jedoch mit reduzierten Preisen, mit dem Reward Code CECILIA010 im eigenen Feld und mit YS Points im Zahlungsschritt kombinieren lässt.",
+          "Der Reward Code CECILIA010 bringt 5% extra bei der ersten Bestellung und 2% bei Folgebestellungen auf berechtigte Artikel, sowohl auf der Website (Feld Reward Code) als auch in der App (Feld Influencer / Rewards Code unter Enter Code). Prüfen Sie stets die Artikelberechtigung und beide Abzüge in der Bestellübersicht vor dem Bezahlen; aktuelle Shop-Gutscheine finden Sie auf unserer Seite für [YesStyle-Gutscheine](/de/coupons/yesstyle)."
+        ],
+        "image": {
+          "src": "/images/reviews/yesstyle/yesstyle-app-codigo-checkout-2810.webp",
+          "alt": "Drei Ansichten der YesStyle-App mit den getrennten Feldern Coupon Code und Influencer / Rewards Code sowie aktivem Reward Code CECILIA010",
+          "caption": "Eingabe des Reward Code CECILIA010 in der YesStyle-App im separaten Feld neben dem Shop-Gutschein.",
+          "objectFit": "contain",
+          "aspectRatio": 1.4382
+        },
+        "links": [
+          {
+            "label": "Reward Code CECILIA010 bei YesStyle Schritt für Schritt nutzen",
+            "href": "/de/reviews/yesstyle-reward-code-rabatt-cecilia010"
+          },
+          {
+            "label": "Aktuelle YesStyle-Gutscheine und den Reward Code CECILIA010 ansehen",
+            "href": "/de/coupons/yesstyle"
+          }
+        ]
+      },
+      {
+        "heading": "Für wen sich YesStyle lohnt: Fazit nach Profil",
+        "paragraphs": [
+          "Wer mehrere koreanische und japanische Kosmetikmarken gesammelt einkaufen möchte und die Auslieferungszeiten ab Hongkong einkalkuliert, profitiert bei YesStyle von großer Auswahl und kombinierbaren Nachlässen über Aktionspreise, einen Shop-Gutschein und den Reward Code CECILIA010. Bei knappen Fristen oder Wunsch nach kostenloser Rückgabe geöffneter Produkte passen lokale Händler besser."
+        ],
+        "bullets": [
+          "**Lohnt sich besonders:** für gebündelte Bestellungen von vorrätiger K-Beauty und J-Beauty ab dem Schwellenwert für Gratisversand ohne Eile.",
+          "**Weniger geeignet:** für eilige Geschenke mit festem Termin, kleine Einzelkäufe unter US$ 45 oder zum risikofreien Testen geöffneter Kosmetik."
+        ],
+        "emphasis": "Cecílias Fazit: YesStyle geht am besten auf, wenn Sie vorrätige Artikel wählen, damit kein Nachzügler das Paket aufhält, und den Reward Code CECILIA010 mit einem passenden Shop-Gutschein kombinieren, statt unnötige Artikel für den Gratisversand hinzuzulegen.",
+        "links": [
+          {
+            "label": "YesStyle oder Olive Young: Versand, Steuern und Rückgabe",
+            "href": "/de/reviews/yesstyle-oder-olive-young-welcher-shop"
+          }
+        ]
+      },
+      {
+        "heading": "Häufige Fragen",
+        "bullets": [
+          "Lohnt sich YesStyle? Ja, es lohnt sich, wenn Sie mehrere K-Beauty- und J-Beauty-Marken in einer Bestellung kombinieren, die Lagerverfügbarkeit jedes Artikels prüfen und den Reward Code CECILIA010 zusammen mit einem Aktionsgutschein des Shops nutzen.",
+          "Wie lautet der Reward Code für YesStyle und wie hoch ist die Ersparnis? Der Reward Code CECILIA010 gibt 5% extra auf die erste Bestellung und 2% auf Folgebestellungen für berechtigte Artikel. Er gehört ins eigene Feld Reward Code und lässt sich mit einem Shop-Gutschein, reduzierten Preisen und YS Points kombinieren.",
+          "Warum kann ein einzelner Artikel mit Wartezeit die ganze YesStyle-Bestellung verzögern? Wird alles in einem Paket ab Hongkong verschickt, wartet der Versand auf den Artikel mit der längsten Beschaffungszeit von bis zu 30 Werktagen. Prüfen Sie daher vor dem Bezahlen den Status jedes Artikels.",
+          "Wie funktionieren Gratisversand und Zollerstattung bei YesStyle? In Deutschland, Österreich und der Schweiz ist der Standardversand ab US$ 45 kostenlos und kostet darunter US$ 5. Bei Bestellungen unter US$ 1.000 erstattet YesStyle erstattungsfähige Einfuhrabgaben auf Antrag mit Beleg innerhalb von 30 Tagen als Shop-Guthaben, wobei die bereits im Checkout gezahlte Mehrwertsteuer ausgeschlossen bleibt.",
+          "Kann man Kleidung oder geöffnete Kosmetik an YesStyle zurücksenden? Rückgaben erfordern binnen 14 Tagen eine RMA-Anfrage, und die Rücksendekosten trägt der Käufer; manche Modeartikel sind nicht für alle Länder freigegeben. Geöffnete Beauty-Produkte, Nahrungsergänzungsmittel und Intimartikel werden nicht zurückgenommen."
+        ]
+      }
+    ]
+  },
+  {
+    "id": 1453,
+    "slug": "yesstyle-conviene",
+    "locale": "it",
+    "translationKey": "yesstyle-worth-it",
+    "title": "YesStyle conviene? Cosa comprare nella bellezza asiatica e quando ha senso ordinare",
+    "seoTitle": "YesStyle conviene? K-beauty, spedizione e risparmi",
+    "type": "Guida all'acquisto",
+    "category": "guias-praticos-utilidade",
+    "reviewKind": "guia",
+    "author": {
+      "name": "Cecília Mauad",
+      "slug": "cecilia-mauad",
+      "role": "Em Casa com Cecília",
+      "initials": "CM",
+      "url": "/sobre"
+    },
+    "description": "Quando YesStyle conviene per K-beauty e J-beauty, come evitare che un articolo in attesa blocchi l'intero ordine e come applicare il Codice ricompensa CECILIA010.",
+    "metaDescription": "Con il Codice ricompensa CECILIA010 ottieni fino al 5% extra su YesStyle. Cosa comprare nella bellezza asiatica, tempi di magazzino, spedizione e resi.",
+    "publishedAt": "25 novembre 2026",
+    "publishedAtISO": "2026-11-25",
+    "draft": false,
+    "isNew": false,
+    "hideFromPortugueseListings": true,
+    "image": "/images/reviews/yesstyle/yesstyle-vale-a-pena-hero-it.webp",
+    "imageAlt": "Copertina della guida YesStyle conviene con flaconi di skincare coreana su sfondo chiaro, logo YesStyle e Codice ricompensa CECILIA010.",
+    "imageFit": "contain",
+    "imageAspect": "landscape",
+    "pros": [],
+    "cons": [],
+    "cta": {
+      "text": "Controlla la disponibilità di ogni articolo nel carrello, verifica la spedizione per il tuo indirizzo e inserisci il Codice ricompensa CECILIA010 nel campo Reward Code.",
+      "label": "Vai su YesStyle",
+      "url": "https://ystyle.co/rQYQv",
+      "sponsored": true
+    },
+    "coupon": "CECILIA010",
+    "affiliate": "yesstyle",
+    "editorialNote": "Fonti ufficiali, senza acquisto personale. Commissione possibile dai link e dal Codice ricompensa CECILIA010.",
+    "relatedArticles": [
+      {
+        "slug": "yesstyle-e-affidabile-e-sicuro"
+      },
+      {
+        "slug": "yesstyle-spedizione-italia-tempi-costi-dogana"
+      },
+      {
+        "slug": "k-beauty-tendenza-bellezza-coreana"
+      },
+      {
+        "slug": "codice-ricompensa-yesstyle-cecilia010"
+      },
+      {
+        "slug": "yesstyle-o-stylevana-quale-scegliere"
+      },
+      {
+        "slug": "yesstyle-o-olive-young-quale-scegliere"
+      }
+    ],
+    "decision": {
+      "takeIf": [
+        "Vuoi riunire più marchi di K-beauty e J-beauty in un solo carrello evitando di pagare spese di spedizione separate su più negozi.",
+        "Controlli i tempi di uscita dal magazzino su ogni scheda prodotto e puoi attendere la consegna internazionale senza una scadenza rigida.",
+        "Vuoi combinare un coupon promozionale del negozio con il Codice ricompensa CECILIA010 superando la soglia della spedizione gratuita in modo utile."
+      ],
+      "skipIf": [
+        "Ti servono cosmetici entro una data ravvicinata senza margine per i tempi di riassortimento in magazzino sommati al trasporto.",
+        "Conti di aprire i prodotti per provarli a casa e poi restituirli, perché i cosmetici aperti non rientrano nella politica di reso.",
+        "Devi acquistare un singolo articolo economico sotto la soglia minima, dove il costo di spedizione riduce il vantaggio."
+      ]
+    },
+    "contentSections": [
+      {
+        "heading": "Risposta rapida",
+        "paragraphs": [
+          "Sì, YesStyle conviene quando vuoi riunire skincare e trucco K-beauty e J-beauty in un solo ordine senza fretta di consegna. Il Codice ricompensa CECILIA010 si somma a un coupon del negozio al checkout con il 5% sul primo acquisto e il 2% sui successivi. Controlla sotto i tempi di magazzino e il calcolo su due ordini."
+        ]
+      },
+      {
+        "heading": "Chi è YesStyle e come opera",
+        "paragraphs": [
+          "YesStyle è un rivenditore online con sede a Hong Kong, fondato nel 2006 e controllato da YesAsia Holdings Limited (2209.HK), società quotata alla Borsa di Hong Kong. Tutti gli ordini partono dal magazzino di Hong Kong verso oltre 150 paesi e regioni.",
+          "Per i cosmetici, il negozio dichiara di acquistare i marchi K-beauty direttamente dai produttori in Corea del Sud o da distributori autorizzati, un'affermazione propria dell'azienda priva di audit indipendente esterno. Per approfondire i dati societari e i controlli alla consegna, leggi [YesStyle è affidabile e sicuro?](/it/reviews/yesstyle-e-affidabile-e-sicuro); per le recensioni recenti sulle spedizioni, consulta [YesStyle su Trustpilot](/it/reviews/yesstyle-recensioni-trustpilot)."
+        ]
+      },
+      {
+        "heading": "Cosa comprare nel catalogo",
+        "paragraphs": [
+          "Il vantaggio principale della piattaforma è concentrare marchi di K-beauty e J-beauty in un unico carrello, evitando spedizioni separate su siti diversi. Il catalogo copre soprattutto sieri, essenze, tonici, solari, make-up e prodotti per capelli.",
+          "L'azienda afferma di essere distributore autorizzato di oltre 400 marchi coreani, tra cui COSRX, SKIN1004, Beauty of Joseon, Anua, Abib, Isntree ed Etude House, accanto a marchi giapponesi come Hada Labo e Rohto. Controlla sempre la lista ingredienti, il formato in millilitri e la versione selezionata nella pagina di ogni articolo."
+        ],
+        "images": [
+          {
+            "src": "/images/reviews/yesstyle/cosrx-advanced-snail-96-essence-yesstyle.webp",
+            "alt": "Flacone di COSRX Advanced Snail 96 Mucin Power Essence da 100 ml nel catalogo YesStyle",
+            "caption": "COSRX Advanced Snail 96 Mucin Power Essence, esempio dell'offerta K-beauty del negozio. Foto: YesStyle.",
+            "objectFit": "square"
+          },
+          {
+            "src": "/images/reviews/yesstyle/skin1004-madagascar-centella-ampoule-yesstyle.webp",
+            "alt": "Flacone con contagocce di SKIN1004 Madagascar Centella Ampoule nel catalogo YesStyle",
+            "caption": "SKIN1004 Madagascar Centella Ampoule, tra i prodotti di skincare coreana presenti in catalogo. Foto: YesStyle.",
+            "objectFit": "square"
+          }
+        ],
+        "links": [
+          {
+            "label": "K-Beauty: cos'è, tendenze coreane e dove comprare",
+            "href": "/it/reviews/k-beauty-tendenza-bellezza-coreana"
+          }
+        ]
+      },
+      {
+        "heading": "Disponibilità e tempi di uscita dal magazzino",
+        "paragraphs": [
+          "La dicitura mostrata accanto alla versione del prodotto indica quando l'articolo lascia il magazzino di Hong Kong, non quando arriva a casa tua. Al tempo di spedizione verso il tuo paese si aggiunge quello necessario perché ogni articolo risulti disponibile, entrambi espressi in giorni lavorativi secondo l'orario di Hong Kong (GMT+8)."
+        ],
+        "bullets": [
+          "**Disponibile (1-3 giorni lavorativi):** il prodotto è già pronto in magazzino e parte rapidamente.",
+          "**In attesa di stock (3-5 giorni):** l'articolo proviene da un magazzino regionale prima della partenza.",
+          "**In attesa di stock (7, 7-14, 21 o 30 giorni):** il negozio acquista l'articolo dal fornitore dopo l'ordine e lo spedisce entro quei giorni lavorativi."
+        ],
+        "postParagraphs": [
+          "Se il carrello mescola articoli disponibili con un prodotto in attesa di stock, un invio unico attende l'articolo più lento. In base alle scorte, al corriere o alle regole doganali, YesStyle può anche suddividere l'ordine in più pacchi con date di arrivo diverse."
+        ],
+        "image": {
+          "src": "/images/reviews/yesstyle/yesstyle-prazo-disponibilidade-mais-envio.webp",
+          "alt": "Illustrazione che mostra come il tempo totale di YesStyle sommi la disponibilità in magazzino ai tempi di spedizione",
+          "caption": "L'attesa complessiva somma la disponibilità di ogni articolo e i giorni di spedizione.",
+          "objectFit": "contain",
+          "aspectRatio": 1.7778
+        }
+      },
+      {
+        "heading": "Tenere, togliere o dividere un articolo lento: i conti su due carrelli",
+        "paragraphs": [
+          "Decidere se tenere un articolo in riassortimento dipende dalla soglia di spedizione gratuita. Per l'Italia, la spedizione Standard richiede 10-15 giorni lavorativi ed è gratuita da US$ 45 in su (sotto costa US$ 5).",
+          "Considerando l'Italia (gratuita da US$ 45, US$ 5 sotto) con un carrello misto da US$ 48 di articoli disponibili più un articolo da US$ 18 in attesa di 7-14 giorni lavorativi (US$ 66 totali), ecco come cambiano costi e tempi tra le tre scelte."
+        ],
+        "comparisonTable": {
+          "caption": "Simulazione per l'Italia (US$ 48 disponibili + US$ 18 con attesa di 7-14 giorni lavorativi), secondo le regole verificate il 25 novembre 2026.",
+          "headers": [
+            "Scenario",
+            "Uscita dal magazzino",
+            "Spedizione Italia (gratis da US$ 45)",
+            "Quando ha senso"
+          ],
+          "rows": [
+            [
+              "Ordine unico completo (US$ 66)",
+              "7-14 giorni lavorativi se parte tutto insieme (17-29 giorni lavorativi totali)",
+              "Gratuita (supera US$ 45)",
+              "Se non hai fretta e vuoi evitare spese di spedizione"
+            ],
+            [
+              "Togliere l'articolo lento (US$ 48)",
+              "1-3 giorni lavorativi (11-18 giorni lavorativi totali)",
+              "Gratuita (resta sopra US$ 45)",
+              "Per ricevere prima i prodotti disponibili senza costi extra"
+            ],
+            [
+              "Dividere in 2 ordini (US$ 48 + US$ 18)",
+              "Il 1° parte in 1-3 giorni lavorativi; il 2° dopo 7-14 giorni lavorativi",
+              "US$ 5 totali (1° gratis; 2° sotto US$ 45 paga US$ 5)",
+              "Quando vuoi ricevere subito il resto senza bloccare il carrello"
+            ]
+          ]
+        },
+        "postParagraphs": [
+          "Sul fronte fiscale, in Italia l'IVA del 22% è già inclusa nei prezzi dei prodotti (e al checkout viene applicata alla spedizione), mentre YesStyle dichiara di farsi carico al momento della tassa UE di € 3 per categoria doganale sui pacchi sotto € 150.",
+          "Se alla consegna dovessero comunque essere applicati dazi o imposte ammissibili su ordini inferiori a US$ 1.000 (prima del coupon ed esclusa la spedizione), YesStyle li rimborsa in credito del negozio inviando la ricevuta datata entro 30 giorni. Restano esclusi l'IVA già assolta al checkout e i costi postali di giacenza o ritiro."
+        ],
+        "links": [
+          {
+            "label": "YesStyle spedisce in Italia? Tempi, costi e dogana",
+            "href": "/it/reviews/yesstyle-spedizione-italia-tempi-costi-dogana"
+          },
+          {
+            "label": "YesStyle o Stylevana: spedizione, dogana e resi a confronto",
+            "href": "/it/reviews/yesstyle-o-stylevana-quale-scegliere"
+          }
+        ]
+      },
+      {
+        "heading": "Abbigliamento, accessori e regole sui resi",
+        "paragraphs": [
+          "Anche se YesStyle vende abbigliamento e accessori con tabelle in centimetri, alcune schede possono risultare non spedibili al tuo indirizzo una volta selezionato il paese di consegna. Controlla sempre l'indicazione di spedizione per la tua destinazione su ciascun capo prima di usarlo per raggiungere la spedizione gratuita.",
+          "Per i resi dovuti a ripensamento o cambio taglia occorre richiedere il numero RMA entro 14 giorni dal ricevimento e rispedire il pacco entro 30 giorni, sostenendo il costo di ritorno verso Hong Kong o i partner negli Stati Uniti e in Canada. I prodotti di bellezza aperti, gli integratori, gli articoli in offerta speciale (Buy 1 Get 1 Free, Clearance, Lucky Bundle, Deals) e i capi intimi sono esclusi dal reso, e le reazioni cutanee non danno diritto a rimborso."
+        ]
+      },
+      {
+        "heading": "Codice ricompensa CECILIA010, coupon del negozio e YS Points",
+        "paragraphs": [
+          "Secondo i termini ufficiali di YesStyle, ogni ordine accetta un solo coupon promozionale nel campo Coupon Code, ma questo si somma ai prezzi in offerta, al Codice ricompensa CECILIA010 nel suo campo separato e agli YS Points nella fase di pagamento.",
+          "Il Codice ricompensa CECILIA010 offre il 5% extra sul primo acquisto e il 2% sui successivi sugli articoli idonei, sia sul sito (campo Reward Code) sia nell'app (campo Influencer / Rewards Code dentro Enter Code). Verifica sempre l'idoneità dei prodotti e controlla entrambe le righe di riduzione nel riepilogo prima di pagare; i coupon promozionali attivi si trovano nella pagina [coupon YesStyle](/it/coupons/yesstyle)."
+        ],
+        "image": {
+          "src": "/images/reviews/yesstyle/yesstyle-app-codigo-checkout-2810.webp",
+          "alt": "Tre schermate dell'app YesStyle con i campi separati Coupon Code e Influencer / Rewards Code e il Codice ricompensa CECILIA010 applicato",
+          "caption": "Inserimento del Codice ricompensa CECILIA010 nell'app YesStyle nel campo distinto dai coupon del negozio.",
+          "objectFit": "contain",
+          "aspectRatio": 1.4382
+        },
+        "links": [
+          {
+            "label": "Come usare il Codice ricompensa CECILIA010 passo dopo passo",
+            "href": "/it/reviews/codice-ricompensa-yesstyle-cecilia010"
+          },
+          {
+            "label": "Vedi i coupon YesStyle attivi e il Codice ricompensa CECILIA010",
+            "href": "/it/coupons/yesstyle"
+          }
+        ]
+      },
+      {
+        "heading": "Per chi conviene YesStyle: verdetto per profilo",
+        "paragraphs": [
+          "Per chi riunisce più marchi di skincare coreana e giapponese in un unico carrello e tiene conto dei tempi di partenza da Hong Kong, YesStyle offre un catalogo ampio e risparmi concreti unendo offerte, un coupon del negozio e il Codice ricompensa CECILIA010. Se hai urgenza o vuoi poter restituire prodotti aperti senza spese di ritorno, conviene valutare negozi locali."
+        ],
+        "bullets": [
+          "**Conviene di più:** se ordini insieme prodotti K-beauty e J-beauty disponibili in magazzino, raggiungi la spedizione gratuita senza articoli superflui e non hai scadenze strette.",
+          "**Conviene meno:** per regali urgenti a data fissa, ordini minimi sotto US$ 45 o per provare cosmetici con l'idea di renderli dopo l'apertura."
+        ],
+        "emphasis": "Il verdetto di Cecília: YesStyle conviene davvero quando filtri gli articoli già disponibili per non rallentare l'intero pacco e abbini il Codice ricompensa CECILIA010 al coupon attivo del negozio senza aggiungere prodotti inutili solo per la spedizione gratuita.",
+        "links": [
+          {
+            "label": "YesStyle o Olive Young: spedizione, imposte e resi a confronto",
+            "href": "/it/reviews/yesstyle-o-olive-young-quale-scegliere"
+          }
+        ]
+      },
+      {
+        "heading": "Domande frequenti",
+        "bullets": [
+          "YesStyle conviene? Sì, conviene quando vuoi riunire più marchi K-beauty e J-beauty in un solo ordine, verifichi lo stato di disponibilità di ciascun articolo e abbini il Codice ricompensa CECILIA010 a un coupon promozionale del negozio.",
+          "Qual è il Codice ricompensa di YesStyle e quanto fa risparmiare? È CECILIA010, che applica il 5% extra sul primo acquisto e il 2% sui successivi sugli articoli idonei. Va inserito nel campo Reward Code separato dai coupon del negozio e si somma a un coupon attivo, prezzi in offerta e YS Points.",
+          "Perché un singolo articolo in attesa di stock può ritardare tutto l'ordine su YesStyle? Perché se l'ordine parte in un pacco unico da Hong Kong, l'invio attende il prodotto con i tempi di riassortimento più lunghi, fino a 30 giorni lavorativi. Controlla sempre la disponibilità prima di pagare.",
+          "Come funzionano la spedizione gratuita e il rimborso doganale su YesStyle? Per l'Italia la spedizione Standard è gratuita da US$ 45 in su e costa US$ 5 sotto questa soglia, con IVA al 22% già inclusa nei prezzi. Eventuali dazi ammissibili su ordini sotto US$ 1.000 vengono rimborsati in credito del negozio inviando la ricevuta entro 30 giorni, esclusa l'IVA già assolta al checkout.",
+          "Posso restituire abbigliamento o cosmetici aperti su YesStyle? I resi per ripensamento o cambio taglia richiedono l'RMA entro 14 giorni dalla ricezione con spese di spedizione a carico dell'acquirente, e alcuni capi di abbigliamento non spediscono in tutti i paesi. Cosmetici aperti, integratori e articoli intimi non si possono restituire."
+        ]
+      }
+    ]
+  },
+  {
+    "id": 1454,
+    "slug": "yesstyle-worth-it-ko",
+    "locale": "ko",
+    "translationKey": "yesstyle-worth-it",
+    "title": "YesStyle 살 만할까? K-뷰티 추천 품목과 직구가 유리한 경우",
+    "seoTitle": "YesStyle 살 만할까? K-뷰티, 배송, 리워드 코드",
+    "type": "구매 가이드",
+    "category": "guias-praticos-utilidade",
+    "reviewKind": "guia",
+    "author": {
+      "name": "Cecília Mauad",
+      "slug": "cecilia-mauad",
+      "role": "Em Casa com Cecília",
+      "initials": "CM",
+      "url": "/sobre"
+    },
+    "description": "YesStyle에서 K-뷰티와 J-뷰티를 한 번에 담을 때 유리한 조건, 입고 대기 상품이 전체 배송을 늦추는 이유, 장바구니를 나누는 기준과 리워드 코드 CECILIA010 적용법을 정리했습니다.",
+    "metaDescription": "리워드 코드 CECILIA010으로 YesStyle 첫 구매 5%, 재구매 2% 추가 혜택을 받으세요. 살 만한 뷰티 품목, 출고 기간, 무료배송과 반품 규정을 정리했습니다.",
+    "publishedAt": "2026년 11월 25일",
+    "publishedAtISO": "2026-11-25",
+    "draft": false,
+    "isNew": false,
+    "hideFromPortugueseListings": true,
+    "image": "/images/reviews/yesstyle/yesstyle-vale-a-pena-hero-ko.webp",
+    "imageAlt": "밝은 배경 위의 한국 스킨케어 용기들과 YesStyle 로고, 리워드 코드 CECILIA010이 함께 배치된 YesStyle 구매 가이드 대표 이미지.",
+    "imageFit": "contain",
+    "imageAspect": "landscape",
+    "pros": [],
+    "cons": [],
+    "cta": {
+      "text": "장바구니에서 각 상품의 출고 상태를 확인하고 한국 배송비를 살펴본 뒤 Reward Code 칸에 리워드 코드 CECILIA010을 입력하세요.",
+      "label": "YesStyle로 이동",
+      "url": "https://ystyle.co/rQYQv",
+      "sponsored": true
+    },
+    "coupon": "CECILIA010",
+    "affiliate": "yesstyle",
+    "editorialNote": "공식 페이지 기준 정리이며 직접 구매 후기는 아닙니다. 링크와 리워드 코드 CECILIA010을 통해 제휴 수수료를 받을 수 있습니다.",
+    "relatedArticles": [
+      {
+        "slug": "yesstyle-trust-guide-ko"
+      },
+      {
+        "slug": "yesstyle-shipping-korea-ko"
+      },
+      {
+        "slug": "yesstyle-kbeauty-guide-ko"
+      },
+      {
+        "slug": "yesstyle-reward-code-cecilia010-ko"
+      },
+      {
+        "slug": "yesstyle-vs-stylevana-ko"
+      },
+      {
+        "slug": "yesstyle-vs-olive-young-ko"
+      }
+    ],
+    "decision": {
+      "takeIf": [
+        "여러 K-뷰티와 J-뷰티 브랜드 제품을 한 장바구니에 모아 따로 배송비를 내지 않고 주문하고 싶을 때",
+        "각 상품의 홍콩 창고 출고 기간을 미리 확인하고 확정 도착일 없이 해외 배송을 기다릴 수 있을 때",
+        "무료배송 기준인 US$ 50 이상을 자연스럽게 채우면서 스토어 쿠폰과 리워드 코드 CECILIA010을 함께 적용하려 할 때"
+      ],
+      "skipIf": [
+        "가까운 일정에 맞춰 화장품을 꼭 받아야 해서 창고 재입고 대기와 배송 기간을 더할 여유가 없을 때",
+        "집에서 화장품을 먼저 열어 써 본 뒤 마음에 들지 않으면 반품하고 싶을 때 (개봉한 뷰티 제품은 반품 불가)",
+        "무료배송 기준인 US$ 50보다 적은 단품 하나만 급히 필요해 배송비 US$ 7이 부담될 때"
+      ]
+    },
+    "contentSections": [
+      {
+        "heading": "핵심 요약",
+        "paragraphs": [
+          "네, K-뷰티와 J-뷰티 스킨케어·메이크업 제품을 한 장바구니에 모아 급하지 않게 받아 보려 할 때 YesStyle은 충분히 살 만합니다. 리워드 코드 CECILIA010은 결제 시 스토어 프로모션 쿠폰과 함께 적용할 수 있으며 첫 구매에 5%, 재구매에 2% 추가 혜택을 제공합니다. 아래에서 재고 출고 기간과 장바구니 분리 계산을 확인하세요."
+        ]
+      },
+      {
+        "heading": "YesStyle은 어떤 곳이며 어떻게 운영되나요",
+        "paragraphs": [
+          "YesStyle은 2006년에 설립되어 홍콩에 본사를 둔 온라인 리테일러로, 홍콩증권거래소 상장사인 YesAsia Holdings Limited(2209.HK)가 지배합니다. 모든 주문은 홍콩에 있는 회사 창고에서 출고되어 150개 이상의 국가와 지역으로 발송됩니다.",
+          "코스메틱 부문의 경우, YesStyle은 한국 내 제조사나 공식 인증 유통 파트너로부터 K-뷰티 브랜드를 직접 소싱한다고 안내하고 있으며, 이는 외부 독립 감사를 거친 수치가 아니라 회사의 자체 설명입니다. 기업 정보와 수령 시 확인 사항은 [YesStyle 신뢰할 수 있을까?](/ko/reviews/yesstyle-trust-guide-ko)에서, 국가별 최근 배송 후기 흐름은 [Trustpilot의 YesStyle 평가](/ko/reviews/yesstyle-trustpilot-reviews-ko)에서 살펴볼 수 있습니다."
+        ]
+      },
+      {
+        "heading": "카탈로그에서 살 만한 품목",
+        "paragraphs": [
+          "이 플랫폼의 가장 큰 장점은 여러 브랜드 공식몰마다 배송비를 따로 내지 않고 K-뷰티와 J-뷰티 제품을 한 번에 담을 수 있다는 점입니다. 스킨케어 루틴을 짜거나 자주 쓰던 제품을 보충할 때 세럼, 에센스, 토너, 선크림, 메이크업, 헤어 케어 품목이 주를 이룹니다.",
+          "YesStyle은 COSRX, SKIN1004, Beauty of Joseon, Anua, Abib, Isntree, Etude House 등 400개 이상의 한국 뷰티 브랜드 공식 유통처라고 안내하며, Hada Labo나 Rohto 같은 일본 브랜드도 함께 취급합니다. 장바구니에 담기 전에 각 상품 페이지의 전성분과 용량(ml) 및 버전을 항상 확인하세요."
+        ],
+        "images": [
+          {
+            "src": "/images/reviews/yesstyle/cosrx-advanced-snail-96-essence-yesstyle.webp",
+            "alt": "YesStyle 카탈로그에 등록된 COSRX Advanced Snail 96 Mucin Power Essence 100ml 용기 이미지",
+            "caption": "YesStyle에서 판매하는 K-뷰티 대표 품목 예시인 COSRX Advanced Snail 96 Mucin Power Essence. 사진: YesStyle.",
+            "objectFit": "square"
+          },
+          {
+            "src": "/images/reviews/yesstyle/skin1004-madagascar-centella-ampoule-yesstyle.webp",
+            "alt": "YesStyle 카탈로그에 올라온 스포이드 타입 SKIN1004 Madagascar Centella Ampoule 이미지",
+            "caption": "YesStyle 한국 스킨케어 셀렉션에 포함된 SKIN1004 Madagascar Centella Ampoule. 사진: YesStyle.",
+            "objectFit": "square"
+          }
+        ],
+        "links": [
+          {
+            "label": "K-뷰티란 무엇인가, 세계적 인기와 구매처 안내",
+            "href": "/ko/reviews/yesstyle-kbeauty-guide-ko"
+          }
+        ]
+      },
+      {
+        "heading": "재고 상태와 창고 출고 기간",
+        "paragraphs": [
+          "상품 옵션 옆에 표시되는 재고 상태는 집 문 앞 도착일이 아니라 홍콩 창고에서 출발하는 시점을 뜻합니다. 전체 수령 기간은 각 상품의 준비 기간에 목적지 국가까지의 배송 기간을 더한 값이며, 둘 다 홍콩 시간(GMT+8) 기준 영업일로 계산됩니다."
+        ],
+        "bullets": [
+          "**재고 있음 (In-Stock, 영업일 1~3일):** 창고에 물량이 준비되어 있어 빠르게 출고됩니다.",
+          "**입고 대기 (Awaiting Stock: 3-5 days):** 지역의 YesStyle 창고에서 이동해 영업일 3~5일 안에 출고됩니다.",
+          "**입고 대기 (Awaiting Stock: 7, 7-14, 21 또는 30일):** 결제 이후 공급업체에 물량을 발주해 표시된 영업일만큼 기다린 뒤 출고됩니다."
+        ],
+        "postParagraphs": [
+          "장바구니에 재고 있음 상품과 출고가 늦은 상품을 함께 담으면, 한 상자로 묶여 발송될 때 가장 느린 상품이 준비될 때까지 출고가 멈춥니다. 재고 상황이나 운송사·세관 규정에 따라 YesStyle이 주문을 여러 소포로 나누어 발송해 날짜가 다르게 도착할 수도 있습니다."
+        ],
+        "image": {
+          "src": "/images/reviews/yesstyle/yesstyle-prazo-disponibilidade-mais-envio.webp",
+          "alt": "YesStyle 전체 배송 기간이 창고 준비 시간과 국가별 운송 시간의 합으로 계산됨을 나타내는 안내 그림",
+          "caption": "전체 소요 기간은 상품별 창고 준비 기간과 목적지까지의 배송 기간을 합한 것입니다.",
+          "objectFit": "contain",
+          "aspectRatio": 1.7778
+        }
+      },
+      {
+        "heading": "느린 상품 유지, 제외 또는 분리: 두 장바구니 계산",
+        "paragraphs": [
+          "출고가 늦은 상품을 그대로 둘지 뺄지는 한국 무료배송 기준과 급한 정도를 견주어 결정해야 합니다. YesStyle의 한국 배송표에는 Express 배송(영업일 3~5일)이 올라 있으며, US$ 50 이상이면 무료배송, US$ 50 미만이면 배송비 US$ 7이 부과됩니다.",
+          "재고 있음 상품 US$ 65에 영업일 7~14일 대기 상품 US$ 20을 더한 총 US$ 85 혼합 장바구니를 예로 들어, 한 번에 받기·대기 상품 빼기·주문 나누기의 배송비와 출고 기간 차이를 비교해 보았습니다."
+        ],
+        "comparisonTable": {
+          "caption": "2026년 11월 25일 기준 확인된 한국 배송 규정에 따른 혼합 장바구니 시뮬레이션 (재고 US$ 65 + 7~14일 대기 US$ 20).",
+          "headers": [
+            "시나리오",
+            "창고 출고 및 예상 총기간",
+            "한국 Express 배송비 (US$ 50 이상 무료)",
+            "추천하는 상황"
+          ],
+          "rows": [
+            [
+              "한 번에 묶음 주문 (US$ 85)",
+              "합배송 시 영업일 7~14일 출고 (전체 영업일 10~19일 소요)",
+              "무료 (US$ 50 이상)",
+              "일정이 급하지 않고 추가 배송비를 전혀 내지 않으려 할 때"
+            ],
+            [
+              "대기 상품 제외 (US$ 65)",
+              "영업일 1~3일 출고 (전체 영업일 4~8일 소요)",
+              "무료 (계속 US$ 50 이상)",
+              "재고 있는 제품만 추가 배송비 없이 가장 빠르게 받고 싶을 때"
+            ],
+            [
+              "2개 주문으로 분리 (US$ 65 + US$ 20)",
+              "1차는 영업일 1~3일 출고, 2차는 영업일 7~14일 후 출고",
+              "총 US$ 7 (1차 무료, 2차는 US$ 50 미만으로 US$ 7)",
+              "대기 상품도 사되 재고 있는 제품의 출고까지 늦추고 싶지 않을 때"
+            ]
+          ]
+        },
+        "postParagraphs": [
+          "세금과 관세의 경우, YesStyle에는 한국용 별도 세금 안내 페이지가 없고 결제 화면에서 한국 기준 세액도 게시하거나 미리 징수하지 않습니다. 따라서 수령 시 세관 규정에 따라 관세나 부가세가 부과될 수 있음을 염두에 두고 주문해야 합니다.",
+          "쿠폰 적용 전·배송비 제외 기준 US$ 1,000 미만 주문에 대해 배송 시 세관 관련 세금이나 수수료가 부과되면, 영수증 날짜로부터 30일 이내에 날짜가 적힌 납부 영수증을 고객센터 이메일로 보내 YesStyle 스토어 크레딧으로 환급을 신청할 수 있습니다. 결제 시 이미 부과된 세금이나 우체국·택배사의 보관료 및 취급 수수료는 환급 대상에서 제외됩니다."
+        ],
+        "links": [
+          {
+            "label": "YesStyle 한국 배송: 배송 기간, 배송비, 관세",
+            "href": "/ko/reviews/yesstyle-shipping-korea-ko"
+          },
+          {
+            "label": "YesStyle vs Stylevana: 반품, 무료 배송, 리워드 코드 비교",
+            "href": "/ko/reviews/yesstyle-vs-stylevana-ko"
+          }
+        ]
+      },
+      {
+        "heading": "의류, 액세서리와 반품 규정",
+        "paragraphs": [
+          "YesStyle이 센티미터 치수표와 함께 의류 및 액세서리도 판매하지만, 배송 국가를 선택하면 일부 의류 상품은 선택한 주소로 배송 불가가 표시될 수 있습니다. 무료배송 금액을 채우려고 의류나 잡화를 넣기 전에 반드시 각 상품 페이지에서 배송 가능 여부를 확인하세요.",
+          "단순 변심이나 사이즈 교환 반품은 수령 후 14일 이내에 RMA 번호를 요청해 발급 후 30일 이내에 발송해야 하며, 홍콩 사무소 또는 미국·캐나다 반품 파트너에게 보내는 반품 배송비는 구매자 부담입니다. 개봉한 뷰티 제품, 건강보조식품, 특가 행사 상품(Buy 1 Get 1 Free, Clearance, Lucky Bundle, Deals)과 속옷 등 밀착 품목은 반품이 불가하며, 피부 트러블 반응은 환불 사유로 인정되지 않습니다."
+        ]
+      },
+      {
+        "heading": "리워드 코드 CECILIA010, 스토어 쿠폰과 YS Points",
+        "paragraphs": [
+          "YesStyle 공식 약관에 따르면 주문당 Coupon Code 칸에는 프로모션 쿠폰을 1개만 입력할 수 있지만, 이 쿠폰은 세일 가격, 별도 입력 칸의 리워드 코드 CECILIA010, 그리고 결제 단계의 YS Points와 함께 중복 적용됩니다.",
+          "리워드 코드 CECILIA010은 웹사이트(Reward Code 칸)와 앱(Enter Code 메뉴 안의 Influencer / Rewards Code 칸) 모두에서 대상 품목에 첫 구매 5% 추가, 재구매 2% 추가 혜택을 줍니다. 일부 브랜드나 특가 품목은 적용 대상에서 제외될 수 있으므로 결제 전 장바구니에서 두 항목이 모두 반영되었는지 확인하세요. 현재 유효한 스토어 프로모션 쿠폰은 [YesStyle 쿠폰 페이지](/ko/coupons/yesstyle)에서 모아 볼 수 있습니다."
+        ],
+        "image": {
+          "src": "/images/reviews/yesstyle/yesstyle-app-codigo-checkout-2810.webp",
+          "alt": "Coupon Code 칸과 Influencer / Rewards Code 칸이 분리되어 있고 리워드 코드 CECILIA010이 입력된 YesStyle 앱 화면 세 컷",
+          "caption": "YesStyle 앱에서 스토어 쿠폰 칸과 분리된 전용 칸에 리워드 코드 CECILIA010을 입력하는 모습.",
+          "objectFit": "contain",
+          "aspectRatio": 1.4382
+        },
+        "links": [
+          {
+            "label": "리워드 코드 CECILIA010 사용 방법 단계별 안내",
+            "href": "/ko/reviews/yesstyle-reward-code-cecilia010-ko"
+          },
+          {
+            "label": "오늘의 YesStyle 쿠폰과 리워드 코드 CECILIA010 보기",
+            "href": "/ko/coupons/yesstyle"
+          }
+        ]
+      },
+      {
+        "heading": "누구에게 YesStyle이 맞을까: 프로필별 결론",
+        "paragraphs": [
+          "한국과 일본 스킨케어·메이크업 제품을 한 번에 모아 주문하면서 홍콩 창고 출고 기간을 미리 챙길 수 있다면, YesStyle은 넓은 브랜드 폭과 함께 세일가, 스토어 쿠폰, 리워드 코드 CECILIA010을 겹쳐 비용을 줄일 수 있는 선택지입니다. 반면 당장 며칠 안에 수령해야 하거나 개봉 후 무료 반품이 필요하다면 국내 판매처를 비교하는 편이 안전합니다."
+        ],
+        "bullets": [
+          "**추천 대상:** 재고 있음 상태의 K-뷰티·J-뷰티 상품을 한데 모아 불필요한 물건 없이 US$ 50 무료배송 기준을 채우고, 여유를 두고 직구하는 분.",
+          "**비추천 대상:** 정해진 날짜에 맞춰 급히 받아야 하는 분, US$ 50 미만 소액 단품만 필요한 분, 개봉 후 피부에 맞지 않으면 반품하려는 분."
+        ],
+        "emphasis": "Cecília의 한 줄 결론: 재고 있음 상품 위주로 골라 한 상자 전체가 묶이지 않게 관리하고, 무리하게 금액을 채우기보다 스토어 쿠폰에 리워드 코드 CECILIA010을 더해 쓸 때 YesStyle의 장점이 가장 잘 살아납니다.",
+        "links": [
+          {
+            "label": "YesStyle vs Olive Young: 배송, 세금, 반품 비교",
+            "href": "/ko/reviews/yesstyle-vs-olive-young-ko"
+          }
+        ]
+      },
+      {
+        "heading": "자주 묻는 질문",
+        "bullets": [
+          "YesStyle은 살 만한가요? 네, 여러 K-뷰티와 J-뷰티 브랜드를 한 주문으로 모으고 상품별 창고 출고 기간을 미리 확인하며, 스토어 쿠폰과 리워드 코드 CECILIA010을 함께 활용할 때 유리합니다.",
+          "YesStyle 리워드 코드가 무엇이고 얼마나 아낄 수 있나요? 리워드 코드 CECILIA010을 사용하면 대상 상품에 첫 구매 5% 추가, 재구매 2% 추가 혜택이 적용됩니다. 쿠폰 칸과 분리된 Reward Code 칸에 입력하며 스토어 쿠폰 1장, 세일가, YS Points와 함께 쓸 수 있습니다.",
+          "왜 재입고 대기 상품 하나 때문에 YesStyle 전체 주문이 늦어지나요? 합배송으로 홍콩 창고에서 출고될 때는 재입고 기간이 가장 긴 상품(최대 영업일 30일)이 준비될 때까지 기다리기 때문입니다. 결제 전에 각 상품의 재고 표시를 꼭 확인하세요.",
+          "YesStyle 무료배송 기준과 관세 환급은 어떻게 되나요? 한국은 Express 배송 기준 US$ 50 이상 무료배송이며 미만은 US$ 7입니다. 쿠폰 전·배송비 제외 US$ 1,000 미만 주문에 세관 관련 부과금이 나오면 영수증 날짜로부터 30일 이내에 증빙을 제출해 스토어 크레딧으로 환급을 신청할 수 있으며, 우편 보관료나 결제 시 징수된 세금은 제외됩니다.",
+          "YesStyle에서 의류나 개봉한 화장품도 반품할 수 있나요? 단순 변심 반품은 수령 후 14일 이내에 RMA를 신청해야 하며 반품 배송비는 구매자 부담이고, 일부 의류는 배송지에 따라 발송이 불가할 수 있습니다. 개봉한 화장품, 건강보조식품, 밀착 품목은 반품할 수 없습니다."
+        ]
+      }
+    ]
+  },
+  {
+    "id": 1455,
+    "slug": "yesstyle-worth-it-ja",
+    "locale": "ja",
+    "translationKey": "yesstyle-worth-it",
+    "title": "YesStyleは買う価値ある？アジアコスメで狙うべき商品と買い時の判断基準",
+    "seoTitle": "YesStyleは買う価値ある？K-beauty・配送・リワードコード",
+    "type": "購入ガイド",
+    "category": "guias-praticos-utilidade",
+    "reviewKind": "guia",
+    "author": {
+      "name": "Cecília Mauad",
+      "slug": "cecilia-mauad",
+      "role": "Em Casa com Cecília",
+      "initials": "CM",
+      "url": "/sobre"
+    },
+    "description": "YesStyleでK-beautyやJ-beautyをまとめ買いするメリット、入荷待ち商品が発送全体を遅らせる仕組み、注文を分ける基準とリワードコードCECILIA010の併用方法をまとめました。",
+    "metaDescription": "リワードコードCECILIA010でYesStyleの初回購入が5%追加、2回目以降は2%追加のお得な買い物に。選ぶべきアジアコスメ、出荷日数、送料無料条件と返品ルールを解説します。",
+    "publishedAt": "2026年11月25日",
+    "publishedAtISO": "2026-11-25",
+    "draft": false,
+    "isNew": false,
+    "hideFromPortugueseListings": true,
+    "image": "/images/reviews/yesstyle/yesstyle-vale-a-pena-hero-ja.webp",
+    "imageAlt": "明るい背景に韓国スキンケアのボトル、YesStyleのロゴ、リワードコードCECILIA010を配置した購入ガイドのカバー画像。",
+    "imageFit": "contain",
+    "imageAspect": "landscape",
+    "pros": [],
+    "cons": [],
+    "cta": {
+      "text": "カート内で各商品の出荷ステータスと日本向け送料を確認し、Reward Code欄にリワードコードCECILIA010を入力してください。",
+      "label": "YesStyleへ進む",
+      "url": "https://ystyle.co/rQYQv",
+      "sponsored": true
+    },
+    "coupon": "CECILIA010",
+    "affiliate": "yesstyle",
+    "editorialNote": "公式情報に基づく解説で、個人の購入レビューではありません。リンクおよびリワードコードCECILIA010を通じて報酬を受け取る場合があります。",
+    "relatedArticles": [
+      {
+        "slug": "yesstyle-trust-guide-ja"
+      },
+      {
+        "slug": "yesstyle-shipping-japan-ja"
+      },
+      {
+        "slug": "yesstyle-kbeauty-guide-ja"
+      },
+      {
+        "slug": "yesstyle-reward-code-cecilia010-ja"
+      },
+      {
+        "slug": "yesstyle-vs-stylevana-ja"
+      },
+      {
+        "slug": "yesstyle-vs-olive-young-ja"
+      }
+    ],
+    "decision": {
+      "takeIf": [
+        "複数のK-beautyとJ-beautyブランドを1つのカートにまとめ、ショップごとの送料を払わずに買い揃えたいとき",
+        "各商品の香港倉庫からの出荷目安を事前に確認し、厳密な到着指定なしに海外配送を待てるとき",
+        "日本向けの送料無料ラインであるUS$50以上を無理なく満たしつつ、ストアクーポンとリワードコードCECILIA010を併用したいとき"
+      ],
+      "skipIf": [
+        "近い予定に合わせてコスメをすぐ使う必要があり、入荷待ち日数と輸送日数の合計を待つ余裕がないとき",
+        "自宅で化粧品を開封して試してから、合わなければ返品したいと考えているとき（開封済みコスメは返品不可）",
+        "US$50未満の単品1点だけを急いで買いたく、US$5の送料負担で割高感が出てしまうとき"
+      ]
+    },
+    "contentSections": [
+      {
+        "heading": "まずは結論",
+        "paragraphs": [
+          "はい、K-beautyやJ-beautyのスキンケア・メイクアップアイテムを1回の注文でまとめて揃えたいとき、急ぎの配送でなければYesStyleは買う価値があります。リワードコードCECILIA010はチェックアウト時にストアクーポンと併用でき、初回購入で5%オフ、2回目以降は2%オフが追加されます。以下で在庫ごとの出荷日数と注文を分ける計算を確認しましょう。"
+        ]
+      },
+      {
+        "heading": "YesStyleの運営会社と仕組み",
+        "paragraphs": [
+          "YesStyleは2006年創業、香港に本社を置くオンラインストアで、香港証券取引所に上場しているYesAsia Holdings Limited（2209.HK）が運営母体です。すべての注文は香港にある同社の倉庫から150以上の国と地域へ発送されます。",
+          "コスメカテゴリについては、韓国のメーカーまたは正規代理店からK-beautyブランドを直接仕入れているとストア側が表明していますが、第三者機関による独立監査を伴うものではなく自己申告です。企業データや到着時に確認すべきポイントは[YesStyleは安全？](/ja/reviews/yesstyle-trust-guide-ja)に、各国の最近の配送評価は[YesStyleのTrustpilot評価](/ja/reviews/yesstyle-trustpilot-reviews-ja)にまとめています。"
+        ]
+      },
+      {
+        "heading": "カタログで狙うべきアイテム",
+        "paragraphs": [
+          "YesStyleの強みは、ブランドごとの公式サイトで別々に送料を払う代わりに、K-beautyとJ-beautyの定番品を1つのカートにまとめられる点にあります。普段のスキンケアを整えたり愛用品をリピートしたりするときに、美容液、エッセンス、化粧水、日焼け止め、メイク、ヘアケアが特に選ばれています。",
+          "ストアの案内によれば、COSRX、SKIN1004、Beauty of Joseon、Anua、Abib、Isntree、Etude Houseなど400以上の韓国ブランドを取り扱うほか、肌ラボ（Hada Labo）やロート製薬など日本のブランドも扱っています。購入前には商品ページで全成分、容量（ml）、バージョン表示を必ず確認してください。"
+        ],
+        "images": [
+          {
+            "src": "/images/reviews/yesstyle/cosrx-advanced-snail-96-essence-yesstyle.webp",
+            "alt": "YesStyleのカタログに掲載されたCOSRX Advanced Snail 96 Mucin Power Essence 100mlボトル",
+            "caption": "YesStyleで取り扱われているK-beautyアイテムの一例、COSRX Advanced Snail 96 Mucin Power Essence。写真：YesStyle。",
+            "objectFit": "square"
+          },
+          {
+            "src": "/images/reviews/yesstyle/skin1004-madagascar-centella-ampoule-yesstyle.webp",
+            "alt": "YesStyleのカタログに掲載されたスポイト付きボトルのSKIN1004 Madagascar Centella Ampoule",
+            "caption": "韓国スキンケアのラインアップに含まれるSKIN1004 Madagascar Centella Ampoule。写真：YesStyle。",
+            "objectFit": "square"
+          }
+        ],
+        "links": [
+          {
+            "label": "K-Beautyとは何か、世界的な人気と購入方法のガイド",
+            "href": "/ja/reviews/yesstyle-kbeauty-guide-ja"
+          }
+        ]
+      },
+      {
+        "heading": "在庫状況と倉庫からの出荷日数",
+        "paragraphs": [
+          "商品バリエーションの横に表示される在庫ステータスは、自宅に届く日ではなく香港の倉庫を出るまでの日数を示しています。合計の待ち時間は商品の出荷準備日数と配送日数を足したもので、いずれも香港時間（GMT+8）の営業日で数えます。"
+        ],
+        "bullets": [
+          "**In-Stock（在庫あり・1〜3営業日）：** 倉庫に在庫が確保されており、速やかに出荷されます。",
+          "**Awaiting Stock: 3-5 days（入荷待ち・3〜5日）：** ストアの地域倉庫から取り寄せたうえで3〜5営業日で出荷されます。",
+          "**Awaiting Stock: 7、7-14、21、30 days（入荷待ち）：** 支払い後にサプライヤーへ手配するため、表示された営業日数だけ出荷を待ちます。"
+        ],
+        "postParagraphs": [
+          "在庫ありの商品と入荷待ちの商品を混ぜて注文すると、1つの荷物にまとめて出荷される場合は一番遅い商品がそろうまで発送が止まります。在庫や配送業者、通関条件によっては、YesStyle側の判断で注文が複数便に分かれて別々の日に届くこともあります。"
+        ],
+        "image": {
+          "src": "/images/reviews/yesstyle/yesstyle-prazo-disponibilidade-mais-envio.webp",
+          "alt": "YesStyleの合計配送日数が商品の在庫準備日数と配送日数の合計であることを示す図解",
+          "caption": "合計の到着目安は、商品ごとの倉庫準備日数と日本までの輸送日数を合算したものです。",
+          "objectFit": "contain",
+          "aspectRatio": 1.7778
+        }
+      },
+      {
+        "heading": "遅い商品を残す・外す・分ける：2パターンの送料計算",
+        "paragraphs": [
+          "入荷待ち商品をカートに残すかどうかは、送料無料の最低金額と受け取りたい時期で判断します。日本向けの送料表にはExpress便（4〜5営業日）が掲載されており、US$50以上で送料無料、US$50未満では送料US$5がかかります。",
+          "在庫あり商品US$65と出荷まで7〜14営業日かかる商品US$20を組み合わせた合計US$85のカートを例に、まとめて注文する・遅い商品を外す・注文を2つに分ける場合の日数と送料を比べました。"
+        ],
+        "comparisonTable": {
+          "caption": "2026年11月25日確認の日本向け配送ルールにもとづく試算（在庫ありUS$65 + 7〜14営業日待ちUS$20）。",
+          "headers": [
+            "パターン",
+            "出荷と到着までの合計目安",
+            "日本向け送料（US$50以上で無料）",
+            "向いている選び方"
+          ],
+          "rows": [
+            [
+              "1つの注文にまとめる（US$85）",
+              "まとめ発送なら7〜14営業日で出荷（合計11〜19営業日）",
+              "無料（US$50以上）",
+              "急ぐ予定がなく、送料を一切かけたくないとき"
+            ],
+            [
+              "遅い商品を外す（US$65）",
+              "1〜3営業日で出荷（合計5〜8営業日）",
+              "無料（US$50以上を維持）",
+              "在庫ありの製品だけを追加送料なしで早く受け取りたいとき"
+            ],
+            [
+              "2つの注文に分ける（US$65 + US$20）",
+              "1件目は1〜3営業日で出荷、2件目は7〜14営業日後に待機",
+              "合計US$5（1件目は無料、2件目はUS$50未満のためUS$5）",
+              "遅い商品も確保しつつ、他の商品の到着を待たせたくないとき"
+            ]
+          ]
+        },
+        "postParagraphs": [
+          "税金と関税については、YesStyleに日本向けの税金案内ページがなく、日本向けの税額も事前表示・事前徴収されません。到着時に日本の通関判断で関税や消費税が請求される可能性を念頭に置いておく必要があります。",
+          "クーポン適用前・送料抜きの注文金額がUS$1,000未満で、配達時に関税関連の税金や手数料を支払った場合は、支払い日付入りの領収書を30日以内にカスタマーサービスへメールで送ることでYesStyle Creditによる返金を申請できます。チェックアウト時に徴収済みの税金や、郵便局・配送会社の保管料や受取手数料は返金対象外です。"
+        ],
+        "links": [
+          {
+            "label": "YesStyleの日本への配送：日数・送料・関税",
+            "href": "/ja/reviews/yesstyle-shipping-japan-ja"
+          },
+          {
+            "label": "YesStyleとStylevanaを比較：返品・送料無料の条件・リワードコード",
+            "href": "/ja/reviews/yesstyle-vs-stylevana-ja"
+          }
+        ]
+      },
+      {
+        "heading": "衣類・アクセサリーと返品ルール",
+        "paragraphs": [
+          "YesStyleではセンチメートル表記のサイズ表付きでファッションやアクセサリーも販売されていますが、配送先の国を選ぶと一部の衣料品で日本向け配送不可と表示されることがあります。送料無料の金額に届かせるために服などを追加する前に、各商品ページで配送可否を必ず確認してください。",
+          "自己都合の返品やサイズ交換は、受取から14日以内にRMA番号を申請し、承認後30日以内に発送する必要があります。香港オフィスまたは米国・カナダの返品パートナー宛ての返送料は購入者負担です。また、開封済みの美容製品、サプリメント、特別セール品（Buy 1 Get 1 Free、Clearance、Lucky Bundle、Deals）、インナー類は返品できず、肌トラブルによる返金も対象外です。"
+        ]
+      },
+      {
+        "heading": "リワードコードCECILIA010、ストアクーポン、YS Points",
+        "paragraphs": [
+          "YesStyleの公式規約では、1回の注文につきCoupon Code欄に入力できるプロモーションクーポンは1つまでですが、セール価格、別枠のリワードコードCECILIA010、および支払い時のYS Pointsと併用できます。",
+          "リワードコードCECILIA010は、ウェブサイト（Reward Code欄）とアプリ（Enter Code内のInfluencer / Rewards Code欄）のどちらでも、対象商品に対して初回購入で5%追加、2回目以降は2%追加のオフが適用されます。一部ブランドやセール品は対象外となることがあるため、決済前にカートで両方の値引き行が反映されているか確認してください。現在使えるストアクーポンは[YesStyleクーポンページ](/ja/coupons/yesstyle)にまとめています。"
+        ],
+        "image": {
+          "src": "/images/reviews/yesstyle/yesstyle-app-codigo-checkout-2810.webp",
+          "alt": "Coupon Code欄とInfluencer / Rewards Code欄が分かれており、リワードコードCECILIA010が適用されたYesStyleアプリの3画面",
+          "caption": "YesStyleアプリでストアクーポン欄とは別の専用欄にリワードコードCECILIA010を入力した様子。",
+          "objectFit": "contain",
+          "aspectRatio": 1.4382
+        },
+        "links": [
+          {
+            "label": "リワードコードCECILIA010の使い方をステップ別に解説",
+            "href": "/ja/reviews/yesstyle-reward-code-cecilia010-ja"
+          },
+          {
+            "label": "最新のYesStyleクーポンとリワードコードCECILIA010を見る",
+            "href": "/ja/coupons/yesstyle"
+          }
+        ]
+      },
+      {
+        "heading": "YesStyleが向いている人：タイプ別の結論",
+        "paragraphs": [
+          "韓国や日本のコスメを1つの注文でまとめ買いでき、香港倉庫からの出荷目安を確認しながら待てるなら、YesStyleは品揃えの広さに加え、セール価格、ストアクーポン、リワードコードCECILIA010の組み合わせで負担を抑えやすいストアです。一方、数日以内に手元に欲しい場合や開封後の無料返品を重視する場合は国内ショップと比べるのが安心です。"
+        ],
+        "bullets": [
+          "**向いている人：** 在庫あり（In-Stock）のK-beauty・J-beautyアイテムをまとめて注文し、無駄な買い足しなしでUS$50以上の送料無料ラインを自然に超えられるとき。",
+          "**向かない人：** 決まった期日までに急ぎで必要なとき、US$50未満の少額アイテム1点だけ欲しいとき、開封して試した後に返品できることを前提に買いたいとき。"
+        ],
+        "emphasis": "Cecíliaのまとめ：在庫あり商品に絞って箱全体の発送遅れを防ぎ、送料無料のために不要な品を増やす代わりに、ストアクーポンとリワードコードCECILIA010を併用するのがYesStyleを賢く使うコツです。",
+        "links": [
+          {
+            "label": "YesStyleとOlive Youngを比較：送料無料・税金・返品",
+            "href": "/ja/reviews/yesstyle-vs-olive-young-ja"
+          }
+        ]
+      },
+      {
+        "heading": "よくある質問",
+        "bullets": [
+          "YesStyleは本当に買う価値がありますか？はい、複数のK-beautyやJ-beautyブランドをまとめて購入し、商品ごとの出荷ステータスを確認したうえで、ストアクーポンとリワードコードCECILIA010を組み合わせて使うならメリットが大きいです。",
+          "YesStyleのリワードコードは何で、いくらお得になりますか？リワードコードCECILIA010を入力すると、対象商品で初回購入が5%追加、2回目以降は2%追加のオフになります。通常のクーポン欄とは別のReward Code欄に入れ、ストアのクーポン1つ、セール価格、YS Pointsと併用できます。",
+          "入荷待ちの商品が1つあるだけで注文全体が遅れるのはなぜですか？1つの荷物でまとめて出荷される場合、香港倉庫からの発送は最も手配に時間がかかる商品（最大30営業日）がそろうまで待つためです。決済前に必ず各商品の在庫状況を確認してください。",
+          "日本向けの送料無料条件と関税返金はどうなっていますか？日本へはExpress便でUS$50以上が送料無料、US$50未満は送料US$5です。クーポン前・送料抜きでUS$1,000未満の注文に関税等がかかった場合、領収書の日付から30日以内に提出すればYesStyle Creditで返金申請できますが、郵便保管料や購入時に徴収済みの税金は対象外です。",
+          "YesStyleで衣類や開封済みの化粧品は返品できますか？自己都合返品は受取後14日以内にRMAを申請する必要があり、返送料は自己負担です。また一部の衣類は配送先によって発送対象外となります。開封したコスメ、サプリメント、インナー類は返品できません。"
+        ]
+      }
+    ]
+  },
+  {
+    "id": 1456,
+    "slug": "yesstyle-worth-it-zh-hant",
+    "locale": "zh-hant",
+    "translationKey": "yesstyle-worth-it",
+    "title": "YesStyle 值得買嗎？亞洲美妝選購重點與下單時機",
+    "seoTitle": "YesStyle 值得買嗎？韓妝、運送與獎勵碼指南",
+    "type": "購買指南",
+    "category": "guias-praticos-utilidade",
+    "reviewKind": "guia",
+    "author": {
+      "name": "Cecília Mauad",
+      "slug": "cecilia-mauad",
+      "role": "Em Casa com Cecília",
+      "initials": "CM",
+      "url": "/sobre"
+    },
+    "description": "整理 YesStyle 買韓系與日系美妝的適合族群、備貨較久的商品如何卡住整張訂單、何時該拆單以及如何疊加獎勵碼 CECILIA010。",
+    "metaDescription": "結帳填入獎勵碼 CECILIA010，在 YesStyle 首購額外享 5% 折扣，回購享 2%。一次掌握亞洲美妝選購、倉庫備貨天數、免運門檻與退貨規定。",
+    "publishedAt": "2026年11月25日",
+    "publishedAtISO": "2026-11-25",
+    "draft": false,
+    "isNew": false,
+    "hideFromPortugueseListings": true,
+    "image": "/images/reviews/yesstyle/yesstyle-vale-a-pena-hero-zh-hant.webp",
+    "imageAlt": "淺色背景上擺放韓系保養品瓶罐、YesStyle 標誌與獎勵碼 CECILIA010 的購買指南封面圖。",
+    "imageFit": "contain",
+    "imageAspect": "landscape",
+    "pros": [],
+    "cons": [],
+    "cta": {
+      "text": "在購物車核對每件商品的出貨狀態，確認寄往你所在地的運費後，於 Reward Code 欄位貼上獎勵碼 CECILIA010。",
+      "label": "前往 YesStyle",
+      "url": "https://ystyle.co/rQYQv",
+      "sponsored": true
+    },
+    "coupon": "CECILIA010",
+    "affiliate": "yesstyle",
+    "editorialNote": "依據官方頁面資料整理，非個人實購評測。我們可能透過連結與獎勵碼 CECILIA010 獲得聯盟佣金。",
+    "relatedArticles": [
+      {
+        "slug": "yesstyle-trust-guide-zh-hant"
+      },
+      {
+        "slug": "yesstyle-shipping-taiwan-hong-kong-zh-hant"
+      },
+      {
+        "slug": "yesstyle-kbeauty-guide-zh-hant"
+      },
+      {
+        "slug": "yesstyle-reward-code-cecilia010-zh-hant"
+      },
+      {
+        "slug": "yesstyle-vs-stylevana-zh-hant"
+      },
+      {
+        "slug": "yesstyle-vs-olive-young-zh-hant"
+      }
+    ],
+    "decision": {
+      "takeIf": [
+        "你想把多個韓妝與日妝品牌放進同一個購物車一次結帳，省去分開向不同官網購買的多筆運費",
+        "你會在結帳前逐一確認商品從香港倉庫寄出的備貨天數，並且能接受沒有固定到貨日的跨境運送",
+        "你能自然湊滿台灣 US$50 或香港澳門 US$35 免運門檻，並將商店優惠券與獎勵碼 CECILIA010 疊加使用"
+      ],
+      "skipIf": [
+        "你需要在近期特定日期前收到美妝品，沒有餘裕把倉庫調貨等待時間加上國際運送天數",
+        "你想在家先拆開試用保養品或彩妝再決定要不要退回，因為已拆封的美妝產品無法退貨",
+        "你只需要急買單一件低於免運門檻的小商品，加計運費後幾乎抵銷掉折扣空間"
+      ]
+    },
+    "contentSections": [
+      {
+        "heading": "快速解答",
+        "paragraphs": [
+          "值得，只要你想把韓系 K-beauty 與日系 J-beauty 保養彩妝放進同一筆訂單，且不急著馬上收貨，YesStyle 就很有優勢。結帳時填入獎勵碼 CECILIA010 可與商店優惠券疊加，首購額外享 5%、回購享 2%。下方可進一步查看備貨天數與拆單試算。"
+        ]
+      },
+      {
+        "heading": "YesStyle 是誰與如何運作",
+        "paragraphs": [
+          "YesStyle 是總部位於香港的線上零售平台，成立於 2006 年，由在香港交易所上市的 YesAsia Holdings Limited（2209.HK）控股。所有訂單皆由位於香港的倉庫出貨，配送至全球超過 150 個國家與地區。",
+          "在美妝品項方面，商店聲明直接向韓國原廠或授權經銷商採購 K-beauty 品牌，但這屬於品牌方的自我聲明，並無獨立第三方外部稽核報告。如果想深入查看公司背景與收貨時的核對項目，可閱讀[YesStyle 值得信賴嗎？](/zh-hant/reviews/yesstyle-trust-guide-zh-hant)；想看各國買家近期的配送評價分布，請見[YesStyle 的 Trustpilot 評價](/zh-hant/reviews/yesstyle-trustpilot-reviews-zh-hant)。"
+        ]
+      },
+      {
+        "heading": "目錄裡哪些品項最值得買",
+        "paragraphs": [
+          "平台最大的價值是將韓系與日系美妝品牌集中到同一個購物車，不必為了湊齊保養步驟而在好幾個網站各自付國際運費。消費者最常選購的品項包含精華液、保濕精華水、化妝水、防曬、彩妝與護髮產品。",
+          "商店表示自己為超過 400 個韓國美妝品牌的授權經銷商，包括 COSRX、SKIN1004、Beauty of Joseon、Anua、Abib、Isntree 與 Etude House，同時也販售 Hada Labo 肌研、Rohto 樂敦等日本品牌。加入購物車前，務必在每件商品頁仔細核對成分表、毫升容量與版本規格。"
+        ],
+        "images": [
+          {
+            "src": "/images/reviews/yesstyle/cosrx-advanced-snail-96-essence-yesstyle.webp",
+            "alt": "YesStyle 目錄中的 COSRX Advanced Snail 96 Mucin Power Essence 100 ml 瓶裝產品圖",
+            "caption": "YesStyle 販售的韓妝代表品項之一：COSRX Advanced Snail 96 Mucin Power Essence。圖片：YesStyle。",
+            "objectFit": "square"
+          },
+          {
+            "src": "/images/reviews/yesstyle/skin1004-madagascar-centella-ampoule-yesstyle.webp",
+            "alt": "YesStyle 目錄中呈現的滴管瓶裝 SKIN1004 Madagascar Centella Ampoule",
+            "caption": "商店韓系保養專區收錄的 SKIN1004 Madagascar Centella Ampoule。圖片：YesStyle。",
+            "objectFit": "square"
+          }
+        ],
+        "links": [
+          {
+            "label": "K-Beauty 韓妝：什麼是韓國美妝以及哪裡買得到",
+            "href": "/zh-hant/reviews/yesstyle-kbeauty-guide-zh-hant"
+          }
+        ]
+      },
+      {
+        "heading": "庫存狀態與倉庫出貨時間",
+        "paragraphs": [
+          "商品版本旁顯示的備貨天數，代表的是貨品從 YesStyle 香港倉庫寄出的時間，而不是送達你手中的日期。總等待時間等於商品備貨天數加上寄往目的地的運送天數，兩者皆以香港時間（GMT+8）的工作天計算。"
+        ],
+        "bullets": [
+          "**In-Stock（有庫存，1 至 3 個工作天）：** 倉庫已有現貨，通常能迅速安排寄出。",
+          "**Awaiting Stock: 3-5 days（待補貨，3 至 5 天）：** 貨品需先從 YesStyle 區域倉庫調度，於 3 至 5 個工作天內寄出。",
+          "**Awaiting Stock: 7、7-14、21 或 30 天（待補貨）：** 商店在收到你的付款後才向供應商訂貨，出貨會等待相應的工作天數。"
+        ],
+        "postParagraphs": [
+          "如果購物車同時混放有庫存商品與等待期長的品項，當訂單以單一包裹寄出時，整箱必須等最慢的那件商品備妥才會發貨。依庫存情況、物流商規範或海關限制，YesStyle 也可能將訂單拆成多批寄送，導致不同日期送達。"
+        ],
+        "image": {
+          "src": "/images/reviews/yesstyle/yesstyle-prazo-disponibilidade-mais-envio.webp",
+          "alt": "說明 YesStyle 總送達時間等於商品備貨時間加上運送時間的示意圖",
+          "caption": "總送達時間是由每件商品的倉庫備貨天數加上寄至各地的運送天數所組成。",
+          "objectFit": "contain",
+          "aspectRatio": 1.7778
+        }
+      },
+      {
+        "heading": "保留、移除或拆單：兩筆購物車的運費試算",
+        "paragraphs": [
+          "要不要把待補貨商品留在同一筆訂單，取決於你所在市場的免運門檻與時間彈性。寄往台灣採用 Express 運送（3 至 6 個工作天），滿 US$50 免運、未滿收 US$3；寄往香港走順豐速運（1 至 3 個工作天，可於順豐站、服務中心或 EF Locker 自取），滿 US$35 免運、未滿收 US$4；寄往澳門為 Express（1 至 3 個工作天），滿 US$35 免運、未滿收 US$4.99。",
+          "以台灣標準（滿 US$50 免運、未滿收 US$3）來試算一筆包含 US$65 有庫存商品加上 1 件需等 7 至 14 個工作天的 US$20 商品（總計 US$85）之混合購物車，三種做法在時間與運費上的差異如下："
+        ],
+        "comparisonTable": {
+          "caption": "依 2026年11月25日確認之 YesStyle 運送規則進行的台灣混合購物車試算（US$65 現貨 + US$20 待補貨 7 至 14 個工作天）。",
+          "headers": [
+            "方案",
+            "倉庫出貨與台灣總耗時",
+            "台灣運費（滿 US$50 免運）",
+            "適合情境"
+          ],
+          "rows": [
+            [
+              "單筆合併下單（US$85）",
+              "合併寄出需 7 至 14 個工作天備貨（台灣合計 10 至 20 個工作天）",
+              "免運（超過 US$50）",
+              "完全不急用，只想把運費壓到零元"
+            ],
+            [
+              "移除較慢商品（US$65）",
+              "1 至 3 個工作天寄出（台灣合計 4 至 9 個工作天）",
+              "免運（仍超過 US$50）",
+              "想在不增加運費的前提下更快收到現貨"
+            ],
+            [
+              "拆成兩筆訂單（US$65 + US$20）",
+              "第 1 筆 1 至 3 個工作天寄出；第 2 筆等 7 至 14 個工作天",
+              "合計 US$3（第 1 筆免運；第 2 筆未滿 US$50 收 US$3；香港未滿 US$35 收 US$4、澳門收 US$4.99）",
+              "不想放棄慢發商品，也不想拖延現貨的出貨速度"
+            ]
+          ]
+        },
+        "postParagraphs": [
+          "稅費方面，YesStyle 並未為台灣、香港或澳門設立專屬稅費說明頁，結帳時也不會預先公布或代收這些市場的稅額，下單前仍須留意送達時由當地海關依規定核課的可能性。",
+          "對於優惠券折扣前、不含運費總額低於 US$1,000 的訂單，若包裹在送達時被收取符合條件的海關相關稅費，只要在收據日期起 30 天內將註明日期的付款憑證以電子郵件寄給客服，YesStyle 會以 YesStyle Credit 商店額度退還；但結帳時已預收的稅項，以及郵政或物流業者收取的倉儲費與取件費則不在退款範圍內。"
+        ],
+        "links": [
+          {
+            "label": "YesStyle 寄送台灣、香港與澳門：運送時間、運費與稅費",
+            "href": "/zh-hant/reviews/yesstyle-shipping-taiwan-hong-kong-zh-hant"
+          },
+          {
+            "label": "YesStyle 還是 Stylevana？退貨、免運與獎勵碼比較",
+            "href": "/zh-hant/reviews/yesstyle-vs-stylevana-zh-hant"
+          }
+        ]
+      },
+      {
+        "heading": "服飾、配件與退貨規則",
+        "paragraphs": [
+          "雖然 YesStyle 也販售附有公分尺寸表的服飾與配件，但選定收件國家或地區後，部分服飾頁面仍可能顯示無法寄送至你的地址。在把衣服或鞋包放進購物車湊免運前，務必在該件商品的具體頁面確認是否支援寄送目的地。",
+          "若是因改變心意或更換尺寸申請退貨，須在收到商品後 14 天內申請 RMA 編號，並在核發後 30 天內寄回，回程運費寄往香港辦公室或美國、加拿大退貨合作夥伴均由買家自行負擔。已拆封的美妝品、營養補充品、特別活動商品（如 Buy 1 Get 1 Free、Clearance、Lucky Bundle、Deals）以及貼身衣物均不接受退貨，皮膚過敏或不良反應亦不在退款範圍。"
+        ]
+      },
+      {
+        "heading": "獎勵碼 CECILIA010、商店優惠券與 YS Points",
+        "paragraphs": [
+          "依照 YesStyle 官方條款，每筆訂單在 Coupon Code 欄位只能使用一張商店促銷優惠券，但它可與網站特價、獨立欄位中的獎勵碼 CECILIA010，以及付款步驟的 YS Points 餘額同時疊加。",
+          "獎勵碼 CECILIA010 在網頁版（Reward Code 欄位）與 App 版（Enter Code 底下的 Influencer / Rewards Code 欄位）皆有效，可為符合條件的商品帶來首購額外 5%、回購額外 2% 的折扣。部分品牌或促銷品可能有使用限制，結帳前請務必確認購物袋中已同時顯示兩行折抵；目前有效的商店優惠券皆整理於[YesStyle 優惠券頁面](/zh-hant/coupons/yesstyle)。"
+        ],
+        "image": {
+          "src": "/images/reviews/yesstyle/yesstyle-app-codigo-checkout-2810.webp",
+          "alt": "YesStyle 應用程式的三個畫面，顯示分開的 Coupon Code 與 Influencer / Rewards Code 欄位，並已填入獎勵碼 CECILIA010",
+          "caption": "在 YesStyle App 中於商店優惠券之外的獨立欄位填入獎勵碼 CECILIA010。",
+          "objectFit": "contain",
+          "aspectRatio": 1.4382
+        },
+        "links": [
+          {
+            "label": "獎勵碼 CECILIA010 使用步驟教學",
+            "href": "/zh-hant/reviews/yesstyle-reward-code-cecilia010-zh-hant"
+          },
+          {
+            "label": "查看今日 YesStyle 優惠券與獎勵碼 CECILIA010",
+            "href": "/zh-hant/coupons/yesstyle"
+          }
+        ]
+      },
+      {
+        "heading": "誰最適合在 YesStyle 購物：依需求給結論",
+        "paragraphs": [
+          "如果你打算一次購買多個韓國或日本保養彩妝品牌，且願意核對香港倉庫的出貨天數，YesStyle 不僅品項齊全，搭配特賣價格、商店優惠券與獎勵碼 CECILIA010 也能有效壓低總價。相對地，如果你急著短期內拿到貨，或想在拆封試用後享有免費退貨，比較本地通路會更合適。"
+        ],
+        "bullets": [
+          "**最值得入手：** 一次採買多款有庫存（In-Stock）的 K-beauty 與 J-beauty 商品，自然跨過免運門檻且不趕時間的買家。",
+          "**較不建議：** 近期有固定送禮或活動期限的急單、只買單件低於免運門檻的零散商品，或期待拆開試用後還能無條件退貨的人。"
+        ],
+        "emphasis": "Cecília 的總結建議：挑選有庫存的商品避免單一品項卡住整箱出貨，並善用商店優惠券搭配獎勵碼 CECILIA010，不要為了湊免運而硬塞不需要的品項，這樣在 YesStyle 下單最划算。",
+        "links": [
+          {
+            "label": "YesStyle 還是 Olive Young？免運、稅金、退貨與點數比較",
+            "href": "/zh-hant/reviews/yesstyle-vs-olive-young-zh-hant"
+          }
+        ]
+      },
+      {
+        "heading": "常見問題",
+        "bullets": [
+          "YesStyle 值得買嗎？值得，尤其適合想在同一筆訂單買齊多個 K-beauty 與 J-beauty 品牌、願意先看清楚每件商品倉庫備貨狀態，並疊加商店優惠券與獎勵碼 CECILIA010 的買家。",
+          "YesStyle 的獎勵碼是什麼、可以折多少？獎勵碼 CECILIA010 可在符合條件的商品上為首購帶來額外 5%、回購額外 2% 的折扣。它填入獨立的 Reward Code 欄位，可與一張商店優惠券、折扣價與 YS Points 並用。",
+          "為什麼單一件等待中的商品會拖慢整張 YesStyle 訂單？因為若整筆訂單從香港以單一包裹寄出，出貨必須等待備貨天數最長的那件商品備妥，有時最長可達 30 個工作天。結帳前務必先看庫存標籤。",
+          "YesStyle 在台灣、香港與澳門的免運門檻與關稅退款怎麼算？台灣滿 US$50 免運（未滿 US$3），香港與澳門滿 US$35 免運（未滿分別為 US$4 與 US$4.99）。折扣前不含運費低於 US$1,000 的訂單若在送達時被收取符合條件的海關稅費，30 天內寄交日期收據可退為商店額度，不含結帳預收稅費與物流倉儲費。",
+          "在 YesStyle 買的衣服或已拆封美妝品可以退貨嗎？改變心意或換尺寸須在收貨後 14 天內申請 RMA，且退貨運費由買家承擔，部分服飾也可能不寄送特定地區。已拆封美妝、營養補充品與貼身用品一律無法退貨。"
+        ]
+      }
+    ]
+  },
+  {
+    "id": 1457,
+    "slug": "yesstyle-worth-it-zh-hans",
+    "locale": "zh-hans",
+    "translationKey": "yesstyle-worth-it",
+    "title": "YesStyle 值得买吗？亚洲美妆选购重点与下单时机",
+    "seoTitle": "YesStyle 值得买吗？韩妆、运送与奖励码指南",
+    "type": "购买指南",
+    "category": "guias-praticos-utilidade",
+    "reviewKind": "guia",
+    "author": {
+      "name": "Cecília Mauad",
+      "slug": "cecilia-mauad",
+      "role": "Em Casa com Cecília",
+      "initials": "CM",
+      "url": "/sobre"
+    },
+    "description": "整理 YesStyle 购买韩妆与日妆的适用场景、待补货商品如何拖慢整笔订单、何时需要拆单以及如何叠加使用奖励码 CECILIA010。",
+    "metaDescription": "结账输入奖励码 CECILIA010，在 YesStyle 首单额外享 5% 折扣，复购享 2%。一文看懂亚洲美妆选购、仓库备货天数、运费门槛与退货规则。",
+    "publishedAt": "2026年11月25日",
+    "publishedAtISO": "2026-11-25",
+    "draft": false,
+    "isNew": false,
+    "hideFromPortugueseListings": true,
+    "image": "/images/reviews/yesstyle/yesstyle-vale-a-pena-hero-zh-hans.webp",
+    "imageAlt": "浅色背景上摆放韩系护肤品瓶罐、YesStyle 标志与奖励码 CECILIA010 的购买指南封面图。",
+    "imageFit": "contain",
+    "imageAspect": "landscape",
+    "pros": [],
+    "cons": [],
+    "cta": {
+      "text": "在购物车核对每件商品的出库状态，确认寄往你所在地的运费后，在 Reward Code 栏位填入奖励码 CECILIA010。",
+      "label": "前往 YesStyle",
+      "url": "https://ystyle.co/rQYQv",
+      "sponsored": true
+    },
+    "coupon": "CECILIA010",
+    "affiliate": "yesstyle",
+    "editorialNote": "依据官方页面信息整理，非个人实购评测。我们可能通过链接与奖励码 CECILIA010 获得联盟佣金。",
+    "relatedArticles": [
+      {
+        "slug": "yesstyle-trust-guide-zh-hans"
+      },
+      {
+        "slug": "yesstyle-shipping-singapore-malaysia-zh-hans"
+      },
+      {
+        "slug": "yesstyle-kbeauty-guide-zh-hans"
+      },
+      {
+        "slug": "yesstyle-reward-code-cecilia010-zh-hans"
+      },
+      {
+        "slug": "yesstyle-vs-stylevana-zh-hans"
+      },
+      {
+        "slug": "yesstyle-vs-olive-young-zh-hans"
+      }
+    ],
+    "decision": {
+      "takeIf": [
+        "你想把多个韩妆和日妆品牌放进同一个购物车合并结账，省去在不同官网分开支付的多笔运费",
+        "你会在下单前查看每件商品从香港仓库出库的天数，并且能够接受没有固定送达日的跨境运输",
+        "你能自然达到新加坡 US$50 或马来西亚 US$35 的免运费门槛，并把商店优惠券与奖励码 CECILIA010 叠加使用"
+      ],
+      "skipIf": [
+        "你需要赶在近期某个日期前收到美妆品，没有余量把仓库备货时间与物流时间叠加等待",
+        "你打算拆封试用护肤或彩妆后再决定是否退货，因为已拆封的美妆产品不在退货范围内",
+        "你只需要紧急购买单件低于免运费门槛的低价商品，加上运费后反而降低了省钱幅度"
+      ]
+    },
+    "contentSections": [
+      {
+        "heading": "快速解答",
+        "paragraphs": [
+          "值得，当你想在一个购物车里买齐韩系 K-beauty 与日系 J-beauty 护肤彩妆，且不急于短期收货时，YesStyle 非常有性价比。结账填写奖励码 CECILIA010 可与商店优惠券叠加，首单额外省 5%，复购省 2%。下面帮你算清备货天数和拆单账目。"
+        ]
+      },
+      {
+        "heading": "YesStyle 是谁以及如何运营",
+        "paragraphs": [
+          "YesStyle 是一家总部设于香港的在线零售商，创立于 2006 年，由在香港交易所上市的 YesAsia Holdings Limited（2209.HK）控股。所有订单均从公司位于香港的仓库发出，配送至全球超过 150 个国家和地区。",
+          "在美妆品类上，商店声明直接向韩国本土制造商或授权合作经销商采购 K-beauty 品牌，不过这是商家自身的说法，并未经过第三方独立机构审计。想了解公司背景与收货检查要点，可阅读[YesStyle 值得信赖吗？](/zh-hans/reviews/yesstyle-trust-guide-zh-hans)；查看全球各地区的近期配送口碑，请见[YesStyle 的 Trustpilot 评价](/zh-hans/reviews/yesstyle-trustpilot-reviews-zh-hans)。"
+        ]
+      },
+      {
+        "heading": "目录里最值得买什么",
+        "paragraphs": [
+          "这个平台最突出的优势，是把 K-beauty 和 J-beauty 热门品牌集中在同一个购物车中，免去在多个独立品牌网站反复凑单和付运费的麻烦。买护肤和日常补货时，最受关注的是精华液、肌底液、化妆水、防晒霜、彩妆和护发产品。",
+          "商店资料显示其拥有超过 400 个韩国美妆品牌的授权经销资质，包括 COSRX、SKIN1004、Beauty of Joseon、Anua、Abib、Isntree 和 Etude House，同时也供应 Hada Labo 肌研、Rohto 乐敦等日本品牌。加入购物袋前，务必在每件商品页核对成分表、毫升容量与产品版本。"
+        ],
+        "images": [
+          {
+            "src": "/images/reviews/yesstyle/cosrx-advanced-snail-96-essence-yesstyle.webp",
+            "alt": "YesStyle 目录中展示的 COSRX Advanced Snail 96 Mucin Power Essence 100 ml 瓶装图",
+            "caption": "YesStyle 在售的韩妆代表单品示例：COSRX Advanced Snail 96 Mucin Power Essence。图片：YesStyle。",
+            "objectFit": "square"
+          },
+          {
+            "src": "/images/reviews/yesstyle/skin1004-madagascar-centella-ampoule-yesstyle.webp",
+            "alt": "YesStyle 目录中的滴管瓶装 SKIN1004 Madagascar Centella Ampoule 产品图",
+            "caption": "商店韩系护肤品类中的 SKIN1004 Madagascar Centella Ampoule。图片：YesStyle。",
+            "objectFit": "square"
+          }
+        ],
+        "links": [
+          {
+            "label": "K-Beauty 全球热潮解读与韩国品牌购买指南",
+            "href": "/zh-hans/reviews/yesstyle-kbeauty-guide-zh-hans"
+          }
+        ]
+      },
+      {
+        "heading": "库存状态与仓库出库时间",
+        "paragraphs": [
+          "商品版本旁标注的库存状态，只说明这件商品何时从 YesStyle 香港仓库发出，并不代表送到你家门口的日期。总等待时长等于每个单品的备货时间加上发往目的地的运输时间，两者均按香港时间（GMT+8）的工作日计算。"
+        ],
+        "bullets": [
+          "**In-Stock（有库存，1 至 3 个工作日）：** 仓库已有现货，通常很快就能发出。",
+          "**Awaiting Stock: 3-5 days（待补货，3 至 5 天）：** 商店从区域仓库调拨商品，于 3 至 5 个工作日内出库。",
+          "**Awaiting Stock: 7、7-14、21 或 30 天（待补货）：** 商店在下单付款后再向供应商采购，需要等待对应工作日才会出库。"
+        ],
+        "postParagraphs": [
+          "当购物车里同时有现货和出库较慢的单品，如果整单合并成一个包裹发出，发货就会卡在备货最慢的那件商品上。视库存状态、物流商规定或清关限制，YesStyle 也可能主动把订单拆分为多个包裹并在不同日期送达。"
+        ],
+        "image": {
+          "src": "/images/reviews/yesstyle/yesstyle-prazo-disponibilidade-mais-envio.webp",
+          "alt": "展示 YesStyle 总送达时间由商品备货时间加上物流运输时间构成的插图",
+          "caption": "总送达时长等于每件商品的仓库备货天数与跨国运输时间之和。",
+          "objectFit": "contain",
+          "aspectRatio": 1.7778
+        }
+      },
+      {
+        "heading": "保留、移除还是拆单：两个购物车的对比计算",
+        "paragraphs": [
+          "是否要把慢发单品留在订单中，主要看所在国家的免运费门槛以及你对时效的要求。寄往新加坡采用 Express（3 至 5 个工作日），满 US$50 免运费、未满收 US$4；寄往马来西亚采用 Standard（10 至 16 个工作日），满 US$35 免运费、未满收 US$4。",
+          "按新加坡与马来西亚的规则（未达门槛运费均为 US$4），模拟一个包含 US$65 有库存商品加上 1 件需等待 7 至 14 个工作日的 US$20 商品（共 US$85）的混合购物车，三种方案的时间与运费变化如下："
+        ],
+        "comparisonTable": {
+          "caption": "依 2026年11月25日核对的 YesStyle 运送规则进行的混合购物车模拟（US$65 现货 + US$20 待补货 7 至 14 个工作日）。",
+          "headers": [
+            "方案",
+            "仓库出库与总耗时参考",
+            "运费（新加坡满 US$50 / 马来西亚满 US$35 免运）",
+            "适用场景"
+          ],
+          "rows": [
+            [
+              "合并为一笔订单（US$85）",
+              "合包寄出需 7 至 14 个工作日出库（新加坡总计 10 至 19 个工作日）",
+              "免运费（两地均已达标）",
+              "不赶时间，希望把运费控制在零元"
+            ],
+            [
+              "移除慢发商品（US$65）",
+              "1 至 3 个工作日出库（新加坡总计 4 至 8 个工作日）",
+              "免运费（仍满足两地门槛）",
+              "想在不额外付运费的情况下更快收到现货"
+            ],
+            [
+              "拆成两笔订单（US$65 + US$20）",
+              "第 1 笔 1 至 3 个工作日出库；第 2 笔等待 7 至 14 个工作日",
+              "共 US$4（第 1 笔免运；第 2 笔 US$20 在新马均未达门槛，收 US$4）",
+              "既要买慢发商品，又不想耽误现货的收货速度"
+            ]
+          ]
+        },
+        "postParagraphs": [
+          "税费方面，新加坡与马来西亚规则清楚明确：新加坡 S$400 以内的商品，价格中已包含 9% 的 GST；马来西亚经空运或邮寄、价值不超过 RM500 的商品，会在结账时另加 10% 的销售税（运费不征此税）。",
+          "针对优惠券折扣前、不含运费低于 US$1,000 的订单，若包裹到货时被收取符合条件的海关税费，在收据日期起 30 天内把带日期的付款收据电邮给客服，YesStyle 会以 YesStyle Credit 形式退还。结账时已收取的税费（新加坡 GST 与马来西亚销售税），以及邮政或物流公司的仓储费与取件费均不退还。"
+        ],
+        "links": [
+          {
+            "label": "YesStyle 寄往新加坡与马来西亚：运送时间、运费与税费",
+            "href": "/zh-hans/reviews/yesstyle-shipping-singapore-malaysia-zh-hans"
+          },
+          {
+            "label": "YesStyle 还是 Stylevana？退货、免运费与奖励码比较",
+            "href": "/zh-hans/reviews/yesstyle-vs-stylevana-zh-hans"
+          }
+        ]
+      },
+      {
+        "heading": "服饰、配饰与退货规则",
+        "paragraphs": [
+          "尽管 YesStyle 也出售附带厘米尺码表的服装与配饰，但选定收货国家后，部分服饰商品可能会显示无法寄往你的地址。在把衣物或鞋包加入购物车用来凑免运费之前，请先在具体单品页面确认是否支持发往目的地。",
+          "如需因改变主意或更换尺码退货，必须在收货后 14 天内申请 RMA 编号，并在核发后 30 天内寄回，发往香港办公室或美国、加拿大退货合作伙伴的运费由买家自行承担。已拆封的美妆品、营养补充品、特价活动商品（如 Buy 1 Get 1 Free、Clearance、Lucky Bundle、Deals）以及贴身衣物均不接受退货，因皮肤不适或过敏反应也不予退款。"
+        ]
+      },
+      {
+        "heading": "奖励码 CECILIA010、商店优惠券与 YS Points",
+        "paragraphs": [
+          "根据 YesStyle 官方条款，每笔订单在 Coupon Code 栏位限用一张商店促销优惠券，但可与特卖优惠价、单独栏位输入的奖励码 CECILIA010，以及付款阶段的 YS Points 积分同时叠加。",
+          "奖励码 CECILIA010 在网站（Reward Code 栏位）与 App（Enter Code 内的 Influencer / Rewards Code 栏位）均可使用，对符合条件的产品提供首单额外 5%、复购额外 2% 的折扣。由于部分商品和促销品牌存在限制，付款前请核对商品资格及购物车里的两行扣减；当前有效的商店促销优惠券均列在[YesStyle 优惠券页面](/zh-hans/coupons/yesstyle)。"
+        ],
+        "image": {
+          "src": "/images/reviews/yesstyle/yesstyle-app-codigo-checkout-2810.webp",
+          "alt": "YesStyle 手机应用的三个界面截图，展示了分开的 Coupon Code 与 Influencer / Rewards Code 栏位及已应用的奖励码 CECILIA010",
+          "caption": "在 YesStyle 应用内于商店优惠券以外的单独栏位填入奖励码 CECILIA010。",
+          "objectFit": "contain",
+          "aspectRatio": 1.4382
+        },
+        "links": [
+          {
+            "label": "奖励码 CECILIA010 分步使用指南",
+            "href": "/zh-hans/reviews/yesstyle-reward-code-cecilia010-zh-hans"
+          },
+          {
+            "label": "查看今日 YesStyle 优惠券与奖励码 CECILIA010",
+            "href": "/zh-hans/coupons/yesstyle"
+          }
+        ]
+      },
+      {
+        "heading": "YesStyle 适合谁：按需求做总结",
+        "paragraphs": [
+          "如果你想一次性把多个韩国和日本美妆品牌放进同一笔订单，同时能够留意香港仓库的出库时间，YesStyle 凭借丰富选品以及特卖价、商店优惠券与奖励码 CECILIA010 的叠加空间，能够有效节省开支。若你需要极速收货，或希望拆封产品也能免费退换，则更适合选择本地零售渠道。"
+        ],
+        "bullets": [
+          "**最适合：** 组合采购多款有库存（In-Stock）的 K-beauty 和 J-beauty 商品，自然达到免运费门槛、无须凑单且不急用的人群。",
+          "**较不适合：** 有明确近期使用期限的急单、在马来西亚需要比 10 至 16 个工作日更快的配送、只买单件低于门槛的小商品，或想拆封试用再退货的人。"
+        ],
+        "emphasis": "Cecília 的总结：筛选有库存商品避免整箱发货被单个慢发单品卡住，并用商店优惠券叠加奖励码 CECILIA010，不去硬凑不必要的商品拿免运费，是在 YesStyle 下单最划算的方式。",
+        "links": [
+          {
+            "label": "YesStyle 还是 Olive Young？免运费、税费、退货与积分比较",
+            "href": "/zh-hans/reviews/yesstyle-vs-olive-young-zh-hans"
+          }
+        ]
+      },
+      {
+        "heading": "常见问题",
+        "bullets": [
+          "YesStyle 值得买吗？值得，当你想一单买齐多个 K-beauty 与 J-beauty 品牌、会核对每件商品的仓库备货标签，并用商店优惠券叠加奖励码 CECILIA010 时非常合适。",
+          "YesStyle 的奖励码是什么、能省多少？奖励码 CECILIA010 可在符合条件的商品上提供首单额外 5%、复购额外 2% 的折扣。它填写在独立的 Reward Code 栏位，可与一张商店优惠券、活动特价及 YS Points 同时使用。",
+          "为什么一件待补货商品会拖慢整笔 YesStyle 订单？因为如果所有商品合并成一个包裹从香港仓库寄出，系统会等到备货期最长（最长可达 30 个工作日）的那件商品到齐后才发运。付款前务必逐件确认库存状态。",
+          "YesStyle 的免运费与海关退税怎么运作？新加坡 Express 满 US$50 免运费、马来西亚 Standard 满 US$35 免运费，未达门槛两地均收 US$4。折扣前不含运费低于 US$1,000 的订单如果在收货时被收取符合条件的海关税费，30 天内邮件提交带日期收据可退为商店额度，但不包含结账已收的新加坡 GST、马来西亚销售税及物流仓储费。",
+          "在 YesStyle 买的衣服或已拆封美妆品能退货吗？改变主意或换尺码需在收货后 14 天内申请 RMA 并由买家自付退货运费，部分服饰不支持寄送所有地区。已拆封的美妆品、营养补充品和贴身衣物一律不支持退货。"
+        ]
+      }
+    ]
+  },
+  {
+    "id": 1458,
+    "slug": "yesstyle-worth-it-ar",
+    "locale": "ar",
+    "translationKey": "yesstyle-worth-it",
+    "title": "هل متجر YesStyle يستحق الشراء؟ ماذا تشتري من الجمال الآسيوي ومتى يناسبك الطلب",
+    "seoTitle": "هل YesStyle يستحق الشراء؟ الجمال الكوري والشحن والتوفير",
+    "type": "دليل شراء",
+    "category": "guias-praticos-utilidade",
+    "reviewKind": "guia",
+    "author": {
+      "name": "Cecília Mauad",
+      "slug": "cecilia-mauad",
+      "role": "Em Casa com Cecília",
+      "initials": "CM",
+      "url": "/sobre"
+    },
+    "description": "متى يناسبك YesStyle لمنتجات K-beauty وJ-beauty، وكيف يؤخر منتج واحد قيد الانتظار السلة كاملة، ومتى تقسّم الطلب وتستخدم رمز المكافأة CECILIA010.",
+    "metaDescription": "يمنحك رمز المكافأة CECILIA010 توفيرًا إضافيًا يصل إلى 5% في YesStyle. تعرّف على أفضل منتجات الجمال الآسيوي ومهل المستودع وحدود الشحن وقواعد الإرجاع.",
+    "publishedAt": "25 نوفمبر 2026",
+    "publishedAtISO": "2026-11-25",
+    "draft": false,
+    "isNew": false,
+    "hideFromPortugueseListings": true,
+    "image": "/images/reviews/yesstyle/yesstyle-vale-a-pena-hero-ar.webp",
+    "imageAlt": "غلاف دليل هل يستحق YesStyle الشراء ويظهر عبوات عناية بالبشرة الكورية على خلفية فاتحة، مع شعار YesStyle ورمز المكافأة CECILIA010.",
+    "imageFit": "contain",
+    "imageAspect": "landscape",
+    "pros": [],
+    "cons": [],
+    "cta": {
+      "text": "تحقق من حالة توفر كل منتج في حقيبة التسوق، وراجع تكلفة الشحن لبلدك، ثم ألصق رمز المكافأة CECILIA010 في حقل Reward Code.",
+      "label": "اذهب إلى YesStyle",
+      "url": "https://ystyle.co/rQYQv",
+      "sponsored": true
+    },
+    "coupon": "CECILIA010",
+    "affiliate": "yesstyle",
+    "editorialNote": "اعتمادًا على المصادر الرسمية دون شراء شخصي. قد نحصل على عمولة عبر الروابط ومن رمز المكافأة CECILIA010.",
+    "relatedArticles": [
+      {
+        "slug": "yesstyle-trust-guide-ar"
+      },
+      {
+        "slug": "yesstyle-shipping-by-country-ar"
+      },
+      {
+        "slug": "yesstyle-kbeauty-guide-ar"
+      },
+      {
+        "slug": "yesstyle-reward-code-cecilia010-ar"
+      },
+      {
+        "slug": "yesstyle-vs-stylevana-ar"
+      },
+      {
+        "slug": "yesstyle-vs-olive-young-ar"
+      }
+    ],
+    "decision": {
+      "takeIf": [
+        "تريد جمع عدة علامات من الجمال الكوري والياباني في طلب واحد بدل دفع شحن منفصل في متاجر متعددة",
+        "تراجع شارة الخروج من المستودع لكل منتج قبل الدفع وتستطيع انتظار الشحن الدولي دون موعد تسليم صارم",
+        "تخطط للجمع بين كوبون ترويجي من المتجر ورمز المكافأة CECILIA010 مع بلوغ حد الشحن المجاني لبلدك دون حشو السلة"
+      ],
+      "skipIf": [
+        "تحتاج إلى منتجات التجميل في موعد قريب ثابت ولا تملك هامشًا لجمع مهلة التجهيز في المستودع مع مدة الشحن",
+        "تريد فتح مستحضر العناية أو المكياج وتجربته في المنزل مع إمكانية إرجاعه لاحقًا، إذ لا تُقبل منتجات التجميل المفتوحة في الإرجاع",
+        "تحتاج فقط إلى منتج واحد منخفض السعر دون الحد الأدنى للشحن المجاني حيث تلتهم رسوم الشحن فارق التوفير"
+      ]
+    },
+    "contentSections": [
+      {
+        "heading": "الإجابة السريعة",
+        "paragraphs": [
+          "نعم، يستحق متجر YesStyle الشراء عندما تريد جمع منتجات العناية بالبشرة والمكياج من K-beauty وJ-beauty في سلة واحدة دون عجلة في التوصيل. يمنحك رمز المكافأة CECILIA010 توفيرًا إضافيًا بنسبة 5% على أول طلب و2% على الطلبات التالية عند جمعه مع كوبونات المتجر عند الدفع. راجع مهل المستودع وحساب تقسيم السلة أدناه."
+        ]
+      },
+      {
+        "heading": "من هو متجر YesStyle وكيف يعمل",
+        "paragraphs": [
+          "YesStyle متجر تجزئة إلكتروني مقره هونغ كونغ، تأسس عام 2006 وتملكه شركة YesAsia Holdings Limited (2209.HK) المدرجة في بورصة هونغ كونغ. تخرج جميع الطلبات من مستودع الشركة في هونغ كونغ إلى أكثر من 150 دولة ومنطقة.",
+          "في قطاع مستحضرات التجميل، يذكر المتجر أنه يشتري علامات K-beauty مباشرةً من المصنّعين في كوريا الجنوبية أو من موزعين شركاء معتمدين، وهو تصريح من الشركة نفسها دون تدقيق خارجي مستقل. للاطلاع على بيانات الشركة وما تفحصه عند استلام الطرد، اقرأ [هل YesStyle موثوق وآمن؟](/ar/reviews/yesstyle-trust-guide-ar)، ولمتابعة تقييمات المشترين الحديثة للتوصيل، راجع [YesStyle على Trustpilot](/ar/reviews/yesstyle-trustpilot-reviews-ar)."
+        ]
+      },
+      {
+        "heading": "ماذا تشتري من كتالوج المتجر",
+        "paragraphs": [
+          "الميزة الأساسية في YesStyle هي إتاحة تجميع أساسيات K-beauty وJ-beauty في عملية دفع واحدة بدل سداد رسوم شحن منفصلة عبر مواقع العلامات التجارية. يركز المتسوقون عادةً على السيرومات والخلاصات والتونرات وواقيات الشمس والمكياج والعناية بالشعر.",
+          "تشير الشركة إلى أنها موزع معتمد لأكثر من 400 علامة تجميل كورية، منها COSRX وSKIN1004 وBeauty of Joseon وAnua وAbib وIsntree وEtude House، إلى جانب علامات يابانية مثل Hada Labo وRohto. راجع دائمًا قائمة المكونات وسعة العبوة بالملليلتر والإصدار في صفحة كل منتج قبل إضافته إلى السلة."
+        ],
+        "images": [
+          {
+            "src": "/images/reviews/yesstyle/cosrx-advanced-snail-96-essence-yesstyle.webp",
+            "alt": "عبوة خلاصة COSRX Advanced Snail 96 Mucin Power Essence بحجم 100 مل في كتالوج YesStyle",
+            "caption": "خلاصة COSRX Advanced Snail 96 Mucin Power Essence، نموذج لمنتج K-beauty متوفر في المتجر. الصورة: YesStyle.",
+            "objectFit": "square"
+          },
+          {
+            "src": "/images/reviews/yesstyle/skin1004-madagascar-centella-ampoule-yesstyle.webp",
+            "alt": "عبوة أمبولة SKIN1004 Madagascar Centella Ampoule بالقطّارة في كتالوج YesStyle",
+            "caption": "أمبولة SKIN1004 Madagascar Centella Ampoule ضمن تشكيلة العناية الكورية بالبشرة في المتجر. الصورة: YesStyle.",
+            "objectFit": "square"
+          }
+        ],
+        "links": [
+          {
+            "label": "شرح K-Beauty: لماذا أصبحت ظاهرة عالمية وأين تتسوق منتجاتها",
+            "href": "/ar/reviews/yesstyle-kbeauty-guide-ar"
+          }
+        ]
+      },
+      {
+        "heading": "حالة التوفر ومهلة الخروج من المستودع",
+        "paragraphs": [
+          "شارة التوفر الموجودة بجانب كل خيار منتج توضّح متى يغادر المنتج مستودع YesStyle في هونغ كونغ، لا متى يصل إلى باب منزلك. وتجمع مدة التوصيل الإجمالية بين مهلة توفر المنتج ومدة الشحن، مع احتساب الاثنين بأيام العمل بتوقيت هونغ كونغ (GMT+8)."
+        ],
+        "bullets": [
+          "**In-Stock (1 إلى 3 أيام عمل):** المنتج جاهز في المستودع ويُشحن عادةً بسرعة.",
+          "**Awaiting Stock: 3-5 days (3 إلى 5 أيام):** ينتقل المنتج من أحد مستودعات YesStyle الإقليمية خلال 3 إلى 5 أيام عمل.",
+          "**Awaiting Stock: 7 أو 7-14 أو 21 أو 30 يومًا:** يطلب المتجر المنتج من المورّد بعد الدفع، فتتأخر المغادرة بعدد أيام العمل المذكور."
+        ],
+        "postParagraphs": [
+          "عندما تضم السلة منتجات متوفرة مع منتج واحد بطيء التجهيز، ينتظر الشحن الموحّد حتى يصبح أبطأ منتج جاهزًا. وبحسب المخزون أو قواعد الناقل أو الحدود الجمركية، قد يقسّم YesStyle الطلب أيضًا إلى شحنات منفصلة تصل في تواريخ مختلفة."
+        ],
+        "image": {
+          "src": "/images/reviews/yesstyle/yesstyle-prazo-disponibilidade-mais-envio.webp",
+          "alt": "رسم توضيحي يبيّن أن مدة التوصيل الإجمالية في YesStyle تجمع مهلة توفر المنتج في المستودع مع مدة الشحن",
+          "caption": "تجمع مدة الانتظار الكلية بين مهلة توفر كل منتج في المستودع ومدة النقل الدولي.",
+          "objectFit": "contain",
+          "aspectRatio": 1.7778
+        }
+      },
+      {
+        "heading": "الإبقاء على منتج بطيء أو إزالته أو تقسيم الطلب: حساب السلتين",
+        "paragraphs": [
+          "يتوقف قرار إبقاء منتج بطيء في السلة على الحد الأدنى للشحن المجاني في بلد الوجهة. في الولايات المتحدة، يستغرق الشحن القياسي من 7 إلى 11 يوم عمل ويكون مجانيًا ابتداءً من 35 دولارًا أمريكيًا (و6 دولارات تحت 35 دولارًا). وتختلف الحدود في الوجهات الدولية الأخرى بجدول المتجر: 50 دولارًا في المملكة المتحدة (5 دولارات تحت الحد، من 5 إلى 12 يوم عمل) وكندا (6 دولارات تحت الحد، من 7 إلى 14 يوم عمل)، و35 دولارًا في أستراليا (5.50 دولار تحت الحد، من 6 إلى 8 أيام عمل) ونيوزيلندا (5 دولارات تحت الحد، من 7 إلى 14 يوم عمل)، و45 دولارًا في أيرلندا (5 دولارات تحت الحد، من 12 إلى 18 يوم عمل).",
+          "وبأخذ الشحن القياسي للولايات المتحدة كمثال (مجاني من 35 دولارًا و6 دولارات تحته) على سلة تضم منتجات متوفرة بقيمة 38 دولارًا مع منتج بقيمة 18 دولارًا بمهلة 7 إلى 14 يوم عمل (المجموع 56 دولارًا)، يظهر الفارق بين الخيارات الثلاثة كما يلي:"
+        ],
+        "comparisonTable": {
+          "caption": "محاكاة سلتين للشحن القياسي الأمريكي (38 دولارًا متوفرة + 18 دولارًا بمهلة 7 إلى 14 يوم عمل)، وفق قواعد الشحن المراجعة في 25 نوفمبر 2026.",
+          "headers": [
+            "السيناريو",
+            "الخروج من المستودع والمدة الكلية",
+            "الشحن القياسي الأمريكي (مجاني من 35 دولارًا)",
+            "الأنسب عندما"
+          ],
+          "rows": [
+            [
+              "طلب واحد موحّد (56 دولارًا)",
+              "من 7 إلى 14 يوم عمل إذا شُحن معًا (14 إلى 25 يوم عمل إجمالًا)",
+              "مجاني (يتجاوز 35 دولارًا)",
+              "لا توجد عجلة وتفضّل تجنب أي تكلفة شحن إضافية"
+            ],
+            [
+              "إزالة المنتج البطيء (38 دولارًا)",
+              "من 1 إلى 3 أيام عمل (8 إلى 14 يوم عمل إجمالًا)",
+              "مجاني (يبقى فوق 35 دولارًا)",
+              "تريد استلام المنتجات المتوفرة أسرع دون رسوم إضافية"
+            ],
+            [
+              "التقسيم إلى طلبين (38 + 18 دولارًا)",
+              "الأول يخرج خلال 1 إلى 3 أيام عمل؛ الثاني ينتظر 7 إلى 14 يوم عمل",
+              "6 دولارات إجمالًا (الأول مجاني؛ الثاني تحت 35 دولارًا يدفع 6 دولارات)",
+              "تريد الاحتفاظ بالمنتج البطيء دون تعطيل بقية الطلب"
+            ]
+          ]
+        },
+        "postParagraphs": [
+          "وتختلف معاملة الضرائب بحسب البلد أيضًا: فضريبة القيمة المضافة أو GST مشمولة أصلًا في أسعار المنتجات في المملكة المتحدة (20% VAT) وأيرلندا (23% VAT، حيث تشير YesStyle إلى أنها تتحمل حاليًا رسم الاتحاد الأوروبي البالغ 3 يورو لكل فئة جمركية للطرود دون 150 يورو) وأستراليا (10% GST) ونيوزيلندا (15% GST). وفي الولايات المتحدة تُضاف ضريبة المبيعات في 40 ولاية ومقاطعة كولومبيا مع رسوم الاستيراد عند الدفع، بينما تضيف كندا ضريبة PST بنسبة 6% في ساسكاتشوان فقط.",
+          "وبالنسبة إلى الضرائب والرسوم الجمركية المؤهلة المفروضة عند التسليم على الطلبات التي تقل عن 1,000 دولار أمريكي (قبل الكوبونات ودون الشحن)، توفر YesStyle استردادًا على شكل رصيد في المتجر إذا أرسلت إيصال الدفع المؤرخ بالبريد الإلكتروني خلال 30 يومًا. ويُستثنى من ذلك الضرائب المحصّلة عند الدفع مثل VAT أو GST أو ضريبة المبيعات الأمريكية، وكذلك رسوم التخزين والمناولة لدى الناقل."
+        ],
+        "links": [
+          {
+            "label": "شحن YesStyle: مدد التوصيل وتكاليف الشحن والجمارك حسب البلد",
+            "href": "/ar/reviews/yesstyle-shipping-by-country-ar"
+          },
+          {
+            "label": "YesStyle مقابل Stylevana: الشحن والجمارك والإرجاع",
+            "href": "/ar/reviews/yesstyle-vs-stylevana-ar"
+          }
+        ]
+      },
+      {
+        "heading": "الملابس والإكسسوارات وقواعد الإرجاع",
+        "paragraphs": [
+          "رغم أن YesStyle يبيع أزياء وإكسسوارات مع جداول قياس بالسنتيمتر، قد تظهر بعض قطع الملابس غير متاحة للشحن إلى عنوانك بمجرد اختيار بلد الوجهة. تحقق دائمًا من إشعار الشحن المتاح لبلدك في صفحة المنتج الدقيقة قبل الاعتماد على الملابس للوصول إلى حد الشحن المجاني.",
+          "وفي الإرجاع بدافع العدول عن الشراء أو تبديل المقاس، يجب طلب رقم RMA خلال 14 يومًا من الاستلام وشحن الطرد خلال 30 يومًا من الموافقة، على أن يتحمل المشتري تكلفة الشحن المرتجع إلى مكتب هونغ كونغ أو شركاء الإرجاع في الولايات المتحدة وكندا. أما منتجات التجميل المفتوحة والمكملات وعروض التصفية والصفقات الخاصة (Buy 1 Get 1 Free وClearance وLucky Bundle وDeals) والملابس الحميمية فلا تُرجع، ولا تمنح التفاعلات الجلدية حق الاسترداد."
+        ]
+      },
+      {
+        "heading": "رمز المكافأة CECILIA010 وكوبونات المتجر ونقاط YS Points",
+        "paragraphs": [
+          "وفق الشروط الرسمية لمتجر YesStyle، يقبل كل طلب كوبونًا ترويجيًا واحدًا مؤهلًا في حقل Coupon Code، ويمكن جمعه مع أسعار التخفيضات ومع رمز المكافأة CECILIA010 في حقله المنفصل وكذلك مع نقاط YS Points في خطوة الدفع.",
+          "يمنح رمز المكافأة CECILIA010 توفيرًا إضافيًا بنسبة 5% على أول طلب و2% على الطلبات اللاحقة على المنتجات المؤهلة، سواء على الموقع في حقل Reward Code أو في التطبيق عبر حقل Influencer / Rewards Code داخل Enter Code. راجع أهلية المنتجات وتأكد من ظهور سطري التوفير معًا في الحقيبة قبل الدفع؛ وتجد الكوبونات الترويجية النشطة في صفحة [كوبونات YesStyle](/ar/coupons/yesstyle)."
+        ],
+        "image": {
+          "src": "/images/reviews/yesstyle/yesstyle-app-codigo-checkout-2810.webp",
+          "alt": "ثلاث شاشات من تطبيق YesStyle تُظهر الحقلين المنفصلين Coupon Code وInfluencer / Rewards Code مع تفعيل رمز المكافأة CECILIA010",
+          "caption": "إدخال رمز المكافأة CECILIA010 في تطبيق YesStyle داخل الحقل المخصص والمنفصل عن كوبونات المتجر.",
+          "objectFit": "contain",
+          "aspectRatio": 1.4382
+        },
+        "links": [
+          {
+            "label": "طريقة استخدام رمز المكافأة CECILIA010 خطوة بخطوة",
+            "href": "/ar/reviews/yesstyle-reward-code-cecilia010-ar"
+          },
+          {
+            "label": "عرض كوبونات YesStyle السارية ورمز المكافأة CECILIA010",
+            "href": "/ar/coupons/yesstyle"
+          }
+        ]
+      },
+      {
+        "heading": "لمن يناسب YesStyle: الخلاصة حسب احتياجك",
+        "paragraphs": [
+          "إذا كنت تبحث عن تجميع عدة علامات كورية ويابانية في طلب واحد وتهتم بمراجعة مهل الخروج من مستودع هونغ كونغ، يقدم YesStyle تشكيلة واسعة مع توفير ملحوظ عند جمع العروض مع كوبون ترويجي من المتجر ورمز المكافأة CECILIA010. أما من يحتاج إلى توصيل سريع أو إرجاع مجاني لمستحضرات مفتوحة فالأفضل له مقارنة الخيارات المحلية."
+        ],
+        "bullets": [
+          "**الأنسب لـ:** من يجمع منتجات K-beauty وJ-beauty المتوفرة في المخزون، ويصل إلى حد الشحن المجاني بشكل طبيعي دون زيادة سلة الشراء، ويطلب دون استعجال.",
+          "**تجنّبه إذا:** كان لديك موعد قريب محدد، أو تحتاج إلى قطعة واحدة رخيصة تحت الحد الأدنى للشحن، أو تتوقع اختبار مستحضرات مفتوحة ثم إرجاعها مجانًا."
+        ],
+        "emphasis": "خلاصة Cecília: يعطي YesStyle أفضل نتيجة عندما تصفّي المنتجات المتوفرة فورًا كي لا يعطّل منتج واحد الصندوق بأكمله، وتجمع بين كوبون المتجر الفعّال ورمز المكافأة CECILIA010 دون إضافة منتجات غير ضرورية لمجرد بلوغ الشحن المجاني.",
+        "links": [
+          {
+            "label": "YesStyle مقابل Olive Young Global: الشحن والضريبة والإرجاع",
+            "href": "/ar/reviews/yesstyle-vs-olive-young-ar"
+          }
+        ]
+      },
+      {
+        "heading": "الأسئلة الشائعة",
+        "bullets": [
+          "هل متجر YesStyle يستحق الشراء؟ نعم، يستحق الشراء عندما تريد جمع علامات K-beauty وJ-beauty في طلب واحد، وتتحقق من شارة التوفر في المستودع لكل منتج، وتجمع رمز المكافأة CECILIA010 مع كوبون ترويجي فعّال من المتجر.",
+          "ما هو رمز المكافأة في YesStyle وكم يوفر؟ إنه CECILIA010، ويمنح توفيرًا إضافيًا بنسبة 5% على طلبك الأول و2% على الطلبات التالية على المنتجات المؤهلة. يُكتب في حقل Reward Code المنفصل عن حقل الكوبون، ويجتمع مع كوبون واحد من المتجر وأسعار التخفيضات ونقاط YS Points.",
+          "لماذا يمكن أن يؤخر منتج واحد قيد الانتظار الطلب بالكامل في YesStyle؟ لأن الطلب إذا شُحن كطرد واحد من هونغ كونغ فإنه ينتظر توفر المنتج ذي المهلة الأطول، والتي قد تصل إلى 30 يوم عمل. راجع دائمًا حالة المخزون لكل منتج قبل إتمام الدفع.",
+          "كيف يعمل الشحن المجاني واسترداد الرسوم الجمركية في YesStyle؟ الشحن القياسي مجاني ابتداءً من 35 دولارًا في الولايات المتحدة وأستراليا ونيوزيلندا، و50 دولارًا في المملكة المتحدة وكندا، و45 دولارًا في أيرلندا. وفي الطلبات دون 1,000 دولار، يعيد المتجر الرسوم الجمركية المؤهلة عند التسليم كرصيد في المتجر عند إرسال الإيصال خلال 30 يومًا، باستثناء ضرائب الدفع مثل VAT وGST وضريبة المبيعات الأمريكية.",
+          "هل يمكن إرجاع الملابس أو مستحضرات التجميل المفتوحة في YesStyle؟ يتطلب الإرجاع طلب رقم RMA خلال 14 يومًا من الاستلام مع دفع المشتري شحن الإرجاع، وقد لا تشحن بعض قطع الملابس إلى كل بلد. ولا تقبل منتجات التجميل المفتوحة والمكملات والقطع الحميمية في الإرجاع."
+        ]
+      }
+    ]
   }
 ];
 

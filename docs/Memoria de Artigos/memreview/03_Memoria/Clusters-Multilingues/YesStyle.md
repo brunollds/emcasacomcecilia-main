@@ -5,7 +5,7 @@ modo_i18n: "paridade-completa"
 idioma_fonte: "pt"
 idiomas_alvo: [pt, en, es, fr, de, it, ko, ja, zh-hant, zh-hans, ar]
 fonte_tecnica: "00_Sistema/JOBS/Job-4-Conformacao-JSON.md (seção 3)"
-ultima_revisao: "2026-11-23"
+ultima_revisao: "2026-11-25"
 ---
 
 # Cluster multilíngue — YesStyle
@@ -39,6 +39,21 @@ cupons, confiança e K-beauty). Família nova não entra nele; a
 | `yesstyle-vs-stylekorean` | [[02_Artigos/yesstyle-ou-stylekorean]] | 11/11 | publicado em 09/11/2026 |
 | `stylekorean-trust` | [[02_Artigos/stylekorean-e-confiavel]] | 11/11 | publicado em 09/11/2026 |
 | `yesstyle-primeira-compra` | [[02_Artigos/codigo-yesstyle-primeira-compra-cecilia010]] | 11/11 | publicado em 13/11/2026 |
+| `yesstyle-worth-it` | [[02_Artigos/yesstyle-vale-a-pena]] | 11/11 | 11/11 com capas no CDN (Lote 2, aguardando rebase do PR #1451) |
+
+### Slugs da família `yesstyle-worth-it` (Lote 2, IDs `1448–1458`, no `_manifest.json` local, 11/11 verificadas no CDN)
+
+- `pt` (`1448`): `yesstyle-vale-a-pena`
+- `en` (`1449`): `is-yesstyle-worth-it`
+- `es` (`1450`): `yesstyle-vale-la-pena`
+- `fr` (`1451`): `yesstyle-vaut-il-le-coup`
+- `de` (`1452`): `lohnt-sich-yesstyle`
+- `it` (`1453`): `yesstyle-conviene`
+- `ko` (`1454`): `yesstyle-worth-it-ko`
+- `ja` (`1455`): `yesstyle-worth-it-ja`
+- `zh-hant` (`1456`): `yesstyle-worth-it-zh-hant`
+- `zh-hans` (`1457`): `yesstyle-worth-it-zh-hans`
+- `ar` (`1458`): `yesstyle-worth-it-ar`
 
 ## Regras específicas
 
@@ -63,7 +78,9 @@ cupons, confiança e K-beauty). Família nova não entra nele; a
 - Não localizar frete, impostos ou disponibilidade de país sem fonte específica.
 - Frete, prazo e imposto por país moram na família `yesstyle-shipping-by-country`: os outros
   artigos da YesStyle linkam para ela em vez de repetir números que mudam (a tabela mudou em
-  06/10/2026).
+  06/10/2026 e foi atualizada em 17/11/2026 com volta do envio ao Brasil). Exceção documentada:
+  o guia `yesstyle-worth-it` traz uma simulação localizada de duas sacolas na seção 5 conferida
+  em 25/11/2026 e aponta para `yesstyle-shipping-by-country` para a tabela completa.
 
 ## Gates adicionais
 

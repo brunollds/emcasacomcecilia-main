@@ -38529,6 +38529,60 @@
       "verification_status": "verified"
     },
     {
+      "source_path": "public/images/reviews/bold/bold-snacks-e-boa-hero-pt.webp",
+      "local_url": "/images/reviews/bold/bold-snacks-e-boa-hero-pt.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 89038,
+      "sha256": "dd78f6884e6dc163101d0d934c754caa8660599c95aefb5fab6d307632435530",
+      "width": 1600,
+      "height": 900,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "bold-snacks-e-boa-hero-pt.webp",
+      "storage_filename": "bold-snacks-e-boa-hero-pt.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/bold-snacks-e-boa.json",
+        "docs/Memoria de Artigos/memreview/02_Artigos/bold-snacks-e-boa.md",
+        "src/lib/generated/content-index.ts"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/bold-snacks-e-boa.json",
+          "line": 20,
+          "column": 13,
+          "literal": "/images/reviews/bold/bold-snacks-e-boa-hero-pt.webp",
+          "authority": "source"
+        },
+        {
+          "file": "docs/Memoria de Artigos/memreview/02_Artigos/bold-snacks-e-boa.md",
+          "line": 75,
+          "column": 80,
+          "literal": "/images/reviews/bold/bold-snacks-e-boa-hero-pt.webp",
+          "authority": "source"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 349316,
+          "column": 15,
+          "literal": "/images/reviews/bold/bold-snacks-e-boa-hero-pt.webp",
+          "authority": "generated"
+        }
+      ],
+      "remote_key": "v1/image/dd78f6884e6dc163101d0d934c754caa8660599c95aefb5fab6d307632435530/bold-snacks-e-boa-hero-pt.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/dd78f6884e6dc163101d0d934c754caa8660599c95aefb5fab6d307632435530/bold-snacks-e-boa-hero-pt.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-11-25T12:51:56.666Z",
+      "verification_etag_or_digest": "dd78f6884e6dc163101d0d934c754caa8660599c95aefb5fab6d307632435530",
+      "verification_status": "verified"
+    },
+    {
       "source_path": "public/images/reviews/bold/bold-snacks-e-confiavel-capa-v2.webp",
       "local_url": "/images/reviews/bold/bold-snacks-e-confiavel-capa-v2.webp",
       "media_kind": "image",
@@ -246162,6 +246216,600 @@
       "uploaded_at": null,
       "verified_at": "2026-10-29T04:23:45.407Z",
       "verification_etag_or_digest": "abf31dd2538fd0eaa9886cd98932f8f9921ad69332731d5a0d82369e7a94049b",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/yesstyle/yesstyle-vale-a-pena-hero-ar.webp",
+      "local_url": "/images/reviews/yesstyle/yesstyle-vale-a-pena-hero-ar.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 40008,
+      "sha256": "34cc9ee74e3c782d0a68edc12b2afa4a4ec5bf13ec3ee76442974b8b9ca13343",
+      "width": 1600,
+      "height": 900,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "yesstyle-vale-a-pena-hero-ar.webp",
+      "storage_filename": "yesstyle-vale-a-pena-hero-ar.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/yesstyle-worth-it-ar.json",
+        "docs/Memoria de Artigos/memreview/02_Artigos/yesstyle-vale-a-pena.md",
+        "src/lib/generated/content-index.ts"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/yesstyle-worth-it-ar.json",
+          "line": 25,
+          "column": 13,
+          "literal": "/images/reviews/yesstyle/yesstyle-vale-a-pena-hero-ar.webp",
+          "authority": "source"
+        },
+        {
+          "file": "docs/Memoria de Artigos/memreview/02_Artigos/yesstyle-vale-a-pena.md",
+          "line": 77,
+          "column": 12,
+          "literal": "/images/reviews/yesstyle/yesstyle-vale-a-pena-hero-ar.webp",
+          "authority": "source"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 352007,
+          "column": 15,
+          "literal": "/images/reviews/yesstyle/yesstyle-vale-a-pena-hero-ar.webp",
+          "authority": "generated"
+        }
+      ],
+      "remote_key": "v1/image/34cc9ee74e3c782d0a68edc12b2afa4a4ec5bf13ec3ee76442974b8b9ca13343/yesstyle-vale-a-pena-hero-ar.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/34cc9ee74e3c782d0a68edc12b2afa4a4ec5bf13ec3ee76442974b8b9ca13343/yesstyle-vale-a-pena-hero-ar.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-11-25T12:51:56.668Z",
+      "verification_etag_or_digest": "34cc9ee74e3c782d0a68edc12b2afa4a4ec5bf13ec3ee76442974b8b9ca13343",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/yesstyle/yesstyle-vale-a-pena-hero-de.webp",
+      "local_url": "/images/reviews/yesstyle/yesstyle-vale-a-pena-hero-de.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 39288,
+      "sha256": "1d42e6fc2fcaae2c4b9219a26f363667899373718eeb295097c30e9291d56051",
+      "width": 1600,
+      "height": 900,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "yesstyle-vale-a-pena-hero-de.webp",
+      "storage_filename": "yesstyle-vale-a-pena-hero-de.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/lohnt-sich-yesstyle.json",
+        "docs/Memoria de Artigos/memreview/02_Artigos/yesstyle-vale-a-pena.md",
+        "src/lib/generated/content-index.ts"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/lohnt-sich-yesstyle.json",
+          "line": 25,
+          "column": 13,
+          "literal": "/images/reviews/yesstyle/yesstyle-vale-a-pena-hero-de.webp",
+          "authority": "source"
+        },
+        {
+          "file": "docs/Memoria de Artigos/memreview/02_Artigos/yesstyle-vale-a-pena.md",
+          "line": 71,
+          "column": 12,
+          "literal": "/images/reviews/yesstyle/yesstyle-vale-a-pena-hero-de.webp",
+          "authority": "source"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 350549,
+          "column": 15,
+          "literal": "/images/reviews/yesstyle/yesstyle-vale-a-pena-hero-de.webp",
+          "authority": "generated"
+        }
+      ],
+      "remote_key": "v1/image/1d42e6fc2fcaae2c4b9219a26f363667899373718eeb295097c30e9291d56051/yesstyle-vale-a-pena-hero-de.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/1d42e6fc2fcaae2c4b9219a26f363667899373718eeb295097c30e9291d56051/yesstyle-vale-a-pena-hero-de.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-11-25T12:51:56.668Z",
+      "verification_etag_or_digest": "1d42e6fc2fcaae2c4b9219a26f363667899373718eeb295097c30e9291d56051",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/yesstyle/yesstyle-vale-a-pena-hero-en.webp",
+      "local_url": "/images/reviews/yesstyle/yesstyle-vale-a-pena-hero-en.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 39560,
+      "sha256": "556475a6294e161dfc1c910b16ad86b2535d2783711ff1c723221d45d3c3a515",
+      "width": 1600,
+      "height": 900,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "yesstyle-vale-a-pena-hero-en.webp",
+      "storage_filename": "yesstyle-vale-a-pena-hero-en.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/is-yesstyle-worth-it.json",
+        "docs/Memoria de Artigos/memreview/02_Artigos/yesstyle-vale-a-pena.md",
+        "src/lib/generated/content-index.ts"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/is-yesstyle-worth-it.json",
+          "line": 25,
+          "column": 13,
+          "literal": "/images/reviews/yesstyle/yesstyle-vale-a-pena-hero-en.webp",
+          "authority": "source"
+        },
+        {
+          "file": "docs/Memoria de Artigos/memreview/02_Artigos/yesstyle-vale-a-pena.md",
+          "line": 68,
+          "column": 12,
+          "literal": "/images/reviews/yesstyle/yesstyle-vale-a-pena-hero-en.webp",
+          "authority": "source"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 349820,
+          "column": 15,
+          "literal": "/images/reviews/yesstyle/yesstyle-vale-a-pena-hero-en.webp",
+          "authority": "generated"
+        }
+      ],
+      "remote_key": "v1/image/556475a6294e161dfc1c910b16ad86b2535d2783711ff1c723221d45d3c3a515/yesstyle-vale-a-pena-hero-en.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/556475a6294e161dfc1c910b16ad86b2535d2783711ff1c723221d45d3c3a515/yesstyle-vale-a-pena-hero-en.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-11-25T12:51:56.668Z",
+      "verification_etag_or_digest": "556475a6294e161dfc1c910b16ad86b2535d2783711ff1c723221d45d3c3a515",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/yesstyle/yesstyle-vale-a-pena-hero-es.webp",
+      "local_url": "/images/reviews/yesstyle/yesstyle-vale-a-pena-hero-es.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 41264,
+      "sha256": "7f63aaec975704d49a3ef4684375083db4afd18fd683a5c8afc9b9d5c5e53ae2",
+      "width": 1600,
+      "height": 900,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "yesstyle-vale-a-pena-hero-es.webp",
+      "storage_filename": "yesstyle-vale-a-pena-hero-es.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/yesstyle-vale-la-pena.json",
+        "docs/Memoria de Artigos/memreview/02_Artigos/yesstyle-vale-a-pena.md",
+        "src/lib/generated/content-index.ts"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/yesstyle-vale-la-pena.json",
+          "line": 25,
+          "column": 13,
+          "literal": "/images/reviews/yesstyle/yesstyle-vale-a-pena-hero-es.webp",
+          "authority": "source"
+        },
+        {
+          "file": "docs/Memoria de Artigos/memreview/02_Artigos/yesstyle-vale-a-pena.md",
+          "line": 69,
+          "column": 12,
+          "literal": "/images/reviews/yesstyle/yesstyle-vale-a-pena-hero-es.webp",
+          "authority": "source"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 350063,
+          "column": 15,
+          "literal": "/images/reviews/yesstyle/yesstyle-vale-a-pena-hero-es.webp",
+          "authority": "generated"
+        }
+      ],
+      "remote_key": "v1/image/7f63aaec975704d49a3ef4684375083db4afd18fd683a5c8afc9b9d5c5e53ae2/yesstyle-vale-a-pena-hero-es.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/7f63aaec975704d49a3ef4684375083db4afd18fd683a5c8afc9b9d5c5e53ae2/yesstyle-vale-a-pena-hero-es.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-11-25T12:51:56.668Z",
+      "verification_etag_or_digest": "7f63aaec975704d49a3ef4684375083db4afd18fd683a5c8afc9b9d5c5e53ae2",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/yesstyle/yesstyle-vale-a-pena-hero-fr.webp",
+      "local_url": "/images/reviews/yesstyle/yesstyle-vale-a-pena-hero-fr.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 40182,
+      "sha256": "daf9fcead45d30948208f22618ec62149127d368636790b54b90834a66ca8907",
+      "width": 1600,
+      "height": 900,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "yesstyle-vale-a-pena-hero-fr.webp",
+      "storage_filename": "yesstyle-vale-a-pena-hero-fr.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/yesstyle-vaut-il-le-coup.json",
+        "docs/Memoria de Artigos/memreview/02_Artigos/yesstyle-vale-a-pena.md",
+        "src/lib/generated/content-index.ts"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/yesstyle-vaut-il-le-coup.json",
+          "line": 25,
+          "column": 13,
+          "literal": "/images/reviews/yesstyle/yesstyle-vale-a-pena-hero-fr.webp",
+          "authority": "source"
+        },
+        {
+          "file": "docs/Memoria de Artigos/memreview/02_Artigos/yesstyle-vale-a-pena.md",
+          "line": 70,
+          "column": 12,
+          "literal": "/images/reviews/yesstyle/yesstyle-vale-a-pena-hero-fr.webp",
+          "authority": "source"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 350306,
+          "column": 15,
+          "literal": "/images/reviews/yesstyle/yesstyle-vale-a-pena-hero-fr.webp",
+          "authority": "generated"
+        }
+      ],
+      "remote_key": "v1/image/daf9fcead45d30948208f22618ec62149127d368636790b54b90834a66ca8907/yesstyle-vale-a-pena-hero-fr.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/daf9fcead45d30948208f22618ec62149127d368636790b54b90834a66ca8907/yesstyle-vale-a-pena-hero-fr.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-11-25T12:51:56.668Z",
+      "verification_etag_or_digest": "daf9fcead45d30948208f22618ec62149127d368636790b54b90834a66ca8907",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/yesstyle/yesstyle-vale-a-pena-hero-it.webp",
+      "local_url": "/images/reviews/yesstyle/yesstyle-vale-a-pena-hero-it.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 39842,
+      "sha256": "5e181a21f8e0b5ccd8cd560f2f2ca55fad936a69ec753c7cc123ecfb6fc6c621",
+      "width": 1600,
+      "height": 900,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "yesstyle-vale-a-pena-hero-it.webp",
+      "storage_filename": "yesstyle-vale-a-pena-hero-it.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/yesstyle-conviene.json",
+        "docs/Memoria de Artigos/memreview/02_Artigos/yesstyle-vale-a-pena.md",
+        "src/lib/generated/content-index.ts"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/yesstyle-conviene.json",
+          "line": 25,
+          "column": 13,
+          "literal": "/images/reviews/yesstyle/yesstyle-vale-a-pena-hero-it.webp",
+          "authority": "source"
+        },
+        {
+          "file": "docs/Memoria de Artigos/memreview/02_Artigos/yesstyle-vale-a-pena.md",
+          "line": 72,
+          "column": 12,
+          "literal": "/images/reviews/yesstyle/yesstyle-vale-a-pena-hero-it.webp",
+          "authority": "source"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 350792,
+          "column": 15,
+          "literal": "/images/reviews/yesstyle/yesstyle-vale-a-pena-hero-it.webp",
+          "authority": "generated"
+        }
+      ],
+      "remote_key": "v1/image/5e181a21f8e0b5ccd8cd560f2f2ca55fad936a69ec753c7cc123ecfb6fc6c621/yesstyle-vale-a-pena-hero-it.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/5e181a21f8e0b5ccd8cd560f2f2ca55fad936a69ec753c7cc123ecfb6fc6c621/yesstyle-vale-a-pena-hero-it.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-11-25T12:51:56.668Z",
+      "verification_etag_or_digest": "5e181a21f8e0b5ccd8cd560f2f2ca55fad936a69ec753c7cc123ecfb6fc6c621",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/yesstyle/yesstyle-vale-a-pena-hero-ja.webp",
+      "local_url": "/images/reviews/yesstyle/yesstyle-vale-a-pena-hero-ja.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 40890,
+      "sha256": "07323e3305fbfb8c1b8ea3a49528b4b7248b13b8561ab5cde145d1318d4b723e",
+      "width": 1600,
+      "height": 900,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "yesstyle-vale-a-pena-hero-ja.webp",
+      "storage_filename": "yesstyle-vale-a-pena-hero-ja.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/yesstyle-worth-it-ja.json",
+        "docs/Memoria de Artigos/memreview/02_Artigos/yesstyle-vale-a-pena.md",
+        "src/lib/generated/content-index.ts"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/yesstyle-worth-it-ja.json",
+          "line": 25,
+          "column": 13,
+          "literal": "/images/reviews/yesstyle/yesstyle-vale-a-pena-hero-ja.webp",
+          "authority": "source"
+        },
+        {
+          "file": "docs/Memoria de Artigos/memreview/02_Artigos/yesstyle-vale-a-pena.md",
+          "line": 74,
+          "column": 12,
+          "literal": "/images/reviews/yesstyle/yesstyle-vale-a-pena-hero-ja.webp",
+          "authority": "source"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 351278,
+          "column": 15,
+          "literal": "/images/reviews/yesstyle/yesstyle-vale-a-pena-hero-ja.webp",
+          "authority": "generated"
+        }
+      ],
+      "remote_key": "v1/image/07323e3305fbfb8c1b8ea3a49528b4b7248b13b8561ab5cde145d1318d4b723e/yesstyle-vale-a-pena-hero-ja.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/07323e3305fbfb8c1b8ea3a49528b4b7248b13b8561ab5cde145d1318d4b723e/yesstyle-vale-a-pena-hero-ja.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-11-25T12:51:56.668Z",
+      "verification_etag_or_digest": "07323e3305fbfb8c1b8ea3a49528b4b7248b13b8561ab5cde145d1318d4b723e",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/yesstyle/yesstyle-vale-a-pena-hero-ko.webp",
+      "local_url": "/images/reviews/yesstyle/yesstyle-vale-a-pena-hero-ko.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 36458,
+      "sha256": "614dfb4249e77e280ee93e073fae933ac86be38d34a421208ff8d31d8af2f312",
+      "width": 1600,
+      "height": 900,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "yesstyle-vale-a-pena-hero-ko.webp",
+      "storage_filename": "yesstyle-vale-a-pena-hero-ko.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/yesstyle-worth-it-ko.json",
+        "docs/Memoria de Artigos/memreview/02_Artigos/yesstyle-vale-a-pena.md",
+        "src/lib/generated/content-index.ts"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/yesstyle-worth-it-ko.json",
+          "line": 25,
+          "column": 13,
+          "literal": "/images/reviews/yesstyle/yesstyle-vale-a-pena-hero-ko.webp",
+          "authority": "source"
+        },
+        {
+          "file": "docs/Memoria de Artigos/memreview/02_Artigos/yesstyle-vale-a-pena.md",
+          "line": 73,
+          "column": 12,
+          "literal": "/images/reviews/yesstyle/yesstyle-vale-a-pena-hero-ko.webp",
+          "authority": "source"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 351035,
+          "column": 15,
+          "literal": "/images/reviews/yesstyle/yesstyle-vale-a-pena-hero-ko.webp",
+          "authority": "generated"
+        }
+      ],
+      "remote_key": "v1/image/614dfb4249e77e280ee93e073fae933ac86be38d34a421208ff8d31d8af2f312/yesstyle-vale-a-pena-hero-ko.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/614dfb4249e77e280ee93e073fae933ac86be38d34a421208ff8d31d8af2f312/yesstyle-vale-a-pena-hero-ko.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-11-25T12:51:56.668Z",
+      "verification_etag_or_digest": "614dfb4249e77e280ee93e073fae933ac86be38d34a421208ff8d31d8af2f312",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/yesstyle/yesstyle-vale-a-pena-hero-pt.webp",
+      "local_url": "/images/reviews/yesstyle/yesstyle-vale-a-pena-hero-pt.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 41010,
+      "sha256": "2746ff902036823c265565f71862013fb66ac85851096923bdcef921ab2b1a35",
+      "width": 1600,
+      "height": 900,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "yesstyle-vale-a-pena-hero-pt.webp",
+      "storage_filename": "yesstyle-vale-a-pena-hero-pt.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/yesstyle-vale-a-pena.json",
+        "docs/Memoria de Artigos/memreview/02_Artigos/yesstyle-vale-a-pena.md",
+        "src/lib/generated/content-index.ts"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/yesstyle-vale-a-pena.json",
+          "line": 24,
+          "column": 13,
+          "literal": "/images/reviews/yesstyle/yesstyle-vale-a-pena-hero-pt.webp",
+          "authority": "source"
+        },
+        {
+          "file": "docs/Memoria de Artigos/memreview/02_Artigos/yesstyle-vale-a-pena.md",
+          "line": 67,
+          "column": 12,
+          "literal": "/images/reviews/yesstyle/yesstyle-vale-a-pena-hero-pt.webp",
+          "authority": "source"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 349577,
+          "column": 15,
+          "literal": "/images/reviews/yesstyle/yesstyle-vale-a-pena-hero-pt.webp",
+          "authority": "generated"
+        }
+      ],
+      "remote_key": "v1/image/2746ff902036823c265565f71862013fb66ac85851096923bdcef921ab2b1a35/yesstyle-vale-a-pena-hero-pt.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/2746ff902036823c265565f71862013fb66ac85851096923bdcef921ab2b1a35/yesstyle-vale-a-pena-hero-pt.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-11-25T12:51:56.668Z",
+      "verification_etag_or_digest": "2746ff902036823c265565f71862013fb66ac85851096923bdcef921ab2b1a35",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/yesstyle/yesstyle-vale-a-pena-hero-zh-hans.webp",
+      "local_url": "/images/reviews/yesstyle/yesstyle-vale-a-pena-hero-zh-hans.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 40536,
+      "sha256": "58bdc4890761b3fec9c546607eb30c746fe33394c01e0488cd7ab83c58df65de",
+      "width": 1600,
+      "height": 900,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "yesstyle-vale-a-pena-hero-zh-hans.webp",
+      "storage_filename": "yesstyle-vale-a-pena-hero-zh-hans.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/yesstyle-worth-it-zh-hans.json",
+        "docs/Memoria de Artigos/memreview/02_Artigos/yesstyle-vale-a-pena.md",
+        "src/lib/generated/content-index.ts"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/yesstyle-worth-it-zh-hans.json",
+          "line": 25,
+          "column": 13,
+          "literal": "/images/reviews/yesstyle/yesstyle-vale-a-pena-hero-zh-hans.webp",
+          "authority": "source"
+        },
+        {
+          "file": "docs/Memoria de Artigos/memreview/02_Artigos/yesstyle-vale-a-pena.md",
+          "line": 76,
+          "column": 17,
+          "literal": "/images/reviews/yesstyle/yesstyle-vale-a-pena-hero-zh-hans.webp",
+          "authority": "source"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 351764,
+          "column": 15,
+          "literal": "/images/reviews/yesstyle/yesstyle-vale-a-pena-hero-zh-hans.webp",
+          "authority": "generated"
+        }
+      ],
+      "remote_key": "v1/image/58bdc4890761b3fec9c546607eb30c746fe33394c01e0488cd7ab83c58df65de/yesstyle-vale-a-pena-hero-zh-hans.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/58bdc4890761b3fec9c546607eb30c746fe33394c01e0488cd7ab83c58df65de/yesstyle-vale-a-pena-hero-zh-hans.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-11-25T12:51:56.668Z",
+      "verification_etag_or_digest": "58bdc4890761b3fec9c546607eb30c746fe33394c01e0488cd7ab83c58df65de",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/yesstyle/yesstyle-vale-a-pena-hero-zh-hant.webp",
+      "local_url": "/images/reviews/yesstyle/yesstyle-vale-a-pena-hero-zh-hant.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 40232,
+      "sha256": "e2822fa0a304044e28663323ba9b81ec2418d557edccc06ffac106a4e2fb72a2",
+      "width": 1600,
+      "height": 900,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "yesstyle-vale-a-pena-hero-zh-hant.webp",
+      "storage_filename": "yesstyle-vale-a-pena-hero-zh-hant.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/yesstyle-worth-it-zh-hant.json",
+        "docs/Memoria de Artigos/memreview/02_Artigos/yesstyle-vale-a-pena.md",
+        "src/lib/generated/content-index.ts"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/yesstyle-worth-it-zh-hant.json",
+          "line": 25,
+          "column": 13,
+          "literal": "/images/reviews/yesstyle/yesstyle-vale-a-pena-hero-zh-hant.webp",
+          "authority": "source"
+        },
+        {
+          "file": "docs/Memoria de Artigos/memreview/02_Artigos/yesstyle-vale-a-pena.md",
+          "line": 75,
+          "column": 17,
+          "literal": "/images/reviews/yesstyle/yesstyle-vale-a-pena-hero-zh-hant.webp",
+          "authority": "source"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 351521,
+          "column": 15,
+          "literal": "/images/reviews/yesstyle/yesstyle-vale-a-pena-hero-zh-hant.webp",
+          "authority": "generated"
+        }
+      ],
+      "remote_key": "v1/image/e2822fa0a304044e28663323ba9b81ec2418d557edccc06ffac106a4e2fb72a2/yesstyle-vale-a-pena-hero-zh-hant.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/e2822fa0a304044e28663323ba9b81ec2418d557edccc06ffac106a4e2fb72a2/yesstyle-vale-a-pena-hero-zh-hant.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-11-25T12:51:56.668Z",
+      "verification_etag_or_digest": "e2822fa0a304044e28663323ba9b81ec2418d557edccc06ffac106a4e2fb72a2",
       "verification_status": "verified"
     },
     {
