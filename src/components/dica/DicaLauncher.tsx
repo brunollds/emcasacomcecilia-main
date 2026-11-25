@@ -90,7 +90,7 @@ export function DicaLauncher({ variant = 'default' }: { variant?: keyof typeof T
   return (
     <>
       {collapsed ? (
-        <div className={`fixed end-3 bottom-[max(0.75rem,env(safe-area-inset-bottom))] z-40 flex print:hidden sm:end-5 sm:bottom-5 ${theme.lift}`}>
+        <div className={`fixed end-3 bottom-[max(0.75rem,env(safe-area-inset-bottom))] z-40 flex print:hidden sm:inset-x-0 sm:mx-auto sm:w-fit sm:bottom-5 ${theme.lift}`}>
           <button
             ref={openerRef}
             type="button"
@@ -107,7 +107,7 @@ export function DicaLauncher({ variant = 'default' }: { variant?: keyof typeof T
         </div>
       ) : (
         <div
-          className={`fixed inset-x-3 bottom-[max(0.75rem,env(safe-area-inset-bottom))] z-40 flex min-h-[52px] items-center gap-1 rounded-2xl border-2 p-1.5 ps-2.5 print:hidden sm:inset-x-auto sm:end-5 sm:bottom-5 sm:w-[360px] ${theme.bar} ${theme.lift}`}
+          className={`fixed inset-x-3 bottom-[max(0.75rem,env(safe-area-inset-bottom))] z-40 flex min-h-[52px] items-center gap-1 rounded-2xl border-2 p-1.5 ps-2.5 print:hidden sm:inset-x-0 sm:mx-auto sm:bottom-5 sm:w-[360px] ${theme.bar} ${theme.lift}`}
         >
           <button
             ref={openerRef}
