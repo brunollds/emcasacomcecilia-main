@@ -6,7 +6,7 @@ Fluxo v2. Plano em `ROTEIRO-PILOTO.md`; perguntas e escopo em `0-orientacao.md`;
 
 | Arquivo | Papel | Sessão | Branch e PR |
 |---|---|---|---|
-| `0-orientacao.md`, `briefs/`, `decisoes.md`, este diário, `ROTEIRO-PILOTO.md`, `1-bruto/README.md`, `2-processado/COMO-REFAZER.md`, `4-saida/` | Coordenação | Pesquisa de pautas | — |
+| `0-orientacao.md`, `briefs/`, `decisoes.md`, este diário, `ROTEIRO-PILOTO.md`, `1-bruto/README.md`, `2-processado/COMO-REFAZER.md`, `3-matriz/estados-revisao.csv`, `4-saida/` | Coordenação | Pesquisa de pautas | — |
 | `catalogo.csv`, `ids-catalogo.csv`, `relatos/etapa-2.md` | Catálogo | BAW: catálogo do parceiro (etapa 2), `local_3f62aa43-6445-4826-8502-0d911fed5b9c` | `docs/demanda-baw-etapa2`, #1139 |
 | `sinais.csv`, `resumo-sinais.md`, `relatos/etapa-3.md` | Pesquisa | BAW: interesse externo (etapa 3), `local_03eee6e1-fdee-4fa2-b2cc-bf2b8a5779f3` | `docs/demanda-baw-etapa3`, #1184 |
 | `nossos-dados.csv`, `comercial.csv`, `cobertura.csv`, `relatos/etapa-4.md` | Dados | BAW: dados do parceiro e cobertura (etapa 4), `local_b6baaa22-0b04-421b-9742-052c18fe6405` | `docs/demanda-baw-etapa4` (#1138), `docs/demanda-baw-etapa4b` (#1140), recorte dirigido (#1190, #1192) e correção (#1193) |
@@ -28,9 +28,14 @@ Fluxo v2. Plano em `ROTEIRO-PILOTO.md`; perguntas e escopo em `0-orientacao.md`;
 | Cobertura nova (4B) | 2026-11-25 00:21 | 2026-11-25 00:33 | 12 | Mensagem 4 |
 | Análise (etapa 5) | 2026-11-25 00:46 | 2026-11-25 01:03 | 17 | Relógio da máquina |
 | Revisão, primeira passada | 2026-11-25 01:05 | 2026-11-25 01:15 | 10 | Relógio da máquina |
+| Correção do analista | 2026-11-25 01:15 | 2026-11-25 01:20 | 5 | Mensagem 5 |
+| Revisão, segunda passada | 2026-11-25 01:19 | 2026-11-25 01:23 | 4 | Mensagem 6 |
 
 Soma do trabalho das sessões do parceiro até 18/11: 77 minutos (31 + 20 + 6 + 20), sem a coordenação e sem as esperas.
-Com a releitura, a cobertura nova, a análise e a primeira passada da revisão: 124 minutos (77 + 8 + 12 + 17 + 10).
+Soma da rodada inteira, só o trabalho das sessões do parceiro: 150 minutos. São os 77 de 18/11, mais o recorte dirigido
+(12) e o Clarity (5) da noite de 18/11, a releitura (8), a cobertura nova (12), a análise (17), as duas passadas da
+revisão (10 e 4) e a correção (5). Ficam de fora a coordenação, que não foi cronometrada, e as esperas: a do cartão da
+etapa 3 (7h17) e os seis dias entre a última coleta (18/11) e o fechamento de insumos (24/11).
 
 ## Registro
 
@@ -84,6 +89,20 @@ Com a releitura, a cobertura nova, a análise e a primeira passada da revisão: 
 - **2026-11-25 01:15:** mensagem 5 ao analista: corrigir as 5 linhas, numa branch nova. A coordenação corrigiu a
   contradição da semente apontada pela revisão (§4 contra §11, FashionUnited): os fatos que só citam a FashionUnited
   ficam a confirmar.
+- **2026-11-25 01:15 a 01:23:** o analista confirmou a mensagem 5 e corrigiu as 5 linhas no #1445 (commit
+  `caa17fffe`). A mensagem 6 pediu a segunda passada ao revisor, que confirmou a leitura e aprovou as 5 no #1446: a
+  matriz mudou só nessas linhas, com ação, prioridade e confiança iguais, e nenhuma linha aprovada mudou de sentido.
+- **2026-11-25 01:28:** integração, com o GO do Bruno ("Sim, integrar"):
+  - estados `pronta` nas 35 linhas, gravados em `3-matriz/estados-revisao.csv`, arquivo novo da coordenação, com o
+    parecer e o commit revisado de cada id;
+  - para o gerador do analista ler esse arquivo, a coordenação mudou o `montar-matriz.cjs` em 25/11 (o PROGRAMA pede
+    avisar e registrar: está aqui e na mensagem ao analista). Na matriz, só a coluna `estado_revisao` mudou, e o
+    validador passa;
+  - `LEITURA.md` sincronizado na linha do estado;
+  - `4-saida/recomendacoes.md` gerado por `4-saida/gerar-recomendacoes.cjs`: 13 com ação, 4 ideias registradas, 6 de não
+    criar e 12 de manter;
+  - `4-saida/decisoes.json` com as duas linhas executadas fora do programa: o tênis (BW7) e a tabela de medidas (BW10).
+    As outras 33 esperam a decisão do Bruno.
 
 ## Fechamento de insumos
 

@@ -155,6 +155,29 @@ As duas tabelas de "Mudanças propostas, ainda não aplicadas" acima foram resol
     está aberta.
 - **Vale para os outros parceiros?** Sim.
 
+## 2026-11-25 · BAW · revisão e integração
+
+- **O que aconteceu:**
+  - A revisão devolveu 5 de 35 linhas (14%), contra 6 de 26 (23%) na L'Amazonie. As 5 foram corrigidas em 5 minutos,
+    e a segunda passada levou 4.
+  - Erros que a revisão pegou:
+    - um fato da semente sem trecho lido: a FashionUnited, da qual só se leu o título;
+    - uma leitura do bruto que a matriz perdeu: a `/combos` de 18/11;
+    - duas linhas altas que davam como fato uma oferta sem regulamento.
+  - Bloqueios: nenhum 429 ou 403. Houve três paradas por login ou verificação: Mercado Livre, Perplexity e Copilot.
+  - Na integração, o gerador do analista lia o estado de cada linha de dentro do próprio script. Gravar o `pronta`
+    exigiria editar a leitura do analista. A coordenação passou o estado para um arquivo dela, `estados-revisao.csv`,
+    que o gerador lê.
+  - As decisões que o programa podia mudar no tênis (P1) e na tabela de medidas (P2) já tinham sido tomadas antes da
+    análise. Nesta rodada, nenhuma decisão mudou por causa da investigação até agora: as outras esperam o Bruno.
+- **O que mudou:** `parceiros/baw/3-matriz/estados-revisao.csv` e `montar-matriz.cjs`; `parceiros/baw/4-saida/`.
+- **Regras para as próximas rodadas:**
+  - O modelo do brief da etapa 5 pede ao analista que o gerador leia o `estados-revisao.csv` desde a primeira versão.
+    A coordenação não mexe no script dele.
+  - Fato da semente sem trecho lido entra na matriz como "a confirmar". A etapa 0 marca esses fatos ao escrever a
+    orientação.
+- **Vale para os outros parceiros?** Sim.
+
 Modelo de registro:
 
 ```markdown

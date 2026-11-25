@@ -55,6 +55,19 @@ do autocompletar (pasta nova, nunca a mesma), com 3 a 5 segundos entre pedidos e
 node "docs/Memoria de Artigos/memreview/05_Demanda/parceiros/baw/2-processado/coletar-autocompletar.cjs" <sementes.tsv> <pasta-da-coleta>
 ```
 
+## Matriz e saída (etapa 5 e integração)
+
+```bash
+node "docs/Memoria de Artigos/memreview/05_Demanda/parceiros/baw/3-matriz/montar-matriz.cjs"
+node "docs/Memoria de Artigos/memreview/05_Demanda/parceiros/baw/3-matriz/validar-matriz.cjs"
+node "docs/Memoria de Artigos/memreview/05_Demanda/parceiros/baw/4-saida/gerar-recomendacoes.cjs"
+```
+
+O `montar-matriz.cjs` é do analista e lê o `3-matriz/estados-revisao.csv`, que é da coordenação: um estado por id, com
+o parecer e o commit revisado. Sem o arquivo, as linhas saem `em-revisao`. Ele também reescreve o bloco de contagens do
+`LEITURA.md`. O `gerar-recomendacoes.cjs` para se alguma linha não estiver `pronta` ou se o `decisoes.json` citar um id
+que não existe. Os três dão a mesma saída quando rodam de novo. Última geração em 25/11/2026, na integração.
+
 ## Dados do parceiro e cobertura (etapa 4)
 
 | Arquivo | Origem | Como gerar | Última geração |
