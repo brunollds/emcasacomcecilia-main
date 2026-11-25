@@ -54,12 +54,16 @@ Soma do trabalho das sessões do parceiro: 77 minutos (31 + 20 + 6 + 20), sem a 
   sem mudar os valores (#1193). A decisão pendente das 12:55 ficou resolvida assim.
 - **2026-11-24 18:00:** o Bruno aprovou o fechamento de insumos e a releitura da vitrine pela etapa 3 ("Sim, os dois").
   Mensagem 3 da coordenação enviada à sessão da etapa 3 (`decisoes.md`).
+- **2026-11-24 18:07 a 18:15:** releitura da vitrine pela etapa 3 (8 minutos, #1421).
+- **2026-11-25 00:20:** o Bruno aprovou a cobertura nova ("Sim, pedir"). Mensagem 4 à etapa 4; entrega das 00:21 às 00:33
+  (12 minutos, #1437).
+- **2026-11-25:** conferência final; insumos fechados no commit `7ae53114`. A etapa 5 abre com o GO do Bruno.
 
 ## Fechamento de insumos
 
 Feito pela coordenação em 24/11/2026, sobre `origin/main` em `d9748c8c`, num worktree novo e destacado (sem nenhum
-arquivo local). **Resultado: insumos não fechados.** O bruto e três dos quatro geradores conferem; a cobertura não
-reflete mais o site e a vitrine da Black Friday está sendo relida. A etapa 5 só abre depois das duas lacunas abaixo.
+arquivo local). **Resultado em 24/11: insumos não fechados.** O bruto e três dos quatro geradores conferiam; a cobertura não refletia
+mais o site e a vitrine da Black Friday estava sendo relida. **Fechados em 25/11** (seção "Conferência final", abaixo).
 
 ### Arquivos e hashes
 
@@ -129,6 +133,37 @@ releitura. Os trechos literais estão nos relatos (etapa 2, seção 4; etapa 3, 
 | Respostas de IA que faltaram (Perplexity q4 e q5, Copilot) | Próxima rodada | Não |
 | Relatório de resgates do código | A BAW, se mandar | Não |
 | Data em que a BAW foi ao ar | Resolvida: primeira impressão no Search Console em 16/11; BW7 a BW9 em 21/11 (release `c0747380`); reforma em 22/11 (`5c06666`); deploy da BW10 e da BW11 não conferido | — |
+
+### Conferência final (25/11/2026)
+
+Sobre `origin/main` em `7ae53114`, num worktree novo e destacado, depois da releitura da vitrine (#1421) e da cobertura
+nova (#1437).
+
+| O que | Resultado |
+|---|---|
+| Bruto | 13 coletas, 676 hashes; a coleta nova, `20261124-1808-vitrine-blackfriday`, tem 31 (18 no repositório e 13 HTML nos brutos pesados). Nenhum diferente ou ausente |
+| `gerar-catalogo.cjs` | 716 entidades, 0 ids novos, nenhuma diferença |
+| `gerar-sinais.cjs` | 1.103 linhas (1.075 de 18/11 e 28 da releitura, `sin-baw-1076` a `sin-baw-1103`), nenhuma diferença |
+| `etapa4-montar.mjs` | 506 registros em `nossos-dados.csv`, 4 em `comercial.csv` e 104 em `cobertura.csv`, nenhuma diferença; duas rodadas com o mesmo SHA-256 do `cobertura.csv` (`cf65bfb7…`) |
+| Ligações | As 104 linhas da cobertura têm entidades, e as 44 entidades citadas estão no `catalogo.csv` |
+| Cobertura | Lê os artigos no commit `4c639f06`. As 64 linhas de 18/11 continuam, e as novas vão de `cob-baw-0065` a `0104`. P1 (tênis) e P2 entram como executadas pela BW7 e pela BW10 |
+
+**Commit dos insumos para a etapa 5: `7ae53114`.** O analista cita esse commit no `LEITURA.md`.
+
+Estado de cada pergunta para a análise, com o relato onde está o trecho literal:
+
+| Pergunta | Estado para a análise | Onde está o trecho |
+|---|---|---|
+| P1 | Tênis executado (BW7). Moletom, camiseta oversized, calça e kids continuam abertos | Etapa 3; cobertura |
+| P2 | Executada (BW10) | Etapa 2, seção 4; cobertura |
+| P3 | Respondida em 24/11: o banner do "+30% OFF na segunda peça" saiu e entrou "PIX NIGHT / Até 80%OFF / PAGUE 3, LEVE 4 / +15%OFF NO PIX", sem data nem regulamento; regras provisórias, sem carrinho | Etapa 3, seção 9 |
+| P4 | Aberta: collabs fora do catálogo e loja física sem fonte oficial | Etapa 2, seção 6; etapa 3, seção 6 |
+| P5 | Aberta, com as respostas de IA guardadas | Etapa 4, seção 4 |
+| P6 | Parcial: o Mercado Livre pediu verificação de conta | Etapa 3, seção 6 |
+| P7 | Aberta: perguntas do Google contra os 11 artigos | Etapa 3; cobertura |
+
+As lacunas sem bloqueio da tabela de 24/11 continuam com o mesmo destino. As fichas dos 11 artigos em `02_Artigos/`
+passaram a `publicado`, e a BW10 e a BW11 saíram de "aguardando deploy" na Fila (os 11 respondem 200 no site em 25/11).
 
 ### Conflito de dono do `COMO-REFAZER.md`
 

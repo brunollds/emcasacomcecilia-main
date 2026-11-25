@@ -46,7 +46,7 @@ Ressalvas:
 
 | Arquivo | Coletas de origem | Como gerar | Última geração |
 |---|---|---|---|
-| `sinais.csv` e `resumo-sinais.md` | as cinco coletas `1-bruto/20261118-2045-*` a `20261118-2054-*` | `node "docs/Memoria de Artigos/memreview/05_Demanda/parceiros/baw/2-processado/gerar-sinais.cjs"` | 2026-11-18, etapa 3; conferido igual em 24/11 |
+| `sinais.csv` e `resumo-sinais.md` | as cinco coletas `1-bruto/20261118-2045-*` a `20261118-2054-*` e a releitura `20261124-1808-vitrine-blackfriday` | `node "docs/Memoria de Artigos/memreview/05_Demanda/parceiros/baw/2-processado/gerar-sinais.cjs"` | 2026-11-24, etapa 3 (#1421); conferido igual em 25/11 |
 
 O gerador para em célula vazia, id repetido, entidade fora do catálogo ou evidência que não confere no bruto. Coleta nova
 do autocompletar (pasta nova, nunca a mesma), com 3 a 5 segundos entre pedidos e parada no primeiro HTTP diferente de 200:
@@ -60,9 +60,8 @@ node "docs/Memoria de Artigos/memreview/05_Demanda/parceiros/baw/2-processado/co
 | Arquivo | Origem | Como gerar | Última geração |
 |---|---|---|---|
 | `nossos-dados.csv` e `comercial.csv` (4A) | `_site/` (snapshot de 17/11), coleta de IA e as duas coletas do recorte dirigido | `node "docs/Memoria de Artigos/memreview/05_Demanda/parceiros/baw/2-processado/etapa4-montar.mjs"` | 2026-11-18, etapa 4 (#1138, #1190, #1192, #1193); conferido igual em 24/11 |
-| `cobertura.csv` (4B) | `content/reviews/` e `couponsData.ts` | o mesmo comando | 2026-11-18, etapa 4 (#1140) |
+| `cobertura.csv` (4B) | `content/reviews/`, `couponsData.ts` e fichas de `02_Artigos/`, lidos no commit `4c639f06` | o mesmo comando | 2026-11-25, etapa 4 (#1437); conferido igual em 25/11 |
 
-Ressalva: a parte 4B lê os artigos como estão no disco. Em 24/11 ela parou com erro, porque a reforma de 22/11 (#1339)
-renomeou capítulos que o gerador procura. Até a cobertura nova, o `cobertura.csv` só se refaz num checkout de 18/11, e a
-próxima versão do gerador deve ler os artigos num commit fixo (`git show <commit>:content/reviews/...`), registrado no
-relato.
+A parte 4B lê os artigos com `git show 4c639f06:<caminho>`, e não do disco: o commit `4c639f06` precisa estar no
+histórico local (`git fetch origin main`). Para ler o site de outro dia, troque o commit no gerador e registre o novo no
+relato. Até 24/11 o gerador lia do disco e parou depois da reforma de 22/11 (#1339).
