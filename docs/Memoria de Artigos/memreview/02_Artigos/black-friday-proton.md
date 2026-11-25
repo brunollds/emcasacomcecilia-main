@@ -218,3 +218,22 @@ Vira guia de 2027 ou sai do ar; decisão na revisão de dezembro. A conta "1 ano
 - **Unlimited:** a central de ajuda diz que não dá para ter vários planos Plus na mesma conta; a soma dos avulsos (R$ 420,72) fica só como referência de preço.
 - **Fechamento pelo Fable** nos 10 arquivos: formato de moeda de cada idioma, a frase da página de parceiros de volta nos espelhos, espaçamento do chinês.
 - **Links cruzados:** `relatedArticles` com a PN2 e a PN4 nos 10 idiomas.
+
+## Capa v2 nos 11 idiomas (24/11/2026)
+
+- **Capas:** uma por idioma, mesmo enquadramento, chamada e alt próprios de cada idioma (`imageFit: contain`). Fontes e hashes no `MAPA-110-ROTAS-E-ALTS.json`.
+- **Lote 78 do piloto de capas (sequência 26 do Codex, revisão independente do GPT-6.1 Terra, parecer vigente `lotes/78/REVISAO-TERRA.json`):** entregue em `docs/auditoria-capas/ENTREGA-110-HEROES-110-PAGINAS-SEQUENCIA-26-CLAUDE.zip` (`lotes/78/out/`) no checkout principal, no padrão vigente das capas (painel verde à esquerda). As capas anteriores ficam no CDN, sem uso como capa.
+
+| Idioma | Artigo | Capa | Alt |
+| --- | --- | --- | --- |
+| pt | `black-friday-proton` | `/images/reviews/proton/black-friday-proton-hero-pt-v2.webp` | Eclipse com halo roxo, da campanha Black Friday da Proton VPN. A capa pergunta “Black Friday: onde sai mais barato?”. |
+| en | `proton-black-friday` | `/images/reviews/proton/black-friday-proton-hero-en-v2.webp` | A purple eclipse from the Proton VPN Black Friday campaign. The cover asks “Black Friday: where to save?”. |
+| es | `black-friday-proton-ofertas` | `/images/reviews/proton/black-friday-proton-hero-es-v2.webp` | Eclipse con halo violeta de la campaña de Black Friday de Proton VPN. La portada pregunta «Black Friday: ¿dónde sale más barato?». |
+| fr | `black-friday-proton-offres` | `/images/reviews/proton/black-friday-proton-hero-fr-v2.webp` | Éclipse au halo violet de la campagne Black Friday de Proton VPN. La couverture demande « Black Friday : où payer moins cher ? ». |
+| de | `proton-black-friday-angebote` | `/images/reviews/proton/black-friday-proton-hero-de-v2.webp` | Eine Finsternis mit violettem Leuchtring aus der Black-Friday-Kampagne von Proton VPN. Auf dem Titelbild steht „Black Friday: Wo ist es günstiger?“. |
+| it | `black-friday-proton-offerte` | `/images/reviews/proton/black-friday-proton-hero-it-v2.webp` | Eclissi con alone viola della campagna Black Friday di Proton VPN. La copertina chiede «Black Friday: dove costa meno?». |
+| ja | `proton-black-friday-ja` | `/images/reviews/proton/black-friday-proton-hero-ja-v2.webp` | Proton VPNのブラックフライデー広告に使われた、紫の光の輪をまとった日食。表紙の文字は「ブラックフライデー どこが安い？」です。 |
+| ko | `proton-black-friday-ko` | `/images/reviews/proton/black-friday-proton-hero-ko-v2.webp` | Proton VPN 블랙프라이데이 캠페인의 보랏빛 일식 이미지. 표지에는 ‘블랙프라이데이 어디가 더 쌀까?’라고 적혀 있습니다. |
+| zh-hans | `proton-black-friday-zh-hans` | `/images/reviews/proton/black-friday-proton-hero-zh-hans-v2.webp` | Proton VPN 黑色星期五活动画面中的紫色光环日食。封面提问“黑色星期五，哪里更便宜？”。 |
+| zh-hant | `proton-black-friday-zh-hant` | `/images/reviews/proton/black-friday-proton-hero-zh-hant-v2.webp` | Proton VPN 黑色星期五活動畫面中帶有紫色光環的日食。封面提問「黑色星期五，哪裡更便宜？」。 |
+| ar | `proton-black-friday-ar` | `/images/reviews/proton/black-friday-proton-hero-ar-v2.webp` | كسوف تحيط به هالة أرجوانية من حملة Proton VPN للجمعة البيضاء. يسأل الغلاف «الجمعة البيضاء: أين السعر الأقل؟». |

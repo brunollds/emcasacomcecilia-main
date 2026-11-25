@@ -140,3 +140,22 @@ coupon: null
   - Atualização dos botões (`B1`, `B2` e `cta.label`) e `cta.text` em todos os 11 idiomas seguindo o padrão do `SL7`, com valor local oficial onde aplicável (`R$ 200` / `45 €` em PT, `US$ 100` / `£40` em EN, `45 €` em ES/FR/DE/IT, `7,000円` em JA) e explicação de que o crédito entra na fatura após dois ciclos pagos.
   - Re-renderização determinística via `sharp` da capa italiana `piani-starlink-100-200-mbps-o-max-capa-v2.webp` para eliminar o retângulo azul no canto inferior direito, com upload FTPS e verificação no mapa de entrega (`phase5-export`).
 - **O que fica pendente:** revisão final e GO explícito do Bruno para merge do PR `#1407` e posterior deploy.
+
+## Capa v2 nos 11 idiomas (24/11/2026)
+
+- **Capas:** uma por idioma, mesmo enquadramento, chamada e alt próprios de cada idioma (`imageFit: contain`). Fontes e hashes no `MAPA-110-ROTAS-E-ALTS.json`.
+- **Lote 76 do piloto de capas (sequência 26 do Codex, revisão independente do GPT-6.1 Terra, parecer vigente `lotes/76/REVISAO-TERRA.json`):** entregue em `docs/auditoria-capas/ENTREGA-110-HEROES-110-PAGINAS-SEQUENCIA-26-CLAUDE.zip` (`lotes/76/out/`) no checkout principal, no padrão vigente das capas (painel verde à esquerda). As capas anteriores ficam no CDN, sem uso como capa.
+
+| Idioma | Artigo | Capa | Alt |
+| --- | --- | --- | --- |
+| pt | `planos-starlink-100-200-mbps-ou-max` | `/images/reviews/starlink/planos-starlink-100-200-mbps-ou-max-hero-pt-v2.webp` | Antena Starlink no telhado de uma varanda com montanhas ao fundo. A capa pergunta “100, 200 Mbps ou Max?”. |
+| en | `starlink-residential-100-200-mbps-or-max` | `/images/reviews/starlink/planos-starlink-100-200-mbps-ou-max-hero-en-v2.webp` | A Starlink dish on a porch roof with mountains in the background. The cover asks “100, 200 Mbps or Max?”. |
+| es | `planes-starlink-100-200-mbps-o-max` | `/images/reviews/starlink/planos-starlink-100-200-mbps-ou-max-hero-es-v2.webp` | Antena Starlink en el tejado de un porche con montañas al fondo. La portada pregunta «¿100, 200 Mbps o Max?». |
+| fr | `forfaits-starlink-100-200-mbps-ou-max` | `/images/reviews/starlink/planos-starlink-100-200-mbps-ou-max-hero-fr-v2.webp` | Antenne Starlink sur le toit d’un porche avec des montagnes à l’arrière-plan. La couverture demande « 100, 200 Mbit/s ou Max ? ». |
+| de | `starlink-tarife-100-200-mbits-oder-max` | `/images/reviews/starlink/planos-starlink-100-200-mbps-ou-max-hero-de-v2.webp` | Starlink-Antenne auf dem Dach einer Veranda mit Bergen im Hintergrund. Auf dem Titelbild steht „100, 200 Mbit/s oder Max?“. |
+| it | `piani-starlink-100-200-mbps-o-max` | `/images/reviews/starlink/planos-starlink-100-200-mbps-ou-max-hero-it-v2.webp` | Antenna Starlink sul tetto di un portico con le montagne sullo sfondo. La copertina chiede «100, 200 Mbps o Max?». |
+| ja | `starlink-plans-100-200-max-ja` | `/images/reviews/starlink/planos-starlink-100-200-mbps-ou-max-hero-ja-v2.webp` | 山を背景にポーチの屋根に取り付けられたStarlinkのアンテナ。表紙には「住宅プラン 日本と海外」とあります。 |
+| ko | `starlink-plans-100-200-max-ko` | `/images/reviews/starlink/planos-starlink-100-200-mbps-ou-max-hero-ko-v2.webp` | 산을 배경으로 현관 지붕에 설치된 스타링크 안테나. 표지에는 ‘100Mbps와 맥스 요금제’라고 적혀 있습니다. |
+| zh-hans | `starlink-plans-100-200-max-zh-hans` | `/images/reviews/starlink/planos-starlink-100-200-mbps-ou-max-hero-zh-hans-v2.webp` | 门廊屋顶上的 Starlink 天线，远处可见群山。封面提问“家用套餐该怎么选？”。 |
+| zh-hant | `starlink-plans-100-200-max-zh-hant` | `/images/reviews/starlink/planos-starlink-100-200-mbps-ou-max-hero-zh-hant-v2.webp` | 門廊屋頂上的 Starlink 天線，遠處可見群山。封面提問「住宅方案該怎麼選？」。 |
+| ar | `starlink-plans-100-200-max-ar` | `/images/reviews/starlink/planos-starlink-100-200-mbps-ou-max-hero-ar-v2.webp` | طبق ستارلينك على سقف الشرفة وخلفه جبال. عنوان الغلاف «الباقات المنزلية في عُمان وقطر». |

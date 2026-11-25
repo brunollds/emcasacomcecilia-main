@@ -165,3 +165,22 @@ plano grátis na comparação.
 - **NetShield e Secure Core:** descritos pelo que fazem, com atribuição (filtragem de domínios com a VPN conectada e o bloqueio ativado; conexão por dois servidores).
 - **Unlimited:** deixa de ser a indicação automática para quem quer dois serviços; o texto manda comparar com o pacote VPN com Pass, que está na página de ofertas.
 - **Título em PT:** "Proton VPN vale a pena? Quando ficar no grátis e quando pagar pelo Plus". O `seoTitle` não mudou.
+
+## Capa v2 nos 11 idiomas (24/11/2026)
+
+- **Capas:** uma por idioma, mesmo enquadramento, chamada e alt próprios de cada idioma (`imageFit: contain`). Fontes e hashes no `MAPA-110-ROTAS-E-ALTS.json`.
+- **Lote 78 do piloto de capas (sequência 26 do Codex, revisão independente do GPT-6.1 Terra, parecer vigente `lotes/78/REVISAO-TERRA.json`):** entregue em `docs/auditoria-capas/ENTREGA-110-HEROES-110-PAGINAS-SEQUENCIA-26-CLAUDE.zip` (`lotes/78/out/`) no checkout principal, no padrão vigente das capas (painel verde à esquerda). As capas anteriores ficam no CDN, sem uso como capa.
+
+| Idioma | Artigo | Capa | Alt |
+| --- | --- | --- | --- |
+| pt | `proton-vpn-vale-a-pena` | `/images/reviews/proton/proton-vpn-vale-a-pena-hero-pt-v2.webp` | Notebook com o aplicativo da Proton VPN aberto, em imagem oficial sobre fundo lilás. A capa pergunta “Grátis ou Plus?”. |
+| en | `is-proton-vpn-worth-it` | `/images/reviews/proton/proton-vpn-vale-a-pena-hero-en-v2.webp` | The Proton VPN app open on a laptop, in an official image on a lilac background. The cover asks “Free or Plus?”. |
+| es | `proton-vpn-vale-la-pena` | `/images/reviews/proton/proton-vpn-vale-a-pena-hero-es-v2.webp` | Portátil con la aplicación de Proton VPN abierta, en una imagen oficial sobre fondo lila. La portada pregunta «¿Gratis o Plus?». |
+| fr | `proton-vpn-vaut-il-le-coup` | `/images/reviews/proton/proton-vpn-vale-a-pena-hero-fr-v2.webp` | Ordinateur portable affichant l’application Proton VPN, sur une image officielle au fond lilas. La couverture demande « Gratuit ou Plus ? ». |
+| de | `lohnt-sich-proton-vpn` | `/images/reviews/proton/proton-vpn-vale-a-pena-hero-de-v2.webp` | Ein Laptop mit geöffneter Proton-VPN-App auf einem offiziellen Bild vor lilafarbenem Hintergrund. Auf dem Titelbild steht „Gratis oder Plus?“. |
+| it | `proton-vpn-conviene` | `/images/reviews/proton/proton-vpn-vale-a-pena-hero-it-v2.webp` | Portatile con l’app di Proton VPN aperta, in un’immagine ufficiale su fondo lilla. La copertina chiede «Gratis o Plus?». |
+| ja | `proton-vpn-worth-it-ja` | `/images/reviews/proton/proton-vpn-vale-a-pena-hero-ja-v2.webp` | 薄紫の背景に、Proton VPNアプリを開いたノートパソコンの公式画像。表紙には「無料版かPlusか？」とあります。 |
+| ko | `proton-vpn-worth-it-ko` | `/images/reviews/proton/proton-vpn-vale-a-pena-hero-ko-v2.webp` | 연보라색 배경에 Proton VPN 앱을 띄운 노트북의 공식 이미지. 표지에는 ‘무료 플랜과 Plus 비교’라고 적혀 있습니다. |
+| zh-hans | `proton-vpn-worth-it-zh-hans` | `/images/reviews/proton/proton-vpn-vale-a-pena-hero-zh-hans-v2.webp` | 淡紫色背景上的官方图片，笔记本电脑打开了 Proton VPN 应用。封面提问“免费版还是 Plus？”。 |
+| zh-hant | `proton-vpn-worth-it-zh-hant` | `/images/reviews/proton/proton-vpn-vale-a-pena-hero-zh-hant-v2.webp` | 淡紫色背景上的官方圖片，筆電開啟了 Proton VPN 應用程式。封面提問「免費版還是 Plus？」。 |
+| ar | `proton-vpn-worth-it-ar` | `/images/reviews/proton/proton-vpn-vale-a-pena-hero-ar-v2.webp` | صورة رسمية لحاسوب محمول يعرض تطبيق Proton VPN على خلفية بنفسجية فاتحة. يسأل الغلاف «الخطة المجانية أم Plus؟». |
