@@ -5,7 +5,7 @@ import { getCatalog, getVocabulary, normalize } from '@/lib/dica/catalog';
 import { POST as dicaRoute } from '@/app/api/dica/route';
 import { handleQuestion, isAllowedOrigin, visitorIp } from '@/lib/dica/handleQuestion';
 import { interpretQuestion } from '@/lib/dica/interpret';
-import { cacheGet, cacheSet, checkVisitor, resetDicaLimitsForTests, takeAiSlot } from '@/lib/dica/limits';
+import { cacheGet, cacheSet, checkVisitor, pruneVisitors, resetDicaLimitsForTests, takeAiSlot } from '@/lib/dica/limits';
 import { cleanupQuestionLog, logQuestion, resetQuestionLogForTests, scrubPersonalData } from '@/lib/dica/questionLog';
 import { existsSync, mkdtempSync, readdirSync, readFileSync, rmSync, writeFileSync } from 'node:fs';
 import { tmpdir } from 'node:os';
@@ -168,6 +168,12 @@ async function main() {
   const midnight = Date.parse('2026-11-25T00:00:00-03:00');
   if (blocked.ok === false) assert.equal(blocked.retryAfterSec, Math.ceil((midnight - (t0 + 25 * 60_000)) / 1000), 'Retry-After até a meia-noite');
   assert.equal(checkVisitor('3.3.3.3', Date.parse('2026-11-25T00:05:00-03:00')).ok, true, 'o dia vira em Brasília');
+  // A contagem de ontem some na virada, com ou sem pergunta: o 1.1.1.1 de ontem volta do zero.
+  resetDicaLimitsForTests();
+  checkVisitor('1.1.1.1', t0);
+  pruneVisitors(Date.parse('2026-11-25T00:01:00-03:00'));
+  assert.equal(checkVisitor('1.1.1.1', Date.parse('2026-11-25T00:01:01-03:00')).ok, true, 'contagem de ontem apagada');
+  assert.equal(checkVisitor('1.1.1.1', Date.parse('2026-11-25T00:01:02-03:00')).ok, false, 'a de hoje segue valendo');
 
   // Teto diário da IA.
   resetDicaLimitsForTests();

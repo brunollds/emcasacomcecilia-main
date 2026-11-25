@@ -5,4 +5,7 @@ export async function register() {
   const { cleanupQuestionLog } = await import('./lib/dica/questionLog');
   void cleanupQuestionLog();
   setInterval(() => void cleanupQuestionLog(), 6 * 60 * 60_000).unref();
+  // A contagem de perguntas por IP, só na memória, não passa do dia.
+  const { pruneVisitors } = await import('./lib/dica/limits');
+  setInterval(() => pruneVisitors(), 60 * 60_000).unref();
 }

@@ -26,16 +26,19 @@ function nextBrasiliaMidnight(now: number): number {
 
 type Visitor = { day: string; dayCount: number; recent: number[] };
 const visitors = new Map<string, Visitor>();
-let calls = 0;
+let prunedDay = '';
+
+// A contagem de um IP não passa do dia em que ele perguntou (a /privacidade promete): roda na primeira pergunta de cada
+// dia e, pelo instrumentation.ts, de hora em hora, com ou sem pergunta.
+export function pruneVisitors(now = Date.now()): void {
+  const day = brasiliaDay(now);
+  prunedDay = day;
+  for (const [key, visitor] of visitors) if (visitor.day !== day) visitors.delete(key);
+}
 
 export function checkVisitor(ip: string, now = Date.now()): { ok: true } | { ok: false; retryAfterSec: number } {
   const day = brasiliaDay(now);
-  calls += 1;
-  if (calls % 200 === 0) {
-    for (const [key, visitor] of visitors) {
-      if (visitor.day !== day && visitor.recent.every((at) => at < now - WINDOW_MS)) visitors.delete(key);
-    }
-  }
+  if (day !== prunedDay) pruneVisitors(now);
   // Teto de memória: com muitos IPs, sai o que entrou primeiro.
   while (visitors.size >= MAX_VISITORS && !visitors.has(ip)) {
     const oldest = visitors.keys().next().value;
@@ -106,5 +109,5 @@ export function resetDicaLimitsForTests(): void {
   cache.clear();
   aiDay = '';
   aiCount = 0;
-  calls = 0;
+  prunedDay = '';
 }
