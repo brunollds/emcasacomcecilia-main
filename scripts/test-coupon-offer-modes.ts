@@ -123,9 +123,11 @@ for (const partner of newPartners) {
   assert.equal(store.hubCategory, partner.hubCategory);
   assert.equal(store.offerUrl, partner.offerUrl);
 }
-// O desconto da Probiótica e o da Max Titanium chegam a 10% mas variam por produto: a página precisa dizer isso.
+// O desconto da Probiótica e o da Max Titanium é "até 10%": o destaque diz o "até", sem o aviso de percentual menor (Bruno, 25/11/2026).
 for (const slug of ['probiotica', 'max-titanium']) {
-  assert.match(getCouponBySlug(slug)?.monthlyHighlight?.note ?? '', /pode ser menor/, `${slug} sem o aviso de até 10%`);
+  const note = getCouponBySlug(slug)?.monthlyHighlight?.note ?? '';
+  assert.match(note, /^Até 10% OFF/, `${slug} sem o "até 10%" no destaque`);
+  assert.doesNotMatch(note, /pode ser menor/, `${slug} voltou com o aviso de percentual menor`);
 }
 
 // Links de afiliado das marcas no Mercado Livre (Bruno, 16/10/2026), cada um no FAQ "vale no Mercado Livre?"

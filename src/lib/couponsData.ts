@@ -2158,17 +2158,18 @@ const STORE_COUPONS: Coupon[] = [
     hubCard: 'reduzido',
     shortDescription: 'suplementos no site oficial da Probiótica',
     longDescription:
-      'O cupom Probiótica PRO10EMCASACOMCECILIA dá até 10% OFF no site oficial, para quem compra pela primeira vez e para quem já é cliente, soma com as promoções e vale em todas as formas de pagamento. Testado num whey em promoção e numa creatina a preço cheio: o desconto varia por item.',
+      'O cupom Probiótica PRO10EMCASACOMCECILIA dá até 10% OFF no site oficial, para quem compra pela primeira vez e para quem já é cliente, soma com as promoções e vale em todas as formas de pagamento. No nosso teste, o Hiper 100% Whey de 900 g em promoção caiu de R$ 124,90 para R$ 116,16.',
     metaTitle: 'Cupom Probiótica: até 10% OFF com PRO10EMCASACOMCECILIA',
+    metaTitleMonth: true,
     metaDescription:
-      'Cupom Probiótica: PRO10EMCASACOMCECILIA dá até 10% OFF no site oficial, para cliente novo ou antigo, e vale em todas as formas de pagamento.',
-    eligibleCategories: 'Produtos do site oficial da Probiótica; o desconto chega a 10% e pode ser menor em alguns itens',
+      'Cupom Probiótica: PRO10EMCASACOMCECILIA dá até 10% OFF no site oficial e soma com até 5% no Pix, para cliente novo ou antigo.',
+    eligibleCategories: 'Produtos do site oficial da Probiótica',
     validity: 'Cupom ativo enquanto a parceria estiver vigente',
     reusable: 'Conforme regras da loja',
     shipping: 'Frete grátis a partir de um mínimo por região, segundo a política de frete da loja: R$ 104 na capital de São Paulo, R$ 134 no Sudeste, R$ 204 no Centro-Oeste, R$ 249 no Sul, R$ 299 no Nordeste e R$ 599 no Norte; o valor conta depois do cupom',
     combinable: 'Soma com as promoções vigentes do site e vale com todas as formas de pagamento',
     stacking: [
-      { benefit: 'promocoes', stacks: 'sim', condition: 'Entra sobre o preço promocional; o percentual do desconto varia por produto' },
+      { benefit: 'promocoes', stacks: 'sim', condition: 'Entra sobre o preço promocional' },
       { benefit: 'pix', stacks: 'sim', condition: 'Soma com o desconto do Pix, que varia por produto e chega a 5%' },
       { benefit: 'frete', stacks: 'depende', condition: 'Grátis a partir de R$ 104 na capital de São Paulo, R$ 134 no Sudeste, R$ 204 no Centro-Oeste, R$ 249 no Sul, R$ 299 no Nordeste e R$ 599 no Norte, depois do cupom' },
     ],
@@ -2216,29 +2217,29 @@ const STORE_COUPONS: Coupon[] = [
     lastVerified: '2026-11-22',
     testedAt: '2026-11-11',
     testNote:
-      'Aplicamos o PRO10EMCASACOMCECILIA num Whey Hiper 100% Whey de 900 g em promoção, de R$ 210,39 por R$ 124,90, e o total caiu para R$ 116,16, com R$ 8,74 de desconto (7%). Numa creatina de 100 g a preço cheio, de R$ 33,89, o desconto foi de R$ 0,68 (2%). O percentual varia por produto.',
+      'Aplicamos o PRO10EMCASACOMCECILIA num Whey Hiper 100% Whey de 900 g em promoção, de R$ 210,39 por R$ 124,90, e o total caiu para R$ 116,16, com R$ 8,74 de desconto por cima da promoção.',
     aboutBrand:
-      'A Probiótica é uma marca brasileira de suplementos alimentares, com linha de whey protein, creatina, colágeno, barras de proteína, pré-treinos e acessórios de treino vendidos no site oficial. O cupom PRO10EMCASACOMCECILIA é o benefício da parceria para quem acompanha o Em Casa com Cecília e dá até 10% OFF: o percentual varia conforme o produto, e o carrinho mostra quanto cada item recebeu. A recomendação é conferir o resumo do pedido antes de finalizar.',
+      'A Probiótica é uma marca brasileira de suplementos alimentares, com linha de whey protein, creatina, colágeno, barras de proteína, pré-treinos e acessórios de treino vendidos no site oficial. O cupom PRO10EMCASACOMCECILIA é o benefício da parceria para quem acompanha o Em Casa com Cecília e dá até 10% OFF. A recomendação é conferir o resumo do pedido antes de finalizar.',
     faqs: [
       {
         question: 'Qual é o cupom da Probiótica?',
         answer:
-          'O código da nossa parceria é PRO10EMCASACOMCECILIA, que dá até 10% OFF no site oficial da Probiótica, para conta nova e para quem já comprou, em todas as formas de pagamento. Cole no campo "Cupom de Desconto" do carrinho e confira a linha Descontos: o percentual varia por produto.',
+          'O código da nossa parceria é PRO10EMCASACOMCECILIA, que dá até 10% OFF no site oficial da Probiótica, para conta nova e para quem já comprou, em todas as formas de pagamento. Cole no campo "Cupom de Desconto" do carrinho e confira a linha Descontos.',
       },
       {
         question: 'Quanto de desconto o cupom PRO10EMCASACOMCECILIA dá?',
         answer:
-          'Até 10% OFF. O percentual varia conforme o produto: alguns itens recebem os 10%, outros um desconto menor. O resumo do pedido mostra o valor de cada item assim que o código é aceito.',
+          'Até 10% OFF. O resumo do pedido mostra o desconto assim que o código é aceito.',
       },
       {
         question: 'Existe cupom Probiótica de 20%?',
         answer:
-          'Com código, o desconto que testamos é o do PRO10EMCASACOMCECILIA: até 10%, variando por produto. Não testamos os códigos de 20% que aparecem em sites de cupom. Nos produtos em promoção, o cupom soma, com um percentual que varia: nos testes, o Hiper 100% Whey em promoção recebeu 7% por cima, as creatinas receberam 2% e um carrinho misto teve cerca de 8,3%. A linha Descontos do carrinho mostra o valor de cada pedido.',
+          'Com código, o desconto que testamos é o do PRO10EMCASACOMCECILIA: até 10% OFF. Não testamos os códigos de 20% que aparecem em sites de cupom. Nos produtos em promoção, o cupom soma: no nosso teste, o Hiper 100% Whey em promoção caiu de R$ 124,90 para R$ 116,16. A linha Descontos do carrinho mostra o valor de cada pedido.',
       },
       {
         question: 'O cupom PRO10EMCASACOMCECILIA vale para todos os produtos da Probiótica?',
         answer:
-          'Ele vale nas compras do site oficial da Probiótica, com o desconto variando por produto. Se um item não receber os 10%, o carrinho mostra; confira o resumo do pedido antes de pagar.',
+          'Ele vale nas compras do site oficial da Probiótica. Confira a linha Descontos no resumo do pedido antes de pagar.',
       },
       {
         question: 'O cupom PRO10EMCASACOMCECILIA está funcionando hoje?',
@@ -2253,7 +2254,7 @@ const STORE_COUPONS: Coupon[] = [
       {
         question: 'O cupom soma com produtos em promoção?',
         answer:
-          'Sim. No nosso teste mais recente, o cupom entrou num whey que já estava em promoção: de R$ 124,90 por R$ 116,16, 7% de desconto. O percentual varia por produto.',
+          'Sim. No nosso teste mais recente, o cupom entrou num whey que já estava em promoção: de R$ 124,90 por R$ 116,16.',
       },
       {
         question: 'O cupom Probiótica vale na primeira compra?',
@@ -2263,7 +2264,7 @@ const STORE_COUPONS: Coupon[] = [
       {
         question: 'Qual cupom Probiótica vale para quem já é cliente?',
         answer:
-          'O PRO10EMCASACOMCECILIA. Ele dá até 10% no site oficial para quem compra pela primeira vez e para quem já comprou. O percentual varia por produto.',
+          'O PRO10EMCASACOMCECILIA. Ele dá até 10% no site oficial para quem compra pela primeira vez e para quem já comprou.',
       },
       {
         question: 'O PRO10EMCASACOMCECILIA é cupom de influenciadora?',
@@ -2294,7 +2295,7 @@ const STORE_COUPONS: Coupon[] = [
       {
         question: 'Tem cupom Probiótica na Black Friday?',
         answer:
-          'Tem. O cupom Probiótica PRO10EMCASACOMCECILIA dá até 10% OFF no site oficial, em todas as formas de pagamento; o percentual é menor em alguns produtos.',
+          'Tem. O cupom Probiótica PRO10EMCASACOMCECILIA dá até 10% OFF no site oficial, em todas as formas de pagamento.',
       },
       {
         question: 'O cupom Probiótica vale na Black Friday?',
@@ -2309,7 +2310,7 @@ const STORE_COUPONS: Coupon[] = [
     ],
     monthlyHighlight: {
       scope: 'no site oficial',
-      note: 'O desconto chega a 10% e pode ser menor em alguns produtos',
+      note: 'Até 10% OFF, também nos produtos em promoção',
     },
     status: 'ativo',
     featured: false,
@@ -2337,25 +2338,26 @@ const STORE_COUPONS: Coupon[] = [
     longDescription:
       'O cupom Max Titanium MAX10EMCASACOMCECILIA dá até 10% OFF no site oficial, para quem compra pela primeira vez e para quem já é cliente, testado num carrinho com Top Whey em promoção: soma com as promoções, mantém os brindes do carrinho e vale em todas as formas de pagamento.',
     metaTitle: 'Cupom Max Titanium: até 10% OFF com MAX10EMCASACOMCECILIA',
+    metaTitleMonth: true,
     metaDescription:
-      'Cupom Max Titanium: MAX10EMCASACOMCECILIA dá até 10% OFF para cliente novo ou antigo, mantém os brindes e vale em todas as formas de pagamento.',
-    eligibleCategories: 'Produtos do site oficial da Max Titanium; o desconto chega a 10% e pode ser menor em alguns itens',
+      'Cupom Max Titanium: MAX10EMCASACOMCECILIA dá até 10% OFF e soma com até 5% no Pix, para cliente novo ou antigo, com os brindes do carrinho.',
+    eligibleCategories: 'Produtos do site oficial da Max Titanium',
     validity: 'Cupom ativo enquanto a parceria estiver vigente',
     reusable: 'Conforme regras da loja',
     shipping: 'Frete grátis a partir de um mínimo por região, segundo a política de frete da loja: R$ 104 na capital de São Paulo, R$ 134 no Sudeste, R$ 204 no Centro-Oeste, R$ 249 no Sul, R$ 299 no Nordeste e R$ 599 no Norte; o valor conta depois do cupom',
     combinable:
       'Soma com as promoções vigentes do site e com os brindes do carrinho, e vale com todas as formas de pagamento',
     stacking: [
-      { benefit: 'promocoes', stacks: 'sim', condition: 'Entra sobre o preço promocional, e os brindes do carrinho continuam nele; o percentual varia por produto' },
+      { benefit: 'promocoes', stacks: 'sim', condition: 'Entra sobre o preço promocional, e os brindes do carrinho continuam nele' },
       { benefit: 'pix', stacks: 'sim', condition: 'Soma com o desconto do Pix, que varia por produto e chega a 5%' },
       { benefit: 'frete', stacks: 'depende', condition: 'Grátis a partir de R$ 104 na capital de São Paulo, R$ 134 no Sudeste, R$ 204 no Centro-Oeste, R$ 249 no Sul, R$ 299 no Nordeste e R$ 599 no Norte, depois do cupom' },
     ],
     lastVerified: '2026-11-22',
     testedAt: '2026-11-22',
     testNote:
-      'Testamos o MAX10EMCASACOMCECILIA em dois carrinhos, com 31 produtos. O Top Whey 3W + Sabor de 900 g em promoção caiu de R$ 189,00 para R$ 172,25 (8,9%), e o mesmo percentual apareceu no Whey Pro 1 kg, no Whey Blend, no Kit 2x Whey Pro e no Femini Whey. Nos demais, como IsoWhey, 100% Whey, creatinas, pré-treinos, Mass Titanium e BCAA, o desconto foi de 2%. A meia e a caixa de barras de brinde continuaram no carrinho. O percentual varia por produto.',
+      'Testamos o MAX10EMCASACOMCECILIA em dois carrinhos, com 31 produtos. O Top Whey 3W + Sabor de 900 g em promoção caiu de R$ 189,00 para R$ 172,25 (8,9%), e o mesmo percentual apareceu no Whey Pro 1 kg, no Whey Blend, no Kit 2x Whey Pro e no Femini Whey. A meia e a caixa de barras de brinde continuaram no carrinho.',
     aboutBrand:
-      'A Max Titanium é uma marca brasileira de suplementos alimentares, com linha de whey protein, creatina, pré-treinos, aminoácidos e snacks proteicos vendidos no site oficial. Faz parte do mesmo grupo da Probiótica e da Dr. Peanut. O cupom MAX10EMCASACOMCECILIA é o benefício da parceria para quem acompanha o Em Casa com Cecília e dá até 10% OFF: o percentual varia conforme o produto, e o carrinho mostra quanto cada item recebeu. Ele vale com qualquer forma de pagamento e soma com as promoções do site.',
+      'A Max Titanium é uma marca brasileira de suplementos alimentares, com linha de whey protein, creatina, pré-treinos, aminoácidos e snacks proteicos vendidos no site oficial. Faz parte do mesmo grupo da Probiótica e da Dr. Peanut. O cupom MAX10EMCASACOMCECILIA é o benefício da parceria para quem acompanha o Em Casa com Cecília e dá até 10% OFF. Ele vale com qualquer forma de pagamento e soma com as promoções do site.',
     faqs: [
       {
         question: 'Qual é o cupom da Max Titanium?',
@@ -2365,12 +2367,12 @@ const STORE_COUPONS: Coupon[] = [
       {
         question: 'Quanto de desconto o cupom MAX10EMCASACOMCECILIA dá?',
         answer:
-          'Até 10% OFF. O percentual varia conforme o produto: no teste de novembro, alguns wheys em promoção receberam perto de 9% e a maioria dos itens, 2%. O resumo do pedido mostra o valor de cada item assim que o código é aceito.',
+          'Até 10% OFF. No teste de novembro, o Top Whey 3W + Sabor em promoção caiu de R$ 189,00 para R$ 172,25. O resumo do pedido mostra o desconto assim que o código é aceito.',
       },
       {
         question: 'Existe cupom Max Titanium de 20% ou 30%?',
         answer:
-          'Com código, o desconto que testamos é o do MAX10EMCASACOMCECILIA: até 10%, variando por produto. Não testamos os códigos de 20% ou 30% que aparecem em sites de cupom. Nos produtos em promoção, o cupom soma, e os brindes do carrinho continuam nele.',
+          'Com código, o desconto que testamos é o do MAX10EMCASACOMCECILIA: até 10% OFF. Não testamos os códigos de 20% ou 30% que aparecem em sites de cupom. Nos produtos em promoção, o cupom soma, e os brindes do carrinho continuam nele.',
       },
       {
         question: 'O cupom MAX10EMCASACOMCECILIA vale no Pix, no cartão e em outras formas de pagamento?',
@@ -2384,7 +2386,7 @@ const STORE_COUPONS: Coupon[] = [
       {
         question: 'Qual cupom Max Titanium vale para quem já é cliente?',
         answer:
-          'O MAX10EMCASACOMCECILIA. Ele dá até 10% no site oficial para quem compra pela primeira vez e para quem já comprou. O percentual varia por produto.',
+          'O MAX10EMCASACOMCECILIA. Ele dá até 10% no site oficial para quem compra pela primeira vez e para quem já comprou.',
       },
       {
         question: 'O MAX10EMCASACOMCECILIA é cupom de influenciadora?',
@@ -2430,7 +2432,7 @@ const STORE_COUPONS: Coupon[] = [
       {
         question: 'Tem cupom Max Titanium na Black Friday?',
         answer:
-          'Tem. O cupom Max Titanium MAX10EMCASACOMCECILIA dá até 10% OFF no site oficial, em todas as formas de pagamento; o percentual é menor em alguns produtos.',
+          'Tem. O cupom Max Titanium MAX10EMCASACOMCECILIA dá até 10% OFF no site oficial, em todas as formas de pagamento.',
       },
       {
         question: 'O cupom Max Titanium vale na Black Friday?',
@@ -2495,7 +2497,7 @@ const STORE_COUPONS: Coupon[] = [
     ],
     monthlyHighlight: {
       scope: 'no site oficial',
-      note: 'O desconto chega a 10% e pode ser menor em alguns produtos',
+      note: 'Até 10% OFF, também nos produtos em promoção e com os brindes',
     },
     status: 'ativo',
     featured: false,
