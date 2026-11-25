@@ -1,5 +1,6 @@
 import type { Metadata } from 'next';
 import { couponFontVariables } from '@/components/coupons/CouponBlocks';
+import { DicaLauncher } from '@/components/dica/DicaLauncher';
 import { ReviewsBrowser } from '@/components/reviews/ReviewsBrowser';
 import { ReviewsNewRow } from '@/components/reviews/ReviewsNewRow';
 import { ReviewsStoreStrip } from '@/components/reviews/ReviewsStoreStrip';
@@ -81,6 +82,8 @@ export default function ReviewsPage() {
           </p>
         }
       />
+
+      <DicaLauncher />
     </main>
   );
 }

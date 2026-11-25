@@ -110,6 +110,8 @@ type CouponStoreLinkProps = {
     | 'review_mobile_drawer'
     // O link da loja no dock do celular, no lugar do botão de copiar, quando o artigo não tem código.
     | 'review_mobile_dock'
+    // Cartão sem código da caixa do assistente DICA.
+    | 'dica'
     | 'home_store_banner';
   className?: string;
 };

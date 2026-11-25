@@ -4,6 +4,7 @@ import { CouponFaq, SectionHeading, ShelfHeading, couponFontVariables } from '@/
 import { PT_COUPON_HUB_TEXT } from '@/components/coupons/couponHubCopy';
 import { CouponShelfItem, HubCouponCard, SHELF_CARD, couponCardName, layoutShelf } from '@/components/coupons/CouponCards';
 import { CouponHubControls } from '@/components/coupons/CouponHubControls';
+import { DicaLauncher } from '@/components/dica/DicaLauncher';
 import { RevealSection } from '@/components/ui/RevealSection';
 import { COUPON_HUB_LOGO_URL, getCouponHubAlternates } from '@/lib/couponHub';
 import { getActiveCoupons, getCouponHubSections } from '@/lib/couponsData';
@@ -215,6 +216,8 @@ export default function CuponsPage() {
           {HUB_TRANSPARENCY}
         </p>
       </section>
+
+      <DicaLauncher />
     </main>
   );
 }

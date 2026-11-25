@@ -1,4 +1,5 @@
 import type { Metadata } from 'next';
+import { DicaLauncher } from '@/components/dica/DicaLauncher';
 import { FestivalStageClient } from '@/components/festival/FestivalStageClient';
 import { getActiveCoupons } from '@/lib/couponsData';
 import { getFestivalBlackFridayData, isBlackFridaySeason } from '@/lib/festivalBlackFriday';
@@ -42,5 +43,10 @@ export function generateMetadata(): Metadata {
 
 export default function FestivalBlackFridayPage() {
   const data = getFestivalBlackFridayData(new Date());
-  return <FestivalStageClient data={data} />;
+  return (
+    <>
+      <FestivalStageClient data={data} />
+      <DicaLauncher variant="festival" />
+    </>
+  );
 }

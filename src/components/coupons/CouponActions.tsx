@@ -25,7 +25,9 @@ export type CopyPlacement =
   | 'review_mobile_dock'
   | 'review_mobile_drawer'
   // Recorte do código na vitrine da home.
-  | 'home_store_banner';
+  | 'home_store_banner'
+  // Cartões da caixa do assistente DICA.
+  | 'dica';
 
 // Nos artigos a marca é o afiliado, que pode faltar, e o slug do artigo vai junto.
 type CopyTracking = { placement: CopyPlacement; brand?: string; contentSlug?: string };

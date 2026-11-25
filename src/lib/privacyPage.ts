@@ -22,7 +22,7 @@ export const PRIVACY_TRAIL: PageLink[] = [
 export const PRIVACY_META = {
   title: 'Política de privacidade | Em Casa com Cecília',
   description:
-    'Como o Em Casa com Cecília trata os seus dados: formulário de contato, Google Analytics, Microsoft Clarity, vídeos do YouTube e links de afiliado, conforme a LGPD.',
+    'Como o Em Casa com Cecília trata os seus dados: formulário de contato, Google Analytics, Microsoft Clarity, vídeos do YouTube, o assistente DICA e links de afiliado, conforme a LGPD.',
 };
 
 export const PRIVACY_TITLE = 'Política de privacidade';
@@ -30,7 +30,7 @@ export const PRIVACY_TITLE = 'Política de privacidade';
 export const PRIVACY_INTRO =
   'Esta página explica quais dados o site emcasacomcecilia.com coleta, para quê e quais são os seus direitos, conforme a Lei Geral de Proteção de Dados (Lei nº 13.709/2018).';
 
-export const PRIVACY_LAST_UPDATED = 'Última atualização: outubro de 2026.';
+export const PRIVACY_LAST_UPDATED = 'Última atualização: novembro de 2026.';
 
 const email = { href: brandLinks.contactMailto, label: brandLinks.contactEmail };
 const external = (address: string) => ({ href: `https://${address}`, label: address });
@@ -80,7 +80,8 @@ export const PRIVACY_SECTIONS: PrivacySection[] = [
         item(
           'Preferências salvas no seu navegador:',
           'algumas escolhas ficam guardadas no próprio aparelho, sem ir para nós: o modo grade ou lista e a página aberta na lista de artigos, e o número de porções escolhido numa receita.'
-        )
+        ),
+        item('Perguntas ao assistente DICA:', 'o texto que você escreve na caixa, depois da limpeza descrita na seção 9.')
       ),
     ],
   },
@@ -90,6 +91,7 @@ export const PRIVACY_SECTIONS: PrivacySection[] = [
     blocks: [
       ul(
         'Responder às mensagens do formulário.',
+        'Responder às perguntas feitas ao assistente DICA e entender o que o público procura.',
         'Entender quais conteúdos e códigos são úteis e melhorar o site.',
         'Encontrar erros de uso, como um botão que ninguém acha ou uma página que não carrega direito.',
         'Manter o site funcionando e seguro.'
@@ -108,6 +110,10 @@ export const PRIVACY_SECTIONS: PrivacySection[] = [
         item(
           'Google Analytics e Microsoft Clarity:',
           'consentimento (art. 7º, I). As duas ferramentas só carregam depois que você aceita no aviso de cookies, e você pode mudar a escolha a qualquer momento pelo link "Preferências de cookies" no rodapé.'
+        ),
+        item(
+          'Assistente DICA:',
+          'legítimo interesse em responder à pergunta que você faz e em guardar as perguntas, sem IP, cookies nem dados do navegador, para melhorar o assistente e a lista de parceiros (art. 7º, IX).'
         ),
         item('Preferências no navegador:', 'necessárias ao funcionamento da função que você usa.')
       ),
@@ -186,6 +192,11 @@ export const PRIVACY_SECTIONS: PrivacySection[] = [
           '(hospedagem do site): o servidor pode registrar dados técnicos de acesso, como IP e navegador, em logs. — ',
           external('hostinger.com.br/politica-de-privacidade')
         ),
+        item(
+          'Anthropic',
+          '(IA Claude, que interpreta as perguntas do assistente DICA) — ',
+          external('www.anthropic.com/legal/privacy')
+        ),
         'As imagens e os vídeos saem de cdn.emcasacomcecilia.com, também hospedado na Hostinger.',
         item(
           'WhatsApp',
@@ -196,19 +207,35 @@ export const PRIVACY_SECTIONS: PrivacySection[] = [
     ],
   },
   {
+    id: 'assistente-dica',
+    title: '9. Assistente DICA',
+    blocks: [
+      p(
+        'A caixa DICA ajuda a achar lojas parceiras e os nossos códigos. Ela só envia a pergunta ao nosso servidor quando você a manda, pelo botão Enviar ou por um dos atalhos.'
+      ),
+      ul(
+        'Antes de sair do nosso servidor, a pergunta passa por uma limpeza automática que tenta remover e-mails e sequências de 8 dígitos ou mais, como CPF, telefone e CEP. Nomes, endereços e outros dados ainda podem passar: evite escrever dados pessoais na pergunta.',
+        'Quando a pergunta precisa da IA, o texto limpo vai à Anthropic, empresa da IA Claude, só para identificar os produtos procurados na nossa lista de parceiros. A Anthropic guarda os dados nos Estados Unidos, apaga o texto em até 30 dias, salvo as exceções dos termos dela (como a apuração de abuso), e não usa esse texto para treinar os modelos.',
+        'Guardamos o texto limpo, a data, a hora e o resultado (as lojas indicadas ou a busca no Dicas) para melhorar o assistente e a lista de parceiros. Esse registro não inclui IP, cookies, dados do navegador nem identificador de sessão, e uma rotina automática apaga as perguntas depois de 90 dias.',
+        'Para limitar o número de perguntas, o servidor conta as perguntas de cada IP fora desse registro. Na contagem, o IP é trocado por um código embaralhado com uma chave aleatória do dia, e a contagem e a chave são apagadas depois da virada do dia.',
+        'O texto da caixa aparece mascarado nas gravações do Microsoft Clarity.'
+      ),
+    ],
+  },
+  {
     id: 'compartilhamento',
-    title: '9. Compartilhamento e transferência internacional',
+    title: '10. Compartilhamento e transferência internacional',
     blocks: [
       ul(
         'Não vendemos nem alugamos dados pessoais.',
         'Os dados do formulário chegam só ao e-mail do Em Casa com Cecília, por meio do Resend.',
-        'Google, Microsoft, Resend e outros fornecedores citados podem tratar dados em servidores fora do Brasil. Nesses casos, a transferência segue as garantias previstas na LGPD (art. 33) e nos termos desses fornecedores.'
+        'Google, Microsoft, Resend, Anthropic e outros fornecedores citados podem tratar dados em servidores fora do Brasil. Nesses casos, a transferência segue as garantias previstas na LGPD (art. 33) e nos termos desses fornecedores.'
       ),
     ],
   },
   {
     id: 'por-quanto-tempo',
-    title: '10. Por quanto tempo guardamos',
+    title: '11. Por quanto tempo guardamos',
     blocks: [
       ul(
         item(
@@ -216,13 +243,17 @@ export const PRIVACY_SECTIONS: PrivacySection[] = [
           'pelo tempo necessário para responder e, quando houver, pelo prazo exigido em lei.'
         ),
         item('Google Analytics:', '2 meses, a retenção configurada no painel.'),
-        item('Microsoft Clarity:', 'pelos prazos da Microsoft para gravações e mapas de calor.')
+        item('Microsoft Clarity:', 'pelos prazos da Microsoft para gravações e mapas de calor.'),
+        item(
+          'Perguntas ao assistente DICA:',
+          '90 dias no nosso registro, que não guarda IP, cookies nem dados do navegador (o que você escrever na pergunta fica nele, como descrito na seção 9); na Anthropic, até 30 dias, salvo as exceções dos termos dela.'
+        )
       ),
     ],
   },
   {
     id: 'seus-direitos',
-    title: '11. Seus direitos',
+    title: '12. Seus direitos',
     blocks: [
       p('Pela LGPD, você pode:'),
       ul(
@@ -243,14 +274,14 @@ export const PRIVACY_SECTIONS: PrivacySection[] = [
   },
   {
     id: 'criancas',
-    title: '12. Crianças',
+    title: '13. Crianças',
     blocks: [
       p('O site não é direcionado a crianças e não coleta de propósito dados de crianças e adolescentes.'),
     ],
   },
   {
     id: 'mudancas',
-    title: '13. Mudanças nesta política',
+    title: '14. Mudanças nesta política',
     blocks: [p('Esta política pode mudar quando o site mudar. A data abaixo mostra a última revisão.')],
   },
 ];
