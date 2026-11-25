@@ -1,9 +1,12 @@
-// Etapa 4 do piloto BAW: monta nossos-dados.csv e comercial.csv (4A).
+// Etapa 4 do piloto BAW: monta nossos-dados.csv e comercial.csv (4A) e cobertura.csv (4B).
 // Rodar na raiz do repositório:
 //   node "docs/Memoria de Artigos/memreview/05_Demanda/parceiros/baw/2-processado/etapa4-montar.mjs"
 // Lê o bruto de _site/ (snapshot de 17/11/2026), o processado _site/2-processado/nossos-dados-lojas.csv (só para as
 // lojas de referência) e a coleta de IA da BAW. A leitura das respostas de IA (o que cada uma cita e se confere com o
 // dossiê) é de quem analisou e está escrita na lista RESPOSTAS_IA; o script confere que cada trecho citado existe.
+// A 4B lê content/, src/, o CLAUDE.md e as fichas do vault no commit COMMIT_CONTEUDO (git show), e não no disco:
+// rodar de novo sobre o mesmo commit dá o mesmo arquivo (LICOES.md, 24/11/2026).
+import { execFileSync } from 'node:child_process';
 import fs from 'node:fs';
 
 const DEMANDA = 'docs/Memoria de Artigos/memreview/05_Demanda';
@@ -409,35 +412,57 @@ const comercial = [['vendas', NA], ['receita', 'BRL'], ['comissao', 'BRL'], ['re
 writeCsv('comercial.csv', HEADER_COM, comercial);
 
 // ---------- cobertura.csv (4B) ----------
-// O que o site e o vault já têm sobre a BAW, uma linha por conteúdo e pergunta. A pergunta, a avaliação total ou
+// O que o site e o vault têm sobre a BAW, uma linha por conteúdo e pergunta. A pergunta, a avaliação total ou
 // parcial e as entidades são leitura de quem analisou; o script confere que o título de seção ou a pergunta citada
 // existe na fonte, que cada entidade existe no catálogo e que todo produto citado tem o link dele no conteúdo.
+// Cobertura refeita em 25/11/2026 (11 artigos). Cada linha tem id fixo: as 64 de 18/11 mantêm o id, a página e a
+// pergunta (o script confere contra o cobertura.csv de 18/11 no mesmo commit); as novas começam em 65.
+const COMMIT_CONTEUDO = '4c639f061b9b4396a98bd18b7d89d771c455f619';
+const noCommit = (caminho) => execFileSync('git', ['show', `${COMMIT_CONTEUDO}:${caminho}`], { encoding: 'utf8', maxBuffer: 1 << 26 });
+const CURTO = COMMIT_CONTEUDO.slice(0, 8);
 const HEADER_COB = ['cobertura_id', 'parceiro', 'url_ou_slug', 'tipo_conteudo', 'estado', 'estado_conferido_em',
   'pergunta_atendida', 'entidades', 'idioma', 'mercado', 'cobertura', 'lido_em', 'evidencia', 'notas'];
-const LIDO_EM = '2026-11-18';
-const NO_AR = '2026-11-18, no site: https://emcasacomcecilia.com respondeu 200 neste endereço às 13:29 (-03:00)';
+const LIDO_EM = '2026-11-25';
+const NO_AR = '2026-11-25, no site: https://emcasacomcecilia.com respondeu 200 neste endereço às 00:24 (-03:00), com os '
+  + `títulos de seção (na /cupons/baw, as perguntas do FAQ) do commit ${CURTO}`;
 const catalogo = parseCsv(read(`${OUT}/catalogo.csv`));
 const CAT = new Map(catalogo.slice(1).filter((r) => r[0]).map((r) => [r[0], r]));
 const MARCA = 'cat-baw-0001';
 if (CAT.get(MARCA)?.[1] !== 'marca') throw new Error('cat-baw-0001 não é a entidade marca');
-// Produtos citados nos artigos: o id numérico da página citada tem de estar na url ou nas notas da entidade
+// Produtos citados nos artigos: os ids numéricos das páginas citadas têm de estar na url ou nas notas da entidade
 // (as cores juntadas ficam nas notas do catálogo).
 const PRODUTOS = {
-  'cat-baw-0366': '151202', // Camiseta Regular Goth 3.0
-  'cat-baw-0380': '153490', // Camiseta Regular Selfie Logo (a página citada é outra cor)
-  'cat-baw-0300': '151896', // Camiseta Oversized BAW Subscript
-  'cat-baw-0429': '153707', // Moletom Basic Label
-  'cat-baw-0446': '151918', // Moletom Hoodie BAW Subscript
-  'cat-baw-0512': '151973', // Calça Track BAW Tag
-  'cat-baw-0568': '153450', // Bermuda Jeans Regular Logo (outra cor)
-  'cat-baw-0100': '151314', // Shorts Reverse Kids (outra cor)
-  'cat-baw-0672': '151236', // Tênis BAW Thunder
-  'cat-baw-0677': '153608', // Sandália Linus
+  'cat-baw-0218': ['154255'], // Camiseta BR Regular Locally Grown
+  'cat-baw-0219': ['153962'], // Camiseta BR Regular Logo
+  'cat-baw-0220': ['153958'], // Camiseta BR Regular Logo Clothing
+  'cat-baw-0225': ['154091'], // Camiseta BR Regular New Luxury
+  'cat-baw-0291': ['150906'], // Camiseta Oversized BAW Fresh
+  'cat-baw-0300': ['151896'], // Camiseta Oversized BAW Subscript
+  'cat-baw-0366': ['151202', '151220'], // Camiseta Regular Goth 3.0
+  'cat-baw-0376': ['150365'], // Camiseta Regular Pima
+  'cat-baw-0380': ['153490'], // Camiseta Regular Selfie Logo
+  'cat-baw-0083': ['154188'], // Camiseta BR Kids BAW Classic Colors
+  'cat-baw-0089': ['154189'], // Camiseta BR Kids Flaming BAW
+  'cat-baw-0100': ['151314', '151312'], // Shorts Reverse Kids
+  'cat-baw-0429': ['153707', '153706'], // Moletom Basic Label
+  'cat-baw-0446': ['151918'], // Moletom Hoodie BAW Subscript
+  'cat-baw-0512': ['151973', '153886'], // Calça Track BAW Tag
+  'cat-baw-0568': ['153450', '153451'], // Bermuda Jeans Regular Logo
+  'cat-baw-0659': ['153696'], // Boné Running
+  'cat-baw-0670': ['151247'], // Tênis BAW Audacity
+  'cat-baw-0671': ['151235'], // Tênis BAW Baseline
+  'cat-baw-0672': ['151236'], // Tênis BAW Thunder
+  'cat-baw-0673': ['150379', '150399'], // Tênis Grip Mad
+  'cat-baw-0674': ['150404'], // Tênis Session Revival
+  'cat-baw-0675': ['150200'], // Tênis Truck
+  'cat-baw-0677': ['153608', '153607', '153609'], // Sandália Linus
+  'cat-baw-0678': ['154154'], // Slide BAW
+  'cat-baw-0679': ['151255'], // Slide Goth
 };
-for (const [id, num] of Object.entries(PRODUTOS)) {
+for (const [id, nums] of Object.entries(PRODUTOS)) {
   const r = CAT.get(id);
   if (!r || r[1] !== 'produto') throw new Error(`${id} não é produto no catálogo`);
-  if (!r.join(',').includes(num)) throw new Error(`${id}: a página ${num} não está na url nem nas notas da entidade`);
+  for (const num of nums) if (!r.join(',').includes(num)) throw new Error(`${id}: a página ${num} não está na url nem nas notas da entidade`);
 }
 const ent = (...ids) => {
   for (const id of ids) if (!CAT.has(id)) throw new Error(`entidade inexistente: ${id}`);
@@ -450,148 +475,222 @@ const nosIa = (plat, q, metrica) => {
   return r[0];
 };
 
+// A cobertura de 18/11 no mesmo commit: as linhas que mantêm o id têm de manter a página e a pergunta.
+const COB_ANTES = new Map(parseCsv(noCommit(`${OUT}/cobertura.csv`)).slice(1).filter((r) => r[0]).map((r) => [r[0], r]));
+if (COB_ANTES.size !== 64) throw new Error(`cobertura de 18/11 com ${COB_ANTES.size} linhas, esperadas 64`);
+// Linhas de 18/11 que deixaram de valer, com o motivo (vão ao relato). Em 25/11, nenhuma.
+const REMOVIDAS = {};
 const cobertura = [];
-const cob = (o) => cobertura.push([
-  `cob-baw-${String(cobertura.length + 1).padStart(4, '0')}`, 'baw', o.url, o.tipo, o.estado, o.conferido,
-  o.pergunta, o.entidades, 'pt-BR', 'BR', o.cobertura, LIDO_EM, o.evidencia, o.notas,
-]);
+const cob = (o) => {
+  const id = `cob-baw-${String(o.id).padStart(4, '0')}`;
+  const antes = COB_ANTES.get(id);
+  if (REMOVIDAS[id]) throw new Error(`${id} saiu (${REMOVIDAS[id]}) e não pode voltar`);
+  if (antes && (antes[2] !== o.url || antes[6] !== o.pergunta)) throw new Error(`${id} mudou de página ou de pergunta: ${o.url} / ${o.pergunta}`);
+  if (!antes && o.id <= 64) throw new Error(`${id} não existia em 18/11`);
+  cobertura.push([id, 'baw', o.url, o.tipo, o.estado, o.conferido, o.pergunta, o.entidades, 'pt-BR', 'BR', o.cobertura,
+    LIDO_EM, o.evidencia, o.notas]);
+};
 
 // /cupons/baw: as perguntas do FAQ da página, lidas do bloco da loja em couponsData.ts.
-const coupons = read('src/lib/couponsData.ts');
+const coupons = noCommit('src/lib/couponsData.ts');
 const bawIni = coupons.indexOf("slug: 'baw'");
 if (bawIni < 0) throw new Error('couponsData.ts sem a loja baw');
-const bawBloco = coupons.slice(bawIni, coupons.indexOf("\n    slug: '", bawIni + 10) > 0 ? coupons.indexOf("\n    slug: '", bawIni + 10) : undefined);
+const bawFim = coupons.indexOf("\n    slug: '", bawIni + 10);
+const bawBloco = coupons.slice(bawIni, bawFim > 0 ? bawFim : undefined);
 const evCupom = (trecho) => {
   if (!bawBloco.includes(trecho)) throw new Error(`couponsData.ts (bloco baw) sem o trecho: ${trecho}`);
-  return `src/lib/couponsData.ts#"${trecho}"`;
+  return `src/lib/couponsData.ts@${CURTO}#"${trecho}"`;
 };
+const P3_RELEITURA = 'A loja não publica datas nem regulamento; a releitura da vitrine (P3) é da etapa 3.';
 const PAGINA_CUPOM = [
-  ['Quanto de desconto o cupom BAWEMCASACOMCECILIA dá?', 'total', ent(MARCA), 'Código e percentual no topo; teste no carrinho em 17/11/2026 (testedAt).'],
-  ['Onde coloco o cupom na BAW Clothing?', 'total', ent(MARCA), 'Passo a passo e print do carrinho (cartPrint).'],
-  ['O cupom BAWEMCASACOMCECILIA soma com o desconto do Pix?', 'total', ent(MARCA), 'A tabela O que acumula diz que soma com promoções e Pix e não dá frete. O valor com os dois juntos não foi testado em carrinho (orientação, seção 1).'],
-  ['O cupom BAW vale na primeira compra? É melhor que o FIRSTBAW?', 'total', ent(MARCA), `Mesmo desconto do FIRSTBAW nos testes de 17/11/2026. Na consulta de IA de 18/11 o ChatGPT recomendou o FIRSTBAW com 15% (${nosIa('chatgpt', 'q4', 'recomenda-outro-codigo')}).`],
-  ['Qual cupom BAW vale para quem já é cliente?', 'total', ent(MARCA), 'Cliente novo e antigo.'],
-  ['O cupom BAWEMCASACOMCECILIA vale no app da BAW?', 'total', ent(MARCA), 'Site e app.'],
-  ['O cupom soma com produtos em promoção?', 'total', ent(MARCA), 'Teste com camiseta em promoção de Black Friday.'],
-  ['Tem cupom BAW Clothing na Black Friday?', 'parcial', ent(MARCA, 'cat-baw-0041', 'cat-baw-0042'), 'A loja não publica datas nem regulamento da campanha (P3); reler a vitrine até 25/11 e refazer o teste do código em 27/11.'],
-  ['O cupom dá frete grátis?', 'total', ent(MARCA), 'Não dá; frete pelo CEP.'],
-  ['Como funciona a troca na BAW Clothing?', 'total', ent(MARCA), 'Troca por crédito e devolução com reembolso.'],
-  ['O que fazer se o cupom BAWEMCASACOMCECILIA não funcionar?', 'parcial', ent(MARCA), 'Valor mínimo do código sem leitura: R$ 69,00 não aceitou nenhum código e R$ 208,00 aceitou (dossiê, seção 1). Fica para um carrinho (fora do programa).'],
-  ['O BAWEMCASACOMCECILIA é cupom de influenciadora?', 'total', ent(MARCA), 'Transparência da parceria.'],
+  [1, 'Quanto de desconto o cupom BAWEMCASACOMCECILIA dá?', 'total', [MARCA], 'Código e percentual no topo; teste no carrinho em 17/11/2026 (testedAt).'],
+  [2, 'Onde coloco o cupom na BAW Clothing?', 'total', [MARCA], 'Passo a passo e print do carrinho (cartPrint).'],
+  [3, 'O cupom BAWEMCASACOMCECILIA soma com o desconto do Pix?', 'total', [MARCA], 'A tabela O que acumula diz que soma com promoções e Pix e não dá frete. O valor com os dois juntos não foi testado em carrinho (orientação, seção 1).'],
+  [4, 'O cupom BAW vale na primeira compra? É melhor que o FIRSTBAW?', 'total', [MARCA], `Mesmo desconto do FIRSTBAW nos testes de 17/11/2026. Na consulta de IA de 18/11 o ChatGPT recomendou o FIRSTBAW com 15% (${nosIa('chatgpt', 'q4', 'recomenda-outro-codigo')}).`],
+  [5, 'Qual cupom BAW vale para quem já é cliente?', 'total', [MARCA], 'Cliente novo e antigo.'],
+  [6, 'O cupom BAWEMCASACOMCECILIA vale no app da BAW?', 'total', [MARCA], 'Site e app.'],
+  [7, 'O cupom soma com produtos em promoção?', 'total', [MARCA], 'Teste com camiseta em promoção de Black Friday.'],
+  [8, 'Tem cupom BAW Clothing na Black Friday?', 'parcial', [MARCA, 'cat-baw-0041', 'cat-baw-0042'], `A resposta cita a campanha de até 80% OFF do site. ${P3_RELEITURA}`],
+  [9, 'O cupom dá frete grátis?', 'total', [MARCA], 'Não dá; frete grátis do site a partir de R$ 399 e, abaixo disso, frete pelo CEP.'],
+  [10, 'Como funciona a troca na BAW Clothing?', 'total', [MARCA], 'Troca por crédito e devolução com reembolso.'],
+  [11, 'O que fazer se o cupom BAWEMCASACOMCECILIA não funcionar?', 'parcial', [MARCA], 'Valor mínimo do código sem leitura: R$ 69,00 não aceitou nenhum código e R$ 208,00 aceitou (dossiê, seção 1). Fica para um carrinho (fora do programa).'],
+  [12, 'O BAWEMCASACOMCECILIA é cupom de influenciadora?', 'total', [MARCA], 'Transparência da parceria.'],
+  [65, 'O cupom BAWEMCASACOMCECILIA está funcionando hoje?', 'total', [MARCA], 'Pergunta nova da reforma de 22/11 (#1339): remete ao último teste de carrinho, em "Como testamos o cupom".'],
+  [66, 'O cupom BAW Clothing vale na Black Friday?', 'total', [MARCA, 'cat-baw-0041'], 'Pergunta nova da reforma de 22/11: o teste de novembro com camiseta em promoção de Black Friday.'],
+  [67, 'Comprar com o cupom apoia o Em Casa com Cecília?', 'total', [MARCA], 'Pergunta nova da reforma de 22/11: transparência da comissão.'],
 ];
-for (const [pergunta, cobertura_, entidades, nota] of PAGINA_CUPOM) {
-  cob({ url: '/cupons/baw', tipo: 'pagina-cupom', estado: 'no-ar', conferido: NO_AR, pergunta, entidades,
+for (const [id, pergunta, cobertura_, entidades, nota] of PAGINA_CUPOM) {
+  cob({ id, url: '/cupons/baw', tipo: 'pagina-cupom', estado: 'no-ar', conferido: NO_AR, pergunta, entidades: ent(...entidades),
     cobertura: cobertura_, evidencia: evCupom(pergunta), notas: nota });
 }
 
-// Os seis artigos (BW1 a BW6), por grupo de seções.
+// Os onze artigos em PT com affiliate baw (BW1 a BW11), por grupo de seções.
 const ARTIGOS = {
   'cupom-baw-como-usar': 'BW1',
-  'black-friday-baw': 'BW6',
   'baw-clothing-reclame-aqui-nota-reputacao': 'BW2',
   'baw-clothing-e-confiavel': 'BW3',
   'cupom-baw-primeira-compra': 'BW4',
   'baw-clothing-e-boa': 'BW5',
+  'black-friday-baw': 'BW6',
+  'tenis-baw-e-bom': 'BW7',
+  'baw-ou-pace': 'BW8',
+  'sandalia-linus-baw': 'BW9',
+  'tabela-medidas-baw': 'BW10',
+  'baw-ou-carnan': 'BW11',
 };
-const json = Object.fromEntries(Object.keys(ARTIGOS).map((slug) => {
-  const j = JSON.parse(read(`content/reviews/${slug}.json`));
-  if (j.draft !== false || j.affiliate !== 'baw' || (j.locale ?? 'pt') !== 'pt') throw new Error(`${slug}: não é artigo publicado da BAW em PT`);
-  return [slug, j];
-}));
+// Todo artigo da BAW publicado em PT no commit tem de estar na lista, e nenhum da lista pode faltar.
+const candidatos = execFileSync('git', ['grep', '-l', '-e', '"baw"', COMMIT_CONTEUDO, '--', 'content/reviews/'], { encoding: 'utf8' })
+  .split('\n').filter(Boolean).map((l) => l.slice(l.indexOf(':') + 1));
+const daBaw = candidatos.filter((c) => {
+  const j = JSON.parse(noCommit(c));
+  const lojas = Array.isArray(j.affiliate) ? j.affiliate : [j.affiliate];
+  return lojas.includes('baw') && j.draft === false && (j.locale ?? 'pt') === 'pt';
+}).map((c) => c.replace(/^content\/reviews\/|\.json$/g, '')).sort();
+if (daBaw.join() !== Object.keys(ARTIGOS).sort().join()) throw new Error(`artigos da BAW no commit: ${daBaw.join(', ')}`);
+const json = Object.fromEntries(Object.keys(ARTIGOS).map((slug) => [slug, JSON.parse(noCommit(`content/reviews/${slug}.json`))]));
 const evSecao = (slug, heading) => {
   if (!json[slug].contentSections.some((s) => s.heading === heading)) throw new Error(`${slug}: seção não encontrada: ${heading}`);
-  return `content/reviews/${slug}.json#"${heading}"`;
+  return `content/reviews/${slug}.json@${CURTO}#"${heading}"`;
 };
-// Produto ligado a uma linha: o artigo traz o link da página dele ou o nome sem a primeira palavra
+// Produto ligado a uma linha: o artigo traz o link de uma das páginas dele ou o nome sem a primeira palavra
 // ("Basic Label", "BAW Thunder"), sem diferenciar acento nem maiúscula.
 const semAcento = (s) => s.normalize('NFD').replace(/[̀-ͯ]/g, '').toLowerCase();
 const citaProduto = (slug, id) => {
   const texto = JSON.stringify(json[slug]);
   const nome = semAcento(CAT.get(id)[6]).split(' ').slice(1).join(' ');
-  if (!texto.includes(`-${PRODUTOS[id]}`) && !semAcento(texto).includes(nome)) throw new Error(`${slug}: não cita o produto ${id} (${nome})`);
+  if (!PRODUTOS[id].some((n) => texto.includes(`-${n}`)) && !semAcento(texto).includes(nome)) throw new Error(`${slug}: não cita o produto ${id} (${nome})`);
 };
-const FILA_ATRASADA = 'A Fila (seção 1) e a ficha do vault ainda dizem que o artigo espera o deploy.';
-// [slug, títulos de seção (o primeiro vai à evidência), pergunta, cobertura, entidades, nota]
+const P1_TENIS = 'P1 no caso do tênis já executada pela BW7 (tenis-baw-e-bom), fora do programa.';
+const P2_BW10 = 'P2 já executada pela BW10 (tabela-medidas-baw), fora do programa.';
+const PRECO_1611 = 'Preço lido em 16/11/2026, antes do pico da campanha (P3).';
+// [id, slug, títulos de seção (o primeiro vai à evidência), pergunta, cobertura, entidades, nota]
 const SECOES = [
-  ['cupom-baw-como-usar', ['Onde digitar o cupom na BAW'], 'Onde e como digitar o cupom BAWEMCASACOMCECILIA no site?', 'total', [MARCA], ''],
-  ['cupom-baw-como-usar', ['Quanto o cupom tira: a conta do nosso teste'], 'Quanto o cupom tira de verdade num carrinho?', 'total', [MARCA, 'cat-baw-0366'], 'Teste de 16/11/2026 com duas camisetas, uma delas a Regular Goth 3.0 em promoção.'],
-  ['cupom-baw-como-usar', ['O cupom soma com promoção e com o Pix?'], 'O cupom soma com promoção e com o Pix?', 'total', [MARCA], 'O valor com os dois juntos não foi testado em carrinho; o artigo manda conferir no resumo.'],
-  ['cupom-baw-como-usar', ['O cupom BAW vale no aplicativo?'], 'O cupom vale no aplicativo da BAW?', 'total', [MARCA], ''],
-  ['cupom-baw-como-usar', ['Frete e pagamento'], 'O cupom dá frete grátis? Como a BAW cobra frete e parcela?', 'total', [MARCA], ''],
-  ['cupom-baw-como-usar', ['O cupom não entrou: o que conferir'], 'Por que o cupom não entrou?', 'parcial', [MARCA], 'Não cita valor mínimo: o corte exato não foi lido (dossiê, seção 1; fora do programa, vai a um carrinho).'],
-  ['cupom-baw-como-usar', ['Antes de escolher o tamanho'], 'Como escolher o tamanho antes de usar o cupom?', 'parcial', [MARCA, 'cat-baw-0003'], 'Só avisa que não há guia único e remete à BW6. O guia de tamanhos (regular ou oversized) está no estoque da Fila, sem GO (P2).'],
-  ['black-friday-baw', ['A Black Friday da BAW já começou?', 'Resposta rápida'], 'A Black Friday da BAW já começou e quando acaba?', 'parcial', ['cat-baw-0041', 'cat-baw-0042'], 'A loja não publica datas nem regulamento; o sentido de "a última Black Friday" não foi esclarecido pela parceira. Releitura da vitrine até 25/11 (P3).'],
-  ['black-friday-baw', ['O cupom soma com a Black Friday?'], 'O cupom soma com o preço da Black Friday?', 'total', [MARCA, 'cat-baw-0041', 'cat-baw-0366'], 'Teste de 16/11/2026; refazer em 27/11 (ficha do vault).'],
-  ['black-friday-baw', ['O que vale a pena: sete peças', 'As sete peças lado a lado'], 'Quais peças valem a pena na Black Friday da BAW?', 'parcial', ['cat-baw-0041', 'cat-baw-0366', 'cat-baw-0380', 'cat-baw-0300', 'cat-baw-0429', 'cat-baw-0512', 'cat-baw-0100', 'cat-baw-0672'], 'Preços lidos em 16/11/2026, antes do pico da campanha (P3). Curadoria de sete peças; o catálogo de 18/11 tem as vitrines de Black Friday por categoria e por preço (cat-baw-0043 a 0062), que o artigo não usa.'],
-  ['black-friday-baw', ['Camiseta Regular Goth 3.0'], 'A Camiseta Regular Goth 3.0 vale na Black Friday?', 'parcial', ['cat-baw-0366', 'cat-baw-0380'], 'Ficha sem descrição (sem composição nem medidas); preço de 16/11.'],
-  ['black-friday-baw', ['Camiseta Regular Selfie Logo'], 'A Camiseta Regular Selfie Logo vale na Black Friday?', 'parcial', ['cat-baw-0380'], 'Medidas e composição da ficha; preço de 16/11.'],
-  ['black-friday-baw', ['Camiseta Oversized BAW Subscript'], 'A Camiseta Oversized BAW Subscript vale na Black Friday?', 'parcial', ['cat-baw-0300', 'cat-baw-0380'], 'Compara as medidas com a regular; preço de 16/11.'],
-  ['black-friday-baw', ['Moletom Basic Label'], 'Qual moletom da BAW vale na Black Friday?', 'parcial', ['cat-baw-0429', 'cat-baw-0446', 'cat-baw-0004'], 'Dois moletons; preço de 16/11. A pauta "moletom da BAW vale a pena?" está no estoque da Fila, sem GO (P1).'],
-  ['black-friday-baw', ['Calça Track BAW Tag'], 'A Calça Track BAW Tag vale na Black Friday?', 'parcial', ['cat-baw-0512', 'cat-baw-0568'], 'Com a bermuda como alternativa; preço de 16/11.'],
-  ['black-friday-baw', ['Shorts Reverse Kids'], 'O que vale na linha infantil da BAW na Black Friday?', 'parcial', ['cat-baw-0100', 'cat-baw-0014'], 'Uma peça infantil; as camisetas BR Kids estavam sem descrição; preço de 16/11.'],
-  ['black-friday-baw', ['Tênis BAW Thunder'], 'O tênis BAW Thunder vale na Black Friday?', 'parcial', ['cat-baw-0672', 'cat-baw-0677', 'cat-baw-0016'], 'Ficha sem material nem medidas; preço de 16/11. A pauta "o tênis BAW é bom?" está no estoque da Fila, sem GO (P1).'],
-  ['black-friday-baw', ['Antes de fechar o carrinho'], 'O que conferir antes de fechar o carrinho na Black Friday?', 'total', [MARCA], ''],
-  ['black-friday-baw', ['Troca ou devolução de compra da campanha'], 'Como fica a troca de compra da Black Friday?', 'total', [MARCA], 'Política lida em 16/11/2026.'],
-  ['black-friday-baw', ['E no Mercado Livre?'], 'O cupom vale no Mercado Livre? A BAW vende lá?', 'parcial', [MARCA], 'Diz que no marketplace vale o preço do anúncio; a loja oficial no Mercado Livre não foi lida (pediu verificação de conta; P6).'],
-  ['baw-clothing-reclame-aqui-nota-reputacao', ['A nota em números', 'Como a nota mudou'], 'Qual é a nota da BAW Clothing no Reclame Aqui?', 'total', [MARCA], `Números de 6 e de 12 meses lidos em 16/11/2026, não relidos (escopo enxuto). Na consulta de IA de 18/11 o Perplexity disse "Regular" (${nosIa('perplexity', 'q1', 'fato-central-confere')}).`],
-  ['baw-clothing-reclame-aqui-nota-reputacao', ['O que mais gera reclamação'], 'Do que os clientes da BAW mais reclamam?', 'total', [MARCA], ''],
-  ['baw-clothing-reclame-aqui-nota-reputacao', ['O que conferir antes de comprar', 'Se der problema'], 'O que conferir antes de comprar e o que fazer se der problema?', 'total', [MARCA], ''],
-  ['baw-clothing-e-confiavel', ['De quem é a BAW Clothing'], 'De quem é a BAW Clothing? É da Arezzo ou da Reserva?', 'total', [MARCA], `Responde com a compra de 2021 e a revenda de 2025. O Perplexity (${nosIa('perplexity', 'q2', 'fato-central-confere')}) e a visão de IA do Google (semente, 9.7) ainda dão a Arezzo como dona; o ChatGPT acerta (${nosIa('chatgpt', 'q2', 'fato-central-confere')}) (P5).`],
-  ['baw-clothing-e-confiavel', ['CNPJ e site oficial'], 'Qual é o CNPJ e o site oficial da BAW?', 'total', [MARCA], 'Dois CNPJs (rodapé e Reclame Aqui).'],
-  ['baw-clothing-e-confiavel', ['A reputação em resumo', 'Vale comprar na BAW Clothing?'], 'A BAW Clothing é confiável? Vale comprar?', 'total', [MARCA], `Na consulta de IA de 18/11 o ChatGPT não citou páginas nossas pelo nome do chip (${nosIa('chatgpt', 'q1', 'cita-emcasacomcecilia')}); o Perplexity citou esta e a BW2 (${nosIa('perplexity', 'q1', 'cita-emcasacomcecilia')}).`],
-  ['baw-clothing-e-confiavel', ['Entrega: prazo e rastreio'], 'Qual é o prazo de entrega da BAW e como rastrear?', 'total', [MARCA], 'Prazo pelo CEP, sem número fixo, como a loja publica.'],
-  ['baw-clothing-e-confiavel', ['Troca vira crédito, devolução devolve o dinheiro'], 'Como funcionam a troca e a devolução na BAW?', 'total', [MARCA], ''],
-  ['baw-clothing-e-confiavel', ['Formas de pagamento'], 'Quais formas de pagamento a BAW aceita?', 'total', [MARCA], ''],
-  ['baw-clothing-e-confiavel', ['Como falar com a BAW'], 'Como falar com a BAW?', 'total', [MARCA], ''],
-  ['baw-clothing-e-confiavel', ['Site, aplicativo e marketplace'], 'Onde a BAW vende: site, aplicativo e marketplace?', 'parcial', [MARCA], 'A loja oficial no Mercado Livre não foi lida (P6).'],
-  ['baw-clothing-e-confiavel', ['A BAW Clothing tem loja física?'], 'A BAW Clothing tem loja física? Tem outlet?', 'parcial', [MARCA, 'cat-baw-0033'], 'A página "Nossas Lojas" estava vazia; a imprensa de 2025 cita a loja do Bom Retiro, sem fonte oficial do dia. O catálogo de 18/11 tem a vitrine Outlet do site (cat-baw-0033), que não é loja física. Pauta de loja física e outlets no estoque da Fila, sem GO (P4).'],
-  ['cupom-baw-primeira-compra', ['Cupom BAW primeira compra: qual usar', 'BAWEMCASACOMCECILIA ou FIRSTBAW?'], 'Qual cupom usar na primeira compra na BAW: o nosso ou o FIRSTBAW?', 'total', [MARCA], `Mesmo desconto nos testes de 17/11/2026. O ChatGPT, na mesma pergunta, mandou usar o FIRSTBAW com 15% (${nosIa('chatgpt', 'q4', 'recomenda-outro-codigo')}); é a fonte citada na resposta à quinta pergunta (${nosIa('chatgpt', 'q5', 'cita-emcasacomcecilia')}) (P5).`],
-  ['cupom-baw-primeira-compra', ['Quanto o cupom tira na primeira compra'], 'Quanto o cupom tira na primeira compra?', 'total', [MARCA], ''],
-  ['cupom-baw-primeira-compra', ['E na segunda compra?'], 'O cupom vale na segunda compra?', 'total', [MARCA], ''],
-  ['cupom-baw-primeira-compra', ['Soma com promoção e com o Pix?'], 'Na primeira compra, o cupom soma com promoção e com o Pix?', 'total', [MARCA], ''],
-  ['cupom-baw-primeira-compra', ['Primeiro pedido de roupa: o que conferir'], 'O que conferir no primeiro pedido de roupa na BAW?', 'parcial', [MARCA], 'Tamanho sem guia único (P2).'],
-  ['baw-clothing-e-boa', ['O que a BAW Clothing vende'], 'O que a BAW Clothing vende?', 'parcial', [MARCA, 'cat-baw-0002', 'cat-baw-0010', 'cat-baw-0014', 'cat-baw-0015'], 'Lista as categorias do menu. As linhas e collabs do catálogo de 18/11 (cat-baw-0063 a 0078, como BAW + CHEVROLET, Harry Potter e NFL) e a vitrine Collabs 2026 (cat-baw-0031) não aparecem em nenhum conteúdo nosso (P4).'],
-  ['baw-clothing-e-boa', ['Composição: o que muda entre os modelos'], 'De que tecido são as roupas da BAW?', 'parcial', ['cat-baw-0003', 'cat-baw-0004', 'cat-baw-0380', 'cat-baw-0300', 'cat-baw-0429', 'cat-baw-0446'], 'O próprio artigo diz que camisas, jaquetas e acessórios ficaram fora da leitura.'],
-  ['baw-clothing-e-boa', ['Regular ou oversized: o que muda em centímetros'], 'Qual a diferença entre camiseta regular e oversized na BAW?', 'parcial', ['cat-baw-0026', 'cat-baw-0023', 'cat-baw-0380', 'cat-baw-0300'], 'Duas camisetas no tamanho M. O catálogo de 18/11 tem outras modelagens de camiseta (Boxy, New Over, Slim, Baby Tee: cat-baw-0019, 0022, 0027 e 0018) que o artigo não compara. Guia de tamanhos no estoque da Fila, sem GO (P2).'],
-  ['baw-clothing-e-boa', ['Peças sem descrição'], 'E as peças sem medida na página?', 'parcial', ['cat-baw-0003', 'cat-baw-0014', 'cat-baw-0016', 'cat-baw-0366'], 'Leitura de pouco mais de 20 fichas em 16/11; a contagem por categoria da etapa 2 está nas notas das entidades categoria do catálogo (P2).'],
-  ['baw-clothing-e-boa', ['O tênis da BAW é bom? O que a página informa'], 'O tênis da BAW é bom?', 'parcial', ['cat-baw-0016', 'cat-baw-0017', 'cat-baw-0672', 'cat-baw-0677'], 'Sem experiência própria e com as fichas dos tênis vazias; responde só o que a página informa (P1).'],
-  ['baw-clothing-e-boa', ['Do que os clientes reclamam'], 'A qualidade da BAW é boa, segundo quem comprou?', 'total', [MARCA], 'Remete à BW2.'],
-  ['baw-clothing-e-boa', ['Troca e devolução'], 'Dá para trocar se não servir?', 'total', [MARCA], ''],
-  ['baw-clothing-e-boa', ['Quanto custa'], 'Quanto custam as roupas da BAW?', 'parcial', ['cat-baw-0446', 'cat-baw-0380', 'cat-baw-0300', 'cat-baw-0568', 'cat-baw-0512'], 'Preços de 16/11/2026, na campanha; o catálogo de 18/11 tem preço de referência de cada produto.'],
+  // BW1
+  [13, 'cupom-baw-como-usar', ['Onde digitar o cupom na BAW'], 'Onde e como digitar o cupom BAWEMCASACOMCECILIA no site?', 'total', [MARCA], ''],
+  [14, 'cupom-baw-como-usar', ['Quanto o cupom tira: a conta do nosso teste'], 'Quanto o cupom tira de verdade num carrinho?', 'total', [MARCA, 'cat-baw-0366', 'cat-baw-0218'], 'Teste de 16/11/2026 com duas camisetas, uma delas a Regular Goth 3.0 em promoção.'],
+  [15, 'cupom-baw-como-usar', ['O cupom soma com promoção e com o Pix?'], 'O cupom soma com promoção e com o Pix?', 'total', [MARCA], 'O valor com os dois juntos não foi testado em carrinho; o artigo manda conferir no resumo.'],
+  [16, 'cupom-baw-como-usar', ['O cupom BAW vale no aplicativo?'], 'O cupom vale no aplicativo da BAW?', 'total', [MARCA], ''],
+  [17, 'cupom-baw-como-usar', ['Frete e pagamento'], 'O cupom dá frete grátis? Como a BAW cobra frete e parcela?', 'total', [MARCA], ''],
+  [18, 'cupom-baw-como-usar', ['O cupom não entrou: o que conferir'], 'Por que o cupom não entrou?', 'parcial', [MARCA], 'Não cita valor mínimo: o corte exato não foi lido (dossiê, seção 1; fora do programa, vai a um carrinho).'],
+  [19, 'cupom-baw-como-usar', ['Antes de escolher o tamanho'], 'Como escolher o tamanho antes de usar o cupom?', 'parcial', [MARCA, 'cat-baw-0003'], `Só avisa que não há guia único e remete à BW6; não linka a BW10, o guia de tamanhos publicado em 23/11. ${P2_BW10}`],
+  // BW2: os capítulos foram renomeados na reforma de 22/11 (#1339) e respondem às mesmas perguntas.
+  [33, 'baw-clothing-reclame-aqui-nota-reputacao', ['A nota e os indicadores do período', 'O que a nota e o selo medem, e o que não medem'], 'Qual é a nota da BAW Clothing no Reclame Aqui?', 'total', [MARCA], `Perfil relido em 21/11/2026, nas abas de 6 e de 12 meses (reputação Boa, 7,3). Os títulos de 18/11 ("A nota em números" e "Como a nota mudou") saíram na reforma de 22/11. Na consulta de IA de 18/11 o Perplexity disse "Regular" (${nosIa('perplexity', 'q1', 'fato-central-confere')}).`],
+  [34, 'baw-clothing-reclame-aqui-nota-reputacao', ['Pontos de atenção e principais queixas'], 'Do que os clientes da BAW mais reclamam?', 'total', [MARCA], 'Era "O que mais gera reclamação" em 18/11. Motivos da aba geral do perfil (até três anos).'],
+  [35, 'baw-clothing-reclame-aqui-nota-reputacao', ['Como a loja responde e o que conferir antes de comprar'], 'O que conferir antes de comprar e o que fazer se der problema?', 'total', [MARCA, 'cat-baw-0446'], 'Juntou os capítulos "O que conferir antes de comprar" e "Se der problema" de 18/11.'],
+  [68, 'baw-clothing-reclame-aqui-nota-reputacao', ['Pontos positivos identificados'], 'Quais são os pontos fortes da BAW no Reclame Aqui?', 'total', [MARCA], 'Capítulo novo da reforma de 22/11: reputação, taxa de resposta e de solução.'],
+  [69, 'baw-clothing-reclame-aqui-nota-reputacao', ['Vale a pena comprar na BAW Clothing?'], 'Vale a pena comprar na BAW, pelo Reclame Aqui?', 'total', [MARCA], 'Capítulo novo da reforma de 22/11: o resumo dos pontos fortes e fracos, com o código no fim.'],
+  // BW3
+  [36, 'baw-clothing-e-confiavel', ['De quem é a BAW Clothing'], 'De quem é a BAW Clothing? É da Arezzo ou da Reserva?', 'total', [MARCA], `Responde com a compra de 2021 e a revenda de 2025. O Perplexity (${nosIa('perplexity', 'q2', 'fato-central-confere')}) e a visão de IA do Google (semente, 9.7) ainda dão a Arezzo como dona; o ChatGPT acerta (${nosIa('chatgpt', 'q2', 'fato-central-confere')}) (P5).`],
+  [37, 'baw-clothing-e-confiavel', ['CNPJ e site oficial'], 'Qual é o CNPJ e o site oficial da BAW?', 'total', [MARCA], 'Dois CNPJs (rodapé e Reclame Aqui).'],
+  [38, 'baw-clothing-e-confiavel', ['A reputação em resumo', 'Vale comprar na BAW Clothing?'], 'A BAW Clothing é confiável? Vale comprar?', 'total', [MARCA], `Na consulta de IA de 18/11 o ChatGPT não citou páginas nossas pelo nome do chip (${nosIa('chatgpt', 'q1', 'cita-emcasacomcecilia')}); o Perplexity citou esta e a BW2 (${nosIa('perplexity', 'q1', 'cita-emcasacomcecilia')}).`],
+  [39, 'baw-clothing-e-confiavel', ['Entrega: prazo e rastreio'], 'Qual é o prazo de entrega da BAW e como rastrear?', 'total', [MARCA], 'Prazo pelo CEP, sem número fixo, como a loja publica.'],
+  [40, 'baw-clothing-e-confiavel', ['Troca vira crédito, devolução devolve o dinheiro'], 'Como funcionam a troca e a devolução na BAW?', 'total', [MARCA, 'cat-baw-0380'], 'Política lida em 16/11/2026.'],
+  [41, 'baw-clothing-e-confiavel', ['Formas de pagamento'], 'Quais formas de pagamento a BAW aceita?', 'total', [MARCA], ''],
+  [42, 'baw-clothing-e-confiavel', ['Como falar com a BAW'], 'Como falar com a BAW?', 'total', [MARCA], ''],
+  [43, 'baw-clothing-e-confiavel', ['Site, aplicativo e marketplace'], 'Onde a BAW vende: site, aplicativo e marketplace?', 'parcial', [MARCA], 'A loja oficial no Mercado Livre não foi lida (P6).'],
+  [44, 'baw-clothing-e-confiavel', ['A BAW Clothing tem loja física?'], 'A BAW Clothing tem loja física? Tem outlet?', 'parcial', [MARCA, 'cat-baw-0033'], 'A página "Nossas Lojas" estava sem endereço; o artigo trata só da compra no site e no aplicativo. O catálogo de 18/11 tem a vitrine Outlet do site (cat-baw-0033), que não é loja física. Pauta de loja física e outlets no estoque da Fila, sem GO (P4).'],
+  // BW4
+  [45, 'cupom-baw-primeira-compra', ['Cupom BAW primeira compra: qual usar', 'BAWEMCASACOMCECILIA ou FIRSTBAW?'], 'Qual cupom usar na primeira compra na BAW: o nosso ou o FIRSTBAW?', 'total', [MARCA, 'cat-baw-0220', 'cat-baw-0376'], `Mesmo desconto nos testes de 17/11/2026. O ChatGPT, na mesma pergunta, mandou usar o FIRSTBAW com 15% (${nosIa('chatgpt', 'q4', 'recomenda-outro-codigo')}); é a fonte citada na resposta à quinta pergunta (${nosIa('chatgpt', 'q5', 'cita-emcasacomcecilia')}) (P5).`],
+  [46, 'cupom-baw-primeira-compra', ['Quanto o cupom tira na primeira compra'], 'Quanto o cupom tira na primeira compra?', 'total', [MARCA, 'cat-baw-0218', 'cat-baw-0366'], 'Teste de 16/11/2026.'],
+  [47, 'cupom-baw-primeira-compra', ['E na segunda compra?'], 'O cupom vale na segunda compra?', 'total', [MARCA, 'cat-baw-0376'], ''],
+  [48, 'cupom-baw-primeira-compra', ['Soma com promoção e com o Pix?'], 'Na primeira compra, o cupom soma com promoção e com o Pix?', 'total', [MARCA], ''],
+  [49, 'cupom-baw-primeira-compra', ['Primeiro pedido de roupa: o que conferir'], 'O que conferir no primeiro pedido de roupa na BAW?', 'parcial', [MARCA], `Tamanho sem guia único; remete às medidas da BW5, e não à BW10. ${P2_BW10}`],
+  // BW5
+  [50, 'baw-clothing-e-boa', ['Quem é a BAW Clothing: origem e onde ver a reputação'], 'O que a BAW Clothing vende?', 'parcial', [MARCA, 'cat-baw-0002', 'cat-baw-0010', 'cat-baw-0014', 'cat-baw-0015'], 'O capítulo "O que a BAW Clothing vende" de 18/11 saiu na reforma; a lista de categorias passou para este. As linhas e collabs do catálogo de 18/11 (cat-baw-0063 a 0078) e a vitrine Collabs 2026 (cat-baw-0031) só aparecem, nos onze artigos, na collab Baw & Linus da BW9 (P4).'],
+  [51, 'baw-clothing-e-boa', ['Composição: o que muda entre os modelos'], 'De que tecido são as roupas da BAW?', 'parcial', ['cat-baw-0003', 'cat-baw-0004', 'cat-baw-0380', 'cat-baw-0300', 'cat-baw-0429', 'cat-baw-0446', 'cat-baw-0512', 'cat-baw-0568', 'cat-baw-0100', 'cat-baw-0677'], 'Camisas, jaquetas e acessórios seguem fora da leitura.'],
+  [52, 'baw-clothing-e-boa', ['Regular ou oversized: o que muda em centímetros'], 'Qual a diferença entre camiseta regular e oversized na BAW?', 'total', ['cat-baw-0026', 'cat-baw-0023', 'cat-baw-0380', 'cat-baw-0219', 'cat-baw-0300'], `Resposta curta com três camisetas no M e o link para a BW10, que tem a tabela por tamanho. ${P2_BW10} Boxy, New Over, Slim e Baby Tee (cat-baw-0019, 0022, 0027 e 0018) seguem sem comparação.`],
+  [53, 'baw-clothing-e-boa', ['Peças sem descrição'], 'E as peças sem medida na página?', 'parcial', ['cat-baw-0003', 'cat-baw-0014', 'cat-baw-0016', 'cat-baw-0366'], `Leitura de pouco mais de 20 fichas em 16/11; a contagem por categoria da etapa 2 está nas notas das entidades categoria do catálogo. ${P2_BW10}`],
+  [54, 'baw-clothing-e-boa', ['Tênis e slides da BAW: o que conferir na página'], 'O tênis da BAW é bom?', 'parcial', ['cat-baw-0016', 'cat-baw-0017', 'cat-baw-0672', 'cat-baw-0677'], `Era "O tênis da BAW é bom? O que a página informa" em 18/11. Responde pelo que a página informa, sem experiência própria, e não linka a BW7. ${P1_TENIS}`],
+  [55, 'baw-clothing-e-boa', ['Quem é a BAW Clothing: origem e onde ver a reputação'], 'A qualidade da BAW é boa, segundo quem comprou?', 'total', [MARCA], 'O capítulo "Do que os clientes reclamam" de 18/11 saiu na reforma; este remete à BW2 e à BW3.'],
+  [56, 'baw-clothing-e-boa', ['Troca e devolução'], 'Dá para trocar se não servir?', 'total', [MARCA], ''],
+  [57, 'baw-clothing-e-boa', ['Quanto custa'], 'Quanto custam as roupas da BAW?', 'parcial', ['cat-baw-0446', 'cat-baw-0380', 'cat-baw-0300', 'cat-baw-0429', 'cat-baw-0512', 'cat-baw-0366'], `${PRECO_1611} O catálogo de 18/11 tem preço de referência de cada produto.`],
+  [70, 'baw-clothing-e-boa', ['Para quem a BAW Clothing faz sentido na prática'], 'Para quem a BAW Clothing faz sentido?', 'total', [MARCA, 'cat-baw-0003', 'cat-baw-0004'], 'Capítulo novo da reforma de 22/11, junto com o quadro "Leve se / Passe se".'],
+  // BW6
+  [20, 'black-friday-baw', ['A Black Friday da BAW já começou?', 'Resposta rápida'], 'A Black Friday da BAW já começou e quando acaba?', 'parcial', ['cat-baw-0041', 'cat-baw-0042'], `O banner da home anuncia até 80% OFF. ${P3_RELEITURA} O sentido de "a última Black Friday" não foi esclarecido pela parceira.`],
+  [21, 'black-friday-baw', ['O cupom soma com a Black Friday?'], 'O cupom soma com o preço da Black Friday?', 'total', [MARCA, 'cat-baw-0041', 'cat-baw-0366', 'cat-baw-0218'], 'Teste de 16/11/2026; refazer em 27/11 (ficha do vault).'],
+  [22, 'black-friday-baw', ['O que vale a pena: sete peças', 'As sete peças lado a lado'], 'Quais peças valem a pena na Black Friday da BAW?', 'parcial', ['cat-baw-0041', 'cat-baw-0366', 'cat-baw-0380', 'cat-baw-0300', 'cat-baw-0429', 'cat-baw-0512', 'cat-baw-0100', 'cat-baw-0672'], `${PRECO_1611} Curadoria de sete peças; o catálogo de 18/11 tem as vitrines de Black Friday por categoria e por preço (cat-baw-0043 a 0062), que o artigo não usa.`],
+  [23, 'black-friday-baw', ['Camiseta Regular Goth 3.0'], 'A Camiseta Regular Goth 3.0 vale na Black Friday?', 'parcial', ['cat-baw-0366', 'cat-baw-0380'], `Ficha sem descrição (sem composição nem medidas). ${PRECO_1611}`],
+  [24, 'black-friday-baw', ['Camiseta Regular Selfie Logo'], 'A Camiseta Regular Selfie Logo vale na Black Friday?', 'parcial', ['cat-baw-0380', 'cat-baw-0218'], `Medidas e composição da ficha. ${PRECO_1611}`],
+  [25, 'black-friday-baw', ['Camiseta Oversized BAW Subscript'], 'A Camiseta Oversized BAW Subscript vale na Black Friday?', 'parcial', ['cat-baw-0300', 'cat-baw-0380'], `Compara as medidas com a regular. ${PRECO_1611}`],
+  [26, 'black-friday-baw', ['Moletom Basic Label'], 'Qual moletom da BAW vale na Black Friday?', 'parcial', ['cat-baw-0429', 'cat-baw-0446', 'cat-baw-0004'], `Dois moletons. ${PRECO_1611} A pauta "moletom da BAW vale a pena?" segue no estoque da Fila, sem GO (P1).`],
+  [27, 'black-friday-baw', ['Calça Track BAW Tag'], 'A Calça Track BAW Tag vale na Black Friday?', 'parcial', ['cat-baw-0512', 'cat-baw-0568'], `Com a bermuda como alternativa. ${PRECO_1611}`],
+  [28, 'black-friday-baw', ['Shorts Reverse Kids'], 'O que vale na linha infantil da BAW na Black Friday?', 'parcial', ['cat-baw-0100', 'cat-baw-0083', 'cat-baw-0089', 'cat-baw-0014'], `Uma peça infantil, com duas camisetas BR Kids citadas pelo link. ${PRECO_1611}`],
+  [29, 'black-friday-baw', ['Tênis BAW Thunder'], 'O tênis BAW Thunder vale na Black Friday?', 'parcial', ['cat-baw-0672', 'cat-baw-0677', 'cat-baw-0016'], `Ficha sem material nem medidas. ${PRECO_1611} Não linka a BW7. ${P1_TENIS}`],
+  [30, 'black-friday-baw', ['Antes de fechar o carrinho'], 'O que conferir antes de fechar o carrinho na Black Friday?', 'total', [MARCA], ''],
+  [31, 'black-friday-baw', ['Troca ou devolução de compra da campanha'], 'Como fica a troca de compra da Black Friday?', 'total', [MARCA], 'Política lida em 16/11/2026.'],
+  [32, 'black-friday-baw', ['E no Mercado Livre?'], 'O cupom vale no Mercado Livre? A BAW vende lá?', 'parcial', [MARCA], 'Diz que no marketplace vale o preço do anúncio e que não conferimos preço lá; a loja oficial no Mercado Livre não foi lida (P6).'],
+  // BW7: P1 no caso do tênis.
+  [71, 'tenis-baw-e-bom', ['Resposta rápida', 'Os seis modelos lado a lado'], 'O tênis da BAW é bom? Quais modelos a loja vende e quanto custam?', 'total', ['cat-baw-0016', 'cat-baw-0670', 'cat-baw-0671', 'cat-baw-0672', 'cat-baw-0673', 'cat-baw-0674', 'cat-baw-0675'], `Os seis modelos da vitrine de calçados, com preço, grade e o que cada ficha diz; sem experiência própria. ${P1_TENIS}`],
+  [72, 'tenis-baw-e-bom', ['Truck: o que a ficha descreve'], 'O tênis BAW Truck é bom? De que é feito?', 'parcial', ['cat-baw-0675'], 'Material e sola pela ficha; a tabela de medidas da página está vazia e o título dela diverge da grade.'],
+  [73, 'tenis-baw-e-bom', ['Grip Mad: lona, camurça e a tabela de medidas'], 'O tênis Grip Mad da BAW é bom? Qual a medida?', 'total', ['cat-baw-0673'], 'Única ficha de tênis com tabela de medidas; o artigo aponta a composição da ficha que não bate com a descrição.'],
+  [74, 'tenis-baw-e-bom', ['Thunder, Baseline, Audacity e Session Revival'], 'Os tênis Thunder, Baseline, Audacity e Session Revival são bons?', 'parcial', ['cat-baw-0672', 'cat-baw-0671', 'cat-baw-0670', 'cat-baw-0674'], 'As quatro fichas estão com a descrição vazia: só nome, preço e grade.'],
+  [75, 'tenis-baw-e-bom', ['Tênis tipo Vans: onde a BAW entra'], 'A BAW tem tênis parecido com Vans?', 'total', ['cat-baw-0673'], ''],
+  [76, 'tenis-baw-e-bom', ['Qual número escolher'], 'Qual número escolher no tênis da BAW?', 'parcial', ['cat-baw-0016', 'cat-baw-0673'], 'Só o Grip Mad tem medidas; nos outros, comparar com um tênis próprio e confirmar no atendimento.'],
+  // BW8
+  [77, 'baw-ou-pace', ['Resposta rápida', 'Quanto custa cada uma'], 'BAW ou Pace: qual é mais barata?', 'total', [MARCA, 'cat-baw-0366', 'cat-baw-0512', 'cat-baw-0568'], 'A Pace não é parceira: sem link nem código dela.'],
+  [78, 'baw-ou-pace', ['Tênis BAW e tênis Pace'], 'Tênis BAW ou tênis Pace?', 'total', ['cat-baw-0016', 'cat-baw-0672', 'cat-baw-0673', 'cat-baw-0675'], 'Três tênis de cada marca; os seis da BAW estão na BW7.'],
+  [79, 'baw-ou-pace', ['Quem faz cada marca'], 'Quem faz a BAW e a Pace?', 'total', [MARCA], ''],
+  [80, 'baw-ou-pace', ['Onde comprar'], 'Onde comprar BAW e Pace, e com que código?', 'total', [MARCA], ''],
+  // BW9: a collab Baw & Linus (P4, parte das collabs).
+  [81, 'sandalia-linus-baw', ['O que é a collab'], 'O que é a Sandália Linus + BAW?', 'total', ['cat-baw-0077', 'cat-baw-0677'], 'Única collab do catálogo com conteúdo nosso (P4); as promessas da ficha vão entre aspas.'],
+  [82, 'sandalia-linus-baw', ['Cores e preço'], 'Quais cores e quanto custa a Sandália Linus + BAW?', 'total', ['cat-baw-0677', 'cat-baw-0678', 'cat-baw-0679'], 'Com os dois slides na mesma tabela.'],
+  [83, 'sandalia-linus-baw', ['Tabela de medidas e as tiras que não se ajustam'], 'Qual número escolher na Sandália Linus?', 'total', ['cat-baw-0677'], 'Tabela da ficha por numeração dupla; tiras sem ajuste.'],
+  [84, 'sandalia-linus-baw', ['Como limpar e cuidar da sandália'], 'Como limpar a Sandália Linus?', 'parcial', ['cat-baw-0677'], 'A ficha só diz água, sabão neutro e escovinha; sem secagem nem sol.'],
+  [85, 'sandalia-linus-baw', ['Slide BAW e Slide Goth'], 'Os slides BAW e Goth são bons?', 'parcial', ['cat-baw-0017', 'cat-baw-0678', 'cat-baw-0679'], 'As duas fichas estão com a descrição vazia: só preço e numeração.'],
+  [86, 'sandalia-linus-baw', ['Antes de fechar a compra'], 'O que conferir antes de comprar a sandália?', 'total', [MARCA, 'cat-baw-0677'], ''],
+  // BW10: P2.
+  [87, 'tabela-medidas-baw', ['Resposta rápida', 'Onde estão as medidas da BAW'], 'A BAW tem tabela de medidas? Onde ficam as medidas?', 'total', [MARCA, 'cat-baw-0002'], `Fichas lidas em 23/11/2026. ${P2_BW10}`],
+  [88, 'tabela-medidas-baw', ['Camisetas regular e oversized: comprimento e tórax por tamanho', 'Camisetas: barra, manga e cava no tamanho M'], 'Qual a medida das camisetas regular e oversized da BAW, por tamanho?', 'total', ['cat-baw-0003', 'cat-baw-0026', 'cat-baw-0023', 'cat-baw-0380', 'cat-baw-0219', 'cat-baw-0225', 'cat-baw-0300', 'cat-baw-0291'], `Cinco camisetas com tabela na ficha. ${P2_BW10} Boxy, New Over, Slim e Baby Tee seguem sem tabela no artigo.`],
+  [89, 'tabela-medidas-baw', ['Moletons: Basic Label e Hoodie'], 'Qual a medida dos moletons da BAW?', 'total', ['cat-baw-0004', 'cat-baw-0429', 'cat-baw-0446'], P2_BW10],
+  [90, 'tabela-medidas-baw', ['Calça e bermuda: as duas fichas trazem cintura', 'Bermuda Jeans Regular Logo: tabela de 34 a 50'], 'Qual a medida da calça e da bermuda da BAW?', 'parcial', ['cat-baw-0006', 'cat-baw-0008', 'cat-baw-0512', 'cat-baw-0568'], 'As fichas não dizem se a cintura é meia cintura ou circunferência; a tabela da bermuda vai até o 50, e a grade até o 52.'],
+  [91, 'tabela-medidas-baw', ['Infantil, bonés e peças sem ficha'], 'E o infantil, os bonés e as peças sem ficha?', 'parcial', ['cat-baw-0014', 'cat-baw-0012', 'cat-baw-0100', 'cat-baw-0659', 'cat-baw-0366'], 'Uma peça infantil e um boné com medida; o resto sem ficha.'],
+  [92, 'tabela-medidas-baw', ['Como escolher o tamanho pela medida'], 'Como escolher o tamanho na BAW pela medida?', 'total', ['cat-baw-0003'], P2_BW10],
+  [93, 'tabela-medidas-baw', ['Troca e devolução se o tamanho não servir'], 'E se o tamanho não servir?', 'total', [MARCA], 'Política lida em 16/11/2026.'],
+  [94, 'tabela-medidas-baw', ['Código de desconto e Pix'], 'O código soma com o Pix na compra pela tabela de medidas?', 'total', [MARCA], ''],
+  // BW11
+  [95, 'baw-ou-carnan', ['Resposta rápida', 'Quanto custa cada uma pelo preço de tabela'], 'BAW ou Carnan: qual é mais barata?', 'total', [MARCA, 'cat-baw-0300', 'cat-baw-0446', 'cat-baw-0512', 'cat-baw-0568', 'cat-baw-0366'], 'Pelo preço de tabela (o "De"), com as duas lojas em campanha no dia. A Carnan não é parceira: sem link nem código dela.'],
+  [96, 'baw-ou-carnan', ['Tamanhos e medidas que cada marca publica'], 'Como são as medidas da BAW e da Carnan?', 'total', ['cat-baw-0003', 'cat-baw-0004', 'cat-baw-0380', 'cat-baw-0300', 'cat-baw-0446'], 'Tamanho M de uma camiseta e de um moletom de cada marca.'],
+  [97, 'baw-ou-carnan', ['O que cada marca vende'], 'O que a BAW e a Carnan vendem?', 'total', [MARCA, 'cat-baw-0002', 'cat-baw-0015'], ''],
+  [98, 'baw-ou-carnan', ['Troca, envio e onde comprar'], 'Como são a troca e o envio na BAW e na Carnan?', 'total', [MARCA], ''],
+  [99, 'baw-ou-carnan', ['Qual escolher'], 'BAW ou Carnan: qual escolher?', 'parcial', [MARCA], 'Tecido, caimento e durabilidade ficam fora da comparação, como o próprio artigo diz.'],
 ];
-for (const [slug, headings, pergunta, cobertura_, entidades, nota] of SECOES) {
-  for (const id of entidades) if (PRODUTOS[id]) citaProduto(slug, id);
+for (const [id, slug, headings, pergunta, cobertura_, entidades, nota] of SECOES) {
+  for (const e of entidades) if (PRODUTOS[e]) citaProduto(slug, e);
   cob({
-    url: `/reviews/${slug}`, tipo: 'artigo', estado: 'no-ar', conferido: NO_AR, pergunta, entidades: ent(...entidades),
+    id, url: `/reviews/${slug}`, tipo: 'artigo', estado: 'no-ar', conferido: NO_AR, pergunta, entidades: ent(...entidades),
     cobertura: cobertura_, evidencia: headings.map((h) => evSecao(slug, h)).join('|'),
-    notas: [`${ARTIGOS[slug]}.`, nota, FILA_ATRASADA].filter(Boolean).join(' '),
+    notas: [`${ARTIGOS[slug]}.`, nota].filter(Boolean).join(' '),
   });
 }
 
 // A subpágina de loja de /reviews.
+const REGRA_SUBPAGINA = 'subpáginas `/reviews/loja/<slug>` das lojas com 3 artigos ou mais';
+if (!noCommit('CLAUDE.md').includes(REGRA_SUBPAGINA)) throw new Error('CLAUDE.md sem a regra das subpáginas de loja');
 cob({
-  url: '/reviews/loja/baw', tipo: 'pagina', estado: 'no-ar', conferido: NO_AR,
+  id: 58, url: '/reviews/loja/baw', tipo: 'pagina', estado: 'no-ar', conferido: NO_AR,
   pergunta: 'Quais artigos o site tem sobre a BAW?', entidades: ent(MARCA), cobertura: 'total',
-  evidencia: `CLAUDE.md#"${(() => {
-    const t = 'subpáginas `/reviews/loja/<slug>` das lojas com 3 artigos ou mais';
-    if (!read('CLAUDE.md').includes(t)) throw new Error('CLAUDE.md sem a regra das subpáginas de loja');
-    return t;
-  })()}"`,
+  evidencia: `CLAUDE.md@${CURTO}#"${REGRA_SUBPAGINA}"`,
   notas: `Estante da loja; existe porque a BAW tem ${Object.keys(ARTIGOS).length} artigos em PT com affiliate baw.`,
 });
 
-// As fichas das pautas BW1 a BW6 no vault (o briefing de cada artigo publicado).
+// As fichas das pautas BW1 a BW11 no vault (o briefing de cada artigo publicado).
+const FICHAS = { BW1: 59, BW2: 61, BW3: 62, BW4: 63, BW5: 64, BW6: 60, BW7: 100, BW8: 101, BW9: 102, BW10: 103, BW11: 104 };
 for (const [slug, bw] of Object.entries(ARTIGOS)) {
-  const ficha = read(`docs/Memoria de Artigos/memreview/02_Artigos/${slug}.md`);
+  const ficha = noCommit(`docs/Memoria de Artigos/memreview/02_Artigos/${slug}.md`);
   const status = /^status: "([^"]+)"/m.exec(ficha)?.[1];
   const proxima = /^proxima_acao: "([^"]+)"/m.exec(ficha)?.[1];
   if (!status || !proxima) throw new Error(`02_Artigos/${slug}.md sem status ou proxima_acao`);
   cob({
-    url: `02_Artigos/${slug}.md`, tipo: 'artigo', estado: 'briefing',
-    conferido: `${LIDO_EM}, no repositório: a ficha diz status "${status}", mas o artigo dela está no ar (/reviews/${slug}, 200 às 13:29)`,
+    id: FICHAS[bw], url: `02_Artigos/${slug}.md`, tipo: 'artigo', estado: 'briefing',
+    conferido: `${LIDO_EM}, no repositório (commit ${CURTO}): a ficha diz status "${status}", mas o artigo dela está no ar (/reviews/${slug}, 200 às 00:24)`,
     pergunta: `Ficha da pauta ${bw}: briefing e regras do artigo /reviews/${slug}`, entidades: ent(MARCA), cobertura: NA,
-    evidencia: `docs/Memoria de Artigos/memreview/02_Artigos/${slug}.md#frontmatter, campos status e proxima_acao`,
+    evidencia: `docs/Memoria de Artigos/memreview/02_Artigos/${slug}.md@${CURTO}#frontmatter, campos status e proxima_acao`,
     notas: `Próxima ação na ficha: ${proxima}. A cobertura das perguntas está nas linhas do artigo publicado; esta linha só registra o briefing.`,
   });
 }
+
+// Todas as linhas de 18/11 continuam ou estão em REMOVIDAS.
+const ids = new Set(cobertura.map((r) => r[0]));
+for (const id of COB_ANTES.keys()) if (!ids.has(id) && !REMOVIDAS[id]) throw new Error(`${id} de 18/11 sumiu sem motivo em REMOVIDAS`);
+cobertura.sort((a, b) => a[0].localeCompare(b[0]));
 writeCsv('cobertura.csv', HEADER_COB, cobertura);

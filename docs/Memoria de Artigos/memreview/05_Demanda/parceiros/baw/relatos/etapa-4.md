@@ -7,7 +7,8 @@ Sessão: "Demanda BAW, etapa 4" (Claude Opus 5.5), branch `docs/demanda-baw-etap
 Entrega em quatro PRs: a 4A no #1138; a 4B (cobertura, seção 10) no #1140, aberto depois da mensagem 2 da coordenação
 (catálogo na `main` pelo #1139), na branch `docs/demanda-baw-etapa4b`; o recorte dirigido (seção 11), feito depois que
 o Bruno entrou nas plataformas, no #1190, na branch `docs/demanda-baw-etapa4c`; o Clarity (seção 12), depois que ele
-entrou também nele, num quarto PR, na branch `docs/demanda-baw-etapa4d`.
+entrou também nele, num quarto PR, na branch `docs/demanda-baw-etapa4d`. A cobertura refeita em 25/11 para os onze
+artigos (seção 13, mensagem 4 da coordenação) foi num quinto PR, na branch `docs/demanda-baw-cobertura-2511`.
 
 ## 1. Tempo
 
@@ -18,6 +19,7 @@ entrou também nele, num quarto PR, na branch `docs/demanda-baw-etapa4d`.
 | 4B | 2026-11-18T13:27-03:00 | 2026-11-18T13:33-03:00 | 6 |
 | Recorte dirigido | 2026-11-18T21:52-03:00 | 2026-11-18T22:04-03:00 | 12 |
 | Clarity | 2026-11-18T22:08-03:00 | 2026-11-18T22:13-03:00 | 5 |
+| Cobertura refeita (seção 13) | 2026-11-25T00:21-03:00 | 2026-11-25T00:33-03:00 | 12 |
 
 Na 4A: 2 minutos de leitura dos briefs e da L'Amazonie, 1 de tentativa nas plataformas (login pedido), 9 nas consultas
 de IA, 8 no gerador, na conferência e neste relato. A espera pelo login não entrou no relógio: entreguei sem ele.
@@ -240,3 +242,115 @@ página não é demanda.
 
 Nenhuma gravação nem perfil de visitante foi aberto. O gerador confere o período e o filtro de cada `.txt` antes de
 ler; rodado duas vezes, deu o mesmo SHA-256 nos três CSVs, e `comercial.csv` e `cobertura.csv` não mudaram.
+
+## 13. Cobertura refeita em 25/11/2026 (onze artigos)
+
+Turno complementar da 4B, pedido na mensagem 4 da coordenação (25/11): a parte 4B do gerador quebrava
+(`baw-clothing-reclame-aqui-nota-reputacao: seção não encontrada: A nota em números`) porque os artigos da BAW mudaram
+depois de 18/11: BW7 a BW9 no #1310, a reforma dos nove artigos e da `/cupons/baw` no #1339, BW10 e BW11 no #1397, no
+#1402 e no #1408. Início 00:21, fim 00:33 (25/11, Brasília), 12 minutos.
+
+**Commit lido:** `4c639f061b9b4396a98bd18b7d89d771c455f619`. A 4B agora lê `content/reviews/`, o
+`src/lib/couponsData.ts`, o `CLAUDE.md`, as fichas `02_Artigos/<slug>.md` e o `cobertura.csv` de 18/11 nesse commit
+(`git show <commit>:<caminho>`, constante `COMMIT_CONTEUDO` do script), e não no disco: rodar de novo sobre o mesmo
+commit dá o mesmo arquivo (regra do `LICOES.md` de 24/11). O `catalogo.csv` segue lido do disco, porque é do próprio
+`2-processado/` e não muda com o site. A evidência de cada linha passou a levar o commit (`arquivo@4c639f06#"título"`).
+
+**Novas conferências do script:** os artigos em PT publicados com `affiliate: "baw"` no commit têm de ser exatamente os
+onze da lista (artigo novo ou despublicado para o script); cada linha com id de 18/11 tem de manter a página e a
+pergunta do `cobertura.csv` de 18/11; nenhuma linha de 18/11 pode sumir sem motivo escrito na lista `REMOVIDAS`; os
+ids são fixos no script, e não mais sequenciais. Rodado duas vezes, deu o mesmo SHA-256 nos três CSVs; o
+`nossos-dados.csv` (506) e o `comercial.csv` (4) saíram iguais aos da `main`.
+
+**Estado:** as treze páginas (`/cupons/baw`, `/reviews/loja/baw` e os onze artigos) responderam 200 em 25/11 às 00:24,
+com todos os títulos de seção do commit no HTML e as 15 perguntas do FAQ na `/cupons/baw`.
+
+`cobertura.csv`: 104 linhas (eram 64), 44 entidades do catálogo (eram 24).
+
+| Conteúdo | Linhas | Total | Parcial | Ids novos |
+|---|---|---|---|---|
+| `/cupons/baw` | 15 | 13 | 2 | 0065 a 0067 |
+| BW1 `cupom-baw-como-usar` | 7 | 5 | 2 | |
+| BW2 `baw-clothing-reclame-aqui-nota-reputacao` | 5 | 5 | 0 | 0068, 0069 |
+| BW3 `baw-clothing-e-confiavel` | 9 | 7 | 2 | |
+| BW4 `cupom-baw-primeira-compra` | 5 | 4 | 1 | |
+| BW5 `baw-clothing-e-boa` | 9 | 4 | 5 | 0070 |
+| BW6 `black-friday-baw` | 13 | 3 | 10 | |
+| BW7 `tenis-baw-e-bom` | 6 | 3 | 3 | 0071 a 0076 |
+| BW8 `baw-ou-pace` | 4 | 4 | 0 | 0077 a 0080 |
+| BW9 `sandalia-linus-baw` | 6 | 4 | 2 | 0081 a 0086 |
+| BW10 `tabela-medidas-baw` | 8 | 6 | 2 | 0087 a 0094 |
+| BW11 `baw-ou-carnan` | 5 | 4 | 1 | 0095 a 0099 |
+| `/reviews/loja/baw` | 1 | 1 | 0 | |
+| Fichas BW1 a BW11 em `02_Artigos/` | 11 | `@nao-se-aplica` | | 0100 a 0104 |
+
+**O que mudou em relação a 18/11**
+
+- **Nenhuma linha saiu.** As 64 continuam com o mesmo id, a mesma página e a mesma pergunta.
+- **Evidência trocada pelos títulos novos**, a mesma pergunta respondida em outro capítulo:
+  - BW2, reforma de 22/11: 0033 ("A nota em números" e "Como a nota mudou" → "A nota e os indicadores do período" e "O
+    que a nota e o selo medem, e o que não medem"), 0034 ("O que mais gera reclamação" → "Pontos de atenção e principais
+    queixas") e 0035 ("O que conferir antes de comprar" e "Se der problema" → "Como a loja responde e o que conferir
+    antes de comprar").
+  - BW5: 0050 e 0055 ("O que a BAW Clothing vende" e "Do que os clientes reclamam" → "Quem é a BAW Clothing: origem e
+    onde ver a reputação") e 0054 ("O tênis da BAW é bom? O que a página informa" → "Tênis e slides da BAW: o que
+    conferir na página").
+- **P1 e P2 registradas como executadas:**
+  - P1 no caso do tênis, pela BW7: nas notas de 0029 (o Thunder da BW6) e 0054 (BW5), e nas linhas novas 0071 a 0076.
+  - P2, pela BW10: nas notas de 0019 (BW1), 0049 (BW4), 0052 e 0053 (BW5), e nas linhas novas 0087 a 0094.
+  - A BW1 (0019) e a BW4 (0049) ainda remetem à BW6 e à BW5, e não à BW10. A BW5 (0054) e a BW6 (0029) não linkam a
+    BW7. Fica como fato de cobertura, para a etapa 5.
+- **Cobertura que mudou:** 0052 (regular ou oversized, BW5) passou de parcial a total. O capítulo dá a resposta curta
+  com três camisetas no M e linka a BW10, que traz a tabela por tamanho.
+- **Entidades que mudaram:**
+  - 0014, 0021 e 0024 ganharam a Camiseta BR Regular Locally Grown (`cat-baw-0218`).
+  - 0028 ganhou as camisetas BR Kids Classic Colors e Flaming BAW (`0083` e `0089`), citadas pelo link.
+  - 0035 ganhou o Moletom Hoodie BAW Subscript (`0446`).
+  - 0040 ganhou a Camiseta Regular Selfie Logo (`0380`).
+  - 0045 a 0047 ganharam as camisetas do teste (`0218`, `0220`, `0366`, `0376`).
+  - 0051 ganhou a calça, a bermuda, o shorts infantil e a sandália (`0512`, `0568`, `0100`, `0677`), que a reforma pôs
+    na composição.
+  - 0052 ganhou a BR Regular Logo (`0219`).
+  - Em 0057 saiu a Bermuda Jeans Regular Logo e entraram o Moletom Basic Label e a Regular Goth 3.0 (`0429`, `0366`),
+    como na tabela de preços de hoje.
+  - Todo produto continua conferido pelo link ou pelo nome no artigo.
+- **Notas atualizadas:**
+  - Saiu de todas as linhas a frase "a Fila (seção 1) e a ficha do vault ainda dizem que o artigo espera o deploy". A
+    linha 303 da Fila diz que BW1 a BW6 estão no ar.
+  - BW2: perfil relido em 21/11, reputação Boa, 7,3.
+  - BW6 e `/cupons/baw` (0008, 0020): o banner de até 80% OFF; a releitura da vitrine (P3) é da etapa 3, e não mais
+    "até 25/11".
+  - BW3 (0044): a página "Nossas Lojas" segue sem endereço, e o artigo já não cita a loja do Bom Retiro.
+  - 0058: onze artigos.
+- **Linhas novas** (0065 a 0099): as três perguntas novas do FAQ da `/cupons/baw` e os capítulos novos de BW2 e BW5.
+  Nos cinco artigos novos, uma linha por pergunta, com os capítulos da mesma pergunta juntos, como em 18/11.
+- **Parcial nos artigos novos, e por quê:**
+  - BW7: Truck com a tabela de medidas vazia e o título dela diferente da grade; Thunder, Baseline, Audacity e Session
+    Revival com a descrição vazia; número só pelo Grip Mad.
+  - BW9: limpeza só com o que a ficha diz; os slides BAW e Goth sem descrição.
+  - BW10: a cintura da calça e da bermuda sem dizer se é meia cintura ou circunferência, e a tabela da bermuda até o 50
+    com a grade até o 52; infantil e bonés quase sem ficha.
+  - BW11: tecido, caimento e durabilidade fora da comparação, como o artigo diz.
+- **P4:** a collab Baw & Linus (`cat-baw-0077`) é a única das linhas e collabs do catálogo com conteúdo nosso (BW9).
+  Continuam sem conteúdo as outras 15 linhas e collabs (`0063` a `0078`), a vitrine Collabs 2026, combos e kits e as
+  modelagens Boxy, New Over, Slim e Baby Tee.
+
+**Fila e fichas desatualizadas** (fato, não corrigido: não são arquivos deste papel):
+
+- As fichas `02_Artigos/` de BW1 a BW6 dizem `status: "pronto-para-deploy"`.
+- As fichas de BW7 a BW11 dizem `pauta-aprovada`, com a redação como próxima ação.
+- Na Fila, BW10 e BW11 (linhas 17 e 18) dizem que esperam o deploy.
+- Os onze artigos estão no ar. As linhas das fichas (0059 a 0064 e 0100 a 0104) registram a divergência em
+  `estado_conferido_em`.
+- A BW12 (BAW ou Piet) está na Fila como reserva, sem artigo, e não tem linha.
+
+**Linha nova para o `COMO-REFAZER.md`** (a coordenação passa para lá):
+
+```bash
+node "docs/Memoria de Artigos/memreview/05_Demanda/parceiros/baw/2-processado/etapa4-montar.mjs"
+```
+
+Na raiz do repositório, com o commit `4c639f061b9b4396a98bd18b7d89d771c455f619` no histórico local (a 4B lê o conteúdo
+nele por `git show`). Para refazer a cobertura sobre outro commit, troque `COMMIT_CONTEUDO`, `LIDO_EM` e `NO_AR` no
+script depois de conferir as páginas no ar. O script para se a lista dos artigos, um título ou uma linha de 18/11 não
+baterem.
