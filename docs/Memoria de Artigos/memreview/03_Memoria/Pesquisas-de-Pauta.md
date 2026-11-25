@@ -556,3 +556,13 @@ São 44 artigos, de 20/01 a 06/11/2026, em 5 páginas ([categoria](https://cupom
 - **Pendências:**
   - Prazo de devolução divergente (30 dias na página, 7 de desistência nos termos), a confirmar com a loja.
   - A9 (teste do kit e do body) adiada.
+
+## L'Amazonie: Sérum Vitamina C20 (25/11/2026)
+
+- **Autocompletar (presença, sem volume):** "serum vitamina c l'amazonie", "vitamina c l'amazonie", "serum clareador
+  l'amazonie", "serum clareador anti manchas l'amazonie", "sérum clareador vitamina c20 l'amazonie". Sem sugestão para
+  "funciona", "é bom", "preço", "melasma", "como usar", "gestante" e "resenha" com o nome do produto.
+- **Leitura:** a busca é pelo nome do produto, sem forma de pergunta. Virou a LZ9 ([[serum-vitamina-c20-lamazonie]]),
+  ficha comentada com a conta por frasco. As consultas estão no banco do dossiê ([[LAmazonie]], "Perguntas reais").
+- **Página do produto, lida inteira no navegador em 25/11:** não publica lista de ingredientes, volume, fabricante nem
+  Anvisa; o inventário dos 31 fatos está no briefing.
