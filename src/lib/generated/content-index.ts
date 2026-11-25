@@ -35896,7 +35896,7 @@ const reviewsChunk0: unknown[] = [
       {
         "heading": "Resposta rápida: como usar o cupom CECI",
         "paragraphs": [
-          "O cupom da Nestlé Nutre é o CECI, com 10% OFF na compra única do site oficial, em todas as formas de pagamento. Digite o código no campo de cupom do carrinho e confira o desconto antes de pagar. Ficam de fora Alfamino, Alfaré, fórmulas infantis de 0 a 12 meses, a assinatura e o Mercado Livre."
+          "O [cupom da Nestlé Nutre](/cupons/nestle-nutre) é o CECI, com 10% OFF na compra única do site oficial, em todas as formas de pagamento. Digite o código no campo de cupom do carrinho e confira o desconto antes de pagar. Ficam de fora Alfamino, Alfaré, fórmulas infantis de 0 a 12 meses, a assinatura e o Mercado Livre."
         ]
       },
       {
@@ -35904,7 +35904,7 @@ const reviewsChunk0: unknown[] = [
         "paragraphs": [
           "O CECI dá 10% de desconto sobre o valor dos produtos da loja oficial, na compra única, em todas as formas de pagamento e sem valor mínimo. Alfamino e Alfaré ficam de fora, e o código também não vale em fórmulas infantis para bebês de 0 a 12 meses, como NAN, na assinatura nem no Mercado Livre. Ele soma com as promoções da loja, como os preços de campanha, e o valor mostrado no carrinho é sempre a referência.",
           "A regra mais importante: o cupom age sobre o valor dos produtos, não sobre o frete. Numa compra de R$ 100 em produtos, o desconto é de R$ 10; o frete é calculado à parte. Na compra única, o frete é grátis acima de R$ 400, e acima de R$ 100 durante a Semana Black Friday.",
-          "A ficha atualizada, com as regras da parceria, está na página do [cupom Nestlé Nutre](/cupons/nestle-nutre)."
+          "A ficha atualizada, com as regras da parceria, está na página do cupom Nestlé Nutre."
         ],
         "image": {
           "src": "/images/reviews/nutren/nutren-senior-linha-hero.webp",
@@ -37617,7 +37617,7 @@ const reviewsChunk0: unknown[] = [
     "id": 233,
     "slug": "dolce-gusto-genio-s-touch-vale-a-pena",
     "title": "Dolce Gusto Genio S Touch vale a pena? Review após o primeiro uso",
-    "seoTitle": "Genio S Touch vale a pena? Primeiras impressões e veredito",
+    "seoTitle": "Dolce Gusto Genio S Touch vale a pena? Primeiro uso e veredito",
     "type": "Teste de Cozinha",
     "category": "produtos-experiencias",
     "reviewKind": "produto",
@@ -56178,7 +56178,7 @@ const reviewsChunk0: unknown[] = [
     "id": 330,
     "slug": "black-friday-dolce-gusto",
     "title": "Black Friday Dolce Gusto 2026: qual máquina comprar, a conta das cápsulas e o cupom CECI",
-    "seoTitle": "Black Friday Dolce Gusto 2026: máquinas, cápsulas e cupom",
+    "seoTitle": "Black Friday Dolce Gusto 2026: cupom CECI, máquinas e cápsulas",
     "type": "Guia de Black Friday",
     "category": "cupons-como-usar",
     "reviewKind": "guia",
@@ -58005,7 +58005,7 @@ const reviewsChunk0: unknown[] = [
     "slug": "black-friday-insider",
     "bodyDatesReason": "campanha",
     "title": "Black Friday Insider 2026 masculino: até 60% OFF, Tech T-Shirt, cuecas e o cupom EMCASACOMCECILIA",
-    "seoTitle": "Black Friday Insider 2026 masculino: até 60% OFF e cupom",
+    "seoTitle": "Black Friday Insider 2026 masculino: até 60% + cupom de 15%",
     "type": "Guia de Black Friday",
     "category": "cupons-como-usar",
     "reviewKind": "guia",
@@ -58365,7 +58365,7 @@ const reviewsChunk0: unknown[] = [
     "slug": "black-friday-insider-feminino",
     "bodyDatesReason": "campanha",
     "title": "Black Friday Insider 2026 feminino: até 60% OFF, camisetas, calcinhas e o cupom EMCASACOMCECILIA",
-    "seoTitle": "Black Friday Insider 2026 feminino: até 60% OFF e cupom",
+    "seoTitle": "Black Friday Insider 2026 feminino: até 60% + cupom de 15%",
     "type": "Guia de Black Friday",
     "category": "cupons-como-usar",
     "reviewKind": "guia",
@@ -122891,7 +122891,7 @@ const reviewsChunk0: unknown[] = [
     "id": 522,
     "slug": "cueca-insider-comfort-ou-performance",
     "title": "Cueca Insider: Comfort, Performance, Seamless Touch ou Slip, qual escolher",
-    "seoTitle": "Cueca Insider: Comfort ou Performance, qual escolher",
+    "seoTitle": "Cueca Insider: qual escolher? Comfort, Performance e mais",
     "type": "Guia de compra",
     "category": "guias-praticos-utilidade",
     "reviewKind": "guia",
@@ -219825,7 +219825,7 @@ const reviewsChunk1: unknown[] = [
     "id": 855,
     "slug": "camisa-social-insider-masculina",
     "title": "Camisa social Insider masculina: corte, tamanho, tecido e o preço com o cupom",
-    "seoTitle": "Camisa social Insider masculina é boa? Tamanho e cupom",
+    "seoTitle": "Camisa social Insider masculina é boa? Tamanho e 15% OFF",
     "description": "A FutureForm é a camisa social da Insider para homens, alongada e oversized segundo a loja. Veja o que a tabela mostra, como acertar o tamanho e quanto ela saiu com o cupom.",
     "metaDescription": "EMCASACOMCECILIA dá 15% OFF na Insider e valeu na camisa FutureForm masculina no carrinho. Corte, tecido, tamanho e preço com o cupom.",
     "image": "/images/reviews/insider/camisa-social-insider-masculina-capa-v2.webp",
@@ -241748,14 +241748,14 @@ const reviewsChunk1: unknown[] = [
       {
         "heading": "Resposta rápida",
         "paragraphs": [
-          "Para a primeira compra na Nestlé Nutre, use CECI: 10% OFF nos produtos elegíveis do site oficial, sem valor mínimo. O mesmo percentual vale para quem já comprou. Ficam de fora Alfamino, Alfaré e as fórmulas infantis de 0 a 12 meses, e a assinatura da loja não aceita o código."
+          "Para a primeira compra na Nestlé Nutre, use o [cupom Nestlé Nutre](/cupons/nestle-nutre) CECI: 10% OFF nos produtos elegíveis do site oficial, sem valor mínimo. O mesmo percentual vale para quem já comprou. Ficam de fora Alfamino, Alfaré e as fórmulas infantis de 0 a 12 meses, e a assinatura da loja não aceita o código."
         ]
       },
       {
         "heading": "Cupom Nestlé Nutre primeira compra: qual usar",
         "paragraphs": [
           "Use o CECI: 10% OFF nos produtos elegíveis do site oficial, sem valor mínimo, na opção “Compra única”. Ele vale no primeiro pedido e nos seguintes.",
-          "É o [cupom Nestlé Nutre](/cupons/nestle-nutre) da nossa parceria com a loja, testado no checkout. O carrinho mostra o desconto antes do pagamento.",
+          "É o cupom Nestlé Nutre da nossa parceria com a loja, testado no checkout. O carrinho mostra o desconto antes do pagamento.",
           "Antes do primeiro pedido, veja os dados da empresa e os cuidados de compra em [Nestlé Nutre é confiável?](/reviews/nestle-nutre-e-confiavel)."
         ]
       },
