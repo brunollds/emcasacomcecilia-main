@@ -147818,7 +147818,7 @@ const reviewsChunk0: unknown[] = [
       {
         "heading": "Resposta rápida",
         "paragraphs": [
-          "Sem vencedora. A La Ganexa anuncia zero lactose em três pastas; a Dr. Peanut, preço igual em todos os sabores. Com os códigos, a Dr. Peanut de 250 g custa menos por 100 g que as sobremesas de 450 g da La Ganexa; no 1 kg, a La Ganexa fica abaixo da de 600 g em sete de dez sabores."
+          "Sem vencedora: a La Ganexa anuncia zero lactose em três pastas; a Dr. Peanut, preço igual entre sabores. Com DREMCASACOMCECILIA (Dr. Peanut) e CECILIA (La Ganexa), a Dr. Peanut de 250 g custa menos por 100 g que as sobremesas de 450 g; no 1 kg, a La Ganexa vence a de 600 g em sete de dez sabores."
         ]
       },
       {
@@ -244954,7 +244954,7 @@ const reviewsChunk1: unknown[] = [
     "slug": "cupom-la-ganexa-como-usar",
     "locale": "pt",
     "title": "Como usar o cupom CECILIA na La Ganexa: 10% OFF, inclusive em promoção",
-    "seoTitle": "Cupom La Ganexa: como usar o CECILIA, 10% OFF",
+    "seoTitle": "Como usar o cupom CECILIA na La Ganexa: 10% OFF",
     "type": "Guia & Cupons",
     "category": "cupons-como-usar",
     "reviewKind": "guia",
@@ -245647,7 +245647,7 @@ const reviewsChunk1: unknown[] = [
       {
         "heading": "Resposta rápida",
         "paragraphs": [
-          "A La Ganexa tem fábrica em Peruíbe (SP), CNPJ no rodapé do site e perfil verificado no Reclame Aqui, com reputação Ótima nos últimos seis meses. O site oficial é lojalaganexa.com.br. Pela política da loja, a avaria precisa ser avisada em até 48 horas, e a devolução pode ser pedida em até 7 dias após o recebimento."
+          "A La Ganexa tem fábrica em Peruíbe (SP), CNPJ no rodapé e perfil verificado no Reclame Aqui, com reputação Ótima nos últimos seis meses. Pela política, a avaria precisa ser avisada em até 48 horas, e a devolução pode ser pedida em até 7 dias. No site oficial, lojalaganexa.com.br, o cupom CECILIA dá 10% OFF na La Ganexa."
         ]
       },
       {
@@ -257057,7 +257057,7 @@ const reviewsChunk1: unknown[] = [
     "coupon": "CECILIA",
     "affiliate": "lamazonie",
     "title": "Cupom L'Amazonie: como aplicar o CECILIA pelo botão Finalizar compra",
-    "seoTitle": "Cupom L'Amazonie: como usar o CECILIA, 5% OFF",
+    "seoTitle": "Como usar o cupom CECILIA na L'Amazonie: 5% OFF",
     "type": "Guia & Cupons",
     "description": "Onde digitar o cupom CECILIA na L'Amazonie, o caminho em que ele é recusado, a conta do nosso teste e como ficam o Pix, os kits e o frete.",
     "metaDescription": "CECILIA dá 5% OFF na L'Amazonie. No teste, entrou pelo botão Finalizar compra; veja onde digitar, como conferir o desconto e o que soma.",
@@ -287702,7 +287702,7 @@ const reviewsChunk2: unknown[] = [
       {
         "heading": "Resposta rápida",
         "paragraphs": [
-          "A Denavita vende em denavita.com.br pela empresa Vitalita, com checkout em seguro.denavita.com.br. No Reclame Aqui, a loja tem reputação Ótima, com nota 8,4 de 10 no semestre consultado. Antes de pagar, confira o prazo e o frete para o seu CEP no checkout."
+          "A Denavita vende em denavita.com.br pela empresa Vitalita, com checkout em seguro.denavita.com.br. No Reclame Aqui, a loja tem reputação Ótima, com nota 8,4 de 10 no semestre consultado. Antes de pagar, confira o prazo e o frete para o seu CEP; o cupom EMCASA dá 10% OFF na Denavita."
         ]
       },
       {
@@ -329874,7 +329874,7 @@ const reviewsChunk2: unknown[] = [
       {
         "heading": "Resposta rápida",
         "paragraphs": [
-          "A Barbour’s Beauty publica, na página da maioria dos body splashes, o perfume que serve de referência olfativa: My Sweet Delight cita Delina, Very Sexy cita J’adore e Soft Breeze cita Light Blue. A marca avisa que a referência não promete resultado idêntico. No site, o CECILIALINHARES dá 10% OFF."
+          "A Barbour’s Beauty publica, na página da maioria dos body splashes, o perfume que serve de referência olfativa: My Sweet Delight cita Delina, Very Sexy cita J’adore e Soft Breeze cita Light Blue. A marca avisa que a referência não promete resultado idêntico. No site da Barbour’s, o CECILIALINHARES dá 10% OFF."
         ]
       },
       {
