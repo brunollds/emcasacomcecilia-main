@@ -17,7 +17,7 @@
   "metaDescription": "O cupom MAUAD dá 10% OFF em todo o site da Belive. Doces, snacks e pães sem glúten pelo rótulo, preço e frete por região: para quem compensa.",
   "publishedAt": "3 de novembro de 2026",
   "publishedAtISO": "2026-11-03",
-  "updatedAt": "2026-11-22",
+  "updatedAt": "2026-11-24",
   "draft": false,
   "isNew": true,
   "image": "/images/reviews/belive/belive-e-boa-capa-v2.webp",
@@ -28,7 +28,7 @@
     {
       "heading": "Resposta rápida",
       "paragraphs": [
-        "Sim, a Belive vale a pena para quem precisa tirar glúten, leite e lactose da mesa: a Belive declara ausência dos três em toda a linha e publica os rótulos. Nos doces, confira a versão exata, porque nomes parecidos mudam a fórmula. O código MAUAD dá 10% OFF no site, em todas as formas de pagamento; preço e frete por região pesam abaixo."
+        "Sim, a Belive vale a pena para quem precisa tirar glúten, lactose e/ou açúcar da mesa, sem perder o sabor. Talvez você ache impossível? Prove e Belive. O código MAUAD dá 10% OFF no site, em todas as formas de pagamento."
       ]
     },
     {
@@ -356,7 +356,7 @@
   },
   "coupon": "MAUAD",
   "affiliate": "belive",
-  "editorialNote": "Podemos receber comissão pela Belive. Ninguém da equipe provou os produtos: os dados são do rótulo e do site da marca.",
+  "editorialNote": "Podemos receber comissão pela Belive. Já provamos os produtos, mas sem dados para um review completo: os dados são do rótulo e do site da marca.",
   "relatedArticles": [
     {
       "slug": "panetone-belive-e-bom"
