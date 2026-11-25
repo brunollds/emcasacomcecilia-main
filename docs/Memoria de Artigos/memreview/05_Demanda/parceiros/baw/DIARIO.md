@@ -10,7 +10,7 @@ Fluxo v2. Plano em `ROTEIRO-PILOTO.md`; perguntas e escopo em `0-orientacao.md`;
 | `catalogo.csv`, `ids-catalogo.csv`, `relatos/etapa-2.md` | Catálogo | BAW: catálogo do parceiro (etapa 2), `local_3f62aa43-6445-4826-8502-0d911fed5b9c` | `docs/demanda-baw-etapa2`, #1139 |
 | `sinais.csv`, `resumo-sinais.md`, `relatos/etapa-3.md` | Pesquisa | BAW: interesse externo (etapa 3), `local_03eee6e1-fdee-4fa2-b2cc-bf2b8a5779f3` | `docs/demanda-baw-etapa3`, #1184 |
 | `nossos-dados.csv`, `comercial.csv`, `cobertura.csv`, `relatos/etapa-4.md` | Dados | BAW: dados do parceiro e cobertura (etapa 4), `local_b6baaa22-0b04-421b-9742-052c18fe6405` | `docs/demanda-baw-etapa4` (#1138), `docs/demanda-baw-etapa4b` (#1140), recorte dirigido (#1190, #1192) e correção (#1193) |
-| `3-matriz/matriz.csv`, `3-matriz/LEITURA.md`, `relatos/etapa-5.md` | Analista | a abrir | — |
+| `3-matriz/matriz.csv`, `3-matriz/LEITURA.md`, `relatos/etapa-5.md` | Analista | BAW: análise (etapa 5), `local_f80a0ce2-52ea-465f-8f20-f1e42885e881` | PR a abrir |
 | `3-matriz/REVISAO.md` | Revisor | a abrir | — |
 
 ## Tempo
@@ -57,7 +57,10 @@ Soma do trabalho das sessões do parceiro: 77 minutos (31 + 20 + 6 + 20), sem a 
 - **2026-11-24 18:07 a 18:15:** releitura da vitrine pela etapa 3 (8 minutos, #1421).
 - **2026-11-25 00:20:** o Bruno aprovou a cobertura nova ("Sim, pedir"). Mensagem 4 à etapa 4; entrega das 00:21 às 00:33
   (12 minutos, #1437).
-- **2026-11-25:** conferência final; insumos fechados no commit `7ae53114`. A etapa 5 abre com o GO do Bruno.
+- **2026-11-25:** conferência final; insumos fechados no commit `7ae53114` (#1438, que entrou na `main` como `5544b2e1`).
+- **2026-11-25 00:46:** GO do Bruno ("Sim, abrir"). Aberta a sessão da análise, com o `briefs/etapa-5.md` e um adendo: commit
+  `5544b2e1`, os 11 artigos e a cobertura de 25/11, P1 (tênis) e P2 executadas, P3 respondida e as pautas da Fila a
+  conferir antes de recomendar.
 
 ## Fechamento de insumos
 
