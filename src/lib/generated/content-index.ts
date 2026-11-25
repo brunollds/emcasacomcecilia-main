@@ -348091,8 +348091,8 @@ export const reviewsData: unknown[] = [
       {
         "heading": "As marcas próprias da Petz são boas?",
         "paragraphs": [
-          "São, e o melhor argumento é a garantia que a própria loja dá a elas. A Petz tem marcas próprias de ração, petisco, areia e coleira: a Selections (rações secas, petiscos, patês e snacks para cães e gatos), a Nutrifresh, que a loja chama de \"alimentação super premium natural\" (úmidos em lata, petiscos e alimento para roedores), as areias Petz e as coleiras Petz.",
-          "A loja informa: se o pet não se adaptar às rações secas e aos úmidos Selections e Nutrifresh, ou às rações de pássaros e roedores da marca, você troca o produto por um cupom no valor dele, para usar no app, no site ou nas lojas. É a garantia \"Satisfação 100% Garantida\"."
+          "São, e a própria loja garante: se o pet não se adaptar a uma ração Selections ou Nutrifresh, a Petz troca o produto por um cupom no valor dele. A Petz tem marcas próprias de ração, petisco, areia e coleira: a Selections (rações secas, petiscos, patês e snacks para cães e gatos), a Nutrifresh, que a loja chama de \"alimentação super premium natural\" (úmidos em lata, petiscos e alimento para roedores), as areias Petz e as coleiras Petz.",
+          "A garantia, que a loja chama de \"Satisfação 100% Garantida\", cobre as rações secas e os úmidos Selections e Nutrifresh e as rações de pássaros e roedores da marca. O cupom da troca vale no app, no site ou nas lojas."
         ],
         "checklist": {
           "title": "Como funciona a troca garantida",
@@ -348229,7 +348229,7 @@ export const reviewsData: unknown[] = [
             ],
             [
               "Frete grátis",
-              "Sul e Sudeste acima de R$ 199; Norte, Nordeste e Centro-Oeste acima de R$ 299",
+              "Sul e Sudeste acima de R$ 199; Norte, Nordeste e Centro-Oeste acima de R$ 299; medicamentos acima de R$ 199 em todo o Brasil",
               "Se o cupom deixar o pedido abaixo do mínimo, o frete grátis cai"
             ]
           ]
@@ -348269,7 +348269,7 @@ export const reviewsData: unknown[] = [
           "A Petz é barata? Nas nossas comparações com o mesmo produto, a Petz com o EMCASA ou a oferta saiu mais barata que a Cobasi e que a Petlove na maior parte dos itens.",
           "Qual é o cupom da Petz? É o EMCASA, com 10% OFF no site e no app nos produtos sem oferta; na retirada em loja, soma com os 5% da retirada.",
           "O cupom da Petz vale no app? Vale: o EMCASA entra no campo \"Digite seu cupom\" da sacola, no site e no app.",
-          "Posso trocar a ração se o pet não gostar? Nas rações e nos úmidos das marcas próprias, sim: com pelo menos 70% do peso na embalagem original, em até 30 dias, a loja troca por um cupom no valor do produto."
+          "Posso trocar a ração se o pet não gostar? Nas rações e nos úmidos das marcas próprias, sim: na embalagem original, em até 30 dias, a loja troca por um cupom no valor do produto. Nas rações, precisa sobrar pelo menos 70% do peso; os úmidos ficam fora dessa regra."
         ]
       }
     ]
