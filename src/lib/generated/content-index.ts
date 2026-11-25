@@ -347987,5 +347987,291 @@ export const reviewsData: unknown[] = [
         "slug": "starlink-mini-or-standard-ar"
       }
     ]
+  },
+  {
+    "id": 1442,
+    "slug": "petz-e-boa",
+    "locale": "pt",
+    "category": "guias-praticos-utilidade",
+    "reviewKind": "guia",
+    "author": {
+      "name": "Cecília Mauad",
+      "slug": "cecilia-mauad",
+      "role": "Em Casa com Cecília",
+      "initials": "CM",
+      "url": "/sobre"
+    },
+    "publishedAt": "24 de novembro de 2026",
+    "publishedAtISO": "2026-11-24",
+    "updatedAt": "2026-11-24",
+    "draft": false,
+    "isNew": true,
+    "imageFit": "contain",
+    "imageAspect": "landscape",
+    "pros": [],
+    "cons": [],
+    "coupon": "EMCASA",
+    "affiliate": "petz",
+    "title": "Petz é boa? Quando vale a pena comprar no site e no app (e como pagar menos)",
+    "seoTitle": "Petz é boa? Comprar no site e app vale a pena?",
+    "type": "Guia de Marca",
+    "description": "Veja o que a Petz vende, como são as marcas próprias Selections e Nutrifresh, como funciona a troca garantida delas e qual desconto vale em cada compra.",
+    "metaDescription": "O EMCASA dá 10% OFF na Petz, no site e no app, em produto sem oferta. Veja as marcas próprias, quando a promoção ganha e os 5% do Retire na Loja.",
+    "image": "/images/reviews/petz/petz-e-boa-hero-pt-v1.webp",
+    "imageAlt": "Pacotes de 3 kg das rações Selections para cães adultos e para gatos castrados e a coleira Petz Waterproof preta, produtos de marca própria da Petz. A capa pergunta «É boa?», traz «Marcas próprias» e o cupom EMCASA.",
+    "cta": {
+      "text": "Entre pelo botão: ele abre a loja emcasa dentro da Petz, sem o cupom aplicado. Cole o EMCASA no campo “Digite seu cupom” da sacola.",
+      "label": "Ir para a Petz",
+      "url": "https://petz.com.br/parceiro/emcasa",
+      "sponsored": true
+    },
+    "editorialNote": "Feito com as páginas e as políticas da Petz; o cupom foi testado na sacola, sem uso dos produtos. Podemos receber comissão pelo cupom.",
+    "relatedArticles": [
+      {
+        "slug": "cupom-petz-como-usar"
+      },
+      {
+        "slug": "petz-e-confiavel"
+      },
+      {
+        "slug": "petz-ou-cobasi"
+      },
+      {
+        "slug": "assinatura-petz-ou-cupom"
+      },
+      {
+        "slug": "areia-para-gato-petz-custo-por-quilo"
+      },
+      {
+        "slug": "petz-entrega-expressa-ou-retirar-na-loja"
+      }
+    ],
+    "decision": {
+      "takeIf": [
+        "Você compra ração, areia e farmácia todo mês e quer resolver tudo num pedido, com Retire na Loja onde ele vale.",
+        "Você quer testar a ração da marca da casa, Selections ou Nutrifresh, com a troca garantida pela loja se o pet não se adaptar.",
+        "Você compra produto fora de oferta e quer o EMCASA somado aos 5% da retirada."
+      ],
+      "skipIf": [
+        "Você só compra o que está em promoção: o cupom não soma com a oferta, e a sacola fica com o desconto maior.",
+        "Você mora no Norte ou no Nordeste e faz pedido pequeno: o frete grátis pede um valor maior, e a retirada com 5% não vale na sua região.",
+        "Você procura serviços, como o plano de saúde pet: o cupom não vale nele."
+      ]
+    },
+    "contentSections": [
+      {
+        "heading": "Resposta rápida",
+        "paragraphs": [
+          "Vale, sim, para quem quer resolver tudo do pet num lugar só: ração, areia, farmácia, coleiras e brinquedos para cachorro, gato, pássaro, peixe e outros pets, com Retire na Loja e Entrega Expressa em algumas regiões. As rações e os úmidos das marcas próprias Selections e Nutrifresh têm troca garantida pela loja. O cupom EMCASA dá 10% OFF no site e no app nas compras sem oferta."
+        ]
+      },
+      {
+        "heading": "Quem é a Petz e onde ver a reputação",
+        "paragraphs": [
+          "A Petz é uma rede brasileira de pet shops, com lojas físicas, site e app. A empresa por trás da loja é a Pet Center Comércio e Participações S.A., com sede em São Paulo (SP).",
+          "Para conferir CNPJ, endereço do site, entrega e trocas, veja o nosso [Petz é confiável?](/reviews/petz-e-confiavel). A nota e as reclamações estão em [Petz no Reclame Aqui](/reviews/petz-reclame-aqui-nota-reputacao)."
+        ]
+      },
+      {
+        "heading": "O que a Petz vende",
+        "paragraphs": [
+          "O site se divide por animal, e cada seção traz os departamentos de um pet shop completo."
+        ],
+        "bullets": [
+          "**Cachorro:** ração seca, úmida, prescrita e natural, petiscos e ossos, tapetes e fraldas, farmácia, brinquedos, coleiras, guias e peitorais, beleza e limpeza, camas, casinhas, transporte, portões, roupas e adestramento.",
+          "**Gato:** ração, petiscos, areias e banheiros, farmácia, arranhadores e brinquedos, beleza e limpeza, coleiras e peitorais, transporte, camas e roupas.",
+          "**Pássaro e peixe:** alimentação, gaiolas, viveiros e poleiros; aquários, equipamentos, tratamento da água e decoração.",
+          "**Outros pets:** coelho, hamster, porquinho-da-índia, chinchila, gerbil, furão, tartaruga e lagarto.",
+          "**Casa e jardim:** jardim, piscina, controle de pragas e casa."
+        ],
+        "postParagraphs": [
+          "Além das marcas da casa, a loja vende marcas conhecidas de fora, como Golden, Premier, Hill's, Guabi Natural, Fórmula Natural, Whiskas, Pipicat, Zee.Dog, Bravecto, NexGard, Simparic e Seresto."
+        ]
+      },
+      {
+        "heading": "As marcas próprias da Petz são boas?",
+        "paragraphs": [
+          "São, e o melhor argumento é a garantia que a própria loja dá a elas. A Petz tem marcas próprias de ração, petisco, areia e coleira: a Selections (rações secas, petiscos, patês e snacks para cães e gatos), a Nutrifresh, que a loja chama de \"alimentação super premium natural\" (úmidos em lata, petiscos e alimento para roedores), as areias Petz e as coleiras Petz.",
+          "A loja informa: se o pet não se adaptar às rações secas e aos úmidos Selections e Nutrifresh, ou às rações de pássaros e roedores da marca, você troca o produto por um cupom no valor dele, para usar no app, no site ou nas lojas. É a garantia \"Satisfação 100% Garantida\"."
+        ],
+        "checklist": {
+          "title": "Como funciona a troca garantida",
+          "items": [
+            "O produto precisa estar na embalagem original, com pelo menos 70% do peso líquido (os úmidos ficam fora dessa regra).",
+            "O prazo é de 30 dias depois da nota fiscal, na compra pelo app ou site, ou depois da compra, na loja física.",
+            "Vale duas vezes para o mesmo tipo de produto a cada 6 meses, com uma embalagem aberta por pedido.",
+            "Compra online: peça pelo Alô Petz. Compra na loja: leve o produto e o cupom fiscal à loja mais próxima."
+          ]
+        },
+        "comparisonTable": {
+          "caption": "Marcas próprias da Petz e um item de cada, pela ficha da loja; preço de tabela, sem o preço da campanha.",
+          "headers": [
+            "Marca",
+            "O que é",
+            "Item lido na ficha",
+            "Preço de tabela"
+          ],
+          "rows": [
+            [
+              "Selections (cães)",
+              "Ração seca da linha Premium, petiscos, patês e snacks",
+              "Ração para cães adultos de porte mini e pequeno, frango, 3 kg: 23% de proteína bruta (mín.)",
+              "R$ 57,99"
+            ],
+            [
+              "Selections (gatos)",
+              "Ração seca da linha Premium, sachês e snacks",
+              "Ração para gatos adultos castrados, frango, 3 kg: 36,5% de proteína bruta (mín.)",
+              "R$ 74,99"
+            ],
+            [
+              "Nutrifresh",
+              "Úmidos em lata, petiscos e alimento para roedores",
+              "Ração úmida em lata para cães ou gatos",
+              "a partir de R$ 23,99"
+            ],
+            [
+              "Coleira Petz",
+              "Coleiras Waterproof, Pastel e Naked",
+              "Waterproof: PVC resistente à água, fecho com 4 pontos de segurança, do PP ao G",
+              "R$ 69,99"
+            ],
+            [
+              "Areias Petz",
+              "Granulados de milho e mandioca e de bentonita",
+              "Ver o custo por quilo no artigo das areias",
+              "No artigo das areias"
+            ]
+          ]
+        },
+        "postParagraphs": [
+          "Preços de tabela lidos no site em 24/11/2026; na campanha, a loja mostra valores menores, e eles mudam sem aviso.",
+          "A ração Selections é boa? Pela ficha, ela é da linha Premium, com fase, porte e níveis de garantia publicados na página de cada saco, e com quantidade diária por peso do pet. Na ração de cães adultos pequenos, o primeiro ingrediente é farinha de carne e ossos de bovino; na de gatos castrados, farinha de vísceras de aves. Escolha pela fase e pelo porte do seu pet e, se o pet não se adaptar, vale a troca garantida, dentro das regras acima. Para dieta especial ou problema de saúde, quem decide a ração é o veterinário.",
+          "As areias da marca, a de milho e mandioca e a de bentonita, estão comparadas com as outras da loja, com o preço por quilo, em [areia para gato na Petz](/reviews/areia-para-gato-petz-custo-por-quilo). A garantia de troca não cobre areia nem coleira: nesses itens vale a troca comum da loja, com 7 dias para desistir da compra online."
+        ],
+        "images": [
+          {
+            "src": "/images/reviews/petz/petz-e-boa-selections-caes-adultos.webp",
+            "alt": "Pacote de 3 kg da ração Selections For Pets para cães adultos de porte mini e pequeno, sabor frango, em foto oficial da Petz",
+            "caption": "Selections para cães adultos de porte mini e pequeno, 3 kg. Foto: Petz.",
+            "objectFit": "square",
+            "href": "https://www.petz.com.br/produto/racao-selections-for-pet-para-caes-adultos-sabor-frango-3-kg-191628"
+          },
+          {
+            "src": "/images/reviews/petz/petz-e-boa-selections-gatos-castrados.webp",
+            "alt": "Pacote de 3 kg da ração Selections For Pets para gatos adultos castrados, sabor frango, em foto oficial da Petz",
+            "caption": "Selections para gatos adultos castrados, 3 kg. Foto: Petz.",
+            "objectFit": "square",
+            "href": "https://www.petz.com.br/produto/racao-selections-for-pet-para-gatos-adultos-castrados-sabor-frango-191741"
+          },
+          {
+            "src": "/images/reviews/petz/petz-e-boa-coleira-waterproof.webp",
+            "alt": "Coleira Petz Waterproof preta, com fecho de plástico e argola de metal, em foto oficial da Petz",
+            "caption": "Coleira Petz Waterproof, de PVC. Foto: Petz.",
+            "objectFit": "square",
+            "href": "https://www.petz.com.br/produto/coleira-petz-waterproof-black-para-caes-179841"
+          },
+          {
+            "src": "/images/reviews/petz/areia-petz-milho-e-mandioca-graos-finos.webp",
+            "alt": "Pacote de 4 kg do granulado Petz Milho e Mandioca Grãos Finos, em foto oficial da página do produto na Petz",
+            "caption": "Petz Milho e Mandioca Grãos Finos 4 kg. Foto: Petz.",
+            "objectFit": "square",
+            "href": "https://www.petz.com.br/produto/granulado-higienico-petz-biodegradavel-milho-e-mandioca-graos-finos-para-gatos-201022"
+          }
+        ],
+        "links": [
+          {
+            "label": "Ver as marcas próprias na Petz",
+            "href": "https://petz.com.br/parceiro/emcasa",
+            "sponsored": true
+          }
+        ]
+      },
+      {
+        "heading": "A Petz é barata?",
+        "paragraphs": [
+          "Na maior parte das nossas comparações, sim. Com o mesmo produto, a Petz com o EMCASA ou a oferta saiu mais barata em cinco de nove itens no [Petz ou Cobasi](/reviews/petz-ou-cobasi), e em cinco de sete no [Petz ou Petlove](/reviews/petz-ou-petlove). O preço muda com o produto e o dia, então vale somar o frete ao total antes de fechar.",
+          "Nas lojas físicas, a Petz tem o \"Pesquise Lá, Compre Aqui\", que só vale no balcão, não no site nem no app."
+        ]
+      },
+      {
+        "heading": "Como pagar menos na Petz com o EMCASA",
+        "paragraphs": [
+          "O [cupom Petz](/cupons/petz) é o EMCASA, com 10% OFF no site e no app. A regra que mais confunde é a da promoção: o cupom não soma com a oferta, e a sacola fica com o desconto maior em cada item. Veja o que vale em cada caso."
+        ],
+        "comparisonTable": {
+          "caption": "Qual desconto fica em cada tipo de compra, pelas regras da loja e pelo nosso teste na sacola.",
+          "headers": [
+            "Situação",
+            "Desconto que fica",
+            "O que conferir"
+          ],
+          "rows": [
+            [
+              "Produto sem oferta",
+              "EMCASA, 10%",
+              "Vale no site e no app"
+            ],
+            [
+              "Produto em promoção",
+              "O maior: a oferta ou o cupom",
+              "Não somam no mesmo item"
+            ],
+            [
+              "Retire na Loja",
+              "EMCASA e mais 5%",
+              "Compras acima de R$ 199, no Centro-Oeste, no Sul e no Sudeste"
+            ],
+            [
+              "Assinatura Petz",
+              "10% da assinatura",
+              "Não soma com cupom; compare em [assinatura ou cupom](/reviews/assinatura-petz-ou-cupom)"
+            ],
+            [
+              "Frete grátis",
+              "Sul e Sudeste acima de R$ 199; Norte, Nordeste e Centro-Oeste acima de R$ 299",
+              "Se o cupom deixar o pedido abaixo do mínimo, o frete grátis cai"
+            ]
+          ]
+        },
+        "postParagraphs": [
+          "Conta nossa, pelo teste na sacola: na retirada, o EMCASA tira 10% primeiro e os 5% da retirada entram sobre o que sobrou, então o desconto total chega a 14,5%. A Entrega Expressa, em poucas horas e em algumas regiões, também aceitou o cupom; prazo e custo das duas opções estão em [Entrega Expressa ou Retire na Loja](/reviews/petz-entrega-expressa-ou-retirar-na-loja)."
+        ],
+        "checklist": {
+          "title": "Onde digitar o EMCASA",
+          "items": [
+            "Coloque os produtos na sacola, no site ou no app da Petz.",
+            "Cole EMCASA no campo \"Digite seu cupom\" e aplique.",
+            "Confira a linha de desconto antes de pagar; o passo a passo com prints está em [como usar o cupom](/reviews/cupom-petz-como-usar)."
+          ]
+        },
+        "image": {
+          "src": "/images/reviews/petz/cupom-petz-sacola-celular-com-cupom.webp",
+          "alt": "Sacola da Petz no celular com o produto, o cupom EMCASA aplicado no campo Cupom de desconto e a linha Desconto Aplicado",
+          "caption": "O EMCASA aplicado na sacola da Petz, no celular, num pedido de teste.",
+          "objectFit": "contain",
+          "aspectRatio": 1.013
+        }
+      },
+      {
+        "heading": "Para quem a Petz vale mais a pena",
+        "paragraphs": [
+          "Para quem compra ração e areia todo mês, a Petz junta variedade, retirada na loja e um [cupom Petz](/cupons/petz) que vale no site e no app. Quem quer experimentar uma ração Premium da marca da casa tem na Selections uma porta de entrada com troca garantida. Quem compra sempre a mesma coisa pode comparar o cupom com a assinatura, e quem tem loja Petz perto soma os 5% da retirada.",
+          "Fica a ressalva para quem só compra em promoção: nesses itens, o cupom não muda o preço."
+        ],
+        "emphasis": "Nossa indicação: comece pela marca da casa no item que o seu pet mais consome e use o EMCASA nos produtos fora de oferta, com retirada na loja se ela existir na sua região."
+      },
+      {
+        "heading": "Perguntas frequentes",
+        "bullets": [
+          "A Petz é boa? É, sim: tem praticamente tudo para cachorro, gato e outros pets num pedido só, rações de marca própria com troca garantida, retirada na loja e o EMCASA com 10% OFF nas compras sem oferta.",
+          "A ração da marca Petz é boa? A Selections é da linha Premium, com fase, porte, ingredientes e níveis de garantia na ficha de cada saco. Se o pet não se adaptar, a loja troca por um cupom no valor do produto, dentro das regras da garantia.",
+          "A Petz é barata? Nas nossas comparações com o mesmo produto, a Petz com o EMCASA ou a oferta saiu mais barata que a Cobasi e que a Petlove na maior parte dos itens.",
+          "Qual é o cupom da Petz? É o EMCASA, com 10% OFF no site e no app nos produtos sem oferta; na retirada em loja, soma com os 5% da retirada.",
+          "O cupom da Petz vale no app? Vale: o EMCASA entra no campo \"Digite seu cupom\" da sacola, no site e no app.",
+          "Posso trocar a ração se o pet não gostar? Nas rações e nos úmidos das marcas próprias, sim: com pelo menos 70% do peso na embalagem original, em até 30 dias, a loja troca por um cupom no valor do produto."
+        ]
+      }
+    ]
   }
 ];

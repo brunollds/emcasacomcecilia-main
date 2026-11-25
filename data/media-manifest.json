@@ -150406,6 +150406,190 @@
       "staged": true
     },
     {
+      "source_path": "public/images/reviews/petz/petz-e-boa-coleira-waterproof.webp",
+      "local_url": "/images/reviews/petz/petz-e-boa-coleira-waterproof.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 15608,
+      "sha256": "6045b0f43a180bb904354018d812305f8562fa0952011fa0390bbcf972a09241",
+      "width": 800,
+      "height": 800,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "petz-e-boa-coleira-waterproof.webp",
+      "storage_filename": "petz-e-boa-coleira-waterproof.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/petz-e-boa.json",
+        "src/lib/generated/content-index.ts"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/petz-e-boa.json",
+          "line": 136,
+          "column": 19,
+          "literal": "/images/reviews/petz/petz-e-boa-coleira-waterproof.webp",
+          "authority": "source"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 348168,
+          "column": 21,
+          "literal": "/images/reviews/petz/petz-e-boa-coleira-waterproof.webp",
+          "authority": "generated"
+        }
+      ],
+      "remote_key": "v1/image/6045b0f43a180bb904354018d812305f8562fa0952011fa0390bbcf972a09241/petz-e-boa-coleira-waterproof.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/6045b0f43a180bb904354018d812305f8562fa0952011fa0390bbcf972a09241/petz-e-boa-coleira-waterproof.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-11-25T00:52:03.517Z",
+      "verification_etag_or_digest": "6045b0f43a180bb904354018d812305f8562fa0952011fa0390bbcf972a09241",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/petz/petz-e-boa-hero-pt-v1.webp",
+      "local_url": "/images/reviews/petz/petz-e-boa-hero-pt-v1.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 118940,
+      "sha256": "c17cd6270a8ec92d57366950fc73d238bb6cb85945fe651ad79f6685e8b479d7",
+      "width": 1600,
+      "height": 900,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "petz-e-boa-hero-pt-v1.webp",
+      "storage_filename": "petz-e-boa-hero-pt-v1.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/petz-e-boa.json",
+        "src/lib/generated/content-index.ts"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/petz-e-boa.json",
+          "line": 30,
+          "column": 13,
+          "literal": "/images/reviews/petz/petz-e-boa-hero-pt-v1.webp",
+          "authority": "source"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 348020,
+          "column": 15,
+          "literal": "/images/reviews/petz/petz-e-boa-hero-pt-v1.webp",
+          "authority": "generated"
+        }
+      ],
+      "remote_key": "v1/image/c17cd6270a8ec92d57366950fc73d238bb6cb85945fe651ad79f6685e8b479d7/petz-e-boa-hero-pt-v1.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/c17cd6270a8ec92d57366950fc73d238bb6cb85945fe651ad79f6685e8b479d7/petz-e-boa-hero-pt-v1.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-11-25T00:52:03.518Z",
+      "verification_etag_or_digest": "c17cd6270a8ec92d57366950fc73d238bb6cb85945fe651ad79f6685e8b479d7",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/petz/petz-e-boa-selections-caes-adultos.webp",
+      "local_url": "/images/reviews/petz/petz-e-boa-selections-caes-adultos.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 34864,
+      "sha256": "0b029a400f5cf2956df0df03925675216065ddfbb8fd16cf698d4ff0e42c336e",
+      "width": 800,
+      "height": 800,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "petz-e-boa-selections-caes-adultos.webp",
+      "storage_filename": "petz-e-boa-selections-caes-adultos.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/petz-e-boa.json",
+        "src/lib/generated/content-index.ts"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/petz-e-boa.json",
+          "line": 122,
+          "column": 19,
+          "literal": "/images/reviews/petz/petz-e-boa-selections-caes-adultos.webp",
+          "authority": "source"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 348154,
+          "column": 21,
+          "literal": "/images/reviews/petz/petz-e-boa-selections-caes-adultos.webp",
+          "authority": "generated"
+        }
+      ],
+      "remote_key": "v1/image/0b029a400f5cf2956df0df03925675216065ddfbb8fd16cf698d4ff0e42c336e/petz-e-boa-selections-caes-adultos.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/0b029a400f5cf2956df0df03925675216065ddfbb8fd16cf698d4ff0e42c336e/petz-e-boa-selections-caes-adultos.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-11-25T00:52:03.518Z",
+      "verification_etag_or_digest": "0b029a400f5cf2956df0df03925675216065ddfbb8fd16cf698d4ff0e42c336e",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/petz/petz-e-boa-selections-gatos-castrados.webp",
+      "local_url": "/images/reviews/petz/petz-e-boa-selections-gatos-castrados.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 38388,
+      "sha256": "59b01048fe9b20af959bf5d546c45dca40ad607c271628a8d54a9ebe08ca6d95",
+      "width": 800,
+      "height": 800,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "petz-e-boa-selections-gatos-castrados.webp",
+      "storage_filename": "petz-e-boa-selections-gatos-castrados.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/petz-e-boa.json",
+        "src/lib/generated/content-index.ts"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/petz-e-boa.json",
+          "line": 129,
+          "column": 19,
+          "literal": "/images/reviews/petz/petz-e-boa-selections-gatos-castrados.webp",
+          "authority": "source"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 348161,
+          "column": 21,
+          "literal": "/images/reviews/petz/petz-e-boa-selections-gatos-castrados.webp",
+          "authority": "generated"
+        }
+      ],
+      "remote_key": "v1/image/59b01048fe9b20af959bf5d546c45dca40ad607c271628a8d54a9ebe08ca6d95/petz-e-boa-selections-gatos-castrados.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/59b01048fe9b20af959bf5d546c45dca40ad607c271628a8d54a9ebe08ca6d95/petz-e-boa-selections-gatos-castrados.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-11-25T00:52:03.518Z",
+      "verification_etag_or_digest": "59b01048fe9b20af959bf5d546c45dca40ad607c271628a8d54a9ebe08ca6d95",
+      "verification_status": "verified"
+    },
+    {
       "source_path": "public/images/reviews/petz/petz-e-confiavel-capa-v2.webp",
       "local_url": "/images/reviews/petz/petz-e-confiavel-capa-v2.webp",
       "media_kind": "image",
