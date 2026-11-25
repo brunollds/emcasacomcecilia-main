@@ -142,6 +142,7 @@ export function DicaLauncher({ variant = 'default' }: { variant?: keyof typeof T
       )}
       {loaded && (
         <DicaPanel
+          variant={variant}
           open={open}
           onClose={() => {
             setOpen(false);

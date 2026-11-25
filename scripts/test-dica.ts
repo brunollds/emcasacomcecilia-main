@@ -132,6 +132,11 @@ for (const answer of [wheyAnswer, sofaCama, yesstyle, ...catalog.map((store) => 
 for (const store of catalog) assert.equal(buildStoreAnswer(store.slug).cards.length, 1, `${store.slug}: sem cartão`);
 
 async function main() {
+  // O build da Hostinger carrega as variáveis do painel: sem isto, o teste usaria o teto de produção, gravaria na pasta
+  // de produção e poderia chamar a IA de verdade.
+  for (const name of ['DICA_LOG_DIR', 'DICA_AI_DAILY_LIMIT', 'ANTHROPIC_API_KEY_DICA_SITE', 'DICA_AI_MODEL']) delete process.env[name];
+  (process.env as Record<string, string>).NODE_ENV = 'test';
+
   // Interpretação pela IA, com fetch falso: só termos do vocabulário; qualquer falha devolve null.
   const reply = (text: string, status = 200) =>
     (async () => new Response(JSON.stringify({ content: [{ type: 'text', text }] }), { status })) as unknown as typeof fetch;
@@ -200,9 +205,11 @@ async function main() {
 
   // Teto diário da IA, sem pasta: na memória do processo.
   resetDicaLimitsForTests();
-  for (let i = 0; i < 1500; i += 1) assert.equal(await takeAiSlot(t0, ''), true);
-  assert.equal(await takeAiSlot(t0, ''), false, '1501ª chamada à IA');
-  assert.equal(await takeAiSlot(Date.parse('2026-11-25T00:01:00-03:00'), ''), true, 'o teto volta no dia seguinte');
+  for (let i = 0; i < 1500; i += 1) assert.equal(await takeAiSlot(t0, '', false), true);
+  assert.equal(await takeAiSlot(t0, '', false), false, '1501ª chamada à IA');
+  assert.equal(await takeAiSlot(Date.parse('2026-11-25T00:01:00-03:00'), '', false), true, 'o teto volta no dia seguinte');
+  // Em produção sem a pasta, nada de IA: o teto por processo multiplicaria os 400.
+  assert.equal(await takeAiSlot(Date.parse('2026-11-26T10:00:00-03:00'), '', true), false, 'IA em produção sem DICA_LOG_DIR');
 
   // Com a pasta: um teto só para todos os processos, que sobrevive ao reinício. 12 pedidos ao mesmo tempo disputam 5 vagas.
   const quotaDir = mkdtempSync(path.join(tmpdir(), 'dica-cota-'));
@@ -214,6 +221,11 @@ async function main() {
     resetDicaLimitsForTests();
     assert.equal(await takeAiSlot(t0, quotaDir), false, 'o reinício zerou o teto do dia');
     assert.equal(await takeAiSlot(Date.parse('2026-11-25T00:01:00-03:00'), quotaDir), true, 'o teto do arquivo volta no dia seguinte');
+    // Pasta com defeito (aqui, um arquivo no lugar dela): sem IA, e não o contador da memória.
+    const notADir = path.join(tmpdir(), `dica-nao-pasta-${process.pid}`);
+    writeFileSync(notADir, '');
+    assert.equal(await takeAiSlot(t0, path.join(notADir, 'dica')), false, 'pasta com defeito liberou a IA');
+    rmSync(notADir, { force: true });
     resetQuestionLogForTests();
     await cleanupQuestionLog({ dir: quotaDir, now: new Date('2026-11-25T12:00:00-03:00') });
     assert.deepEqual(readdirSync(quotaDir), ['ai-quota-2026-11-25'], 'o contador de ontem ficou');
