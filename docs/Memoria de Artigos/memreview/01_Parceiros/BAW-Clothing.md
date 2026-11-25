@@ -83,6 +83,19 @@ fora da página.
 
 ---
 
+## Perguntas reais
+
+Consultas literais, com a fonte. Autocompletar é presença, sem volume. Coleta completa do Programa de Demanda em
+`05_Demanda/parceiros/baw/`.
+
+| Pergunta ou consulta | Fonte |
+|---|---|
+| O que aconteceu com a BAW? | "As pessoas também perguntam", 9 de 13 buscas da marca (coleta do Programa de Demanda, 18/11/2026) |
+| baw clothing faliu | Autocompletar (coleta do Programa de Demanda, 18/11/2026) |
+| O tênis BAW é bom? | "As pessoas também perguntam" de "baw clothing é boa" e "baw clothing é confiável" (mesma coleta) |
+
+---
+
 ## 4. Mídia da Marca
 
 - Logo: `/images/about/partners/baw.png` (página /sobre). Origem: `https://bawclothing.fbitsstatic.net/media/logo_200.png`
