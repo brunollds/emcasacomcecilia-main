@@ -65,3 +65,13 @@ conforme `docs/CONTRATO-ARTIGO-AFILIADO.md`. Está em `INTERNATIONAL_STORES` des
 
 Os logos estão no CDN e no mapa de entrega. Para trocar um logo, criar arquivo com nome novo, conforme
 `docs/GUIA-MIDIA-EDITORIAL.md`.
+
+---
+
+## 5. Perguntas reais (Autocompletar Google — 26/11/2026)
+
+Consultas literais coletadas em 26/11/2026 (detalhes e leitura da Mullvad em [[proton-mullvad-fatos-2611]]) para os briefings [[proton-unlimited-vale-a-pena]] (PN5), [[proton-vpn-ou-nordvpn]] (PN6) e [[proton-vpn-ou-mullvad]] (PN7), em paridade nos **11 idiomas** (`pt`, `en`, `es`, `fr`, `de`, `it`, `ko`, `ja`, `zh-hant`, `zh-hans`, `ar`):
+
+- **Proton Unlimited (PT-BR / EN-US):** `proton unlimited vale a pena`, `proton unlimited 1 month`, `proton unlimited black friday`, `proton unlimited lifetime`, `proton unlimited discount`, `proton unlimited price`, `is proton unlimited worth it 2026`, `proton unlimited worth the money`, `proton unlimited vs proton duo`.
+- **Proton VPN × NordVPN (PT-BR / EN-US):** `proton vpn ou nordvpn`, `proton vpn vs nordvpn`, `proton vpn vs nordvpn reddit`, `proton vpn vs nordvpn speed`, `proton vpn vs nordvpn privacy`, `proton vpn vs nordvpn price`, `proton vpn vs nordvpn torrenting`, `proton vpn vs nordvpn streaming`.
+- **Proton VPN × Mullvad (PT-BR / EN-US):** `proton vpn vs mullvad`, `proton vpn vs mullvad speed`, `proton vpn vs mullvad privacy`, `proton vpn vs mullvad port forwarding`, `proton vpn vs mullvad torrenting`, `mullvad vs proton vpn`.
