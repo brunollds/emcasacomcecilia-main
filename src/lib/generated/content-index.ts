@@ -29292,7 +29292,7 @@ const reviewsChunk0: unknown[] = [
     "id": 20,
     "slug": "codigo-cecilia010-yesstyle-como-usar",
     "title": "Como usar o código CECILIA010 na YesStyle: passo a passo do Reward Code",
-    "seoTitle": "CECILIA010 na YesStyle: como usar o Reward Code",
+    "seoTitle": "CECILIA010 na YesStyle: como usar o Reward Code (até 5%)",
     "type": "Guia & Cupons",
     "category": "cupons-como-usar",
     "reviewKind": "guia",
@@ -29319,7 +29319,7 @@ const reviewsChunk0: unknown[] = [
       {
         "heading": "Resposta rápida",
         "paragraphs": [
-          "O CECILIA010 é o código de recompensa da Cecília na YesStyle: dá 5% extra na primeira compra e 2% nas seguintes. Ele vai no campo Reward Code, separado do Coupon Code, e soma com os cupons elegíveis do site. Digite cada código no seu campo e confira os dois descontos no resumo antes de pagar."
+          "O CECILIA010 é o código de recompensa da Cecília na [YesStyle](/cupons/yesstyle): dá 5% extra na primeira compra e 2% nas seguintes. Ele vai no campo Reward Code, separado do Coupon Code, e soma com os cupons elegíveis do site. Digite cada código no seu campo e confira os dois descontos no resumo antes de pagar."
         ]
       },
       {
@@ -29799,7 +29799,7 @@ const reviewsChunk0: unknown[] = [
       {
         "heading": "Quick answer",
         "paragraphs": [
-          "CECILIA010 is Cecília's Reward Code at YesStyle: it gives 5% extra on your first order and 2% on the following ones. It goes in the Reward Code field, separate from the Coupon Code field, and stacks with eligible coupons on the site. Enter each code in its own field and check both discounts in the summary before paying."
+          "CECILIA010 is Cecília's Reward Code at [YesStyle](/en/coupons/yesstyle): it gives 5% extra on your first order and 2% on the following ones. It goes in the Reward Code field, separate from the Coupon Code field, and stacks with eligible coupons on the site. Enter each code in its own field and check both discounts in the summary before paying."
         ]
       },
       {
@@ -30020,7 +30020,8 @@ const reviewsChunk0: unknown[] = [
         "You are expecting a big discount: CECILIA010 gives 5% on a first order and 2% on later ones, and that is all.",
         "You want a code that replaces the store's coupon. CECILIA010 only stacks with one, so it cannot do its job."
       ]
-    }
+    },
+    "seoTitle": "YesStyle Reward Code CECILIA010: How to Use for Up to 5% Off"
   },
   {
     "id": 22,
@@ -30052,7 +30053,7 @@ const reviewsChunk0: unknown[] = [
       {
         "heading": "Respuesta rápida",
         "paragraphs": [
-          "CECILIA010 es el código de recompensa de Cecília en YesStyle: da un 5% extra en la primera compra y un 2% en las siguientes. Va en el campo Reward Code, aparte del Coupon Code, y se suma a los cupones elegibles. Escribe cada código en su campo y revisa los dos descuentos en el resumen antes de pagar."
+          "CECILIA010 es el código de recompensa de Cecília en [YesStyle](/es/coupons/yesstyle): da un 5% extra en la primera compra y un 2% en las siguientes. Va en el campo Reward Code, aparte del Coupon Code, y se suma a los cupones elegibles. Escribe cada código en su campo y revisa los dos descuentos en el resumen antes de pagar."
         ]
       },
       {
@@ -30273,7 +30274,8 @@ const reviewsChunk0: unknown[] = [
         "Esperas un descuento grande: CECILIA010 da un 5% en la primera compra y un 2% en las siguientes, y nada más.",
         "Quieres un código que sustituya al cupón de la tienda: CECILIA010 solo se suma a un cupón y no hace su trabajo."
       ]
-    }
+    },
+    "seoTitle": "Código de recompensa YesStyle CECILIA010: cómo usar (5%)"
   },
   {
     "id": 23,
@@ -30305,7 +30307,7 @@ const reviewsChunk0: unknown[] = [
       {
         "heading": "Réponse rapide",
         "paragraphs": [
-          "CECILIA010 est le code de récompense de Cecília chez YesStyle : il donne 5 % de plus à la première commande et 2 % aux suivantes. Il se saisit dans le champ Reward Code, distinct du Coupon Code, et se cumule avec les coupons éligibles. Saisissez chaque code dans son champ et vérifiez les deux remises au récapitulatif."
+          "CECILIA010 est le code de récompense de Cecília chez [YesStyle](/fr/coupons/yesstyle) : il donne 5 % de plus à la première commande et 2 % aux suivantes. Il se saisit dans le champ Reward Code, distinct du Coupon Code, et se cumule avec les coupons éligibles. Saisissez chaque code dans son champ et vérifiez les deux remises au récapitulatif."
         ]
       },
       {
@@ -30526,7 +30528,8 @@ const reviewsChunk0: unknown[] = [
         "Vous attendez une grosse remise : CECILIA010 donne 5 % sur la première commande et 2 % sur les suivantes, sans rien de plus.",
         "Vous cherchez un code qui remplace le coupon de la boutique : CECILIA010 se cumule avec un seul coupon et ne le remplace pas."
       ]
-    }
+    },
+    "seoTitle": "Code récompense YesStyle CECILIA010 : comment l’utiliser (5 %)"
   },
   {
     "id": 24,
@@ -30558,7 +30561,7 @@ const reviewsChunk0: unknown[] = [
       {
         "heading": "Die Antwort in Kürze",
         "paragraphs": [
-          "CECILIA010 ist der Belohnungscode von Cecília bei YesStyle: 5 % extra auf die erste Bestellung, 2 % auf die folgenden. Er gehört ins Feld Reward Code, getrennt vom Feld Coupon Code, und lässt sich mit berechtigten Aktionsgutscheinen kombinieren. Geben Sie jeden Code in sein eigenes Feld ein und prüfen Sie vor dem Bezahlen in der Bestellübersicht beide Rabatte."
+          "CECILIA010 ist der Belohnungscode von Cecília bei [YesStyle](/de/coupons/yesstyle): 5 % extra auf die erste Bestellung, 2 % auf die folgenden. Er gehört ins Feld Reward Code, getrennt vom Feld Coupon Code, und lässt sich mit berechtigten Aktionsgutscheinen kombinieren. Geben Sie jeden Code in sein eigenes Feld ein und prüfen Sie vor dem Bezahlen in der Bestellübersicht beide Rabatte."
         ]
       },
       {
@@ -30779,7 +30782,8 @@ const reviewsChunk0: unknown[] = [
         "Sie erwarten einen hohen Rabatt: CECILIA010 bringt 5 % auf die erste Bestellung und 2 % auf die folgenden, mehr nicht.",
         "Sie suchen einen Code, der den Gutschein des Shops ersetzt: CECILIA010 lässt sich nur mit einem Gutschein kombinieren und übernimmt dessen Rolle nicht."
       ]
-    }
+    },
+    "seoTitle": "YesStyle Reward Code CECILIA010: So nutzen Sie bis zu 5 %"
   },
   {
     "id": 40,
@@ -30815,7 +30819,7 @@ const reviewsChunk0: unknown[] = [
       {
         "heading": "빠른 답변",
         "paragraphs": [
-          "CECILIA010은 YesStyle의 리워드 코드로, 첫 구매는 5%, 이후 구매는 2%가 추가됩니다. 쿠폰 칸(Coupon Code)과 별개인 Reward Code 칸에 입력하며, 적격 쿠폰과 함께 쓸 수 있습니다. 각 칸에 맞게 입력하고, 결제 전에 주문 요약에서 두 할인이 모두 반영됐는지 확인하세요."
+          "CECILIA010은 [YesStyle](/ko/coupons/yesstyle)의 리워드 코드로, 첫 구매는 5%, 이후 구매는 2%가 추가됩니다. 쿠폰 칸(Coupon Code)과 별개인 Reward Code 칸에 입력하며, 적격 쿠폰과 함께 쓸 수 있습니다. 각 칸에 맞게 입력하고, 결제 전에 주문 요약에서 두 할인이 모두 반영됐는지 확인하세요."
         ]
       },
       {
@@ -31032,7 +31036,8 @@ const reviewsChunk0: unknown[] = [
         "큰 할인을 기대하는 분: CECILIA010은 첫 구매 5%, 이후 구매 2%가 전부입니다.",
         "쇼핑몰 쿠폰을 대신할 코드를 찾는 분: CECILIA010은 쿠폰과 함께 쓰는 리워드 코드라서 쿠폰의 자리를 대신하지 못합니다."
       ]
-    }
+    },
+    "seoTitle": "YesStyle 리워드 코드 CECILIA010 사용법: 최대 5% 추가 할인"
   },
   {
     "id": 41,
@@ -31068,7 +31073,7 @@ const reviewsChunk0: unknown[] = [
       {
         "heading": "結論から",
         "paragraphs": [
-          "CECILIA010はYesStyleのリワードコードで、初回購入は5%、2回目以降は2%が追加されます。入力先はクーポン欄(Coupon Code)とは別のReward Code欄で、対象のクーポンとも併用できます。それぞれの欄に正しく入力し、支払い前に注文概要で両方の割引が反映されているか確認してください。"
+          "CECILIA010は[YesStyle](/ja/coupons/yesstyle)のリワードコードで、初回購入は5%、2回目以降は2%が追加されます。入力先はクーポン欄(Coupon Code)とは別のReward Code欄で、対象のクーポンとも併用できます。それぞれの欄に正しく入力し、支払い前に注文概要で両方の割引が反映されているか確認してください。"
         ]
       },
       {
@@ -31285,7 +31290,8 @@ const reviewsChunk0: unknown[] = [
         "大きな割引を期待している人。CECILIA010は初回5%、2回目以降2%で、それ以上はありません。",
         "ショップのクーポンの代わりになるコードを探している人。CECILIA010はクーポン1枚と併用するリワードコードで、クーポンの代わりにはなりません。"
       ]
-    }
+    },
+    "seoTitle": "YesStyle リワードコード CECILIA010の使い方：最大5%追加オフ"
   },
   {
     "id": 42,
@@ -31321,7 +31327,7 @@ const reviewsChunk0: unknown[] = [
       {
         "heading": "快速解答",
         "paragraphs": [
-          "CECILIA010 是 YesStyle 的獎勵碼，首購額外 5%，之後的訂單額外 2%。它要填在 Reward Code 欄位，與優惠券欄位（Coupon Code）分開，並可與符合資格的優惠券同時使用。兩個欄位各填各的，付款前在訂單摘要中確認兩項折扣都已生效。"
+          "CECILIA010 是 [YesStyle](/zh-hant/coupons/yesstyle) 的獎勵碼，首購額外 5%，之後的訂單額外 2%。它要填在 Reward Code 欄位，與優惠券欄位（Coupon Code）分開，並可與符合資格的優惠券同時使用。兩個欄位各填各的，付款前在訂單摘要中確認兩項折扣都已生效。"
         ]
       },
       {
@@ -31538,7 +31544,8 @@ const reviewsChunk0: unknown[] = [
         "你期待大額折扣：CECILIA010 首購 5%、之後 2%，僅此而已。",
         "你想找能取代商店優惠券的代碼：CECILIA010 是獎勵碼，只能與一張優惠券疊加，取代不了它。"
       ]
-    }
+    },
+    "seoTitle": "YesStyle 獎勵碼 CECILIA010 怎麼用：最高額外 5% 折扣"
   },
   {
     "id": 43,
@@ -31574,7 +31581,7 @@ const reviewsChunk0: unknown[] = [
       {
         "heading": "快速解答",
         "paragraphs": [
-          "CECILIA010 是 YesStyle 的奖励码，首单额外 5%，之后的订单额外 2%。它要填在 Reward Code 栏位，与优惠券栏位（Coupon Code）分开，并可与符合条件的优惠券同时使用。两个栏位各填各的，付款前在订单摘要里确认两项折扣都已生效。"
+          "CECILIA010 是 [YesStyle](/zh-hans/coupons/yesstyle) 的奖励码，首单额外 5%，之后的订单额外 2%。它要填在 Reward Code 栏位，与优惠券栏位（Coupon Code）分开，并可与符合条件的优惠券同时使用。两个栏位各填各的，付款前在订单摘要里确认两项折扣都已生效。"
         ]
       },
       {
@@ -31791,7 +31798,8 @@ const reviewsChunk0: unknown[] = [
         "你期待大额折扣：CECILIA010 首单 5%、之后 2%，仅此而已。",
         "你想找能替代商店优惠券的代码：CECILIA010 是奖励码，只能与一张优惠券叠加，代替不了它。"
       ]
-    }
+    },
+    "seoTitle": "YesStyle 奖励码 CECILIA010 怎么用：最高额外 5% 折扣"
   },
   {
     "id": 19,
@@ -38777,7 +38785,8 @@ const reviewsChunk0: unknown[] = [
         "Sie suchen einen fertigen Gutschein zum Kopieren: Dieser Ratgeber zeigt die Methode, die aktuelle Liste steht auf unserer YesStyle-Gutscheinseite.",
         "Sie wollen zwei Shop-Gutscheine kombinieren: YesStyle akzeptiert nur einen Coupon Code pro Bestellung, und nur CECILIA010 kommt in ein separates Feld."
       ]
-    }
+    },
+    "seoTitle": "YesStyle-Gutscheine finden & mit CECILIA010 kombinieren (5 %)"
   },
   {
     "id": 239,
@@ -38998,7 +39007,8 @@ const reviewsChunk0: unknown[] = [
         "바로 복사해 쓸 쿠폰을 찾는 분: 이 글은 방법을 알려 드리고, 지금 쓸 수 있는 목록은 YesStyle 쿠폰 페이지에 있습니다.",
         "쇼핑몰 쿠폰 두 개를 겹쳐 쓰려는 분: YesStyle은 주문당 Coupon Code를 하나만 받고, 별도 칸에 들어가는 것은 CECILIA010뿐입니다."
       ]
-    }
+    },
+    "seoTitle": "YesStyle 쿠폰 찾는 법과 CECILIA010 중복 적용 가이드 (5%)"
   },
   {
     "id": 240,
@@ -39219,7 +39229,8 @@ const reviewsChunk0: unknown[] = [
         "そのままコピーできるクーポンを探している人。この記事では探し方を説明し、現在の一覧は当サイトのYesStyleクーポンのページにあります。",
         "ショップのクーポンを2枚重ねたい人。YesStyleは1注文につきCoupon Codeを1つしか受け付けず、別の欄に入るのはCECILIA010だけです。"
       ]
-    }
+    },
+    "seoTitle": "YesStyleクーポンの探し方とCECILIA010併用ガイド（最大5%）"
   },
   {
     "id": 241,
@@ -39440,7 +39451,8 @@ const reviewsChunk0: unknown[] = [
         "你想要現成可複製的優惠碼：本文講方法，目前的清單在我們的 YesStyle 優惠碼頁面。",
         "你打算疊加兩個商店優惠碼：YesStyle 每筆訂單只接受一個 Coupon Code，只有 CECILIA010 填在獨立的欄位。"
       ]
-    }
+    },
+    "seoTitle": "如何找到有效 YesStyle 優惠碼並疊加 CECILIA010（省 5%）"
   },
   {
     "id": 242,
@@ -39661,7 +39673,8 @@ const reviewsChunk0: unknown[] = [
         "你想要现成可复制的优惠码：本文讲方法，当前的列表在我们的 YesStyle 优惠码页面。",
         "你打算叠加两个商店优惠码：YesStyle 每单只接受一个 Coupon Code，只有 CECILIA010 填在单独的栏位。"
       ]
-    }
+    },
+    "seoTitle": "如何找到有效 YesStyle 优惠码并叠加 CECILIA010（省 5%）"
   },
   {
     "id": 243,
@@ -41576,7 +41589,8 @@ const reviewsChunk0: unknown[] = [
     ],
     "translationKey": "yesstyle-trust",
     "category": "confianca-reputacao",
-    "isNew": false
+    "isNew": false,
+    "seoTitle": "YesStyle est-il fiable et sûr ? Boutique de Hong Kong (2006)"
   },
   {
     "id": 253,
@@ -41735,7 +41749,8 @@ const reviewsChunk0: unknown[] = [
     ],
     "translationKey": "yesstyle-trust",
     "category": "confianca-reputacao",
-    "isNew": false
+    "isNew": false,
+    "seoTitle": "Ist YesStyle seriös und sicher? Shop aus Hongkong seit 2006"
   },
   {
     "id": 254,
@@ -41894,7 +41909,8 @@ const reviewsChunk0: unknown[] = [
     ],
     "translationKey": "yesstyle-trust",
     "category": "confianca-reputacao",
-    "isNew": false
+    "isNew": false,
+    "seoTitle": "YesStyle 믿을 수 있을까? 2006년 설립 홍콩 기업과 구매 전 체크"
   },
   {
     "id": 255,
@@ -42053,7 +42069,8 @@ const reviewsChunk0: unknown[] = [
     ],
     "translationKey": "yesstyle-trust",
     "category": "confianca-reputacao",
-    "isNew": false
+    "isNew": false,
+    "seoTitle": "YesStyleは安全・本物？2006年創業の香港企業と購入前の注意点"
   },
   {
     "id": 256,
@@ -42211,7 +42228,8 @@ const reviewsChunk0: unknown[] = [
     ],
     "translationKey": "yesstyle-trust",
     "category": "confianca-reputacao",
-    "isNew": false
+    "isNew": false,
+    "seoTitle": "YesStyle 值得信賴嗎？香港上市母公司背景與收貨檢查指南"
   },
   {
     "id": 257,
@@ -42369,7 +42387,8 @@ const reviewsChunk0: unknown[] = [
     ],
     "translationKey": "yesstyle-trust",
     "category": "confianca-reputacao",
-    "isNew": false
+    "isNew": false,
+    "seoTitle": "YesStyle 值得信赖吗？香港上市母公司背景与收货核对指南"
   },
   {
     "id": 258,
@@ -44124,7 +44143,7 @@ const reviewsChunk0: unknown[] = [
       {
         "heading": "Resposta rápida",
         "paragraphs": [
-          "K-Beauty é o nome dos cosméticos e das tendências de beleza da Coreia, do skincare à maquiagem. A rotina em camadas é conhecida, mas opcional. Fora da Coreia, a oferta muda por marca e país; a YesStyle reúne várias marcas num carrinho só e o código de recompensa CECILIA010 dá 5% extra na primeira compra."
+          "K-Beauty é o nome dos cosméticos e das tendências de beleza da Coreia, do skincare à maquiagem. A rotina em camadas é conhecida, mas opcional. Fora da Coreia, a oferta muda por marca e país; a [YesStyle](/cupons/yesstyle) reúne várias marcas num carrinho só e o código de recompensa CECILIA010 dá 5% extra na primeira compra."
         ]
       },
       {
@@ -44276,7 +44295,7 @@ const reviewsChunk0: unknown[] = [
       {
         "heading": "Quick answer",
         "paragraphs": [
-          "K-Beauty is the name for Korean cosmetics and beauty trends, from skincare to makeup. The multi-layer routine is one of its best-known practices, but it is optional. Outside Korea, availability varies by brand and country; YesStyle gathers many brands in one cart, and the Reward Code CECILIA010 gives 5% extra off your first purchase."
+          "K-Beauty is the name for Korean cosmetics and beauty trends, from skincare to makeup. The multi-layer routine is one of its best-known practices, but it is optional. Outside Korea, availability varies by brand and country; [YesStyle](/en/coupons/yesstyle) gathers many brands in one cart, and the Reward Code CECILIA010 gives 5% extra off your first purchase."
         ]
       },
       {
@@ -44428,7 +44447,7 @@ const reviewsChunk0: unknown[] = [
       {
         "heading": "Respuesta rápida",
         "paragraphs": [
-          "K-Beauty es el nombre de los cosméticos y las tendencias de belleza de Corea, del skincare al maquillaje. La rutina en capas es conocida, pero opcional. Fuera de Corea, la oferta cambia según marca y país; YesStyle reúne varias marcas en un carrito y el código de recompensa CECILIA010 da un 5 % extra en la primera compra."
+          "K-Beauty es el nombre de los cosméticos y las tendencias de belleza de Corea, del skincare al maquillaje. La rutina en capas es conocida, pero opcional. Fuera de Corea, la oferta cambia según marca y país; [YesStyle](/es/coupons/yesstyle) reúne varias marcas en un carrito y el código de recompensa CECILIA010 da un 5 % extra en la primera compra."
         ]
       },
       {
@@ -44580,7 +44599,7 @@ const reviewsChunk0: unknown[] = [
       {
         "heading": "Réponse rapide",
         "paragraphs": [
-          "La K-Beauty désigne les cosmétiques et les tendances beauté de la Corée, du skincare au maquillage. La routine en couches est connue, mais facultative. Hors de Corée, l’offre varie selon la marque et le pays ; YesStyle réunit plusieurs marques dans un panier et le code de récompense CECILIA010 donne 5 % de plus sur la première commande."
+          "La K-Beauty désigne les cosmétiques et les tendances beauté de la Corée, du skincare au maquillage. La routine en couches est connue, mais facultative. Hors de Corée, l’offre varie selon la marque et le pays ; [YesStyle](/fr/coupons/yesstyle) réunit plusieurs marques dans un panier et le code de récompense CECILIA010 donne 5 % de plus sur la première commande."
         ]
       },
       {
@@ -44732,7 +44751,7 @@ const reviewsChunk0: unknown[] = [
       {
         "heading": "Kurze Antwort",
         "paragraphs": [
-          "K-Beauty steht für Kosmetik und Beauty-Trends aus Korea, von Skincare bis Make-up. Das Schichten (Layering) ist eine bekannte Praxis, aber keine Pflicht. Außerhalb Koreas unterscheidet sich das Angebot je nach Marke und Land; YesStyle bündelt viele Marken in einem Warenkorb, und der Reward Code CECILIA010 bringt 5 % extra beim ersten Einkauf."
+          "K-Beauty steht für Kosmetik und Beauty-Trends aus Korea, von Skincare bis Make-up. Das Schichten (Layering) ist eine bekannte Praxis, aber keine Pflicht. Außerhalb Koreas unterscheidet sich das Angebot je nach Marke und Land; [YesStyle](/de/coupons/yesstyle) bündelt viele Marken in einem Warenkorb, und der Reward Code CECILIA010 bringt 5 % extra beim ersten Einkauf."
         ]
       },
       {
@@ -44884,7 +44903,7 @@ const reviewsChunk0: unknown[] = [
       {
         "heading": "간단히 답하면",
         "paragraphs": [
-          "K-뷰티는 스킨케어부터 메이크업까지 아우르는 한국의 화장품과 뷰티 트렌드를 가리키는 말입니다. 여러 겹을 쌓는 루틴은 널리 알려진 방식 중 하나지만 꼭 따라야 하는 것은 아닙니다. 판매 여부와 방식은 브랜드와 나라에 따라 다르지만, YesStyle은 여러 브랜드를 장바구니 하나에 담을 수 있고 리워드 코드 CECILIA010으로 첫 구매 5%를 추가 할인받습니다."
+          "K-뷰티는 스킨케어부터 메이크업까지 아우르는 한국의 화장품과 뷰티 트렌드를 가리키는 말입니다. 여러 겹을 쌓는 루틴은 널리 알려진 방식 중 하나지만 꼭 따라야 하는 것은 아닙니다. 판매 여부와 방식은 브랜드와 나라에 따라 다르지만, [YesStyle](/ko/coupons/yesstyle)은 여러 브랜드를 장바구니 하나에 담을 수 있고 리워드 코드 CECILIA010으로 첫 구매 5%를 추가 할인받습니다."
         ]
       },
       {
@@ -45036,7 +45055,7 @@ const reviewsChunk0: unknown[] = [
       {
         "heading": "簡単に答えると",
         "paragraphs": [
-          "K-Beautyは、スキンケアからメイクまで、韓国発のコスメと美容トレンドを指す言葉です。何層も重ねるルーティンはよく知られた方法の一つですが、必須ではありません。韓国の外では取り扱いがブランドや国によって変わりますが、YesStyleなら複数のブランドを1つのカートにまとめられ、リワードコードCECILIA010で初回購入が5%追加割引になります。"
+          "K-Beautyは、スキンケアからメイクまで、韓国発のコスメと美容トレンドを指す言葉です。何層も重ねるルーティンはよく知られた方法の一つですが、必須ではありません。韓国の外では取り扱いがブランドや国によって変わりますが、[YesStyle](/ja/coupons/yesstyle)なら複数のブランドを1つのカートにまとめられ、リワードコードCECILIA010で初回購入が5%追加割引になります。"
         ]
       },
       {
@@ -45188,7 +45207,7 @@ const reviewsChunk0: unknown[] = [
       {
         "heading": "簡短回答",
         "paragraphs": [
-          "K-Beauty 指韓國的化妝品與美妝潮流，從保養到彩妝。多層疊擦是最廣為人知的做法之一，但並非必須。在韓國以外，供貨會因品牌和國家而異；YesStyle 可以把多個品牌放進同一個購物車，使用獎勵碼 CECILIA010 首購還能額外優惠 5%。"
+          "K-Beauty 指韓國的化妝品與美妝潮流，從保養到彩妝。多層疊擦是最廣為人知的做法之一，但並非必須。在韓國以外，供貨會因品牌和國家而異；[YesStyle](/zh-hant/coupons/yesstyle) 可以把多個品牌放進同一個購物車，使用獎勵碼 CECILIA010 首購還能額外優惠 5%。"
         ]
       },
       {
@@ -45340,7 +45359,7 @@ const reviewsChunk0: unknown[] = [
       {
         "heading": "简要回答",
         "paragraphs": [
-          "K-Beauty 指韩国的化妆品和美妆潮流，从护肤到彩妆。多层叠涂是最广为人知的做法之一，但并非必须。在韩国以外，供货因品牌和国家而异；YesStyle 可以把多个品牌放进同一个购物车，用奖励码 CECILIA010 首次购买还能额外优惠 5%。"
+          "K-Beauty 指韩国的化妆品和美妆潮流，从护肤到彩妆。多层叠涂是最广为人知的做法之一，但并非必须。在韩国以外，供货因品牌和国家而异；[YesStyle](/zh-hans/coupons/yesstyle) 可以把多个品牌放进同一个购物车，用奖励码 CECILIA010 首次购买还能额外优惠 5%。"
         ]
       },
       {
@@ -50680,7 +50699,7 @@ const reviewsChunk0: unknown[] = [
     "id": 309,
     "slug": "codice-ricompensa-yesstyle-cecilia010",
     "title": "Codice ricompensa YesStyle CECILIA010: come usarlo al checkout",
-    "seoTitle": "Codice ricompensa YesStyle CECILIA010: come usarlo",
+    "seoTitle": "Codice ricompensa YesStyle CECILIA010: come usarlo (fino 5%)",
     "type": "Guida e coupon",
     "reviewKind": "guia",
     "author": {
@@ -50707,7 +50726,7 @@ const reviewsChunk0: unknown[] = [
       {
         "heading": "Risposta rapida",
         "paragraphs": [
-          "CECILIA010 è il codice ricompensa di Cecília su YesStyle: 5% extra sul primo ordine e 2% sui successivi. Va nel campo Reward Code, separato dal campo Coupon Code, e si abbina ai coupon promozionali idonei. Inserisci ogni codice nel suo campo e, prima di pagare, controlla nel riepilogo dell'ordine che entrambi gli sconti compaiano."
+          "CECILIA010 è il codice ricompensa di Cecília su [YesStyle](/it/coupons/yesstyle): 5% extra sul primo ordine e 2% sui successivi. Va nel campo Reward Code, separato dal campo Coupon Code, e si abbina ai coupon promozionali idonei. Inserisci ogni codice nel suo campo e, prima di pagare, controlla nel riepilogo dell'ordine che entrambi gli sconti compaiano."
         ]
       },
       {
@@ -51345,7 +51364,7 @@ const reviewsChunk0: unknown[] = [
       {
         "heading": "Risposta rapida",
         "paragraphs": [
-          "La K-Beauty è il nome dei cosmetici e delle tendenze di bellezza della Corea, dallo skincare al trucco. La routine a strati è nota, ma facoltativa. Fuori dalla Corea l’offerta cambia per marchio e paese; YesStyle riunisce molti marchi in un carrello e il codice ricompensa CECILIA010 dà il 5% in più sul primo acquisto."
+          "La K-Beauty è il nome dei cosmetici e delle tendenze di bellezza della Corea, dallo skincare al trucco. La routine a strati è nota, ma facoltativa. Fuori dalla Corea l’offerta cambia per marchio e paese; [YesStyle](/it/coupons/yesstyle) riunisce molti marchi in un carrello e il codice ricompensa CECILIA010 dà il 5% in più sul primo acquisto."
         ]
       },
       {
@@ -59688,7 +59707,7 @@ const reviewsChunk0: unknown[] = [
       {
         "heading": "Resposta rápida",
         "paragraphs": [
-          "A Black Friday da YesStyle já começou. O CECILIA010 dá 5% na primeira compra e 2% nas seguintes, no campo Reward Code, junto de um cupom elegível da loja. O cupom de 15% sem mínimo já apareceu para Estados Unidos, Reino Unido e Canadá. Confira a oferta do seu destino; a YesStyle voltou a entregar no Brasil."
+          "A Black Friday da [YesStyle](/cupons/yesstyle) já começou. O CECILIA010 dá 5% na primeira compra e 2% nas seguintes, no campo Reward Code, junto de um cupom elegível da loja. O cupom de 15% sem mínimo já apareceu para Estados Unidos, Reino Unido e Canadá. Confira a oferta do seu destino; a YesStyle voltou a entregar no Brasil."
         ]
       },
       {
@@ -60316,7 +60335,7 @@ const reviewsChunk0: unknown[] = [
       {
         "heading": "Quick answer",
         "paragraphs": [
-          "YesStyle's Black Friday has already started. CECILIA010 gives 5% on your first order and 2% on later ones, in the Reward Code field, alongside an eligible store coupon. The 15% coupon with no minimum has already appeared for the United States, the United Kingdom and Canada. Check the offer for your own destination."
+          "[YesStyle](/en/coupons/yesstyle)'s Black Friday has already started. CECILIA010 gives 5% on your first order and 2% on later ones, in the Reward Code field, alongside an eligible store coupon. The 15% coupon with no minimum has already appeared for the United States, the United Kingdom and Canada. Check the offer for your own destination."
         ]
       },
       {
@@ -60937,7 +60956,7 @@ const reviewsChunk0: unknown[] = [
       {
         "heading": "Respuesta rápida",
         "paragraphs": [
-          "El Black Friday de YesStyle ya empezó. CECILIA010 da 5% en la primera compra y 2% en las siguientes, en el campo Reward Code, junto con un cupón elegible de la tienda. El cupón de 15% sin mínimo ya apareció para Estados Unidos, Reino Unido y Canadá. Comprueba la oferta de tu destino."
+          "El Black Friday de [YesStyle](/es/coupons/yesstyle) ya empezó. CECILIA010 da 5% en la primera compra y 2% en las siguientes, en el campo Reward Code, junto con un cupón elegible de la tienda. El cupón de 15% sin mínimo ya apareció para Estados Unidos, Reino Unido y Canadá. Comprueba la oferta de tu destino."
         ]
       },
       {
@@ -61528,7 +61547,7 @@ const reviewsChunk0: unknown[] = [
     "locale": "fr",
     "translationKey": "yesstyle-black-friday",
     "title": "Black Friday YesStyle 2026 : c'est déjà commencé ? Le coupon de la semaine, les dates et où saisir CECILIA010",
-    "seoTitle": "Black Friday YesStyle 2026 : déjà en cours, coupons",
+    "seoTitle": "Black Friday YesStyle 2026 : coupons et code CECILIA010 (5 %)",
     "type": "Guide Black Friday",
     "category": "cupons-como-usar",
     "reviewKind": "guia",
@@ -61558,7 +61577,7 @@ const reviewsChunk0: unknown[] = [
       {
         "heading": "Réponse rapide",
         "paragraphs": [
-          "Le Black Friday de YesStyle a déjà commencé. CECILIA010 donne 5 % sur la première commande et 2 % sur les suivantes, dans le champ Reward Code, avec un coupon éligible de la boutique. Le coupon de 15 % sans minimum est déjà apparu pour les États-Unis, le Royaume-Uni et le Canada. Vérifiez l'offre de votre destination."
+          "Le Black Friday de [YesStyle](/fr/coupons/yesstyle) a déjà commencé. CECILIA010 donne 5 % sur la première commande et 2 % sur les suivantes, dans le champ Reward Code, avec un coupon éligible de la boutique. Le coupon de 15 % sans minimum est déjà apparu pour les États-Unis, le Royaume-Uni et le Canada. Vérifiez l'offre de votre destination."
         ]
       },
       {
@@ -62150,7 +62169,7 @@ const reviewsChunk0: unknown[] = [
     "locale": "de",
     "translationKey": "yesstyle-black-friday",
     "title": "YesStyle Black Friday 2026: Schon gestartet? Der Gutschein der Woche, Termine und wo der Reward Code CECILIA010 hinkommt",
-    "seoTitle": "YesStyle Black Friday 2026: läuft schon, Gutscheine",
+    "seoTitle": "YesStyle Black Friday 2026: Gutscheine + Code CECILIA010 (5 %)",
     "type": "Black-Friday-Ratgeber",
     "category": "cupons-como-usar",
     "reviewKind": "guia",
@@ -62180,7 +62199,7 @@ const reviewsChunk0: unknown[] = [
       {
         "heading": "Kurze Antwort",
         "paragraphs": [
-          "Die Black Friday von YesStyle hat bereits begonnen. Der CECILIA010 gibt 5 % auf die erste Bestellung und 2 % auf die folgenden, im Feld Reward Code, zusätzlich zu einem passenden Gutschein des Shops. Ein Gutschein über 15 % ohne Mindestbestellwert ist bereits für die USA, Großbritannien und Kanada erschienen. Prüfen Sie das Angebot für Ihr Lieferland."
+          "Die Black Friday von [YesStyle](/de/coupons/yesstyle) hat bereits begonnen. Der CECILIA010 gibt 5 % auf die erste Bestellung und 2 % auf die folgenden, im Feld Reward Code, zusätzlich zu einem passenden Gutschein des Shops. Ein Gutschein über 15 % ohne Mindestbestellwert ist bereits für die USA, Großbritannien und Kanada erschienen. Prüfen Sie das Angebot für Ihr Lieferland."
         ]
       },
       {
@@ -62771,7 +62790,7 @@ const reviewsChunk0: unknown[] = [
     "locale": "it",
     "translationKey": "yesstyle-black-friday",
     "title": "Black Friday YesStyle 2026: è già iniziato? Il coupon della settimana, le date e dove inserire CECILIA010",
-    "seoTitle": "Black Friday YesStyle 2026: già attivo, coupon",
+    "seoTitle": "Black Friday YesStyle 2026: coupon attivi e codice CECILIA010",
     "type": "Guida al Black Friday",
     "category": "cupons-como-usar",
     "reviewKind": "guia",
@@ -62801,7 +62820,7 @@ const reviewsChunk0: unknown[] = [
       {
         "heading": "Risposta rapida",
         "paragraphs": [
-          "Il Black Friday di YesStyle è già iniziato. CECILIA010 dà il 5% sul primo acquisto e il 2% sui successivi, nel campo Reward Code, insieme a un coupon idoneo del negozio. Il coupon del 15% senza minimo è già comparso per Stati Uniti, Regno Unito e Canada. Controlla l'offerta per la tua destinazione."
+          "Il Black Friday di [YesStyle](/it/coupons/yesstyle) è già iniziato. CECILIA010 dà il 5% sul primo acquisto e il 2% sui successivi, nel campo Reward Code, insieme a un coupon idoneo del negozio. Il coupon del 15% senza minimo è già comparso per Stati Uniti, Regno Unito e Canada. Controlla l'offerta per la tua destinazione."
         ]
       },
       {
@@ -63422,7 +63441,7 @@ const reviewsChunk0: unknown[] = [
       {
         "heading": "핵심 요약",
         "paragraphs": [
-          "네, YesStyle 블랙프라이데이는 이미 시작됐습니다. CECILIA010은 Reward Code 칸에 넣으면 첫 구매에 5%, 이후 구매에 2%를 주며, 스토어의 적용 가능한 쿠폰과 함께 쓸 수 있습니다. 최소 금액 없는 15% 쿠폰은 이미 미국, 영국, 캐나다 배송에 나왔습니다. 내 배송지에서 어떤 쿠폰이 열려 있는지 확인하세요."
+          "네, [YesStyle](/ko/coupons/yesstyle) 블랙프라이데이는 이미 시작됐습니다. CECILIA010은 Reward Code 칸에 넣으면 첫 구매에 5%, 이후 구매에 2%를 주며, 스토어의 적용 가능한 쿠폰과 함께 쓸 수 있습니다. 최소 금액 없는 15% 쿠폰은 이미 미국, 영국, 캐나다 배송에 나왔습니다. 내 배송지에서 어떤 쿠폰이 열려 있는지 확인하세요."
         ]
       },
       {
@@ -64043,7 +64062,7 @@ const reviewsChunk0: unknown[] = [
       {
         "heading": "結論から",
         "paragraphs": [
-          "YesStyleのブラックフライデーは、もう始まっています。CECILIA010はReward Code欄に入れると、初回購入で5%、2回目以降は2%になり、ストアの対象クーポンと併用できます。最低金額なしの15%クーポンは、すでにアメリカ、イギリス、カナダ向けに出ています。お届け先で使えるクーポンを確認してください。"
+          "[YesStyle](/ja/coupons/yesstyle)のブラックフライデーは、もう始まっています。CECILIA010はReward Code欄に入れると、初回購入で5%、2回目以降は2%になり、ストアの対象クーポンと併用できます。最低金額なしの15%クーポンは、すでにアメリカ、イギリス、カナダ向けに出ています。お届け先で使えるクーポンを確認してください。"
         ]
       },
       {
@@ -64665,7 +64684,7 @@ const reviewsChunk0: unknown[] = [
       {
         "heading": "先說結論",
         "paragraphs": [
-          "有，YesStyle 的黑色星期五已經開始。CECILIA010 填在 Reward Code 欄位，首次購買 5%、之後 2%，可與商店的合格優惠券一起使用。無最低消費的 15% 優惠券已在美國、英國與加拿大出現；請確認你送達地的優惠。"
+          "有，[YesStyle](/zh-hant/coupons/yesstyle) 的黑色星期五已經開始。CECILIA010 填在 Reward Code 欄位，首次購買 5%、之後 2%，可與商店的合格優惠券一起使用。無最低消費的 15% 優惠券已在美國、英國與加拿大出現；請確認你送達地的優惠。"
         ]
       },
       {
@@ -65286,7 +65305,7 @@ const reviewsChunk0: unknown[] = [
       {
         "heading": "先说结论",
         "paragraphs": [
-          "有，YesStyle 的黑色星期五已经开始。CECILIA010 填在 Reward Code 栏位，首次购买 5%、之后 2%，可与商店的合格优惠券一起使用。无最低消费的 15% 优惠券已在美国、英国和加拿大出现；请确认你收货地的优惠。"
+          "有，[YesStyle](/zh-hans/coupons/yesstyle) 的黑色星期五已经开始。CECILIA010 填在 Reward Code 栏位，首次购买 5%、之后 2%，可与商店的合格优惠券一起使用。无最低消费的 15% 优惠券已在美国、英国和加拿大出现；请确认你收货地的优惠。"
         ]
       },
       {
@@ -65878,7 +65897,7 @@ const reviewsChunk0: unknown[] = [
     "locale": "pt",
     "translationKey": "shein-black-friday",
     "title": "Black Friday SHEIN 2026: o que comprar, as datas e imposto de importação zero até US$ 50",
-    "seoTitle": "Black Friday SHEIN 2026: o que comprar e as datas",
+    "seoTitle": "Black Friday SHEIN 2026: código 4CW5Y, achados e datas",
     "type": "Guia de Black Friday",
     "category": "cupons-como-usar",
     "reviewKind": "guia",
@@ -65906,7 +65925,7 @@ const reviewsChunk0: unknown[] = [
       {
         "heading": "Resposta rápida",
         "paragraphs": [
-          "A Black Friday de 2026 cai na última sexta de novembro, dia 27, e a campanha da SHEIN está no ar, sem calendário completo. Este guia traz 17 peças com preço e medidas e seis atalhos de campanha. O 4CW5Y dá desconto, sim: pelo link da Cecília, ou pesquisando o código no app ou no site, abre uma seleção com promoções."
+          "A Black Friday de 2026 cai na última sexta de novembro, dia 27, e a campanha da [SHEIN](/cupons/shein) está no ar, sem calendário completo. Este guia traz 17 peças com preço e medidas e seis atalhos de campanha. O 4CW5Y dá desconto, sim: pelo link da Cecília, ou pesquisando o código no app ou no site, abre uma seleção com promoções."
         ]
       },
       {
@@ -66924,7 +66943,7 @@ const reviewsChunk0: unknown[] = [
     "locale": "en",
     "translationKey": "shein-black-friday",
     "title": "SHEIN Black Friday 2026: what to buy, when it starts and how the 4CW5Y code works",
-    "seoTitle": "SHEIN Black Friday 2026: what to buy and when it starts",
+    "seoTitle": "SHEIN Black Friday 2026: code 4CW5Y, what to buy and dates",
     "type": "Black Friday Guide",
     "category": "cupons-como-usar",
     "reviewKind": "guia",
@@ -66953,7 +66972,7 @@ const reviewsChunk0: unknown[] = [
       {
         "heading": "Quick answer",
         "paragraphs": [
-          "Black Friday 2026 falls on November 27, and SHEIN's sale calendar varies by country. This guide lists 17 pieces with fabric and measurements and six campaign shortcuts. Search referral code 4CW5Y in the SHEIN app or on the website to open a selection with promotions and discounts; SHEIN sets the eligible items and savings."
+          "Black Friday 2026 falls on November 27, and [SHEIN](/en/coupons/shein)'s sale calendar varies by country. This guide lists 17 pieces with fabric and measurements and six campaign shortcuts. Search referral code 4CW5Y in the SHEIN app or on the website to open a selection with promotions and discounts; SHEIN sets the eligible items and savings."
         ]
       },
       {
@@ -67855,7 +67874,7 @@ const reviewsChunk0: unknown[] = [
     "locale": "es",
     "translationKey": "shein-black-friday",
     "title": "Black Friday SHEIN 2026: qué comprar, cuándo empieza y cómo funciona el código 4CW5Y",
-    "seoTitle": "Black Friday SHEIN 2026: qué comprar y cuándo empieza",
+    "seoTitle": "Black Friday SHEIN 2026: código 4CW5Y, qué comprar y fechas",
     "type": "Guía de Black Friday",
     "category": "cupons-como-usar",
     "reviewKind": "guia",
@@ -67884,7 +67903,7 @@ const reviewsChunk0: unknown[] = [
       {
         "heading": "Respuesta rápida",
         "paragraphs": [
-          "El Black Friday de 2026 cae el 27 de noviembre y el calendario de SHEIN cambia según el país. Esta guía reúne 17 prendas con tejido y medidas y seis atajos de campaña. El código de referido 4CW5Y da descuento: búscalo en la app o la web de SHEIN para abrir una selección con promociones."
+          "El Black Friday de 2026 cae el 27 de noviembre y el calendario de [SHEIN](/es/coupons/shein) cambia según el país. Esta guía reúne 17 prendas con tejido y medidas y seis atajos de campaña. El código de referido 4CW5Y da descuento: búscalo en la app o la web de SHEIN para abrir una selección con promociones."
         ]
       },
       {
@@ -68755,7 +68774,7 @@ const reviewsChunk0: unknown[] = [
     "locale": "fr",
     "translationKey": "shein-black-friday",
     "title": "Black Friday SHEIN 2026 : quoi acheter, quand il commence et comment fonctionne le code 4CW5Y",
-    "seoTitle": "Black Friday SHEIN 2026 : quoi acheter et quand",
+    "seoTitle": "Black Friday SHEIN 2026 : code 4CW5Y, quoi acheter et dates",
     "type": "Guide Black Friday",
     "category": "cupons-como-usar",
     "reviewKind": "guia",
@@ -68784,7 +68803,7 @@ const reviewsChunk0: unknown[] = [
       {
         "heading": "Réponse rapide",
         "paragraphs": [
-          "Le Black Friday 2026 tombe le 27 novembre et le calendrier de SHEIN change selon le pays. Ce guide réunit 17 pièces avec matière et mesures et six raccourcis de campagne. Le code de parrainage 4CW5Y donne bien droit à une remise : recherchez-le dans l'appli ou sur le site SHEIN pour ouvrir une sélection en promotion."
+          "Le Black Friday 2026 tombe le 27 novembre et le calendrier de [SHEIN](/fr/coupons/shein) change selon le pays. Ce guide réunit 17 pièces avec matière et mesures et six raccourcis de campagne. Le code de parrainage 4CW5Y donne bien droit à une remise : recherchez-le dans l'appli ou sur le site SHEIN pour ouvrir une sélection en promotion."
         ]
       },
       {
@@ -69655,7 +69674,7 @@ const reviewsChunk0: unknown[] = [
     "locale": "de",
     "translationKey": "shein-black-friday",
     "title": "SHEIN Black Friday 2026: Was Sie kaufen können, wann er beginnt und wie der Code 4CW5Y funktioniert",
-    "seoTitle": "SHEIN Black Friday 2026: Was kaufen und wann es losgeht",
+    "seoTitle": "SHEIN Black Friday 2026: Code 4CW5Y, Kauftipps und Termine",
     "type": "Black-Friday-Ratgeber",
     "category": "cupons-como-usar",
     "reviewKind": "guia",
@@ -69684,7 +69703,7 @@ const reviewsChunk0: unknown[] = [
       {
         "heading": "Kurze Antwort",
         "paragraphs": [
-          "Der Black Friday 2026 fällt auf den 27. November, und der SHEIN-Kalender ändert sich von Land zu Land. Dieser Leitfaden zeigt 17 Teile mit Stoff und Maßen sowie sechs Kampagnen-Shortcuts. Suchen Sie den Empfehlungscode 4CW5Y in der SHEIN-App oder auf der Website: Es öffnet sich eine Auswahl mit Aktionen und Rabatten; SHEIN legt Artikel und Ersparnis fest."
+          "Der Black Friday 2026 fällt auf den 27. November, und der SHEIN-Kalender ändert sich von Land zu Land. Dieser Leitfaden zeigt 17 Teile mit Stoff und Maßen sowie sechs Kampagnen-Shortcuts. Suchen Sie den Empfehlungscode 4CW5Y in der SHEIN-App oder auf der Website: Es öffnet sich eine Auswahl mit Aktionen und Rabatten; [SHEIN](/de/coupons/shein) legt Artikel und Ersparnis fest."
         ]
       },
       {
@@ -70555,7 +70574,7 @@ const reviewsChunk0: unknown[] = [
     "locale": "it",
     "translationKey": "shein-black-friday",
     "title": "Black Friday SHEIN 2026: cosa comprare, quando inizia e come funziona il codice 4CW5Y",
-    "seoTitle": "Black Friday SHEIN 2026: cosa comprare e quando inizia",
+    "seoTitle": "Black Friday SHEIN 2026: codice 4CW5Y, cosa comprare e date",
     "type": "Guida al Black Friday",
     "category": "cupons-como-usar",
     "reviewKind": "guia",
@@ -70584,7 +70603,7 @@ const reviewsChunk0: unknown[] = [
       {
         "heading": "Risposta rapida",
         "paragraphs": [
-          "Il Black Friday 2026 cade il 27 novembre, e il calendario di SHEIN cambia da paese a paese. Questa guida elenca 17 capi con tessuto e misure e sei scorciatoie della campagna. Cerca il codice invito 4CW5Y nell'app o sul sito SHEIN: si apre una selezione con promozioni e sconti; SHEIN decide articoli e risparmio."
+          "Il Black Friday 2026 cade il 27 novembre, e il calendario di [SHEIN](/it/coupons/shein) cambia da paese a paese. Questa guida elenca 17 capi con tessuto e misure e sei scorciatoie della campagna. Cerca il codice invito 4CW5Y nell'app o sul sito SHEIN: si apre una selezione con promozioni e sconti; SHEIN decide articoli e risparmio."
         ]
       },
       {
@@ -71455,7 +71474,7 @@ const reviewsChunk0: unknown[] = [
     "locale": "ko",
     "translationKey": "shein-black-friday",
     "title": "SHEIN 블랙프라이데이 2026: 무엇을 살지, 언제 시작하는지, 추천 코드 4CW5Y 사용법",
-    "seoTitle": "SHEIN 블랙프라이데이 2026: 살 만한 상품과 시작일",
+    "seoTitle": "SHEIN 블랙프라이데이 2026: 추천 코드 4CW5Y·추천 상품·일정",
     "type": "블랙프라이데이 가이드",
     "category": "cupons-como-usar",
     "reviewKind": "guia",
@@ -71484,7 +71503,7 @@ const reviewsChunk0: unknown[] = [
       {
         "heading": "답변 요약",
         "paragraphs": [
-          "2026년 블랙프라이데이는 11월 27일이며, SHEIN의 세일 일정은 국가마다 다릅니다. 이 가이드는 소재와 치수를 확인한 17개 상품과 캠페인 바로가기 6개를 정리했습니다. 앱이나 사이트에서 추천 코드 4CW5Y를 검색하면 프로모션과 할인 모음이 열리며, 대상 상품과 할인 폭은 SHEIN이 정합니다."
+          "2026년 블랙프라이데이는 11월 27일이며, [SHEIN](/ko/coupons/shein)의 세일 일정은 국가마다 다릅니다. 이 가이드는 소재와 치수를 확인한 17개 상품과 캠페인 바로가기 6개를 정리했습니다. 앱이나 사이트에서 추천 코드 4CW5Y를 검색하면 프로모션과 할인 모음이 열리며, 대상 상품과 할인 폭은 SHEIN이 정합니다."
         ]
       },
       {
@@ -72355,7 +72374,7 @@ const reviewsChunk0: unknown[] = [
     "locale": "ja",
     "translationKey": "shein-black-friday",
     "title": "SHEIN ブラックフライデー 2026：何を買うか、いつ始まるか、紹介コード4CW5Yの使い方",
-    "seoTitle": "SHEIN ブラックフライデー 2026：買うべき商品と開始日",
+    "seoTitle": "SHEIN ブラックフライデー 2026：紹介コード4CW5Y・注目商品・日程",
     "type": "ブラックフライデーガイド",
     "category": "cupons-como-usar",
     "reviewKind": "guia",
@@ -72384,7 +72403,7 @@ const reviewsChunk0: unknown[] = [
       {
         "heading": "まずは結論",
         "paragraphs": [
-          "2026年のブラックフライデーは11月27日で、SHEINのセール日程は国ごとに異なります。このガイドでは素材と寸法を確認した17点と、キャンペーンのショートカット6つを紹介します。紹介コード4CW5Yをアプリやサイトで検索すると、プロモーションや割引のあるセレクションが開きます。"
+          "2026年のブラックフライデーは11月27日で、[SHEIN](/ja/coupons/shein)のセール日程は国ごとに異なります。このガイドでは素材と寸法を確認した17点と、キャンペーンのショートカット6つを紹介します。紹介コード4CW5Yをアプリやサイトで検索すると、プロモーションや割引のあるセレクションが開きます。"
         ]
       },
       {
@@ -73281,7 +73300,7 @@ const reviewsChunk0: unknown[] = [
     "locale": "zh-hant",
     "translationKey": "shein-black-friday",
     "title": "SHEIN 黑色星期五 2026：買什麼、何時開始，以及推薦碼 4CW5Y 怎麼用",
-    "seoTitle": "SHEIN 黑色星期五 2026：買什麼與何時開始",
+    "seoTitle": "SHEIN 黑色星期五 2026：推薦碼 4CW5Y、買什麼與活動日期",
     "type": "黑色星期五指南",
     "category": "cupons-como-usar",
     "reviewKind": "guia",
@@ -73310,7 +73329,7 @@ const reviewsChunk0: unknown[] = [
       {
         "heading": "快速解答",
         "paragraphs": [
-          "2026 年黑色星期五是 11 月 27 日，SHEIN 的活動日程因國家而異。本文整理了 17 件附布料與尺寸的單品，以及六個活動捷徑。在 SHEIN App 或網站搜尋推薦碼 4CW5Y，會開啟含促銷和折扣的商品頁面；折扣多少、涵蓋哪些商品由 SHEIN 決定。"
+          "2026 年黑色星期五是 11 月 27 日，[SHEIN](/zh-hant/coupons/shein) 的活動日程因國家而異。本文整理了 17 件附布料與尺寸的單品，以及六個活動捷徑。在 SHEIN App 或網站搜尋推薦碼 4CW5Y，會開啟含促銷和折扣的商品頁面；折扣多少、涵蓋哪些商品由 SHEIN 決定。"
         ]
       },
       {
@@ -74181,7 +74200,7 @@ const reviewsChunk0: unknown[] = [
     "locale": "zh-hans",
     "translationKey": "shein-black-friday",
     "title": "SHEIN 黑色星期五 2026：买什么、何时开始，以及推荐码 4CW5Y 怎么用",
-    "seoTitle": "SHEIN 黑色星期五 2026：买什么与何时开始",
+    "seoTitle": "SHEIN 黑色星期五 2026：推荐码 4CW5Y、买什么与活动日期",
     "type": "黑色星期五指南",
     "category": "cupons-como-usar",
     "reviewKind": "guia",
@@ -74210,7 +74229,7 @@ const reviewsChunk0: unknown[] = [
       {
         "heading": "快速解答",
         "paragraphs": [
-          "2026 年黑色星期五是 11 月 27 日，SHEIN 的活动日程因国家而异。本文整理了 17 件附面料与尺寸的单品，以及六个活动快捷入口。在 SHEIN App 或网站搜索推荐码 4CW5Y，会打开含促销和折扣的商品页面；折扣多少、涉及哪些商品由 SHEIN 决定。"
+          "2026 年黑色星期五是 11 月 27 日，[SHEIN](/zh-hans/coupons/shein) 的活动日程因国家而异。本文整理了 17 件附面料与尺寸的单品，以及六个活动快捷入口。在 SHEIN App 或网站搜索推荐码 4CW5Y，会打开含促销和折扣的商品页面；折扣多少、涉及哪些商品由 SHEIN 决定。"
         ]
       },
       {
@@ -78259,7 +78278,7 @@ const reviewsChunk0: unknown[] = [
     "locale": "pt",
     "translationKey": "shein-referral-code",
     "title": "Código de indicação SHEIN: onde colocar, como usar e o que você ganha",
-    "seoTitle": "Código de indicação SHEIN: onde colocar e como usar",
+    "seoTitle": "Código de indicação SHEIN 4CW5Y: onde colocar e como usar",
     "type": "Guia do Código de Indicação",
     "category": "cupons-como-usar",
     "reviewKind": "guia",
@@ -78287,7 +78306,7 @@ const reviewsChunk0: unknown[] = [
       {
         "heading": "Resposta rápida",
         "paragraphs": [
-          "O código de indicação da SHEIN dá desconto, sim: use o link da Cecília ou copie o 4CW5Y e pesquise na busca do aplicativo ou do site, e não no campo de cupom. Abre uma página especial com seleção de produtos, promoções e descontos. Quanto e em quais peças, quem decide é a SHEIN."
+          "O código de indicação da [SHEIN](/cupons/shein) dá desconto, sim: use o link da Cecília ou copie o 4CW5Y e pesquise na busca do aplicativo ou do site, e não no campo de cupom. Abre uma página especial com seleção de produtos, promoções e descontos. Quanto e em quais peças, quem decide é a SHEIN."
         ]
       },
       {
@@ -78408,7 +78427,7 @@ const reviewsChunk0: unknown[] = [
     "locale": "en",
     "translationKey": "shein-referral-code",
     "title": "SHEIN referral code: where to enter it and how it works",
-    "seoTitle": "SHEIN referral code: where to enter it, how to use",
+    "seoTitle": "SHEIN referral code 4CW5Y: where to enter it and how to use",
     "type": "Referral Code Guide",
     "category": "cupons-como-usar",
     "reviewKind": "guia",
@@ -78436,7 +78455,7 @@ const reviewsChunk0: unknown[] = [
       {
         "heading": "Quick answer",
         "paragraphs": [
-          "The SHEIN referral code does give a discount. Open SHEIN through Cecília's link, or copy 4CW5Y and search it in the store's search bar, in the app or on the website, not in the coupon field. It opens a page of products, promotions and discounts; how much and on which pieces is up to SHEIN."
+          "The [SHEIN](/en/coupons/shein) referral code does give a discount. Open SHEIN through Cecília's link, or copy 4CW5Y and search it in the store's search bar, in the app or on the website, not in the coupon field. It opens a page of products, promotions and discounts; how much and on which pieces is up to SHEIN."
         ]
       },
       {
@@ -78557,7 +78576,7 @@ const reviewsChunk0: unknown[] = [
     "locale": "es",
     "translationKey": "shein-referral-code",
     "title": "Código de referido de SHEIN: dónde ponerlo y cómo usarlo",
-    "seoTitle": "Código de referido SHEIN: dónde ponerlo y cómo usarlo",
+    "seoTitle": "Código de referido SHEIN 4CW5Y: dónde ponerlo y cómo usarlo",
     "type": "Guía del código de referido",
     "category": "cupons-como-usar",
     "reviewKind": "guia",
@@ -78585,7 +78604,7 @@ const reviewsChunk0: unknown[] = [
       {
         "heading": "Respuesta rápida",
         "paragraphs": [
-          "El código de referido de SHEIN sí da descuento. Abre SHEIN con el enlace de Cecília o copia 4CW5Y y búscalo en el buscador de la tienda, en la app o en el sitio, no en el campo de cupón. Abre una página con productos, promociones y descuentos; cuánto y en qué prendas lo decide SHEIN."
+          "El código de referido de [SHEIN](/es/coupons/shein) sí da descuento. Abre SHEIN con el enlace de Cecília o copia 4CW5Y y búscalo en el buscador de la tienda, en la app o en el sitio, no en el campo de cupón. Abre una página con productos, promociones y descuentos; cuánto y en qué prendas lo decide SHEIN."
         ]
       },
       {
@@ -78706,7 +78725,7 @@ const reviewsChunk0: unknown[] = [
     "locale": "fr",
     "translationKey": "shein-referral-code",
     "title": "Code de parrainage SHEIN : où le mettre et comment l'utiliser",
-    "seoTitle": "Code de parrainage SHEIN : où le mettre",
+    "seoTitle": "Code de parrainage SHEIN 4CW5Y : où le mettre et comment",
     "type": "Guide du code de parrainage",
     "category": "cupons-como-usar",
     "reviewKind": "guia",
@@ -78734,7 +78753,7 @@ const reviewsChunk0: unknown[] = [
       {
         "heading": "Réponse rapide",
         "paragraphs": [
-          "Le code de parrainage SHEIN donne bien une réduction. Ouvrez SHEIN via le lien de Cecília ou copiez 4CW5Y et recherchez-le dans la boutique, sur l'application ou le site, pas dans le champ du code promo. Il ouvre une page de produits, promotions et réductions ; le montant et les pièces, c'est SHEIN qui décide."
+          "Le code de parrainage [SHEIN](/fr/coupons/shein) donne bien une réduction. Ouvrez SHEIN via le lien de Cecília ou copiez 4CW5Y et recherchez-le dans la boutique, sur l'application ou le site, pas dans le champ du code promo. Il ouvre une page de produits, promotions et réductions ; le montant et les pièces, c'est SHEIN qui décide."
         ]
       },
       {
@@ -78855,7 +78874,7 @@ const reviewsChunk0: unknown[] = [
     "locale": "de",
     "translationKey": "shein-referral-code",
     "title": "SHEIN-Empfehlungscode: wo eingeben und wie er funktioniert",
-    "seoTitle": "SHEIN-Empfehlungscode: wo eingeben, wie nutzen",
+    "seoTitle": "SHEIN-Empfehlungscode 4CW5Y: wo eingeben und wie nutzen",
     "type": "Empfehlungscode-Ratgeber",
     "category": "cupons-como-usar",
     "reviewKind": "guia",
@@ -78883,7 +78902,7 @@ const reviewsChunk0: unknown[] = [
       {
         "heading": "Kurze Antwort",
         "paragraphs": [
-          "Der SHEIN-Empfehlungscode gibt Rabatt. Öffnen Sie SHEIN über Cecílias Link oder kopieren Sie 4CW5Y und suchen Sie in der Suche des Shops danach, in der App oder auf der Website, nicht im Gutscheinfeld. Er öffnet eine Seite mit Produkten, Aktionen und Rabatten; wie hoch und auf welche Teile, entscheidet SHEIN."
+          "Der SHEIN-Empfehlungscode gibt Rabatt. Öffnen Sie [SHEIN](/de/coupons/shein) über Cecílias Link oder kopieren Sie 4CW5Y und suchen Sie in der Suche des Shops danach, in der App oder auf der Website, nicht im Gutscheinfeld. Er öffnet eine Seite mit Produkten, Aktionen und Rabatten; wie hoch und auf welche Teile, entscheidet SHEIN."
         ]
       },
       {
@@ -79004,7 +79023,7 @@ const reviewsChunk0: unknown[] = [
     "locale": "it",
     "translationKey": "shein-referral-code",
     "title": "Codice invito SHEIN: dove inserirlo e come usarlo",
-    "seoTitle": "Codice invito SHEIN: dove inserirlo, come usarlo",
+    "seoTitle": "Codice invito SHEIN 4CW5Y: dove inserirlo e come usarlo",
     "type": "Guida al codice invito",
     "category": "cupons-como-usar",
     "reviewKind": "guia",
@@ -79032,7 +79051,7 @@ const reviewsChunk0: unknown[] = [
       {
         "heading": "Risposta rapida",
         "paragraphs": [
-          "Il codice invito SHEIN dà sconto, sì. Apri SHEIN con il link di Cecília oppure copia 4CW5Y e cercalo nella ricerca del negozio, nell'app o nel sito, non nel campo del coupon. Apre una pagina con prodotti, promozioni e sconti; quanto e su quali capi lo decide SHEIN."
+          "Il codice invito [SHEIN](/it/coupons/shein) dà sconto, sì. Apri SHEIN con il link di Cecília oppure copia 4CW5Y e cercalo nella ricerca del negozio, nell'app o nel sito, non nel campo del coupon. Apre una pagina con prodotti, promozioni e sconti; quanto e su quali capi lo decide SHEIN."
         ]
       },
       {
@@ -79153,7 +79172,7 @@ const reviewsChunk0: unknown[] = [
     "locale": "ko",
     "translationKey": "shein-referral-code",
     "title": "SHEIN 추천 코드: 입력하는 곳과 사용법",
-    "seoTitle": "SHEIN 추천 코드: 입력 위치와 사용법",
+    "seoTitle": "SHEIN 추천 코드 4CW5Y: 입력 위치와 사용법 가이드",
     "type": "추천 코드 가이드",
     "category": "cupons-como-usar",
     "reviewKind": "guia",
@@ -79181,7 +79200,7 @@ const reviewsChunk0: unknown[] = [
       {
         "heading": "빠른 답변",
         "paragraphs": [
-          "SHEIN 추천 코드에는 할인이 있습니다. Cecília의 링크로 SHEIN을 열거나, 4CW5Y를 복사해 앱이나 사이트의 쇼핑몰 검색창에서 검색하세요. 쿠폰 칸이 아닙니다. 코드를 검색하면 상품, 프로모션, 할인을 모은 특별한 페이지가 열리며, 할인 폭과 대상 상품은 SHEIN이 정하고 달라집니다."
+          "SHEIN 추천 코드에는 할인이 있습니다. Cecília의 링크로 [SHEIN](/ko/coupons/shein)을 열거나, 4CW5Y를 복사해 앱이나 사이트의 쇼핑몰 검색창에서 검색하세요. 쿠폰 칸이 아닙니다. 코드를 검색하면 상품, 프로모션, 할인을 모은 특별한 페이지가 열리며, 할인 폭과 대상 상품은 SHEIN이 정하고 달라집니다."
         ]
       },
       {
@@ -79302,7 +79321,7 @@ const reviewsChunk0: unknown[] = [
     "locale": "ja",
     "translationKey": "shein-referral-code",
     "title": "SHEINの紹介コード：入力する場所と使い方",
-    "seoTitle": "SHEINの紹介コード：入力場所と使い方",
+    "seoTitle": "SHEIN 紹介コード 4CW5Y：入力場所と使い方ガイド",
     "type": "紹介コードガイド",
     "category": "cupons-como-usar",
     "reviewKind": "guia",
@@ -79330,7 +79349,7 @@ const reviewsChunk0: unknown[] = [
       {
         "heading": "クイックアンサー",
         "paragraphs": [
-          "SHEINの紹介コードには割引があります。CecíliaのリンクからSHEINを開くか、4CW5Yをコピーして、クーポン欄ではなく、アプリまたはサイトにあるストアの検索で検索してください。商品、セール、割引を集めた特別なページが開きます。割引の大きさと対象の商品はSHEINが決め、変わります。"
+          "SHEINの紹介コードには割引があります。Cecíliaのリンクから[SHEIN](/ja/coupons/shein)を開くか、4CW5Yをコピーして、クーポン欄ではなく、アプリまたはサイトにあるストアの検索で検索してください。商品、セール、割引を集めた特別なページが開きます。割引の大きさと対象の商品はSHEINが決め、変わります。"
         ]
       },
       {
@@ -79451,7 +79470,7 @@ const reviewsChunk0: unknown[] = [
     "locale": "zh-hant",
     "translationKey": "shein-referral-code",
     "title": "SHEIN 推薦碼：在哪裡輸入、怎麼用",
-    "seoTitle": "SHEIN 推薦碼：輸入位置與用法",
+    "seoTitle": "SHEIN 推薦碼 4CW5Y：輸入位置與使用方法",
     "type": "推薦碼指南",
     "category": "cupons-como-usar",
     "reviewKind": "guia",
@@ -79479,7 +79498,7 @@ const reviewsChunk0: unknown[] = [
       {
         "heading": "快速解答",
         "paragraphs": [
-          "SHEIN 推薦碼有折扣。可以透過 Cecília 的連結開啟 SHEIN，或複製 4CW5Y，在 App 或網站的商店搜尋欄裡搜尋，不要填進優惠券欄：推薦碼會開啟一個特別頁面，裡面是精選商品、促銷和折扣。折扣多少、適用哪些單品由 SHEIN 決定，並且會變化。"
+          "SHEIN 推薦碼有折扣。可以透過 Cecília 的連結開啟 [SHEIN](/zh-hant/coupons/shein)，或複製 4CW5Y，在 App 或網站的商店搜尋欄裡搜尋，不要填進優惠券欄：推薦碼會開啟一個特別頁面，裡面是精選商品、促銷和折扣。折扣多少、適用哪些單品由 SHEIN 決定，並且會變化。"
         ]
       },
       {
@@ -79600,7 +79619,7 @@ const reviewsChunk0: unknown[] = [
     "locale": "zh-hans",
     "translationKey": "shein-referral-code",
     "title": "SHEIN 推荐码：在哪里输入、怎么用",
-    "seoTitle": "SHEIN 推荐码：输入位置与用法",
+    "seoTitle": "SHEIN 推荐码 4CW5Y：输入位置与使用方法",
     "type": "推荐码指南",
     "category": "cupons-como-usar",
     "reviewKind": "guia",
@@ -79628,7 +79647,7 @@ const reviewsChunk0: unknown[] = [
       {
         "heading": "快速回答",
         "paragraphs": [
-          "SHEIN 推荐码有折扣。可以通过 Cecília 的链接打开 SHEIN，或复制 4CW5Y，在应用或网站的商店搜索栏里搜索，不要填进优惠券栏：推荐码会打开一个特别页面，里面是精选商品、促销和折扣。折扣多少、适用哪些单品由 SHEIN 决定，并且会变化。"
+          "SHEIN 推荐码有折扣。可以通过 Cecília 的链接打开 [SHEIN](/zh-hans/coupons/shein)，或复制 4CW5Y，在应用或网站的商店搜索栏里搜索，不要填进优惠券栏：推荐码会打开一个特别页面，里面是精选商品、促销和折扣。折扣多少、适用哪些单品由 SHEIN 决定，并且会变化。"
         ]
       },
       {
@@ -79777,7 +79796,7 @@ const reviewsChunk0: unknown[] = [
       {
         "heading": "Resposta rápida",
         "paragraphs": [
-          "Sim, a SHEIN é uma loja legítima: no Brasil, o site e o aplicativo são operados por uma empresa registrada, e a reputação no Reclame Aqui está Boa, com nota 7,5, nos seis meses até outubro. O que pesa na decisão é o prazo do pedido internacional, o imposto e a devolução; os capítulos abaixo explicam cada um."
+          "Sim, a [SHEIN](/cupons/shein) é uma loja legítima: no Brasil, o site e o aplicativo são operados por uma empresa registrada, e a reputação no Reclame Aqui está Boa, com nota 7,5, nos seis meses até outubro. O que pesa na decisão é o prazo do pedido internacional, o imposto e a devolução; os capítulos abaixo explicam cada um."
         ]
       },
       {
@@ -80019,7 +80038,7 @@ const reviewsChunk0: unknown[] = [
       {
         "heading": "Quick answer",
         "paragraphs": [
-          "Yes, SHEIN is a legitimate store: the site of each market is run by a company identified in its privacy policy. What matters most is the return window and the import tax; the chapters below explain each one and what to check before you pay."
+          "Yes, [SHEIN](/en/coupons/shein) is a legitimate store: the site of each market is run by a company identified in its privacy policy. What matters most is the return window and the import tax; the chapters below explain each one and what to check before you pay."
         ]
       },
       {
@@ -80209,7 +80228,7 @@ const reviewsChunk0: unknown[] = [
       {
         "heading": "Respuesta rápida",
         "paragraphs": [
-          "Sí, SHEIN es una tienda legítima: el sitio de cada mercado lo opera una empresa identificada en su política de privacidad. Lo que pesa en la decisión es el plazo de devolución y los impuestos de importación; los capítulos de abajo explican cada uno y qué revisar antes de pagar."
+          "Sí, [SHEIN](/es/coupons/shein) es una tienda legítima: el sitio de cada mercado lo opera una empresa identificada en su política de privacidad. Lo que pesa en la decisión es el plazo de devolución y los impuestos de importación; los capítulos de abajo explican cada uno y qué revisar antes de pagar."
         ]
       },
       {
@@ -80408,7 +80427,7 @@ const reviewsChunk0: unknown[] = [
       {
         "heading": "Réponse rapide",
         "paragraphs": [
-          "Oui, SHEIN est une boutique légitime : le site de chaque marché est exploité par une société identifiée dans sa politique de confidentialité. Ce qui pèse dans la décision, c'est le délai de retour et la douane ; les chapitres ci-dessous détaillent chacun et ce qu'il faut vérifier avant de payer."
+          "Oui, [SHEIN](/fr/coupons/shein) est une boutique légitime : le site de chaque marché est exploité par une société identifiée dans sa politique de confidentialité. Ce qui pèse dans la décision, c'est le délai de retour et la douane ; les chapitres ci-dessous détaillent chacun et ce qu'il faut vérifier avant de payer."
         ]
       },
       {
@@ -80585,7 +80604,7 @@ const reviewsChunk0: unknown[] = [
       {
         "heading": "Die Antwort in Kürze",
         "paragraphs": [
-          "Ja, SHEIN ist ein echter Onlineshop: Die Website jedes Marktes wird von einem Unternehmen betrieben, das in der Datenschutzerklärung genannt wird. Entscheidend sind die Rückgabefrist und der Zoll; die Kapitel unten erklären beides und was Sie vor der Zahlung prüfen sollten."
+          "Ja, [SHEIN](/de/coupons/shein) ist ein echter Onlineshop: Die Website jedes Marktes wird von einem Unternehmen betrieben, das in der Datenschutzerklärung genannt wird. Entscheidend sind die Rückgabefrist und der Zoll; die Kapitel unten erklären beides und was Sie vor der Zahlung prüfen sollten."
         ]
       },
       {
@@ -80757,7 +80776,7 @@ const reviewsChunk0: unknown[] = [
       {
         "heading": "Risposta rapida",
         "paragraphs": [
-          "Sì, SHEIN è un vero negozio online: il sito di ogni mercato è gestito da un'azienda identificata nell'informativa sulla privacy. A pesare sulla decisione sono il termine per il reso e la dogana; i capitoli qui sotto spiegano ciascuno e cosa controllare prima di pagare."
+          "Sì, [SHEIN](/it/coupons/shein) è un vero negozio online: il sito di ogni mercato è gestito da un'azienda identificata nell'informativa sulla privacy. A pesare sulla decisione sono il termine per il reso e la dogana; i capitoli qui sotto spiegano ciascuno e cosa controllare prima di pagare."
         ]
       },
       {
@@ -80928,7 +80947,7 @@ const reviewsChunk0: unknown[] = [
       {
         "heading": "답변 요약",
         "paragraphs": [
-          "네, SHEIN은 정식으로 운영되는 쇼핑몰이고, 한국 사이트의 운영 회사는 개인정보 처리방침에 공개되어 있습니다. 판단에서 중요한 것은 반품 기한과 수입 세금입니다. 자세한 내용은 아래 각 장에서 확인하고, 결제 전에 확인할 것도 살펴보세요."
+          "네, [SHEIN](/ko/coupons/shein)은 정식으로 운영되는 쇼핑몰이고, 한국 사이트의 운영 회사는 개인정보 처리방침에 공개되어 있습니다. 판단에서 중요한 것은 반품 기한과 수입 세금입니다. 자세한 내용은 아래 각 장에서 확인하고, 결제 전에 확인할 것도 살펴보세요."
         ]
       },
       {
@@ -81088,7 +81107,7 @@ const reviewsChunk0: unknown[] = [
       {
         "heading": "まずは結論",
         "paragraphs": [
-          "はい、SHEIN は正規のお店で、日本のサイトの運営会社はプライバシーポリシーに書かれています。判断のポイントは返品期限と関税です。詳しくは下の各章をご覧ください。支払う前に確認することもまとめています。"
+          "はい、[SHEIN](/ja/coupons/shein) は正規のお店で、日本のサイトの運営会社はプライバシーポリシーに書かれています。判断のポイントは返品期限と関税です。詳しくは下の各章をご覧ください。支払う前に確認することもまとめています。"
         ]
       },
       {
@@ -81250,7 +81269,7 @@ const reviewsChunk0: unknown[] = [
       {
         "heading": "快速解答",
         "paragraphs": [
-          "SHEIN 是一間正規經營的商店，台灣站的營運公司寫在網站的隱私權政策中。判斷的關鍵是退貨期限與進口稅。下文各章會分別解釋，付款前要確認的事項也一併列出。"
+          "[SHEIN](/zh-hant/coupons/shein) 是一間正規經營的商店，台灣站的營運公司寫在網站的隱私權政策中。判斷的關鍵是退貨期限與進口稅。下文各章會分別解釋，付款前要確認的事項也一併列出。"
         ]
       },
       {
@@ -81411,7 +81430,7 @@ const reviewsChunk0: unknown[] = [
       {
         "heading": "快速解答",
         "paragraphs": [
-          "SHEIN 是一家正规经营的商店，新加坡站的运营公司写在网站的隐私政策中。判断的关键是退货期限和进口税。下文各章会分别解释，付款前要确认的事项也一并列出。"
+          "[SHEIN](/zh-hans/coupons/shein) 是一家正规经营的商店，新加坡站的运营公司写在网站的隐私政策中。判断的关键是退货期限和进口税。下文各章会分别解释，付款前要确认的事项也一并列出。"
         ]
       },
       {
@@ -81601,7 +81620,7 @@ const reviewsChunk0: unknown[] = [
       {
         "heading": "Resposta rápida",
         "paragraphs": [
-          "A SHEIN dá mais prazo para devolver roupa elegível aos 20 dias; bodies, moda praia e roupa íntima ficam nos 7 dias, como a Garantia Shopee. Compare vendedor, previsão de entrega e total com frete e impostos. Na SHEIN, pesquise 4CW5Y para obter desconto na seleção definida pela plataforma, como explicamos abaixo."
+          "A [SHEIN](/cupons/shein) dá mais prazo para devolver roupa elegível aos 20 dias; bodies, moda praia e roupa íntima ficam nos 7 dias, como a Garantia Shopee. Compare vendedor, previsão de entrega e total com frete e impostos. Na SHEIN, pesquise 4CW5Y para obter desconto na seleção definida pela plataforma, como explicamos abaixo."
         ]
       },
       {
@@ -82013,7 +82032,7 @@ const reviewsChunk0: unknown[] = [
       {
         "heading": "Resposta rápida",
         "paragraphs": [
-          "A SHEIN tem nota maior no Reclame Aqui; na devolução, compare a data-limite do seu item: a Temu conta da compra, e a SHEIN, do recebimento. Veja também o total com entrega e tributos. Na SHEIN, pesquise 4CW5Y para obter desconto na seleção definida pela plataforma, como explicamos abaixo."
+          "A [SHEIN](/cupons/shein) tem nota maior no Reclame Aqui; na devolução, compare a data-limite do seu item: a [Temu](/cupons/temu) conta da compra, e a SHEIN, do recebimento. Veja também o total com entrega e tributos. Na SHEIN, pesquise 4CW5Y para obter desconto na seleção definida pela plataforma, como explicamos abaixo."
         ]
       },
       {
@@ -82404,7 +82423,7 @@ const reviewsChunk0: unknown[] = [
       {
         "heading": "Quick answer",
         "paragraphs": [
-          "Temu allows 90 days from purchase; SHEIN accepts most items within 30 days of receipt. Compare the actual return deadline for your item, delivery date and total at checkout. On SHEIN, search 4CW5Y in the app or on the site for discounts on a selection chosen by the platform, as explained below."
+          "[Temu](/en/coupons/temu) allows 90 days from purchase; [SHEIN](/en/coupons/shein) accepts most items within 30 days of receipt. Compare the actual return deadline for your item, delivery date and total at checkout. On SHEIN, search 4CW5Y in the app or on the site for discounts on a selection chosen by the platform, as explained below."
         ]
       },
       {
@@ -82785,7 +82804,7 @@ const reviewsChunk0: unknown[] = [
       {
         "heading": "Respuesta rápida",
         "paragraphs": [
-          "Temu da 90 días desde la compra; SHEIN acepta la mayoría de los artículos hasta 30 días después de recibirlos. Compara la fecha límite de tu artículo, la entrega y el total. En SHEIN, busca 4CW5Y para obtener descuento en la selección definida por la plataforma; más abajo explicamos cómo usarlo."
+          "[Temu](/es/coupons/temu) da 90 días desde la compra; [SHEIN](/es/coupons/shein) acepta la mayoría de los artículos hasta 30 días después de recibirlos. Compara la fecha límite de tu artículo, la entrega y el total. En SHEIN, busca 4CW5Y para obtener descuento en la selección definida por la plataforma; más abajo explicamos cómo usarlo."
         ]
       },
       {
@@ -83184,7 +83203,7 @@ const reviewsChunk0: unknown[] = [
       {
         "heading": "Réponse rapide",
         "paragraphs": [
-          "Temu compte 90 jours depuis l’achat ; SHEIN accepte la plupart des articles jusqu’à 30 jours après réception. Comparez la date limite de votre article, la livraison et le montant total. Sur SHEIN, recherchez 4CW5Y pour obtenir une réduction sur la sélection choisie par la plateforme, selon les instructions ci-dessous."
+          "[Temu](/fr/coupons/temu) compte 90 jours depuis l’achat ; [SHEIN](/fr/coupons/shein) accepte la plupart des articles jusqu’à 30 jours après réception. Comparez la date limite de votre article, la livraison et le montant total. Sur SHEIN, recherchez 4CW5Y pour obtenir une réduction sur la sélection choisie par la plateforme, selon les instructions ci-dessous."
         ]
       },
       {
@@ -83567,7 +83586,7 @@ const reviewsChunk0: unknown[] = [
       {
         "heading": "Die Antwort in Kürze",
         "paragraphs": [
-          "Temu erlaubt 90 Tage ab Kauf, SHEIN bei den meisten Artikeln bis zu 30 Tage nach Erhalt. Vergleichen Sie das Rückgabedatum für Ihren Artikel, den Liefertermin und den Gesamtpreis. Suchen Sie bei SHEIN nach 4CW5Y, um Rabatt auf eine von der Plattform bestimmte Auswahl zu erhalten; die Anleitung steht weiter unten."
+          "[Temu](/de/coupons/temu) erlaubt 90 Tage ab Kauf, [SHEIN](/de/coupons/shein) bei den meisten Artikeln bis zu 30 Tage nach Erhalt. Vergleichen Sie das Rückgabedatum für Ihren Artikel, den Liefertermin und den Gesamtpreis. Suchen Sie bei SHEIN nach 4CW5Y, um Rabatt auf eine von der Plattform bestimmte Auswahl zu erhalten; die Anleitung steht weiter unten."
         ]
       },
       {
@@ -83950,7 +83969,7 @@ const reviewsChunk0: unknown[] = [
       {
         "heading": "Risposta rapida",
         "paragraphs": [
-          "Temu conta 90 giorni dall’acquisto; SHEIN accetta la maggior parte degli articoli entro 30 giorni dal ricevimento. Confronta la scadenza del tuo articolo, la consegna e il totale. Su SHEIN, cerca 4CW5Y per ottenere uno sconto sulla selezione scelta dalla piattaforma; più avanti trovi le istruzioni."
+          "[Temu](/it/coupons/temu) conta 90 giorni dall’acquisto; [SHEIN](/it/coupons/shein) accetta la maggior parte degli articoli entro 30 giorni dal ricevimento. Confronta la scadenza del tuo articolo, la consegna e il totale. Su SHEIN, cerca 4CW5Y per ottenere uno sconto sulla selezione scelta dalla piattaforma; più avanti trovi le istruzioni."
         ]
       },
       {
@@ -84333,7 +84352,7 @@ const reviewsChunk0: unknown[] = [
       {
         "heading": "답변 요약",
         "paragraphs": [
-          "반품 기한은 테무가 구매일로부터 90일 이내, SHEIN이 수령일로부터 60일 이내이며 상품마다 조건이 다릅니다. 실제 반품 마감일과 반송 비용, 도착 예정일, 최종 결제 금액을 비교하세요. SHEIN 앱이나 사이트에서 4CW5Y를 검색하면 플랫폼이 정한 상품과 프로모션에서 할인받을 수 있으며, 사용법은 본문에서 설명합니다."
+          "반품 기한은 [테무](/ko/coupons/temu)가 구매일로부터 90일 이내, [SHEIN](/ko/coupons/shein)이 수령일로부터 60일 이내이며 상품마다 조건이 다릅니다. 실제 반품 마감일과 반송 비용, 도착 예정일, 최종 결제 금액을 비교하세요. SHEIN 앱이나 사이트에서 4CW5Y를 검색하면 플랫폼이 정한 상품과 프로모션에서 할인받을 수 있으며, 사용법은 본문에서 설명합니다."
         ]
       },
       {
@@ -84719,7 +84738,7 @@ const reviewsChunk0: unknown[] = [
       {
         "heading": "まずは結論",
         "paragraphs": [
-          "返品期限は、Temuが対象商品の購入日から90日以内、SHEINが購入から40日以内です。商品の返品条件と返送料に加え、到着予定日と支払い総額を比べて選びましょう。SHEINでは、アプリやサイトで4CW5Yを検索すると、SHEINが指定する商品やキャンペーンで割引を受けられ、使い方は本文で説明します。"
+          "返品期限は、[Temu](/ja/coupons/temu)が対象商品の購入日から90日以内、[SHEIN](/ja/coupons/shein)が購入から40日以内です。商品の返品条件と返送料に加え、到着予定日と支払い総額を比べて選びましょう。SHEINでは、アプリやサイトで4CW5Yを検索すると、SHEINが指定する商品やキャンペーンで割引を受けられ、使い方は本文で説明します。"
         ]
       },
       {
@@ -85105,7 +85124,7 @@ const reviewsChunk0: unknown[] = [
       {
         "heading": "快速解答",
         "paragraphs": [
-          "先比較商品的退貨截止日：Temu新加坡站多數商品從購買日起算90天，SHEIN新加坡站多數全新商品從收貨日起算15天，馬來西亞站則為20天。再比較運費、稅金及預計到貨日期。在SHEIN App或網站搜尋4CW5Y，可享平台指定商品與促銷的折扣；下文說明使用方法。"
+          "先比較商品的退貨截止日：[Temu](/zh-hant/coupons/temu)新加坡站多數商品從購買日起算90天，[SHEIN](/zh-hant/coupons/shein)新加坡站多數全新商品從收貨日起算15天，馬來西亞站則為20天。再比較運費、稅金及預計到貨日期。在SHEIN App或網站搜尋4CW5Y，可享平台指定商品與促銷的折扣；下文說明使用方法。"
         ]
       },
       {
@@ -85515,7 +85534,7 @@ const reviewsChunk0: unknown[] = [
       {
         "heading": "快速解答",
         "paragraphs": [
-          "先比较商品的退货截止日：Temu新加坡站多数商品从购买日起算90天，SHEIN新加坡站多数全新商品从收货日起算15天，马来西亚站则为20天。再比较运费、税费及预计到货日期。在SHEIN应用或网站搜索4CW5Y，可享平台指定商品与促销的折扣；下文说明使用方法。"
+          "先比较商品的退货截止日：[Temu](/zh-hans/coupons/temu)新加坡站多数商品从购买日起算90天，[SHEIN](/zh-hans/coupons/shein)新加坡站多数全新商品从收货日起算15天，马来西亚站则为20天。再比较运费、税费及预计到货日期。在SHEIN应用或网站搜索4CW5Y，可享平台指定商品与促销的折扣；下文说明使用方法。"
         ]
       },
       {
@@ -85925,7 +85944,7 @@ const reviewsChunk0: unknown[] = [
       {
         "heading": "Resposta rápida",
         "paragraphs": [
-          "A YesStyle voltou a entregar no Brasil: envio Standard em 21 a 25 dias úteis, frete grátis a partir de US$ 80 e US$ 15 abaixo disso. Em Portugal, o prazo é de 10 a 15 dias úteis, e o IVA já vem no preço. Veja abaixo a tabela e o capítulo do imposto."
+          "A [YesStyle](/cupons/yesstyle) voltou a entregar no Brasil: envio Standard em 21 a 25 dias úteis, frete grátis a partir de US$ 80 e US$ 15 abaixo disso. Em Portugal, o prazo é de 10 a 15 dias úteis, e o IVA já vem no preço. Veja abaixo a tabela e o capítulo do imposto."
         ]
       },
       {
@@ -86186,7 +86205,7 @@ const reviewsChunk0: unknown[] = [
       {
         "heading": "Quick answer",
         "paragraphs": [
-          "YesStyle ships to the United States, the United Kingdom, Canada, Australia, Ireland and New Zealand, with a published delivery time and shipping cost for each. Delivery times and free-shipping minimums vary by country; all six are in the store's shipping table. What differs most is the tax: see the table and the tax section below."
+          "[YesStyle](/en/coupons/yesstyle) ships to the United States, the United Kingdom, Canada, Australia, Ireland and New Zealand, with a published delivery time and shipping cost for each. Delivery times and free-shipping minimums vary by country; all six are in the store's shipping table. What differs most is the tax: see the table and the tax section below."
         ]
       },
       {
@@ -86487,7 +86506,7 @@ const reviewsChunk0: unknown[] = [
       {
         "heading": "Respuesta rápida",
         "paragraphs": [
-          "YesStyle envía a España, México, Chile, Perú, Argentina y Colombia con envío Standard de 10 a 27 días hábiles y envío gratis por encima de un mínimo que varía según el país. Solo en España el IVA ya está en el precio; en los demás, si la aduana cobra algo, aplica el reembolso de YesStyle. Mira abajo la tabla y el capítulo de impuestos."
+          "[YesStyle](/es/coupons/yesstyle) envía a España, México, Chile, Perú, Argentina y Colombia con envío Standard de 10 a 27 días hábiles y envío gratis por encima de un mínimo que varía según el país. Solo en España el IVA ya está en el precio; en los demás, si la aduana cobra algo, aplica el reembolso de YesStyle. Mira abajo la tabla y el capítulo de impuestos."
         ]
       },
       {
@@ -86760,7 +86779,7 @@ const reviewsChunk0: unknown[] = [
       {
         "heading": "Réponse rapide",
         "paragraphs": [
-          "YesStyle livre en France, en Belgique et au Canada, en 10 à 15 jours ouvrés (7 à 14 au Canada). La livraison devient gratuite au-dessus d'un minimum qui varie selon le pays, et la TVA est déjà dans le prix en France et en Belgique. Voir plus bas la grille et le chapitre des taxes."
+          "[YesStyle](/fr/coupons/yesstyle) livre en France, en Belgique et au Canada, en 10 à 15 jours ouvrés (7 à 14 au Canada). La livraison devient gratuite au-dessus d'un minimum qui varie selon le pays, et la TVA est déjà dans le prix en France et en Belgique. Voir plus bas la grille et le chapitre des taxes."
         ]
       },
       {
@@ -87016,7 +87035,7 @@ const reviewsChunk0: unknown[] = [
       {
         "heading": "Kurz gesagt",
         "paragraphs": [
-          "YesStyle liefert nach Deutschland, Österreich und in die Schweiz per Standardversand in 10 bis 15 Werktagen. Ab einem Mindestbestellwert ist der Versand kostenlos, und die Mehrwertsteuer steckt schon im Preis. Weiter unten stehen die Tabelle und die Abgaben, die danach noch auf das Paket zukommen können."
+          "[YesStyle](/de/coupons/yesstyle) liefert nach Deutschland, Österreich und in die Schweiz per Standardversand in 10 bis 15 Werktagen. Ab einem Mindestbestellwert ist der Versand kostenlos, und die Mehrwertsteuer steckt schon im Preis. Weiter unten stehen die Tabelle und die Abgaben, die danach noch auf das Paket zukommen können."
         ]
       },
       {
@@ -87278,7 +87297,7 @@ const reviewsChunk0: unknown[] = [
       {
         "heading": "In breve",
         "paragraphs": [
-          "YesStyle spedisce in Italia con spedizione Standard da 10 a 15 giorni lavorativi, gratuita sopra una soglia minima, e l'IVA del 22% è già nel prezzo. Sotto trovi la tabella e cosa può arrivare dopo alla consegna."
+          "[YesStyle](/it/coupons/yesstyle) spedisce in Italia con spedizione Standard da 10 a 15 giorni lavorativi, gratuita sopra una soglia minima, e l'IVA del 22% è già nel prezzo. Sotto trovi la tabella e cosa può arrivare dopo alla consegna."
         ]
       },
       {
@@ -87520,7 +87539,7 @@ const reviewsChunk0: unknown[] = [
       {
         "heading": "핵심 요약",
         "paragraphs": [
-          "YesStyle은 한국으로 배송합니다. Express 배송은 영업일 3~5일이고, 일정 금액 이상이면 배송비가 무료입니다. 한국용 세금은 게시되어 있지 않지만, 세관이 부과한 세금과 관세는 환급 대상입니다. 아래 표와 '세관에서 부과금이 붙으면' 항목을 보세요."
+          "[YesStyle](/ko/coupons/yesstyle)은 한국으로 배송합니다. Express 배송은 영업일 3~5일이고, 일정 금액 이상이면 배송비가 무료입니다. 한국용 세금은 게시되어 있지 않지만, 세관이 부과한 세금과 관세는 환급 대상입니다. 아래 표와 '세관에서 부과금이 붙으면' 항목을 보세요."
         ]
       },
       {
@@ -87762,7 +87781,7 @@ const reviewsChunk0: unknown[] = [
       {
         "heading": "まずは結論",
         "paragraphs": [
-          "YesStyleは日本に配送しています。Express便で4〜5営業日、一定額以上で送料無料です。日本の税金は公表されていませんが、到着時に請求された関税などは返金の対象です。詳しくは下の表と「荷物に関税がかかったとき」を参照してください。"
+          "[YesStyle](/ja/coupons/yesstyle)は日本に配送しています。Express便で4〜5営業日、一定額以上で送料無料です。日本の税金は公表されていませんが、到着時に請求された関税などは返金の対象です。詳しくは下の表と「荷物に関税がかかったとき」を参照してください。"
         ]
       },
       {
@@ -88004,7 +88023,7 @@ const reviewsChunk0: unknown[] = [
       {
         "heading": "快速解答",
         "paragraphs": [
-          "YesStyle 會寄到台灣、香港與澳門：台灣 Express 3 至 6 個工作天，香港順豐與澳門 Express 1 至 3 個工作天；三地都滿一定金額免運。三個市場的稅費 YesStyle 都沒有公布，送達時若被收費可申請退款，條件見「包裹被課稅時」一節。"
+          "YesStyle 會寄到台灣、香港與澳門：台灣 Express 3 至 6 個工作天，香港順豐與澳門 Express 1 至 3 個工作天；三地都滿一定金額免運。三個市場的稅費 [YesStyle](/zh-hant/coupons/yesstyle) 都沒有公布，送達時若被收費可申請退款，條件見「包裹被課稅時」一節。"
         ]
       },
       {
@@ -88258,7 +88277,7 @@ const reviewsChunk0: unknown[] = [
       {
         "heading": "快速解答",
         "paragraphs": [
-          "YesStyle 会寄到新加坡和马来西亚，并公布了运送时间与运费：新加坡走 Express，3 至 5 个工作日；马来西亚走 Standard，10 至 16 个工作日，两地都满一定金额免运费。新加坡的 GST 已含在价格里，马来西亚的销售税在结账时另加，详见“税费”一节。"
+          "[YesStyle](/zh-hans/coupons/yesstyle) 会寄到新加坡和马来西亚，并公布了运送时间与运费：新加坡走 Express，3 至 5 个工作日；马来西亚走 Standard，10 至 16 个工作日，两地都满一定金额免运费。新加坡的 GST 已含在价格里，马来西亚的销售税在结账时另加，详见“税费”一节。"
         ]
       },
       {
@@ -88505,7 +88524,7 @@ const reviewsChunk0: unknown[] = [
       {
         "heading": "Resposta rápida",
         "paragraphs": [
-          "Não há loja melhor para todo mundo: a escolha muda com o país, com quem paga o imposto e com o que a loja aceita de volta. No Brasil, a YesStyle e a Jolse publicam o frete, e em Portugal as cinco lojas entregam. Se você mora no Brasil, compare as duas; em Portugal, decida pelo imposto e pela devolução, nas tabelas abaixo."
+          "Não há loja melhor para todo mundo: a escolha muda com o país, com quem paga o imposto e com o que a loja aceita de volta. No Brasil, a [YesStyle](/cupons/yesstyle) e a Jolse publicam o frete, e em Portugal as cinco lojas entregam. Se você mora no Brasil, compare as duas; em Portugal, decida pelo imposto e pela devolução, nas tabelas abaixo."
         ]
       },
       {
@@ -88858,7 +88877,7 @@ const reviewsChunk0: unknown[] = [
       {
         "heading": "Quick answer",
         "paragraphs": [
-          "No store is best for everyone: the choice changes with the country and with what the store takes back. Check first that it ships to your address, then compare returns: none of the five accepts an opened beauty product for a change of mind. YesStyle and Stylevana both allow 14 days after delivery to request a return."
+          "No store is best for everyone: the choice changes with the country and with what the store takes back. Check first that it ships to your address, then compare returns: none of the five accepts an opened beauty product for a change of mind. [YesStyle](/en/coupons/yesstyle) and Stylevana both allow 14 days after delivery to request a return."
         ]
       },
       {
@@ -89069,7 +89088,7 @@ const reviewsChunk0: unknown[] = [
       {
         "heading": "Respuesta rápida",
         "paragraphs": [
-          "No hay una tienda mejor para todo el mundo: la elección cambia con el país y con lo que la tienda acepta de vuelta. Primero comprueba que envíe a tu dirección y compara las devoluciones: ninguna de las cinco acepta por arrepentimiento un producto de belleza abierto. YesStyle y Stylevana dan 14 días desde la recepción para pedir la devolución."
+          "No hay una tienda mejor para todo el mundo: la elección cambia con el país y con lo que la tienda acepta de vuelta. Primero comprueba que envíe a tu dirección y compara las devoluciones: ninguna de las cinco acepta por arrepentimiento un producto de belleza abierto. [YesStyle](/es/coupons/yesstyle) y Stylevana dan 14 días desde la recepción para pedir la devolución."
         ]
       },
       {
@@ -89280,7 +89299,7 @@ const reviewsChunk0: unknown[] = [
       {
         "heading": "Réponse rapide",
         "paragraphs": [
-          "Aucune boutique n'est la meilleure pour tout le monde : le choix dépend du pays et de ce que la boutique reprend. Vérifiez d'abord qu'elle livre à votre adresse, puis comparez les retours : aucune des cinq ne reprend un produit de beauté ouvert pour changement d'avis. YesStyle et Stylevana accordent 14 jours après réception pour demander un retour."
+          "Aucune boutique n'est la meilleure pour tout le monde : le choix dépend du pays et de ce que la boutique reprend. Vérifiez d'abord qu'elle livre à votre adresse, puis comparez les retours : aucune des cinq ne reprend un produit de beauté ouvert pour changement d'avis. [YesStyle](/fr/coupons/yesstyle) et Stylevana accordent 14 jours après réception pour demander un retour."
         ]
       },
       {
@@ -89491,7 +89510,7 @@ const reviewsChunk0: unknown[] = [
       {
         "heading": "Kurz gesagt",
         "paragraphs": [
-          "Es gibt keinen Shop, der für alle der beste ist: Die Wahl hängt vom Land ab und davon, was der Shop zurücknimmt. Prüfen Sie zuerst, ob er an Ihre Adresse liefert, und vergleichen Sie dann die Rückgabe: Keiner der fünf Shops nimmt ein geöffnetes Beauty-Produkt wegen Nichtgefallens zurück. YesStyle und Stylevana gewähren 14 Tage ab Erhalt für den Rückgabeantrag."
+          "Es gibt keinen Shop, der für alle der beste ist: Die Wahl hängt vom Land ab und davon, was der Shop zurücknimmt. Prüfen Sie zuerst, ob er an Ihre Adresse liefert, und vergleichen Sie dann die Rückgabe: Keiner der fünf Shops nimmt ein geöffnetes Beauty-Produkt wegen Nichtgefallens zurück. [YesStyle](/de/coupons/yesstyle) und Stylevana gewähren 14 Tage ab Erhalt für den Rückgabeantrag."
         ]
       },
       {
@@ -89702,7 +89721,7 @@ const reviewsChunk0: unknown[] = [
       {
         "heading": "In breve",
         "paragraphs": [
-          "Non esiste un negozio migliore per tutti: la scelta cambia con il paese e con ciò che il negozio accetta indietro. Verifica prima che spedisca al tuo indirizzo, poi confronta i resi: nessuno dei cinque negozi accetta per ripensamento un prodotto di bellezza aperto. YesStyle e Stylevana concedono 14 giorni dalla ricezione per chiedere il reso."
+          "Non esiste un negozio migliore per tutti: la scelta cambia con il paese e con ciò che il negozio accetta indietro. Verifica prima che spedisca al tuo indirizzo, poi confronta i resi: nessuno dei cinque negozi accetta per ripensamento un prodotto di bellezza aperto. [YesStyle](/it/coupons/yesstyle) e Stylevana concedono 14 giorni dalla ricezione per chiedere il reso."
         ]
       },
       {
@@ -89913,7 +89932,7 @@ const reviewsChunk0: unknown[] = [
       {
         "heading": "핵심 요약",
         "paragraphs": [
-          "모두에게 맞는 쇼핑몰은 없습니다. 사는 나라와 반품 조건에 따라 달라지니, 먼저 쇼핑몰이 내 배송지로 배송하는지 확인하세요. YesStyle과 Stylevana는 수령 후 14일 안에 반품을 신청해야 하며, 다섯 쇼핑몰 모두 개봉한 뷰티 제품은 단순 변심으로 반품할 수 없습니다."
+          "모두에게 맞는 쇼핑몰은 없습니다. 사는 나라와 반품 조건에 따라 달라지니, 먼저 쇼핑몰이 내 배송지로 배송하는지 확인하세요. [YesStyle](/ko/coupons/yesstyle)과 Stylevana는 수령 후 14일 안에 반품을 신청해야 하며, 다섯 쇼핑몰 모두 개봉한 뷰티 제품은 단순 변심으로 반품할 수 없습니다."
         ]
       },
       {
@@ -90124,7 +90143,7 @@ const reviewsChunk0: unknown[] = [
       {
         "heading": "まずは結論",
         "paragraphs": [
-          "みんなにとって一番のショップはありません。選び方は住んでいる国と返品条件で変わるので、まずお届け先に対応しているか確認してください。YesStyleとStylevanaは受け取りから14日以内に返品を申請でき、5店とも開封した美容製品は気が変わっただけでは返品できません。"
+          "みんなにとって一番のショップはありません。選び方は住んでいる国と返品条件で変わるので、まずお届け先に対応しているか確認してください。[YesStyle](/ja/coupons/yesstyle)とStylevanaは受け取りから14日以内に返品を申請でき、5店とも開封した美容製品は気が変わっただけでは返品できません。"
         ]
       },
       {
@@ -90335,7 +90354,7 @@ const reviewsChunk0: unknown[] = [
       {
         "heading": "快速解答",
         "paragraphs": [
-          "沒有對所有人都最適合的商店：選擇取決於所在國家，以及商店退貨接受什麼。先確認商店是否配送到你的地址。YesStyle 與 Stylevana 都須在收到商品後 14 天內提出申請，五家店都不接受因改變心意而退回已拆封的美妝品。"
+          "沒有對所有人都最適合的商店：選擇取決於所在國家，以及商店退貨接受什麼。先確認商店是否配送到你的地址。[YesStyle](/zh-hant/coupons/yesstyle) 與 Stylevana 都須在收到商品後 14 天內提出申請，五家店都不接受因改變心意而退回已拆封的美妝品。"
         ]
       },
       {
@@ -90546,7 +90565,7 @@ const reviewsChunk0: unknown[] = [
       {
         "heading": "快速解答",
         "paragraphs": [
-          "没有对所有人都最合适的商店：选择取决于所在国家，以及商店退货接受什么。先确认商店是否配送到你的地址。YesStyle 与 Stylevana 都须在收到商品后 14 天内提出申请，五家店都不接受因改变主意而退回已拆封的美妆产品。"
+          "没有对所有人都最合适的商店：选择取决于所在国家，以及商店退货接受什么。先确认商店是否配送到你的地址。[YesStyle](/zh-hans/coupons/yesstyle) 与 Stylevana 都须在收到商品后 14 天内提出申请，五家店都不接受因改变主意而退回已拆封的美妆产品。"
         ]
       },
       {
@@ -109633,7 +109652,7 @@ const reviewsChunk0: unknown[] = [
       {
         "heading": "Resposta rápida",
         "paragraphs": [
-          "A Hostinger é uma empresa grande, com regras públicas de reembolso e de renovação, e na nossa experiência o serviço e o suporte funcionam. O ponto que pega é a renovação, que vem ligada por padrão e pode ter outro preço. Abaixo estão o reembolso, a renovação e a empresa cobradora; o cupom SONAR20 dá 20% só no primeiro período."
+          "A [Hostinger](/cupons/hostinger) é uma empresa grande, com regras públicas de reembolso e de renovação, e na nossa experiência o serviço e o suporte funcionam. O ponto que pega é a renovação, que vem ligada por padrão e pode ter outro preço. Abaixo estão o reembolso, a renovação e a empresa cobradora; o cupom SONAR20 dá 20% só no primeiro período."
         ]
       },
       {
@@ -111897,7 +111916,7 @@ const reviewsChunk0: unknown[] = [
       {
         "heading": "Resposta rápida",
         "paragraphs": [
-          "Sim, com uma ressalva. Nos seis meses até outubro, a Hostinger tinha reputação Ótima no Reclame Aqui, nota 8,4, mas a cobrança indevida lidera o ranking de problemas dos últimos três anos, e na hospedagem a renovação automática pede atenção. Abaixo está o caminho para desligá-la. Para compra nova elegível, o cupom SONAR20 dá 20% OFF no primeiro período."
+          "Sim, com uma ressalva. Nos seis meses até outubro, a [Hostinger](/cupons/hostinger) tinha reputação Ótima no Reclame Aqui, nota 8,4, mas a cobrança indevida lidera o ranking de problemas dos últimos três anos, e na hospedagem a renovação automática pede atenção. Abaixo está o caminho para desligá-la. Para compra nova elegível, o cupom SONAR20 dá 20% OFF no primeiro período."
         ]
       },
       {
@@ -114758,7 +114777,7 @@ const reviewsChunk0: unknown[] = [
     "locale": "pt",
     "translationKey": "hostinger-cupom-como-funciona",
     "title": "Cupom Hostinger SONAR20: 20% de desconto, onde colar o código e o que ele cobre",
-    "seoTitle": "Cupom Hostinger SONAR20: 20% de desconto em 2026",
+    "seoTitle": "Como usar o cupom e indicação Hostinger SONAR20 (20% OFF)",
     "type": "Guia do Cupom",
     "category": "cupons-como-usar",
     "reviewKind": "guia",
@@ -114799,7 +114818,7 @@ const reviewsChunk0: unknown[] = [
       {
         "heading": "Resposta rápida",
         "paragraphs": [
-          "Use **SONAR20** para ter 20% de desconto no primeiro período de uma compra nova elegível na Hostinger. Nos ciclos de 12, 24 e 48 meses os 20% entram; no de 1 mês, depende do plano; confira a linha \"Cupom aplicado\" antes de pagar. Cole o código em \"Tem um cupom de desconto?\". A renovação sai pelo preço de tabela."
+          "Use **SONAR20** para ter 20% de desconto no primeiro período de uma compra nova elegível na [Hostinger](/cupons/hostinger). Nos ciclos de 12, 24 e 48 meses os 20% entram; no de 1 mês, depende do plano; confira a linha \"Cupom aplicado\" antes de pagar. Cole o código em \"Tem um cupom de desconto?\". A renovação sai pelo preço de tabela."
         ]
       },
       {
@@ -114970,7 +114989,7 @@ const reviewsChunk0: unknown[] = [
     "locale": "en",
     "translationKey": "hostinger-cupom-como-funciona",
     "title": "Hostinger coupon SONAR20: 20% off, where to enter the code and what it covers",
-    "seoTitle": "Hostinger Coupon SONAR20 2026: 20% Off First Period",
+    "seoTitle": "How to Use Hostinger Coupon & Referral Code SONAR20 (20% Off)",
     "type": "Coupon Guide",
     "category": "cupons-como-usar",
     "reviewKind": "guia",
@@ -115124,7 +115143,7 @@ const reviewsChunk0: unknown[] = [
     "locale": "es",
     "translationKey": "hostinger-cupom-como-funciona",
     "title": "Cupón Hostinger SONAR20: 20% de descuento, dónde pegar el código y qué cubre",
-    "seoTitle": "Cupón Hostinger SONAR20: 20% de descuento en 2026",
+    "seoTitle": "Cómo usar el cupón y referido Hostinger SONAR20 (20% OFF)",
     "type": "Guía del cupón",
     "category": "cupons-como-usar",
     "reviewKind": "guia",
@@ -115278,7 +115297,7 @@ const reviewsChunk0: unknown[] = [
     "locale": "fr",
     "translationKey": "hostinger-cupom-como-funciona",
     "title": "Code promo Hostinger SONAR20 : 20 % de réduction, où le saisir et ce qu'il couvre",
-    "seoTitle": "Code promo Hostinger SONAR20 : 20 % en 2026",
+    "seoTitle": "Comment utiliser le code promo et parrainage Hostinger SONAR20",
     "type": "Guide du code promo",
     "category": "cupons-como-usar",
     "reviewKind": "guia",
@@ -115432,7 +115451,7 @@ const reviewsChunk0: unknown[] = [
     "locale": "de",
     "translationKey": "hostinger-cupom-como-funciona",
     "title": "Hostinger-Gutschein SONAR20: 20 % Rabatt, wo der Code hingehört und was er abdeckt",
-    "seoTitle": "Hostinger-Gutschein SONAR20: 20 % Rabatt 2026",
+    "seoTitle": "Hostinger Gutschein & Empfehlungscode SONAR20 einlösen (20 %)",
     "type": "Gutschein-Ratgeber",
     "category": "cupons-como-usar",
     "reviewKind": "guia",
@@ -115586,7 +115605,7 @@ const reviewsChunk0: unknown[] = [
     "locale": "it",
     "translationKey": "hostinger-cupom-como-funciona",
     "title": "Coupon Hostinger SONAR20: 20% di sconto, dove inserire il codice e cosa copre",
-    "seoTitle": "Coupon Hostinger SONAR20 2026: 20% sul primo periodo",
+    "seoTitle": "Come usare coupon e codice invito Hostinger SONAR20 (-20%)",
     "type": "Guida al codice sconto",
     "category": "cupons-como-usar",
     "reviewKind": "guia",
@@ -115740,7 +115759,7 @@ const reviewsChunk0: unknown[] = [
     "locale": "ko",
     "translationKey": "hostinger-cupom-como-funciona",
     "title": "Hostinger 쿠폰 SONAR20: 20% 할인, 코드를 넣을 곳과 적용 범위",
-    "seoTitle": "Hostinger 쿠폰 SONAR20 2026: 첫 기간 20% 할인",
+    "seoTitle": "Hostinger 쿠폰·추천 코드 SONAR20 사용법 (첫 기간 20% 할인)",
     "type": "쿠폰 가이드",
     "category": "cupons-como-usar",
     "reviewKind": "guia",
@@ -115894,7 +115913,7 @@ const reviewsChunk0: unknown[] = [
     "locale": "ja",
     "translationKey": "hostinger-cupom-como-funciona",
     "title": "Hostingerクーポン SONAR20：20%割引、入力する場所と対象範囲",
-    "seoTitle": "Hostingerクーポン SONAR20：初回期間20%割引（2026年）",
+    "seoTitle": "Hostinger クーポン・紹介コード SONAR20 の使い方（20%オフ）",
     "type": "クーポンガイド",
     "category": "cupons-como-usar",
     "reviewKind": "guia",
@@ -116048,7 +116067,7 @@ const reviewsChunk0: unknown[] = [
     "locale": "zh-hant",
     "translationKey": "hostinger-cupom-como-funciona",
     "title": "Hostinger SONAR20 優惠碼：首期 20% 折扣、貼在哪裡、適用範圍",
-    "seoTitle": "Hostinger SONAR20 優惠碼 2026：首期 20% 折扣",
+    "seoTitle": "Hostinger 優惠碼與推薦碼 SONAR20 怎麼用（首期減 20%）",
     "type": "優惠碼指南",
     "category": "cupons-como-usar",
     "reviewKind": "guia",
@@ -116202,7 +116221,7 @@ const reviewsChunk0: unknown[] = [
     "locale": "zh-hans",
     "translationKey": "hostinger-cupom-como-funciona",
     "title": "Hostinger 优惠码 SONAR20：首期享 20% 折扣，在哪里输入，适用什么",
-    "seoTitle": "Hostinger 优惠码 SONAR20 2026：首期享 20% 折扣",
+    "seoTitle": "Hostinger 优惠码与推荐码 SONAR20 怎么用（首期减 20%）",
     "type": "优惠码指南",
     "category": "cupons-como-usar",
     "reviewKind": "guia",
@@ -116397,7 +116416,7 @@ const reviewsChunk0: unknown[] = [
       {
         "heading": "Resposta rápida",
         "paragraphs": [
-          "A Black Friday da Hostinger vai até 14 de dezembro de 2026. O preço da campanha entra sozinho, e o código **SONAR20** dá 20% extra em planos novos elegíveis. Nos ciclos de 12, 24 e 48 meses, o carrinho aplicou os 20%; no de 1 mês, a aceitação depende do plano. Compare o total e a renovação antes de escolher o prazo."
+          "A Black Friday da [Hostinger](/cupons/hostinger) vai até 14 de dezembro de 2026. O preço da campanha entra sozinho, e o código **SONAR20** dá 20% extra em planos novos elegíveis. Nos ciclos de 12, 24 e 48 meses, o carrinho aplicou os 20%; no de 1 mês, a aceitação depende do plano. Compare o total e a renovação antes de escolher o prazo."
         ]
       },
       {
@@ -116756,7 +116775,7 @@ const reviewsChunk0: unknown[] = [
       {
         "heading": "Quick answer",
         "paragraphs": [
-          "Hostinger's Black Friday runs until December 14, 2026. The campaign price applies automatically, and **SONAR20** gives an extra 20% on eligible new plans. On the 48-month Cloud Startup, the total went from US$ 383.52 to US$ 306.82. On 1-month plans acceptance depends on the plan, so check the “Coupon applied” line in the cart before paying. Compare the initial total and the renewal before choosing the term."
+          "[Hostinger](/en/coupons/hostinger)'s Black Friday runs until December 14, 2026. The campaign price applies automatically, and **SONAR20** gives an extra 20% on eligible new plans. On the 48-month Cloud Startup, the total went from US$ 383.52 to US$ 306.82. On 1-month plans acceptance depends on the plan, so check the “Coupon applied” line in the cart before paying. Compare the initial total and the renewal before choosing the term."
         ]
       },
       {
@@ -117095,7 +117114,7 @@ const reviewsChunk0: unknown[] = [
       {
         "heading": "Respuesta rápida",
         "paragraphs": [
-          "La Black Friday de Hostinger va hasta el 14 de diciembre de 2026. El precio de la campaña se aplica solo y el código **SONAR20** da un 20 % adicional en planes nuevos elegibles. En el Cloud Startup de 48 meses, el total pasó de US$ 383,52 a US$ 306,82. En los planes de 1 mes, que el código entre depende del plan: comprueba la línea «Coupon applied» en el carrito antes de pagar. Compara el total inicial y la renovación antes de elegir el plazo."
+          "La Black Friday de [Hostinger](/es/coupons/hostinger) va hasta el 14 de diciembre de 2026. El precio de la campaña se aplica solo y el código **SONAR20** da un 20 % adicional en planes nuevos elegibles. En el Cloud Startup de 48 meses, el total pasó de US$ 383,52 a US$ 306,82. En los planes de 1 mes, que el código entre depende del plan: comprueba la línea «Coupon applied» en el carrito antes de pagar. Compara el total inicial y la renovación antes de elegir el plazo."
         ]
       },
       {
@@ -117435,7 +117454,7 @@ const reviewsChunk0: unknown[] = [
       {
         "heading": "Réponse rapide",
         "paragraphs": [
-          "Le Black Friday de Hostinger dure jusqu’au 14 décembre 2026. Le prix de la campagne s’applique automatiquement et le code **SONAR20** donne 20 % de plus sur les nouveaux forfaits éligibles. Sur le Cloud Startup de 48 mois, le total est passé de 383,52 US$ à 306,82 US$. Sur les forfaits d’1 mois, l’acceptation du code dépend du forfait : vérifiez la ligne « Coupon applied » dans le panier avant de payer. Comparez le total initial et le renouvellement avant de choisir la durée."
+          "Le Black Friday de [Hostinger](/fr/coupons/hostinger) dure jusqu’au 14 décembre 2026. Le prix de la campagne s’applique automatiquement et le code **SONAR20** donne 20 % de plus sur les nouveaux forfaits éligibles. Sur le Cloud Startup de 48 mois, le total est passé de 383,52 US$ à 306,82 US$. Sur les forfaits d’1 mois, l’acceptation du code dépend du forfait : vérifiez la ligne « Coupon applied » dans le panier avant de payer. Comparez le total initial et le renouvellement avant de choisir la durée."
         ]
       },
       {
@@ -117775,7 +117794,7 @@ const reviewsChunk0: unknown[] = [
       {
         "heading": "Kurzantwort",
         "paragraphs": [
-          "Der Black Friday von Hostinger hat schon begonnen und läuft bis zum 14. Dezember 2026. Der Aktionspreis gilt automatisch, und der Code **SONAR20** gibt 20 % extra auf neue berechtigte Tarife. Beim Cloud Startup mit 48 Monaten sank der Gesamtbetrag von 383,52 US$ auf 306,82 US$. Bei 1-Monats-Tarifen hängt die Annahme des Codes vom Tarif ab: Prüfen Sie vor dem Bezahlen im Warenkorb die Zeile „Coupon applied“. Vergleichen Sie vor der Wahl der Laufzeit den Anfangsbetrag und die Verlängerung."
+          "Der Black Friday von [Hostinger](/de/coupons/hostinger) hat schon begonnen und läuft bis zum 14. Dezember 2026. Der Aktionspreis gilt automatisch, und der Code **SONAR20** gibt 20 % extra auf neue berechtigte Tarife. Beim Cloud Startup mit 48 Monaten sank der Gesamtbetrag von 383,52 US$ auf 306,82 US$. Bei 1-Monats-Tarifen hängt die Annahme des Codes vom Tarif ab: Prüfen Sie vor dem Bezahlen im Warenkorb die Zeile „Coupon applied“. Vergleichen Sie vor der Wahl der Laufzeit den Anfangsbetrag und die Verlängerung."
         ]
       },
       {
@@ -118114,7 +118133,7 @@ const reviewsChunk0: unknown[] = [
       {
         "heading": "Risposta rapida",
         "paragraphs": [
-          "Il Black Friday di Hostinger va fino al 14 dicembre 2026. Il prezzo della campagna si applica da solo e il codice **SONAR20** dà un altro 20% sui nuovi piani idonei. Sul Cloud Startup da 48 mesi il totale è passato da US$ 383,52 a US$ 306,82. Sui piani da 1 mese l'accettazione del codice dipende dal piano: controlla la riga «Coupon applied» nel carrello prima di pagare. Confronta il totale iniziale e il rinnovo prima di scegliere la durata."
+          "Il Black Friday di [Hostinger](/it/coupons/hostinger) va fino al 14 dicembre 2026. Il prezzo della campagna si applica da solo e il codice **SONAR20** dà un altro 20% sui nuovi piani idonei. Sul Cloud Startup da 48 mesi il totale è passato da US$ 383,52 a US$ 306,82. Sui piani da 1 mese l'accettazione del codice dipende dal piano: controlla la riga «Coupon applied» nel carrello prima di pagare. Confronta il totale iniziale e il rinnovo prima di scegliere la durata."
         ]
       },
       {
@@ -118453,7 +118472,7 @@ const reviewsChunk0: unknown[] = [
       {
         "heading": "빠른 답",
         "paragraphs": [
-          "Hostinger 블랙프라이데이는 2026년 12월 14일까지 이어집니다. 캠페인 가격은 자동으로 적용되고, **SONAR20**은 새로 계약하는 대상 플랜에 20%를 더 빼 줍니다. 48개월 Cloud Startup의 합계는 US$ 383.52에서 US$ 306.82로 내려갔습니다. 1개월 플랜은 코드가 들어가는지가 플랜마다 달라서, 결제 전에 장바구니의 \"Coupon applied\" 줄을 확인해야 합니다. 기간을 고르기 전에 첫 합계와 갱신 가격을 비교하세요."
+          "[Hostinger](/ko/coupons/hostinger) 블랙프라이데이는 2026년 12월 14일까지 이어집니다. 캠페인 가격은 자동으로 적용되고, **SONAR20**은 새로 계약하는 대상 플랜에 20%를 더 빼 줍니다. 48개월 Cloud Startup의 합계는 US$ 383.52에서 US$ 306.82로 내려갔습니다. 1개월 플랜은 코드가 들어가는지가 플랜마다 달라서, 결제 전에 장바구니의 \"Coupon applied\" 줄을 확인해야 합니다. 기간을 고르기 전에 첫 합계와 갱신 가격을 비교하세요."
         ]
       },
       {
@@ -118792,7 +118811,7 @@ const reviewsChunk0: unknown[] = [
       {
         "heading": "結論",
         "paragraphs": [
-          "Hostingerのブラックフライデーは2026年12月14日まで続きます。キャンペーン価格は自動で適用され、**SONAR20**は対象の新規プランでさらに20%引きになります。48か月のCloud Startupでは、合計がUS$383.52からUS$306.82に下がりました。1か月プランではコードが通るかどうかがプランによって変わるため、支払い前にカートの「Coupon applied」の行を確認してください。期間を選ぶ前に、最初の合計と更新料金を比べてください。"
+          "[Hostinger](/ja/coupons/hostinger)のブラックフライデーは2026年12月14日まで続きます。キャンペーン価格は自動で適用され、**SONAR20**は対象の新規プランでさらに20%引きになります。48か月のCloud Startupでは、合計がUS$383.52からUS$306.82に下がりました。1か月プランではコードが通るかどうかがプランによって変わるため、支払い前にカートの「Coupon applied」の行を確認してください。期間を選ぶ前に、最初の合計と更新料金を比べてください。"
         ]
       },
       {
@@ -119132,7 +119151,7 @@ const reviewsChunk0: unknown[] = [
       {
         "heading": "快速回答",
         "paragraphs": [
-          "Hostinger 的黑色星期五持續到 2026 年 12 月 14 日。活動價會自動套用，在購物車的優惠碼欄位輸入代碼 **SONAR20**，可對新的合格方案額外折抵 20%。48 個月的 Cloud Startup，總價從 US$ 383.52 降到 US$ 306.82。1 個月方案能否使用代碼取決於具體方案，付款前請先核對購物車裡的「Coupon applied」一行。選擇期間之前，請先比較首期總價與續約價格。"
+          "[Hostinger](/zh-hant/coupons/hostinger) 的黑色星期五持續到 2026 年 12 月 14 日。活動價會自動套用，在購物車的優惠碼欄位輸入代碼 **SONAR20**，可對新的合格方案額外折抵 20%。48 個月的 Cloud Startup，總價從 US$ 383.52 降到 US$ 306.82。1 個月方案能否使用代碼取決於具體方案，付款前請先核對購物車裡的「Coupon applied」一行。選擇期間之前，請先比較首期總價與續約價格。"
         ]
       },
       {
@@ -119470,7 +119489,7 @@ const reviewsChunk0: unknown[] = [
       {
         "heading": "快速回答",
         "paragraphs": [
-          "Hostinger 的黑色星期五持续到 2026 年 12 月 14 日。活动价会自动生效，在购物车的优惠码栏输入代码 **SONAR20**，可对新的合格方案额外减 20%。48 个月的 Cloud Startup，总价从 US$ 383.52 降到 US$ 306.82。1 个月方案能否使用代码取决于具体方案，付款前请先核对购物车里的“Coupon applied”一行。选择周期之前，请先比较首期总价与续费价格。"
+          "[Hostinger](/zh-hans/coupons/hostinger) 的黑色星期五持续到 2026 年 12 月 14 日。活动价会自动生效，在购物车的优惠码栏输入代码 **SONAR20**，可对新的合格方案额外减 20%。48 个月的 Cloud Startup，总价从 US$ 383.52 降到 US$ 306.82。1 个月方案能否使用代码取决于具体方案，付款前请先核对购物车里的“Coupon applied”一行。选择周期之前，请先比较首期总价与续费价格。"
         ]
       },
       {
@@ -126908,7 +126927,7 @@ const reviewsChunk0: unknown[] = [
       {
         "heading": "Resposta rápida",
         "paragraphs": [
-          "Depende do seu país. A Olive Young Global não entrega no Brasil, mas a YesStyle voltou a entregar: envio Standard em 21 a 25 dias úteis e frete grátis a partir de US$ 80. Quem está aí tem a YesStyle como única das duas. Onde as duas entregam, pesam o frete grátis, o imposto e a devolução; veja o capítulo Qual escolher, conforme o país."
+          "Depende do seu país. A Olive Young Global não entrega no Brasil, mas a [YesStyle](/cupons/yesstyle) voltou a entregar: envio Standard em 21 a 25 dias úteis e frete grátis a partir de US$ 80. Quem está aí tem a YesStyle como única das duas. Onde as duas entregam, pesam o frete grátis, o imposto e a devolução; veja o capítulo Qual escolher, conforme o país."
         ]
       },
       {
@@ -127210,7 +127229,7 @@ const reviewsChunk0: unknown[] = [
       {
         "heading": "Quick answer",
         "paragraphs": [
-          "It depends on what matters to you. For returns, YesStyle is more flexible: it accepts a change of mind and size exchanges within 14 days, while Olive Young Global only takes defects or wrong items, within 30 days. Free shipping and tax change by country; see the chapter Which to choose, by country."
+          "It depends on what matters to you. For returns, [YesStyle](/en/coupons/yesstyle) is more flexible: it accepts a change of mind and size exchanges within 14 days, while Olive Young Global only takes defects or wrong items, within 30 days. Free shipping and tax change by country; see the chapter Which to choose, by country."
         ]
       },
       {
@@ -127473,7 +127492,7 @@ const reviewsChunk0: unknown[] = [
       {
         "heading": "Respuesta rápida",
         "paragraphs": [
-          "Depende de lo que te importe. En devoluciones, YesStyle es más flexible: acepta el desistimiento y el cambio de talla en 14 días, mientras que Olive Young Global solo acepta defecto o artículo equivocado, en 30 días. El envío gratis y el impuesto cambian según el país; mira el capítulo Cuál elegir, según el país."
+          "Depende de lo que te importe. En devoluciones, [YesStyle](/es/coupons/yesstyle) es más flexible: acepta el desistimiento y el cambio de talla en 14 días, mientras que Olive Young Global solo acepta defecto o artículo equivocado, en 30 días. El envío gratis y el impuesto cambian según el país; mira el capítulo Cuál elegir, según el país."
         ]
       },
       {
@@ -127736,7 +127755,7 @@ const reviewsChunk0: unknown[] = [
       {
         "heading": "Réponse rapide",
         "paragraphs": [
-          "Cela dépend de ce qui compte pour vous. Pour les retours, YesStyle est plus souple : elle accepte le changement d'avis et l'échange de taille sous 14 jours, alors qu'Olive Young Global n'accepte que le défaut ou l'article erroné, sous 30 jours. La livraison gratuite et les taxes changent selon le pays ; voyez le chapitre Laquelle choisir, selon le pays."
+          "Cela dépend de ce qui compte pour vous. Pour les retours, [YesStyle](/fr/coupons/yesstyle) est plus souple : elle accepte le changement d'avis et l'échange de taille sous 14 jours, alors qu'Olive Young Global n'accepte que le défaut ou l'article erroné, sous 30 jours. La livraison gratuite et les taxes changent selon le pays ; voyez le chapitre Laquelle choisir, selon le pays."
         ]
       },
       {
@@ -127999,7 +128018,7 @@ const reviewsChunk0: unknown[] = [
       {
         "heading": "Kurzantwort",
         "paragraphs": [
-          "Das hängt davon ab, was Ihnen wichtig ist. Bei der Rückgabe ist YesStyle flexibler: Der Shop akzeptiert Sinnesänderung und Größentausch innerhalb von 14 Tagen, Olive Young Global nimmt nur bei Defekt oder falschem Artikel zurück, innerhalb von 30 Tagen. Kostenloser Versand und Steuern ändern sich je Land; lesen Sie das Kapitel Welchen Shop wählen, je nach Land."
+          "Das hängt davon ab, was Ihnen wichtig ist. Bei der Rückgabe ist [YesStyle](/de/coupons/yesstyle) flexibler: Der Shop akzeptiert Sinnesänderung und Größentausch innerhalb von 14 Tagen, Olive Young Global nimmt nur bei Defekt oder falschem Artikel zurück, innerhalb von 30 Tagen. Kostenloser Versand und Steuern ändern sich je Land; lesen Sie das Kapitel Welchen Shop wählen, je nach Land."
         ]
       },
       {
@@ -128262,7 +128281,7 @@ const reviewsChunk0: unknown[] = [
       {
         "heading": "Risposta rapida",
         "paragraphs": [
-          "Dipende da ciò che conta per te. Sul reso, YesStyle è più flessibile: accetta il ripensamento e il cambio di taglia entro 14 giorni, mentre Olive Young Global accetta solo difetto o articolo sbagliato, entro 30 giorni. La spedizione gratuita e le imposte cambiano per paese; guarda il capitolo Quale scegliere, in base al paese."
+          "Dipende da ciò che conta per te. Sul reso, [YesStyle](/it/coupons/yesstyle) è più flessibile: accetta il ripensamento e il cambio di taglia entro 14 giorni, mentre Olive Young Global accetta solo difetto o articolo sbagliato, entro 30 giorni. La spedizione gratuita e le imposte cambiano per paese; guarda il capitolo Quale scegliere, in base al paese."
         ]
       },
       {
@@ -128525,7 +128544,7 @@ const reviewsChunk0: unknown[] = [
       {
         "heading": "핵심 요약",
         "paragraphs": [
-          "무엇을 중요하게 보느냐에 따라 다릅니다. 반품은 YesStyle이 더 유연합니다. 단순 변심 반품과 사이즈 교환을 14일 안에 신청하면 받아 주지만, Olive Young Global은 불량이나 오배송만 30일 안에 받아 줍니다. 무료배송 기준과 세금은 나라마다 다릅니다. '어느 쪽을 고를까, 나라별' 장을 보세요."
+          "무엇을 중요하게 보느냐에 따라 다릅니다. 반품은 [YesStyle](/ko/coupons/yesstyle)이 더 유연합니다. 단순 변심 반품과 사이즈 교환을 14일 안에 신청하면 받아 주지만, Olive Young Global은 불량이나 오배송만 30일 안에 받아 줍니다. 무료배송 기준과 세금은 나라마다 다릅니다. '어느 쪽을 고를까, 나라별' 장을 보세요."
         ]
       },
       {
@@ -128788,7 +128807,7 @@ const reviewsChunk0: unknown[] = [
       {
         "heading": "まずは結論",
         "paragraphs": [
-          "どちらが向いているかは、何を重視するかで変わります。返品は、YesStyleのほうが柔軟です。気が変わった場合の返品とサイズ交換を14日以内の申請で受け付けます。Olive Young Globalが受け付けるのは、不良品か違う商品の場合だけで、申請は30日以内です。送料無料の条件と税金は国によって変わります。「どちらを選ぶか、国別」の章をご覧ください。"
+          "どちらが向いているかは、何を重視するかで変わります。返品は、[YesStyle](/ja/coupons/yesstyle)のほうが柔軟です。気が変わった場合の返品とサイズ交換を14日以内の申請で受け付けます。Olive Young Globalが受け付けるのは、不良品か違う商品の場合だけで、申請は30日以内です。送料無料の条件と税金は国によって変わります。「どちらを選ぶか、国別」の章をご覧ください。"
         ]
       },
       {
@@ -129051,7 +129070,7 @@ const reviewsChunk0: unknown[] = [
       {
         "heading": "快速解答",
         "paragraphs": [
-          "要看你更重視什麼。退貨方面，YesStyle 比較有彈性：14 天內申請，接受因改變心意而退貨與更換尺寸；Olive Young Global 只接受瑕疵或寄錯的商品，期限為 30 天。免運門檻與稅金因國家而異，請見「該選哪一家，看所在國家」這一章。"
+          "要看你更重視什麼。退貨方面，[YesStyle](/zh-hant/coupons/yesstyle) 比較有彈性：14 天內申請，接受因改變心意而退貨與更換尺寸；Olive Young Global 只接受瑕疵或寄錯的商品，期限為 30 天。免運門檻與稅金因國家而異，請見「該選哪一家，看所在國家」這一章。"
         ]
       },
       {
@@ -129314,7 +129333,7 @@ const reviewsChunk0: unknown[] = [
       {
         "heading": "快速解答",
         "paragraphs": [
-          "要看你更重视什么。退货方面，YesStyle 更灵活：14 天内申请，接受改变主意的退货和更换尺寸；Olive Young Global 只接受瑕疵或寄错的商品，期限为 30 天。免运费门槛和税费因国家而异，见“该选哪一家，看所在国家”一章。"
+          "要看你更重视什么。退货方面，[YesStyle](/zh-hans/coupons/yesstyle) 更灵活：14 天内申请，接受改变主意的退货和更换尺寸；Olive Young Global 只接受瑕疵或寄错的商品，期限为 30 天。免运费门槛和税费因国家而异，见“该选哪一家，看所在国家”一章。"
         ]
       },
       {
@@ -129875,7 +129894,7 @@ const reviewsChunk0: unknown[] = [
       {
         "heading": "Quick answer",
         "paragraphs": [
-          "Choose managed if you want the assistant running without looking after a server, and the VPS if you want root access and to run other programs on the same machine. Both accept Hostinger's AI credits or your own API key; SONAR20 gives 20% on a new purchase of either, not on renewal. Maintenance is what matters."
+          "Choose managed if you want the assistant running without looking after a server, and the VPS if you want root access and to run other programs on the same machine. Both accept [Hostinger](/en/coupons/hostinger)'s AI credits or your own API key; SONAR20 gives 20% on a new purchase of either, not on renewal. Maintenance is what matters."
         ]
       },
       {
@@ -130102,7 +130121,7 @@ const reviewsChunk0: unknown[] = [
       {
         "heading": "Respuesta rápida",
         "paragraphs": [
-          "Elige el gestionado si quieres el asistente funcionando sin ocuparte de un servidor, y el VPS si quieres acceso root y ejecutar otros programas en la misma máquina. Ambos aceptan los créditos de IA de Hostinger o tu propia clave de API; SONAR20 da 20% en una compra nueva de cualquiera, no en la renovación. Pesa el mantenimiento que asumes."
+          "Elige el gestionado si quieres el asistente funcionando sin ocuparte de un servidor, y el VPS si quieres acceso root y ejecutar otros programas en la misma máquina. Ambos aceptan los créditos de IA de [Hostinger](/es/coupons/hostinger) o tu propia clave de API; SONAR20 da 20% en una compra nueva de cualquiera, no en la renovación. Pesa el mantenimiento que asumes."
         ]
       },
       {
@@ -130329,7 +130348,7 @@ const reviewsChunk0: unknown[] = [
       {
         "heading": "Réponse rapide",
         "paragraphs": [
-          "Choisissez le géré si vous voulez l'assistant en marche sans serveur à gérer, et le VPS si vous voulez un accès root et d'autres programmes sur la même machine. Les deux acceptent les crédits d'IA de Hostinger ou votre clé d'API ; SONAR20 donne 20 % sur un nouvel achat des deux, pas au renouvellement. Reste la maintenance à assumer."
+          "Choisissez le géré si vous voulez l'assistant en marche sans serveur à gérer, et le VPS si vous voulez un accès root et d'autres programmes sur la même machine. Les deux acceptent les crédits d'IA de [Hostinger](/fr/coupons/hostinger) ou votre clé d'API ; SONAR20 donne 20 % sur un nouvel achat des deux, pas au renouvellement. Reste la maintenance à assumer."
         ]
       },
       {
@@ -130555,7 +130574,7 @@ const reviewsChunk0: unknown[] = [
       {
         "heading": "Kurze Antwort",
         "paragraphs": [
-          "Wählen Sie die verwaltete Option, wenn der Assistent ohne Serverpflege laufen soll, und den VPS, wenn Sie Root-Zugriff und weitere Programme auf demselben Rechner wollen. Beide nehmen das KI-Guthaben von Hostinger oder Ihren API-Schlüssel an; SONAR20 gibt 20 % auf einen Neukauf beider, nicht auf die Verlängerung. Entscheidend ist die Wartung, die Sie übernehmen."
+          "Wählen Sie die verwaltete Option, wenn der Assistent ohne Serverpflege laufen soll, und den VPS, wenn Sie Root-Zugriff und weitere Programme auf demselben Rechner wollen. Beide nehmen das KI-Guthaben von [Hostinger](/de/coupons/hostinger) oder Ihren API-Schlüssel an; SONAR20 gibt 20 % auf einen Neukauf beider, nicht auf die Verlängerung. Entscheidend ist die Wartung, die Sie übernehmen."
         ]
       },
       {
@@ -130782,7 +130801,7 @@ const reviewsChunk0: unknown[] = [
       {
         "heading": "Risposta rapida",
         "paragraphs": [
-          "Scegli il gestito se vuoi l'assistente attivo senza occuparti di un server, e il VPS se vuoi accesso root e altri programmi sulla stessa macchina. Entrambi accettano i crediti IA di Hostinger o la tua chiave API; SONAR20 dà il 20% su un nuovo acquisto di entrambi, non sul rinnovo. Conta la manutenzione che accetti."
+          "Scegli il gestito se vuoi l'assistente attivo senza occuparti di un server, e il VPS se vuoi accesso root e altri programmi sulla stessa macchina. Entrambi accettano i crediti IA di [Hostinger](/it/coupons/hostinger) o la tua chiave API; SONAR20 dà il 20% su un nuovo acquisto di entrambi, non sul rinnovo. Conta la manutenzione che accetti."
         ]
       },
       {
@@ -131009,7 +131028,7 @@ const reviewsChunk0: unknown[] = [
       {
         "heading": "빠른 답변",
         "paragraphs": [
-          "서버 관리에 시간을 쓰지 않고 바로 쓰고 싶다면 관리형을, root 접근이 필요하거나 같은 서버에서 다른 프로그램도 돌리고 싶다면 VPS를 고르세요. 두 방식 모두 호스팅어의 AI 크레딧이나 직접 가진 API 키를 쓸 수 있습니다. SONAR20은 둘 다 신규 구매에 20% 할인이고 갱신에는 적용되지 않으며, 결정은 맡을 수 있는 관리 범위에 달려 있습니다."
+          "서버 관리에 시간을 쓰지 않고 바로 쓰고 싶다면 관리형을, root 접근이 필요하거나 같은 서버에서 다른 프로그램도 돌리고 싶다면 VPS를 고르세요. 두 방식 모두 [호스팅어](/ko/coupons/hostinger)의 AI 크레딧이나 직접 가진 API 키를 쓸 수 있습니다. SONAR20은 둘 다 신규 구매에 20% 할인이고 갱신에는 적용되지 않으며, 결정은 맡을 수 있는 관리 범위에 달려 있습니다."
         ]
       },
       {
@@ -131237,7 +131256,7 @@ const reviewsChunk0: unknown[] = [
       {
         "heading": "クイックアンサー",
         "paragraphs": [
-          "サーバー管理に時間をかけず、すぐ動かしたいならマネージド、root 権限が欲しい、または同じマシンで他のプログラムも動かしたいなら VPS を選んでください。どちらも Hostinger の AI クレジットか自分の API キーを使えます。SONAR20 はどちらも新規購入で 20% 割引、更新時は対象外で、決め手は、引き受けられる管理の範囲です。"
+          "サーバー管理に時間をかけず、すぐ動かしたいならマネージド、root 権限が欲しい、または同じマシンで他のプログラムも動かしたいなら VPS を選んでください。どちらも [Hostinger](/ja/coupons/hostinger) の AI クレジットか自分の API キーを使えます。SONAR20 はどちらも新規購入で 20% 割引、更新時は対象外で、決め手は、引き受けられる管理の範囲です。"
         ]
       },
       {
@@ -131464,7 +131483,7 @@ const reviewsChunk0: unknown[] = [
       {
         "heading": "快速回答",
         "paragraphs": [
-          "不想花時間管伺服器、想讓助理直接上線，就選託管；想要 root 權限，或想在同一台機器上運行其他程式，就選 VPS。兩種方式都可以使用 Hostinger 的 AI 額度或你自己的 API 金鑰。SONAR20 對兩者的新購都減 20%，續訂不適用，關鍵在於你願意承擔的維護。"
+          "不想花時間管伺服器、想讓助理直接上線，就選託管；想要 root 權限，或想在同一台機器上運行其他程式，就選 VPS。兩種方式都可以使用 [Hostinger](/zh-hant/coupons/hostinger) 的 AI 額度或你自己的 API 金鑰。SONAR20 對兩者的新購都減 20%，續訂不適用，關鍵在於你願意承擔的維護。"
         ]
       },
       {
@@ -131691,7 +131710,7 @@ const reviewsChunk0: unknown[] = [
       {
         "heading": "快速回答",
         "paragraphs": [
-          "不想花时间管服务器、想让助理直接运行，就选托管；想要 root 权限，或想在同一台机器上运行其他程序，就选 VPS。两种方式都可以使用 Hostinger 的 AI 额度或你自己的 API 密钥。SONAR20 对两者的新购都减 20%，续费不适用，关键在于你愿意承担的维护。"
+          "不想花时间管服务器、想让助理直接运行，就选托管；想要 root 权限，或想在同一台机器上运行其他程序，就选 VPS。两种方式都可以使用 [Hostinger](/zh-hans/coupons/hostinger) 的 AI 额度或你自己的 API 密钥。SONAR20 对两者的新购都减 20%，续费不适用，关键在于你愿意承担的维护。"
         ]
       },
       {
@@ -131918,7 +131937,7 @@ const reviewsChunk0: unknown[] = [
       {
         "heading": "クイックアンサー",
         "paragraphs": [
-          "AI モデルをプロバイダー側に置く場合（API キーでも Hostinger のクレジットでも）、出発点は 4 GB の KVM 1 です。ローカルモデルなら、最小レシピの下限は 8 GiB で、16 GB の KVM 4 が最初に余裕のあるプランです。SONAR20 で VPS の新規購入が 20% オフになります（更新は対象外）。"
+          "AI モデルをプロバイダー側に置く場合（API キーでも [Hostinger](/ja/coupons/hostinger) のクレジットでも）、出発点は 4 GB の KVM 1 です。ローカルモデルなら、最小レシピの下限は 8 GiB で、16 GB の KVM 4 が最初に余裕のあるプランです。SONAR20 で VPS の新規購入が 20% オフになります（更新は対象外）。"
         ]
       },
       {
@@ -132197,7 +132216,7 @@ const reviewsChunk0: unknown[] = [
       {
         "heading": "빠른 답변",
         "paragraphs": [
-          "AI 모델을 제공업체에 두면(API 키든 호스팅어 크레딧이든) 출발점은 4 GB의 KVM 1입니다. 로컬 모델이면 가장 작은 레시피의 기준은 8 GiB이고, 16 GB의 KVM 4가 처음으로 여유 있는 플랜입니다. SONAR20 코드는 VPS 신규 구매에 20% 할인을 주며, 갱신에는 적용되지 않습니다."
+          "AI 모델을 제공업체에 두면(API 키든 [호스팅어](/ko/coupons/hostinger) 크레딧이든) 출발점은 4 GB의 KVM 1입니다. 로컬 모델이면 가장 작은 레시피의 기준은 8 GiB이고, 16 GB의 KVM 4가 처음으로 여유 있는 플랜입니다. SONAR20 코드는 VPS 신규 구매에 20% 할인을 주며, 갱신에는 적용되지 않습니다."
         ]
       },
       {
@@ -132478,7 +132497,7 @@ const reviewsChunk0: unknown[] = [
       {
         "heading": "快速回答",
         "paragraphs": [
-          "如果 AI 模型放在供应商那边（无论用 API 密钥还是 Hostinger 额度），起点是 4 GB 的 KVM 1。如果用本地模型，最小配方的下限是 8 GiB，16 GB 的 KVM 4 是第一个有余量的套餐。SONAR20 可让新购 VPS 享 20% 折扣，续费不适用。"
+          "如果 AI 模型放在供应商那边（无论用 API 密钥还是 [Hostinger](/zh-hans/coupons/hostinger) 额度），起点是 4 GB 的 KVM 1。如果用本地模型，最小配方的下限是 8 GiB，16 GB 的 KVM 4 是第一个有余量的套餐。SONAR20 可让新购 VPS 享 20% 折扣，续费不适用。"
         ]
       },
       {
@@ -132758,7 +132777,7 @@ const reviewsChunk0: unknown[] = [
       {
         "heading": "快速回答",
         "paragraphs": [
-          "如果 AI 模型放在供應商那邊（不論用 API 金鑰或 Hostinger 額度），起點是 4 GB 的 KVM 1。如果用本機模型，最小配方的下限是 8 GiB，16 GB 的 KVM 4 是第一個有餘裕的方案。SONAR20 可讓新購 VPS 享 20% 折扣，續訂不適用。"
+          "如果 AI 模型放在供應商那邊（不論用 API 金鑰或 [Hostinger](/zh-hant/coupons/hostinger) 額度），起點是 4 GB 的 KVM 1。如果用本機模型，最小配方的下限是 8 GiB，16 GB 的 KVM 4 是第一個有餘裕的方案。SONAR20 可讓新購 VPS 享 20% 折扣，續訂不適用。"
         ]
       },
       {
@@ -133038,7 +133057,7 @@ const reviewsChunk0: unknown[] = [
       {
         "heading": "Quick answer",
         "paragraphs": [
-          "If the AI model runs at a provider, via an API key or Hostinger's AI credits, KVM 1, with 4 GB, is the starting point. For a local model, the smallest recipe needs 8 GiB, and KVM 4, with 16 GB, is the first plan with room to spare. SONAR20 gives 20% off a new VPS, not a renewal."
+          "If the AI model runs at a provider, via an API key or [Hostinger](/en/coupons/hostinger)'s AI credits, KVM 1, with 4 GB, is the starting point. For a local model, the smallest recipe needs 8 GiB, and KVM 4, with 16 GB, is the first plan with room to spare. SONAR20 gives 20% off a new VPS, not a renewal."
         ]
       },
       {
@@ -133317,7 +133336,7 @@ const reviewsChunk0: unknown[] = [
       {
         "heading": "Kurze Antwort",
         "paragraphs": [
-          "Liegt das KI-Modell beim Anbieter, über Ihren API-Schlüssel oder das KI-Guthaben von Hostinger, ist der KVM 1 mit 4 GB der Ausgangspunkt. Bei einem lokalen Modell verlangt das kleinste Rezept 8 GiB, und der KVM 4 mit 16 GB ist der erste Tarif mit Reserve. Der Code SONAR20 gibt 20 % auf einen neuen VPS, nicht auf die Verlängerung."
+          "Liegt das KI-Modell beim Anbieter, über Ihren API-Schlüssel oder das KI-Guthaben von [Hostinger](/de/coupons/hostinger), ist der KVM 1 mit 4 GB der Ausgangspunkt. Bei einem lokalen Modell verlangt das kleinste Rezept 8 GiB, und der KVM 4 mit 16 GB ist der erste Tarif mit Reserve. Der Code SONAR20 gibt 20 % auf einen neuen VPS, nicht auf die Verlängerung."
         ]
       },
       {
@@ -134157,7 +134176,7 @@ const reviewsChunk0: unknown[] = [
       {
         "heading": "Resposta rápida",
         "paragraphs": [
-          "Com o modelo de IA no provedor, pela chave de API ou pelos créditos da Hostinger, o KVM 1, com 4 GB, é o ponto de partida. Com modelo local, a menor receita pede 8 GiB, e o KVM 4, com 16 GB, é o primeiro com folga. O SONAR20 dá 20% no VPS em compra nova, não na renovação."
+          "Com o modelo de IA no provedor, pela chave de API ou pelos créditos da [Hostinger](/cupons/hostinger), o KVM 1, com 4 GB, é o ponto de partida. Com modelo local, a menor receita pede 8 GiB, e o KVM 4, com 16 GB, é o primeiro com folga. O SONAR20 dá 20% no VPS em compra nova, não na renovação."
         ]
       },
       {
@@ -134733,7 +134752,7 @@ const reviewsChunk0: unknown[] = [
       {
         "heading": "Risposta rapida",
         "paragraphs": [
-          "Scegli OpenClaw se vuoi molti canali di messaggistica e app native per telefono e computer, e Hermes Agent se vuoi un agente che impara dall'uso. Il software è gratuito in entrambi, e il piano gestito di Hostinger va bene per tutti e due. Con il codice SONAR20 hai il 20% di sconto sull'acquisto nuovo, non su rinnovi né domini."
+          "Scegli OpenClaw se vuoi molti canali di messaggistica e app native per telefono e computer, e Hermes Agent se vuoi un agente che impara dall'uso. Il software è gratuito in entrambi, e il piano gestito di [Hostinger](/it/coupons/hostinger) va bene per tutti e due. Con il codice SONAR20 hai il 20% di sconto sull'acquisto nuovo, non su rinnovi né domini."
         ]
       },
       {
@@ -135012,7 +135031,7 @@ const reviewsChunk0: unknown[] = [
       {
         "heading": "Respuesta rápida",
         "paragraphs": [
-          "Elige OpenClaw si quieres muchos canales de mensajería y aplicaciones nativas para móvil y ordenador, y Hermes Agent si quieres un agente que aprende con el uso. El software es gratis en los dos, y el plan gestionado de Hostinger sirve para ambos. Con el código SONAR20 tienes un 20% de descuento en compra nueva, no en renovaciones ni dominios."
+          "Elige OpenClaw si quieres muchos canales de mensajería y aplicaciones nativas para móvil y ordenador, y Hermes Agent si quieres un agente que aprende con el uso. El software es gratis en los dos, y el plan gestionado de [Hostinger](/es/coupons/hostinger) sirve para ambos. Con el código SONAR20 tienes un 20% de descuento en compra nueva, no en renovaciones ni dominios."
         ]
       },
       {
@@ -135289,7 +135308,7 @@ const reviewsChunk0: unknown[] = [
       {
         "heading": "Schnelle Antwort",
         "paragraphs": [
-          "Wählen Sie OpenClaw, wenn Sie viele Nachrichtenkanäle und native Apps für Handy und Computer wollen, und Hermes Agent, wenn Sie einen Agenten wollen, der aus der Nutzung lernt. Die Software ist bei beiden kostenlos, und der verwaltete Tarif von Hostinger passt zu beiden. Mit dem Code SONAR20 gibt es 20 % Rabatt auf Neukäufe, nicht auf Verlängerungen oder Domains."
+          "Wählen Sie OpenClaw, wenn Sie viele Nachrichtenkanäle und native Apps für Handy und Computer wollen, und Hermes Agent, wenn Sie einen Agenten wollen, der aus der Nutzung lernt. Die Software ist bei beiden kostenlos, und der verwaltete Tarif von [Hostinger](/de/coupons/hostinger) passt zu beiden. Mit dem Code SONAR20 gibt es 20 % Rabatt auf Neukäufe, nicht auf Verlängerungen oder Domains."
         ]
       },
       {
@@ -135568,7 +135587,7 @@ const reviewsChunk0: unknown[] = [
       {
         "heading": "Réponse rapide",
         "paragraphs": [
-          "Choisissez OpenClaw si vous voulez beaucoup de canaux de messagerie et des applications natives pour le téléphone et l'ordinateur, et Hermes Agent si vous voulez un agent qui apprend à l'usage. Le logiciel est gratuit pour les deux, et l'offre gérée d'Hostinger convient aux deux. Code SONAR20 : 20 % sur un nouvel achat, hors renouvellement et domaines."
+          "Choisissez OpenClaw si vous voulez beaucoup de canaux de messagerie et des applications natives pour le téléphone et l'ordinateur, et Hermes Agent si vous voulez un agent qui apprend à l'usage. Le logiciel est gratuit pour les deux, et l'offre gérée d'[Hostinger](/fr/coupons/hostinger) convient aux deux. Code SONAR20 : 20 % sur un nouvel achat, hors renouvellement et domaines."
         ]
       },
       {
@@ -135845,7 +135864,7 @@ const reviewsChunk0: unknown[] = [
       {
         "heading": "Resposta rápida",
         "paragraphs": [
-          "Escolha o OpenClaw se quer muitos canais de mensagem e aplicativos nativos para celular e computador, e o Hermes Agent se quer um agente que aprende com o uso. O software é grátis nos dois, e o plano gerenciado da Hostinger serve a ambos. O SONAR20 dá 20% na compra nova, fora renovação e domínio."
+          "Escolha o OpenClaw se quer muitos canais de mensagem e aplicativos nativos para celular e computador, e o Hermes Agent se quer um agente que aprende com o uso. O software é grátis nos dois, e o plano gerenciado da [Hostinger](/cupons/hostinger) serve a ambos. O SONAR20 dá 20% na compra nova, fora renovação e domínio."
         ]
       },
       {
@@ -136141,7 +136160,7 @@ const reviewsChunk0: unknown[] = [
       {
         "heading": "クイックアンサー",
         "paragraphs": [
-          "メッセージのチャンネルが多く、スマートフォンとパソコンのネイティブアプリもほしいなら OpenClaw、使うほど学習していくエージェントがほしいなら Hermes Agent を選んでください。ソフトウェアはどちらも無料で、Hostinger のマネージドプランはどちらにも使えます。新規購入ならコード SONAR20 で 20% 割引ですが、更新とドメインは対象外です。"
+          "メッセージのチャンネルが多く、スマートフォンとパソコンのネイティブアプリもほしいなら OpenClaw、使うほど学習していくエージェントがほしいなら Hermes Agent を選んでください。ソフトウェアはどちらも無料で、[Hostinger](/ja/coupons/hostinger) のマネージドプランはどちらにも使えます。新規購入ならコード SONAR20 で 20% 割引ですが、更新とドメインは対象外です。"
         ]
       },
       {
@@ -136418,7 +136437,7 @@ const reviewsChunk0: unknown[] = [
       {
         "heading": "빠른 답변",
         "paragraphs": [
-          "메시지 채널이 많고 휴대폰과 컴퓨터용 네이티브 앱도 원한다면 OpenClaw, 쓸수록 배우는 에이전트를 원한다면 Hermes Agent를 고르세요. 소프트웨어는 둘 다 무료이고, 호스팅어의 관리형 플랜은 둘 모두에 쓸 수 있습니다. 신규 구매라면 코드 SONAR20으로 20% 할인되며, 갱신과 도메인은 제외입니다."
+          "메시지 채널이 많고 휴대폰과 컴퓨터용 네이티브 앱도 원한다면 OpenClaw, 쓸수록 배우는 에이전트를 원한다면 Hermes Agent를 고르세요. 소프트웨어는 둘 다 무료이고, [호스팅어](/ko/coupons/hostinger)의 관리형 플랜은 둘 모두에 쓸 수 있습니다. 신규 구매라면 코드 SONAR20으로 20% 할인되며, 갱신과 도메인은 제외입니다."
         ]
       },
       {
@@ -136697,7 +136716,7 @@ const reviewsChunk0: unknown[] = [
       {
         "heading": "快速回答",
         "paragraphs": [
-          "想要很多消息渠道，还要手机和电脑的原生应用，就选 OpenClaw；想要越用越会学习的智能体，就选 Hermes Agent。两者的软件都是免费的，Hostinger 的托管方案对两者都适用。新购时使用代码 SONAR20 可享 20% 折扣，续费和域名除外。"
+          "想要很多消息渠道，还要手机和电脑的原生应用，就选 OpenClaw；想要越用越会学习的智能体，就选 Hermes Agent。两者的软件都是免费的，[Hostinger](/zh-hans/coupons/hostinger) 的托管方案对两者都适用。新购时使用代码 SONAR20 可享 20% 折扣，续费和域名除外。"
         ]
       },
       {
@@ -136975,7 +136994,7 @@ const reviewsChunk0: unknown[] = [
       {
         "heading": "快速回答",
         "paragraphs": [
-          "想要很多訊息管道，還要手機和電腦的原生應用程式，就選 OpenClaw；想要越用越會學習的代理，就選 Hermes Agent。兩者的軟體都是免費的，Hostinger 的託管方案兩者都能用。新購時使用代碼 SONAR20 可享 20% 折扣，續約和網域除外。"
+          "想要很多訊息管道，還要手機和電腦的原生應用程式，就選 OpenClaw；想要越用越會學習的代理，就選 Hermes Agent。兩者的軟體都是免費的，[Hostinger](/zh-hant/coupons/hostinger) 的託管方案兩者都能用。新購時使用代碼 SONAR20 可享 20% 折扣，續約和網域除外。"
         ]
       },
       {
@@ -137253,7 +137272,7 @@ const reviewsChunk0: unknown[] = [
       {
         "heading": "Quick answer",
         "paragraphs": [
-          "Choose OpenClaw if you want many messaging channels and native apps for phone and computer, and Hermes Agent if you want an agent that learns from use. The software is free for both, and Hostinger's managed plan serves either. With the code SONAR20, a new purchase gets 20% off, but renewals and domains do not."
+          "Choose OpenClaw if you want many messaging channels and native apps for phone and computer, and Hermes Agent if you want an agent that learns from use. The software is free for both, and [Hostinger](/en/coupons/hostinger)'s managed plan serves either. With the code SONAR20, a new purchase gets 20% off, but renewals and domains do not."
         ]
       },
       {
@@ -137530,7 +137549,7 @@ const reviewsChunk0: unknown[] = [
       {
         "heading": "Kurze Antwort",
         "paragraphs": [
-          "Paperclip organisiert Teams aus KI-Agenten mit Rollen, Zielen, Budgets und Freigaben, verbunden mit den Modellen über Ihre eigenen Konten. Bei Hostinger entscheidet vor allem die Serververwaltung: Hostinger im verwalteten Tarif oder Sie selbst beim VPS. Der Code SONAR20 gibt 20 % auf Neukäufe, nicht auf Verlängerungen oder Domains."
+          "Paperclip organisiert Teams aus KI-Agenten mit Rollen, Zielen, Budgets und Freigaben, verbunden mit den Modellen über Ihre eigenen Konten. Bei [Hostinger](/de/coupons/hostinger) entscheidet vor allem die Serververwaltung: Hostinger im verwalteten Tarif oder Sie selbst beim VPS. Der Code SONAR20 gibt 20 % auf Neukäufe, nicht auf Verlängerungen oder Domains."
         ]
       },
       {
@@ -137754,7 +137773,7 @@ const reviewsChunk0: unknown[] = [
       {
         "heading": "Risposta rapida",
         "paragraphs": [
-          "Paperclip organizza squadre di agenti IA con ruoli, obiettivi, budget e approvazioni, collegate ai modelli con i tuoi account. Su Hostinger la scelta principale riguarda chi gestisce il server: Hostinger nel piano gestito o tu sul VPS. Il codice SONAR20 dà il 20% sull'acquisto nuovo, non su rinnovi né domini."
+          "Paperclip organizza squadre di agenti IA con ruoli, obiettivi, budget e approvazioni, collegate ai modelli con i tuoi account. Su [Hostinger](/it/coupons/hostinger) la scelta principale riguarda chi gestisce il server: Hostinger nel piano gestito o tu sul VPS. Il codice SONAR20 dà il 20% sull'acquisto nuovo, non su rinnovi né domini."
         ]
       },
       {
@@ -137979,7 +137998,7 @@ const reviewsChunk0: unknown[] = [
       {
         "heading": "Réponse rapide",
         "paragraphs": [
-          "Paperclip organise des équipes d’agents d’IA avec des rôles, des objectifs, des budgets et des approbations, reliées aux modèles par vos propres comptes. Chez Hostinger, le choix principal porte sur la gestion du serveur : Hostinger dans l’offre gérée, ou vous sur un VPS. Le code SONAR20 donne 20 % sur un nouvel achat, hors renouvellement et domaines."
+          "Paperclip organise des équipes d’agents d’IA avec des rôles, des objectifs, des budgets et des approbations, reliées aux modèles par vos propres comptes. Chez [Hostinger](/fr/coupons/hostinger), le choix principal porte sur la gestion du serveur : Hostinger dans l’offre gérée, ou vous sur un VPS. Le code SONAR20 donne 20 % sur un nouvel achat, hors renouvellement et domaines."
         ]
       },
       {
@@ -138203,7 +138222,7 @@ const reviewsChunk0: unknown[] = [
       {
         "heading": "Quick answer",
         "paragraphs": [
-          "Paperclip organizes teams of AI agents with roles, goals, budgets and approvals, connected to models through your own accounts. On Hostinger, the main choice is who manages the server: Hostinger on managed hosting, or you on a VPS. The code SONAR20 gives 20% off new purchases, not renewals or domains."
+          "Paperclip organizes teams of AI agents with roles, goals, budgets and approvals, connected to models through your own accounts. On [Hostinger](/en/coupons/hostinger), the main choice is who manages the server: Hostinger on managed hosting, or you on a VPS. The code SONAR20 gives 20% off new purchases, not renewals or domains."
         ]
       },
       {
@@ -138427,7 +138446,7 @@ const reviewsChunk0: unknown[] = [
       {
         "heading": "クイックアンサー",
         "paragraphs": [
-          "Paperclip は、役割、目標、予算、承認を持つ AI エージェントのチームを管理し、モデルへは自分のアカウントで接続します。Hostinger では、サーバーの管理を Hostinger に任せるマネージドか、自分で管理する VPS かが主な選択です。新規購入ならコード SONAR20 で 20% 割引、更新とドメインは対象外です。"
+          "Paperclip は、役割、目標、予算、承認を持つ AI エージェントのチームを管理し、モデルへは自分のアカウントで接続します。[Hostinger](/ja/coupons/hostinger) では、サーバーの管理を Hostinger に任せるマネージドか、自分で管理する VPS かが主な選択です。新規購入ならコード SONAR20 で 20% 割引、更新とドメインは対象外です。"
         ]
       },
       {
@@ -138650,7 +138669,7 @@ const reviewsChunk0: unknown[] = [
       {
         "heading": "빠른 답변",
         "paragraphs": [
-          "Paperclip은 역할, 목표, 예산, 승인 규칙을 갖춘 AI 에이전트 팀을 관리하며, 모델에는 자신의 계정으로 연결합니다. Hostinger에서는 서버를 Hostinger가 맡는 관리형과 직접 관리하는 VPS 중 무엇을 고르느냐가 주된 선택입니다. 신규 구매라면 코드 SONAR20으로 20% 할인되고, 갱신과 도메인은 제외입니다."
+          "Paperclip은 역할, 목표, 예산, 승인 규칙을 갖춘 AI 에이전트 팀을 관리하며, 모델에는 자신의 계정으로 연결합니다. [Hostinger](/ko/coupons/hostinger)에서는 서버를 Hostinger가 맡는 관리형과 직접 관리하는 VPS 중 무엇을 고르느냐가 주된 선택입니다. 신규 구매라면 코드 SONAR20으로 20% 할인되고, 갱신과 도메인은 제외입니다."
         ]
       },
       {
@@ -138875,7 +138894,7 @@ const reviewsChunk0: unknown[] = [
       {
         "heading": "快速回答",
         "paragraphs": [
-          "Paperclip 管理 AI 智能体团队的角色、目标、预算和审批，并用您自己的账户连接模型。在 Hostinger，主要选择是让 Hostinger 管理服务器的托管版，还是由自己管理的 VPS。新购时使用代码 SONAR20 可享 20% 折扣，续费和域名除外。"
+          "Paperclip 管理 AI 智能体团队的角色、目标、预算和审批，并用您自己的账户连接模型。在 [Hostinger](/zh-hans/coupons/hostinger)，主要选择是让 Hostinger 管理服务器的托管版，还是由自己管理的 VPS。新购时使用代码 SONAR20 可享 20% 折扣，续费和域名除外。"
         ]
       },
       {
@@ -139099,7 +139118,7 @@ const reviewsChunk0: unknown[] = [
       {
         "heading": "快速解答",
         "paragraphs": [
-          "Paperclip 管理 AI 代理團隊的角色、目標、預算和核准，並用您自己的帳號連接模型。在 Hostinger，主要選擇是讓 Hostinger 管理伺服器的代管方案，還是由自己管理的 VPS。新購時使用代碼 SONAR20 可享 20% 折扣，續約和網域除外。"
+          "Paperclip 管理 AI 代理團隊的角色、目標、預算和核准，並用您自己的帳號連接模型。在 [Hostinger](/zh-hant/coupons/hostinger)，主要選擇是讓 Hostinger 管理伺服器的代管方案，還是由自己管理的 VPS。新購時使用代碼 SONAR20 可享 20% 折扣，續約和網域除外。"
         ]
       },
       {
@@ -139322,7 +139341,7 @@ const reviewsChunk0: unknown[] = [
       {
         "heading": "Resposta rápida",
         "paragraphs": [
-          "O Paperclip organiza equipes de agentes de IA, com papéis, metas, orçamento e aprovações, ligadas aos modelos pelas suas próprias contas. Na Hostinger, a escolha principal é quem administra o servidor: a empresa, no gerenciado, ou você, no VPS. O código SONAR20 dá 20% na compra nova, fora renovação e domínio."
+          "O Paperclip organiza equipes de agentes de IA, com papéis, metas, orçamento e aprovações, ligadas aos modelos pelas suas próprias contas. Na [Hostinger](/cupons/hostinger), a escolha principal é quem administra o servidor: a empresa, no gerenciado, ou você, no VPS. O código SONAR20 dá 20% na compra nova, fora renovação e domínio."
         ]
       },
       {
@@ -139590,7 +139609,7 @@ const reviewsChunk0: unknown[] = [
       {
         "heading": "Respuesta rápida",
         "paragraphs": [
-          "Paperclip organiza equipos de agentes de IA con roles, metas, presupuesto y aprobaciones, conectados a los modelos con tus propias cuentas. En Hostinger, la decisión principal es quién administra el servidor: Hostinger en el gestionado o tú en un VPS. El código SONAR20 da un 20% en compra nueva, sin renovaciones ni dominios."
+          "Paperclip organiza equipos de agentes de IA con roles, metas, presupuesto y aprobaciones, conectados a los modelos con tus propias cuentas. En [Hostinger](/es/coupons/hostinger), la decisión principal es quién administra el servidor: Hostinger en el gestionado o tú en un VPS. El código SONAR20 da un 20% en compra nueva, sin renovaciones ni dominios."
         ]
       },
       {
@@ -154875,7 +154894,7 @@ const reviewsChunk1: unknown[] = [
       {
         "heading": "Resposta rápida",
         "paragraphs": [
-          "Sim, a YesStyle tem app para Android e iPhone, com a mesma conta do site. No app, o CECILIA010, código de recompensa, entra no campo \"Influencer / Rewards Code\" do checkout, ao lado do \"Coupon Code\". A YesStyle voltou a entregar no Brasil, e o frete é grátis a partir de US$ 80."
+          "Sim, a [YesStyle](/cupons/yesstyle) tem app para Android e iPhone, com a mesma conta do site. No app, o CECILIA010, código de recompensa, entra no campo \"Influencer / Rewards Code\" do checkout, ao lado do \"Coupon Code\". A YesStyle voltou a entregar no Brasil, e o frete é grátis a partir de US$ 80."
         ]
       },
       {
@@ -155088,7 +155107,7 @@ const reviewsChunk1: unknown[] = [
       {
         "heading": "Quick answer",
         "paragraphs": [
-          "Yes, YesStyle has an app for Android and iPhone, using the same account as the website. In the app, CECILIA010, a reward code, goes in the \"Influencer / Rewards Code\" field at checkout, next to \"Coupon Code\"."
+          "Yes, [YesStyle](/en/coupons/yesstyle) has an app for Android and iPhone, using the same account as the website. In the app, CECILIA010, a reward code, goes in the \"Influencer / Rewards Code\" field at checkout, next to \"Coupon Code\"."
         ]
       },
       {
@@ -155292,7 +155311,7 @@ const reviewsChunk1: unknown[] = [
       {
         "heading": "Respuesta rápida",
         "paragraphs": [
-          "Sí, YesStyle tiene app para Android e iPhone, con la misma cuenta que la web. En la app, el CECILIA010, un código de recompensa, entra en el campo \"Influencer / Rewards Code\" del checkout, junto a \"Coupon Code\"."
+          "Sí, [YesStyle](/es/coupons/yesstyle) tiene app para Android e iPhone, con la misma cuenta que la web. En la app, el CECILIA010, un código de recompensa, entra en el campo \"Influencer / Rewards Code\" del checkout, junto a \"Coupon Code\"."
         ]
       },
       {
@@ -155496,7 +155515,7 @@ const reviewsChunk1: unknown[] = [
       {
         "heading": "Réponse rapide",
         "paragraphs": [
-          "Oui, YesStyle a une appli pour Android et iPhone, avec le même compte que le site. Dans l'appli, le CECILIA010, un code de récompense, se saisit dans le champ « Influencer / Rewards Code » de la validation de commande, à côté de « Coupon Code »."
+          "Oui, [YesStyle](/fr/coupons/yesstyle) a une appli pour Android et iPhone, avec le même compte que le site. Dans l'appli, le CECILIA010, un code de récompense, se saisit dans le champ « Influencer / Rewards Code » de la validation de commande, à côté de « Coupon Code »."
         ]
       },
       {
@@ -155700,7 +155719,7 @@ const reviewsChunk1: unknown[] = [
       {
         "heading": "Risposta rapida",
         "paragraphs": [
-          "Sì, YesStyle ha un'app per Android e iPhone, con lo stesso account del sito. Nell'app, il CECILIA010, un codice ricompensa, va nel campo \"Influencer / Rewards Code\" del checkout, accanto a \"Coupon Code\"."
+          "Sì, [YesStyle](/it/coupons/yesstyle) ha un'app per Android e iPhone, con lo stesso account del sito. Nell'app, il CECILIA010, un codice ricompensa, va nel campo \"Influencer / Rewards Code\" del checkout, accanto a \"Coupon Code\"."
         ]
       },
       {
@@ -155904,7 +155923,7 @@ const reviewsChunk1: unknown[] = [
       {
         "heading": "Kurze Antwort",
         "paragraphs": [
-          "Ja, YesStyle hat eine App für Android und iPhone, mit demselben Konto wie die Website. In der App gehört der CECILIA010, ein Reward Code, im Checkout in das Feld „Influencer / Rewards Code“, neben „Coupon Code“."
+          "Ja, [YesStyle](/de/coupons/yesstyle) hat eine App für Android und iPhone, mit demselben Konto wie die Website. In der App gehört der CECILIA010, ein Reward Code, im Checkout in das Feld „Influencer / Rewards Code“, neben „Coupon Code“."
         ]
       },
       {
@@ -156108,7 +156127,7 @@ const reviewsChunk1: unknown[] = [
       {
         "heading": "結論",
         "paragraphs": [
-          "はい、YesStyleにはAndroidとiPhone向けのアプリがあり、ウェブサイトと同じアカウントを使います。アプリでは、リワードコードのCECILIA010をチェックアウトの「Influencer / Rewards Code」欄に入力します。「Coupon Code」欄のすぐ隣です。"
+          "はい、[YesStyle](/ja/coupons/yesstyle)にはAndroidとiPhone向けのアプリがあり、ウェブサイトと同じアカウントを使います。アプリでは、リワードコードのCECILIA010をチェックアウトの「Influencer / Rewards Code」欄に入力します。「Coupon Code」欄のすぐ隣です。"
         ]
       },
       {
@@ -156312,7 +156331,7 @@ const reviewsChunk1: unknown[] = [
       {
         "heading": "빠른 답변",
         "paragraphs": [
-          "네, YesStyle에는 Android와 iPhone용 앱이 있으며 웹사이트와 같은 계정을 씁니다. 앱에서는 리워드 코드인 CECILIA010을 결제 화면의 \"Influencer / Rewards Code\" 칸에 입력합니다. \"Coupon Code\" 칸 바로 옆입니다."
+          "네, [YesStyle](/ko/coupons/yesstyle)에는 Android와 iPhone용 앱이 있으며 웹사이트와 같은 계정을 씁니다. 앱에서는 리워드 코드인 CECILIA010을 결제 화면의 \"Influencer / Rewards Code\" 칸에 입력합니다. \"Coupon Code\" 칸 바로 옆입니다."
         ]
       },
       {
@@ -156516,7 +156535,7 @@ const reviewsChunk1: unknown[] = [
       {
         "heading": "简要回答",
         "paragraphs": [
-          "是的，YesStyle 有适用于 Android 和 iPhone 的 App，账号与网站通用。在 App 里，奖励码 CECILIA010 填在结账页的“Influencer / Rewards Code”输入框，就在“Coupon Code”旁边。"
+          "是的，[YesStyle](/zh-hans/coupons/yesstyle) 有适用于 Android 和 iPhone 的 App，账号与网站通用。在 App 里，奖励码 CECILIA010 填在结账页的“Influencer / Rewards Code”输入框，就在“Coupon Code”旁边。"
         ]
       },
       {
@@ -156720,7 +156739,7 @@ const reviewsChunk1: unknown[] = [
       {
         "heading": "簡要回答",
         "paragraphs": [
-          "是的，YesStyle 有適用於 Android 和 iPhone 的 App，帳號與網站共用。在 App 裡，獎勵碼 CECILIA010 填在結帳頁的「Influencer / Rewards Code」欄位，就在「Coupon Code」旁邊。"
+          "是的，[YesStyle](/zh-hant/coupons/yesstyle) 有適用於 Android 和 iPhone 的 App，帳號與網站共用。在 App 裡，獎勵碼 CECILIA010 填在結帳頁的「Influencer / Rewards Code」欄位，就在「Coupon Code」旁邊。"
         ]
       },
       {
@@ -156923,7 +156942,7 @@ const reviewsChunk1: unknown[] = [
       {
         "heading": "Resposta rápida",
         "paragraphs": [
-          "A Mega Promoção 11.11 da SHEIN terminou em 12/11. Os preços das 19 peças da Cecília foram lidos na campanha e hoje podem ser outros. O 4CW5Y dá desconto, sim: abra a SHEIN pelo link da Cecília e pesquise o código no app ou no site; quanto e em quais peças, a SHEIN decide."
+          "A Mega Promoção 11.11 da [SHEIN](/cupons/shein) terminou em 12/11. Os preços das 19 peças da Cecília foram lidos na campanha e hoje podem ser outros. O 4CW5Y dá desconto, sim: abra a SHEIN pelo link da Cecília e pesquise o código no app ou no site; quanto e em quais peças, a SHEIN decide."
         ]
       },
       {
@@ -157837,7 +157856,7 @@ const reviewsChunk1: unknown[] = [
       {
         "heading": "Quick answer",
         "paragraphs": [
-          "SHEIN's 11.11 sale ended on 12 November. Cecília's 19 picks stay here as a list to check today's price or to compare with the Black Friday guide. 4CW5Y does give you a discount: open SHEIN through Cecília's link and search the code in the app or on the site; SHEIN decides how much and on which pieces."
+          "SHEIN's 11.11 sale ended on 12 November. Cecília's 19 picks stay here as a list to check today's price or to compare with the Black Friday guide. 4CW5Y does give you a discount: open [SHEIN](/en/coupons/shein) through Cecília's link and search the code in the app or on the site; SHEIN decides how much and on which pieces."
         ]
       },
       {
@@ -158701,7 +158720,7 @@ const reviewsChunk1: unknown[] = [
       {
         "heading": "Respuesta rápida",
         "paragraphs": [
-          "La campaña 11.11 de SHEIN terminó el 12 de noviembre. Los 19 artículos de Cecília sirven para consultar el precio de hoy o compararlo con la guía del Black Friday. El 4CW5Y sí da descuento: abre SHEIN con el enlace de Cecília y busca el código en la app o el sitio; SHEIN decide cuánto y en qué prendas."
+          "La campaña 11.11 de [SHEIN](/es/coupons/shein) terminó el 12 de noviembre. Los 19 artículos de Cecília sirven para consultar el precio de hoy o compararlo con la guía del Black Friday. El 4CW5Y sí da descuento: abre SHEIN con el enlace de Cecília y busca el código en la app o el sitio; SHEIN decide cuánto y en qué prendas."
         ]
       },
       {
@@ -159565,7 +159584,7 @@ const reviewsChunk1: unknown[] = [
       {
         "heading": "Réponse rapide",
         "paragraphs": [
-          "La campagne 11.11 de SHEIN s'est terminée le 12 novembre. Les 19 pièces de Cecília servent de liste pour le prix du jour ou pour comparer avec le Black Friday. Le 4CW5Y donne bien une remise : ouvrez SHEIN avec le lien de Cecília et recherchez le code dans l'appli ou le site ; SHEIN décide du montant et des pièces."
+          "La campagne 11.11 de [SHEIN](/fr/coupons/shein) s'est terminée le 12 novembre. Les 19 pièces de Cecília servent de liste pour le prix du jour ou pour comparer avec le Black Friday. Le 4CW5Y donne bien une remise : ouvrez SHEIN avec le lien de Cecília et recherchez le code dans l'appli ou le site ; SHEIN décide du montant et des pièces."
         ]
       },
       {
@@ -160429,7 +160448,7 @@ const reviewsChunk1: unknown[] = [
       {
         "heading": "Risposta rapida",
         "paragraphs": [
-          "La campagna 11.11 di SHEIN è terminata il 12 novembre. I 19 articoli di Cecília restano come lista per controllare il prezzo di oggi o confrontarlo con la guida al Black Friday. Il 4CW5Y dà sconto, sì: apri SHEIN con il link di Cecília e cerca il codice nell'app o sul sito; quanto e su quali articoli lo decide SHEIN."
+          "La campagna 11.11 di [SHEIN](/it/coupons/shein) è terminata il 12 novembre. I 19 articoli di Cecília restano come lista per controllare il prezzo di oggi o confrontarlo con la guida al Black Friday. Il 4CW5Y dà sconto, sì: apri SHEIN con il link di Cecília e cerca il codice nell'app o sul sito; quanto e su quali articoli lo decide SHEIN."
         ]
       },
       {
@@ -161293,7 +161312,7 @@ const reviewsChunk1: unknown[] = [
       {
         "heading": "Die Antwort in Kürze",
         "paragraphs": [
-          "Die 11.11-Aktion von SHEIN endete am 12. November. Cecílias 19 Fundstücke bleiben als Liste, um den heutigen Preis zu prüfen oder mit dem Black-Friday-Ratgeber zu vergleichen. 4CW5Y gibt Rabatt, ja: Öffnen Sie SHEIN über Cecílias Link und suchen Sie den Code in der App oder auf der Website; wie viel und bei welchen Teilen, entscheidet SHEIN."
+          "Die 11.11-Aktion von [SHEIN](/de/coupons/shein) endete am 12. November. Cecílias 19 Fundstücke bleiben als Liste, um den heutigen Preis zu prüfen oder mit dem Black-Friday-Ratgeber zu vergleichen. 4CW5Y gibt Rabatt, ja: Öffnen Sie SHEIN über Cecílias Link und suchen Sie den Code in der App oder auf der Website; wie viel und bei welchen Teilen, entscheidet SHEIN."
         ]
       },
       {
@@ -162157,7 +162176,7 @@ const reviewsChunk1: unknown[] = [
       {
         "heading": "まずは結論",
         "paragraphs": [
-          "SHEIN 11.11 キャンペーンは終了しました。最後の段階は11月16日12:00まででした。Cecíliaが選んだ19アイテムは、今日の価格を確認したり、ブラックフライデーのガイドと比べたりするためのリストとして残してあります。4CW5Y で割引が受けられます：Cecíliaのリンクから SHEIN を開き、アプリかサイトでコードを検索してください（割引額と対象アイテムは SHEIN が決めます）。"
+          "SHEIN 11.11 キャンペーンは終了しました。最後の段階は11月16日12:00まででした。Cecíliaが選んだ19アイテムは、今日の価格を確認したり、ブラックフライデーのガイドと比べたりするためのリストとして残してあります。4CW5Y で割引が受けられます：Cecíliaのリンクから [SHEIN](/ja/coupons/shein) を開き、アプリかサイトでコードを検索してください（割引額と対象アイテムは SHEIN が決めます）。"
         ]
       },
       {
@@ -163021,7 +163040,7 @@ const reviewsChunk1: unknown[] = [
       {
         "heading": "답변 요약",
         "paragraphs": [
-          "SHEIN 11.11 캠페인은 11월 12일에 끝났습니다. Cecília가 고른 19가지는 오늘의 가격을 확인하거나 블랙 프라이데이 가이드와 비교하는 목록으로 남겨 두었습니다. 4CW5Y를 쓰면 할인을 받을 수 있습니다: Cecília의 링크로 SHEIN을 열고 앱이나 사이트에서 코드를 검색하세요(할인 폭과 대상 상품은 SHEIN이 정합니다)."
+          "SHEIN 11.11 캠페인은 11월 12일에 끝났습니다. Cecília가 고른 19가지는 오늘의 가격을 확인하거나 블랙 프라이데이 가이드와 비교하는 목록으로 남겨 두었습니다. 4CW5Y를 쓰면 할인을 받을 수 있습니다: Cecília의 링크로 [SHEIN](/ko/coupons/shein)을 열고 앱이나 사이트에서 코드를 검색하세요(할인 폭과 대상 상품은 SHEIN이 정합니다)."
         ]
       },
       {
@@ -163885,7 +163904,7 @@ const reviewsChunk1: unknown[] = [
       {
         "heading": "快速回答",
         "paragraphs": [
-          "SHEIN 11.11 大促已于 11 月 12 日结束。Cecília 挑的 19 件商品留作清单，可以用来查今天的价格，也可以和黑五指南对照。用 4CW5Y 确实有折扣：通过 Cecília 的链接打开 SHEIN，再在 App 或网站搜索这个码（折扣多少、哪些商品，由 SHEIN 决定）。"
+          "SHEIN 11.11 大促已于 11 月 12 日结束。Cecília 挑的 19 件商品留作清单，可以用来查今天的价格，也可以和黑五指南对照。用 4CW5Y 确实有折扣：通过 Cecília 的链接打开 [SHEIN](/zh-hans/coupons/shein)，再在 App 或网站搜索这个码（折扣多少、哪些商品，由 SHEIN 决定）。"
         ]
       },
       {
@@ -164749,7 +164768,7 @@ const reviewsChunk1: unknown[] = [
       {
         "heading": "快速回答",
         "paragraphs": [
-          "SHEIN 11.11 大促已於 11 月 12 日結束。Cecília 挑的 19 件商品留作清單，可以用來查今天的價格，也可以和黑五指南對照。用 4CW5Y 確實有折扣：透過 Cecília 的連結開啟 SHEIN，再在 App 或網站搜尋這個碼（折扣多少、哪些商品，由 SHEIN 決定）。"
+          "SHEIN 11.11 大促已於 11 月 12 日結束。Cecília 挑的 19 件商品留作清單，可以用來查今天的價格，也可以和黑五指南對照。用 4CW5Y 確實有折扣：透過 Cecília 的連結開啟 [SHEIN](/zh-hant/coupons/shein)，再在 App 或網站搜尋這個碼（折扣多少、哪些商品，由 SHEIN 決定）。"
         ]
       },
       {
@@ -169846,7 +169865,7 @@ const reviewsChunk1: unknown[] = [
       {
         "heading": "Resposta rápida",
         "paragraphs": [
-          "O domínio é uma conta separada da hospedagem: pode ficar na Hostinger ou em outro registrador, e o site funciona dos dois jeitos. Escolha pelo preço de renovação e pela facilidade de sair, não pelo primeiro ano. Compre na Hostinger se quer tudo num painel, e transfira só domínio elegível (genéricos: 60 dias desde o registro ou a última transferência)."
+          "O domínio é uma conta separada da hospedagem: pode ficar na [Hostinger](/cupons/hostinger) ou em outro registrador, e o site funciona dos dois jeitos. Escolha pelo preço de renovação e pela facilidade de sair, não pelo primeiro ano. Compre na Hostinger se quer tudo num painel, e transfira só domínio elegível (genéricos: 60 dias desde o registro ou a última transferência)."
         ]
       },
       {
@@ -170102,7 +170121,7 @@ const reviewsChunk1: unknown[] = [
       {
         "heading": "Quick answer",
         "paragraphs": [
-          "The domain is a separate account: it can stay at Hostinger or elsewhere, and the site works either way. Choose by the renewal price and how easy it is to leave, not by the first year. Buy at Hostinger if you want one panel; transfer only eligible domains (generic extensions: 60 days or more since registration or the last transfer)."
+          "The domain is a separate account: it can stay at [Hostinger](/en/coupons/hostinger) or elsewhere, and the site works either way. Choose by the renewal price and how easy it is to leave, not by the first year. Buy at Hostinger if you want one panel; transfer only eligible domains (generic extensions: 60 days or more since registration or the last transfer)."
         ]
       },
       {
@@ -170314,7 +170333,7 @@ const reviewsChunk1: unknown[] = [
       {
         "heading": "Respuesta rápida",
         "paragraphs": [
-          "El dominio es una cuenta aparte: puede estar en Hostinger o fuera, y el sitio funciona igual. Elige por el precio de renovación y la facilidad para salir, no por el primer año. Compra en Hostinger si quieres todo en un panel, y transfiere solo un dominio elegible (genéricos: 60 días desde el registro o la última transferencia)."
+          "El dominio es una cuenta aparte: puede estar en [Hostinger](/es/coupons/hostinger) o fuera, y el sitio funciona igual. Elige por el precio de renovación y la facilidad para salir, no por el primer año. Compra en Hostinger si quieres todo en un panel, y transfiere solo un dominio elegible (genéricos: 60 días desde el registro o la última transferencia)."
         ]
       },
       {
@@ -170526,7 +170545,7 @@ const reviewsChunk1: unknown[] = [
       {
         "heading": "Réponse rapide",
         "paragraphs": [
-          "Le domaine est un compte à part : il peut rester chez Hostinger ou ailleurs, le site fonctionne dans les deux cas. Choisissez selon le prix de renouvellement et la facilité de partir, pas la première année. Achetez chez Hostinger pour tout avoir dans un panneau ; ne transférez qu’un domaine éligible (génériques : 60 jours depuis l’enregistrement ou le dernier transfert)."
+          "Le domaine est un compte à part : il peut rester chez [Hostinger](/fr/coupons/hostinger) ou ailleurs, le site fonctionne dans les deux cas. Choisissez selon le prix de renouvellement et la facilité de partir, pas la première année. Achetez chez Hostinger pour tout avoir dans un panneau ; ne transférez qu’un domaine éligible (génériques : 60 jours depuis l’enregistrement ou le dernier transfert)."
         ]
       },
       {
@@ -170738,7 +170757,7 @@ const reviewsChunk1: unknown[] = [
       {
         "heading": "Risposta rapida",
         "paragraphs": [
-          "Il dominio è un account separato dall’hosting: può restare su Hostinger o altrove, e il sito funziona in entrambi i casi. Scegli in base al prezzo di rinnovo e alla facilità di uscita, non al primo anno. Compra su Hostinger se vuoi tutto in un pannello e trasferisci solo un dominio idoneo (generici: 60 giorni dalla registrazione o dall’ultimo trasferimento)."
+          "Il dominio è un account separato dall’hosting: può restare su [Hostinger](/it/coupons/hostinger) o altrove, e il sito funziona in entrambi i casi. Scegli in base al prezzo di rinnovo e alla facilità di uscita, non al primo anno. Compra su Hostinger se vuoi tutto in un pannello e trasferisci solo un dominio idoneo (generici: 60 giorni dalla registrazione o dall’ultimo trasferimento)."
         ]
       },
       {
@@ -170950,7 +170969,7 @@ const reviewsChunk1: unknown[] = [
       {
         "heading": "Kurze Antwort",
         "paragraphs": [
-          "Die Domain ist ein vom Hosting getrenntes Konto: Sie kann bei Hostinger oder anderswo liegen, die Website läuft in beiden Fällen. Entscheiden Sie nach Verlängerungspreis und Wechselaufwand, nicht nach dem ersten Jahr. Kaufen Sie bei Hostinger für alles in einem Panel und ziehen Sie nur eine geeignete Domain um (generische Endungen: 60 Tage seit Registrierung oder letztem Transfer)."
+          "Die Domain ist ein vom Hosting getrenntes Konto: Sie kann bei [Hostinger](/de/coupons/hostinger) oder anderswo liegen, die Website läuft in beiden Fällen. Entscheiden Sie nach Verlängerungspreis und Wechselaufwand, nicht nach dem ersten Jahr. Kaufen Sie bei Hostinger für alles in einem Panel und ziehen Sie nur eine geeignete Domain um (generische Endungen: 60 Tage seit Registrierung oder letztem Transfer)."
         ]
       },
       {
@@ -171162,7 +171181,7 @@ const reviewsChunk1: unknown[] = [
       {
         "heading": "結論",
         "paragraphs": [
-          "ドメインはホスティングとは別の契約です。Hostingerに置いても別のレジストラに置いても、サイトはどちらでも動きます。選ぶ基準は初年度の安さではなく、更新料と出ていきやすさです。すべてを1つの管理画面で済ませたいならHostingerで買い、移管するのは、拡張子の条件を満たし、登録または前回の移管から60日以上たったドメインだけにしてください。"
+          "ドメインはホスティングとは別の契約です。[Hostinger](/ja/coupons/hostinger)に置いても別のレジストラに置いても、サイトはどちらでも動きます。選ぶ基準は初年度の安さではなく、更新料と出ていきやすさです。すべてを1つの管理画面で済ませたいならHostingerで買い、移管するのは、拡張子の条件を満たし、登録または前回の移管から60日以上たったドメインだけにしてください。"
         ]
       },
       {
@@ -171374,7 +171393,7 @@ const reviewsChunk1: unknown[] = [
       {
         "heading": "한눈에 보기",
         "paragraphs": [
-          "도메인은 호스팅과 별개의 계정입니다. Hostinger에 두어도, 다른 등록 기관에 두어도 사이트는 두 방식 모두 작동합니다. 첫해 가격이 아니라 갱신 요금과 떠나기 쉬운 정도로 고르세요. 모든 것을 한 패널에서 관리하고 싶다면 Hostinger에서 구매하고, 이전은 자격 조건을 확인한 뒤, 등록 또는 마지막 이전 후 60일 이상 지난 도메인만 하세요."
+          "도메인은 호스팅과 별개의 계정입니다. [Hostinger](/ko/coupons/hostinger)에 두어도, 다른 등록 기관에 두어도 사이트는 두 방식 모두 작동합니다. 첫해 가격이 아니라 갱신 요금과 떠나기 쉬운 정도로 고르세요. 모든 것을 한 패널에서 관리하고 싶다면 Hostinger에서 구매하고, 이전은 자격 조건을 확인한 뒤, 등록 또는 마지막 이전 후 60일 이상 지난 도메인만 하세요."
         ]
       },
       {
@@ -171586,7 +171605,7 @@ const reviewsChunk1: unknown[] = [
       {
         "heading": "快速回答",
         "paragraphs": [
-          "域名是和主机分开的账户：可以放在 Hostinger，也可以放在别的注册商，网站两种方式都能运行。选的时候看续费价和好不好迁出，不要看第一年。想把一切放在一个面板里，就在 Hostinger 买；转入只限符合资格、注册或上次转移满 60 天的域名。"
+          "域名是和主机分开的账户：可以放在 [Hostinger](/zh-hans/coupons/hostinger)，也可以放在别的注册商，网站两种方式都能运行。选的时候看续费价和好不好迁出，不要看第一年。想把一切放在一个面板里，就在 Hostinger 买；转入只限符合资格、注册或上次转移满 60 天的域名。"
         ]
       },
       {
@@ -171798,7 +171817,7 @@ const reviewsChunk1: unknown[] = [
       {
         "heading": "快速回答",
         "paragraphs": [
-          "網域是和主機分開的帳戶：可以放在 Hostinger，也可以放在別的註冊商，網站兩種方式都能運作。選的時候看續訂價和好不好遷出，不要看第一年。想把一切放在同一個控制台裡，就在 Hostinger 買；轉入只限符合資格、註冊或上次轉移滿 60 天的網域。"
+          "網域是和主機分開的帳戶：可以放在 [Hostinger](/zh-hant/coupons/hostinger)，也可以放在別的註冊商，網站兩種方式都能運作。選的時候看續訂價和好不好遷出，不要看第一年。想把一切放在同一個控制台裡，就在 Hostinger 買；轉入只限符合資格、註冊或上次轉移滿 60 天的網域。"
         ]
       },
       {
@@ -174473,7 +174492,7 @@ const reviewsChunk1: unknown[] = [
       {
         "heading": "Resposta rápida",
         "paragraphs": [
-          "A YesStyle tem nota 4,4 na Trustpilot, com 105.442 avaliações e 71% de cinco estrelas. Nas 40 avaliações de uma estrela mais recentes que lemos, metade falava de entrega: pedido que não chegou, pacote parado e atraso. A nota junta compradores de vários países, então confira prazo e frete do seu endereço antes de pagar."
+          "A [YesStyle](/cupons/yesstyle) tem nota 4,4 na Trustpilot, com 105.442 avaliações e 71% de cinco estrelas. Nas 40 avaliações de uma estrela mais recentes que lemos, metade falava de entrega: pedido que não chegou, pacote parado e atraso. A nota junta compradores de vários países, então confira prazo e frete do seu endereço antes de pagar."
         ]
       },
       {
@@ -174667,7 +174686,7 @@ const reviewsChunk1: unknown[] = [
       {
         "heading": "Quick answer",
         "paragraphs": [
-          "YesStyle has a 4.4 on Trustpilot, with 105,442 reviews and 71% five-star. Of the 40 most recent one-star reviews we read, half were about delivery: orders that never arrived, parcels stuck in transit and delays. The score pools buyers from many countries, so check the delivery time and shipping cost for your address before paying."
+          "[YesStyle](/en/coupons/yesstyle) has a 4.4 on Trustpilot, with 105,442 reviews and 71% five-star. Of the 40 most recent one-star reviews we read, half were about delivery: orders that never arrived, parcels stuck in transit and delays. The score pools buyers from many countries, so check the delivery time and shipping cost for your address before paying."
         ]
       },
       {
@@ -174861,7 +174880,7 @@ const reviewsChunk1: unknown[] = [
       {
         "heading": "Respuesta rápida",
         "paragraphs": [
-          "YesStyle tiene un 4,4 en Trustpilot, con 105.442 opiniones y un 71 % de cinco estrellas. De las 40 opiniones de una estrella más recientes, la mitad hablaba de envío: pedidos que nunca llegaron, paquetes detenidos o retrasos. La nota reúne compradores de muchos países, así que revisa el plazo y el coste de envío antes de pagar."
+          "[YesStyle](/es/coupons/yesstyle) tiene un 4,4 en Trustpilot, con 105.442 opiniones y un 71 % de cinco estrellas. De las 40 opiniones de una estrella más recientes, la mitad hablaba de envío: pedidos que nunca llegaron, paquetes detenidos o retrasos. La nota reúne compradores de muchos países, así que revisa el plazo y el coste de envío antes de pagar."
         ]
       },
       {
@@ -175055,7 +175074,7 @@ const reviewsChunk1: unknown[] = [
       {
         "heading": "Réponse rapide",
         "paragraphs": [
-          "YesStyle a un 4,4 sur Trustpilot, avec 105 442 avis et 71 % de cinq étoiles. Parmi les 40 avis d’une étoile les plus récents, la moitié concernait la livraison : commandes jamais arrivées, colis bloqués ou retards. La note regroupe des acheteurs de nombreux pays : vérifiez le délai et les frais de port avant de payer."
+          "[YesStyle](/fr/coupons/yesstyle) a un 4,4 sur Trustpilot, avec 105 442 avis et 71 % de cinq étoiles. Parmi les 40 avis d’une étoile les plus récents, la moitié concernait la livraison : commandes jamais arrivées, colis bloqués ou retards. La note regroupe des acheteurs de nombreux pays : vérifiez le délai et les frais de port avant de payer."
         ]
       },
       {
@@ -175249,7 +175268,7 @@ const reviewsChunk1: unknown[] = [
       {
         "heading": "Risposta rapida",
         "paragraphs": [
-          "YesStyle ha un 4,4 su Trustpilot, con 105.442 recensioni e il 71% di cinque stelle. Delle 40 recensioni a una stella più recenti, la metà riguardava la consegna: ordini mai arrivati, pacchi bloccati in transito o ritardi. Il punteggio mette insieme acquirenti di molti paesi, quindi controlla tempi e spese di spedizione per il tuo indirizzo prima di pagare."
+          "[YesStyle](/it/coupons/yesstyle) ha un 4,4 su Trustpilot, con 105.442 recensioni e il 71% di cinque stelle. Delle 40 recensioni a una stella più recenti, la metà riguardava la consegna: ordini mai arrivati, pacchi bloccati in transito o ritardi. Il punteggio mette insieme acquirenti di molti paesi, quindi controlla tempi e spese di spedizione per il tuo indirizzo prima di pagare."
         ]
       },
       {
@@ -175443,7 +175462,7 @@ const reviewsChunk1: unknown[] = [
       {
         "heading": "Kurze Antwort",
         "paragraphs": [
-          "YesStyle hat auf Trustpilot eine Note von 4,4, bei 105.442 Bewertungen und 71 % Fünf-Sterne. Von den 40 neuesten Ein-Stern-Bewertungen, die wir gelesen haben, ging es in der Hälfte um die Lieferung: Bestellungen, die nie ankamen, hängende Pakete oder Verspätungen. Die Note fasst Käufer aus vielen Ländern zusammen. Prüfen Sie deshalb vor dem Bezahlen Lieferzeit und Versandkosten für Ihre Adresse."
+          "[YesStyle](/de/coupons/yesstyle) hat auf Trustpilot eine Note von 4,4, bei 105.442 Bewertungen und 71 % Fünf-Sterne. Von den 40 neuesten Ein-Stern-Bewertungen, die wir gelesen haben, ging es in der Hälfte um die Lieferung: Bestellungen, die nie ankamen, hängende Pakete oder Verspätungen. Die Note fasst Käufer aus vielen Ländern zusammen. Prüfen Sie deshalb vor dem Bezahlen Lieferzeit und Versandkosten für Ihre Adresse."
         ]
       },
       {
@@ -175637,7 +175656,7 @@ const reviewsChunk1: unknown[] = [
       {
         "heading": "結論",
         "paragraphs": [
-          "YesStyleのTrustpilot評価は4.4で、レビューは105,442件、星5つが71%です。私たちが読んだ星1つのレビュー40件のうち半分は配送に関するものでした。届かなかった注文、輸送中で止まった荷物、遅延などです。評価は多くの国の購入者をまとめたものなので、支払う前にあなたの住所への配送日数と送料を確認してください。"
+          "[YesStyle](/ja/coupons/yesstyle)のTrustpilot評価は4.4で、レビューは105,442件、星5つが71%です。私たちが読んだ星1つのレビュー40件のうち半分は配送に関するものでした。届かなかった注文、輸送中で止まった荷物、遅延などです。評価は多くの国の購入者をまとめたものなので、支払う前にあなたの住所への配送日数と送料を確認してください。"
         ]
       },
       {
@@ -175831,7 +175850,7 @@ const reviewsChunk1: unknown[] = [
       {
         "heading": "빠른 답",
         "paragraphs": [
-          "YesStyle의 Trustpilot 평점은 4.4이고, 리뷰는 105,442건, 별 다섯 개는 71%입니다. 우리가 읽은 최신 별 한 개 리뷰 40건 중 절반은 배송 이야기였습니다. 주문이 도착하지 않았거나, 소포가 운송 중에 멈췄거나, 배송이 늦었다는 내용입니다. 이 평점은 여러 나라 구매자를 합친 것이므로, 결제 전에 회원님 주소의 배송 기간과 배송비를 확인하세요."
+          "[YesStyle](/ko/coupons/yesstyle)의 Trustpilot 평점은 4.4이고, 리뷰는 105,442건, 별 다섯 개는 71%입니다. 우리가 읽은 최신 별 한 개 리뷰 40건 중 절반은 배송 이야기였습니다. 주문이 도착하지 않았거나, 소포가 운송 중에 멈췄거나, 배송이 늦었다는 내용입니다. 이 평점은 여러 나라 구매자를 합친 것이므로, 결제 전에 회원님 주소의 배송 기간과 배송비를 확인하세요."
         ]
       },
       {
@@ -176025,7 +176044,7 @@ const reviewsChunk1: unknown[] = [
       {
         "heading": "快速回答",
         "paragraphs": [
-          "YesStyle 在 Trustpilot 的评分是 4.4，共 105,442 条评价，其中 71% 为五星。我们读的 40 条最新一星评价中，有一半谈的是配送：下单后没到货、包裹在运输中卡住，或延误。这个评分把多个国家的买家合并在一起，所以付款前请先确认你的地址的时效和运费。"
+          "[YesStyle](/zh-hans/coupons/yesstyle) 在 Trustpilot 的评分是 4.4，共 105,442 条评价，其中 71% 为五星。我们读的 40 条最新一星评价中，有一半谈的是配送：下单后没到货、包裹在运输中卡住，或延误。这个评分把多个国家的买家合并在一起，所以付款前请先确认你的地址的时效和运费。"
         ]
       },
       {
@@ -176219,7 +176238,7 @@ const reviewsChunk1: unknown[] = [
       {
         "heading": "快速回答",
         "paragraphs": [
-          "YesStyle 在 Trustpilot 的評分是 4.4，共 105,442 則評價，其中 71% 為五星。我們讀的 40 則最新一星評價中，有一半談的是配送：下單後沒到貨、包裹在運送途中卡住，或延誤。這個評分把多國買家合併在一起，所以付款前請先確認你的地址的運送時效與運費。"
+          "[YesStyle](/zh-hant/coupons/yesstyle) 在 Trustpilot 的評分是 4.4，共 105,442 則評價，其中 71% 為五星。我們讀的 40 則最新一星評價中，有一半談的是配送：下單後沒到貨、包裹在運送途中卡住，或延誤。這個評分把多國買家合併在一起，所以付款前請先確認你的地址的運送時效與運費。"
         ]
       },
       {
@@ -176436,7 +176455,7 @@ const reviewsChunk1: unknown[] = [
       {
         "heading": "Resposta rápida",
         "paragraphs": [
-          "A SHEIN tem reputação Boa no Reclame Aqui, com nota 7,5 nos últimos seis meses. Respondeu a 92,6% das reclamações, e 77,6% das avaliadas foram dadas como resolvidas. O ponto de atenção é o produto não recebido, a queixa mais citada em três anos. Se for comprar, o código de indicação 4CW5Y abre a seleção da SHEIN."
+          "A [SHEIN](/cupons/shein) tem reputação Boa no Reclame Aqui, com nota 7,5 nos últimos seis meses. Respondeu a 92,6% das reclamações, e 77,6% das avaliadas foram dadas como resolvidas. O ponto de atenção é o produto não recebido, a queixa mais citada em três anos. Se for comprar, o código de indicação 4CW5Y abre a seleção da SHEIN."
         ]
       },
       {
@@ -176634,7 +176653,7 @@ const reviewsChunk1: unknown[] = [
       {
         "heading": "Quick answer",
         "paragraphs": [
-          "SHEIN has a TrustScore of 3.8 out of 5 on Trustpilot, labelled “Great”, from 353,689 reviews. Most are five stars, but the one-star reviews arrive fast and cluster on parcels that never arrived and refunds that are late or denied. The profile is global, so the score does not say how an order to your country will go."
+          "[SHEIN](/en/coupons/shein) has a TrustScore of 3.8 out of 5 on Trustpilot, labelled “Great”, from 353,689 reviews. Most are five stars, but the one-star reviews arrive fast and cluster on parcels that never arrived and refunds that are late or denied. The profile is global, so the score does not say how an order to your country will go."
         ]
       },
       {
@@ -176830,7 +176849,7 @@ const reviewsChunk1: unknown[] = [
       {
         "heading": "Respuesta rápida",
         "paragraphs": [
-          "SHEIN tiene una TrustScore de 3,8 sobre 5 en Trustpilot, con la etiqueta «Great», a partir de 353.689 opiniones. La mayoría son de cinco estrellas, pero las de una estrella llegan rápido y se concentran en paquetes que no llegan y en reembolsos lentos o denegados. El perfil es global, así que la nota no dice cómo llegará un pedido a tu país."
+          "[SHEIN](/es/coupons/shein) tiene una TrustScore de 3,8 sobre 5 en Trustpilot, con la etiqueta «Great», a partir de 353.689 opiniones. La mayoría son de cinco estrellas, pero las de una estrella llegan rápido y se concentran en paquetes que no llegan y en reembolsos lentos o denegados. El perfil es global, así que la nota no dice cómo llegará un pedido a tu país."
         ]
       },
       {
@@ -177026,7 +177045,7 @@ const reviewsChunk1: unknown[] = [
       {
         "heading": "Réponse rapide",
         "paragraphs": [
-          "SHEIN obtient une TrustScore de 3,8 sur 5 sur Trustpilot, avec la mention « Great », à partir de 353 689 avis. La plupart sont à cinq étoiles, mais les avis à une étoile arrivent vite et portent sur des colis jamais livrés et des remboursements lents ou refusés. Le profil est mondial : la note ne dit donc pas comment arrivera une commande dans votre pays."
+          "[SHEIN](/fr/coupons/shein) obtient une TrustScore de 3,8 sur 5 sur Trustpilot, avec la mention « Great », à partir de 353 689 avis. La plupart sont à cinq étoiles, mais les avis à une étoile arrivent vite et portent sur des colis jamais livrés et des remboursements lents ou refusés. Le profil est mondial : la note ne dit donc pas comment arrivera une commande dans votre pays."
         ]
       },
       {
@@ -177222,7 +177241,7 @@ const reviewsChunk1: unknown[] = [
       {
         "heading": "Risposta rapida",
         "paragraphs": [
-          "SHEIN ha un TrustScore di 3,8 su 5 su Trustpilot, con l’etichetta «Great», su 353.689 recensioni. Le più sono a cinque stelle, ma le recensioni a una stella arrivano in fretta e riguardano pacchi mai consegnati e rimborsi lenti o negati. Il profilo è globale, quindi il punteggio non dice come arriverà un ordine nel tuo paese."
+          "[SHEIN](/it/coupons/shein) ha un TrustScore di 3,8 su 5 su Trustpilot, con l’etichetta «Great», su 353.689 recensioni. Le più sono a cinque stelle, ma le recensioni a una stella arrivano in fretta e riguardano pacchi mai consegnati e rimborsi lenti o negati. Il profilo è globale, quindi il punteggio non dice come arriverà un ordine nel tuo paese."
         ]
       },
       {
@@ -177418,7 +177437,7 @@ const reviewsChunk1: unknown[] = [
       {
         "heading": "Kurze Antwort",
         "paragraphs": [
-          "SHEIN erreicht auf Trustpilot einen TrustScore von 3,8 von 5 mit dem Label „Great“, aus 353.689 Bewertungen. Die meisten sind Fünf-Sterne-Bewertungen, doch die Ein-Stern-Bewertungen kommen schnell und drehen sich um Pakete, die nie ankamen, und Erstattungen, die langsam erfolgen oder abgelehnt werden. Das Profil ist global. Die Note sagt deshalb nicht, wie eine Bestellung in Ihr Land ankommt."
+          "[SHEIN](/de/coupons/shein) erreicht auf Trustpilot einen TrustScore von 3,8 von 5 mit dem Label „Great“, aus 353.689 Bewertungen. Die meisten sind Fünf-Sterne-Bewertungen, doch die Ein-Stern-Bewertungen kommen schnell und drehen sich um Pakete, die nie ankamen, und Erstattungen, die langsam erfolgen oder abgelehnt werden. Das Profil ist global. Die Note sagt deshalb nicht, wie eine Bestellung in Ihr Land ankommt."
         ]
       },
       {
@@ -177614,7 +177633,7 @@ const reviewsChunk1: unknown[] = [
       {
         "heading": "結論",
         "paragraphs": [
-          "SHEIN は Trustpilot で TrustScore 3.8（5点満点、ラベルは「Great」）、353,689件のレビューを集めています。大半は星5つですが、星1つのレビューは速く増えており、届かない荷物や遅い、あるいは断られる返金に集中しています。プロフィールは世界全体のもので、この点数からご自身の国への注文がどうなるかはわかりません。"
+          "[SHEIN](/ja/coupons/shein) は Trustpilot で TrustScore 3.8（5点満点、ラベルは「Great」）、353,689件のレビューを集めています。大半は星5つですが、星1つのレビューは速く増えており、届かない荷物や遅い、あるいは断られる返金に集中しています。プロフィールは世界全体のもので、この点数からご自身の国への注文がどうなるかはわかりません。"
         ]
       },
       {
@@ -177810,7 +177829,7 @@ const reviewsChunk1: unknown[] = [
       {
         "heading": "핵심 답변",
         "paragraphs": [
-          "SHEIN은 트러스트파일럿에서 TrustScore 3.8점(5점 만점, 등급 “Great”)을 받았고 리뷰는 353,689건입니다. 대부분 별 다섯 개지만 별 한 개 리뷰는 빨리 올라오며, 배송되지 않은 소포와 늦거나 거절된 환불에 몰려 있습니다. 프로필이 전 세계 단위라서, 이 점수만으로는 내 나라로 가는 주문이 어떨지 알 수 없습니다."
+          "[SHEIN](/ko/coupons/shein)은 트러스트파일럿에서 TrustScore 3.8점(5점 만점, 등급 “Great”)을 받았고 리뷰는 353,689건입니다. 대부분 별 다섯 개지만 별 한 개 리뷰는 빨리 올라오며, 배송되지 않은 소포와 늦거나 거절된 환불에 몰려 있습니다. 프로필이 전 세계 단위라서, 이 점수만으로는 내 나라로 가는 주문이 어떨지 알 수 없습니다."
         ]
       },
       {
@@ -178006,7 +178025,7 @@ const reviewsChunk1: unknown[] = [
       {
         "heading": "简要回答",
         "paragraphs": [
-          "SHEIN 在 Trustpilot 的 TrustScore 为 3.8（满分 5），标签为「Great」，共 353,689 条评价。多数是五星，但一星评价来得快，集中在没有送达的包裹和拖延或被拒的退款上。这是全球资料，评分无法说明寄到你所在国家的订单会怎样。"
+          "[SHEIN](/zh-hans/coupons/shein) 在 Trustpilot 的 TrustScore 为 3.8（满分 5），标签为「Great」，共 353,689 条评价。多数是五星，但一星评价来得快，集中在没有送达的包裹和拖延或被拒的退款上。这是全球资料，评分无法说明寄到你所在国家的订单会怎样。"
         ]
       },
       {
@@ -178202,7 +178221,7 @@ const reviewsChunk1: unknown[] = [
       {
         "heading": "簡要回答",
         "paragraphs": [
-          "SHEIN 在 Trustpilot 的 TrustScore 為 3.8（滿分 5），標籤為「Great」，共 353,689 則評價。多數是五星，但一星評價來得快，集中在沒有送達的包裹和拖延或被拒的退款上。這是全球資料，評分無法說明寄到你所在國家的訂單會怎樣。"
+          "[SHEIN](/zh-hant/coupons/shein) 在 Trustpilot 的 TrustScore 為 3.8（滿分 5），標籤為「Great」，共 353,689 則評價。多數是五星，但一星評價來得快，集中在沒有送達的包裹和拖延或被拒的退款上。這是全球資料，評分無法說明寄到你所在國家的訂單會怎樣。"
         ]
       },
       {
@@ -180924,7 +180943,7 @@ const reviewsChunk1: unknown[] = [
       {
         "heading": "Resposta rápida",
         "paragraphs": [
-          "O Hostinger Reach compensa para quem já tem site na Hostinger e uma lista de até 1.000 destinatários: o preço fica abaixo do Mailchimp e do Brevo pagos. Quem começa sem verba pode usar antes o plano grátis de um deles. O limite de envio e o WhatsApp decidem; o SONAR20 dá 20% no primeiro período, só em compra nova."
+          "O [Hostinger](/cupons/hostinger) Reach compensa para quem já tem site na Hostinger e uma lista de até 1.000 destinatários: o preço fica abaixo do Mailchimp e do Brevo pagos. Quem começa sem verba pode usar antes o plano grátis de um deles. O limite de envio e o WhatsApp decidem; o SONAR20 dá 20% no primeiro período, só em compra nova."
         ]
       },
       {
@@ -181205,7 +181224,7 @@ const reviewsChunk1: unknown[] = [
       {
         "heading": "Quick answer",
         "paragraphs": [
-          "Reach is worth it for anyone who already has a site on Hostinger and a list of up to 1,000 recipients. Anyone starting with no budget can use the free plan of Mailchimp or Brevo first. The sending limit and WhatsApp decide; SONAR20 gives 20% on the first period of a new purchase."
+          "Reach is worth it for anyone who already has a site on [Hostinger](/en/coupons/hostinger) and a list of up to 1,000 recipients. Anyone starting with no budget can use the free plan of Mailchimp or Brevo first. The sending limit and WhatsApp decide; SONAR20 gives 20% on the first period of a new purchase."
         ]
       },
       {
@@ -181454,7 +181473,7 @@ const reviewsChunk1: unknown[] = [
       {
         "heading": "Respuesta rápida",
         "paragraphs": [
-          "Reach compensa a quien ya tiene un sitio en Hostinger y una lista de hasta 1.000 destinatarios. Quien empieza sin presupuesto puede usar antes el plan gratis de Mailchimp o de Brevo. Deciden el límite de envío y el WhatsApp; SONAR20 da 20% en el primer periodo de una compra nueva."
+          "Reach compensa a quien ya tiene un sitio en [Hostinger](/es/coupons/hostinger) y una lista de hasta 1.000 destinatarios. Quien empieza sin presupuesto puede usar antes el plan gratis de Mailchimp o de Brevo. Deciden el límite de envío y el WhatsApp; SONAR20 da 20% en el primer periodo de una compra nueva."
         ]
       },
       {
@@ -181703,7 +181722,7 @@ const reviewsChunk1: unknown[] = [
       {
         "heading": "Réponse rapide",
         "paragraphs": [
-          "Reach convient à ceux qui ont déjà un site chez Hostinger et une liste allant jusqu'à 1 000 destinataires. Qui débute sans budget peut d'abord utiliser le forfait gratuit de Mailchimp ou de Brevo. La limite d'envoi et WhatsApp tranchent ; SONAR20 donne 20 % sur la première période d'un nouvel achat."
+          "Reach convient à ceux qui ont déjà un site chez [Hostinger](/fr/coupons/hostinger) et une liste allant jusqu'à 1 000 destinataires. Qui débute sans budget peut d'abord utiliser le forfait gratuit de Mailchimp ou de Brevo. La limite d'envoi et WhatsApp tranchent ; SONAR20 donne 20 % sur la première période d'un nouvel achat."
         ]
       },
       {
@@ -181952,7 +181971,7 @@ const reviewsChunk1: unknown[] = [
       {
         "heading": "Risposta rapida",
         "paragraphs": [
-          "Reach conviene a chi ha già un sito su Hostinger e una lista fino a 1.000 destinatari. Chi parte senza budget può usare prima il piano gratuito di Mailchimp o di Brevo. Decidono il limite di invio e WhatsApp; SONAR20 dà il 20% sul primo periodo di un nuovo acquisto."
+          "Reach conviene a chi ha già un sito su [Hostinger](/it/coupons/hostinger) e una lista fino a 1.000 destinatari. Chi parte senza budget può usare prima il piano gratuito di Mailchimp o di Brevo. Decidono il limite di invio e WhatsApp; SONAR20 dà il 20% sul primo periodo di un nuovo acquisto."
         ]
       },
       {
@@ -182204,7 +182223,7 @@ const reviewsChunk1: unknown[] = [
       {
         "heading": "Kurze Antwort",
         "paragraphs": [
-          "Reach lohnt sich für alle, die schon eine Website bei Hostinger und eine Liste mit bis zu 1.000 Empfängern haben. Wer ohne Budget startet, kann zuerst den kostenlosen Tarif von Mailchimp oder Brevo nutzen. Versandlimit und WhatsApp entscheiden; SONAR20 gibt 20 % auf den ersten Zeitraum eines Neukaufs."
+          "Reach lohnt sich für alle, die schon eine Website bei [Hostinger](/de/coupons/hostinger) und eine Liste mit bis zu 1.000 Empfängern haben. Wer ohne Budget startet, kann zuerst den kostenlosen Tarif von Mailchimp oder Brevo nutzen. Versandlimit und WhatsApp entscheiden; SONAR20 gibt 20 % auf den ersten Zeitraum eines Neukaufs."
         ]
       },
       {
@@ -182456,7 +182475,7 @@ const reviewsChunk1: unknown[] = [
       {
         "heading": "クイックアンサー",
         "paragraphs": [
-          "Hostinger のサイトをすでにお持ちで、宛先が1,000件までなら Reach が合っています。予算をかけずに始めるなら、先に Mailchimp か Brevo の無料プランを使うのも手です。決め手は送信上限と WhatsApp で、SONAR20 は新規購入の最初の期間が 20% 割引です。"
+          "[Hostinger](/ja/coupons/hostinger) のサイトをすでにお持ちで、宛先が1,000件までなら Reach が合っています。予算をかけずに始めるなら、先に Mailchimp か Brevo の無料プランを使うのも手です。決め手は送信上限と WhatsApp で、SONAR20 は新規購入の最初の期間が 20% 割引です。"
         ]
       },
       {
@@ -182707,7 +182726,7 @@ const reviewsChunk1: unknown[] = [
       {
         "heading": "빠른 답변",
         "paragraphs": [
-          "Hostinger에 이미 사이트가 있고 수신자가 1,000명 이하라면 Reach가 맞습니다. 예산 없이 시작한다면 Mailchimp나 Brevo의 무료 플랜이 먼저입니다. 결정은 발송 한도와 WhatsApp이 하고, SONAR20은 신규 구매의 첫 기간에 20% 할인됩니다."
+          "[Hostinger](/ko/coupons/hostinger)에 이미 사이트가 있고 수신자가 1,000명 이하라면 Reach가 맞습니다. 예산 없이 시작한다면 Mailchimp나 Brevo의 무료 플랜이 먼저입니다. 결정은 발송 한도와 WhatsApp이 하고, SONAR20은 신규 구매의 첫 기간에 20% 할인됩니다."
         ]
       },
       {
@@ -182959,7 +182978,7 @@ const reviewsChunk1: unknown[] = [
       {
         "heading": "快速回答",
         "paragraphs": [
-          "如果你已在 Hostinger 有网站，且收件人在 1,000 人以内，Reach 值得用。刚开始、没有预算的话，可以先用 Mailchimp 或 Brevo 的免费版。决定选择的是发送上限和 WhatsApp，SONAR20 对新购的首个周期减 20%。"
+          "如果你已在 [Hostinger](/zh-hans/coupons/hostinger) 有网站，且收件人在 1,000 人以内，Reach 值得用。刚开始、没有预算的话，可以先用 Mailchimp 或 Brevo 的免费版。决定选择的是发送上限和 WhatsApp，SONAR20 对新购的首个周期减 20%。"
         ]
       },
       {
@@ -183211,7 +183230,7 @@ const reviewsChunk1: unknown[] = [
       {
         "heading": "快速回答",
         "paragraphs": [
-          "如果你已在 Hostinger 有網站，且收件人在 1,000 人以內，Reach 值得用。剛開始、沒有預算的話，可以先用 Mailchimp 或 Brevo 的免費版。決定選擇的是寄送上限和 WhatsApp，SONAR20 對新購的首個週期減 20%。"
+          "如果你已在 [Hostinger](/zh-hant/coupons/hostinger) 有網站，且收件人在 1,000 人以內，Reach 值得用。剛開始、沒有預算的話，可以先用 Mailchimp 或 Brevo 的免費版。決定選擇的是寄送上限和 WhatsApp，SONAR20 對新購的首個週期減 20%。"
         ]
       },
       {
@@ -183463,7 +183482,7 @@ const reviewsChunk1: unknown[] = [
       {
         "heading": "Resposta rápida",
         "paragraphs": [
-          "Pela renovação, a Hostinger sai mais barata no plano de 1 site, e a HostGator, no plano para muitos sites, que ainda traz mais espaço. Antes de escolher, confira se o plano atende à aplicação, ao espaço e ao backup do projeto, não só ao número de sites. O SONAR20 dá 20% na compra nova da Hostinger, não na renovação."
+          "Pela renovação, a [Hostinger](/cupons/hostinger) sai mais barata no plano de 1 site, e a HostGator, no plano para muitos sites, que ainda traz mais espaço. Antes de escolher, confira se o plano atende à aplicação, ao espaço e ao backup do projeto, não só ao número de sites. O SONAR20 dá 20% na compra nova da Hostinger, não na renovação."
         ]
       },
       {
@@ -183804,7 +183823,7 @@ const reviewsChunk1: unknown[] = [
       {
         "heading": "Quick answer",
         "paragraphs": [
-          "By renewal price, Hostinger's Premium is the cheapest plan, and Unlimited is the one for many sites, with no site limit. Start with your application's requirements, not just site count. SONAR20 gives 20% off a new Hostinger purchase, not a renewal."
+          "By renewal price, [Hostinger](/en/coupons/hostinger)'s Premium is the cheapest plan, and Unlimited is the one for many sites, with no site limit. Start with your application's requirements, not just site count. SONAR20 gives 20% off a new Hostinger purchase, not a renewal."
         ]
       },
       {
@@ -184048,7 +184067,7 @@ const reviewsChunk1: unknown[] = [
       {
         "heading": "Respuesta rápida",
         "paragraphs": [
-          "Por la renovación, el Premium de Hostinger es el plan más barato, y el Unlimited es el de muchos sitios, sin límite de sitios. Antes de elegir, confirma que el plan cubre la aplicación, el espacio y el backup, no solo la cantidad de sitios. El código SONAR20 da 20 % en compra nueva, no en la renovación."
+          "Por la renovación, el Premium de [Hostinger](/es/coupons/hostinger) es el plan más barato, y el Unlimited es el de muchos sitios, sin límite de sitios. Antes de elegir, confirma que el plan cubre la aplicación, el espacio y el backup, no solo la cantidad de sitios. El código SONAR20 da 20 % en compra nueva, no en la renovación."
         ]
       },
       {
@@ -184292,7 +184311,7 @@ const reviewsChunk1: unknown[] = [
       {
         "heading": "Réponse rapide",
         "paragraphs": [
-          "Au renouvellement, le forfait Premium de Hostinger est le moins cher, et Unlimited est celui des nombreux sites, sans limite de sites. Avant de choisir, vérifiez que le forfait couvre l'application, l'espace et la sauvegarde, pas seulement le nombre de sites. Le code SONAR20 donne 20 % sur un nouvel achat, pas au renouvellement."
+          "Au renouvellement, le forfait Premium de [Hostinger](/fr/coupons/hostinger) est le moins cher, et Unlimited est celui des nombreux sites, sans limite de sites. Avant de choisir, vérifiez que le forfait couvre l'application, l'espace et la sauvegarde, pas seulement le nombre de sites. Le code SONAR20 donne 20 % sur un nouvel achat, pas au renouvellement."
         ]
       },
       {
@@ -184536,7 +184555,7 @@ const reviewsChunk1: unknown[] = [
       {
         "heading": "Risposta rapida",
         "paragraphs": [
-          "Guardando il rinnovo, il Premium della Hostinger è il piano più economico, e l'Unlimited è quello per molti siti, senza limite di siti. Prima di scegliere, verifica che il piano copra applicazione, spazio e backup, non solo il numero di siti. Il codice SONAR20 dà il 20% su un acquisto nuovo, non sul rinnovo."
+          "Guardando il rinnovo, il Premium della [Hostinger](/it/coupons/hostinger) è il piano più economico, e l'Unlimited è quello per molti siti, senza limite di siti. Prima di scegliere, verifica che il piano copra applicazione, spazio e backup, non solo il numero di siti. Il codice SONAR20 dà il 20% su un acquisto nuovo, non sul rinnovo."
         ]
       },
       {
@@ -185024,7 +185043,7 @@ const reviewsChunk1: unknown[] = [
       {
         "heading": "クイックアンサー",
         "paragraphs": [
-          "レンタルサーバーは、最初の期間の割引ではなく、更新料を月額で比べて選びます。3サイトまでならHostingerのPremium、それより多いならUnlimitedが目安で、アプリの要件も先に確かめてください。SONAR20 を使うと、Hostinger の新規購入が 20% オフになります（更新は対象外）。"
+          "レンタルサーバーは、最初の期間の割引ではなく、更新料を月額で比べて選びます。3サイトまでなら[Hostinger](/ja/coupons/hostinger)のPremium、それより多いならUnlimitedが目安で、アプリの要件も先に確かめてください。SONAR20 を使うと、Hostinger の新規購入が 20% オフになります（更新は対象外）。"
         ]
       },
       {
@@ -185267,7 +185286,7 @@ const reviewsChunk1: unknown[] = [
       {
         "heading": "빠른 답변",
         "paragraphs": [
-          "호스팅은 첫 기간의 할인이 아니라 갱신가를 월 단위로 비교해 고릅니다. 사이트가 3개까지면 호스팅어 Premium, 그보다 많으면 Unlimited를 보되 애플리케이션 요구 사항부터 확인하세요. SONAR20 코드는 호스팅어 신규 구매에 20% 할인을 주며, 갱신에는 적용되지 않습니다."
+          "호스팅은 첫 기간의 할인이 아니라 갱신가를 월 단위로 비교해 고릅니다. 사이트가 3개까지면 [호스팅어](/ko/coupons/hostinger) Premium, 그보다 많으면 Unlimited를 보되 애플리케이션 요구 사항부터 확인하세요. SONAR20 코드는 호스팅어 신규 구매에 20% 할인을 주며, 갱신에는 적용되지 않습니다."
         ]
       },
       {
@@ -185511,7 +185530,7 @@ const reviewsChunk1: unknown[] = [
       {
         "heading": "快速回答",
         "paragraphs": [
-          "选主机不要看首期的折扣，要把续费价按月并排比较。网站在 3 个以内，看 Hostinger 的 Premium；网站更多，看 Unlimited，但要先确认应用、空间和备份需求。SONAR20 可让 Hostinger 新购享 20% 折扣，续费不适用。"
+          "选主机不要看首期的折扣，要把续费价按月并排比较。网站在 3 个以内，看 [Hostinger](/zh-hans/coupons/hostinger) 的 Premium；网站更多，看 Unlimited，但要先确认应用、空间和备份需求。SONAR20 可让 Hostinger 新购享 20% 折扣，续费不适用。"
         ]
       },
       {
@@ -185755,7 +185774,7 @@ const reviewsChunk1: unknown[] = [
       {
         "heading": "快速回答",
         "paragraphs": [
-          "選主機不要看首期的折扣，要把續訂價按月並排比較。網站在 3 個以內，看 Hostinger 的 Premium；網站更多，看 Unlimited，但要先確認應用程式、空間與備份需求。SONAR20 可讓 Hostinger 新購享 20% 折扣，續訂不適用。"
+          "選主機不要看首期的折扣，要把續訂價按月並排比較。網站在 3 個以內，看 [Hostinger](/zh-hant/coupons/hostinger) 的 Premium；網站更多，看 Unlimited，但要先確認應用程式、空間與備份需求。SONAR20 可讓 Hostinger 新購享 20% 折扣，續訂不適用。"
         ]
       },
       {
@@ -185999,7 +186018,7 @@ const reviewsChunk1: unknown[] = [
       {
         "heading": "Resposta rápida",
         "paragraphs": [
-          "Para quem já decidiu usar WordPress na Hostinger, o Single atende um site, o Premium até três, e o Unlimited ou o Cloud Startup servem para vários sites ou loja, com backups diários. Decidem o número de sites, o backup e a renovação. O SONAR20 dá 20% no primeiro período de uma compra nova; renovação e domínio ficam fora."
+          "Para quem já decidiu usar WordPress na [Hostinger](/cupons/hostinger), o Single atende um site, o Premium até três, e o Unlimited ou o Cloud Startup servem para vários sites ou loja, com backups diários. Decidem o número de sites, o backup e a renovação. O SONAR20 dá 20% no primeiro período de uma compra nova; renovação e domínio ficam fora."
         ]
       },
       {
@@ -186227,7 +186246,7 @@ const reviewsChunk1: unknown[] = [
       {
         "heading": "Quick answer",
         "paragraphs": [
-          "If you have already decided to use WordPress on Hostinger, Premium covers up to three sites, Unlimited serves several sites or a store with daily backups, and Cloud Startup is for heavy traffic. The number of sites, the backup and the renewal price decide. SONAR20 gives 20% off the first period of a new purchase; renewals and domains are excluded."
+          "If you have already decided to use WordPress on [Hostinger](/en/coupons/hostinger), Premium covers up to three sites, Unlimited serves several sites or a store with daily backups, and Cloud Startup is for heavy traffic. The number of sites, the backup and the renewal price decide. SONAR20 gives 20% off the first period of a new purchase; renewals and domains are excluded."
         ]
       },
       {
@@ -186436,7 +186455,7 @@ const reviewsChunk1: unknown[] = [
       {
         "heading": "Respuesta rápida",
         "paragraphs": [
-          "Si ya decidiste usar WordPress en Hostinger, Premium cubre hasta tres sitios, Unlimited sirve para varios sitios o una tienda con backups diarios, y Cloud Startup, para mucho tráfico. Deciden el número de sitios, el backup y la renovación. SONAR20 da un 20% en el primer período de una compra nueva; renovación y dominio quedan fuera."
+          "Si ya decidiste usar WordPress en [Hostinger](/es/coupons/hostinger), Premium cubre hasta tres sitios, Unlimited sirve para varios sitios o una tienda con backups diarios, y Cloud Startup, para mucho tráfico. Deciden el número de sitios, el backup y la renovación. SONAR20 da un 20% en el primer período de una compra nueva; renovación y dominio quedan fuera."
         ]
       },
       {
@@ -186645,7 +186664,7 @@ const reviewsChunk1: unknown[] = [
       {
         "heading": "Réponse rapide",
         "paragraphs": [
-          "Si vous avez déjà choisi WordPress chez Hostinger, Premium couvre jusqu'à trois sites ; Unlimited, avec sauvegardes quotidiennes, convient à plusieurs sites ou à une boutique, et Cloud Startup au trafic important. Le choix dépend du nombre de sites, de la sauvegarde et du renouvellement. SONAR20 donne 20 % sur la première période d'un nouvel achat ; renouvellement et domaine sont exclus."
+          "Si vous avez déjà choisi WordPress chez [Hostinger](/fr/coupons/hostinger), Premium couvre jusqu'à trois sites ; Unlimited, avec sauvegardes quotidiennes, convient à plusieurs sites ou à une boutique, et Cloud Startup au trafic important. Le choix dépend du nombre de sites, de la sauvegarde et du renouvellement. SONAR20 donne 20 % sur la première période d'un nouvel achat ; renouvellement et domaine sont exclus."
         ]
       },
       {
@@ -186854,7 +186873,7 @@ const reviewsChunk1: unknown[] = [
       {
         "heading": "Risposta rapida",
         "paragraphs": [
-          "Per chi ha già deciso di usare WordPress su Hostinger, Premium copre fino a tre siti, mentre Unlimited o Cloud Startup servono per più siti o un negozio, e Unlimited ha i backup giornalieri. Decidono numero di siti, backup e rinnovo. SONAR20 dà il 20% sul primo periodo di un nuovo acquisto; rinnovo e dominio sono esclusi."
+          "Per chi ha già deciso di usare WordPress su [Hostinger](/it/coupons/hostinger), Premium copre fino a tre siti, mentre Unlimited o Cloud Startup servono per più siti o un negozio, e Unlimited ha i backup giornalieri. Decidono numero di siti, backup e rinnovo. SONAR20 dà il 20% sul primo periodo di un nuovo acquisto; rinnovo e dominio sono esclusi."
         ]
       },
       {
@@ -187063,7 +187082,7 @@ const reviewsChunk1: unknown[] = [
       {
         "heading": "Kurze Antwort",
         "paragraphs": [
-          "Wer bei Hostinger schon WordPress nutzen will, nimmt Premium für bis zu drei Websites; Unlimited und Cloud Startup sind für mehrere Websites oder einen Shop gedacht, tägliche Backups hat der Unlimited. Entscheidend sind Anzahl der Websites, Backup und Verlängerung. Mit SONAR20 gibt es 20 % im ersten Zeitraum eines Neukaufs; Verlängerung und Domains sind ausgeschlossen."
+          "Wer bei [Hostinger](/de/coupons/hostinger) schon WordPress nutzen will, nimmt Premium für bis zu drei Websites; Unlimited und Cloud Startup sind für mehrere Websites oder einen Shop gedacht, tägliche Backups hat der Unlimited. Entscheidend sind Anzahl der Websites, Backup und Verlängerung. Mit SONAR20 gibt es 20 % im ersten Zeitraum eines Neukaufs; Verlängerung und Domains sind ausgeschlossen."
         ]
       },
       {
@@ -187272,7 +187291,7 @@ const reviewsChunk1: unknown[] = [
       {
         "heading": "クイックアンサー",
         "paragraphs": [
-          "すでに Hostinger で WordPress を使うと決めている人には、Premium は3サイトまで、Unlimited と Cloud Startup は複数サイトやショップ向けで、Unlimited には毎日のバックアップが付きます。違いはサイト数、バックアップ、更新料です。SONAR20は新規購入の初回契約期間が20%割引で、更新とドメインは対象外です。"
+          "すでに [Hostinger](/ja/coupons/hostinger) で WordPress を使うと決めている人には、Premium は3サイトまで、Unlimited と Cloud Startup は複数サイトやショップ向けで、Unlimited には毎日のバックアップが付きます。違いはサイト数、バックアップ、更新料です。SONAR20は新規購入の初回契約期間が20%割引で、更新とドメインは対象外です。"
         ]
       },
       {
@@ -187480,7 +187499,7 @@ const reviewsChunk1: unknown[] = [
       {
         "heading": "빠른 답변",
         "paragraphs": [
-          "WordPress를 호스팅어에서 쓰기로 했다면, Premium은 사이트 3개까지 맞고, Unlimited는 여러 사이트나 스토어에 맞으며 백업을 매일 받고, Cloud Startup은 트래픽이 많은 사이트용입니다. 고르는 기준은 사이트 수, 백업, 갱신가입니다. SONAR20은 신규 구매 첫 계약 기간에 20% 할인되며 갱신과 도메인은 제외됩니다."
+          "WordPress를 [호스팅어](/ko/coupons/hostinger)에서 쓰기로 했다면, Premium은 사이트 3개까지 맞고, Unlimited는 여러 사이트나 스토어에 맞으며 백업을 매일 받고, Cloud Startup은 트래픽이 많은 사이트용입니다. 고르는 기준은 사이트 수, 백업, 갱신가입니다. SONAR20은 신규 구매 첫 계약 기간에 20% 할인되며 갱신과 도메인은 제외됩니다."
         ]
       },
       {
@@ -187689,7 +187708,7 @@ const reviewsChunk1: unknown[] = [
       {
         "heading": "快速回答",
         "paragraphs": [
-          "如果你已经决定在 Hostinger 上使用 WordPress：Premium 可放 3 个网站；Unlimited 适合多个网站或网店，每日备份；Cloud Startup 适合流量很大的网店和网站。决定选择的是网站数量、备份和续费价。SONAR20 可在新购的首个周期享 20% 折扣，续费与域名除外。"
+          "如果你已经决定在 [Hostinger](/zh-hans/coupons/hostinger) 上使用 WordPress：Premium 可放 3 个网站；Unlimited 适合多个网站或网店，每日备份；Cloud Startup 适合流量很大的网店和网站。决定选择的是网站数量、备份和续费价。SONAR20 可在新购的首个周期享 20% 折扣，续费与域名除外。"
         ]
       },
       {
@@ -187898,7 +187917,7 @@ const reviewsChunk1: unknown[] = [
       {
         "heading": "快速回答",
         "paragraphs": [
-          "如果你已經決定在 Hostinger 上使用 WordPress：Premium 最多可放 3 個網站；Unlimited 適合多個網站或網路商店，每日備份；Cloud Startup 適合流量很大的商店與網站。真正影響選擇的是網站數量、備份與續約價。SONAR20 可在新購的首個週期享 20% 折扣，續約與網域除外。"
+          "如果你已經決定在 [Hostinger](/zh-hant/coupons/hostinger) 上使用 WordPress：Premium 最多可放 3 個網站；Unlimited 適合多個網站或網路商店，每日備份；Cloud Startup 適合流量很大的商店與網站。真正影響選擇的是網站數量、備份與續約價。SONAR20 可在新購的首個週期享 20% 折扣，續約與網域除外。"
         ]
       },
       {
@@ -204210,7 +204229,7 @@ const reviewsChunk1: unknown[] = [
       {
         "heading": "Resposta rápida",
         "paragraphs": [
-          "Vale, sim: para quem confere a tabela de medidas antes de fechar o carrinho e pode esperar a entrega, a SHEIN compensa pelo preço total ao revisar frete e tributos no resumo. O código de indicação 4CW5Y dá desconto em produtos selecionados pelo link da Cecília ou na busca do app e do site. Veja abaixo prazo, envio e devolução."
+          "Vale, sim: para quem confere a tabela de medidas antes de fechar o carrinho e pode esperar a entrega, a [SHEIN](/cupons/shein) compensa pelo preço total ao revisar frete e tributos no resumo. O código de indicação 4CW5Y dá desconto em produtos selecionados pelo link da Cecília ou na busca do app e do site. Veja abaixo prazo, envio e devolução."
         ]
       },
       {
@@ -204446,7 +204465,7 @@ const reviewsChunk1: unknown[] = [
       {
         "heading": "Quick answer",
         "paragraphs": [
-          "Yes, it's worth it: if you check the size chart before checkout and can wait for delivery, SHEIN pays off on the total price when you include shipping and taxes. Referral code 4CW5Y gives a discount on selected items through Cecília's link or by searching in the app or on the site. Review delivery times, returns, and sizing below before paying."
+          "Yes, it's worth it: if you check the size chart before checkout and can wait for delivery, [SHEIN](/en/coupons/shein) pays off on the total price when you include shipping and taxes. Referral code 4CW5Y gives a discount on selected items through Cecília's link or by searching in the app or on the site. Review delivery times, returns, and sizing below before paying."
         ]
       },
       {
@@ -204602,7 +204621,7 @@ const reviewsChunk1: unknown[] = [
       {
         "heading": "Respuesta rápida",
         "paragraphs": [
-          "Sí, vale la pena: si revisas la tabla de medidas antes de cerrar el carrito y puedes esperar la entrega, SHEIN compensa en el precio total al incluir envío e impuestos en el resumen. El código de referido 4CW5Y da descuento en productos seleccionados desde el enlace de Cecília o buscándolo en la app o en el sitio. Mira abajo plazos, devoluciones y tallas."
+          "Sí, vale la pena: si revisas la tabla de medidas antes de cerrar el carrito y puedes esperar la entrega, [SHEIN](/es/coupons/shein) compensa en el precio total al incluir envío e impuestos en el resumen. El código de referido 4CW5Y da descuento en productos seleccionados desde el enlace de Cecília o buscándolo en la app o en el sitio. Mira abajo plazos, devoluciones y tallas."
         ]
       },
       {
@@ -204758,7 +204777,7 @@ const reviewsChunk1: unknown[] = [
       {
         "heading": "Réponse rapide",
         "paragraphs": [
-          "Oui, ça vaut le coup : si vous vérifiez le tableau des mesures avant de valider votre panier et pouvez attendre la livraison, SHEIN reste avantageux sur le prix total en comptant port et taxes. Le code de parrainage 4CW5Y donne une réduction sur une sélection d'articles via le lien de Cecília ou en le cherchant dans l'appli ou sur le site. Voyez ci-dessous délais, retours et tailles."
+          "Oui, ça vaut le coup : si vous vérifiez le tableau des mesures avant de valider votre panier et pouvez attendre la livraison, [SHEIN](/fr/coupons/shein) reste avantageux sur le prix total en comptant port et taxes. Le code de parrainage 4CW5Y donne une réduction sur une sélection d'articles via le lien de Cecília ou en le cherchant dans l'appli ou sur le site. Voyez ci-dessous délais, retours et tailles."
         ]
       },
       {
@@ -204914,7 +204933,7 @@ const reviewsChunk1: unknown[] = [
       {
         "heading": "Kurzantwort",
         "paragraphs": [
-          "Ja, es lohnt sich: Wenn Sie vor dem Bestellen die Maßtabelle prüfen und die Lieferzeit abwarten können, rechnet sich SHEIN beim Gesamtpreis inklusive Versand und Abgaben. Der Empfehlungscode 4CW5Y gibt Rabatt auf ausgewählte Produkte über Cecílias Link oder über die Suche in App und Website. Unten stehen Details zu Lieferzeit, Rückgabe und Größen."
+          "Ja, es lohnt sich: Wenn Sie vor dem Bestellen die Maßtabelle prüfen und die Lieferzeit abwarten können, rechnet sich [SHEIN](/de/coupons/shein) beim Gesamtpreis inklusive Versand und Abgaben. Der Empfehlungscode 4CW5Y gibt Rabatt auf ausgewählte Produkte über Cecílias Link oder über die Suche in App und Website. Unten stehen Details zu Lieferzeit, Rückgabe und Größen."
         ]
       },
       {
@@ -205070,7 +205089,7 @@ const reviewsChunk1: unknown[] = [
       {
         "heading": "Risposta rapida",
         "paragraphs": [
-          "Sì, conviene: per chi controlla la tabella delle misure prima di chiudere il carrello e può aspettare la consegna, SHEIN offre un prezzo totale vantaggioso considerando spedizione e tasse. Il codice invito 4CW5Y dà sconto su una selezione di prodotti tramite il link di Cecília o cercandolo nell'app e sul sito. Qui sotto trovi tempi, resi e dettagli sulle taglie."
+          "Sì, conviene: per chi controlla la tabella delle misure prima di chiudere il carrello e può aspettare la consegna, [SHEIN](/it/coupons/shein) offre un prezzo totale vantaggioso considerando spedizione e tasse. Il codice invito 4CW5Y dà sconto su una selezione di prodotti tramite il link di Cecília o cercandolo nell'app e sul sito. Qui sotto trovi tempi, resi e dettagli sulle taglie."
         ]
       },
       {
@@ -205226,7 +205245,7 @@ const reviewsChunk1: unknown[] = [
       {
         "heading": "빠른 답",
         "paragraphs": [
-          "네, 살 만해요. 장바구니 결제 전에 치수표를 확인하고 배송을 기다릴 수 있다면, 배송비와 세금을 포함한 총액에서도 SHEIN이 가격 이점이 있어요. 추천 코드 4CW5Y는 Cecília의 링크로 열거나 앱이나 사이트에서 검색하면 일부 추천 상품에 할인이 있어요. 아래에서 배송 기간과 반품 조건을 확인해 보세요."
+          "네, 살 만해요. 장바구니 결제 전에 치수표를 확인하고 배송을 기다릴 수 있다면, 배송비와 세금을 포함한 총액에서도 [SHEIN](/ko/coupons/shein)이 가격 이점이 있어요. 추천 코드 4CW5Y는 Cecília의 링크로 열거나 앱이나 사이트에서 검색하면 일부 추천 상품에 할인이 있어요. 아래에서 배송 기간과 반품 조건을 확인해 보세요."
         ]
       },
       {
@@ -205382,7 +205401,7 @@ const reviewsChunk1: unknown[] = [
       {
         "heading": "結論",
         "paragraphs": [
-          "はい、買う価値があります。カートを確定する前にサイズ表を確認し、配送を待てるなら、送料・税金を含めた総額で見てもSHEINはお得です。紹介コード4CW5Yは、Cecíliaのリンクから開くかアプリ・サイトで検索すると、おすすめ商品の割引になります。下で配送日数や返品、サイズの選び方を確認してください。"
+          "はい、買う価値があります。カートを確定する前にサイズ表を確認し、配送を待てるなら、送料・税金を含めた総額で見ても[SHEIN](/ja/coupons/shein)はお得です。紹介コード4CW5Yは、Cecíliaのリンクから開くかアプリ・サイトで検索すると、おすすめ商品の割引になります。下で配送日数や返品、サイズの選び方を確認してください。"
         ]
       },
       {
@@ -205538,7 +205557,7 @@ const reviewsChunk1: unknown[] = [
       {
         "heading": "快速解答",
         "paragraphs": [
-          "是的，值得買：只要在結帳前先核對尺碼表、也能等待運送時間，把運費與稅金算進總價後，SHEIN 依然划算。推薦碼 4CW5Y 會為精選商品帶來折扣，只要透過 Cecília 的連結開啟，或在 App 與網站搜尋即可。付款前請先看下方的運送時間、退貨與尺碼說明。"
+          "是的，值得買：只要在結帳前先核對尺碼表、也能等待運送時間，把運費與稅金算進總價後，[SHEIN](/zh-hant/coupons/shein) 依然划算。推薦碼 4CW5Y 會為精選商品帶來折扣，只要透過 Cecília 的連結開啟，或在 App 與網站搜尋即可。付款前請先看下方的運送時間、退貨與尺碼說明。"
         ]
       },
       {
@@ -205694,7 +205713,7 @@ const reviewsChunk1: unknown[] = [
       {
         "heading": "快速回答",
         "paragraphs": [
-          "是的，值得买：只要在结账前先核对尺码表、也能等待配送时间，把运费和税费算进总价后，SHEIN 依然划算。推荐码 4CW5Y 会为精选商品带来折扣，只要通过 Cecília 的链接打开，或在 App 与网站搜索即可。付款前请先看下方的配送时间、退货和尺码说明。"
+          "是的，值得买：只要在结账前先核对尺码表、也能等待配送时间，把运费和税费算进总价后，[SHEIN](/zh-hans/coupons/shein) 依然划算。推荐码 4CW5Y 会为精选商品带来折扣，只要通过 Cecília 的链接打开，或在 App 与网站搜索即可。付款前请先看下方的配送时间、退货和尺码说明。"
         ]
       },
       {
@@ -205849,7 +205868,7 @@ const reviewsChunk1: unknown[] = [
       {
         "heading": "Resposta rápida",
         "paragraphs": [
-          "Na SHEIN, abra o guia específico da peça e compare a tabela corporal com as suas medidas; na tabela do produto, considere as dimensões da roupa e o ajuste que você quer. A letra habitual não basta. Se não servir, a devolução depende da política e da peça."
+          "Na [SHEIN](/cupons/shein), abra o guia específico da peça e compare a tabela corporal com as suas medidas; na tabela do produto, considere as dimensões da roupa e o ajuste que você quer. A letra habitual não basta. Se não servir, a devolução depende da política e da peça."
         ]
       },
       {
@@ -206158,7 +206177,7 @@ const reviewsChunk1: unknown[] = [
       {
         "heading": "Quick answer",
         "paragraphs": [
-          "At SHEIN, open the specific item's guide and compare its body chart with your measurements; for product measurements, consider garment dimensions and the fit you want. Your usual letter is not enough. Return options and costs depend on the policy and the item."
+          "At [SHEIN](/en/coupons/shein), open the specific item's guide and compare its body chart with your measurements; for product measurements, consider garment dimensions and the fit you want. Your usual letter is not enough. Return options and costs depend on the policy and the item."
         ]
       },
       {
@@ -206431,7 +206450,7 @@ const reviewsChunk1: unknown[] = [
       {
         "heading": "Respuesta rápida",
         "paragraphs": [
-          "En SHEIN, abre la guía del artículo concreto y compara su tabla corporal con tus medidas. La letra cambia de una marca a otra: la M de una no es la M de la otra. Si no te queda bien, la posibilidad y el costo de la devolución dependen de la política y del artículo."
+          "En [SHEIN](/es/coupons/shein), abre la guía del artículo concreto y compara su tabla corporal con tus medidas. La letra cambia de una marca a otra: la M de una no es la M de la otra. Si no te queda bien, la posibilidad y el costo de la devolución dependen de la política y del artículo."
         ]
       },
       {
@@ -206704,7 +206723,7 @@ const reviewsChunk1: unknown[] = [
       {
         "heading": "Réponse rapide",
         "paragraphs": [
-          "Chez SHEIN, ouvrez le guide de l’article précis et comparez son tableau corporel à vos mesures. La lettre change d’une marque à l’autre : le M de l’une n’est pas le M de l’autre. Si ça ne convient pas, la possibilité et le coût du retour dépendent de l’article et de la politique."
+          "Chez [SHEIN](/fr/coupons/shein), ouvrez le guide de l’article précis et comparez son tableau corporel à vos mesures. La lettre change d’une marque à l’autre : le M de l’une n’est pas le M de l’autre. Si ça ne convient pas, la possibilité et le coût du retour dépendent de l’article et de la politique."
         ]
       },
       {
@@ -206977,7 +206996,7 @@ const reviewsChunk1: unknown[] = [
       {
         "heading": "Kurzantwort",
         "paragraphs": [
-          "Öffnen Sie bei SHEIN den Guide des konkreten Artikels und vergleichen Sie die Körpertabelle mit Ihren Maßen. Der Buchstabe ändert sich von Marke zu Marke: Das M der einen ist nicht das M der anderen. Passt es nicht, hängen Rückgabe und Kosten von Richtlinie und Artikel ab."
+          "Öffnen Sie bei [SHEIN](/de/coupons/shein) den Guide des konkreten Artikels und vergleichen Sie die Körpertabelle mit Ihren Maßen. Der Buchstabe ändert sich von Marke zu Marke: Das M der einen ist nicht das M der anderen. Passt es nicht, hängen Rückgabe und Kosten von Richtlinie und Artikel ab."
         ]
       },
       {
@@ -207250,7 +207269,7 @@ const reviewsChunk1: unknown[] = [
       {
         "heading": "Risposta rapida",
         "paragraphs": [
-          "Su SHEIN apri la guida del capo preciso e confronta la tabella corporea con le tue misure. La lettera cambia da un marchio all'altro: la M di una non è la M dell'altra. Se non va bene, la possibilità e il costo del reso dipendono da capo e politica."
+          "Su [SHEIN](/it/coupons/shein) apri la guida del capo preciso e confronta la tabella corporea con le tue misure. La lettera cambia da un marchio all'altro: la M di una non è la M dell'altra. Se non va bene, la possibilità e il costo del reso dipendono da capo e politica."
         ]
       },
       {
@@ -207523,7 +207542,7 @@ const reviewsChunk1: unknown[] = [
       {
         "heading": "빠른 답",
         "paragraphs": [
-          "SHEIN에서는 해당 상품 가이드를 열고, 신체 표는 몸과 비교하며 상품 치수는 옷의 크기와 원하는 핏으로 판단하십시오. 평소 사이즈 글자만으로는 부족합니다. 반품 가능 여부와 비용은 상품과 정책에 따라 다릅니다."
+          "[SHEIN](/ko/coupons/shein)에서는 해당 상품 가이드를 열고, 신체 표는 몸과 비교하며 상품 치수는 옷의 크기와 원하는 핏으로 판단하십시오. 평소 사이즈 글자만으로는 부족합니다. 반품 가능 여부와 비용은 상품과 정책에 따라 다릅니다."
         ]
       },
       {
@@ -207796,7 +207815,7 @@ const reviewsChunk1: unknown[] = [
       {
         "heading": "結論",
         "paragraphs": [
-          "SHEINではその商品のガイドを開き、身体表は身体と比べ、商品寸法は服の大きさと好みのフィットで判断してください。普段の文字だけでは不十分です。返品可否と費用は商品と規約によります。"
+          "[SHEIN](/ja/coupons/shein)ではその商品のガイドを開き、身体表は身体と比べ、商品寸法は服の大きさと好みのフィットで判断してください。普段の文字だけでは不十分です。返品可否と費用は商品と規約によります。"
         ]
       },
       {
@@ -208069,7 +208088,7 @@ const reviewsChunk1: unknown[] = [
       {
         "heading": "快速解答",
         "paragraphs": [
-          "在SHEIN請開啟該件商品尺碼表。身體表與身體比較，商品尺寸則看衣物大小和想要版型。平常字母不夠；退貨可否與費用依商品和政策而定。"
+          "在[SHEIN](/zh-hant/coupons/shein)請開啟該件商品尺碼表。身體表與身體比較，商品尺寸則看衣物大小和想要版型。平常字母不夠；退貨可否與費用依商品和政策而定。"
         ]
       },
       {
@@ -208342,7 +208361,7 @@ const reviewsChunk1: unknown[] = [
       {
         "heading": "快速回答",
         "paragraphs": [
-          "在SHEIN请打开该件商品尺码表。身体表与身体比较，商品尺寸则看衣物大小和想要版型。平时字母不够；退货可否与费用按商品和政策判断。"
+          "在[SHEIN](/zh-hans/coupons/shein)请打开该件商品尺码表。身体表与身体比较，商品尺寸则看衣物大小和想要版型。平时字母不够；退货可否与费用按商品和政策判断。"
         ]
       },
       {
@@ -216352,7 +216371,7 @@ const reviewsChunk1: unknown[] = [
       {
         "heading": "Resposta rápida",
         "paragraphs": [
-          "Para um ano, a GoDaddy cobra menos nos dois pares de planos. Para dois e quatro anos, a Hostinger com SONAR20 custa menos. Os totais são só de hospedagem: domínio e e-mail, depois do primeiro ano, renovam à parte nas duas empresas."
+          "Para um ano, a GoDaddy cobra menos nos dois pares de planos. Para dois e quatro anos, a [Hostinger](/cupons/hostinger) com SONAR20 custa menos. Os totais são só de hospedagem: domínio e e-mail, depois do primeiro ano, renovam à parte nas duas empresas."
         ]
       },
       {
@@ -216684,7 +216703,7 @@ const reviewsChunk1: unknown[] = [
       {
         "heading": "Quick answer",
         "paragraphs": [
-          "In US dollars, Hostinger Premium with SONAR20 costs less than GoDaddy Economy over one, two and four years of hosting. Its quoted annual hosting renewal is also lower. Both include a domain and email free for the first year, and those renewals are not in the hosting totals."
+          "In US dollars, [Hostinger](/en/coupons/hostinger) Premium with SONAR20 costs less than GoDaddy Economy over one, two and four years of hosting. Its quoted annual hosting renewal is also lower. Both include a domain and email free for the first year, and those renewals are not in the hosting totals."
         ]
       },
       {
@@ -217009,7 +217028,7 @@ const reviewsChunk1: unknown[] = [
       {
         "heading": "Respuesta rápida",
         "paragraphs": [
-          "En los precios internacionales, Hostinger Premium con SONAR20 cuesta menos que GoDaddy Economy por 1, 2 y 4 años de hosting. Su renovación anual anunciada también es menor. Ambos incluyen dominio y correo gratis solo el primer año; renovarlos después cuesta aparte y queda fuera de los totales comparados."
+          "En los precios internacionales, [Hostinger](/es/coupons/hostinger) Premium con SONAR20 cuesta menos que GoDaddy Economy por 1, 2 y 4 años de hosting. Su renovación anual anunciada también es menor. Ambos incluyen dominio y correo gratis solo el primer año; renovarlos después cuesta aparte y queda fuera de los totales comparados."
         ]
       },
       {
@@ -217334,7 +217353,7 @@ const reviewsChunk1: unknown[] = [
       {
         "heading": "Réponse rapide",
         "paragraphs": [
-          "Aux tarifs internationaux, Hostinger Premium avec SONAR20 coûte moins que GoDaddy Economy pour un, deux et quatre ans d'hébergement. Son renouvellement annuel annoncé est également moins cher. Le domaine et l'e-mail sont gratuits uniquement la première année ; leurs renouvellements sont facturés séparément et exclus des totaux comparés."
+          "Aux tarifs internationaux, [Hostinger](/fr/coupons/hostinger) Premium avec SONAR20 coûte moins que GoDaddy Economy pour un, deux et quatre ans d'hébergement. Son renouvellement annuel annoncé est également moins cher. Le domaine et l'e-mail sont gratuits uniquement la première année ; leurs renouvellements sont facturés séparément et exclus des totaux comparés."
         ]
       },
       {
@@ -217659,7 +217678,7 @@ const reviewsChunk1: unknown[] = [
       {
         "heading": "Risposta rapida",
         "paragraphs": [
-          "Ai prezzi internazionali in dollari, Hostinger Premium con SONAR20 costa meno di GoDaddy Economy per 1, 2 e 4 anni di hosting. Anche il rinnovo annuale indicato è più basso. Dominio ed e-mail sono gratis solo il primo anno: i rinnovi successivi si aggiungono agli importi confrontati."
+          "Ai prezzi internazionali in dollari, [Hostinger](/it/coupons/hostinger) Premium con SONAR20 costa meno di GoDaddy Economy per 1, 2 e 4 anni di hosting. Anche il rinnovo annuale indicato è più basso. Dominio ed e-mail sono gratis solo il primo anno: i rinnovi successivi si aggiungono agli importi confrontati."
         ]
       },
       {
@@ -217984,7 +218003,7 @@ const reviewsChunk1: unknown[] = [
       {
         "heading": "Kurze Antwort",
         "paragraphs": [
-          "In US-Dollar kostet Hostinger Premium mit SONAR20 bei einem, zwei und vier Jahren Hosting weniger als GoDaddy Economy. Auch die jährliche Hosting-Verlängerung ist günstiger (131,88 US$ gegenüber 143,88 US$). Domain und E-Mail sind bei beiden im ersten Jahr gratis; ihre Verlängerungen sind in den Hosting-Summen nicht enthalten."
+          "In US-Dollar kostet [Hostinger](/de/coupons/hostinger) Premium mit SONAR20 bei einem, zwei und vier Jahren Hosting weniger als GoDaddy Economy. Auch die jährliche Hosting-Verlängerung ist günstiger (131,88 US$ gegenüber 143,88 US$). Domain und E-Mail sind bei beiden im ersten Jahr gratis; ihre Verlängerungen sind in den Hosting-Summen nicht enthalten."
         ]
       },
       {
@@ -218309,7 +218328,7 @@ const reviewsChunk1: unknown[] = [
       {
         "heading": "クイックアンサー",
         "paragraphs": [
-          "米ドル価格では、SONAR20適用後のHostinger Premiumは、1年・2年・4年のホスティング料金でGoDaddy Economyを下回ります。SONAR20は更新には適用されませんが、年間更新料もPremiumがUS$131.88、EconomyがUS$143.88で、Premiumのほうが低くなります。両プランのドメインとメールが無料なのは最初の1年だけです。"
+          "米ドル価格では、SONAR20適用後の[Hostinger](/ja/coupons/hostinger) Premiumは、1年・2年・4年のホスティング料金でGoDaddy Economyを下回ります。SONAR20は更新には適用されませんが、年間更新料もPremiumがUS$131.88、EconomyがUS$143.88で、Premiumのほうが低くなります。両プランのドメインとメールが無料なのは最初の1年だけです。"
         ]
       },
       {
@@ -218633,7 +218652,7 @@ const reviewsChunk1: unknown[] = [
       {
         "heading": "빠른 답변",
         "paragraphs": [
-          "미국 달러 기준으로 SONAR20을 적용한 호스팅어 Premium은 1년·2년·4년 호스팅 비용이 GoDaddy Economy보다 낮습니다. SONAR20은 갱신에는 적용되지 않으며, 연간 호스팅 갱신가도 Premium(US$ 131.88)이 Economy(US$ 143.88)보다 낮습니다. 두 플랜 모두 도메인과 이메일은 첫 1년만 무료이고, 그 갱신비는 호스팅 합계에 들어 있지 않습니다."
+          "미국 달러 기준으로 SONAR20을 적용한 [호스팅어](/ko/coupons/hostinger) Premium은 1년·2년·4년 호스팅 비용이 GoDaddy Economy보다 낮습니다. SONAR20은 갱신에는 적용되지 않으며, 연간 호스팅 갱신가도 Premium(US$ 131.88)이 Economy(US$ 143.88)보다 낮습니다. 두 플랜 모두 도메인과 이메일은 첫 1년만 무료이고, 그 갱신비는 호스팅 합계에 들어 있지 않습니다."
         ]
       },
       {
@@ -218958,7 +218977,7 @@ const reviewsChunk1: unknown[] = [
       {
         "heading": "快速回答",
         "paragraphs": [
-          "以美元计算，使用 SONAR20 的 Hostinger Premium，一年、两年和四年的主机费用都比 GoDaddy Economy 低。它的年度主机续费报价也更低。两个套餐的域名和邮箱第一年免费，这些续费不计入主机总价。"
+          "以美元计算，使用 SONAR20 的 [Hostinger](/zh-hans/coupons/hostinger) Premium，一年、两年和四年的主机费用都比 GoDaddy Economy 低。它的年度主机续费报价也更低。两个套餐的域名和邮箱第一年免费，这些续费不计入主机总价。"
         ]
       },
       {
@@ -219283,7 +219302,7 @@ const reviewsChunk1: unknown[] = [
       {
         "heading": "快速回答",
         "paragraphs": [
-          "以美元計算，Hostinger Premium 使用 SONAR20，在 1 年、2 年和 4 年的主機費上都低於 GoDaddy Economy。它的年度續訂報價也比較低。兩個方案都附一年免費的網域和電子郵件，之後的續訂費另計，不含在主機費總額內。"
+          "以美元計算，[Hostinger](/zh-hant/coupons/hostinger) Premium 使用 SONAR20，在 1 年、2 年和 4 年的主機費上都低於 GoDaddy Economy。它的年度續訂報價也比較低。兩個方案都附一年免費的網域和電子郵件，之後的續訂費另計，不含在主機費總額內。"
         ]
       },
       {
@@ -224349,7 +224368,7 @@ const reviewsChunk1: unknown[] = [
       {
         "heading": "Resposta rápida",
         "paragraphs": [
-          "Vá de YesStyle se não quer arriscar: tem nota 4,4 no Trustpilot (105.442 avaliações), contra 1,9 (137) da StyleKorean. O CECILIA010 dá até 5% extra. Frete e encargos ficam fora da conta. No Brasil, a YesStyle voltou a entregar: veja o capítulo do país."
+          "Vá de [YesStyle](/cupons/yesstyle) se não quer arriscar: tem nota 4,4 no Trustpilot (105.442 avaliações), contra 1,9 (137) da StyleKorean. O CECILIA010 dá até 5% extra. Frete e encargos ficam fora da conta. No Brasil, a YesStyle voltou a entregar: veja o capítulo do país."
         ]
       },
       {
@@ -224734,7 +224753,7 @@ const reviewsChunk1: unknown[] = [
       {
         "heading": "Quick answer",
         "paragraphs": [
-          "Go with YesStyle if you don't want to take a chance: it rates 4.4 on Trustpilot (105,442 reviews), against StyleKorean's 1.9 (137). CECILIA010 adds up to 5%. Shipping and charges are not counted. For other destinations, check at checkout that the store delivers to your address and what shipping and charges apply."
+          "Go with [YesStyle](/en/coupons/yesstyle) if you don't want to take a chance: it rates 4.4 on Trustpilot (105,442 reviews), against StyleKorean's 1.9 (137). CECILIA010 adds up to 5%. Shipping and charges are not counted. For other destinations, check at checkout that the store delivers to your address and what shipping and charges apply."
         ]
       },
       {
@@ -225118,7 +225137,7 @@ const reviewsChunk1: unknown[] = [
       {
         "heading": "Respuesta rápida",
         "paragraphs": [
-          "Ve a YesStyle si no quieres arriesgar: tiene nota 4,4 en Trustpilot (105.442 valoraciones), contra 1,9 (137) de StyleKorean. El CECILIA010 da hasta 5 % extra. Envío y cargos no cuentan. Para otros destinos, mira en el pago si entregan en tu dirección y qué cargos aplican."
+          "Ve a [YesStyle](/es/coupons/yesstyle) si no quieres arriesgar: tiene nota 4,4 en Trustpilot (105.442 valoraciones), contra 1,9 (137) de StyleKorean. El CECILIA010 da hasta 5 % extra. Envío y cargos no cuentan. Para otros destinos, mira en el pago si entregan en tu dirección y qué cargos aplican."
         ]
       },
       {
@@ -225502,7 +225521,7 @@ const reviewsChunk1: unknown[] = [
       {
         "heading": "Réponse rapide",
         "paragraphs": [
-          "Partez sur YesStyle si vous ne voulez pas prendre de risque : Trustpilot 4,4 (105 442 avis) contre 1,9 (137) pour StyleKorean. CECILIA010 ajoute jusqu'à 5 %. Livraison et taxes non comptées. Hors des destinations des tableaux, vérifiez au paiement si elle livre chez vous et quels frais s'appliquent."
+          "Partez sur [YesStyle](/fr/coupons/yesstyle) si vous ne voulez pas prendre de risque : Trustpilot 4,4 (105 442 avis) contre 1,9 (137) pour StyleKorean. CECILIA010 ajoute jusqu'à 5 %. Livraison et taxes non comptées. Hors des destinations des tableaux, vérifiez au paiement si elle livre chez vous et quels frais s'appliquent."
         ]
       },
       {
@@ -225886,7 +225905,7 @@ const reviewsChunk1: unknown[] = [
       {
         "heading": "Kurzantwort",
         "paragraphs": [
-          "Nehmen Sie YesStyle, wenn Sie kein Risiko eingehen wollen: 4,4 auf Trustpilot (105.442 Bewertungen) gegenüber 1,9 (137) bei StyleKorean. Reward Code CECILIA010 bringt bis zu 5 % extra; Versand und Abgaben nicht eingerechnet. Außerhalb dieser Länder klären Sie im Checkout, ob an Ihre Adresse geliefert wird und welche Abgaben gelten."
+          "Nehmen Sie [YesStyle](/de/coupons/yesstyle), wenn Sie kein Risiko eingehen wollen: 4,4 auf Trustpilot (105.442 Bewertungen) gegenüber 1,9 (137) bei StyleKorean. Reward Code CECILIA010 bringt bis zu 5 % extra; Versand und Abgaben nicht eingerechnet. Außerhalb dieser Länder klären Sie im Checkout, ob an Ihre Adresse geliefert wird und welche Abgaben gelten."
         ]
       },
       {
@@ -226270,7 +226289,7 @@ const reviewsChunk1: unknown[] = [
       {
         "heading": "Risposta rapida",
         "paragraphs": [
-          "Vai con YesStyle se non vuoi rischiare: ha 4,4 su Trustpilot (105.442 recensioni), contro 1,9 (137) di StyleKorean. CECILIA010 dà fino al 5% in più. Spedizione e oneri restano fuori dal conto. Per le altre destinazioni, controlla al checkout se consegnano al tuo indirizzo e con quali spese."
+          "Vai con [YesStyle](/it/coupons/yesstyle) se non vuoi rischiare: ha 4,4 su Trustpilot (105.442 recensioni), contro 1,9 (137) di StyleKorean. CECILIA010 dà fino al 5% in più. Spedizione e oneri restano fuori dal conto. Per le altre destinazioni, controlla al checkout se consegnano al tuo indirizzo e con quali spese."
         ]
       },
       {
@@ -226654,7 +226673,7 @@ const reviewsChunk1: unknown[] = [
       {
         "heading": "핵심 요약",
         "paragraphs": [
-          "위험을 감수하고 싶지 않다면 YesStyle로 가세요. Trustpilot 평점은 4.4(리뷰 105,442건)로 StyleKorean의 1.9(137건)보다 높습니다. CECILIA010은 최대 5%를 더 깎아 줍니다. 배송비와 부과금은 계산에 들어 있지 않습니다. 표에 나온 나라 밖에 산다면 결제 화면에서 내 주소로 배송되는지, 배송비와 부과금이 얼마인지 먼저 확인하세요."
+          "위험을 감수하고 싶지 않다면 [YesStyle](/ko/coupons/yesstyle)로 가세요. Trustpilot 평점은 4.4(리뷰 105,442건)로 StyleKorean의 1.9(137건)보다 높습니다. CECILIA010은 최대 5%를 더 깎아 줍니다. 배송비와 부과금은 계산에 들어 있지 않습니다. 표에 나온 나라 밖에 산다면 결제 화면에서 내 주소로 배송되는지, 배송비와 부과금이 얼마인지 먼저 확인하세요."
         ]
       },
       {
@@ -227038,7 +227057,7 @@ const reviewsChunk1: unknown[] = [
       {
         "heading": "まずは結論",
         "paragraphs": [
-          "リスクを避けたいならYesStyleです。Trustpilotの評価は4.4（105,442件）で、StyleKoreanの1.9（137件）を上回ります。CECILIA010で最大5%が上乗せされます。送料と諸費用は計算に含まれていません。表にある配送先以外にお住まいの方は、チェックアウトで住所への配送の可否と、送料や諸費用がいくらかかるかを確認してください。"
+          "リスクを避けたいなら[YesStyle](/ja/coupons/yesstyle)です。Trustpilotの評価は4.4（105,442件）で、StyleKoreanの1.9（137件）を上回ります。CECILIA010で最大5%が上乗せされます。送料と諸費用は計算に含まれていません。表にある配送先以外にお住まいの方は、チェックアウトで住所への配送の可否と、送料や諸費用がいくらかかるかを確認してください。"
         ]
       },
       {
@@ -227422,7 +227441,7 @@ const reviewsChunk1: unknown[] = [
       {
         "heading": "快速解答",
         "paragraphs": [
-          "想少冒點風險，就選 YesStyle：Trustpilot 評分 4.4（105,442 則評價），StyleKorean 則是 1.9（137 則）。CECILIA010 可再額外省最高 5%。運費與稅費不在計算內。如果你所在的地方不在本文表格列出的目的地中，請在結帳時確認店家是否寄到你的地址，以及適用的運費與稅費。"
+          "想少冒點風險，就選 [YesStyle](/zh-hant/coupons/yesstyle)：Trustpilot 評分 4.4（105,442 則評價），StyleKorean 則是 1.9（137 則）。CECILIA010 可再額外省最高 5%。運費與稅費不在計算內。如果你所在的地方不在本文表格列出的目的地中，請在結帳時確認店家是否寄到你的地址，以及適用的運費與稅費。"
         ]
       },
       {
@@ -227806,7 +227825,7 @@ const reviewsChunk1: unknown[] = [
       {
         "heading": "快速解答",
         "paragraphs": [
-          "如果不想冒险，就选 YesStyle：它在 Trustpilot 上的评分是 4.4（105,442 条评价），StyleKorean 只有 1.9（137 条）。CECILIA010 最高可额外再省 5%。运费和各类费用不计入比较。表中所列目的地之外，请在结账页确认店家能否寄到你的地址，以及运费和其他费用怎么算。"
+          "如果不想冒险，就选 [YesStyle](/zh-hans/coupons/yesstyle)：它在 Trustpilot 上的评分是 4.4（105,442 条评价），StyleKorean 只有 1.9（137 条）。CECILIA010 最高可额外再省 5%。运费和各类费用不计入比较。表中所列目的地之外，请在结账页确认店家能否寄到你的地址，以及运费和其他费用怎么算。"
         ]
       },
       {
@@ -228189,7 +228208,7 @@ const reviewsChunk1: unknown[] = [
       {
         "heading": "Resposta rápida",
         "paragraphs": [
-          "A StyleKorean é da Silicon2, empresa listada na Coreia. A nota 1,9 no Trustpilot (137 avaliações) pede atenção às queixas de entrega e taxa. Vá de YesStyle se prioriza a reputação no Trustpilot: nota 4,4 e CECILIA010 com até 5% extra. No Brasil, a entrega da YesStyle está suspensa temporariamente."
+          "A StyleKorean é da Silicon2, empresa listada na Coreia. A nota 1,9 no Trustpilot (137 avaliações) pede atenção às queixas de entrega e taxa. Vá de [YesStyle](/cupons/yesstyle) se prioriza a reputação no Trustpilot: nota 4,4 e CECILIA010 com até 5% extra. A YesStyle voltou a entregar no Brasil (envio Standard de 21 a 25 dias úteis e frete grátis a partir de US$ 80)."
         ]
       },
       {
@@ -228457,7 +228476,7 @@ const reviewsChunk1: unknown[] = [
       {
         "heading": "E no Brasil?",
         "paragraphs": [
-          "No Brasil, a entrega vem antes da reputação. A da YesStyle está suspensa temporariamente, e o CECILIA010 só ajuda quando ela voltar. As regras dela para o país estão em [YesStyle entrega no Brasil e em Portugal?](/reviews/yesstyle-entrega-no-brasil-e-portugal).",
+          "No Brasil, a entrega vem antes da reputação. A YesStyle voltou a entregar no país (envio Standard em 21 a 25 dias úteis e frete grátis a partir de US$ 80), onde o CECILIA010 já pode ser usado. As regras dela para o país estão em [YesStyle entrega no Brasil e em Portugal?](/reviews/yesstyle-entrega-no-brasil-e-portugal).",
           "A StyleKorean mostra o Brasil no seletor de país e um catálogo de itens que diz poder enviar para cá, mas isso não confirma a entrega: a tabela de frete não traz o país, e não encontramos relato de entrega. Antes de pagar, veja se o checkout aceita o seu endereço, qual é o frete e se os impostos entram na conta ou podem ser cobrados depois."
         ]
       },
@@ -228509,7 +228528,7 @@ const reviewsChunk1: unknown[] = [
         "slug": "yesstyle-entrega-no-brasil-e-portugal"
       }
     ],
-    "updatedAt": "2026-11-23"
+    "updatedAt": "2026-11-26"
   },
   {
     "id": 877,
@@ -228545,7 +228564,7 @@ const reviewsChunk1: unknown[] = [
       {
         "heading": "Quick answer",
         "paragraphs": [
-          "StyleKorean is run by Silicon2, a company listed in Korea. Its 1.9 rating on Trustpilot (137 reviews) means the delivery and fee complaints deserve a close look. Go with YesStyle if you put reputation first: it rates 4.4 on Trustpilot, and CECILIA010 adds up to 5% extra."
+          "StyleKorean is run by Silicon2, a company listed in Korea. Its 1.9 rating on Trustpilot (137 reviews) means the delivery and fee complaints deserve a close look. Go with [YesStyle](/en/coupons/yesstyle) if you put reputation first: it rates 4.4 on Trustpilot, and CECILIA010 adds up to 5% extra."
         ]
       },
       {
@@ -228901,7 +228920,7 @@ const reviewsChunk1: unknown[] = [
       {
         "heading": "Respuesta rápida",
         "paragraphs": [
-          "StyleKorean es de Silicon2, una empresa que cotiza en bolsa en Corea. Su nota de 1,9 en Trustpilot (137 valoraciones) pide atención a las quejas de envío y tasas. Ve a YesStyle si das prioridad a la reputación en Trustpilot: nota 4,4 y el código de recompensa CECILIA010 con hasta 5 % extra."
+          "StyleKorean es de Silicon2, una empresa que cotiza en bolsa en Corea. Su nota de 1,9 en Trustpilot (137 valoraciones) pide atención a las quejas de envío y tasas. Ve a [YesStyle](/es/coupons/yesstyle) si das prioridad a la reputación en Trustpilot: nota 4,4 y el código de recompensa CECILIA010 con hasta 5 % extra."
         ]
       },
       {
@@ -229257,7 +229276,7 @@ const reviewsChunk1: unknown[] = [
       {
         "heading": "Réponse rapide",
         "paragraphs": [
-          "StyleKorean appartient à Silicon2, société cotée en Corée. Sa note de 1,9 sur Trustpilot (137 avis) appelle à la prudence sur la livraison et les taxes. Choisissez YesStyle si la réputation prime : note de 4,4 et CECILIA010 jusqu'à 5 % de plus."
+          "StyleKorean appartient à Silicon2, société cotée en Corée. Sa note de 1,9 sur Trustpilot (137 avis) appelle à la prudence sur la livraison et les taxes. Choisissez [YesStyle](/fr/coupons/yesstyle) si la réputation prime : note de 4,4 et CECILIA010 jusqu'à 5 % de plus."
         ]
       },
       {
@@ -229613,7 +229632,7 @@ const reviewsChunk1: unknown[] = [
       {
         "heading": "Kurzantwort",
         "paragraphs": [
-          "StyleKorean gehört zu Silicon2, einem in Korea börsennotierten Unternehmen. Die Bewertung von 1,9 auf Trustpilot (137 Bewertungen) ist ein Grund, bei den Beschwerden über Lieferung und Zoll genau hinzuschauen. Nehmen Sie YesStyle, wenn Ihnen der Ruf auf Trustpilot wichtig ist: 4,4 und der Reward Code CECILIA010 mit bis zu 5 % extra."
+          "StyleKorean gehört zu Silicon2, einem in Korea börsennotierten Unternehmen. Die Bewertung von 1,9 auf Trustpilot (137 Bewertungen) ist ein Grund, bei den Beschwerden über Lieferung und Zoll genau hinzuschauen. Nehmen Sie [YesStyle](/de/coupons/yesstyle), wenn Ihnen der Ruf auf Trustpilot wichtig ist: 4,4 und der Reward Code CECILIA010 mit bis zu 5 % extra."
         ]
       },
       {
@@ -229969,7 +229988,7 @@ const reviewsChunk1: unknown[] = [
       {
         "heading": "Risposta rapida",
         "paragraphs": [
-          "StyleKorean appartiene a Silicon2, azienda quotata in Corea. Il voto 1,9 su Trustpilot (137 recensioni) invita a guardare con attenzione i reclami su consegna e imposte. Scegli YesStyle se per te conta la reputazione su Trustpilot: voto 4,4 e CECILIA010 con fino al 5% in più."
+          "StyleKorean appartiene a Silicon2, azienda quotata in Corea. Il voto 1,9 su Trustpilot (137 recensioni) invita a guardare con attenzione i reclami su consegna e imposte. Scegli [YesStyle](/it/coupons/yesstyle) se per te conta la reputazione su Trustpilot: voto 4,4 e CECILIA010 con fino al 5% in più."
         ]
       },
       {
@@ -230325,7 +230344,7 @@ const reviewsChunk1: unknown[] = [
       {
         "heading": "핵심 요약",
         "paragraphs": [
-          "StyleKorean은 코스닥 상장사 Silicon2가 운영합니다. Trustpilot 평점은 1.9(리뷰 137건)이고, 배송과 세금에 대한 불만이 눈에 띕니다. Trustpilot 평판을 중시한다면 YesStyle로 가세요. 평점은 4.4이고, 리워드 코드 CECILIA010으로 최대 5%를 추가 할인받을 수 있습니다."
+          "StyleKorean은 코스닥 상장사 Silicon2가 운영합니다. Trustpilot 평점은 1.9(리뷰 137건)이고, 배송과 세금에 대한 불만이 눈에 띕니다. Trustpilot 평판을 중시한다면 [YesStyle](/ko/coupons/yesstyle)로 가세요. 평점은 4.4이고, 리워드 코드 CECILIA010으로 최대 5%를 추가 할인받을 수 있습니다."
         ]
       },
       {
@@ -230686,7 +230705,7 @@ const reviewsChunk1: unknown[] = [
       {
         "heading": "まずは結論",
         "paragraphs": [
-          "StyleKoreanを運営しているのは、韓国に上場しているSilicon2です。Trustpilotの評価は1.9（137件）で、配送や税金への不満には注意が必要です。Trustpilotでの評判を重視するならYesStyleです。評価は4.4で、リワードコードのCECILIA010で最大5%が上乗せされます。"
+          "StyleKoreanを運営しているのは、韓国に上場しているSilicon2です。Trustpilotの評価は1.9（137件）で、配送や税金への不満には注意が必要です。Trustpilotでの評判を重視するなら[YesStyle](/ja/coupons/yesstyle)です。評価は4.4で、リワードコードのCECILIA010で最大5%が上乗せされます。"
         ]
       },
       {
@@ -231053,7 +231072,7 @@ const reviewsChunk1: unknown[] = [
       {
         "heading": "快速解答",
         "paragraphs": [
-          "StyleKorean 屬於 Silicon2，一家在韓國上市的公司。它在 Trustpilot 的評分是 1.9（137 則評價），寄送與稅費方面的客訴值得留意。如果你重視 Trustpilot 上的口碑，就選 YesStyle：評分 4.4，CECILIA010 可再額外省最高 5%。"
+          "StyleKorean 屬於 Silicon2，一家在韓國上市的公司。它在 Trustpilot 的評分是 1.9（137 則評價），寄送與稅費方面的客訴值得留意。如果你重視 Trustpilot 上的口碑，就選 [YesStyle](/zh-hant/coupons/yesstyle)：評分 4.4，CECILIA010 可再額外省最高 5%。"
         ]
       },
       {
@@ -231409,7 +231428,7 @@ const reviewsChunk1: unknown[] = [
       {
         "heading": "快速解答",
         "paragraphs": [
-          "StyleKorean 属于 Silicon2，一家在韩国上市的公司。它在 Trustpilot 上的评分是 1.9（137 条评价），投诉集中在配送和税费。如果你更看重 Trustpilot 上的口碑，就选 YesStyle：评分 4.4，CECILIA010 最高可额外再省 5%。"
+          "StyleKorean 属于 Silicon2，一家在韩国上市的公司。它在 Trustpilot 上的评分是 1.9（137 条评价），投诉集中在配送和税费。如果你更看重 Trustpilot 上的口碑，就选 [YesStyle](/zh-hans/coupons/yesstyle)：评分 4.4，CECILIA010 最高可额外再省 5%。"
         ]
       },
       {
@@ -234285,7 +234304,7 @@ const reviewsChunk1: unknown[] = [
       {
         "heading": "Resposta rápida",
         "paragraphs": [
-          "No plano de 48 meses, a Hostinger com o SONAR20 custa menos que a Locaweb nos três pares comparados. Na renovação, a Locaweb cobra menos por mês, e dois ciclos saem mais baratos nela pelos preços de hoje. Quem precisa de nota fiscal brasileira tem um motivo à parte para escolher a Locaweb."
+          "No plano de 48 meses, a [Hostinger](/cupons/hostinger) com o SONAR20 custa menos que a Locaweb nos três pares comparados. Na renovação, a Locaweb cobra menos por mês, e dois ciclos saem mais baratos nela pelos preços de hoje. Quem precisa de nota fiscal brasileira tem um motivo à parte para escolher a Locaweb."
         ]
       },
       {
@@ -246308,7 +246327,7 @@ const reviewsChunk1: unknown[] = [
       {
         "heading": "Resposta rápida",
         "paragraphs": [
-          "Para a primeira compra na Hostinger, use SONAR20: 20% OFF no primeiro período do plano, também sobre o preço de campanha. O desconto vale em compra nova, não na renovação nem em domínio avulso. Escolha o ciclo com calma, porque os 20% valem só no primeiro período; veja abaixo a conta de cada ciclo."
+          "Para a primeira compra na [Hostinger](/cupons/hostinger), use SONAR20: 20% OFF no primeiro período do plano, também sobre o preço de campanha. O desconto vale em compra nova, não na renovação nem em domínio avulso. Escolha o ciclo com calma, porque os 20% valem só no primeiro período; veja abaixo a conta de cada ciclo."
         ]
       },
       {
@@ -246491,7 +246510,7 @@ const reviewsChunk1: unknown[] = [
       {
         "heading": "Resposta rápida",
         "paragraphs": [
-          "Na primeira compra na SHEIN, use o 4CW5Y, o código de indicação da Cecília: pesquise o código no app ou no site e veja uma seleção de produtos, promoções e descontos. Quanto e em quais peças, quem decide é a SHEIN. Ele não vai no campo de cupom e funciona também para quem já comprou."
+          "Na primeira compra na [SHEIN](/cupons/shein), use o 4CW5Y, o código de indicação da Cecília: pesquise o código no app ou no site e veja uma seleção de produtos, promoções e descontos. Quanto e em quais peças, quem decide é a SHEIN. Ele não vai no campo de cupom e funciona também para quem já comprou."
         ]
       },
       {
@@ -246813,7 +246832,7 @@ const reviewsChunk1: unknown[] = [
       {
         "heading": "Quick answer",
         "paragraphs": [
-          "For your first Hostinger purchase, use SONAR20: 20% off the first period of the plan, taken from the campaign price too. The discount applies to a new purchase, not to renewals or standalone domains. Choose your billing term with care, because the 20% covers only the first period; the math is below."
+          "For your first [Hostinger](/en/coupons/hostinger) purchase, use SONAR20: 20% off the first period of the plan, taken from the campaign price too. The discount applies to a new purchase, not to renewals or standalone domains. Choose your billing term with care, because the 20% covers only the first period; the math is below."
         ]
       },
       {
@@ -247001,7 +247020,7 @@ const reviewsChunk1: unknown[] = [
       {
         "heading": "Respuesta rápida",
         "paragraphs": [
-          "Para tu primera compra en Hostinger, usa SONAR20: 20% de descuento en el primer período del plan, también sobre el precio de campaña. Vale para contratar un producto nuevo, no para renovaciones ni dominios sueltos. Elige el ciclo con calma, porque los 20% valen solo en el primer período; abajo está la cuenta del plan de 48 meses."
+          "Para tu primera compra en [Hostinger](/es/coupons/hostinger), usa SONAR20: 20% de descuento en el primer período del plan, también sobre el precio de campaña. Vale para contratar un producto nuevo, no para renovaciones ni dominios sueltos. Elige el ciclo con calma, porque los 20% valen solo en el primer período; abajo está la cuenta del plan de 48 meses."
         ]
       },
       {
@@ -247376,7 +247395,7 @@ const reviewsChunk1: unknown[] = [
       {
         "heading": "Kurze Antwort",
         "paragraphs": [
-          "Für Ihren ersten Kauf bei Hostinger verwenden Sie SONAR20: 20 % Rabatt auf den ersten Zeitraum des Tarifs, auch auf den Aktionspreis. Der Rabatt gilt bei einem Neukauf, nicht bei der Verlängerung und nicht bei einer einzelnen Domain. Wählen Sie die Laufzeit mit Bedacht, denn die 20 % gelten nur für den ersten Zeitraum; unten sehen Sie die Rechnung."
+          "Für Ihren ersten Kauf bei [Hostinger](/de/coupons/hostinger) verwenden Sie SONAR20: 20 % Rabatt auf den ersten Zeitraum des Tarifs, auch auf den Aktionspreis. Der Rabatt gilt bei einem Neukauf, nicht bei der Verlängerung und nicht bei einer einzelnen Domain. Wählen Sie die Laufzeit mit Bedacht, denn die 20 % gelten nur für den ersten Zeitraum; unten sehen Sie die Rechnung."
         ]
       },
       {
@@ -247748,7 +247767,7 @@ const reviewsChunk1: unknown[] = [
       {
         "heading": "クイックアンサー",
         "paragraphs": [
-          "Hostingerのはじめての購入には SONAR20 を使いましょう。プランの最初の期間が20%オフになり、キャンペーン価格にも適用されます。対象は新規購入で、更新と単体のドメインは対象外です。20%が効くのは最初の期間だけなので、契約期間は慎重に選んでください。下の表で1か月と48か月プランの金額を確認できます。"
+          "[Hostinger](/ja/coupons/hostinger)のはじめての購入には SONAR20 を使いましょう。プランの最初の期間が20%オフになり、キャンペーン価格にも適用されます。対象は新規購入で、更新と単体のドメインは対象外です。20%が効くのは最初の期間だけなので、契約期間は慎重に選んでください。下の表で1か月と48か月プランの金額を確認できます。"
         ]
       },
       {
@@ -247936,7 +247955,7 @@ const reviewsChunk1: unknown[] = [
       {
         "heading": "빠른 답변",
         "paragraphs": [
-          "Hostinger 첫 구매에는 **SONAR20**을 쓰세요. 코드는 장바구니 쿠폰 칸에 넣습니다. 플랜의 첫 기간이 20% 할인되고, 캠페인 가격에서도 빠집니다. 신규 구매에 적용되며 갱신과 도메인 단독 구매는 제외됩니다. 20%는 첫 기간에만 적용되므로 계약 기간을 신중하게 고르세요. 결제 전에 총액에서 20%가 빠졌는지 확인하고, 48개월 계산은 아래에 있습니다."
+          "[Hostinger](/ko/coupons/hostinger) 첫 구매에는 **SONAR20**을 쓰세요. 코드는 장바구니 쿠폰 칸에 넣습니다. 플랜의 첫 기간이 20% 할인되고, 캠페인 가격에서도 빠집니다. 신규 구매에 적용되며 갱신과 도메인 단독 구매는 제외됩니다. 20%는 첫 기간에만 적용되므로 계약 기간을 신중하게 고르세요. 결제 전에 총액에서 20%가 빠졌는지 확인하고, 48개월 계산은 아래에 있습니다."
         ]
       },
       {
@@ -248124,7 +248143,7 @@ const reviewsChunk1: unknown[] = [
       {
         "heading": "快速回答",
         "paragraphs": [
-          "首次購買 Hostinger 請用 **SONAR20**：方案首期享 20% 折扣，連活動價也一併折抵。優惠碼適用於新購訂單，不適用於續訂，也不適用於單買網域。請先想清楚訂閱期間，因為 20% 只算首期；下文以 48 個月方案為例。"
+          "首次購買 [Hostinger](/zh-hant/coupons/hostinger) 請用 **SONAR20**：方案首期享 20% 折扣，連活動價也一併折抵。優惠碼適用於新購訂單，不適用於續訂，也不適用於單買網域。請先想清楚訂閱期間，因為 20% 只算首期；下文以 48 個月方案為例。"
         ]
       },
       {
@@ -248311,7 +248330,7 @@ const reviewsChunk1: unknown[] = [
       {
         "heading": "快速回答",
         "paragraphs": [
-          "首次购买 Hostinger，请用 SONAR20：套餐首个计费周期减 20%，在活动价基础上同样适用。它适用于新购买，不适用于续费，也不适用于单买域名。选周期要慎重，因为 20% 只在首个周期有效；具体算账见下文。"
+          "首次购买 [Hostinger](/zh-hans/coupons/hostinger)，请用 SONAR20：套餐首个计费周期减 20%，在活动价基础上同样适用。它适用于新购买，不适用于续费，也不适用于单买域名。选周期要慎重，因为 20% 只在首个周期有效；具体算账见下文。"
         ]
       },
       {
@@ -249986,7 +250005,7 @@ const reviewsChunk1: unknown[] = [
       {
         "heading": "Quick answer",
         "paragraphs": [
-          "For your first SHEIN order, use 4CW5Y, Cecília's referral code: search the code in the app or on the website and see a selection of products, promotions and discounts. How much and on which pieces is up to SHEIN. It does not go in the coupon field, and it works for returning customers too."
+          "For your first [SHEIN](/en/coupons/shein) order, use 4CW5Y, Cecília's referral code: search the code in the app or on the website and see a selection of products, promotions and discounts. How much and on which pieces is up to SHEIN. It does not go in the coupon field, and it works for returning customers too."
         ]
       },
       {
@@ -250127,7 +250146,7 @@ const reviewsChunk1: unknown[] = [
       {
         "heading": "Respuesta rápida",
         "paragraphs": [
-          "En tu primera compra en SHEIN, usa el 4CW5Y, el código de referido de Cecília: búscalo en la app o en el sitio y verás una selección de productos, promociones y descuentos. Cuánto y en qué prendas lo decide SHEIN. No va en el campo de cupón y también sirve para quien ya compró."
+          "En tu primera compra en [SHEIN](/es/coupons/shein), usa el 4CW5Y, el código de referido de Cecília: búscalo en la app o en el sitio y verás una selección de productos, promociones y descuentos. Cuánto y en qué prendas lo decide SHEIN. No va en el campo de cupón y también sirve para quien ya compró."
         ]
       },
       {
@@ -250268,7 +250287,7 @@ const reviewsChunk1: unknown[] = [
       {
         "heading": "Réponse rapide",
         "paragraphs": [
-          "Pour la première commande SHEIN, utilisez le 4CW5Y, le code de parrainage de Cecília : recherchez-le dans l'application ou sur le site et voyez une sélection de produits, de promotions et de réductions. Le montant et les pièces, c'est SHEIN qui les décide. Il ne se saisit pas dans le champ du code promo et fonctionne aussi après la première commande."
+          "Pour la première commande [SHEIN](/fr/coupons/shein), utilisez le 4CW5Y, le code de parrainage de Cecília : recherchez-le dans l'application ou sur le site et voyez une sélection de produits, de promotions et de réductions. Le montant et les pièces, c'est SHEIN qui les décide. Il ne se saisit pas dans le champ du code promo et fonctionne aussi après la première commande."
         ]
       },
       {
@@ -250409,7 +250428,7 @@ const reviewsChunk1: unknown[] = [
       {
         "heading": "Kurze Antwort",
         "paragraphs": [
-          "Bei der ersten Bestellung bei SHEIN nutzen Sie 4CW5Y, den Empfehlungscode von Cecília: Suchen Sie den Code in der App oder auf der Website und sehen Sie eine Auswahl an Produkten, Aktionen und Rabatten. Wie hoch und auf welche Teile, entscheidet SHEIN. Er gehört nicht ins Gutscheinfeld und funktioniert auch für Kundinnen und Kunden, die schon bestellt haben."
+          "Bei der ersten Bestellung bei [SHEIN](/de/coupons/shein) nutzen Sie 4CW5Y, den Empfehlungscode von Cecília: Suchen Sie den Code in der App oder auf der Website und sehen Sie eine Auswahl an Produkten, Aktionen und Rabatten. Wie hoch und auf welche Teile, entscheidet SHEIN. Er gehört nicht ins Gutscheinfeld und funktioniert auch für Kundinnen und Kunden, die schon bestellt haben."
         ]
       },
       {
@@ -250550,7 +250569,7 @@ const reviewsChunk1: unknown[] = [
       {
         "heading": "Risposta rapida",
         "paragraphs": [
-          "Per il primo ordine su SHEIN usa il 4CW5Y, il codice invito di Cecília: cercalo nell'app o nel sito e guarda una selezione di prodotti, promozioni e sconti. Quanto e su quali capi lo decide SHEIN. Non va nel campo del coupon e funziona anche per chi ha già acquistato."
+          "Per il primo ordine su [SHEIN](/it/coupons/shein) usa il 4CW5Y, il codice invito di Cecília: cercalo nell'app o nel sito e guarda una selezione di prodotti, promozioni e sconti. Quanto e su quali capi lo decide SHEIN. Non va nel campo del coupon e funziona anche per chi ha già acquistato."
         ]
       },
       {
@@ -250691,7 +250710,7 @@ const reviewsChunk1: unknown[] = [
       {
         "heading": "クイックアンサー",
         "paragraphs": [
-          "SHEINの最初の注文には、Cecíliaの紹介コード4CW5Yを使います。アプリまたはサイトで検索すると、商品、セール、割引の特集が開きます。割引の大きさと対象の商品はSHEINが決めます。クーポン欄には入力せず、すでに購入したことがある人も使えます。"
+          "SHEINの最初の注文には、Cecíliaの紹介コード4CW5Yを使います。アプリまたはサイトで検索すると、商品、セール、割引の特集が開きます。割引の大きさと対象の商品は[SHEIN](/ja/coupons/shein)が決めます。クーポン欄には入力せず、すでに購入したことがある人も使えます。"
         ]
       },
       {
@@ -250832,7 +250851,7 @@ const reviewsChunk1: unknown[] = [
       {
         "heading": "빠른 답변",
         "paragraphs": [
-          "SHEIN 첫 구매에는 Cecília의 추천 코드 4CW5Y를 사용하세요. 앱이나 사이트에서 코드를 검색하면 상품, 프로모션, 할인을 모은 페이지가 열립니다. 할인 폭과 대상 상품은 SHEIN이 정합니다. 쿠폰 칸에 입력하는 코드가 아니며, 이미 구매한 적이 있는 분도 쓸 수 있습니다."
+          "SHEIN 첫 구매에는 Cecília의 추천 코드 4CW5Y를 사용하세요. 앱이나 사이트에서 코드를 검색하면 상품, 프로모션, 할인을 모은 페이지가 열립니다. 할인 폭과 대상 상품은 [SHEIN](/ko/coupons/shein)이 정합니다. 쿠폰 칸에 입력하는 코드가 아니며, 이미 구매한 적이 있는 분도 쓸 수 있습니다."
         ]
       },
       {
@@ -250973,7 +250992,7 @@ const reviewsChunk1: unknown[] = [
       {
         "heading": "快速解答",
         "paragraphs": [
-          "第一次在 SHEIN 購物，可以用 Cecília 的推薦碼 4CW5Y：在 App 或網站搜尋這個推薦碼，就能看到一組精選商品、促銷和折扣。折扣多少、適用哪些單品由 SHEIN 決定。它不填在優惠券欄，已經買過的人也能用。"
+          "第一次在 [SHEIN](/zh-hant/coupons/shein) 購物，可以用 Cecília 的推薦碼 4CW5Y：在 App 或網站搜尋這個推薦碼，就能看到一組精選商品、促銷和折扣。折扣多少、適用哪些單品由 SHEIN 決定。它不填在優惠券欄，已經買過的人也能用。"
         ]
       },
       {
@@ -251114,7 +251133,7 @@ const reviewsChunk1: unknown[] = [
       {
         "heading": "快速回答",
         "paragraphs": [
-          "在 SHEIN 首次下单时，请使用 Cecília 的推荐码 4CW5Y：在应用或网站上搜索这个推荐码，就能看到一组精选商品、促销和折扣。折扣多少、适用哪些单品由 SHEIN 决定。它不填在优惠券栏里，已经买过的人同样可以用。"
+          "在 [SHEIN](/zh-hans/coupons/shein) 首次下单时，请使用 Cecília 的推荐码 4CW5Y：在应用或网站上搜索这个推荐码，就能看到一组精选商品、促销和折扣。折扣多少、适用哪些单品由 SHEIN 决定。它不填在优惠券栏里，已经买过的人同样可以用。"
         ]
       },
       {
@@ -258444,7 +258463,7 @@ const reviewsChunk1: unknown[] = [
       {
         "heading": "Resposta rápida",
         "paragraphs": [
-          "Para novos clientes, o VPN Plus de dois anos pelo nosso link teve o menor total entre os caminhos que comparamos para o mesmo plano e o mesmo prazo. O pagamento é de uma vez, e a renovação é anual, pelo preço padrão da Proton. Abra a oferta pelo botão e confirme as condições antes de assinar."
+          "Para novos clientes, o VPN Plus de dois anos pelo nosso link teve o menor total entre os caminhos que comparamos para o mesmo plano e o mesmo prazo. O pagamento é de uma vez, e a renovação é anual, pelo preço padrão da [Proton](/cupons/proton). Abra a oferta pelo botão e confirme as condições antes de assinar."
         ]
       },
       {
@@ -258724,7 +258743,7 @@ const reviewsChunk1: unknown[] = [
       {
         "heading": "Quick answer",
         "paragraphs": [
-          "For new customers, our link showed two years of VPN Plus for $59.76 upfront, against $71.76 on Proton's deals page for the same term. The advertised renewal is $83.88 every 12 months, subject to the price then in force. Open the offer with the button and check your currency before paying."
+          "For new customers, our link showed two years of VPN Plus for $59.76 upfront, against $71.76 on [Proton](/en/coupons/proton)'s deals page for the same term. The advertised renewal is $83.88 every 12 months, subject to the price then in force. Open the offer with the button and check your currency before paying."
         ]
       },
       {
@@ -258990,7 +259009,7 @@ const reviewsChunk1: unknown[] = [
       {
         "heading": "Respuesta rápida",
         "paragraphs": [
-          "Para nuevos clientes, nuestro enlace mostraba dos años de VPN Plus por $59.76, frente a $71.76 en la página de ofertas de Proton para el mismo plazo. El pago es único y la renovación anunciada es de $83.88 anuales, sujeta al precio vigente. Abre la oferta con el botón y confirma la moneda antes de pagar."
+          "Para nuevos clientes, nuestro enlace mostraba dos años de VPN Plus por $59.76, frente a $71.76 en la página de ofertas de [Proton](/es/coupons/proton) para el mismo plazo. El pago es único y la renovación anunciada es de $83.88 anuales, sujeta al precio vigente. Abre la oferta con el botón y confirma la moneda antes de pagar."
         ]
       },
       {
@@ -259256,7 +259275,7 @@ const reviewsChunk1: unknown[] = [
       {
         "heading": "Réponse rapide",
         "paragraphs": [
-          "Pour les nouveaux clients, notre lien affichait VPN Plus à 59,76 $ pour deux ans, contre 71,76 $ sur la page d'offres Proton pour la même durée. Le paiement est unique, puis le renouvellement annoncé est de 83,88 $ par an, au tarif alors applicable. Ouvrez l'offre avec le bouton et vérifiez la devise."
+          "Pour les nouveaux clients, notre lien affichait VPN Plus à 59,76 $ pour deux ans, contre 71,76 $ sur la page d'offres [Proton](/fr/coupons/proton) pour la même durée. Le paiement est unique, puis le renouvellement annoncé est de 83,88 $ par an, au tarif alors applicable. Ouvrez l'offre avec le bouton et vérifiez la devise."
         ]
       },
       {
@@ -259788,7 +259807,7 @@ const reviewsChunk1: unknown[] = [
       {
         "heading": "Risposta rapida",
         "paragraphs": [
-          "Per i nuovi clienti, il nostro link mostrava due anni di VPN Plus a $59.76, contro $71.76 nella pagina offerte di Proton per la stessa durata. Si paga subito e il rinnovo annunciato è di $83.88 all'anno, al prezzo allora vigente. Apri l'offerta dal pulsante e controlla la valuta prima di pagare."
+          "Per i nuovi clienti, il nostro link mostrava due anni di VPN Plus a $59.76, contro $71.76 nella pagina offerte di [Proton](/it/coupons/proton) per la stessa durata. Si paga subito e il rinnovo annunciato è di $83.88 all'anno, al prezzo allora vigente. Apri l'offerta dal pulsante e controlla la valuta prima di pagare."
         ]
       },
       {
@@ -260054,7 +260073,7 @@ const reviewsChunk1: unknown[] = [
       {
         "heading": "빠른 답",
         "paragraphs": [
-          "신규 고객 대상 VPN Plus 2년 플랜은 저희 링크에서 일시불 $59.76, Proton 공개 할인 페이지에서는 같은 기간에 $71.76였습니다. 안내된 갱신 요금은 연 $83.88이며 갱신 시점의 가격이 적용됩니다. 버튼으로 할인 페이지를 열고 결제 전 통화와 총액을 확인하세요."
+          "신규 고객 대상 VPN Plus 2년 플랜은 저희 링크에서 일시불 $59.76, [Proton](/ko/coupons/proton) 공개 할인 페이지에서는 같은 기간에 $71.76였습니다. 안내된 갱신 요금은 연 $83.88이며 갱신 시점의 가격이 적용됩니다. 버튼으로 할인 페이지를 열고 결제 전 통화와 총액을 확인하세요."
         ]
       },
       {
@@ -260320,7 +260339,7 @@ const reviewsChunk1: unknown[] = [
       {
         "heading": "結論",
         "paragraphs": [
-          "新規利用者向けでは、当サイトのリンクでVPN Plusの2年プランが一括$59.76、同じ期間のProton公式オファーページでは$71.76でした。更新時の案内は年$83.88ですが、その時点の料金が適用されます。ボタンからオファーを開き、支払い前に通貨と合計額を確認してください。"
+          "新規利用者向けでは、当サイトのリンクでVPN Plusの2年プランが一括$59.76、同じ期間の[Proton](/ja/coupons/proton)公式オファーページでは$71.76でした。更新時の案内は年$83.88ですが、その時点の料金が適用されます。ボタンからオファーを開き、支払い前に通貨と合計額を確認してください。"
         ]
       },
       {
@@ -260586,7 +260605,7 @@ const reviewsChunk1: unknown[] = [
       {
         "heading": "快速回答",
         "paragraphs": [
-          "針對新用戶，我們的連結顯示 VPN Plus 兩年一次付清 59.76 美元，Proton 公開優惠頁的相同方案和期限則為 71.76 美元。公布的續訂價為每年 83.88 美元，實際以續訂時的價格為準。請透過按鈕開啟優惠，並在付款前確認幣別和總額。"
+          "針對新用戶，我們的連結顯示 VPN Plus 兩年一次付清 59.76 美元，[Proton](/zh-hant/coupons/proton) 公開優惠頁的相同方案和期限則為 71.76 美元。公布的續訂價為每年 83.88 美元，實際以續訂時的價格為準。請透過按鈕開啟優惠，並在付款前確認幣別和總額。"
         ]
       },
       {
@@ -260852,7 +260871,7 @@ const reviewsChunk1: unknown[] = [
       {
         "heading": "快速回答",
         "paragraphs": [
-          "面向新用户，我们的链接显示 VPN Plus 两年一次付清 59.76 美元，Proton 公开优惠页的相同套餐和期限则为 71.76 美元。公布的续订价为每年 83.88 美元，实际以续订时的价格为准。请通过按钮打开优惠，并在付款前确认币种和总额。"
+          "面向新用户，我们的链接显示 VPN Plus 两年一次付清 59.76 美元，[Proton](/zh-hans/coupons/proton) 公开优惠页的相同套餐和期限则为 71.76 美元。公布的续订价为每年 83.88 美元，实际以续订时的价格为准。请通过按钮打开优惠，并在付款前确认币种和总额。"
         ]
       },
       {
@@ -261117,7 +261136,7 @@ const reviewsChunk1: unknown[] = [
       {
         "heading": "Resposta rápida",
         "paragraphs": [
-          "Para pedir o reembolso do Proton VPN, confira quem cobrou e a data da compra inicial. Na contratação direta, cancele e peça o reembolso ao suporte dentro de 30 dias, respeitando as condições dos termos. Se pagou pela Google Play ou pela Apple, siga o caminho específico abaixo. Só cancelar a assinatura não devolve dinheiro."
+          "Para pedir o reembolso do [Proton VPN](/cupons/proton), confira quem cobrou e a data da compra inicial. Na contratação direta, cancele e peça o reembolso ao suporte dentro de 30 dias, respeitando as condições dos termos. Se pagou pela Google Play ou pela Apple, siga o caminho específico abaixo. Só cancelar a assinatura não devolve dinheiro."
         ]
       },
       {
@@ -261325,7 +261344,7 @@ const reviewsChunk1: unknown[] = [
       {
         "heading": "Quick answer",
         "paragraphs": [
-          "To request a Proton VPN refund, first check who billed you and the initial purchase date. For direct purchases, cancel and contact support within 30 days, subject to the terms. Google Play and Apple purchases follow the routes below; cancelling a subscription alone does not return the payment."
+          "To request a [Proton VPN](/en/coupons/proton) refund, first check who billed you and the initial purchase date. For direct purchases, cancel and contact support within 30 days, subject to the terms. Google Play and Apple purchases follow the routes below; cancelling a subscription alone does not return the payment."
         ]
       },
       {
@@ -261532,7 +261551,7 @@ const reviewsChunk1: unknown[] = [
       {
         "heading": "Respuesta rápida",
         "paragraphs": [
-          "Para pedir un reembolso de Proton VPN, comprueba quién cobró y cuándo hiciste la compra inicial. En compras directas, cancela y escribe al soporte dentro de los 30 días posteriores a la compra, según los términos. Si pagaste por Google Play o Apple, sigue el recorrido específico de abajo; cancelar la suscripción por sí solo no devuelve el dinero."
+          "Para pedir un reembolso de [Proton VPN](/es/coupons/proton), comprueba quién cobró y cuándo hiciste la compra inicial. En compras directas, cancela y escribe al soporte dentro de los 30 días posteriores a la compra, según los términos. Si pagaste por Google Play o Apple, sigue el recorrido específico de abajo; cancelar la suscripción por sí solo no devuelve el dinero."
         ]
       },
       {
@@ -261739,7 +261758,7 @@ const reviewsChunk1: unknown[] = [
       {
         "heading": "Réponse rapide",
         "paragraphs": [
-          "Pour demander un remboursement Proton VPN, vérifiez qui a encaissé le paiement et la date d'achat initial. Pour un achat direct, résiliez et contactez l'assistance sous 30 jours, selon les conditions. Pour Google Play et Apple, suivez les parcours ci-dessous ; la résiliation seule ne rembourse rien."
+          "Pour demander un remboursement [Proton VPN](/fr/coupons/proton), vérifiez qui a encaissé le paiement et la date d'achat initial. Pour un achat direct, résiliez et contactez l'assistance sous 30 jours, selon les conditions. Pour Google Play et Apple, suivez les parcours ci-dessous ; la résiliation seule ne rembourse rien."
         ]
       },
       {
@@ -262156,7 +262175,7 @@ const reviewsChunk2: unknown[] = [
       {
         "heading": "Risposta rapida",
         "paragraphs": [
-          "Per chiedere un rimborso Proton VPN, controlla chi ha addebitato il pagamento e la data dell'acquisto iniziale. Per acquisti diretti, disdici e contatta l'assistenza entro 30 giorni, secondo i termini. Google Play e Apple seguono i percorsi spiegati sotto; la sola disdetta non restituisce il pagamento."
+          "Per chiedere un rimborso [Proton VPN](/it/coupons/proton), controlla chi ha addebitato il pagamento e la data dell'acquisto iniziale. Per acquisti diretti, disdici e contatta l'assistenza entro 30 giorni, secondo i termini. Google Play e Apple seguono i percorsi spiegati sotto; la sola disdetta non restituisce il pagamento."
         ]
       },
       {
@@ -262363,7 +262382,7 @@ const reviewsChunk2: unknown[] = [
       {
         "heading": "빠른 답",
         "paragraphs": [
-          "Proton VPN 환불을 요청하기 전에 결제한 곳과 최초 구매 날짜를 확인하세요. Proton에 직접 결제했다면 약관 조건에 따라 30일 안에 해지하고 지원팀에 환불을 신청해야 합니다. Google Play나 Apple 결제는 아래의 별도 절차를 따르며 해지만으로는 결제 금액이 돌아오지 않습니다."
+          "[Proton VPN](/ko/coupons/proton) 환불을 요청하기 전에 결제한 곳과 최초 구매 날짜를 확인하세요. Proton에 직접 결제했다면 약관 조건에 따라 30일 안에 해지하고 지원팀에 환불을 신청해야 합니다. Google Play나 Apple 결제는 아래의 별도 절차를 따르며 해지만으로는 결제 금액이 돌아오지 않습니다."
         ]
       },
       {
@@ -262570,7 +262589,7 @@ const reviewsChunk2: unknown[] = [
       {
         "heading": "結論",
         "paragraphs": [
-          "Proton VPNの返金を求める前に、請求元と最初の購入日を確認してください。Protonとの直接契約では、規約の条件に従い30日以内に解約してサポートへ申請します。Google PlayやApple経由の場合は下記の手順を使い、解約だけでは返金されない点に注意してください。"
+          "[Proton VPN](/ja/coupons/proton)の返金を求める前に、請求元と最初の購入日を確認してください。Protonとの直接契約では、規約の条件に従い30日以内に解約してサポートへ申請します。Google PlayやApple経由の場合は下記の手順を使い、解約だけでは返金されない点に注意してください。"
         ]
       },
       {
@@ -262777,7 +262796,7 @@ const reviewsChunk2: unknown[] = [
       {
         "heading": "快速回答",
         "paragraphs": [
-          "申請 Proton VPN 退款前，請先確認收款方和首次購買日期。直接向 Proton 購買時，須依條款條件在 30 天內取消並向客服申請退款。Google Play 或 Apple 付款請走下文的專門流程；只取消訂閱不會退回款項。"
+          "申請 [Proton VPN](/zh-hant/coupons/proton) 退款前，請先確認收款方和首次購買日期。直接向 Proton 購買時，須依條款條件在 30 天內取消並向客服申請退款。Google Play 或 Apple 付款請走下文的專門流程；只取消訂閱不會退回款項。"
         ]
       },
       {
@@ -262984,7 +263003,7 @@ const reviewsChunk2: unknown[] = [
       {
         "heading": "快速回答",
         "paragraphs": [
-          "申请 Proton VPN 退款前，请先确认收款方和首次购买日期。直接向 Proton 购买时，须按条款条件在 30 天内取消并向客服申请退款。Google Play 或 Apple 付款请走下文的专门流程；只取消订阅不会退回款项。"
+          "申请 [Proton VPN](/zh-hans/coupons/proton) 退款前，请先确认收款方和首次购买日期。直接向 Proton 购买时，须按条款条件在 30 天内取消并向客服申请退款。Google Play 或 Apple 付款请走下文的专门流程；只取消订阅不会退回款项。"
         ]
       },
       {
@@ -263191,7 +263210,7 @@ const reviewsChunk2: unknown[] = [
       {
         "heading": "Resposta rápida",
         "paragraphs": [
-          "Há evidências favoráveis para confiar no Proton VPN oficial: empresa identificada, aplicativos de código aberto e auditoria independente da política de registros. Isso não garante anonimato nem proteção contra todo golpe. No perfil brasileiro do Reclame Aqui consultado, as 14 reclamações estavam sem resposta; para atendimento, use o canal oficial da Proton."
+          "Há evidências favoráveis para confiar no [Proton VPN](/cupons/proton) oficial: empresa identificada, aplicativos de código aberto e auditoria independente da política de registros. Isso não garante anonimato nem proteção contra todo golpe. No perfil brasileiro do Reclame Aqui consultado, as 14 reclamações estavam sem resposta; para atendimento, use o canal oficial da Proton."
         ]
       },
       {
@@ -263377,7 +263396,7 @@ const reviewsChunk2: unknown[] = [
       {
         "heading": "Quick answer",
         "paragraphs": [
-          "The official Proton VPN has verifiable trust signals: an identified Swiss company, open-source apps and independent no-logs audits. These findings do not guarantee anonymity or protection from every scam. Download from official sources; according to Proton, the free plan has no ads or data limit, while paid features and billing conditions are explained below."
+          "The official [Proton VPN](/en/coupons/proton) has verifiable trust signals: an identified Swiss company, open-source apps and independent no-logs audits. These findings do not guarantee anonymity or protection from every scam. Download from official sources; according to Proton, the free plan has no ads or data limit, while paid features and billing conditions are explained below."
         ]
       },
       {
@@ -263557,7 +263576,7 @@ const reviewsChunk2: unknown[] = [
       {
         "heading": "Respuesta rápida",
         "paragraphs": [
-          "Proton VPN oficial ofrece señales verificables de confianza: empresa suiza identificada, aplicaciones de código abierto y auditorías independientes de su política sin registros. Eso no garantiza anonimato ni protección contra cualquier estafa. Descarga desde fuentes oficiales; según Proton, el plan gratuito no tiene anuncios ni límite de datos, y abajo explicamos las condiciones de pago."
+          "[Proton VPN](/es/coupons/proton) oficial ofrece señales verificables de confianza: empresa suiza identificada, aplicaciones de código abierto y auditorías independientes de su política sin registros. Eso no garantiza anonimato ni protección contra cualquier estafa. Descarga desde fuentes oficiales; según Proton, el plan gratuito no tiene anuncios ni límite de datos, y abajo explicamos las condiciones de pago."
         ]
       },
       {
@@ -263737,7 +263756,7 @@ const reviewsChunk2: unknown[] = [
       {
         "heading": "Réponse rapide",
         "paragraphs": [
-          "Proton VPN officiel présente des signes vérifiables de confiance : entreprise suisse identifiée, applications open source et audits indépendants de sa politique sans journaux. Cela ne garantit ni anonymat ni protection contre toute arnaque. Téléchargez depuis les sources officielles ; selon Proton, l'offre gratuite ne comporte ni publicité ni limite de données."
+          "[Proton VPN](/fr/coupons/proton) officiel présente des signes vérifiables de confiance : entreprise suisse identifiée, applications open source et audits indépendants de sa politique sans journaux. Cela ne garantit ni anonymat ni protection contre toute arnaque. Téléchargez depuis les sources officielles ; selon Proton, l'offre gratuite ne comporte ni publicité ni limite de données."
         ]
       },
       {
@@ -263917,7 +263936,7 @@ const reviewsChunk2: unknown[] = [
       {
         "heading": "Kurzantwort",
         "paragraphs": [
-          "Das offizielle Proton VPN bietet überprüfbare Vertrauenssignale: ein namentlich bekanntes Schweizer Unternehmen, quelloffene Apps und unabhängige No-Logs-Audits. Das garantiert weder Anonymität noch Schutz vor jedem Betrug. Laden Sie die Software aus offiziellen Quellen herunter; laut Proton hat der kostenlose Tarif weder Werbung noch ein Datenlimit, während die kostenpflichtigen Funktionen und Bedingungen unten erklärt werden."
+          "Das offizielle [Proton VPN](/de/coupons/proton) bietet überprüfbare Vertrauenssignale: ein namentlich bekanntes Schweizer Unternehmen, quelloffene Apps und unabhängige No-Logs-Audits. Das garantiert weder Anonymität noch Schutz vor jedem Betrug. Laden Sie die Software aus offiziellen Quellen herunter; laut Proton hat der kostenlose Tarif weder Werbung noch ein Datenlimit, während die kostenpflichtigen Funktionen und Bedingungen unten erklärt werden."
         ]
       },
       {
@@ -264097,7 +264116,7 @@ const reviewsChunk2: unknown[] = [
       {
         "heading": "Risposta rapida",
         "paragraphs": [
-          "Proton VPN ufficiale offre segnali verificabili di affidabilità: azienda svizzera identificata, app open source e audit indipendenti della politica senza log. Questo non garantisce anonimato né protezione da ogni truffa. Scarica dalle fonti ufficiali; secondo Proton, il piano gratuito non ha pubblicità né limiti di dati, mentre sotto spieghiamo condizioni e funzioni a pagamento."
+          "[Proton VPN](/it/coupons/proton) ufficiale offre segnali verificabili di affidabilità: azienda svizzera identificata, app open source e audit indipendenti della politica senza log. Questo non garantisce anonimato né protezione da ogni truffa. Scarica dalle fonti ufficiali; secondo Proton, il piano gratuito non ha pubblicità né limiti di dati, mentre sotto spieghiamo condizioni e funzioni a pagamento."
         ]
       },
       {
@@ -264277,7 +264296,7 @@ const reviewsChunk2: unknown[] = [
       {
         "heading": "빠른 답",
         "paragraphs": [
-          "Proton VPN 공식 앱에는 스위스 운영 회사, 공개된 앱 소스 코드, 로그 비보관 정책에 대한 독립 감사라는 확인 가능한 신뢰 근거가 있습니다. 이것이 익명성이나 모든 사기 방지를 보장하지는 않습니다. 공식 배포처에서 내려받고, 무료 플랜에 광고와 데이터 제한이 없다는 Proton의 설명 및 유료 기능과 결제 조건을 확인해 선택하세요."
+          "[Proton VPN](/ko/coupons/proton) 공식 앱에는 스위스 운영 회사, 공개된 앱 소스 코드, 로그 비보관 정책에 대한 독립 감사라는 확인 가능한 신뢰 근거가 있습니다. 이것이 익명성이나 모든 사기 방지를 보장하지는 않습니다. 공식 배포처에서 내려받고, 무료 플랜에 광고와 데이터 제한이 없다는 Proton의 설명 및 유료 기능과 결제 조건을 확인해 선택하세요."
         ]
       },
       {
@@ -264457,7 +264476,7 @@ const reviewsChunk2: unknown[] = [
       {
         "heading": "結論",
         "paragraphs": [
-          "Proton VPN公式版には、運営元のスイス企業、公開されたアプリのソースコード、ノーログ方針の独立監査という確認可能な判断材料があります。匿名性やあらゆる詐欺への対策を保証するものではありません。公式の配布元から入手し、無料プランは広告やデータ量の制限がないというProtonの説明と、有料機能や課金条件を確認して選びましょう。"
+          "[Proton VPN](/ja/coupons/proton)公式版には、運営元のスイス企業、公開されたアプリのソースコード、ノーログ方針の独立監査という確認可能な判断材料があります。匿名性やあらゆる詐欺への対策を保証するものではありません。公式の配布元から入手し、無料プランは広告やデータ量の制限がないというProtonの説明と、有料機能や課金条件を確認して選びましょう。"
         ]
       },
       {
@@ -264637,7 +264656,7 @@ const reviewsChunk2: unknown[] = [
       {
         "heading": "快速回答",
         "paragraphs": [
-          "Proton VPN 官方版有可核實的信任依據：瑞士營運公司、公開的應用程式原始碼，以及無日誌政策的獨立稽核。這些並不保證匿名或防住所有詐騙。請從官方管道下載，並結合 Proton 關於免費版無廣告、無流量限制的說明，以及付費功能和收費條件來選擇。"
+          "[Proton VPN](/zh-hant/coupons/proton) 官方版有可核實的信任依據：瑞士營運公司、公開的應用程式原始碼，以及無日誌政策的獨立稽核。這些並不保證匿名或防住所有詐騙。請從官方管道下載，並結合 Proton 關於免費版無廣告、無流量限制的說明，以及付費功能和收費條件來選擇。"
         ]
       },
       {
@@ -264817,7 +264836,7 @@ const reviewsChunk2: unknown[] = [
       {
         "heading": "快速回答",
         "paragraphs": [
-          "Proton VPN 官方版有可核实的信任依据：瑞士运营公司、公开的应用源代码，以及无日志政策的独立审计。这些并不保证匿名或防住所有骗局。请从官方渠道下载，并结合 Proton 关于免费版无广告、无流量限制的说明，以及付费功能和收费条件来选择。"
+          "[Proton VPN](/zh-hans/coupons/proton) 官方版有可核实的信任依据：瑞士运营公司、公开的应用源代码，以及无日志政策的独立审计。这些并不保证匿名或防住所有骗局。请从官方渠道下载，并结合 Proton 关于免费版无广告、无流量限制的说明，以及付费功能和收费条件来选择。"
         ]
       },
       {
@@ -265027,7 +265046,7 @@ const reviewsChunk2: unknown[] = [
       {
         "heading": "Resposta rápida",
         "paragraphs": [
-          "Para roupas elegíveis, a SHEIN dá 20 dias após o recebimento para desistir; no AliExpress, são 7 dias, ou o prazo anunciado para devolução grátis. Compare entrega, devolução e total com frete e impostos antes de pagar. Na SHEIN, pesquise o código de indicação 4CW5Y no site ou app para obter desconto numa seleção."
+          "Para roupas elegíveis, a [SHEIN](/cupons/shein) dá 20 dias após o recebimento para desistir; no [AliExpress](/cupons/aliexpress), são 7 dias, ou o prazo anunciado para devolução grátis. Compare entrega, devolução e total com frete e impostos antes de pagar. Na SHEIN, pesquise o código de indicação 4CW5Y no site ou app para obter desconto numa seleção."
         ]
       },
       {
@@ -265453,7 +265472,7 @@ const reviewsChunk2: unknown[] = [
       {
         "heading": "Quick answer",
         "paragraphs": [
-          "In the UK, SHEIN allows most eligible items back within 30 days of receipt, alongside statutory rights. AliExpress lists different return windows by seller and listing; compare the deadline, return cost and delivery estimate for your purchase. On SHEIN, search the referral code 4CW5Y in the app or website for a discount on selected offers."
+          "In the UK, [SHEIN](/en/coupons/shein) allows most eligible items back within 30 days of receipt, alongside statutory rights. [AliExpress](/en/coupons/aliexpress) lists different return windows by seller and listing; compare the deadline, return cost and delivery estimate for your purchase. On SHEIN, search the referral code 4CW5Y in the app or website for a discount on selected offers."
         ]
       },
       {
@@ -265843,7 +265862,7 @@ const reviewsChunk2: unknown[] = [
       {
         "heading": "Respuesta rápida",
         "paragraphs": [
-          "SHEIN admite devoluciones de artículos elegibles hasta 30 días tras recibirlos en España y México. AliExpress publica plazos distintos según el vendedor y el anuncio: compara la fecha límite, el coste de devolución y la entrega prevista. En SHEIN, busca el código de referido 4CW5Y en la app o web para obtener descuento en una selección."
+          "SHEIN admite devoluciones de artículos elegibles hasta 30 días tras recibirlos en España y México. [AliExpress](/es/coupons/aliexpress) publica plazos distintos según el vendedor y el anuncio: compara la fecha límite, el coste de devolución y la entrega prevista. En [SHEIN](/es/coupons/shein), busca el código de referido 4CW5Y en la app o web para obtener descuento en una selección."
         ]
       },
       {
@@ -266251,7 +266270,7 @@ const reviewsChunk2: unknown[] = [
       {
         "heading": "Réponse rapide",
         "paragraphs": [
-          "En France, SHEIN accepte la plupart des articles éligibles jusqu’à 30 jours après réception, en plus des droits légaux. AliExpress publie des délais selon le vendeur et l’annonce : comparez la date limite, les frais de retour et la livraison prévue. Sur SHEIN, recherchez le code de parrainage 4CW5Y pour une réduction sur une sélection."
+          "En France, [SHEIN](/fr/coupons/shein) accepte la plupart des articles éligibles jusqu’à 30 jours après réception, en plus des droits légaux. [AliExpress](/fr/coupons/aliexpress) publie des délais selon le vendeur et l’annonce : comparez la date limite, les frais de retour et la livraison prévue. Sur SHEIN, recherchez le code de parrainage 4CW5Y pour une réduction sur une sélection."
         ]
       },
       {
@@ -266643,7 +266662,7 @@ const reviewsChunk2: unknown[] = [
       {
         "heading": "Die Antwort in Kürze",
         "paragraphs": [
-          "In Deutschland nimmt SHEIN die meisten berechtigten Artikel bis 30 Tage nach Erhalt zurück; gesetzliche Rechte gelten zusätzlich. Bei AliExpress unterscheiden sich die Fristen nach Verkäufer und Angebot: Vergleichen Sie Rückgabefrist, Rücksendekosten und Lieferprognose. Suchen Sie bei SHEIN in App oder Website nach dem Empfehlungscode 4CW5Y, um auf ausgewählte Angebote Rabatt zu erhalten."
+          "In Deutschland nimmt [SHEIN](/de/coupons/shein) die meisten berechtigten Artikel bis 30 Tage nach Erhalt zurück; gesetzliche Rechte gelten zusätzlich. Bei [AliExpress](/de/coupons/aliexpress) unterscheiden sich die Fristen nach Verkäufer und Angebot: Vergleichen Sie Rückgabefrist, Rücksendekosten und Lieferprognose. Suchen Sie bei SHEIN in App oder Website nach dem Empfehlungscode 4CW5Y, um auf ausgewählte Angebote Rabatt zu erhalten."
         ]
       },
       {
@@ -267035,7 +267054,7 @@ const reviewsChunk2: unknown[] = [
       {
         "heading": "Risposta rapida",
         "paragraphs": [
-          "In Italia, SHEIN accetta la maggior parte degli articoli idonei entro 30 giorni dal ricevimento, oltre ai diritti di legge. AliExpress pubblica termini diversi secondo venditore e annuncio: confronta scadenza, costo del reso e consegna prevista. Su SHEIN, cerca il codice invito 4CW5Y nell’app o sul sito per uno sconto su una selezione."
+          "In Italia, [SHEIN](/it/coupons/shein) accetta la maggior parte degli articoli idonei entro 30 giorni dal ricevimento, oltre ai diritti di legge. [AliExpress](/it/coupons/aliexpress) pubblica termini diversi secondo venditore e annuncio: confronta scadenza, costo del reso e consegna prevista. Su SHEIN, cerca il codice invito 4CW5Y nell’app o sul sito per uno sconto su una selezione."
         ]
       },
       {
@@ -267427,7 +267446,7 @@ const reviewsChunk2: unknown[] = [
       {
         "heading": "まずは結論",
         "paragraphs": [
-          "日本のSHEINは返品対象商品を購入から40日以内、AliExpressは国内出品者で配達後15日以内、海外出品者で注文から90日以内と案内しています。起算日が違うため、届いてから残る日数、返送料、お届け予定を確認して選びましょう。SHEINでは紹介コード4CW5Yをアプリやサイトで検索すると、指定の商品やキャンペーンで割引を受けられます。"
+          "日本の[SHEIN](/ja/coupons/shein)は返品対象商品を購入から40日以内、[AliExpress](/ja/coupons/aliexpress)は国内出品者で配達後15日以内、海外出品者で注文から90日以内と案内しています。起算日が違うため、届いてから残る日数、返送料、お届け予定を確認して選びましょう。SHEINでは紹介コード4CW5Yをアプリやサイトで検索すると、指定の商品やキャンペーンで割引を受けられます。"
         ]
       },
       {
@@ -267819,7 +267838,7 @@ const reviewsChunk2: unknown[] = [
       {
         "heading": "답변 요약",
         "paragraphs": [
-          "SHEIN은 반품 가능한 상품을 수령 후 60일 이내에 받지만, 일부 상품은 7일만 가능합니다. AliExpress는 단순 변심 반품이 수령 후 7일 이내이며 무료 반품 조건은 상품 페이지에서 확인해야 하므로, 반송비와 배송 예정일도 함께 비교하세요. SHEIN 앱이나 사이트에서 추천 코드 4CW5Y를 검색하면 지정 상품과 프로모션에서 할인받을 수 있습니다."
+          "SHEIN은 반품 가능한 상품을 수령 후 60일 이내에 받지만, 일부 상품은 7일만 가능합니다. [AliExpress](/ko/coupons/aliexpress)는 단순 변심 반품이 수령 후 7일 이내이며 무료 반품 조건은 상품 페이지에서 확인해야 하므로, 반송비와 배송 예정일도 함께 비교하세요. [SHEIN](/ko/coupons/shein) 앱이나 사이트에서 추천 코드 4CW5Y를 검색하면 지정 상품과 프로모션에서 할인받을 수 있습니다."
         ]
       },
       {
@@ -268216,7 +268235,7 @@ const reviewsChunk2: unknown[] = [
       {
         "heading": "快速解答",
         "paragraphs": [
-          "SHEIN 台灣站可退商品的退貨期限為收貨後15天，同筆訂單首次免費；AliExpress 政策列明從購買後至收貨後15天內，退貨運費依原因及商品條件而定。請比較退貨費用、預計送達和最終支出。在 SHEIN App 或網站搜尋推薦碼4CW5Y，可享指定商品與促銷的折扣。"
+          "SHEIN 台灣站可退商品的退貨期限為收貨後15天，同筆訂單首次免費；[AliExpress](/zh-hant/coupons/aliexpress) 政策列明從購買後至收貨後15天內，退貨運費依原因及商品條件而定。請比較退貨費用、預計送達和最終支出。在 [SHEIN](/zh-hant/coupons/shein) App 或網站搜尋推薦碼4CW5Y，可享指定商品與促銷的折扣。"
         ]
       },
       {
@@ -268613,7 +268632,7 @@ const reviewsChunk2: unknown[] = [
       {
         "heading": "快速解答",
         "paragraphs": [
-          "SHEIN 可退商品的退货期限在新加坡为收货后15天，马来西亚为20天；AliExpress 政策列明从购买后至收货后15天内，免费退货条件按商品确认。请比较退货费用、预计送达和最终支出。在 SHEIN 应用或网站搜索推荐码4CW5Y，可享指定商品与促销的折扣。"
+          "SHEIN 可退商品的退货期限在新加坡为收货后15天，马来西亚为20天；[AliExpress](/zh-hans/coupons/aliexpress) 政策列明从购买后至收货后15天内，免费退货条件按商品确认。请比较退货费用、预计送达和最终支出。在 [SHEIN](/zh-hans/coupons/shein) 应用或网站搜索推荐码4CW5Y，可享指定商品与促销的折扣。"
         ]
       },
       {
@@ -280260,7 +280279,7 @@ const reviewsChunk2: unknown[] = [
       {
         "heading": "Resposta rápida",
         "paragraphs": [
-          "Com certeza vale para quem busca hospedagem compartilhada, WordPress, e-mail e domínios no mesmo painel: usamos a Hostinger neste site desde 2024 e também rodamos um VPS lá. Para começar um site, a hospedagem basta; o VPS faz sentido se alguém administra o servidor. Antes de pagar, compare o primeiro período com a renovação."
+          "Com certeza vale para quem busca hospedagem compartilhada, WordPress, e-mail e domínios no mesmo painel: usamos a [Hostinger](/cupons/hostinger) neste site desde 2024 e também rodamos um VPS lá. Para começar um site, a hospedagem basta; o VPS faz sentido se alguém administra o servidor. Antes de pagar, compare o primeiro período com a renovação."
         ]
       },
       {
@@ -280580,7 +280599,7 @@ const reviewsChunk2: unknown[] = [
       {
         "heading": "Quick answer",
         "paragraphs": [
-          "Yes, Hostinger is worth it for anyone looking for shared hosting, WordPress, email, and domains in one panel: we have used Hostinger for this site since 2024 and also run a VPS there. For getting a site started, web hosting is enough; a VPS makes sense if someone manages the server. Before paying, compare the first term with the renewal rate."
+          "Yes, [Hostinger](/en/coupons/hostinger) is worth it for anyone looking for shared hosting, WordPress, email, and domains in one panel: we have used Hostinger for this site since 2024 and also run a VPS there. For getting a site started, web hosting is enough; a VPS makes sense if someone manages the server. Before paying, compare the first term with the renewal rate."
         ]
       },
       {
@@ -280875,7 +280894,7 @@ const reviewsChunk2: unknown[] = [
       {
         "heading": "Respuesta rápida",
         "paragraphs": [
-          "Sí, sin duda vale la pena para quien busca hosting compartido, WordPress, correo y dominios en el mismo panel: usamos Hostinger en este sitio desde 2024 y también operamos un VPS allí. Para empezar un sitio, el hosting basta; el VPS tiene sentido si alguien administra el servidor. Antes de pagar, compara el primer período con el precio de renovación."
+          "Sí, sin duda vale la pena para quien busca hosting compartido, WordPress, correo y dominios en el mismo panel: usamos [Hostinger](/es/coupons/hostinger) en este sitio desde 2024 y también operamos un VPS allí. Para empezar un sitio, el hosting basta; el VPS tiene sentido si alguien administra el servidor. Antes de pagar, compara el primer período con el precio de renovación."
         ]
       },
       {
@@ -281170,7 +281189,7 @@ const reviewsChunk2: unknown[] = [
       {
         "heading": "Réponse rapide",
         "paragraphs": [
-          "Oui, sans hésiter, Hostinger vaut le coup pour qui cherche un hébergement mutualisé, WordPress, des e-mails et des domaines dans le même panneau : nous utilisons Hostinger pour ce site depuis 2024 et y faisons aussi tourner un VPS. Pour lancer un site, l'hébergement suffit ; le VPS a du sens si quelqu'un administre le serveur. Avant de payer, comparez la première période au tarif de renouvellement."
+          "Oui, sans hésiter, [Hostinger](/fr/coupons/hostinger) vaut le coup pour qui cherche un hébergement mutualisé, WordPress, des e-mails et des domaines dans le même panneau : nous utilisons Hostinger pour ce site depuis 2024 et y faisons aussi tourner un VPS. Pour lancer un site, l'hébergement suffit ; le VPS a du sens si quelqu'un administre le serveur. Avant de payer, comparez la première période au tarif de renouvellement."
         ]
       },
       {
@@ -281465,7 +281484,7 @@ const reviewsChunk2: unknown[] = [
       {
         "heading": "Kurze Antwort",
         "paragraphs": [
-          "Ja, Hostinger lohnt sich definitiv für alle, die Shared Hosting, WordPress, E-Mail und Domains in einem Dashboard suchen – wir nutzen Hostinger für diese Website seit 2024 und betreiben dort auch einen VPS. Für den Start einer Website genügt das Hosting; ein VPS lohnt sich, wenn jemand den Server verwaltet. Vergleichen Sie vor dem Bezahlen die erste Laufzeit mit dem Verlängerungspreis."
+          "Ja, [Hostinger](/de/coupons/hostinger) lohnt sich definitiv für alle, die Shared Hosting, WordPress, E-Mail und Domains in einem Dashboard suchen – wir nutzen Hostinger für diese Website seit 2024 und betreiben dort auch einen VPS. Für den Start einer Website genügt das Hosting; ein VPS lohnt sich, wenn jemand den Server verwaltet. Vergleichen Sie vor dem Bezahlen die erste Laufzeit mit dem Verlängerungspreis."
         ]
       },
       {
@@ -281760,7 +281779,7 @@ const reviewsChunk2: unknown[] = [
       {
         "heading": "Risposta rapida",
         "paragraphs": [
-          "Sì, Hostinger conviene decisamente a chi cerca hosting condiviso, WordPress, email e domini nello stesso pannello: usiamo Hostinger per questo sito dal 2024 e abbiamo anche un VPS lì. Per avviare un sito l'hosting basta; il VPS ha senso se qualcuno gestisce il server. Prima di pagare, confronta il primo periodo con il prezzo di rinnovo."
+          "Sì, [Hostinger](/it/coupons/hostinger) conviene decisamente a chi cerca hosting condiviso, WordPress, email e domini nello stesso pannello: usiamo Hostinger per questo sito dal 2024 e abbiamo anche un VPS lì. Per avviare un sito l'hosting basta; il VPS ha senso se qualcuno gestisce il server. Prima di pagare, confronta il primo periodo con il prezzo di rinnovo."
         ]
       },
       {
@@ -282055,7 +282074,7 @@ const reviewsChunk2: unknown[] = [
       {
         "heading": "빠른 답변",
         "paragraphs": [
-          "네, 공유 호스팅과 워드프레스, 이메일, 도메인을 한 패널에서 관리하려는 분께는 확실히 괜찮습니다. 저희는 2024년부터 이 사이트를 호스팅어에서 운영하고 있고 VPS도 함께 쓰고 있습니다. 일반 사이트를 시작하는 용도라면 웹호스팅으로 충분하며, 서버를 직접 관리할 사람이 있을 때만 VPS가 맞습니다. 결제 전에 첫 계약 기간 요금과 갱신 가격을 비교해 보세요."
+          "네, 공유 호스팅과 워드프레스, 이메일, 도메인을 한 패널에서 관리하려는 분께는 확실히 괜찮습니다. 저희는 2024년부터 이 사이트를 [호스팅어](/ko/coupons/hostinger)에서 운영하고 있고 VPS도 함께 쓰고 있습니다. 일반 사이트를 시작하는 용도라면 웹호스팅으로 충분하며, 서버를 직접 관리할 사람이 있을 때만 VPS가 맞습니다. 결제 전에 첫 계약 기간 요금과 갱신 가격을 비교해 보세요."
         ]
       },
       {
@@ -282350,7 +282369,7 @@ const reviewsChunk2: unknown[] = [
       {
         "heading": "クイックアンサー",
         "paragraphs": [
-          "はい、共有ホスティング・WordPress・メール・ドメインをひとつの管理画面にまとめたい方には間違いなくおすすめです。このサイトでは2024年からHostingerを利用しており、VPSも運用しています。サイトを始めるだけならホスティングで十分で、VPSはサーバーを管理できる人がいる場合に適しています。支払い前に初回期間と更新時の料金を比較してください。"
+          "はい、共有ホスティング・WordPress・メール・ドメインをひとつの管理画面にまとめたい方には間違いなくおすすめです。このサイトでは2024年から[Hostinger](/ja/coupons/hostinger)を利用しており、VPSも運用しています。サイトを始めるだけならホスティングで十分で、VPSはサーバーを管理できる人がいる場合に適しています。支払い前に初回期間と更新時の料金を比較してください。"
         ]
       },
       {
@@ -282645,7 +282664,7 @@ const reviewsChunk2: unknown[] = [
       {
         "heading": "快速回答",
         "paragraphs": [
-          "當然值得，適合想在同一個後台管理共享主機、WordPress、郵箱和網域的人：我們從 2024 年起就用 Hostinger 運行這個網站，同時也在上面架了一台 VPS。架設一般網站用網站主機就夠了；只有當有人負責維護伺服器時，VPS 才有意義。付款前請先比較首期價格和續訂價格。"
+          "當然值得，適合想在同一個後台管理共享主機、WordPress、郵箱和網域的人：我們從 2024 年起就用 [Hostinger](/zh-hant/coupons/hostinger) 運行這個網站，同時也在上面架了一台 VPS。架設一般網站用網站主機就夠了；只有當有人負責維護伺服器時，VPS 才有意義。付款前請先比較首期價格和續訂價格。"
         ]
       },
       {
@@ -282940,7 +282959,7 @@ const reviewsChunk2: unknown[] = [
       {
         "heading": "快速回答",
         "paragraphs": [
-          "当然值得，适合想在同一个后台管理共享主机、WordPress、邮箱和域名的人：我们自 2024 年起就用 Hostinger 运行这个网站，同时也在上面跑了一台 VPS。新建普通网站用主机就够了；只有当有人负责维护服务器时，VPS 才有意义。付款前请先对比首期价格和续费价格。"
+          "当然值得，适合想在同一个后台管理共享主机、WordPress、邮箱和域名的人：我们自 2024 年起就用 [Hostinger](/zh-hans/coupons/hostinger) 运行这个网站，同时也在上面跑了一台 VPS。新建普通网站用主机就够了；只有当有人负责维护服务器时，VPS 才有意义。付款前请先对比首期价格和续费价格。"
         ]
       },
       {
@@ -288719,7 +288738,7 @@ const reviewsChunk2: unknown[] = [
       {
         "heading": "Resposta rápida",
         "paragraphs": [
-          "Na Black Friday da Starlink, o kit sai a partir de R$ 49 no plano Max (ou o Mini X por R$ 299, sem fidelidade, no 100 Mbps), com 30% de desconto na mensalidade residencial. Pelo nosso link, novos clientes ainda recebem R$ 200 de crédito na fatura no Brasil, ou 45 € em Portugal, onde o kit sai alugado a 0 €.",
+          "Na Black Friday da [Starlink](/cupons/starlink), o kit sai a partir de R$ 49 no plano Max (ou o Mini X por R$ 299, sem fidelidade, no 100 Mbps), com 30% de desconto na mensalidade residencial. Pelo nosso link, novos clientes ainda recebem R$ 200 de crédito na fatura no Brasil, ou 45 € em Portugal, onde o kit sai alugado a 0 €.",
           "A campanha de Black Friday vai até 30 de novembro em áreas selecionadas, enquanto o nosso bônus vale enquanto existir o programa de indicação da Starlink (entrando como crédito após dois ciclos pagos em dia, sem reduzir o kit na hora). Consulte seu endereço pelo link abaixo e confira o aviso de indicação antes de pagar."
         ],
         "links": [
@@ -289035,7 +289054,7 @@ const reviewsChunk2: unknown[] = [
       {
         "heading": "Resposta rápida",
         "paragraphs": [
-          "Com certeza vale onde não chega internet estável ou a fibra cai com frequência: nós contratamos a Starlink como alternativa e backup da nossa fibra instável. Se a sua fibra local funciona bem, ela tende a custar menos, e há 30 dias para testar e devolver o kit.",
+          "Com certeza vale onde não chega internet estável ou a fibra cai com frequência: nós contratamos a [Starlink](/cupons/starlink) como alternativa e backup da nossa fibra instável. Se a sua fibra local funciona bem, ela tende a custar menos, e há 30 dias para testar e devolver o kit.",
           "Novos clientes podem receber 200 reais de crédito na fatura no Brasil ou 45 € em Portugal. Abra nosso link de indicação antes de contratar, confirme o bônus no pedido e mantenha os dois primeiros ciclos completos em dia."
         ],
         "links": [
@@ -289597,7 +289616,7 @@ const reviewsChunk2: unknown[] = [
       {
         "heading": "Resposta rápida",
         "paragraphs": [
-          "Sim. A Starlink é o serviço oficial de internet via satélite da SpaceX, vendido em starlink.com. Nós mesmos contratamos a Starlink como alternativa à fibra instável. Para comprar em outra loja, confira se ela está na lista de revendedores autorizados.",
+          "Sim. A [Starlink](/cupons/starlink) é o serviço oficial de internet via satélite da SpaceX, vendido em starlink.com. Nós mesmos contratamos a Starlink como alternativa à fibra instável. Para comprar em outra loja, confira se ela está na lista de revendedores autorizados.",
           "Novos clientes podem receber 200 reais de crédito na fatura no Brasil ou 45 € em Portugal. Abra nosso link de indicação antes de contratar, confirme o bônus no pedido e mantenha os dois primeiros ciclos completos em dia."
         ],
         "links": [
@@ -289794,7 +289813,7 @@ const reviewsChunk2: unknown[] = [
       {
         "heading": "Resposta rápida",
         "paragraphs": [
-          "O perfil verificado Starlink Brazil tem reputação Boa e nota 7,8 no Reclame Aqui nos últimos seis meses, depois de quatro meses em Ótima. Todas as 2.017 reclamações recebidas foram respondidas, e 77,1% das 860 avaliadas foram resolvidas. A nota 7,8 é da plataforma; a média dos consumidores é 6,73.",
+          "O perfil verificado [Starlink](/cupons/starlink) Brazil tem reputação Boa e nota 7,8 no Reclame Aqui nos últimos seis meses, depois de quatro meses em Ótima. Todas as 2.017 reclamações recebidas foram respondidas, e 77,1% das 860 avaliadas foram resolvidas. A nota 7,8 é da plataforma; a média dos consumidores é 6,73.",
           "Novos clientes podem receber 200 reais de crédito na fatura no Brasil ou 45 € em Portugal. Abra nosso link de indicação antes de contratar, confirme o bônus no pedido e mantenha os dois primeiros ciclos completos em dia."
         ],
         "links": [
@@ -290404,7 +290423,7 @@ const reviewsChunk2: unknown[] = [
       {
         "heading": "Quick answer",
         "paragraphs": [
-          "On Starlink's Black Friday offer, select areas get 30% off the monthly plan—$38.50 a month for 100 Mbps in Nevada—plus a $0 rental kit ($20 plus taxes due today for shipping) and, exclusively through our referral link, new customers can earn an extra $100 bill credit in the US or £40 in the UK.",
+          "On [Starlink](/en/coupons/starlink)'s Black Friday offer, select areas get 30% off the monthly plan—$38.50 a month for 100 Mbps in Nevada—plus a $0 rental kit ($20 plus taxes due today for shipping) and, exclusively through our referral link, new customers can earn an extra $100 bill credit in the US or £40 in the UK.",
           "Pay close attention to the two separate timelines: the 30% Black Friday discount runs until November 30 in eligible areas, while our referral bonus stays available for as long as Starlink's official referral program remains active. The credit lands on your bill after two full billing cycles paid on time and does not discount the kit price at checkout. Check your address for free with no obligation using the link below before you pay."
         ],
         "links": [
@@ -290725,7 +290744,7 @@ const reviewsChunk2: unknown[] = [
       {
         "heading": "Quick answer",
         "paragraphs": [
-          "Yes, Starlink is worth it where no stable connection reaches you, and also where fiber exists but keeps dropping or delivers far less than advertised. We subscribed ourselves as an alternative and backup to our unstable fiber. If your fiber is genuinely stable, it usually wins on price and latency. The Nevada offer we checked listed a $0 rental kit, $20 plus taxes due upfront, and 30 days to try and return it.",
+          "Yes, [Starlink](/en/coupons/starlink) is worth it where no stable connection reaches you, and also where fiber exists but keeps dropping or delivers far less than advertised. We subscribed ourselves as an alternative and backup to our unstable fiber. If your fiber is genuinely stable, it usually wins on price and latency. The Nevada offer we checked listed a $0 rental kit, $20 plus taxes due upfront, and 30 days to try and return it.",
           "New customers can get a $100 bill credit in the US or £40 in the UK after two full paid cycles, not as a kit discount. Open our referral link, confirm the reward on your order before paying, and keep your subscription active and paid."
         ],
         "links": [
@@ -291035,7 +291054,7 @@ const reviewsChunk2: unknown[] = [
       {
         "heading": "Quick answer",
         "paragraphs": [
-          "On the order pages we read for Nevada and London, Starlink had no contract: the kit is a rental at $0 upfront and $0 a month (£0 in the UK), and you return it if you cancel. The monthly prices shown are promotional and have no fixed duration, and Starlink may update pricing with 30 days' notice. If you cancel and return the kit undamaged within 30 days of the payment due date, the offer refunds the kit and the first month. It is not the same everywhere: in Brazil and Mexico, a subsidised kit can come with a 12-month term.",
+          "On the order pages we read for Nevada and London, [Starlink](/en/coupons/starlink) had no contract: the kit is a rental at $0 upfront and $0 a month (£0 in the UK), and you return it if you cancel. The monthly prices shown are promotional and have no fixed duration, and Starlink may update pricing with 30 days' notice. If you cancel and return the kit undamaged within 30 days of the payment due date, the offer refunds the kit and the first month. It is not the same everywhere: in Brazil and Mexico, a subsidised kit can come with a 12-month term.",
           "New customers can get a $100 bill credit in the US or £40 in the UK. Open our referral link before you order, check that the reward is shown, and keep your eligible subscription paid and active for two full billing cycles."
         ],
         "links": [
@@ -291297,7 +291316,7 @@ const reviewsChunk2: unknown[] = [
       {
         "heading": "Quick answer",
         "paragraphs": [
-          "Yes, Starlink is legit: it is SpaceX's official satellite internet service, and it sells directly on starlink.com. We subscribed to Starlink ourselves as an alternative to unstable local fiber. The risk is look-alike sites and unverified listings, not the company: on Trustpilot, the profile that points to starlink.com is “Starlink Development”, and if you buy the kit elsewhere, check the seller against Starlink's list of authorized retailers before you pay.",
+          "Yes, [Starlink](/en/coupons/starlink) is legit: it is SpaceX's official satellite internet service, and it sells directly on starlink.com. We subscribed to Starlink ourselves as an alternative to unstable local fiber. The risk is look-alike sites and unverified listings, not the company: on Trustpilot, the profile that points to starlink.com is “Starlink Development”, and if you buy the kit elsewhere, check the seller against Starlink's list of authorized retailers before you pay.",
           "New customers can get a $100 bill credit in the US or £40 in the UK. Open our referral link before you order, check that the reward is shown, and keep your eligible subscription paid and active for two full billing cycles."
         ],
         "links": [
@@ -291495,7 +291514,7 @@ const reviewsChunk2: unknown[] = [
       {
         "heading": "Quick answer",
         "paragraphs": [
-          "Starlink Development, the Trustpilot profile for starlink.com, has a TrustScore of 1.6 out of 5 from 879 reviews, and 71% of them are one star. The profile is unclaimed: the company has no paid plan, sends no review invitations and has not replied to any of the 464 negative reviews from the past 12 months, the period Trustpilot’s company activity page covers. The reviews come from customers in many countries.",
+          "[Starlink](/en/coupons/starlink) Development, the Trustpilot profile for starlink.com, has a TrustScore of 1.6 out of 5 from 879 reviews, and 71% of them are one star. The profile is unclaimed: the company has no paid plan, sends no review invitations and has not replied to any of the 464 negative reviews from the past 12 months, the period Trustpilot’s company activity page covers. The reviews come from customers in many countries.",
           "New customers can get a $100 bill credit in the US or £40 in the UK. Open our referral link before you order, check that the reward is shown, and keep your eligible subscription paid and active for two full billing cycles."
         ],
         "links": [
@@ -292112,7 +292131,7 @@ const reviewsChunk2: unknown[] = [
       {
         "heading": "Respuesta rápida",
         "paragraphs": [
-          "En el Black Friday de Starlink, las zonas elegibles combinan un 30 % de descuento mensual —24,50 € al mes en Madrid para el 100 Mbps— con el kit en alquiler a 0 € (19 € de envío hoy) y, entrando desde nuestro enlace de referido, los nuevos clientes suman una bonificación en factura: la referencia publicada en noviembre es de 45 € en España y 700 pesos en México (confírmala en tu pedido antes de pagar).",
+          "En el Black Friday de [Starlink](/es/coupons/starlink), las zonas elegibles combinan un 30 % de descuento mensual —24,50 € al mes en Madrid para el 100 Mbps— con el kit en alquiler a 0 € (19 € de envío hoy) y, entrando desde nuestro enlace de referido, los nuevos clientes suman una bonificación en factura: la referencia publicada en noviembre es de 45 € en España y 700 pesos en México (confírmala en tu pedido antes de pagar).",
           "Ten en cuenta los dos plazos distintos: la campaña de Black Friday termina el 30 de noviembre en áreas seleccionadas, mientras que nuestro bono de referido sigue activo mientras exista el programa oficial de referidos de Starlink. El crédito llega a tu factura tras dos ciclos mensuales completos pagados al día y no descuenta el precio del kit en el momento del pago. Consulta tu dirección gratis y sin compromiso en el enlace de abajo."
         ],
         "links": [
@@ -292423,7 +292442,7 @@ const reviewsChunk2: unknown[] = [
       {
         "heading": "Respuesta rápida",
         "paragraphs": [
-          "Sí, Starlink vale la pena donde no llega una conexión estable y también donde hay fibra, pero se corta a menudo o rinde muy por debajo de lo contratado. Nosotros la contratamos como alternativa y respaldo de nuestra fibra inestable. Si tu fibra es realmente estable, suele ganar en precio y latencia. Probar tiene poco riesgo: en el pedido de Madrid el kit va en alquiler a 0 € y hay 30 días para devolverlo.",
+          "Sí, [Starlink](/es/coupons/starlink) vale la pena donde no llega una conexión estable y también donde hay fibra, pero se corta a menudo o rinde muy por debajo de lo contratado. Nosotros la contratamos como alternativa y respaldo de nuestra fibra inestable. Si tu fibra es realmente estable, suele ganar en precio y latencia. Probar tiene poco riesgo: en el pedido de Madrid el kit va en alquiler a 0 € y hay 30 días para devolverlo.",
           "En tu primera suscripción elegible puedes recibir crédito en la factura (no descuenta del kit) tras dos ciclos completos al día: 45 € en España y 700 pesos en México (referencia publicada en noviembre por terceros). Abre nuestro enlace y confirma el importe en el pedido antes de pagar."
         ],
         "links": [
@@ -292984,7 +293003,7 @@ const reviewsChunk2: unknown[] = [
       {
         "heading": "Respuesta rápida",
         "paragraphs": [
-          "Sí, Starlink es fiable: es el servicio oficial de internet por satélite de SpaceX y vende directamente en starlink.com. Nosotros mismos contratamos Starlink como alternativa a una fibra local inestable. La precaución está en las webs imitadas y los anuncios fuera del canal oficial: en Trustpilot, el perfil que apunta a starlink.com es «Starlink Development», y si compras el kit en otro sitio, comprueba al vendedor en la lista de distribuidores autorizados antes de pagar.",
+          "Sí, [Starlink](/es/coupons/starlink) es fiable: es el servicio oficial de internet por satélite de SpaceX y vende directamente en starlink.com. Nosotros mismos contratamos Starlink como alternativa a una fibra local inestable. La precaución está en las webs imitadas y los anuncios fuera del canal oficial: en Trustpilot, el perfil que apunta a starlink.com es «Starlink Development», y si compras el kit en otro sitio, comprueba al vendedor en la lista de distribuidores autorizados antes de pagar.",
           "En tu primera suscripción elegible puedes recibir crédito en la factura. Las referencias de noviembre son 45 € en España y 700 pesos en México. Abre nuestro enlace, confirma el importe en el pedido y mantén el plan activo y al día durante dos ciclos completos."
         ],
         "links": [
@@ -293182,7 +293201,7 @@ const reviewsChunk2: unknown[] = [
       {
         "heading": "Respuesta rápida",
         "paragraphs": [
-          "Starlink Development, el perfil de Trustpilot de starlink.com, tiene un TrustScore de 1,6 sobre 5 con 879 opiniones, y el 71% son de una estrella. El perfil no está reclamado: la empresa no tiene plan de pago, no envía invitaciones para opinar y no ha respondido a ninguna de las 464 opiniones negativas de los últimos 12 meses, el periodo que cubre la página de actividad de la empresa en Trustpilot. Las opiniones vienen de clientes de muchos países.",
+          "[Starlink](/es/coupons/starlink) Development, el perfil de Trustpilot de starlink.com, tiene un TrustScore de 1,6 sobre 5 con 879 opiniones, y el 71% son de una estrella. El perfil no está reclamado: la empresa no tiene plan de pago, no envía invitaciones para opinar y no ha respondido a ninguna de las 464 opiniones negativas de los últimos 12 meses, el periodo que cubre la página de actividad de la empresa en Trustpilot. Las opiniones vienen de clientes de muchos países.",
           "En tu primera suscripción elegible puedes recibir crédito en la factura. Las referencias de noviembre son 45 € en España y 700 pesos en México. Abre nuestro enlace, confirma el importe en el pedido y mantén el plan activo y al día durante dos ciclos completos."
         ],
         "links": [
@@ -293791,7 +293810,7 @@ const reviewsChunk2: unknown[] = [
       {
         "heading": "Réponse rapide",
         "paragraphs": [
-          "Avec le Black Friday Starlink, les zones éligibles associent 30 % de réduction sur l'abonnement — 24,50 € par mois pour le 100 Mbit/s à Paris — au kit loué à 0 € (19 € de livraison le jour même), et les nouveaux clients qui commandent via notre lien reçoivent 45 € de crédit de parrainage sur leur facture en France.",
+          "Avec le Black Friday [Starlink](/fr/coupons/starlink), les zones éligibles associent 30 % de réduction sur l'abonnement — 24,50 € par mois pour le 100 Mbit/s à Paris — au kit loué à 0 € (19 € de livraison le jour même), et les nouveaux clients qui commandent via notre lien reçoivent 45 € de crédit de parrainage sur leur facture en France.",
           "Gardez en tête deux délais distincts : l'offre Black Friday de 30 % est valable jusqu'au 30 novembre dans les zones sélectionnées, alors que notre bonus de parrainage reste disponible tant que le programme officiel de parrainage Starlink existe. Ce crédit arrive sur votre facture après deux cycles mensuels complets réglés à temps et ne réduit pas le prix du kit au moment du paiement. Vérifiez votre adresse gratuitement et sans engagement via le lien ci-dessous."
         ],
         "links": [
@@ -294102,7 +294121,7 @@ const reviewsChunk2: unknown[] = [
       {
         "heading": "Réponse rapide",
         "paragraphs": [
-          "Oui, Starlink vaut le coup là où aucune connexion stable n’arrive, mais aussi là où la fibre existe et coupe souvent ou débite bien moins que prévu. Nous l’avons souscrite comme alternative et connexion de secours à notre fibre instable. Si votre fibre est vraiment stable, elle reste plus avantageuse en prix et en latence. L’essai est peu risqué : le kit est loué à 0 € sur la commande de Paris, avec 30 jours pour le renvoyer.",
+          "Oui, [Starlink](/fr/coupons/starlink) vaut le coup là où aucune connexion stable n’arrive, mais aussi là où la fibre existe et coupe souvent ou débite bien moins que prévu. Nous l’avons souscrite comme alternative et connexion de secours à notre fibre instable. Si votre fibre est vraiment stable, elle reste plus avantageuse en prix et en latence. L’essai est peu risqué : le kit est loué à 0 € sur la commande de Paris, avec 30 jours pour le renvoyer.",
           "Vous souscrivez pour la première fois en France ? Vous pouvez recevoir 45 € de crédit sur votre facture (sans remise immédiate sur le kit). Ouvrez notre lien de parrainage, vérifiez le montant sur votre commande avant de payer et gardez votre abonnement éligible actif et à jour pendant deux cycles complets."
         ],
         "links": [
@@ -294405,7 +294424,7 @@ const reviewsChunk2: unknown[] = [
       {
         "heading": "Réponse rapide",
         "paragraphs": [
-          "Sur la commande lue pour une adresse à Paris, Starlink n'impose pas de durée minimale : le matériel est loué, à 0 € au départ et 0 € par mois, et il faut le renvoyer si vous annulez le service. La commande prévoit le remboursement du kit et du premier mois si vous annulez et renvoyez le matériel en bon état dans les 30 jours. Les prix affichés n'ont pas de durée fixe, et Starlink peut les modifier avec un préavis de 30 jours.",
+          "Sur la commande lue pour une adresse à Paris, [Starlink](/fr/coupons/starlink) n'impose pas de durée minimale : le matériel est loué, à 0 € au départ et 0 € par mois, et il faut le renvoyer si vous annulez le service. La commande prévoit le remboursement du kit et du premier mois si vous annulez et renvoyez le matériel en bon état dans les 30 jours. Les prix affichés n'ont pas de durée fixe, et Starlink peut les modifier avec un préavis de 30 jours.",
           "Vous souscrivez pour la première fois en France ? Vous pouvez recevoir 45 € de crédit sur votre facture. Ouvrez notre lien de parrainage avant de commander, vérifiez le montant affiché et gardez votre abonnement éligible actif et à jour pendant deux cycles complets de facturation."
         ],
         "links": [
@@ -294638,7 +294657,7 @@ const reviewsChunk2: unknown[] = [
       {
         "heading": "Réponse rapide",
         "paragraphs": [
-          "Oui, Starlink est fiable : c'est le service officiel d'internet par satellite de SpaceX, et il se vend directement sur starlink.com. Nous avons nous-mêmes souscrit Starlink comme alternative à une fibre locale instable. La vigilance porte sur les sites copiés et les vendeurs tiers non agréés : sur Trustpilot, le profil lié à starlink.com s'appelle « Starlink Development » et, si vous achetez le kit ailleurs, vérifiez le vendeur dans la liste officielle des revendeurs autorisés avant de payer.",
+          "Oui, [Starlink](/fr/coupons/starlink) est fiable : c'est le service officiel d'internet par satellite de SpaceX, et il se vend directement sur starlink.com. Nous avons nous-mêmes souscrit Starlink comme alternative à une fibre locale instable. La vigilance porte sur les sites copiés et les vendeurs tiers non agréés : sur Trustpilot, le profil lié à starlink.com s'appelle « Starlink Development » et, si vous achetez le kit ailleurs, vérifiez le vendeur dans la liste officielle des revendeurs autorisés avant de payer.",
           "Vous souscrivez pour la première fois en France ? Vous pouvez recevoir 45 € de crédit sur votre facture. Ouvrez notre lien de parrainage avant de commander, vérifiez le montant affiché et gardez votre abonnement éligible actif et à jour pendant deux cycles complets de facturation."
         ],
         "links": [
@@ -294836,7 +294855,7 @@ const reviewsChunk2: unknown[] = [
       {
         "heading": "Réponse rapide",
         "paragraphs": [
-          "Starlink Development, le profil Trustpilot de starlink.com, affiche un TrustScore de 1,6 sur 5 pour 879 avis, dont 71 % à une étoile. Le profil n’est pas revendiqué : l’entreprise n’a pas d’offre payante, n’envoie pas d’invitations à laisser un avis et n’a répondu à aucun des 464 avis négatifs des 12 derniers mois, la période que couvre la page d’activité de l’entreprise sur Trustpilot. Les avis viennent de clients de nombreux pays.",
+          "[Starlink](/fr/coupons/starlink) Development, le profil Trustpilot de starlink.com, affiche un TrustScore de 1,6 sur 5 pour 879 avis, dont 71 % à une étoile. Le profil n’est pas revendiqué : l’entreprise n’a pas d’offre payante, n’envoie pas d’invitations à laisser un avis et n’a répondu à aucun des 464 avis négatifs des 12 derniers mois, la période que couvre la page d’activité de l’entreprise sur Trustpilot. Les avis viennent de clients de nombreux pays.",
           "Vous souscrivez pour la première fois en France ? Vous pouvez recevoir 45 € de crédit sur votre facture. Ouvrez notre lien de parrainage avant de commander, vérifiez le montant affiché et gardez votre abonnement éligible actif et à jour pendant deux cycles complets de facturation."
         ],
         "links": [
@@ -295446,7 +295465,7 @@ const reviewsChunk2: unknown[] = [
       {
         "heading": "Schnelle Antwort",
         "paragraphs": [
-          "Beim Starlink Black Friday kombinieren ausgewählte Gebiete 50 % Rabatt auf die ersten 3 Monate — in Berlin 17,50 € im Monat für 100 Mbit/s — mit dem Kit zur Miete für 0 € (19 € am Bestelltag, monatlich gebührenfrei kündbar), plus 45 € Empfehlungsguthaben in Deutschland für Neukunden über unseren Link.",
+          "Beim [Starlink](/de/coupons/starlink) Black Friday kombinieren ausgewählte Gebiete 50 % Rabatt auf die ersten 3 Monate — in Berlin 17,50 € im Monat für 100 Mbit/s — mit dem Kit zur Miete für 0 € (19 € am Bestelltag, monatlich gebührenfrei kündbar), plus 45 € Empfehlungsguthaben in Deutschland für Neukunden über unseren Link.",
           "Wichtig sind die zwei unterschiedlichen Fristen: Die Black-Friday-Aktion läuft nur bis zum 30. November in ausgewählten Gebieten, während unser Empfehlungsbonus so lange gilt, wie das offizielle Starlink-Empfehlungsprogramm besteht. Die Gutschrift landet nach zwei pünktlich bezahlten Monatszyklen auf Ihrer Rechnung und mindert den Kit-Preis bei der Bestellung nicht. Prüfen Sie Ihre Adresse kostenlos und unverbindlich über den Link unten."
         ],
         "links": [
@@ -295757,7 +295776,7 @@ const reviewsChunk2: unknown[] = [
       {
         "heading": "Schnelle Antwort",
         "paragraphs": [
-          "Ja, Starlink lohnt sich dort, wo keine stabile Verbindung ankommt, aber auch dort, wo Glasfaser liegt und trotzdem oft ausfällt oder deutlich weniger Tempo liefert als gebucht. Wir haben Starlink selbst als Alternative und Backup zu unserer instabilen Glasfaser gebucht. Läuft Ihre Glasfaser wirklich stabil, bleibt sie bei Preis und Latenz meist vorn. Der Test ist risikoarm: Das Kit ist in der Berliner Bestellung zur Miete für 0 €, und Sie haben 30 Tage für die Rückgabe.",
+          "Ja, [Starlink](/de/coupons/starlink) lohnt sich dort, wo keine stabile Verbindung ankommt, aber auch dort, wo Glasfaser liegt und trotzdem oft ausfällt oder deutlich weniger Tempo liefert als gebucht. Wir haben Starlink selbst als Alternative und Backup zu unserer instabilen Glasfaser gebucht. Läuft Ihre Glasfaser wirklich stabil, bleibt sie bei Preis und Latenz meist vorn. Der Test ist risikoarm: Das Kit ist in der Berliner Bestellung zur Miete für 0 €, und Sie haben 30 Tage für die Rückgabe.",
           "Als Neukunde in Deutschland können Sie 45 € Rechnungsguthaben erhalten (kein Sofortrabatt auf das Kit). Öffnen Sie vor der Bestellung unseren Empfehlungslink, prüfen Sie die Prämie vor dem Bezahlen in der Bestellübersicht und halten Sie Ihren berechtigten Tarif zwei volle Abrechnungszyklen aktiv und bezahlt."
         ],
         "links": [
@@ -296060,7 +296079,7 @@ const reviewsChunk2: unknown[] = [
       {
         "heading": "Schnelle Antwort",
         "paragraphs": [
-          "Die Bestellübersicht für Berlin nennt es ausdrücklich: Der Vertrag wird automatisch von Monat zu Monat auf unbestimmte Zeit verlängert, bis er gekündigt wird, und die Kündigung ist gebührenfrei. Das Kit ist gemietet, mit 0 € Vorauszahlung und 0 € im Monat, und geht bei Kündigung an Starlink zurück. Wer kündigt und das Kit innerhalb von 30 Tagen unbeschädigt zurückgibt, bekommt nach den Bedingungen des Angebots Kit und ersten Monat erstattet.",
+          "Die Bestellübersicht für Berlin nennt es ausdrücklich: Der Vertrag wird automatisch von Monat zu Monat auf unbestimmte Zeit verlängert, bis er gekündigt wird, und die Kündigung ist gebührenfrei. Das Kit ist gemietet, mit 0 € Vorauszahlung und 0 € im Monat, und geht bei Kündigung an [Starlink](/de/coupons/starlink) zurück. Wer kündigt und das Kit innerhalb von 30 Tagen unbeschädigt zurückgibt, bekommt nach den Bedingungen des Angebots Kit und ersten Monat erstattet.",
           "Als Neukunde in Deutschland können Sie 45 € Rechnungsguthaben erhalten. Öffnen Sie vor der Bestellung unseren Empfehlungslink, prüfen Sie die Prämie in der Bestellübersicht und halten Sie Ihren berechtigten Tarif zwei volle Abrechnungszyklen aktiv und bezahlt."
         ],
         "links": [
@@ -296298,7 +296317,7 @@ const reviewsChunk2: unknown[] = [
       {
         "heading": "Schnelle Antwort",
         "paragraphs": [
-          "Ja, Starlink ist seriös: Es ist der offizielle Satelliten-Internetdienst von SpaceX und wird direkt über starlink.com verkauft. Wir haben Starlink selbst als Alternative zu instabilem Glasfaser-Internet gebucht. Aufpassen müssen Sie bei nachgemachten Webseiten und nicht autorisierten Anbietern: Auf Trustpilot gehört das Profil „Starlink Development“ zu starlink.com, und wer das Kit anderswo kauft, prüft vor dem Bezahlen den Verkäufer in der Liste autorisierter Händler.",
+          "Ja, [Starlink](/de/coupons/starlink) ist seriös: Es ist der offizielle Satelliten-Internetdienst von SpaceX und wird direkt über starlink.com verkauft. Wir haben Starlink selbst als Alternative zu instabilem Glasfaser-Internet gebucht. Aufpassen müssen Sie bei nachgemachten Webseiten und nicht autorisierten Anbietern: Auf Trustpilot gehört das Profil „Starlink Development“ zu starlink.com, und wer das Kit anderswo kauft, prüft vor dem Bezahlen den Verkäufer in der Liste autorisierter Händler.",
           "Als Neukunde in Deutschland können Sie 45 € Rechnungsguthaben erhalten. Öffnen Sie vor der Bestellung unseren Empfehlungslink, prüfen Sie die Prämie in der Bestellübersicht und halten Sie Ihren berechtigten Tarif zwei volle Abrechnungszyklen aktiv und bezahlt."
         ],
         "links": [
@@ -296496,7 +296515,7 @@ const reviewsChunk2: unknown[] = [
       {
         "heading": "Schnelle Antwort",
         "paragraphs": [
-          "Starlink Development, das Trustpilot-Profil von starlink.com, hat einen TrustScore von 1,6 von 5 bei 879 Bewertungen, davon 71 % mit einem Stern. Das Profil ist nicht beansprucht: Das Unternehmen hat keinen kostenpflichtigen Tarif, verschickt keine Einladungen zu Bewertungen und hat auf keine der 464 negativen Bewertungen der letzten 12 Monate geantwortet, des Zeitraums, den die Seite zur Unternehmensaktivität bei Trustpilot abdeckt. Die Bewertungen stammen von Kunden aus vielen Ländern.",
+          "[Starlink](/de/coupons/starlink) Development, das Trustpilot-Profil von starlink.com, hat einen TrustScore von 1,6 von 5 bei 879 Bewertungen, davon 71 % mit einem Stern. Das Profil ist nicht beansprucht: Das Unternehmen hat keinen kostenpflichtigen Tarif, verschickt keine Einladungen zu Bewertungen und hat auf keine der 464 negativen Bewertungen der letzten 12 Monate geantwortet, des Zeitraums, den die Seite zur Unternehmensaktivität bei Trustpilot abdeckt. Die Bewertungen stammen von Kunden aus vielen Ländern.",
           "Als Neukunde in Deutschland können Sie 45 € Rechnungsguthaben erhalten. Öffnen Sie vor der Bestellung unseren Empfehlungslink, prüfen Sie die Prämie in der Bestellübersicht und halten Sie Ihren berechtigten Tarif zwei volle Abrechnungszyklen aktiv und bezahlt."
         ],
         "links": [
@@ -297103,7 +297122,7 @@ const reviewsChunk2: unknown[] = [
       {
         "heading": "Risposta rapida",
         "paragraphs": [
-          "Con il Black Friday Starlink, nelle aree selezionate trovi il 50% di sconto per 3 mesi sul canone — 17,50 € al mese per 100 Mbps a Milano — insieme al kit a noleggio a 0 € (19 € di spedizione oggi, nessun contratto) e, passando dal nostro link di invito, i nuovi clienti in Italia ricevono un extra di 45 € di credito in fattura.",
+          "Con il Black Friday [Starlink](/it/coupons/starlink), nelle aree selezionate trovi il 50% di sconto per 3 mesi sul canone — 17,50 € al mese per 100 Mbps a Milano — insieme al kit a noleggio a 0 € (19 € di spedizione oggi, nessun contratto) e, passando dal nostro link di invito, i nuovi clienti in Italia ricevono un extra di 45 € di credito in fattura.",
           "Fai attenzione alle due scadenze distinte: la promozione Black Friday del 50% è valida fino al 30 novembre nelle zone idonee, mentre il nostro bonus di invito resta valido finché esisterà il programma ufficiale di invito Starlink. Il credito arriva in fattura dopo due cicli mensili completi pagati puntualmente e non riduce il prezzo del kit al momento del pagamento. Verifica gratis e senza impegno il tuo indirizzo dal link qui sotto."
         ],
         "links": [
@@ -297414,7 +297433,7 @@ const reviewsChunk2: unknown[] = [
       {
         "heading": "Risposta rapida",
         "paragraphs": [
-          "Sì, Starlink conviene dove non arriva una connessione stabile e anche dove c’è la fibra, ma cade spesso o dà molta meno banda di quella contrattata. Noi l’abbiamo attivata come alternativa e backup alla nostra fibra instabile. Se la tua fibra è davvero stabile, resta più conveniente per prezzo e latenza. La prova è a basso rischio: nell’ordine di Milano il kit è a noleggio a 0 €, con 30 giorni per restituirlo.",
+          "Sì, [Starlink](/it/coupons/starlink) conviene dove non arriva una connessione stabile e anche dove c’è la fibra, ma cade spesso o dà molta meno banda di quella contrattata. Noi l’abbiamo attivata come alternativa e backup alla nostra fibra instabile. Se la tua fibra è davvero stabile, resta più conveniente per prezzo e latenza. La prova è a basso rischio: nell’ordine di Milano il kit è a noleggio a 0 €, con 30 giorni per restituirlo.",
           "Se sei un nuovo cliente in Italia, puoi ricevere 45 € di credito in fattura (non riduce il prezzo del kit). Apri il nostro link di invito prima di ordinare, controlla l’importo nel riepilogo prima di pagare e mantieni l’abbonamento idoneo attivo e in regola per due cicli completi di fatturazione."
         ],
         "links": [
@@ -297952,7 +297971,7 @@ const reviewsChunk2: unknown[] = [
       {
         "heading": "Risposta rapida",
         "paragraphs": [
-          "Sì, Starlink è affidabile: è il servizio ufficiale di internet satellitare di SpaceX e vende direttamente su starlink.com. Noi stessi lo abbiamo attivato come alternativa a una fibra locale instabile. L'attenzione va ai siti imitati e ai venditori non autorizzati: su Trustpilot il profilo collegato a starlink.com è «Starlink Development» e, se compri il kit altrove, verifica il venditore nell'elenco ufficiale dei rivenditori autorizzati prima di pagare.",
+          "Sì, [Starlink](/it/coupons/starlink) è affidabile: è il servizio ufficiale di internet satellitare di SpaceX e vende direttamente su starlink.com. Noi stessi lo abbiamo attivato come alternativa a una fibra locale instabile. L'attenzione va ai siti imitati e ai venditori non autorizzati: su Trustpilot il profilo collegato a starlink.com è «Starlink Development» e, se compri il kit altrove, verifica il venditore nell'elenco ufficiale dei rivenditori autorizzati prima di pagare.",
           "Se sei un nuovo cliente in Italia, puoi ricevere 45 € di credito in fattura. Apri il nostro link di invito prima di ordinare, controlla l’importo indicato e mantieni l’abbonamento idoneo attivo e in regola per due cicli completi di fatturazione."
         ],
         "links": [
@@ -298150,7 +298169,7 @@ const reviewsChunk2: unknown[] = [
       {
         "heading": "Risposta rapida",
         "paragraphs": [
-          "Starlink Development, il profilo Trustpilot di starlink.com, ha un TrustScore di 1,6 su 5 con 879 recensioni, il 71% delle quali da una stella. Il profilo non è rivendicato: l’azienda non ha un piano a pagamento, non invia inviti a recensire e non ha risposto a nessuna delle 464 recensioni negative degli ultimi 12 mesi, il periodo coperto dalla pagina sull’attività dell’azienda su Trustpilot. Le recensioni arrivano da clienti di molti paesi.",
+          "[Starlink](/it/coupons/starlink) Development, il profilo Trustpilot di starlink.com, ha un TrustScore di 1,6 su 5 con 879 recensioni, il 71% delle quali da una stella. Il profilo non è rivendicato: l’azienda non ha un piano a pagamento, non invia inviti a recensire e non ha risposto a nessuna delle 464 recensioni negative degli ultimi 12 mesi, il periodo coperto dalla pagina sull’attività dell’azienda su Trustpilot. Le recensioni arrivano da clienti di molti paesi.",
           "Se sei un nuovo cliente in Italia, puoi ricevere 45 € di credito in fattura. Apri il nostro link di invito prima di ordinare, controlla l’importo indicato e mantieni l’abbonamento idoneo attivo e in regola per due cicli completi di fatturazione."
         ],
         "links": [
@@ -298434,7 +298453,7 @@ const reviewsChunk2: unknown[] = [
       {
         "heading": "クイックアンサー",
         "paragraphs": [
-          "日本で初めてStarlinkを契約する方は、7,000円分の請求額クレジットを受け取れます。注文前に私たちの紹介リンクを開き、特典の表示を確認してください。対象プランを契約し、2回の請求サイクルを完了するまで支払いを続けることが条件です。"
+          "日本で初めて[Starlink](/ja/coupons/starlink)を契約する方は、7,000円分の請求額クレジットを受け取れます。注文前に私たちの紹介リンクを開き、特典の表示を確認してください。対象プランを契約し、2回の請求サイクルを完了するまで支払いを続けることが条件です。"
         ],
         "links": [
           {
@@ -298755,7 +298774,7 @@ const reviewsChunk2: unknown[] = [
         "heading": "クイックアンサー",
         "paragraphs": [
           "日本の新規契約なら、ホームプラン50%オフの月3,550円（通常7,100円）＋ミニキットレンタル0円に加え、私たちの紹介リンク経由限定で7,000円分の請求額クレジット（割引後約2か月分相当）を受け取れます。紹介特典は対象プランを契約し、請求サイクル2回分の支払いを完了したあとに請求へ付与され、注文時のキット価格を下げるものではありません。",
-          "期限は2つに分かれています。50%オフとレンタル0円のブラックフライデー割引は11月30日までの注文が対象ですが、紹介リンクの7,000円特典はStarlink公式の紹介プログラムが続く限り有効です。下のリンクから設置先の住所を入力するだけなら費用は一切かからず、カード入力や購入義務もないため、まずはご自身の住所で金額と特典表示を確認してみてください。"
+          "期限は2つに分かれています。50%オフとレンタル0円のブラックフライデー割引は11月30日までの注文が対象ですが、紹介リンクの7,000円特典は[Starlink](/ja/coupons/starlink)公式の紹介プログラムが続く限り有効です。下のリンクから設置先の住所を入力するだけなら費用は一切かからず、カード入力や購入義務もないため、まずはご自身の住所で金額と特典表示を確認してみてください。"
         ],
         "links": [
           {
@@ -299060,7 +299079,7 @@ const reviewsChunk2: unknown[] = [
       {
         "heading": "クイックアンサー",
         "paragraphs": [
-          "はい、Starlinkは安定した回線が届かない地域だけでなく、光回線があっても頻繁に切れる、契約速度より極端に遅いといった家庭でも価値があります。当サイトでも、不安定な光回線の代替・バックアップとしてStarlinkを契約しました。光回線が本当に安定しているなら、料金と遅延では光回線が有利です。試すリスクは小さく、東京の注文画面ではキットは初期費用0円のレンタルで、30日以内なら返却できます。",
+          "はい、[Starlink](/ja/coupons/starlink)は安定した回線が届かない地域だけでなく、光回線があっても頻繁に切れる、契約速度より極端に遅いといった家庭でも価値があります。当サイトでも、不安定な光回線の代替・バックアップとしてStarlinkを契約しました。光回線が本当に安定しているなら、料金と遅延では光回線が有利です。試すリスクは小さく、東京の注文画面ではキットは初期費用0円のレンタルで、30日以内なら返却できます。",
           "日本で初めてStarlinkを契約する方は、7,000円分の請求額クレジットを受け取れます（キット購入時の割引ではありません）。注文前に私たちの紹介リンクを開き、支払い前に特典の表示を確認してください。対象プランを契約し、2回の請求サイクルを完了するまで支払いを続けることが条件です。"
         ],
         "links": [
@@ -299360,7 +299379,7 @@ const reviewsChunk2: unknown[] = [
         "heading": "クイックアンサー",
         "paragraphs": [
           "東京駅の住所で読んだ注文画面では、日本のプランは「ホーム」の1つだけで、Miniと小型ルーターは初期費用0円、月額0円のレンタルでした。契約期間や解約の費用の表示はなく、サービスをキャンセルするときはレンタルのハードウェアを返却する条件です。キャンセルして機器を破損のない状態で30日以内に返却すると、キットと最初の月の料金が返金されます。",
-          "日本で初めてStarlinkを契約する方は、7,000円分の請求額クレジットを受け取れます。注文前に私たちの紹介リンクを開き、特典の表示を確認してください。対象プランを契約し、2回の請求サイクルを完了するまで支払いを続けることが条件です。"
+          "日本で初めて[Starlink](/ja/coupons/starlink)を契約する方は、7,000円分の請求額クレジットを受け取れます。注文前に私たちの紹介リンクを開き、特典の表示を確認してください。対象プランを契約し、2回の請求サイクルを完了するまで支払いを続けることが条件です。"
         ],
         "links": [
           {
@@ -299557,7 +299576,7 @@ const reviewsChunk2: unknown[] = [
       {
         "heading": "クイックアンサー",
         "paragraphs": [
-          "はい、Starlink（スターリンク）は信頼できる公式サービスです。SpaceXが運営する衛星インターネットで、starlink.com で直接販売されています。当サイトも、不安定な光回線の代わりの回線として Starlink を契約しています。注意すべきなのは偽サイトや非正規の出品者です。Trustpilotで starlink.com に紐づくページは「Starlink Development」で、公式サイト以外で購入する場合は、支払う前に Starlink の正規販売店リストで販売元を確認してください。",
+          "はい、[Starlink](/ja/coupons/starlink)（スターリンク）は信頼できる公式サービスです。SpaceXが運営する衛星インターネットで、starlink.com で直接販売されています。当サイトも、不安定な光回線の代わりの回線として Starlink を契約しています。注意すべきなのは偽サイトや非正規の出品者です。Trustpilotで starlink.com に紐づくページは「Starlink Development」で、公式サイト以外で購入する場合は、支払う前に Starlink の正規販売店リストで販売元を確認してください。",
           "日本で初めてStarlinkを契約する方は、7,000円分の請求額クレジットを受け取れます。注文前に私たちの紹介リンクを開き、特典の表示を確認してください。対象プランを契約し、2回の請求サイクルを完了するまで支払いを続けることが条件です。"
         ],
         "links": [
@@ -299755,7 +299774,7 @@ const reviewsChunk2: unknown[] = [
       {
         "heading": "クイックアンサー",
         "paragraphs": [
-          "starlink.comのTrustpilotページ「Starlink Development」は、レビュー879件でTrustScoreが5点満点の1.6、そのうち71%が星1つです。このページは企業が登録していません。有料プランはなく、レビュー依頼も送らず、過去 12 か月（Trustpilot の企業アクティビティページの対象期間）の否定的なレビュー464件のどれにも返信していません。レビューは多くの国の利用者によるものです。",
+          "starlink.comのTrustpilotページ「[Starlink](/ja/coupons/starlink) Development」は、レビュー879件でTrustScoreが5点満点の1.6、そのうち71%が星1つです。このページは企業が登録していません。有料プランはなく、レビュー依頼も送らず、過去 12 か月（Trustpilot の企業アクティビティページの対象期間）の否定的なレビュー464件のどれにも返信していません。レビューは多くの国の利用者によるものです。",
           "日本で初めてStarlinkを契約する方は、7,000円分の請求額クレジットを受け取れます。注文前に私たちの紹介リンクを開き、特典の表示を確認してください。対象プランを契約し、2回の請求サイクルを完了するまで支払いを続けることが条件です。"
         ],
         "links": [
@@ -300367,7 +300386,7 @@ const reviewsChunk2: unknown[] = [
         "heading": "빠른 답변",
         "paragraphs": [
           "주거용 요금과 하드웨어 모두 50% 할인(100Mbps 월 34,000원, 미니 키트 구매 160,000원·서울시청 주소 기준 오늘 결제액 192,000원)에 더해, 저희 추천 링크로 처음 가입하는 분은 청구서 크레딧도 받을 수 있습니다(한국 65,000원, 결제 전 주문 화면에서 확인). 이 크레딧은 대상 요금제를 두 번의 전체 청구 주기 동안 정상 유지·납부한 뒤 청구서에 반영되며, 주문 시 키트 가격을 깎아 주지는 않습니다.",
-          "기한은 두 가지로 나뉩니다. 서비스·하드웨어 50% 블랙프라이데이 할인은 11월 30일까지의 주문 안내이고, 추천 링크 혜택은 스타링크 공식 추천 프로그램이 운영되는 동안 계속 유효합니다. 아래 링크를 눌러 주소를 조회하는 것만으로는 결제나 카드 입력이 전혀 필요 없으므로, 먼저 내 주소의 최종 가격과 추천 크레딧 금액을 부담 없이 확인해 보세요."
+          "기한은 두 가지로 나뉩니다. 서비스·하드웨어 50% 블랙프라이데이 할인은 11월 30일까지의 주문 안내이고, 추천 링크 혜택은 [스타링크](/ko/coupons/starlink) 공식 추천 프로그램이 운영되는 동안 계속 유효합니다. 아래 링크를 눌러 주소를 조회하는 것만으로는 결제나 카드 입력이 전혀 필요 없으므로, 먼저 내 주소의 최종 가격과 추천 크레딧 금액을 부담 없이 확인해 보세요."
         ],
         "links": [
           {
@@ -300677,7 +300696,7 @@ const reviewsChunk2: unknown[] = [
       {
         "heading": "빠른 답변",
         "paragraphs": [
-          "네, 스타링크는 유선 인터넷이 닿지 않는 곳뿐 아니라, 광랜이 있어도 자주 끊기거나 계약 속도에 못 미치는 곳에서도 가치가 있습니다. 저희도 불안정한 광랜의 대안이자 백업 회선으로 스타링크를 계약했습니다. 광랜이 정말 안정적이라면 요금과 지연 시간에서는 광랜이 유리합니다. 한국에서는 키트를 구매하는 방식이므로, 서울 주문 화면 기준으로 약정 없이 30일 안에 반납하면 환불받는 조건을 확인해 보세요.",
+          "네, [스타링크](/ko/coupons/starlink)는 유선 인터넷이 닿지 않는 곳뿐 아니라, 광랜이 있어도 자주 끊기거나 계약 속도에 못 미치는 곳에서도 가치가 있습니다. 저희도 불안정한 광랜의 대안이자 백업 회선으로 스타링크를 계약했습니다. 광랜이 정말 안정적이라면 요금과 지연 시간에서는 광랜이 유리합니다. 한국에서는 키트를 구매하는 방식이므로, 서울 주문 화면 기준으로 약정 없이 30일 안에 반납하면 환불받는 조건을 확인해 보세요.",
           "한국에서 처음 가입하면 65,000원 상당의 청구서 크레딧을 받을 수 있습니다(키트 즉시 할인은 아닙니다). 저희 추천 링크를 열어 결제 전에 주문 화면에서 금액을 꼭 확인하고, 대상 요금제를 두 번의 전체 청구 주기 동안 유지하며 요금을 납부하세요."
         ],
         "links": [
@@ -300980,7 +300999,7 @@ const reviewsChunk2: unknown[] = [
       {
         "heading": "빠른 답변",
         "paragraphs": [
-          "서울시청 주소로 읽은 한국 주문 화면에서 스타링크 키트는 임대가 아니라 구매 방식이었고, 약정 기간이나 위약금 문구는 보이지 않았습니다. 100Mbps와 맥스 두 요금제 모두 같은 구조이며, 키트는 미니와 스탠다드 4 X 중에서 고릅니다. 서비스를 취소하고 키트를 손상 없이 결제일로부터 30일 안에 반납하면 키트와 첫 달 요금을 환불받는 조건입니다. 결제에는 한국에서 발급한 카드가 필요합니다.",
+          "서울시청 주소로 읽은 한국 주문 화면에서 [스타링크](/ko/coupons/starlink) 키트는 임대가 아니라 구매 방식이었고, 약정 기간이나 위약금 문구는 보이지 않았습니다. 100Mbps와 맥스 두 요금제 모두 같은 구조이며, 키트는 미니와 스탠다드 4 X 중에서 고릅니다. 서비스를 취소하고 키트를 손상 없이 결제일로부터 30일 안에 반납하면 키트와 첫 달 요금을 환불받는 조건입니다. 결제에는 한국에서 발급한 카드가 필요합니다.",
           "한국에서 처음 가입하면 65,000원 상당의 청구서 크레딧을 받을 수 있습니다. 저희 추천 링크를 열어 결제 전에 금액을 확인하고, 대상 요금제를 두 번의 전체 청구 주기 동안 유지하며 요금을 납부하세요."
         ],
         "links": [
@@ -301177,7 +301196,7 @@ const reviewsChunk2: unknown[] = [
       {
         "heading": "빠른 답변",
         "paragraphs": [
-          "네, 스타링크(Starlink)는 믿을 수 있는 공식 서비스입니다. 스페이스X(SpaceX)가 운영하는 위성 인터넷이고, starlink.com에서 직접 판매합니다. 저희도 불안정한 지역 광랜의 대안으로 직접 가입했습니다. 주의할 대상은 서비스 자체가 아니라 사칭 사이트와 비공인 판매자입니다. 트러스트파일럿에서 starlink.com과 연결된 프로필은 \"Starlink Development\"이며, 다른 곳에서 키트를 살 때는 결제 전에 스타링크 공인 판매처 목록에서 판매자를 확인하세요.",
+          "네, 스타링크(Starlink)는 믿을 수 있는 공식 서비스입니다. 스페이스X(SpaceX)가 운영하는 위성 인터넷이고, starlink.com에서 직접 판매합니다. 저희도 불안정한 지역 광랜의 대안으로 직접 가입했습니다. 주의할 대상은 서비스 자체가 아니라 사칭 사이트와 비공인 판매자입니다. 트러스트파일럿에서 starlink.com과 연결된 프로필은 \"[Starlink](/ko/coupons/starlink) Development\"이며, 다른 곳에서 키트를 살 때는 결제 전에 스타링크 공인 판매처 목록에서 판매자를 확인하세요.",
           "한국에서 처음 가입하면 65,000원 상당의 청구서 크레딧을 받을 수 있습니다. 저희 추천 링크를 열어 결제 전에 금액을 확인하고, 대상 요금제를 두 번의 전체 청구 주기 동안 유지하며 요금을 납부하세요."
         ],
         "links": [
@@ -301375,7 +301394,7 @@ const reviewsChunk2: unknown[] = [
       {
         "heading": "빠른 답변",
         "paragraphs": [
-          "starlink.com의 트러스트파일럿 프로필인 Starlink Development는 리뷰 879건에 TrustScore 5점 만점 1.6점이고, 그중 71%가 별 1개입니다. 이 프로필은 기업이 등록하지 않은 상태입니다. 유료 플랜이 없고, 리뷰 요청도 보내지 않으며, 최근 12개월(Trustpilot 기업 활동 페이지의 집계 기간)의 부정적 리뷰 464건 중 어디에도 답하지 않았습니다. 리뷰는 여러 나라의 고객이 남겼습니다.",
+          "starlink.com의 트러스트파일럿 프로필인 [Starlink](/ko/coupons/starlink) Development는 리뷰 879건에 TrustScore 5점 만점 1.6점이고, 그중 71%가 별 1개입니다. 이 프로필은 기업이 등록하지 않은 상태입니다. 유료 플랜이 없고, 리뷰 요청도 보내지 않으며, 최근 12개월(Trustpilot 기업 활동 페이지의 집계 기간)의 부정적 리뷰 464건 중 어디에도 답하지 않았습니다. 리뷰는 여러 나라의 고객이 남겼습니다.",
           "한국에서 처음 가입하면 65,000원 상당의 청구서 크레딧을 받을 수 있습니다. 저희 추천 링크를 열어 결제 전에 금액을 확인하고, 대상 요금제를 두 번의 전체 청구 주기 동안 유지하며 요금을 납부하세요."
         ],
         "links": [
@@ -301994,7 +302013,7 @@ const reviewsChunk2: unknown[] = [
       {
         "heading": "快速回答",
         "paragraphs": [
-          "Starlink 官網沒有中文介面，但透過我們的推薦連結下單仍可拿新客戶帳單抵扣：美國 100 Mbps 優惠月費 US$38.50＋設備租用 US$0＋US$100 推薦抵扣；日本ホーム優惠月費 ¥3,550＋設備租用 ¥0＋¥7,000 推薦抵扣（約抵扣 2 個優惠月費）；馬來西亞 Max 設備租用 RM 0（月費 RM 235），100 Mbps 月費 RM 135＋購買 Mini X RM 900（馬來西亞的推薦獎勵為 RM180，付款前請在訂單頁面確認）。所有推薦獎勵皆於按時付滿兩個完整帳單週期後抵扣帳單，不會在結帳時折減設備價格；在 Starlink 提供現金發放的地區，該選項會顯示在帳戶裡。",
+          "Starlink 官網沒有中文介面，但透過我們的推薦連結下單仍可拿新客戶帳單抵扣：美國 100 Mbps 優惠月費 US$38.50＋設備租用 US$0＋US$100 推薦抵扣；日本ホーム優惠月費 ¥3,550＋設備租用 ¥0＋¥7,000 推薦抵扣（約抵扣 2 個優惠月費）；馬來西亞 Max 設備租用 RM 0（月費 RM 235），100 Mbps 月費 RM 135＋購買 Mini X RM 900（馬來西亞的推薦獎勵為 RM180，付款前請在訂單頁面確認）。所有推薦獎勵皆於按時付滿兩個完整帳單週期後抵扣帳單，不會在結帳時折減設備價格；在 [Starlink](/zh-hant/coupons/starlink) 提供現金發放的地區，該選項會顯示在帳戶裡。",
           "請特別區分兩個截止時間：美國（30% 折扣）與日本（50% 折扣）的黑色星期五優惠只到 11 月 30 日（馬來西亞本次未記錄到黑五折扣），而透過我們推薦連結獲得的帳單獎勵則在 Starlink 官方推薦計畫存續期間持續有效。打開下方連結輸入安裝地址試算價格，完全不收費也無須填寫付款卡，沒有任何購買義務。"
         ],
         "links": [
@@ -302311,7 +302330,7 @@ const reviewsChunk2: unknown[] = [
       {
         "heading": "快速回答",
         "paragraphs": [
-          "是的，Starlink 不只適合沒有光纖的地方，也適合有光纖卻常常斷線、或實際網速遠低於合約的家庭。我們自己也是為了替代並備援不穩定的光纖而申裝 Starlink。如果現有光纖確實穩定，費用與延遲仍是光纖占優。試用的風險不高：馬來西亞的 Max 方案設備租賃 RM 0，100 Mbps 方案的設備購買後也有 30 天可退。",
+          "是的，[Starlink](/zh-hant/coupons/starlink) 不只適合沒有光纖的地方，也適合有光纖卻常常斷線、或實際網速遠低於合約的家庭。我們自己也是為了替代並備援不穩定的光纖而申裝 Starlink。如果現有光纖確實穩定，費用與延遲仍是光纖占優。試用的風險不高：馬來西亞的 Max 方案設備租賃 RM 0，100 Mbps 方案的設備購買後也有 30 天可退。",
           "首次訂閱符合資格的方案可獲得帳單折抵（非套件結帳折扣）。以馬來西亞為例，獎勵為 RM180。請先打開我們的推薦連結，在付款前確認你的地址與訂購頁顯示的獎勵金額，再維持方案有效並按時繳費滿兩個完整帳單週期。"
         ],
         "links": [
@@ -302615,7 +302634,7 @@ const reviewsChunk2: unknown[] = [
       {
         "heading": "快速回答",
         "paragraphs": [
-          "Starlink 沒有一套全球通用的合約規則，設備條件依地址而不同，而且官方訂購頁沒有繁體中文版。我們看到三種模式：購買設備且沒有合約期限，例如馬來西亞的 100 Mbps；0 元租賃設備、取消時須歸還，例如馬來西亞的 Max、美國、日本與歐洲；以及補貼設備但綁 12 個月合約並有提前解約費，例如巴西的 Max 與墨西哥的 Standard 4 X。各種模式都有 30 天的歸還與退款期，請以你自己訂單上的條款為準。",
+          "[Starlink](/zh-hant/coupons/starlink) 沒有一套全球通用的合約規則，設備條件依地址而不同，而且官方訂購頁沒有繁體中文版。我們看到三種模式：購買設備且沒有合約期限，例如馬來西亞的 100 Mbps；0 元租賃設備、取消時須歸還，例如馬來西亞的 Max、美國、日本與歐洲；以及補貼設備但綁 12 個月合約並有提前解約費，例如巴西的 Max 與墨西哥的 Standard 4 X。各種模式都有 30 天的歸還與退款期，請以你自己訂單上的條款為準。",
           "首次訂閱符合資格的方案可獲得帳單折抵。以馬來西亞為例，獎勵為 RM180。請先打開我們的推薦連結，確認你的地址及獎勵金額，再維持方案有效並按時繳費滿兩個完整帳單週期。"
         ],
         "links": [
@@ -302841,7 +302860,7 @@ const reviewsChunk2: unknown[] = [
       {
         "heading": "快速回答",
         "paragraphs": [
-          "是的，Starlink 是可靠的官方服務：它是 SpaceX 的衛星網路服務，並在 starlink.com 直接銷售。我們自己也因為當地光纖不穩而申裝，作為替代與備援網路。真正要提防的是仿冒網站與非授權賣家：在 Trustpilot 上指向 starlink.com 的頁面為「Starlink Development」，若在其他通路購買套件，付款前務必先查閱 Starlink 授權經銷商清單並確認實際賣家。",
+          "是的，[Starlink](/zh-hant/coupons/starlink) 是可靠的官方服務：它是 SpaceX 的衛星網路服務，並在 starlink.com 直接銷售。我們自己也因為當地光纖不穩而申裝，作為替代與備援網路。真正要提防的是仿冒網站與非授權賣家：在 Trustpilot 上指向 starlink.com 的頁面為「Starlink Development」，若在其他通路購買套件，付款前務必先查閱 Starlink 授權經銷商清單並確認實際賣家。",
           "首次訂閱符合資格的方案可獲得帳單折抵。以馬來西亞為例，獎勵為 RM180。請先打開我們的推薦連結，確認你的地址及獎勵金額，再維持方案有效並按時繳費滿兩個完整帳單週期。"
         ],
         "links": [
@@ -303045,7 +303064,7 @@ const reviewsChunk2: unknown[] = [
       {
         "heading": "快速回答",
         "paragraphs": [
-          "starlink.com 在 Trustpilot 的檔案 Starlink Development，TrustScore 為 5 分滿分的 1.6，共 879 則評論，其中 71% 是一星。這個檔案尚未被公司認領：沒有付費方案、不寄送評論邀請，過去 12 個月（Trustpilot 公司活動頁面統計的期間）的 464 則負面評論也沒有任何一則回覆。評論來自許多國家的用戶。",
+          "starlink.com 在 Trustpilot 的檔案 [Starlink](/zh-hant/coupons/starlink) Development，TrustScore 為 5 分滿分的 1.6，共 879 則評論，其中 71% 是一星。這個檔案尚未被公司認領：沒有付費方案、不寄送評論邀請，過去 12 個月（Trustpilot 公司活動頁面統計的期間）的 464 則負面評論也沒有任何一則回覆。評論來自許多國家的用戶。",
           "首次訂閱符合資格的方案可獲得帳單折抵。以馬來西亞為例，獎勵為 RM180。請先打開我們的推薦連結，確認你的地址及獎勵金額，再維持方案有效並按時繳費滿兩個完整帳單週期。"
         ],
         "links": [
@@ -303656,7 +303675,7 @@ const reviewsChunk2: unknown[] = [
       {
         "heading": "快速回答",
         "paragraphs": [
-          "Starlink 官网没有中文界面，但通过我们的推荐链接下单仍可拿新客户账单抵扣：美国 100 Mbps 优惠月费 US$38.50＋套件租用 US$0＋US$100 推荐抵扣；日本ホーム优惠月费 ¥3,550＋套件租用 ¥0＋¥7,000 推荐抵扣（约抵扣 2 个优惠月费）；马来西亚 Max 套件租用 RM 0（月费 RM 235），100 Mbps 月费 RM 135＋购买 Mini X RM 900（马来西亚的推荐奖励为 RM180，实际金额请在付款前于订单页确认）。所有推荐奖励均在按时付满两个完整账单周期后抵扣账单，不会在结账时降低套件价格；在 Starlink 提供现金发放的地区，该选项会显示在账户里。",
+          "Starlink 官网没有中文界面，但通过我们的推荐链接下单仍可拿新客户账单抵扣：美国 100 Mbps 优惠月费 US$38.50＋套件租用 US$0＋US$100 推荐抵扣；日本ホーム优惠月费 ¥3,550＋套件租用 ¥0＋¥7,000 推荐抵扣（约抵扣 2 个优惠月费）；马来西亚 Max 套件租用 RM 0（月费 RM 235），100 Mbps 月费 RM 135＋购买 Mini X RM 900（马来西亚的推荐奖励为 RM180，实际金额请在付款前于订单页确认）。所有推荐奖励均在按时付满两个完整账单周期后抵扣账单，不会在结账时降低套件价格；在 [Starlink](/zh-hans/coupons/starlink) 提供现金发放的地区，该选项会显示在账户里。",
           "请特别区分两个截止时间：美国（30% 折扣）与日本（50% 折扣）的黑色星期五优惠只到 11 月 30 日（马来西亚本次未记录到黑五折扣），而通过我们推荐链接获得的账单奖励则在 Starlink 官方推荐计划存续期间持续有效。打开下方链接输入安装地址试算价格，完全不收费也无需填写银行卡，没有任何购买义务。"
         ],
         "links": [
@@ -303967,7 +303986,7 @@ const reviewsChunk2: unknown[] = [
       {
         "heading": "快速回答",
         "paragraphs": [
-          "是的，Starlink 不仅适合没有光纤的地方，也适合有光纤却经常掉线、或实际网速远低于合同标准的家庭。我们自己也是为了替代并备用不稳定的光纤而办理 Starlink。如果现有光纤确实稳定，费用和延迟上仍是光纤占优。试用的风险不高：马来西亚的 Max 套餐设备租赁 RM 0，100 Mbps 套餐的设备购买后也有 30 天可退。",
+          "是的，[Starlink](/zh-hans/coupons/starlink) 不仅适合没有光纤的地方，也适合有光纤却经常掉线、或实际网速远低于合同标准的家庭。我们自己也是为了替代并备用不稳定的光纤而办理 Starlink。如果现有光纤确实稳定，费用和延迟上仍是光纤占优。试用的风险不高：马来西亚的 Max 套餐设备租赁 RM 0，100 Mbps 套餐的设备购买后也有 30 天可退。",
           "首次订阅符合条件的套餐可获得账单抵扣（非套件下单折扣）。以马来西亚为例，奖励为 RM180。请先打开我们的推荐链接，在付款前确认你的地址与订购页显示的奖励金额，然后保持套餐有效并按时付费满两个完整账单周期。"
         ],
         "links": [
@@ -304265,7 +304284,7 @@ const reviewsChunk2: unknown[] = [
       {
         "heading": "快速回答",
         "paragraphs": [
-          "Starlink 没有一套全球通用的合约规则，设备条件因地址而不同，而且官方订购页没有简体中文版。我们看到三种模式：购买设备且没有合约期限，例如马来西亚的 100 Mbps；0 元租用设备、取消时须退回，例如马来西亚的 Max、美国、日本和欧洲；以及补贴设备但绑 12 个月合约并有提前解约费，例如巴西的 Max 和墨西哥的 Standard 4 X。各种模式都有 30 天的退回与退款期，请以你自己订单上的条款为准。",
+          "[Starlink](/zh-hans/coupons/starlink) 没有一套全球通用的合约规则，设备条件因地址而不同，而且官方订购页没有简体中文版。我们看到三种模式：购买设备且没有合约期限，例如马来西亚的 100 Mbps；0 元租用设备、取消时须退回，例如马来西亚的 Max、美国、日本和欧洲；以及补贴设备但绑 12 个月合约并有提前解约费，例如巴西的 Max 和墨西哥的 Standard 4 X。各种模式都有 30 天的退回与退款期，请以你自己订单上的条款为准。",
           "首次订阅符合条件的套餐可获得账单抵扣。以马来西亚为例，奖励为 RM180。请先打开我们的推荐链接，确认你的地址与奖励金额，然后保持套餐有效并按时付费满两个完整账单周期。"
         ],
         "links": [
@@ -304489,7 +304508,7 @@ const reviewsChunk2: unknown[] = [
       {
         "heading": "快速回答",
         "paragraphs": [
-          "是的，Starlink 靠谱：它是 SpaceX 的卫星互联网服务，并在 starlink.com 直接销售。我们自己也因当地光纤不稳定而申装，作为替代与备用网络。真正需要防范的是仿冒网站和非授权卖家：在 Trustpilot 上指向 starlink.com 的页面名为“Starlink Development”；如果在别处购买套件，付款前请先核对 Starlink 授权经销商名单并确认店铺主体。",
+          "是的，[Starlink](/zh-hans/coupons/starlink) 靠谱：它是 SpaceX 的卫星互联网服务，并在 starlink.com 直接销售。我们自己也因当地光纤不稳定而申装，作为替代与备用网络。真正需要防范的是仿冒网站和非授权卖家：在 Trustpilot 上指向 starlink.com 的页面名为“Starlink Development”；如果在别处购买套件，付款前请先核对 Starlink 授权经销商名单并确认店铺主体。",
           "首次订阅符合条件的套餐可获得账单抵扣。以马来西亚为例，奖励为 RM180。请先打开我们的推荐链接，确认你的地址与奖励金额，然后保持套餐有效并按时付费满两个完整账单周期。"
         ],
         "links": [
@@ -304687,7 +304706,7 @@ const reviewsChunk2: unknown[] = [
       {
         "heading": "快速回答",
         "paragraphs": [
-          "starlink.com 在 Trustpilot 上的主页 Starlink Development，TrustScore 为 5 分满分的 1.6，共 879 条评价，其中 71% 是一星。这个主页尚未被公司认领：没有付费方案，不发送评价邀请，过去 12 个月（Trustpilot 公司活动页面统计的期间）的 464 条负面评价也没有任何一条回复。评价来自许多国家的用户。",
+          "starlink.com 在 Trustpilot 上的主页 [Starlink](/zh-hans/coupons/starlink) Development，TrustScore 为 5 分满分的 1.6，共 879 条评价，其中 71% 是一星。这个主页尚未被公司认领：没有付费方案，不发送评价邀请，过去 12 个月（Trustpilot 公司活动页面统计的期间）的 464 条负面评价也没有任何一条回复。评价来自许多国家的用户。",
           "首次订阅符合条件的套餐可获得账单抵扣。以马来西亚为例，奖励为 RM180。请先打开我们的推荐链接，确认你的地址与奖励金额，然后保持套餐有效并按时付费满两个完整账单周期。"
         ],
         "links": [
@@ -314825,7 +314844,7 @@ const reviewsChunk2: unknown[] = [
       {
         "heading": "الإجابة السريعة",
         "paragraphs": [
-          "تستمر الجمعة البيضاء في Hostinger حتى 14 ديسمبر 2026. يُطبَّق سعر الحملة تلقائيًا، ويمنح **SONAR20** خصمًا إضافيًا 20% على الخطط الجديدة المؤهلة. في خطة Cloud Startup لمدة 48 شهرًا انخفض الإجمالي من US$ 383.52 إلى US$ 306.82. وفي خطط الشهر الواحد يتوقف قبول الكود على الخطة، فتحقق من سطر «Coupon applied» في السلة قبل الدفع. قارن الإجمالي الأولي بسعر التجديد قبل أن تختار المدة."
+          "تستمر الجمعة البيضاء في [Hostinger](/ar/coupons/hostinger) حتى 14 ديسمبر 2026. يُطبَّق سعر الحملة تلقائيًا، ويمنح **SONAR20** خصمًا إضافيًا 20% على الخطط الجديدة المؤهلة. في خطة Cloud Startup لمدة 48 شهرًا انخفض الإجمالي من US$ 383.52 إلى US$ 306.82. وفي خطط الشهر الواحد يتوقف قبول الكود على الخطة، فتحقق من سطر «Coupon applied» في السلة قبل الدفع. قارن الإجمالي الأولي بسعر التجديد قبل أن تختار المدة."
         ]
       },
       {
@@ -315122,7 +315141,7 @@ const reviewsChunk2: unknown[] = [
     "locale": "ar",
     "translationKey": "hostinger-cupom-como-funciona",
     "title": "كوبون Hostinger SONAR20: خصم 20%، وأين تُدخل الكود وماذا يشمل",
-    "seoTitle": "كوبون Hostinger SONAR20 2026: خصم 20% على الفترة الأولى",
+    "seoTitle": "طريقة استخدام كود خصم وإحالة Hostinger SONAR20 (خصم 20%)",
     "type": "دليل الكوبون",
     "category": "cupons-como-usar",
     "reviewKind": "guia",
@@ -315318,7 +315337,7 @@ const reviewsChunk2: unknown[] = [
       {
         "heading": "الإجابة السريعة",
         "paragraphs": [
-          "النطاق حساب منفصل: يمكن أن يبقى في Hostinger أو في مكان آخر، ويعمل الموقع في الحالتين. اختر بحسب سعر التجديد وسهولة المغادرة، لا بحسب السنة الأولى. اشترِ من Hostinger إن أردت لوحة واحدة؛ وانقل فقط النطاقات المؤهلة (الامتدادات العامة: 60 يومًا أو أكثر منذ التسجيل أو آخر نقل)."
+          "النطاق حساب منفصل: يمكن أن يبقى في [Hostinger](/ar/coupons/hostinger) أو في مكان آخر، ويعمل الموقع في الحالتين. اختر بحسب سعر التجديد وسهولة المغادرة، لا بحسب السنة الأولى. اشترِ من Hostinger إن أردت لوحة واحدة؛ وانقل فقط النطاقات المؤهلة (الامتدادات العامة: 60 يومًا أو أكثر منذ التسجيل أو آخر نقل)."
         ]
       },
       {
@@ -315562,7 +315581,7 @@ const reviewsChunk2: unknown[] = [
       {
         "heading": "الإجابة السريعة",
         "paragraphs": [
-          "نعم، تستحق Hostinger بالتأكيد لمن يبحث عن استضافة مشتركة وWordPress وبريد إلكتروني ونطاقات في لوحة تحكم واحدة: فنحن نستخدم Hostinger لتشغيل هذا الموقع منذ عام 2024 ونشغّل عليها خادم VPS أيضًا. تكفي استضافة الويب لبدء موقع عادي، بينما يكون VPS منطقيًا إذا كان هناك من يدير الخادم. وقبل الدفع، قارن بين الفترة الأولى وسعر التجديد."
+          "نعم، تستحق [Hostinger](/ar/coupons/hostinger) بالتأكيد لمن يبحث عن استضافة مشتركة وWordPress وبريد إلكتروني ونطاقات في لوحة تحكم واحدة: فنحن نستخدم Hostinger لتشغيل هذا الموقع منذ عام 2024 ونشغّل عليها خادم VPS أيضًا. تكفي استضافة الويب لبدء موقع عادي، بينما يكون VPS منطقيًا إذا كان هناك من يدير الخادم. وقبل الدفع، قارن بين الفترة الأولى وسعر التجديد."
         ]
       },
       {
@@ -315825,7 +315844,7 @@ const reviewsChunk2: unknown[] = [
       {
         "heading": "الإجابة السريعة",
         "paragraphs": [
-          "اختر الخيار المُدار إن أردت تشغيل المساعد دون رعاية خادم، واختر VPS إن أردت صلاحية root وتشغيل برامج أخرى على الجهاز نفسه. كلاهما يقبل أرصدة الذكاء الاصطناعي من Hostinger أو مفتاح API الخاص بك؛ ويمنح SONAR20 خصم 20% عند شراء جديد لأي منهما، لا عند التجديد. المهم هو الصيانة."
+          "اختر الخيار المُدار إن أردت تشغيل المساعد دون رعاية خادم، واختر VPS إن أردت صلاحية root وتشغيل برامج أخرى على الجهاز نفسه. كلاهما يقبل أرصدة الذكاء الاصطناعي من [Hostinger](/ar/coupons/hostinger) أو مفتاح API الخاص بك؛ ويمنح SONAR20 خصم 20% عند شراء جديد لأي منهما، لا عند التجديد. المهم هو الصيانة."
         ]
       },
       {
@@ -316052,7 +316071,7 @@ const reviewsChunk2: unknown[] = [
       {
         "heading": "الإجابة السريعة",
         "paragraphs": [
-          "إذا كان نموذج الذكاء الاصطناعي يعمل لدى مزوّد خارجي، عبر مفتاح API أو رصيد الذكاء الاصطناعي من Hostinger، فإن KVM 1 بذاكرة 4 GB هي نقطة البداية. أما مع نموذج محلي فتحتاج أصغر وصفة إلى 8 GiB، وتُعد KVM 4 بذاكرة 16 GB أول خطة تتسع بهامش مريح. يمنحك الرمز SONAR20 خصم 20% على VPS جديد، لا على التجديد."
+          "إذا كان نموذج الذكاء الاصطناعي يعمل لدى مزوّد خارجي، عبر مفتاح API أو رصيد الذكاء الاصطناعي من [Hostinger](/ar/coupons/hostinger)، فإن KVM 1 بذاكرة 4 GB هي نقطة البداية. أما مع نموذج محلي فتحتاج أصغر وصفة إلى 8 GiB، وتُعد KVM 4 بذاكرة 16 GB أول خطة تتسع بهامش مريح. يمنحك الرمز SONAR20 خصم 20% على VPS جديد، لا على التجديد."
         ]
       },
       {
@@ -316332,7 +316351,7 @@ const reviewsChunk2: unknown[] = [
       {
         "heading": "الإجابة السريعة",
         "paragraphs": [
-          "اختر OpenClaw إذا أردت قنوات مراسلة كثيرة وتطبيقات أصلية للهاتف والحاسوب، واختر Hermes Agent إذا أردت وكيلًا يتعلم من الاستخدام. البرنامجان مجانيان، والخطة المُدارة من Hostinger تخدم أيًّا منهما. وبالرمز SONAR20 تحصل عملية الشراء الجديدة على خصم 20%، أما التجديدات والنطاقات فلا."
+          "اختر OpenClaw إذا أردت قنوات مراسلة كثيرة وتطبيقات أصلية للهاتف والحاسوب، واختر Hermes Agent إذا أردت وكيلًا يتعلم من الاستخدام. البرنامجان مجانيان، والخطة المُدارة من [Hostinger](/ar/coupons/hostinger) تخدم أيًّا منهما. وبالرمز SONAR20 تحصل عملية الشراء الجديدة على خصم 20%، أما التجديدات والنطاقات فلا."
         ]
       },
       {
@@ -316610,7 +316629,7 @@ const reviewsChunk2: unknown[] = [
       {
         "heading": "الإجابة السريعة",
         "paragraphs": [
-          "بالدولار الأمريكي، تكلّف Hostinger Premium مع SONAR20 أقل من GoDaddy Economy على مدى سنة وسنتين وأربع سنوات من الاستضافة. كما أن تجديد الاستضافة السنوي المعروض لديها أقل أيضًا. وكلتا الخطتين تتضمنان نطاقًا وبريدًا إلكترونيًا مجانًا للسنة الأولى، وتجديد هاتين الخدمتين غير مشمول في إجماليات الاستضافة."
+          "بالدولار الأمريكي، تكلّف [Hostinger](/ar/coupons/hostinger) Premium مع SONAR20 أقل من GoDaddy Economy على مدى سنة وسنتين وأربع سنوات من الاستضافة. كما أن تجديد الاستضافة السنوي المعروض لديها أقل أيضًا. وكلتا الخطتين تتضمنان نطاقًا وبريدًا إلكترونيًا مجانًا للسنة الأولى، وتجديد هاتين الخدمتين غير مشمول في إجماليات الاستضافة."
         ]
       },
       {
@@ -316935,7 +316954,7 @@ const reviewsChunk2: unknown[] = [
       {
         "heading": "الإجابة السريعة",
         "paragraphs": [
-          "بحسب سعر التجديد، تُعد Premium من Hostinger أرخص خطة، وUnlimited هي الخطة للمواقع الكثيرة، دون حد للمواقع. ابدأ بمتطلبات تطبيقك، لا بعدد المواقع وحده. يمنح الرمز SONAR20 خصم 20% على عملية شراء جديدة من Hostinger، لا على التجديد."
+          "بحسب سعر التجديد، تُعد Premium من [Hostinger](/ar/coupons/hostinger) أرخص خطة، وUnlimited هي الخطة للمواقع الكثيرة، دون حد للمواقع. ابدأ بمتطلبات تطبيقك، لا بعدد المواقع وحده. يمنح الرمز SONAR20 خصم 20% على عملية شراء جديدة من Hostinger، لا على التجديد."
         ]
       },
       {
@@ -317179,7 +317198,7 @@ const reviewsChunk2: unknown[] = [
       {
         "heading": "الإجابة السريعة",
         "paragraphs": [
-          "ينظّم Paperclip فرقًا من وكلاء الذكاء الاصطناعي بأدوار وأهداف وميزانيات وموافقات، متصلة بالنماذج عبر حساباتك الخاصة. وعلى Hostinger يكون الخيار الرئيسي هو من يدير الخادم: Hostinger في الاستضافة المُدارة، أو أنت على VPS. يمنح الرمز SONAR20 خصم 20% على المشتريات الجديدة، لا على التجديدات ولا النطاقات."
+          "ينظّم Paperclip فرقًا من وكلاء الذكاء الاصطناعي بأدوار وأهداف وميزانيات وموافقات، متصلة بالنماذج عبر حساباتك الخاصة. وعلى [Hostinger](/ar/coupons/hostinger) يكون الخيار الرئيسي هو من يدير الخادم: Hostinger في الاستضافة المُدارة، أو أنت على VPS. يمنح الرمز SONAR20 خصم 20% على المشتريات الجديدة، لا على التجديدات ولا النطاقات."
         ]
       },
       {
@@ -317425,7 +317444,7 @@ const reviewsChunk2: unknown[] = [
       {
         "heading": "الإجابة السريعة",
         "paragraphs": [
-          "لأول عملية شراء من Hostinger، استخدم SONAR20: خصم 20% على أول فترة من الخطة، يُحتسب من سعر الحملة أيضًا. ويسري الخصم على الشراء الجديد، لا على التجديدات ولا على النطاقات المنفردة. اختر مدة الفوترة بعناية، لأن الـ 20% تغطي الفترة الأولى فقط؛ والحساب أدناه."
+          "لأول عملية شراء من [Hostinger](/ar/coupons/hostinger)، استخدم SONAR20: خصم 20% على أول فترة من الخطة، يُحتسب من سعر الحملة أيضًا. ويسري الخصم على الشراء الجديد، لا على التجديدات ولا على النطاقات المنفردة. اختر مدة الفوترة بعناية، لأن الـ 20% تغطي الفترة الأولى فقط؛ والحساب أدناه."
         ]
       },
       {
@@ -317591,7 +317610,7 @@ const reviewsChunk2: unknown[] = [
       {
         "heading": "الإجابة السريعة",
         "paragraphs": [
-          "يستحق Reach العناء لمن لديه موقع على Hostinger وقائمة تصل إلى 1,000 مستلم. ومن يبدأ بلا ميزانية يمكنه استخدام الخطة المجانية في Mailchimp أو Brevo أولًا. الحاسم هو حد الإرسال وواتساب؛ ويمنحك SONAR20 خصم 20% على الفترة الأولى من أي عملية شراء جديدة."
+          "يستحق Reach العناء لمن لديه موقع على [Hostinger](/ar/coupons/hostinger) وقائمة تصل إلى 1,000 مستلم. ومن يبدأ بلا ميزانية يمكنه استخدام الخطة المجانية في Mailchimp أو Brevo أولًا. الحاسم هو حد الإرسال وواتساب؛ ويمنحك SONAR20 خصم 20% على الفترة الأولى من أي عملية شراء جديدة."
         ]
       },
       {
@@ -318863,7 +318882,7 @@ const reviewsChunk2: unknown[] = [
       {
         "heading": "الإجابة السريعة",
         "paragraphs": [
-          "إن كنت قد قررت استخدام WordPress على Hostinger، فخطة Premium تغطي حتى ثلاثة مواقع، وUnlimited تناسب عدة مواقع أو متجرًا مع نسخ احتياطية يومية، وCloud Startup لحركة الزيارات الكبيرة. وعدد المواقع والنسخ الاحتياطي وسعر التجديد هي الحاسمة. يمنح SONAR20 خصم 20% على الفترة الأولى من أي عملية شراء جديدة؛ ويُستثنى التجديد والنطاقات."
+          "إن كنت قد قررت استخدام WordPress على [Hostinger](/ar/coupons/hostinger)، فخطة Premium تغطي حتى ثلاثة مواقع، وUnlimited تناسب عدة مواقع أو متجرًا مع نسخ احتياطية يومية، وCloud Startup لحركة الزيارات الكبيرة. وعدد المواقع والنسخ الاحتياطي وسعر التجديد هي الحاسمة. يمنح SONAR20 خصم 20% على الفترة الأولى من أي عملية شراء جديدة؛ ويُستثنى التجديد والنطاقات."
         ]
       },
       {
@@ -319057,7 +319076,7 @@ const reviewsChunk2: unknown[] = [
       {
         "heading": "الإجابة السريعة",
         "paragraphs": [
-          "للعملاء الجدد، أظهر رابطنا سنتين من VPN Plus بمبلغ $59.76 يُدفع مقدّمًا، مقابل $71.76 في صفحة عروض Proton للمدة نفسها. أما التجديد المعلن فهو $83.88 كل 12 شهرًا، وفق السعر الساري حينها. افتح العرض بالزر وتحقق من عملتك قبل الدفع."
+          "للعملاء الجدد، أظهر رابطنا سنتين من VPN Plus بمبلغ $59.76 يُدفع مقدّمًا، مقابل $71.76 في صفحة عروض [Proton](/ar/coupons/proton) للمدة نفسها. أما التجديد المعلن فهو $83.88 كل 12 شهرًا، وفق السعر الساري حينها. افتح العرض بالزر وتحقق من عملتك قبل الدفع."
         ]
       },
       {
@@ -319323,7 +319342,7 @@ const reviewsChunk2: unknown[] = [
       {
         "heading": "الإجابة السريعة",
         "paragraphs": [
-          "لدى Proton VPN الرسمية مؤشرات ثقة يمكن التحقق منها: شركة سويسرية معروفة الهوية، وتطبيقات مفتوحة المصدر، وعمليات تدقيق مستقلة لسياسة عدم الاحتفاظ بالسجلات. هذه النتائج لا تضمن إخفاء الهوية ولا الحماية من كل عملية احتيال. نزّل التطبيق من المصادر الرسمية؛ ووفق Proton، لا تحتوي الخطة المجانية على إعلانات ولا حدّ للبيانات، أما الميزات المدفوعة وشروط الفوترة فتُشرح أدناه."
+          "لدى [Proton VPN](/ar/coupons/proton) الرسمية مؤشرات ثقة يمكن التحقق منها: شركة سويسرية معروفة الهوية، وتطبيقات مفتوحة المصدر، وعمليات تدقيق مستقلة لسياسة عدم الاحتفاظ بالسجلات. هذه النتائج لا تضمن إخفاء الهوية ولا الحماية من كل عملية احتيال. نزّل التطبيق من المصادر الرسمية؛ ووفق Proton، لا تحتوي الخطة المجانية على إعلانات ولا حدّ للبيانات، أما الميزات المدفوعة وشروط الفوترة فتُشرح أدناه."
         ]
       },
       {
@@ -319503,7 +319522,7 @@ const reviewsChunk2: unknown[] = [
       {
         "heading": "الإجابة السريعة",
         "paragraphs": [
-          "لطلب استرداد مبلغ Proton VPN، تحقق أولًا ممن حاسبك ومن تاريخ الشراء الأول. في المشتريات المباشرة، ألغِ الاشتراك وتواصل مع الدعم خلال 30 يومًا، وفق الشروط. أما مشتريات Google Play وApple فتتبع المسارات الموضحة أدناه؛ وإلغاء الاشتراك وحده لا يعيد المبلغ."
+          "لطلب استرداد مبلغ [Proton VPN](/ar/coupons/proton)، تحقق أولًا ممن حاسبك ومن تاريخ الشراء الأول. في المشتريات المباشرة، ألغِ الاشتراك وتواصل مع الدعم خلال 30 يومًا، وفق الشروط. أما مشتريات Google Play وApple فتتبع المسارات الموضحة أدناه؛ وإلغاء الاشتراك وحده لا يعيد المبلغ."
         ]
       },
       {
@@ -319979,7 +319998,7 @@ const reviewsChunk2: unknown[] = [
       {
         "heading": "الإجابة السريعة",
         "paragraphs": [
-          "انتهت حملة 11.11 من SHEIN في 12 نوفمبر. تبقى اختيارات Cecília الـ19 قائمةً تراجع بها سعر اليوم أو تقارنه بدليل الجمعة البيضاء. الرمز 4CW5Y يمنحك خصمًا فعلًا: افتح SHEIN عبر رابط Cecília وابحث عن الرمز في التطبيق أو الموقع؛ وSHEIN هي التي تحدد قيمة الخصم والقطع المشمولة."
+          "انتهت حملة 11.11 من [SHEIN](/ar/coupons/shein) في 12 نوفمبر. تبقى اختيارات Cecília الـ19 قائمةً تراجع بها سعر اليوم أو تقارنه بدليل الجمعة البيضاء. الرمز 4CW5Y يمنحك خصمًا فعلًا: افتح SHEIN عبر رابط Cecília وابحث عن الرمز في التطبيق أو الموقع؛ وSHEIN هي التي تحدد قيمة الخصم والقطع المشمولة."
         ]
       },
       {
@@ -320794,7 +320813,7 @@ const reviewsChunk2: unknown[] = [
     "locale": "ar",
     "translationKey": "shein-black-friday",
     "title": "الجمعة البيضاء من SHEIN 2026: ماذا تشتري ومتى تبدأ وكيف يعمل الرمز 4CW5Y",
-    "seoTitle": "الجمعة البيضاء من SHEIN 2026: ماذا تشتري ومتى تبدأ",
+    "seoTitle": "الجمعة البيضاء SHEIN 2026: الرمز 4CW5Y وماذا تشتري والمواعيد",
     "type": "دليل الجمعة البيضاء",
     "category": "cupons-como-usar",
     "reviewKind": "guia",
@@ -320823,7 +320842,7 @@ const reviewsChunk2: unknown[] = [
       {
         "heading": "الإجابة السريعة",
         "paragraphs": [
-          "تصادف الجمعة البيضاء 2026 يوم 27 نوفمبر، وتختلف مواعيد تخفيضات SHEIN بحسب البلد. يعرض هذا الدليل 17 قطعة مع القماش والقياسات وستة اختصارات للحملة. ابحث عن رمز الإحالة 4CW5Y في تطبيق SHEIN أو على الموقع لتفتح مجموعة فيها عروض وخصومات؛ وSHEIN هي التي تحدد القطع المشمولة والتوفير."
+          "تصادف الجمعة البيضاء 2026 يوم 27 نوفمبر، وتختلف مواعيد تخفيضات [SHEIN](/ar/coupons/shein) بحسب البلد. يعرض هذا الدليل 17 قطعة مع القماش والقياسات وستة اختصارات للحملة. ابحث عن رمز الإحالة 4CW5Y في تطبيق SHEIN أو على الموقع لتفتح مجموعة فيها عروض وخصومات؛ وSHEIN هي التي تحدد القطع المشمولة والتوفير."
         ]
       },
       {
@@ -321774,7 +321793,7 @@ const reviewsChunk2: unknown[] = [
       {
         "heading": "الإجابة السريعة",
         "paragraphs": [
-          "لأول طلب من SHEIN، استخدم 4CW5Y، رمز الإحالة الخاص بـ Cecília: ابحث عن الرمز في التطبيق أو الموقع لترى مجموعة منتجات وعروض وخصومات. أما قيمة الخصم والقطع المشمولة فتقررها SHEIN. لا يُكتب الرمز في خانة الكوبون، وهو يصلح أيضًا للعملاء السابقين."
+          "لأول طلب من [SHEIN](/ar/coupons/shein)، استخدم 4CW5Y، رمز الإحالة الخاص بـ Cecília: ابحث عن الرمز في التطبيق أو الموقع لترى مجموعة منتجات وعروض وخصومات. أما قيمة الخصم والقطع المشمولة فتقررها SHEIN. لا يُكتب الرمز في خانة الكوبون، وهو يصلح أيضًا للعملاء السابقين."
         ]
       },
       {
@@ -321866,7 +321885,7 @@ const reviewsChunk2: unknown[] = [
     "locale": "ar",
     "translationKey": "shein-referral-code",
     "title": "رمز الإحالة من SHEIN: أين تدخله وكيف يعمل",
-    "seoTitle": "رمز الإحالة من SHEIN: أين تدخله وكيف تستخدمه",
+    "seoTitle": "رمز إحالة SHEIN 4CW5Y: أين تدخله وكيف تستخدمه",
     "type": "دليل رمز الإحالة",
     "category": "cupons-como-usar",
     "reviewKind": "guia",
@@ -321895,7 +321914,7 @@ const reviewsChunk2: unknown[] = [
       {
         "heading": "الإجابة السريعة",
         "paragraphs": [
-          "رمز الإحالة من SHEIN يمنح خصمًا فعلًا. افتح SHEIN عبر رابط Cecília، أو انسخ 4CW5Y وابحث عنه في شريط البحث في المتجر، في التطبيق أو على الموقع، لا في خانة الكوبون: يفتح الرمز صفحة خاصة فيها مجموعة منتجات وعروض وخصومات. أما قيمة الخصم والقطع المشمولة فتقررها SHEIN وتتفاوت."
+          "رمز الإحالة من [SHEIN](/ar/coupons/shein) يمنح خصمًا فعلًا. افتح SHEIN عبر رابط Cecília، أو انسخ 4CW5Y وابحث عنه في شريط البحث في المتجر، في التطبيق أو على الموقع، لا في خانة الكوبون: يفتح الرمز صفحة خاصة فيها مجموعة منتجات وعروض وخصومات. أما قيمة الخصم والقطع المشمولة فتقررها SHEIN وتتفاوت."
         ]
       },
       {
@@ -322045,7 +322064,7 @@ const reviewsChunk2: unknown[] = [
       {
         "heading": "الإجابة السريعة",
         "paragraphs": [
-          "حصلت SHEIN على تقييم TrustScore يبلغ 3.8 من 5 على Trustpilot، بعبارة «Great»، من 353,689 مراجعة. أغلبها خمس نجوم، لكن مراجعات النجمة الواحدة تصل بسرعة وتتركز على طرود لم تصل ومبالغ مستردة متأخرة أو مرفوضة. الملف عالمي، لذلك لا تخبرك النتيجة بكيفية وصول طلب إلى بلدك."
+          "حصلت [SHEIN](/ar/coupons/shein) على تقييم TrustScore يبلغ 3.8 من 5 على Trustpilot، بعبارة «Great»، من 353,689 مراجعة. أغلبها خمس نجوم، لكن مراجعات النجمة الواحدة تصل بسرعة وتتركز على طرود لم تصل ومبالغ مستردة متأخرة أو مرفوضة. الملف عالمي، لذلك لا تخبرك النتيجة بكيفية وصول طلب إلى بلدك."
         ]
       },
       {
@@ -322267,7 +322286,7 @@ const reviewsChunk2: unknown[] = [
       {
         "heading": "الإجابة السريعة",
         "paragraphs": [
-          "في SHEIN، افتح دليل القطعة المحددة وقارن جدول الجسم فيه بقياساتك؛ أما قياسات المنتج فاعتمد فيها على أبعاد القطعة وعلى القصّة التي تريدها. حرفك المعتاد لا يكفي. خيارات الإرجاع وتكاليفه تعتمد على السياسة وعلى القطعة."
+          "في [SHEIN](/ar/coupons/shein)، افتح دليل القطعة المحددة وقارن جدول الجسم فيه بقياساتك؛ أما قياسات المنتج فاعتمد فيها على أبعاد القطعة وعلى القصّة التي تريدها. حرفك المعتاد لا يكفي. خيارات الإرجاع وتكاليفه تعتمد على السياسة وعلى القطعة."
         ]
       },
       {
@@ -322514,7 +322533,7 @@ const reviewsChunk2: unknown[] = [
       {
         "heading": "الإجابة السريعة",
         "paragraphs": [
-          "نعم، SHEIN متجر مشروع: موقع كل سوق تديره شركة محددة في سياسة الخصوصية الخاصة به. أهم ما ينبغي الانتباه إليه هو مهلة الإرجاع وضريبة الاستيراد؛ وتشرح الفصول التالية كلًّا منهما وما تتحقق منه قبل الدفع."
+          "نعم، [SHEIN](/ar/coupons/shein) متجر مشروع: موقع كل سوق تديره شركة محددة في سياسة الخصوصية الخاصة به. أهم ما ينبغي الانتباه إليه هو مهلة الإرجاع وضريبة الاستيراد؛ وتشرح الفصول التالية كلًّا منهما وما تتحقق منه قبل الدفع."
         ]
       },
       {
@@ -322730,7 +322749,7 @@ const reviewsChunk2: unknown[] = [
       {
         "heading": "الإجابة السريعة",
         "paragraphs": [
-          "نعم، تستحق الشراء: لمن يراجع جدول المقاسات قبل تأكيد السلة ويستطيع انتظار التسليم، تكون SHEIN مجزية من حيث السعر الإجمالي عند التحقق من الشحن والضرائب في الملخص. ويمنح رمز الإحالة 4CW5Y خصمًا على منتجات مختارة عبر رابط Cecília أو بالبحث عنه في التطبيق أو على الموقع. طالع أدناه تفاصيل التسليم والإرجاع والمقاسات قبل الدفع."
+          "نعم، تستحق الشراء: لمن يراجع جدول المقاسات قبل تأكيد السلة ويستطيع انتظار التسليم، تكون [SHEIN](/ar/coupons/shein) مجزية من حيث السعر الإجمالي عند التحقق من الشحن والضرائب في الملخص. ويمنح رمز الإحالة 4CW5Y خصمًا على منتجات مختارة عبر رابط Cecília أو بالبحث عنه في التطبيق أو على الموقع. طالع أدناه تفاصيل التسليم والإرجاع والمقاسات قبل الدفع."
         ]
       },
       {
@@ -323253,7 +323272,7 @@ const reviewsChunk2: unknown[] = [
       {
         "heading": "الإجابة السريعة",
         "paragraphs": [
-          "في المملكة المتحدة، تقبل SHEIN إرجاع معظم المنتجات المؤهلة خلال 30 يومًا من الاستلام، إلى جانب الحقوق القانونية. أما AliExpress فتعرض مهلًا مختلفة للإرجاع بحسب البائع والقائمة؛ قارن المهلة وتكلفة الإرجاع وموعد التسليم المقدَّر لمشترياتك. وفي SHEIN، ابحث عن رمز الإحالة 4CW5Y في التطبيق أو على الموقع للحصول على خصم على عروض مختارة."
+          "في المملكة المتحدة، تقبل [SHEIN](/ar/coupons/shein) إرجاع معظم المنتجات المؤهلة خلال 30 يومًا من الاستلام، إلى جانب الحقوق القانونية. أما [AliExpress](/ar/coupons/aliexpress) فتعرض مهلًا مختلفة للإرجاع بحسب البائع والقائمة؛ قارن المهلة وتكلفة الإرجاع وموعد التسليم المقدَّر لمشترياتك. وفي SHEIN، ابحث عن رمز الإحالة 4CW5Y في التطبيق أو على الموقع للحصول على خصم على عروض مختارة."
         ]
       },
       {
@@ -323617,7 +323636,7 @@ const reviewsChunk2: unknown[] = [
       {
         "heading": "الإجابة السريعة",
         "paragraphs": [
-          "تتيح Temu 90 يومًا من الشراء؛ وتقبل SHEIN معظم المنتجات خلال 30 يومًا من الاستلام. قارن مهلة الإرجاع الفعلية لقطعتك وموعد التسليم والإجمالي عند الدفع. وفي SHEIN، ابحث عن 4CW5Y في التطبيق أو على الموقع لتجد خصومات على مجموعة تختارها المنصة، كما هو موضح أدناه."
+          "تتيح [Temu](/ar/coupons/temu) 90 يومًا من الشراء؛ وتقبل [SHEIN](/ar/coupons/shein) معظم المنتجات خلال 30 يومًا من الاستلام. قارن مهلة الإرجاع الفعلية لقطعتك وموعد التسليم والإجمالي عند الدفع. وفي SHEIN، ابحث عن 4CW5Y في التطبيق أو على الموقع لتجد خصومات على مجموعة تختارها المنصة، كما هو موضح أدناه."
         ]
       },
       {
@@ -324004,7 +324023,7 @@ const reviewsChunk2: unknown[] = [
       {
         "heading": "الإجابة السريعة",
         "paragraphs": [
-          "يعمل موقع Starlink الرسمي بالعربية في عُمان (الباقة المنزلية بـ 30 ر.ع. شهريًا بلا تعاقد مع شراء Standard 4 X بـ 160 ر.ع. أو Mini بـ 80 ر.ع.) وقطر (220 ر.ق. شهريًا)، بينما قدّمت قراءاتنا للجمعة البيضاء في أمريكا وأوروبا (البرتغال) خصم 30% على الاشتراك (38.50$ أمريكا و24.50 يورو البرتغال) مع إيجار جهاز 0$ و0 يورو. ومع رابط الإحالة الخاص بنا، يحصل العملاء الجدد على رصيد فاتورة إضافي بعد إتمام دورتَي فوترة مدفوعتين: 100$ في أمريكا و45 يورو في البرتغال، وفي الخليج تبلغ المكافأة مثلًا ر.ق. 160 في قطر ود.إ. 150 في الإمارات (يُتأكد من القيمة النهائية في صفحة الطلب قبل الدفع)، دون أن يخفض هذا الرصيد سعر الجهاز عند الشراء.",
+          "يعمل موقع [Starlink](/ar/coupons/starlink) الرسمي بالعربية في عُمان (الباقة المنزلية بـ 30 ر.ع. شهريًا بلا تعاقد مع شراء Standard 4 X بـ 160 ر.ع. أو Mini بـ 80 ر.ع.) وقطر (220 ر.ق. شهريًا)، بينما قدّمت قراءاتنا للجمعة البيضاء في أمريكا وأوروبا (البرتغال) خصم 30% على الاشتراك (38.50$ أمريكا و24.50 يورو البرتغال) مع إيجار جهاز 0$ و0 يورو. ومع رابط الإحالة الخاص بنا، يحصل العملاء الجدد على رصيد فاتورة إضافي بعد إتمام دورتَي فوترة مدفوعتين: 100$ في أمريكا و45 يورو في البرتغال، وفي الخليج تبلغ المكافأة مثلًا ر.ق. 160 في قطر ود.إ. 150 في الإمارات (يُتأكد من القيمة النهائية في صفحة الطلب قبل الدفع)، دون أن يخفض هذا الرصيد سعر الجهاز عند الشراء.",
           "تختلف مدة كل ميزة عن الأخرى: فخصومات الجمعة البيضاء البالغة 30% في أمريكا وأوروبا مستمرة حتى 30 نوفمبر فقط (ولم نسجّل خصمًا في عُمان وقطر)، أما مكافأة رابط الإحالة فتبقى متاحة ما دام برنامج الإحالة الرسمي من Starlink قائمًا. افتح الرابط أدناه وأدخل عنوانك لمراجعة السعر والمكافأة: هذه الخطوة لا تفرض أي رسوم ولا تتطلب بطاقة دفع أو التزامًا قبل أن تقرر الشراء."
         ],
         "links": [
@@ -324834,7 +324853,7 @@ const reviewsChunk2: unknown[] = [
       {
         "heading": "الإجابة السريعة",
         "paragraphs": [
-          "صفحة Starlink Development، وهي صفحة starlink.com على Trustpilot، تحمل تقييم TrustScore بقيمة 1.6 من 5 من خلال 879 مراجعة، منها 71% بنجمة واحدة. الصفحة غير مُطالَب بها: لا توجد للشركة خطة مدفوعة ولا ترسل دعوات لكتابة المراجعات، ولم ترد على أي من المراجعات السلبية البالغ عددها 464 خلال الأشهر الاثني عشر الأخيرة، وهي الفترة التي تغطيها صفحة نشاط الشركة في Trustpilot. المراجعات من عملاء في دول كثيرة.",
+          "صفحة [Starlink](/ar/coupons/starlink) Development، وهي صفحة starlink.com على Trustpilot، تحمل تقييم TrustScore بقيمة 1.6 من 5 من خلال 879 مراجعة، منها 71% بنجمة واحدة. الصفحة غير مُطالَب بها: لا توجد للشركة خطة مدفوعة ولا ترسل دعوات لكتابة المراجعات، ولم ترد على أي من المراجعات السلبية البالغ عددها 464 خلال الأشهر الاثني عشر الأخيرة، وهي الفترة التي تغطيها صفحة نشاط الشركة في Trustpilot. المراجعات من عملاء في دول كثيرة.",
           "يمكن للعملاء الجدد الحصول على رصيد في الفاتورة. يختلف المبلغ بحسب البلد، ومثاله ر.ق. 160 في قطر ود.إ. 150 في الإمارات. افتح رابطنا قبل الطلب وتحقق من المبلغ لعنوانك، ثم أبقِ اشتراكك المؤهل نشطًا ومدفوعًا لدورتَي فوترة كاملتَين."
         ],
         "links": [
@@ -325118,7 +325137,7 @@ const reviewsChunk2: unknown[] = [
       {
         "heading": "الإجابة السريعة",
         "paragraphs": [
-          "نعم، Starlink خدمة موثوقة: فهي خدمة الإنترنت الفضائي الرسمية من SpaceX وتُباع مباشرة عبر starlink.com. وقد اشتركنا فيها بأنفسنا كبديل وخط احتياطي بسبب عدم استقرار الألياف المحلية. الخطر الفعلي هو المواقع المنتحِلة والبائعون غير المعتمدين؛ على Trustpilot ترتبط صفحة «Starlink Development» بـ starlink.com، وإذا اشتريت الطقم من متجر خارجي فتحقق أولًا من قائمة تجار التجزئة المعتمدين لدى Starlink قبل الدفع.",
+          "نعم، [Starlink](/ar/coupons/starlink) خدمة موثوقة: فهي خدمة الإنترنت الفضائي الرسمية من SpaceX وتُباع مباشرة عبر starlink.com. وقد اشتركنا فيها بأنفسنا كبديل وخط احتياطي بسبب عدم استقرار الألياف المحلية. الخطر الفعلي هو المواقع المنتحِلة والبائعون غير المعتمدين؛ على Trustpilot ترتبط صفحة «Starlink Development» بـ starlink.com، وإذا اشتريت الطقم من متجر خارجي فتحقق أولًا من قائمة تجار التجزئة المعتمدين لدى Starlink قبل الدفع.",
           "يمكن للعملاء الجدد الحصول على رصيد في الفاتورة. يختلف المبلغ بحسب البلد، ومثاله ر.ق. 160 في قطر ود.إ. 150 في الإمارات. افتح رابطنا قبل الطلب وتحقق من المبلغ لعنوانك، ثم أبقِ اشتراكك المؤهل نشطًا ومدفوعًا لدورتَي فوترة كاملتَين."
         ],
         "links": [
@@ -325316,7 +325335,7 @@ const reviewsChunk2: unknown[] = [
       {
         "heading": "الإجابة السريعة",
         "paragraphs": [
-          "نعم، تستحق Starlink الاشتراك حيث لا يصل اتصال مستقر، وأيضًا حيث توجد ألياف لكنها تنقطع كثيرًا أو تقدّم سرعة أقل بكثير مما تدفع مقابله. اشتركنا نحن في Starlink كبديل وخط احتياطي لألياف غير مستقرة. وإذا كانت الألياف لديك مستقرة فعلًا فهي تظل أوفر وأقل تأخيرًا. والتجربة قليلة المخاطر: في عُمان تذكر الصفحة «بدون تعاقد» مع فترة تجريبية مدتها 30 يومًا.",
+          "نعم، تستحق [Starlink](/ar/coupons/starlink) الاشتراك حيث لا يصل اتصال مستقر، وأيضًا حيث توجد ألياف لكنها تنقطع كثيرًا أو تقدّم سرعة أقل بكثير مما تدفع مقابله. اشتركنا نحن في Starlink كبديل وخط احتياطي لألياف غير مستقرة. وإذا كانت الألياف لديك مستقرة فعلًا فهي تظل أوفر وأقل تأخيرًا. والتجربة قليلة المخاطر: في عُمان تذكر الصفحة «بدون تعاقد» مع فترة تجريبية مدتها 30 يومًا.",
           "يمكن للعملاء الجدد الحصول على رصيد في الفاتورة (ولا يخفض سعر الجهاز عند الشراء). يختلف المبلغ بحسب البلد، ومثاله ر.ق. 160 في قطر ود.إ. 150 في الإمارات. افتح رابطنا قبل الطلب وتحقق من المبلغ في صفحة الطلب قبل الدفع، ثم أبقِ اشتراكك المؤهل نشطًا ومدفوعًا لدورتَي فوترة كاملتَين."
         ],
         "links": [
@@ -325612,7 +325631,7 @@ const reviewsChunk2: unknown[] = [
       {
         "heading": "الإجابة السريعة",
         "paragraphs": [
-          "تدير متجرَ StyleKorean شركةُ Silicon2 المدرجة في كوريا. وتقييم المتجر 1.9 على Trustpilot (137 مراجعة)، وهذا يعني أن شكاوى التوصيل والرسوم تستحق نظرة متأنية. اختر YesStyle إذا كانت السمعة أولويتك: تقييمها 4.4 على Trustpilot، ويضيف رمز المكافأة CECILIA010 حتى 5% إضافية."
+          "تدير متجرَ StyleKorean شركةُ Silicon2 المدرجة في كوريا. وتقييم المتجر 1.9 على Trustpilot (137 مراجعة)، وهذا يعني أن شكاوى التوصيل والرسوم تستحق نظرة متأنية. اختر [YesStyle](/ar/coupons/yesstyle) إذا كانت السمعة أولويتك: تقييمها 4.4 على Trustpilot، ويضيف رمز المكافأة CECILIA010 حتى 5% إضافية."
         ]
       },
       {
@@ -325989,7 +326008,7 @@ const reviewsChunk2: unknown[] = [
       {
         "heading": "الإجابة السريعة",
         "paragraphs": [
-          "نعم، لدى YesStyle تطبيق لأندرويد وآيفون، بالحساب نفسه المستخدم في الموقع. في التطبيق، يوضع الرمز CECILIA010، وهو رمز مكافأة، في خانة «Influencer / Rewards Code» عند الدفع، بجانب «Coupon Code»."
+          "نعم، لدى [YesStyle](/ar/coupons/yesstyle) تطبيق لأندرويد وآيفون، بالحساب نفسه المستخدم في الموقع. في التطبيق، يوضع الرمز CECILIA010، وهو رمز مكافأة، في خانة «Influencer / Rewards Code» عند الدفع، بجانب «Coupon Code»."
         ]
       },
       {
@@ -326174,7 +326193,7 @@ const reviewsChunk2: unknown[] = [
       {
         "heading": "الإجابة السريعة",
         "paragraphs": [
-          "الجمعة البيضاء في YesStyle بدأت فعلًا. يمنح CECILIA010 نسبة 5% على أول طلب و2% على الطلبات التالية، في خانة Reward Code، إلى جانب كوبون مؤهل من المتجر. وقد ظهر كوبون الـ15% دون حد أدنى للولايات المتحدة والمملكة المتحدة وكندا. تحقق من العرض الخاص بوجهتك."
+          "الجمعة البيضاء في [YesStyle](/ar/coupons/yesstyle) بدأت فعلًا. يمنح CECILIA010 نسبة 5% على أول طلب و2% على الطلبات التالية، في خانة Reward Code، إلى جانب كوبون مؤهل من المتجر. وقد ظهر كوبون الـ15% دون حد أدنى للولايات المتحدة والمملكة المتحدة وكندا. تحقق من العرض الخاص بوجهتك."
         ]
       },
       {
@@ -327014,7 +327033,7 @@ const reviewsChunk2: unknown[] = [
       {
         "heading": "الإجابة السريعة",
         "paragraphs": [
-          "K-Beauty هو اسم مستحضرات التجميل الكورية واتجاهات الجمال فيها، من العناية بالبشرة إلى المكياج. وروتين الطبقات المتعددة من أشهر ممارساتها، لكنه اختياري. وخارج كوريا يختلف التوافر بحسب العلامة والبلد؛ وتجمع YesStyle علامات كثيرة في سلة واحدة، ويمنح رمز المكافأة CECILIA010 خصمًا إضافيًا بنسبة 5% على أول عملية شراء."
+          "K-Beauty هو اسم مستحضرات التجميل الكورية واتجاهات الجمال فيها، من العناية بالبشرة إلى المكياج. وروتين الطبقات المتعددة من أشهر ممارساتها، لكنه اختياري. وخارج كوريا يختلف التوافر بحسب العلامة والبلد؛ وتجمع [YesStyle](/ar/coupons/yesstyle) علامات كثيرة في سلة واحدة، ويمنح رمز المكافأة CECILIA010 خصمًا إضافيًا بنسبة 5% على أول عملية شراء."
         ]
       },
       {
@@ -327335,7 +327354,7 @@ const reviewsChunk2: unknown[] = [
       {
         "heading": "الإجابة السريعة",
         "paragraphs": [
-          "حصلت YesStyle على تقييم 4.4 في Trustpilot، من 105,442 مراجعة، منها 71% بخمس نجوم. من بين 40 مراجعة بنجمة واحدة الأحدث التي قرأناها، كان نصفها عن التوصيل: طلبات لم تصل، وطرود متوقفة أثناء الشحن، أو تأخير. يجمع التقييم مشترين من بلدان كثيرة، لذلك تحقق من مدة التوصيل وتكلفة الشحن إلى عنوانك قبل الدفع."
+          "حصلت [YesStyle](/ar/coupons/yesstyle) على تقييم 4.4 في Trustpilot، من 105,442 مراجعة، منها 71% بخمس نجوم. من بين 40 مراجعة بنجمة واحدة الأحدث التي قرأناها، كان نصفها عن التوصيل: طلبات لم تصل، وطرود متوقفة أثناء الشحن، أو تأخير. يجمع التقييم مشترين من بلدان كثيرة، لذلك تحقق من مدة التوصيل وتكلفة الشحن إلى عنوانك قبل الدفع."
         ]
       },
       {
@@ -327524,7 +327543,7 @@ const reviewsChunk2: unknown[] = [
       {
         "heading": "الإجابة السريعة",
         "paragraphs": [
-          "CECILIA010 هو رمز المكافأة الخاص بـ Cecília في YesStyle: يمنح 5% إضافية على طلبك الأول و2% على الطلبات التالية. يُكتب في حقل Reward Code المنفصل عن حقل Coupon Code، ويجتمع مع الكوبونات المؤهلة في الموقع. أدخل كل رمز في حقله، وتأكد من الخصمين في ملخص الطلب قبل الدفع."
+          "CECILIA010 هو رمز المكافأة الخاص بـ Cecília في [YesStyle](/ar/coupons/yesstyle): يمنح 5% إضافية على طلبك الأول و2% على الطلبات التالية. يُكتب في حقل Reward Code المنفصل عن حقل Coupon Code، ويجتمع مع الكوبونات المؤهلة في الموقع. أدخل كل رمز في حقله، وتأكد من الخصمين في ملخص الطلب قبل الدفع."
         ]
       },
       {
@@ -327745,7 +327764,8 @@ const reviewsChunk2: unknown[] = [
         "تتوقع خصمًا كبيرًا: يمنح CECILIA010 نسبة 5% على الطلب الأول و2% على الطلبات التالية، ولا شيء غير ذلك.",
         "تبحث عن رمز يحل محل كوبون المتجر: يجتمع CECILIA010 مع كوبون واحد فقط ولا يقوم بدوره."
       ]
-    }
+    },
+    "seoTitle": "رمز المكافأة YesStyle CECILIA010: طريقة الاستخدام (حتى 5%)"
   },
   {
     "id": 1264,
@@ -327782,7 +327802,7 @@ const reviewsChunk2: unknown[] = [
       {
         "heading": "الإجابة السريعة",
         "paragraphs": [
-          "تشحن YesStyle إلى الولايات المتحدة والمملكة المتحدة وكندا وأستراليا وأيرلندا ونيوزيلندا، مع مدة توصيل وتكلفة شحن منشورتين لكل بلد. تختلف مدد التوصيل وحدود الشحن المجاني بحسب البلد؛ والدول الست كلها في جدول الشحن الخاص بالمتجر. أكثر ما يختلف هو الضريبة: راجع الجدول وقسم الضرائب أدناه."
+          "تشحن [YesStyle](/ar/coupons/yesstyle) إلى الولايات المتحدة والمملكة المتحدة وكندا وأستراليا وأيرلندا ونيوزيلندا، مع مدة توصيل وتكلفة شحن منشورتين لكل بلد. تختلف مدد التوصيل وحدود الشحن المجاني بحسب البلد؛ والدول الست كلها في جدول الشحن الخاص بالمتجر. أكثر ما يختلف هو الضريبة: راجع الجدول وقسم الضرائب أدناه."
         ]
       },
       {
@@ -328502,7 +328522,7 @@ const reviewsChunk2: unknown[] = [
       {
         "heading": "الإجابة السريعة",
         "paragraphs": [
-          "ليس هناك متجر هو الأفضل للجميع: يتغير الاختيار بتغير البلد وبما يقبله المتجر عند الإرجاع. تأكد أولًا من أنه يشحن إلى عنوانك، ثم قارن الإرجاع: لا يقبل أيٌّ من المتاجر الخمسة منتج تجميل مفتوحًا بسبب العدول عن الشراء. وتتيح YesStyle وStylevana كلتاهما 14 يومًا بعد التسليم لطلب الإرجاع."
+          "ليس هناك متجر هو الأفضل للجميع: يتغير الاختيار بتغير البلد وبما يقبله المتجر عند الإرجاع. تأكد أولًا من أنه يشحن إلى عنوانك، ثم قارن الإرجاع: لا يقبل أيٌّ من المتاجر الخمسة منتج تجميل مفتوحًا بسبب العدول عن الشراء. وتتيح [YesStyle](/ar/coupons/yesstyle) وStylevana كلتاهما 14 يومًا بعد التسليم لطلب الإرجاع."
         ]
       },
       {
@@ -328714,7 +328734,7 @@ const reviewsChunk2: unknown[] = [
       {
         "heading": "الإجابة السريعة",
         "paragraphs": [
-          "يتوقف ذلك على ما يهمك. في الإرجاع، YesStyle أكثر مرونة: تقبل العدول عن الشراء وتبديل المقاس خلال 14 يومًا، بينما لا تقبل Olive Young Global إلا العيوب أو المنتجات الخاطئة، خلال 30 يومًا. أما الشحن المجاني والضريبة فيتغيران بحسب البلد؛ راجع فصل أيهما تختار، بحسب البلد."
+          "يتوقف ذلك على ما يهمك. في الإرجاع، [YesStyle](/ar/coupons/yesstyle) أكثر مرونة: تقبل العدول عن الشراء وتبديل المقاس خلال 14 يومًا، بينما لا تقبل Olive Young Global إلا العيوب أو المنتجات الخاطئة، خلال 30 يومًا. أما الشحن المجاني والضريبة فيتغيران بحسب البلد؛ راجع فصل أيهما تختار، بحسب البلد."
         ]
       },
       {
@@ -328976,7 +328996,7 @@ const reviewsChunk2: unknown[] = [
       {
         "heading": "الإجابة السريعة",
         "paragraphs": [
-          "اختر YesStyle إذا كنت لا تريد المجازفة: تقييمها 4.4 في Trustpilot (105,442 تقييمًا)، مقابل 1.9 لـ StyleKorean (137). ويضيف CECILIA010 حتى 5%. ولا تُحتسب هنا تكلفة الشحن والرسوم. وللوجهات الأخرى، تأكد عند الدفع من أن المتجر يوصّل إلى عنوانك ومن الشحن والرسوم المطبّقة."
+          "اختر [YesStyle](/ar/coupons/yesstyle) إذا كنت لا تريد المجازفة: تقييمها 4.4 في Trustpilot (105,442 تقييمًا)، مقابل 1.9 لـ StyleKorean (137). ويضيف CECILIA010 حتى 5%. ولا تُحتسب هنا تكلفة الشحن والرسوم. وللوجهات الأخرى، تأكد عند الدفع من أن المتجر يوصّل إلى عنوانك ومن الشحن والرسوم المطبّقة."
         ]
       },
       {
@@ -339821,7 +339841,7 @@ const reviewsChunk2: unknown[] = [
       {
         "heading": "クイック回答",
         "paragraphs": [
-          "初めてStarlinkを契約するなら、量販店や通販サイトより、紹介リンク経由でstarlink.comから直接注文するほうが有利です。日本の公式正規販売店リストに掲載されているのはコストコ、ビックカメラ、ヤマダデンキ、KDDIのみで、Amazon.co.jpや楽天市場は公式リストに載っていません。東京の住所で確認したMiniレンタル0円と、請求サイクル2回完了後の7,000円特典が受け取れるのはstarlink.comだけで、注文条件に沿った30日返却も1か所で完結します。"
+          "初めて[Starlink](/ja/coupons/starlink)を契約するなら、量販店や通販サイトより、紹介リンク経由でstarlink.comから直接注文するほうが有利です。日本の公式正規販売店リストに掲載されているのはコストコ、ビックカメラ、ヤマダデンキ、KDDIのみで、Amazon.co.jpや楽天市場は公式リストに載っていません。東京の住所で確認したMiniレンタル0円と、請求サイクル2回完了後の7,000円特典が受け取れるのはstarlink.comだけで、注文条件に沿った30日返却も1か所で完結します。"
         ],
         "links": [
           {
@@ -340101,7 +340121,7 @@ const reviewsChunk2: unknown[] = [
       {
         "heading": "빠른 답변",
         "paragraphs": [
-          "한국에서 스타링크를 처음 신청할 때는 오픈마켓보다 추천 링크로 starlink.com에서 직접 주문하는 편이 가장 안전하고 유리합니다. 스타링크 공식 공인 판매처 목록에 등록된 한국 매장은 이마트(Emart) 한 곳뿐이며, 쿠팡·네이버 스마트스토어·G마켓은 공식 목록에 없습니다. 추천 링크로 starlink.com에서 첫 주문을 시작하면 월 결제 주기 2회 완료 후 추천 크레딧과 30일 환불 조건이 적용되지만, 매장이나 오픈마켓 구매는 제외됩니다."
+          "한국에서 [스타링크](/ko/coupons/starlink)를 처음 신청할 때는 오픈마켓보다 추천 링크로 starlink.com에서 직접 주문하는 편이 가장 안전하고 유리합니다. 스타링크 공식 공인 판매처 목록에 등록된 한국 매장은 이마트(Emart) 한 곳뿐이며, 쿠팡·네이버 스마트스토어·G마켓은 공식 목록에 없습니다. 추천 링크로 starlink.com에서 첫 주문을 시작하면 월 결제 주기 2회 완료 후 추천 크레딧과 30일 환불 조건이 적용되지만, 매장이나 오픈마켓 구매는 제외됩니다."
         ],
         "links": [
           {
@@ -340381,7 +340401,7 @@ const reviewsChunk2: unknown[] = [
       {
         "heading": "快速回答",
         "paragraphs": [
-          "在有 Starlink 服務的國家首次申裝時，透過推薦連結直接在 starlink.com 下單，通常比在經銷商或電商平台購買更划算也更安全。Starlink 目前沒有中文官網介面，且台灣、香港、新加坡與中國大陸均無門市列於官方授權經銷商清單（8a90222d）。在馬來西亞，授權經銷商包含 Harvey Norman、SenHeng、Courts、SNS Network 等八家，但只有 starlink.com 提供 Max 方案設備租用、統一 30 天退貨與滿兩個計費週期後的推薦獎勵（各地金額請以訂購頁為準）。"
+          "在有 [Starlink](/zh-hant/coupons/starlink) 服務的國家首次申裝時，透過推薦連結直接在 starlink.com 下單，通常比在經銷商或電商平台購買更划算也更安全。Starlink 目前沒有中文官網介面，且台灣、香港、新加坡與中國大陸均無門市列於官方授權經銷商清單（8a90222d）。在馬來西亞，授權經銷商包含 Harvey Norman、SenHeng、Courts、SNS Network 等八家，但只有 starlink.com 提供 Max 方案設備租用、統一 30 天退貨與滿兩個計費週期後的推薦獎勵（各地金額請以訂購頁為準）。"
         ],
         "links": [
           {
@@ -340661,7 +340681,7 @@ const reviewsChunk2: unknown[] = [
       {
         "heading": "快速回答",
         "paragraphs": [
-          "在支持 Starlink 服务的国家首次订阅时，通过推荐链接直接在 starlink.com 下单，通常比去门店或第三方电商平台买更省心、更安全。Starlink 目前没有简体中文官网界面，中国大陆、台湾、香港与新加坡也均无商家列在官方授权经销商名单（8a90222d）中。在马来西亚，官方名单包含 Harvey Norman、SenHeng、Courts 等八家，但只有 starlink.com 提供 Max 套餐设备租用、统一 30 天退货与付清两个计费周期后的推荐奖励（各地金额请以订购页显示为准）。"
+          "在支持 [Starlink](/zh-hans/coupons/starlink) 服务的国家首次订阅时，通过推荐链接直接在 starlink.com 下单，通常比去门店或第三方电商平台买更省心、更安全。Starlink 目前没有简体中文官网界面，中国大陆、台湾、香港与新加坡也均无商家列在官方授权经销商名单（8a90222d）中。在马来西亚，官方名单包含 Harvey Norman、SenHeng、Courts 等八家，但只有 starlink.com 提供 Max 套餐设备租用、统一 30 天退货与付清两个计费周期后的推荐奖励（各地金额请以订购页显示为准）。"
         ],
         "links": [
           {
@@ -341220,7 +341240,7 @@ const reviewsChunk2: unknown[] = [
       {
         "heading": "Resposta rápida",
         "paragraphs": [
-          "A Starlink Mini (Mini X nos pedidos) serve melhor quem quer instalação simples, baixo consumo em nobreak, portabilidade e, no plano de 100 Mbps no Brasil, ficar sem fidelidade. A Padrão (Standard V4) ganha em alcance Wi-Fi e portas de rede. Ambas liberam o crédito na fatura após dois ciclos pagos pelo link oficial; confira abaixo."
+          "A [Starlink](/cupons/starlink) Mini (Mini X nos pedidos) serve melhor quem quer instalação simples, baixo consumo em nobreak, portabilidade e, no plano de 100 Mbps no Brasil, ficar sem fidelidade. A Padrão (Standard V4) ganha em alcance Wi-Fi e portas de rede. Ambas liberam o crédito na fatura após dois ciclos pagos pelo link oficial; confira abaixo."
         ],
         "links": [
           {
@@ -341559,7 +341579,7 @@ const reviewsChunk2: unknown[] = [
       {
         "heading": "Quick answer",
         "paragraphs": [
-          "Starlink Mini is the better pick for simple setup, low backup power draw on a UPS or battery, and portable mounting. Standard (V4 + Router 3) wins on indoor Wi-Fi 6 coverage and dual Ethernet ports. Both kits qualify for the official referral bill credit when ordered on starlink.com; see which hardware each plan ships below."
+          "[Starlink](/en/coupons/starlink) Mini is the better pick for simple setup, low backup power draw on a UPS or battery, and portable mounting. Standard (V4 + Router 3) wins on indoor Wi-Fi 6 coverage and dual Ethernet ports. Both kits qualify for the official referral bill credit when ordered on starlink.com; see which hardware each plan ships below."
         ],
         "links": [
           {
@@ -341898,7 +341918,7 @@ const reviewsChunk2: unknown[] = [
       {
         "heading": "Respuesta rápida",
         "paragraphs": [
-          "Starlink Mini (Mini X) conviene si buscas instalación sencilla, bajo consumo en SAI o batería, portabilidad o, en México, evitar el plazo de 12 meses del Standard 4 X. El kit Estándar (Standard 4) gana en cobertura Wi-Fi y puertos Ethernet. Ambos mantienen el bono oficial en starlink.com; mira cómo aparece cada uno abajo."
+          "[Starlink](/es/coupons/starlink) Mini (Mini X) conviene si buscas instalación sencilla, bajo consumo en SAI o batería, portabilidad o, en México, evitar el plazo de 12 meses del Standard 4 X. El kit Estándar (Standard 4) gana en cobertura Wi-Fi y puertos Ethernet. Ambos mantienen el bono oficial en starlink.com; mira cómo aparece cada uno abajo."
         ],
         "links": [
           {
@@ -342237,7 +342257,7 @@ const reviewsChunk2: unknown[] = [
       {
         "heading": "Réponse rapide",
         "paragraphs": [
-          "Starlink Mini (Mini X) convient aux installations simples, à la faible consommation sur onduleur ou batterie et aux petits logements. Le kit Standard (V4 + Router 3) l'emporte sur la portée Wi-Fi 6 et les ports filaires. Les deux kits donnent droit au crédit de parrainage sur starlink.com. Découvrez ci-dessous quel forfait livre chaque antenne."
+          "[Starlink](/fr/coupons/starlink) Mini (Mini X) convient aux installations simples, à la faible consommation sur onduleur ou batterie et aux petits logements. Le kit Standard (V4 + Router 3) l'emporte sur la portée Wi-Fi 6 et les ports filaires. Les deux kits donnent droit au crédit de parrainage sur starlink.com. Découvrez ci-dessous quel forfait livre chaque antenne."
         ],
         "links": [
           {
@@ -342570,7 +342590,7 @@ const reviewsChunk2: unknown[] = [
       {
         "heading": "Schnelle Antwort",
         "paragraphs": [
-          "Starlink Mini (Mini X) passt am besten zu einfacher Montage, geringem Stromverbrauch an USV oder Akku und kleineren Wohnflächen. Das Standard-Kit (V4 + Router 3) punktet bei WLAN-6-Reichweite und zwei LAN-Anschlüssen im Haus. Beide Kits berechtigen über den Empfehlungslink zur offiziellen Rechnungsgutschrift auf starlink.com; unten sehen Sie, welcher Tarif welches Kit liefert."
+          "[Starlink](/de/coupons/starlink) Mini (Mini X) passt am besten zu einfacher Montage, geringem Stromverbrauch an USV oder Akku und kleineren Wohnflächen. Das Standard-Kit (V4 + Router 3) punktet bei WLAN-6-Reichweite und zwei LAN-Anschlüssen im Haus. Beide Kits berechtigen über den Empfehlungslink zur offiziellen Rechnungsgutschrift auf starlink.com; unten sehen Sie, welcher Tarif welches Kit liefert."
         ],
         "links": [
           {
@@ -342903,7 +342923,7 @@ const reviewsChunk2: unknown[] = [
       {
         "heading": "Risposta rapida",
         "paragraphs": [
-          "Starlink Mini (Mini X) è la scelta migliore per installazioni semplici, bassi consumi su gruppo di continuità o batteria e spazi ridotti. Lo Standard (V4 + Router 3) vince per portata Wi-Fi 6 e porte cablate interne. Entrambi danno diritto al credito invito ufficiale su starlink.com; vedi sotto quale piano assegna ciascun kit."
+          "[Starlink](/it/coupons/starlink) Mini (Mini X) è la scelta migliore per installazioni semplici, bassi consumi su gruppo di continuità o batteria e spazi ridotti. Lo Standard (V4 + Router 3) vince per portata Wi-Fi 6 e porte cablate interne. Entrambi danno diritto al credito invito ufficiale su starlink.com; vedi sotto quale piano assegna ciascun kit."
         ],
         "links": [
           {
@@ -343236,7 +343256,7 @@ const reviewsChunk2: unknown[] = [
       {
         "heading": "クイックアンサー",
         "paragraphs": [
-          "省電力（平均25〜40 W）でポータブル電源やUPSとの併用がしやすく、限られた設置スペースにも収まるのはStarlink Miniです。一方、広い住宅での単体Wi-Fiカバー（最大297 m²）やTri-BandのWi-Fi 6、有線LANの扱いやすさを重視するならStandard（V4＋Router 3）が有利になります。東京駅の住所で確認した日本の公式注文画面では「ホーム」プランにMiniレンタル＋小型ルーター（Router Mini）が初期費用JP¥0で付くため、国内の住宅契約ではMini＋Router Miniが基本構成になりますが、量販店での購入や海外利用・広い家での配線検討では両者の公式仕様差を把握しておくことが重要です。"
+          "省電力（平均25〜40 W）でポータブル電源やUPSとの併用がしやすく、限られた設置スペースにも収まるのは[Starlink](/ja/coupons/starlink) Miniです。一方、広い住宅での単体Wi-Fiカバー（最大297 m²）やTri-BandのWi-Fi 6、有線LANの扱いやすさを重視するならStandard（V4＋Router 3）が有利になります。東京駅の住所で確認した日本の公式注文画面では「ホーム」プランにMiniレンタル＋小型ルーター（Router Mini）が初期費用JP¥0で付くため、国内の住宅契約ではMini＋Router Miniが基本構成になりますが、量販店での購入や海外利用・広い家での配線検討では両者の公式仕様差を把握しておくことが重要です。"
         ],
         "links": [
           {
@@ -343905,7 +343925,7 @@ const reviewsChunk2: unknown[] = [
       {
         "heading": "快速回答",
         "paragraphs": [
-          "Starlink Mini（結帳常標示為 Mini X）把 Wi-Fi 5 路由器直接做進天線裡，體積小且平均耗電僅 25–40 W，最適合小宅、陽台簡便安裝、行動攜帶或接 UPS 不斷電系統備援。Starlink Standard（V4／第 3 代）搭配獨立的 Router 3，具備 Wi-Fi 6 三頻、最高 297 m² 室內覆蓋與 2 個有線網路埠，更適合多樓層住宅與高密度連網。需先提醒的是，Starlink 目前沒有繁體中文介面，在台灣、香港與中國大陸也沒有一般住宅官網直購；若你在海外透過官方推薦連結下單，兩種套件都能適用推薦獎勵，付款前請務必在訂購頁確認實際金額與硬體模式。"
+          "Starlink Mini（結帳常標示為 Mini X）把 Wi-Fi 5 路由器直接做進天線裡，體積小且平均耗電僅 25–40 W，最適合小宅、陽台簡便安裝、行動攜帶或接 UPS 不斷電系統備援。[Starlink](/zh-hant/coupons/starlink) Standard（V4／第 3 代）搭配獨立的 Router 3，具備 Wi-Fi 6 三頻、最高 297 m² 室內覆蓋與 2 個有線網路埠，更適合多樓層住宅與高密度連網。需先提醒的是，Starlink 目前沒有繁體中文介面，在台灣、香港與中國大陸也沒有一般住宅官網直購；若你在海外透過官方推薦連結下單，兩種套件都能適用推薦獎勵，付款前請務必在訂購頁確認實際金額與硬體模式。"
         ],
         "links": [
           {
@@ -344240,7 +344260,7 @@ const reviewsChunk2: unknown[] = [
       {
         "heading": "快速回答",
         "paragraphs": [
-          "Starlink Mini（结账页面常称为 Mini X）把 Wi-Fi 5 路由器直接集成在天线内部，尺寸小且平均功耗仅 25–40 W，适合小户型、阳台便携安装、移动携带或接 UPS 不间断电源做断网备份。Starlink Standard（V4／第 3 代）配有独立的 Router 3 路由器，支持 Wi-Fi 6 三频、最高 297 m² 覆盖和 2 个有线网口，更适合大户型和多设备住宅。需要先行说明的是，Starlink 目前没有简体中文界面，在中国大陆、台湾和香港也没有开放住宅官网直购；如果你在海外通过推荐链接下单，两款套件都能参与推荐奖励，付款前请务必在订单页面核对实际显示金额。"
+          "Starlink Mini（结账页面常称为 Mini X）把 Wi-Fi 5 路由器直接集成在天线内部，尺寸小且平均功耗仅 25–40 W，适合小户型、阳台便携安装、移动携带或接 UPS 不间断电源做断网备份。[Starlink](/zh-hans/coupons/starlink) Standard（V4／第 3 代）配有独立的 Router 3 路由器，支持 Wi-Fi 6 三频、最高 297 m² 覆盖和 2 个有线网口，更适合大户型和多设备住宅。需要先行说明的是，Starlink 目前没有简体中文界面，在中国大陆、台湾和香港也没有开放住宅官网直购；如果你在海外通过推荐链接下单，两款套件都能参与推荐奖励，付款前请务必在订单页面核对实际显示金额。"
         ],
         "links": [
           {
@@ -344575,7 +344595,7 @@ const reviewsChunk2: unknown[] = [
       {
         "heading": "الإجابة السريعة",
         "paragraphs": [
-          "اختر Starlink Mini إذا كنت تريد حجمًا أصغر واستهلاك طاقة منخفضًا (25–40 واط) للبطاريات وUPS وسعرًا أقل في عُمان. أما للمنازل الواسعة ذات الجدران الخرسانية، فيتفوّق Standard V4 مع Router 3 بتغطية Wi-Fi 6 حتى 297 م² ومنفذي Ethernet. وكلاهما مؤهل لمكافأة الإحالة عبر الرابط الرسمي على starlink.com مع تأكيد المبلغ قبل الدفع."
+          "اختر [Starlink](/ar/coupons/starlink) Mini إذا كنت تريد حجمًا أصغر واستهلاك طاقة منخفضًا (25–40 واط) للبطاريات وUPS وسعرًا أقل في عُمان. أما للمنازل الواسعة ذات الجدران الخرسانية، فيتفوّق Standard V4 مع Router 3 بتغطية Wi-Fi 6 حتى 297 م² ومنفذي Ethernet. وكلاهما مؤهل لمكافأة الإحالة عبر الرابط الرسمي على starlink.com مع تأكيد المبلغ قبل الدفع."
         ],
         "links": [
           {
@@ -344903,7 +344923,7 @@ const reviewsChunk2: unknown[] = [
       {
         "heading": "Resposta rápida",
         "paragraphs": [
-          "A Starlink divide o uso residencial entre 100 Mbps, 200 Mbps e Max, mas nem todos aparecem em todo endereço. Além dos megabits, a escolha muda a antena enviada, a fidelidade e o valor da instalação. Confira o que abre no seu CEP pelo link oficial e receba o crédito na fatura após dois ciclos pagos."
+          "A [Starlink](/cupons/starlink) divide o uso residencial entre 100 Mbps, 200 Mbps e Max, mas nem todos aparecem em todo endereço. Além dos megabits, a escolha muda a antena enviada, a fidelidade e o valor da instalação. Confira o que abre no seu CEP pelo link oficial e receba o crédito na fatura após dois ciclos pagos."
         ],
         "links": [
           {
@@ -345222,7 +345242,7 @@ const reviewsChunk2: unknown[] = [
       {
         "heading": "Quick answer",
         "paragraphs": [
-          "Starlink divides residential service into 100 Mbps, 200 Mbps, and Max tiers, though availability varies by address. Beyond speed limits, your plan choice changes the included dish kit, free installation eligibility, and self-service plan switching. Check your address via our official referral link to confirm local terms and earn a bill credit after two paid cycles."
+          "[Starlink](/en/coupons/starlink) divides residential service into 100 Mbps, 200 Mbps, and Max tiers, though availability varies by address. Beyond speed limits, your plan choice changes the included dish kit, free installation eligibility, and self-service plan switching. Check your address via our official referral link to confirm local terms and earn a bill credit after two paid cycles."
         ],
         "links": [
           {
@@ -345541,7 +345561,7 @@ const reviewsChunk2: unknown[] = [
       {
         "heading": "Respuesta rápida",
         "paragraphs": [
-          "Starlink divide el servicio doméstico entre 100 Mbps, 200 Mbps y Max, pero la disponibilidad cambia mucho entre países e incluso entre códigos postales. Además del límite de velocidad, el nivel elegido define el modelo de antena, la permanencia y la instalación gratuita. Consulta tu dirección desde el enlace oficial para confirmar condiciones y sumar crédito en factura después."
+          "[Starlink](/es/coupons/starlink) divide el servicio doméstico entre 100 Mbps, 200 Mbps y Max, pero la disponibilidad cambia mucho entre países e incluso entre códigos postales. Además del límite de velocidad, el nivel elegido define el modelo de antena, la permanencia y la instalación gratuita. Consulta tu dirección desde el enlace oficial para confirmar condiciones y sumar crédito en factura después."
         ],
         "links": [
           {
@@ -345853,7 +345873,7 @@ const reviewsChunk2: unknown[] = [
       {
         "heading": "Réponse rapide",
         "paragraphs": [
-          "Starlink répartit son offre résidentielle entre 100 Mbit/s, 200 Mbit/s et Max, mais le choix dépasse le seul débit. Chaque palier modifie le kit livré, le coût de la pose et l'accès au changement d'offre. Testez votre adresse via notre lien officiel pour confirmer les tarifs locaux et obtenir un crédit après deux cycles payés."
+          "[Starlink](/fr/coupons/starlink) répartit son offre résidentielle entre 100 Mbit/s, 200 Mbit/s et Max, mais le choix dépasse le seul débit. Chaque palier modifie le kit livré, le coût de la pose et l'accès au changement d'offre. Testez votre adresse via notre lien officiel pour confirmer les tarifs locaux et obtenir un crédit après deux cycles payés."
         ],
         "links": [
           {
@@ -346153,7 +346173,7 @@ const reviewsChunk2: unknown[] = [
       {
         "heading": "Kurze Antwort",
         "paragraphs": [
-          "Starlink staffelt seine Heimtarife in 100 Mbit/s, 200 Mbit/s und Max, doch die Wahl beeinflusst weit mehr als das Tempolimit. Je nach Stufe ändern sich die gelieferte Antenne, die kostenlose Profi-Montage und die Regeln für spätere Tarifwechsel. Prüfen Sie Ihre Adresse über unseren offiziellen Link, um lokale Konditionen zu sehen und nach zwei bezahlten Monaten Rechnungsguthaben zu erhalten."
+          "[Starlink](/de/coupons/starlink) staffelt seine Heimtarife in 100 Mbit/s, 200 Mbit/s und Max, doch die Wahl beeinflusst weit mehr als das Tempolimit. Je nach Stufe ändern sich die gelieferte Antenne, die kostenlose Profi-Montage und die Regeln für spätere Tarifwechsel. Prüfen Sie Ihre Adresse über unseren offiziellen Link, um lokale Konditionen zu sehen und nach zwei bezahlten Monaten Rechnungsguthaben zu erhalten."
         ],
         "links": [
           {
@@ -346453,7 +346473,7 @@ const reviewsChunk2: unknown[] = [
       {
         "heading": "Risposta rapida",
         "paragraphs": [
-          "Starlink suddivide l'abbonamento domestico tra 100 Mbps, 200 Mbps e Max, ma la scelta incide su molto più della sola velocità massima. Salendo di fascia cambiano l'antenna fornita, l'inclusione dell'installazione professionale e la possibilità di modificare il piano in seguito. Verifica il tuo indirizzo dal link ufficiale per confermare tariffe locali e ottenere credito in fattura dopo due cicli pagati."
+          "[Starlink](/it/coupons/starlink) suddivide l'abbonamento domestico tra 100 Mbps, 200 Mbps e Max, ma la scelta incide su molto più della sola velocità massima. Salendo di fascia cambiano l'antenna fornita, l'inclusione dell'installazione professionale e la possibilità di modificare il piano in seguito. Verifica il tuo indirizzo dal link ufficiale per confermare tariffe locali e ottenere credito in fattura dopo due cicli pagati."
         ],
         "links": [
           {
@@ -346753,7 +346773,7 @@ const reviewsChunk2: unknown[] = [
       {
         "heading": "クイックアンサー",
         "paragraphs": [
-          "日本国内のStarlink住宅向け注文画面では、現在「ホーム（Max 300+ Mbps）」の1プランのみが表示され、50%オフのキャンペーン時は月額JP¥3,550（通常JP¥7,100）、Miniレンタルと小型ルーターが初期・月額ともにJP¥0、配送料JP¥3,000で12か月の契約縛りはありません。一方、米国や欧州など海外では100 Mbps・200 Mbps・Maxの3段階に分かれ、速度上限（80〜100 / 80〜200 / 80〜400 Mbps）だけでなく付属アンテナ（MiniかStandard 4か）や工事費無料の有無も変わります。初めて契約する方はstarlink.comの紹介リンク経由なら同額・30日返却保証のまま、2か月継続後に日本では7,000円の紹介クレジットを受け取れます。"
+          "日本国内の[Starlink](/ja/coupons/starlink)住宅向け注文画面では、現在「ホーム（Max 300+ Mbps）」の1プランのみが表示され、50%オフのキャンペーン時は月額JP¥3,550（通常JP¥7,100）、Miniレンタルと小型ルーターが初期・月額ともにJP¥0、配送料JP¥3,000で12か月の契約縛りはありません。一方、米国や欧州など海外では100 Mbps・200 Mbps・Maxの3段階に分かれ、速度上限（80〜100 / 80〜200 / 80〜400 Mbps）だけでなく付属アンテナ（MiniかStandard 4か）や工事費無料の有無も変わります。初めて契約する方はstarlink.comの紹介リンク経由なら同額・30日返却保証のまま、2か月継続後に日本では7,000円の紹介クレジットを受け取れます。"
         ],
         "links": [
           {
@@ -347067,7 +347087,7 @@ const reviewsChunk2: unknown[] = [
       {
         "heading": "빠른 답변",
         "paragraphs": [
-          "서울 주소로 확인한 한국 스타링크에는 주거용 100Mbps와 맥스(Max) 두 요금제가 제공되며, 둘 다 Mini 또는 Standard 4 X 키트를 12개월 약정 없이 직접 구매하는 방식입니다. 미국·유럽의 100·200·Max 요금제는 속도와 함께 안테나와 무료 설치 조건도 달라집니다. starlink.com 추천 링크로 처음 주문하면 동일한 가격과 30일 환불 규정을 유지하며 2개월 후 추천 크레딧을 받을 수 있습니다."
+          "서울 주소로 확인한 한국 [스타링크](/ko/coupons/starlink)에는 주거용 100Mbps와 맥스(Max) 두 요금제가 제공되며, 둘 다 Mini 또는 Standard 4 X 키트를 12개월 약정 없이 직접 구매하는 방식입니다. 미국·유럽의 100·200·Max 요금제는 속도와 함께 안테나와 무료 설치 조건도 달라집니다. starlink.com 추천 링크로 처음 주문하면 동일한 가격과 30일 환불 규정을 유지하며 2개월 후 추천 크레딧을 받을 수 있습니다."
         ],
         "links": [
           {
@@ -347381,7 +347401,7 @@ const reviewsChunk2: unknown[] = [
       {
         "heading": "快速回答",
         "paragraphs": [
-          "Starlink 目前沒有繁體中文或簡體中文住宅訂購頁（台灣、香港與中國大陸亦未開放一般住宅直營），海外用戶需依安裝地址在英文或當地頁面查看方案：歐美多數市場分為 100 Mbps、200 Mbps 與 Max，連帶影響天線規格與免費安裝；馬來西亞吉隆坡則採 100 Mbps 買斷與 Max 零元租賃混合制。透過推薦連結在 starlink.com 首購，可保留同價與 30 天退貨保障，並於兩個計費週期後獲得所在地推薦獎勵，詳見下方對照與試算。"
+          "[Starlink](/zh-hant/coupons/starlink) 目前沒有繁體中文或簡體中文住宅訂購頁（台灣、香港與中國大陸亦未開放一般住宅直營），海外用戶需依安裝地址在英文或當地頁面查看方案：歐美多數市場分為 100 Mbps、200 Mbps 與 Max，連帶影響天線規格與免費安裝；馬來西亞吉隆坡則採 100 Mbps 買斷與 Max 零元租賃混合制。透過推薦連結在 starlink.com 首購，可保留同價與 30 天退貨保障，並於兩個計費週期後獲得所在地推薦獎勵，詳見下方對照與試算。"
         ],
         "links": [
           {
@@ -347695,7 +347715,7 @@ const reviewsChunk2: unknown[] = [
       {
         "heading": "快速回答",
         "paragraphs": [
-          "Starlink 官网目前没有简体中文或繁体中文家用订购页（中国大陆、台湾和香港亦未开放普通家用直营），海外用户需按安装地址在英文或当地语言页面查看方案：欧美多数市场分为 100 Mbps、200 Mbps 与 Max，不仅影响网速，也决定配发天线与是否免安装费；马来西亚吉隆坡则采用 100 Mbps 买断与 Max 零元租用混合制。通过推荐链接在 starlink.com 首购，可享同价与 30 天退货保障，并在两个完整周期后获得当地推荐奖励，下文整理具体对比。"
+          "[Starlink](/zh-hans/coupons/starlink) 官网目前没有简体中文或繁体中文家用订购页（中国大陆、台湾和香港亦未开放普通家用直营），海外用户需按安装地址在英文或当地语言页面查看方案：欧美多数市场分为 100 Mbps、200 Mbps 与 Max，不仅影响网速，也决定配发天线与是否免安装费；马来西亚吉隆坡则采用 100 Mbps 买断与 Max 零元租用混合制。通过推荐链接在 starlink.com 首购，可享同价与 30 天退货保障，并在两个完整周期后获得当地推荐奖励，下文整理具体对比。"
         ],
         "links": [
           {
@@ -348009,7 +348029,7 @@ const reviewsChunk2: unknown[] = [
       {
         "heading": "الإجابة السريعة",
         "paragraphs": [
-          "تتباين باقات Starlink المنزلية حسب البلد: ففي عُمان وقطر تتوفر باقتا «المنازل» و«المنازل Lite» بنظام شراء الجهاز دون تعاقد، بينما تتوزع في أمريكا وأوروبا إلى 100 و200 وMax مع إيجار صفري للجهاز، ويغيّر اختيارك نوع الطبق ورسوم التركيب وشروط التبديل. قارن التفاصيل في الجدول أدناه، واطلب عبر الرابط الرسمي للاطلاع على شروط عنوانك ونيل رصيد الإحالة بعد دورتين."
+          "تتباين باقات [Starlink](/ar/coupons/starlink) المنزلية حسب البلد: ففي عُمان وقطر تتوفر باقتا «المنازل» و«المنازل Lite» بنظام شراء الجهاز دون تعاقد، بينما تتوزع في أمريكا وأوروبا إلى 100 و200 وMax مع إيجار صفري للجهاز، ويغيّر اختيارك نوع الطبق ورسوم التركيب وشروط التبديل. قارن التفاصيل في الجدول أدناه، واطلب عبر الرابط الرسمي للاطلاع على شروط عنوانك ونيل رصيد الإحالة بعد دورتين."
         ],
         "links": [
           {
@@ -349850,7 +349870,7 @@ const reviewsChunk2: unknown[] = [
       {
         "heading": "Resposta rápida",
         "paragraphs": [
-          "Sim, compensa comprar na YesStyle quando você quer reunir skincare e maquiagem asiática de K-beauty e J-beauty num único pedido sem pressa de entrega. O código de recompensa CECILIA010 soma com cupons da loja no checkout e dá 5% na primeira compra e 2% nas seguintes. Confira abaixo os prazos de estoque e a conta de dividir a sacola."
+          "Sim, compensa comprar na [YesStyle](/cupons/yesstyle) quando você quer reunir skincare e maquiagem asiática de K-beauty e J-beauty num único pedido sem pressa de entrega. O código de recompensa CECILIA010 soma com cupons da loja no checkout e dá 5% na primeira compra e 2% nas seguintes. Confira abaixo os prazos de estoque e a conta de dividir a sacola."
         ]
       },
       {
@@ -350093,7 +350113,7 @@ const reviewsChunk2: unknown[] = [
       {
         "heading": "Quick answer",
         "paragraphs": [
-          "Yes, YesStyle is worth it when you want K-beauty and J-beauty skincare and makeup in a single cart without rush delivery. Reward Code CECILIA010 stacks with eligible store promo coupons at checkout for 5% off your first order and 2% off returning orders. Check warehouse dispatch times and the two-bag shipping math below."
+          "Yes, [YesStyle](/en/coupons/yesstyle) is worth it when you want K-beauty and J-beauty skincare and makeup in a single cart without rush delivery. Reward Code CECILIA010 stacks with eligible store promo coupons at checkout for 5% off your first order and 2% off returning orders. Check warehouse dispatch times and the two-bag shipping math below."
         ]
       },
       {
@@ -350336,7 +350356,7 @@ const reviewsChunk2: unknown[] = [
       {
         "heading": "Respuesta rápida",
         "paragraphs": [
-          "Sí, YesStyle vale la pena para reunir skincare y maquillaje K-beauty y J-beauty en un solo pedido sin prisa. El código de recompensa CECILIA010 suma con cupones de la tienda al pagar: 5% en tu primera compra y 2% en las siguientes. Revisa abajo los plazos de stock y el cálculo de dividir el carrito."
+          "Sí, [YesStyle](/es/coupons/yesstyle) vale la pena para reunir skincare y maquillaje K-beauty y J-beauty en un solo pedido sin prisa. El código de recompensa CECILIA010 suma con cupones de la tienda al pagar: 5% en tu primera compra y 2% en las siguientes. Revisa abajo los plazos de stock y el cálculo de dividir el carrito."
         ]
       },
       {
@@ -350579,7 +350599,7 @@ const reviewsChunk2: unknown[] = [
       {
         "heading": "Réponse rapide",
         "paragraphs": [
-          "Oui, YesStyle vaut le coup pour regrouper soins et maquillage K-beauty et J-beauty dans un panier sans urgence. Le code récompense CECILIA010 se cumule avec un coupon de la boutique au paiement : 5 % sur le premier achat et 2 % ensuite. Vérifiez ci-dessous les délais de stock et le calcul de deux paniers."
+          "Oui, [YesStyle](/fr/coupons/yesstyle) vaut le coup pour regrouper soins et maquillage K-beauty et J-beauty dans un panier sans urgence. Le code récompense CECILIA010 se cumule avec un coupon de la boutique au paiement : 5 % sur le premier achat et 2 % ensuite. Vérifiez ci-dessous les délais de stock et le calcul de deux paniers."
         ]
       },
       {
@@ -350822,7 +350842,7 @@ const reviewsChunk2: unknown[] = [
       {
         "heading": "Kurz gesagt",
         "paragraphs": [
-          "Ja, YesStyle lohnt sich, wenn Sie K-Beauty- und J-Beauty-Pflege sowie Make-up ohne Zeitdruck in einem Warenkorb bündeln möchten. Der Reward Code CECILIA010 lässt sich an der Kasse mit einem Shop-Gutschein kombinieren und bringt 5% bei der ersten Bestellung sowie 2% danach. Prüfen Sie unten die Lagerzeiten und die Rechnung mit zwei Paketen."
+          "Ja, [YesStyle](/de/coupons/yesstyle) lohnt sich, wenn Sie K-Beauty- und J-Beauty-Pflege sowie Make-up ohne Zeitdruck in einem Warenkorb bündeln möchten. Der Reward Code CECILIA010 lässt sich an der Kasse mit einem Shop-Gutschein kombinieren und bringt 5% bei der ersten Bestellung sowie 2% danach. Prüfen Sie unten die Lagerzeiten und die Rechnung mit zwei Paketen."
         ]
       },
       {
@@ -351065,7 +351085,7 @@ const reviewsChunk2: unknown[] = [
       {
         "heading": "Risposta rapida",
         "paragraphs": [
-          "Sì, YesStyle conviene quando vuoi riunire skincare e trucco K-beauty e J-beauty in un solo ordine senza fretta di consegna. Il Codice ricompensa CECILIA010 si somma a un coupon del negozio al checkout con il 5% sul primo acquisto e il 2% sui successivi. Controlla sotto i tempi di magazzino e il calcolo su due ordini."
+          "Sì, [YesStyle](/it/coupons/yesstyle) conviene quando vuoi riunire skincare e trucco K-beauty e J-beauty in un solo ordine senza fretta di consegna. Il Codice ricompensa CECILIA010 si somma a un coupon del negozio al checkout con il 5% sul primo acquisto e il 2% sui successivi. Controlla sotto i tempi di magazzino e il calcolo su due ordini."
         ]
       },
       {
@@ -351308,7 +351328,7 @@ const reviewsChunk2: unknown[] = [
       {
         "heading": "핵심 요약",
         "paragraphs": [
-          "네, K-뷰티와 J-뷰티 스킨케어·메이크업 제품을 한 장바구니에 모아 급하지 않게 받아 보려 할 때 YesStyle은 충분히 살 만합니다. 리워드 코드 CECILIA010은 결제 시 스토어 프로모션 쿠폰과 함께 적용할 수 있으며 첫 구매에 5%, 재구매에 2% 추가 혜택을 제공합니다. 아래에서 재고 출고 기간과 장바구니 분리 계산을 확인하세요."
+          "네, K-뷰티와 J-뷰티 스킨케어·메이크업 제품을 한 장바구니에 모아 급하지 않게 받아 보려 할 때 [YesStyle](/ko/coupons/yesstyle)은 충분히 살 만합니다. 리워드 코드 CECILIA010은 결제 시 스토어 프로모션 쿠폰과 함께 적용할 수 있으며 첫 구매에 5%, 재구매에 2% 추가 혜택을 제공합니다. 아래에서 재고 출고 기간과 장바구니 분리 계산을 확인하세요."
         ]
       },
       {
@@ -351551,7 +351571,7 @@ const reviewsChunk2: unknown[] = [
       {
         "heading": "まずは結論",
         "paragraphs": [
-          "はい、K-beautyやJ-beautyのスキンケア・メイクアップアイテムを1回の注文でまとめて揃えたいとき、急ぎの配送でなければYesStyleは買う価値があります。リワードコードCECILIA010はチェックアウト時にストアクーポンと併用でき、初回購入で5%オフ、2回目以降は2%オフが追加されます。以下で在庫ごとの出荷日数と注文を分ける計算を確認しましょう。"
+          "はい、K-beautyやJ-beautyのスキンケア・メイクアップアイテムを1回の注文でまとめて揃えたいとき、急ぎの配送でなければ[YesStyle](/ja/coupons/yesstyle)は買う価値があります。リワードコードCECILIA010はチェックアウト時にストアクーポンと併用でき、初回購入で5%オフ、2回目以降は2%オフが追加されます。以下で在庫ごとの出荷日数と注文を分ける計算を確認しましょう。"
         ]
       },
       {
@@ -351794,7 +351814,7 @@ const reviewsChunk2: unknown[] = [
       {
         "heading": "快速解答",
         "paragraphs": [
-          "值得，只要你想把韓系 K-beauty 與日系 J-beauty 保養彩妝放進同一筆訂單，且不急著馬上收貨，YesStyle 就很有優勢。結帳時填入獎勵碼 CECILIA010 可與商店優惠券疊加，首購額外享 5%、回購享 2%。下方可進一步查看備貨天數與拆單試算。"
+          "值得，只要你想把韓系 K-beauty 與日系 J-beauty 保養彩妝放進同一筆訂單，且不急著馬上收貨，[YesStyle](/zh-hant/coupons/yesstyle) 就很有優勢。結帳時填入獎勵碼 CECILIA010 可與商店優惠券疊加，首購額外享 5%、回購享 2%。下方可進一步查看備貨天數與拆單試算。"
         ]
       },
       {
@@ -352037,7 +352057,7 @@ const reviewsChunk2: unknown[] = [
       {
         "heading": "快速解答",
         "paragraphs": [
-          "值得，当你想在一个购物车里买齐韩系 K-beauty 与日系 J-beauty 护肤彩妆，且不急于短期收货时，YesStyle 非常有性价比。结账填写奖励码 CECILIA010 可与商店优惠券叠加，首单额外省 5%，复购省 2%。下面帮你算清备货天数和拆单账目。"
+          "值得，当你想在一个购物车里买齐韩系 K-beauty 与日系 J-beauty 护肤彩妆，且不急于短期收货时，[YesStyle](/zh-hans/coupons/yesstyle) 非常有性价比。结账填写奖励码 CECILIA010 可与商店优惠券叠加，首单额外省 5%，复购省 2%。下面帮你算清备货天数和拆单账目。"
         ]
       },
       {
@@ -352280,7 +352300,7 @@ const reviewsChunk2: unknown[] = [
       {
         "heading": "الإجابة السريعة",
         "paragraphs": [
-          "نعم، يستحق متجر YesStyle الشراء عندما تريد جمع منتجات العناية بالبشرة والمكياج من K-beauty وJ-beauty في سلة واحدة دون عجلة في التوصيل. يمنحك رمز المكافأة CECILIA010 توفيرًا إضافيًا بنسبة 5% على أول طلب و2% على الطلبات التالية عند جمعه مع كوبونات المتجر عند الدفع. راجع مهل المستودع وحساب تقسيم السلة أدناه."
+          "نعم، يستحق متجر [YesStyle](/ar/coupons/yesstyle) الشراء عندما تريد جمع منتجات العناية بالبشرة والمكياج من K-beauty وJ-beauty في سلة واحدة دون عجلة في التوصيل. يمنحك رمز المكافأة CECILIA010 توفيرًا إضافيًا بنسبة 5% على أول طلب و2% على الطلبات التالية عند جمعه مع كوبونات المتجر عند الدفع. راجع مهل المستودع وحساب تقسيم السلة أدناه."
         ]
       },
       {
