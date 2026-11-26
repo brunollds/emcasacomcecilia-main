@@ -3451,19 +3451,19 @@ const STORE_COUPONS: Coupon[] = [
     validity: 'Cupom ativo enquanto a parceria estiver vigente',
     reusable: 'Conforme regras da loja',
     shipping:
-      'Frete grátis sem valor mínimo no Sul, no Sudeste e no Centro-Oeste e a partir de R$ 199 no Norte e no Nordeste, segundo a política de frete da loja (na Black Friday, a loja anuncia frete grátis a partir de R$ 180 para todo o Brasil), sobre o valor final do pedido',
+      'Pela política de frete da loja, é grátis sem valor mínimo no Sul, no Sudeste e no Centro-Oeste e a partir de R$ 199 no Norte e no Nordeste, sobre o valor final do pedido; na Black Friday, a vitrine anuncia frete grátis a partir de R$ 180 — informe o CEP na sacola para conferir',
     combinable:
-      'Soma com as promoções vigentes do site e com o desconto do Pix anunciado pela loja, e vale com todas as formas de pagamento; não soma com outro cupom, como o de primeira compra da loja',
+      'Soma com as promoções vigentes do site e vale com todas as formas de pagamento; a loja anuncia desconto no Pix na etapa de pagamento (confira o total antes de pagar). Não soma com outro cupom da loja',
     stacking: [
-      { benefit: 'promocoes', stacks: 'sim', condition: 'Entra sobre o preço promocional, inclusive em kits: na Black Friday, tirou 5% extras no Mousse e no Kit Iniciante' },
-      { benefit: 'pix', stacks: 'sim', condition: 'Soma com o desconto do Pix anunciado pela loja (5% fora de campanha e 10% na Black Friday), aplicado no pagamento' },
+      { benefit: 'promocoes', stacks: 'sim', condition: 'Entra sobre o preço promocional, inclusive em kits: na Black Friday, o Mousse caiu de R$ 101,92 para R$ 96,82 e o Kit Iniciante de R$ 98,18 para R$ 93,27' },
+      { benefit: 'pix', stacks: 'sim', condition: 'Na Black Friday, a loja anuncia 10% no Pix (em teste anterior eram 5%, somados ao código); confira o total na etapa de pagamento' },
       { benefit: 'outro-cupom', stacks: 'nao', condition: 'A loja aceita um cupom por pedido, e aplicar outro código troca o anterior' },
-      { benefit: 'frete', stacks: 'depende', condition: 'Grátis sem mínimo no Sul, Sudeste e Centro-Oeste e a partir de R$ 199 no Norte e Nordeste (ou acima de R$ 180 na Black Friday), sobre o valor final' },
+      { benefit: 'frete', stacks: 'depende', condition: 'Pela política, grátis no Sul, Sudeste e Centro-Oeste e acima de R$ 199 no Norte e Nordeste; na Black Friday, a loja anuncia a partir de R$ 180 — confira pelo CEP' },
     ],
     lastVerified: '2026-11-26',
     testedAt: '2026-11-26',
     testNote:
-      'Em 26/11/2026, com a Black Friday e a November Glow no ar (e todos os 93 itens em estoque já remarcados), o SKEMCASACOMCECILIA entrou com a regra "10% de desconto INBAZZ" e tirou 5% sobre os preços promocionais: o Mousse Autobronzeador caiu de R$ 101,92 para R$ 96,82, o Body Splash Solar Muse de R$ 84,92 para R$ 80,67, o Kit Iniciante de R$ 98,18 para R$ 93,27 e o Trio Exotic Trip de R$ 253,04 para R$ 240,39 (abaixo dos R$ 249 do brinde Velvet Milano, que saiu da sacola). Na campanha, a loja anuncia mais 10% OFF no Pix no pagamento. Fora dessa campanha, o código tirou os 10% cheios num kit com 20% da loja (de R$ 237,60 para R$ 213,84) e somou com os 5% do Pix em 21/10/2026.',
+      'Em 26/11/2026, com a Black Friday e a November Glow no ar (e todos os 93 itens em estoque já remarcados), o SKEMCASACOMCECILIA tirou 5% sobre os preços promocionais em todos os carrinhos testados: o Mousse Autobronzeador caiu de R$ 101,92 para R$ 96,82, o Body Splash Solar Muse de R$ 84,92 para R$ 80,67, a Luva Aplicadora de R$ 29,66 para R$ 28,18, o Kit Iniciante de R$ 98,18 para R$ 93,27 e o Trio Exotic Trip de R$ 253,04 para R$ 240,39 (abaixo dos R$ 249 do brinde Velvet Milano, que saiu da sacola). Na vitrine, a loja anuncia 10% no Pix, mas a sacola não aplica desconto de pagamento antes da identificação: confira o total na etapa de pagamento. Em teste anterior, antes da November Glow, o código tirou 10% num kit com 20% da loja (de R$ 237,60 para R$ 213,84) e, em 21/10/2026, somou com os 5% do Pix então vigentes.',
     codeInstructions: [
       'Copie o código SKEMCASACOMCECILIA no card acima.',
       'Acesse o site oficial da Skelt pelo botão indicado e coloque os produtos no carrinho.',
@@ -3476,12 +3476,12 @@ const STORE_COUPONS: Coupon[] = [
       {
         question: 'Qual é o cupom de desconto da Skelt?',
         answer:
-          'O cupom da Skelt da nossa parceria é SKEMCASACOMCECILIA, com até 10% OFF em todo o site oficial, para cliente novo ou antigo, somando com as promoções. A loja anuncia desconto extra no Pix (5% fora de campanha e 10% na Black Friday); confira o total no pagamento.',
+          'O cupom da Skelt da nossa parceria é SKEMCASACOMCECILIA, com até 10% OFF em todo o site oficial, para cliente novo ou antigo, somando com as promoções. Na Black Friday, a loja anuncia 10% de desconto no Pix; confira o total na etapa de pagamento.',
       },
       {
         question: 'Quanto de desconto o cupom SKEMCASACOMCECILIA dá?',
         answer:
-          'Até 10% OFF, com a regra "10% de desconto INBAZZ" no checkout. Em 26/11/2026, com todos os itens em estoque já remarcados na Black Friday / November Glow, o código tirou mais 5% na sacola: o Mousse caiu de R$ 101,92 para R$ 96,82 e o Kit Iniciante de R$ 98,18 para R$ 93,27. Fora dessa campanha, tirou 10% num kit com 20% da loja (de R$ 237,60 para R$ 213,84).',
+          'Até 10% OFF, segundo a parceria. Em 26/11/2026, com todos os itens em estoque já remarcados na Black Friday / November Glow, o código tirou mais 5% na sacola: o Mousse caiu de R$ 101,92 para R$ 96,82 e o Kit Iniciante de R$ 98,18 para R$ 93,27. Em teste anterior fora dessa campanha, tirou 10% num kit com 20% da loja (de R$ 237,60 para R$ 213,84).',
       },
       {
         question: 'O cupom SKEMCASACOMCECILIA vale para todos os produtos da Skelt?',
@@ -3505,12 +3505,12 @@ const STORE_COUPONS: Coupon[] = [
       {
         question: 'O cupom SKEMCASACOMCECILIA soma com o desconto do Pix?',
         answer:
-          'Sim. O cupom vale com todas as formas de pagamento. Em 21/10/2026, os 5% do Pix entraram depois do código; em 26/11/2026, na Black Friday, a loja anuncia +10% OFF no Pix cumulativo com a campanha, aplicado na etapa de pagamento. Confira o total antes de pagar.',
+          'O cupom vale em todas as formas de pagamento. Em 21/10/2026, quando o Pix era de 5%, os dois descontos somaram; na Black Friday, a Skelt anuncia 10% no Pix na etapa de pagamento (fora da sacola testada em 26/11/2026), então confira o total antes de concluir.',
       },
       {
         question: 'O SKEMCASACOMCECILIA vale na primeira compra? Soma com o PRIMEIRA5?',
         answer:
-          'Vale, mas não soma: a Skelt aceita um cupom por pedido, e aplicar outro código troca o anterior. Na primeira compra, o SKEMCASACOMCECILIA chega a até 10% OFF (5% sobre os preços remarcados da Black Friday, mesmo percentual anunciado pelo PRIMEIRA5) e segue valendo nas compras seguintes.',
+          'Vale, mas não soma: a Skelt aceita um cupom por pedido, e aplicar outro código troca o anterior. Na primeira compra, o SKEMCASACOMCECILIA dá até 10% OFF no site oficial e segue valendo nas compras seguintes; confira o desconto no resumo da sacola.',
       },
       {
         question: 'O SKEMCASACOMCECILIA é cupom de influenciadora?',
@@ -3545,7 +3545,7 @@ const STORE_COUPONS: Coupon[] = [
       {
         question: 'A Skelt tem frete grátis?',
         answer:
-          'Sim. Pela política de frete da loja, o frete é grátis sem valor mínimo no Sul, no Sudeste e no Centro-Oeste e a partir de R$ 199 no Norte e no Nordeste. O valor conta o pedido já com os descontos.',
+          'Sim. Pela política de frete da loja, é grátis sem valor mínimo no Sul, no Sudeste e no Centro-Oeste e a partir de R$ 199 no Norte e no Nordeste, sobre o valor final do pedido. Na Black Friday, a vitrine anuncia frete grátis a partir de R$ 180; informe o CEP na sacola para conferir a regra aplicada ao seu endereço.',
       },
       {
         question: 'O que fazer se o cupom SKEMCASACOMCECILIA não funcionar?',
@@ -3560,7 +3560,7 @@ const STORE_COUPONS: Coupon[] = [
       {
         question: 'O cupom Skelt vale na Black Friday?',
         answer:
-          'Vale. Em 26/11/2026, com a Black Friday e a November Glow no ar, o SKEMCASACOMCECILIA tirou mais 5% sobre os avulsos e kits já remarcados, e a loja anuncia +10% OFF no Pix no pagamento. Confira o total e eventual brinde na sacola antes de pagar.',
+          'Vale. Em 26/11/2026, com a Black Friday e a November Glow no ar, o SKEMCASACOMCECILIA tirou mais 5% sobre os avulsos e kits já remarcados; a loja anuncia 10% no Pix na etapa de pagamento, então confira o total e eventual brinde antes de concluir.',
       },
       {
         question: 'Comprar com o cupom apoia o Em Casa com Cecília?',
