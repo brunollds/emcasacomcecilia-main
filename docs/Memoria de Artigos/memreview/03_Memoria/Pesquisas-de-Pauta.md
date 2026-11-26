@@ -566,3 +566,12 @@ São 44 artigos, de 20/01 a 06/11/2026, em 5 páginas ([categoria](https://cupom
   ficha comentada com a conta por frasco. As consultas estão no banco do dossiê ([[LAmazonie]], "Perguntas reais").
 - **Página do produto, lida inteira no navegador em 25/11:** não publica lista de ingredientes, volume, fabricante nem
   Anvisa; o inventário dos 31 fatos está no briefing.
+
+## Adaptogen: creatina e HIT Protein (26/11/2026)
+
+- **Origem:** o Bruno viu no Search Console "creatina adaptogen é boa" (13 impressões, posição 10,8) e "hit protein
+  adaptogen é bom" (13 impressões, posição 6,8; IA na 5,0). A marca só tinha artigo dedicado do Tasty Iso.
+- **Autocompletar e leitura do site:** em [[adaptogen-fatos-2611]]. A linha de creatina mudou desde 18/11 (Super
+  virou Pro; Platinum em quatro tamanhos), e o HIT tem tabela lida, sem ingredientes na página.
+- **Viraram** a AD10 ([[creatina-adaptogen-e-boa]]) e a AD11 ([[hit-protein-adaptogen-e-bom]]), GO de 26/11. O
+  `adaptogen-e-boa` encolhe os dois capítulos quando elas forem ao ar (Fila, seção 4).
