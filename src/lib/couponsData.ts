@@ -3842,7 +3842,7 @@ const STORE_COUPONS: Coupon[] = [
     shortDescription: 'todo o site Toda Up, inclusive nos produtos em promoção',
     longDescription:
       'O cupom Toda Up MAUAD dá 10% OFF em sutiãs, tops, calcinhas e adesivos no site oficial, para quem compra pela primeira vez e para quem já é cliente, e soma com as promoções do site, inclusive com a escada de desconto da Black Week. Ele não vale nos itens marcados como Black VIP, Todalovers, Influ ou Oferta Exclusiva.',
-    metaTitle: 'Cupom Toda Up: MAUAD dá 10% OFF em todo o site',
+    metaTitle: 'Cupom Toda Up: MAUAD dá 10% OFF',
     metaTitleMonth: true,
     metaDescription:
       'Cupom Toda Up: MAUAD dá 10% OFF em sutiãs, tops, calcinhas e adesivos para cliente novo ou antigo e soma com as promoções do site.',
