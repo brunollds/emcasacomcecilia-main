@@ -140241,7 +140241,7 @@ const reviewsChunk0: unknown[] = [
     "id": 586,
     "slug": "cupom-skelt-como-usar",
     "title": "Como usar o cupom SKEMCASACOMCECILIA na Skelt e o que ele soma",
-    "seoTitle": "Como usar o cupom SKEMCASACOMCECILIA na Skelt: 10% OFF",
+    "seoTitle": "Como usar o cupom SKEMCASACOMCECILIA na Skelt (até 10%)",
     "type": "Guia & Cupons",
     "category": "cupons-como-usar",
     "reviewKind": "guia",
@@ -140252,11 +140252,11 @@ const reviewsChunk0: unknown[] = [
       "initials": "CM",
       "url": "/sobre"
     },
-    "description": "O cupom SKEMCASACOMCECILIA dá 10% OFF em todo o site oficial da Skelt e soma com o Pix. Veja o passo a passo na sacola e por que ele não vale no Mercado Livre.",
-    "metaDescription": "Onde colar SKEMCASACOMCECILIA na sacola da Skelt: 10% OFF no site oficial. Veja o campo, o botão OK e o teste com promoção e Pix antes de conferir o total.",
+    "description": "O cupom SKEMCASACOMCECILIA dá até 10% OFF no site oficial da Skelt e soma com o Pix. Veja o passo a passo na sacola e por que ele não vale no Mercado Livre.",
+    "metaDescription": "Onde colar SKEMCASACOMCECILIA na sacola da Skelt: até 10% OFF no site oficial. Veja o campo, o botão OK e a soma com promoção e Pix.",
     "publishedAt": "21 de outubro de 2026",
     "publishedAtISO": "2026-10-21",
-    "updatedAt": "2026-11-23",
+    "updatedAt": "2026-11-26",
     "draft": false,
     "isNew": false,
     "image": "/images/reviews/skelt/cupom-skelt-como-usar-capa-v2.webp",
@@ -140267,21 +140267,21 @@ const reviewsChunk0: unknown[] = [
       {
         "heading": "Resposta rápida",
         "paragraphs": [
-          "Cole SKEMCASACOMCECILIA no campo “Cupom de desconto” da sacola e clique em OK: o [cupom Skelt](/cupons/skelt) dá 10% OFF no site oficial, somado à promoção do site e ao Pix de 5%. No teste, entrou sobre o preço promocional e o Pix foi calculado depois. Não vale no Mercado Livre."
+          "Cole SKEMCASACOMCECILIA no campo “Cupom de desconto” da sacola e clique em OK: o [cupom Skelt](/cupons/skelt) dá até 10% OFF no site oficial, somando com as promoções vigentes. A loja anuncia desconto no Pix na etapa de pagamento; confira o total antes de pagar. Não vale no Mercado Livre."
         ]
       },
       {
         "heading": "O que é o cupom SKEMCASACOMCECILIA",
         "paragraphs": [
           "SKEMCASACOMCECILIA é o cupom da parceria do Em Casa com Cecília com a Skelt, marca brasileira de autobronzeador, body splash e hidratação corporal. O cupom vale só no site oficial, skelt.com.br.",
-          "O desconto é de 10% em todo o site, incluindo kits e combos, em todas as formas de pagamento. Se for comprar um kit, confira o valor no resumo da sacola.",
+          "O desconto chega a até 10% OFF em todo o site, incluindo kits e combos, em todas as formas de pagamento (em 26/11/2026, na Black Friday / November Glow, tirou 5% sobre os preços já remarcados). Se for comprar um kit, confira o valor no resumo da sacola.",
           "A loja aceita um cupom por pedido, e o SKEMCASACOMCECILIA vale na primeira compra e para quem já comprou. Ele só funciona no site oficial: a Skelt não tem aplicativo, e o código não vale no Mercado Livre."
         ]
       },
       {
         "heading": "1. Entre no site oficial pelo botão da parceria",
         "paragraphs": [
-          "Use o botão desta página: ele abre o site oficial da Skelt com a identificação da parceria. As condições atualizadas ficam na página do cupom Skelt."
+          "Use o botão desta página: ele abre o site oficial da Skelt com a identificação da parceria."
         ]
       },
       {
@@ -140417,7 +140417,7 @@ const reviewsChunk0: unknown[] = [
       {
         "heading": "Vale a pena usar o cupom?",
         "paragraphs": [
-          "Se você já ia comprar no site oficial da Skelt, aplique SKEMCASACOMCECILIA e compare o total com e sem o código, incluindo frete e brinde. O cupom dá 10% e soma com a promoção e com o Pix. Se a compra for pelo Mercado Livre, compare com o preço do anúncio: o código não vale lá.",
+          "Se você já ia comprar no site oficial da Skelt, aplique SKEMCASACOMCECILIA e compare o total com e sem o código, incluindo frete e brinde. O cupom dá até 10% OFF e soma com a promoção e com o Pix. Se a compra for pelo Mercado Livre, compare com o preço do anúncio: o código não vale lá.",
           "Para escolher o produto, veja o guia de [autobronzeador da Skelt](/reviews/autobronzeador-skelt-qual-escolher) e o de [body splash](/reviews/body-splash-skelt-qual-escolher)."
         ],
         "emphasis": "Se eu já fosse comprar no site da Skelt, eu aplicaria o código antes de pagar e compararia o total no resumo, porque ele soma com a promoção do site e com o Pix.",
@@ -140436,9 +140436,9 @@ const reviewsChunk0: unknown[] = [
       {
         "heading": "Perguntas frequentes",
         "bullets": [
-          "Qual é o cupom da Skelt? O cupom da Skelt da nossa parceria é SKEMCASACOMCECILIA, com 10% OFF em todo o site oficial, para cliente novo ou antigo, em todas as formas de pagamento.",
-          "O cupom Skelt soma com produto em promoção? Sim. No nosso teste, os 10% entraram sobre o mousse que já estava com a promoção do site.",
-          "O cupom SKEMCASACOMCECILIA soma com o Pix? Sim. O Pix de 5% da loja entra sobre o total que já tem o cupom. A tabela mostra a ordem e os valores.",
+          "Qual é o cupom da Skelt? O cupom da Skelt da nossa parceria é SKEMCASACOMCECILIA, com até 10% OFF em todo o site oficial, para cliente novo ou antigo, em todas as formas de pagamento.",
+          "O cupom Skelt soma com produto em promoção? Sim. Em outubro, os 10% entraram sobre o mousse em oferta; na Black Friday e na November Glow, entraram mais 5% sobre os preços remarcados (Mousse de R$ 101,92 para R$ 96,82).",
+          "O cupom SKEMCASACOMCECILIA soma com o Pix? O cupom vale também no Pix. No teste de outubro, quando o Pix era de 5%, os dois descontos somaram; na Black Friday, a loja anuncia 10% no Pix na etapa de pagamento (fora da sacola testada), então confira o total antes de concluir.",
           "O cupom Skelt soma com outro cupom? Não. A Skelt aceita um cupom por pedido: no nosso teste, aplicar outro código trocou o SKEMCASACOMCECILIA.",
           "O cupom tira o brinde? Pode tirar. O valor mínimo dos brindes conta o pedido depois dos descontos, então o cupom e o Pix podem deixar o total abaixo da faixa.",
           "O cupom vale no Mercado Livre? Não. O cupom é usado só no site oficial da Skelt. No Mercado Livre, vale o preço do anúncio. Para ver a marca no Mercado Livre, use o [link de compra da marca](https://meli.la/2unTb7k), que abre antes a página da Cecília no Mercado Livre, como todo link meli.la.",
@@ -140486,7 +140486,7 @@ const reviewsChunk0: unknown[] = [
     "slug": "black-friday-skelt",
     "bodyDatesReason": "campanha",
     "title": "Black Friday Skelt 2026: o que comprar, kits e o cupom SKEMCASACOMCECILIA",
-    "seoTitle": "Black Friday Skelt 2026: o que comprar, kits e cupom",
+    "seoTitle": "Black Friday Skelt 2026: kits e cupom SKEMCASACOMCECILIA",
     "type": "Guia de Black Friday",
     "category": "cupons-como-usar",
     "reviewKind": "guia",
@@ -140497,11 +140497,11 @@ const reviewsChunk0: unknown[] = [
       "initials": "CM",
       "url": "/sobre"
     },
-    "description": "A Black Friday da Skelt é na sexta, sem mecânica divulgada. Veja o que comprar, quando o kit ganha do avulso e o total com o cupom SKEMCASACOMCECILIA.",
-    "metaDescription": "Black Friday Skelt 2026: o cupom SKEMCASACOMCECILIA dá 10% OFF e soma com a campanha. Veja o que comprar e quando o kit ganha do avulso.",
+    "description": "A Black Friday da Skelt está no ar junto com a November Glow e +10% no Pix. Veja o que comprar, quando o kit ganha do avulso e o total com SKEMCASACOMCECILIA.",
+    "metaDescription": "Black Friday Skelt 2026 no ar: SKEMCASACOMCECILIA dá até 10% OFF e somou na sacola com a campanha. Veja avulsos, kits e o Pix anunciado.",
     "publishedAt": "21 de outubro de 2026",
     "publishedAtISO": "2026-10-21",
-    "updatedAt": "2026-11-23",
+    "updatedAt": "2026-11-26",
     "draft": false,
     "isNew": false,
     "image": "/images/reviews/skelt/black-friday-skelt-capa-v2.webp",
@@ -140512,14 +140512,14 @@ const reviewsChunk0: unknown[] = [
       {
         "heading": "Resposta rápida",
         "paragraphs": [
-          "A November Glow da Skelt terminou; a Black Friday da loja, em 27 de novembro, ainda não tem mecânica publicada. O cupom SKEMCASACOMCECILIA tirou 10% por cima da campanha nos carrinhos que testamos, e o Kit Iniciante ganhou dos avulsos. Confira o total na sacola antes de pagar."
+          "A Black Friday da Skelt já começou, mantendo a November Glow ativa, até 60% nos itens remarcados e 10% anunciados no Pix. O [cupom Skelt](/cupons/skelt) SKEMCASACOMCECILIA dá até 10% OFF e somou na sacola com os avulsos e os kits testados; o Kit Iniciante seguiu abaixo dos itens soltos."
         ]
       },
       {
         "heading": "O que a Skelt tem no ar e quando é a Black Friday?",
         "paragraphs": [
-          "A campanha de novembro é a November Glow. Ela combina um desconto progressivo nos produtos avulsos (na leitura de 15 de novembro, 10% com um item na sacola, 20% com dois e 25% com três ou mais), 20% nos kits e 15% nos duos, e uma seleção com até 50% OFF. A campanha tinha contador de encerramento até o fim de 23 de novembro. Uma promoção progressiva do fim de semana anterior e a ação de brindes do começo do mês também já terminaram.",
-          "A Black Friday de 2026 cai em 27 de novembro, e a Cyber Monday, em 30 de novembro. A loja não publicou como será a oferta, e as condições das ações anteriores não garantem o que vem na sexta. Em outubro, a home já tinha coleções de Black Friday e a sacola mostrava uma flash sale de 10% no site todo, já incluída nos preços da tabela de outubro, mais abaixo."
+          "Em 26 de novembro, o site oficial já abria com o aviso “Começou a Black Friday Skelt!”, mantendo a campanha November Glow ativa: desconto progressivo nos avulsos (15% em um item, 20% em dois e 25% em três ou mais), 20% nos duos, 25% em kits selecionados, itens Dark e Gel com 60% OFF e anúncio de +10% OFF no Pix cumulativo com a campanha.",
+          "A Black Friday do calendário cai em 27 de novembro, e a Cyber Monday, em 30 de novembro. Em 26 de novembro, os 93 produtos em estoque estavam remarcados, com brinde Body Cream Velvet Milano em compras acima de R$ 249 (contados sobre o valor final) e vitrine anunciando frete grátis a partir de R$ 180 — informe o CEP na sacola para conferir a regra aplicada ao seu endereço. Em outubro, a sacola mostrava uma flash sale de 10% no site todo, usada como régua na tabela de outubro mais abaixo."
         ]
       },
       {
@@ -140777,17 +140777,14 @@ const reviewsChunk0: unknown[] = [
       {
         "heading": "Cupom, Pix e o que soma",
         "paragraphs": [
-          "O cupom é o **SKEMCASACOMCECILIA**. Ele dá 10% OFF em todo o site, em todas as formas de pagamento, e o desconto sai sobre o preço que já está com a promoção. Cole o código no campo de cupom de desconto do carrinho ou do checkout do site oficial e aplique; o resumo mostra o desconto. A Skelt não tem aplicativo. O passo a passo no carrinho está em [Cupom Skelt SKEMCASACOMCECILIA: como usar](/reviews/cupom-skelt-como-usar).",
-          "Em outubro, um mousse de R$ 119,90 entrou com a promoção de 10% da loja por R$ 107,91. Com o cupom, saiu por R$ 97,12. No Pix, a loja tirou mais 5%, e o total ficou em R$ 92,26.",
-          "Na leitura de novembro, o cupom somava com a campanha: entrava por cima do desconto progressivo, dos 20% dos kits e dos itens de 50%."
+          "O cupom é o **SKEMCASACOMCECILIA**, com até 10% OFF no site oficial, segundo a parceria, em todas as formas de pagamento. Cole o código no campo de cupom de desconto da sacola ou do checkout e aplique; o resumo mostra o desconto. A Skelt não tem aplicativo. O passo a passo está em [Cupom Skelt SKEMCASACOMCECILIA: como usar](/reviews/cupom-skelt-como-usar).",
+          "Em outubro, um mousse de R$ 119,90 entrou com a promoção de 10% da loja por R$ 107,91. Com o cupom, saiu por R$ 97,12 (10% cheios). No Pix, a loja tirou mais 5%, e o total ficou em R$ 92,26.",
+          "Em 26 de novembro, com a Black Friday e a November Glow no ar e todos os itens em estoque já remarcados, o SKEMCASACOMCECILIA tirou mais 5% na sacola: o Mousse caiu de R$ 101,92 para R$ 96,82, o Body Splash Solar Muse de R$ 84,92 para R$ 80,67, o Kit Iniciante de R$ 98,18 para R$ 93,27 e o Trio Exotic Trip de R$ 253,04 para R$ 240,39 (abaixo dos R$ 249 do brinde Velvet Milano, que saiu da sacola)."
         ],
         "bullets": [
-          "Pix: no teste de outubro, os 5% entraram depois do cupom. Essa condição não foi refeita na leitura de novembro; confira o desconto na etapa de pagamento.",
+          "Pix: no teste de outubro, quando o Pix era de 5%, os dois descontos somaram. Na Black Friday de 26 de novembro, a loja anuncia 10% no Pix na etapa de pagamento (fora da sacola testada); confira o total antes de concluir.",
           "Um cupom por pedido: a loja aceita só um. Se você aplicar outro código da loja, como o de primeira compra, ele troca o nosso.",
           "Mercado Livre: o cupom não vale lá. Vale o preço do anúncio."
-        ],
-        "postParagraphs": [
-          "As condições atualizadas ficam na página do cupom Skelt."
         ]
       },
       {
@@ -140842,10 +140839,10 @@ const reviewsChunk0: unknown[] = [
       {
         "heading": "Perguntas frequentes",
         "bullets": [
-          "Qual é o cupom da Skelt? O cupom da Skelt da nossa parceria é SKEMCASACOMCECILIA, com 10% OFF em todo o site oficial, para cliente novo ou antigo, em todas as formas de pagamento. O total com o código aparece no resumo da sacola.",
-          "Quando é a Black Friday da Skelt? Na última sexta de novembro. A Cyber Monday vem na segunda seguinte. A loja não publicou como será a oferta, e as ações de novembro já terminaram.",
-          "A Skelt tem Black Friday? A campanha de novembro, a November Glow, tinha desconto progressivo de 10% a 25% conforme o número de produtos, 20% nos kits e uma seleção com até 50% OFF, e terminou. Para a sexta, a loja ainda não divulgou as condições.",
-          "O cupom SKEMCASACOMCECILIA vale na Black Friday? Vale. O cupom tirou 10% por cima da November Glow nos primeiros carrinhos de novembro que testamos: no desconto progressivo, nos kits e nos itens de 50%. Confira o total na sacola antes de pagar.",
+          "Qual é o cupom da Skelt? O cupom da Skelt da nossa parceria é SKEMCASACOMCECILIA, com até 10% OFF em todo o site oficial, para cliente novo ou antigo, em todas as formas de pagamento. O total com o código aparece no resumo da sacola.",
+          "Quando é a Black Friday da Skelt? A Black Friday do calendário cai na última sexta de novembro, com Cyber Monday na segunda seguinte, mas na véspera o site já anunciava “Começou a Black Friday Skelt!” junto com a November Glow.",
+          "A Skelt tem Black Friday? Sim. Na campanha no ar, o site combina desconto progressivo de 15% a 25% nos avulsos, 20% nos duos, 25% nos kits, até 60% nos itens Dark e no Gel e +10% OFF anunciados no Pix.",
+          "O cupom SKEMCASACOMCECILIA vale na Black Friday? Vale. No nosso teste da campanha, ele tirou mais 5% sobre os avulsos e kits já remarcados (Mousse de R$ 101,92 para R$ 96,82 e Kit Iniciante de R$ 98,18 para R$ 93,27). Confira o total e eventual brinde na sacola antes de pagar.",
           "Kit ou produto avulso na Black Friday da Skelt? Entre os sete conjuntos comparados, o Kit Iniciante e o Best Sellers 2025 ficaram mais baratos que os avulsos com o SKEMCASACOMCECILIA. Nos outros cinco, os avulsos ganharam. Compare o carrinho completo: o desconto progressivo muda conforme a combinação de produtos.",
           "O que estava com 50% na November Glow? Na leitura de novembro, o Mousse Dark, a Água Dark, o Gel Autobronzeador e o Removedor. Os body splashes Pink Sands, Grand Bahama e Milos Breeze e o kit de miniaturas Exotic Set estavam com 40%.",
           "Vale a pena esperar? Compare o preço final do mesmo produto, com cupom, forma de pagamento e frete. A tabela datada de outubro ajuda a verificar se a oferta de novembro ficou melhor.",
@@ -142806,7 +142803,7 @@ const reviewsChunk0: unknown[] = [
       "url": "/sobre"
     },
     "description": "Os 7 autobronzeadores da Skelt lado a lado: cor-guia, intensidade, tempo de ação, nível e preço por ml em 23/10/2026. Mousse ou água, Dark ou normal, gel, bifásico e kits.",
-    "metaDescription": "SKEMCASACOMCECILIA anunciado com 10%. Nos mousses testados, deu 5%. Compare mousse, água, gel e kits Skelt por cor-guia, intensidade e preço.",
+    "metaDescription": "Com SKEMCASACOMCECILIA, até 10% OFF na Skelt. Compare mousse, água, gel, bifásico, versões Dark e kits por cor-guia, intensidade e preço.",
     "publishedAt": "23 de outubro de 2026",
     "publishedAtISO": "2026-10-23",
     "updatedAt": "2026-11-23",
@@ -142820,7 +142817,7 @@ const reviewsChunk0: unknown[] = [
       {
         "heading": "Resposta rápida",
         "paragraphs": [
-          "Para quem está começando, o Kit Iniciante traz mousse com cor-guia e luva. Água e gel são incolores, e a Skelt os indica a quem já tem prática. Na campanha consultada, os kits Dark saíram mais caros que os avulsos. Compare os preços do seu pedido antes de escolher."
+          "Para quem está começando, o Kit Iniciante traz mousse com cor-guia e luva. Água e gel são incolores, e a Skelt os indica a quem já tem prática. Na campanha consultada, os kits Dark saíram mais caros que os avulsos. No site oficial da Skelt, o cupom SKEMCASACOMCECILIA dá até 10% OFF."
         ]
       },
       {
@@ -143154,7 +143151,7 @@ const reviewsChunk0: unknown[] = [
           "Quer o que aparecia em primeiro na ordem de mais vendidos da Skelt: o [Bifásico](https://www.skelt.com.br/autobronzeador-bifasico/p?utm_source=creators&utm_medium=SKEMCASACOMCECILIA&utm_campaign=inbazz), por R$ 119,90, com ação de 8 horas e fragrância de body splash (Grand Bahama). A página não informa se tem cor-guia, então aplique com luva e movimentos circulares."
         ],
         "postParagraphs": [
-          "O [cupom Skelt](/cupons/skelt) é o SKEMCASACOMCECILIA, com 10% OFF anunciado para o site todo. Cole o código no campo de cupom de desconto do carrinho ou do checkout do site oficial e aplique; o resumo mostra o desconto. Ele não vale no Mercado Livre, e a Skelt não tem aplicativo. O Pix ainda tem 5% da loja depois do código."
+          "O [cupom Skelt](/cupons/skelt) é o SKEMCASACOMCECILIA, com até 10% OFF no site oficial. Cole o código no campo de cupom de desconto do carrinho ou do checkout e aplique; o resumo mostra o desconto. Ele não vale no Mercado Livre, e a Skelt não tem aplicativo. A loja ainda anuncia desconto extra no Pix no pagamento."
         ],
         "links": [
           {
@@ -200069,13 +200066,13 @@ const reviewsChunk1: unknown[] = [
       {
         "heading": "Resposta rápida",
         "paragraphs": [
-          "O cupom Simple Organic é o S-EMCASACOMCECILIA: 5% OFF na loja online, pelo link da parceria ou no campo Desconto do carrinho. Nos testes, ele entrou até em kit, duo e promoção. O que decide é a linha do cupom no resumo do pedido: os números estão em \"Onde o código valeu\"."
+          "O [cupom Simple Organic](/cupons/simple-organic) é o S-EMCASACOMCECILIA: 5% OFF na loja online, pelo link da parceria ou no campo Desconto do carrinho. Nos testes, ele entrou até em kit, duo e promoção. O que decide é a linha do cupom no resumo do pedido: os números estão em \"Onde o código valeu\"."
         ]
       },
       {
         "heading": "O que é o S-EMCASACOMCECILIA",
         "paragraphs": [
-          "Se a compra é no site oficial da Simple Organic, o [cupom Simple Organic](/cupons/simple-organic) da parceria é o S-EMCASACOMCECILIA: 5% OFF em todo o site, de sérum e hidratante a limpeza facial, maquiagem e body splash. A Simple Organic se apresenta como marca de beleza limpa e vegana, de Florianópolis, parte da Hypera Pharma desde 2020; o cupom é o benefício para quem acompanha o Em Casa com Cecília.",
+          "Se a compra é no site oficial da Simple Organic, o cupom Simple Organic da parceria é o S-EMCASACOMCECILIA: 5% OFF em todo o site, de sérum e hidratante a limpeza facial, maquiagem e body splash. A Simple Organic se apresenta como marca de beleza limpa e vegana, de Florianópolis, parte da Hypera Pharma desde 2020; o cupom é o benefício para quem acompanha o Em Casa com Cecília.",
           "Ele é o código da loja online, simpleorganic.com.br. Para a primeira compra, o código é este mesmo: a parceria não tem um código separado. O que ela dá são os 5%, e é isso que o resumo do pedido vai mostrar.",
           "O desconto sai do preço que está no carrinho. Nos testes, os 5% entraram sobre o preço promocional. Confira a linha do código e o total do seu pedido antes de pagar."
         ]
@@ -200252,7 +200249,7 @@ const reviewsChunk1: unknown[] = [
     "id": 783,
     "slug": "black-friday-simple-organic",
     "title": "Black Friday Simple Organic 2026: a Clean Friday com até 50% OFF e o cupom",
-    "seoTitle": "Black Friday Simple Organic 2026: Clean Friday e cupom",
+    "seoTitle": "Black Friday Simple Organic 2026: S-EMCASACOMCECILIA (5%)",
     "type": "Guia de Black Friday",
     "category": "cupons-como-usar",
     "reviewKind": "guia",
@@ -200278,7 +200275,7 @@ const reviewsChunk1: unknown[] = [
       {
         "heading": "Resposta rápida",
         "paragraphs": [
-          "Na Clean Friday, os preços da Simple Organic chegam a 50% OFF no site (o banner da home fala em até 40%), enquanto durarem os estoques. O S-EMCASACOMCECILIA deu mais 5% nos kits, duos e produtos promocionais testados. Compare o total com frete antes de pagar: perto do mínimo da entrega grátis, o cupom pode aumentar a conta."
+          "Na Clean Friday, os preços da Simple Organic chegam a 50% OFF no site (o banner da home fala em até 40%), enquanto durarem os estoques. O [cupom Simple Organic](/cupons/simple-organic) S-EMCASACOMCECILIA deu mais 5% nos kits, duos e produtos promocionais testados. Compare o total com frete antes de pagar: perto do mínimo da entrega grátis, o cupom pode aumentar a conta."
         ]
       },
       {
@@ -200414,7 +200411,7 @@ const reviewsChunk1: unknown[] = [
           "Num carrinho de R$ 182,00, com o kit [Rotina Pele Sensível](https://simpleorganic.com.br/products/rotina-pele-sensivel), o [Hidratante Facial Super Glow](https://simpleorganic.com.br/products/hidratante-facial-super-glow) (hoje esgotado) e um [lip combo](https://simpleorganic.com.br/products/lip-combo-1) a preço cheio, o código tirou R$ 9,10, 5% do total. Ele entrou num kit, num duo e em produtos com preço de campanha.",
           "Na conferência de 15 de novembro, o código seguia entrando na sacola: tirou 5% do [Trio Body Splashes](https://simpleorganic.com.br/products/kit-body-splash), da Rotina Pele Sensível e do [Duo Limpeza + Regeneração](https://simpleorganic.com.br/products/duo-limpeza-regeneracao), os três com preço de campanha.",
           "No teste de 22/11, um carrinho com o [Hidratante Facial Antioleosidade](https://simpleorganic.com.br/products/hidratante-facial-antioleosidade) (R$ 27,00) e o [Ultra Sérum Vitamina C](https://simpleorganic.com.br/products/ultra-serum-vitamina-c) (R$ 41,40), os dois com preço da Clean Friday, somou R$ 68,40. No campo \"Código de desconto ou cartão-presente\" do checkout, o S-EMCASACOMCECILIA tirou R$ 3,42, 5% sobre esses preços já reduzidos, e o total ficou em R$ 64,98, sem o frete, que só é calculado com o endereço.",
-          "Coloque os produtos no carrinho, cole o código no campo \"Desconto\" e confira a linha do cupom antes de decidir. O link da parceria aplica o código na home; quem entra direto na página de um produto precisa colar o código. O passo a passo está em [Como usar o cupom da Simple Organic](/reviews/cupom-simple-organic-como-usar), e as condições do dia, na página do [cupom Simple Organic](/cupons/simple-organic).",
+          "Coloque os produtos no carrinho, cole o código no campo \"Desconto\" e confira a linha do cupom antes de decidir. O link da parceria aplica o código na home; quem entra direto na página de um produto precisa colar o código. O passo a passo está em [Como usar o cupom da Simple Organic](/reviews/cupom-simple-organic-como-usar).",
           "Nas Lojas Simple e nas farmácias, não conte com o código: ele é da loja online."
         ],
         "images": [
@@ -234964,7 +234961,7 @@ const reviewsChunk1: unknown[] = [
       {
         "heading": "Resposta rápida",
         "paragraphs": [
-          "Nos três séruns, Simple Organic e Principia usam a mesma concentração do ativo principal. O que muda é o perfume, presente só na Simple Organic, e o ativo de apoio; no gel, as fórmulas são outras. Durante a Clean Friday, o frasco da Simple Organic sai mais barato nos quatro, e a tabela de cada ativo mostra quando isso vira."
+          "Nos três séruns, Simple Organic e Principia usam a mesma concentração do ativo principal. O que muda é o perfume, presente só na Simple Organic, e o ativo de apoio; no gel, as fórmulas são outras. Durante a Clean Friday, o frasco da Simple Organic sai mais barato nos quatro, e o cupom S-EMCASACOMCECILIA dá 5% OFF na loja oficial."
         ]
       },
       {
@@ -240422,8 +240419,8 @@ const reviewsChunk1: unknown[] = [
   {
     "id": 912,
     "slug": "cupom-skelt-primeira-compra",
-    "title": "Cupom Skelt primeira compra: SKEMCASACOMCECILIA dá 10% OFF e vale nas compras seguintes",
-    "seoTitle": "Cupom Skelt primeira compra: SKEMCASACOMCECILIA, 10% OFF",
+    "title": "Cupom Skelt primeira compra: SKEMCASACOMCECILIA dá até 10% OFF e vale nas compras seguintes",
+    "seoTitle": "Cupom Skelt primeira compra: SKEMCASACOMCECILIA, até 10%",
     "type": "Guia & Cupons",
     "category": "cupons-como-usar",
     "reviewKind": "guia",
@@ -240434,11 +240431,11 @@ const reviewsChunk1: unknown[] = [
       "initials": "CM",
       "url": "/sobre"
     },
-    "description": "O SKEMCASACOMCECILIA dá 10% em todo o site da Skelt no primeiro pedido e nos seguintes, com kits e combos. Veja o que o pedido exige e como o Pix entra.",
-    "metaDescription": "Para a primeira compra na Skelt, use SKEMCASACOMCECILIA: 10% OFF em todo o site, inclusive kits. O mesmo código vale para quem já comprou.",
+    "description": "O SKEMCASACOMCECILIA dá até 10% OFF no site da Skelt no primeiro pedido e nos seguintes, com kits e combos. Veja o que o pedido exige e como o Pix entra.",
+    "metaDescription": "Para a primeira compra na Skelt, use SKEMCASACOMCECILIA: até 10% OFF em todo o site, inclusive kits. O mesmo código vale para quem já comprou.",
     "publishedAt": "12 de novembro de 2026",
     "publishedAtISO": "2026-11-12",
-    "updatedAt": "2026-11-23",
+    "updatedAt": "2026-11-26",
     "draft": false,
     "isNew": true,
     "image": "/images/reviews/skelt/cupom-skelt-primeira-compra-capa-v2.webp",
@@ -240471,15 +240468,15 @@ const reviewsChunk1: unknown[] = [
       {
         "heading": "Resposta rápida",
         "paragraphs": [
-          "Para a primeira compra na Skelt, use SKEMCASACOMCECILIA: 10% OFF em todos os produtos do site, kits e combos inclusive. O desconto soma com o Pix e com as promoções, e o mesmo código vale para quem já comprou. Ele não soma com outro cupom; a regra do frete por região está abaixo."
+          "Para a primeira compra na Skelt, use o [cupom Skelt](/cupons/skelt) SKEMCASACOMCECILIA: até 10% OFF em todos os produtos do site, kits e combos inclusive. O código soma com as promoções vigentes e vale de novo para quem já comprou; a loja também anuncia desconto no Pix na etapa de pagamento. Ele não soma com outro cupom."
         ]
       },
       {
         "heading": "Qual cupom usar na primeira compra da Skelt?",
         "paragraphs": [
           "A Skelt vende cosméticos, como autobronzeadores, body splashes e produtos para o corpo, no [site oficial](https://www.skelt.com.br/?utm_source=creators&utm_medium=SKEMCASACOMCECILIA&utm_campaign=inbazz).",
-          "Use o SKEMCASACOMCECILIA: 10% OFF em todos os produtos do site, kits e combos inclusive, com todas as formas de pagamento. Ele vale no primeiro pedido e nos seguintes: quem já comprou usa os mesmos 10% para repor o autobronzeador que acabou ou levar o body splash que ficou para depois.",
-          "É o [cupom Skelt](/cupons/skelt) da nossa parceria com a marca, testado no carrinho. A loja aceita um cupom por pedido: se houver outro no campo, aplique SKEMCASACOMCECILIA e confira o desconto no resumo."
+          "Use o SKEMCASACOMCECILIA: até 10% OFF em todos os produtos do site, kits e combos inclusive, com todas as formas de pagamento. Ele vale no primeiro pedido e nos seguintes: quem já comprou usa o mesmo código para repor o autobronzeador que acabou ou levar o body splash que ficou para depois.",
+          "É o código da nossa parceria com a marca, testado no carrinho. Na Black Friday e November Glow de 26/11/2026, com todos os itens em estoque já remarcados, ele tirou mais 5% na sacola — o Mousse caiu de R$ 101,92 para R$ 96,82 e o Kit Iniciante de R$ 98,18 para R$ 93,27 —; em teste anterior fora dessa campanha, tirou 10% num kit já com 20% da loja. A Skelt aceita um cupom por pedido: se houver outro no campo, aplique SKEMCASACOMCECILIA e confira o desconto no resumo."
         ]
       },
       {
@@ -240577,9 +240574,9 @@ const reviewsChunk1: unknown[] = [
       {
         "heading": "Perguntas frequentes",
         "bullets": [
-          "Qual é o cupom da Skelt? O cupom da Skelt da nossa parceria é SKEMCASACOMCECILIA, com 10% OFF em todo o site oficial, para cliente novo ou antigo, em todas as formas de pagamento. Serve na primeira compra e nas seguintes.",
-          "Qual cupom Skelt vale para quem já é cliente? O mesmo SKEMCASACOMCECILIA, com os mesmos 10%.",
-          "O cupom Skelt soma com o Pix? Sim, e com as promoções do site. O desconto do Pix entra depois do código; a ordem está no capítulo do kit em promoção.",
+          "Qual é o cupom da Skelt? O cupom da Skelt da nossa parceria é SKEMCASACOMCECILIA, com até 10% OFF em todo o site oficial, para cliente novo ou antigo, em todas as formas de pagamento. Serve na primeira compra e nas seguintes.",
+          "Qual cupom Skelt vale para quem já é cliente? O mesmo SKEMCASACOMCECILIA, com até 10% OFF no site oficial; confira o valor abatido no resumo da sacola.",
+          "O cupom Skelt soma com o Pix? O código vale também no Pix e soma com as promoções do site. No teste anterior de 5% no Pix, os dois descontos somaram; na Black Friday, a loja anuncia 10% no Pix na etapa de pagamento, então confira o total antes de concluir.",
           "O cupom Skelt vale no Mercado Livre? Não. Ele vale no site oficial, pela sacola."
         ]
       }
@@ -243260,7 +243257,7 @@ const reviewsChunk1: unknown[] = [
     "id": 928,
     "slug": "cupom-simple-organic-primeira-compra",
     "title": "Cupom Simple Organic primeira compra: S-EMCASACOMCECILIA dá 5% OFF e vale nas compras seguintes",
-    "seoTitle": "Simple Organic primeira compra: 5% com S-EMCASACOMCECILIA",
+    "seoTitle": "Simple Organic primeira compra: 5% OFF com S-EMCASACOMCECILIA",
     "type": "Guia & Cupons",
     "category": "cupons-como-usar",
     "reviewKind": "guia",
@@ -243311,7 +243308,7 @@ const reviewsChunk1: unknown[] = [
       {
         "heading": "Resposta rápida",
         "paragraphs": [
-          "Para a primeira compra na Simple Organic, use S-EMCASACOMCECILIA: 5% OFF em todo o site oficial, inclusive nos kits e nos produtos em promoção. O mesmo código vale para quem já comprou, com todas as formas de pagamento. O botão desta página abre a loja com o código aplicado; confira a linha do desconto antes de pagar."
+          "Para a primeira compra na Simple Organic, use o [cupom Simple Organic](/cupons/simple-organic) S-EMCASACOMCECILIA: 5% OFF em todo o site oficial, inclusive nos kits e nos produtos em promoção. O mesmo código vale para quem já comprou, com todas as formas de pagamento. O botão desta página abre a loja com o código aplicado; confira a linha do desconto antes de pagar."
         ]
       },
       {
@@ -243319,7 +243316,7 @@ const reviewsChunk1: unknown[] = [
         "paragraphs": [
           "A Simple Organic vende cosméticos, como produtos de skincare e maquiagem.",
           "Use o S-EMCASACOMCECILIA: 5% OFF em todos os produtos da loja online, inclusive nos kits e no que já está em promoção. Ele vale no primeiro pedido e nos seguintes.",
-          "É o [cupom Simple Organic](/cupons/simple-organic) da nossa parceria com a marca, testado no checkout. Sérum, hidratante ou maquiagem: o código é o mesmo."
+          "É o código da nossa parceria com a marca, testado no checkout. Sérum, hidratante ou maquiagem: o código é o mesmo."
         ]
       },
       {
@@ -277385,7 +277382,7 @@ const reviewsChunk2: unknown[] = [
       "url": "/sobre"
     },
     "description": "Duas intensidades na Skelt ou aplicação com as mãos na Episol Gold? Compare a rotina, o banho depois de aplicar e os preços nos sites oficiais, com o cupom da Skelt.",
-    "metaDescription": "Na Skelt, o SKEMCASACOMCECILIA dá 10% OFF. Compare com a Episol Gold, da Mantecorp: intensidade, duração, aplicação e preço.",
+    "metaDescription": "Na Skelt, o SKEMCASACOMCECILIA dá até 10% OFF. Compare com a Episol Gold, da Mantecorp: intensidade, duração, aplicação e preço.",
     "publishedAt": "19 de novembro de 2026",
     "publishedAtISO": "2026-11-19",
     "draft": false,
@@ -277398,7 +277395,7 @@ const reviewsChunk2: unknown[] = [
       {
         "heading": "Resposta rápida",
         "paragraphs": [
-          "A Skelt oferece bronzeado médio ou mais intenso; a Episol Gold, da Mantecorp, pode ser aplicada com as mãos. As duas marcas anunciam duração de 7 a 12 dias. Na promoção consultada, as duas águas da Skelt já custavam menos que a Episol Gold antes do cupom SKEMCASACOMCECILIA."
+          "A Skelt oferece bronzeado médio ou mais intenso; a Episol Gold, da Mantecorp, pode ser aplicada com as mãos. As duas marcas anunciam duração de 7 a 12 dias. Na promoção consultada, as duas águas da Skelt já custavam menos que a Episol Gold antes do cupom SKEMCASACOMCECILIA (até 10% OFF)."
         ]
       },
       {
@@ -283512,13 +283509,13 @@ const reviewsChunk2: unknown[] = [
       {
         "heading": "Resposta rápida",
         "paragraphs": [
-          "Use PNK-EMCASACOMCECILIA para ter 10% OFF no site da Pink Cheeks, mesmo se você já for cliente. No carrinho, clique em “Finalizar pedido” e cole o código, com o hífen, em “Código de desconto ou cartão-presente”. No nosso teste, os 10% também entraram num blush em promoção."
+          "Use o [cupom Pink Cheeks](/cupons/pinkcheeks) PNK-EMCASACOMCECILIA para ter 10% OFF no site oficial, mesmo se você já for cliente. No carrinho, clique em “Finalizar pedido” e cole o código, com o hífen, em “Código de desconto ou cartão-presente”. Nos nossos testes, os 10% também entraram em kit, bastão e blush em promoção."
         ]
       },
       {
         "heading": "Onde digitar o cupom na Pink Cheeks",
         "paragraphs": [
-          "Você pode copiar o código na [página do cupom Pink Cheeks](/cupons/pinkcheeks). No nosso teste, o checkout mostrou o desconto antes de pedir identificação."
+          "No nosso teste no site oficial, o resumo do checkout mostrou o desconto antes de pedir identificação."
         ],
         "bullets": [
           "Na página do produto, clique em “Adicionar ao carrinho”.",
@@ -283605,7 +283602,7 @@ const reviewsChunk2: unknown[] = [
           "**A loja.** O código é do site oficial, pinkcheeks.com.br. Se a busca for por Mercado Livre ou Shopee, o código continua sendo do site da marca."
         ],
         "postParagraphs": [
-          "Se a linha “Desconto no pedido” não aparecer, confira as [condições do cupom Pink Cheeks](/cupons/pinkcheeks) antes de pagar.",
+          "Se a linha “Desconto no pedido” não aparecer, revise a grafia com hífen e o campo do resumo no checkout antes de pagar.",
           "Se é a sua primeira compra, o roteiro do [cupom Pink Cheeks na primeira compra](/reviews/cupom-pinkcheeks-primeira-compra) mostra o caminho do carrinho ao pagamento."
         ]
       },
@@ -283646,7 +283643,7 @@ const reviewsChunk2: unknown[] = [
     "coupon": "PNK-EMCASACOMCECILIA",
     "affiliate": "pinkcheeks",
     "title": "Black Friday Pink Cheeks 2026: o que vem nos kits e onde o cupom deu 10%",
-    "seoTitle": "Black Friday Pink Cheeks 2026: preços de kits e avulsos",
+    "seoTitle": "Black Friday Pink Cheeks 2026: kits e PNK-EMCASACOMCECILIA",
     "type": "Guia de Black Friday",
     "description": "Compare os kits da Black Friday da Pink Cheeks pelo que vem em cada um. Veja os preços dos avulsos, em quais promoções o PNK-EMCASACOMCECILIA entrou e como conferir o frete.",
     "metaDescription": "PNK-EMCASACOMCECILIA dá 10% OFF na Pink Cheeks. Na Black Friday, o cupom entrou em kit, blush e Pink Stick. Compare os kits.",
@@ -283674,7 +283671,7 @@ const reviewsChunk2: unknown[] = [
       {
         "heading": "Resposta rápida",
         "paragraphs": [
-          "Na Black Friday da Pink Cheeks, o cupom PNK-EMCASACOMCECILIA deu 10% OFF sobre preços promocionais no nosso teste, num blush, num kit e num Pink Stick. Para escolher entre os kits Natação, Speedo e Performance II, veja o que vem em cada um e o preço anunciado."
+          "Na Black Friday da Pink Cheeks, o [cupom Pink Cheeks](/cupons/pinkcheeks) PNK-EMCASACOMCECILIA deu 10% OFF sobre preços promocionais no nosso teste, num blush, num kit e num Pink Stick. Para escolher entre os kits Natação, Speedo e Performance II, veja o que vem em cada um e o preço anunciado."
         ]
       },
       {
@@ -283819,7 +283816,7 @@ const reviewsChunk2: unknown[] = [
           "Confira a linha Desconto no pedido antes de pagar."
         ],
         "postParagraphs": [
-          "O passo a passo, com o print do checkout, está em [como usar o cupom da Pink Cheeks](/reviews/cupom-pinkcheeks-como-usar). Quem nunca comprou na loja encontra o roteiro em [cupom na primeira compra](/reviews/cupom-pinkcheeks-primeira-compra), e as condições do código ficam na página do [cupom Pink Cheeks](/cupons/pinkcheeks)."
+          "O passo a passo, com o print do checkout, está em [como usar o cupom da Pink Cheeks](/reviews/cupom-pinkcheeks-como-usar). Quem nunca comprou na loja encontra o roteiro em [cupom na primeira compra](/reviews/cupom-pinkcheeks-primeira-compra)."
         ]
       },
       {
@@ -284077,7 +284074,7 @@ const reviewsChunk2: unknown[] = [
       {
         "heading": "Resposta rápida",
         "paragraphs": [
-          "O site da Pink Cheeks identifica a empresa responsável pela venda, com CNPJ e endereço em Leme (SP). No Reclame Aqui, a loja tem reputação Boa, nota 7,8, e respondeu a todas as 72 reclamações dos últimos seis meses. Antes de comprar, veja como pedir devolução e qual canal atende se o produto chegar com defeito."
+          "O site da Pink Cheeks identifica a empresa responsável pela venda, com CNPJ e endereço em Leme (SP). No Reclame Aqui, a loja tem reputação Boa, nota 7,8, e respondeu a todas as 72 reclamações dos últimos seis meses. Antes de comprar, veja como pedir devolução e qual canal atende se o produto chegar com defeito. No site oficial, o cupom PNK-EMCASACOMCECILIA dá 10% OFF."
         ]
       },
       {
@@ -284401,7 +284398,7 @@ const reviewsChunk2: unknown[] = [
     "coupon": "PNK-EMCASACOMCECILIA",
     "affiliate": "pinkcheeks",
     "title": "Cupom Pink Cheeks na primeira compra: 10% OFF com PNK-EMCASACOMCECILIA",
-    "seoTitle": "Pink Cheeks primeira compra: cupom de 10% OFF",
+    "seoTitle": "Cupom Pink Cheeks primeira compra: PNK-EMCASACOMCECILIA",
     "type": "Guia & Cupons",
     "description": "Saiba onde achar o cupom PNK-EMCASACOMCECILIA na primeira compra na Pink Cheeks, em qual campo aplicar os 10% e o que conferir sobre frete e devolução antes de pagar.",
     "metaDescription": "O PNK-EMCASACOMCECILIA dá 10% OFF na primeira compra da Pink Cheeks e também para quem já é cliente. Veja como aplicar e o que soma no carrinho.",
@@ -284429,14 +284426,14 @@ const reviewsChunk2: unknown[] = [
       {
         "heading": "Resposta rápida",
         "paragraphs": [
-          "Na primeira compra no site da Pink Cheeks, use PNK-EMCASACOMCECILIA para ter 10% OFF. Você encontra o código na [página do cupom Pink Cheeks](/cupons/pinkcheeks). No carrinho, clique em “Finalizar pedido” e cole o código com o hífen em “Código de desconto ou cartão-presente”. Confira o desconto no resumo."
+          "Na primeira compra no site da Pink Cheeks, use o [cupom Pink Cheeks](/cupons/pinkcheeks) PNK-EMCASACOMCECILIA para ter 10% OFF, benefício que também vale nas compras seguintes. No carrinho, clique em “Finalizar pedido” e cole o código com o hífen em “Código de desconto ou cartão-presente”. Confira o desconto no resumo."
         ]
       },
       {
         "heading": "Onde encontrar o desconto na primeira compra",
         "paragraphs": [
           "A Pink Cheeks é uma marca brasileira de proteção solar, maquiagem com FPS e produtos antiatrito, feita para quem pratica esporte.",
-          "Copie PNK-EMCASACOMCECILIA na [página do cupom Pink Cheeks](/cupons/pinkcheeks). No nosso teste, o checkout abriu sem login e mostrou o desconto antes da identificação. O código atende quem compra pela primeira vez e quem já é cliente."
+          "Use PNK-EMCASACOMCECILIA, com hífen depois de PNK. No nosso teste, o checkout abriu sem login e mostrou o desconto antes da identificação. O código atende quem compra pela primeira vez e quem já é cliente."
         ]
       },
       {
@@ -311152,7 +311149,7 @@ const reviewsChunk2: unknown[] = [
       "url": "/sobre"
     },
     "description": "Só o FPS 8 do protetor solar Skelt Instant Bronzer estava em estoque na consulta. Veja a diferença entre disponibilidade, proteção, modo de uso e preço.",
-    "metaDescription": "SKEMCASACOMCECILIA anunciado com 10%. No teste do Instant Bronzer FPS 8 da Skelt, entraram 5%. Veja as versões e a orientação de FPS.",
+    "metaDescription": "Com SKEMCASACOMCECILIA, até 10% OFF na Skelt. Veja as versões do Protetor Solar Instant Bronzer, estoque e a orientação de FPS da SBD.",
     "publishedAt": "21 de novembro de 2026",
     "publishedAtISO": "2026-11-21",
     "draft": false,
@@ -311206,7 +311203,7 @@ const reviewsChunk2: unknown[] = [
       {
         "heading": "Resposta rápida",
         "paragraphs": [
-          "Na consulta à Skelt, só o Instant Bronzer FPS 8 estava à venda. A marca também tem versões FPS 15 e 30. Para a proteção solar do dia a dia, a Sociedade Brasileira de Dermatologia orienta usar FPS 30 ou superior. Escolha o fator antes de comparar preço ou estoque."
+          "Na consulta à Skelt, só o Instant Bronzer FPS 8 estava à venda. A marca também tem versões FPS 15 e 30. Para a proteção solar do dia a dia, a Sociedade Brasileira de Dermatologia orienta usar FPS 30 ou superior. No site oficial da Skelt, o cupom SKEMCASACOMCECILIA dá até 10% OFF."
         ]
       },
       {
@@ -311360,7 +311357,7 @@ const reviewsChunk2: unknown[] = [
       "url": "/sobre"
     },
     "description": "O mousse e as águas da Panvel Glow saem mais baratos nos pares comparados. Veja os preços por 100 ml e quando a cor-guia do mousse Skelt pesa na escolha.",
-    "metaDescription": "SKEMCASACOMCECILIA anunciado com 10%. Nos mousses testados, deu 5%. Compare Skelt e Panvel Glow por 100 ml e veja onde há cor-guia.",
+    "metaDescription": "Com SKEMCASACOMCECILIA, até 10% OFF na Skelt. Compare os autobronzeadores Skelt e Panvel Glow por 100 ml e veja onde há cor-guia.",
     "publishedAt": "21 de novembro de 2026",
     "publishedAtISO": "2026-11-21",
     "draft": false,
@@ -311373,7 +311370,7 @@ const reviewsChunk2: unknown[] = [
       {
         "heading": "Resposta rápida",
         "paragraphs": [
-          "Nos pares da tabela, a Panvel Glow custa menos por 100 ml. O mousse da Skelt tem cor-guia, que mostra onde você já passou. Na Skelt, o cupom SKEMCASACOMCECILIA tirou 5% nos dois mousses testados."
+          "Nos pares da tabela, a Panvel Glow custa menos por 100 ml. O mousse da Skelt tem cor-guia, que mostra onde você já passou. No site oficial da Skelt, o cupom SKEMCASACOMCECILIA dá até 10% OFF."
         ]
       },
       {
@@ -311684,7 +311681,7 @@ const reviewsChunk2: unknown[] = [
       {
         "heading": "Resposta rápida",
         "paragraphs": [
-          "O Ultra Sérum tem retinol a 0,3%, e a Simple Organic indica o uso à noite. A Solução Retinol-Like tem bakuchiol a 1%, e o FAQ da marca permite uso diurno com protetor solar. Os dois frascos têm 30 mL e listam fragrância."
+          "O Ultra Sérum tem retinol a 0,3%, e a Simple Organic indica o uso à noite. A Solução Retinol-Like tem bakuchiol a 1%, e o FAQ da marca permite uso diurno com protetor solar. Os dois frascos têm 30 mL e listam fragrância. No site oficial da Simple Organic, o cupom S-EMCASACOMCECILIA dá 5% OFF."
         ]
       },
       {
@@ -311923,7 +311920,7 @@ const reviewsChunk2: unknown[] = [
       {
         "heading": "Resposta rápida",
         "paragraphs": [
-          "A Simple Organic vende duas fórmulas de vitamina C e um Ultra Sérum com niacinamida a 10%. Na ficha, a marca associa a niacinamida à oleosidade e ao tom da pele. Se pretende usar vitamina C e niacinamida juntas, a marca não informa qual vem primeiro."
+          "A Simple Organic vende duas fórmulas de vitamina C e um Ultra Sérum com niacinamida a 10%. Na ficha, a marca associa a niacinamida à oleosidade e ao tom da pele. Se pretende usar vitamina C e niacinamida juntas, a marca não informa qual vem primeiro. No site oficial da Simple Organic, o cupom S-EMCASACOMCECILIA dá 5% OFF."
         ]
       },
       {
@@ -312171,7 +312168,7 @@ const reviewsChunk2: unknown[] = [
       {
         "heading": "Resposta rápida",
         "paragraphs": [
-          "Nos kits da Simple Organic que trazem gel de limpeza, ele costuma abrir a rotina. Depois vêm sérum ou solução e um hidratante ou balm, conforme o kit. O Ultra Sérum Retinol e o Salicílico ficam para a noite pelas fichas. O lugar do Balm Antiolheiras muda conforme a combinação."
+          "Nos kits da Simple Organic que trazem gel de limpeza, ele costuma abrir a rotina. Depois vêm sérum ou solução e um hidratante ou balm, conforme o kit. O Ultra Sérum Retinol e o Salicílico ficam para a noite pelas fichas. O lugar do Balm Antiolheiras muda conforme a combinação. No site oficial da Simple Organic, o cupom S-EMCASACOMCECILIA dá 5% OFF."
         ]
       },
       {
@@ -312613,7 +312610,7 @@ const reviewsChunk2: unknown[] = [
       {
         "heading": "Resposta rápida",
         "paragraphs": [
-          "O Ultra Sérum Ácido Salicílico da Simple Organic tem 2% de salicílico e uso noturno pela ficha. A marca também vende gel de limpeza, balm e adesivos para aplicação localizada. Compare o que cada rótulo declara. Se a acne persiste, dói ou deixa marcas, procure um dermatologista."
+          "O Ultra Sérum Ácido Salicílico da Simple Organic tem 2% de salicílico e uso noturno pela ficha. A marca também vende gel de limpeza, balm e adesivos para aplicação localizada. Compare o que cada rótulo declara. Se a acne persiste, dói ou deixa marcas, procure um dermatologista. No site da Simple Organic, o cupom S-EMCASACOMCECILIA dá 5% OFF."
         ]
       },
       {
@@ -329829,7 +329826,7 @@ const reviewsChunk2: unknown[] = [
       {
         "heading": "Resposta rápida",
         "paragraphs": [
-          "O Pink Stick tem oito tons com cor, nomeados por distâncias de corrida, e o 5 KM incolor. Como a marca não detalha subtons em texto, a decisão depende das paletas oficiais e da prova virtual do site. Abaixo estão os nove links, a comparação com Pro Stick e Clear Stick e os dados sobre suor."
+          "O Pink Stick tem oito tons com cor, nomeados por distâncias de corrida, e o 5 KM incolor. Como a marca não detalha subtons em texto, a decisão depende das paletas oficiais e da prova virtual do site. Abaixo estão os nove links, a comparação com Pro Stick e Clear Stick e os dados sobre suor. No site da Pink Cheeks, o cupom PNK-EMCASACOMCECILIA dá 10% OFF."
         ]
       },
       {
@@ -331943,7 +331940,7 @@ const reviewsChunk2: unknown[] = [
       {
         "heading": "Resposta rápida",
         "paragraphs": [
-          "O EMCASA na Océane dá 10% OFF no pedido, no site e no app, em todas as formas de pagamento, para cliente novo e antigo. No site, o campo fica na sacola, antes da identificação; no app, o cupom entra na Sacola. O preço especial do app soma com o cupom: veja abaixo o teste e o que conferir."
+          "O [cupom Océane](/cupons/oceane) EMCASA dá 10% OFF no pedido, no site e no app, em todas as formas de pagamento, para cliente novo e antigo. No site, o campo fica na sacola, antes da identificação; no app, o cupom entra na Sacola. O preço especial do app soma com o cupom: veja abaixo o teste e o que conferir."
         ]
       },
       {
@@ -331958,7 +331955,7 @@ const reviewsChunk2: unknown[] = [
           "Confira a linha “Descontos” no resumo: ela mostra quanto o cupom tirou. Só depois siga em “Continuar pagamento”."
         ],
         "postParagraphs": [
-          "No app, o cupom entra na Sacola, como no site, antes de “Finalizar Compra”. O código EMCASA também é o de outras lojas parceiras do Em Casa com Cecília, mas o desconto de 10% descrito aqui vale na Océane. Os detalhes da loja estão na página do [cupom Océane](/cupons/oceane)."
+          "No app, o cupom entra na Sacola, como no site, antes de “Finalizar Compra”. O código EMCASA também é o de outras lojas parceiras do Em Casa com Cecília, mas o desconto de 10% descrito aqui vale na Océane."
         ]
       },
       {
@@ -332134,7 +332131,7 @@ const reviewsChunk2: unknown[] = [
     "coupon": "EMCASA",
     "affiliate": "oceane",
     "title": "Black Friday Océane 2026: a Black Month de até 70% OFF com o cupom EMCASA",
-    "seoTitle": "Black Friday Océane 2026: cupom e Black Month",
+    "seoTitle": "Black Friday Océane 2026: Black Month e cupom EMCASA",
     "type": "Guia de Black Friday",
     "description": "O que a Océane colocou na Black Month de 2026, quanto o cupom EMCASA tira sobre o preço de oferta no site e no app e o que conferir na sacola antes de fechar o pedido.",
     "metaDescription": "O cupom EMCASA dá 10% OFF na Océane, também sobre os preços da Black Month. Veja o que está em oferta, a conta com o cupom e o que muda no app.",
@@ -332178,7 +332175,7 @@ const reviewsChunk2: unknown[] = [
       {
         "heading": "Resposta rápida",
         "paragraphs": [
-          "A Océane está na Black Month, a campanha de novembro que a loja anuncia com mais de 250 produtos em até 70% OFF. Na sacola do site, o EMCASA tirou mais 10% sobre o preço de oferta. A loja não publica data de fim: veja abaixo o que está em oferta e como fica a conta."
+          "A Océane está na Black Month, a campanha de novembro que a loja anuncia com mais de 250 produtos em até 70% OFF. Com o [cupom Océane](/cupons/oceane) EMCASA (10% OFF no site e no app), o pedido ganhou mais 10% sobre o preço de oferta nos testes. A loja não publica data de fim: veja abaixo o que está em oferta e como fica a conta."
         ]
       },
       {
@@ -332303,7 +332300,7 @@ const reviewsChunk2: unknown[] = [
         "heading": "App ou site na Black Month",
         "paragraphs": [
           "Não dá para dizer que um canal sai sempre mais barato que o outro: a loja só diz que o app é \"ainda mais interessante, com descontos extras\", sem apontar quais itens. O que vimos é que o cupom funciona nos dois e soma com o preço especial do app.",
-          "No app, o EMCASA entrou sobre produtos que já estavam com preço especial do app. O preço de cada item da Sacola já vem com o EMCASA aplicado, e o resumo traz a linha \"Desconto\", como no print abaixo. Os valores desse teste estão na página do [cupom Océane](/cupons/oceane)."
+          "No app, o EMCASA entrou sobre produtos que já estavam com preço especial do app. O preço de cada item da Sacola já vem com o EMCASA aplicado, e o resumo traz a linha \"Desconto\", como no print abaixo."
         ],
         "images": [
           {
@@ -332437,7 +332434,7 @@ const reviewsChunk2: unknown[] = [
       {
         "heading": "Resposta rápida",
         "paragraphs": [
-          "O EMCASA na Océane dá 10% OFF no pedido na primeira compra, no site e no app, em todas as formas de pagamento. O mesmo código vale nas compras seguintes, para cliente novo e antigo, e entra na sacola, antes da identificação. O que muda a conta é o frete, que só aparece depois do CEP."
+          "O [cupom Océane](/cupons/oceane) EMCASA dá 10% OFF no pedido na primeira compra, no site e no app, em todas as formas de pagamento. O mesmo código vale nas compras seguintes, para cliente novo e antigo, e entra na sacola, antes da identificação. O que muda a conta é o frete, que só aparece depois do CEP."
         ]
       },
       {
@@ -332846,7 +332843,7 @@ const reviewsChunk2: unknown[] = [
       {
         "heading": "Resposta rápida",
         "paragraphs": [
-          "Sim, pelo que dá para conferir: a Océane é uma marca de beleza de Vila Velha (ES), com CNPJ no rodapé, que vende pelo site, pelo app e em lojas próprias e publica as regras de pagamento e de troca. O ponto de atenção é a troca, que sai em vale-compras: veja abaixo o que a regra não diz."
+          "Sim, pelo que dá para conferir: a Océane é uma marca de beleza de Vila Velha (ES), com CNPJ no rodapé, que vende pelo site, pelo app e em lojas próprias e publica as regras de pagamento e de troca. O ponto de atenção é a troca, que sai em vale-compras: veja abaixo o que a regra não diz. No site e no app da Océane, o cupom EMCASA dá 10% OFF."
         ]
       },
       {
@@ -336459,7 +336456,7 @@ const reviewsChunk2: unknown[] = [
       {
         "heading": "Resposta rápida",
         "paragraphs": [
-          "Pelo que as marcas publicam, o Pink Stick tem FPUVA 70 e FPS 90, e os bastões da Ollie, FPS 95 e FPUVA 40. Com cor, o Pink Stick custa menos por grama, e o código da Pink Cheeks aumenta a diferença. Sem cor, a Ollie Incolor custa menos por grama que o Clear Stick."
+          "Pelo que as marcas publicam, o Pink Stick tem FPUVA 70 e FPS 90, e os bastões da Ollie, FPS 95 e FPUVA 40. Com cor, o Pink Stick custa menos por grama, e o cupom Pink Cheeks PNK-EMCASACOMCECILIA (10% OFF) aumenta a diferença. Sem cor, a Ollie Incolor custa menos por grama que o Clear Stick."
         ]
       },
       {
@@ -336718,7 +336715,7 @@ const reviewsChunk2: unknown[] = [
       {
         "heading": "Resposta rápida",
         "paragraphs": [
-          "O Glow Booster tem a mesma ficha em Pure Gold e Rose Gold, e a Pink Cheeks não diz qual cor serve a qual tom de pele. Os seis filtros solares são químicos, e há perfume na lista. Decida primeiro por filtro e perfume; a cor fica para as fotos, e só o Rose Gold aparece aplicado na pele."
+          "O Glow Booster tem a mesma ficha em Pure Gold e Rose Gold, e a Pink Cheeks não diz qual cor serve a qual tom de pele. Os seis filtros solares são químicos, e há perfume na lista. Decida primeiro por filtro e perfume; a cor fica para as fotos, e só o Rose Gold aparece aplicado na pele. No site da Pink Cheeks, o cupom PNK-EMCASACOMCECILIA dá 10% OFF."
         ]
       },
       {
@@ -336943,7 +336940,7 @@ const reviewsChunk2: unknown[] = [
       {
         "heading": "Resposta rápida",
         "paragraphs": [
-          "Na linha antiatrito da Pink Cheeks, a escolha sai da área do atrito: a loja indica o bastão Redless para o contato da pele com tecidos e acessórios, o spray Redless Coat para pele com pele e o Chamois Cream para a virilha, as coxas e as axilas. Quem evita perfume confere a coluna de perfume da tabela abaixo."
+          "Na linha antiatrito da Pink Cheeks, a escolha sai da área do atrito: a loja indica o bastão Redless para o contato da pele com tecidos e acessórios, o spray Redless Coat para pele com pele e o Chamois Cream para a virilha, as coxas e as axilas. Quem evita perfume confere a coluna de perfume da tabela abaixo. No site oficial, o cupom PNK-EMCASACOMCECILIA dá 10% OFF."
         ]
       },
       {
