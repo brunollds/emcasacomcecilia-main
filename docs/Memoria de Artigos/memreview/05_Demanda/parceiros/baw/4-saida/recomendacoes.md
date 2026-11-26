@@ -92,7 +92,7 @@ O resto não tem prazo. As páginas da BAW têm poucos dias de dado: o export ú
 - **Destino, se aprovada:** Sessão de artigos, com esta ficha como escopo
 - **Revisado por:** sessão de revisão independente, 25/11/2026
 - **Decisão do Bruno:** aprovada no pacote de links e capítulos: "O que aconteceu com a BAW?" e "A BAW faliu?" na BW3 `baw-clothing-e-confiavel`, só com o que as reportagens citadas dizem, em 2026-11-25
-- **Execução:** pendente: enviada à sessão de artigos em 25/11 (GO do Bruno na sessão de coordenação, 25/11 ("Sim, aprovar pacote": 0021, 0022, 0023 e 0006))
+- **Execução:** na main, sem deploy: capítulo "O que aconteceu com a BAW?" e FAQ "A BAW faliu?" na BW3, com "É da Reserva ou da Arezzo?" mantido (op-baw-0005) depois do pedido da coordenação (PR #1482 e correção #1483, 0c97a0e); conferido na main em 25/11 às 21:58 (GO do Bruno na sessão de coordenação, 25/11 ("Sim, aprovar pacote": 0021, 0022, 0023 e 0006); PR #1481, #1482 e #1483)
 
 ### op-baw-0009 · criar-artigo · prioridade media
 
@@ -139,7 +139,7 @@ O resto não tem prazo. As páginas da BAW têm poucos dias de dado: o export ú
 - **Destino, se aprovada:** Sessão de artigos
 - **Revisado por:** sessão de revisão independente, 25/11/2026
 - **Decisão do Bruno:** aprovada no pacote de links e capítulos: link para a BW10 `tabela-medidas-baw` nos capítulos de tamanho da BW1 `cupom-baw-como-usar` e da BW4 `cupom-baw-primeira-compra`, e na BW6 `black-friday-baw`, em 2026-11-25
-- **Execução:** pendente: enviada à sessão de artigos em 25/11 (GO do Bruno na sessão de coordenação, 25/11 ("Sim, aprovar pacote": 0021, 0022, 0023 e 0006))
+- **Execução:** na main, sem deploy: link para a BW10 na BW1, na BW4 e na BW6 (PR #1482, 102bf05; Job 1 no #1481); conferido na main em 25/11 às 21:58 (GO do Bruno na sessão de coordenação, 25/11 ("Sim, aprovar pacote": 0021, 0022, 0023 e 0006); PR #1481, #1482 e #1483)
 
 ### op-baw-0022 · links-internos · prioridade media
 
@@ -155,7 +155,7 @@ O resto não tem prazo. As páginas da BAW têm poucos dias de dado: o export ú
 - **Destino, se aprovada:** Sessão de artigos
 - **Revisado por:** sessão de revisão independente, 25/11/2026
 - **Decisão do Bruno:** aprovada no pacote de links e capítulos: link para a BW7 `tenis-baw-e-bom` no capítulo do tênis da BW5 `baw-clothing-e-boa` e no do Thunder da BW6 `black-friday-baw` (a edição da BW6 de 25/11, #1469, não trouxe o link), em 2026-11-25
-- **Execução:** pendente: enviada à sessão de artigos em 25/11 (GO do Bruno na sessão de coordenação, 25/11 ("Sim, aprovar pacote": 0021, 0022, 0023 e 0006))
+- **Execução:** na main, sem deploy: link para a BW7 no capítulo e no FAQ do tênis da BW5 e no Thunder da BW6 (PR #1482); conferido na main em 25/11 às 21:58 (GO do Bruno na sessão de coordenação, 25/11 ("Sim, aprovar pacote": 0021, 0022, 0023 e 0006); PR #1481, #1482 e #1483)
 
 ### op-baw-0008 · melhorar-capitulo · prioridade baixa
 
@@ -216,7 +216,7 @@ O resto não tem prazo. As páginas da BAW têm poucos dias de dado: o export ú
 - **Destino, se aprovada:** Sessão de artigos
 - **Revisado por:** sessão de revisão independente, 25/11/2026
 - **Decisão do Bruno:** aprovada no pacote de links e capítulos: link para a BW11 `baw-ou-carnan` (e a BW8 `baw-ou-pace`) no capítulo "Para quem a BAW faz sentido" da BW5 e na BW10, em 2026-11-25
-- **Execução:** pendente: enviada à sessão de artigos em 25/11 (GO do Bruno na sessão de coordenação, 25/11 ("Sim, aprovar pacote": 0021, 0022, 0023 e 0006))
+- **Execução:** na main, sem deploy: links para a BW11 e a BW8 no "Para quem" da BW5 e na BW10 (PR #1482); conferido na main em 25/11 às 21:58 (GO do Bruno na sessão de coordenação, 25/11 ("Sim, aprovar pacote": 0021, 0022, 0023 e 0006); PR #1481, #1482 e #1483)
 
 ### op-baw-0025 · criar-artigo · prioridade baixa
 
