@@ -45,3 +45,19 @@ Leituras públicas de 26/11/2026 para os briefings **PN5** (`proton-unlimited-va
   - **Planos Plus avulsos no 1º ano da campanha (BRL):** VPN Plus `R$ 125,88` (renova `R$ 293,88/ano`), Mail Plus `R$ 105,48` (renova `R$ 167,88/ano`), Drive Plus `R$ 105,48` (renova `R$ 167,88/ano`), Pass Plus `R$ 83,88` (renova `R$ 125,88/ano`). Soma dos quatro avulsos no 1º ano: `R$ 420,72` (contra `R$ 273,48` do Unlimited); soma na renovação anual: `R$ 755,52` (contra `R$ 419,88` do Unlimited).
   - **VPN Plus 2 anos pelo link de parceiros:** `R$ 210,96` (`R$ 8,79/mês`, `-75%` sobre o mensal; em USD `US$ 59,76` pelos 24 meses = `US$ 2,49/mês`), renovação anual de `R$ 293,88` (`US$ 83,88`).
 - **Uso próprio autorizado (Bruno, 17/11):** apenas o **Proton Mail no plano gratuito, há quase dez anos**, sem uso pago nem medição própria de velocidade da VPN.
+
+## 5. NordVPN lida pelo Chrome (26/11/2026, depois do 403)
+
+Página `nordvpn.com/pt-br/pricing/`, sem login e sem aceitar os cookies. Substitui o que a seção 3 dava entre parênteses como esperado.
+
+- **Planos:** Básico (só a VPN), Completo e Completo Max. Não há "Standard" nem "Plus" na página pt-br.
+- **2 anos (27 meses, com "3 meses extras"):** Básico R$ 267,30 (R$ 9,90/mês); Completo R$ 348,30 (R$ 12,90/mês); Completo Max R$ 510,30 (R$ 18,90/mês).
+- **1 ano (15 meses):** Básico R$ 238,50; Completo R$ 283,50; Completo Max R$ 388,50.
+- **Renovação:** Básico R$ 382,80/ano; Completo R$ 586,80/ano; Completo Max R$ 934,80/ano. "Pode ser cobrado IVA."
+- **Plano mensal:** o seletor só tem 2 anos e 1 ano.
+- **Lido também:** "até 10 dispositivos", "garantia de reembolso de 30 dias" em todos os planos, "+ de 225 localidades"; bandeiras Mastercard, Visa, Amex e Discover; o título da página cita "cartão, cripto ou PayPal"; a palavra Pix não aparece no HTML.
+- **Segue sem leitura:** `nordvpn.com/pricing/` em dólar, jurisdição, port forwarding, plano ou teste grátis, auditorias e em qual plano entra o bloqueador.
+
+## 6. Conta da renovação: Proton × Mullvad
+
+12 meses de Mullvad: 12 × 5 € = 60 €, ou 12 × US$ 5,49 = US$ 65,88. Renovação anual do Proton VPN Plus: US$ 83,88. Depois do primeiro ciclo, a Mullvad custa menos por ano. O briefing PN7 foi corrigido com essa conta.
