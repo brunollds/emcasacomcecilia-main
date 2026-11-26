@@ -97843,7 +97843,7 @@ const reviewsChunk0: unknown[] = [
     "id": 440,
     "slug": "black-friday-clea-store",
     "title": "Black Friday Cléa Store 2026: T-shirt de brinde, kits de camisetas, bodies e o cupom CSEMCASACOMCECILIA",
-    "seoTitle": "Black Friday Cléa Store 2026: brinde, kits e cupom",
+    "seoTitle": "Black Friday Cléa Store 2026: brinde, kits e 10% OFF",
     "type": "Guia de Black Friday",
     "category": "cupons-como-usar",
     "reviewKind": "guia",
@@ -97882,7 +97882,7 @@ const reviewsChunk0: unknown[] = [
       {
         "heading": "Resposta rápida: Black Friday Cléa Store 2026",
         "paragraphs": [
-          "A Black Friday da Cléa Store está no ar com descontos por peça e uma T-shirt oversized de brinde na compra de qualquer item, sem data de fim publicada. O cupom CSEMCASACOMCECILIA somou 10% OFF sobre os preços da campanha no nosso teste, e o brinde continuou no carrinho. Os kits de camisetas e os bodies concentram as ofertas."
+          "A Black Friday da Cléa Store está no ar com descontos por peça e uma T-shirt oversized de brinde na compra de qualquer item, sem data de fim publicada. O [cupom Cléa Store](/cupons/clea-store) CSEMCASACOMCECILIA somou 10% OFF sobre os preços da campanha no nosso teste, e o brinde continuou no carrinho. Os kits de camisetas e os bodies concentram as ofertas."
         ]
       },
       {
@@ -122085,7 +122085,7 @@ const reviewsChunk0: unknown[] = [
       {
         "heading": "Resposta rápida",
         "paragraphs": [
-          "Na Cléa Store o tamanho se escolhe pela tabela de cada peça, no botão Tabela de Medidas da página do produto, com as medidas do corpo em centímetros. Se as suas medidas caem em dois tamanhos, a tabela não decide sozinha; veja o capítulo Entre dois tamanhos. Se o tamanho não servir, a devolução é grátis em 30 dias."
+          "Na Cléa Store o tamanho se escolhe pela tabela de cada peça, no botão Tabela de Medidas da página do produto, com as medidas do corpo em centímetros. Se as suas medidas caem em dois tamanhos, a tabela não decide sozinha; veja o capítulo Entre dois tamanhos. Se o tamanho não servir, a devolução é grátis em 30 dias. No site oficial, o cupom CSEMCASACOMCECILIA dá 10% OFF."
         ]
       },
       {
@@ -243462,7 +243462,7 @@ const reviewsChunk1: unknown[] = [
     "id": 929,
     "slug": "cupom-clea-store-primeira-compra",
     "title": "Cupom Cléa Store primeira compra: CSEMCASACOMCECILIA dá 10% OFF e vale nas compras seguintes",
-    "seoTitle": "Cléa Store primeira compra: 10% com CSEMCASACOMCECILIA",
+    "seoTitle": "Cupom Cléa Store 1ª compra: 10% com CSEMCASACOMCECILIA",
     "type": "Guia & Cupons",
     "category": "cupons-como-usar",
     "reviewKind": "guia",
@@ -243510,7 +243510,7 @@ const reviewsChunk1: unknown[] = [
       {
         "heading": "Resposta rápida",
         "paragraphs": [
-          "Para a primeira compra na Cléa Store, use CSEMCASACOMCECILIA: 10% OFF no site oficial, também para quem já comprou. No teste, os 10% entraram no kit em campanha. A loja aceita um código por pedido; no resumo, confira o desconto e a indicação de cashback antes de pagar."
+          "Para a primeira compra na Cléa Store, use o [cupom Cléa Store](/cupons/clea-store) CSEMCASACOMCECILIA: 10% OFF no site oficial, também para quem já comprou. No teste, os 10% entraram no kit em campanha. A loja aceita um código por pedido; no resumo, confira o desconto e a indicação de cashback antes de pagar."
         ]
       },
       {
@@ -243518,7 +243518,7 @@ const reviewsChunk1: unknown[] = [
         "paragraphs": [
           "A Cléa Store vende roupas femininas, de camisetas a vestidos e peças de alfaiataria. A loja aceita cartão em até 12x, sendo até 4x sem juros, ou Pix, e a devolução é grátis em até 30 dias corridos após o recebimento.",
           "Use o CSEMCASACOMCECILIA: 10% OFF em todos os produtos do site oficial, com todas as formas de pagamento. Ele vale no primeiro pedido e nos seguintes.",
-          "É o [cupom Cléa Store](/cupons/clea-store) da nossa parceria com a marca, testado no carrinho. Alfaiataria, vestido ou t-shirt: o código é o mesmo."
+          "É o código da nossa parceria com a marca, testado no carrinho. Alfaiataria, vestido ou t-shirt: o código é o mesmo."
         ]
       },
       {
@@ -243837,7 +243837,7 @@ const reviewsChunk1: unknown[] = [
     "slug": "cupom-prohall-como-usar",
     "locale": "pt",
     "title": "Como usar o cupom CECILIAMC na Prohall: até 10% OFF no site e no app",
-    "seoTitle": "Cupom Prohall: como usar o CECILIAMC, até 10% OFF",
+    "seoTitle": "Como usar o cupom CECILIAMC na Prohall: até 10% OFF",
     "type": "Guia & Cupons",
     "category": "cupons-como-usar",
     "reviewKind": "guia",
@@ -243858,8 +243858,8 @@ const reviewsChunk1: unknown[] = [
     "cons": [],
     "coupon": "CECILIAMC",
     "affiliate": "prohall",
-    "description": "O CECILIAMC vale no site e no app da Prohall e deu 7% nos nossos testes. Veja onde digitar, como fica com promoção e frete, e o que conferir se o código não entrar.",
-    "metaDescription": "CECILIAMC dá até 10% OFF na Prohall, no site e no app; nos nossos testes, 7%. Veja onde digitar o código e o que fazer se ele não entrar.",
+    "description": "O CECILIAMC dá até 10% OFF no site e no app da Prohall. Veja onde digitar, como fica com promoção e frete, e o que conferir se o código não entrar.",
+    "metaDescription": "O cupom CECILIAMC dá até 10% OFF na Prohall, no site e no app, e soma com promoções. Veja onde digitar o código e o que conferir no pedido.",
     "image": "/images/reviews/prohall/cupom-prohall-como-usar-capa-v2.webp",
     "imageAlt": "Frascos vermelhos da Máscara em Spray Absolut One da Prohall vistos de perto em diagonal, em foto oficial, com logo da marca, “Cupom Prohall: como usar?” e código CECILIAMC.",
     "cta": {
@@ -243884,7 +243884,7 @@ const reviewsChunk1: unknown[] = [
       {
         "heading": "Resposta rápida",
         "paragraphs": [
-          "O cupom da Prohall é CECILIAMC: até 10% OFF no site oficial e no app, em todas as formas de pagamento. No checkout, digite o código no campo “Código de desconto” e toque em “Aplicar”; o resumo mostra “Desconto no pedido”. Nos nossos testes, o desconto foi de 7%, mesmo em itens em promoção."
+          "O [cupom da Prohall](/cupons/prohall) é CECILIAMC: até 10% OFF no site oficial e no app, em todas as formas de pagamento, somando com produtos em promoção. No checkout, digite o código no campo “Código de desconto” e toque em “Aplicar”; o resumo mostra “Desconto no pedido”."
         ]
       },
       {
@@ -244029,7 +244029,7 @@ const reviewsChunk1: unknown[] = [
     "coupon": "CECILIAMC",
     "affiliate": "prohall",
     "description": "A campanha já está no site da Prohall, sem data de fim publicada. Veja o que está em oferta e como o CECILIAMC entra em cima do preço promocional.",
-    "metaDescription": "CECILIAMC dá até 10% OFF na Prohall e soma com a Black Friday 2026: nos testes, tirou 7% de produtos já em promoção. Veja o que está em oferta.",
+    "metaDescription": "CECILIAMC dá até 10% OFF na Prohall e soma com a Black Friday 2026 sobre itens já em promoção. Veja o que está em oferta e como aplicar.",
     "image": "/images/reviews/prohall/black-friday-prohall-capa-v2.webp",
     "imageAlt": "Frasco Select One da Prohall em cenário oficial com cocos e suportes brancos, com logo da marca, “Black Friday Prohall” e cupom CECILIAMC.",
     "decision": {
@@ -244064,7 +244064,7 @@ const reviewsChunk1: unknown[] = [
       {
         "heading": "Resposta rápida",
         "paragraphs": [
-          "A Black Friday da Prohall já está no site, com ofertas “até 80% OFF” e sem data de fim publicada. O cupom CECILIAMC soma com o preço da campanha: dá até 10% OFF, em todas as formas de pagamento, e, nos nossos testes, tirou 7% de produtos já em promoção."
+          "A Black Friday da Prohall já está no site, com ofertas “até 80% OFF” e sem data de fim publicada. O [cupom Prohall](/cupons/prohall) CECILIAMC dá até 10% OFF em todas as formas de pagamento e soma com o preço da campanha."
         ]
       },
       {
@@ -244078,7 +244078,7 @@ const reviewsChunk1: unknown[] = [
         "heading": "O cupom soma com a Black Friday?",
         "paragraphs": [
           "Soma. O CECILIAMC dá até 10% OFF e entra em cima do preço da campanha. Em 12 de novembro de 2026, abrimos o checkout de seis produtos da coleção com o código, e o desconto foi de 7% em todos.",
-          "No teste da página do [cupom Prohall](/cupons/prohall), feito no mesmo dia, um carrinho de quatro itens com produtos em promoção caiu de R$ 380,70 para R$ 354,06. No reteste mais recente, o kit Force Hair, o Burix One de 300 ml e o Select One de 300 ml foram de R$ 279,70 para R$ 260,13: de novo 7%, sobre preço já promocional. O percentual varia por produto: confira a linha “Desconto no pedido” no resumo do seu pedido."
+          "No teste da página do cupom Prohall, feito no mesmo dia, um carrinho de quatro itens com produtos em promoção caiu de R$ 380,70 para R$ 354,06. No reteste mais recente, o kit Force Hair, o Burix One de 300 ml e o Select One de 300 ml foram de R$ 279,70 para R$ 260,13: de novo 7%, sobre preço já promocional. O percentual varia por produto: confira a linha “Desconto no pedido” no resumo do seu pedido."
         ]
       },
       {
@@ -244243,8 +244243,8 @@ const reviewsChunk1: unknown[] = [
       "initials": "CM",
       "url": "/sobre"
     },
-    "description": "O CECILIAMC dá até 10% na Prohall no primeiro pedido e nos seguintes; nos nossos testes, 7%. Veja o que o pedido exige e como fica o frete da sua região.",
-    "metaDescription": "Para a primeira compra na Prohall, use CECILIAMC: até 10% OFF no site e no app; nos testes, 7%. O mesmo código vale para quem já comprou.",
+    "description": "O CECILIAMC dá até 10% OFF na Prohall no primeiro pedido e nos seguintes. Veja o que o pedido exige e como fica o frete da sua região.",
+    "metaDescription": "Para a primeira compra na Prohall, use CECILIAMC: até 10% OFF no site e no app, somando com promoções. O mesmo código vale para quem já comprou.",
     "publishedAt": "12 de novembro de 2026",
     "publishedAtISO": "2026-11-12",
     "updatedAt": "2026-11-23",
@@ -244280,7 +244280,7 @@ const reviewsChunk1: unknown[] = [
       {
         "heading": "Resposta rápida",
         "paragraphs": [
-          "Para a primeira compra na Prohall, use CECILIAMC: até 10% OFF no site oficial e no app, em todas as formas de pagamento. No checkout, digite o código em “Código de desconto” e toque em “Aplicar”. Nos nossos testes, o desconto foi de 7%, inclusive em produtos já em promoção. O mesmo código vale para quem já comprou."
+          "Para a primeira compra na Prohall, use o [cupom Prohall](/cupons/prohall) CECILIAMC: até 10% OFF no site oficial e no app, em todas as formas de pagamento, inclusive em produtos já em promoção. No checkout, digite o código em “Código de desconto” e toque em “Aplicar”. O mesmo código vale para quem já comprou."
         ]
       },
       {
@@ -244288,7 +244288,7 @@ const reviewsChunk1: unknown[] = [
         "paragraphs": [
           "A Prohall vende cosméticos para cabelos, como shampoos, condicionadores e máscaras. Para o primeiro pedido, entre direto em [lojaprohall.com.br](https://lojaprohall.com.br/), o site oficial, que mostra o CNPJ da empresa no rodapé.",
           "Use o CECILIAMC, o código da Cecília. Ele dá até 10% OFF no primeiro pedido, e o percentual varia por produto: nos carrinhos que testamos, foi de 7%.",
-          "Código achado em site de cupom pode não funcionar. O CECILIAMC foi testado por nós no checkout, e as condições dele ficam na página do [cupom Prohall](/cupons/prohall)."
+          "Código achado em site de cupom pode não funcionar. O CECILIAMC foi testado por nós no checkout, e as condições dele ficam na página do cupom Prohall."
         ],
         "images": [
           {
@@ -244772,7 +244772,7 @@ const reviewsChunk1: unknown[] = [
       "url": "/sobre"
     },
     "description": "Saiba para quem a Prohall vale a pena, conheça as linhas de tratamento e os antifrizz térmicos, confira a regra de troca e veja quanto custa com o cupom CECILIAMC.",
-    "metaDescription": "Com CECILIAMC você ganha até 10% OFF na Prohall; nos testes, deu 7%. Veja se a marca é boa, as linhas capilares, cuidados e para quem vale.",
+    "metaDescription": "Com CECILIAMC você ganha até 10% OFF na Prohall, no site e no app. Veja se a marca é boa, as linhas capilares, cuidados e para quem vale.",
     "publishedAt": "12 de novembro de 2026",
     "publishedAtISO": "2026-11-12",
     "draft": false,
@@ -255689,7 +255689,7 @@ const reviewsChunk1: unknown[] = [
     "coupon": "BAWEMCASACOMCECILIA",
     "affiliate": "baw",
     "title": "Como usar o cupom BAWEMCASACOMCECILIA na BAW: 10% OFF no site e no app",
-    "seoTitle": "Cupom BAW: como usar o BAWEMCASACOMCECILIA, 10% OFF",
+    "seoTitle": "Como usar o cupom BAWEMCASACOMCECILIA na BAW: 10% OFF",
     "type": "Guia & Cupons",
     "description": "Onde digitar o código no carrinho da BAW Clothing, quanto ele tirou no nosso teste e como fica com promoção, Pix e frete.",
     "metaDescription": "BAWEMCASACOMCECILIA dá 10% OFF na BAW Clothing, no site e no app. Veja onde digitar o código, a conta do nosso teste e o que conferir se ele não entrar.",
@@ -255717,7 +255717,7 @@ const reviewsChunk1: unknown[] = [
       {
         "heading": "Resposta rápida",
         "paragraphs": [
-          "O cupom BAWEMCASACOMCECILIA dá 10% OFF em todo o site e no aplicativo da BAW Clothing, para quem compra pela primeira vez e para quem já é cliente. Digite o código no campo “Cupom de desconto”, no carrinho, e confirme pela seta. Ele soma com as promoções e com o desconto do Pix."
+          "O [cupom BAW](/cupons/baw) BAWEMCASACOMCECILIA dá 10% OFF em todo o site e no aplicativo da BAW Clothing, para quem compra pela primeira vez e para quem já é cliente. Digite o código no campo “Cupom de desconto”, no carrinho, e confirme pela seta. Ele soma com as promoções e com o desconto do Pix."
         ]
       },
       {
@@ -255904,7 +255904,7 @@ const reviewsChunk1: unknown[] = [
       {
         "heading": "Resposta rápida",
         "paragraphs": [
-          "Vale, sim: a Black Friday da BAW Clothing compensa quando a peça traz medidas na descrição e está no seu tamanho, com vitrine até 80% OFF e “pague 3, leve 4” no site todo, sem data de fim. O cupom BAWEMCASACOMCECILIA dá 10% OFF em cima das promoções, entra junto com o leve 4 e soma com os 5% do Pix; veja sete peças abaixo."
+          "Vale, sim: a Black Friday da BAW Clothing compensa quando a peça traz medidas na descrição e está no seu tamanho, com vitrine até 80% OFF e “pague 3, leve 4” no site todo, sem data de fim. O [cupom BAW](/cupons/baw) BAWEMCASACOMCECILIA dá 10% OFF em cima das promoções, entra junto com o leve 4 e soma com os 5% do Pix; veja sete peças abaixo."
         ]
       },
       {
@@ -255920,7 +255920,7 @@ const reviewsChunk1: unknown[] = [
         "paragraphs": [
           "Soma. Em 16 de novembro de 2026, montamos um carrinho com a [Camiseta Regular Goth 3.0](https://www.bawclothing.com.br/produto/camiseta-regular-goth-3-0-151220), que estava na campanha de R$ 89,00 por R$ 59,00, e a [Camiseta BR Regular Locally Grown](https://www.bawclothing.com.br/produto/camiseta-br-regular-locally-grown-154255), a R$ 89,00. O BAWEMCASACOMCECILIA tirou R$ 14,80 dos R$ 148,00 em produtos, deixando R$ 133,20 antes do frete: os 10% entraram também sobre a peça em promoção.",
           "Com o “pague 3, leve 4” no ar, repetimos o teste com quatro camisetas BR Regular, uma de R$ 69,00 e três de R$ 79,00: R$ 306,00 na vitrine. O total ficou em R$ 213,30 antes do frete: a de R$ 69,00 saiu de graça e o código tirou 10% das outras três, R$ 23,70 sobre R$ 237,00. Na tela, a peça grátis aparece a R$ 6,90 e a linha do cupom mostra R$ 30,60; o total é o mesmo. Com três camisetas, sem peça grátis, o código tirou os 10% exatos: R$ 22,70 sobre R$ 227,00.",
-          "No Pix, a BAW dá 5% de desconto, que soma com o código. São dois descontos separados. O passo a passo do campo está em [como usar o cupom BAW](/reviews/cupom-baw-como-usar), e as condições do código, na página do [cupom BAW Clothing](/cupons/baw)."
+          "No Pix, a BAW dá 5% de desconto, que soma com o código. São dois descontos separados. O passo a passo do campo está em [como usar o cupom BAW](/reviews/cupom-baw-como-usar), e as condições do código, na página do cupom BAW Clothing."
         ]
       },
       {
@@ -256423,7 +256423,7 @@ const reviewsChunk1: unknown[] = [
       {
         "heading": "Resposta rápida",
         "paragraphs": [
-          "A BAW Clothing é uma marca brasileira de streetwear, fundada em 2014. Tem reputação Boa no Reclame Aqui, mas produto não recebido lidera as queixas no histórico geral do perfil. Antes de comprar, confira o prazo para o seu CEP e a política de trocas. A troca gera crédito, e quem prefere o dinheiro de volta pede a devolução."
+          "A BAW Clothing é uma marca brasileira de streetwear, fundada em 2014. Tem reputação Boa no Reclame Aqui, mas produto não recebido lidera as queixas no histórico geral do perfil. Antes de comprar, confira o prazo para o seu CEP e a política de trocas. A troca gera crédito, e quem prefere o dinheiro de volta pede a devolução. Se decidir comprar no site ou no app, o [cupom BAW](/cupons/baw) BAWEMCASACOMCECILIA dá 10% OFF."
         ]
       },
       {
@@ -256551,7 +256551,7 @@ const reviewsChunk1: unknown[] = [
         "heading": "Vale comprar na BAW Clothing?",
         "paragraphs": [
           "A BAW tem uma trajetória documentada e reputação Boa no Reclame Aqui. Todas as reclamações dos recortes analisados receberam resposta, mas isso não garante uma compra sem problemas: produto não recebido lidera as queixas no histórico geral, e pouco mais da metade de quem avaliou em seis meses voltaria a comprar. Se decidir fazer o pedido, confira o prazo para seu CEP e as medidas da peça; se precisar devolver, escolha entre crédito e reembolso conforme a política.",
-          "Se decidir comprar, o código BAWEMCASACOMCECILIA dá 10% OFF no site oficial e no aplicativo. As condições estão na [página do código da BAW](/cupons/baw), e o passo a passo, em [como usar o cupom da BAW](/reviews/cupom-baw-como-usar)."
+          "Se decidir comprar, o código BAWEMCASACOMCECILIA dá 10% OFF no site oficial e no aplicativo. As condições estão na página do código da BAW, e o passo a passo, em [como usar o cupom da BAW](/reviews/cupom-baw-como-usar)."
         ]
       },
       {
@@ -256619,14 +256619,14 @@ const reviewsChunk1: unknown[] = [
       {
         "heading": "Resposta rápida",
         "paragraphs": [
-          "Para a primeira compra na BAW Clothing, use o cupom BAWEMCASACOMCECILIA, que dá 10% OFF em todo o site e no aplicativo. No nosso teste, o desconto foi o mesmo do FIRSTBAW, o cupom de primeira compra da loja, e o nosso código vale também nos pedidos seguintes. Soma com as promoções e com o Pix."
+          "Para a primeira compra na BAW Clothing, use o [cupom BAW](/cupons/baw) BAWEMCASACOMCECILIA, que dá 10% OFF em todo o site e no aplicativo. No nosso teste, o desconto foi o mesmo do FIRSTBAW, o cupom de primeira compra da loja, e o nosso código vale também nos pedidos seguintes. Soma com as promoções e com o Pix."
         ]
       },
       {
         "heading": "Cupom BAW primeira compra: qual usar",
         "paragraphs": [
           "A BAW Clothing é uma marca brasileira de streetwear, com camisetas, moletons, calças e acessórios, vendidos no site oficial e no aplicativo.",
-          "Para o desconto, use BAWEMCASACOMCECILIA: 10% OFF em todo o site oficial e no aplicativo. Vale para quem nunca comprou e para quem já é cliente. As condições atuais ficam na [página do código da BAW](/cupons/baw)."
+          "Para o desconto, use BAWEMCASACOMCECILIA: 10% OFF em todo o site oficial e no aplicativo. Vale para quem nunca comprou e para quem já é cliente. As condições atuais ficam na página do código da BAW."
         ]
       },
       {
@@ -275442,7 +275442,7 @@ const reviewsChunk2: unknown[] = [
       {
         "heading": "Resposta rápida",
         "paragraphs": [
-          "Na Pré-Black da BOLD Snacks, o cupom BOLD CECILIA15 deu 20% OFF no nosso teste, com um código por pedido. Pelo regulamento, os brindes dependem do valor dos produtos após os descontos, sem frete. O print do teste mostrou um brinde além da faixa publicada; abaixo estão a regra e o que conferir no pedido."
+          "Na Pré-Black da BOLD Snacks, o [cupom BOLD](/cupons/bold) CECILIA15 deu 20% OFF no nosso teste, com um código por pedido. Pelo regulamento, os brindes dependem do valor dos produtos após os descontos, sem frete. O print do teste mostrou um brinde além da faixa publicada; abaixo estão a regra e o que conferir no pedido."
         ]
       },
       {
@@ -275456,7 +275456,7 @@ const reviewsChunk2: unknown[] = [
         "heading": "Como o cupom CECILIA15 entra",
         "paragraphs": [
           "O CECILIA15 é o cupom da parceria do Em Casa com Cecília na BOLD Snacks, para cliente novo e antigo. O nome tem 15, mas no nosso teste, nesta fase da campanha, o desconto foi de 20%. Depois dela o percentual pode mudar, e vale o que o resumo do checkout mostrar no dia da compra.",
-          "O código vai no campo “Código de desconto ou cartão-presente” do checkout. O caminho completo está em [como usar o cupom CECILIA15 na BOLD Snacks](/reviews/cupom-bold-snacks-como-usar), e as condições do código estão na página do [cupom BOLD](/cupons/bold). O regulamento da fase diz o seguinte."
+          "O código vai no campo “Código de desconto ou cartão-presente” do checkout. O caminho completo está em [como usar o cupom CECILIA15 na BOLD Snacks](/reviews/cupom-bold-snacks-como-usar), e as condições do código estão na página do cupom BOLD. O regulamento da fase diz o seguinte."
         ],
         "bullets": [
           "O cupom vale sobre o preço de venda informado, também nos itens com preço promocional, e os descontos entram um depois do outro.",
@@ -275662,7 +275662,7 @@ const reviewsChunk2: unknown[] = [
       {
         "heading": "Resposta rápida",
         "paragraphs": [
-          "O cupom BOLD CECILIA15 deu 20% OFF no teste da Pré-Black, para cliente novo e antigo, embora o nome tenha 15. No checkout, confira se o código já aparece aplicado; se precisar, digite-o em Código de desconto ou cartão-presente e clique em Aplicar. Abaixo estão a compra única e o resultado observado na adesão à assinatura."
+          "O [cupom BOLD](/cupons/bold) CECILIA15 deu 20% OFF no teste da Pré-Black, para cliente novo e antigo, embora o nome tenha 15. No checkout, confira se o código já aparece aplicado; se precisar, digite-o em Código de desconto ou cartão-presente e clique em Aplicar. Abaixo estão a compra única e o resultado observado na adesão à assinatura."
         ]
       },
       {
@@ -276458,7 +276458,7 @@ const reviewsChunk2: unknown[] = [
       {
         "heading": "Resposta rápida",
         "paragraphs": [
-          "Na primeira compra da BOLD Snacks, o cupom BOLD CECILIA15 deu 20% OFF no teste da Pré-Black, embora o nome tenha 15. Ele também vale para quem já comprou, com um cupom por pedido. Confira o código no resumo do checkout; abaixo estão o teste com compra única e os cuidados antes de aderir à assinatura."
+          "Na primeira compra da BOLD Snacks, o [cupom BOLD](/cupons/bold) CECILIA15 deu 20% OFF no teste da Pré-Black, embora o nome tenha 15. Ele também vale para quem já comprou, com um cupom por pedido. Confira o código no resumo do checkout; abaixo estão o teste com compra única e os cuidados antes de aderir à assinatura."
         ]
       },
       {
@@ -276466,7 +276466,7 @@ const reviewsChunk2: unknown[] = [
         "paragraphs": [
           "A BOLD Snacks vende barras de proteína, whey e creatina. Se ainda está conhecendo a loja, confira os dados da empresa e do atendimento em [BOLD Snacks é confiável?](/reviews/bold-snacks-e-confiavel). No primeiro pedido e nos seguintes, use CECILIA15 no site oficial e confira o percentual aplicado no resumo.",
           "Os 20% do nosso teste saíram durante a campanha da loja. Como o percentual pode mudar depois dela, o número certo é o que aparece no resumo do checkout.",
-          "As condições em vigor ficam na página do [cupom BOLD](/cupons/bold). No checkout, confira se CECILIA15 aparece aplicado e quanto saiu do pedido."
+          "As condições em vigor ficam na página do cupom BOLD. No checkout, confira se CECILIA15 aparece aplicado e quanto saiu do pedido."
         ]
       },
       {
@@ -306596,7 +306596,7 @@ const reviewsChunk2: unknown[] = [
       {
         "heading": "Resposta rápida",
         "paragraphs": [
-          "A BOLD 21 g é a barra de 60 g, com 21 g de proteína; a 14 g é a de 40 g, com menos calorias por unidade. O Crunch traz 18 g, e o Wafer e o Tube, 10 g. Todas contêm glúten e lactose, e o preço por grama de proteína muda conforme o sabor."
+          "A BOLD 21 g é a barra de 60 g, com 21 g de proteína; a 14 g é a de 40 g, com menos calorias por unidade. O Crunch traz 18 g, e o Wafer e o Tube, 10 g. Todas contêm glúten e lactose, e o preço por grama de proteína muda conforme o sabor. No site oficial, o cupom CECILIA15 deu 20% OFF no nosso teste."
         ]
       },
       {
@@ -310327,7 +310327,7 @@ const reviewsChunk2: unknown[] = [
       "url": "/sobre"
     },
     "description": "Select One e Burix One lado a lado, pelo que a Prohall publica: o que cada página declara, tamanhos, preço do dia e preço por ml, sem veredito de resultado.",
-    "metaDescription": "O CECILIAMC dá até 10% OFF na Prohall; nos testes, 7%. Select One ou Burix One: o que cada página declara e quanto sai o ml.",
+    "metaDescription": "O CECILIAMC dá até 10% OFF na Prohall. Select One ou Burix One: o que cada página declara, os tamanhos e quanto sai o ml.",
     "publishedAt": "20 de novembro de 2026",
     "publishedAtISO": "2026-11-20",
     "draft": false,
@@ -310375,7 +310375,7 @@ const reviewsChunk2: unknown[] = [
       {
         "heading": "Resposta rápida",
         "paragraphs": [
-          "A Select One e a Burix One são de uso profissional. O preço empata no frasco de 120 ml. No de 300 ml, a Select One sai mais barata. No de 1 L, a diferença é menor. As fichas da Prohall descrevem o uso de cada produto e deixam o resultado da comparação em aberto."
+          "A Select One e a Burix One são de uso profissional. O preço empata no frasco de 120 ml. No de 300 ml, a Select One sai mais barata. No de 1 L, a diferença é menor. As fichas da Prohall descrevem o uso de cada produto e deixam o resultado da comparação em aberto. No site da Prohall, o cupom CECILIAMC dá até 10% OFF."
         ]
       },
       {
@@ -310594,7 +310594,7 @@ const reviewsChunk2: unknown[] = [
       {
         "heading": "Resposta rápida",
         "paragraphs": [
-          "A Select One é de uso profissional, segundo a Prohall. Na sessão, o cabeleireiro avalia o fio e faz os testes antes de aplicar o produto. Conte se você descoloriu, fez outra química ou quer preservar os cachos. Isso ajuda o profissional a decidir se o procedimento faz sentido para você."
+          "A Select One é de uso profissional, segundo a Prohall. Na sessão, o cabeleireiro avalia o fio e faz os testes antes de aplicar o produto. Conte se você descoloriu, fez outra química ou quer preservar os cachos. Isso ajuda o profissional a decidir se o procedimento faz sentido para você. Na loja oficial da Prohall, o cupom CECILIAMC dá até 10% OFF."
         ]
       },
       {
@@ -310761,7 +310761,7 @@ const reviewsChunk2: unknown[] = [
       {
         "heading": "Resposta rápida",
         "paragraphs": [
-          "A Prohall indica a máscara Biomask para cabelo seco e danificado. A indicação dos potes é deixar agir por cinco minutos. O sachê tem outra orientação de tempo, e a ampola precisa ser diluída. Se você já usa a máscara com frequência, o pote de 500 g tem o menor preço por grama."
+          "A Prohall indica a máscara Biomask para cabelo seco e danificado. A indicação dos potes é deixar agir por cinco minutos. O sachê tem outra orientação de tempo, e a ampola precisa ser diluída. Se você já usa a máscara com frequência, o pote de 500 g tem o menor preço por grama. No site oficial, o cupom CECILIAMC dá até 10% OFF."
         ]
       },
       {
@@ -310935,7 +310935,7 @@ const reviewsChunk2: unknown[] = [
       "url": "/sobre"
     },
     "description": "O que vem na linha Force Hair da Prohall, como a página manda usar o tônico, o shampoo e a máscara e o preço de cada item no site, sem promessa de resultado.",
-    "metaDescription": "CECILIAMC dá até 10% na Prohall; nos testes, 7%. Force Hair: o que vem na linha, como usar o tônico, o shampoo e a máscara e o preço de cada um.",
+    "metaDescription": "CECILIAMC dá até 10% OFF na Prohall. Force Hair: o que vem na linha, como usar o tônico, o shampoo e a máscara e o preço de cada um.",
     "publishedAt": "20 de novembro de 2026",
     "publishedAtISO": "2026-11-20",
     "draft": false,
@@ -310983,7 +310983,7 @@ const reviewsChunk2: unknown[] = [
       {
         "heading": "Resposta rápida",
         "paragraphs": [
-          "A Force Hair reúne tônico de uso diário para o couro cabeludo, shampoo e máscara. A Prohall orienta enxaguar o shampoo e a máscara e deixar o tônico no couro cabeludo. Você pode comprar os três avulsos ou em kit. Confira o tamanho do tônico na lista de itens do kit."
+          "A Force Hair reúne tônico de uso diário para o couro cabeludo, shampoo e máscara. A Prohall orienta enxaguar o shampoo e a máscara e deixar o tônico no couro cabeludo. Você pode comprar os três avulsos ou em kit. Confira o tamanho do tônico na lista de itens do kit. No site oficial e no app, o cupom CECILIAMC dá até 10% OFF."
         ]
       },
       {
@@ -333822,7 +333822,7 @@ const reviewsChunk2: unknown[] = [
       {
         "heading": "Resposta rápida",
         "paragraphs": [
-          "Pelo rótulo, a pergunta útil não é se a barra BOLD é saudável, e sim o que cada linha declara: açúcares totais, calorias, glúten, lactose, leite e soja. Todas as linhas lidas declaram glúten e lactose, nenhuma se diz vegana, e a tabela de cada sabor está no guia da barra BOLD 21 g ou 14 g."
+          "Pelo rótulo, a pergunta útil não é se a barra BOLD é saudável, e sim o que cada linha declara: açúcares totais, calorias, glúten, lactose, leite e soja. Todas as linhas lidas declaram glúten e lactose, nenhuma se diz vegana, e a tabela de cada sabor está no guia da barra BOLD 21 g ou 14 g. No site oficial, o cupom CECILIA15 deu 20% OFF no nosso teste."
         ]
       },
       {
@@ -337365,7 +337365,7 @@ const reviewsChunk2: unknown[] = [
       {
         "heading": "Resposta rápida",
         "paragraphs": [
-          "Pelas próprias páginas, são etapas diferentes: a Cadiveu apresenta a Bye Bye Frizz como produto da etapa de finalização, aplicado no cabelo úmido, sem enxágue, com o calor para potencializar; o BTX da Prohall tem pausa de 40 a 60 minutos, enxágue e escova. A página do BTX ainda se contradiz sobre casa ou salão."
+          "Pelas próprias páginas, são etapas diferentes: a Cadiveu apresenta a Bye Bye Frizz como produto da etapa de finalização, aplicado no cabelo úmido, sem enxágue, com o calor para potencializar; o BTX da Prohall tem pausa de 40 a 60 minutos, enxágue e escova. A página do BTX ainda se contradiz sobre casa ou salão. Na loja oficial da Prohall, o cupom CECILIAMC dá até 10% OFF."
         ]
       },
       {
@@ -337627,7 +337627,7 @@ const reviewsChunk2: unknown[] = [
       {
         "heading": "Resposta rápida",
         "paragraphs": [
-          "Não são o mesmo tipo de produto pelo que cada loja declara: a Prohall vende um BTX de selagem, e a máscara da Forever Liss traz nas precauções que alisa e tinge. A ordem do preço por grama muda entre o pote pequeno e o grande. Antes do preço, veja quem vai aplicar: as duas lojas indicam uso profissional."
+          "Não são o mesmo tipo de produto pelo que cada loja declara: a Prohall vende um BTX de selagem, e a máscara da Forever Liss traz nas precauções que alisa e tinge. A ordem do preço por grama muda entre o pote pequeno e o grande. Antes do preço, veja quem vai aplicar: as duas lojas indicam uso profissional. No site da Prohall, o cupom CECILIAMC dá até 10% OFF."
         ]
       },
       {
@@ -337908,7 +337908,7 @@ const reviewsChunk2: unknown[] = [
       {
         "heading": "Resposta rápida",
         "paragraphs": [
-          "A Secar sem Frizz é a linha da Prohall para quem deixa o cabelo secar sem secador e quer menos frizz: seis itens, do pré-shampoo ao óleo. O Kit Completo leva cinco deles, sem o leave-in. Nos preços desta semana, montar os cinco avulsos sai mais em conta que o kit; a conta está abaixo."
+          "A Secar sem Frizz é a linha da Prohall para quem deixa o cabelo secar sem secador e quer menos frizz: seis itens, do pré-shampoo ao óleo. O Kit Completo leva cinco deles, sem o leave-in. Nos preços desta semana, montar os cinco avulsos sai mais em conta que o kit; a conta está abaixo, e o cupom CECILIAMC dá até 10% OFF no site."
         ]
       },
       {
