@@ -1723,9 +1723,9 @@ const STORE_COUPONS: Coupon[] = [
     shortDescription: 'link principal, código de indicação e campanhas vigentes',
     longDescription:
       'O 4CW5Y é o código de indicação da Cecília: abre uma seleção da SHEIN com promoções e descontos. O botão abaixo já leva até ela; se preferir, copie o código e pesquise no app ou no site. Outras campanhas estão disponíveis abaixo.',
-    metaTitle: 'Cupom SHEIN e código 4CW5Y (indicação): ofertas e 50% novos',
+    metaTitle: 'SHEIN: 4CW5Y na busca (ofertas) e K49L457 (50% para novos)',
     metaDescription:
-      'Cupom SHEIN e indicação 4CW5Y: o link da Cecília abre promoções e descontos, ou pesquise 4CW5Y no app ou site. K49L457: 50% para novos usuários.',
+      'Indicação SHEIN 4CW5Y: use o link da Cecília ou pesquise 4CW5Y na busca para ver a seleção de ofertas. Campanha K49L457: cupom de 50% para novos.',
     eligibleCategories:
       'Moda, acessórios, beleza, casa e demais categorias elegíveis em cada campanha',
     validity: 'Links e campanhas sujeitos a alteração; confira as condições exibidas pela SHEIN',
@@ -6568,9 +6568,9 @@ const STORE_COUPONS: Coupon[] = [
     shortDescription: 'cliente novo: receba R$ 200 do programa oficial de indicação da Starlink pelo link da Cecília',
     longDescription:
       'Cliente novo: receba R$ 200 do programa oficial de indicação da Starlink assinando pelo link da Cecília. A indicação só conta no pedido feito pelo link, em starlink.com, nos planos Residencial e Viagem, e o valor entra depois de dois meses de assinatura, por padrão como crédito na fatura. A Starlink dá 30 dias de teste com reembolso integral.',
-    metaTitle: 'Cupom Starlink? Indicação de R$ 200 pelo link da Cecília',
+    metaTitle: 'Starlink: bônus de R$ 200 por indicação após dois meses',
     metaDescription:
-      'Indicação Starlink: R$ 200 para quem assina pela primeira vez pelo link da Cecília, em crédito na fatura depois de dois meses. Residencial e Viagem.',
+      'Bônus por indicação Starlink: R$ 200 após dois meses de assinatura para novos clientes pelo link da Cecília, em crédito na fatura. Residencial e Viagem.',
     eligibleCategories:
       'Primeira assinatura de um plano Residencial (Lite, 100 Mbps, 200 Mbps, Residencial e Máx) ou Viagem (100 GB, 300 GB e Ilimitado), pedida em starlink.com pelo link',
     validity: 'Indicação ativa enquanto o programa de indicação da Starlink estiver valendo; o valor é o que a Starlink paga no Brasil',

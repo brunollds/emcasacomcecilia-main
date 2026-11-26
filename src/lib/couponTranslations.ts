@@ -100,7 +100,7 @@ const SHEIN_TRANSLATIONS: Record<TranslatedLocale, AffiliateOfferTranslation> = 
     shortDescription: 'main link, referral code and current campaigns',
     longDescription:
       "4CW5Y is Cecília's referral code: it opens a SHEIN selection with promotions and discounts. Open SHEIN through the link below, or copy the code and search for it in the app or website. Other campaigns are available below.",
-    metaTitle: 'SHEIN Coupon & Referral Code 4CW5Y: Promos and Campaigns',
+    metaTitle: 'SHEIN: 4CW5Y in Search (Offers) & Current Coupon Campaigns',
     metaDescription:
       "Cecília's SHEIN referral code 4CW5Y opens a page of promotions and discounts: use the link or search 4CW5Y in the SHEIN app or website.",
     eligibleCategories: 'Fashion, accessories, beauty, home and other categories eligible in each campaign',
@@ -172,7 +172,7 @@ const SHEIN_TRANSLATIONS: Record<TranslatedLocale, AffiliateOfferTranslation> = 
     shortDescription: 'enlace principal, código de referido y campañas vigentes',
     longDescription:
       'El 4CW5Y es el código de referido de Cecília: abre una selección de SHEIN con promociones y descuentos. Entra con el enlace de abajo, o copia el código y búscalo en la app o en la web. Más abajo hay otras campañas.',
-    metaTitle: 'Cupón SHEIN y código de referido 4CW5Y: ofertas vigentes',
+    metaTitle: 'SHEIN: 4CW5Y en el buscador (ofertas) y campañas de cupones',
     metaDescription:
       'El código de referido 4CW5Y de Cecília abre una página de promociones y descuentos de SHEIN: usa el enlace o busca 4CW5Y en la app o en la web.',
     eligibleCategories: 'Moda, accesorios, belleza, hogar y otras categorías válidas en cada campaña',
@@ -244,7 +244,7 @@ const SHEIN_TRANSLATIONS: Record<TranslatedLocale, AffiliateOfferTranslation> = 
     shortDescription: 'lien principal, code de parrainage et campagnes en cours',
     longDescription:
       `4CW5Y est le code de parrainage de Cecília${NBSP}: il ouvre une sélection SHEIN avec des promotions et des réductions. Passez par le lien ci-dessous, ou copiez le code et recherchez-le dans l'appli ou sur le site. D'autres campagnes sont disponibles plus bas.`,
-    metaTitle: `Code promo SHEIN et parrainage 4CW5Y${NBSP}: offres en cours`,
+    metaTitle: `SHEIN${NBSP}: 4CW5Y dans la recherche (offres) et codes promo`,
     metaDescription:
       `Le code de parrainage 4CW5Y de Cecília ouvre une page de promotions et de réductions SHEIN${NBSP}: utilisez le lien ou recherchez 4CW5Y dans l'appli ou sur le site.`,
     eligibleCategories: 'Mode, accessoires, beauté, maison et autres catégories éligibles selon la campagne',
@@ -313,7 +313,7 @@ const SHEIN_TRANSLATIONS: Record<TranslatedLocale, AffiliateOfferTranslation> = 
     shortDescription: 'Hauptlink, Empfehlungscode und aktuelle Aktionen',
     longDescription:
       '4CW5Y ist Cecílias Empfehlungscode: Er öffnet eine SHEIN-Auswahl mit Aktionen und Rabatten. Nutzen Sie den Link unten, oder kopieren Sie den Code und suchen Sie in der App oder auf der Website danach. Weitere Aktionen finden Sie weiter unten.',
-    metaTitle: 'SHEIN Gutschein & Empfehlungscode 4CW5Y: aktuelle Aktionen',
+    metaTitle: 'SHEIN: 4CW5Y in der Suche (Angebote) & Gutschein-Aktionen',
     metaDescription:
       'Cecílias Empfehlungscode 4CW5Y öffnet eine SHEIN-Seite mit Aktionen und Rabatten: Nutzen Sie den Link oder suchen Sie 4CW5Y in der App oder auf der Website.',
     eligibleCategories: 'Mode, Accessoires, Beauty, Wohnen und weitere Kategorien, die in der jeweiligen Aktion gelten',
@@ -385,7 +385,7 @@ const SHEIN_TRANSLATIONS: Record<TranslatedLocale, AffiliateOfferTranslation> = 
     shortDescription: 'link principale, codice invito e campagne in corso',
     longDescription:
       "4CW5Y è il codice invito di Cecília: apre una selezione SHEIN con promozioni e sconti. Usa il link qui sotto, oppure copia il codice e cercalo nell'app o sul sito. Altre campagne sono disponibili più in basso.",
-    metaTitle: 'Coupon SHEIN e codice invito 4CW5Y: offerte e campagne',
+    metaTitle: 'SHEIN: 4CW5Y nella ricerca (offerte) e campagne coupon',
     metaDescription:
       "Il codice invito 4CW5Y di Cecília apre una pagina SHEIN di promozioni e sconti: usa il link o cerca 4CW5Y nell'app o sul sito.",
     eligibleCategories: 'Moda, accessori, bellezza, casa e altre categorie valide in ogni campagna',
@@ -457,7 +457,7 @@ const SHEIN_TRANSLATIONS: Record<TranslatedLocale, AffiliateOfferTranslation> = 
     shortDescription: '메인 링크, 추천 코드, 진행 중인 캠페인',
     longDescription:
       '4CW5Y는 Cecília의 추천 코드로, 프로모션과 할인이 있는 SHEIN 상품 모음이 열립니다. 아래 링크를 이용하거나, 코드를 복사해 앱이나 웹사이트에서 검색하세요. 다른 캠페인은 아래에서 확인할 수 있습니다.',
-    metaTitle: 'SHEIN 쿠폰 및 추천 코드 4CW5Y: 프로모션과 진행 중인 캠페인',
+    metaTitle: 'SHEIN: 검색창 추천 코드 4CW5Y(할인 모음) 및 쿠폰 캠페인',
     metaDescription:
       'Cecília의 추천 코드 4CW5Y로 SHEIN 프로모션·할인 페이지가 열립니다. 링크를 이용하거나 앱 또는 웹사이트에서 4CW5Y를 검색하세요.',
     eligibleCategories: '패션, 액세서리, 뷰티, 홈 및 캠페인별 대상 카테고리',
@@ -528,7 +528,7 @@ const SHEIN_TRANSLATIONS: Record<TranslatedLocale, AffiliateOfferTranslation> = 
     shortDescription: 'メインリンク、紹介コード、開催中のキャンペーン',
     longDescription:
       '4CW5Y は Cecília の紹介コードで、プロモーションと割引のある SHEIN のセレクションが開きます。下のリンクを使うか、コードをコピーしてアプリまたはサイトで検索してください。ほかのキャンペーンは下にあります。',
-    metaTitle: 'SHEIN クーポン・紹介コード 4CW5Y と開催中のキャンペーン',
+    metaTitle: 'SHEIN：検索で使う紹介コード 4CW5Y（セール特集）とクーポン企画',
     metaDescription:
       'Cecília の紹介コード 4CW5Y で、SHEIN のプロモーション・割引ページが開きます。リンクを使うか、アプリまたはサイトで 4CW5Y を検索してください。',
     eligibleCategories: 'ファッション、アクセサリー、コスメ、インテリアほか、キャンペーンごとの対象カテゴリー',
@@ -599,7 +599,7 @@ const SHEIN_TRANSLATIONS: Record<TranslatedLocale, AffiliateOfferTranslation> = 
     shortDescription: '主要連結、推薦碼及進行中的活動',
     longDescription:
       '4CW5Y 是 Cecília 的推薦碼，會開啟有促銷和折扣的 SHEIN 精選。你可以使用下方連結，或複製代碼到 App 或網站搜尋。其他活動請見下方。',
-    metaTitle: 'SHEIN 優惠碼與推薦碼 4CW5Y：進行中的促銷活動',
+    metaTitle: 'SHEIN：搜尋欄推薦碼 4CW5Y（優惠精選）與優惠碼活動',
     metaDescription: 'Cecília 的推薦碼 4CW5Y 會開啟 SHEIN 的促銷與折扣頁面：使用連結，或在 App 或網站搜尋 4CW5Y。',
     eligibleCategories: '時裝、配飾、美妝、家居及各活動適用的其他類別',
     validity: '連結及活動可能更改，請以 SHEIN 顯示的條件為準',
@@ -667,7 +667,7 @@ const SHEIN_TRANSLATIONS: Record<TranslatedLocale, AffiliateOfferTranslation> = 
     shortDescription: '主链接、推荐码和进行中的活动',
     longDescription:
       '4CW5Y 是 Cecília 的推荐码，会打开有促销和折扣的 SHEIN 精选。你可以使用下方链接，或复制代码到 App 或网站搜索。其他活动请见下方。',
-    metaTitle: 'SHEIN 优惠码与推荐码 4CW5Y：进行中的促销活动',
+    metaTitle: 'SHEIN：搜索栏推荐码 4CW5Y（优惠精选）与优惠码活动',
     metaDescription: 'Cecília 的推荐码 4CW5Y 会打开 SHEIN 的促销和折扣页面：使用链接，或在 App 或网站搜索 4CW5Y。',
     eligibleCategories: '服饰、配饰、美妆、家居及各活动适用的其他品类',
     validity: '链接和活动可能变更，请以 SHEIN 显示的条件为准',
@@ -733,7 +733,7 @@ const SHEIN_TRANSLATIONS: Record<TranslatedLocale, AffiliateOfferTranslation> = 
     shortDescription: 'الرابط الرئيسي ورمز الإحالة والحملات الحالية',
     longDescription:
       'الرمز 4CW5Y هو رمز الإحالة الخاص بسيسيليا: يفتح مجموعة مختارة على SHEIN فيها عروض وخصومات. افتح SHEIN عبر الرابط أدناه، أو انسخ الرمز وابحث عنه في التطبيق أو الموقع. تجد حملات أخرى في الأسفل.',
-    metaTitle: 'كوبون ورمز إحالة SHEIN 4CW5Y: العروض والحملات الحالية',
+    metaTitle: 'SHEIN: رمز الإحالة 4CW5Y في البحث (عروض) وحملات الكوبونات',
     metaDescription:
       'رمز إحالة SHEIN الخاص بسيسيليا 4CW5Y يفتح صفحة عروض وخصومات: استخدم الرابط أو ابحث عن 4CW5Y في تطبيق SHEIN أو موقعها.',
     eligibleCategories: 'الأزياء والإكسسوارات والجمال والمنزل وفئات أخرى مؤهلة في كل حملة',
@@ -4172,9 +4172,9 @@ const STARLINK_TRANSLATIONS: Record<TranslatedLocale, AffiliateOfferTranslation>
     shortDescription: 'new customer: $100 in the US or £40 in the UK from Starlink\'s official referral program through Cecília\'s link, as service credit after two months',
     longDescription:
       'New customer? Order through Cecília\'s referral link to qualify for Starlink\'s referral reward: $100 in the US or £40 in the UK. Pay the first month, activate your service and stay subscribed for two full months. The reward is normally applied as service credit on your bill, or as cash where Starlink offers it; it does not reduce the kit\'s checkout price. In other countries the amount is different and shows in your Starlink account. It is valid on Residential and Roam plans ordered on starlink.com, and Starlink offers a full refund of the kit and the first month if you return it within 30 days.',
-    metaTitle: 'Starlink Referral & Coupon? $100 US · £40 UK via Cecília\'s Link',
+    metaTitle: 'Starlink: $100 US · £40 UK Referral Bonus After Two Months',
     metaDescription:
-      'Starlink referral: new customers who sign up through Cecília\'s link get a reward after two months, as credit or cash. Residential and Roam plans.',
+      'Starlink referral bonus ($100 US · £40 UK): new customers signing up via Cecília\'s link get the bonus after two months, as credit or cash.',
     eligibleCategories: 'First subscription to a Residential or Roam plan, ordered on starlink.com through the link',
     validity: 'Active while Starlink\'s referral program runs; the amount is the one Starlink pays in the country where you sign up',
     reusable: 'Only for people who have never been Starlink customers: current and former customers do not get the reward',
@@ -4250,7 +4250,7 @@ const STARLINK_TRANSLATIONS: Record<TranslatedLocale, AffiliateOfferTranslation>
     shortDescription: 'cliente nuevo: 45 € en España del programa oficial de referidos de Starlink con el enlace de Cecília, como crédito de servicio tras dos meses',
     longDescription:
       'Cliente nuevo: regístrate con el enlace de Cecília para optar a la recompensa del programa de referidos de Starlink: 45 € en España. Paga el primer mes, activa tu servicio y mantén la suscripción durante dos meses completos. La recompensa se aplica normalmente como crédito de servicio en tu factura, o en efectivo donde Starlink lo ofrece; no reduce el precio del kit al pagar el pedido. En otros países el importe es distinto y aparece en tu cuenta de Starlink. Vale para los planes Residential y Roam contratados en starlink.com, y Starlink ofrece el reembolso completo del kit y del primer mes si lo devuelves en 30 días.',
-    metaTitle: '¿Código de referido Starlink? Recompensa con el enlace de Cecília',
+    metaTitle: 'Starlink: bono de 45 € por referido tras dos meses',
     metaDescription:
       'Referido de Starlink: los nuevos clientes que se registran con el enlace de Cecília reciben una recompensa a los dos meses, en crédito o efectivo.',
     eligibleCategories: 'Primera suscripción a un plan Residential o Roam, contratada en starlink.com con el enlace',
@@ -4328,7 +4328,7 @@ const STARLINK_TRANSLATIONS: Record<TranslatedLocale, AffiliateOfferTranslation>
     shortDescription: 'nouveau client\u00a0: 45\u00a0€ en France grâce au programme de parrainage officiel de Starlink via le lien de Cecília, sous forme de crédit de service après deux mois',
     longDescription:
       'Nouveau client\u00a0? Inscrivez-vous avec le lien de Cecília pour être éligible à la récompense du programme de parrainage de Starlink\u00a0: 45\u00a0€ en France. Payez le premier mois, activez votre service et restez abonné pendant deux mois complets. La récompense est normalement appliquée sous forme de crédit de service sur votre facture, ou en argent là où Starlink le propose\u00a0; elle ne réduit pas le prix du kit à la commande. Dans les autres pays, le montant est différent et s\'affiche dans votre compte Starlink. Elle est valable pour les offres Residential et Roam commandées sur starlink.com, et Starlink propose le remboursement intégral du kit et du premier mois si vous le retournez sous 30 jours.',
-    metaTitle: 'Code parrainage Starlink\u00a0? Récompense via le lien de Cecília',
+    metaTitle: 'Starlink\u00a0: bonus de 45\u00a0€ par parrainage après deux mois',
     metaDescription:
       'Parrainage Starlink\u00a0: les nouveaux clients inscrits via le lien de Cecília reçoivent une récompense après deux mois, en crédit ou en argent.',
     eligibleCategories: 'Premier abonnement à une offre Residential ou Roam, commandé sur starlink.com via le lien',
@@ -4406,7 +4406,7 @@ const STARLINK_TRANSLATIONS: Record<TranslatedLocale, AffiliateOfferTranslation>
     shortDescription: 'Neukunde: 45 € in Deutschland aus dem offiziellen Empfehlungsprogramm von Starlink über Cecílias Link, als Servicegutschrift nach zwei Monaten',
     longDescription:
       'Neukunde? Melde dich über Cecílias Empfehlungslink an, um die Prämie aus dem Empfehlungsprogramm von Starlink zu erhalten: 45 € in Deutschland. Zahle den ersten Monat, aktiviere deinen Dienst und bleibe zwei volle Monate Kunde. Die Prämie wird normalerweise als Servicegutschrift auf deiner Rechnung verrechnet, oder als Bargeld, wo Starlink es anbietet; sie senkt nicht den Preis des Kits an der Kasse. In anderen Ländern ist der Betrag anders und wird in deinem Starlink-Konto angezeigt. Sie gilt für Residential- und Roam-Tarife, die auf starlink.com bestellt werden, und Starlink bietet die volle Erstattung von Kit und erstem Monat an, wenn du es innerhalb von 30 Tagen zurückschickst.',
-    metaTitle: 'Starlink-Empfehlungscode? Deine Prämie über Cecílias Link',
+    metaTitle: 'Starlink: 45 € Empfehlungsbonus nach zwei Monaten',
     metaDescription:
       'Starlink-Empfehlung: Neue Kunden, die sich über Cecílias Link anmelden, erhalten nach zwei Monaten eine Prämie als Guthaben oder Bargeld. Residential und Roam.',
     eligibleCategories: 'Erstes Abo eines Residential- oder Roam-Tarifs, über den Link auf starlink.com bestellt',
@@ -4484,7 +4484,7 @@ const STARLINK_TRANSLATIONS: Record<TranslatedLocale, AffiliateOfferTranslation>
     shortDescription: 'nuovo cliente: 45 € in Italia dal programma referral ufficiale di Starlink con il link di Cecília, come credito di servizio dopo due mesi',
     longDescription:
       'Nuovo cliente? Ordina tramite il link referral di Cecília per avere diritto al premio del programma referral di Starlink: 45 € in Italia. Paga il primo mese, attiva il servizio e resta abbonato per due mesi completi. Il premio viene applicato normalmente come credito di servizio sulla fattura, o in denaro dove Starlink lo offre; non riduce il prezzo del kit al checkout. In altri paesi l\'importo è diverso e compare nel tuo account Starlink. Vale per i piani Residential e Roam ordinati su starlink.com, e Starlink offre il rimborso completo del kit e del primo mese se lo restituisci entro 30 giorni.',
-    metaTitle: 'Codice referral Starlink? Il tuo premio con il link di Cecília',
+    metaTitle: 'Starlink: bonus referral di 45 € dopo due mesi',
     metaDescription:
       'Referral Starlink: i nuovi clienti che si iscrivono con il link di Cecília ricevono un premio dopo due mesi, in credito o denaro. Piani Residential e Roam.',
     eligibleCategories: 'Primo abbonamento a un piano Residential o Roam, ordinato su starlink.com tramite il link',
@@ -4562,7 +4562,7 @@ const STARLINK_TRANSLATIONS: Record<TranslatedLocale, AffiliateOfferTranslation>
     shortDescription: '신규 고객이라면 Cecília의 링크로 Starlink 공식 추천 프로그램의 보상을 2개월 후 서비스 크레딧으로 받을 수 있습니다. 금액은 국가마다 다릅니다(예: 한국 65,000원)',
     longDescription:
       '신규 고객이라면 Cecília의 링크로 주문해 Starlink 추천 보상을 받으세요. 금액은 가입하는 국가에 따라 다릅니다(예: 한국 65,000원). 첫 달 요금을 내고 서비스를 개통한 뒤 2개월 동안 가입을 유지해야 합니다. 보상은 보통 청구서에 서비스 크레딧으로 적용되며, Starlink가 제공하는 지역에서는 현금으로 지급됩니다. 키트 주문 결제 금액을 깎아 주는 할인이 아닙니다. 해당 국가의 금액은 Starlink 계정에 표시됩니다. starlink.com에서 주문한 Residential과 Roam 요금제에 적용되며, 30일 이내에 반품하면 Starlink가 키트와 첫 달 요금을 전액 환불합니다.',
-    metaTitle: 'Starlink 추천 코드? Cecília의 링크로 보상 받기',
+    metaTitle: 'Starlink: 추천 가입 2개월 후 보너스 혜택 (한국 65,000원)',
     metaDescription:
       'Starlink 추천: Cecília의 링크로 가입한 신규 고객은 2개월 후 크레딧 또는 현금으로 보상을 받습니다. Residential, Roam 요금제.',
     eligibleCategories: '링크를 통해 starlink.com에서 주문한 Residential 또는 Roam 요금제의 첫 구독',
@@ -4640,7 +4640,7 @@ const STARLINK_TRANSLATIONS: Record<TranslatedLocale, AffiliateOfferTranslation>
     shortDescription: '日本の住所をお持ちの新規のお客様は、Cecília のリンクから Starlink 公式の紹介プログラムで 7,000 円を、2 か月後にサービスクレジットとして受け取れます',
     longDescription:
       '新規のお客様ですか？ Cecília の紹介リンクから注文すると、Starlink の紹介特典の対象になります。日本の住所をお持ちの場合は 7,000 円です。初月分を支払ってサービスを開通し、2 か月間継続して契約してください。特典は通常、請求書にサービスクレジットとして適用され、Starlink が対応している地域では現金で受け取れます。キットの注文時の支払額が安くなる割引ではありません。ほかの国では金額が異なり、Starlink のアカウントに表示されます。starlink.com で注文した Residential と Roam のプランが対象で、30 日以内に返品すれば、Starlink がキットと最初の 1 か月分を全額返金します。',
-    metaTitle: 'Starlink 紹介コード？Cecília のリンクで特典を受け取る',
+    metaTitle: 'Starlink：紹介リンク登録の2か月後に7,000円ボーナス特典',
     metaDescription:
       'Starlink の紹介特典：Cecília のリンクから登録した新規のお客様は、2 か月後にクレジットまたは現金で特典を受け取れます。Residential と Roam プラン。',
     eligibleCategories: 'リンク経由で starlink.com から注文した Residential または Roam プランの初回契約',
@@ -4718,7 +4718,7 @@ const STARLINK_TRANSLATIONS: Record<TranslatedLocale, AffiliateOfferTranslation>
     shortDescription: '新客戶透過 Cecília 的連結，可從 Starlink 官方推薦計畫獲得獎勵，使用服務滿兩個月後以服務抵免額發放；金額因國家而異（例如馬來西亞 RM180）',
     longDescription:
       '新客戶嗎？透過 Cecília 的推薦連結下單，即可符合 Starlink 推薦獎勵的資格，金額依你註冊所在的國家而定（例如馬來西亞 RM180）。請支付第一個月費用、啟用服務，並連續訂閱滿兩個月。獎勵通常以服務抵免額的形式套用在帳單上，在 Starlink 提供的地區也可選擇現金；它不會降低訂購套件時的結帳價格。你所在國家的金額會顯示在 Starlink 帳戶中。適用於在 starlink.com 訂購的 Residential 和 Roam 方案，如在 30 天內退貨，Starlink 會全額退還套件和第一個月的費用。',
-    metaTitle: 'Starlink 推薦碼？透過 Cecília 的連結領取獎勵',
+    metaTitle: 'Starlink：透過推薦連結訂閱滿兩個月領取推薦獎金（馬來西亞 RM180）',
     metaDescription:
       'Starlink 推薦：透過 Cecília 的連結註冊的新客戶，滿兩個月後可獲得抵免額或現金獎勵。適用於 Residential 和 Roam 方案。',
     eligibleCategories: '透過連結在 starlink.com 訂購的 Residential 或 Roam 方案的首次訂閱',
@@ -4796,7 +4796,7 @@ const STARLINK_TRANSLATIONS: Record<TranslatedLocale, AffiliateOfferTranslation>
     shortDescription: '新客户通过 Cecília 的链接，可从 Starlink 官方推荐计划获得奖励，使用服务满两个月后以服务抵扣额发放；金额因国家而异（例如马来西亚 RM180）',
     longDescription:
       '新客户吗？通过 Cecília 的推荐链接下单，即可符合 Starlink 推荐奖励的资格，金额取决于你注册所在的国家（例如马来西亚 RM180）。请支付第一个月费用、开通服务，并连续订阅满两个月。奖励通常以服务抵扣额的形式应用在账单上，在 Starlink 提供的地区也可选择现金；它不会降低订购套件时的结账价格。你所在国家的金额会显示在 Starlink 账户中。适用于在 starlink.com 订购的 Residential 和 Roam 套餐，如在 30 天内退货，Starlink 会全额退还套件和第一个月的费用。',
-    metaTitle: 'Starlink 推荐码？通过 Cecília 的链接领取奖励',
+    metaTitle: 'Starlink：通过推荐链接订阅满两个月领取推荐奖金（马来西亚 RM180）',
     metaDescription:
       'Starlink 推荐：通过 Cecília 的链接注册的新客户，满两个月后可获得抵扣额或现金奖励。适用于 Residential 和 Roam 套餐。',
     eligibleCategories: '通过链接在 starlink.com 订购的 Residential 或 Roam 套餐的首次订阅',
@@ -4874,7 +4874,7 @@ const STARLINK_TRANSLATIONS: Record<TranslatedLocale, AffiliateOfferTranslation>
     shortDescription: 'للعميل الجديد: ر.ق. 160 في قطر أو د.إ. 150 في الإمارات من برنامج الإحالة الرسمي في Starlink عبر رابط سيسيليا، على شكل رصيد خدمة بعد شهرين',
     longDescription:
       'عميل جديد؟ اطلب عبر رابط الإحالة الخاص بسيسيليا لتستحق مكافأة الإحالة من Starlink: ر.ق. 160 في قطر، د.إ. 150 في الإمارات، د.أ. 30 في الأردن، ر.ع. 15 في عُمان، د.ب. 15 في البحرين، د.ك. 15 في الكويت. ادفع الشهر الأول وفعّل خدمتك واستمر في الاشتراك شهرين كاملين. تُضاف المكافأة عادةً كرصيد خدمة على فاتورتك، أو كمبلغ نقدي حيث تتيح Starlink ذلك؛ ولا تخفض سعر الجهاز عند الدفع. في بلدان أخرى يختلف المبلغ ويظهر في حسابك على Starlink. تسري على باقتي Residential وRoam المطلوبتين من starlink.com، وتعيد Starlink كامل ثمن الجهاز والشهر الأول إذا أعدته خلال 30 يومًا.',
-    metaTitle: 'رمز إحالة Starlink؟ احصل على مكافأتك عبر رابط سيسيليا',
+    metaTitle: 'Starlink: مكافأة إحالة بعد شهرين (160 ر.ق قطر · 150 د.إ الإمارات)',
     metaDescription:
       'إحالة Starlink: العملاء الجدد الذين يسجلون عبر رابط سيسيليا يحصلون على مكافأة بعد شهرين، رصيدًا أو نقدًا. باقتا Residential وRoam.',
     eligibleCategories: 'أول اشتراك في باقة Residential أو Roam، يُطلب من starlink.com عبر الرابط',
