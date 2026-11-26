@@ -273155,7 +273155,7 @@ const reviewsChunk2: unknown[] = [
     },
     "publishedAt": "18 de novembro de 2026",
     "publishedAtISO": "2026-11-18",
-    "updatedAt": "2026-11-24",
+    "updatedAt": "2026-11-26",
     "draft": false,
     "isNew": true,
     "imageFit": "contain",
@@ -273179,6 +273179,12 @@ const reviewsChunk2: unknown[] = [
     },
     "editorialNote": "Feito com as páginas de produto e as políticas da loja. Não usamos os produtos. Podemos receber comissão pelo cupom e pelo link.",
     "relatedArticles": [
+      {
+        "slug": "creatina-adaptogen-e-boa"
+      },
+      {
+        "slug": "hit-protein-adaptogen-e-bom"
+      },
       {
         "slug": "cupom-adaptogen-como-usar"
       },
@@ -273302,11 +273308,8 @@ const reviewsChunk2: unknown[] = [
       {
         "heading": "A creatina",
         "paragraphs": [
-          "[Creatina Flavor 300 g](https://www.adaptogen.com.br/produto/creatina-flavor-300g-2-sabores-150228?parceiro=CECILIA). A loja informa que é creatina monohidratada, com 3 g por dose, 81 doses no pote, adoçada com estévia e vendida nos sabores Limonada e Tangerina.",
-          "[Creatina Platinum Series](https://www.adaptogen.com.br/produto/creatina-platinum-series-150227?parceiro=CECILIA). A página diz que é creatina monohidratada. A tabela nutricional da imagem declara porção de 3 g (meio dosador), 100 porções no pote de 300 g e 3.000 mg de creatina por porção, sem valor energético."
-        ],
-        "postParagraphs": [
-          "Conta nossa: no cartão, o pote de 300 g da Platinum Series (R$ 67,15) fica em R$ 0,67 por dose, nas 100 porções de 3 g. Os potes maiores têm preço por grama diferente: o de 1 kg (R$ 194,64 no cartão) sai mais caro que dois de 500 g (2 × R$ 89,25 = R$ 178,50)."
+          "A Adaptogen vende três creatinas monohidratadas: a [Platinum Series](https://www.adaptogen.com.br/produto/creatina-platinum-series-150227?parceiro=CECILIA), sem sabor, com 3 g de creatina por porção e potes de 100 g, 300 g, 500 g e 1 kg; a Pro 300 g, com carboidrato adicionado (o que era a creatina Super); e a [Flavor](https://www.adaptogen.com.br/produto/creatina-flavor-300g-2-sabores-150228?parceiro=CECILIA) 300 g, nos sabores Limonada e Tangerina.",
+          "O que cada rótulo declara, qual delas é pura e qual pote rende mais por dose estão no guia [Creatina Adaptogen é boa?](/reviews/creatina-adaptogen-e-boa)."
         ],
         "images": [
           {
@@ -273320,7 +273323,7 @@ const reviewsChunk2: unknown[] = [
           {
             "src": "/images/reviews/adaptogen/adaptogen-creatina-platinum-series.webp",
             "alt": "Pote de 100 g da Creatina Platinum Series da Adaptogen, em foto oficial da loja",
-            "caption": "Foto oficial da embalagem de 100 g. As contas deste guia usam os tamanhos de 300 g, 500 g e 1 kg; confira a opção selecionada na loja.",
+            "caption": "Foto oficial da embalagem de 100 g. A conta por porção deste guia usa o pote de 300 g; confira a opção selecionada na loja.",
             "href": "https://www.adaptogen.com.br/produto/creatina-platinum-series-150227?parceiro=CECILIA",
             "objectFit": "contain",
             "aspectRatio": 1
@@ -273454,8 +273457,8 @@ const reviewsChunk2: unknown[] = [
           "A Adaptogen é boa? Vale, sim, especialmente para quem compara proteína pelo custo por grama: o Gold Whey entrega o menor preço entre os wheys sem colágeno declarado, o Tasty Iso atende quem quer versão zero lactose e o cupom CECILIA dá 10% OFF no site oficial.",
           "Qual é o cupom da Adaptogen? É o CECILIA, com 10% OFF no site oficial, para cliente novo e antigo. Cole no campo Cupom de desconto do checkout; a página do [cupom Adaptogen](/cupons/adaptogen) traz o código e as condições em vigor.",
           "O Tasty Whey é isolado ou concentrado? É um 3W, que mistura concentrado, isolado e hidrolisado, em 23 sabores. A página não diz a proporção de cada fração.",
-          "O HIT Protein é whey? Segundo a página, é whey concentrado com peptídeos de colágeno hidrolisado. A loja não informa quanto dos 20 g por dose vem do colágeno, por isso vale comparar separado dos wheys sem colágeno declarado.",
-          "A creatina da Adaptogen é monohidratada? Sim: as páginas da Creatina Flavor e da Platinum Series informam creatina monohidratada, com 3 g por porção."
+          "O HIT Protein é whey? Segundo a página, é whey concentrado com peptídeos de colágeno hidrolisado, e a loja não informa quanto dos 20 g por dose vem do colágeno. A tabela nutricional, os sabores e a conta por dose estão no guia [HIT Protein Adaptogen é bom?](/reviews/hit-protein-adaptogen-e-bom).",
+          "A creatina da Adaptogen é monohidratada? Sim: as páginas da Platinum Series, da Pro e da Flavor informam creatina monohidratada. A comparação das três está no guia [Creatina Adaptogen é boa?](/reviews/creatina-adaptogen-e-boa)."
         ]
       }
     ]
