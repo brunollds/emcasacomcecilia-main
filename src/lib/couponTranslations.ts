@@ -100,7 +100,7 @@ const SHEIN_TRANSLATIONS: Record<TranslatedLocale, AffiliateOfferTranslation> = 
     shortDescription: 'main link, referral code and current campaigns',
     longDescription:
       "4CW5Y is Cecília's referral code: it opens a SHEIN selection with promotions and discounts. Open SHEIN through the link below, or copy the code and search for it in the app or website. Other campaigns are available below.",
-    metaTitle: 'SHEIN referral code 4CW5Y and current campaigns',
+    metaTitle: 'SHEIN: 4CW5Y in Search (Offers) & Current Coupon Campaigns',
     metaDescription:
       "Cecília's SHEIN referral code 4CW5Y opens a page of promotions and discounts: use the link or search 4CW5Y in the SHEIN app or website.",
     eligibleCategories: 'Fashion, accessories, beauty, home and other categories eligible in each campaign',
@@ -172,7 +172,7 @@ const SHEIN_TRANSLATIONS: Record<TranslatedLocale, AffiliateOfferTranslation> = 
     shortDescription: 'enlace principal, código de referido y campañas vigentes',
     longDescription:
       'El 4CW5Y es el código de referido de Cecília: abre una selección de SHEIN con promociones y descuentos. Entra con el enlace de abajo, o copia el código y búscalo en la app o en la web. Más abajo hay otras campañas.',
-    metaTitle: 'SHEIN: código de referido 4CW5Y y campañas vigentes',
+    metaTitle: 'SHEIN: 4CW5Y en el buscador (ofertas) y campañas de cupones',
     metaDescription:
       'El código de referido 4CW5Y de Cecília abre una página de promociones y descuentos de SHEIN: usa el enlace o busca 4CW5Y en la app o en la web.',
     eligibleCategories: 'Moda, accesorios, belleza, hogar y otras categorías válidas en cada campaña',
@@ -244,7 +244,7 @@ const SHEIN_TRANSLATIONS: Record<TranslatedLocale, AffiliateOfferTranslation> = 
     shortDescription: 'lien principal, code de parrainage et campagnes en cours',
     longDescription:
       `4CW5Y est le code de parrainage de Cecília${NBSP}: il ouvre une sélection SHEIN avec des promotions et des réductions. Passez par le lien ci-dessous, ou copiez le code et recherchez-le dans l'appli ou sur le site. D'autres campagnes sont disponibles plus bas.`,
-    metaTitle: `SHEIN${NBSP}: code de parrainage 4CW5Y et campagnes en cours`,
+    metaTitle: `SHEIN${NBSP}: 4CW5Y dans la recherche (offres) et codes promo`,
     metaDescription:
       `Le code de parrainage 4CW5Y de Cecília ouvre une page de promotions et de réductions SHEIN${NBSP}: utilisez le lien ou recherchez 4CW5Y dans l'appli ou sur le site.`,
     eligibleCategories: 'Mode, accessoires, beauté, maison et autres catégories éligibles selon la campagne',
@@ -313,7 +313,7 @@ const SHEIN_TRANSLATIONS: Record<TranslatedLocale, AffiliateOfferTranslation> = 
     shortDescription: 'Hauptlink, Empfehlungscode und aktuelle Aktionen',
     longDescription:
       '4CW5Y ist Cecílias Empfehlungscode: Er öffnet eine SHEIN-Auswahl mit Aktionen und Rabatten. Nutzen Sie den Link unten, oder kopieren Sie den Code und suchen Sie in der App oder auf der Website danach. Weitere Aktionen finden Sie weiter unten.',
-    metaTitle: 'SHEIN: Empfehlungscode 4CW5Y und aktuelle Aktionen',
+    metaTitle: 'SHEIN: 4CW5Y in der Suche (Angebote) & Gutschein-Aktionen',
     metaDescription:
       'Cecílias Empfehlungscode 4CW5Y öffnet eine SHEIN-Seite mit Aktionen und Rabatten: Nutzen Sie den Link oder suchen Sie 4CW5Y in der App oder auf der Website.',
     eligibleCategories: 'Mode, Accessoires, Beauty, Wohnen und weitere Kategorien, die in der jeweiligen Aktion gelten',
@@ -385,7 +385,7 @@ const SHEIN_TRANSLATIONS: Record<TranslatedLocale, AffiliateOfferTranslation> = 
     shortDescription: 'link principale, codice invito e campagne in corso',
     longDescription:
       "4CW5Y è il codice invito di Cecília: apre una selezione SHEIN con promozioni e sconti. Usa il link qui sotto, oppure copia il codice e cercalo nell'app o sul sito. Altre campagne sono disponibili più in basso.",
-    metaTitle: 'SHEIN: codice invito 4CW5Y e campagne in corso',
+    metaTitle: 'SHEIN: 4CW5Y nella ricerca (offerte) e campagne coupon',
     metaDescription:
       "Il codice invito 4CW5Y di Cecília apre una pagina SHEIN di promozioni e sconti: usa il link o cerca 4CW5Y nell'app o sul sito.",
     eligibleCategories: 'Moda, accessori, bellezza, casa e altre categorie valide in ogni campagna',
@@ -457,7 +457,7 @@ const SHEIN_TRANSLATIONS: Record<TranslatedLocale, AffiliateOfferTranslation> = 
     shortDescription: '메인 링크, 추천 코드, 진행 중인 캠페인',
     longDescription:
       '4CW5Y는 Cecília의 추천 코드로, 프로모션과 할인이 있는 SHEIN 상품 모음이 열립니다. 아래 링크를 이용하거나, 코드를 복사해 앱이나 웹사이트에서 검색하세요. 다른 캠페인은 아래에서 확인할 수 있습니다.',
-    metaTitle: 'SHEIN 추천 코드 4CW5Y와 진행 중인 캠페인',
+    metaTitle: 'SHEIN: 검색창 추천 코드 4CW5Y(할인 모음) 및 쿠폰 캠페인',
     metaDescription:
       'Cecília의 추천 코드 4CW5Y로 SHEIN 프로모션·할인 페이지가 열립니다. 링크를 이용하거나 앱 또는 웹사이트에서 4CW5Y를 검색하세요.',
     eligibleCategories: '패션, 액세서리, 뷰티, 홈 및 캠페인별 대상 카테고리',
@@ -528,7 +528,7 @@ const SHEIN_TRANSLATIONS: Record<TranslatedLocale, AffiliateOfferTranslation> = 
     shortDescription: 'メインリンク、紹介コード、開催中のキャンペーン',
     longDescription:
       '4CW5Y は Cecília の紹介コードで、プロモーションと割引のある SHEIN のセレクションが開きます。下のリンクを使うか、コードをコピーしてアプリまたはサイトで検索してください。ほかのキャンペーンは下にあります。',
-    metaTitle: 'SHEIN の紹介コード 4CW5Y と開催中のキャンペーン',
+    metaTitle: 'SHEIN：検索で使う紹介コード 4CW5Y（セール特集）とクーポン企画',
     metaDescription:
       'Cecília の紹介コード 4CW5Y で、SHEIN のプロモーション・割引ページが開きます。リンクを使うか、アプリまたはサイトで 4CW5Y を検索してください。',
     eligibleCategories: 'ファッション、アクセサリー、コスメ、インテリアほか、キャンペーンごとの対象カテゴリー',
@@ -599,7 +599,7 @@ const SHEIN_TRANSLATIONS: Record<TranslatedLocale, AffiliateOfferTranslation> = 
     shortDescription: '主要連結、推薦碼及進行中的活動',
     longDescription:
       '4CW5Y 是 Cecília 的推薦碼，會開啟有促銷和折扣的 SHEIN 精選。你可以使用下方連結，或複製代碼到 App 或網站搜尋。其他活動請見下方。',
-    metaTitle: 'SHEIN 推薦碼 4CW5Y 及進行中的活動',
+    metaTitle: 'SHEIN：搜尋欄推薦碼 4CW5Y（優惠精選）與優惠碼活動',
     metaDescription: 'Cecília 的推薦碼 4CW5Y 會開啟 SHEIN 的促銷與折扣頁面：使用連結，或在 App 或網站搜尋 4CW5Y。',
     eligibleCategories: '時裝、配飾、美妝、家居及各活動適用的其他類別',
     validity: '連結及活動可能更改，請以 SHEIN 顯示的條件為準',
@@ -667,7 +667,7 @@ const SHEIN_TRANSLATIONS: Record<TranslatedLocale, AffiliateOfferTranslation> = 
     shortDescription: '主链接、推荐码和进行中的活动',
     longDescription:
       '4CW5Y 是 Cecília 的推荐码，会打开有促销和折扣的 SHEIN 精选。你可以使用下方链接，或复制代码到 App 或网站搜索。其他活动请见下方。',
-    metaTitle: 'SHEIN 推荐码 4CW5Y 和进行中的活动',
+    metaTitle: 'SHEIN：搜索栏推荐码 4CW5Y（优惠精选）与优惠码活动',
     metaDescription: 'Cecília 的推荐码 4CW5Y 会打开 SHEIN 的促销和折扣页面：使用链接，或在 App 或网站搜索 4CW5Y。',
     eligibleCategories: '服饰、配饰、美妆、家居及各活动适用的其他品类',
     validity: '链接和活动可能变更，请以 SHEIN 显示的条件为准',
@@ -733,7 +733,7 @@ const SHEIN_TRANSLATIONS: Record<TranslatedLocale, AffiliateOfferTranslation> = 
     shortDescription: 'الرابط الرئيسي ورمز الإحالة والحملات الحالية',
     longDescription:
       'الرمز 4CW5Y هو رمز الإحالة الخاص بسيسيليا: يفتح مجموعة مختارة على SHEIN فيها عروض وخصومات. افتح SHEIN عبر الرابط أدناه، أو انسخ الرمز وابحث عنه في التطبيق أو الموقع. تجد حملات أخرى في الأسفل.',
-    metaTitle: 'رمز إحالة SHEIN 4CW5Y والحملات الحالية',
+    metaTitle: 'SHEIN: رمز الإحالة 4CW5Y في البحث (عروض) وحملات الكوبونات',
     metaDescription:
       'رمز إحالة SHEIN الخاص بسيسيليا 4CW5Y يفتح صفحة عروض وخصومات: استخدم الرابط أو ابحث عن 4CW5Y في تطبيق SHEIN أو موقعها.',
     eligibleCategories: 'الأزياء والإكسسوارات والجمال والمنزل وفئات أخرى مؤهلة في كل حملة',
@@ -810,7 +810,7 @@ const TEMU_TRANSLATIONS: Record<TranslatedLocale, AffiliateOfferTranslation> = {
     shortDescription: 'Cecília\'s link to the store\'s promotions',
     longDescription:
       'Em Casa com Cecília has no coupon for Temu: the button below opens the store through Cecília\'s link, with whatever promotions are live. The price and discount on each product are the ones Temu shows on the product page and in the cart.',
-    metaTitle: 'Temu: promotions through Cecília\'s link',
+    metaTitle: 'Temu Promo & Coupon? Live Deals via Cecília\'s Link',
     metaDescription:
       'Cecília\'s link to Temu: opens the store with whatever promotions are live. No coupon from us; shipping and returns follow Temu\'s rules in your country.',
     eligibleCategories: 'All Temu categories; each promotion applies to the products the store indicates',
@@ -876,7 +876,7 @@ const TEMU_TRANSLATIONS: Record<TranslatedLocale, AffiliateOfferTranslation> = {
     shortDescription: 'enlace de Cecília a las promociones de la tienda',
     longDescription:
       'Em Casa com Cecília no tiene cupón de Temu: el botón de abajo abre la tienda con el enlace de Cecília, con las promociones que estén activas. El precio y el descuento de cada producto son los que Temu muestra en la página y en el carrito.',
-    metaTitle: 'Temu: promociones con el enlace de Cecília',
+    metaTitle: '¿Cupón Temu? Ofertas y promociones con el enlace de Cecília',
     metaDescription:
       'Enlace de Cecília a Temu: abre la tienda con las promociones activas. No hay cupón nuestro; el envío y la devolución siguen las reglas de Temu en tu país.',
     eligibleCategories: 'Todas las categorías de Temu; cada promoción vale para los productos que indique la tienda',
@@ -942,7 +942,7 @@ const TEMU_TRANSLATIONS: Record<TranslatedLocale, AffiliateOfferTranslation> = {
     shortDescription: 'lien de Cecília vers les promotions de la boutique',
     longDescription:
       'Em Casa com Cecília n\'a pas de code promo pour Temu\u00a0: le bouton ci-dessous ouvre la boutique via le lien de Cecília, avec les promotions en cours. Le prix et la réduction de chaque produit sont ceux que Temu affiche sur la page et dans le panier.',
-    metaTitle: 'Temu\u00a0: promotions via le lien de Cecília',
+    metaTitle: 'Code promo Temu\u00a0? Offres et promo via le lien de Cecília',
     metaDescription:
       'Lien de Cecília vers Temu\u00a0: ouvre la boutique avec les promotions en cours. Pas de code promo de notre part, livraison et retours selon les règles de Temu.',
     eligibleCategories: 'Toutes les catégories de Temu\u00a0; chaque promotion s\'applique aux produits indiqués par la boutique',
@@ -1008,7 +1008,7 @@ const TEMU_TRANSLATIONS: Record<TranslatedLocale, AffiliateOfferTranslation> = {
     shortDescription: 'Cecílias Link zu den Aktionen des Shops',
     longDescription:
       'Em Casa com Cecília hat keinen Gutscheincode für Temu: Der Button unten öffnet den Shop über Cecílias Link, mit den aktuellen Aktionen. Preis und Rabatt jedes Produkts sind die, die Temu auf der Produktseite und im Warenkorb anzeigt.',
-    metaTitle: 'Temu: Aktionen über Cecílias Link',
+    metaTitle: 'Temu Gutschein? Aktuelle Angebote & Promo über Cecílias Link',
     metaDescription:
       'Cecílias Link zu Temu: öffnet den Shop mit den aktuellen Aktionen. Kein Gutscheincode von uns; Versand und Rückgabe richten sich nach den Regeln von Temu.',
     eligibleCategories: 'Alle Kategorien von Temu; jede Aktion gilt für die Produkte, die der Shop angibt',
@@ -1074,7 +1074,7 @@ const TEMU_TRANSLATIONS: Record<TranslatedLocale, AffiliateOfferTranslation> = {
     shortDescription: 'link di Cecília per le promozioni del negozio',
     longDescription:
       'Em Casa com Cecília non ha un coupon per Temu: il pulsante qui sotto apre il negozio con il link di Cecília, con le promozioni in corso. Il prezzo e lo sconto di ogni prodotto sono quelli che Temu mostra nella pagina e nel carrello.',
-    metaTitle: 'Temu: promozioni con il link di Cecília',
+    metaTitle: 'Coupon e promo Temu? Offerte attive con il link di Cecília',
     metaDescription:
       'Link di Cecília per Temu: apre il negozio con le promozioni in corso. Nessun coupon nostro; spedizione e resi seguono le regole di Temu nel tuo paese.',
     eligibleCategories: 'Tutte le categorie di Temu; ogni promozione vale per i prodotti indicati dal negozio',
@@ -1140,7 +1140,7 @@ const TEMU_TRANSLATIONS: Record<TranslatedLocale, AffiliateOfferTranslation> = {
     shortDescription: '스토어 프로모션으로 연결되는 Cecília의 링크',
     longDescription:
       'Em Casa com Cecília에는 Temu 쿠폰이 없습니다. 아래 버튼은 Cecília의 링크로 진행 중인 프로모션과 함께 스토어를 엽니다. 상품별 가격과 할인은 Temu가 상품 페이지와 장바구니에 표시하는 대로입니다.',
-    metaTitle: 'Temu: Cecília 링크로 만나는 프로모션',
+    metaTitle: 'Temu 쿠폰·프로모션 안내: Cecília 링크로 만나는 진행 중 혜택',
     metaDescription:
       'Cecília의 Temu 링크: 진행 중인 프로모션과 함께 스토어가 열립니다. 쿠폰은 없으며 배송·반품은 Temu 규정을 따릅니다.',
     eligibleCategories: 'Temu의 모든 카테고리. 프로모션별 적용 상품은 스토어가 안내하는 대로입니다',
@@ -1206,7 +1206,7 @@ const TEMU_TRANSLATIONS: Record<TranslatedLocale, AffiliateOfferTranslation> = {
     shortDescription: 'ストアのプロモーションへの Cecília のリンク',
     longDescription:
       'Em Casa com Cecília に Temu のクーポンはありません。下のボタンから Cecília のリンクで、開催中のプロモーションとともにストアが開きます。各商品の価格と割引は、Temu が商品ページとカートに表示するとおりです。',
-    metaTitle: 'Temu：Cecília のリンクのプロモーション',
+    metaTitle: 'Temu クーポン・プロモ情報：Cecília のリンクで開催中のセール',
     metaDescription:
       'Cecília の Temu リンクで、開催中のプロモーションとともにストアが開きます。クーポンはなく、送料と返品は Temu の規定に従います。',
     eligibleCategories: 'Temu のすべてのカテゴリー。プロモーションごとの対象商品はストアの案内に従います',
@@ -1272,7 +1272,7 @@ const TEMU_TRANSLATIONS: Record<TranslatedLocale, AffiliateOfferTranslation> = {
     shortDescription: 'Cecília 的商店促銷連結',
     longDescription:
       'Em Casa com Cecília 沒有 Temu 的優惠碼：下方按鈕會透過 Cecília 的連結開啟商店，並帶出進行中的促銷。每件商品的價格和折扣，以 Temu 在商品頁面和購物車顯示的為準。',
-    metaTitle: 'Temu：Cecília 連結的促銷',
+    metaTitle: 'Temu 優惠碼與促銷？透過 Cecília 連結查看現行優惠',
     metaDescription:
       'Cecília 的 Temu 連結會開啟商店並帶出進行中的促銷。我們沒有優惠碼，運費和退貨依 Temu 的規定。',
     eligibleCategories: 'Temu 的所有類別；各項促銷適用的商品以商店標示為準',
@@ -1338,7 +1338,7 @@ const TEMU_TRANSLATIONS: Record<TranslatedLocale, AffiliateOfferTranslation> = {
     shortDescription: 'Cecília 的商店促销链接',
     longDescription:
       'Em Casa com Cecília 没有 Temu 的优惠码：下方按钮会通过 Cecília 的链接打开商店，并带出进行中的促销。每件商品的价格和折扣，以 Temu 在商品页面和购物车显示的为准。',
-    metaTitle: 'Temu：Cecília 链接的促销',
+    metaTitle: 'Temu 优惠码与促销？通过 Cecília 链接查看现行优惠',
     metaDescription:
       'Cecília 的 Temu 链接会打开商店并带出进行中的促销。我们没有优惠码，运费和退货以 Temu 的规定为准。',
     eligibleCategories: 'Temu 的所有品类；各项促销适用的商品以商店标示为准',
@@ -1404,7 +1404,7 @@ const TEMU_TRANSLATIONS: Record<TranslatedLocale, AffiliateOfferTranslation> = {
     shortDescription: 'رابط سيسيليا إلى عروض المتجر',
     longDescription:
       'ليس لدى Em Casa com Cecília كوبون خاص بـ Temu: يفتح الزر أدناه المتجر عبر رابط سيسيليا، مع العروض المتاحة حاليًا. سعر كل منتج وخصمه هما ما تعرضه Temu في صفحة المنتج وفي السلة.',
-    metaTitle: 'عروض Temu عبر رابط سيسيليا',
+    metaTitle: 'كوبون وعروض Temu؟ العروض الحالية عبر رابط سيسيليا',
     metaDescription:
       'رابط سيسيليا إلى Temu يفتح المتجر مع العروض المتاحة حاليًا. لا يوجد كوبون من جانبنا؛ الشحن والإرجاع يخضعان لقواعد Temu في بلدك.',
     eligibleCategories: 'جميع فئات Temu؛ كل عرض يسري على المنتجات التي يحددها المتجر',
@@ -1474,7 +1474,7 @@ const ALIEXPRESS_TRANSLATIONS: Record<TranslatedLocale, AffiliateOfferTranslatio
     shortDescription: 'Cecília\'s link to the store\'s promotions',
     longDescription:
       'Em Casa com Cecília has no coupon for AliExpress: the button below opens the store through Cecília\'s link, with whatever promotions are live. The price, shipping and delivery time of each product are the ones AliExpress shows on its page.',
-    metaTitle: 'AliExpress: promotions through Cecília\'s link',
+    metaTitle: 'AliExpress Promo & Coupon? Live Deals via Cecília\'s Link',
     metaDescription:
       'Cecília\'s link to AliExpress: opens the store with whatever promotions are live. No coupon from us; shipping and returns vary by seller and country.',
     eligibleCategories: 'All AliExpress categories; each promotion applies to the products the store indicates',
@@ -1540,7 +1540,7 @@ const ALIEXPRESS_TRANSLATIONS: Record<TranslatedLocale, AffiliateOfferTranslatio
     shortDescription: 'enlace de Cecília a las promociones de la tienda',
     longDescription:
       'Em Casa com Cecília no tiene cupón de AliExpress: el botón de abajo abre la tienda con el enlace de Cecília, con las promociones que estén activas. El precio, el envío y el plazo de cada producto son los que AliExpress muestra en su página.',
-    metaTitle: 'AliExpress: promociones con el enlace de Cecília',
+    metaTitle: '¿Cupón AliExpress? Ofertas y promociones con el enlace de Cecília',
     metaDescription:
       'Enlace de Cecília a AliExpress: abre la tienda con las promociones activas. No hay cupón nuestro; envío y devolución cambian según el vendedor y el país.',
     eligibleCategories: 'Todas las categorías de AliExpress; cada promoción vale para los productos que indique la tienda',
@@ -1606,7 +1606,7 @@ const ALIEXPRESS_TRANSLATIONS: Record<TranslatedLocale, AffiliateOfferTranslatio
     shortDescription: 'lien de Cecília vers les promotions de la boutique',
     longDescription:
       'Em Casa com Cecília n\'a pas de code promo pour AliExpress\u00a0: le bouton ci-dessous ouvre la boutique via le lien de Cecília, avec les promotions en cours. Le prix, la livraison et le délai de chaque produit sont ceux qu\'AliExpress affiche sur sa page.',
-    metaTitle: 'AliExpress\u00a0: promotions via le lien de Cecília',
+    metaTitle: 'Code promo AliExpress\u00a0? Offres et promo via le lien de Cecília',
     metaDescription:
       'Lien de Cecília vers AliExpress\u00a0: ouvre la boutique avec les promotions en cours. Pas de code promo de notre part, livraison et retours selon le vendeur.',
     eligibleCategories: 'Toutes les catégories de AliExpress\u00a0; chaque promotion s\'applique aux produits indiqués par la boutique',
@@ -1672,7 +1672,7 @@ const ALIEXPRESS_TRANSLATIONS: Record<TranslatedLocale, AffiliateOfferTranslatio
     shortDescription: 'Cecílias Link zu den Aktionen des Shops',
     longDescription:
       'Em Casa com Cecília hat keinen Gutscheincode für AliExpress: Der Button unten öffnet den Shop über Cecílias Link, mit den aktuellen Aktionen. Preis, Versand und Lieferzeit jedes Produkts sind die, die AliExpress auf der Produktseite anzeigt.',
-    metaTitle: 'AliExpress: Aktionen über Cecílias Link',
+    metaTitle: 'AliExpress Gutschein? Angebote & Promo über Cecílias Link',
     metaDescription:
       'Cecílias Link zu AliExpress: öffnet den Shop mit den aktuellen Aktionen. Kein Gutscheincode von uns; Versand und Rückgabe hängen von Verkäufer und Land ab.',
     eligibleCategories: 'Alle Kategorien von AliExpress; jede Aktion gilt für die Produkte, die der Shop angibt',
@@ -1738,7 +1738,7 @@ const ALIEXPRESS_TRANSLATIONS: Record<TranslatedLocale, AffiliateOfferTranslatio
     shortDescription: 'link di Cecília per le promozioni del negozio',
     longDescription:
       'Em Casa com Cecília non ha un coupon per AliExpress: il pulsante qui sotto apre il negozio con il link di Cecília, con le promozioni in corso. Il prezzo, la spedizione e i tempi di ogni prodotto sono quelli che AliExpress mostra nella sua pagina.',
-    metaTitle: 'AliExpress: promozioni con il link di Cecília',
+    metaTitle: 'Coupon e promo AliExpress? Offerte con il link di Cecília',
     metaDescription:
       'Link di Cecília per AliExpress: apre il negozio con le promozioni in corso. Nessun coupon nostro; spedizione e resi cambiano per venditore e paese.',
     eligibleCategories: 'Tutte le categorie di AliExpress; ogni promozione vale per i prodotti indicati dal negozio',
@@ -1804,7 +1804,7 @@ const ALIEXPRESS_TRANSLATIONS: Record<TranslatedLocale, AffiliateOfferTranslatio
     shortDescription: '스토어 프로모션으로 연결되는 Cecília의 링크',
     longDescription:
       'Em Casa com Cecília에는 AliExpress 쿠폰이 없습니다. 아래 버튼은 Cecília의 링크로 진행 중인 프로모션과 함께 스토어를 엽니다. 상품별 가격, 배송비, 배송 기간은 AliExpress가 각 상품 페이지에 표시하는 대로입니다.',
-    metaTitle: 'AliExpress: Cecília 링크 프로모션',
+    metaTitle: 'AliExpress 쿠폰·프로모션 안내: Cecília 링크로 보는 혜택',
     metaDescription:
       'Cecília의 AliExpress 링크: 진행 중인 프로모션과 함께 스토어가 열립니다. 쿠폰은 없고 배송·반품은 판매자와 국가별로 다릅니다.',
     eligibleCategories: 'AliExpress의 모든 카테고리. 프로모션별 적용 상품은 스토어가 안내하는 대로입니다',
@@ -1870,7 +1870,7 @@ const ALIEXPRESS_TRANSLATIONS: Record<TranslatedLocale, AffiliateOfferTranslatio
     shortDescription: 'ストアのプロモーションへの Cecília のリンク',
     longDescription:
       'Em Casa com Cecília に AliExpress のクーポンはありません。下のボタンから Cecília のリンクで、開催中のプロモーションとともにストアが開きます。各商品の価格、送料、配送日数は、AliExpress が商品ページに表示するとおりです。',
-    metaTitle: 'AliExpress：Cecília のリンクのプロモーション',
+    metaTitle: 'AliExpress クーポン・セール情報：Cecília のリンクのオファー',
     metaDescription:
       'Cecília の AliExpress リンクで、開催中のプロモーションとともにストアが開きます。クーポンはなく、送料と返品は出品者と国で変わります。',
     eligibleCategories: 'AliExpress のすべてのカテゴリー。プロモーションごとの対象商品はストアの案内に従います',
@@ -1936,7 +1936,7 @@ const ALIEXPRESS_TRANSLATIONS: Record<TranslatedLocale, AffiliateOfferTranslatio
     shortDescription: 'Cecília 的商店促銷連結',
     longDescription:
       'Em Casa com Cecília 沒有 AliExpress 的優惠碼：下方按鈕會透過 Cecília 的連結開啟商店，並帶出進行中的促銷。每件商品的價格、運費和送達時間，以 AliExpress 在商品頁面顯示的為準。',
-    metaTitle: 'AliExpress：Cecília 連結的促銷',
+    metaTitle: 'AliExpress 優惠碼與促銷？透過 Cecília 連結查看優惠',
     metaDescription:
       'Cecília 的 AliExpress 連結會開啟商店並帶出進行中的促銷。我們沒有優惠碼，運費和退貨視賣家及國家而定。',
     eligibleCategories: 'AliExpress 的所有類別；各項促銷適用的商品以商店標示為準',
@@ -2002,7 +2002,7 @@ const ALIEXPRESS_TRANSLATIONS: Record<TranslatedLocale, AffiliateOfferTranslatio
     shortDescription: 'Cecília 的商店促销链接',
     longDescription:
       'Em Casa com Cecília 没有 AliExpress 的优惠码：下方按钮会通过 Cecília 的链接打开商店，并带出进行中的促销。每件商品的价格、运费和送达时间，以 AliExpress 在商品页面显示的为准。',
-    metaTitle: 'AliExpress：Cecília 链接的促销',
+    metaTitle: 'AliExpress 优惠码与促销？通过 Cecília 链接查看优惠',
     metaDescription:
       'Cecília 的 AliExpress 链接会打开商店并带出进行中的促销。我们没有优惠码，运费和退货视卖家及国家而定。',
     eligibleCategories: 'AliExpress 的所有品类；各项促销适用的商品以商店标示为准',
@@ -2068,7 +2068,7 @@ const ALIEXPRESS_TRANSLATIONS: Record<TranslatedLocale, AffiliateOfferTranslatio
     shortDescription: 'رابط سيسيليا إلى عروض المتجر',
     longDescription:
       'ليس لدى Em Casa com Cecília كوبون خاص بـ AliExpress: يفتح الزر أدناه المتجر عبر رابط سيسيليا، مع العروض المتاحة حاليًا. سعر كل منتج وشحنه ومدة توصيله هي ما تعرضه AliExpress في صفحته.',
-    metaTitle: 'عروض AliExpress عبر رابط سيسيليا',
+    metaTitle: 'كوبون وعروض AliExpress؟ العروض الحالية عبر رابط سيسيليا',
     metaDescription:
       'رابط سيسيليا إلى AliExpress يفتح المتجر مع العروض المتاحة حاليًا. لا يوجد كوبون من جانبنا؛ الشحن والإرجاع يختلفان بحسب البائع والبلد.',
     eligibleCategories: 'جميع فئات AliExpress؛ كل عرض يسري على المنتجات التي يحددها المتجر',
@@ -3130,9 +3130,9 @@ const HOSTINGER_TRANSLATIONS: Record<TranslatedLocale, CodeOfferTranslation> = {
     shortDescription: 'new purchases of Hostinger plans, for new and existing customers',
     longDescription:
       'SONAR20 takes 20% off the first period of a new Hostinger purchase, whether you are new to Hostinger or already a customer. It goes in on 12-, 24- and 48-month terms; on 1-month plans, acceptance depends on the plan. Paste the code into the "Have a coupon code?" field in the cart and check the "Coupon applied" line before paying. Renewals are charged at the list price. Em Casa com Cecília has run on Hostinger since 2024.',
-    metaTitle: 'Hostinger Coupon Code: SONAR20 for 20% Off New Purchases',
+    metaTitle: 'Hostinger 20% Off Referral & Coupon Code: SONAR20',
     metaDescription:
-      'Hostinger coupon: SONAR20 takes 20% off a new purchase, for new and existing customers, Black Friday included, on 12-month plans and up.',
+      'Hostinger 20% off referral & coupon code SONAR20: save 20% on new 12- to 48-month plans (and Black Friday) for new and existing customers.',
     eligibleCategories:
       'New purchases of Hostinger plans, for new and existing customers, on 12-, 24- and 48-month terms; on 1-month plans it depends on the plan; renewals and standalone domains are not discounted',
     validity: 'Coupon active while the partnership runs',
@@ -3145,9 +3145,9 @@ const HOSTINGER_TRANSLATIONS: Record<TranslatedLocale, CodeOfferTranslation> = {
     brandLogoAlt: 'Hostinger logo',
     faqs: [
       {
-        question: 'What is the Hostinger coupon code?',
+        question: 'What is the Hostinger 20% off referral and coupon code?',
         answer:
-          'The Hostinger coupon code is SONAR20, with 20% off the first period of an eligible new purchase: enter it in the "Have a coupon code?" field in the cart and check the "Coupon applied" line before paying. Renewals are charged at the list price, with no discount.',
+          'The Hostinger coupon and referral code is SONAR20, taking 20% off the first period of an eligible new purchase for new and existing customers (in our November 14, 2026 test, 48-month Startup dropped from $383.52 to $306.82). Enter SONAR20 in "Have a coupon code?" in the cart and check "Coupon applied" before paying; renewals charge the list price.',
       },
       {
         question: 'Does the Hostinger coupon SONAR20 work today?',
@@ -3229,9 +3229,9 @@ const HOSTINGER_TRANSLATIONS: Record<TranslatedLocale, CodeOfferTranslation> = {
       'compras nuevas de planes de Hostinger, para clientes nuevos y actuales',
     longDescription:
       'SONAR20 da un 20% de descuento en el primer período de una compra nueva en Hostinger, tanto si eres cliente nuevo como si ya lo eres. Entra en los ciclos de 12, 24 y 48 meses; en los planes de 1 mes, depende del plan. Pega el código en el campo "Have a coupon code?" del carrito y revisa la línea "Coupon applied" antes de pagar. La renovación se cobra a precio de lista. Em Casa com Cecília funciona en Hostinger desde 2024.',
-    metaTitle: 'Cupón Hostinger: SONAR20 con 20% en compras nuevas',
+    metaTitle: 'Cupón y código de referido Hostinger: SONAR20 con 20% OFF',
     metaDescription:
-      'Cupón de Hostinger: SONAR20 da un 20% en compras nuevas, para clientes nuevos y actuales, con Black Friday, en planes de 12 meses o más.',
+      'Cupón y código de referido Hostinger SONAR20: 20% de descuento en compras nuevas (planes de 12 a 48 meses y Black Friday) para clientes nuevos y actuales.',
     eligibleCategories:
       'Compras nuevas de planes de Hostinger, para clientes nuevos y actuales, en los ciclos de 12, 24 y 48 meses; en los planes de 1 mes depende del plan; la renovación y los dominios sueltos no tienen descuento',
     validity: 'Cupón activo mientras dure la colaboración',
@@ -3328,9 +3328,9 @@ const HOSTINGER_TRANSLATIONS: Record<TranslatedLocale, CodeOfferTranslation> = {
       'nouveaux achats d’offres Hostinger, pour les nouveaux clients et les clients existants',
     longDescription:
       `Le code promo SONAR20 accorde 20${NBSP}% de réduction sur la première période d’un nouvel achat chez Hostinger, que vous soyez nouveau client ou déjà client. Il s’applique aux durées de 12, 24 et 48 mois${NBSP}; sur les offres d’un mois, cela dépend de l’offre. Saisissez le code dans le champ "Have a coupon code${NBSP}?" du panier et vérifiez la ligne "Coupon applied" avant de payer. Le renouvellement est facturé au prix catalogue. Em Casa com Cecília est hébergé chez Hostinger depuis 2024.`,
-    metaTitle: `Code promo Hostinger${NBSP}: SONAR20, 20${NBSP}% sur un nouvel achat`,
+    metaTitle: `Code promo et parrainage Hostinger${NBSP}: SONAR20 (-20${NBSP}%)`,
     metaDescription:
-      `Code promo Hostinger${NBSP}: SONAR20 donne 20${NBSP}% sur un nouvel achat, pour nouveaux et anciens clients, Black Friday inclus, sur les offres de 12 mois ou plus.`,
+      `Code promo et parrainage Hostinger SONAR20${NBSP}: 20${NBSP}% de réduction sur un nouvel achat (12 à 48 mois, Black Friday inclus) pour nouveaux et anciens clients.`,
     eligibleCategories:
       `Nouveaux achats d’offres Hostinger, pour les nouveaux clients et les clients existants, sur les durées de 12, 24 et 48 mois${NBSP}; sur les offres d’un mois, cela dépend de l’offre${NBSP}; le renouvellement et le nom de domaine seul ne sont pas remisés`,
     validity: 'Code promo valable pendant toute la durée du partenariat',
@@ -3415,9 +3415,9 @@ const HOSTINGER_TRANSLATIONS: Record<TranslatedLocale, CodeOfferTranslation> = {
     shortDescription: 'Neukäufe bei Hostinger, für Neu- und Bestandskunden',
     longDescription:
       `SONAR20 gewährt 20${NBSP}% Rabatt auf die erste Laufzeit eines Neukaufs bei Hostinger, egal ob Sie neu bei Hostinger sind oder schon Kunde. Bei Laufzeiten von 12, 24 und 48 Monaten wird er abgezogen; bei Tarifen mit 1 Monat Laufzeit hängt es vom Tarif ab. Fügen Sie den Code im Warenkorb in das Feld „Have a coupon code?“ ein und prüfen Sie vor der Zahlung die Zeile „Coupon applied“. Die Verlängerung wird zum Listenpreis berechnet. Em Casa com Cecília läuft seit 2024 bei Hostinger.`,
-    metaTitle: `Hostinger-Gutschein: SONAR20 gibt 20${NBSP}% auf Neukäufe`,
+    metaTitle: `Hostinger Gutschein & Empfehlungscode: SONAR20 (20${NBSP}% Rabatt)`,
     metaDescription:
-      `Hostinger-Gutschein: SONAR20 gibt 20${NBSP}% auf einen Neukauf, für Neu- und Bestandskunden, auch zum Black Friday, ab 12 Monaten Laufzeit.`,
+      `Hostinger Gutschein und Empfehlungscode SONAR20: 20${NBSP}% Rabatt auf Neukäufe ab 12 Monaten Laufzeit (auch Black Friday) für Neu- und Bestandskunden.`,
     eligibleCategories:
       'Neukäufe von Hostinger-Tarifen, für Neu- und Bestandskunden, bei Laufzeiten von 12, 24 und 48 Monaten; bei 1 Monat Laufzeit hängt es vom Tarif ab; Verlängerungen und einzelne Domains ohne Rabatt',
     validity: 'Gutschein gültig, solange die Partnerschaft läuft',
@@ -3502,9 +3502,9 @@ const HOSTINGER_TRANSLATIONS: Record<TranslatedLocale, CodeOfferTranslation> = {
     shortDescription: 'nuovi acquisti di piani Hostinger, per clienti nuovi ed esistenti',
     longDescription:
       'SONAR20 dà il 20% di sconto sul primo periodo di un nuovo acquisto Hostinger, che tu sia nuovo cliente o già cliente. Vale sui cicli da 12, 24 e 48 mesi; sui piani da 1 mese dipende dal piano. Incolla il codice nel campo "Have a coupon code?" del carrello e controlla la riga "Coupon applied" prima di pagare. Il rinnovo si paga al prezzo di listino. Em Casa com Cecília è ospitato su Hostinger dal 2024.',
-    metaTitle: 'Coupon Hostinger: SONAR20 con 20% sui nuovi acquisti',
+    metaTitle: 'Codice sconto e referral Hostinger: SONAR20 (-20%)',
     metaDescription:
-      'Coupon Hostinger: SONAR20 dà il 20% su un nuovo acquisto, per clienti nuovi ed esistenti, Black Friday incluso, sui piani da 12 mesi in su.',
+      'Codice sconto, coupon e referral Hostinger SONAR20: 20% di sconto sui nuovi acquisti da 12 a 48 mesi (Black Friday incluso) per clienti nuovi ed esistenti.',
     eligibleCategories:
       'Nuovi acquisti di piani Hostinger, per clienti nuovi ed esistenti, sui cicli da 12, 24 e 48 mesi; sui piani da 1 mese dipende dal piano; il rinnovo e il dominio singolo non sono scontati',
     validity: 'Coupon attivo finché dura la partnership',
@@ -3517,9 +3517,9 @@ const HOSTINGER_TRANSLATIONS: Record<TranslatedLocale, CodeOfferTranslation> = {
     brandLogoAlt: 'Logo di Hostinger',
     faqs: [
       {
-        question: 'Qual è il coupon Hostinger?',
+        question: 'Qual è il codice sconto e coupon Hostinger?',
         answer:
-          'Il coupon Hostinger è SONAR20, con il 20% di sconto sul primo periodo di un nuovo acquisto idoneo: inserisci il codice nel campo "Have a coupon code?" del carrello e controlla la riga "Coupon applied" prima di pagare. Il rinnovo si paga al prezzo di listino, senza sconto.',
+          'Il codice sconto e referral Hostinger è SONAR20, con il 20% di sconto sul primo periodo di un nuovo acquisto idoneo: inserisci il codice nel campo "Have a coupon code?" del carrello e controlla la riga "Coupon applied" prima di pagare. Il rinnovo si paga al prezzo di listino, senza sconto.',
       },
       {
         question: 'Il coupon Hostinger SONAR20 funziona oggi?',
@@ -3600,9 +3600,9 @@ const HOSTINGER_TRANSLATIONS: Record<TranslatedLocale, CodeOfferTranslation> = {
     shortDescription: 'Hostinger 요금제 신규 구매, 신규 및 기존 고객 대상',
     longDescription:
       'SONAR20으로 Hostinger 신규 구매의 첫 결제 기간에 20% 할인을 받을 수 있습니다. Hostinger를 처음 이용하든 이미 고객이든 상관없습니다. 12개월, 24개월, 48개월 기간에는 적용되고, 1개월 요금제는 요금제에 따라 적용 여부가 다릅니다. 장바구니의 "Have a coupon code?" 입력란에 코드를 붙여넣고, 결제 전에 "Coupon applied" 줄을 확인하세요. 갱신은 정가로 청구됩니다. Em Casa com Cecília는 2024년부터 Hostinger에서 운영 중입니다.',
-    metaTitle: 'Hostinger 쿠폰: SONAR20으로 신규 구매 20% 할인',
+    metaTitle: 'Hostinger 할인 쿠폰·추천 코드: SONAR20 신규 구매 20% 할인',
     metaDescription:
-      'Hostinger 쿠폰: SONAR20으로 신규 구매 20% 할인, 신규 및 기존 고객, 블랙 프라이데이 포함, 12개월 이상 요금제.',
+      'Hostinger 할인 쿠폰 및 추천 코드 SONAR20: 신규·기존 고객 모두 12개월 이상 신규 구매(블랙 프라이데이 포함) 20% 할인.',
     eligibleCategories:
       'Hostinger 요금제의 신규 구매, 신규 및 기존 고객 대상, 12·24·48개월 기간 적용(1개월 요금제는 요금제에 따라 다름), 갱신과 도메인 단독 구매는 할인 없음',
     validity: '파트너십이 진행되는 동안 쿠폰 유효',
@@ -3698,9 +3698,9 @@ const HOSTINGER_TRANSLATIONS: Record<TranslatedLocale, CodeOfferTranslation> = {
     shortDescription: 'Hostingerのプランの新規購入、新規・既存の顧客が対象',
     longDescription:
       'SONAR20を使うと、Hostingerの新規購入の最初の期間が20%オフになります。Hostingerを初めて使う方も既存の顧客も対象です。12か月・24か月・48か月の期間では適用され、1か月プランはプランによって受け付けられるかどうかが異なります。カートの「Have a coupon code?」欄にコードを貼り付け、お支払い前に「Coupon applied」の行を確認してください。更新は通常料金で請求されます。Em Casa com Cecíliaは2024年からHostingerで運営しています。',
-    metaTitle: 'Hostingerクーポン：SONAR20で新規購入が20%オフ',
+    metaTitle: 'Hostinger クーポン・紹介コード：SONAR20で新規購入20%オフ',
     metaDescription:
-      'Hostingerクーポン：SONAR20で新規購入が20%オフ。新規・既存の顧客が対象で、ブラックフライデーも含み、12か月以上のプランで使えます。',
+      'Hostinger クーポン・紹介コード SONAR20：新規・既存顧客とも12か月以上の新規購入（ブラックフライデー含む）が20%オフ。',
     eligibleCategories:
       'Hostingerのプランの新規購入、新規・既存の顧客が対象。12・24・48か月の期間で適用（1か月プランはプランによる）。更新とドメイン単体は割引なし',
     validity: 'パートナーシップの期間中有効なクーポン',
@@ -3796,8 +3796,8 @@ const HOSTINGER_TRANSLATIONS: Record<TranslatedLocale, CodeOfferTranslation> = {
     shortDescription: 'Hostinger 方案的新購買，新客與既有客戶皆適用',
     longDescription:
       'SONAR20 可享 Hostinger 新購買第一個計費期間 20% 折扣，無論你是 Hostinger 新客或既有客戶。12、24 與 48 個月期適用；1 個月期的方案則視方案而定。請把代碼貼到購物車的「Have a coupon code?」欄位，付款前確認「Coupon applied」一行。續約以原價計費。Em Casa com Cecília 自 2024 年起架設在 Hostinger 上。',
-    metaTitle: 'Hostinger 優惠碼：SONAR20 新購買享 20% 折扣',
-    metaDescription: 'Hostinger 優惠碼：SONAR20 新購買享 20% 折扣，新客與既有客戶皆適用，含黑色星期五，適用 12 個月以上方案。',
+    metaTitle: 'Hostinger 優惠碼與推薦碼：SONAR20 新購買享 20% 折扣',
+    metaDescription: 'Hostinger 優惠碼與推薦碼 SONAR20：新客與既有客戶購買 12 個月以上新方案（含黑色星期五）享 20% 折扣。',
     eligibleCategories: 'Hostinger 方案的新購買，新客與既有客戶皆適用，12、24、48 個月期適用（1 個月期視方案而定）；續約與單獨購買網域不打折',
     validity: '合作期間內有效',
     reusable: '新購買時，新客與已有 Hostinger 帳戶的客戶皆適用（續約不打折）',
@@ -3892,8 +3892,8 @@ const HOSTINGER_TRANSLATIONS: Record<TranslatedLocale, CodeOfferTranslation> = {
     shortDescription: 'Hostinger 套餐的新购买，新客户和现有客户均可使用',
     longDescription:
       'SONAR20 可享 Hostinger 新购买第一个计费周期 20% 折扣，无论你是 Hostinger 新客户还是现有客户。12、24 和 48 个月期适用；1 个月期的套餐则视套餐而定。请将代码粘贴到购物车的「Have a coupon code?」栏，付款前确认「Coupon applied」一行。续费按原价收取。Em Casa com Cecília 自 2024 年起运行在 Hostinger 上。',
-    metaTitle: 'Hostinger 优惠码：SONAR20 新购买享 20% 折扣',
-    metaDescription: 'Hostinger 优惠码：SONAR20 新购买享 20% 折扣，新客户和现有客户均可使用，含黑色星期五，适用 12 个月以上套餐。',
+    metaTitle: 'Hostinger 优惠码与推荐码：SONAR20 新购买享 20% 折扣',
+    metaDescription: 'Hostinger 优惠码与推荐码 SONAR20：新老客户购买 12 个月以上新套餐（含黑色星期五）享 20% 折扣。',
     eligibleCategories:
       'Hostinger 套餐的新购买，新客户和现有客户均可使用，12、24、48 个月期适用（1 个月期视套餐而定）；续费和单独购买域名不打折',
     validity: '合作期间有效',
@@ -3989,9 +3989,9 @@ const HOSTINGER_TRANSLATIONS: Record<TranslatedLocale, CodeOfferTranslation> = {
     shortDescription: 'المشتريات الجديدة لباقات Hostinger، للعملاء الجدد والحاليين',
     longDescription:
       'يمنحك الرمز SONAR20 خصمًا بنسبة 20% على الفترة الأولى من أي شراء جديد في Hostinger، سواء كنت عميلًا جديدًا أو عميلًا حاليًا. يُطبَّق على مدد 12 و24 و48 شهرًا؛ أما الباقات لمدة شهر واحد فيعتمد قبوله على الباقة. الصق الرمز في خانة "Have a coupon code?" في السلة وراجع سطر "Coupon applied" قبل الدفع. يُحاسَب التجديد بالسعر المعتاد. يعمل موقع Em Casa com Cecília على Hostinger منذ عام 2024.',
-    metaTitle: 'كود خصم Hostinger: SONAR20 بخصم 20% على المشتريات الجديدة',
+    metaTitle: 'كود خصم وإحالة Hostinger: رمز SONAR20 بخصم 20%',
     metaDescription:
-      'كود خصم Hostinger: يمنحك SONAR20 خصمًا بنسبة 20% على الشراء الجديد للعملاء الجدد والحاليين، بما في ذلك الجمعة البيضاء، على الباقات من 12 شهرًا فأكثر.',
+      'كود خصم ورمز إحالة Hostinger SONAR20: خصم 20% على المشتريات الجديدة من 12 شهرًا فأكثر (شامل الجمعة البيضاء) للعملاء الجدد والحاليين.',
     eligibleCategories:
       'المشتريات الجديدة لباقات Hostinger، للعملاء الجدد والحاليين، على مدد 12 و24 و48 شهرًا؛ وفي الباقات لمدة شهر واحد يعتمد ذلك على الباقة؛ لا خصم على التجديد ولا على النطاق المنفرد',
     validity: 'الكوبون فعّال طوال مدة الشراكة',
@@ -4172,9 +4172,9 @@ const STARLINK_TRANSLATIONS: Record<TranslatedLocale, AffiliateOfferTranslation>
     shortDescription: 'new customer: $100 in the US or £40 in the UK from Starlink\'s official referral program through Cecília\'s link, as service credit after two months',
     longDescription:
       'New customer? Order through Cecília\'s referral link to qualify for Starlink\'s referral reward: $100 in the US or £40 in the UK. Pay the first month, activate your service and stay subscribed for two full months. The reward is normally applied as service credit on your bill, or as cash where Starlink offers it; it does not reduce the kit\'s checkout price. In other countries the amount is different and shows in your Starlink account. It is valid on Residential and Roam plans ordered on starlink.com, and Starlink offers a full refund of the kit and the first month if you return it within 30 days.',
-    metaTitle: 'Starlink referral code? Get your bonus via Cecília\'s link',
+    metaTitle: 'Starlink: $100 US · £40 UK Referral Bonus After Two Months',
     metaDescription:
-      'Starlink referral: new customers who sign up through Cecília\'s link get a reward after two months, as credit or cash. Residential and Roam plans.',
+      'Starlink referral bonus ($100 US · £40 UK): new customers signing up via Cecília\'s link get the bonus after two months, as credit or cash.',
     eligibleCategories: 'First subscription to a Residential or Roam plan, ordered on starlink.com through the link',
     validity: 'Active while Starlink\'s referral program runs; the amount is the one Starlink pays in the country where you sign up',
     reusable: 'Only for people who have never been Starlink customers: current and former customers do not get the reward',
@@ -4250,7 +4250,7 @@ const STARLINK_TRANSLATIONS: Record<TranslatedLocale, AffiliateOfferTranslation>
     shortDescription: 'cliente nuevo: 45 € en España del programa oficial de referidos de Starlink con el enlace de Cecília, como crédito de servicio tras dos meses',
     longDescription:
       'Cliente nuevo: regístrate con el enlace de Cecília para optar a la recompensa del programa de referidos de Starlink: 45 € en España. Paga el primer mes, activa tu servicio y mantén la suscripción durante dos meses completos. La recompensa se aplica normalmente como crédito de servicio en tu factura, o en efectivo donde Starlink lo ofrece; no reduce el precio del kit al pagar el pedido. En otros países el importe es distinto y aparece en tu cuenta de Starlink. Vale para los planes Residential y Roam contratados en starlink.com, y Starlink ofrece el reembolso completo del kit y del primer mes si lo devuelves en 30 días.',
-    metaTitle: '¿Código de referido Starlink? Recompensa con el enlace de Cecília',
+    metaTitle: 'Starlink: 45 € por referido en España tras 2 meses',
     metaDescription:
       'Referido de Starlink: los nuevos clientes que se registran con el enlace de Cecília reciben una recompensa a los dos meses, en crédito o efectivo.',
     eligibleCategories: 'Primera suscripción a un plan Residential o Roam, contratada en starlink.com con el enlace',
@@ -4328,7 +4328,7 @@ const STARLINK_TRANSLATIONS: Record<TranslatedLocale, AffiliateOfferTranslation>
     shortDescription: 'nouveau client\u00a0: 45\u00a0€ en France grâce au programme de parrainage officiel de Starlink via le lien de Cecília, sous forme de crédit de service après deux mois',
     longDescription:
       'Nouveau client\u00a0? Inscrivez-vous avec le lien de Cecília pour être éligible à la récompense du programme de parrainage de Starlink\u00a0: 45\u00a0€ en France. Payez le premier mois, activez votre service et restez abonné pendant deux mois complets. La récompense est normalement appliquée sous forme de crédit de service sur votre facture, ou en argent là où Starlink le propose\u00a0; elle ne réduit pas le prix du kit à la commande. Dans les autres pays, le montant est différent et s\'affiche dans votre compte Starlink. Elle est valable pour les offres Residential et Roam commandées sur starlink.com, et Starlink propose le remboursement intégral du kit et du premier mois si vous le retournez sous 30 jours.',
-    metaTitle: 'Code parrainage Starlink\u00a0? Récompense via le lien de Cecília',
+    metaTitle: 'Starlink\u00a0: 45\u00a0€ par parrainage en France après 2 mois',
     metaDescription:
       'Parrainage Starlink\u00a0: les nouveaux clients inscrits via le lien de Cecília reçoivent une récompense après deux mois, en crédit ou en argent.',
     eligibleCategories: 'Premier abonnement à une offre Residential ou Roam, commandé sur starlink.com via le lien',
@@ -4406,7 +4406,7 @@ const STARLINK_TRANSLATIONS: Record<TranslatedLocale, AffiliateOfferTranslation>
     shortDescription: 'Neukunde: 45 € in Deutschland aus dem offiziellen Empfehlungsprogramm von Starlink über Cecílias Link, als Servicegutschrift nach zwei Monaten',
     longDescription:
       'Neukunde? Melde dich über Cecílias Empfehlungslink an, um die Prämie aus dem Empfehlungsprogramm von Starlink zu erhalten: 45 € in Deutschland. Zahle den ersten Monat, aktiviere deinen Dienst und bleibe zwei volle Monate Kunde. Die Prämie wird normalerweise als Servicegutschrift auf deiner Rechnung verrechnet, oder als Bargeld, wo Starlink es anbietet; sie senkt nicht den Preis des Kits an der Kasse. In anderen Ländern ist der Betrag anders und wird in deinem Starlink-Konto angezeigt. Sie gilt für Residential- und Roam-Tarife, die auf starlink.com bestellt werden, und Starlink bietet die volle Erstattung von Kit und erstem Monat an, wenn du es innerhalb von 30 Tagen zurückschickst.',
-    metaTitle: 'Starlink-Empfehlungscode? Deine Prämie über Cecílias Link',
+    metaTitle: 'Starlink: 45 € Empfehlungsbonus in Deutschland nach 2 Monaten',
     metaDescription:
       'Starlink-Empfehlung: Neue Kunden, die sich über Cecílias Link anmelden, erhalten nach zwei Monaten eine Prämie als Guthaben oder Bargeld. Residential und Roam.',
     eligibleCategories: 'Erstes Abo eines Residential- oder Roam-Tarifs, über den Link auf starlink.com bestellt',
@@ -4484,7 +4484,7 @@ const STARLINK_TRANSLATIONS: Record<TranslatedLocale, AffiliateOfferTranslation>
     shortDescription: 'nuovo cliente: 45 € in Italia dal programma referral ufficiale di Starlink con il link di Cecília, come credito di servizio dopo due mesi',
     longDescription:
       'Nuovo cliente? Ordina tramite il link referral di Cecília per avere diritto al premio del programma referral di Starlink: 45 € in Italia. Paga il primo mese, attiva il servizio e resta abbonato per due mesi completi. Il premio viene applicato normalmente come credito di servizio sulla fattura, o in denaro dove Starlink lo offre; non riduce il prezzo del kit al checkout. In altri paesi l\'importo è diverso e compare nel tuo account Starlink. Vale per i piani Residential e Roam ordinati su starlink.com, e Starlink offre il rimborso completo del kit e del primo mese se lo restituisci entro 30 giorni.',
-    metaTitle: 'Codice referral Starlink? Il tuo premio con il link di Cecília',
+    metaTitle: 'Starlink: bonus referral di 45 € in Italia dopo 2 mesi',
     metaDescription:
       'Referral Starlink: i nuovi clienti che si iscrivono con il link di Cecília ricevono un premio dopo due mesi, in credito o denaro. Piani Residential e Roam.',
     eligibleCategories: 'Primo abbonamento a un piano Residential o Roam, ordinato su starlink.com tramite il link',
@@ -4562,7 +4562,7 @@ const STARLINK_TRANSLATIONS: Record<TranslatedLocale, AffiliateOfferTranslation>
     shortDescription: '신규 고객이라면 Cecília의 링크로 Starlink 공식 추천 프로그램의 보상을 2개월 후 서비스 크레딧으로 받을 수 있습니다. 금액은 국가마다 다릅니다(예: 한국 65,000원)',
     longDescription:
       '신규 고객이라면 Cecília의 링크로 주문해 Starlink 추천 보상을 받으세요. 금액은 가입하는 국가에 따라 다릅니다(예: 한국 65,000원). 첫 달 요금을 내고 서비스를 개통한 뒤 2개월 동안 가입을 유지해야 합니다. 보상은 보통 청구서에 서비스 크레딧으로 적용되며, Starlink가 제공하는 지역에서는 현금으로 지급됩니다. 키트 주문 결제 금액을 깎아 주는 할인이 아닙니다. 해당 국가의 금액은 Starlink 계정에 표시됩니다. starlink.com에서 주문한 Residential과 Roam 요금제에 적용되며, 30일 이내에 반품하면 Starlink가 키트와 첫 달 요금을 전액 환불합니다.',
-    metaTitle: 'Starlink 추천 코드? Cecília의 링크로 보상 받기',
+    metaTitle: 'Starlink: 추천 가입 2개월 후 보너스 혜택 (한국 65,000원)',
     metaDescription:
       'Starlink 추천: Cecília의 링크로 가입한 신규 고객은 2개월 후 크레딧 또는 현금으로 보상을 받습니다. Residential, Roam 요금제.',
     eligibleCategories: '링크를 통해 starlink.com에서 주문한 Residential 또는 Roam 요금제의 첫 구독',
@@ -4640,7 +4640,7 @@ const STARLINK_TRANSLATIONS: Record<TranslatedLocale, AffiliateOfferTranslation>
     shortDescription: '日本の住所をお持ちの新規のお客様は、Cecília のリンクから Starlink 公式の紹介プログラムで 7,000 円を、2 か月後にサービスクレジットとして受け取れます',
     longDescription:
       '新規のお客様ですか？ Cecília の紹介リンクから注文すると、Starlink の紹介特典の対象になります。日本の住所をお持ちの場合は 7,000 円です。初月分を支払ってサービスを開通し、2 か月間継続して契約してください。特典は通常、請求書にサービスクレジットとして適用され、Starlink が対応している地域では現金で受け取れます。キットの注文時の支払額が安くなる割引ではありません。ほかの国では金額が異なり、Starlink のアカウントに表示されます。starlink.com で注文した Residential と Roam のプランが対象で、30 日以内に返品すれば、Starlink がキットと最初の 1 か月分を全額返金します。',
-    metaTitle: 'Starlink 紹介コード？Cecília のリンクで特典を受け取る',
+    metaTitle: 'Starlink：紹介リンク登録の2か月後に7,000円ボーナス特典',
     metaDescription:
       'Starlink の紹介特典：Cecília のリンクから登録した新規のお客様は、2 か月後にクレジットまたは現金で特典を受け取れます。Residential と Roam プラン。',
     eligibleCategories: 'リンク経由で starlink.com から注文した Residential または Roam プランの初回契約',
@@ -4718,7 +4718,7 @@ const STARLINK_TRANSLATIONS: Record<TranslatedLocale, AffiliateOfferTranslation>
     shortDescription: '新客戶透過 Cecília 的連結，可從 Starlink 官方推薦計畫獲得獎勵，使用服務滿兩個月後以服務抵免額發放；金額因國家而異（例如馬來西亞 RM180）',
     longDescription:
       '新客戶嗎？透過 Cecília 的推薦連結下單，即可符合 Starlink 推薦獎勵的資格，金額依你註冊所在的國家而定（例如馬來西亞 RM180）。請支付第一個月費用、啟用服務，並連續訂閱滿兩個月。獎勵通常以服務抵免額的形式套用在帳單上，在 Starlink 提供的地區也可選擇現金；它不會降低訂購套件時的結帳價格。你所在國家的金額會顯示在 Starlink 帳戶中。適用於在 starlink.com 訂購的 Residential 和 Roam 方案，如在 30 天內退貨，Starlink 會全額退還套件和第一個月的費用。',
-    metaTitle: 'Starlink 推薦碼？透過 Cecília 的連結領取獎勵',
+    metaTitle: 'Starlink：透過推薦連結訂閱滿兩個月領取推薦獎金（馬來西亞 RM180）',
     metaDescription:
       'Starlink 推薦：透過 Cecília 的連結註冊的新客戶，滿兩個月後可獲得抵免額或現金獎勵。適用於 Residential 和 Roam 方案。',
     eligibleCategories: '透過連結在 starlink.com 訂購的 Residential 或 Roam 方案的首次訂閱',
@@ -4796,7 +4796,7 @@ const STARLINK_TRANSLATIONS: Record<TranslatedLocale, AffiliateOfferTranslation>
     shortDescription: '新客户通过 Cecília 的链接，可从 Starlink 官方推荐计划获得奖励，使用服务满两个月后以服务抵扣额发放；金额因国家而异（例如马来西亚 RM180）',
     longDescription:
       '新客户吗？通过 Cecília 的推荐链接下单，即可符合 Starlink 推荐奖励的资格，金额取决于你注册所在的国家（例如马来西亚 RM180）。请支付第一个月费用、开通服务，并连续订阅满两个月。奖励通常以服务抵扣额的形式应用在账单上，在 Starlink 提供的地区也可选择现金；它不会降低订购套件时的结账价格。你所在国家的金额会显示在 Starlink 账户中。适用于在 starlink.com 订购的 Residential 和 Roam 套餐，如在 30 天内退货，Starlink 会全额退还套件和第一个月的费用。',
-    metaTitle: 'Starlink 推荐码？通过 Cecília 的链接领取奖励',
+    metaTitle: 'Starlink：通过推荐链接订阅满两个月领取推荐奖金（马来西亚 RM180）',
     metaDescription:
       'Starlink 推荐：通过 Cecília 的链接注册的新客户，满两个月后可获得抵扣额或现金奖励。适用于 Residential 和 Roam 套餐。',
     eligibleCategories: '通过链接在 starlink.com 订购的 Residential 或 Roam 套餐的首次订阅',
@@ -4874,7 +4874,7 @@ const STARLINK_TRANSLATIONS: Record<TranslatedLocale, AffiliateOfferTranslation>
     shortDescription: 'للعميل الجديد: ر.ق. 160 في قطر أو د.إ. 150 في الإمارات من برنامج الإحالة الرسمي في Starlink عبر رابط سيسيليا، على شكل رصيد خدمة بعد شهرين',
     longDescription:
       'عميل جديد؟ اطلب عبر رابط الإحالة الخاص بسيسيليا لتستحق مكافأة الإحالة من Starlink: ر.ق. 160 في قطر، د.إ. 150 في الإمارات، د.أ. 30 في الأردن، ر.ع. 15 في عُمان، د.ب. 15 في البحرين، د.ك. 15 في الكويت. ادفع الشهر الأول وفعّل خدمتك واستمر في الاشتراك شهرين كاملين. تُضاف المكافأة عادةً كرصيد خدمة على فاتورتك، أو كمبلغ نقدي حيث تتيح Starlink ذلك؛ ولا تخفض سعر الجهاز عند الدفع. في بلدان أخرى يختلف المبلغ ويظهر في حسابك على Starlink. تسري على باقتي Residential وRoam المطلوبتين من starlink.com، وتعيد Starlink كامل ثمن الجهاز والشهر الأول إذا أعدته خلال 30 يومًا.',
-    metaTitle: 'رمز إحالة Starlink؟ احصل على مكافأتك عبر رابط سيسيليا',
+    metaTitle: 'Starlink: مكافأة إحالة بعد شهرين (160 ر.ق قطر · 150 د.إ الإمارات)',
     metaDescription:
       'إحالة Starlink: العملاء الجدد الذين يسجلون عبر رابط سيسيليا يحصلون على مكافأة بعد شهرين، رصيدًا أو نقدًا. باقتا Residential وRoam.',
     eligibleCategories: 'أول اشتراك في باقة Residential أو Roam، يُطلب من starlink.com عبر الرابط',
