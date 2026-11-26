@@ -3185,7 +3185,7 @@ const STORE_COUPONS: Coupon[] = [
       {
         question: 'O cupom soma com produtos em promoção?',
         answer:
-          'Sim. Em 22/11/2026, na Black November, o Kit 3 Panetones de R$ 175,90 caiu para R$ 158,31 com o código (e R$ 150,39 no Pix); em 11/11/2026, um combo em oferta de R$ 106,59 caiu para R$ 95,93.',
+          'Sim. Em 22/11/2026, na Black November, o Kit 3 Panetones de R$ 175,90 caiu para R$ 158,31 com o código (e para R$ 150,39 no Pix).',
       },
       {
         question: 'O cupom MAUAD vale na primeira compra na Belive?',
@@ -4231,7 +4231,7 @@ const STORE_COUPONS: Coupon[] = [
       {
         question: 'O cupom soma com os produtos em promoção?',
         answer:
-          'Sim. Em 22/11/2026, na Black da Holy, dois Projetos 21 Dias já com 30% da loja caíram de R$ 205,80 para R$ 174,93 com o EMCASA; em 05/11/2026, sopas em promoção foram de R$ 69,79 para R$ 59,32.',
+          'Sim. Em 22/11/2026, na Black da Holy, dois Projetos 21 Dias já com 30% da loja caíram de R$ 205,80 para R$ 174,93 com o EMCASA.',
       },
       {
         question: 'Onde coloco o cupom na HolyFoods?',
@@ -5206,7 +5206,7 @@ const STORE_COUPONS: Coupon[] = [
       {
         question: 'Qual é o cupom de desconto da Rituária?',
         answer:
-          'O cupom da Rituária da nossa parceria é o EMCASA, com 10% OFF em todo o site oficial, em todas as formas de pagamento, para clientes novos e antigos, somando com as promoções e os 5% do Pix.',
+          'O cupom da Rituária da nossa parceria é o EMCASA, com 10% OFF em todo o site oficial, em todas as formas de pagamento, para clientes novos e antigos, somando com as promoções. A loja anuncia 5% de desconto no Pix; confira o total no checkout antes de pagar.',
       },
       {
         question: 'Quanto de desconto o cupom EMCASA dá na Rituária?',
@@ -5399,12 +5399,12 @@ const STORE_COUPONS: Coupon[] = [
       {
         question: 'Qual é o cupom de desconto da Adaptogen?',
         answer:
-          'O cupom da Adaptogen da nossa parceria é o CECILIA, com 10% OFF em todo o site oficial, em todas as formas de pagamento, para clientes novos e antigos, somando com as promoções e os 5% do Pix.',
+          'O cupom da Adaptogen da nossa parceria é o CECILIA, com 10% OFF em todo o site oficial, em todas as formas de pagamento, para clientes novos e antigos, somando com as promoções. A loja anuncia 5% de desconto no Pix e no boleto; confira o total no checkout antes de pagar.',
       },
       {
         question: 'Quanto de desconto o cupom CECILIA dá na Adaptogen?',
         answer:
-          '10% OFF nos produtos do site oficial. Em 22/11/2026, na Creatina Flavor 300 g em oferta de R$ 115,00 por R$ 97,75, o CECILIA tirou R$ 9,78 e fechou em R$ 87,97; num carrinho misto de R$ 244,93, tirou R$ 24,49.',
+          '10% OFF nos produtos do site oficial. Em 22/11/2026, na Creatina Flavor 300 g em oferta de R$ 115,00 por R$ 97,75, o CECILIA tirou R$ 9,78 e fechou em R$ 87,97, mostrado na linha Cupom.',
       },
       {
         question: 'Existe cupom Adaptogen de 20%?',
