@@ -2730,7 +2730,7 @@ const STORE_COUPONS: Coupon[] = [
       'A Black Skull é uma marca de suplementos para quem treina, com whey protein, creatina, pré-treinos, aminoácidos como glutamina e roupas de treino vendidos no site oficial. O cupom CECILIA10 é o benefício da parceria para quem acompanha o Em Casa com Cecília: dá 10% OFF em todo o site, com qualquer forma de pagamento, e soma com as promoções vigentes. A recomendação é conferir o resumo do pedido antes de finalizar.',
     faqs: [
       {
-        question: 'Qual é o cupom da Black Skull?',
+        question: 'Qual é o cupom de desconto da Black Skull?',
         answer:
           'O cupom da Black Skull da nossa parceria é CECILIA10, com 10% OFF em todo o site oficial, em todas as formas de pagamento, somando com as promoções vigentes. Vale para quem compra pela primeira vez e para quem já é cliente, no site e no app Black Skull USA.',
       },
@@ -3080,8 +3080,8 @@ const STORE_COUPONS: Coupon[] = [
     hubCategory: 'alimentacao',
     shortDescription: 'todo o site Belive, com todas as formas de pagamento',
     longDescription:
-      'O cupom Belive MAUAD dá 10% OFF em todo o site, para quem compra pela primeira vez e para quem já é cliente, e soma com as ofertas e com os 5% do Pix. Testado num combo de pão de batata em oferta.',
-    metaTitle: 'Cupom Belive: 10% OFF em tudo e soma com o Pix',
+      'O cupom Belive MAUAD dá 10% OFF em todo o site, para quem compra pela primeira vez e para quem já é cliente, e soma com as ofertas e com os 5% do Pix. No nosso teste na Black November, um Kit 3 Panetones de R$ 175,90 caiu para R$ 158,31, e para R$ 150,39 no Pix.',
+    metaTitle: 'Cupom Belive: 10% OFF com MAUAD (+ 5% no Pix)',
     metaTitleMonth: true,
     metaDescription:
       'Cupom Belive: use MAUAD e ganhe 10% OFF em todo o site, cliente novo ou antigo, somando com as ofertas e com os 5% de desconto do Pix.',
@@ -3164,6 +3164,11 @@ const STORE_COUPONS: Coupon[] = [
     ],
     faqs: [
       {
+        question: 'Qual é o cupom de desconto da Belive?',
+        answer:
+          'O cupom de desconto da Belive da nossa parceria é o MAUAD, com 10% OFF em todo o site oficial (belivebefree.com.br), para quem compra pela primeira vez e para quem já é cliente, somando com as ofertas e com os 5% do Pix.',
+      },
+      {
         question: 'O cupom MAUAD vale para todos os produtos da Belive?',
         answer: 'Sim. O MAUAD dá 10% OFF em todos os produtos do site oficial da Belive, inclusive combos e kits.',
       },
@@ -3180,7 +3185,7 @@ const STORE_COUPONS: Coupon[] = [
       {
         question: 'O cupom soma com produtos em promoção?',
         answer:
-          'Sim. No nosso teste mais recente, os 10% entraram num combo que já estava em oferta: de R$ 106,59 por R$ 95,93.',
+          'Sim. Em 22/11/2026, na Black November, o Kit 3 Panetones de R$ 175,90 caiu para R$ 158,31 com o código (e R$ 150,39 no Pix); em 11/11/2026, um combo em oferta de R$ 106,59 caiu para R$ 95,93.',
       },
       {
         question: 'O cupom MAUAD vale na primeira compra na Belive?',
@@ -4125,7 +4130,7 @@ const STORE_COUPONS: Coupon[] = [
     hubCategory: 'alimentacao',
     shortDescription: 'todo o site HolyFoods, inclusive nos produtos em promoção',
     longDescription:
-      'O cupom HolyFoods EMCASA dá 15% OFF em todo o site, para quem compra pela primeira vez e para quem já é cliente, e soma com os preços já reduzidos da loja. Testado num carrinho de sopas que já estavam em promoção.',
+      'O cupom HolyFoods EMCASA dá 15% OFF em todo o site, para quem compra pela primeira vez e para quem já é cliente, e soma com os preços já reduzidos da loja. No nosso teste na Black da Holy, dois Projetos 21 Dias com 30% da campanha caíram de R$ 205,80 para R$ 174,93.',
     metaTitle: 'Cupom HolyFoods: 15% OFF com o código EMCASA',
     metaTitleMonth: true,
     metaDescription:
@@ -4215,13 +4220,18 @@ const STORE_COUPONS: Coupon[] = [
     ],
     faqs: [
       {
+        question: 'Qual é o cupom de desconto da HolyFoods?',
+        answer:
+          'O cupom da HolyFoods (também buscada como Holy Foods) é o EMCASA, com 15% OFF em todo o site oficial, em avulsos e kits, para clientes novos e antigos, somando com os produtos em promoção.',
+      },
+      {
         question: 'O cupom EMCASA vale para todos os produtos da HolyFoods?',
         answer: 'Sim. O EMCASA dá 15% OFF em todo o site oficial da HolyFoods, nos produtos avulsos e nos kits.',
       },
       {
         question: 'O cupom soma com os produtos em promoção?',
         answer:
-          'Sim. Num teste nosso, os 15% entraram sobre sopas que já estavam com desconto da loja: R$ 69,79 viraram R$ 59,32.',
+          'Sim. Em 22/11/2026, na Black da Holy, dois Projetos 21 Dias já com 30% da loja caíram de R$ 205,80 para R$ 174,93 com o EMCASA; em 05/11/2026, sopas em promoção foram de R$ 69,79 para R$ 59,32.',
       },
       {
         question: 'Onde coloco o cupom na HolyFoods?',
@@ -5194,9 +5204,14 @@ const STORE_COUPONS: Coupon[] = [
       'A Rituária é uma marca brasileira de suplementos, superfoods e dermocosméticos, criada em 2021, com a proposta de cuidado de dentro para fora: fórmulas de magnésio, complexo B, colágeno e prebióticos, maca peruana e produtos de skincare, vendidos no site oficial. O cupom EMCASA é o benefício da parceria para quem acompanha o Em Casa com Cecília: 10% OFF, com qualquer forma de pagamento e também sobre os produtos em promoção.',
     faqs: [
       {
+        question: 'Qual é o cupom de desconto da Rituária?',
+        answer:
+          'O cupom da Rituária da nossa parceria é o EMCASA, com 10% OFF em todo o site oficial, em todas as formas de pagamento, para clientes novos e antigos, somando com as promoções e os 5% do Pix.',
+      },
+      {
         question: 'Quanto de desconto o cupom EMCASA dá na Rituária?',
         answer:
-          '10% OFF nos produtos do site oficial. No nosso teste, o cupom tirou R$ 11,98 de um carrinho de R$ 119,80, e o resumo do checkout mostrou o valor na linha Descontos.',
+          '10% OFF nos produtos do site oficial. Em 22/11/2026, com 3 unidades do Brain+ no Leve 3, Pague 2 (de R$ 209,70 por R$ 139,80), o EMCASA tirou mais R$ 13,98 e fechou em R$ 125,82, mostrado na linha Descontos.',
       },
       {
         question: 'Existe cupom Rituária de 20%?',
@@ -5382,9 +5397,14 @@ const STORE_COUPONS: Coupon[] = [
       'A Adaptogen Science é uma marca de suplementos esportivos criada em 2014 nos Estados Unidos, na Flórida, e vendida no Brasil pelo site oficial: whey protein como a Tasty Whey e o HIT Protein, creatina, pré-treinos como o Panic e o Muscle Bunny, vitaminas, snacks proteicos e roupas de treino. O cupom CECILIA é o benefício da parceria para quem acompanha o Em Casa com Cecília: 10% OFF, com qualquer forma de pagamento e também sobre os produtos em promoção.',
     faqs: [
       {
+        question: 'Qual é o cupom de desconto da Adaptogen?',
+        answer:
+          'O cupom da Adaptogen da nossa parceria é o CECILIA, com 10% OFF em todo o site oficial, em todas as formas de pagamento, para clientes novos e antigos, somando com as promoções e os 5% do Pix.',
+      },
+      {
         question: 'Quanto de desconto o cupom CECILIA dá na Adaptogen?',
         answer:
-          '10% OFF nos produtos do site oficial. No nosso teste, o cupom tirou R$ 24,49 de um carrinho de R$ 244,93, e o resumo do checkout mostrou o valor na linha Cupom.',
+          '10% OFF nos produtos do site oficial. Em 22/11/2026, na Creatina Flavor 300 g em oferta de R$ 115,00 por R$ 97,75, o CECILIA tirou R$ 9,78 e fechou em R$ 87,97; num carrinho misto de R$ 244,93, tirou R$ 24,49.',
       },
       {
         question: 'Existe cupom Adaptogen de 20%?',
