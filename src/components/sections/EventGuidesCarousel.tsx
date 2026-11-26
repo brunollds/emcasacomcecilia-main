@@ -97,11 +97,11 @@ export function EventGuidesCarousel({
 
   return (
     <div className="relative">
-      {/* O py-2 dá espaço ao contorno da loja escolhida e ao anel de foco. No celular, o recuo das pontas deixa o
-          primeiro e o último guia chegarem ao centro. */}
+      {/* O py-2 dá espaço ao contorno da loja escolhida e ao anel de foco. No celular, o primeiro guia começa na
+          margem do título, e o próximo aparece pela metade à direita. */}
       <ul
         ref={trackRef}
-        className="hide-scrollbar flex snap-x snap-proximity gap-3 overflow-x-auto py-2 max-md:px-[calc(50%-min(37vw,134px))] md:px-2"
+        className="hide-scrollbar flex snap-x snap-proximity gap-3 overflow-x-auto py-2 max-md:px-4 md:px-2"
       >
         {guides.map((guide) => {
           const look = guide.cover ? cardImageLook(guide.cover.imageFit, guide.cover.imagePosition, 'p-3') : undefined;
