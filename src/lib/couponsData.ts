@@ -282,9 +282,9 @@ const STORE_COUPONS: Coupon[] = [
       'A DAMIE é uma marca brasileira de móveis estofados premium, com foco em poltronas reclináveis, sofás, camas e soluções de conforto para a casa. A Cecília usa produtos da marca no dia a dia e produziu reviews mostrando montagem, acabamento, conforto e uso real em casa. O cupom CECILIA12 foi criado para quem acompanha o Em Casa com Cecília e quer comprar com desconto direto no checkout. A proposta da parceria é simples: indicar produtos que fazem sentido para uma casa mais confortável, sem esconder que existe relação comercial e comissão de afiliado quando uma compra é feita pelo link ou cupom.',
     faqs: [
       {
-        question: 'Qual é o cupom da DAMIE?',
+        question: 'Qual é o cupom de desconto da DAMIE?',
         answer:
-          'O cupom da DAMIE da nossa parceria é o CECILIA12, com 12% OFF em todo o site oficial, em todas as formas de pagamento, e soma com as promoções e com os 10% do Pix. Não soma com outro cupom nem com o giftback de 15% e não vale no Mercado Livre.',
+          'O cupom de desconto da DAMIE (também buscada como Damiê) da nossa parceria é o CECILIA12, com 12% OFF em todo o site oficial para clientes novos e antigos, em todas as formas de pagamento, somando com as promoções e com os 10% do Pix. Não soma com outro cupom nem com o giftback de 15% e não vale no Mercado Livre.',
       },
       {
         question: 'O cupom CECILIA12 funciona em todos os produtos da DAMIE?',
@@ -299,7 +299,7 @@ const STORE_COUPONS: Coupon[] = [
       {
         question: 'O CECILIA12 soma com o desconto do Pix?',
         answer:
-          'Sim. A DAMIE dá 10% de desconto no Pix, e o CECILIA12 soma com ele.',
+          'Sim. A DAMIE dá 10% no Pix e os 12% do CECILIA12 entram sobre o valor já com o Pix: em 11/11/2026, o puff avulso do Sofá Damie Modular passou de R$ 1.300,00 para R$ 1.170,00 no Pix e caiu para R$ 1.029,60 com o cupom (-R$ 140,40, ou 20,8% no total).',
       },
       {
         question: 'O cupom CECILIA12 é cumulativo com outras promoções?',
@@ -944,10 +944,10 @@ const STORE_COUPONS: Coupon[] = [
     shortDescription: 'todo o site I Wanna Sleep',
     longDescription:
       'O cupom I Wanna Sleep CECIEMCASA dá 10% OFF em todo o site (travesseiros, cobertores, pillow top e acessórios), para quem compra pela primeira vez e para quem já é cliente, e soma com as promoções da loja. Testado numa máscara de dormir em promoção.',
-    metaTitle: 'Cupom I Wanna Sleep: 10% OFF com CECIEMCASA',
+    metaTitle: 'Cupom I Wanna Sleep: CECIEMCASA dá 10% OFF + Pix',
     metaTitleMonth: true,
     metaDescription:
-      'Cupom I Wanna Sleep: CECIEMCASA dá 10% OFF em todo o site oficial para cliente novo ou antigo e soma com as promoções da loja.',
+      'Cupom I Wanna Sleep (IWS): CECIEMCASA dá 10% OFF em todo o site oficial para cliente novo ou antigo, somando com promoções e os 5% do Pix.',
     eligibleCategories:
       'Todo o site I Wanna Sleep',
     validity: 'Cupom ativo enquanto a parceria estiver vigente',
@@ -1075,6 +1075,11 @@ const STORE_COUPONS: Coupon[] = [
     ],
     faqs: [
       {
+        question: 'Qual é o cupom de desconto da I Wanna Sleep?',
+        answer:
+          'O cupom de desconto da I Wanna Sleep (também buscada como iwannasleep ou IWS) da nossa parceria é o CECIEMCASA, com 10% OFF em todo o site oficial para clientes novos e antigos, em todas as formas de pagamento, somando com as promoções e com os 5% do Pix.',
+      },
+      {
         question: 'O cupom CECIEMCASA vale para todos os produtos da I Wanna Sleep?',
         answer:
           'O cupom vale para compras no site da I Wanna Sleep. Confirme se o desconto aparece no checkout antes de finalizar.',
@@ -1113,7 +1118,7 @@ const STORE_COUPONS: Coupon[] = [
       {
         question: 'O cupom CECIEMCASA é cumulativo?',
         answer:
-          'Sim. O CECIEMCASA soma com as promoções vigentes da loja oficial, inclusive em produtos que já estão com preço promocional. O resumo do carrinho mostra o desconto antes de você pagar.',
+          'Sim. O CECIEMCASA soma com as promoções vigentes da loja oficial e com os 5% do Pix. Em 11/11/2026, a Caracol Sleep Mask em promoção passou de R$ 177,00 para R$ 160,00 na vitrine e caiu para R$ 144,00 com o cupom (-R$ 16,00).',
       },
       {
         question: 'O link leva para a loja oficial?',
@@ -1412,9 +1417,9 @@ const STORE_COUPONS: Coupon[] = [
     ],
     faqs: [
       {
-        question: "Qual é o cupom da Let's Eat It?",
+        question: "Qual é o cupom de desconto da Let's Eat It?",
         answer:
-          "O cupom da Let's Eat It do Em Casa com Cecília é MAUAD, com 5% OFF em todo o site oficial, válido em todas as formas de pagamento e cumulativo com promoções e Pix.",
+          "O cupom de desconto da Let's Eat It (também buscada como Lets Eat It ou letseatit) da nossa parceria é o MAUAD, com 5% OFF em todo o site oficial para clientes novos e antigos, em todas as formas de pagamento, somando com promoções, pré-venda e os 5% do Pix. Em 18/11/2026, um jogo de 6 bowls Scalla em promoção caiu de R$ 366,00 para R$ 347,70 (-R$ 18,30) com o código.",
       },
       {
         question: "O cupom MAUAD vale para todos os produtos da Let's Eat It?",
@@ -1443,7 +1448,7 @@ const STORE_COUPONS: Coupon[] = [
       {
         question: 'Existe cupom Let\'s Eat It de 10%?',
         answer:
-          'Nos nossos testes, não. No teste mais recente, colocamos o DOHER10 e o BEMVINDO10, códigos de 10% que circulam em sites de cupom e em respostas de IA, nos mesmos carrinhos do MAUAD: o DOHER10 deu 5%, o mesmo desconto do MAUAD, tanto nos bowls em promoção de R$ 366,00 quanto na caneca de R$ 129,00 sem promoção, e o BEMVINDO10 foi recusado nos dois, com a mensagem "Insira um código de desconto válido". O teste foi feito sem login e não confirma regras de primeira compra. O MAUAD dá 5% e soma com as promoções e com os 5% de desconto do Pix que muitos produtos têm.',
+          'Nos nossos testes, não. Em 18/11/2026, colocamos o DOHER10 e o BEMVINDO10, códigos de 10% que circulam em sites de cupom e em respostas de IA, nos mesmos carrinhos do MAUAD: o DOHER10 deu 5%, o mesmo desconto do MAUAD, tanto nos bowls em promoção de R$ 366,00 quanto na caneca de R$ 129,00 sem promoção, e o BEMVINDO10 foi recusado nos dois, com a mensagem "Insira um código de desconto válido". O teste foi feito sem login e não confirma regras de primeira compra. O MAUAD dá 5% e soma com as promoções e com os 5% de desconto do Pix que muitos produtos têm.',
       },
       {
         question: 'O cupom MAUAD vale no Mercado Livre?',
@@ -1479,7 +1484,7 @@ const STORE_COUPONS: Coupon[] = [
       {
         question: 'O cupom MAUAD é cumulativo?',
         answer:
-          'O MAUAD soma com o desconto do Pix e, nos nossos testes, foi aceito em produto que já estava com preço promocional e em item de pré-venda. A soma com outros cupons segue as regras da loja; o valor final do checkout é a referência.',
+          'Sim. O MAUAD soma com o desconto de 5% do Pix e, em 18/11/2026, entrou em 6 bowls Scalla já em oferta (de R$ 610,00 por R$ 366,00 → R$ 347,70) e numa caneca Le Creuset sem promoção (R$ 129,00 → R$ 122,55), além de já ter valido em item de pré-venda.',
       },
       {
         question: 'O link leva para a loja oficial?',
@@ -2891,7 +2896,7 @@ const STORE_COUPONS: Coupon[] = [
       {
         question: 'Tem cupom de desconto da Lejour?',
         answer:
-          'Não. O link da Cecília é uma indicação: o cadastro, os planos e as taxas são os mesmos do site da Lejour, sem desconto extra.',
+          'Não há cupom exclusivo de parceria: o link da Cecília na Lejour (também buscada como Le Jour) é uma indicação, com os mesmos planos e taxas do site oficial e plano Basic gratuito.',
       },
       {
         question: 'A lista de casamento da Lejour é grátis?',
@@ -6202,9 +6207,14 @@ const STORE_COUPONS: Coupon[] = [
       'A Cola e Decora é uma loja brasileira de decoração para o quarto das crianças: móveis montessorianos, quadros, almofadas, prateleiras, tapetes, móbiles, enfeites e brinquedos, muitos com o nome da criança, vendidos no site oficial. O cupom EMCASACOMCECILIA é o benefício da parceria para quem acompanha o Em Casa com Cecília: 10% OFF, com qualquer forma de pagamento e também sobre os produtos em promoção.',
     faqs: [
       {
+        question: 'Qual é o cupom de desconto da Cola e Decora?',
+        answer:
+          'O cupom de desconto da Loja Cola e Decora (também buscada como Colaedecora) da nossa parceria é o EMCASACOMCECILIA, com 10% OFF em todo o site oficial para clientes novos e antigos, em todas as formas de pagamento, somando com os preços em promoção.',
+      },
+      {
         question: 'Quanto de desconto o cupom EMCASACOMCECILIA dá na Cola e Decora?',
         answer:
-          '10% OFF nos produtos do site oficial. No nosso teste, o cupom tirou R$ 13,98 de um carrinho de R$ 139,80, e o carrinho mostrou o aviso Cupom aplicado, com os 10% OFF.',
+          '10% OFF nos produtos do site oficial. Em 19/11/2026, o cupom tirou R$ 13,98 de um carrinho em oferta de R$ 139,80 (fechando em R$ 125,82), com o aviso Cupom aplicado.',
       },
       {
         question: 'O cupom Cola e Decora vale na primeira compra?',
@@ -6222,12 +6232,12 @@ const STORE_COUPONS: Coupon[] = [
       {
         question: 'O cupom soma com produtos em promoção?',
         answer:
-          'Sim. No nosso teste, a Prateleira de Livros 50cm Rosa - Theo estava de R$ 199,90 por R$ 59,90, e o cupom tirou os 10% dela também.',
+          'Sim. Em 19/11/2026, a Prateleira de Livros 50cm Rosa - Theo estava de R$ 199,90 por R$ 59,90 e o Quadro Santo Anjo de R$ 99,90 por R$ 79,90, e o cupom tirou mais 10% sobre os dois (de R$ 139,80 para R$ 125,82).',
       },
       {
         question: 'O cupom vale no Pix?',
         answer:
-          'Vale. No nosso teste, com o Pix escolhido no pagamento, o cupom seguiu aplicado e o pedido de R$ 799,50 ficou em R$ 719,55. A Cola e Decora não dá desconto próprio no Pix; no cartão de crédito, parcela em até 10x sem juros, conforme o valor do pedido.',
+          'Vale. Em 19/11/2026, com o Pix escolhido no pagamento, o cupom seguiu aplicado e o pedido de 5 cadeiras Theo passou de R$ 799,50 para R$ 719,55, com frete grátis. A Cola e Decora não dá desconto próprio no Pix; no cartão de crédito, parcela em até 10x sem juros, conforme o valor do pedido.',
       },
       {
         question: 'O cupom EMCASACOMCECILIA está funcionando hoje?',

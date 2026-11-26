@@ -37426,7 +37426,7 @@ const reviewsChunk0: unknown[] = [
       {
         "heading": "Resposta rápida",
         "paragraphs": [
-          "Sim: o Magazine Você é o programa oficial de lojas de influenciadores do Magalu, com o domínio magazinevoce.com.br em nome da Magazine Luiza S/A. O Magalu cobra e atende o pedido. No Reclame Aqui, o perfil da loja online tem reputação Ótima e nota 8,2. Os códigos do [cupom Magalu](/cupons/magalu) da Cecília valem só no navegador."
+          "Sim: o Magazine Você é o programa oficial de lojas de influenciadores do Magalu, com o domínio magazinevoce.com.br em nome da Magazine Luiza S/A. O Magalu cobra e atende o pedido. No Reclame Aqui, o perfil da loja online tem reputação Ótima e nota 8,2. Os códigos de 10EMCASACOMCECILIA a 100EMCASACOMCECILIA do [cupom Magalu](/cupons/magalu) da Cecília valem só no navegador."
         ]
       },
       {
@@ -59153,7 +59153,7 @@ const reviewsChunk0: unknown[] = [
     "id": 336,
     "slug": "black-friday-magalu",
     "title": "Black Friday Magalu 2026: é 27 de novembro, as ofertas antecipadas já estão no ar e qual código da Cecília usar",
-    "seoTitle": "Black Friday Magalu 2026: ofertas antecipadas e cupom",
+    "seoTitle": "Black Friday Magalu 2026: cupons de R$ 10 a R$ 100",
     "type": "Guia de Black Friday",
     "bodyDatesReason": "campanha",
     "category": "cupons-como-usar",
@@ -59182,7 +59182,7 @@ const reviewsChunk0: unknown[] = [
       {
         "heading": "Resposta rápida",
         "paragraphs": [
-          "A Black Friday do Magalu é em 27 de novembro de 2026, com ofertas antecipadas já no ar. Na loja Magazine Você da Cecília, pelo navegador, os códigos de 10EMCASACOMCECILIA a 100EMCASACOMCECILIA dão um desconto fixo conforme a faixa do carrinho, com um código por pedido. As ofertas exclusivas do app ficam fora deles."
+          "A Black Friday do Magalu é em 27 de novembro de 2026, com ofertas antecipadas já no ar. Na loja Magazine Você da Cecília, pelo navegador, os códigos do [cupom Magalu](/cupons/magalu) (de 10EMCASACOMCECILIA a 100EMCASACOMCECILIA) dão de R$ 10 a R$ 100 OFF conforme a faixa do carrinho, em itens vendidos e entregues pelo Magalu. As ofertas exclusivas do app ficam fora deles."
         ]
       },
       {
@@ -141593,7 +141593,7 @@ const reviewsChunk0: unknown[] = [
     "id": 591,
     "slug": "black-friday-bagaggio",
     "title": "Black Friday Bagaggio 2026: o que comprar, conjuntos e o cupom CECILIA10",
-    "seoTitle": "Black Friday Bagaggio 2026: o que comprar e cupom",
+    "seoTitle": "Black Friday Bagaggio 2026: malas, kits e CECILIA10",
     "type": "Guia de Black Friday",
     "category": "cupons-como-usar",
     "reviewKind": "guia",
@@ -141619,7 +141619,7 @@ const reviewsChunk0: unknown[] = [
       {
         "heading": "Resposta rápida",
         "paragraphs": [
-          "A Bagaggio já mostra Black Friday no menu do site, com até 70% OFF e Leve 3 Pague 2. O cupom CECILIA10 tirou 10% sobre o preço de venda nas sacolas que testamos, em mala, conjunto e mochila. Nem todo conjunto sai mais barato que as malas avulsas: a conta de cada um está neste guia."
+          "A Bagaggio já mostra Black Friday no menu do site, com até 70% OFF e Leve 3 Pague 2. O [cupom Bagaggio](/cupons/bagaggio) CECILIA10 tirou 10% OFF sobre o preço de venda nas sacolas que testamos, em mala, conjunto e mochila. Nem todo conjunto sai mais barato que as malas avulsas: a conta de cada um está neste guia."
         ]
       },
       {
@@ -141969,7 +141969,7 @@ const reviewsChunk0: unknown[] = [
         "heading": "Vale a pena comprar agora ou esperar a sexta?",
         "paragraphs": [
           "Nas malas da tabela, a campanha manteve os preços de venda de outubro, e o CECILIA10 continua tirando 10% sobre o total. A campanha ser anunciada não garante preço menor na sexta. Para avaliar uma oferta nova, compare a mesma variante, a forma de pagamento e o frete.",
-          "Se precisa comprar agora, confira a linha de desconto do CECILIA10 e o total no Pix. Para o Leve 3 Pague 2, compare o custo da seleção inteira e veja quais produtos participam; não leve uma peça a mais só pelo slogan. Se pode esperar, guarde o total desta consulta para comparar na sexta. As condições do código estão na [página da Bagaggio](/cupons/bagaggio)."
+          "Se precisa comprar agora, confira a linha de desconto do CECILIA10 e o total no Pix. Para o Leve 3 Pague 2, compare o custo da seleção inteira e veja quais produtos participam; não leve uma peça a mais só pelo slogan. Se pode esperar, guarde o total desta consulta para comparar na sexta."
         ],
         "image": {
           "src": "/images/reviews/bagaggio/bagaggio-route-vinho-ambiente.webp",
@@ -151665,7 +151665,7 @@ const reviewsChunk1: unknown[] = [
     "slug": "black-friday-toda-up",
     "locale": "pt",
     "title": "Black Friday Toda Up 2026: qual sutiã escolher, quando o kit compensa e o cupom MAUAD",
-    "seoTitle": "Black Friday Toda Up 2026: o que comprar, kits e cupom",
+    "seoTitle": "Black Friday Toda Up 2026: kits, sutiãs e cupom MAUAD",
     "type": "Guia de Black Friday",
     "category": "cupons-como-usar",
     "reviewKind": "guia",
@@ -151934,7 +151934,7 @@ const reviewsChunk1: unknown[] = [
       {
         "heading": "O cupom MAUAD e a Black Week",
         "paragraphs": [
-          "O [cupom Toda Up](/cupons/toda-up) é o MAUAD, com 10% OFF no site oficial, em todas as formas de pagamento. Ele soma com a Black Week: a escada entra primeiro, e os 10% saem do que sobra. No carrinho, no teste de novembro, uma [Fita Up](https://todaup.com/discount/MAUAD?redirect=/products/fita-up&utm_campaign=fluxoinfluenciadoras&utm_content=mensagem1&utm_medium=influs&utm_source=influs&utm_term=comissao) de R$ 116,90 foi a R$ 87,68 com os 25% da campanha e a R$ 78,92 com o MAUAD.",
+          "O cupom MAUAD dá 10% OFF no site oficial, em todas as formas de pagamento. Ele soma com a Black Week: a escada entra primeiro, e os 10% saem do que sobra. No carrinho, no teste de novembro, uma [Fita Up](https://todaup.com/discount/MAUAD?redirect=/products/fita-up&utm_campaign=fluxoinfluenciadoras&utm_content=mensagem1&utm_medium=influs&utm_source=influs&utm_term=comissao) de R$ 116,90 foi a R$ 87,68 com os 25% da campanha e a R$ 78,92 com o MAUAD.",
           "O MAUAD não vale nos itens marcados como Black VIP, Todalovers, Influ ou Oferta Exclusiva. São cópias de produtos de outros canais da loja, e com uma delas no carrinho o cupom de influenciadora não entra.",
           "Pelo botão desta página, o site abre com o código aplicado; se a linha não aparecer, cole o MAUAD no campo \"Código de desconto ou cartão-presente\" do checkout. O passo a passo está em [Cupom Toda Up: como usar](/reviews/cupom-toda-up-como-usar)."
         ],
@@ -215088,7 +215088,7 @@ const reviewsChunk1: unknown[] = [
       {
         "heading": "Resposta rápida",
         "paragraphs": [
-          "Com o MAUAD, o sutiã da Toda Up sai abaixo do preço da Hope. A Hope tem EG e declara de 25 a 30 usos, contra até 12 da Toda Up, e não tem fita para seios. O [cupom Toda Up](/cupons/toda-up) e a Black Week estão no capítulo do preço."
+          "Com o MAUAD (10% OFF), o sutiã da Toda Up sai abaixo do preço da Hope. A Hope tem EG e declara de 25 a 30 usos, contra até 12 da Toda Up, e não tem fita para seios. O [cupom Toda Up](/cupons/toda-up) e a Black Week estão no capítulo do preço."
         ]
       },
       {
@@ -215283,7 +215283,7 @@ const reviewsChunk1: unknown[] = [
       {
         "heading": "Resposta rápida",
         "paragraphs": [
-          "Nos preços comparados, o sutiã da Toda Up fica mais barato com o MAUAD. A Lupo tem bojo de tecido, do 36 ao 50; a Toda Up tem sutiã de silicone, do 38/40 ao 44/48. Veja as roupas indicadas e o [cupom Toda Up](/cupons/toda-up) abaixo."
+          "Nos preços comparados, o sutiã da Toda Up fica mais barato com o MAUAD (10% OFF). A Lupo tem bojo de tecido, do 36 ao 50; a Toda Up tem sutiã de silicone, do 38/40 ao 44/48. Veja as roupas indicadas e o [cupom Toda Up](/cupons/toda-up) abaixo."
         ]
       },
       {
@@ -215556,7 +215556,7 @@ const reviewsChunk1: unknown[] = [
       {
         "heading": "Resposta rápida",
         "paragraphs": [
-          "Nos preços comparados, a fita e o protetor da Toda Up com MAUAD custam menos, e o sutiã da Zee Rucci é o mais barato. Na fita, a Toda Up não publica a metragem do rolo, e a Zee Rucci informa 5 metros e 5 pares de protetores. Veja o [cupom Toda Up](/cupons/toda-up) no capítulo do preço."
+          "Nos preços comparados, a fita e o protetor da Toda Up com MAUAD (10% OFF) custam menos, e o sutiã da Zee Rucci é o mais barato. Na fita, a Toda Up não publica a metragem do rolo, e a Zee Rucci informa 5 metros e 5 pares de protetores. Veja o [cupom Toda Up](/cupons/toda-up) no capítulo do preço."
         ]
       },
       {
@@ -216098,7 +216098,7 @@ const reviewsChunk1: unknown[] = [
       {
         "heading": "Resposta rápida",
         "paragraphs": [
-          "Nos valores comparados, o protetor da Toda Up com MAUAD custa cerca de metade do da Intimissimi, e as copas bege M/G da Intimissimi custam menos que o sutiã da Toda Up. Na fita, a Intimissimi custa menos, a não ser com a Black Week. Veja o [cupom Toda Up](/cupons/toda-up) no capítulo do preço."
+          "Nos valores comparados, o protetor da Toda Up com MAUAD (10% OFF) custa cerca de metade do da Intimissimi, e as copas bege M/G da Intimissimi custam menos que o sutiã da Toda Up. Na fita, a Intimissimi custa menos, a não ser com a Black Week. Veja o [cupom Toda Up](/cupons/toda-up) no capítulo do preço."
         ]
       },
       {
@@ -237322,14 +237322,14 @@ const reviewsChunk1: unknown[] = [
       {
         "heading": "Resposta rápida",
         "paragraphs": [
-          "O cupom da Petz é o EMCASA, com 10% OFF nas compras no site e no app. Ele vai no campo “Digite seu cupom” da sacola e não soma com promoção: em cada item, fica o desconto maior. Na retirada em loja, ele soma com os 5% do Retire na Loja, até 14,5% no total."
+          "O [cupom Petz](/cupons/petz) é o EMCASA, com 10% OFF nas compras no site e no app. Ele vai no campo “Digite seu cupom” da sacola e não soma com promoção: em cada item, fica o desconto maior. Na retirada em loja elegível, ele soma com os 5% do Retire na Loja, chegando a 14,5% no total."
         ]
       },
       {
         "heading": "O que é o cupom EMCASA",
         "paragraphs": [
           "EMCASA é o código da parceria com a Petz pelo programa Parceiro Petz. Ele dá 10% OFF nas compras no site e no app. Quando você entra pelo link da parceria, a sacola mostra a loja emcasa do Parceiro Petz, mas o desconto só entra com o código.",
-          "A página de [cupom Petz](/cupons/petz) reúne o código e as regras da loja. Abaixo, o passo a passo e como ler a sacola."
+          "Abaixo estão o passo a passo na sacola, a soma com a retirada e como ler o resumo do pedido."
         ]
       },
       {
@@ -237567,7 +237567,7 @@ const reviewsChunk1: unknown[] = [
       {
         "heading": "Resposta rápida",
         "paragraphs": [
-          "A Petz integra o Grupo Petz Cobasi e publica regras de entrega e troca. Na compra online, a desistência pode ser pedida em até sete dias corridos depois do recebimento. Antes de pagar, confira o endereço petz.com.br, o prazo para seu CEP e as condições do pedido; no computador, o rodapé também mostra o CNPJ da empresa."
+          "A Petz integra o Grupo Petz Cobasi e publica regras de entrega e troca. Na compra online, a desistência pode ser pedida em até sete dias corridos depois do recebimento. Antes de pagar, confira o endereço petz.com.br, o prazo para seu CEP e as condições do pedido; no computador, o rodapé mostra o CNPJ. No site e no app, o cupom EMCASA dá 10% OFF."
         ]
       },
       {
@@ -238111,7 +238111,7 @@ const reviewsChunk1: unknown[] = [
     "slug": "black-friday-petz",
     "locale": "pt",
     "title": "Black Friday Petz 2026: regras, Clubz e quando o cupom ainda ajuda",
-    "seoTitle": "Black Friday Petz 2026: regras, Clubz e cupom",
+    "seoTitle": "Black Friday Petz 2026: regras, Clubz e cupom EMCASA",
     "type": "Guia de Black Friday",
     "category": "cupons-como-usar",
     "reviewKind": "guia",
@@ -238136,7 +238136,7 @@ const reviewsChunk1: unknown[] = [
       {
         "heading": "Resposta rápida",
         "paragraphs": [
-          "Na Black Friday da Petz, o maior desconto com o EMCASA vem no Retire na Loja: os 10% do código somam com os 5% da retirada, e a sacola fica 14,5% abaixo do preço cheio. O código vale no site e no app, mas não soma com a oferta da campanha nem com o Clubz."
+          "Na Black Friday da Petz, o maior desconto com o [cupom Petz](/cupons/petz) EMCASA (10% OFF) vem no Retire na Loja: os 10% do código somam com os 5% da retirada elegível, e a sacola fica 14,5% abaixo do preço cheio. O código vale no site e no app, mas não soma com a oferta da campanha nem com o Clubz."
         ]
       },
       {
@@ -238289,9 +238289,6 @@ const reviewsChunk1: unknown[] = [
         "paragraphs": [
           "Confira primeiro a oferta do produto, depois aplique o EMCASA e compare o total. O cupom ajuda nos itens sem oferta ou com oferta inferior a 10%, como nos exemplos testados; uma ração de compra recorrente também pode estar em promoção.",
           "O botão da Petz abre a loja da Cecília em petz.com.br/parceiro/emcasa, mas não aplica o cupom sozinho: cole o EMCASA no campo \"Digite seu cupom\" da sacola."
-        ],
-        "postParagraphs": [
-          "As condições do código estão em [cupom Petz](/cupons/petz)."
         ],
         "emphasis": "Na Petz Friday, eu colaria o EMCASA em toda sacola e conferiria o Total de descontos: ele só baixa os itens sem oferta ou com oferta abaixo de 10%.",
         "links": [
@@ -238569,7 +238566,7 @@ const reviewsChunk1: unknown[] = [
       {
         "heading": "Resposta rápida",
         "paragraphs": [
-          "Na seleção comparada, a Petz ficou mais barata em cinco de nove produtos com o EMCASA ou a oferta; a Cobasi venceu em três, e houve um empate. A comparação usa o preço da página da Cobasi, sem cupom. Para decidir sua compra, some frete e taxas aos itens da sua lista."
+          "Na seleção comparada, a Petz ficou mais barata em cinco de nove produtos com o cupom Petz EMCASA (10% OFF) ou a oferta; a Cobasi venceu em três, e houve um empate. A comparação usa o preço da página da Cobasi, sem cupom. Para decidir sua compra, some frete e taxas aos itens da sua lista."
         ]
       },
       {
@@ -238830,7 +238827,7 @@ const reviewsChunk1: unknown[] = [
       {
         "heading": "Resposta rápida",
         "paragraphs": [
-          "Na Black Friday, a Petz com EMCASA ou oferta ficou mais barata em cinco dos sete itens comparáveis; a Petlove, em um; e houve um empate. Com o Clube Petlove, alguns preços ficam menores, mas há custo de adesão para quem ainda não é membro. Os preços mudam depois que a campanha acaba; confira o total com entrega."
+          "Na Black Friday, a Petz com o cupom EMCASA (10% OFF) ou oferta ficou mais barata em cinco dos sete itens comparáveis; a Petlove, em um; e houve um empate. Com o Clube Petlove, alguns preços ficam menores, mas há custo de adesão para quem ainda não é membro. Os preços mudam depois que a campanha acaba; confira o total com entrega."
         ]
       },
       {
@@ -241030,7 +241027,7 @@ const reviewsChunk1: unknown[] = [
       {
         "heading": "Resposta rápida",
         "paragraphs": [
-          "Para a primeira compra na Bagaggio, use CECILIA10: 10% OFF em todo o site, inclusive no Outlet e em produtos já em promoção. O mesmo percentual vale para quem já comprou, e o código soma com o Pix. Funciona no site e no app."
+          "Para a primeira compra na Bagaggio, use o [cupom Bagaggio](/cupons/bagaggio) CECILIA10: 10% OFF em todo o site, inclusive no Outlet e em produtos já em promoção. O mesmo percentual vale para quem já comprou, e o código soma com os 5% do Pix. Funciona no site e no app."
         ]
       },
       {
@@ -241038,7 +241035,7 @@ const reviewsChunk1: unknown[] = [
         "paragraphs": [
           "A Bagaggio vende malas, mochilas e acessórios de viagem, com loja online e aplicativo.",
           "Use o CECILIA10: 10% OFF em todos os produtos do site, Outlet incluso, com todas as formas de pagamento. Ele vale no primeiro pedido e nos seguintes, no site ou no app.",
-          "É o [cupom Bagaggio](/cupons/bagaggio) da nossa parceria com a marca, testado até a sacola. Mala, mochila ou acessório: o código é o mesmo."
+          "É o código da nossa parceria com a marca, testado até a sacola. Mala, mochila ou acessório: o código é o mesmo."
         ]
       },
       {
@@ -241547,7 +241544,7 @@ const reviewsChunk1: unknown[] = [
       {
         "heading": "Resposta rápida",
         "paragraphs": [
-          "Para a primeira compra na Toda Up, use o [cupom Toda Up](/cupons/toda-up): MAUAD, com 10% OFF no site oficial, em todas as formas de pagamento. Quem já comprou usa o mesmo código. Itens marcados como Black VIP, Todalovers, Influ ou Oferta Exclusiva ficam de fora, e a conta com a Black Week está no capítulo de preço."
+          "Para a primeira compra na Toda Up, use o [cupom Toda Up](/cupons/toda-up) MAUAD: 10% OFF no site oficial, em todas as formas de pagamento. Quem já comprou usa o mesmo código. Itens marcados como Black VIP, Todalovers, Influ ou Oferta Exclusiva ficam de fora, e a conta com a Black Week está no capítulo de preço."
         ]
       },
       {
@@ -242786,7 +242783,7 @@ const reviewsChunk1: unknown[] = [
       {
         "heading": "Resposta rápida",
         "paragraphs": [
-          "Para a primeira compra na Petz, use EMCASA: 10% OFF no site e no aplicativo, também para quem já comprou. O cupom não soma com o desconto da Assinatura Petz. Cole EMCASA no campo “Digite seu cupom” e confira o total antes de pagar."
+          "Para a primeira compra na Petz, use o [cupom Petz](/cupons/petz) EMCASA: 10% OFF no site e no aplicativo, também para quem já comprou. O código soma com os 5% do Retire na Loja elegível (14,5% no total) e não soma com a Assinatura Petz. Cole EMCASA no campo “Digite seu cupom” e confira o total antes de pagar."
         ]
       },
       {
@@ -242794,7 +242791,7 @@ const reviewsChunk1: unknown[] = [
         "paragraphs": [
           "A Petz é uma rede de pet shops com lojas físicas, site e aplicativo, onde vende rações, itens de higiene e acessórios para animais.",
           "Use o EMCASA: 10% OFF nas compras no site e no aplicativo da Petz, no primeiro pedido e nos seguintes, para repor a ração ou a areia sem trocar de código.",
-          "É o [cupom Petz](/cupons/petz) da nossa parceria com a loja, testado na sacola."
+          "É o código da nossa parceria com a loja, testado na sacola."
         ]
       },
       {
@@ -243625,7 +243622,7 @@ const reviewsChunk1: unknown[] = [
     "id": 930,
     "slug": "cupom-magalu-primeira-compra",
     "title": "Cupom Magalu primeira compra: os códigos valem para cliente novo e antigo",
-    "seoTitle": "Cupom Magalu primeira compra: de R$ 10 a R$ 100 OFF",
+    "seoTitle": "Cupom Magalu primeira compra: 10EMCASACOMCECILIA",
     "type": "Guia & Cupons",
     "category": "cupons-como-usar",
     "reviewKind": "guia",
@@ -243636,7 +243633,7 @@ const reviewsChunk1: unknown[] = [
       "initials": "CM",
       "url": "/sobre"
     },
-    "description": "Os códigos da Cecília no Magalu dão de R$ 10 a R$ 100 OFF conforme o valor do carrinho, na primeira compra e nas seguintes. Veja as regras antes de pagar.",
+    "description": "Na primeira compra, 10EMCASACOMCECILIA dá R$ 10 OFF a partir de R$ 499,90 (com faixas até R$ 100 OFF) na loja Magazine Você da Cecília, pelo navegador.",
     "metaDescription": "10EMCASACOMCECILIA dá R$ 10 a partir de R$ 499,90, em itens vendidos e entregues pelo Magalu, na loja Magazine Você da Cecília pelo navegador.",
     "publishedAt": "12 de novembro de 2026",
     "publishedAtISO": "2026-11-12",
@@ -243673,7 +243670,7 @@ const reviewsChunk1: unknown[] = [
       {
         "heading": "Resposta rápida",
         "paragraphs": [
-          "Na primeira compra, use o 10EMCASACOMCECILIA, a primeira de dez faixas de desconto fixo, na loja Magazine Você da Cecília. Quanto maior o carrinho, maior a faixa, até o 100EMCASACOMCECILIA. Os códigos valem só pelo navegador, em produtos vendidos e entregues pelo Magalu, e também para quem já comprou; no app, não funcionam."
+          "Na primeira compra, use o [cupom Magalu](/cupons/magalu) 10EMCASACOMCECILIA, a primeira de dez faixas de desconto fixo, na loja Magazine Você da Cecília. Quanto maior o carrinho, maior a faixa, até o 100EMCASACOMCECILIA. Os códigos valem só pelo navegador, em produtos vendidos e entregues pelo Magalu, e também para quem já comprou; no app, não funcionam."
         ]
       },
       {
@@ -243681,7 +243678,7 @@ const reviewsChunk1: unknown[] = [
         "paragraphs": [
           "O Magalu reúne produtos próprios e de lojistas parceiros. Os códigos deste guia são da loja Magazine Você da Cecília, que faz parte do programa de influenciadores do Magalu e é acessada pelo navegador.",
           "Use o código da faixa do seu carrinho. São dez, de 10EMCASACOMCECILIA (R$ 10 OFF em compras a partir de R$ 499,90) a 100EMCASACOMCECILIA (R$ 100 OFF a partir de R$ 4.999,90). Vale o da maior faixa que o carrinho alcançar, como mostra a tabela.",
-          "O número na frente do código é o desconto em reais, não um percentual. A página do [cupom Magalu](/cupons/magalu) traz a lista atualizada das faixas."
+          "O número na frente do código é o desconto em reais, não um percentual."
         ],
         "comparisonTable": {
           "caption": "Códigos da Cecília na loja Magazine Você. O desconto vale nos produtos, não no frete.",
@@ -284546,13 +284543,13 @@ const reviewsChunk2: unknown[] = [
       {
         "heading": "Resposta rápida",
         "paragraphs": [
-          "Use CECILIAA, com dois A no fim, para ter 5% OFF no site oficial da Gocase, na primeira compra ou nas seguintes. No checkout, informe e-mail e CPF e cole o código em “Tem um cupom?”. Nos nossos testes, o desconto também entrou sobre os preços da Black Friday."
+          "Use o [cupom Gocase](/cupons/gocase) CECILIAA, com dois A no fim, para ter 5% OFF no site oficial da Gocase, na primeira compra ou nas seguintes. No checkout, informe e-mail e CPF e cole o código em “Tem um cupom?”. Nos nossos testes, o desconto também entrou sobre os preços da Black Friday."
         ]
       },
       {
         "heading": "Onde digitar o cupom na Gocase",
         "paragraphs": [
-          "Você pode copiar o CECILIAA da [página do cupom Gocase](/cupons/gocase). Deixe o código à mão para aplicar no fechamento do pedido."
+          "Deixe o código CECILIAA à mão para aplicar no fechamento do pedido."
         ],
         "bullets": [
           "**Abra o checkout.** Coloque os produtos no carrinho e clique em “Finalizar compra”.",
@@ -284701,7 +284698,7 @@ const reviewsChunk2: unknown[] = [
     "affiliate": "gocase",
     "type": "Guia de Black Friday",
     "title": "Black Friday Gocase 2026: preços de garrafas, copos e bolsas com o CECILIAA",
-    "seoTitle": "Black Friday Gocase 2026: promoções e o cupom de 5%",
+    "seoTitle": "Black Friday Gocase 2026: cupom CECILIAA e ofertas",
     "description": "Compare os preços de garrafas, copos e bolsas na Black Friday da Gocase, veja a conta com o CECILIAA e confira a regra do Leve 2, Pague 1.",
     "metaDescription": "CECILIAA dá 5% OFF na Gocase e somou com preços de Black Friday nos nossos testes. Compare garrafas, copos e bolsas e confira o frete.",
     "image": "/images/reviews/gocase/black-friday-gocase-capa-v2.webp",
@@ -284738,7 +284735,7 @@ const reviewsChunk2: unknown[] = [
       {
         "heading": "Resposta rápida",
         "paragraphs": [
-          "Na Black Friday da Gocase, o CECILIAA deu mais 5% OFF em produtos já em promoção nos nossos testes. Veja os preços de garrafas, copos e bolsas com o código, a Fresh por cor, e confira o frete e o checkout antes de pagar."
+          "Na Black Friday da Gocase, o [cupom Gocase](/cupons/gocase) CECILIAA deu mais 5% OFF em produtos já em promoção nos nossos testes. Veja os preços de garrafas, copos e bolsas com o código, a Fresh por cor, e confira o frete e o checkout antes de pagar."
         ]
       },
       {
@@ -284887,7 +284884,7 @@ const reviewsChunk2: unknown[] = [
       {
         "heading": "O cupom soma com a Black Friday e onde digitar",
         "paragraphs": [
-          "Nos nossos testes, o [cupom Gocase](/cupons/gocase) CECILIAA deu 5% sobre preços de Black Friday. Em um carrinho, a Tote Mini em promoção fazia parte de um pedido de R$ 379,70 em produtos. Com o código, o valor dos produtos caiu para R$ 360,71."
+          "Nos nossos testes, o cupom CECILIAA deu 5% sobre preços de Black Friday. Em um carrinho, a Tote Mini em promoção fazia parte de um pedido de R$ 379,70 em produtos. Com o código, o valor dos produtos caiu para R$ 360,71."
         ],
         "bullets": [
           "Abra a loja, monte o carrinho e clique em “Finalizar compra”.",
@@ -284985,7 +284982,7 @@ const reviewsChunk2: unknown[] = [
       {
         "heading": "Resposta rápida",
         "paragraphs": [
-          "A Gocase tem matriz em Fortaleza, filial em Extrema e três lojas físicas. No Reclame Aqui, teve reputação Ótima, com nota 8,5 nos últimos seis meses. Antes de comprar, confira a previsão de entrega para o seu CEP e revise a estampa, o nome ou a foto. A loja restringe a devolução por arrependimento de itens personalizados."
+          "A Gocase tem matriz em Fortaleza, filial em Extrema e três lojas físicas. No Reclame Aqui, teve reputação Ótima, com nota 8,5 nos últimos seis meses. Antes de comprar, confira a previsão de entrega para o seu CEP e revise a estampa, o nome ou a foto; a loja restringe devolução por arrependimento de personalizados. No site oficial, o cupom CECILIAA dá 5% OFF."
         ]
       },
       {
@@ -285610,7 +285607,7 @@ const reviewsChunk2: unknown[] = [
         "heading": "Onde achar o cupom da Gocase na primeira compra",
         "paragraphs": [
           "A Gocase é uma marca brasileira de capinhas, garrafas térmicas e bolsas, com opções de personalização. Se ainda está escolhendo o produto, compare tamanhos de garrafa, medidas de bolsa e linhas de capinha no [guia de produtos da Gocase](/reviews/gocase-e-boa).",
-          "Copie CECILIAA na [página do cupom Gocase](/cupons/gocase). Ele dá 5% OFF no site oficial para clientes novos e antigos. Num carrinho que testamos, os produtos passaram de R$ 379,70 para R$ 360,71 com o código."
+          "Use CECILIAA, com dois A no fim: ele dá 5% OFF no site oficial para clientes novos e antigos. Num carrinho que testamos, os produtos passaram de R$ 379,70 para R$ 360,71 com o código."
         ],
         "images": [
           {
@@ -330570,7 +330567,7 @@ const reviewsChunk2: unknown[] = [
       {
         "heading": "Resposta rápida",
         "paragraphs": [
-          "No cadeado TSA embutido da Bagaggio com botão de reset, a senha de fábrica é 0-0-0: abra a trava, pressione o botão A com um objeto pontiagudo até o estalo, gire os discos para a nova combinação e encaixe os zíperes. Modelos sem botão, cadeados avulsos e senha esquecida seguem orientações diferentes abaixo."
+          "No cadeado TSA embutido da Bagaggio com botão de reset, a senha de fábrica é 0-0-0: abra a trava, pressione o botão A com um objeto pontiagudo até o estalo, gire os discos para a nova combinação e encaixe os zíperes. Modelos sem botão, cadeados avulsos e senha esquecida seguem orientações diferentes abaixo. No site e no app da Bagaggio, o cupom CECILIA10 dá 10% OFF."
         ]
       },
       {
@@ -330817,7 +330814,7 @@ const reviewsChunk2: unknown[] = [
       {
         "heading": "Resposta rápida",
         "paragraphs": [
-          "Para levar café ou chá, a Fresh da Gocase e a Dual da Bagaggio aceitam bebidas quentes, enquanto a Flip Pro atende só bebidas frias pela tampa. A Dual com alça azul de 900 ml tem o menor preço por 100 ml da tabela. Só a Gocase declara horas de conservação; a Bagaggio diz apenas “por horas”."
+          "Para levar café ou chá, a Fresh da Gocase e a Dual da Bagaggio aceitam bebidas quentes, enquanto a Flip Pro atende só bebidas frias pela tampa. A Dual com alça azul de 900 ml tem o menor preço por 100 ml da tabela. Só a Gocase declara horas de conservação. Na Gocase, o cupom CECILIAA dá 5% OFF; na Bagaggio, o CECILIA10 dá 10% OFF."
         ]
       },
       {
@@ -331501,7 +331498,7 @@ const reviewsChunk2: unknown[] = [
       {
         "heading": "Resposta rápida",
         "paragraphs": [
-          "Para cachorro que puxa, a Petz tem quatro peitorais com argola frontal no peito, todos da linha SofterWalk, da Zee.Dog. O FlyHarness é um colete de vestir rápido, e o Spike Geo e o Pastel Mint são peitorais em H para passeio tranquilo; os três prendem a guia só nas costas. Abaixo, preços, medidas e onde a guia prende."
+          "Para cachorro que puxa, a Petz tem quatro peitorais com argola frontal no peito, todos da linha SofterWalk, da Zee.Dog. O FlyHarness é um colete de vestir rápido, e o Spike Geo e o Pastel Mint são peitorais em H para passeio tranquilo; os três prendem a guia só nas costas. No site e no app da Petz, o cupom EMCASA dá 10% OFF nos itens sem oferta maior."
         ]
       },
       {
