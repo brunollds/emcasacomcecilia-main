@@ -134,6 +134,16 @@ etapa 3 (7h17) e os seis dias entre a última coleta (18/11) e o fechamento de i
   BW3), numa edição só da sessão de artigos. As outras 27 seguem em espera: 7 com ação dependem de fonte, leitura ou
   GO; as 4 ideias e as 6 de não criar ficam como estão, e as 10 de manter voltam com o export do Search Console de depois
   de 30/11.
+- **2026-11-25 21:58:** o pacote está na `main`. A pedido do Bruno, ele passou pela "Pesquisa de Semente pautas" (Job 1,
+  #1481) antes da sessão de artigos (#1482, `102bf05`). Na revisão do #1482, a coordenação viu que o FAQ "É da Reserva ou da
+  Arezzo?" tinha sido trocado pelo "A BAW faliu?". Essa pergunta é buscada (`sin-baw-0030`, `0032`, `0049` a `0051`) e
+  pertence à `op-baw-0005`, de manter. A correção (#1483, `0c97a0e`) devolveu o item e somou o novo. Links e itens
+  conferidos na `main`; o deploy depende do GO do Bruno. A releitura do Google pela sessão de artigos achou três coisas
+  sem fonte lida, que ficaram fora do texto:
+  - a bio do Instagram ("ÚLTIMA BLACK FRIDAY DA BAW"), que segue a regra de não interpretar a frase;
+  - uma queixa do Reclame Aqui que fala em "processo de falência";
+  - o resumo da Pipeline na busca, que cita o fechamento de três lojas físicas. Este vai para a `op-baw-0009` (loja
+    física): ler a reportagem entra nas dependências dela.
 
 ## Fechamento de insumos
 
