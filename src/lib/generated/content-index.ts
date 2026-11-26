@@ -255826,7 +255826,7 @@ const reviewsChunk1: unknown[] = [
       {
         "heading": "Antes de escolher o tamanho",
         "paragraphs": [
-          "A BAW não tem um guia de tamanhos único: as medidas ficam na aba “Descrição” de cada peça, e algumas descrições estão vazias. Confira as medidas antes de comprar, porque a troca por tamanho vira crédito na loja, segundo a política de trocas. O [guia da Black Friday da BAW](/reviews/black-friday-baw) mostra, peça a peça, quais das que lemos trazem as medidas."
+          "A BAW não tem um guia de tamanhos único: as medidas ficam na aba “Descrição” de cada peça, e algumas descrições estão vazias. Confira as medidas antes de comprar, porque a troca por tamanho vira crédito na loja, segundo a política de trocas. Reunimos as medidas das fichas preenchidas na [tabela de medidas BAW](/reviews/tabela-medidas-baw)."
         ]
       },
       {
@@ -256042,7 +256042,7 @@ const reviewsChunk1: unknown[] = [
         "heading": "Tênis BAW Thunder",
         "paragraphs": [
           "Era o tênis de menor preço entre os que lemos: R$ 169,00, de R$ 399,00, no modelo branco da foto.",
-          "A descrição não informa material nem medidas para escolher o número. Antes de comprar, peça à BAW a orientação de tamanho desse modelo, principalmente se você ainda não usa o Thunder. A troca é feita por crédito para uma nova compra, e a disponibilidade do número pode mudar.",
+          "A descrição não informa material nem medidas para escolher o número. Antes de comprar, peça à BAW a orientação de tamanho desse modelo, principalmente se você ainda não usa o Thunder. O [guia dos tênis BAW](/reviews/tenis-baw-e-bom) mostra a numeração e o que a ficha de cada modelo informa. A troca é feita por crédito para uma nova compra, e a disponibilidade do número pode mudar.",
           "Se a sua busca é por um calçado aberto, a [Sandália Linus](https://www.bawclothing.com.br/produto/sandalia-linus-153608), da parceria BAW + Linus, estava a R$ 169,00, de R$ 229,00, na cor amarelo flúor: R$ 152,10 com o código ou R$ 160,55 só com o Pix. A página informa “100% de PVC microexpandido” e traz uma tabela de pé por numeração dupla. É uma opção de sandália e não substitui o Thunder para quem precisa de tênis fechado."
         ],
         "images": [
@@ -256112,7 +256112,7 @@ const reviewsChunk1: unknown[] = [
           ]
         },
         "postParagraphs": [
-          "Para a primeira compra na marca, a Regular Selfie Logo e a Oversized BAW Subscript trazem as medidas. A Goth 3.0 tem o menor preço entre as camisetas, mas a loja não publica as medidas dela. Para o frio, o Basic Label e a Calça Track. No tênis, peça a orientação de tamanho antes de comprar.",
+          "Para a primeira compra na marca, a Regular Selfie Logo e a Oversized BAW Subscript trazem as medidas, e as medidas por tamanho estão na [tabela de medidas BAW](/reviews/tabela-medidas-baw). A Goth 3.0 tem o menor preço entre as camisetas, mas a loja não publica as medidas dela. Para o frio, o Basic Label e a Calça Track. No tênis, peça a orientação de tamanho antes de comprar.",
           "Os preços mudam durante a campanha e de uma cor para outra. Antes de comprar, compare o da página com o do quadro."
         ]
       },
@@ -256427,7 +256427,7 @@ const reviewsChunk1: unknown[] = [
         ]
       },
       {
-        "heading": "De quem é a BAW Clothing",
+        "heading": "O que aconteceu com a BAW?",
         "paragraphs": [
           "A BAW foi fundada em 2014 pelos irmãos Bruno Karra e Lucas Karra. Em 2021, a Arezzo confirmou a compra por R$ 105 milhões, segundo o [Mercado & Consumo](https://mercadoeconsumo.com.br/11/06/2021/ecommerce/arezzo-confirma-aquisicao-da-baw-clothing-por-r-105-milhoes/). A operação ficou na AR&Co, braço de vestuário do grupo, liderado por Rony Meisler, fundador da Reserva.",
           "Em 2025, o [NeoFeed noticiou a revenda da BAW aos ex-donos](https://neofeed.com.br/negocios/azzas-2154-enxuga-portfolio-e-revende-a-baw-para-ex-donos/). A marca, portanto, foi do grupo da Arezzo e voltou aos fundadores. Em 2026, o Pipeline, do Valor, também informou que os irmãos recompraram o controle e que Bruno Karra é o CEO."
@@ -256557,7 +256557,7 @@ const reviewsChunk1: unknown[] = [
       {
         "heading": "Perguntas frequentes",
         "bullets": [
-          "A BAW Clothing é da Reserva ou da Arezzo? Foi do grupo. A Arezzo comprou a marca em 2021, dentro do braço de vestuário liderado pelo fundador da Reserva. Em 2025, a imprensa noticiou a revenda aos fundadores, os irmãos Bruno e Lucas Karra.",
+          "A BAW faliu? As reportagens que citamos falam de venda e de revenda da marca, não de falência: a Arezzo comprou a BAW em 2021, e em 2025 ela voltou aos fundadores, os irmãos Bruno e Lucas Karra. A BAW segue vendendo no site oficial.",
           "Qual é o CNPJ da BAW Clothing? O rodapé do site oficial traz WAB COMPANY, CNPJ 58.435.903/0001-85. O perfil da marca no Reclame Aqui mostra o CNPJ 27.238.862/0001-03.",
           "A BAW troca peça por tamanho? Não diretamente. A troca vira crédito no valor pago, na conta do CPF da compra, e o cliente faz um novo pedido com o tamanho certo.",
           "A BAW Clothing tem loja física? A página “Nossas Lojas” do site não listava endereços na nossa leitura. A compra tratada aqui é a do site e a do aplicativo, com frete e prazo pelo CEP, primeira troca grátis, Pix com 5% de desconto e parcelamento em até 10x sem juros.",
@@ -256727,7 +256727,7 @@ const reviewsChunk1: unknown[] = [
       {
         "heading": "Primeiro pedido de roupa: o que conferir",
         "bullets": [
-          "**Medidas.** A BAW não tem um guia de tamanhos único. As medidas ficam na aba “Descrição” de cada peça, e algumas descrições estão vazias. As que lemos estão em [BAW Clothing é boa?](/reviews/baw-clothing-e-boa).",
+          "**Medidas.** A BAW não tem um guia de tamanhos único. As medidas ficam na aba “Descrição” de cada peça, e algumas descrições estão vazias. As que lemos estão na [tabela de medidas BAW](/reviews/tabela-medidas-baw).",
           "**Troca.** Pela política da loja, a troca vira crédito no valor pago, sem troca direta por outro tamanho. Quem prefere o dinheiro de volta pede a devolução, em até 7 dias corridos do recebimento.",
           "**Frete.** O cupom não dá frete grátis. O frete sai pelo CEP, então compare o total com a entrega.",
           "**Onde vale.** No site oficial e no aplicativo. Em marketplace, como o Mercado Livre, vale o preço do anúncio."
@@ -256928,8 +256928,7 @@ const reviewsChunk1: unknown[] = [
       {
         "heading": "Tênis e slides da BAW: o que conferir na página",
         "paragraphs": [
-          "A BAW vende tênis e slides, mas o nível de detalhe varia entre os calçados. Nos tênis consultados, como o [Tênis BAW Thunder](https://www.bawclothing.com.br/produto/tenis-baw-thunder-151236), a descrição estava vazia, sem material nem tabela de pé, enquanto a [Sandália Linus](https://www.bawclothing.com.br/produto/sandalia-linus-153609) trazia material em PVC, tiras sem ajuste e tabela por numeração dupla.",
-          "Nos modelos sem tabela nem descrição de material, confirme a numeração com o atendimento e considere a regra de devolução antes de fechar o pedido."
+          "O detalhe da ficha muda de calçado para calçado: alguns tênis trazem material e sola, outros chegam com a descrição vazia, sem tabela de pé. Modelo a modelo, com a numeração, está no [guia dos tênis BAW](/reviews/tenis-baw-e-bom); a sandália da parceria com a Linus tem [guia próprio](/reviews/sandalia-linus-baw). Nos modelos sem tabela, confirme a numeração com o atendimento antes de fechar o pedido."
         ]
       },
       {
@@ -257007,7 +257006,7 @@ const reviewsChunk1: unknown[] = [
       {
         "heading": "Para quem a BAW Clothing faz sentido na prática",
         "paragraphs": [
-          "A BAW Clothing vale a pena para quem gosta de streetwear com estampas marcantes, quer escolher entre modelagens regular e oversized e prefere peças com composição e medidas em centímetros detalhadas antes do clique. Nas camisetas e nos moletons com descrição completa, dá para separar o que é 100% algodão das peças mistas com poliéster e comparar as medidas do tórax e do comprimento com uma roupa que você já usa.",
+          "A BAW Clothing vale a pena para quem gosta de streetwear com estampas marcantes, quer escolher entre modelagens regular e oversized e prefere peças com composição e medidas em centímetros detalhadas antes do clique. Nas camisetas e nos moletons com descrição completa, dá para separar o que é 100% algodão das peças mistas com poliéster e comparar as medidas do tórax e do comprimento com uma roupa que você já usa. Se você está entre a BAW e outra marca, compare preço e peças em [BAW ou Carnan](/reviews/baw-ou-carnan) e [BAW ou Pace](/reviews/baw-ou-pace).",
           "Outro ponto positivo é ter primeira troca ou devolução com frete grátis em até 7 dias corridos, desde que você considere que a troca gera crédito na loja e a devolução devolve o valor pago. Antes de fechar o carrinho, aplique o cupom BAWEMCASACOMCECILIA no campo “Cupom de desconto” para garantir 10% OFF no site e no app."
         ],
         "emphasis": "Vale, sim, para quem busca streetwear em modelagem regular ou oversized: confira o tecido e as medidas em centímetros na descrição da peça e use o cupom BAWEMCASACOMCECILIA no carrinho para pagar 10% a menos.",
@@ -257024,7 +257023,7 @@ const reviewsChunk1: unknown[] = [
           "A BAW Clothing é boa? Vale, sim, para quem curte streetwear com modelagem regular ou oversized: as principais peças trazem composição em algodão ou mista e medidas em centímetros na descrição, a primeira troca ou devolução tem frete grátis e o cupom BAWEMCASACOMCECILIA dá 10% OFF no site e no app.",
           "Qual é o cupom da BAW Clothing? O cupom é o BAWEMCASACOMCECILIA, com 10% OFF no site oficial e no aplicativo, inclusive em peças em promoção, somando com os 5% do Pix. Digite no campo “Cupom de desconto” no carrinho e veja os detalhes na [página do cupom da BAW](/cupons/baw).",
           "A camiseta oversized da BAW é muito grande? Pela descrição da Oversized BAW Subscript, o M tem 72 cm de comprimento e 61 cm de tórax. Compare com uma camiseta sua antes de escolher; as demais peças estão na [tabela de medidas BAW](/reviews/tabela-medidas-baw).",
-          "O tênis da BAW tem tabela de medidas? Nos modelos de tênis consultados no site, a aba de descrição estava vazia, sem material nem tabela de pé; confirme as informações com o atendimento antes da compra.",
+          "O tênis da BAW tem tabela de medidas? Depende do modelo: parte das fichas detalha material e sola, e outras vêm com a descrição vazia. O [guia dos tênis BAW](/reviews/tenis-baw-e-bom) mostra o que cada modelo informa.",
           "As roupas da BAW são de algodão? Parte delas. As duas camisetas com composição na descrição são de algodão, e os moletons variam: um modelo traz 100% algodão e outro, 50% algodão e 50% poliéster.",
           "A BAW troca se não servir? Troca por crédito no valor pago na conta do CPF, sem troca direta por outro tamanho. Quem prefere o dinheiro pede a devolução em até 7 dias corridos do recebimento, com frete grátis na primeira solicitação."
         ]
@@ -335874,7 +335873,7 @@ const reviewsChunk2: unknown[] = [
       {
         "heading": "Como escolher o tamanho pela medida",
         "paragraphs": [
-          "Pegue uma camiseta sua que serve e meça o comprimento e o tórax com ela aberta sobre uma mesa. Compare com a linha do tamanho que você quer na tabela da peça, sabendo que a conta é aproximada: as fichas não dizem como a loja mediu o tórax."
+          "Pegue uma camiseta sua que serve e meça o comprimento e o tórax com ela aberta sobre uma mesa. Compare com a linha do tamanho que você quer na tabela da peça, sabendo que a conta é aproximada: as fichas não dizem como a loja mediu o tórax. Se a dúvida ainda é entre marcas, veja [BAW ou Carnan](/reviews/baw-ou-carnan) e [BAW ou Pace](/reviews/baw-ou-pace)."
         ],
         "emphasis": "No M, a oversized mais justa (Subscript, 61 cm de tórax) tem só 3 cm a mais que a regular mais larga (BR Regular Logo, 58 cm): escolha pela ficha da peça, não pelo nome da modelagem."
       },
