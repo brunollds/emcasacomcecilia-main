@@ -102791,7 +102791,7 @@ const reviewsChunk0: unknown[] = [
       {
         "heading": "Resposta rápida",
         "paragraphs": [
-          "A Black November da Belive anuncia até 30% OFF em todo o site e desconto extra no Pix. O [cupom Belive](/cupons/belive) MAUAD tira mais 10% e soma com o Pix, num total de 14,5% sobre os produtos. Pelos preços de página, o kit de 10 sai cerca de 7% mais barato que dez unidades."
+          "A Black November da Belive anuncia até 30% OFF em todo o site e desconto extra no Pix. Com o [cupom Belive](/cupons/belive) MAUAD (10% OFF) e o Pix, o preço já em oferta caiu mais 14,5% no nosso teste. Na tabela, os kits de 10 pães de mel ou brownies saem cerca de 7% mais baratos que dez unidades."
         ]
       },
       {
@@ -145961,7 +145961,7 @@ const reviewsChunk0: unknown[] = [
       {
         "heading": "Resposta rápida",
         "paragraphs": [
-          "Nos preços de outubro, sem Pix e sem cupom, a creatina Black Skull custa menos por 100 g que a Dark Lab em todos os tamanhos. No whey, a 80% HD tem o menor custo por proteína da tabela, e com o CECILIA10 a vantagem cresce; a 100% HD fica acima do refil Dark Lab."
+          "Nos preços de outubro, sem Pix e sem cupom, a creatina Black Skull custa menos por 100 g que a Dark Lab em todos os tamanhos. No whey, a 80% HD tem o menor custo por proteína da tabela, e com o cupom Black Skull CECILIA10 (10% OFF) a vantagem cresce; a 100% HD fica acima do refil Dark Lab."
         ]
       },
       {
@@ -271785,7 +271785,7 @@ const reviewsChunk2: unknown[] = [
         "paragraphs": [
           "No nosso teste, o cupom EMCASA entrou no campo “Tem um cupom?” do checkout, com o botão “Adicionar”. Ele somou com a promoção: os 10% saíram do total que sobrou depois do item grátis, não do total cheio.",
           "Não sabemos se a loja mantém essa ordem até o fim da campanha, nem se a regra muda na semana da Black Friday. O que vale no dia da compra é o que o checkout mostrar.",
-          "O passo a passo, campo a campo, está em [como usar o cupom EMCASA na Rituária](/reviews/cupom-rituaria-como-usar). As condições do código estão na página do cupom Rituária."
+          "O passo a passo, campo a campo, está em [como usar o cupom EMCASA na Rituária](/reviews/cupom-rituaria-como-usar)."
         ]
       },
       {
@@ -271836,7 +271836,7 @@ const reviewsChunk2: unknown[] = [
         "heading": "Perguntas frequentes",
         "bullets": [
           "A Rituária tem Black Friday? Não encontramos página com esse nome. A campanha aparece como Black November e Black Rituária, com Leve 3, Pague 2 na coleção de suplementos. A página consultada não publicava data de fim.",
-          "Qual é o cupom da Rituária? É o EMCASA, com 10% OFF no site oficial, para cliente novo e antigo e em todas as formas de pagamento. Ele entra no campo “Tem um cupom?” do checkout, e as condições estão na página do cupom Rituária.",
+          "Qual é o cupom da Rituária? É o EMCASA, com 10% OFF no site oficial, para cliente novo e antigo e em todas as formas de pagamento. Ele entra no campo “Tem um cupom?” do checkout.",
           "O cupom EMCASA vale no Leve 3, Pague 2? No nosso teste, com três Brain+ iguais, sim: os 10% entraram sobre o total que sobrou depois do item grátis, e o total foi de R$ 125,82. Confira a linha de descontos no checkout antes de pagar.",
           "Por que o carrinho não mostra o desconto? O carrinho mostra o total cheio e segue direto para o checkout próprio, onde a promoção aparece na linha de descontos.",
           "Quais produtos entram no Leve 3, Pague 2? Os suplementos listados na coleção da promoção. Num carrinho anterior, com dois itens da coleção e um Capilar Nutri, que não está nela, nenhum saiu de graça.",
@@ -272631,8 +272631,7 @@ const reviewsChunk2: unknown[] = [
         "heading": "Qual cupom usar na primeira compra da Rituária",
         "paragraphs": [
           "A Rituária é uma marca brasileira de suplementos, superfoods e dermocosméticos, com loja própria e checkout em seguro.rituaria.com.br.",
-          "Para o primeiro pedido, use EMCASA. A loja informa 10% OFF no site oficial, e no nosso teste o desconto entrou sobre o preço promocional. O mesmo código também vale para quem já é cliente.",
-          "Na página do cupom Rituária ficam o código e as condições em vigor."
+          "Para o primeiro pedido, use EMCASA. A loja informa 10% OFF no site oficial, e no nosso teste o desconto entrou sobre o preço promocional. O mesmo código também vale para quem já é cliente."
         ]
       },
       {
@@ -272726,7 +272725,7 @@ const reviewsChunk2: unknown[] = [
       {
         "heading": "Perguntas frequentes",
         "bullets": [
-          "Qual é o cupom da Rituária? É o EMCASA, com 10% OFF no site oficial, também sobre o preço promocional. Ele entra no campo “Tem um cupom?” do checkout, e as condições estão na página do cupom Rituária.",
+          "Qual é o cupom da Rituária? É o EMCASA, com 10% OFF no site oficial, também sobre o preço promocional. Ele entra no campo “Tem um cupom?” do checkout.",
           "Como conseguir desconto na primeira compra na Rituária? Não há código à parte para cliente novo: o mesmo EMCASA vale já no primeiro pedido, nas compras seguintes e em todas as formas de pagamento.",
           "Qual cupom vale para quem já é cliente? O mesmo EMCASA, sem trocar de código. Confira a linha Descontos no resumo de cada pedido.",
           "O cupom soma com produto em promoção? No nosso teste, sim: os 10% entraram sobre o preço promocional dos produtos. A conta está no capítulo sobre quanto o cupom tira.",
@@ -272930,7 +272929,7 @@ const reviewsChunk2: unknown[] = [
         "paragraphs": [
           "O cupom CECILIA na Adaptogen entra no checkout, que abre quando você clica em Finalizar Compra na sacola. No resumo do pedido há o campo “Cupom de desconto”: digite CECILIA, clique em “Aplicar” e espere o aviso “Cupom aplicado”. A linha Cupom aparece no resumo, com o valor abatido.",
           "O botão desta página leva à loja, mas não aplica o código sozinho: quem entra por ele ainda digita o CECILIA. Como a campanha muda o preço da vitrine, o total que vale é o do resumo, com a linha Cupom e o frete do seu CEP. Se o aviso não aparecer, confira a grafia, tudo junto e sem espaço, e se o campo é o de cupom.",
-          "O passo a passo, campo a campo, está em [como usar o cupom CECILIA na Adaptogen](/reviews/cupom-adaptogen-como-usar). As condições do código estão na página do cupom Adaptogen."
+          "O passo a passo, campo a campo, está em [como usar o cupom CECILIA na Adaptogen](/reviews/cupom-adaptogen-como-usar)."
         ]
       },
       {
@@ -272984,7 +272983,7 @@ const reviewsChunk2: unknown[] = [
       {
         "heading": "Perguntas frequentes",
         "bullets": [
-          "Qual é o cupom da Adaptogen? É o CECILIA, com 10% OFF no site oficial, também sobre os preços da Black Friday. Cole no campo Cupom de desconto do checkout; a página do cupom Adaptogen traz o código em vigor.",
+          "Qual é o cupom da Adaptogen? É o CECILIA, com 10% OFF no site oficial, também sobre os preços da Black Friday. Cole no campo Cupom de desconto do checkout.",
           "A Adaptogen tem Black Friday? Tem uma coleção própria no site, com 57 produtos, e um banner na home. A loja não publica regulamento nem data de fim.",
           "O cupom CECILIA vale na Black Friday da Adaptogen? Nos nossos testes, somou com os preços da campanha. Confira a linha Cupom no resumo do checkout antes de pagar.",
           "O cupom soma com o Pix? O CECILIA vale também no Pix e soma com os 5% que a loja anuncia para essa modalidade. Confira os dois descontos no resumo antes de pagar; nossos testes não chegaram à etapa de pagamento.",
@@ -273182,7 +273181,7 @@ const reviewsChunk2: unknown[] = [
       {
         "heading": "Perguntas frequentes",
         "bullets": [
-          "Qual é o cupom da Adaptogen? É o CECILIA, com 10% OFF no site oficial, para cliente novo e antigo e em todas as formas de pagamento. Cole no campo Cupom de desconto do checkout; a página do cupom Adaptogen traz o código em vigor.",
+          "Qual é o cupom da Adaptogen? É o CECILIA, com 10% OFF no site oficial, para cliente novo e antigo e em todas as formas de pagamento. Cole no campo Cupom de desconto do checkout.",
           "Onde coloco o cupom na Adaptogen? No checkout, que abre em Finalizar Compra na sacola, dentro do campo Cupom de desconto do resumo. Clique em Aplicar e confira a linha Cupom.",
           "O cupom CECILIA soma com a Black Friday? Nos nossos testes, somou com os preços da campanha. Os preços mudam, então confira a linha Cupom antes de pagar.",
           "O cupom vale para quem já é cliente? Vale. O CECILIA serve para cliente novo e antigo. Quem compra pela primeira vez pode ler o [guia da primeira compra na Adaptogen](/reviews/cupom-adaptogen-primeira-compra).",
@@ -273581,8 +273580,7 @@ const reviewsChunk2: unknown[] = [
         "heading": "Qual cupom usar na primeira compra da Adaptogen",
         "paragraphs": [
           "A Adaptogen é uma marca de suplementos esportivos que vende whey, creatina, pré-treinos e outros produtos. Para conhecer as diferenças entre as linhas, veja o [guia dos wheys e da creatina da Adaptogen](/reviews/adaptogen-e-boa). No primeiro pedido e nos seguintes, o CECILIA dá 10% OFF no site oficial.",
-          "Código achado em outros sites pode não funcionar, e o link da loja não preenche o campo de cupom: digite CECILIA e confira a linha Cupom no resumo antes de pagar.",
-          "Na página do cupom Adaptogen ficam o código e as condições em vigor."
+          "Código achado em outros sites pode não funcionar, e o link da loja não preenche o campo de cupom: digite CECILIA e confira a linha Cupom no resumo antes de pagar."
         ]
       },
       {
@@ -273667,7 +273665,7 @@ const reviewsChunk2: unknown[] = [
       {
         "heading": "Perguntas frequentes",
         "bullets": [
-          "Qual é o cupom da Adaptogen? É o CECILIA, com 10% OFF no site oficial, para cliente novo e antigo. Cole no campo Cupom de desconto do checkout; a página do cupom Adaptogen traz o código em vigor.",
+          "Qual é o cupom da Adaptogen? É o CECILIA, com 10% OFF no site oficial, para cliente novo e antigo. Cole no campo Cupom de desconto do checkout.",
           "Tem cupom Adaptogen de primeira compra? Sim, e é o mesmo das compras seguintes: o CECILIA vale no primeiro pedido, sem cadastro à parte.",
           "Qual cupom vale para quem já é cliente? O mesmo CECILIA, no mesmo campo do checkout. Confira a linha Cupom no resumo de cada pedido.",
           "O cupom soma com produto em promoção? Nos nossos testes, sim: os 10% entraram sobre o preço promocional dos carrinhos.",
