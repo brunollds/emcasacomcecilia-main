@@ -2965,6 +2965,11 @@ const STORE_COUPONS: Coupon[] = [
       'A Cléa Store é uma marca brasileira de moda feminina, com alfaiataria, blusas, camisas, vestidos, conjuntos, t-shirts e acessórios vendidos no site oficial. O cupom CSEMCASACOMCECILIA é o benefício da parceria para quem acompanha o Em Casa com Cecília: dá 10% OFF em todo o site, com qualquer forma de pagamento, e soma com as promoções e com o cashback da loja. A recomendação é conferir o resumo do pedido antes de finalizar.',
     faqs: [
       {
+        question: 'Qual é o cupom de desconto da Cléa Store?',
+        answer:
+          'É o CSEMCASACOMCECILIA, com 10% OFF em todos os produtos do site oficial da Cléa Store (cleastore.com.br), em todas as formas de pagamento, para quem compra pela primeira vez e para quem já é cliente.',
+      },
+      {
         question: 'O cupom CSEMCASACOMCECILIA vale para todos os produtos da Cléa Store?',
         answer: 'Sim. O CSEMCASACOMCECILIA dá 10% OFF em todos os produtos do site oficial da Cléa Store.',
       },
@@ -4467,19 +4472,19 @@ const STORE_COUPONS: Coupon[] = [
     hubCategory: 'beleza',
     shortDescription: 'produtos para cabelo no site oficial da Prohall',
     longDescription:
-      'O cupom Prohall CECILIAMC dá até 10% OFF no site oficial, para quem compra pela primeira vez e para quem já é cliente, e soma com as promoções: nos nossos testes, tirou 7% de produtos a preço cheio e em promoção. Vale em todas as formas de pagamento.',
+      'O cupom Prohall CECILIAMC dá até 10% OFF no site oficial e no aplicativo, para quem compra pela primeira vez e para quem já é cliente, soma com as promoções e vale em todas as formas de pagamento. No nosso teste, um carrinho com itens em promoção caiu de R$ 380,70 para R$ 354,06, e o Force Hair foi de R$ 264,90 para R$ 246,36.',
     metaTitle: 'Cupom Prohall: até 10% OFF com CECILIAMC',
     metaTitleMonth: true,
     metaDescription:
-      'Cupom Prohall: CECILIAMC dá até 10% OFF para cliente novo ou antigo, soma com as promoções do site, em todas as formas de pagamento. Nos testes, deu 7%.',
-    eligibleCategories: 'Produtos do site oficial da Prohall; o desconto chega a 10% e pode ser menor: nos nossos testes, foi de 7%',
+      'Cupom Prohall: CECILIAMC dá até 10% OFF no site e no app, para cliente novo ou antigo, e soma com as promoções em todas as formas de pagamento.',
+    eligibleCategories: 'Produtos do site oficial e do aplicativo da Prohall',
     validity: 'Cupom ativo enquanto a parceria estiver vigente',
     reusable: 'Pode ser usado em mais de uma compra, segundo a parceria',
     shipping: 'Frete grátis a partir de um mínimo por região, segundo a página de pagamento e envio da loja: R$ 99 no Sudeste, R$ 149 no Sul, R$ 179 no Centro-Oeste e R$ 199 no Norte e no Nordeste; o mínimo conta depois do cupom',
     combinable:
       'Soma com as promoções vigentes do site e vale com todas as formas de pagamento; não junta com o cupom de cashback da loja',
     stacking: [
-      { benefit: 'promocoes', stacks: 'sim', condition: 'Entra sobre o preço promocional: nos testes, tirou 7% de produtos que já estavam com desconto' },
+      { benefit: 'promocoes', stacks: 'sim', condition: 'Entra sobre o preço promocional: no teste, um carrinho em promoção caiu de R$ 380,70 para R$ 354,06' },
       { benefit: 'pix', stacks: 'sim', condition: 'Soma com o desconto do Pix, quando a loja oferece; o percentual aparece na hora do pagamento' },
       { benefit: 'cashback', stacks: 'nao', condition: 'O cashback da loja chega como cupom para a compra seguinte e não junta com outro cupom' },
       { benefit: 'frete', stacks: 'depende', condition: 'Grátis a partir de R$ 99 no Sudeste, R$ 149 no Sul, R$ 179 no Centro-Oeste e R$ 199 no Norte e no Nordeste; o mínimo conta depois do cupom' },
@@ -4490,19 +4495,19 @@ const STORE_COUPONS: Coupon[] = [
     lastVerified: '2026-11-22',
     testedAt: '2026-11-22',
     testNote:
-      'Num carrinho de quatro itens, com o kit Shampoo + Condicionador Absolut One em promoção, de R$ 149,90 por R$ 89,90, o CECILIAMC tirou R$ 26,64 dos R$ 380,70 e o total caiu para R$ 354,06: 7%. No mesmo dia, aplicamos o código em outros quatro carrinhos, com produtos a preço cheio e em promoção, e o desconto foi de 7% em todos: o Force Hair foi de R$ 264,90 para R$ 246,36, e o Kit Completo Absolut One, de R$ 349,90 para R$ 325,41. Em 22/11/2026, com a Black Prohall no ar, o código tirou R$ 19,57 de um carrinho de R$ 279,70, com o kit Force Hair, o Burix One e o Select One em promoção: 7% de novo, com o total em R$ 260,13.',
+      'Num carrinho de quatro itens, com o kit Shampoo + Condicionador Absolut One em promoção, de R$ 149,90 por R$ 89,90, o CECILIAMC tirou R$ 26,64 dos R$ 380,70 e o total caiu para R$ 354,06. No mesmo dia, aplicamos o código em outros quatro carrinhos, com produtos a preço cheio e em promoção: o Force Hair foi de R$ 264,90 para R$ 246,36, e o Kit Completo Absolut One, de R$ 349,90 para R$ 325,41. Em 22/11/2026, com a Black Prohall no ar, o código tirou R$ 19,57 de um carrinho de R$ 279,70, com o kit Force Hair, o Burix One e o Select One em promoção, e o total ficou em R$ 260,13.',
     aboutBrand:
-      'A Prohall é uma marca brasileira de produtos para cabelo, fundada em 2017 em Lençóis Paulista (SP), com escovas antifrizz, shampoos, condicionadores, máscaras, óleos, séruns e finalizadores vendidos no site oficial. O cupom CECILIAMC é o benefício da parceria para quem acompanha o Em Casa com Cecília e dá até 10% OFF: nos nossos testes, o desconto foi de 7%, e o resumo da compra mostra o valor. Ele vale com qualquer forma de pagamento e soma com as promoções do site.',
+      'A Prohall é uma marca brasileira de produtos para cabelo, fundada em 2017 em Lençóis Paulista (SP), com escovas antifrizz, shampoos, condicionadores, máscaras, óleos, séruns e finalizadores vendidos no site oficial. O cupom CECILIAMC é o benefício da parceria para quem acompanha o Em Casa com Cecília e dá até 10% OFF no site oficial e no aplicativo, com qualquer forma de pagamento e também sobre os produtos em promoção. O resumo da compra mostra o valor antes de finalizar.',
     faqs: [
       {
-        question: 'Qual é o cupom da Prohall?',
+        question: 'Qual é o cupom de desconto da Prohall?',
         answer:
           'O cupom da Prohall da nossa parceria é CECILIAMC, com até 10% OFF no site oficial e no aplicativo, em todas as formas de pagamento.',
       },
       {
         question: 'Quanto de desconto o cupom CECILIAMC dá?',
         answer:
-          'Até 10% OFF, segundo a parceria. Nos nossos testes, o desconto foi de 7%, em produtos a preço cheio e em promoção. O resumo da compra mostra o valor assim que o código é aceito.',
+          'Até 10% OFF no site oficial e no aplicativo, em produtos a preço cheio e em promoção. No nosso teste, um carrinho de R$ 380,70 caiu para R$ 354,06, e o resumo da compra mostra o valor assim que o código é aceito.',
       },
       {
         question: 'O cupom CECILIAMC vale no Pix, no cartão e em outras formas de pagamento?',
@@ -4560,12 +4565,12 @@ const STORE_COUPONS: Coupon[] = [
       {
         question: 'Tem cupom Prohall na Black Friday?',
         answer:
-          'Tem. O cupom Prohall CECILIAMC dá até 10% OFF no site oficial e no app, em todas as formas de pagamento; nos nossos testes, o desconto foi de 7%.',
+          'Tem. O cupom Prohall CECILIAMC dá até 10% OFF no site oficial e no app, em todas as formas de pagamento.',
       },
       {
         question: 'O cupom Prohall vale na Black Friday?',
         answer:
-          'Vale. O cupom Prohall CECILIAMC dá até 10% OFF em cima do preço da campanha: nos nossos testes, tirou 7% de produtos que já estavam em promoção.',
+          'Vale. O cupom Prohall CECILIAMC dá até 10% OFF em cima do preço da campanha: no nosso teste na Black Prohall, um carrinho em promoção caiu de R$ 279,70 para R$ 260,13.',
       },
       {
         question: 'Comprar com o cupom apoia o Em Casa com Cecília?',
@@ -4574,8 +4579,8 @@ const STORE_COUPONS: Coupon[] = [
       },
     ],
     monthlyHighlight: {
-      scope: 'no site oficial',
-      note: 'O desconto chega a 10%; nos nossos testes, foi de 7%',
+      scope: 'no site oficial e no app',
+      note: 'Até 10% OFF, também nos produtos em promoção',
     },
     relatedContent: [
       {
@@ -4823,6 +4828,11 @@ const STORE_COUPONS: Coupon[] = [
     aboutBrand:
       'A BAW Clothing é uma marca brasileira de streetwear, com o lema "We make noise, not fashion": camisetas, moletons, calças e acessórios, vendidos no site oficial. O cupom BAWEMCASACOMCECILIA é o benefício da parceria para quem acompanha o Em Casa com Cecília: 10% OFF em todo o site e no aplicativo, com qualquer forma de pagamento e também sobre as peças em promoção.',
     faqs: [
+      {
+        question: 'Qual é o cupom de desconto da BAW Clothing?',
+        answer:
+          'É o BAWEMCASACOMCECILIA, com 10% OFF em todo o site oficial e no aplicativo da BAW Clothing, em todas as formas de pagamento, somando com as promoções e com os 5% do Pix.',
+      },
       {
         question: 'Quanto de desconto o cupom BAWEMCASACOMCECILIA dá?',
         answer:
@@ -5687,6 +5697,11 @@ const STORE_COUPONS: Coupon[] = [
     aboutBrand:
       'A BOLD Snacks é uma marca brasileira de snacks proteicos criada em 2018: barras de proteína BOLD em caixas de um sabor ou mistas, as linhas Crunch, Tube e Wafer, whey protein em potes e sachês e creatina, vendidos no site oficial. O cupom CECILIA15 é o benefício da parceria para quem acompanha o Em Casa com Cecília: 20% OFF no nosso teste, com qualquer forma de pagamento e também sobre os produtos em promoção.',
     faqs: [
+      {
+        question: 'Qual é o cupom de desconto da BOLD?',
+        answer:
+          'O cupom BOLD (BOLD Snacks) é o CECILIA15, que deu 20% OFF no site oficial no nosso teste, em todas as formas de pagamento, para quem compra pela primeira vez e para quem já é cliente, somando com os produtos em promoção.',
+      },
       {
         question: 'Quanto de desconto o cupom CECILIA15 dá na BOLD Snacks?',
         answer:
