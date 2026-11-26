@@ -275442,7 +275442,7 @@ const reviewsChunk2: unknown[] = [
       {
         "heading": "Resposta rápida",
         "paragraphs": [
-          "Na Pré-Black da BOLD Snacks, o [cupom BOLD](/cupons/bold) CECILIA15 deu 20% OFF no nosso teste, com um código por pedido. Pelo regulamento, os brindes dependem do valor dos produtos após os descontos, sem frete. O print do teste mostrou um brinde além da faixa publicada; abaixo estão a regra e o que conferir no pedido."
+          "Na Black Friday da BOLD Snacks, o [cupom BOLD](/cupons/bold) CECILIA15 deu 20% OFF no nosso teste, com um código por pedido. Pelo regulamento, os brindes dependem do valor dos produtos após os descontos, sem frete. O print do teste mostrou um brinde além da faixa publicada; abaixo estão a regra e o que conferir no pedido."
         ]
       },
       {
@@ -275662,7 +275662,7 @@ const reviewsChunk2: unknown[] = [
       {
         "heading": "Resposta rápida",
         "paragraphs": [
-          "O [cupom BOLD](/cupons/bold) CECILIA15 deu 20% OFF no teste da Pré-Black, para cliente novo e antigo, embora o nome tenha 15. No checkout, confira se o código já aparece aplicado; se precisar, digite-o em Código de desconto ou cartão-presente e clique em Aplicar. Abaixo estão a compra única e o resultado observado na adesão à assinatura."
+          "O [cupom BOLD](/cupons/bold) CECILIA15 deu 20% OFF no teste da Black Friday, para cliente novo e antigo, embora o nome tenha 15. No checkout, confira se o código já aparece aplicado; se precisar, digite-o em Código de desconto ou cartão-presente e clique em Aplicar. Abaixo estão a compra única e o resultado observado na adesão à assinatura."
         ]
       },
       {
@@ -275838,7 +275838,7 @@ const reviewsChunk2: unknown[] = [
       {
         "heading": "Resposta rápida",
         "paragraphs": [
-          "A BOLD Snacks tinha reputação Boa e nota 7,9 no semestre consultado, com todas as 147 reclamações respondidas. Entre as avaliadas, 83,1% constavam como resolvidas; atraso na entrega liderava a aba geral, de outro período. Se decidir comprar, o cupom BOLD CECILIA15 deu 20% OFF no teste da Pré-Black."
+          "A BOLD Snacks tinha reputação Boa e nota 7,9 no semestre consultado, com todas as 147 reclamações respondidas. Entre as avaliadas, 83,1% constavam como resolvidas; atraso na entrega liderava a aba geral, de outro período. Se decidir comprar, o cupom BOLD CECILIA15 deu 20% OFF no teste da Black Friday."
         ]
       },
       {
@@ -276036,7 +276036,7 @@ const reviewsChunk2: unknown[] = [
       {
         "heading": "Resposta rápida",
         "paragraphs": [
-          "A BOLD Snacks tem empresa identificada em Divinópolis e reputação Boa no Reclame Aqui; a entrega exige atenção. A Ferrero anunciou um acordo de aquisição, sem confirmação de fechamento entre as fontes consultadas. Se decidir comprar, comece no site oficial e confira o cupom BOLD CECILIA15, que deu 20% OFF no teste da Pré-Black."
+          "A BOLD Snacks tem empresa identificada em Divinópolis e reputação Boa no Reclame Aqui; a entrega exige atenção. A Ferrero anunciou um acordo de aquisição, sem confirmação de fechamento entre as fontes consultadas. Se decidir comprar, comece no site oficial e confira o cupom BOLD CECILIA15, que deu 20% OFF no teste da Black Friday."
         ]
       },
       {
@@ -276458,7 +276458,7 @@ const reviewsChunk2: unknown[] = [
       {
         "heading": "Resposta rápida",
         "paragraphs": [
-          "Na primeira compra da BOLD Snacks, o [cupom BOLD](/cupons/bold) CECILIA15 deu 20% OFF no teste da Pré-Black, embora o nome tenha 15. Ele também vale para quem já comprou, com um cupom por pedido. Confira o código no resumo do checkout; abaixo estão o teste com compra única e os cuidados antes de aderir à assinatura."
+          "Na primeira compra da BOLD Snacks, o [cupom BOLD](/cupons/bold) CECILIA15 deu 20% OFF no teste da Black Friday, embora o nome tenha 15. Ele também vale para quem já comprou, com um cupom por pedido. Confira o código no resumo do checkout; abaixo estão o teste com compra única e os cuidados antes de aderir à assinatura."
         ]
       },
       {
