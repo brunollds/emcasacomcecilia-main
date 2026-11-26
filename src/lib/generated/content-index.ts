@@ -28912,14 +28912,14 @@ const reviewsChunk0: unknown[] = [
       {
         "heading": "Resposta rápida",
         "paragraphs": [
-          "Sim, a Poltrona Reclinável 2.0 vale a pena para quem prioriza conforto e personalização sob medida e aceita investir mais por isso. Nas primeiras semanas, os motores foram silenciosos e a massagem foi a favorita da Cecília. O código CECILIA12 dá 12% de desconto nos produtos; os opcionais encarecem a poltrona, como mostra o veredito abaixo."
+          "Sim, a Poltrona Reclinável 2.0 vale a pena para quem prioriza conforto e personalização sob medida e aceita investir mais por isso. Nas primeiras semanas, os motores foram silenciosos e a massagem foi a favorita da Cecília. O [cupom DAMIE](/cupons/damie) CECILIA12 dá 12% OFF nos produtos e soma com os 10% do Pix; os opcionais encarecem a poltrona, como mostra o veredito abaixo."
         ]
       },
       {
         "heading": "O que é a Poltrona Reclinável 2.0",
         "paragraphs": [
           "A Reclinável 2.0 é uma poltrona reclinável, daquelas que muita gente chama de poltrona do papai ou cadeira do papai, com opções de base manual ou elétrica, revestimentos e acessórios. Na encomenda, você escolhe a configuração conforme o uso e o orçamento.",
-          "Na nossa casa, usamos a elétrica com giro e balanço, em corino importado caramelo. Abaixo mostramos como foram as primeiras semanas e quais opcionais usamos. Com o [cupom CECILIA12](/cupons/damie), são 12% de desconto nos produtos; o frete fica de fora."
+          "Na nossa casa, usamos a elétrica com giro e balanço, em corino importado caramelo. Abaixo mostramos como foram as primeiras semanas e quais opcionais usamos. Com o código CECILIA12, são 12% de desconto nos produtos; o frete fica de fora."
         ],
         "bullets": [
           "Você escolhe mecanismo, revestimento, cor e acessórios.",
@@ -29100,7 +29100,7 @@ const reviewsChunk0: unknown[] = [
         "heading": "Perguntas frequentes",
         "paragraphs": [],
         "bullets": [
-          "Qual é o cupom da DAMIE? O cupom da DAMIE da nossa parceria é CECILIA12, com 12% OFF em todo o site oficial, em todas as formas de pagamento. Vale nos produtos e opcionais, não no frete, e soma com os 10% do Pix ([veja as regras do cupom DAMIE](/cupons/damie)).",
+          "Qual é o cupom da DAMIE? O cupom da DAMIE da nossa parceria é CECILIA12, com 12% OFF em todo o site oficial, em todas as formas de pagamento. Vale nos produtos e opcionais, não no frete, e soma com os 10% do Pix, aplicado no campo de cupom do checkout.",
           "Qual a poltrona indicada para quem tem mais de 1,85m? A DAMIE disponibiliza o opcional 'Encosto Fixo Mais Alto', que aumenta a altura do encosto da poltrona para acomodar pessoas mais altas com apoio completo de cabeça.",
           "A Poltrona Reclinável 2.0 elétrica precisa de bateria? Ela funciona ligada diretamente na tomada através de uma fonte bivolt. O ideal é posicioná-la próxima a uma tomada de energia na sala.",
           "Como funciona a garantia do fabricante? A DAMIE dá 1 ano de garantia e, depois, suporte vitalício com peças a preço de custo.",
@@ -29179,7 +29179,7 @@ const reviewsChunk0: unknown[] = [
       {
         "heading": "Resposta rápida",
         "paragraphs": [
-          "Sim, para nós o sofá modular da Damie valeu a pena: cada módulo chega em uma caixa, facilitando entrar em casa, e o puff separado muda a configuração da sala. O que pesa na escolha é medir o acesso e escolher o tecido pela rotina, como detalhamos abaixo. No site, o CECILIA12 dá 12% OFF."
+          "Sim, para nós o sofá modular da Damie valeu a pena: cada módulo chega em uma caixa, facilitando entrar em casa, e o puff separado muda a configuração da sala. O que pesa na escolha é medir o acesso e escolher o tecido pela rotina, como detalhamos abaixo. No site oficial, o [cupom DAMIE](/cupons/damie) CECILIA12 dá 12% OFF e soma com os 10% do Pix."
         ]
       },
       {
@@ -29220,7 +29220,7 @@ const reviewsChunk0: unknown[] = [
           "Pra nós, valeu. O sofá chegou dentro do prazo, os módulos encaixaram bem, e o puff virou peça fixa da rotina de TV. Recebi o produto em parceria e uso há mais de um ano. É uma compra cara, para fazer com calma. Dentro do que a Damie promete, entregou.",
           "A flexibilidade me surpreendeu no dia a dia. Já mudamos a configuração da sala duas vezes: uma para abrir espaço numa reunião de família, outra para experimentar outro ângulo da TV. Poder arrastar os módulos separadamente facilitou essas mudanças.",
           "E tem uma coisa que eu não esperava: a limpeza. Como os módulos separam, dá pra limpar por baixo, limpar entre os encaixes, acessar cantos que com um sofá fixo seriam eternamente esquecidos. Pra quem tem pet, isso é ouro. A gente tem um cachorro que solta pelo, e conseguir limpar debaixo do sofá sem ter que levantar um móvel pesado é um alívio real.",
-          "O cupom CECILIA12 dá 12% OFF no site da Damie, em todas as formas de pagamento, e soma com as promoções e com os 10% do Pix; as regras estão na [página do cupom DAMIE](/cupons/damie)."
+          "O cupom CECILIA12 dá 12% OFF no site da Damie, em todas as formas de pagamento, e soma com as promoções e com os 10% do Pix."
         ],
         "image": {
           "src": "/images/reviews/sofa-damie-modular-vale-a-pena-sq.webp",
@@ -31936,7 +31936,7 @@ const reviewsChunk0: unknown[] = [
         "heading": "Vale a pena comprar na DAMIE?",
         "paragraphs": [
           "Pelos números do semestre, a DAMIE responde todas as reclamações, resolve a maior parte das avaliadas e tem reputação Boa. O ponto fraco é a entrega, e a reputação oscilou de Ótima para Boa em outubro.",
-          "O CECILIA12 dá 12% OFF em todo o site oficial, em todas as formas de pagamento, e soma com os 10% do Pix e com as promoções. As regras estão na [página do cupom DAMIE](/cupons/damie)."
+          "O CECILIA12 dá 12% OFF em todo o site oficial, em todas as formas de pagamento, e soma com os 10% do Pix e com as promoções."
         ],
         "emphasis": "Na minha casa, eu compraria da DAMIE com o prazo conferido pelo CEP antes de pagar: a nota é Boa, mas o atraso é a queixa que mais aparece.",
         "links": [
@@ -32021,7 +32021,7 @@ const reviewsChunk0: unknown[] = [
       {
         "heading": "Resposta rápida",
         "paragraphs": [
-          "No checkout do site oficial da DAMIE, encontre o campo de cupom ou código promocional, digite CECILIA12 e aplique. Confira os 12% sobre o subtotal dos produtos. O [cupom DAMIE](/cupons/damie) soma com as promoções e com os 10% do Pix; não soma com outro código nem com giftback e não vale no Mercado Livre."
+          "No checkout do site oficial da DAMIE, encontre o campo de cupom ou código promocional, digite CECILIA12 e aplique. Confira os 12% OFF sobre o subtotal dos produtos. O [cupom DAMIE](/cupons/damie) soma com as promoções e com os 10% do Pix; não soma com outro código nem com giftback e não vale no Mercado Livre."
         ]
       },
       {
@@ -32093,7 +32093,7 @@ const reviewsChunk0: unknown[] = [
           "Outro cupom ou o crédito do giftback no pedido: o CECILIA12 não soma com eles. Tire o outro e aplique o CECILIA12 de novo.",
           "Onde está a compra: o código só vale no site oficial da DAMIE, e não no Mercado Livre.",
           "A digitação: é CECILIA12, sem espaços.",
-          "Se nada disso resolver, veja as [regras completas do cupom](/cupons/damie) e fale com o suporte da DAMIE antes de concluir o pagamento."
+          "Se nada disso resolver, fale com o suporte da DAMIE antes de concluir o pagamento."
         ]
       },
       {
@@ -32270,7 +32270,7 @@ const reviewsChunk0: unknown[] = [
       {
         "heading": "Resposta rápida",
         "paragraphs": [
-          "Na nossa DAMIE 1.0 em linho, recebida em parceria e usada há mais de um ano, a reclinação elétrica e o apoio de braço fizeram diferença. Para o sono, o bebê volta ao berço, porque a poltrona é para mamar acordada. O [cupom CECILIA12](/cupons/damie) dá 12% no site da DAMIE e soma com as promoções."
+          "Na nossa DAMIE 1.0 em linho, recebida em parceria e usada há mais de um ano, a reclinação elétrica e o apoio de braço fizeram diferença. Para o sono, o bebê volta ao berço, porque a poltrona é para mamar acordada. O [cupom DAMIE](/cupons/damie) CECILIA12 dá 12% OFF no site oficial e soma com as promoções e os 10% do Pix."
         ]
       },
       {
@@ -32331,7 +32331,7 @@ const reviewsChunk0: unknown[] = [
         "paragraphs": [
           "Nossa poltrona virou parte da rotina. Não é apenas o lugar da amamentação: é onde eu descanso depois que o Ian vai para o berço e onde a gente se senta para ler histórias no fim do dia. Se você está montando esse cantinho agora, escolha pensando no conforto real do dia a dia, não só na foto do ambiente.",
           "A nossa é a DAMIE 1.0 em linho bege, recebida em parceria. O linho é respirável, a montagem foi simples e a reclinação elétrica é silenciosa: dá para mudar de posição sem acordar o Ian.",
-          "No site da DAMIE, o cupom CECILIA12 dá 12% OFF em todos os produtos, em todas as formas de pagamento. Ele soma com as promoções do site, inclusive os 10% do Pix, mas não com outro cupom nem com o giftback de 15%; as condições estão na [página do cupom DAMIE](/cupons/damie)."
+          "No site da DAMIE, o cupom CECILIA12 dá 12% OFF em todos os produtos, em todas as formas de pagamento. Ele soma com as promoções do site, inclusive os 10% do Pix, mas não com outro cupom nem com o giftback de 15%."
         ],
         "image": {
           "src": "/images/reviews/poltrona-reclinavel-cecilia-ian-4x5.webp",
@@ -33049,7 +33049,7 @@ const reviewsChunk0: unknown[] = [
       {
         "heading": "Resposta rápida",
         "paragraphs": [
-          "Claro que vale, para quem usa a poltrona todo dia: para nós, a Levita entrega dois motores que ajustam encosto e pés separados até a gravidade zero, com ruído menor que o de um ventilador. Se busca só decoração, veja abaixo por que não compensa. Na DAMIE, o CECILIA12 dá 12% OFF."
+          "Claro que vale, para quem usa a poltrona todo dia: para nós, a Levita entrega dois motores que ajustam encosto e pés separados até a gravidade zero, com ruído menor que o de um ventilador. Se busca só decoração, veja abaixo por que não compensa. Na DAMIE, o [cupom DAMIE](/cupons/damie) CECILIA12 dá 12% OFF e soma com os 10% do Pix."
         ]
       },
       {
@@ -33287,7 +33287,7 @@ const reviewsChunk0: unknown[] = [
       {
         "heading": "Resposta rápida",
         "paragraphs": [
-          "Com certeza valeu para nós: o Sofá Damie na Caixa, de 3 lugares com puff, está na sala há mais de um ano, e os módulos em caixas facilitam passar por escada e elevador. Veja abaixo o que conferir nas medidas antes de pedir. No site da Damie, o cupom CECILIA12 dá 12% OFF."
+          "Com certeza valeu para nós: o Sofá Damie na Caixa, de 3 lugares com puff, está na sala há mais de um ano, e os módulos em caixas facilitam passar por escada e elevador. Veja abaixo o que conferir nas medidas antes de pedir. No site oficial, o [cupom DAMIE](/cupons/damie) CECILIA12 dá 12% OFF e soma com os 10% do Pix."
         ]
       },
       {
@@ -33513,7 +33513,7 @@ const reviewsChunk0: unknown[] = [
       {
         "heading": "Resposta rápida",
         "paragraphs": [
-          "A Moon da DAMIE é uma poltrona decorativa giratória, sem reclinação, e a nossa está na sala há mais de um ano. Ela saiu do catálogo do site, então este review conta o uso real e serve de referência. Hoje, para comprar, olhe a Aurora ou a reclinável 2.0 com o CECILIA12: 12% OFF no site todo."
+          "A Moon da DAMIE é uma poltrona decorativa giratória, sem reclinação, e a nossa está na sala há mais de um ano. Ela saiu do catálogo do site, então este review conta o uso real e serve de referência. Hoje, para comprar, olhe a Aurora ou a reclinável 2.0 com o [cupom DAMIE](/cupons/damie) CECILIA12: 12% OFF no site todo."
         ]
       },
       {
@@ -33717,7 +33717,7 @@ const reviewsChunk0: unknown[] = [
       {
         "heading": "Resposta rápida",
         "paragraphs": [
-          "Vale, sim: a poltrona reclinável Damie 1.0 valeu o investimento para nós, pois usamos todos os dias há mais de um ano, com reclinação elétrica silenciosa e linho bege respirável no calor. O que pesa é o preço e a tomada por perto, como mostramos abaixo. No site da Damie, o CECILIA12 dá 12% OFF e soma com promoções."
+          "Vale, sim: a poltrona reclinável Damie 1.0 valeu o investimento para nós, pois usamos todos os dias há mais de um ano, com reclinação elétrica silenciosa e linho bege respirável no calor. O que pesa é o preço e a tomada por perto, como mostramos abaixo. No site oficial, o [cupom DAMIE](/cupons/damie) CECILIA12 dá 12% OFF e soma com promoções e os 10% do Pix."
         ]
       },
       {
@@ -34764,7 +34764,7 @@ const reviewsChunk0: unknown[] = [
       {
         "heading": "Resposta rápida",
         "paragraphs": [
-          "O [cupom I Wanna Sleep](/cupons/i-wanna-sleep) CECIEMCASA dá 10% de desconto em todo o site oficial, para cliente novo e antigo. Ele soma com as promoções da loja e com os 5% do Pix, e você digita o código no campo de cupom do checkout, conferindo o total recalculado antes de pagar."
+          "O [cupom I Wanna Sleep](/cupons/i-wanna-sleep) CECIEMCASA dá 10% OFF em todo o site oficial, para cliente novo e antigo. Ele soma com as promoções da loja e com os 5% do Pix, e você digita o código no campo de cupom do checkout, conferindo o total recalculado antes de pagar."
         ]
       },
       {
@@ -35602,7 +35602,7 @@ const reviewsChunk0: unknown[] = [
         "heading": "O que é o Travesseiro IWS Snow",
         "paragraphs": [
           "Para quem não acerta a altura do travesseiro, o Snow é o best-seller da marca: chega com 18 cm e você tira enchimento até achar a altura que combina com o corpo e com a posição em que dorme.",
-          "O enchimento é de flocos de espuma de memória com gel, e a capa é de viscose de bambu. A marca apresenta o conjunto como uma opção para quem sente calor à noite e para quem não acerta a altura do travesseiro."
+          "O enchimento é de flocos de espuma de memória com gel, e a capa é de viscose de bambu. A marca apresenta o conjunto como uma opção para quem sente calor à noite e para quem não acerta a altura do travesseiro. No site oficial, o [cupom I Wanna Sleep](/cupons/i-wanna-sleep) CECIEMCASA dá 10% OFF e soma com os 5% do Pix."
         ],
         "bullets": []
       },
@@ -35685,7 +35685,8 @@ const reviewsChunk0: unknown[] = [
       {
         "slug": "i-wanna-sleep-e-confiavel"
       }
-    ]
+    ],
+    "seoTitle": "Travesseiro Snow I Wanna Sleep: é bom? Ficha e altura"
   },
   {
     "id": 227,
@@ -35717,7 +35718,7 @@ const reviewsChunk0: unknown[] = [
       {
         "heading": "Resposta rápida",
         "paragraphs": [
-          "Na nossa primeira noite, começamos com o lado quente e, quando esquentou de madrugada, bastou virar o cobertor para sentir o toque frio na hora. Ele faz mais sentido para quem sofre com calorão noturno. Ainda é cedo para falar de durabilidade; veja as medidas, o preço e o cupom CECIEMCASA abaixo."
+          "Na nossa primeira noite, começamos com o lado quente e, quando esquentou de madrugada, bastou virar o cobertor para sentir o toque frio na hora. Ele faz mais sentido para quem sofre com calorão noturno. Ainda é cedo para falar de durabilidade; veja as medidas e o preço abaixo. No site oficial, o [cupom I Wanna Sleep](/cupons/i-wanna-sleep) CECIEMCASA dá 10% OFF e soma com os 5% do Pix."
         ]
       },
       {
@@ -35805,7 +35806,7 @@ const reviewsChunk0: unknown[] = [
         "heading": "Preço e como comprar",
         "paragraphs": [
           "Na consulta de 22/11, a página do Igloo no site oficial mostrava de R$ 931 a R$ 1.101, conforme o tamanho. Confira o preço e o estoque atuais na loja.",
-          "No checkout, aplique o [cupom I Wanna Sleep](/cupons/i-wanna-sleep) CECIEMCASA e confira os 10% de desconto adicional nos produtos elegíveis antes de pagar. A loja mostra ainda 5% de desconto no Pix na página do produto, que se soma ao cupom.",
+          "No checkout, aplique o cupom CECIEMCASA e confira os 10% de desconto adicional nos produtos elegíveis antes de pagar. A loja mostra ainda 5% de desconto no Pix na página do produto, que se soma ao cupom.",
           "A [página do Igloo](https://www.iwannasleep.com.br/products/cobertor-iws-igloo) oferece 30 dias de teste com crédito para troca. A política geral do Sleeptest não lista cobertores, então guarde o print da página do produto ao comprar. Para receber o dinheiro de volta, o arrependimento de 7 dias corridos após o recebimento é o caminho."
         ],
         "bullets": [],
@@ -40745,7 +40746,7 @@ const reviewsChunk0: unknown[] = [
         "heading": "O que é o Sleeptest",
         "paragraphs": [
           "O Sleeptest é a política de teste de conforto da I Wanna Sleep — basicamente, você compra um colchão, travesseiro ou outro item e tem um período para testar em casa antes de decidir se mantém ou troca. Parece simples, mas a realidade tem camadas: prazos diferentes dependendo do produto, custos que você precisa pagar em algumas categorias, e regras bem específicas sobre embalagem e estado do item.",
-          "A gente mantém uma parceria com a marca e já recebemos alguns produtos aqui em casa (como o Cobertor IWS Igloo), mas nunca acionamos uma troca via Sleeptest. As informações que você encontra neste artigo vêm diretamente da política oficial publicada em suporte.iwannasleep.com.br/hc/pt-br/articles/21289275214099-Sleeptest. O que você encontra abaixo: prazos, custos e as regras de embalagem para conferir antes de comprar."
+          "A gente mantém uma parceria com a marca e já recebemos alguns produtos aqui em casa (como o Cobertor IWS Igloo), mas nunca acionamos uma troca via Sleeptest. As informações que você encontra neste artigo vêm diretamente da política oficial publicada em suporte.iwannasleep.com.br/hc/pt-br/articles/21289275214099-Sleeptest. O que você encontra abaixo: prazos, custos e as regras de embalagem para conferir antes de comprar. No site oficial, o [cupom I Wanna Sleep](/cupons/i-wanna-sleep) CECIEMCASA dá 10% OFF."
         ]
       },
       {
@@ -40871,7 +40872,8 @@ const reviewsChunk0: unknown[] = [
     "image": "/images/reviews/iwannasleep/sleeptest-i-wanna-sleep-como-funciona-capa-v2.webp",
     "imageAlt": "Pillow top da I Wanna Sleep com elásticos sobre um colchão, em imagem promocional.",
     "imageFit": "contain",
-    "imageAspect": "landscape"
+    "imageAspect": "landscape",
+    "seoTitle": "Sleeptest I Wanna Sleep: como funciona (100 e 30 dias)"
   },
   {
     "id": 249,
@@ -40897,7 +40899,7 @@ const reviewsChunk0: unknown[] = [
       {
         "heading": "Resposta rápida",
         "paragraphs": [
-          "A Sofá na Caixa viralizou com sofás modulares em caixa e acumulou reclamações por atraso e estorno pendente; a imprensa registrou fiscalização do Procon-SP. No Reclame Aqui, a reputação está suspensa, segundo a própria plataforma. Ela não consta na lista Evite Estes Sites do Procon-SP, o que não encerra a investigação nem garante a compra."
+          "A Sofá na Caixa viralizou com sofás modulares em caixa e acumulou reclamações por atraso e estorno pendente; a imprensa registrou fiscalização do Procon-SP. No Reclame Aqui, a reputação está suspensa, segundo a própria plataforma. Ela não consta na lista Evite Estes Sites do Procon-SP, o que não encerra a investigação nem garante a compra. Como alternativa testada aqui em casa, o [cupom DAMIE](/cupons/damie) CECILIA12 dá 12% OFF no site oficial."
         ]
       },
       {
@@ -42445,7 +42447,7 @@ const reviewsChunk0: unknown[] = [
       {
         "heading": "Resposta rápida",
         "paragraphs": [
-          "A Aliv Head Gel IWS é uma máscara térmica reutilizável, fria ou quente, que cobre testa, têmporas e olhos sem tiras. Serve a quem quer uma compressa para descansar, mas a temperatura e o bloqueio de luz variam com o uso, e ela não substitui avaliação de saúde. O CECIEMCASA dá 10% OFF no site da I Wanna Sleep."
+          "A Aliv Head Gel IWS é uma máscara térmica reutilizável, fria ou quente, que cobre testa, têmporas e olhos sem tiras. Serve a quem quer uma compressa para descansar, mas a temperatura e o bloqueio de luz variam com o uso, e ela não substitui avaliação de saúde. O [cupom I Wanna Sleep](/cupons/i-wanna-sleep) CECIEMCASA dá 10% OFF no site oficial."
         ]
       },
       {
@@ -42550,7 +42552,7 @@ const reviewsChunk0: unknown[] = [
           "Posso usar a Aliv Head Gel em pele machucada? A marca orienta evitar a aplicação direta em áreas machucadas da pele e testar a temperatura antes de cada uso.",
           "Quando a dor de cabeça pede atendimento de urgência? Quando vem de repente e muito forte, ou junto com fraqueza ou dormência num lado do corpo, fala enrolada, confusão, alteração na visão, febre com rigidez na nuca ou depois de uma pancada na cabeça. Nesses casos, procure um pronto-socorro ou ligue para o SAMU, no 192.",
           "A máscara Aliv Head Gel cura enxaqueca? Não. Ela é uma compressa para conforto durante o repouso e não trata a enxaqueca nem substitui acompanhamento médico.",
-          "Como usar o cupom CECIEMCASA? Digite o código no carrinho da loja oficial para verificar a aplicação em produtos elegíveis, conforme as condições vigentes no checkout. As regras estão na página do [cupom I Wanna Sleep](/cupons/i-wanna-sleep)."
+          "Como usar o cupom CECIEMCASA? Digite o código no carrinho da loja oficial para verificar a aplicação em produtos elegíveis, conforme as condições vigentes no checkout."
         ]
       }
     ],
@@ -42616,7 +42618,7 @@ const reviewsChunk0: unknown[] = [
       {
         "heading": "Resposta rápida",
         "paragraphs": [
-          "A I Wanna Sleep tem o selo RA1000 no Reclame Aqui na aba de 6 meses, com nota 8,7; na aba de 12 meses a reputação é Boa, com nota 7,9. A loja respondeu 100% das reclamações nas duas janelas. O cupom CECIEMCASA dá 10% OFF no site oficial."
+          "A I Wanna Sleep tem o selo RA1000 no Reclame Aqui na aba de 6 meses, com nota 8,7; na aba de 12 meses a reputação é Boa, com nota 7,9. A loja respondeu 100% das reclamações nas duas janelas. O [cupom I Wanna Sleep](/cupons/i-wanna-sleep) CECIEMCASA dá 10% OFF no site oficial."
         ]
       },
       {
@@ -42781,7 +42783,7 @@ const reviewsChunk0: unknown[] = [
         "heading": "Vale a pena comprar na I Wanna Sleep?",
         "paragraphs": [
           "De um lado, a loja tem RA1000 no semestre, respondeu todas as reclamações, resolveu 93,6% das avaliadas e demora em média 23 horas para responder. Do outro, em 12 meses a reputação é Boa, só 67,5% de quem avaliou voltaria a comprar, e o atraso na entrega lidera as queixas da aba Geral.",
-          "Para travesseiro, cobertor e o resto da linha leve, o caminho é simular o prazo pelo CEP e guardar a previsão. Se decidir comprar, o [cupom I Wanna Sleep](/cupons/i-wanna-sleep) CECIEMCASA dá 10% OFF no site oficial, e o passo a passo está em [como usar o cupom CECIEMCASA](/reviews/cupom-ceciemcasa-i-wanna-sleep-como-usar)."
+          "Para travesseiro, cobertor e o resto da linha leve, o caminho é simular o prazo pelo CEP e guardar a previsão. Se decidir comprar, o cupom CECIEMCASA dá 10% OFF no site oficial, e o passo a passo está em [como usar o cupom CECIEMCASA](/reviews/cupom-ceciemcasa-i-wanna-sleep-como-usar)."
         ]
       },
       {
@@ -42791,7 +42793,7 @@ const reviewsChunk0: unknown[] = [
           "O que é o selo RA1000? É a reputação mais alta do Reclame Aqui, dada às empresas com os melhores índices de resposta, solução e avaliação dos consumidores na janela consultada. No perfil da loja, ele é da aba de 6 meses.",
           "A I Wanna Sleep responde e resolve as reclamações? Respondeu 100% nas abas de 6 e 12 meses, em média em 23 horas no semestre. Entre as reclamações finalizadas e avaliadas, 93,6% aparecem como resolvidas no semestre e 87,7% em 12 meses.",
           "A I Wanna Sleep atrasa a entrega? Atraso na entrega é o problema mais citado na aba Geral do Reclame Aqui, com 25,49% das reclamações. Simule o prazo pelo CEP e guarde a previsão.",
-          "Existe cupom para a I Wanna Sleep? Sim, o [cupom I Wanna Sleep](/cupons/i-wanna-sleep) CECIEMCASA dá 10% OFF no site oficial, para cliente novo e antigo."
+          "Existe cupom para a I Wanna Sleep? Sim, o cupom CECIEMCASA dá 10% OFF no site oficial, para cliente novo e antigo, aplicado no campo de cupom do checkout."
         ]
       }
     ],
@@ -42844,7 +42846,7 @@ const reviewsChunk0: unknown[] = [
       {
         "heading": "Resposta rápida",
         "paragraphs": [
-          "A Melatonina Líquida IWS é um suplemento em gotas, sabor maracujá, com 0,21 mg por gota. O rótulo indica uma gota por via oral antes de dormir; pela Anvisa, o suplemento é só para adultos de 19 anos ou mais. Na loja oficial, o cupom CECIEMCASA dá 10% OFF na unidade e nos kits."
+          "A Melatonina Líquida IWS é um suplemento em gotas, sabor maracujá, com 0,21 mg por gota. O rótulo indica uma gota por via oral antes de dormir; pela Anvisa, o suplemento é só para adultos de 19 anos ou mais. Na loja oficial, o [cupom I Wanna Sleep](/cupons/i-wanna-sleep) CECIEMCASA dá 10% OFF na unidade e nos kits."
         ]
       },
       {
@@ -42942,7 +42944,7 @@ const reviewsChunk0: unknown[] = [
       {
         "heading": "Como comprar no site oficial com o cupom CECIEMCASA",
         "paragraphs": [
-          "O site é parceiro da I Wanna Sleep: no checkout oficial, teste o [cupom I Wanna Sleep](/cupons/i-wanna-sleep), o **CECIEMCASA**, para 10% nos elegíveis, incluindo a nutrição do sono e os kits.",
+          "O site é parceiro da I Wanna Sleep: no checkout oficial, aplique o código **CECIEMCASA** para 10% OFF nos elegíveis, incluindo a nutrição do sono e os kits.",
           "O cupom não custa nada a mais e ajuda a manter o site."
         ],
         "links": [
@@ -45490,7 +45492,7 @@ const reviewsChunk0: unknown[] = [
       {
         "heading": "Resposta rápida",
         "paragraphs": [
-          "O retrátil libera circulação quando fechado e dá apoio às pernas sem mover peças. O modular fixo chega em partes e tende a facilitar a entrada e a mudança de layout. Meça a sala e o caminho da entrega antes de decidir; na DAMIE, o código CECILIA12 dá 12% OFF em todo o site."
+          "O retrátil libera circulação quando fechado e dá apoio às pernas sem mover peças. O modular fixo chega em partes e tende a facilitar a entrada e a mudança de layout. Meça a sala e o caminho da entrega antes de decidir; na DAMIE, o [cupom DAMIE](/cupons/damie) CECILIA12 dá 12% OFF em todo o site."
         ]
       },
       {
@@ -45618,7 +45620,7 @@ const reviewsChunk0: unknown[] = [
         "emphasis": "O modular da DAMIE, que recebemos em parceria, funciona na nossa rotina. Eu o escolheria para acesso estreito e mudanças de layout; se a prioridade fosse estender o assento, compararia também um retrátil.",
         "paragraphs": [
           "No modular da DAMIE que temos em casa, braços e encosto se encaixam por gravidade e os pés usam velcro. A montagem não depende de ferramenta, mas confira medidas, composição, tecido, entrega e condições de devolução na página do produto. A DAMIE dá 1 ano de garantia, suporte vitalício e peças de reposição a preço de custo, o que pesa nos opcionais presos aos braços.",
-          "Se o modular for a sua escolha, o [cupom DAMIE](/cupons/damie) CECILIA12 dá 12% OFF em todo o site oficial, em todas as formas de pagamento. Quer ver o uso real antes? Leia o [teste do sofá modular em casa](/reviews/sofa-damie-modular-vale-a-pena)."
+          "Se o modular for a sua escolha, o código CECILIA12 dá 12% OFF em todo o site oficial, em todas as formas de pagamento. Quer ver o uso real antes? Leia o [teste do sofá modular em casa](/reviews/sofa-damie-modular-vale-a-pena)."
         ],
         "links": [
           {
@@ -45739,7 +45741,7 @@ const reviewsChunk0: unknown[] = [
       {
         "heading": "Melatonina Gummy IWS: resposta rápida",
         "paragraphs": [
-          "A Melatonina Gummy IWS é um suplemento alimentar para adultos de 19 anos ou mais, com 0,21 mg de melatonina por goma. A IWS orienta 1 goma ao dia, de 1 a 2 horas antes de dormir, ou conforme orientação médica, e não é medicamento nem tratamento para insônia. O CECIEMCASA dá 10% OFF no site da I Wanna Sleep."
+          "A Melatonina Gummy IWS é um suplemento alimentar para adultos de 19 anos ou mais, com 0,21 mg de melatonina por goma. A IWS orienta 1 goma ao dia, de 1 a 2 horas antes de dormir, ou conforme orientação médica, e não é medicamento nem tratamento para insônia. O [cupom I Wanna Sleep](/cupons/i-wanna-sleep) CECIEMCASA dá 10% OFF no site oficial."
         ]
       },
       {
@@ -45897,7 +45899,7 @@ const reviewsChunk0: unknown[] = [
       {
         "heading": "Onde comprar e como usar o cupom CECIEMCASA",
         "paragraphs": [
-          "O [cupom I Wanna Sleep](/cupons/i-wanna-sleep), o código de parceria CECIEMCASA, oferece 10% de desconto em produtos elegíveis na loja oficial I Wanna Sleep. Como estoque, preço e possibilidade de acumular promoções podem mudar, confira o valor final antes de concluir o pedido."
+          "O código de parceria CECIEMCASA oferece 10% de desconto em produtos elegíveis na loja oficial I Wanna Sleep. Como estoque, preço e possibilidade de acumular promoções podem mudar, confira o valor final antes de concluir o pedido."
         ],
         "links": [
           {
@@ -46597,7 +46599,7 @@ const reviewsChunk0: unknown[] = [
       {
         "heading": "Resposta rápida",
         "paragraphs": [
-          "A Aurora serve a quem quer reclinação manual com puff separado, e a Levita a quem quer ajuste elétrico de encosto e apoio; a Eames Lounge é só referência de design, com inclinação fixa. O que decide é o uso, a tomada e o espaço da sala. O código CECILIA12 dá 12% OFF em todo o site da DAMIE."
+          "A Aurora serve a quem quer reclinação manual com puff separado, e a Levita a quem quer ajuste elétrico de encosto e apoio; a Eames Lounge é só referência de design, com inclinação fixa. O que decide é o uso, a tomada e o espaço da sala. O [cupom DAMIE](/cupons/damie) CECILIA12 dá 12% OFF em todo o site oficial."
         ]
       },
       {
@@ -46724,7 +46726,7 @@ const reviewsChunk0: unknown[] = [
         "paragraphs": [
           "Aurora e Levita podem participar de uma sala decorativa e têm uma linguagem visual próxima, mas resolvem de modo diferente a posição dos pés, a fonte de energia e o ajuste do encosto.",
           "Sem tomada por perto e com vontade de mexer no puff, vá de Aurora. Com tomada e querendo ajustar encosto e pés em separado, vá de Levita. Em ambos os casos, confira medidas, revestimento e prazo com a marca antes de fechar.",
-          "O CECILIA12 dá 12% OFF em todo o site da DAMIE, em todas as formas de pagamento, e soma com o desconto do Pix. As regras estão no [cupom DAMIE](/cupons/damie)."
+          "O CECILIA12 dá 12% OFF em todo o site da DAMIE, em todas as formas de pagamento, e soma com o desconto do Pix."
         ],
         "comparisonTable": {
           "caption": "Aurora e Levita: diferenças práticas de mecanismo, espaço e infraestrutura. Preços do site em 23/11/2026, no cartão.",
@@ -46910,7 +46912,7 @@ const reviewsChunk0: unknown[] = [
       {
         "heading": "Resposta rápida",
         "paragraphs": [
-          "Escolha pela posição em que você dorme e pelo material de que gosta, não pelo nome da linha. Quem dorme de lado precisa de altura que preencha o espaço do ombro, e quem não gosta de afundar prefere látex ou fibra ao viscoelástico. O CECIEMCASA dá 10% OFF em todo o site da I Wanna Sleep."
+          "Escolha pela posição em que você dorme e pelo material de que gosta, não pelo nome da linha. Quem dorme de lado precisa de altura que preencha o espaço do ombro, e quem não gosta de afundar prefere látex ou fibra ao viscoelástico. O [cupom I Wanna Sleep](/cupons/i-wanna-sleep) CECIEMCASA dá 10% OFF em todo o site oficial."
         ]
       },
       {
@@ -47263,7 +47265,7 @@ const reviewsChunk0: unknown[] = [
         "heading": "Onde comprar e o cupom CECIEMCASA",
         "paragraphs": [
           "A linha de travesseiros e acessórios ergonômicos está disponível na loja online oficial da I Wanna Sleep, com entrega sujeita à cobertura do CEP e às condições exibidas no checkout.",
-          "No carrinho da loja oficial, você pode aplicar o [cupom I Wanna Sleep](/cupons/i-wanna-sleep) CECIEMCASA e conferir o desconto de 10% antes de concluir a compra. A condição é divulgada para o site da I Wanna Sleep, mas elegibilidade, validade e eventuais exceções devem ser confirmadas no checkout."
+          "No carrinho da loja oficial, você pode aplicar o cupom CECIEMCASA e conferir o desconto de 10% antes de concluir a compra. A condição é divulgada para o site da I Wanna Sleep, mas elegibilidade, validade e eventuais exceções devem ser confirmadas no checkout."
         ],
         "bullets": [],
         "links": [
@@ -47783,7 +47785,7 @@ const reviewsChunk0: unknown[] = [
       {
         "heading": "Resposta rápida",
         "paragraphs": [
-          "Escolha o Igloo se quer um cobertor reversível, com um lado fresco e outro quente, o Huggy para inverno frio, o Puffer Ultralight para peso leve e o Cozy para o toque fofinho. O que pesa é o clima do quarto e o toque que você prefere. O CECIEMCASA dá 10% OFF em todo o site da I Wanna Sleep."
+          "Escolha o Igloo se quer um cobertor reversível, com um lado fresco e outro quente, o Huggy para inverno frio, o Puffer Ultralight para peso leve e o Cozy para o toque fofinho. O que pesa é o clima do quarto e o toque que você prefere. O [cupom I Wanna Sleep](/cupons/i-wanna-sleep) CECIEMCASA dá 10% OFF em todo o site oficial."
         ]
       },
       {
@@ -47959,7 +47961,7 @@ const reviewsChunk0: unknown[] = [
         "emphasis": "Eu começaria pela diferença que quero na coberta: duas faces no Igloo, fleece com sherpa no Huggy, proposta de leveza no Puffer ou textura em relevo no Cozy.",
         "emphasisAfterParagraph": 1,
         "paragraphs": [
-          "Escolha pela característica que você quer comparar. A [página do cupom I Wanna Sleep](/cupons/i-wanna-sleep) reúne as condições do CECIEMCASA."
+          "Escolha pela característica que você quer comparar e aplique o código CECIEMCASA no checkout do site oficial."
         ],
         "bullets": [
           "Igloo: se quer alternar a face voltada ao corpo, virando a peça.",
@@ -51775,7 +51777,7 @@ const reviewsChunk0: unknown[] = [
       {
         "heading": "Resposta rápida",
         "paragraphs": [
-          "O SleepSpray Kidz é um spray aromático de camomila, lavanda e laranja doce para travesseiro, sem melatonina, indicado a partir de 2 anos. A IWS diz que não é medicamento e não cita estudo clínico, então faz sentido como marcador de rotina de sono, não como solução. O CECIEMCASA dá 10% OFF no site."
+          "O SleepSpray Kidz é um spray aromático de camomila, lavanda e laranja doce para travesseiro, sem melatonina, indicado a partir de 2 anos. A IWS diz que não é medicamento e não cita estudo clínico, então faz sentido como marcador de rotina de sono, não como solução. O [cupom I Wanna Sleep](/cupons/i-wanna-sleep) CECIEMCASA dá 10% OFF no site oficial."
         ]
       },
       {
@@ -51922,7 +51924,7 @@ const reviewsChunk0: unknown[] = [
           "Na consulta de 22/11, a loja mostrava R$ 99 pelo frasco de 60 ml, com o kit de 3 frascos por R$ 198 e o de 5 por R$ 297. Confira o preço do dia e o frete no carrinho antes de comprar. O frete é grátis acima de R$ 150,00.",
           "Quanto rende? A marca não informa quantas borrifadas ou noites um frasco entrega, então não dá para calcular um custo por noite.",
           "O teste funciona assim: a IWS oferece o \"Teste de 30 dias\". Se a criança não se adaptar, você recebe um crédito para trocar por outro produto do site, e a condição vale para compras feitas na loja oficial. É crédito de troca, não reembolso em dinheiro. As condições gerais estão na [política Sleeptest da marca](https://suporte.iwannasleep.com.br/hc/pt-br/articles/21289275214099-Politica-Sleeptest); confirme na página do produto o que vale para o spray.",
-          "O [cupom I Wanna Sleep](/cupons/i-wanna-sleep) CECIEMCASA dá 10% OFF em compras no site da IWS. A loja pode mudar as regras por campanha, então confirme o valor final no carrinho antes de pagar, inclusive se o desconto soma com kits ou promoções."
+          "O cupom CECIEMCASA dá 10% OFF em compras no site da IWS. A loja pode mudar as regras por campanha, então confirme o valor final no carrinho antes de pagar, inclusive se o desconto soma com kits ou promoções."
         ],
         "bullets": [],
         "links": [
@@ -53196,7 +53198,7 @@ const reviewsChunk0: unknown[] = [
       {
         "heading": "Parceria e cupom",
         "paragraphs": [
-          "O Em Casa com Cecília tem uma parceria comercial com a Let's Eat It. O [cupom Let's Eat It](/cupons/letseatit) MAUAD dá 5% OFF no site oficial, em todas as formas de pagamento: você digita o código no campo \"Código de desconto\" do checkout e confere a linha do desconto antes de pagar. Podemos receber comissão pelo código ou pelo nosso link, sem custo extra para você."
+          "O Em Casa com Cecília tem uma parceria comercial com a Let's Eat It. O cupom MAUAD dá 5% OFF no site oficial, em todas as formas de pagamento: você digita o código no campo \"Código de desconto\" do checkout e confere a linha do desconto antes de pagar. Podemos receber comissão pelo código ou pelo nosso link, sem custo extra para você."
         ],
         "links": [
           {
@@ -53228,7 +53230,7 @@ const reviewsChunk0: unknown[] = [
         "heading": "Perguntas frequentes",
         "bullets": [
           "A Let's Eat It é confiável? Sim, com ressalva no pós-venda. A empresa tem CNPJ ativo desde 2020, filiais em três estados e presença no localizador oficial da Le Creuset Brasil. A reputação no Reclame Aqui é Boa, com ressalvas sobre satisfação e tempo de resposta.",
-          "Qual é o cupom da Let's Eat It? É o MAUAD, com 5% OFF no site oficial da Let's Eat It, em todas as formas de pagamento, para cliente novo e antigo. Digite no campo \"Código de desconto\" do checkout. As condições estão na página do [cupom Let's Eat It](/cupons/letseatit).",
+          "Qual é o cupom da Let's Eat It? É o MAUAD, com 5% OFF no site oficial da Let's Eat It, em todas as formas de pagamento, para cliente novo e antigo. Digite no campo \"Código de desconto\" do checkout.",
           "A Let's Eat It é uma loja de verdade? Sim. Tem CNPJ ativo, matriz no Rio de Janeiro, filiais em São Paulo, Serra (ES) e Itajaí (SC) e um showroom em São Paulo, a Casa Let's.",
           "Qual é o CNPJ da Let's Eat It? O CNPJ da matriz é 37.882.316/0001-64, no Rio de Janeiro, com situação ativa nos dados públicos. A loja também tem filiais registradas em São Paulo, Serra (ES) e Itajaí (SC).",
           "A Let's Eat It vende Le Creuset original? A Let's Eat It aparece no localizador de lojas oficial da Le Creuset Brasil, o que indica que a marca a reconhece como ponto de venda. Guarde a nota fiscal da compra.",
@@ -53469,7 +53471,7 @@ const reviewsChunk0: unknown[] = [
         "emphasis": "Pelo Reclame Aqui, dá para comprar no site oficial da Let's Eat It, com a atenção voltada à entrega e à espera pelo atendimento: guarde o número do pedido, fotografe a caixa ao abrir e peça a troca assim que receber.",
         "paragraphs": [
           "Pelo Reclame Aqui, a loja responde a quase todas as reclamações, tem reputação Boa em quatro das cinco janelas e solução de 95,9% entre as avaliadas nos seis meses. Os pontos de atenção são produto não recebido, o motivo mais citado, e a resposta em torno de 19 dias, com só 59,2% dos avaliadores dispostos a comprar de novo. Para presente com data marcada, confira o prazo de entrega no CEP antes de fechar.",
-          "Se decidir comprar, o [cupom Let's Eat It](/cupons/letseatit) MAUAD dá 5% OFF no site oficial, em todas as formas de pagamento, digitado no campo \"Código de desconto\" do checkout. O Em Casa com Cecília tem parceria com a loja e pode receber comissão pelo código e pelo link, sem custo extra para você; os números deste artigo vêm do perfil público no Reclame Aqui. O passo a passo está em [como usar o cupom MAUAD](/reviews/cupom-mauad-lets-eat-it-como-usar)."
+          "Se decidir comprar, o cupom MAUAD dá 5% OFF no site oficial, em todas as formas de pagamento, digitado no campo \"Código de desconto\" do checkout. O Em Casa com Cecília tem parceria com a loja e pode receber comissão pelo código e pelo link, sem custo extra para você; os números deste artigo vêm do perfil público no Reclame Aqui. O passo a passo está em [como usar o cupom MAUAD](/reviews/cupom-mauad-lets-eat-it-como-usar)."
         ],
         "links": [
           {
@@ -53497,7 +53499,7 @@ const reviewsChunk0: unknown[] = [
         "heading": "Perguntas frequentes",
         "bullets": [
           "Qual a nota da Let's Eat It no Reclame Aqui? Na aba de seis meses, a reputação é Boa, com nota 7,7. Nos 12 meses é Boa, com 7,6. A média que os consumidores deram ao atendimento nos seis meses é 5,63.",
-          "Qual é o cupom da Let's Eat It? É o MAUAD, com 5% OFF no site oficial da Let's Eat It, em todas as formas de pagamento, para cliente novo e antigo. Digite no campo \"Código de desconto\" do checkout e confira a linha do desconto antes de pagar. As condições estão na página do [cupom Let's Eat It](/cupons/letseatit).",
+          "Qual é o cupom da Let's Eat It? É o MAUAD, com 5% OFF no site oficial da Let's Eat It, em todas as formas de pagamento, para cliente novo e antigo. Digite no campo \"Código de desconto\" do checkout e confira a linha do desconto antes de pagar.",
           "A Let's Eat It tem selo no Reclame Aqui? O perfil aparece como Verificada e com reputação Boa. O Boa é a faixa abaixo do RA1000, a máxima, e descreve o atendimento às reclamações, e não a qualidade dos produtos.",
           "A Let's Eat It responde e resolve as reclamações? Nos seis meses, respondeu 98% das 101 reclamações, em média em 19 dias e 11 horas. Entre as 49 avaliadas, 95,9% foram consideradas resolvidas, e 59,2% voltariam a fazer negócio.",
           "O que fazer se o pedido da Let's Eat It não chegou? Fale com a loja pelo WhatsApp (11) 96570-0375 ou pelo e-mail suporte@letseatit.com.br, com o número do pedido à mão. Produto não recebido é o motivo mais citado na aba Geral, com 38,8%.",
@@ -53531,7 +53533,7 @@ const reviewsChunk0: unknown[] = [
     "id": 321,
     "slug": "cupom-mauad-lets-eat-it-como-usar",
     "title": "Como usar o código de desconto da Let's Eat It: 5% no site",
-    "seoTitle": "Como usar o código de desconto da Let's Eat It: 5% no site",
+    "seoTitle": "Como usar o cupom Let's Eat It: MAUAD dá 5% OFF",
     "type": "Guia & Cupons",
     "category": "cupons-como-usar",
     "reviewKind": "guia",
@@ -53737,7 +53739,7 @@ const reviewsChunk0: unknown[] = [
       {
         "heading": "Perguntas frequentes",
         "bullets": [
-          "Qual é o cupom da Let's Eat It? É o MAUAD, com 5% OFF no site oficial da Let's Eat It, em todas as formas de pagamento, para cliente novo e antigo. Digite no campo \"Código de desconto\" do checkout e confira a linha do desconto antes de pagar. As regras estão na página do [cupom Let's Eat It](/cupons/letseatit).",
+          "Qual é o cupom da Let's Eat It? É o MAUAD, com 5% OFF no site oficial da Let's Eat It, em todas as formas de pagamento, para cliente novo e antigo. Digite no campo \"Código de desconto\" do checkout e confira a linha do desconto antes de pagar.",
           "Onde coloco o cupom MAUAD? No resumo do pedido do checkout, no campo \"Código de desconto\". Depois de digitar, clique em \"Aplicar\"; no celular, abra o resumo se ele estiver recolhido.",
           "Qual é o cupom de primeira compra da Let's Eat It? Use o MAUAD: ele dá 5% de desconto no site oficial, e a loja não divulga outro cupom de boas-vindas nem restrição do MAUAD para clientes novos.",
           "O cupom MAUAD vale para produtos em promoção? No teste, foi aceito num jogo de xícaras com preço promocional e numa panela em pré-venda. Confira a aplicação no resumo do seu pedido.",
@@ -53829,7 +53831,7 @@ const reviewsChunk0: unknown[] = [
       {
         "heading": "Resposta rápida: o Pillow Top Magnum vale a pena?",
         "paragraphs": [
-          "Sim, o Pillow Top Magnum vale a pena se o colchão está íntegro, mas firme demais. Ele não corrige colchão afundado nem trata dor nas costas: só muda a superfície e pede avaliação médica se houver dor, como explicamos abaixo. O CECIEMCASA dá 10% OFF no site da I Wanna Sleep."
+          "Sim, o Pillow Top Magnum vale a pena se o colchão está íntegro, mas firme demais. Ele não corrige colchão afundado nem trata dor nas costas: só muda a superfície e pede avaliação médica se houver dor, como explicamos abaixo. O [cupom I Wanna Sleep](/cupons/i-wanna-sleep) CECIEMCASA dá 10% OFF no site oficial."
         ]
       },
       {
@@ -53949,7 +53951,7 @@ const reviewsChunk0: unknown[] = [
           ]
         },
         "postParagraphs": [
-          "Preço e disponibilidade mudam com campanhas. Confira o valor final no checkout depois de aplicar o [cupom I Wanna Sleep](/cupons/i-wanna-sleep) **CECIEMCASA**."
+          "Preço e disponibilidade mudam com campanhas. Confira o valor final no checkout depois de aplicar o cupom **CECIEMCASA**."
         ],
         "links": [
           {
@@ -55500,7 +55502,7 @@ const reviewsChunk0: unknown[] = [
       {
         "heading": "Resposta rápida",
         "paragraphs": [
-          "Para escolher a poltrona de amamentação, olhe primeiro o apoio: braço firme na altura certa, encosto que acompanhe as costas e assento que deixe levantar com o bebê no colo. Balanço ajuda, mas não é obrigatório. O que muda a escolha é o orçamento e o espaço do quarto; na DAMIE, o código CECILIA12 dá 12% OFF."
+          "Para escolher a poltrona de amamentação, olhe primeiro o apoio: braço firme na altura certa, encosto que acompanhe as costas e assento que deixe levantar com o bebê no colo. Balanço ajuda, mas não é obrigatório. O que muda a escolha é o orçamento e o espaço do quarto; na DAMIE, o [cupom DAMIE](/cupons/damie) CECILIA12 dá 12% OFF."
         ]
       },
       {
@@ -55757,7 +55759,7 @@ const reviewsChunk0: unknown[] = [
           "Qual é a garantia e como funciona a troca se algo vier com defeito?"
         ],
         "postParagraphs": [
-          "Se a reclinável da DAMIE for a sua escolha, o CECILIA12 dá 12% OFF em todo o site da marca, em todas as formas de pagamento, e soma com o desconto de 10% do Pix e com as promoções ativas. Ele não soma com outro cupom nem com o giftback de 15%. Na Black Friday da DAMIE, até 27/11, a poltrona leva de brinde massagem, entrada USB e porta-copos. Veja as regras no [cupom DAMIE](/cupons/damie).",
+          "Se a reclinável da DAMIE for a sua escolha, o CECILIA12 dá 12% OFF em todo o site da marca, em todas as formas de pagamento, e soma com o desconto de 10% do Pix e com as promoções ativas. Ele não soma com outro cupom nem com o giftback de 15%. Na Black Friday da DAMIE, até 27/11, a poltrona leva de brinde massagem, entrada USB e porta-copos.",
           "Para usar, monte a poltrona no site da DAMIE, escolhendo base, revestimento e cor, e digite CECILIA12 no campo de cupom do checkout. O desconto aparece antes do pagamento."
         ],
         "links": [
@@ -55855,7 +55857,7 @@ const reviewsChunk0: unknown[] = [
       {
         "heading": "Resposta rápida",
         "paragraphs": [
-          "A poltrona de amamentação serve bem à fase do bebê e custa menos; a reclinável ganha no descanso e continua útil na sala depois. Se escolher reclinável para amamentar, prefira a elétrica, mais fácil de ajustar com o bebê no colo. O que decide é o tempo de uso, detalhado na conta abaixo; na DAMIE, o código CECILIA12 dá 12% OFF."
+          "A poltrona de amamentação serve bem à fase do bebê e custa menos; a reclinável ganha no descanso e continua útil na sala depois. Se escolher reclinável para amamentar, prefira a elétrica, mais fácil de ajustar com o bebê no colo. O que decide é o tempo de uso, detalhado na conta abaixo; na DAMIE, o [cupom DAMIE](/cupons/damie) CECILIA12 dá 12% OFF."
         ]
       },
       {
@@ -56104,7 +56106,7 @@ const reviewsChunk0: unknown[] = [
           "Escolha a reclinável elétrica de base fixa se o balanço não é prioridade e você quer reclinar mais, até 170°, pagando um pouco menos que a de giro e balanço."
         ],
         "postParagraphs": [
-          "O CECILIA12 dá 12% OFF em todo o site da DAMIE, em todas as formas de pagamento, em qualquer base e revestimento, nas versões 1.0 e 2.0. Ele soma com o desconto de 10% do Pix e com as promoções ativas, mas não com outro cupom nem com o giftback de 15%. As regras estão no [cupom DAMIE](/cupons/damie).",
+          "O CECILIA12 dá 12% OFF em todo o site da DAMIE, em todas as formas de pagamento, em qualquer base e revestimento, nas versões 1.0 e 2.0. Ele soma com o desconto de 10% do Pix e com as promoções ativas, mas não com outro cupom nem com o giftback de 15%.",
           "Para usar, monte a poltrona no site da DAMIE, escolhendo a base, o revestimento e a cor, e digite CECILIA12 no campo de cupom do checkout. O desconto aparece antes do pagamento."
         ],
         "links": [
@@ -56603,7 +56605,7 @@ const reviewsChunk0: unknown[] = [
     "id": 331,
     "slug": "black-friday-damie",
     "title": "Black Friday DAMIE 2026: qual poltrona reclinável, Levita ou sofá comprar e quanto fica com o cupom CECILIA12",
-    "seoTitle": "Black Friday DAMIE 2026: qual poltrona comprar e cupom",
+    "seoTitle": "Black Friday DAMIE 2026: poltronas e cupom CECILIA12",
     "type": "Guia de Black Friday",
     "category": "cupons-como-usar",
     "reviewKind": "guia",
@@ -56631,7 +56633,7 @@ const reviewsChunk0: unknown[] = [
       {
         "heading": "Resposta rápida",
         "paragraphs": [
-          "A Black Friday da DAMIE vai até 27/11 e mantém os preços de antes; a poltrona vem com massagem, entrada USB e porta-copos de brinde. O CECILIA12 dá 12% OFF e soma com os 10% do Pix. A escolha começa pela base: giro e balanço para amamentar, base fixa para reclinar mais, elevação para quem precisa de ajuda ao levantar."
+          "A Black Friday da DAMIE vai até 27/11 e mantém os preços de antes; a poltrona vem com massagem, entrada USB e porta-copos de brinde. O [cupom DAMIE](/cupons/damie) CECILIA12 dá 12% OFF e soma com os 10% do Pix. A escolha começa pela base: giro e balanço para amamentar, base fixa para reclinar mais, elevação para quem precisa de ajuda ao levantar."
         ]
       },
       {
@@ -57046,7 +57048,7 @@ const reviewsChunk0: unknown[] = [
     "slug": "black-friday-letseatit",
     "bodyDatesReason": "campanha",
     "title": "Black Friday Let's Eat It 2026: qual Le Creuset, aparelho de jantar e presente comprar e quanto fica com o MAUAD",
-    "seoTitle": "Black Friday Let's Eat It 2026: Le Creuset e Porto Brasil",
+    "seoTitle": "Black Friday Let's Eat It 2026: Le Creuset e MAUAD",
     "type": "Guia de Black Friday",
     "category": "cupons-como-usar",
     "reviewKind": "guia",
@@ -57444,7 +57446,7 @@ const reviewsChunk0: unknown[] = [
         "heading": "O que comprar primeiro na Black Friday da Let's Eat It",
         "paragraphs": [
           "A ordem que faz mais sentido: panela Le Creuset numa cor da promoção, se você já ia comprar uma; aparelho de jantar Porto Brasil de 30 peças, para montar a mesa do zero; faqueiro La Maison, para talheres de menor preço; presente pequeno, mais pelo Pix e pelo cupom do que pelo selo de desconto.",
-          "Em todos, aplique o [cupom Let's Eat It](/cupons/letseatit) MAUAD, que dá 5% OFF em todas as formas de pagamento, no campo “Código de desconto” do checkout, e compare o preço do dia com as tabelas deste guia."
+          "Em todos, aplique o cupom MAUAD, que dá 5% OFF em todas as formas de pagamento, no campo “Código de desconto” do checkout, e compare o preço do dia com as tabelas deste guia."
         ],
         "emphasis": "Para uma panela só, a Redonda de 24 cm na cor da promoção; para a mesa, o aparelho de 30 peças da Porto Brasil, que sai por menos que os pratos comprados à parte.",
         "links": [
@@ -57462,7 +57464,7 @@ const reviewsChunk0: unknown[] = [
       {
         "heading": "Perguntas frequentes",
         "bullets": [
-          "Qual é o cupom da Let's Eat It? É o MAUAD, com 5% OFF no site oficial da Let's Eat It, em todas as formas de pagamento, inclusive nos produtos em promoção da Black Friday. Cole no campo “Código de desconto” do checkout. Veja o [cupom Let's Eat It](/cupons/letseatit).",
+          "Qual é o cupom da Let's Eat It? É o MAUAD, com 5% OFF no site oficial da Let's Eat It, em todas as formas de pagamento, inclusive nos produtos em promoção da Black Friday. Cole no campo “Código de desconto” do checkout.",
           "Quando começa e quanto dura a Black Friday da Let's Eat It? Já começou: a home traz a coleção Best Sellers - Black Friday, com Le Creuset de 15% a 50% OFF, Porto Brasil até 60%, La Maison até 70% e Natal de 20% a 60%. A Black Friday é na última sexta-feira de novembro, e a loja não publica a data de fim da campanha.",
           "Le Creuset fica mais barata na Black Friday? Fica, nas peças e cores da coleção de promoção. Quase todas as panelas Signature têm 25% OFF: a Redonda de 20 cm, que em outubro estava a R$ 2.329, o preço cheio, aparece por R$ 1.746,75, e a de 24 cm, de R$ 2.949 por R$ 2.211,75.",
           "Panelas Le Creuset em promoção valem a pena? Compare o preço do dia com o preço cheio da tabela deste guia. Em outubro, as promoções da Let's Eat It eram de 15% a 33% e ficavam numa seleção de peças e cores; na Black Friday, a coleção de promoção vai de 15% a 50%, e a maioria das panelas Signature tem 25%.",
@@ -57517,7 +57519,7 @@ const reviewsChunk0: unknown[] = [
     "id": 333,
     "slug": "black-friday-i-wanna-sleep",
     "title": "Black Friday I Wanna Sleep 2026: o que comprar e o cupom CECIEMCASA",
-    "seoTitle": "Black Friday I Wanna Sleep 2026: o que comprar e cupom",
+    "seoTitle": "Black Friday I Wanna Sleep 2026: kits e CECIEMCASA",
     "type": "Guia de Black Friday",
     "category": "cupons-como-usar",
     "reviewKind": "guia",
@@ -75416,7 +75418,7 @@ const reviewsChunk0: unknown[] = [
       {
         "heading": "Resposta rápida",
         "paragraphs": [
-          "Com certeza vale, principalmente para quem monta mesa posta e quer comparar stoneware e faiança na rotina da cozinha. Peças sem ouro costumam liberar micro-ondas e lava-louças, enquanto o forno muda por modelo. Na Let's Eat It, o cupom MAUAD dá 5% OFF em todas as formas de pagamento. Veja as regras por peça e a comparação com a Oxford abaixo."
+          "Com certeza vale, principalmente para quem monta mesa posta e quer comparar stoneware e faiança na rotina da cozinha. Peças sem ouro costumam liberar micro-ondas e lava-louças, enquanto o forno muda por modelo. Na Let's Eat It, o [cupom Let's Eat It](/cupons/letseatit) MAUAD dá 5% OFF em todas as formas de pagamento. Veja as regras por peça e a comparação com a Oxford abaixo."
         ]
       },
       {
@@ -75546,7 +75548,7 @@ const reviewsChunk0: unknown[] = [
         ],
         "postParagraphs": [
           "Conta nossa, pelo preço de vitrine dos aparelhos de 30 peças na loja com os 5% OFF do MAUAD (antes do frete e de eventual desconto do Pix): o Bio Latte sai cerca de R$ 24,66 por peça (ou R$ 123,32 por lugar para seis pessoas), e o Bio Oceano e o Petroleum Night Sky caem para R$ 758,10.",
-          "No site, o [cupom Let's Eat It](/cupons/letseatit) dá 5% de desconto com o código MAUAD, em todas as formas de pagamento, e soma com o desconto do Pix, com as promoções e com a pré-venda. Cole o código no campo “Código de desconto” do checkout, clique em “Aplicar” e confira a linha de desconto antes de pagar (o frete é calculado por CEP e peso, sem faixa de frete grátis publicada); os preços de outros itens estão no [guia de Black Friday da loja](/reviews/black-friday-letseatit)."
+          "No site, o código MAUAD dá 5% de desconto, em todas as formas de pagamento, e soma com o desconto do Pix, com as promoções e com a pré-venda. Cole o código no campo “Código de desconto” do checkout, clique em “Aplicar” e confira a linha de desconto antes de pagar (o frete é calculado por CEP e peso, sem faixa de frete grátis publicada); os preços de outros itens estão no [guia de Black Friday da loja](/reviews/black-friday-letseatit)."
         ],
         "images": [
           {
@@ -75571,7 +75573,7 @@ const reviewsChunk0: unknown[] = [
         "heading": "Quando escolher a Porto Brasil para a sua mesa",
         "paragraphs": [
           "A Porto Brasil vale a pena para quem monta mesa posta e quer louça de cerâmica com linhas claras por uso: o stoneware sem ouro atende bem micro-ondas e lava-louças e conta com peças liberadas para o forno, enquanto a faiança resolve quem serve à mesa sem precisar levar a peça ao forno convencional.",
-          "Na comparação com a Oxford, há peças Porto Brasil de stoneware com forno declarado, enquanto no catálogo Ryo e Unni essa indicação não aparece. Se o forno for indispensável, escolha um modelo com autorização e limite explícitos e, ao comprar na Let's Eat It, aplique o cupom MAUAD no checkout (5% OFF em todas as formas de pagamento) conferindo as regras na página do [cupom Let's Eat It](/cupons/letseatit)."
+          "Na comparação com a Oxford, há peças Porto Brasil de stoneware com forno declarado, enquanto no catálogo Ryo e Unni essa indicação não aparece. Se o forno for indispensável, escolha um modelo com autorização e limite explícitos e, ao comprar na Let's Eat It, aplique o cupom MAUAD no checkout (5% OFF em todas as formas de pagamento) conferindo a linha de desconto antes de pagar."
         ],
         "emphasis": "Com certeza vale apostar na Porto Brasil para montar a mesa posta do dia a dia: vá de stoneware sem ouro se quiser mais liberdade entre lava-louças, micro-ondas e forno (conferindo o limite da peça), ou de faiança para servir à mesa, e use o cupom MAUAD na Let's Eat It para ganhar 5% OFF.",
         "links": [
@@ -75585,7 +75587,7 @@ const reviewsChunk0: unknown[] = [
         "heading": "Perguntas frequentes",
         "bullets": [
           "A Porto Brasil é boa? Com certeza: a marca oferece linhas de stoneware resistentes para micro-ondas e lava-louças (com modelos também liberados para o forno) e linhas de faiança para a mesa do dia a dia, com garantia contra gretamento e 5% OFF usando o cupom MAUAD na Let's Eat It.",
-          "Qual é o cupom da Let's Eat It? É o MAUAD, com 5% OFF no site oficial da Let's Eat It, em todas as formas de pagamento, somando com promoções, pré-venda e Pix. Cole no campo “Código de desconto” do checkout e veja as regras na página do [cupom Let's Eat It](/cupons/letseatit).",
+          "Qual é o cupom da Let's Eat It? É o MAUAD, com 5% OFF no site oficial da Let's Eat It, em todas as formas de pagamento, somando com promoções, pré-venda e Pix. Cole no campo “Código de desconto” do checkout.",
           "Porto Brasil é cerâmica ou porcelana? É cerâmica, não porcelana: stoneware (grês) nas linhas como Bio, Orgânico e Neo, e faiança nas linhas como Coup, Roma e Madeleine.",
           "Porto Brasil vai no micro-ondas e na lava-louças? Sim, na maior parte das peças de stoneware e de faiança, segundo as especificações da fabricante; as peças com aplicação ou filamento de ouro não devem ir.",
           "Porto Brasil vai no forno? Só quando a página da peça autoriza esse uso com limite explícito. Parte do stoneware permite, mas peças e conjuntos com ouro, algumas canecas Coup Stoneware e várias linhas de faiança não recomendam forno convencional.",
@@ -75660,7 +75662,7 @@ const reviewsChunk0: unknown[] = [
       {
         "heading": "Resposta rápida",
         "paragraphs": [
-          "Para ajustar a altura em casa, compare o Snow da I Wanna Sleep, com enchimento removível, e os modelos de camadas da Emma. A I Wanna Sleep dá 30 dias de teste com crédito para troca e 10% OFF no site com o CECIEMCASA; a Emma, 14 noites com reembolso. Os da Ortobom custam menos, mas sem teste informado."
+          "Para ajustar a altura em casa, compare o Snow da I Wanna Sleep, com enchimento removível, e os modelos de camadas da Emma. A I Wanna Sleep dá 30 dias de teste com crédito para troca e 10% OFF no site com o [cupom I Wanna Sleep](/cupons/i-wanna-sleep) CECIEMCASA; a Emma, 14 noites com reembolso. Os da Ortobom custam menos, mas sem teste informado."
         ]
       },
       {
@@ -75851,7 +75853,7 @@ const reviewsChunk0: unknown[] = [
       {
         "heading": "Preço e cupom da I Wanna Sleep",
         "paragraphs": [
-          "O [cupom I Wanna Sleep](/cupons/i-wanna-sleep) CECIEMCASA dá 10% de desconto no site da marca, para cliente novo e antigo, e soma com as promoções e com os 5% do Pix mostrados na página do produto. O desconto pode variar de uma campanha para outra. Com o código, o Snow Regular, por exemplo, sai de R$ 335 para R$ 301,50 pela nossa conta, sem frete. Emma e Ortobom não são parceiras do site, e não temos código para elas."
+          "O cupom CECIEMCASA dá 10% de desconto no site da marca, para cliente novo e antigo, e soma com as promoções e com os 5% do Pix mostrados na página do produto. O desconto pode variar de uma campanha para outra. Com o código, o Snow Regular, por exemplo, sai de R$ 335 para R$ 301,50 pela nossa conta, sem frete. Emma e Ortobom não são parceiras do site, e não temos código para elas."
         ],
         "links": [
           {
@@ -76053,7 +76055,7 @@ const reviewsChunk0: unknown[] = [
         "heading": "Onde comprar Le Creuset: Let's Eat It",
         "paragraphs": [
           "A Let's Eat It aparece no localizador oficial de lojas da Le Creuset Brasil. O preço de tabela da [Panela Redonda Signature de 20 cm](https://letseatit.com.br/products/panela-le-creuset-redonda-signature-azure-blue-2-4l-20cm?utm_source=embaixador&utm_medium=emcasacomcecilia&utm_campaign=inbazz&utm_content=organico) é R$ 2.329, e em novembro várias cores têm 25% de desconto sobre a tabela: na Azure Blue, R$ 1.746,75. Outras cores seguem sem desconto, e cores como Château e Flamme Dorée custam mais. Os preços por tamanho estão no nosso [guia de Black Friday da loja](/reviews/black-friday-letseatit).",
-          "Na Casa Let's, a loja física em São Paulo, o desconto de 15% das compras presenciais não vale para a Le Creuset. No site, o [cupom Let's Eat It](/cupons/letseatit) dá 5% OFF com o código MAUAD, em todas as formas de pagamento, e vale também para a Le Creuset: cole o código no campo \"Código de desconto\" do checkout. Sobre os R$ 1.746,75 da Azure Blue, são R$ 1.659,41 com o cupom e R$ 1.576,44 com o Pix (conta nossa, sem frete; o cupom entra primeiro)."
+          "Na Casa Let's, a loja física em São Paulo, o desconto de 15% das compras presenciais não vale para a Le Creuset. No site, o código MAUAD dá 5% OFF, em todas as formas de pagamento, e vale também para a Le Creuset: cole o código no campo \"Código de desconto\" do checkout. Sobre os R$ 1.746,75 da Azure Blue, são R$ 1.659,41 com o cupom e R$ 1.576,44 com o Pix (conta nossa, sem frete; o cupom entra primeiro)."
         ],
         "images": [
           {
@@ -76107,7 +76109,7 @@ const reviewsChunk0: unknown[] = [
         "heading": "Perguntas frequentes",
         "bullets": [
           "Le Creuset vale a pena? Vale para quem vai usar a panela no fogão e no forno e aceita os cuidados: melhores resultados no calor médio ou baixo, nada de micro-ondas e uma garantia vitalícia que não cobre choque térmico nem queda.",
-          "Qual é o cupom da Let's Eat It? É o MAUAD, com 5% OFF no site oficial da Let's Eat It, em todas as formas de pagamento. Cole o código no campo \"Código de desconto\" do checkout; as condições estão na página do [cupom Let's Eat It](/cupons/letseatit).",
+          "Qual é o cupom da Let's Eat It? É o MAUAD, com 5% OFF no site oficial da Let's Eat It, em todas as formas de pagamento. Cole o código no campo \"Código de desconto\" do checkout.",
           "Le Creuset pode ir na indução? As panelas de ferro fundido esmaltado deste guia podem, segundo a marca. Outras linhas usam materiais diferentes e precisam ser conferidas na ficha correspondente.",
           "Le Creuset pode ir no forno? O ferro fundido deste guia pode ir ao forno, respeitado o limite de cada conjunto: confira panela, tampa e puxador na documentação do modelo.",
           "Le Creuset pode ir na lava-louças? Para o ferro fundido esmaltado deste guia, a marca permite; a lavagem constante pode desbotar o acabamento, o que a marca diz não ser prejudicial. Peças com madeira não vão à lava-louças.",
@@ -93177,7 +93179,7 @@ const reviewsChunk0: unknown[] = [
       {
         "heading": "Resposta rápida",
         "paragraphs": [
-          "A Lejour tem reputação Ótima e nota 9,8 no Reclame Aqui nos 12 meses até outubro de 2026, com 21 reclamações recebidas, todas respondidas, e 100% de solução entre as 12 avaliadas. O tempo médio de resposta foi de 2 dias. O link deste artigo é uma indicação, sem cupom e sem desconto."
+          "A Lejour tem reputação Ótima e nota 9,8 no Reclame Aqui nos 12 meses até outubro de 2026, com 21 reclamações recebidas, todas respondidas, e 100% de solução entre as 12 avaliadas. O tempo médio de resposta foi de 2 dias. A nossa [indicação da Lejour](/cupons/lejour) mantém o plano Basic grátis, sem cupom e sem desconto extra."
         ]
       },
       {
@@ -93336,7 +93338,7 @@ const reviewsChunk0: unknown[] = [
         "paragraphs": [
           "De um lado, a Lejour tem reputação Ótima e nota 9,8 em 12 meses, selo Empresa Verificada, todas as reclamações respondidas e 100% de solução entre as 12 avaliadas. Do outro, a base é pequena, duas abas ficam sem reputação e Mau Atendimento lidera os problemas da aba Geral.",
           "O Em Casa com Cecília tem parceria com a Lejour: o link deste artigo é uma indicação, e o site pode receber comissão. Para o casal, não há desconto nem benefício extra, e o plano Basic segue grátis. Os números do Reclame Aqui são do perfil público e não dependem da parceria.",
-          "As condições da indicação estão na [página da Lejour](/cupons/lejour), e o passo a passo do cadastro, em [como criar a lista de casamento na Lejour](/reviews/lista-de-casamento-lejour-como-criar)."
+          "O passo a passo do cadastro está em [como criar a lista de casamento na Lejour](/reviews/lista-de-casamento-lejour-como-criar)."
         ]
       },
       {
@@ -93402,7 +93404,7 @@ const reviewsChunk0: unknown[] = [
       {
         "heading": "Resposta rápida",
         "paragraphs": [
-          "A Lejour reúne o site do casamento e a lista de presentes. Os convidados dão presentes virtuais, que viram crédito para o casal sacar ou usar em produtos da Fast Shop. O Basic cria site e lista sem plano pago, mas cobra taxa por presente; os planos pagos reduzem essa taxa."
+          "A Lejour reúne o site do casamento e a lista de presentes. Os convidados dão presentes virtuais, que viram crédito para o casal sacar ou usar em produtos da Fast Shop. O Basic cria site e lista sem plano pago, mas cobra taxa por presente; os planos pagos reduzem essa taxa. Pela nossa [indicação da Lejour](/cupons/lejour), o cadastro mantém as mesmas condições do site oficial."
         ]
       },
       {
@@ -93658,7 +93660,7 @@ const reviewsChunk0: unknown[] = [
         "heading": "Indicação do Em Casa com Cecília",
         "paragraphs": [
           "O botão de cadastro é nosso link de indicação, e não um cupom. Se você criar a conta por ele, o Em Casa com Cecília pode receber comissão da Lejour. O link não dá desconto nem benefício extra: não há código para digitar, e o Basic é gratuito com ou sem a indicação.",
-          "As condições da parceria estão em [Lejour no Em Casa com Cecília](/cupons/lejour). Para comparar com outras plataformas antes de decidir, veja [Lejour ou iCasei](/reviews/lejour-ou-icasei)."
+          "Para comparar com outras plataformas antes de decidir, veja [Lejour ou iCasei](/reviews/lejour-ou-icasei)."
         ]
       },
       {
@@ -93736,13 +93738,13 @@ const reviewsChunk0: unknown[] = [
       {
         "heading": "Resposta rápida",
         "paragraphs": [
-          "Os três primeiros passos da Lejour montam a prévia do site: nomes, data e tema. Depois, criem uma conta para salvar, montem os presentes virtuais e definam quem paga a taxa. O saque vai ao CPF de quem publica a lista; combinem isso antes."
+          "Os três primeiros passos da Lejour montam a prévia do site: nomes, data e tema. Depois, criem uma conta para salvar, montem os presentes virtuais e definam quem paga a taxa. O saque vai ao CPF de quem publica a lista; combinem isso antes. Para abrir o cadastro gratuito, veja a nossa [indicação da Lejour](/cupons/lejour)."
         ]
       },
       {
         "heading": "Antes de começar: decidam no CPF de quem a lista fica",
         "paragraphs": [
-          "A prévia do site tem 3 passos e começa sem login, pelo cadastro da [Lejour no Em Casa com Cecília](/cupons/lejour). Refizemos o início com dados de teste, até o painel; da lista de presentes em diante, os passos seguem a central de ajuda da Lejour.",
+          "A prévia do site tem 3 passos e começa sem login, pelo cadastro indicado no botão desta página. Refizemos o início com dados de teste, até o painel; da lista de presentes em diante, os passos seguem a central de ajuda da Lejour.",
           "O dinheiro dos presentes só sai por Pix para uma chave do mesmo CPF de quem publicou a lista, e a Lejour pede validação de identidade, com documento com foto e selfie, antes do primeiro saque. Por isso, combinem antes quem vai criar a conta e publicar a lista: ela deve ficar no CPF da pessoa que vai receber o dinheiro.",
           "Os detalhes de prazo e segurança do saque estão em [Lejour é confiável? Quem está por trás, Fast Shop, segurança e saques](/reviews/lejour-e-confiavel)."
         ]
@@ -93870,7 +93872,7 @@ const reviewsChunk0: unknown[] = [
       {
         "heading": "Plano grátis ou pago?",
         "paragraphs": [
-          "Criar a lista e o site é grátis no plano Basic; os planos Premium e Pro são pagos uma vez, baixam a taxa e liberam mais recursos, e a comparação completa está em [O que é a Lejour e como funciona: site de casamento, lista de presentes, taxas e planos](/reviews/lejour-como-funciona). O botão deste guia é de indicação, sem vantagem para o casal: se vocês criarem a conta por ele, o Em Casa com Cecília pode receber uma comissão, mas o plano grátis é o mesmo, não há desconto e não há cupom. As condições estão em [Lejour no Em Casa com Cecília](/cupons/lejour). Para comparar com outras plataformas, veja [Lejour, iCasei ou Casar.com](/reviews/lejour-ou-icasei); em novembro, os preços dos planos mudam, como conta o guia da [Black Friday Lejour](/reviews/black-friday-lejour)."
+          "Criar a lista e o site é grátis no plano Basic; os planos Premium e Pro são pagos uma vez, baixam a taxa e liberam mais recursos, e a comparação completa está em [O que é a Lejour e como funciona: site de casamento, lista de presentes, taxas e planos](/reviews/lejour-como-funciona). O botão deste guia é de indicação, sem vantagem para o casal: se vocês criarem a conta por ele, o Em Casa com Cecília pode receber uma comissão, mas o plano grátis é o mesmo, não há desconto e não há cupom. Para comparar com outras plataformas, veja [Lejour, iCasei ou Casar.com](/reviews/lejour-ou-icasei); em novembro, os preços dos planos mudam, como conta o guia da [Black Friday Lejour](/reviews/black-friday-lejour)."
         ]
       },
       {
@@ -93960,7 +93962,7 @@ const reviewsChunk0: unknown[] = [
       {
         "heading": "Resposta rápida",
         "paragraphs": [
-          "Inflow e Sofá na Caixa são empresas diferentes, e a DAMIE oferece mais teste em casa e garantia. Entre os modelos de 3 lugares comparados, a Sofá na Caixa tem o menor preço no cartão, mas está com a reputação suspensa no Reclame Aqui. Na DAMIE, o CECILIA12 dá 12% OFF."
+          "Inflow e Sofá na Caixa são empresas diferentes, e a DAMIE oferece mais teste em casa e garantia. Entre os modelos de 3 lugares comparados, a Sofá na Caixa tem o menor preço no cartão, mas está com a reputação suspensa no Reclame Aqui. Na DAMIE, o [cupom DAMIE](/cupons/damie) CECILIA12 dá 12% OFF e soma com os 10% do Pix."
         ]
       },
       {
@@ -94255,7 +94257,7 @@ const reviewsChunk0: unknown[] = [
         ],
         "emphasis": "Entre as três, eu ficaria com a DAMIE pelos 30 dias de teste e pelo ano de garantia. A Sofá na Caixa custa menos na comparação, mas informa devolução em 10 dias, com embalagem original e sem indícios de uso, e está com a reputação suspensa no Reclame Aqui.",
         "postParagraphs": [
-          "O **CECILIA12** é o [cupom DAMIE](/cupons/damie) de 12% OFF em todo o site oficial. Vale em **todas as formas de pagamento**, soma com o desconto do Pix e com as promoções do site, e não soma com outro cupom nem com o giftback. As condições e o passo a passo estão na página do cupom."
+          "O **CECILIA12** dá 12% OFF em todo o site oficial da DAMIE. Vale em **todas as formas de pagamento**, soma com o desconto do Pix e com as promoções do site, e não soma com outro cupom nem com o giftback."
         ],
         "links": [
           {
@@ -94354,7 +94356,7 @@ const reviewsChunk0: unknown[] = [
       {
         "heading": "Resposta rápida",
         "paragraphs": [
-          "Um sofá na caixa pode durar tanto quanto um montado: a caixa é uma forma de entrega. A construção, a espuma, o tecido e o uso entram na comparação; a garantia informa a cobertura, não a vida útil. Uso o modular da DAMIE há mais de um ano, e o código CECILIA12 dá 12% OFF no site."
+          "Um sofá na caixa pode durar tanto quanto um montado: a caixa é uma forma de entrega. A construção, a espuma, o tecido e o uso entram na comparação; a garantia informa a cobertura, não a vida útil. Uso o modular da DAMIE há mais de um ano, e o [cupom DAMIE](/cupons/damie) CECILIA12 dá 12% OFF no site."
         ]
       },
       {
@@ -94513,7 +94515,7 @@ const reviewsChunk0: unknown[] = [
         ],
         "emphasis": "Eu escolheria pela construção e pela possibilidade de manutenção, antes de olhar se o sofá vem na caixa ou montado. O modular DAMIE recebido em parceria é a nossa referência de uso; a embalagem, sozinha, não decide a duração.",
         "postParagraphs": [
-          "Para comprar o modular da DAMIE, o **CECILIA12** dá 12% OFF em todo o site oficial, em todas as formas de pagamento. Soma com o desconto do Pix e com as promoções do site, e não soma com outro cupom nem com o giftback. As condições estão na [página do cupom DAMIE](/cupons/damie)."
+          "Para comprar o modular da DAMIE, o **CECILIA12** dá 12% OFF em todo o site oficial, em todas as formas de pagamento. Soma com o desconto do Pix e com as promoções do site, e não soma com outro cupom nem com o giftback."
         ],
         "links": [
           {
@@ -98236,7 +98238,7 @@ const reviewsChunk0: unknown[] = [
       {
         "heading": "Resposta rápida: Black Friday Lejour 2026",
         "paragraphs": [
-          "Sim, a Black Friday da Lejour compensa para quem quer assinar Premium ou Pro pela metade, com o código BLACK50 no site e desconto direto no app durante novembro. Na Black Week, novos casais elegíveis têm taxa de 1,99%. Veja abaixo quando o plano se paga; nosso link é só indicação."
+          "Sim, a Black Friday da Lejour compensa para quem quer assinar Premium ou Pro pela metade, com o código BLACK50 no site e desconto direto no app durante novembro. Na Black Week, novos casais elegíveis têm taxa de 1,99%. Veja abaixo quando o plano se paga; nossa [indicação da Lejour](/cupons/lejour) mantém os mesmos planos do site oficial."
         ]
       },
       {
@@ -98310,7 +98312,7 @@ const reviewsChunk0: unknown[] = [
           "A coluna de R$ 200 é uma conta nossa: o percentual da tabela aplicado ao valor do presente.",
           "O plano pago muda mais que a taxa. No Basic, os saques são gratuitos só até o segundo, e depois custam R$ 5 cada, e o domínio personalizado .site custa R$ 69,90. No Premium e no Pro, os saques são ilimitados e o domínio está incluso.",
           "Quem paga a taxa é uma escolha do casal: ele recebe o presente com a taxa descontada, ou os convidados pagam a taxa por cima do valor do presente. O convidado que parcela no cartão paga, além disso, juros de 3,49% ao mês, que não fazem parte da taxa.",
-          "O funcionamento completo da lista, os saques e o crédito da Fast Shop estão em [O que é a Lejour e como funciona: site de casamento, lista de presentes, taxas e planos](/reviews/lejour-como-funciona). Para criar a conta, use o cadastro da [página da Lejour no Em Casa com Cecília](/cupons/lejour): é uma indicação, sem desconto, e pode render comissão ao site, sem custo extra para o casal."
+          "O funcionamento completo da lista, os saques e o crédito da Fast Shop estão em [O que é a Lejour e como funciona: site de casamento, lista de presentes, taxas e planos](/reviews/lejour-como-funciona)."
         ]
       },
       {
@@ -98408,7 +98410,7 @@ const reviewsChunk0: unknown[] = [
           "A taxa da lista fica menor na Black Friday? Para novos casais elegíveis, a Lejour anuncia 1,99% na Black Week, e diz que vale para toda a vida da lista. A taxa padrão é de 3,89% no Basic, 3,29% no Premium e 2,99% no Pro. A elegibilidade e a soma com outras ofertas seguem o regulamento da Lejour.",
           "Quanto a taxa pesa numa lista de R$ 20.000? No Basic, R$ 778,00; no Premium, R$ 658,00; no Pro, R$ 598,00, pelas taxas da tabela. As contas são nossas, e valem quando o casal paga a taxa.",
           "O 50% OFF vale para uma lista já criada? A página cita novos casais elegíveis só na taxa promocional, mas confira no painel da sua lista se o preço de campanha aparece antes de assinar.",
-          "A Lejour tem desconto pelo link do Em Casa com Cecília para a Black Friday? Não. O link é uma indicação: o cadastro e os planos são os mesmos do site da Lejour. A Black November é da Lejour e vale para qualquer casal, com ou sem o nosso link. As condições do link estão na [página da Lejour no Em Casa com Cecília](/cupons/lejour).",
+          "A Lejour tem desconto pelo link do Em Casa com Cecília para a Black Friday? Não. O link é uma indicação: o cadastro e os planos são os mesmos do site da Lejour. A Black November é da Lejour e vale para qualquer casal, com ou sem o nosso link.",
           "Dá para usar o crédito da lista na Fast Shop? Dá. A Fast Shop informava cashback mínimo de 4% nas compras com o crédito."
         ]
       }
@@ -101155,7 +101157,7 @@ const reviewsChunk0: unknown[] = [
       "url": "/sobre"
     },
     "description": "Lejour, iCasei ou Casar.com: o plano grátis das três cobra 3,89% por presente. Veja taxas, prazos, validade do site e quanto sobra numa lista de R$ 20.000.",
-    "metaDescription": "Lejour, iCasei ou Casar.com: grátis, as três cobram 3,89%. Veja taxas, prazos e quanto sobra numa lista de R$ 20 mil (dados de 16/10/2026).",
+    "metaDescription": "Lejour, iCasei ou Casar.com: no plano grátis, as três cobram 3,89%. Veja taxas, prazos, saques e quanto sobra numa lista de R$ 20 mil.",
     "publishedAt": "16 de outubro de 2026",
     "updatedAt": "2026-11-22",
     "publishedAtISO": "2026-10-16",
@@ -101171,7 +101173,7 @@ const reviewsChunk0: unknown[] = [
       {
         "heading": "Resposta rápida",
         "paragraphs": [
-          "No plano grátis, Lejour, iCasei e Casar.com cobram a mesma taxa: 3,89% por presente. O que separa as três é o tempo do site no ar depois da festa, os saques, o prazo do cartão e a confirmação de presença. Veja abaixo a conta de uma lista de exemplo."
+          "No plano grátis, Lejour, iCasei e Casar.com cobram a mesma taxa: 3,89% por presente. O que separa as três é o tempo do site no ar depois da festa, os saques, o prazo do cartão e a confirmação de presença. Veja abaixo a conta de uma lista de exemplo e a nossa [indicação da Lejour](/cupons/lejour)."
         ]
       },
       {
@@ -101591,7 +101593,7 @@ const reviewsChunk0: unknown[] = [
         "heading": "A indicação do Em Casa com Cecília",
         "paragraphs": [
           "A Lejour é parceira do site por indicação. O botão da Lejour nesta página leva ao cadastro com a nossa indicação. O casal não ganha desconto por ele: o plano grátis, os preços dos planos pagos e as taxas são os mesmos para qualquer casal. iCasei e Casar.com não são parceiros do site.",
-          "O passo a passo do cadastro, do site e da lista está em [Como criar a lista de casamento na Lejour](/reviews/lista-de-casamento-lejour-como-criar). Os dados da parceria ficam na [página da Lejour no Em Casa com Cecília](/cupons/lejour)."
+          "O passo a passo do cadastro, do site e da lista está em [Como criar a lista de casamento na Lejour](/reviews/lista-de-casamento-lejour-como-criar)."
         ]
       },
       {
@@ -101670,7 +101672,7 @@ const reviewsChunk0: unknown[] = [
       {
         "heading": "Resposta rápida",
         "paragraphs": [
-          "Nos preços registrados, a Ortobom tinha opções de entrada mais baratas; isso não vale para todo material ou modelo. A I Wanna Sleep oferecia látex natural, teste com crédito para troca e 10% OFF em todo o site com o CECIEMCASA. Compare construção, altura e condições antes de escolher."
+          "Nos preços registrados, a Ortobom tinha opções de entrada mais baratas; isso não vale para todo material ou modelo. A I Wanna Sleep oferecia látex natural, teste com crédito para troca e 10% OFF em todo o site com o [cupom I Wanna Sleep](/cupons/i-wanna-sleep) CECIEMCASA. Compare construção, altura e condições antes de escolher."
         ]
       },
       {
@@ -101866,7 +101868,7 @@ const reviewsChunk0: unknown[] = [
       {
         "heading": "Preço e cupom",
         "paragraphs": [
-          "O CECIEMCASA dá 10% OFF em todo o site da I Wanna Sleep, para cliente novo e antigo, em todas as formas de pagamento, e soma com as promoções da loja e com os 5% do Pix mostrados na página do produto. A página da loja diz que o desconto pode variar conforme a campanha. As regras estão na [página do cupom da I Wanna Sleep](/cupons/i-wanna-sleep)."
+          "O CECIEMCASA dá 10% OFF em todo o site da I Wanna Sleep, para cliente novo e antigo, em todas as formas de pagamento, e soma com as promoções da loja e com os 5% do Pix mostrados na página do produto. A página da loja diz que o desconto pode variar conforme a campanha."
         ],
         "comparisonTable": {
           "caption": "Conta nossa sobre o preço da página, sem frete; nos modelos com faixa de preço, usamos o menor valor",
@@ -120610,7 +120612,7 @@ const reviewsChunk0: unknown[] = [
       {
         "heading": "Cupom MAUAD e prazo para o Natal",
         "paragraphs": [
-          "O cupom MAUAD dá 5% OFF no site oficial da Let's Eat It. Ele vale em todas as formas de pagamento e soma com promoções, pré-venda e o desconto do Pix. Cole o código no campo \"Código de desconto\" do checkout e confira como os descontos aparecem. As condições estão na [página do cupom Let's Eat It](/cupons/letseatit), e o passo a passo está em [como usar o cupom MAUAD](/reviews/cupom-mauad-lets-eat-it-como-usar).",
+          "O cupom MAUAD dá 5% OFF no site oficial da Let's Eat It. Ele vale em todas as formas de pagamento e soma com promoções, pré-venda e o desconto do Pix. Cole o código no campo \"Código de desconto\" do checkout e confira como os descontos aparecem. O passo a passo está em [como usar o cupom MAUAD](/reviews/cupom-mauad-lets-eat-it-como-usar).",
           "A conta é simples: 5% sobre o subtotal, sem frete. Na faixa 3, R$ 5.099,69 menos R$ 254,98 dão R$ 4.844,71, ou R$ 807,45 por pessoa para seis pessoas. O frete é calculado à parte, pelo CEP.",
           "Os prazos que a loja publica vão de 3 a 5 dias úteis na capital de São Paulo a 7 a 12 dias úteis no Norte e no Nordeste, depois da confirmação do pagamento, e podem mudar em promoção. Itens em pré-venda, como o Bio Oceano e o Laguiole verde, têm prazo de envio próprio. A data-limite para pedir está no [guia de Black Friday da Let's Eat It](/reviews/black-friday-letseatit), e no checkout o prazo aparece para o seu CEP antes do pagamento."
         ]
@@ -120643,7 +120645,7 @@ const reviewsChunk0: unknown[] = [
       {
         "heading": "Perguntas frequentes",
         "bullets": [
-          "Qual é o cupom da Let's Eat It? É o MAUAD, com 5% OFF no site oficial da Let's Eat It, em todas as formas de pagamento. Cole o código no campo \"Código de desconto\" do checkout; as condições estão na página do [cupom Let's Eat It](/cupons/letseatit).",
+          "Qual é o cupom da Let's Eat It? É o MAUAD, com 5% OFF no site oficial da Let's Eat It, em todas as formas de pagamento. Cole o código no campo \"Código de desconto\" do checkout.",
           "Quantas peças por pessoa uma mesa de Natal precisa? Para seis pessoas, o aparelho Porto Brasil dá cinco peças por pessoa (raso, sobremesa, fundo, xícara e pires), e o faqueiro de 30 peças dá cinco talheres por pessoa. Somam-se a isso uma taça de água, uma de vinho, um guardanapo e um sousplat.",
           "Dá para montar a mesa sem sousplat? Dá. O sousplat é a base decorativa, e a mesa funciona sem ele. Na faixa 1, os seis sousplats de plástico Wolff custam R$ 131,40, e tirá-los reduz esse valor sem mudar o restante da lista.",
           "Vale comprar o faqueiro completo? Vale se a mesa precisa de talheres para seis pessoas, porque o faqueiro de 30 peças já traz cinco talheres por pessoa. Entre os três faqueiros de 30 peças, o Avalon é o mais barato, com R$ 383,90. O Berna Dourado custa R$ 539,90 e troca o garfo de bolo pelo garfo de sobremesa. O Laguiole custa R$ 1.099,00 e é da linha luxo, com lâmina de aço inox e cabo de ABS, segundo a ficha.",
@@ -121026,7 +121028,7 @@ const reviewsChunk0: unknown[] = [
       {
         "heading": "Cupom MAUAD: a conta de um presente",
         "paragraphs": [
-          "O cupom MAUAD dá 5% de desconto no site da Let's Eat It. Ele vale em todas as formas de pagamento e soma com o desconto do Pix; confira no checkout como os dois aparecem. Cole o código no campo “Código de desconto” do resumo do pedido. As condições da loja estão na [página de cupons da Let's Eat It](/cupons/letseatit), e o passo a passo para aplicar, no [guia de como usar o cupom MAUAD](/reviews/cupom-mauad-lets-eat-it-como-usar).",
+          "O cupom MAUAD dá 5% de desconto no site da Let's Eat It. Ele vale em todas as formas de pagamento e soma com o desconto do Pix; confira no checkout como os dois aparecem. Cole o código no campo “Código de desconto” do resumo do pedido. O passo a passo para aplicar está no [guia de como usar o cupom MAUAD](/reviews/cupom-mauad-lets-eat-it-como-usar).",
           "A conta é 5% sobre o subtotal, sem frete. Tome a chaleira Kone, de R$ 503,40: 5% são R$ 25,17, e o valor fica em R$ 478,23 antes do frete. Quem paga no Pix ainda tem o desconto de 5% do Pix nos produtos que o oferecem, e o valor final aparece no checkout."
         ],
         "links": [
@@ -121059,7 +121061,7 @@ const reviewsChunk0: unknown[] = [
       {
         "heading": "Perguntas frequentes",
         "bullets": [
-          "Qual é o cupom da Let's Eat It? É o MAUAD, com 5% OFF no site oficial da Let's Eat It, em todas as formas de pagamento, inclusive nas peças da Le Creuset. Cole no campo “Código de desconto” do checkout. Veja o [cupom Let's Eat It](/cupons/letseatit).",
+          "Qual é o cupom da Let's Eat It? É o MAUAD, com 5% OFF no site oficial da Let's Eat It, em todas as formas de pagamento, inclusive nas peças da Le Creuset. Cole no campo “Código de desconto” do checkout.",
           "A loja tem lista de casamento? A página de lista de presentes estava sem itens. Confira no site antes de contar com essa função; se ela não estiver disponível, combine a peça diretamente com o casal.",
           "Qual o valor de um bom presente de casamento? Não existe valor certo. O guia divide as peças em quatro faixas: até R$ 300, de R$ 300 a 700, de R$ 700 a 1.500 e acima de R$ 1.500. A melhor faixa é a que cabe no orçamento e combina com o que o casal pediu.",
           "O que dar de presente de casamento até R$ 300? [Ramekin Formato Coração 300 ml Vermelho, Le Creuset](https://letseatit.com.br/products/ramekin-coracao-ceramica-300ml-vermelho-le-creuset?utm_source=embaixador&utm_medium=emcasacomcecilia&utm_campaign=inbazz&utm_content=organico), R$ 159,00; [Jogo 6 Taças Vinho Branco Crex Optic 480 ml, Bohemia](https://letseatit.com.br/products/jogo-6-tacas-vinho-branco-crex-optic-480ml-cristal-ecologico-bohemia?utm_source=embaixador&utm_medium=emcasacomcecilia&utm_campaign=inbazz&utm_content=organico), R$ 144,90; [Jogo 4 Mini Pratos Chapéu Orgânico Latte 250 ml, Porto Brasil](https://letseatit.com.br/products/jogo-4-mini-pratos-chapeu-organico-latte-250ml-19x5-5cm-porto-brasil?utm_source=embaixador&utm_medium=emcasacomcecilia&utm_campaign=inbazz&utm_content=organico), R$ 189,90; e [Mini Cocotte Cerâmica Cotton 250 ml, Le Creuset](https://letseatit.com.br/products/mini-cocotte-ceramica-cotton-250ml-10cm-le-creuset?utm_source=embaixador&utm_medium=emcasacomcecilia&utm_campaign=inbazz&utm_content=organico), R$ 239,00.",
@@ -121410,7 +121412,7 @@ const reviewsChunk0: unknown[] = [
         "paragraphs": [
           "O cupom MAUAD dá 5% de desconto no subtotal dos produtos, no site da Let's Eat It. Ele vale com todas as formas de pagamento e soma com o desconto do Pix. O frete não entra nessa conta. Cole o código no campo “Código de desconto” do resumo do pedido, no checkout, e clique em “Aplicar”.",
           "Um exemplo: o Ramekin Formato Coração Vermelho, de R$ 159,00. Com o cupom, 5% sobre R$ 159,00 são R$ 7,95, e o item sai por R$ 151,05 antes do frete e do Pix. Nos itens com 5% de desconto no Pix, os dois juntos levam o ramekin a cerca de R$ 143,50. O valor final é o que o checkout mostra, então confira antes de pagar.",
-          "Para ver onde o código entra, veja o [passo a passo do cupom MAUAD](/reviews/cupom-mauad-lets-eat-it-como-usar). A página da loja com as regras do cupom está em [cupom da Let's Eat It](/cupons/letseatit)."
+          "Para ver onde o código entra, veja o [passo a passo do cupom MAUAD](/reviews/cupom-mauad-lets-eat-it-como-usar)."
         ],
         "links": [
           {
@@ -121431,7 +121433,7 @@ const reviewsChunk0: unknown[] = [
       {
         "heading": "Perguntas frequentes",
         "bullets": [
-          "Qual é o cupom da Let's Eat It? É o MAUAD, com 5% OFF no site oficial da Let's Eat It, em todas as formas de pagamento. Cole no campo “Código de desconto” do checkout. Veja o [cupom Let's Eat It](/cupons/letseatit).",
+          "Qual é o cupom da Let's Eat It? É o MAUAD, com 5% OFF no site oficial da Let's Eat It, em todas as formas de pagamento. Cole no campo “Código de desconto” do checkout.",
           "Como saber se o presente chega antes do Natal? Simule o CEP e confirme a previsão do pedido antes de pagar. A página de frete publica prazos de 3 a 12 dias úteis, conforme a região, contados da confirmação do pagamento; o guia de Black Friday da Let's Eat It traz as datas-limite, sem garantir chegada.",
           "Posso trocar um presente? Sim: a página de reembolso e trocas dá 30 dias contados do recebimento. Peça pelo portal assim que receber e guarde a nota fiscal.",
           "O cupom MAUAD vale em promoção? Sim, ele entra sobre o produto em promoção. O desconto do Pix também soma com o cupom; confira o valor final no checkout.",
@@ -142374,7 +142376,7 @@ const reviewsChunk0: unknown[] = [
       {
         "heading": "Resposta rápida",
         "paragraphs": [
-          "Na hora de presentear, a escolha fica entre sofá, poltrona reclinável, poltrona de cinema e o canto da piscina. Para os pais, a reclinável; para a sala, o sofá modular. O que pesa é espaço, porta, quem usa e o prazo do CEP; na DAMIE, o código CECILIA12 dá 12% OFF em todo o site."
+          "Na hora de presentear, a escolha fica entre sofá, poltrona reclinável, poltrona de cinema e o canto da piscina. Para os pais, a reclinável; para a sala, o sofá modular. O que pesa é espaço, porta, quem usa e o prazo do CEP; na DAMIE, o [cupom DAMIE](/cupons/damie) CECILIA12 dá 12% OFF em todo o site."
         ]
       },
       {
@@ -142709,7 +142711,7 @@ const reviewsChunk0: unknown[] = [
       {
         "heading": "Cupom e pagamento",
         "paragraphs": [
-          "O CECILIA12 dá 12% de desconto em todo o site da DAMIE, em todas as formas de pagamento. Ele soma com as promoções e com os 10% do Pix à vista. É um cupom por pedido: não soma com outro cupom nem com o giftback da loja. A página do [cupom DAMIE](/cupons/damie) tem o código para copiar e as regras.",
+          "O CECILIA12 dá 12% de desconto em todo o site da DAMIE, em todas as formas de pagamento. Ele soma com as promoções e com os 10% do Pix à vista. É um cupom por pedido: não soma com outro cupom nem com o giftback da loja.",
           "Durante a campanha, a DAMIE também devolve 15% do pedido em giftback para a próxima compra.",
           "A conta de exemplo, nossa: a espreguiçadeira Caraíva custa R$ 2.250. Com os 12% do CECILIA12, vai a R$ 1.980 no cartão. No Pix, entram também os 10%, e, pela nossa conta, aplicando um desconto sobre o outro, ela sai por R$ 1.782. O resumo do checkout mostra o valor exato antes de pagar.",
           "O cartão e o PayPal parcelam em até 12x sem juros, com parcela mínima de R$ 100, e o boleto é à vista. O passo a passo no checkout está em [como usar o CECILIA12](/reviews/cupom-cecilia12-como-usar)."
@@ -150010,7 +150012,7 @@ const reviewsChunk1: unknown[] = [
       {
         "heading": "Resposta rápida",
         "paragraphs": [
-          "Valley Modular e Inflow vendem sofá de espuma compactada a vácuo; a DAMIE manda módulos com estrutura de madeira, para encaixar. A DAMIE dá mais garantia e teste em casa: 1 ano e 30 dias com coleta, guardando a embalagem original, contra 6 meses na Valley Modular e 3 meses na Inflow. O código CECILIA12 dá 12% OFF na DAMIE."
+          "Valley Modular e Inflow vendem sofá de espuma compactada a vácuo; a DAMIE manda módulos com estrutura de madeira, para encaixar. A DAMIE dá mais garantia e teste em casa: 1 ano e 30 dias com coleta, guardando a embalagem original, contra 6 meses na Valley Modular e 3 meses na Inflow. O [cupom DAMIE](/cupons/damie) CECILIA12 dá 12% OFF no site oficial e soma com os 10% do Pix."
         ]
       },
       {
@@ -150314,7 +150316,7 @@ const reviewsChunk1: unknown[] = [
         ],
         "postParagraphs": [
           "Confira prazo de produção e procedimento de devolução antes de escolher.",
-          "O **CECILIA12** é um cupom de 12% de desconto em todo o site da DAMIE. Vale em todas as formas de pagamento, soma com o desconto do Pix e com as promoções do site, e não soma com outro cupom nem com o giftback. As condições e o passo a passo estão na [página do cupom da DAMIE](/cupons/damie)."
+          "O **CECILIA12** é um cupom de 12% de desconto em todo o site da DAMIE. Vale em todas as formas de pagamento, soma com o desconto do Pix e com as promoções do site, e não soma com outro cupom nem com o giftback."
         ],
         "emphasis": "Entre essas configurações, eu priorizaria os 30 dias de teste e o ano de garantia da DAMIE. Para decidir pelo preço, compararia o total com descontos e frete, não só o catálogo.",
         "links": [
@@ -150676,7 +150678,7 @@ const reviewsChunk1: unknown[] = [
       {
         "heading": "Onde comprar e o cupom",
         "paragraphs": [
-          "A Let's Eat It vende a linha Le Creuset, e as condições estão na página do [cupom Let's Eat It](/cupons/letseatit). O código MAUAD dá 5% OFF no site, em todas as formas de pagamento, vale em Le Creuset e soma com os 5% do Pix e com as promoções. No checkout, cole o código no campo \"Código de desconto\".",
+          "A Let's Eat It vende a linha Le Creuset no site oficial. O código MAUAD dá 5% OFF no site, em todas as formas de pagamento, vale em Le Creuset e soma com os 5% do Pix e com as promoções. No checkout, cole o código no campo \"Código de desconto\".",
           "Exemplo com a 24 cm, conta nossa sobre o preço cheio, sem frete: R$ 2.949 vira R$ 2.801,55 com o cupom e R$ 2.661,47 com o Pix. Aplique o cupom primeiro e depois o Pix. Numa cor com 25% de desconto, a 24 cm Camomille (R$ 2.211,75) vai a R$ 2.101,16 com o cupom e a R$ 1.996,10 com o Pix.",
           "Para indução, forno, lava-louças e garantia, leia [Le Creuset vale a pena](/reviews/le-creuset-vale-a-pena). Para saber como conferir se a panela é original e onde comprar, veja o artigo irmão, [Le Creuset original: como saber](/reviews/le-creuset-original-como-saber)."
         ],
@@ -150695,7 +150697,7 @@ const reviewsChunk1: unknown[] = [
       {
         "heading": "Perguntas frequentes",
         "bullets": [
-          "Qual é o cupom da Let's Eat It? É o MAUAD, com 5% OFF no site oficial da Let's Eat It, em todas as formas de pagamento. Cole o código no campo \"Código de desconto\" do checkout; as condições estão na página do [cupom Let's Eat It](/cupons/letseatit).",
+          "Qual é o cupom da Let's Eat It? É o MAUAD, com 5% OFF no site oficial da Let's Eat It, em todas as formas de pagamento. Cole o código no campo \"Código de desconto\" do checkout.",
           "Qual a diferença entre a Le Creuset 20 e 24 cm? A 20 cm tem 2,4 L e a 24 cm tem 4,2 L, 1,8 L a mais pela ficha da loja. No preço cheio, são R$ 2.329 e R$ 2.949.",
           "Quantos litros tem a Le Creuset 24 cm? A Redonda Signature de 24 cm tem 4,2 L, pela ficha da loja. A Redonda Funda de 24 cm tem 5,2 L.",
           "Qual o tamanho da caçarola buffet Le Creuset 30 cm? Ela tem 3,5 L, pela ficha da loja. O diâmetro é de 30 cm e o formato é baixo e largo.",
@@ -150881,7 +150883,7 @@ const reviewsChunk1: unknown[] = [
         "heading": "A Let's Eat It no localizador e o cupom",
         "paragraphs": [
           "A Let's Eat It aparece no localizador de lojas da Le Creuset Brasil como Wholesale Partner, em Serra (ES). No site, a [coleção Le Creuset](https://letseatit.com.br/collections/le-creuset?utm_source=embaixador&utm_medium=emcasacomcecilia&utm_campaign=inbazz&utm_content=organico) tem peças como a [Panela Redonda Signature Azure Blue de 20 cm](https://letseatit.com.br/products/panela-le-creuset-redonda-signature-azure-blue-2-4l-20cm?utm_source=embaixador&utm_medium=emcasacomcecilia&utm_campaign=inbazz&utm_content=organico), de R$ 2.329 de tabela por R$ 1.746,75 na promoção de novembro, e a [Caçarola Buffet Signature Sage de 30 cm](https://letseatit.com.br/products/cacarola-buffet-signature-sage-3-5l-30cm-le-creuset?utm_source=embaixador&utm_medium=emcasacomcecilia&utm_campaign=inbazz&utm_content=organico), de R$ 2.999 por R$ 2.249,25. Em novembro, várias cores têm 25% de desconto sobre a tabela; as outras seguem sem desconto.",
-          "O [cupom Let's Eat It](/cupons/letseatit) MAUAD dá 5% OFF em todas as formas de pagamento e soma com as promoções e com os 5% do Pix. No checkout, cole o código no campo \"Código de desconto\". Sobre os R$ 1.746,75 da Azure Blue, são R$ 1.659,41 com o cupom e R$ 1.576,44 com o Pix (conta nossa, sem frete; o cupom entra primeiro).",
+          "O cupom MAUAD dá 5% OFF em todas as formas de pagamento e soma com as promoções e com os 5% do Pix. No checkout, cole o código no campo \"Código de desconto\". Sobre os R$ 1.746,75 da Azure Blue, são R$ 1.659,41 com o cupom e R$ 1.576,44 com o Pix (conta nossa, sem frete; o cupom entra primeiro).",
           "Para escolher o tamanho, leia [Le Creuset: qual tamanho escolher](/reviews/le-creuset-qual-tamanho-escolher); para travessas, [qual travessa Le Creuset escolher](/reviews/le-creuset-travessa-qual-escolher)."
         ],
         "links": [
@@ -150927,7 +150929,7 @@ const reviewsChunk1: unknown[] = [
         "heading": "Perguntas frequentes",
         "bullets": [
           "Existe Le Creuset falsa? A Le Creuset Brasil publicou um alerta sobre falsas promoções e descontos em mídias sociais e em páginas da internet. Ela pede atenção a qualquer oferta que não venha dos canais oficiais: o site da marca, e-mail com \"@lecreuset.com\" ou um parceiro da marca.",
-          "Qual é o cupom da Let's Eat It? É o MAUAD, com 5% OFF no site oficial da Let's Eat It, em todas as formas de pagamento. Cole o código no campo \"Código de desconto\" do checkout; as condições estão na página do [cupom Let's Eat It](/cupons/letseatit).",
+          "Qual é o cupom da Let's Eat It? É o MAUAD, com 5% OFF no site oficial da Let's Eat It, em todas as formas de pagamento. Cole o código no campo \"Código de desconto\" do checkout.",
           "Le Creuset é made in France ou Tailândia? Depende do produto. Na ficha da caçarola buffet de ferro fundido, o país de origem é France. Na da mini cocotte de cerâmica, é Tailândia. Nenhuma das três fichas traz China.",
           "Le Creuset tem número de série para conferir? Não: as páginas brasileiras da marca não trazem guia de número de série, gravação ou selo. Em caso de dúvida sobre uma peça, procure o SAC da marca.",
           "A garantia da Le Creuset vale se eu comprei em outra loja? Segundo a marca, a análise de garantia vale para qualquer produto Le Creuset, independentemente do país ou do canal de compra. Guarde a nota fiscal ou outro comprovante de propriedade.",
@@ -179961,7 +179963,7 @@ const reviewsChunk1: unknown[] = [
       {
         "heading": "Cupom e Pix",
         "paragraphs": [
-          "No site da Let's Eat It, o cupom MAUAD dá 5% OFF, vale em todas as formas de pagamento e soma com os 5% do Pix: no 30 peças Verde, R$ 1.099,00 ficam R$ 991,85 com os dois (conta nossa, com o preço do cartão). Cole o código no campo \"Código de desconto\" do checkout. As condições estão na [página de cupons da Let's Eat It](/cupons/letseatit)."
+          "No site da Let's Eat It, o cupom MAUAD dá 5% OFF, vale em todas as formas de pagamento e soma com os 5% do Pix: no 30 peças Verde, R$ 1.099,00 ficam R$ 991,85 com os dois (conta nossa, com o preço do cartão). Cole o código no campo \"Código de desconto\" do checkout."
         ]
       },
       {
@@ -179973,7 +179975,7 @@ const reviewsChunk1: unknown[] = [
       {
         "heading": "Perguntas frequentes",
         "bullets": [
-          "Qual é o cupom da Let's Eat It? É o MAUAD, com 5% OFF no site oficial da Let's Eat It, em todas as formas de pagamento. Cole no campo \"Código de desconto\" do checkout; as condições estão no [cupom Let's Eat It](/cupons/letseatit).",
+          "Qual é o cupom da Let's Eat It? É o MAUAD, com 5% OFF no site oficial da Let's Eat It, em todas as formas de pagamento. Cole no campo \"Código de desconto\" do checkout.",
           "O faqueiro Laguiole La Maison pode ir na máquina de lavar louça? A ficha da Let's Eat It não diz. Ela informa só o material: lâmina em aço inoxidável e cabo em ABS.",
           "O Laguiole La Maison é original francês? A ficha diz que o design é de artesãos franceses, mas não informa o país de fabricação.",
           "Quantas peças de cada tipo tem o faqueiro Laguiole de 30 peças? São 6 facas, 6 garfos, 6 colheres, 6 colheres de sobremesa e 6 garfos de sobremesa, segundo a ficha. Não vem colher de chá.",
@@ -180273,7 +180275,7 @@ const reviewsChunk1: unknown[] = [
         "heading": "Frete, Pix e cupom",
         "paragraphs": [
           "O frete é calculado à parte, pelo CEP. O Pix dá 5% de desconto em muitos produtos, e o cupom MAUAD dá mais 5% sobre o subtotal, vale em todas as formas de pagamento e soma com o Pix. Cole o código no campo \"Código de desconto\" do checkout.",
-          "Na faixa intermediária para 4 pessoas, R$ 849,20 viram R$ 806,74 só com o código e cerca de R$ 766,40 com o Pix por cima (conta nossa, com os mesmos preços; o valor exato aparece no checkout). As condições estão na [página de cupons da Let's Eat It](/cupons/letseatit)."
+          "Na faixa intermediária para 4 pessoas, R$ 849,20 viram R$ 806,74 só com o código e cerca de R$ 766,40 com o Pix por cima (conta nossa, com os mesmos preços; o valor exato aparece no checkout)."
         ]
       },
       {
@@ -180304,7 +180306,7 @@ const reviewsChunk1: unknown[] = [
       {
         "heading": "Perguntas frequentes",
         "bullets": [
-          "Qual é o cupom da Let's Eat It? É o MAUAD, com 5% OFF no site oficial da Let's Eat It, em todas as formas de pagamento. Cole o código no campo \"Código de desconto\" do checkout; as condições estão na página do [cupom Let's Eat It](/cupons/letseatit).",
+          "Qual é o cupom da Let's Eat It? É o MAUAD, com 5% OFF no site oficial da Let's Eat It, em todas as formas de pagamento. Cole o código no campo \"Código de desconto\" do checkout.",
           "O que comprar primeiro para a mesa posta? O tecido: um jogo americano e um guardanapo por pessoa, que funcionam com os pratos e talheres que você já tem.",
           "Quanto custa uma mesa posta para 2 pessoas? Na faixa econômica, R$ 414,80 no cartão e sem frete, com o faqueiro de 12 peças inteiro. Você pode começar só pelo tecido e usar pratos e talheres de casa.",
           "Quanto custa uma mesa posta para 4 pessoas? R$ 630,60 na faixa econômica e R$ 849,20 na intermediária, no cartão e sem frete.",
@@ -180525,7 +180527,7 @@ const reviewsChunk1: unknown[] = [
           "Para jantar com convidados: o Poá Bege (R$ 56,00) ou o Bordado Duplo Bege (R$ 58,00), os dois de 45 x 45 cm. A ficha do Duplo descreve um bordado duplo bege, e o Poá vem também em azul e verde escuro. Para seis pessoas com reserva, a diferença entre os dois é de R$ 14,00."
         ],
         "postParagraphs": [
-          "Medida e cor do jogo americano, que vai por baixo do prato, estão no [guia do jogo americano de tecido](/reviews/jogo-americano-tecido-tamanho-cor). As condições estão na página do [cupom Let's Eat It](/cupons/letseatit)."
+          "Medida e cor do jogo americano, que vai por baixo do prato, estão no [guia do jogo americano de tecido](/reviews/jogo-americano-tecido-tamanho-cor)."
         ],
         "images": [
           {
@@ -180559,7 +180561,7 @@ const reviewsChunk1: unknown[] = [
       {
         "heading": "Perguntas frequentes",
         "bullets": [
-          "Qual é o cupom da Let's Eat It? É o MAUAD, com 5% OFF no site oficial da Let's Eat It, em todas as formas de pagamento, somando com os 5% do Pix. Cole o código no campo \"Código de desconto\" do checkout; as condições estão na página do [cupom Let's Eat It](/cupons/letseatit).",
+          "Qual é o cupom da Let's Eat It? É o MAUAD, com 5% OFF no site oficial da Let's Eat It, em todas as formas de pagamento, somando com os 5% do Pix. Cole o código no campo \"Código de desconto\" do checkout.",
           "Quantos guardanapos de tecido comprar por pessoa? Recomendamos um guardanapo por pessoa em cada refeição mais um de reserva por mesa. Para quatro pessoas, compre cinco peças; para seis pessoas, sete peças.",
           "Qual o tamanho ideal de guardanapo de pano? Nas fichas, as medidas são 45 x 45 cm e 40 x 40 cm; nenhuma é chamada de padrão. Nossa sugestão é o de 45 para almoço e jantar, e o de 40 para café e lanche.",
           "Guardanapo de tecido pode ir na máquina e na secadora? A ficha dos guardanapos de algodão manda lavar à mão, em até 40 °C, e não usar secadora. A secagem indicada é natural, à sombra.",
@@ -180798,7 +180800,7 @@ const reviewsChunk1: unknown[] = [
       {
         "heading": "Onde comprar e o desconto",
         "paragraphs": [
-          "As peças foram selecionadas no catálogo da Let's Eat It, com frete por CEP. O MAUAD dá 5% OFF em todas as formas de pagamento e soma com o desconto do Pix. Cole o código no campo \"Código de desconto\" do checkout. Usando o preço de referência do Limone e os 5% de Pix mostrados na ficha, nossa conta era R$ 51,92 com um dos descontos ou R$ 49,32 com ambos. Confira o preço e o Pix da peça no checkout; as condições do código estão na página do [cupom Let's Eat It](/cupons/letseatit).",
+          "As peças foram selecionadas no catálogo da Let's Eat It, com frete por CEP. O MAUAD dá 5% OFF em todas as formas de pagamento e soma com o desconto do Pix. Cole o código no campo \"Código de desconto\" do checkout. Usando o preço de referência do Limone e os 5% de Pix mostrados na ficha, nossa conta era R$ 51,92 com um dos descontos ou R$ 49,32 com ambos. Confira o preço e o Pix da peça no checkout.",
           "Se a mesa é para uma data, o [guia de mesa posta de Natal](/reviews/mesa-posta-natal-o-que-precisa-quanto-custa) soma sousplat, guardanapo, taças e talheres para seis pessoas."
         ]
       },
@@ -180834,7 +180836,7 @@ const reviewsChunk1: unknown[] = [
       {
         "heading": "Perguntas frequentes",
         "bullets": [
-          "Qual é o cupom da Let's Eat It? É o MAUAD, com 5% OFF no site oficial da Let's Eat It, em todas as formas de pagamento, somando com os 5% do Pix. Cole o código no campo \"Código de desconto\" do checkout; as condições estão na página do [cupom Let's Eat It](/cupons/letseatit).",
+          "Qual é o cupom da Let's Eat It? É o MAUAD, com 5% OFF no site oficial da Let's Eat It, em todas as formas de pagamento, somando com os 5% do Pix. Cole o código no campo \"Código de desconto\" do checkout.",
           "Qual o tamanho de um jogo americano? Nas peças deste guia, os redondos têm 36,5 cm ou 38,5 cm de diâmetro, os retangulares, 35 x 50 cm ou 38 x 52 cm, e o Limone, cujo formato a ficha não diz, 33 x 48 cm. Escolha pelo prato: com um prato raso de 28 cm, o redondo de 36,5 cm deixa 4,25 cm de borda, pela nossa conta.",
           "Jogo americano redondo ou retangular? Compare as medidas com o seu prato e com o espaço por pessoa na mesa. Entre os modelos deste guia, os retangulares oferecem mais largura lateral para os talheres; os redondos deixam uma borda mais estreita em volta do prato.",
           "Tem jogo americano redondo de linho? O Redondo Bordado D3 Verde Sálvia 36,5 cm, da Tuut, é de linho segundo a ficha, mas esgotou na última leitura. Os redondos disponíveis neste guia, Bouquet Cinza e Inca Caqui, são 100% poliéster; a coleção de jogos americanos mostra outros modelos.",
@@ -191634,7 +191636,7 @@ const reviewsChunk1: unknown[] = [
           "caption": "Preço no cartão por conjunto e por taça. Conta nossa: o preço dividido pelo número de taças."
         },
         "postParagraphs": [
-          "O Pix dá 5% de desconto em muitos produtos, e o [cupom Let's Eat It](/cupons/letseatit), com o código MAUAD, dá mais 5% em todas as formas de pagamento, somado ao Pix.",
+          "O Pix dá 5% de desconto em muitos produtos, e o cupom MAUAD dá mais 5% em todas as formas de pagamento, somado ao Pix.",
           "Para a mesa inteira, com guardanapo, jogo americano, talheres e pratos, veja o [guia de mesa posta do dia a dia](/reviews/mesa-posta-dia-a-dia-o-que-comprar)."
         ],
         "links": [
@@ -191707,13 +191709,13 @@ const reviewsChunk1: unknown[] = [
       {
         "heading": "Cupom e Pix",
         "paragraphs": [
-          "No site da Let's Eat It, o [cupom Let's Eat It](/cupons/letseatit), MAUAD, dá 5% OFF em todas as formas de pagamento e soma com os 5% do Pix. Cole o código no campo \"Código de desconto\" do checkout; o valor final aparece no carrinho."
+          "No site da Let's Eat It, o cupom MAUAD dá 5% OFF em todas as formas de pagamento e soma com os 5% do Pix. Cole o código no campo \"Código de desconto\" do checkout; o valor final aparece no carrinho."
         ]
       },
       {
         "heading": "Perguntas frequentes",
         "bullets": [
-          "Qual é o cupom da Let's Eat It? É o MAUAD, com 5% OFF no site oficial da Let's Eat It, em todas as formas de pagamento. Cole no campo \"Código de desconto\" do checkout; as condições estão no [cupom Let's Eat It](/cupons/letseatit).",
+          "Qual é o cupom da Let's Eat It? É o MAUAD, com 5% OFF no site oficial da Let's Eat It, em todas as formas de pagamento. Cole no campo \"Código de desconto\" do checkout.",
           "A taça Sphere é de vidro? Sim. A loja descreve vidro transparente com base colorida.",
           "A taça Sphere serve para vinho e para água? A descrição da loja não diz para qual bebida serve a de 450 ml. A de 250 ml se chama taça para champanhe.",
           "Pode ir na lava-louças? A descrição da loja não diz.",
@@ -202632,7 +202634,7 @@ const reviewsChunk1: unknown[] = [
       {
         "heading": "Resposta rápida",
         "paragraphs": [
-          "Com certeza vale para quem quer melhorar a qualidade do sono: a I Wanna Sleep vende travesseiros, cobertores, pijamas, roupa de cama e outros itens para o quarto. O código CECIEMCASA dá 10% OFF em todo o site; a conta dos kits e cada linha estão abaixo."
+          "Com certeza vale para quem quer melhorar a qualidade do sono: a I Wanna Sleep vende travesseiros, cobertores, pijamas, roupa de cama e outros itens para o quarto. O [cupom I Wanna Sleep](/cupons/i-wanna-sleep) CECIEMCASA dá 10% OFF em todo o site e soma com os 5% do Pix; a conta dos kits e cada linha estão abaixo."
         ]
       },
       {
@@ -202884,7 +202886,7 @@ const reviewsChunk1: unknown[] = [
       {
         "heading": "Onde comprar: site, lojas de Belo Horizonte e o código da parceria",
         "paragraphs": [
-          "Com o CECIEMCASA, todo o site da I Wanna Sleep sai 10% mais barato, em todas as formas de pagamento, para cliente novo e antigo, e o desconto soma com as promoções da loja e com os 5% do Pix à vista. O código vai no campo de cupom do checkout, em maiúsculas e sem espaço, e o total recalcula antes do pagamento; confira a linha de desconto no resumo do pedido. A página do [cupom I Wanna Sleep](/cupons/i-wanna-sleep) tem o passo a passo e as regras. O código não vale no Mercado Livre nem em marketplace: lá o preço é o do anúncio.",
+          "Com o CECIEMCASA, todo o site da I Wanna Sleep sai 10% mais barato, em todas as formas de pagamento, para cliente novo e antigo, e o desconto soma com as promoções da loja e com os 5% do Pix à vista. O código vai no campo de cupom do checkout, em maiúsculas e sem espaço, e o total recalcula antes do pagamento; confira a linha de desconto no resumo do pedido. O código não vale no Mercado Livre nem em marketplace: lá o preço é o do anúncio.",
           "O frete é grátis acima de R$ 150, fora colchão, box, baú e cabeceira, então quase todo travesseiro já passa do mínimo sozinho. O cartão parcela sem juros, e o número de parcelas aparece na página de cada produto. Quem se arrepende tem 7 dias corridos, com o frete da primeira devolução grátis, e o estorno no cartão leva de 30 a 60 dias; a compra do site não se troca nas lojas. O travesseiro ainda tem o Sleeptest de 30 dias, com pelo menos 15 dias de uso e troca por crédito.",
           "As sete lojas ficam em Belo Horizonte: BH Shopping, Castelo, Del Rey, Só Marcas Outlet, Lourdes, Silviano Brandão e Ponteio. É lá que se compra o colchão, com as consultoras do sono, e que se experimenta o box: o site mostra os modelos, mas o botão de compra fica escondido. Travesseiro, cobertor e o resto da loja vêm pelo site."
         ]
@@ -202911,7 +202913,7 @@ const reviewsChunk1: unknown[] = [
         "heading": "Perguntas frequentes",
         "bullets": [
           "A I Wanna Sleep é boa? Para travesseiro, sim: a marca vende dez modelos e informa altura, material e tamanho de cada um, como mostra o capítulo dos travesseiros; melatonina e spray entram só pelo rótulo.",
-          "Qual é o cupom da I Wanna Sleep? É o CECIEMCASA, com 10% OFF em todo o site e em todas as formas de pagamento, acumulando com promoções e com os 5% do Pix à vista; as regras e o passo a passo estão na página do [cupom I Wanna Sleep](/cupons/i-wanna-sleep).",
+          "Qual é o cupom da I Wanna Sleep? É o CECIEMCASA, com 10% OFF em todo o site e em todas as formas de pagamento, acumulando com promoções e com os 5% do Pix à vista, aplicado no campo de cupom do checkout.",
           "A I Wanna Sleep vale a pena? Vale para quem escolhe o travesseiro pela posição e pelo material e compra pelo site com o código da parceria, que dá 10% e soma com o Pix.",
           "O travesseiro I Wanna Sleep é bom? Sim, desde que você escolha a altura para a sua posição de dormir: o Snow se regula em casa, o Látex vem em três alturas fixas e os cervicais têm contorno para quem dorme de costas ou de lado.",
           "A melatonina da I Wanna Sleep é boa? É um suplemento em gotas ou em goma, e o rótulo traz a porção e o modo de uso; quantidade, horário e tempo de uso são conversa com o médico, como diz o capítulo da melatonina.",
@@ -204064,7 +204066,7 @@ const reviewsChunk1: unknown[] = [
       {
         "heading": "Cupom, Pix e frete",
         "paragraphs": [
-          "O código da Let's Eat It é o MAUAD e dá 5% OFF em todo o site, em todas as formas de pagamento, para cliente novo e antigo, somando com as promoções, a pré-venda e o desconto do Pix, que sai em muitos produtos. Ele vai no campo \"Código de desconto\" do checkout, e a linha \"Desconto no pedido\" aparece no resumo antes do pagamento; o frete entra na etapa seguinte. Conta nossa: se o Pix incide sobre o preço que já saiu com o código, os dois juntos tiram 9,75% do preço de lista, não 10%. A loja não publica cupom de primeira compra nem regra de uso por CPF. O passo a passo e as regras estão na página do [cupom Let's Eat It](/cupons/letseatit).",
+          "O código da Let's Eat It é o MAUAD e dá 5% OFF em todo o site, em todas as formas de pagamento, para cliente novo e antigo, somando com as promoções, a pré-venda e o desconto do Pix, que sai em muitos produtos. Ele vai no campo \"Código de desconto\" do checkout, e a linha \"Desconto no pedido\" aparece no resumo antes do pagamento; o frete entra na etapa seguinte. Conta nossa: se o Pix incide sobre o preço que já saiu com o código, os dois juntos tiram 9,75% do preço de lista, não 10%. A loja não publica cupom de primeira compra nem regra de uso por CPF.",
           "O frete é o que mais muda a conta: o valor sai por CEP e peso, simulado na página do produto, e a página de frete não publica frete grátis por valor. Os prazos, depois da confirmação do pagamento, vão de 3 a 5 dias úteis na capital paulista a 7 a 12 dias úteis no Norte e no Nordeste, com prazo maior em período promocional. Presente com data pede a conta de trás para a frente: o prazo de entrega mais a separação. A compra é no [site da Let's Eat It](https://letseatit.com.br/?utm_source=embaixador&utm_medium=emcasacomcecilia&utm_campaign=inbazz&utm_content=organico)."
         ]
       },
@@ -204087,7 +204089,7 @@ const reviewsChunk1: unknown[] = [
         "heading": "Perguntas frequentes",
         "bullets": [
           "A Let's Eat It é confiável? Sim: é uma empresa ativa com matriz e filiais em quatro estados, aparece no localizador oficial da Le Creuset Brasil e garante troca em até 30 dias da entrega.",
-          "Qual é o cupom da Let's Eat It? É o MAUAD, com 5% OFF no site oficial da Let's Eat It, em todas as formas de pagamento, para cliente novo e antigo, e soma com o Pix. Digite no campo \"Código de desconto\" do checkout. As regras estão na página do [cupom Let's Eat It](/cupons/letseatit).",
+          "Qual é o cupom da Let's Eat It? É o MAUAD, com 5% OFF no site oficial da Let's Eat It, em todas as formas de pagamento, para cliente novo e antigo, e soma com o Pix. Digite no campo \"Código de desconto\" do checkout.",
           "A Let's Eat It vende Le Creuset original? A loja está no localizador oficial de lojas da Le Creuset Brasil, com o endereço da filial de Serra (ES); guarde a nota fiscal, que a marca pede para analisar a garantia.",
           "Tem cupom de primeira compra? A loja não publica cupom de boas-vindas; o MAUAD dá 5% no site para cliente novo e antigo.",
           "A Let's Eat It tem loja física? Tem, a Casa Let's, na Avenida Pacaembu, 1105, em São Paulo. O MAUAD vale só no site. Veja o horário e a condição presencial no [guia da loja física](/reviews/lets-eat-it-loja-fisica-endereco).",
@@ -231764,7 +231766,7 @@ const reviewsChunk1: unknown[] = [
       {
         "heading": "Resposta rápida",
         "paragraphs": [
-          "A DAMIE manteve os preços de outubro e acrescentou a massagem como brinde nas reclináveis, em campanha até 27/11. O CECILIA12 dá 12% no site, soma com a promoção e o Pix e deixou a elétrica em suede abaixo dos anúncios da própria marca na Amazon, Magalu e Mercado Livre, antes do frete."
+          "A DAMIE manteve os preços de outubro e acrescentou a massagem como brinde nas reclináveis, em campanha até 27/11. O [cupom DAMIE](/cupons/damie) CECILIA12 dá 12% OFF no site, soma com a promoção e os 10% do Pix e deixou a elétrica em suede abaixo dos anúncios da própria marca na Amazon, Magalu e Mercado Livre, antes do frete."
         ]
       },
       {
@@ -232036,7 +232038,7 @@ const reviewsChunk1: unknown[] = [
         "postParagraphs": [
           "Das outras marcas só temos o preço de novembro, então não dá para dizer que é o menor do ano.",
           "Para quem já queria a massagem, a campanha melhora a compra sem aumentar o preço da poltrona. A loja cobra R$ 550 por esse opcional fora da oferta. Se o recurso não interessa, a escolha continua dependendo do modelo, do preço e do frete. Massagem aqui é conforto: para dor ou recuperação, quem orienta é o médico.",
-          "O CECILIA12 vale no site da DAMIE em todas as formas de pagamento e soma com as promoções, o Pix e o desconto por quantidade. Não acumula com outro cupom nem com o giftback de 15%, que é crédito para uma compra futura. As regras estão na página do [cupom DAMIE](/cupons/damie).",
+          "O CECILIA12 vale no site da DAMIE em todas as formas de pagamento e soma com as promoções, o Pix e o desconto por quantidade. Não acumula com outro cupom nem com o giftback de 15%, que é crédito para uma compra futura.",
           "As ofertas anunciadas vão até 27 de novembro, enquanto houver disponibilidade. Os demais benefícios estão no guia da [Black Friday da DAMIE](/reviews/black-friday-damie)."
         ],
         "links": [
@@ -232424,7 +232426,7 @@ const reviewsChunk1: unknown[] = [
       {
         "heading": "Resposta rápida",
         "paragraphs": [
-          "A entrada entre as elétricas desta seleção é a Matrix Porsche. Nas DAMIE, o CECILIA12 dá 12% no site, e elas têm um ano de garantia e 30 dias de teste em casa. O que decide é o movimento que você vai usar: só reclinar, girar ou ajudar a levantar; os quadros abaixo separam os modelos por função."
+          "A entrada entre as elétricas desta seleção é a Matrix Porsche. Nas DAMIE, o [cupom DAMIE](/cupons/damie) CECILIA12 dá 12% OFF no site, e elas têm um ano de garantia e 30 dias de teste em casa. O que decide é o movimento que você vai usar: só reclinar, girar ou ajudar a levantar; os quadros abaixo separam os modelos por função."
         ]
       },
       {
@@ -232848,7 +232850,7 @@ const reviewsChunk1: unknown[] = [
       {
         "heading": "As DAMIE elétricas, com o código",
         "paragraphs": [
-          "O CECILIA12 dá 12% no site da DAMIE, em todas as formas de pagamento, e soma com as promoções, o Pix e o desconto por quantidade. Ele não soma com outro cupom nem com o giftback de 15%, que é crédito para uma compra futura, e não vale nos anúncios da DAMIE no Mercado Livre. O passo a passo está na página do [cupom DAMIE](/cupons/damie)."
+          "O CECILIA12 dá 12% no site da DAMIE, em todas as formas de pagamento, e soma com as promoções, o Pix e o desconto por quantidade. Ele não soma com outro cupom nem com o giftback de 15%, que é crédito para uma compra futura, e não vale nos anúncios da DAMIE no Mercado Livre."
         ],
         "comparisonTable": {
           "caption": "Reclinável 2.0 elétrica no site oficial, com o CECILIA12, no cartão e antes de frete.",
@@ -233064,7 +233066,7 @@ const reviewsChunk1: unknown[] = [
       {
         "heading": "Resposta rápida",
         "paragraphs": [
-          "Com certeza vale como presente de Natal quando seu pai quer uma reclinável, o mecanismo combina com a rotina dele e há espaço para abri-la em casa. Na DAMIE, o cupom CECILIA12 dá 12% OFF e soma com as promoções. Confira medidas e prazo do CEP abaixo e compre com duas a três semanas de folga."
+          "Com certeza vale como presente de Natal quando seu pai quer uma reclinável, o mecanismo combina com a rotina dele e há espaço para abri-la em casa. Na DAMIE, o [cupom DAMIE](/cupons/damie) CECILIA12 dá 12% OFF e soma com as promoções e os 10% do Pix. Confira medidas e prazo do CEP abaixo e compre com duas a três semanas de folga."
         ]
       },
       {
@@ -233143,7 +233145,7 @@ const reviewsChunk1: unknown[] = [
         },
         "postParagraphs": [
           "Se ele tem dificuldade para se levantar, vale escolher com ele ou com quem o acompanha no dia a dia. A DAMIE indica a base com elevação para idosos; o [guia de poltrona reclinável para idosos](https://damie.emcasacomcecilia.com/guias/poltrona-reclinavel-para-idosos) detalha essa opção. A garantia informada pela DAMIE é de um ano. Os dados da Matrix são os do anúncio.",
-          "O CECILIA12 dá 12% OFF no site da DAMIE, vale em todas as formas de pagamento e soma com promoções, com os 10% do Pix e com o desconto por quantidade. Não acumula com outro cupom nem com o giftback de 15% e não vale no Mercado Livre. As condições estão na página do [cupom DAMIE](/cupons/damie).",
+          "O CECILIA12 dá 12% OFF no site da DAMIE, vale em todas as formas de pagamento e soma com promoções, com os 10% do Pix e com o desconto por quantidade. Não acumula com outro cupom nem com o giftback de 15% e não vale no Mercado Livre.",
           "Para ver mais modelos, consulte [quanto custa uma poltrona do papai elétrica e qual compensa](/reviews/poltrona-do-papai-eletrica-quanto-custa). O guia de [poltrona do papai na Black Friday](/reviews/poltrona-do-papai-black-friday) acompanha os preços, e o [guia da melhor poltrona para o seu pai](https://damie.emcasacomcecilia.com/guias/melhor-poltrona-para-o-seu-pai-dia-dos-pais) explica as diferenças entre as linhas da DAMIE."
         ]
       },
@@ -233259,7 +233261,7 @@ const reviewsChunk1: unknown[] = [
       {
         "heading": "Perguntas frequentes",
         "bullets": [
-          "Qual é o cupom da DAMIE? O cupom da DAMIE da nossa parceria é CECILIA12, com 12% OFF em todo o site oficial, em todas as formas de pagamento. Ele soma com as promoções e não vale no Mercado Livre; veja as condições na [página do cupom DAMIE](/cupons/damie).",
+          "Qual é o cupom da DAMIE? O cupom da DAMIE da nossa parceria é CECILIA12, com 12% OFF em todo o site oficial, em todas as formas de pagamento. Ele soma com as promoções e não vale no Mercado Livre, aplicado no campo de cupom do checkout.",
           "Poltrona do papai é um bom presente de Natal? Sim, quando ele quer esse móvel, vai usá-lo e tem espaço em casa. Se você ainda não sabe a preferência dele, vale descobrir antes de escolher o modelo.",
           "Qual poltrona dar de presente para pai idoso? Se ele procura ajuda para se levantar, veja a base com elevação, que a DAMIE indica para idosos. Confira com ele a altura do assento e a facilidade de usar os comandos.",
           "A poltrona chega antes do Natal? O prazo precisa ser confirmado para o pedido e o CEP da entrega. Compre com duas a três semanas de folga: as referências deste guia ajudam a planejar, mas não garantem a chegada.",
@@ -233907,7 +233909,7 @@ const reviewsChunk1: unknown[] = [
       {
         "heading": "Resposta rápida",
         "paragraphs": [
-          "Se o orçamento permitir e a região for mais fresca, ou a sala climatizada, vá de couro: é o acabamento mais premium da poltrona e pede hidratação e distância do sol. O corino custa menos e foi prático de limpar aqui em casa. Garanta primeiro a base; na DAMIE, o CECILIA12 dá 12% OFF."
+          "Se o orçamento permitir e a região for mais fresca, ou a sala climatizada, vá de couro: é o acabamento mais premium da poltrona e pede hidratação e distância do sol. O corino custa menos e foi prático de limpar aqui em casa. Garanta primeiro a base; na DAMIE, o [cupom DAMIE](/cupons/damie) CECILIA12 dá 12% OFF."
         ]
       },
       {
@@ -234022,7 +234024,7 @@ const reviewsChunk1: unknown[] = [
         "postParagraphs": [
           "Repare na tabela: a manual em couro custa quase o mesmo que a elétrica com giro e balanço em corino, e o funcionamento é outro. Conta nossa, com os preços da tabela: há R$ 36,08 entre essas duas configurações.",
           "Por isso o couro entra depois da base. Se você precisa reclinar no botão ou quer o balanço, garanta isso primeiro e veja se o orçamento ainda alcança o couro. O [guia de preços das poltronas elétricas](/reviews/poltrona-do-papai-eletrica-quanto-custa) detalha as bases.",
-          "O CECILIA12 dá 12% OFF no site da DAMIE, em todas as formas de pagamento, e soma com promoções, com os 10% do Pix e com o desconto por quantidade. Não acumula com outro cupom nem com o giftback de 15%. Não vale no Mercado Livre nem nos anúncios da DAMIE na Magalu. Veja as condições do [cupom DAMIE](/cupons/damie)."
+          "O CECILIA12 dá 12% OFF no site da DAMIE, em todas as formas de pagamento, e soma com promoções, com os 10% do Pix e com o desconto por quantidade. Não acumula com outro cupom nem com o giftback de 15%. Não vale no Mercado Livre nem nos anúncios da DAMIE na Magalu."
         ]
       },
       {
@@ -234188,7 +234190,7 @@ const reviewsChunk1: unknown[] = [
       {
         "heading": "Perguntas frequentes",
         "bullets": [
-          "Qual é o cupom da DAMIE? O cupom da DAMIE da nossa parceria é CECILIA12, com 12% OFF em todo o site oficial, em todas as formas de pagamento. Vale no couro e no corino, mas não nos anúncios da marca no Mercado Livre nem na Magalu; veja as condições na [página do cupom DAMIE](/cupons/damie).",
+          "Qual é o cupom da DAMIE? O cupom da DAMIE da nossa parceria é CECILIA12, com 12% OFF em todo o site oficial, em todas as formas de pagamento. Vale no couro e no corino, mas não nos anúncios da marca no Mercado Livre nem na Magalu, aplicado no campo de cupom do checkout.",
           "Corino ou couro: qual dura mais? Não temos uma comparação de vida útil dessas poltronas. O couro marca e resseca sem cuidado; no corino, a película pode esfolar ou descascar. O uso e a manutenção pesam mais que o nome do material.",
           "Corino descasca com o tempo? Pode, principalmente com atrito, calor e sol. Na nossa poltrona, esfolou no ponto que encostava na janela. Deixe folga atrás e nas laterais.",
           "Precisa hidratar poltrona de couro? Na DAMIE, sim: a orientação oficial é usar hidratante específico para couro, no intervalo da tabela de limpeza. Em outra marca, siga o que ela manda para o acabamento dela.",
@@ -240284,14 +240286,14 @@ const reviewsChunk1: unknown[] = [
       {
         "heading": "Resposta rápida",
         "paragraphs": [
-          "Para a primeira compra na DAMIE, use CECILIA12: 12% OFF em todos os produtos do site, com todas as formas de pagamento. Soma com o desconto do Pix e com as promoções do site, e vale de novo para quem já comprou. Só não soma com outro cupom nem vale no Mercado Livre; a conta do Pix está abaixo."
+          "Para a primeira compra na DAMIE, use o [cupom DAMIE](/cupons/damie) CECILIA12: 12% OFF em todos os produtos do site, com todas as formas de pagamento. Soma com os 10% do Pix e com as promoções do site, e vale de novo para quem já comprou. Só não soma com outro cupom nem vale no Mercado Livre; a conta do Pix está abaixo."
         ]
       },
       {
         "heading": "Cupom DAMIE primeira compra: qual usar",
         "paragraphs": [
           "O cupom para a primeira compra na DAMIE é o CECILIA12: 12% de desconto em todos os produtos do site, da poltrona reclinável ao sofá modular, sem restrição de categoria ou de modelo.",
-          "Ele é o código da parceria da Cecília com a marca, o mesmo [cupom DAMIE](/cupons/damie) que conferimos no carrinho. Código achado em site de cupom pode estar vencido. Se o desconto não aparecer no resumo do pedido, apague o que você digitou e use o CECILIA12 antes de pagar."
+          "Ele é o código da parceria da Cecília com a marca, conferido no carrinho. Código achado em site de cupom pode estar vencido. Se o desconto não aparecer no resumo do pedido, apague o que você digitou e use o CECILIA12 antes de pagar."
         ]
       },
       {
@@ -242966,7 +242968,7 @@ const reviewsChunk1: unknown[] = [
       {
         "heading": "Resposta rápida",
         "paragraphs": [
-          "Para a primeira compra na Let's Eat It, use MAUAD: 5% OFF no site oficial, com todas as formas de pagamento. O código soma com as promoções, entra em item em pré-venda e vale de novo para quem já comprou. Ele vai no checkout, no campo “Código de desconto”, e não vale no Mercado Livre."
+          "Para a primeira compra na Let's Eat It, use o [cupom Let's Eat It](/cupons/letseatit) MAUAD: 5% OFF no site oficial, com todas as formas de pagamento. O código soma com as promoções, os 5% do Pix e itens em pré-venda, e vale de novo para quem já comprou. Ele vai no checkout, no campo “Código de desconto”, e não vale no Mercado Livre."
         ]
       },
       {
@@ -242974,7 +242976,7 @@ const reviewsChunk1: unknown[] = [
         "paragraphs": [
           "A Let's Eat It vende panelas, louças e utensílios de cozinha no [site oficial](https://letseatit.com.br/?utm_source=embaixador&utm_medium=emcasacomcecilia&utm_campaign=inbazz&utm_content=organico). Para o primeiro pedido, a regra é uma só.",
           "Use o MAUAD: 5% OFF nas compras no site oficial, no primeiro pedido e nos seguintes, em todas as formas de pagamento. Ele soma com as promoções do site. Serve para completar a mesa ou escolher um presente no pedido seguinte.",
-          "É o [cupom Let's Eat It](/cupons/letseatit) da nossa parceria com a loja, testado no checkout. Panela, louça ou presente: o código é o mesmo."
+          "É o código da nossa parceria com a loja, testado no checkout. Panela, louça ou presente: o código é o mesmo."
         ]
       },
       {
@@ -243071,7 +243073,7 @@ const reviewsChunk1: unknown[] = [
       {
         "heading": "Perguntas frequentes",
         "bullets": [
-          "Qual é o cupom da Let's Eat It? É o MAUAD, com 5% OFF no site oficial da Let's Eat It, em todas as formas de pagamento, no primeiro pedido e nos seguintes. Cole no campo “Código de desconto” do checkout. Veja o [cupom Let's Eat It](/cupons/letseatit).",
+          "Qual é o cupom da Let's Eat It? É o MAUAD, com 5% OFF no site oficial da Let's Eat It, em todas as formas de pagamento, no primeiro pedido e nos seguintes. Cole no campo “Código de desconto” do checkout.",
           "Como conseguir desconto na primeira compra na Let's Eat It? Aplique o MAUAD no resumo do pedido, antes de pagar.",
           "Qual cupom Let's Eat It vale para quem já é cliente? O mesmo MAUAD, com os mesmos 5%.",
           "O cupom Let's Eat It soma com produto em promoção? Sim. Os 5% entram sobre o preço promocional.",
@@ -243095,7 +243097,7 @@ const reviewsChunk1: unknown[] = [
     "id": 927,
     "slug": "cupom-i-wanna-sleep-primeira-compra",
     "title": "Cupom I Wanna Sleep primeira compra: CECIEMCASA dá 10% OFF e vale nas compras seguintes",
-    "seoTitle": "Cupom I Wanna Sleep primeira compra: 10% com CECIEMCASA",
+    "seoTitle": "Cupom I Wanna Sleep 1ª compra: CECIEMCASA dá 10% OFF",
     "type": "Guia & Cupons",
     "category": "cupons-como-usar",
     "reviewKind": "guia",
@@ -243143,7 +243145,7 @@ const reviewsChunk1: unknown[] = [
       {
         "heading": "Resposta rápida",
         "paragraphs": [
-          "Para a primeira compra na I Wanna Sleep, use CECIEMCASA: 10% OFF em todo o site oficial, com todas as formas de pagamento. O código soma com as promoções da loja e com o desconto do Pix, e vale de novo para quem já comprou. Ele vai no checkout, em “Adicionar cupom de desconto”."
+          "Para a primeira compra na I Wanna Sleep, use o [cupom I Wanna Sleep](/cupons/i-wanna-sleep) CECIEMCASA: 10% OFF em todo o site oficial, com todas as formas de pagamento. O código soma com as promoções da loja e com os 5% do Pix, e vale de novo para quem já comprou. Ele vai no checkout, em “Adicionar cupom de desconto”."
         ]
       },
       {
@@ -243151,7 +243153,7 @@ const reviewsChunk1: unknown[] = [
         "paragraphs": [
           "A I Wanna Sleep vende [travesseiros](https://www.iwannasleep.com.br/products/travesseiro-snow), [cobertores](https://www.iwannasleep.com.br/products/cobertor-iws-igloo) e acessórios para o quarto, como a [fronha Bao Bao](https://www.iwannasleep.com.br/products/fronha-bao-bao-1). A compra é toda pelo site oficial.",
           "Use o CECIEMCASA: 10% OFF em todos os produtos do site oficial, com todas as formas de pagamento. Ele vale no primeiro pedido e nos seguintes.",
-          "É o [cupom I Wanna Sleep](/cupons/i-wanna-sleep) da nossa parceria com a marca, testado no carrinho. Travesseiro, cobertor ou acessório: o código é o mesmo."
+          "É o código da nossa parceria com a marca, testado no carrinho. Travesseiro, cobertor ou acessório: o código é o mesmo."
         ]
       },
       {
@@ -251249,7 +251251,7 @@ const reviewsChunk1: unknown[] = [
       {
         "heading": "Resposta rápida",
         "paragraphs": [
-          "Quer pagar menos no total? Faça a conta no site da DAMIE: o cupom CECILIA12 dá 12% e soma com os 10% do Pix, e o frete é grátis no Sul e no Sudeste. O Mercado Livre compensa para parcelar em mais vezes, para receber no Norte e no Nordeste e para os modelos que o site não vende."
+          "Quer pagar menos no total? Faça a conta no site da DAMIE: o [cupom DAMIE](/cupons/damie) CECILIA12 dá 12% OFF e soma com os 10% do Pix, e o frete é grátis no Sul e no Sudeste. O Mercado Livre compensa para parcelar em mais vezes, para receber no Norte e no Nordeste e para os modelos que o site não vende."
         ]
       },
       {
@@ -251364,7 +251366,7 @@ const reviewsChunk1: unknown[] = [
       {
         "heading": "O que considerar no site oficial",
         "paragraphs": [
-          "Além do preço com o CECILIA12, o site tem o configurador: você escolhe entre suede, bouclé, linho, corino importado e couro bovino, a cor e os opcionais de cada modelo. As regras do código estão na página do [cupom DAMIE](/cupons/damie).",
+          "Além do preço com o CECILIA12, o site tem o configurador: você escolhe entre suede, bouclé, linho, corino importado e couro bovino, a cor e os opcionais de cada modelo.",
           "A Reclinável 2.0, que a Cecília recebeu e avaliou no [teste da 2.0](/reviews/poltrona-damie-e-boa), a elétrica com elevação e a Levita também estão no site. A Levita tem anúncio no [Mercado Livre](https://meli.la/1FwHe2p), em couro bovino."
         ]
       },
@@ -251475,7 +251477,7 @@ const reviewsChunk1: unknown[] = [
       {
         "heading": "Resposta rápida",
         "paragraphs": [
-          "No Mercado Livre, a DAMIE oferece manuais com giro e balanço, como Colton e Imperial, além da Eames elétrica. A diferença das manuais para o catálogo do site é combinar os três movimentos sem motor; a Eames se destaca pelo desenho. O CECILIA12 dá 12% somente no site oficial."
+          "No Mercado Livre, a DAMIE oferece manuais com giro e balanço, como Colton e Imperial, além da Eames elétrica. A diferença das manuais para o catálogo do site é combinar os três movimentos sem motor; a Eames se destaca pelo desenho. O [cupom DAMIE](/cupons/damie) CECILIA12 dá 12% OFF somente no site oficial."
         ]
       },
       {
@@ -251669,7 +251671,7 @@ const reviewsChunk1: unknown[] = [
         "heading": "Preço final e cupom",
         "paragraphs": [
           "Os valores deste guia são os totais parcelados dos anúncios selecionados. Antes de comprar, confira a cor, o revestimento, o frete e as condições de pagamento disponíveis para você.",
-          "O CECILIA12 dá 12% no site oficial, em todas as formas de pagamento, e soma com as promoções e com os 10% do Pix. Ele não se aplica aos anúncios do Mercado Livre. As regras estão na página do [cupom DAMIE](/cupons/damie).",
+          "O CECILIA12 dá 12% no site oficial, em todas as formas de pagamento, e soma com as promoções e com os 10% do Pix. Ele não se aplica aos anúncios do Mercado Livre.",
           "Se você também considera uma poltrona do site, o [comparativo entre site e Mercado Livre](/reviews/damie-mercado-livre-ou-site) ajuda a avaliar os canais."
         ]
       },
@@ -251772,7 +251774,7 @@ const reviewsChunk1: unknown[] = [
       {
         "heading": "Resposta rápida",
         "paragraphs": [
-          "O prazo da DAMIE depende do endereço e do canal de compra. No site, a contagem começa após a confirmação do pagamento: consulte a página do produto ou o carrinho e, se não houver previsão, fale com o atendimento. No Mercado Livre, informe o seu CEP no anúncio para ver a data estimada."
+          "O prazo da DAMIE depende do endereço e do canal de compra. No site, a contagem começa após a confirmação do pagamento: consulte a página do produto ou o carrinho e, se não houver previsão, fale com o atendimento. No Mercado Livre, informe o seu CEP no anúncio para ver a data estimada. No site oficial, o [cupom DAMIE](/cupons/damie) CECILIA12 dá 12% OFF."
         ]
       },
       {
@@ -251812,7 +251814,7 @@ const reviewsChunk1: unknown[] = [
         "heading": "Quanto custa o frete no site",
         "paragraphs": [
           "O frete é grátis em poltronas e sofás com entrega no Sul e no Sudeste. No Centro-Oeste, ele é calculado pelo CEP no carrinho. O valor considera o tamanho e o peso do produto e a distância.",
-          "O CECILIA12 dá 12% no site e soma com o desconto do Pix; as regras estão na página do [cupom DAMIE](/cupons/damie)."
+          "O CECILIA12 dá 12% OFF no site e soma com os 10% do Pix."
         ],
         "links": [
           {
@@ -252006,7 +252008,7 @@ const reviewsChunk1: unknown[] = [
       {
         "heading": "Resposta rápida",
         "paragraphs": [
-          "Para comprar DAMIE no Norte ou no Nordeste, a marca orienta usar os anúncios oficiais dela no Mercado Livre. Escolha o modelo e informe o seu CEP no anúncio para ver se há entrega, o frete e a previsão. O cupom CECILIA12 vale só no site, então nessa compra conta o preço do anúncio."
+          "Para comprar DAMIE no Norte ou no Nordeste, a marca orienta usar os anúncios oficiais dela no Mercado Livre. Escolha o modelo e informe o seu CEP no anúncio para ver se há entrega, o frete e a previsão. O [cupom DAMIE](/cupons/damie) CECILIA12 (12% OFF) vale só no site, então nessa compra conta o preço do anúncio."
         ]
       },
       {
@@ -252184,7 +252186,7 @@ const reviewsChunk1: unknown[] = [
         "heading": "Vale comprar a DAMIE pelo Mercado Livre no Norte e no Nordeste?",
         "emphasis": "Se eu morasse no Norte ou no Nordeste, eu abriria o anúncio da DAMIE no Mercado Livre com o meu CEP antes de escolher a cor, e só pagaria com o frete e a previsão na tela. Eu compararia o total da poltrona mais a entrega, não só o preço do anúncio.",
         "paragraphs": [
-          "O CECILIA12 dá 12% no site oficial da DAMIE e não vale no Mercado Livre. As regras do código estão na página do [cupom DAMIE](/cupons/damie), e a comparação entre os dois canais, no guia [site oficial ou Mercado Livre](/reviews/damie-mercado-livre-ou-site)."
+          "O CECILIA12 dá 12% OFF no site oficial da DAMIE e não vale no Mercado Livre; a comparação entre os dois canais está no guia [site oficial ou Mercado Livre](/reviews/damie-mercado-livre-ou-site)."
         ],
         "links": [
           {
@@ -285708,7 +285710,7 @@ const reviewsChunk2: unknown[] = [
     "coupon": "EMCASACOMCECILIA",
     "affiliate": "colaedecora",
     "title": "Cupom Cola e Decora: como aplicar o EMCASACOMCECILIA no carrinho e com o que ele soma",
-    "seoTitle": "Como usar o cupom EMCASACOMCECILIA na Cola e Decora",
+    "seoTitle": "Como usar o cupom Cola e Decora: EMCASACOMCECILIA 10%",
     "type": "Guia & Cupons",
     "description": "Veja onde aplicar o EMCASACOMCECILIA na Cola e Decora, quanto ele descontou num quadro e numa prateleira em oferta e como conferir o frete e o prazo pelo CEP.",
     "metaDescription": "O cupom EMCASACOMCECILIA dá 10% OFF na Cola e Decora, para cliente novo e antigo. Veja onde aplicar no carrinho, a conta do teste e o frete grátis.",
@@ -285736,13 +285738,13 @@ const reviewsChunk2: unknown[] = [
       {
         "heading": "Resposta rápida",
         "paragraphs": [
-          "Use EMCASACOMCECILIA para ter 10% OFF no site da Cola e Decora, na primeira compra ou como cliente antigo. Clique em “Comprar”, abra “Tem um cupom?” no carrinho lateral e aplique o código. No nosso teste, ele entrou sobre o preço de oferta de um quadro e de uma prateleira."
+          "Use o [cupom Cola e Decora](/cupons/colaedecora) EMCASACOMCECILIA para ter 10% OFF no site oficial, na primeira compra ou como cliente antigo. Clique em “Comprar”, abra “Tem um cupom?” no carrinho lateral e aplique o código. No nosso teste, ele entrou sobre o preço de oferta de um quadro e de uma prateleira."
         ]
       },
       {
         "heading": "Onde aplicar o cupom na Cola e Decora",
         "paragraphs": [
-          "Copie EMCASACOMCECILIA na página do [cupom Cola e Decora](/cupons/colaedecora). O campo que usamos fica no carrinho lateral, antes de avançar para o pagamento."
+          "Deixe o código EMCASACOMCECILIA à mão: o campo que usamos fica no carrinho lateral, antes de avançar para o pagamento."
         ],
         "bullets": [
           "Na página do produto, clique em “Comprar”. O carrinho abre na lateral da tela.",
@@ -285913,7 +285915,7 @@ const reviewsChunk2: unknown[] = [
       {
         "heading": "Resposta rápida",
         "paragraphs": [
-          "Nas Ofertas da Live da Cola e Decora, o cupom EMCASACOMCECILIA deu mais 10% de desconto sobre um quadro e uma prateleira que já estavam em oferta. O código vale para cliente novo e antigo e entra no carrinho, antes do checkout. No Pix, o valor continua o do carrinho com o cupom, sem um segundo desconto."
+          "Nas Ofertas da Live da Cola e Decora, o [cupom Cola e Decora](/cupons/colaedecora) EMCASACOMCECILIA deu mais 10% OFF sobre um quadro e uma prateleira que já estavam em oferta. O código vale para cliente novo e antigo e entra no carrinho, antes do checkout. No Pix, o valor continua o do carrinho com o cupom, sem um segundo desconto."
         ]
       },
       {
@@ -286066,7 +286068,7 @@ const reviewsChunk2: unknown[] = [
         "heading": "O cupom soma com as ofertas?",
         "paragraphs": [
           "No nosso teste de 19/11, somou. O [quadro Oração Santo Anjo](https://www.lojacolaedecora.com.br/quadro-infantil-oracao-santo-anjo) e a [prateleira Theo](https://www.lojacolaedecora.com.br/prateleira-de-livros-50cm-rosa), ambos com preço de campanha, somavam R$ 139,80. O EMCASACOMCECILIA tirou R$ 13,98, e o total dos produtos foi para R$ 125,82, antes do frete.",
-          "O código vale para cliente novo e antigo. No pagamento por Pix, o valor continua o do carrinho com o cupom, sem um segundo desconto: cinco cadeiras Theo, que somavam R$ 799,50, ficaram em R$ 719,55 no Pix. A condição completa do código está na página do [cupom Cola e Decora](/cupons/colaedecora)."
+          "O código vale para cliente novo e antigo. No pagamento por Pix, o valor continua o do carrinho com o cupom, sem um segundo desconto: cinco cadeiras Theo, que somavam R$ 799,50, ficaram em R$ 719,55 no Pix."
         ],
         "images": [
           {
@@ -286171,7 +286173,7 @@ const reviewsChunk2: unknown[] = [
       {
         "heading": "Resposta rápida",
         "paragraphs": [
-          "Se você já tem colchão de solteiro de 88 × 188 cm, seis camas da Cola e Decora usam essa medida. A Baixa e a Bella têm as mesmas dimensões externas e mudam no material, e a Nina tem barras laterais ajustáveis. Para colchão de casal de 138 × 188 cm, veja o Cercadinho Casal."
+          "Se você já tem colchão de solteiro de 88 × 188 cm, seis camas da Cola e Decora usam essa medida. A Baixa e a Bella têm as mesmas dimensões externas e mudam no material, e a Nina tem barras laterais ajustáveis. Para colchão de casal de 138 × 188 cm, veja o Cercadinho Casal. No site oficial, o [cupom Cola e Decora](/cupons/colaedecora) EMCASACOMCECILIA dá 10% OFF."
         ]
       },
       {
@@ -286376,7 +286378,7 @@ const reviewsChunk2: unknown[] = [
           ]
         },
         "postParagraphs": [
-          "O [cupom Cola e Decora](/cupons/colaedecora) EMCASACOMCECILIA dá 10% OFF no site oficial. O [passo a passo no carrinho](/reviews/cupom-colaedecora-como-usar) mostra onde digitar o código."
+          "O cupom EMCASACOMCECILIA dá 10% OFF no site oficial. O [passo a passo no carrinho](/reviews/cupom-colaedecora-como-usar) mostra onde digitar o código."
         ]
       },
       {
@@ -286473,7 +286475,7 @@ const reviewsChunk2: unknown[] = [
       {
         "heading": "Resposta rápida",
         "paragraphs": [
-          "A Cola e Decora identifica no site a empresa responsável, com CNPJ e endereço em Gaspar (SC). No Reclame Aqui, teve reputação Boa e nota 7,1 de maio a outubro de 2026, e o atraso na entrega é a queixa mais citada. Quem tem data para montar o quarto deve confirmar o prazo pelo CEP."
+          "A Cola e Decora identifica no site a empresa responsável, com CNPJ e endereço em Gaspar (SC). No Reclame Aqui, teve reputação Boa e nota 7,1 de maio a outubro de 2026, e o atraso na entrega é a queixa mais citada. Quem tem data para montar o quarto deve confirmar o prazo pelo CEP. No site oficial, o [cupom Cola e Decora](/cupons/colaedecora) EMCASACOMCECILIA dá 10% OFF."
         ]
       },
       {
@@ -286533,7 +286535,7 @@ const reviewsChunk2: unknown[] = [
           "[Quadro Infantil Oração Santo Anjo](https://www.lojacolaedecora.com.br/quadro-infantil-oracao-santo-anjo)"
         ],
         "postParagraphs": [
-          "O [cupom Cola e Decora](/cupons/colaedecora) EMCASACOMCECILIA dá 10% OFF no site oficial, tanto na primeira compra quanto nas seguintes. O passo a passo da [primeira compra](/reviews/cupom-colaedecora-primeira-compra) e o de [como usar o código no carrinho](/reviews/cupom-colaedecora-como-usar) mostram o desconto aplicado, e as [Ofertas da Live da Cola e Decora](/reviews/black-friday-colaedecora) reúnem preços de prateleiras, mesas e camas."
+          "O cupom EMCASACOMCECILIA dá 10% OFF no site oficial, tanto na primeira compra quanto nas seguintes. O passo a passo da [primeira compra](/reviews/cupom-colaedecora-primeira-compra) e o de [como usar o código no carrinho](/reviews/cupom-colaedecora-como-usar) mostram o desconto aplicado, e as [Ofertas da Live da Cola e Decora](/reviews/black-friday-colaedecora) reúnem preços de prateleiras, mesas e camas."
         ],
         "images": [
           {
@@ -286612,7 +286614,7 @@ const reviewsChunk2: unknown[] = [
       {
         "heading": "Resposta rápida",
         "paragraphs": [
-          "A Cola e Decora tem reputação Boa e nota 7,1 no Reclame Aqui no semestre de maio a outubro. A loja respondeu 84,9% das reclamações e, entre as avaliadas, 88,9% aparecem como resolvidas, mas a resposta leva em média 18 dias e 17 horas. O cupom é EMCASACOMCECILIA, com 10% OFF."
+          "A Cola e Decora tem reputação Boa e nota 7,1 no Reclame Aqui no semestre de maio a outubro. A loja respondeu 84,9% das reclamações e, entre as avaliadas, 88,9% aparecem como resolvidas, mas a resposta leva em média 18 dias e 17 horas. O [cupom Cola e Decora](/cupons/colaedecora) é o EMCASACOMCECILIA, com 10% OFF."
         ]
       },
       {
@@ -286722,7 +286724,7 @@ const reviewsChunk2: unknown[] = [
         "heading": "Vale a pena comprar na Cola e Decora?",
         "paragraphs": [
           "De um lado, a loja tem 5 anos de perfil e, no semestre, reputação Boa, 84,9% das reclamações respondidas e 88,9% de solução entre as avaliadas. Do outro, no mesmo semestre a resposta é lenta e só 44,4% de quem avaliou voltaria a fazer negócio. Na aba Geral, que soma até três anos, o atraso na entrega lidera as queixas.",
-          "Para móvel de quarto infantil, o caminho é simular o prazo pelo CEP e guardar a previsão. Se decidir comprar, o [cupom Cola e Decora](/cupons/colaedecora) EMCASACOMCECILIA dá 10% OFF no site oficial, e o passo a passo está em [como usar o cupom da Cola e Decora](/reviews/cupom-colaedecora-como-usar)."
+          "Para móvel de quarto infantil, o caminho é simular o prazo pelo CEP e guardar a previsão. Se decidir comprar, o cupom EMCASACOMCECILIA dá 10% OFF no site oficial, e o passo a passo está em [como usar o cupom da Cola e Decora](/reviews/cupom-colaedecora-como-usar)."
         ]
       },
       {
@@ -286732,7 +286734,7 @@ const reviewsChunk2: unknown[] = [
           "A Cola e Decora tem selo RA1000 ou Empresa Verificada? Não. O perfil mostra reputação Boa, sem esses selos.",
           "A Cola e Decora responde e resolve as reclamações? Respondeu 84,9% das 53 do semestre, em média em 18 dias e 17 horas. Entre as reclamações finalizadas e avaliadas, 88,9% aparecem como resolvidas.",
           "A Cola e Decora atrasa a entrega? Atraso na entrega é o problema mais citado na aba Geral do Reclame Aqui. Simule o prazo pelo CEP e guarde a previsão.",
-          "Existe cupom para a Cola e Decora? Sim, o [cupom Cola e Decora](/cupons/colaedecora) EMCASACOMCECILIA dá 10% OFF no site oficial, para cliente novo e antigo."
+          "Existe cupom para a Cola e Decora? Sim, o cupom EMCASACOMCECILIA dá 10% OFF no site oficial, para cliente novo e antigo, aplicado em “Tem um cupom?” no carrinho lateral."
         ]
       }
     ]
@@ -286789,13 +286791,13 @@ const reviewsChunk2: unknown[] = [
       {
         "heading": "Resposta rápida",
         "paragraphs": [
-          "O EMCASACOMCECILIA dá 10% OFF já no primeiro pedido da Cola e Decora e continua valendo nos seguintes. Você aplica o código no carrinho lateral, em “Tem um cupom?”, e o desconto aparece no subtotal antes de pagar. A página do [cupom Cola e Decora](/cupons/colaedecora) traz o código para copiar."
+          "O [cupom Cola e Decora](/cupons/colaedecora) EMCASACOMCECILIA dá 10% OFF já no primeiro pedido no site oficial e continua valendo nos seguintes, somando com ofertas. Você aplica o código no carrinho lateral, em “Tem um cupom?”, e o desconto aparece no subtotal antes de pagar."
         ]
       },
       {
         "heading": "Como aplicar o código no carrinho",
         "paragraphs": [
-          "O EMCASACOMCECILIA não tem regra de primeira compra: vale para cliente novo e para quem já comprou, e entra no carrinho antes do login. Copie o código na página do [cupom Cola e Decora](/cupons/colaedecora) e siga o caminho abaixo no site oficial."
+          "O EMCASACOMCECILIA não tem regra de primeira compra: vale para cliente novo e para quem já comprou, e entra no carrinho antes do login. Siga o caminho abaixo no site oficial."
         ],
         "bullets": [
           "Abra o produto e clique em “Comprar”: o carrinho abre ao lado.",
@@ -309301,14 +309303,14 @@ const reviewsChunk2: unknown[] = [
       {
         "heading": "Cupom MAUAD e como conferir a compra",
         "paragraphs": [
-          "O [cupom Let's Eat It](/cupons/letseatit), MAUAD, dá 5% OFF no checkout, em todas as formas de pagamento, e soma com o Pix nas peças que têm desconto nessa forma de pagamento. Confira no carrinho como os dois descontos aparecem antes de pagar. Cole o código no campo \"Código de desconto\" do checkout.",
+          "O cupom MAUAD dá 5% OFF no checkout, em todas as formas de pagamento, e soma com o Pix nas peças que têm desconto nessa forma de pagamento. Confira no carrinho como os dois descontos aparecem antes de pagar. Cole o código no campo \"Código de desconto\" do checkout.",
           "O estoque muda em poucos dias, e o envio a partir de cerca de 15 dias não é data de entrega: confira o prazo do seu CEP no carrinho antes de pagar."
         ]
       },
       {
         "heading": "Perguntas frequentes",
         "bullets": [
-          "Qual é o cupom da Let's Eat It? É o MAUAD, com 5% OFF no site oficial da Let's Eat It, em todas as formas de pagamento. Cole no campo \"Código de desconto\" do checkout; as condições estão no [cupom Let's Eat It](/cupons/letseatit).",
+          "Qual é o cupom da Let's Eat It? É o MAUAD, com 5% OFF no site oficial da Let's Eat It, em todas as formas de pagamento. Cole no campo \"Código de desconto\" do checkout.",
           "Existe aparelho de jantar Porto Brasil de 20 peças? Na consulta à Let's Eat It, encontramos os de 30 peças da Porto Brasil. O conjunto menor, de 16 peças, estava esgotado.",
           "Aparelho de jantar de 30 peças serve quantas pessoas? No Porto Brasil do guia, são seis lugares. Cada pessoa tem prato raso, de sobremesa e fundo, mais xícara de café e pires.",
           "Aparelho de jantar de 16 peças serve quantas pessoas? O conjunto de 16 peças citado no guia serve quatro pessoas, com prato raso, prato de sobremesa, cumbuca e caneca por lugar.",
@@ -309588,14 +309590,14 @@ const reviewsChunk2: unknown[] = [
       {
         "heading": "Cupom e Pix",
         "paragraphs": [
-          "No site da Let's Eat It, o cupom MAUAD dá 5% OFF no checkout, vale em todas as formas de pagamento e soma com o Pix nas peças que têm desconto nessa forma de pagamento. As condições estão na página do [cupom Let's Eat It](/cupons/letseatit). Cole o código no campo \"Código de desconto\" do checkout.",
+          "No site da Let's Eat It, o cupom MAUAD dá 5% OFF no checkout, vale em todas as formas de pagamento e soma com o Pix nas peças que têm desconto nessa forma de pagamento. Cole o código no campo \"Código de desconto\" do checkout.",
           "Conta nossa, com 5% sobre o preço do dia: o Viena de 54 peças, de R$ 519,00, ficaria em R$ 493,05, e o Firenze de 24 peças, de R$ 239,00, em R$ 227,05. O valor final aparece no carrinho."
         ]
       },
       {
         "heading": "Perguntas frequentes",
         "bullets": [
-          "Qual é o cupom da Let's Eat It? É o MAUAD, com 5% OFF no site oficial da Let's Eat It, em todas as formas de pagamento. Cole no campo \"Código de desconto\" do checkout; as condições estão no [cupom Let's Eat It](/cupons/letseatit).",
+          "Qual é o cupom da Let's Eat It? É o MAUAD, com 5% OFF no site oficial da Let's Eat It, em todas as formas de pagamento. Cole no campo \"Código de desconto\" do checkout.",
           "O faqueiro Wolff de 54 peças serve quantas pessoas? A ficha traz 8 facas, 8 garfos e 8 colheres de mesa, 8 colheres e 8 garfos de sobremesa e 8 colheres de chá ou café. Pela conta de talheres, são oito pessoas.",
           "O faqueiro Wolff de 101 peças serve quantas pessoas? A ficha traz 12 de cada talher de mesa, de sobremesa, de chá e de café. Pela conta de talheres, são doze pessoas, e o Berna diz que vem pronto para servir até 12.",
           "Existe faqueiro Wolff de 130 peças à venda? Sim, o Avalon Dourado. Os outros de 130 da Wolff estão esgotados.",
@@ -309925,7 +309927,7 @@ const reviewsChunk2: unknown[] = [
       {
         "heading": "Cupom MAUAD e o prazo de chegada",
         "paragraphs": [
-          "O cupom MAUAD dá 5% de desconto no site da Let's Eat It. Ele vale em todas as formas de pagamento e soma com o Pix nas peças que têm desconto nessa forma de pagamento. Cole o código no campo \"Código de desconto\" do checkout e confira como os dois aparecem. As condições estão na página do [cupom Let's Eat It](/cupons/letseatit), e o passo a passo para aplicar está em [como usar o cupom MAUAD](/reviews/cupom-mauad-lets-eat-it-como-usar).",
+          "O cupom MAUAD dá 5% de desconto no site da Let's Eat It. Ele vale em todas as formas de pagamento e soma com o Pix nas peças que têm desconto nessa forma de pagamento. Cole o código no campo \"Código de desconto\" do checkout e confira como os dois aparecem. O passo a passo para aplicar está em [como usar o cupom MAUAD](/reviews/cupom-mauad-lets-eat-it-como-usar).",
           "Os 5% são sobre o subtotal, sem o frete, que é calculado pelo CEP. Itens em pré-venda, como o jogo de sobremesa Donatella, têm prazo de envio próprio. Para a mesa chegar antes da virada, confira o prazo do seu CEP no checkout antes de pagar e feche o pedido com folga."
         ]
       },
@@ -309957,7 +309959,7 @@ const reviewsChunk2: unknown[] = [
       {
         "heading": "Perguntas frequentes",
         "bullets": [
-          "Qual é o cupom da Let's Eat It? É o MAUAD, com 5% OFF no site oficial da Let's Eat It, em todas as formas de pagamento. Cole o código no campo \"Código de desconto\" do checkout; as condições estão na página do [cupom Let's Eat It](/cupons/letseatit).",
+          "Qual é o cupom da Let's Eat It? É o MAUAD, com 5% OFF no site oficial da Let's Eat It, em todas as formas de pagamento. Cole o código no campo \"Código de desconto\" do checkout.",
           "A Let's Eat It tem mesa posta de Ano Novo? Não há coleção de Ano Novo na loja. As três faixas são montagens nossas, com peças em dourado, bege, off white e verde.",
           "Dá para montar mesa branca e dourada? Em parte. Os pratos Donatella da faixa 2 têm fundo branco e filete dourado, mas a borda traz riscos verdes, e a loja não tem hoje aparelho branco liso de seis lugares. O off white mais perto do liso está nos pratos de sobremesa da faixa 1.",
           "Precisa de seis pratos de sobremesa? Um por pessoa é a conta de seis lugares. As faixas 1 e 3 trazem; a 2 não, e a sobremesa pode vir em taça ou no prato fundo.",
@@ -310262,7 +310264,7 @@ const reviewsChunk2: unknown[] = [
       {
         "heading": "Onde comprar e o cupom",
         "paragraphs": [
-          "A Le Creuset está na Let's Eat It, e as condições estão na página do [cupom Let's Eat It](/cupons/letseatit). O código MAUAD dá 5% OFF no checkout, em todas as formas de pagamento, e soma com o Pix nas peças que têm desconto nessa forma de pagamento. Cole o código no campo \"Código de desconto\".",
+          "A Le Creuset está no catálogo oficial da Let's Eat It. O código MAUAD dá 5% OFF no checkout, em todas as formas de pagamento, e soma com o Pix nas peças que têm desconto nessa forma de pagamento. Cole o código no campo \"Código de desconto\".",
           "Conta nossa, 5% sobre o preço do dia e sem frete: a [retangular Heritage branca de 26 cm](https://letseatit.com.br/products/travessa-retangular-ceramica-heritage-branca-26cm-le-creuset?utm_source=embaixador&utm_medium=emcasacomcecilia&utm_campaign=inbazz&utm_content=organico), de R$ 529, sai por R$ 502,55 com o cupom.",
           "Para escolher panela redonda por litros, veja [Le Creuset 20 ou 24 cm](/reviews/le-creuset-qual-tamanho-escolher). Para conferir se a peça é original e onde comprar, leia [Le Creuset original: como saber](/reviews/le-creuset-original-como-saber)."
         ],
@@ -310281,7 +310283,7 @@ const reviewsChunk2: unknown[] = [
       {
         "heading": "Perguntas frequentes",
         "bullets": [
-          "Qual é o cupom da Let's Eat It? É o MAUAD, com 5% OFF no site oficial da Let's Eat It, em todas as formas de pagamento. Cole o código no campo \"Código de desconto\" do checkout; as condições estão na página do [cupom Let's Eat It](/cupons/letseatit).",
+          "Qual é o cupom da Let's Eat It? É o MAUAD, com 5% OFF no site oficial da Let's Eat It, em todas as formas de pagamento. Cole o código no campo \"Código de desconto\" do checkout.",
           "Travessa Le Creuset pode ir no forno? Sim. A Le Creuset informa a faixa de −22 °C a 260 °C para a Heritage retangular. Na Signature de ferro fundido, a ficha da loja indica forno até 260 °C.",
           "Travessa Le Creuset com tampa tem para comprar? As retangulares, as ovais para peixe e as ovais de 3,8 L estavam esgotadas na Let's Eat It na data da consulta.",
           "Existe travessa de peixe Le Creuset? A Let's Eat It lista uma oval de 34 cm com tampa. As três cores estavam esgotadas na consulta.",
@@ -331079,7 +331081,7 @@ const reviewsChunk2: unknown[] = [
         "heading": "Casa Let’s ou site: onde compensa comprar",
         "paragraphs": [
           "A decisão entre ir até o Pacaembu ou pedir pelo site depende principalmente da marca que você quer levar e do desconto de cada canal. A loja física dá um desconto próprio no caixa nas compras presenciais, mas deixa Le Creuset e Trussardi fora dele, além de não aceitar o código MAUAD.",
-          "No site oficial, o catálogo completo fica disponível e o [cupom Let’s Eat It](/cupons/letseatit) MAUAD vale em todo o site, acumulando com promoções, pré-venda e o desconto do Pix que muitos produtos têm, inclusive na [Le Creuset](https://letseatit.com.br/collections/le-creuset?utm_source=embaixador&utm_medium=emcasacomcecilia&utm_campaign=inbazz&utm_content=organico) e na Trussardi.",
+          "No site oficial, o catálogo completo fica disponível e o cupom MAUAD vale em todo o site, acumulando com promoções, pré-venda e o desconto do Pix que muitos produtos têm, inclusive na [Le Creuset](https://letseatit.com.br/collections/le-creuset?utm_source=embaixador&utm_medium=emcasacomcecilia&utm_campaign=inbazz&utm_content=organico) e na Trussardi.",
           "Conta nossa, conferindo o teste de 02/10 registrado no checkout do site: com uma panela Le Creuset Signature em pré-venda e um jogo de xícaras Wolff em promoção (subtotal de R$ 3.582,10), o MAUAD abateu R$ 179,10 (5%) e fechou os produtos em R$ 3.403,00 antes do frete, como mostra o print abaixo."
         ],
         "images": [
@@ -331141,7 +331143,7 @@ const reviewsChunk2: unknown[] = [
         "heading": "Perguntas frequentes",
         "bullets": [
           "Onde fica a Casa Let's e qual é o horário de funcionamento? Fica na Avenida Pacaembu, 1105, em São Paulo (SP), aberta de segunda a sexta das 9h às 18h e aos sábados das 10h às 14h (fechada aos domingos e feriados). Já o atendimento online (SAC) funciona de segunda a sexta, das 9h às 18h.",
-          "Qual é o cupom da Let's Eat It? É o MAUAD, com 5% OFF no site oficial da Let's Eat It, em todas as formas de pagamento, para cliente novo e antigo. Digite no campo \"Código de desconto\" do checkout; as regras estão na página do [cupom Let's Eat It](/cupons/letseatit). Na Casa Let's o código não vale.",
+          "Qual é o cupom da Let's Eat It? É o MAUAD, com 5% OFF no site oficial da Let's Eat It, em todas as formas de pagamento, para cliente novo e antigo. Digite no campo \"Código de desconto\" do checkout. Na Casa Let's o código não vale.",
           "Dá para retirar pedido do site na Casa Let's? Não. A política de frete informa que não há retirada presencial de compras feitas no site.",
           "Posso trocar ou devolver um pedido do site na Casa Let's? Sim, para quem está em São Paulo. A troca é feita na hora em horário comercial, e o reembolso ou crédito em loja sem validade segue os prazos da política oficial.",
           "O cupom MAUAD vale na loja física da Let's Eat It? Não. O MAUAD vale apenas nas compras pelo site oficial; na Casa Let's, a equipe aplica um desconto presencial no caixa que não inclui Le Creuset nem Trussardi.",
@@ -348640,7 +348642,7 @@ const reviewsChunk2: unknown[] = [
       {
         "heading": "Resposta rápida",
         "paragraphs": [
-          "É boa, sim, para quem monta o quarto infantil e busca móveis e decoração no mesmo estilo, como camas montessorianas, penteadeira com regulagem, linha Theo, prateleiras, tapetes e quadros. O EMCASACOMCECILIA dá 10% OFF no site oficial, soma com ofertas e vale em todas as formas de pagamento. Abaixo estão as linhas e duas contas de pedido."
+          "É boa, sim, para quem monta o quarto infantil e busca móveis e decoração no mesmo estilo, como camas montessorianas, penteadeira com regulagem, linha Theo, prateleiras, tapetes e quadros. O [cupom Cola e Decora](/cupons/colaedecora) EMCASACOMCECILIA dá 10% OFF no site oficial, soma com ofertas e vale em todas as formas de pagamento. Abaixo estão as linhas e duas contas de pedido."
         ]
       },
       {
@@ -348715,7 +348717,7 @@ const reviewsChunk2: unknown[] = [
       {
         "heading": "Quanto custa com o cupom EMCASACOMCECILIA",
         "paragraphs": [
-          "O [cupom Cola e Decora](/cupons/colaedecora) é o EMCASACOMCECILIA, com 10% OFF no site oficial para clientes novos e antigos, em todas as formas de pagamento. Em dois testes de carrinho registrados em 19/11/2026, o código somou com preços já promocionais: num pedido com o Quadro Santo Anjo e a Prateleira de Livros 50 cm Theo, o subtotal caiu de R$ 139,80 para R$ 125,82 (desconto de R$ 13,98); noutro, com cinco cadeiras Theo, foi de R$ 799,50 para R$ 719,55 com Pix selecionado, sem desconto extra sobre o cupom.",
+          "O código da parceria é o EMCASACOMCECILIA, com 10% OFF no site oficial para clientes novos e antigos, em todas as formas de pagamento. Em dois testes de carrinho registrados em 19/11/2026, o código somou com preços já promocionais: num pedido com o Quadro Santo Anjo e a Prateleira de Livros 50 cm Theo, o subtotal caiu de R$ 139,80 para R$ 125,82 (desconto de R$ 13,98); noutro, com cinco cadeiras Theo, foi de R$ 799,50 para R$ 719,55 com Pix selecionado, sem desconto extra sobre o cupom.",
           "Conta nossa: somando a Penteadeira com Regulagem e a Cadeira Infantil Branca Theo pelos preços do site, o pedido passa dos R$ 599 do frete grátis, mas com os 10% do EMCASACOMCECILIA o total fica abaixo desse valor (última linha da tabela)."
         ],
         "comparisonTable": {
@@ -348790,7 +348792,7 @@ const reviewsChunk2: unknown[] = [
         "heading": "Por que vale a pena e para quem indicamos",
         "paragraphs": [
           "A Cola e Decora vale a pena para quem quer montar o quarto infantil inteiro no mesmo estilo visual e aproveitar um cupom de 10% que soma sobre preços promocionais. Para quem já tem a cama, a penteadeira com regulagem, a linha Theo e os itens de parede resolvem cantos de estudo e organização sem precisar garimpar peças em várias lojas.",
-          "A ressalva é comprar sabendo que os móveis chegam desmontados e que o prazo precisa de folga no calendário, conferindo sempre o frete pelo CEP depois de aplicar o [cupom Cola e Decora](/cupons/colaedecora)."
+          "A ressalva é comprar sabendo que os móveis chegam desmontados e que o prazo precisa de folga no calendário, conferindo sempre o frete pelo CEP depois de aplicar o EMCASACOMCECILIA."
         ],
         "emphasis": "Nossa indicação: vale montar o quarto ou um cantinho completo num único pedido para somar os 10% do EMCASACOMCECILIA nas ofertas, mas só feche se o prazo do CEP der folga antes da data de uso.",
         "links": [
@@ -348892,7 +348894,7 @@ const reviewsChunk2: unknown[] = [
       {
         "heading": "Resposta rápida",
         "paragraphs": [
-          "Sim, a DAMIE é boa para quem busca poltrona reclinável ou sofá modular compacto em caixa: as duas Reclináveis 1.0 e o sofá modular estão em casa há mais de um ano. No site oficial, o cupom CECILIA12 dá 12% OFF em todas as formas de pagamento e soma com o Pix. Abaixo estão os modelos, as diferenças de base e a conta no Pix."
+          "Sim, a DAMIE é boa para quem busca poltrona reclinável ou sofá modular compacto em caixa: as duas Reclináveis 1.0 e o sofá modular estão em casa há mais de um ano. No site oficial, o [cupom DAMIE](/cupons/damie) CECILIA12 dá 12% OFF em todas as formas de pagamento e soma com os 10% do Pix. Abaixo estão os modelos, as diferenças de base e a conta no Pix."
         ]
       },
       {
@@ -348952,7 +348954,7 @@ const reviewsChunk2: unknown[] = [
         "heading": "Quanto custa com o cupom CECILIA12 e o desconto no Pix",
         "paragraphs": [
           "No site oficial da DAMIE, o código CECILIA12 aplica 12% de desconto em todas as formas de pagamento e soma com os 10% de abatimento do pagamento via Pix. Aplicados em sequência, os dois descontos reduzem o preço cheio de cartão em 20,8%. O código não acumula com outro cupom nem com o giftback, o bônus de 15% da compra que a DAMIE libera como cupom para o pedido seguinte, e só funciona em damie.com.br.",
-          "Conta nossa: o teste de carrinho registrado na página do [cupom DAMIE](/cupons/damie) foi com um puff avulso, a última linha da tabela. Na poltrona e no sofá, aplicamos os mesmos dois descontos sobre o preço do site, antes de eventual frete fora da faixa gratuita."
+          "Conta nossa: o teste de carrinho foi com um puff avulso, a última linha da tabela. Na poltrona e no sofá, aplicamos os mesmos dois descontos sobre o preço do site, antes de eventual frete fora da faixa gratuita."
         ],
         "comparisonTable": {
           "caption": "Preços no site oficial em 24/11 antes do frete; o puff teve teste real no carrinho e poltrona e sofá são simulações com CECILIA12 no cartão e acumulado com 10% no Pix.",
@@ -349009,7 +349011,7 @@ const reviewsChunk2: unknown[] = [
         "heading": "Quando a DAMIE vale o investimento e onde olhar primeiro",
         "paragraphs": [
           "A DAMIE vale o investimento quando você precisa de poltrona reclinável ou sofá modular compacto que entre em casa em caixas e quer somar o CECILIA12 ao desconto do Pix no site oficial. Entre os modelos da nossa rotina, as Reclináveis 1.0 estão na sala de TV há mais de um ano e entraram na rotina de amamentação, o Sofá Modular atende quem quer modularidade em apartamento e a Levita, quem quer ajustar encosto e pés separadamente.",
-          "Para acertar na escolha, defina primeiro se o uso pede versão manual ou elétrica com giro de 180 graus e balanço, confira as regras de entrega para o seu estado e valide sempre o desconto ativo na página do [cupom DAMIE](/cupons/damie) antes de concluir o pagamento."
+          "Para acertar na escolha, defina primeiro se o uso pede versão manual ou elétrica com giro de 180 graus e balanço, confira as regras de entrega para o seu estado e valide sempre o desconto ativo no resumo do checkout antes de concluir o pagamento."
         ],
         "emphasis": "Nossa indicação: com as Reclináveis 1.0 e o sofá modular em casa há mais de um ano, indicamos a DAMIE para quem mediu o espaço e mora onde o site oficial entrega; ali, o CECILIA12 com o Pix chega a 20,8% de desconto.",
         "links": [
