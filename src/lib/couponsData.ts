@@ -4472,7 +4472,7 @@ const STORE_COUPONS: Coupon[] = [
     hubCategory: 'beleza',
     shortDescription: 'produtos para cabelo no site oficial da Prohall',
     longDescription:
-      'O cupom Prohall CECILIAMC dá até 10% OFF no site oficial e no aplicativo, para quem compra pela primeira vez e para quem já é cliente, soma com as promoções e vale em todas as formas de pagamento. No nosso teste, um carrinho com itens em promoção caiu de R$ 380,70 para R$ 354,06, e o Force Hair foi de R$ 264,90 para R$ 246,36.',
+      'O cupom Prohall CECILIAMC dá até 10% OFF no site oficial e no aplicativo, para quem compra pela primeira vez e para quem já é cliente, soma com as promoções e vale em todas as formas de pagamento. No nosso teste na Black Prohall, um carrinho com itens em promoção caiu de R$ 279,70 para R$ 260,13.',
     metaTitle: 'Cupom Prohall: até 10% OFF com CECILIAMC',
     metaTitleMonth: true,
     metaDescription:
@@ -4484,7 +4484,7 @@ const STORE_COUPONS: Coupon[] = [
     combinable:
       'Soma com as promoções vigentes do site e vale com todas as formas de pagamento; não junta com o cupom de cashback da loja',
     stacking: [
-      { benefit: 'promocoes', stacks: 'sim', condition: 'Entra sobre o preço promocional: no teste, um carrinho em promoção caiu de R$ 380,70 para R$ 354,06' },
+      { benefit: 'promocoes', stacks: 'sim', condition: 'Entra sobre o preço promocional: no teste, um carrinho em promoção caiu de R$ 279,70 para R$ 260,13' },
       { benefit: 'pix', stacks: 'sim', condition: 'Soma com o desconto do Pix, quando a loja oferece; o percentual aparece na hora do pagamento' },
       { benefit: 'cashback', stacks: 'nao', condition: 'O cashback da loja chega como cupom para a compra seguinte e não junta com outro cupom' },
       { benefit: 'frete', stacks: 'depende', condition: 'Grátis a partir de R$ 99 no Sudeste, R$ 149 no Sul, R$ 179 no Centro-Oeste e R$ 199 no Norte e no Nordeste; o mínimo conta depois do cupom' },
@@ -4495,7 +4495,7 @@ const STORE_COUPONS: Coupon[] = [
     lastVerified: '2026-11-22',
     testedAt: '2026-11-22',
     testNote:
-      'Num carrinho de quatro itens, com o kit Shampoo + Condicionador Absolut One em promoção, de R$ 149,90 por R$ 89,90, o CECILIAMC tirou R$ 26,64 dos R$ 380,70 e o total caiu para R$ 354,06. No mesmo dia, aplicamos o código em outros quatro carrinhos, com produtos a preço cheio e em promoção: o Force Hair foi de R$ 264,90 para R$ 246,36, e o Kit Completo Absolut One, de R$ 349,90 para R$ 325,41. Em 22/11/2026, com a Black Prohall no ar, o código tirou R$ 19,57 de um carrinho de R$ 279,70, com o kit Force Hair, o Burix One e o Select One em promoção, e o total ficou em R$ 260,13.',
+      'Na Black Prohall, o CECILIAMC tirou R$ 19,57 de um carrinho de R$ 279,70, com o kit Force Hair, o Burix One e o Select One em promoção, e o total caiu para R$ 260,13. Em 12/11/2026, num carrinho de quatro itens com o kit Shampoo + Condicionador Absolut One em promoção, de R$ 149,90 por R$ 89,90, o código tirou R$ 26,64 dos R$ 380,70 e o total ficou em R$ 354,06; no mesmo dia, o Force Hair foi de R$ 264,90 para R$ 246,36, e o Kit Completo Absolut One, de R$ 349,90 para R$ 325,41.',
     aboutBrand:
       'A Prohall é uma marca brasileira de produtos para cabelo, fundada em 2017 em Lençóis Paulista (SP), com escovas antifrizz, shampoos, condicionadores, máscaras, óleos, séruns e finalizadores vendidos no site oficial. O cupom CECILIAMC é o benefício da parceria para quem acompanha o Em Casa com Cecília e dá até 10% OFF no site oficial e no aplicativo, com qualquer forma de pagamento e também sobre os produtos em promoção. O resumo da compra mostra o valor antes de finalizar.',
     faqs: [
@@ -4507,7 +4507,7 @@ const STORE_COUPONS: Coupon[] = [
       {
         question: 'Quanto de desconto o cupom CECILIAMC dá?',
         answer:
-          'Até 10% OFF no site oficial e no aplicativo, em produtos a preço cheio e em promoção. No nosso teste, um carrinho de R$ 380,70 caiu para R$ 354,06, e o resumo da compra mostra o valor assim que o código é aceito.',
+          'Até 10% OFF, segundo a parceria. No teste de 22/11/2026, o CECILIAMC deu 7% e o carrinho passou de R$ 279,70 para R$ 260,13. O resumo da compra mostra o valor assim que o código é aceito.',
       },
       {
         question: 'O cupom CECILIAMC vale no Pix, no cartão e em outras formas de pagamento?',
@@ -5665,7 +5665,7 @@ const STORE_COUPONS: Coupon[] = [
     hubCard: 'reduzido',
     shortDescription: 'todo o site da BOLD Snacks, inclusive os produtos em promoção',
     longDescription:
-      'O cupom BOLD Snacks CECILIA15 dá 20% OFF no site oficial, para quem compra pela primeira vez e para quem já é cliente, e soma com os preços em promoção: no nosso teste, os 20% entraram numa caixa de barras pelo preço cheio, num whey em promoção e no preço de assinatura do BOLD Club.',
+      'O cupom BOLD Snacks CECILIA15 dá 20% OFF no site oficial, para quem compra pela primeira vez e para quem já é cliente, e soma com os preços em promoção: no nosso teste na Black Friday, os 20% entraram na BOLD Caixa Mista e num BOLD Whey já em promoção, além do preço de assinatura do BOLD Club.',
     metaTitle: 'Cupom BOLD Snacks: 20% OFF com CECILIA15',
     metaTitleMonth: true,
     metaDescription:
@@ -5676,18 +5676,18 @@ const STORE_COUPONS: Coupon[] = [
     shipping: 'Entrega para todo o Brasil; o valor e o prazo do frete saem no checkout pelo CEP, segundo a política de entrega da loja',
     combinable: 'Soma com as promoções vigentes do site e, no nosso teste, com o preço de assinatura do BOLD Club; vale com todas as formas de pagamento, e a loja aceita um cupom por pedido',
     stacking: [
-      { benefit: 'promocoes', stacks: 'sim', condition: 'Entra sobre o preço promocional: no teste, o whey de R$ 209 por R$ 189 saiu por R$ 151,20' },
-      { benefit: 'assinatura', stacks: 'sim', condition: 'No nosso teste, o código entrou sobre o preço de assinatura do BOLD Club: a caixa de barras de R$ 152,00 saiu por R$ 121,60' },
+      { benefit: 'promocoes', stacks: 'sim', condition: 'Entra sobre o preço promocional: no teste, a Caixa Mista de R$ 179 por R$ 159 saiu por R$ 127,20 e o whey de R$ 189 saiu por R$ 151,20' },
+      { benefit: 'assinatura', stacks: 'sim', condition: 'No nosso teste, o código entrou sobre o preço de assinatura do BOLD Club: a caixa de R$ 152,00 saiu por R$ 121,60' },
       { benefit: 'pix', stacks: 'sim', condition: 'O cupom vale no Pix, como nas outras formas de pagamento' },
       { benefit: 'outro-cupom', stacks: 'nao', condition: 'A loja aceita um cupom promocional por pedido' },
       { benefit: 'cashback', stacks: 'nao', condition: 'Pela política da loja, o cashback não soma automaticamente com cupons promocionais' },
       { benefit: 'frete', stacks: 'nao', condition: 'O frete sai pelo CEP, à parte do cupom' },
     ],
     paymentPerks: ['Até 3x sem juros no cartão de crédito'],
-    lastVerified: '2026-11-18',
-    testedAt: '2026-11-18',
+    lastVerified: '2026-11-25',
+    testedAt: '2026-11-25',
     testNote:
-      'Num carrinho com a BOLD Caixa Mista pelo preço cheio de R$ 179,00 e o BOLD Whey Chocolate ao Leite de 450 g em promoção, de R$ 209,00 por R$ 189,00, o CECILIA15 tirou R$ 35,80 da caixa e R$ 37,80 do whey: os dois saíram por R$ 143,20 e R$ 151,20, com 20% de desconto em cada um. O resumo mostrou os dois brindes que o carrinho incluiu, uma coqueteleira e uma bolsa térmica a R$ 0,01, e o total ficou em R$ 294,42. Num segundo carrinho, a caixa BOLD Mousse de Maracujá na assinatura, com entrega a cada 2 meses, custava R$ 152,00, 15% abaixo dos R$ 179,00 da compra única, e o CECILIA15 tirou mais R$ 30,40: a caixa saiu por R$ 121,60.',
+      'Na Black Friday da loja, num carrinho com a BOLD Caixa Mista em promoção, de R$ 179,00 por R$ 159,00, e o BOLD Whey Milkshake de Baunilha de 450 g em promoção, de R$ 209,00 por R$ 189,00, o CECILIA15 tirou R$ 31,80 da caixa e R$ 37,80 do whey: os dois saíram por R$ 127,20 e R$ 151,20, com 20% de desconto em cada um e R$ 69,60 a menos nos produtos. Como o subtotal caiu de R$ 348,00 para R$ 278,40, o checkout avisou que a Bolsa Térmica de brinde (R$ 0,01) pedia compras a partir de R$ 289,00 após os descontos. Num segundo carrinho, a caixa BOLD Doce de Leite 21 g na assinatura bimestral do BOLD Club custava R$ 152,00, 15% abaixo dos R$ 179,00 da compra única, e o CECILIA15 tirou mais R$ 30,40: a caixa saiu por R$ 121,60, com o brinde do Kit BOLD Chocomalte 14 g grátis. Em 18/11/2026, na Pré-Black, a BOLD Caixa Mista a preço cheio de R$ 179,00 também teve 20% OFF e saiu por R$ 143,20.',
     codeInstructions: [
       'Copie o código CECILIA15 no card acima.',
       'Acesse o site oficial da BOLD Snacks pelo botão indicado, coloque os produtos no carrinho e clique em Finalizar.',
@@ -5700,12 +5700,12 @@ const STORE_COUPONS: Coupon[] = [
       {
         question: 'Qual é o cupom de desconto da BOLD?',
         answer:
-          'O cupom BOLD (BOLD Snacks) é o CECILIA15, que deu 20% OFF no site oficial no nosso teste, em todas as formas de pagamento, para quem compra pela primeira vez e para quem já é cliente, somando com os produtos em promoção.',
+          'O cupom BOLD (BOLD Snacks) é o CECILIA15, que deu 20% OFF no site oficial no reteste de 25/11/2026 na Black Friday, em todas as formas de pagamento, para quem compra pela primeira vez e para quem já é cliente, somando com os produtos em promoção.',
       },
       {
         question: 'Quanto de desconto o cupom CECILIA15 dá na BOLD Snacks?',
         answer:
-          '20% OFF nos produtos do site oficial, no nosso teste mais recente. O cupom tirou R$ 73,60 de uma caixa de barras e de um whey que somavam R$ 368,00, e o checkout mostrou o desconto embaixo de cada produto.',
+          '20% OFF nos produtos do site oficial, confirmado em 25/11/2026 na Black Friday da loja. O cupom tirou R$ 69,60 de uma BOLD Caixa Mista e de um BOLD Whey em promoção que somavam R$ 348,00, e o checkout mostrou o desconto embaixo de cada produto.',
       },
       {
         question: 'Por que o cupom se chama CECILIA15 e dá 20%?',
@@ -5728,12 +5728,12 @@ const STORE_COUPONS: Coupon[] = [
       {
         question: 'O cupom soma com produtos em promoção?',
         answer:
-          'Sim. No nosso teste, o BOLD Whey Chocolate ao Leite de 450 g estava em promoção, de R$ 209,00 por R$ 189,00, e o cupom tirou os 20% dele também: o pote saiu por R$ 151,20.',
+          'Sim. No reteste de 25/11/2026, a BOLD Caixa Mista em promoção de R$ 179,00 por R$ 159,00 saiu por R$ 127,20, e o BOLD Whey Milkshake de Baunilha de 450 g, de R$ 209,00 por R$ 189,00, saiu por R$ 151,20.',
       },
       {
         question: 'O cupom CECILIA15 vale na assinatura da BOLD?',
         answer:
-          'No nosso teste, valeu. A caixa BOLD Mousse de Maracujá na assinatura BOLD Club, com entrega a cada 2 meses, custava R$ 152,00, 15% abaixo dos R$ 179,00 da compra única, e o CECILIA15 tirou mais 20%: a caixa saiu por R$ 121,60. A política de assinatura diz que as condições dela não se acumulam automaticamente com cupons, então confira o código no resumo do checkout antes de assinar. A assinatura tem frete grátis nas entregas recorrentes e pede permanência mínima de 2 ciclos.',
+          'No reteste de 25/11/2026, valeu. A caixa BOLD Doce de Leite 21 g na assinatura bimestral do BOLD Club custava R$ 152,00, 15% abaixo dos R$ 179,00 da compra única, e o CECILIA15 tirou mais 20%: a caixa saiu por R$ 121,60. A política de assinatura diz que as condições dela não se acumulam automaticamente com cupons, então confira o código no resumo do checkout antes de assinar. A assinatura tem frete grátis nas entregas recorrentes e pede permanência mínima de 2 ciclos.',
       },
       {
         question: 'Dá para usar o CECILIA15 junto com outro cupom?',
