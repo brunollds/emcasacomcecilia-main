@@ -1207,9 +1207,9 @@ const STORE_COUPONS: Coupon[] = [
       'A loja Magazine Você da Cecília faz parte do programa oficial Influenciador Magalu (antigo Magazine Você), mantido pela Magazine Luiza S/A (CNPJ 47.960.950/0001-21). O domínio magazinevoce.com.br pertence à própria Magalu desde 2011, o que significa que quem vende, cobra, entrega e faz o pós-venda é o Magalu — e o login usado na loja é a conta Magalu que você já tem no site e no app. Os códigos desta campanha são criados pela Cecília para a própria loja: estes códigos da Cecília funcionam somente pelo navegador, na loja Magazine Você da Cecília — não no app do Magalu nem no site principal. Comprar por essa loja pode gerar comissão para o Em Casa com Cecília, sem custo extra para você: o preço e o desconto exibidos no checkout são exatamente os da sua faixa.',
     faqs: [
       {
-        question: 'Qual é o cupom do Magalu?',
+        question: 'Qual é o cupom de desconto do Magalu?',
         answer:
-          'Na loja Magazine Você da Cecília, pelo navegador, os códigos vão de 10EMCASACOMCECILIA (R$ 10 OFF a partir de R$ 499,90) até 100EMCASACOMCECILIA (R$ 100 OFF a partir de R$ 4.999,90), em produtos vendidos e entregues pelo Magalu e em todas as formas de pagamento. Use o código da maior faixa que o seu carrinho alcançar; no app do Magalu, ele não funciona.',
+          'Na loja Magazine Você da Cecília, pelo navegador, os cupons vão de 10EMCASACOMCECILIA (R$ 10 OFF a partir de R$ 499,90) até 100EMCASACOMCECILIA (R$ 100 OFF a partir de R$ 4.999,90), em produtos vendidos e entregues pelo Magalu e em todas as formas de pagamento. Use o código da maior faixa que o seu carrinho alcançar; no app do Magalu, ele não funciona.',
       },
       {
         question: 'Os cupons funcionam no app do Magalu?',
@@ -3679,6 +3679,11 @@ const STORE_COUPONS: Coupon[] = [
       'A Bagaggio é uma marca brasileira de malas, mochilas, bolsas e acessórios de viagem, no mercado desde 1942, com loja online e lojas físicas. O cupom CECILIA10 é o benefício da parceria para quem acompanha o Em Casa com Cecília: dá 10% OFF em todo o site, com qualquer forma de pagamento, e soma com as promoções, com o Outlet e com o desconto de 5% do Pix. A recomendação é conferir o resumo do pedido antes de finalizar.',
     faqs: [
       {
+        question: 'Qual é o cupom de desconto da Bagaggio?',
+        answer:
+          'O cupom de desconto da Bagaggio da nossa parceria é o CECILIA10, com 10% OFF em todo o site oficial e no aplicativo, inclusive no Outlet, para clientes novos e antigos, somando com os 5% do Pix.',
+      },
+      {
         question: 'O cupom CECILIA10 vale para todos os produtos da Bagaggio?',
         answer:
           'Sim. O CECILIA10 dá 10% OFF em todos os produtos do site oficial da Bagaggio: malas, mochilas, bolsas, carteiras e acessórios, inclusive os do Outlet.',
@@ -3686,12 +3691,12 @@ const STORE_COUPONS: Coupon[] = [
       {
         question: 'O cupom soma com produtos em promoção?',
         answer:
-          'Sim. No nosso teste mais recente, os 10% do cupom entraram numa mala de bordo Detroit que já estava com desconto: de R$ 249,90 por R$ 224,91.',
+          'Sim. Em 22/11/2026, a mala de bordo Detroit em oferta passou de R$ 249,90 para R$ 224,91 com o CECILIA10 (-R$ 24,99) e para R$ 213,66 no Pix.',
       },
       {
         question: 'O cupom CECILIA10 soma com o desconto do Pix?',
         answer:
-          'Sim. O cupom vale com todas as formas de pagamento e, no Pix, a Bagaggio ainda tira os 5% de desconto dela.',
+          'Sim. O cupom entra primeiro e os 5% do Pix saem depois: em 22/11/2026, a mala Detroit em oferta passou de R$ 249,90 para R$ 224,91 com o CECILIA10 e para R$ 213,66 no Pix.',
       },
       {
         question: 'O CECILIA10 soma com outra promoção que pede cupom?',
@@ -3837,7 +3842,7 @@ const STORE_COUPONS: Coupon[] = [
     shortDescription: 'todo o site Toda Up, inclusive nos produtos em promoção',
     longDescription:
       'O cupom Toda Up MAUAD dá 10% OFF em sutiãs, tops, calcinhas e adesivos no site oficial, para quem compra pela primeira vez e para quem já é cliente, e soma com as promoções do site, inclusive com a escada de desconto da Black Week. Ele não vale nos itens marcados como Black VIP, Todalovers, Influ ou Oferta Exclusiva.',
-    metaTitle: 'Cupom Toda Up: 10% OFF em tudo com MAUAD',
+    metaTitle: 'Cupom Toda Up: MAUAD dá 10% OFF',
     metaTitleMonth: true,
     metaDescription:
       'Cupom Toda Up: MAUAD dá 10% OFF em sutiãs, tops, calcinhas e adesivos para cliente novo ou antigo e soma com as promoções do site.',
@@ -3866,9 +3871,9 @@ const STORE_COUPONS: Coupon[] = [
       'A Toda Up é uma marca brasileira de moda íntima feminina, de Biguaçu (SC). Começou com as fitas adesivas para decote e hoje vende sutiãs, tops e calcinhas segunda pele, sutiã de silicone, adesivos e acessórios. O cupom MAUAD é o benefício da parceria para quem acompanha o Em Casa com Cecília: dá 10% OFF no site e soma com as promoções, inclusive com a escada da Black Week. A recomendação é conferir o resumo do pedido antes de pagar.',
     faqs: [
       {
-        question: 'Qual é o cupom da Toda Up?',
+        question: 'Qual é o cupom de desconto da Toda Up?',
         answer:
-          'O cupom da Toda Up da nossa parceria é MAUAD, com 10% OFF no site oficial, em todas as formas de pagamento, válido inclusive em kits e peças em promoção. Ele não vale nos itens marcados como Black VIP, Todalovers, Influ ou Oferta Exclusiva.',
+          'O cupom da Toda Up (também buscada como TodaUp, antiga Fita Up) da nossa parceria é MAUAD, com 10% OFF no site oficial, para clientes novos e antigos, em todas as formas de pagamento, válido inclusive em kits e peças em promoção. Ele não vale nos itens marcados como Black VIP, Todalovers, Influ ou Oferta Exclusiva.',
       },
       {
         question: 'O cupom MAUAD vale para todos os produtos da Toda Up?',
@@ -3888,7 +3893,7 @@ const STORE_COUPONS: Coupon[] = [
       {
         question: 'O cupom soma com produtos em promoção?',
         answer:
-          'Sim. No teste de novembro, a Fita Up em promoção ganhou os 25% da Black Week e, depois, os 10% do MAUAD sobre o que sobrou. A conta está em "Como testamos o cupom", nesta página.',
+          'Sim. Em 23/11/2026, na Black Week, a Fita Up de R$ 116,90 caiu para R$ 87,68 com os 25% da campanha e para R$ 78,92 com os 10% do MAUAD sobre o que sobrou.',
       },
       {
         question: 'O cupom MAUAD está funcionando hoje?',
@@ -4381,9 +4386,9 @@ const STORE_COUPONS: Coupon[] = [
       'A Petz é uma rede brasileira de pet shops, com lojas físicas, site e app, que vende ração, petiscos, higiene, farmácia, acessórios e itens de casa e jardim. O cupom EMCASA vem do programa Parceiro Petz e é o benefício para quem acompanha o Em Casa com Cecília: dá 10% OFF nas compras no site e no app. A recomendação é conferir o resumo do pedido antes de pagar.',
     faqs: [
       {
-        question: 'Qual é o cupom da Petz?',
+        question: 'Qual é o cupom de desconto da Petz?',
         answer:
-          'O cupom da Petz é o EMCASA, que dá 10% OFF no site e no app, em todas as formas de pagamento, para quem compra pela primeira vez e para quem já é cliente. Cole o código no campo "Digite seu cupom" da sacola: o botão da loja não aplica o desconto sozinho.',
+          'O cupom de desconto da Petz da nossa parceria é o EMCASA: 10% OFF no site e no app, para clientes novos e antigos. No teste com retirada elegível (compras acima de R$ 199 no Centro-Oeste, no Sul e no Sudeste), os 5% do Retire na Loja incidiram sobre o valor já com o cupom e chegaram a 14,5% no total. Em item promocional, vale o desconto maior.',
       },
       {
         question: 'O cupom EMCASA vale para todos os produtos da Petz?',
@@ -4393,12 +4398,12 @@ const STORE_COUPONS: Coupon[] = [
       {
         question: 'O cupom soma com os produtos em promoção?',
         answer:
-          'Não. No nosso teste, um sachê em promoção por R$ 9,90 (de R$ 10,99) ficou com os 10% sobre o preço cheio, R$ 9,89, e uma ração com 20% OFF manteve o preço da promoção, R$ 279,99. Nos dois casos, a sacola ficou com o desconto maior.',
+          'Não. Em 11/11/2026, um sachê em promoção por R$ 9,90 (de R$ 10,99) ficou com os 10% sobre o preço cheio, R$ 9,89, e uma ração com 20% OFF manteve o preço da promoção, R$ 279,99. Nos dois casos, a sacola ficou com o desconto maior.',
       },
       {
         question: 'O cupom soma com o desconto do Retire na Loja?',
         answer:
-          'Sim. A Petz dá 5% OFF para retirar o pedido na loja em compras acima de R$ 199, no Centro-Oeste, no Sul e no Sudeste, e esse desconto soma com o EMCASA. No nosso teste, duas rações de R$ 189,99 (R$ 379,98) caíram para R$ 341,98 com o cupom e para R$ 324,88 com o cupom e a retirada: 14,5% no total, porque os 5% saem do valor já com o cupom.',
+          'Sim. A Petz dá 5% OFF para retirar o pedido na loja em compras acima de R$ 199, no Centro-Oeste, no Sul e no Sudeste, e esse desconto incide sobre o valor já com o EMCASA. Em 11/11/2026, duas rações de R$ 189,99 (R$ 379,98) caíram para R$ 341,98 com o cupom e para R$ 324,88 com o cupom e a retirada: 14,5% no total.',
       },
       {
         question: 'Existe cupom Petz de 15%?',
@@ -6057,19 +6062,19 @@ const STORE_COUPONS: Coupon[] = [
       'A Gocase é uma marca brasileira com mais de 10 anos de capinhas de celular, garrafas e copos térmicos, bolsas, mochilas, malas, acessórios e linha pet, muitos deles personalizáveis, vendidos no site oficial e em lojas em Fortaleza, Brasília e São Paulo. O cupom CECILIAA é o benefício da parceria para quem acompanha o Em Casa com Cecília: 5% OFF, com qualquer forma de pagamento e também sobre os preços em promoção.',
     faqs: [
       {
-        question: 'Qual é o cupom da Gocase?',
+        question: 'Qual é o cupom de desconto da Gocase?',
         answer:
-          'O cupom da Gocase é o CECILIAA, com dois A no fim, que dá 5% OFF no site oficial, em todas as formas de pagamento, para clientes novos e antigos, e soma com os preços da GoBlack. No checkout, informe o e-mail e o CPF antes de digitar o código no campo Tem um cupom?.',
+          'O cupom da Gocase (também buscada como Go Case) é o CECILIAA, com dois A no fim, que dá 5% OFF no site oficial, em todas as formas de pagamento, para clientes novos e antigos, somando com os preços da GoBlack. No checkout, informe o e-mail e o CPF antes de digitar o código no campo Tem um cupom?.',
       },
       {
         question: 'Quanto de desconto o cupom CECILIAA dá na Gocase?',
         answer:
-          '5% OFF nos produtos do site oficial. Nos nossos testes, o cupom tirou R$ 18,99 de um carrinho de R$ 379,70, e o resumo do checkout mostrou o valor na linha Desconto (CECILIAA).',
+          '5% OFF nos produtos do site oficial. Em 19/11/2026, o cupom tirou R$ 18,99 de um carrinho de R$ 379,70 (fechando em R$ 360,71), mostrado na linha Desconto (CECILIAA).',
       },
       {
         question: 'O cupom Gocase soma com os preços da GoBlack?',
         answer:
-          'Sim. Nos nossos testes de novembro, os 5% entraram sobre produtos que já estavam com o preço da GoBlack: a Tote Mini de R$ 219,90 por R$ 149,90, por exemplo, também ganhou o desconto.',
+          'Sim. Em 19/11/2026, os 5% entraram sobre produtos já com preço da GoBlack: a Tote Mini de R$ 219,90 por R$ 149,90 e um carrinho de R$ 789,60 (que caiu para R$ 750,12 com -R$ 39,48).',
       },
       {
         question: 'O cupom Gocase vale na primeira compra?',
