@@ -3436,34 +3436,34 @@ const STORE_COUPONS: Coupon[] = [
     brandWatermark: '/images/logos/watermarks/skelt.webp',
     brandColor: '#212121',
     code: 'SKEMCASACOMCECILIA',
-    discount: '10% OFF',
+    discount: 'Até 10% OFF',
     discountNumber: 10,
     category: 'Autobronzeador, body splash e hidratação corporal',
     hubCategory: 'beleza',
     shortDescription: 'todo o site Skelt, com todas as formas de pagamento',
     longDescription:
-      'O cupom Skelt SKEMCASACOMCECILIA dá 10% OFF em todo o site, para quem compra pela primeira vez e para quem já é cliente, soma com as promoções e com os 5% do Pix, e vale em todas as formas de pagamento. Testado num kit de body splashes em promoção.',
-    metaTitle: 'Cupom Skelt: 10% OFF com SKEMCASACOMCECILIA',
+      'O cupom Skelt SKEMCASACOMCECILIA dá até 10% OFF em todo o site, para quem compra pela primeira vez e para quem já é cliente, soma com as promoções e com o desconto do Pix, e vale em todas as formas de pagamento. Na Black Friday, tirou desconto extra no Mousse, no Kit Iniciante e no Trio Exotic Trip já remarcados.',
+    metaTitle: 'Cupom Skelt: até 10% OFF com SKEMCASACOMCECILIA',
     metaTitleMonth: true,
     metaDescription:
-      'Cupom Skelt: SKEMCASACOMCECILIA dá 10% OFF em todo o site para cliente novo ou antigo, soma com as promoções e com os 5% do Pix.',
+      'Cupom Skelt: SKEMCASACOMCECILIA dá até 10% OFF no site oficial para cliente novo ou antigo, soma com as promoções e com o desconto do Pix.',
     eligibleCategories: 'Todos os produtos do site oficial da Skelt, inclusive kits e combos',
     validity: 'Cupom ativo enquanto a parceria estiver vigente',
     reusable: 'Conforme regras da loja',
     shipping:
-      'Frete grátis sem valor mínimo no Sul, no Sudeste e no Centro-Oeste e a partir de R$ 199 no Norte e no Nordeste, sobre o valor final do pedido, segundo a política de frete da loja',
+      'Pela política de frete da loja, é grátis sem valor mínimo no Sul, no Sudeste e no Centro-Oeste e a partir de R$ 199 no Norte e no Nordeste, sobre o valor final do pedido; na Black Friday, a vitrine anuncia frete grátis a partir de R$ 180 — informe o CEP na sacola para conferir',
     combinable:
-      'Soma com as promoções vigentes do site e com os 5% de desconto do Pix, e vale com todas as formas de pagamento; não soma com outro cupom, como o de primeira compra da loja',
+      'Soma com as promoções vigentes do site e vale com todas as formas de pagamento; a loja anuncia desconto no Pix na etapa de pagamento (confira o total antes de pagar). Não soma com outro cupom da loja',
     stacking: [
-      { benefit: 'promocoes', stacks: 'sim', condition: 'Os 10% entram sobre o preço promocional, inclusive em kits' },
-      { benefit: 'pix', stacks: 'sim', condition: 'No Pix, a loja tira mais 5% depois do código' },
+      { benefit: 'promocoes', stacks: 'sim', condition: 'Entra sobre o preço promocional, inclusive em kits: na Black Friday, o Mousse caiu de R$ 101,92 para R$ 96,82 e o Kit Iniciante de R$ 98,18 para R$ 93,27' },
+      { benefit: 'pix', stacks: 'sim', condition: 'Na Black Friday, a loja anuncia 10% no Pix (em teste anterior eram 5%, somados ao código); confira o total na etapa de pagamento' },
       { benefit: 'outro-cupom', stacks: 'nao', condition: 'A loja aceita um cupom por pedido, e aplicar outro código troca o anterior' },
-      { benefit: 'frete', stacks: 'depende', condition: 'Grátis sem mínimo no Sul, Sudeste e Centro-Oeste e a partir de R$ 199 no Norte e Nordeste, sobre o valor final do pedido' },
+      { benefit: 'frete', stacks: 'depende', condition: 'Pela política, grátis no Sul, Sudeste e Centro-Oeste e acima de R$ 199 no Norte e Nordeste; na Black Friday, a loja anuncia a partir de R$ 180 — confira pelo CEP' },
     ],
-    lastVerified: '2026-11-22',
-    testedAt: '2026-11-22',
+    lastVerified: '2026-11-26',
+    testedAt: '2026-11-26',
     testNote:
-      'Aplicamos o SKEMCASACOMCECILIA num kit de três body splashes, de R$ 297,00 por R$ 237,60 com os 20% da promoção do site, e o total caiu para R$ 213,84, com R$ 23,76 de desconto: os 10% entraram sobre o preço promocional. Em 21/10/2026, no Pix, a loja tirou mais 5% depois do código. Em 22/11/2026, com a campanha November Glow no ar, o código tirou 5% dos preços da campanha nos seis produtos testados: o Mousse foi de R$ 101,92 para R$ 96,82.',
+      'Em 26/11/2026, com a Black Friday e a November Glow no ar (e todos os 93 itens em estoque já remarcados), o SKEMCASACOMCECILIA tirou 5% sobre os preços promocionais em todos os carrinhos testados: o Mousse Autobronzeador caiu de R$ 101,92 para R$ 96,82, o Body Splash Solar Muse de R$ 84,92 para R$ 80,67, a Luva Aplicadora de R$ 29,66 para R$ 28,18, o Kit Iniciante de R$ 98,18 para R$ 93,27 e o Trio Exotic Trip de R$ 253,04 para R$ 240,39 (abaixo dos R$ 249 do brinde Velvet Milano, que saiu da sacola). Na vitrine, a loja anuncia 10% no Pix, mas a sacola não aplica desconto de pagamento antes da identificação: confira o total na etapa de pagamento. Em teste anterior, antes da November Glow, o código tirou 10% num kit com 20% da loja (de R$ 237,60 para R$ 213,84) e, em 21/10/2026, somou com os 5% do Pix então vigentes.',
     codeInstructions: [
       'Copie o código SKEMCASACOMCECILIA no card acima.',
       'Acesse o site oficial da Skelt pelo botão indicado e coloque os produtos no carrinho.',
@@ -3471,41 +3471,46 @@ const STORE_COUPONS: Coupon[] = [
       'Confira o desconto no resumo do pedido antes de escolher a forma de pagamento.',
     ],
     aboutBrand:
-      'A Skelt é uma marca brasileira de Curitiba, criada em 2017, conhecida pelos autobronzeadores em mousse, água e gel, e que hoje também vende body splash, body cream, maquiagem corporal e kits, com fórmulas veganas e cruelty-free. O cupom SKEMCASACOMCECILIA é o benefício da parceria para quem acompanha o Em Casa com Cecília: dá 10% OFF em todo o site, com qualquer forma de pagamento, e soma com as promoções e com o desconto de 5% do Pix. A recomendação é conferir o resumo do pedido antes de finalizar.',
+      'A Skelt é uma marca brasileira de Curitiba, criada em 2017, conhecida pelos autobronzeadores em mousse, água e gel, e que hoje também vende body splash, body cream, maquiagem corporal e kits, com fórmulas veganas e cruelty-free. O cupom SKEMCASACOMCECILIA é o benefício da parceria para quem acompanha o Em Casa com Cecília: dá até 10% OFF em todo o site, com qualquer forma de pagamento, e soma com as promoções e com o desconto do Pix anunciado pela loja. A recomendação é conferir o resumo do pedido antes de finalizar.',
     faqs: [
       {
-        question: 'Qual é o cupom da Skelt?',
+        question: 'Qual é o cupom de desconto da Skelt?',
         answer:
-          'O cupom da Skelt da nossa parceria é SKEMCASACOMCECILIA, com 10% OFF em todo o site oficial, para cliente novo ou antigo, em todas as formas de pagamento.',
+          'O cupom da Skelt da nossa parceria é SKEMCASACOMCECILIA, com até 10% OFF em todo o site oficial, para cliente novo ou antigo, somando com as promoções. Na Black Friday, a loja anuncia 10% de desconto no Pix; confira o total na etapa de pagamento.',
+      },
+      {
+        question: 'Quanto de desconto o cupom SKEMCASACOMCECILIA dá?',
+        answer:
+          'Até 10% OFF, segundo a parceria. Em 26/11/2026, com todos os itens em estoque já remarcados na Black Friday / November Glow, o código tirou mais 5% na sacola: o Mousse caiu de R$ 101,92 para R$ 96,82 e o Kit Iniciante de R$ 98,18 para R$ 93,27. Em teste anterior fora dessa campanha, tirou 10% num kit com 20% da loja (de R$ 237,60 para R$ 213,84).',
       },
       {
         question: 'O cupom SKEMCASACOMCECILIA vale para todos os produtos da Skelt?',
-        answer: 'Sim. O SKEMCASACOMCECILIA dá 10% OFF em todos os produtos do site oficial da Skelt, inclusive kits e combos.',
+        answer: 'Sim. O SKEMCASACOMCECILIA dá até 10% OFF em todos os produtos do site oficial da Skelt, inclusive kits e combos.',
       },
       {
-        question: 'Qual cupom Skelt dá 10% para quem já é cliente?',
+        question: 'Qual cupom Skelt vale para quem já é cliente?',
         answer:
-          'O SKEMCASACOMCECILIA. Ele dá 10% em todo o site da Skelt para quem compra pela primeira vez e para quem já comprou.',
+          'O SKEMCASACOMCECILIA. Ele dá até 10% OFF em todo o site da Skelt para quem compra pela primeira vez e para quem já comprou.',
       },
       {
         question: 'Existe cupom Skelt de 15%?',
         answer:
-          'Com código, o desconto que testamos é o do SKEMCASACOMCECILIA: 10% em todo o site. Ele soma com as promoções do site e, no Pix, com os 5% da loja: no teste, os 10% entraram sobre produtos que já estavam 10% mais baratos, e o Pix tirou mais 5%.',
+          'Com código, o desconto que testamos é o do SKEMCASACOMCECILIA: até 10% OFF em todo o site, somando com as promoções e com o desconto do Pix anunciado pela loja (5% fora de campanha e 10% na Black Friday).',
       },
       {
         question: 'O cupom soma com produtos em promoção?',
         answer:
-          'Sim. No nosso teste mais recente, os 10% do cupom entraram num kit que já estava com 20% da promoção do site: de R$ 237,60 por R$ 213,84.',
+          'Sim. Em 26/11/2026, na Black Friday / November Glow, o SKEMCASACOMCECILIA tirou 5% extras sobre os preços já remarcados: o Mousse caiu de R$ 101,92 para R$ 96,82, o Kit Iniciante de R$ 98,18 para R$ 93,27 e o Trio Exotic Trip de R$ 253,04 para R$ 240,39.',
       },
       {
         question: 'O cupom SKEMCASACOMCECILIA soma com o desconto do Pix?',
         answer:
-          'Sim. O cupom vale com todas as formas de pagamento e, no Pix, a Skelt ainda tira os 5% de desconto dela.',
+          'O cupom vale em todas as formas de pagamento. Em 21/10/2026, quando o Pix era de 5%, os dois descontos somaram; na Black Friday, a Skelt anuncia 10% no Pix na etapa de pagamento (fora da sacola testada em 26/11/2026), então confira o total antes de concluir.',
       },
       {
         question: 'O SKEMCASACOMCECILIA vale na primeira compra? Soma com o PRIMEIRA5?',
         answer:
-          'Vale, mas não soma: a Skelt aceita um cupom por pedido, e aplicar outro código troca o anterior. Na primeira compra, fique com o SKEMCASACOMCECILIA: ele dá 10%, e o PRIMEIRA5, o cupom de primeira compra da loja, dá 5%.',
+          'Vale, mas não soma: a Skelt aceita um cupom por pedido, e aplicar outro código troca o anterior. Na primeira compra, o SKEMCASACOMCECILIA dá até 10% OFF no site oficial e segue valendo nas compras seguintes; confira o desconto no resumo da sacola.',
       },
       {
         question: 'O SKEMCASACOMCECILIA é cupom de influenciadora?',
@@ -3540,7 +3545,7 @@ const STORE_COUPONS: Coupon[] = [
       {
         question: 'A Skelt tem frete grátis?',
         answer:
-          'Sim. Pela política de frete da loja, o frete é grátis sem valor mínimo no Sul, no Sudeste e no Centro-Oeste e a partir de R$ 199 no Norte e no Nordeste. O valor conta o pedido já com os descontos.',
+          'Sim. Pela política de frete da loja, é grátis sem valor mínimo no Sul, no Sudeste e no Centro-Oeste e a partir de R$ 199 no Norte e no Nordeste, sobre o valor final do pedido. Na Black Friday, a vitrine anuncia frete grátis a partir de R$ 180; informe o CEP na sacola para conferir a regra aplicada ao seu endereço.',
       },
       {
         question: 'O que fazer se o cupom SKEMCASACOMCECILIA não funcionar?',
@@ -3550,12 +3555,12 @@ const STORE_COUPONS: Coupon[] = [
       {
         question: 'Tem cupom Skelt na Black Friday?',
         answer:
-          'Tem. O cupom Skelt SKEMCASACOMCECILIA dá 10% OFF em todo o site, inclusive em kits e combos, em todas as formas de pagamento.',
+          'Tem. O cupom Skelt SKEMCASACOMCECILIA dá até 10% OFF em todo o site, inclusive em kits e combos, em todas as formas de pagamento.',
       },
       {
         question: 'O cupom Skelt vale na Black Friday?',
         answer:
-          'Vale. O SKEMCASACOMCECILIA é o código de 10% OFF da parceria. Com a campanha November Glow no ar, em novembro, o carrinho aplicou 5% sobre os preços da campanha nos seis produtos que testamos. Confira o total na sacola antes de pagar.',
+          'Vale. Em 26/11/2026, com a Black Friday e a November Glow no ar, o SKEMCASACOMCECILIA tirou mais 5% sobre os avulsos e kits já remarcados; a loja anuncia 10% no Pix na etapa de pagamento, então confira o total e eventual brinde antes de concluir.',
       },
       {
         question: 'Comprar com o cupom apoia o Em Casa com Cecília?',
@@ -3565,7 +3570,7 @@ const STORE_COUPONS: Coupon[] = [
     ],
     monthlyHighlight: {
       scope: 'em todo o site',
-      note: 'Soma com as promoções do site e os 5% do Pix; vale também em kits e combos',
+      note: 'Até 10% OFF; soma com as promoções do site e com o desconto do Pix, inclusive em kits',
     },
     relatedContent: [
       {
@@ -3972,7 +3977,7 @@ const STORE_COUPONS: Coupon[] = [
     shortDescription: 'todo o site Simple Organic, inclusive nos produtos em promoção e nos kits',
     longDescription:
       'O cupom Simple Organic S-EMCASACOMCECILIA dá 5% OFF em séruns, hidratantes, limpeza facial, maquiagem e body splash no site oficial, para quem compra pela primeira vez e para quem já é cliente, e entra também nos produtos que já estão em promoção e nos kits. Testado num carrinho com kit, produto em promoção e produto a preço cheio.',
-    metaTitle: 'Cupom Simple Organic: 5% com S-EMCASACOMCECILIA',
+    metaTitle: 'Cupom Simple Organic: 5% OFF com S-EMCASACOMCECILIA',
     metaTitleMonth: true,
     metaDescription:
       'Cupom Simple Organic: S-EMCASACOMCECILIA dá 5% OFF em séruns, hidratantes e maquiagem para cliente novo ou antigo, inclusive em promoção e nos kits.',
@@ -4043,6 +4048,11 @@ const STORE_COUPONS: Coupon[] = [
       'A Simple Organic é uma marca brasileira de beleza limpa e vegana, criada em 2017 em Florianópolis (SC) e parte da Hypera Pharma desde 2020. Vende séruns, hidratantes, limpeza facial, maquiagem e body splash. O cupom S-EMCASACOMCECILIA é o benefício da parceria para quem acompanha o Em Casa com Cecília: dá 5% OFF em todo o site, inclusive nos produtos em promoção e nos kits. A recomendação é conferir o resumo do pedido antes de pagar.',
     faqs: [
       {
+        question: 'Qual é o cupom de desconto da Simple Organic?',
+        answer:
+          'O cupom da Simple Organic da nossa parceria é S-EMCASACOMCECILIA, com 5% OFF em todo o site oficial, inclusive em produtos em promoção, kits e duos, para clientes novos e antigos.',
+      },
+      {
         question: 'O cupom S-EMCASACOMCECILIA vale para todos os produtos da Simple Organic?',
         answer:
           'Sim. O S-EMCASACOMCECILIA dá 5% OFF nos produtos do site oficial da Simple Organic: séruns, hidratantes, limpeza facial, maquiagem e body splash, inclusive os kits e os duos.',
@@ -4060,7 +4070,7 @@ const STORE_COUPONS: Coupon[] = [
       {
         question: 'O cupom soma com produtos em promoção?',
         answer:
-          'Sim. Nos nossos testes, os 5% entraram sobre o preço promocional de um hidratante e de um duo e sobre um kit que já estava com desconto. O desconto aparece no carrinho antes de pagar.',
+          'Sim. Em 22/11/2026, na Clean Friday, o Hidratante Facial Antioleosidade (R$ 27,00) e o Ultra Sérum Vitamina C (R$ 41,40) caíram de R$ 68,40 para R$ 64,98 com o S-EMCASACOMCECILIA, 5% sobre os preços já reduzidos.',
       },
       {
         question: 'O cupom S-EMCASACOMCECILIA está funcionando hoje?',
@@ -5835,8 +5845,8 @@ const STORE_COUPONS: Coupon[] = [
     hubCategory: 'beleza',
     shortDescription: 'todo o site da Pink Cheeks, inclusive os produtos em promoção',
     longDescription:
-      'O cupom Pink Cheeks PNK-EMCASACOMCECILIA dá 10% OFF no site oficial, para quem compra pela primeira vez e para quem já é cliente, e soma com as promoções: no nosso teste, os 10% entraram num pó translúcido pelo preço cheio e também num blush em promoção de Black Friday. Vale em todas as formas de pagamento.',
-    metaTitle: 'Cupom Pink Cheeks: 10% com PNK-EMCASACOMCECILIA',
+      'O cupom Pink Cheeks PNK-EMCASACOMCECILIA dá 10% OFF no site oficial, para quem compra pela primeira vez e para quem já é cliente, e soma com as promoções: no nosso teste na Black Friday, um carrinho com o Kit Natação e o Pink Stick 21 KM caiu de R$ 234,75 para R$ 211,28. Vale em todas as formas de pagamento.',
+    metaTitle: 'Cupom Pink Cheeks: 10% OFF com PNK-EMCASACOMCECILIA',
     metaTitleMonth: true,
     metaDescription:
       'Cupom Pink Cheeks: PNK-EMCASACOMCECILIA dá 10% OFF em protetor solar e maquiagem com FPS, para cliente novo ou antigo. Testado no checkout.',
@@ -5903,9 +5913,14 @@ const STORE_COUPONS: Coupon[] = [
       'A Pink Cheeks é uma marca brasileira nascida no esporte há mais de uma década e criada por atletas: protetores solares, maquiagens com FPS, como blush, pó translúcido e batom, além de produtos antiatrito e para cabelos, vendidos no site oficial. O cupom PNK-EMCASACOMCECILIA é o benefício da parceria para quem acompanha o Em Casa com Cecília: 10% OFF, com qualquer forma de pagamento e também sobre os produtos em promoção.',
     faqs: [
       {
+        question: 'Qual é o cupom de desconto da Pink Cheeks?',
+        answer:
+          'O cupom da Pink Cheeks da nossa parceria é PNK-EMCASACOMCECILIA, com 10% OFF em todo o site oficial, para clientes novos e antigos, somando com as promoções em todas as formas de pagamento.',
+      },
+      {
         question: 'Quanto de desconto o cupom PNK-EMCASACOMCECILIA dá na Pink Cheeks?',
         answer:
-          '10% OFF nos produtos do site oficial. No nosso teste, o cupom tirou R$ 16,98 de um carrinho de R$ 169,80, e o resumo do checkout mostrou o valor na linha Desconto no pedido.',
+          '10% OFF nos produtos do site oficial. Em 22/11/2026, na Black Friday, o carrinho com o Kit Natação e o Pink Stick 21 KM caiu de R$ 234,75 para R$ 211,28 (-R$ 23,47), mostrado na linha Desconto no pedido.',
       },
       {
         question: 'O cupom Pink Cheeks vale na primeira compra?',
@@ -5923,7 +5938,7 @@ const STORE_COUPONS: Coupon[] = [
       {
         question: 'O cupom soma com produtos em promoção?',
         answer:
-          'Sim. No nosso teste, o Blush All In One FPS30 Terracota estava em promoção, de R$ 89,90 por R$ 69,90, e o cupom tirou os 10% dele também.',
+          'Sim. Em 22/11/2026, na Black Friday, o Kit Natação (de R$ 269,70 por R$ 134,85) e o Pink Stick 21 KM (de R$ 129,90 por R$ 99,90) caíram de R$ 234,75 para R$ 211,28 com o PNK-EMCASACOMCECILIA.',
       },
       {
         question: 'O cupom vale no Pix?',
@@ -6770,7 +6785,7 @@ const STORE_COUPONS: Coupon[] = [
     shortDescription: 'maquiagem, skincare e cabelos da Océane, no site e no app, inclusive os produtos com preço especial',
     longDescription:
       'O cupom Océane EMCASA dá 10% OFF no site oficial e no aplicativo, para quem compra pela primeira vez e para quem já é cliente, e soma com os preços especiais: no nosso teste no app, os 10% entraram em duas peças da Océane Edition que já estavam com preço especial.',
-    metaTitle: 'Cupom Océane: 10% OFF com EMCASA',
+    metaTitle: 'Cupom Océane: 10% OFF com EMCASA no site e app',
     metaTitleMonth: true,
     metaDescription:
       'Cupom Océane: EMCASA dá 10% OFF em maquiagem e skincare, no site e no app, e soma com os preços especiais. Vale para clientes novos e antigos.',
@@ -6799,9 +6814,14 @@ const STORE_COUPONS: Coupon[] = [
       'A Océane é uma marca brasileira de beleza com quinze anos, vendida no site oficial, no aplicativo e nas lojas próprias: maquiagem, como as paletas e os pós da linha Océane Edition, skincare com produtos feitos na Coreia do Sul, cuidados para cabelos e acessórios de bem-estar. O cupom EMCASA é o benefício da parceria para quem acompanha o Em Casa com Cecília: 10% OFF, também sobre os preços especiais.',
     faqs: [
       {
+        question: 'Qual é o cupom de desconto da Océane?',
+        answer:
+          'O cupom da Océane (também buscada como Oceane) da nossa parceria é EMCASA, com 10% OFF no site oficial e no aplicativo, para clientes novos e antigos, somando com os preços especiais.',
+      },
+      {
         question: 'Quanto de desconto o cupom EMCASA dá na Océane?',
         answer:
-          '10% OFF. No nosso teste no aplicativo, o cupom tirou R$ 20,17 de uma sacola de R$ 201,70, e o total ficou em R$ 181,53. No site, os mesmos 10% tiraram R$ 6,59 de um creme para a área dos olhos de R$ 65,90.',
+          '10% OFF no site oficial e no aplicativo. Em 23/11/2026, no app, uma sacola com itens em preço especial caiu de R$ 201,70 para R$ 181,53 (-R$ 20,17); no site, o Repair Eye Cream caiu de R$ 65,90 para R$ 59,31 (-R$ 6,59).',
       },
       {
         question: 'O cupom Océane vale na primeira compra?',
