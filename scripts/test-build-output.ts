@@ -1971,7 +1971,7 @@ let endFullRelated = 0;
 let endBrunoBoxes = 0;
 // Quem o Bruno assina: todo artigo da Hostinger (a conta do site é dele) e, fora dela, a família do guia de
 // cupons da YesStyle, a Dolce Gusto Genio S Touch, a Mini Me 2.0 (teste dele), as duas poltronas da Damie,
-// os dois artigos da Haier (a opinião da batata é dele) e os nove guias da Starlink (SL1–SL9).
+// os dois artigos da Haier (a opinião da batata é dele) e os dez guias da Starlink (SL1–SL10).
 // Família nova da Hostinger entra sozinha; artigo que perde a assinatura por engano, ou que ganha uma fora desta
 // regra, para aqui.
 const BRUNO_OUTSIDE_HOSTINGER = new Set([
@@ -1991,6 +1991,7 @@ const BRUNO_OUTSIDE_HOSTINGER = new Set([
   'starlink-onde-comprar',
   'starlink-mini-ou-padrao',
   'starlink-planos-residenciais',
+  'starlink-mini-x-primeiras-impressoes',
 ]);
 for (const url of articleUrls) {
   const pagePath = new URL(url).pathname;

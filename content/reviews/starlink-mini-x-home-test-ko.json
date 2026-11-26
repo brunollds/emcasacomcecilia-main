@@ -1,0 +1,305 @@
+{
+  "id": 1468,
+  "slug": "starlink-mini-x-home-test-ko",
+  "translationKey": "starlink-mini-x-primeiras-impressoes",
+  "locale": "ko",
+  "title": "집에서 스타링크 Mini X와 미니 라우터 직접 써 본 후기: 개봉기, 베란다 설치와 첫인상",
+  "seoTitle": "스타링크 Mini X 실사용 첫인상: 200 Mbps 속도·미니 라우터",
+  "type": "첫인상 리뷰",
+  "category": "produtos-experiencias",
+  "reviewKind": "editorial",
+  "author": {
+    "name": "Bruno Luiz",
+    "slug": "bruno-luiz",
+    "role": "편집 및 분석",
+    "initials": "BL"
+  },
+  "authors": [
+    {
+      "name": "Bruno Luiz",
+      "slug": "bruno-luiz",
+      "role": "편집 및 분석",
+      "initials": "BL"
+    }
+  ],
+  "description": "브라질 자택에서 스타링크 Mini X와 미니 라우터를 직접 구매해 테스트했습니다. 베란다 임시 거치 200 Mbps 실측과 두꺼운 벽 Wi-Fi 범위를 정리했습니다.",
+  "metaDescription": "브라질 자택 스타링크 Mini X와 미니 라우터 후기: 15~20분 개통, 첫 측정 200 Mbps와 10 GB 이상 안정적 업로드, 두꺼운 벽 실내 Wi-Fi 범위.",
+  "publishedAt": "2026년 11월 26일",
+  "publishedAtISO": "2026-11-26",
+  "updatedAt": "2026-11-26",
+  "draft": false,
+  "isNew": false,
+  "hideFromPortugueseListings": true,
+  "image": "/images/reviews/starlink/starlink-mini-x-teste-em-casa-hero-ko.webp",
+  "imageAlt": "박스에 담긴 스타링크 Mini X 안테나와 오른쪽의 Mini 라우터 실물 사진에 'Mini X 실사용: 첫인상 후기'와 '첫 측정 200 Mbps + 미니 라우터' 문구가 들어간 표지.",
+  "imageFit": "contain",
+  "imageAspect": "landscape",
+  "pros": [],
+  "cons": [],
+  "affiliate": "starlink",
+  "editorialNote": "고정 설치 전에 제가 직접 구매해 테스트한 후기입니다. 저희는 스타링크 추천 프로그램에 참여하고 있으며 추천 링크를 통해 보상을 받을 수 있습니다.",
+  "gallery": [
+    {
+      "image": "/images/reviews/starlink/starlink-mini-x-caixa-fechada.webp",
+      "alt": "테이블 위에 놓인 미개봉 스타링크 Mini X 키트 골판지 박스",
+      "caption": "브라질 자택으로 배송된 스타링크 Mini X 키트 외부 포장.",
+      "objectFit": "cover",
+      "aspectRatio": 1.6842
+    },
+    {
+      "image": "/images/reviews/starlink/starlink-mini-x-conteudo-caixa.webp",
+      "alt": "스타링크 Mini X 박스 전체 구성품: 흰색 안테나, 감긴 회색 전원 케이블, 60 W 전원 어댑터, 파이프 어댑터 및 빠른 가이드",
+      "caption": "스타링크 Mini X 상자 안에 라우터 내장형 안테나, DC 케이블, 60 W 전원 어댑터, 파이프 어댑터, 가이드가 칸별로 깔끔하게 담겨 있습니다.",
+      "objectFit": "cover",
+      "aspectRatio": 1.561
+    },
+    {
+      "image": "/images/reviews/starlink/starlink-mini-x-traseira-portas-anatel.webp",
+      "alt": "스타링크 Mini X 안테나 뒷면의 접이식 거치대를 세운 모습, DC 전원 단자, 방수 마개로 닫힌 RJ45 포트와 브라질 전파인증 라벨",
+      "caption": "Mini X의 뒤쪽 접이식 거치대 아래에 전원 단자와 방수 마개로 보호되는 RJ45 이더넷 포트가 있습니다.",
+      "objectFit": "contain",
+      "aspectRatio": 0.5631
+    },
+    {
+      "image": "/images/reviews/starlink/starlink-mini-roteador-frente-fonte.webp",
+      "alt": "금속 받침대에 세워진 스타링크 Mini 라우터 전면과 옆에 놓인 소형 전원 어댑터",
+      "caption": "전용 금속 받침대에 올린 스타링크 Mini 라우터와 소형 전원 어댑터.",
+      "objectFit": "cover",
+      "aspectRatio": 1.0989
+    },
+    {
+      "image": "/images/reviews/starlink/starlink-mini-roteador-portas-base.webp",
+      "alt": "1번과 2번으로 번호가 표기된 두 개의 이더넷 포트와 브라질 전파인증 표시가 보이는 스타링크 Mini 라우터 하단 및 금속 받침대",
+      "caption": "Mini 라우터는 전용 금속 받침대가 기본 포함되며 바닥면에 유선 이더넷 포트 2개(1번, 2번)가 배치되어 있습니다.",
+      "objectFit": "cover",
+      "aspectRatio": 1.7758
+    }
+  ],
+  "contentSections": [
+    {
+      "heading": "빠른 답변",
+      "paragraphs": [
+        "스타링크 Mini X와 Mini 라우터 조합은 15~20분 만에 개통되어 베란다 첫 측정에서 200 Mbps를 기록하며 불안정한 광랜의 든든한 대안이 되었습니다. 아래 링크로 대상 요금제에 가입하는 한국 신규 고객은 두 번의 결제 주기를 모두 납부한 뒤 청구서 크레딧을 받을 수 있으며(주문 화면 금액 확인), 개통 과정과 두꺼운 벽 실내 신호는 아래에 정리했습니다."
+      ],
+      "links": [
+        {
+          "label": "내 주소 조회하고 한국 65,000원 추천 보너스 확인",
+          "href": "https://starlink.com/?referral=RC-DF-17132118-63432-88",
+          "sponsored": true
+        }
+      ]
+    },
+    {
+      "heading": "광랜이 있는데도 구매한 이유, 배송 일정과 박스 구성품",
+      "paragraphs": [
+        "동네 광랜이 업무 시간 도중에 흔들리거나 끊기면, 유선 케이블이 들어오는 도심 주택이라도 독립 회선 하나를 갖추는 편이 훨씬 든든합니다.",
+        "저는 2026년 11월 19일에 브라질 주거용 최상위 요금제(Residencial Max)로 스타링크 Mini X 안테나 키트(안테나와 전원 구성품 포함)를 자비로 주문하면서, 결제 시 Mini 라우터 한 대를 별도로 함께 구매해 총 1대의 Mini 라우터를 수령했습니다. 상자는 7일 뒤(달력 기준)인 2026년 11월 26일에 도착했으며, 내부 성형 펄프 칸막이에 모든 구성품이 흐트러짐 없이 분리되어 있었습니다.",
+        "공식 사이트에서 결제를 마치자마자, 브라질 요금제에 포함된 무료 전문 설치 서비스를 스타링크가 안내한 외부 제휴 페이지에서 2026년 12월 10일 방문 일정으로 바로 예약할 수 있었습니다. 처음 가입하는 분이라면 [스타링크 추천 안내 페이지](/ko/coupons/starlink)의 공식 링크로 starlink.com에서 주문을 시작해 두 번의 결제 주기를 정상 납부하면 한국 기준 65,000원 상당의 청구서 크레딧을 받을 수 있습니다(결제 전에 주문 화면에서 실제 표시 금액을 꼭 확인하세요). 추천인에게도 같은 금액이 적립되며, 신호가 집에 맞지 않을 경우 30일 이내에 손상 없이 반납하고 환불받을 수 있습니다."
+      ],
+      "comparisonTable": {
+        "caption": "브라질 주거용 Max 요금제 주문에서 실제로 수령한 구성품과 라벨에 표기된 모델 정보.",
+        "headers": [
+          "주문 장비",
+          "모델명 및 인증 번호",
+          "박스 기본 구성품"
+        ],
+        "rows": [
+          [
+            "스타링크 Mini X 키트 (라우터 내장)",
+            "UTA-231, IP67 Type 4 방수방진, Anatel 01537-25-13890",
+            "후면 접이식 거치대, 회색 DC 전원 케이블, 60 W 전원 어댑터(UTP-231P, 브라질 플러그), 파이프 어댑터"
+          ],
+          [
+            "스타링크 Mini 라우터 (결제 시 별도 구매)",
+            "Anatel 03912-25-13890",
+            "금속 받침대, 소형 전원 어댑터(UTP-251L), 바닥면 번호 표기 RJ45 이더넷 포트 2개(1·2번)"
+          ]
+        ]
+      },
+      "video": {
+        "mp4": "/videos/reviews/starlink/starlink-mini-x-unboxing-loop.mp4",
+        "webm": "/videos/reviews/starlink/starlink-mini-x-unboxing-loop.webm",
+        "poster": "/images/reviews/starlink/starlink-mini-x-unboxing-loop-poster.webp",
+        "alt": "스타링크 Mini X 박스를 열어 내부 거치대에 담긴 흰색 안테나와 전원 어댑터, 파이프 어댑터를 확인하는 실제 개봉 영상",
+        "aspect": "video"
+      }
+    },
+    {
+      "heading": "타공 없이 베란다에 임시로 거치해 본 방법",
+      "paragraphs": [
+        "지붕 본설치 날짜까지 기다릴 필요 없이, 하늘이 트이고 가까운 콘센트에 연결할 수 있는 안전한 자리만 있으면 바로 서비스를 시험해 볼 수 있습니다.",
+        "기사 방문 날짜가 아직 남아 있어, 영구 고정 없이 Mini X를 단단히 올려둘 만한 집 안 후보 지점을 미리 골라 두었습니다. 첫 번째 시도는 안방 베란다였는데, 앱에서 미리 하늘 시야를 가늠해 볼 수 있었지만 실제 연결 품질을 직접 확인하고 싶었습니다.",
+        "다행히 안전망과 베란다 난간 지지대 사이에 안테나가 흔들리지 않도록 안정적으로 끼워 넣을 수 있었습니다. 임시 자리 바로 옆에 전기 콘센트가 있어 전원을 곧바로 연결했고, 케이블 전체를 다 풀지 않고도 켜졌기 때문에 이번 첫 테스트에서는 케이블 전체 길이를 풀거나 재 보지 않았습니다."
+      ],
+      "video": {
+        "mp4": "/videos/reviews/starlink/starlink-mini-x-antena-detalhe-loop.mp4",
+        "webm": "/videos/reviews/starlink/starlink-mini-x-antena-detalhe-loop.webm",
+        "poster": "/images/reviews/starlink/starlink-mini-x-antena-detalhe-loop-poster.webp",
+        "alt": "손으로 들어 보며 확인하는 스타링크 Mini X 안테나의 콤팩트한 크기와 후면 접이식 거치대 동작",
+        "aspect": "video"
+      }
+    },
+    {
+      "heading": "15~20분 만의 개통과 스마트폰 와이파이 자동 전환 문제",
+      "paragraphs": [
+        "앱 초기 설정은 직관적이지만, 스마트폰의 와이파이 자동 전환 기능을 꺼 두지 않으면 설정 도중에 전화기가 안테나 네트워크에서 빠져나가 버립니다.",
+        "첫 개통에서 가장 번거로웠던 점이 바로 이것이었습니다. 초기 단계에서는 아직 인터넷이 연결되지 않은 스타링크 임시 와이파이에 폰이 붙어 있어야 하는데, 인터넷이 안 된다고 판단한 스마트폰이 기존 집 와이파이로 자꾸 스스로 옮겨 갔습니다.",
+        "와이파이를 수동으로 고정해 두고 정렬을 시작하자 그다음부터는 약간의 기다림만 필요했습니다. 안테나가 해당 위치에서 최적의 방향을 잡고, 장애물을 점검하면서 동시에 소프트웨어 업데이트를 내려받았습니다. 전원 연결부터 스타링크 와이파이로 인터넷 웹서핑이 되기까지 총 15~20분 정도 걸렸습니다."
+      ],
+      "checklist": {
+        "title": "첫 개통 시 꼭 확인할 사항",
+        "items": [
+          "인터넷이 아직 열리지 않은 임시 와이파이에서 폰이 이탈하지 않도록 스마트폰의 와이파이 자동 전환을 끄세요.",
+          "임시 테스트라도 바람에 흔들리지 않게 전원을 꽂기 전에 Mini X를 단단히 고정하세요.",
+          "소프트웨어 다운로드가 끝나고 3D 정렬 도우미가 올바른 방향을 가리킬 때까지 기다리세요.",
+          "Mini 라우터를 추가하기 전에 앱 대시보드에서 가입한 요금제가 활성 상태로 뜨는지 먼저 확인하세요."
+        ]
+      },
+      "image": {
+        "src": "/images/reviews/starlink/starlink-mini-x-app-painel-residencial-max.webp",
+        "alt": "브라질에서 사용한 포르투갈어 스타링크 앱 대시보드 화면으로 주거용 Max 요금제와 Mini 안테나 업데이트 86% 진행 상태를 표시함",
+        "caption": "초기 업데이트 진행 중 브라질 주거용 Max 요금제로 활성화된 Mini를 보여 주는 포르투갈어 앱 대시보드.",
+        "objectFit": "contain",
+        "aspectRatio": 0.4943
+      },
+      "video": {
+        "mp4": "/videos/reviews/starlink/starlink-mini-x-app-alinhamento-loop.mp4",
+        "webm": "/videos/reviews/starlink/starlink-mini-x-app-alinhamento-loop.webm",
+        "poster": "/images/reviews/starlink/starlink-mini-x-app-alinhamento-loop-poster.webp",
+        "alt": "Mini X 안테나가 올바르게 정렬되었음을 확인해 주는 포르투갈어 스타링크 앱 3D 정렬 안내 화면",
+        "aspect": "portrait"
+      }
+    },
+    {
+      "heading": "베란다에서 측정한 속도와 두 시간 뒤 장애물 지도",
+      "paragraphs": [
+        "부분적인 장애물이 있는 안방 베란다에 임시로 올려둔 상태였지만, 첫 두 시간 동안 단 한 번의 끊김 없이 연결이 유지되었습니다.",
+        "네트워크가 열리자마자 진행한 첫 번째 속도 측정에서 다운로드 200 Mbps, 업로드 19 Mbps, 지연 시간(ping) 25 ms가 나왔습니다. 연속 부하 상태의 안정성을 보려고 Air Explorer로 OneDrive 백업을 Google Drive로 옮기는 작업을 걸어 두었는데, 1시간 넘게 이어지는 동안 10 GB 이상이 전송되었고 전송 속도 자체는 집 유선 인터넷보다 낮았지만 지켜본 시간 동안 전송이 끊김 없이 안정적으로 이어졌습니다.",
+        "두 시간 동안 켜 둔 뒤 앱의 장애물 지도를 열어 보니 예상대로 베란다 측면 위치가 하늘 시야가 가장 트인 곳은 아니었지만, 실제 사용에서는 끊김 없이 매끄럽게 동작했습니다. 앱 자체에서도 지도를 완성하고 보정하는 데 몇 시간이 필요하다고 안내하므로 초반 수치만으로 성급히 판단하지 않는 편이 좋습니다. 제 경우 추후 지붕에 정식 고정하면 최대 속도 상한이 더 올라갈 여지가 있습니다. 스타링크는 계약상 최저 속도를 고정 보장하지 않으며, 실제 수치는 지역과 하늘 시야에 따라 달라집니다."
+      ],
+      "metrics": {
+        "items": [
+          {
+            "label": "1차 테스트 다운로드",
+            "value": "200",
+            "unit": " Mbps",
+            "note": "베란다 임시 거치 측정"
+          },
+          {
+            "label": "1차 테스트 업로드",
+            "value": "19",
+            "unit": " Mbps",
+            "note": "브라질 가정용 Max 요금제"
+          },
+          {
+            "label": "지연 시간(ping)",
+            "value": "25",
+            "unit": " ms",
+            "note": "개통 직후 측정"
+          },
+          {
+            "label": "전원 연결부터 접속까지",
+            "value": "15~20",
+            "unit": "분",
+            "note": "정렬 및 업데이트 포함"
+          }
+        ],
+        "summary": {
+          "badge": "끊김 없이 안정적",
+          "text": "부분 가림에도 베란다 2시간 무중단 유지 및 1시간 이상 10 GB 초과 클라우드 전송 안정 지속."
+        }
+      },
+      "image": {
+        "src": "/images/reviews/starlink/starlink-mini-x-app-obstrucoes.webp",
+        "alt": "하늘 보정 3D 돔과 가림 없는 시야 범례, 초기 수집 안내가 표시된 스타링크 앱 장애물 화면",
+        "caption": "베란다 보정 진행 중에 확인한 스타링크 앱의 장애물 화면.",
+        "objectFit": "contain",
+        "aspectRatio": 0.4943
+      }
+    },
+    {
+      "heading": "두꺼운 벽 환경에서 Mini 라우터와 거실 신호 개선",
+      "paragraphs": [
+        "집이 넓거나 조적·콘크리트 벽이 두꺼우면 야외 안테나 하나만으로 모든 방을 덮기 어렵지만, 중간 지점에 Mini 라우터를 알맞게 놓자 거실 신호가 깔끔하게 살아났습니다.",
+        "제 집 환경을 솔직히 말씀드리면, 벽이 두꺼워 와이파이 공유기 배치가 원래 까다로운 편입니다. 현재는 TP-Link Deco BE22 3대로 메시를 구성해 주 공유기를 메인 거실 노드와 유선으로 연결하고 세 번째 노드는 무선으로 쓰는데도, 안방 베란다를 포함해 신호가 중간에서 약한 구석이 여전히 남습니다. 이 점을 알고 있었기 때문에 결제 시 스타링크 Mini 라우터 한 대를 별도로 함께 구매했습니다.",
+        "Mini 라우터를 콘센트에 꽂고 몇 분 기다리면 앱에 뜨면서 아주 간단하게 무선 메시(Mesh) 설정을 마칠 수 있습니다. 처음에는 메인 거실에 두었는데 앱이 신호 위치가 좋지 않다며 안테나와 더 가까운 곳으로 옮기라고 안내했습니다. 그래서 베란다와 더 가깝고 중간 장애물이 적은 1층 지점으로 위치를 옮겼더니 Mini X와 즉시 연결되었습니다. 지금 제가 강한 신호를 원했던 메인 거실에서 이 후기를 적는 동안 스마트폰의 스타링크 와이파이 신호는 거의 100%에 가깝게 뜹니다. 이처럼 중간 지점으로 Mini 라우터를 옮겨 둔 것만으로 메인 거실 신호는 깔끔하게 해결되었지만, 집 구석구석을 모두 채우려면 두 번째 Mini 라우터가 필요할 가능성이 큽니다. 또한 이번 초기 테스트에서는 방별 커버리지를 재어 기존 Deco BE22 3대와 비교하지는 않았습니다. 이번 초기 테스트에서는 바닥 포트의 유선 이더넷을 연결하지 않고 전부 무선 메시로만 운용했습니다."
+      ],
+      "video": {
+        "mp4": "/videos/reviews/starlink/starlink-mini-roteador-app-cabo-mesh-loop.mp4",
+        "webm": "/videos/reviews/starlink/starlink-mini-roteador-app-cabo-mesh-loop.webm",
+        "poster": "/images/reviews/starlink/starlink-mini-roteador-app-cabo-mesh-loop-poster.webp",
+        "alt": "집 안에서 Mini 라우터 배치 위치와 유선 연결 옵션을 안내하는 스타링크 앱 3D 애니메이션",
+        "aspect": "portrait"
+      }
+    },
+    {
+      "heading": "첫인상 정리: 만족스러웠던 점과 주의할 점",
+      "paragraphs": [
+        "동네 광랜이 자주 끊기거나 지붕 시공 전에 신호를 미리 확인해 보고 싶은 경우라면, 임시 배치 첫 몇 시간만으로도 충분히 안정적인 사용성을 보여 주었습니다.",
+        "이번 첫 사용에서 좋았던 점은 잘 정돈된 패키지, 공구 없이 끝나는 간편한 개통, 부분 가림이 있는 임시 위치에서도 안정적인 웹 접속, 1시간 넘게 10 GB 이상 클라우드 백업을 안정적으로 이어 간 전송, 빠른 무료 설치 예약, 그리고 위치 조정 후 메인 거실에서 확보된 강한 신호였습니다.",
+        "반면 신경 써야 할 점도 있습니다. 스마트폰의 와이파이 자동 전환을 꺼야 하고, Mini 라우터가 앱에 뜰 때까지 몇 분 기다려야 하며, 초기 몇 시간의 보정 기간을 감안해야 합니다. 집이 크거나 방이 많이 나뉘어 있다면 추가 노드 한두 개를 미리 계획하는 편이 좋습니다.",
+        "2026년 12월 10일로 예정된 지붕 정식 설치를 마친 뒤 이 후기를 다시 업데이트할 예정입니다. 아직은 장시간 폭우 상황이나 케이블을 끝까지 늘린 배치, 안테나와 라우터 사이의 유선 연결까지는 시험하지 않았습니다. 모델별 사양 차이를 함께 비교하고 있다면 [스타링크 Mini vs 스탠다드 비교 가이드](/ko/reviews/starlink-mini-or-standard-ko)도 참고해 보세요."
+      ],
+      "image": {
+        "src": "/images/reviews/starlink/starlink-mini-x-app-configuracoes.webp",
+        "alt": "라우터와 스타링크 탭, 절전 시간, 장애물 지도 초기화 메뉴가 표시된 포르투갈어 스타링크 앱 설정 화면",
+        "caption": "브라질에서 사용한 포르투갈어 스타링크 앱의 안테나 설정 메뉴.",
+        "objectFit": "contain",
+        "aspectRatio": 0.4943
+      },
+      "links": [
+        {
+          "label": "내 주소 서비스 가능 여부와 한국 65,000원 추천 보너스 확인",
+          "href": "https://starlink.com/?referral=RC-DF-17132118-63432-88",
+          "sponsored": true
+        },
+        {
+          "label": "스타링크 Mini vs 스탠다드 실전 비교 보기",
+          "href": "/ko/reviews/starlink-mini-or-standard-ko"
+        }
+      ]
+    },
+    {
+      "heading": "자주 묻는 질문",
+      "bullets": [
+        "스타링크 Mini X를 처음 설정하는 데 시간이 얼마나 걸리나요? 전원을 연결하고 업데이트와 정렬을 마쳐 인터넷을 쓰기까지 20분이 채 걸리지 않았습니다. 스마트폰이 임시 와이파이에서 자동으로 이탈하지 않게 막는 방법은 위의 개통 챕터에서 확인할 수 있습니다.",
+        "베란다에 올려둔 스타링크 Mini X 속도는 어느 정도 나왔나요? 베란다 첫 테스트에서 다운로드 200 Mbps, 업로드 19 Mbps, ping 25 ms를 직접 측정했습니다. 부분 가림이 있어도 2시간 동안 끊김 없이 안정적으로 유지되었고, 1시간 넘게 10 GB 이상을 옮기는 전송도 지켜본 시간 동안 안정적으로 이어졌습니다.",
+        "스타링크 Mini X 한 대만으로 벽이 두꺼운 큰 집 전체를 커버할 수 있나요? 제 환경에서는 단독으로 부족했습니다. Mini 라우터 한 대를 1층의 트인 위치로 옮겨 배치하자 메인 거실 신호가 거의 최대치로 잡혔으며, 더 큰 집이라면 두 번째 노드가 필요할 수 있습니다.",
+        "정식 설치 전에 테스트하려면 지붕에 구멍을 뚫어야 하나요? 아닙니다. 하늘이 보이고 콘센트가 가까운 단단한 자리에 안테나를 임시로 올려두기만 해도 30일 반품 기간 안에 충분히 품질을 검증할 수 있습니다.",
+        "스타링크 추천 링크 보너스는 어떻게 적용되나요? 신규 고객이 공식 추천 링크로 starlink.com에서 주문해 두 번의 결제 주기를 정상 납부하면 다음 청구서에 크레딧이 반영됩니다. 한국 기준 금액은 65,000원이며, 결제 전에 주문 화면에서 실제 표시 금액을 반드시 확인하세요."
+      ]
+    }
+  ],
+  "decision": {
+    "takeIf": [
+      "지역 광랜이 자주 끊겨 지붕 시공 전에 독립적인 위성 회선을 먼저 시험해 보고 싶다.",
+      "몇 분 만에 설치되는 소형 키트를 원하며, 집 벽이 두껍다면 Mini 라우터를 추가할 계획이 있다.",
+      "정식 설치를 기다리는 동안 30일 테스트 기간을 활용해 임시 위치에서 품질을 검증하고 싶다."
+    ],
+    "skipIf": [
+      "현재 사용 중인 유선 광랜이 계약 속도대로 안정적이라 보조 회선이 전혀 필요 없다.",
+      "Mini X 내장 라우터 하나만으로 벽이 많고 넓은 집 전체의 와이파이를 해결하길 기대한다.",
+      "지역과 하늘 시야에 따른 변동 없이 계약상 고정된 최저 속도나 지연 시간을 반드시 보장받아야 한다."
+    ]
+  },
+  "relatedArticles": [
+    {
+      "slug": "starlink-mini-or-standard-ko"
+    },
+    {
+      "slug": "starlink-worth-it-ko"
+    },
+    {
+      "slug": "starlink-cancel-ko"
+    },
+    {
+      "slug": "starlink-referral-ko"
+    }
+  ],
+  "cta": {
+    "text": "공식 추천 링크로 starlink.com을 열면 내 주소의 요금과 30일 내 손상 없는 반품 조건을 확인할 수 있습니다. 2주기 정상 납부 후 다음 청구서에 반영되는 한국 추천 금액(65,000원)은 결제 전 주문 화면에서 꼭 확인하세요.",
+    "label": "2주기 후 크레딧 적용 조건으로 내 주소 확인",
+    "url": "https://starlink.com/?referral=RC-DF-17132118-63432-88",
+    "sponsored": true
+  }
+}
