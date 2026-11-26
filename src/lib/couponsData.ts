@@ -1723,9 +1723,9 @@ const STORE_COUPONS: Coupon[] = [
     shortDescription: 'link principal, código de indicação e campanhas vigentes',
     longDescription:
       'O 4CW5Y é o código de indicação da Cecília: abre uma seleção da SHEIN com promoções e descontos. O botão abaixo já leva até ela; se preferir, copie o código e pesquise no app ou no site. Outras campanhas estão disponíveis abaixo.',
-    metaTitle: 'SHEIN: 4CW5Y (indicação) e cupom de 50% para novos usuários',
+    metaTitle: 'SHEIN: 4CW5Y na busca (ofertas) e K49L457 (50% para novos)',
     metaDescription:
-      'Link da Cecília para a SHEIN: abre a página do 4CW5Y, com promoções e descontos, ou pesquise o código no app ou no site. K49L457: 50% para novos usuários.',
+      'Indicação SHEIN 4CW5Y: use o link da Cecília ou pesquise 4CW5Y na busca para ver a seleção de ofertas. Campanha K49L457: cupom de 50% para novos.',
     eligibleCategories:
       'Moda, acessórios, beleza, casa e demais categorias elegíveis em cada campanha',
     validity: 'Links e campanhas sujeitos a alteração; confira as condições exibidas pela SHEIN',
@@ -1818,7 +1818,7 @@ const STORE_COUPONS: Coupon[] = [
     shortDescription: 'link da Cecília para as promoções da loja',
     longDescription:
       'O Em Casa com Cecília não tem cupom na Temu: o botão abaixo abre a loja pelo link da Cecília, com as promoções que estiverem no ar. O preço e o desconto de cada produto são os que a Temu mostra na página e no carrinho.',
-    metaTitle: 'Temu: promoções pelo link da Cecília, frete e devolução',
+    metaTitle: 'Cupom Temu? Promoções pelo link da Cecília, frete e devolução',
     metaDescription:
       'Link da Cecília para a Temu: promoções da loja, frete grátis a partir de R$ 69 e devolução em até 90 dias da compra. Não há cupom nosso na Temu.',
     eligibleCategories: 'Todas as categorias da Temu; cada promoção vale para os produtos que a loja indicar',
@@ -1831,7 +1831,7 @@ const STORE_COUPONS: Coupon[] = [
       'A Temu é uma loja online internacional que vende moda, itens para casa, eletrônicos e utilidades, com envio para o Brasil. Esta página reúne o link da Cecília e as regras de frete e de devolução publicadas pela loja. Compras feitas pelo link podem gerar comissão para o Em Casa com Cecília, sem custo adicional para quem compra.',
     faqs: [
       {
-        question: 'Tem cupom da Cecília na Temu?',
+        question: 'Tem cupom de desconto da Temu?',
         answer:
           'Não. O Em Casa com Cecília tem um link de afiliado da Temu, não um cupom: o link abre a loja com as promoções que estiverem no ar, e o desconto de cada produto é o que a Temu mostra.',
       },
@@ -1902,7 +1902,7 @@ const STORE_COUPONS: Coupon[] = [
     shortDescription: 'link da Cecília para as promoções da loja',
     longDescription:
       'O Em Casa com Cecília não tem cupom no AliExpress: o botão abaixo abre a loja pelo link da Cecília, com as promoções que estiverem no ar. O preço, o frete e o prazo de cada produto são os que o AliExpress mostra na página dele.',
-    metaTitle: 'AliExpress: promoções pelo link da Cecília, frete e devolução',
+    metaTitle: 'Cupom AliExpress? Promoções pelo link da Cecília e devolução',
     metaDescription:
       'Link da Cecília para o AliExpress: promoções da loja, frete e prazo na página de cada produto e as regras de devolução. Não há cupom nosso no AliExpress.',
     eligibleCategories: 'Todas as categorias do AliExpress; cada promoção vale para os produtos que a loja indicar',
@@ -1915,7 +1915,7 @@ const STORE_COUPONS: Coupon[] = [
       'O AliExpress é um marketplace internacional do grupo Alibaba, em que vendedores de vários países anunciam eletrônicos, moda, itens para casa e acessórios. Esta página reúne o link da Cecília e as regras de devolução publicadas pela loja. Compras feitas pelo link podem gerar comissão para o Em Casa com Cecília, sem custo adicional para quem compra.',
     faqs: [
       {
-        question: 'Tem cupom da Cecília no AliExpress?',
+        question: 'Tem cupom de desconto do AliExpress?',
         answer:
           'Não. O Em Casa com Cecília tem um link de afiliado do AliExpress, não um cupom: o link abre a loja com as promoções que estiverem no ar, e o desconto de cada produto é o que o AliExpress mostra.',
       },
@@ -1985,7 +1985,7 @@ const STORE_COUPONS: Coupon[] = [
     shortDescription: 'até 75% OFF no Proton VPN, Mail, Pass, Drive e Lumo pelos links da Cecília',
     longDescription:
       'Na Black Friday, a Proton está com até 75% OFF em todas as linhas pelos links da Cecília: Proton VPN, Mail, Pass, Drive, Lumo e Proton Unlimited. É só tocar no botão do produto, escolher o plano e assinar, sem código para copiar. E, se não gostar, a Proton devolve o valor da assinatura se o reembolso for pedido em até 30 dias.',
-    metaTitle: 'Proton Black Friday: até 75% OFF pelo link da Cecília',
+    metaTitle: 'Cupom Proton? Até 75% OFF na Black Friday pelo link da Cecília',
     metaDescription:
       'Proton com até 75% OFF na Black Friday pelos links da Cecília: VPN, Mail, Pass, Drive e Lumo, sem código para copiar e com reembolso em até 30 dias.',
     eligibleCategories: 'Planos pagos do Proton VPN, Proton Mail, Proton Pass, Proton Drive, Lumo e Proton Unlimited',
@@ -2031,7 +2031,7 @@ const STORE_COUPONS: Coupon[] = [
           'Até 75% OFF em todas as linhas pelos links da Cecília: Proton VPN, Mail, Pass, Drive, Lumo e Proton Unlimited. O desconto de cada plano aparece na página de planos que o link abre, e o preço final, no checkout.',
       },
       {
-        question: 'Tem cupom da Cecília na Proton?',
+        question: 'Tem cupom de desconto da Proton?',
         answer:
           'Não precisa de cupom: na Black Friday, os links da Cecília já abrem a Proton com até 75% OFF. É só tocar no botão do produto que você quer, escolher o plano e assinar, sem código para colar no checkout.',
       },
@@ -6451,10 +6451,10 @@ const STORE_COUPONS: Coupon[] = [
     shortDescription: 'compra nova de planos da Hostinger, para clientes novos e antigos',
     longDescription:
       'O cupom Hostinger SONAR20 dá 20% OFF no primeiro período de uma compra nova, para quem está chegando e para quem já é cliente. Nos planos de 12, 24 e 48 meses ele entra; no de 1 mês, depende do plano. Cole o código no campo de cupom do carrinho e confira a linha "Cupom aplicado". O Em Casa com Cecília roda na Hostinger desde 2024.',
-    metaTitle: 'Cupom Hostinger: SONAR20 com 20% OFF na compra nova',
+    metaTitle: 'Cupom e indicação Hostinger: SONAR20 com 20% OFF',
     metaTitleMonth: true,
     metaDescription:
-      'Cupom Hostinger: SONAR20 dá 20% OFF na compra nova, para cliente novo ou antigo, inclusive na Black Friday, nos planos de 12 meses ou mais.',
+      'Cupom e indicação Hostinger SONAR20: 20% OFF na compra nova para quem chega e para quem já é cliente, inclusive na Black Friday (12 a 48 meses).',
     eligibleCategories: 'Compra nova de planos da Hostinger, para clientes novos e antigos, nos ciclos de 12, 24 e 48 meses; no ciclo de 1 mês, depende do plano; a renovação e o domínio avulso saem sem desconto',
     validity: 'Cupom ativo enquanto a parceria estiver vigente',
     reusable: 'Vale em compra nova, para clientes novos e para quem já tem conta na Hostinger; na renovação, não há desconto',
@@ -6482,9 +6482,9 @@ const STORE_COUPONS: Coupon[] = [
       'A Hostinger é uma empresa de hospedagem de sites, com planos de hospedagem, criador de sites, VPS, domínios e e-mail. O Em Casa com Cecília roda na Hostinger desde 2024, como aplicação Node.js. O SONAR20 é o cupom da parceria: dá 20% OFF no primeiro período da compra nova, para clientes novos e antigos.',
     faqs: [
       {
-        question: 'Qual é o cupom da Hostinger?',
+        question: 'Qual é o cupom de desconto da Hostinger?',
         answer:
-          'O cupom da Hostinger é o SONAR20, com 20% OFF no primeiro período de uma compra nova elegível: digite o código no campo "Tem um cupom de desconto?" do carrinho e confira a linha "Cupom aplicado" antes de pagar. A renovação sai pelo preço de tabela, sem desconto.',
+          'O cupom e código de indicação da Hostinger é o SONAR20, com 20% OFF no primeiro período de uma compra nova elegível, para clientes novos e antigos. No teste de 23/11/2026, o Single de 12 meses caiu de R$ 143,88 para R$ 115,10 no campo "Tem um cupom de desconto?" do carrinho. A renovação sai pelo preço de tabela, sem desconto.',
       },
       {
         question: 'O cupom SONAR20 da Hostinger está funcionando hoje?',
@@ -6508,7 +6508,7 @@ const STORE_COUPONS: Coupon[] = [
       {
         question: 'O cupom vale no plano mensal?',
         answer:
-          'Depende do plano. No nosso teste de novembro, o Cloud Startup de 1 mês caiu de R$ 139,99 para R$ 111,99, mas o carrinho recusou o código no Single e no Premium de 1 mês. Nos ciclos de 12, 24 e 48 meses, os 20% entraram. Confira a linha "Cupom aplicado" antes de pagar.',
+          'Depende do plano. No nosso teste de 23/11/2026, o Cloud Startup de 1 mês caiu de R$ 139,99 para R$ 111,99, mas o carrinho recusou o código no Single e no Premium de 1 mês. Nos ciclos de 12, 24 e 48 meses, os 20% entraram. Confira a linha "Cupom aplicado" antes de pagar.',
       },
       {
         question: 'Onde coloco o cupom na Hostinger?',
@@ -6573,9 +6573,9 @@ const STORE_COUPONS: Coupon[] = [
     shortDescription: 'cliente novo: receba R$ 200 do programa oficial de indicação da Starlink pelo link da Cecília',
     longDescription:
       'Cliente novo: receba R$ 200 do programa oficial de indicação da Starlink assinando pelo link da Cecília. A indicação só conta no pedido feito pelo link, em starlink.com, nos planos Residencial e Viagem, e o valor entra depois de dois meses de assinatura, por padrão como crédito na fatura. A Starlink dá 30 dias de teste com reembolso integral.',
-    metaTitle: 'Cupom Starlink? Indicação de R$ 200 pelo link da Cecília',
+    metaTitle: 'Starlink: bônus de R$ 200 por indicação após dois meses',
     metaDescription:
-      'Indicação Starlink: R$ 200 para quem assina pela primeira vez pelo link da Cecília, em crédito na fatura depois de dois meses. Residencial e Viagem.',
+      'Bônus por indicação Starlink: R$ 200 após dois meses de assinatura para novos clientes pelo link da Cecília, em crédito na fatura. Residencial e Viagem.',
     eligibleCategories:
       'Primeira assinatura de um plano Residencial (Lite, 100 Mbps, 200 Mbps, Residencial e Máx) ou Viagem (100 GB, 300 GB e Ilimitado), pedida em starlink.com pelo link',
     validity: 'Indicação ativa enquanto o programa de indicação da Starlink estiver valendo; o valor é o que a Starlink paga no Brasil',
