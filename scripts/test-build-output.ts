@@ -73,7 +73,11 @@ import { VIDEOS_TRAIL, getVideoPageContent, getVideosHubContent, type VideoPageC
 import { YOUTUBE_SUBSCRIBE_URL, videoMorphName } from '../src/lib/videosShelf';
 import { getPrimaryRewardCode } from '../src/lib/yesstyleCoupons';
 import { getConsentCopy } from '../src/components/consent/consentCopy';
-import { inferCouponPercentValue } from '../src/lib/festivalBlackFriday';
+import {
+  FESTIVAL_BANNER_STRIPS,
+  FESTIVAL_EXTRA_LINK_PARTNERS,
+  inferCouponPercentValue,
+} from '../src/lib/festivalBlackFriday';
 import { EVERY_STORE_TRANSLATED_CLAIM, LABEL_SAME_AS_PORTUGUESE, OTHER_COUPONS, codeAsCouponRegExp, escapeRegExp, getCategoriesSameAsPortuguese, getPtStoreTexts, isStoreLink } from './locale-home-guards';
 
 // Confere o que só existe depois do `next build`: o CSS final, o sitemap.xml, o llms.txt, o <head>
@@ -5168,6 +5172,12 @@ function blackFridayPageProblems(
     if (!href) continue;
     if (isInternalLink(href)) {
       if (/\bsponsored\b/.test(tag)) problems.push(`link interno com sponsored: ${href}`);
+      if (href.startsWith('/') && !href.startsWith('//')) {
+        const cleanPath = href.split(/[?#]/)[0];
+        if (cleanPath && !builtFile(`${SITE_URL}${cleanPath}`)) {
+          problems.push(`link interno aponta para rota inexistente (404): ${href}`);
+        }
+      }
     } else if (href.startsWith('https://')) {
       externalStoreLinks++;
       if (!tag.includes('target="_blank"')) problems.push(`link externo sem target="_blank": ${href}`);
@@ -5239,6 +5249,43 @@ function blackFridayPageProblems(
         `/blackfriday/${store.slug}: sem o código ativo da ${store.brand}`,
       );
     }
+  }
+  for (const strip of FESTIVAL_BANNER_STRIPS) {
+    assert.ok(
+      bodyOf(bfHtml).includes(escapeHtml(strip.href)),
+      `/blackfriday: sem o link especial da faixa ${strip.id}`,
+    );
+    assert.ok(
+      bodyOf(bfHtml).includes(`alt="${escapeHtml(strip.bannerImgAlt)}"`),
+      `/blackfriday: sem a imagem de faixa (${strip.bannerImgAlt})`,
+    );
+  }
+  for (const extra of FESTIVAL_EXTRA_LINK_PARTNERS) {
+    assert.ok(
+      bodyOf(bfHtml).includes(escapeHtml(extra.brand)),
+      `/blackfriday: sem o parceiro de link convertido ${extra.brand}`,
+    );
+    assert.ok(
+      !bfHtml.includes(`/cupons/${extra.slug}`),
+      `/blackfriday: não deve apontar para /cupons/${extra.slug} inexistente`,
+    );
+    const extraUrl = `${SITE_URL}/blackfriday/${extra.slug}`;
+    const extraFile = builtFile(extraUrl);
+    assert.ok(extraFile, `/blackfriday/${extra.slug}: subpágina do parceiro de link não gerada no build`);
+    const extraHtml = read(extraFile);
+    assert.deepEqual(
+      blackFridayPageProblems(extraHtml, sitemapUrls.includes(extraUrl), llmsUrls.includes(extraUrl), []),
+      [],
+      `/blackfriday/${extra.slug}`,
+    );
+    assert.ok(
+      bodyOf(extraHtml).includes(escapeHtml(extra.offerUrl)),
+      `/blackfriday/${extra.slug}: sem o link oficial convertido da ${extra.brand}`,
+    );
+    assert.ok(
+      !extraHtml.includes(`/cupons/${extra.slug}`),
+      `/blackfriday/${extra.slug}: não deve apontar para /cupons/${extra.slug} inexistente`,
+    );
   }
   assert.notDeepEqual(blackFridayPageProblems(bfHtml, true, false, []), [], '/blackfriday: controle do sitemap passou');
   assert.notDeepEqual(

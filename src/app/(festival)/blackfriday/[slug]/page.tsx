@@ -1,14 +1,18 @@
 import type { Metadata, ResolvingMetadata } from 'next';
 import { notFound } from 'next/navigation';
 import { FestivalPartnerClient } from '@/components/festival/FestivalPartnerClient';
-import { getActiveCoupons } from '@/lib/couponsData';
-import { getFestivalPartnerPageData, isBlackFridaySeason } from '@/lib/festivalBlackFriday';
+import {
+  getFestivalPartnerMeta,
+  getFestivalPartnerPageData,
+  getFestivalPartnerSlugs,
+  isBlackFridaySeason,
+} from '@/lib/festivalBlackFriday';
 
 export const dynamicParams = false;
 export const revalidate = 300;
 
 export function generateStaticParams() {
-  return getActiveCoupons().map((store) => ({ slug: store.slug }));
+  return getFestivalPartnerSlugs().map((slug) => ({ slug }));
 }
 
 export async function generateMetadata(
@@ -20,7 +24,7 @@ export async function generateMetadata(
   parent: ResolvingMetadata,
 ): Promise<Metadata> {
   const { slug } = await params;
-  const store = getActiveCoupons().find((c) => c.slug === slug);
+  const store = getFestivalPartnerMeta(slug);
   if (!store) return {};
 
   const resolvedParent = await parent;
@@ -33,15 +37,15 @@ export async function generateMetadata(
 
   const title = isReward
     ? `${store.brand} (${store.discount}) — Reward Code ${store.code} | ${seasonLabel} da Cecília`
-    : store.offerMode === 'discount-code'
+    : store.offerMode === 'discount-code' && store.code
       ? `${store.brand}: ${store.discount} com ${store.code} | ${seasonLabel} da Cecília`
       : `${store.brand}: ${store.discount} | ${seasonLabel} da Cecília`;
 
   const description = isReward
     ? `Reward Code ${store.code} (${store.discount}) na ${store.brand}, campanhas ativas e guias do Em Casa com Cecília.`
-    : store.offerMode === 'discount-code'
+    : store.offerMode === 'discount-code' && store.code
       ? `Copie o código ${store.code} (${store.discount}) e abra o site oficial da ${store.brand}. Veja campanhas ativas, regras e guias.`
-      : `Acesse ${store.discount} no site oficial da ${store.brand} pelo link da parceria Em Casa com Cecília.`;
+      : `Acesse ${store.discount} no site oficial da ${store.brand} pelo link oficial da parceria Em Casa com Cecília.`;
 
   return {
     title,
