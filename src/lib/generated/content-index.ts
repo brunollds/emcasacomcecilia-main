@@ -140267,7 +140267,7 @@ const reviewsChunk0: unknown[] = [
       {
         "heading": "Resposta rápida",
         "paragraphs": [
-          "Cole SKEMCASACOMCECILIA no campo “Cupom de desconto” da sacola e clique em OK: o [cupom Skelt](/cupons/skelt) dá até 10% OFF no site oficial, somado às promoções e ao desconto do Pix anunciado pela loja. Na Black Friday, tirou 5% extras nos itens já remarcados. Não vale no Mercado Livre."
+          "Cole SKEMCASACOMCECILIA no campo “Cupom de desconto” da sacola e clique em OK: o [cupom Skelt](/cupons/skelt) dá até 10% OFF no site oficial, somando com as promoções vigentes. A loja anuncia desconto no Pix na etapa de pagamento; confira o total antes de pagar. Não vale no Mercado Livre."
         ]
       },
       {
@@ -140438,7 +140438,7 @@ const reviewsChunk0: unknown[] = [
         "bullets": [
           "Qual é o cupom da Skelt? O cupom da Skelt da nossa parceria é SKEMCASACOMCECILIA, com até 10% OFF em todo o site oficial, para cliente novo ou antigo, em todas as formas de pagamento.",
           "O cupom Skelt soma com produto em promoção? Sim. Em outubro, os 10% entraram sobre o mousse em oferta; na Black Friday e na November Glow, entraram mais 5% sobre os preços remarcados (Mousse de R$ 101,92 para R$ 96,82).",
-          "O cupom SKEMCASACOMCECILIA soma com o Pix? Sim. A loja anuncia desconto extra no Pix (5% fora de campanha e 10% na Black Friday), aplicado na etapa de pagamento sobre o pedido já com cupom.",
+          "O cupom SKEMCASACOMCECILIA soma com o Pix? O cupom vale também no Pix. No teste de outubro, quando o Pix era de 5%, os dois descontos somaram; na Black Friday, a loja anuncia 10% no Pix na etapa de pagamento (fora da sacola testada), então confira o total antes de concluir.",
           "O cupom Skelt soma com outro cupom? Não. A Skelt aceita um cupom por pedido: no nosso teste, aplicar outro código trocou o SKEMCASACOMCECILIA.",
           "O cupom tira o brinde? Pode tirar. O valor mínimo dos brindes conta o pedido depois dos descontos, então o cupom e o Pix podem deixar o total abaixo da faixa.",
           "O cupom vale no Mercado Livre? Não. O cupom é usado só no site oficial da Skelt. No Mercado Livre, vale o preço do anúncio. Para ver a marca no Mercado Livre, use o [link de compra da marca](https://meli.la/2unTb7k), que abre antes a página da Cecília no Mercado Livre, como todo link meli.la.",
@@ -140512,14 +140512,14 @@ const reviewsChunk0: unknown[] = [
       {
         "heading": "Resposta rápida",
         "paragraphs": [
-          "A Black Friday da Skelt já começou, mantendo a November Glow ativa, até 60% nos itens remarcados e +10% OFF anunciados no Pix. Com o [cupom Skelt](/cupons/skelt) SKEMCASACOMCECILIA (até 10% OFF), a sacola tirou mais 5% nos avulsos e nos kits testados, e o Kit Iniciante seguiu abaixo dos itens soltos."
+          "A Black Friday da Skelt já começou, mantendo a November Glow ativa, até 60% nos itens remarcados e 10% anunciados no Pix. O [cupom Skelt](/cupons/skelt) SKEMCASACOMCECILIA dá até 10% OFF e somou na sacola com os avulsos e os kits testados; o Kit Iniciante seguiu abaixo dos itens soltos."
         ]
       },
       {
         "heading": "O que a Skelt tem no ar e quando é a Black Friday?",
         "paragraphs": [
           "Em 26 de novembro, o site oficial já abria com o aviso “Começou a Black Friday Skelt!”, mantendo a campanha November Glow ativa: desconto progressivo nos avulsos (15% em um item, 20% em dois e 25% em três ou mais), 20% nos duos, 25% em kits selecionados, itens Dark e Gel com 60% OFF e anúncio de +10% OFF no Pix cumulativo com a campanha.",
-          "A Black Friday do calendário cai em 27 de novembro, e a Cyber Monday, em 30 de novembro. Em 26 de novembro, os 93 produtos em estoque estavam remarcados, com brinde Body Cream Velvet Milano em compras acima de R$ 249 (contados sobre o valor final) e frete grátis anunciado a partir de R$ 180. Em outubro, a sacola mostrava uma flash sale de 10% no site todo, usada como régua na tabela de outubro mais abaixo."
+          "A Black Friday do calendário cai em 27 de novembro, e a Cyber Monday, em 30 de novembro. Em 26 de novembro, os 93 produtos em estoque estavam remarcados, com brinde Body Cream Velvet Milano em compras acima de R$ 249 (contados sobre o valor final) e vitrine anunciando frete grátis a partir de R$ 180 — informe o CEP na sacola para conferir a regra aplicada ao seu endereço. Em outubro, a sacola mostrava uma flash sale de 10% no site todo, usada como régua na tabela de outubro mais abaixo."
         ]
       },
       {
@@ -140777,12 +140777,12 @@ const reviewsChunk0: unknown[] = [
       {
         "heading": "Cupom, Pix e o que soma",
         "paragraphs": [
-          "O cupom é o **SKEMCASACOMCECILIA**, com até 10% OFF no site oficial (cadastrado no checkout como “10% de desconto INBAZZ”), em todas as formas de pagamento. Cole o código no campo de cupom de desconto da sacola ou do checkout e aplique; o resumo mostra o desconto. A Skelt não tem aplicativo. O passo a passo está em [Cupom Skelt SKEMCASACOMCECILIA: como usar](/reviews/cupom-skelt-como-usar).",
+          "O cupom é o **SKEMCASACOMCECILIA**, com até 10% OFF no site oficial, segundo a parceria, em todas as formas de pagamento. Cole o código no campo de cupom de desconto da sacola ou do checkout e aplique; o resumo mostra o desconto. A Skelt não tem aplicativo. O passo a passo está em [Cupom Skelt SKEMCASACOMCECILIA: como usar](/reviews/cupom-skelt-como-usar).",
           "Em outubro, um mousse de R$ 119,90 entrou com a promoção de 10% da loja por R$ 107,91. Com o cupom, saiu por R$ 97,12 (10% cheios). No Pix, a loja tirou mais 5%, e o total ficou em R$ 92,26.",
           "Em 26 de novembro, com a Black Friday e a November Glow no ar e todos os itens em estoque já remarcados, o SKEMCASACOMCECILIA tirou mais 5% na sacola: o Mousse caiu de R$ 101,92 para R$ 96,82, o Body Splash Solar Muse de R$ 84,92 para R$ 80,67, o Kit Iniciante de R$ 98,18 para R$ 93,27 e o Trio Exotic Trip de R$ 253,04 para R$ 240,39 (abaixo dos R$ 249 do brinde Velvet Milano, que saiu da sacola)."
         ],
         "bullets": [
-          "Pix: no teste de outubro, os 5% entraram depois do cupom. Na Black Friday de 26 de novembro, a loja anuncia +10% OFF no Pix cumulativo com a campanha, aplicado na etapa de pagamento; confira o total antes de pagar.",
+          "Pix: no teste de outubro, quando o Pix era de 5%, os dois descontos somaram. Na Black Friday de 26 de novembro, a loja anuncia 10% no Pix na etapa de pagamento (fora da sacola testada); confira o total antes de concluir.",
           "Um cupom por pedido: a loja aceita só um. Se você aplicar outro código da loja, como o de primeira compra, ele troca o nosso.",
           "Mercado Livre: o cupom não vale lá. Vale o preço do anúncio."
         ]
@@ -240468,7 +240468,7 @@ const reviewsChunk1: unknown[] = [
       {
         "heading": "Resposta rápida",
         "paragraphs": [
-          "Para a primeira compra na Skelt, use o [cupom Skelt](/cupons/skelt) SKEMCASACOMCECILIA: até 10% OFF em todos os produtos do site, kits e combos inclusive. O desconto soma com o Pix anunciado pela loja e com as promoções, e o mesmo código vale para quem já comprou. Ele não soma com outro cupom; a regra do frete está abaixo."
+          "Para a primeira compra na Skelt, use o [cupom Skelt](/cupons/skelt) SKEMCASACOMCECILIA: até 10% OFF em todos os produtos do site, kits e combos inclusive. O código soma com as promoções vigentes e vale de novo para quem já comprou; a loja também anuncia desconto no Pix na etapa de pagamento. Ele não soma com outro cupom."
         ]
       },
       {
@@ -240476,7 +240476,7 @@ const reviewsChunk1: unknown[] = [
         "paragraphs": [
           "A Skelt vende cosméticos, como autobronzeadores, body splashes e produtos para o corpo, no [site oficial](https://www.skelt.com.br/?utm_source=creators&utm_medium=SKEMCASACOMCECILIA&utm_campaign=inbazz).",
           "Use o SKEMCASACOMCECILIA: até 10% OFF em todos os produtos do site, kits e combos inclusive, com todas as formas de pagamento. Ele vale no primeiro pedido e nos seguintes: quem já comprou usa o mesmo código para repor o autobronzeador que acabou ou levar o body splash que ficou para depois.",
-          "É o código da nossa parceria com a marca, testado no carrinho (cadastrado no checkout como “10% de desconto INBAZZ”). Na Black Friday e November Glow de 26/11/2026, com todos os itens em estoque já remarcados, ele tirou mais 5% na sacola — o Mousse caiu de R$ 101,92 para R$ 96,82 e o Kit Iniciante de R$ 98,18 para R$ 93,27 —; fora dessa campanha, tirou os 10% cheios num kit já com 20% da loja. A Skelt aceita um cupom por pedido: se houver outro no campo, aplique SKEMCASACOMCECILIA e confira o desconto no resumo."
+          "É o código da nossa parceria com a marca, testado no carrinho. Na Black Friday e November Glow de 26/11/2026, com todos os itens em estoque já remarcados, ele tirou mais 5% na sacola — o Mousse caiu de R$ 101,92 para R$ 96,82 e o Kit Iniciante de R$ 98,18 para R$ 93,27 —; em teste anterior fora dessa campanha, tirou 10% num kit já com 20% da loja. A Skelt aceita um cupom por pedido: se houver outro no campo, aplique SKEMCASACOMCECILIA e confira o desconto no resumo."
         ]
       },
       {
@@ -240575,8 +240575,8 @@ const reviewsChunk1: unknown[] = [
         "heading": "Perguntas frequentes",
         "bullets": [
           "Qual é o cupom da Skelt? O cupom da Skelt da nossa parceria é SKEMCASACOMCECILIA, com até 10% OFF em todo o site oficial, para cliente novo ou antigo, em todas as formas de pagamento. Serve na primeira compra e nas seguintes.",
-          "Qual cupom Skelt vale para quem já é cliente? O mesmo SKEMCASACOMCECILIA, com até 10% OFF (5% sobre os preços já remarcados no teste da Black Friday, detalhado acima).",
-          "O cupom Skelt soma com o Pix? Sim, e com as promoções do site. A loja anuncia desconto extra no Pix (5% fora de campanha e 10% na Black Friday), aplicado na etapa de pagamento; confira o total antes de pagar.",
+          "Qual cupom Skelt vale para quem já é cliente? O mesmo SKEMCASACOMCECILIA, com até 10% OFF no site oficial; confira o valor abatido no resumo da sacola.",
+          "O cupom Skelt soma com o Pix? O código vale também no Pix e soma com as promoções do site. No teste anterior de 5% no Pix, os dois descontos somaram; na Black Friday, a loja anuncia 10% no Pix na etapa de pagamento, então confira o total antes de concluir.",
           "O cupom Skelt vale no Mercado Livre? Não. Ele vale no site oficial, pela sacola."
         ]
       }
