@@ -4250,7 +4250,7 @@ const STARLINK_TRANSLATIONS: Record<TranslatedLocale, AffiliateOfferTranslation>
     shortDescription: 'cliente nuevo: 45 € en España del programa oficial de referidos de Starlink con el enlace de Cecília, como crédito de servicio tras dos meses',
     longDescription:
       'Cliente nuevo: regístrate con el enlace de Cecília para optar a la recompensa del programa de referidos de Starlink: 45 € en España. Paga el primer mes, activa tu servicio y mantén la suscripción durante dos meses completos. La recompensa se aplica normalmente como crédito de servicio en tu factura, o en efectivo donde Starlink lo ofrece; no reduce el precio del kit al pagar el pedido. En otros países el importe es distinto y aparece en tu cuenta de Starlink. Vale para los planes Residential y Roam contratados en starlink.com, y Starlink ofrece el reembolso completo del kit y del primer mes si lo devuelves en 30 días.',
-    metaTitle: 'Starlink: bono de 45 € por referido tras dos meses',
+    metaTitle: 'Starlink: 45 € por referido en España tras 2 meses',
     metaDescription:
       'Referido de Starlink: los nuevos clientes que se registran con el enlace de Cecília reciben una recompensa a los dos meses, en crédito o efectivo.',
     eligibleCategories: 'Primera suscripción a un plan Residential o Roam, contratada en starlink.com con el enlace',
@@ -4328,7 +4328,7 @@ const STARLINK_TRANSLATIONS: Record<TranslatedLocale, AffiliateOfferTranslation>
     shortDescription: 'nouveau client\u00a0: 45\u00a0€ en France grâce au programme de parrainage officiel de Starlink via le lien de Cecília, sous forme de crédit de service après deux mois',
     longDescription:
       'Nouveau client\u00a0? Inscrivez-vous avec le lien de Cecília pour être éligible à la récompense du programme de parrainage de Starlink\u00a0: 45\u00a0€ en France. Payez le premier mois, activez votre service et restez abonné pendant deux mois complets. La récompense est normalement appliquée sous forme de crédit de service sur votre facture, ou en argent là où Starlink le propose\u00a0; elle ne réduit pas le prix du kit à la commande. Dans les autres pays, le montant est différent et s\'affiche dans votre compte Starlink. Elle est valable pour les offres Residential et Roam commandées sur starlink.com, et Starlink propose le remboursement intégral du kit et du premier mois si vous le retournez sous 30 jours.',
-    metaTitle: 'Starlink\u00a0: bonus de 45\u00a0€ par parrainage après deux mois',
+    metaTitle: 'Starlink\u00a0: 45\u00a0€ par parrainage en France après 2 mois',
     metaDescription:
       'Parrainage Starlink\u00a0: les nouveaux clients inscrits via le lien de Cecília reçoivent une récompense après deux mois, en crédit ou en argent.',
     eligibleCategories: 'Premier abonnement à une offre Residential ou Roam, commandé sur starlink.com via le lien',
@@ -4406,7 +4406,7 @@ const STARLINK_TRANSLATIONS: Record<TranslatedLocale, AffiliateOfferTranslation>
     shortDescription: 'Neukunde: 45 € in Deutschland aus dem offiziellen Empfehlungsprogramm von Starlink über Cecílias Link, als Servicegutschrift nach zwei Monaten',
     longDescription:
       'Neukunde? Melde dich über Cecílias Empfehlungslink an, um die Prämie aus dem Empfehlungsprogramm von Starlink zu erhalten: 45 € in Deutschland. Zahle den ersten Monat, aktiviere deinen Dienst und bleibe zwei volle Monate Kunde. Die Prämie wird normalerweise als Servicegutschrift auf deiner Rechnung verrechnet, oder als Bargeld, wo Starlink es anbietet; sie senkt nicht den Preis des Kits an der Kasse. In anderen Ländern ist der Betrag anders und wird in deinem Starlink-Konto angezeigt. Sie gilt für Residential- und Roam-Tarife, die auf starlink.com bestellt werden, und Starlink bietet die volle Erstattung von Kit und erstem Monat an, wenn du es innerhalb von 30 Tagen zurückschickst.',
-    metaTitle: 'Starlink: 45 € Empfehlungsbonus nach zwei Monaten',
+    metaTitle: 'Starlink: 45 € Empfehlungsbonus in Deutschland nach 2 Monaten',
     metaDescription:
       'Starlink-Empfehlung: Neue Kunden, die sich über Cecílias Link anmelden, erhalten nach zwei Monaten eine Prämie als Guthaben oder Bargeld. Residential und Roam.',
     eligibleCategories: 'Erstes Abo eines Residential- oder Roam-Tarifs, über den Link auf starlink.com bestellt',
@@ -4484,7 +4484,7 @@ const STARLINK_TRANSLATIONS: Record<TranslatedLocale, AffiliateOfferTranslation>
     shortDescription: 'nuovo cliente: 45 € in Italia dal programma referral ufficiale di Starlink con il link di Cecília, come credito di servizio dopo due mesi',
     longDescription:
       'Nuovo cliente? Ordina tramite il link referral di Cecília per avere diritto al premio del programma referral di Starlink: 45 € in Italia. Paga il primo mese, attiva il servizio e resta abbonato per due mesi completi. Il premio viene applicato normalmente come credito di servizio sulla fattura, o in denaro dove Starlink lo offre; non riduce il prezzo del kit al checkout. In altri paesi l\'importo è diverso e compare nel tuo account Starlink. Vale per i piani Residential e Roam ordinati su starlink.com, e Starlink offre il rimborso completo del kit e del primo mese se lo restituisci entro 30 giorni.',
-    metaTitle: 'Starlink: bonus referral di 45 € dopo due mesi',
+    metaTitle: 'Starlink: bonus referral di 45 € in Italia dopo 2 mesi',
     metaDescription:
       'Referral Starlink: i nuovi clienti che si iscrivono con il link di Cecília ricevono un premio dopo due mesi, in credito o denaro. Piani Residential e Roam.',
     eligibleCategories: 'Primo abbonamento a un piano Residential o Roam, ordinato su starlink.com tramite il link',
