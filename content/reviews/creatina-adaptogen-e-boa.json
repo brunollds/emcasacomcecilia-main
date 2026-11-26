@@ -1,0 +1,229 @@
+{
+  "id": 1460,
+  "slug": "creatina-adaptogen-e-boa",
+  "locale": "pt",
+  "category": "guias-praticos-utilidade",
+  "reviewKind": "guia",
+  "author": {
+    "name": "Cecília Mauad",
+    "slug": "cecilia-mauad",
+    "role": "Em Casa com Cecília",
+    "initials": "CM",
+    "url": "/sobre"
+  },
+  "publishedAt": "26 de novembro de 2026",
+  "publishedAtISO": "2026-11-26",
+  "updatedAt": "2026-11-26",
+  "draft": false,
+  "isNew": true,
+  "imageFit": "contain",
+  "imageAspect": "landscape",
+  "pros": [],
+  "cons": [],
+  "coupon": "CECILIA",
+  "affiliate": "adaptogen",
+  "type": "Guia de Produto",
+  "title": "Creatina Adaptogen é boa? Platinum, Pro ou Flavor e qual pote compensa",
+  "seoTitle": "Creatina Adaptogen é boa? Platinum, Pro e Flavor comparadas",
+  "description": "As três creatinas da Adaptogen lado a lado: o que a embalagem de cada uma informa, quantas doses rende cada pote e quanto sai a dose com o cupom CECILIA de 10% OFF.",
+  "metaDescription": "Com o CECILIA, 10% OFF na creatina Adaptogen. Veja as três creatinas da marca, o que o rótulo de cada uma diz e qual pote rende mais por dose.",
+  "image": "/images/reviews/adaptogen/creatina-adaptogen-e-boa-hero-pt-v1.webp",
+  "imageAlt": "Potes de Creatina Pro, Creatina Platinum Series e Creatina Flavor sabor Tangerina da Adaptogen, em fotos oficiais da marca. A capa pergunta «Creatina é boa?», cita Platinum, Pro e Flavor e traz o cupom CECILIA.",
+  "cta": {
+    "text": "Se a creatina da Adaptogen faz sentido para você, abra o site pelo botão, escolha o pote e digite CECILIA no campo Cupom de desconto do checkout. Confira a linha do cupom no resumo antes de pagar.",
+    "label": "Ir para a Adaptogen",
+    "url": "https://www.adaptogen.com.br/?parceiro=CECILIA",
+    "sponsored": true
+  },
+  "editorialNote": "Feito com as páginas oficiais e os rótulos publicados pela Adaptogen. Não tomamos as creatinas. Somos parceiros da Adaptogen e podemos receber comissão pelo cupom e pelo link.",
+  "relatedArticles": [
+    {
+      "slug": "adaptogen-e-boa"
+    },
+    {
+      "slug": "hit-protein-adaptogen-e-bom"
+    },
+    {
+      "slug": "cupom-adaptogen-como-usar"
+    },
+    {
+      "slug": "creatina-com-sabor-qual-escolher"
+    }
+  ],
+  "decision": {
+    "takeIf": [
+      "Você quer creatina monohidratada sem nada junto e escolhe o pote da Platinum Series pelo tempo de uso.",
+      "Você prefere tomar a creatina com água e quer o sabor pronto da Flavor, em Limonada ou Tangerina.",
+      "Você quer 10% OFF com o cupom CECILIA no site oficial, que vale também no Pix."
+    ],
+    "skipIf": [
+      "Você só compra creatina com selo Creapure ou com laudo de pureza publicado: a loja não mostra nenhum dos dois.",
+      "Você quer a Pro, mas precisa saber quanto de creatina vem em cada dose: a página dela não publica a tabela nutricional."
+    ]
+  },
+  "contentSections": [
+    {
+      "heading": "Resposta rápida",
+      "paragraphs": [
+        "Sim, a creatina Adaptogen vale para quem quer creatina monohidratada no pote do tamanho da rotina: a Platinum Series traz 3 g de creatina por dose, sem calorias, em quatro tamanhos, e a Flavor já vem com sabor de limonada ou tangerina. O cupom CECILIA dá 10% OFF no site oficial. Veja abaixo qual pote rende mais por dose."
+      ]
+    },
+    {
+      "heading": "As três creatinas da Adaptogen",
+      "paragraphs": [
+        "A Adaptogen vende três creatinas, e só a Platinum Series é creatina sem mais nada: as outras são a Pro 300 g, com carboidrato, e a Flavor 300 g, com sabor. Quem procura a creatina Super não acha mais esse nome: a página da Pro diz que o que era Super virou Pro, com embalagem nova.",
+        "A **Platinum Series** é a creatina sem sabor. A embalagem diz \"100% Pura\" (\"100% Pure\" no pote de 300 g), e a tabela da página informa porção de 3 g (meio dosador) com 3.000 mg de creatina e 0 kcal, sem quantidades significativas de carboidratos, açúcares, gorduras, fibras e sódio. Ela é vendida em potes de 100 g, 300 g, 500 g e 1 kg.",
+        "A **Pro** vem em pote de 300 g. A embalagem traz \"monohidratada\", \"carboidrato adicionado\", \"zero glúten\" e 50 doses, e a descrição diz que ela contém 3,0 g de carboidratos. A página não publica a tabela nutricional, então não dá para saber quanto de creatina vem em cada dose.",
+        "A **Flavor** também vem em pote de 300 g, nos sabores Limonada e Tangerina. A página informa 3 g de creatina monohidratada por dose e até 81 doses no pote; a tabela publicada mostra porção de 3,7 g, com 3.000 mg de creatina e 0 kcal."
+      ],
+      "images": [
+        {
+          "src": "/images/reviews/adaptogen/adaptogen-creatina-platinum-series.webp",
+          "alt": "Pote de 100 g da Creatina Platinum Series da Adaptogen, com a inscrição 100% Pura e o selo de 33 doses",
+          "caption": "Creatina Platinum Series, pote de 100 g. Foto: Adaptogen.",
+          "href": "https://www.adaptogen.com.br/produto/creatina-platinum-series-150227?parceiro=CECILIA",
+          "objectFit": "contain",
+          "aspectRatio": 1
+        },
+        {
+          "src": "/images/reviews/adaptogen/creatina-adaptogen-e-boa-pro-300g.webp",
+          "alt": "Pote de 300 g da Creatina Pro da Adaptogen, com as inscrições zero glúten, monohidratada, carboidrato adicionado e 50 doses",
+          "caption": "Creatina Pro, pote de 300 g. Foto: Adaptogen.",
+          "href": "https://www.adaptogen.com.br/produto/creatina-pro-300g-150231?parceiro=CECILIA",
+          "objectFit": "contain",
+          "aspectRatio": 1
+        },
+        {
+          "src": "/images/reviews/adaptogen/adaptogen-creatina-flavor-300g.webp",
+          "alt": "Pote de 300 g da Creatina Flavor da Adaptogen, sabor Tangerina",
+          "caption": "Creatina Flavor, sabor Tangerina. Foto: Adaptogen.",
+          "href": "https://www.adaptogen.com.br/produto/creatina-flavor-300g-2-sabores-150228?parceiro=CECILIA",
+          "objectFit": "contain",
+          "aspectRatio": 1
+        }
+      ]
+    },
+    {
+      "heading": "A creatina Adaptogen é pura?",
+      "paragraphs": [
+        "Só a Platinum Series se apresenta como pura: a embalagem diz \"100% Pura\", e a tabela mostra 3.000 mg de creatina em cada porção de 3 g, ou seja, a porção inteira é creatina.",
+        "A Pro leva carboidrato junto, como diz a própria embalagem. A Flavor leva aromatizante, ácido cítrico, edulcorantes e antiumectantes, pela lista de ingredientes que aparece numa das imagens da página. A descrição da Flavor fala em estévia, sem adoçantes artificiais, mas a lista de ingredientes traz sucralose junto dos glicosídeos de estévia. Confira a embalagem que chegar.",
+        "O selo Creapure não aparece na embalagem da Platinum nem na da Pro. Uma das imagens da Platinum diz \"aprovado em todos os laudos de pureza\", mas a loja não publica laudo nenhum na página."
+      ],
+      "images": [
+        {
+          "src": "/images/reviews/adaptogen/creatina-adaptogen-e-boa-platinum-tabela.webp",
+          "alt": "Tabela nutricional da Creatina Platinum Series da Adaptogen: 100 porções por embalagem, porção de 3 g, 0 kcal e 3.000 mg de creatina",
+          "caption": "Tabela da Platinum Series, pote de 300 g. Foto: Adaptogen.",
+          "objectFit": "contain",
+          "aspectRatio": 1
+        }
+      ]
+    },
+    {
+      "heading": "Qual pote de creatina Adaptogen compensa",
+      "paragraphs": [
+        "Dividimos o preço de tabela de cada pote pelo número de doses e tiramos 10% para chegar ao preço com o CECILIA. Na Platinum de 500 g e de 1 kg, as doses saem do peso, com 3 g por dose."
+      ],
+      "comparisonTable": {
+        "caption": "Preços de tabela do site em 26/11/2026, fora da promoção da semana, sem Pix e sem frete. Com o CECILIA, o preço da dose cai 10%.",
+        "headers": [
+          "Pote",
+          "Preço de tabela",
+          "Doses",
+          "Por dose",
+          "Por dose com o CECILIA"
+        ],
+        "rows": [
+          [
+            "Platinum Series 100 g",
+            "R$ 35,10",
+            "33",
+            "R$ 1,06",
+            "R$ 0,96"
+          ],
+          [
+            "Platinum Series 300 g",
+            "R$ 79,00",
+            "100",
+            "R$ 0,79",
+            "R$ 0,71"
+          ],
+          [
+            "Platinum Series 500 g",
+            "R$ 105,00",
+            "cerca de 166",
+            "R$ 0,63",
+            "R$ 0,57"
+          ],
+          [
+            "Platinum Series 1 kg",
+            "R$ 229,00",
+            "cerca de 333",
+            "R$ 0,69",
+            "R$ 0,62"
+          ],
+          [
+            "Pro 300 g",
+            "R$ 89,00",
+            "50",
+            "R$ 1,78",
+            "R$ 1,60"
+          ],
+          [
+            "Flavor 300 g",
+            "R$ 115,00",
+            "81",
+            "R$ 1,42",
+            "R$ 1,28"
+          ]
+        ]
+      },
+      "postParagraphs": [
+        "Na Platinum, a dose fica mais barata até o pote de 500 g e volta a subir no de 1 kg. Com uma dose por dia, o pote de 500 g dura cerca de cinco meses e meio, e dois deles cobrem quase um ano.",
+        "A Pro de 300 g rende metade das doses da Platinum de 300 g e custa mais no pote, então a dose sai por mais que o dobro. A Flavor custa mais por dose que qualquer Platinum."
+      ],
+      "emphasis": "Conta nossa: no preço de tabela, dois potes de 500 g da Platinum saem por R$ 210,00, e um de 1 kg, por R$ 229,00. Quem quer a creatina para quase um ano leva dois potes de 500 g.",
+      "links": [
+        {
+          "label": "Ver a creatina na Adaptogen",
+          "href": "https://www.adaptogen.com.br/produto/creatina-platinum-series-150227?parceiro=CECILIA",
+          "sponsored": true
+        }
+      ]
+    },
+    {
+      "heading": "Platinum, Pro ou Flavor: para quem é cada uma",
+      "paragraphs": [
+        "A **Platinum Series** é para quem quer só a creatina e mistura a dose em qualquer bebida: tem o menor preço por dose da marca e o pote no tamanho do tempo de uso.",
+        "A **Flavor** é para quem não quer misturar a creatina no suco ou no shake e prefere tomar com água, já com sabor de limonada ou tangerina. Quem compara creatinas com sabor de outras marcas acha a lista em [creatina com sabor: qual escolher](/reviews/creatina-com-sabor-qual-escolher).",
+        "A **Pro** é para quem quer o carboidrato junto na mesma dose e aceita pagar mais que o dobro por dose. Não é a Platinum com outra embalagem: a fórmula muda e o pote rende metade.",
+        "A porção que aparece nas contas é a do rótulo e serve para calcular o custo, não para indicar quanto tomar. O rótulo da Flavor indica o produto para adultos acima de 19 anos e diz que ele não deve ser consumido por gestantes, lactantes e crianças. Quanto tomar, por quanto tempo e se a creatina combina com a sua dieta é conversa com médico ou nutricionista."
+      ]
+    },
+    {
+      "heading": "Como aplicar o cupom CECILIA na creatina",
+      "paragraphs": [
+        "No site da Adaptogen, escolha o pote, clique em Adicionar à sacola e siga para o checkout. Digite CECILIA no campo Cupom de desconto, clique em Aplicar e confira o aviso de Cupom aplicado e a linha do desconto no resumo. O código vale para cliente novo e antigo e também soma com os preços promocionais: no nosso teste, com a Platinum de 300 g na sacola, o aviso de Cupom aplicado apareceu e o cupom tirou 10% do preço promocional. O passo a passo com prints está em [como usar o cupom](/reviews/cupom-adaptogen-como-usar).",
+        "O código vale também no Pix; confira os dois descontos no resumo antes de pagar. O frete grátis depende da região: a política de entrega pede pedidos a partir de R$ 199,00 no Sudeste, R$ 249,00 no Sul e no Centro-Oeste, R$ 399,00 no Nordeste e R$ 599,00 no Norte, sem dizer se o mínimo conta antes ou depois do cupom. Pelo preço de tabela, só o pote de 1 kg passa do mínimo do Sudeste; com promoção ou cupom o total muda, então confira o frete no carrinho.",
+        "As regras do código estão na página do [cupom Adaptogen](/cupons/adaptogen). Para ver o resto do catálogo, com os wheys, leia [Adaptogen é boa?](/reviews/adaptogen-e-boa), e para o whey com colágeno da marca, [HIT Protein Adaptogen é bom?](/reviews/hit-protein-adaptogen-e-bom)."
+      ],
+      "links": [
+        {
+          "label": "Ver o cupom Adaptogen",
+          "href": "/cupons/adaptogen"
+        }
+      ]
+    },
+    {
+      "heading": "Perguntas frequentes",
+      "bullets": [
+        "A creatina Adaptogen é boa? Sim, para quem quer creatina monohidratada no pote do tamanho da rotina: a Platinum Series traz 3 g de creatina por dose, sem calorias, e a Flavor já vem com sabor. Com o cupom CECILIA, o pote de 500 g da Platinum tem a dose mais barata; a tabela de potes está acima.",
+        "A creatina Adaptogen é monohidratada? Sim. A página da Platinum diz que ela é à base de creatina monohidratada, a embalagem da Pro traz \"monohidratada\" e a Flavor informa creatina monohidratada na lista de ingredientes.",
+        "A creatina Adaptogen tem selo Creapure? O selo não aparece na embalagem da Platinum nem na da Pro.",
+        "Qual a diferença entre a creatina Pro e a Platinum? A Platinum é só creatina, com 100 doses no pote de 300 g. A Pro leva carboidrato adicionado, rende 50 doses no mesmo pote e não publica a tabela nutricional na página.",
+        "Qual é o cupom da creatina Adaptogen? É o CECILIA, com 10% OFF no site oficial, para cliente novo e antigo. Cole no campo Cupom de desconto do checkout; a página do [cupom Adaptogen](/cupons/adaptogen) traz o código em vigor."
+      ]
+    }
+  ]
+}

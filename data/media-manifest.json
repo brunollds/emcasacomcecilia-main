@@ -14601,6 +14601,144 @@
       "verification_status": "verified"
     },
     {
+      "source_path": "public/images/reviews/adaptogen/creatina-adaptogen-e-boa-hero-pt-v1.webp",
+      "local_url": "/images/reviews/adaptogen/creatina-adaptogen-e-boa-hero-pt-v1.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 131554,
+      "sha256": "8e567b1e06bc5bfaa4015c1bd6f5fd2d2d5aa2d4ce12a5f51263747340c785d3",
+      "width": 1600,
+      "height": 900,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "creatina-adaptogen-e-boa-hero-pt-v1.webp",
+      "storage_filename": "creatina-adaptogen-e-boa-hero-pt-v1.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/creatina-adaptogen-e-boa.json",
+        "src/lib/generated/content-index.ts"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/creatina-adaptogen-e-boa.json",
+          "line": 30,
+          "column": 13,
+          "literal": "/images/reviews/adaptogen/creatina-adaptogen-e-boa-hero-pt-v1.webp",
+          "authority": "source"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 348536,
+          "column": 15,
+          "literal": "/images/reviews/adaptogen/creatina-adaptogen-e-boa-hero-pt-v1.webp",
+          "authority": "generated"
+        }
+      ],
+      "remote_key": "v1/image/8e567b1e06bc5bfaa4015c1bd6f5fd2d2d5aa2d4ce12a5f51263747340c785d3/creatina-adaptogen-e-boa-hero-pt-v1.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/8e567b1e06bc5bfaa4015c1bd6f5fd2d2d5aa2d4ce12a5f51263747340c785d3/creatina-adaptogen-e-boa-hero-pt-v1.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-11-26T15:36:45.133Z",
+      "verification_etag_or_digest": "8e567b1e06bc5bfaa4015c1bd6f5fd2d2d5aa2d4ce12a5f51263747340c785d3",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/adaptogen/creatina-adaptogen-e-boa-platinum-tabela.webp",
+      "local_url": "/images/reviews/adaptogen/creatina-adaptogen-e-boa-platinum-tabela.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 51912,
+      "sha256": "0694abc078ae71ae76ead36228b7793b614164fcd2884e4a114046d712aba4ef",
+      "width": 500,
+      "height": 500,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "creatina-adaptogen-e-boa-platinum-tabela.webp",
+      "storage_filename": "creatina-adaptogen-e-boa-platinum-tabela.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/creatina-adaptogen-e-boa.json",
+        "src/lib/generated/content-index.ts"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/creatina-adaptogen-e-boa.json",
+          "line": 115,
+          "column": 19,
+          "literal": "/images/reviews/adaptogen/creatina-adaptogen-e-boa-platinum-tabela.webp",
+          "authority": "source"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 348621,
+          "column": 21,
+          "literal": "/images/reviews/adaptogen/creatina-adaptogen-e-boa-platinum-tabela.webp",
+          "authority": "generated"
+        }
+      ],
+      "remote_key": "v1/image/0694abc078ae71ae76ead36228b7793b614164fcd2884e4a114046d712aba4ef/creatina-adaptogen-e-boa-platinum-tabela.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/0694abc078ae71ae76ead36228b7793b614164fcd2884e4a114046d712aba4ef/creatina-adaptogen-e-boa-platinum-tabela.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-11-26T15:36:45.134Z",
+      "verification_etag_or_digest": "0694abc078ae71ae76ead36228b7793b614164fcd2884e4a114046d712aba4ef",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/adaptogen/creatina-adaptogen-e-boa-pro-300g.webp",
+      "local_url": "/images/reviews/adaptogen/creatina-adaptogen-e-boa-pro-300g.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 85336,
+      "sha256": "9a7f7867400fe798650209941ec6032611af743eada83e84235c3db87ec93047",
+      "width": 1000,
+      "height": 1000,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "creatina-adaptogen-e-boa-pro-300g.webp",
+      "storage_filename": "creatina-adaptogen-e-boa-pro-300g.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/creatina-adaptogen-e-boa.json",
+        "src/lib/generated/content-index.ts"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/creatina-adaptogen-e-boa.json",
+          "line": 89,
+          "column": 19,
+          "literal": "/images/reviews/adaptogen/creatina-adaptogen-e-boa-pro-300g.webp",
+          "authority": "source"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 348595,
+          "column": 21,
+          "literal": "/images/reviews/adaptogen/creatina-adaptogen-e-boa-pro-300g.webp",
+          "authority": "generated"
+        }
+      ],
+      "remote_key": "v1/image/9a7f7867400fe798650209941ec6032611af743eada83e84235c3db87ec93047/creatina-adaptogen-e-boa-pro-300g.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/9a7f7867400fe798650209941ec6032611af743eada83e84235c3db87ec93047/creatina-adaptogen-e-boa-pro-300g.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-11-26T15:36:45.134Z",
+      "verification_etag_or_digest": "9a7f7867400fe798650209941ec6032611af743eada83e84235c3db87ec93047",
+      "verification_status": "verified"
+    },
+    {
       "source_path": "public/images/reviews/adaptogen/cupom-adaptogen-checkout-cecilia-creatina-flavor.webp",
       "local_url": "/images/reviews/adaptogen/cupom-adaptogen-checkout-cecilia-creatina-flavor.webp",
       "media_kind": "image",
@@ -14960,6 +15098,98 @@
       "uploaded_at": null,
       "verified_at": "2026-11-18T17:59:49.721Z",
       "verification_etag_or_digest": "fd3dced4cd298835a408c87e2ddb61636dd59891718f5d1c20dda338c11ce9a2",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/adaptogen/hit-protein-adaptogen-e-bom-hero-pt-v1.webp",
+      "local_url": "/images/reviews/adaptogen/hit-protein-adaptogen-e-bom-hero-pt-v1.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 97962,
+      "sha256": "e5f3375791c139399bba6b9dc48f63507881758a9c55edba2f42d01a742ee8c4",
+      "width": 1600,
+      "height": 900,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "hit-protein-adaptogen-e-bom-hero-pt-v1.webp",
+      "storage_filename": "hit-protein-adaptogen-e-bom-hero-pt-v1.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/hit-protein-adaptogen-e-bom.json",
+        "src/lib/generated/content-index.ts"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/hit-protein-adaptogen-e-bom.json",
+          "line": 30,
+          "column": 13,
+          "literal": "/images/reviews/adaptogen/hit-protein-adaptogen-e-bom-hero-pt-v1.webp",
+          "authority": "source"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 348765,
+          "column": 15,
+          "literal": "/images/reviews/adaptogen/hit-protein-adaptogen-e-bom-hero-pt-v1.webp",
+          "authority": "generated"
+        }
+      ],
+      "remote_key": "v1/image/e5f3375791c139399bba6b9dc48f63507881758a9c55edba2f42d01a742ee8c4/hit-protein-adaptogen-e-bom-hero-pt-v1.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/e5f3375791c139399bba6b9dc48f63507881758a9c55edba2f42d01a742ee8c4/hit-protein-adaptogen-e-bom-hero-pt-v1.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-11-26T15:36:45.134Z",
+      "verification_etag_or_digest": "e5f3375791c139399bba6b9dc48f63507881758a9c55edba2f42d01a742ee8c4",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/adaptogen/hit-protein-adaptogen-e-bom-tabela.webp",
+      "local_url": "/images/reviews/adaptogen/hit-protein-adaptogen-e-bom-tabela.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 38150,
+      "sha256": "8d53942cfc1e102c5f7470730017c266cb57a115df1b66b4b553c57e748ea843",
+      "width": 1000,
+      "height": 1000,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "hit-protein-adaptogen-e-bom-tabela.webp",
+      "storage_filename": "hit-protein-adaptogen-e-bom-tabela.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/hit-protein-adaptogen-e-bom.json",
+        "src/lib/generated/content-index.ts"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/hit-protein-adaptogen-e-bom.json",
+          "line": 147,
+          "column": 19,
+          "literal": "/images/reviews/adaptogen/hit-protein-adaptogen-e-bom-tabela.webp",
+          "authority": "source"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 348882,
+          "column": 21,
+          "literal": "/images/reviews/adaptogen/hit-protein-adaptogen-e-bom-tabela.webp",
+          "authority": "generated"
+        }
+      ],
+      "remote_key": "v1/image/8d53942cfc1e102c5f7470730017c266cb57a115df1b66b4b553c57e748ea843/hit-protein-adaptogen-e-bom-tabela.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/8d53942cfc1e102c5f7470730017c266cb57a115df1b66b4b553c57e748ea843/hit-protein-adaptogen-e-bom-tabela.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-11-26T15:36:45.134Z",
+      "verification_etag_or_digest": "8d53942cfc1e102c5f7470730017c266cb57a115df1b66b4b553c57e748ea843",
       "verification_status": "verified"
     },
     {

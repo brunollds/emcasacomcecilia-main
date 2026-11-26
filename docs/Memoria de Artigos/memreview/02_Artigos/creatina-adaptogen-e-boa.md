@@ -9,9 +9,9 @@ category: "guias-praticos-utilidade"
 reviewKind: "guia"
 type: "Guia de Produto"
 anexo_tipo: "Anexo-E-Boa-Vale-a-Pena (Trilha B), com o Anexo-Suplementos-Alimentos por cima"
-status: "pauta-aprovada"
-responsavel: "Job-1"
-proxima_acao: "redacao"
+status: "redigido"
+responsavel: "Job-2-6"
+proxima_acao: "deploy (GO do Bruno)"
 bloqueado_por: null
 score_autoridade: 66
 score_conversao: 76
@@ -234,3 +234,7 @@ Nenhuma que trave. A pergunta da Anvisa só entra com leitura da consulta públi
 
 Pendente. Preço relido de 28/11 em diante; tabela da Pro e reteste do CECILIA com a Platinum no dia da redação. Com o
 artigo no ar, encolher o capítulo "A creatina" do `adaptogen-e-boa` (Fila, seção 4).
+
+## Redação, revisão e mídia (26/11/2026)
+
+Redigido em 26/11 com os preços "de" lidos em 26/11 (decisão do Bruno: redigir hoje, sem esperar 28/11). Revisão do Job 3 pelo Fable aplicada. Capa e imagens do corpo no CDN (lote `docs/auditoria-capas/lote-20261126-ad10`). CECILIA retestado com a Platinum 300 g: Cupom aplicado, −R$ 6,72 sobre R$ 67,15. A página da Pro segue sem tabela nutricional. Rótulo da Flavor: sucralose e glicosídeos de estévia, contra "sem adoçantes artificiais" na descrição; o texto cita os dois. Frete grátis: a mesma tabela regional de 18/11 na política de entrega, sem dizer se conta antes ou depois do cupom.

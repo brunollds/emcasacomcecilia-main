@@ -1,0 +1,250 @@
+{
+  "id": 1461,
+  "slug": "hit-protein-adaptogen-e-bom",
+  "locale": "pt",
+  "category": "guias-praticos-utilidade",
+  "reviewKind": "guia",
+  "author": {
+    "name": "Cecília Mauad",
+    "slug": "cecilia-mauad",
+    "role": "Em Casa com Cecília",
+    "initials": "CM",
+    "url": "/sobre"
+  },
+  "publishedAt": "26 de novembro de 2026",
+  "publishedAtISO": "2026-11-26",
+  "updatedAt": "2026-11-26",
+  "draft": false,
+  "isNew": true,
+  "imageFit": "contain",
+  "imageAspect": "landscape",
+  "pros": [],
+  "cons": [],
+  "coupon": "CECILIA",
+  "affiliate": "adaptogen",
+  "type": "Guia de Produto",
+  "title": "HIT Protein Adaptogen é bom? Tabela nutricional, o colágeno e o custo por dose",
+  "seoTitle": "HIT Protein Adaptogen é bom? Tabela, colágeno e custo por dose",
+  "description": "O HIT Protein da Adaptogen por dentro: whey concentrado com colágeno, a tabela nutricional em texto, os oito sabores e quanto sai a dose com o cupom CECILIA.",
+  "metaDescription": "Com o CECILIA, 10% OFF no HIT Protein Adaptogen. Veja a tabela nutricional, o que o colágeno muda e quanto sai cada dose perto do Gold e do Tasty.",
+  "image": "/images/reviews/adaptogen/hit-protein-adaptogen-e-bom-hero-pt-v1.webp",
+  "imageAlt": "Pacote de 900 g do HIT Protein da Adaptogen, sabor Baunilha, em foto oficial da marca. A capa pergunta «HIT Protein é bom?», cita a tabela e o custo por dose e traz o cupom CECILIA.",
+  "cta": {
+    "text": "Se o HIT Protein faz sentido para você, abra o site pelo botão, escolha o sabor e digite CECILIA no campo Cupom de desconto do checkout. Confira a linha do cupom no resumo antes de pagar.",
+    "label": "Ir para a Adaptogen",
+    "url": "https://www.adaptogen.com.br/?parceiro=CECILIA",
+    "sponsored": true
+  },
+  "editorialNote": "Feito com a página oficial e a tabela nutricional publicada pela Adaptogen. Não tomamos o HIT Protein. Somos parceiros da Adaptogen e podemos receber comissão pelo cupom e pelo link.",
+  "relatedArticles": [
+    {
+      "slug": "adaptogen-e-boa"
+    },
+    {
+      "slug": "creatina-adaptogen-e-boa"
+    },
+    {
+      "slug": "tasty-iso-adaptogen-vale-a-pena"
+    },
+    {
+      "slug": "cupom-adaptogen-como-usar"
+    }
+  ],
+  "decision": {
+    "takeIf": [
+      "Você quer a dose mais em conta entre os wheys da Adaptogen e aceita o colágeno junto.",
+      "Você quer proteína sem açúcar adicionado e sem glúten, como a página informa.",
+      "Você quer 10% OFF com o cupom CECILIA no site oficial, que vale também no Pix."
+    ],
+    "skipIf": [
+      "Você conta só a proteína do soro do leite no seu plano: a loja não diz quanto da proteína da dose é colágeno.",
+      "Você precisa da lista de ingredientes ou dos alergênicos antes de comprar: a página não publica nenhum dos dois."
+    ]
+  },
+  "contentSections": [
+    {
+      "heading": "Resposta rápida",
+      "paragraphs": [
+        "Sim, o HIT Protein vale para quem quer a dose mais em conta entre os wheys da Adaptogen e aceita o colágeno junto: são 20 g de proteína por dose, sem açúcar adicionado e em oito sabores. O cupom CECILIA dá 10% OFF no site oficial. Veja abaixo a tabela nutricional e a conta por dose perto do Gold e do Tasty."
+      ]
+    },
+    {
+      "heading": "O que é o HIT Protein",
+      "paragraphs": [
+        "O HIT Protein é whey concentrado com colágeno hidrolisado, vendido em pacote de 900 g. Na descrição da loja, o colágeno aparece como peptídeos de colágeno hidrolisado. O nome vem de High Impact Tasty, a frase que aparece no pacote.",
+        "A página não diz quanto da proteína da dose vem do whey e quanto vem do colágeno. A marca descreve o produto para massa magra, recuperação muscular, articulações e pele; é a proposta dela."
+      ],
+      "images": [
+        {
+          "src": "/images/reviews/adaptogen/adaptogen-hit-protein-bag-900g.webp",
+          "alt": "Pacote de 900 g do HIT Protein da Adaptogen, sabor Baunilha, com 20 g de proteína e 27 doses na embalagem",
+          "caption": "HIT Protein Bag 900 g, sabor Baunilha. Foto: Adaptogen.",
+          "href": "https://www.adaptogen.com.br/produto/hit-protein-bag-900g-8-sabores-150309?parceiro=CECILIA",
+          "objectFit": "contain",
+          "aspectRatio": 1
+        }
+      ]
+    },
+    {
+      "heading": "Tabela nutricional do HIT Protein",
+      "paragraphs": [
+        "A tabela publicada na página tem porção de 33 g (2 dosadores) e cerca de 27 porções no pacote de 900 g. A página traz uma tabela só, sem separar por sabor."
+      ],
+      "comparisonTable": {
+        "caption": "Tabela nutricional do HIT Protein Bag 900 g, por porção de 33 g, como aparece na página da Adaptogen.",
+        "headers": [
+          "Item",
+          "Por porção de 33 g"
+        ],
+        "rows": [
+          [
+            "Valor energético",
+            "130 kcal"
+          ],
+          [
+            "Carboidratos",
+            "9 g"
+          ],
+          [
+            "Açúcares totais",
+            "7 g"
+          ],
+          [
+            "Açúcares adicionados",
+            "0 g"
+          ],
+          [
+            "Proteínas",
+            "20 g"
+          ],
+          [
+            "Gorduras totais",
+            "1 g"
+          ],
+          [
+            "Gorduras saturadas",
+            "0,5 g"
+          ],
+          [
+            "Gorduras trans",
+            "0 g"
+          ],
+          [
+            "Fibras alimentares",
+            "0 g"
+          ],
+          [
+            "Sódio",
+            "80 mg"
+          ]
+        ]
+      },
+      "postParagraphs": [
+        "A descrição diz que o HIT não tem adição de açúcares e é livre de glúten. A página não publica a lista de ingredientes nem os alergênicos, e também não fala em lactose. Quem precisa dessas informações confere a embalagem que chegar ou pergunta à loja antes de comprar."
+      ],
+      "images": [
+        {
+          "src": "/images/reviews/adaptogen/hit-protein-adaptogen-e-bom-tabela.webp",
+          "alt": "Tabela nutricional do HIT Protein da Adaptogen: cerca de 27 porções por embalagem, porção de 33 g, 130 kcal e 20 g de proteínas",
+          "caption": "Tabela nutricional do HIT Protein Bag 900 g. Foto: Adaptogen.",
+          "objectFit": "contain",
+          "aspectRatio": 1
+        }
+      ]
+    },
+    {
+      "heading": "HIT Protein, Gold Whey ou Tasty Whey: a diferença",
+      "paragraphs": [
+        "Dividimos o preço de tabela de cada pacote pelo número de porções da tabela nutricional e tiramos 10% para chegar ao preço com o CECILIA.",
+        "Comparamos por dose: parte da proteína do HIT é colágeno, e a loja não diz quanto; numa conta por proteína, ele pareceria mais barato do que é como whey. O Gold Whey e o Tasty Whey 3W não declaram colágeno."
+      ],
+      "comparisonTable": {
+        "caption": "Pacotes de 900 g. Preços de tabela do site em 26/11/2026, fora da promoção da semana, sem Pix e sem frete. Com o CECILIA, o preço da dose cai 10%.",
+        "headers": [
+          "Produto",
+          "Dose e proteína",
+          "Calorias",
+          "Preço de tabela",
+          "Por dose",
+          "Por dose com o CECILIA"
+        ],
+        "rows": [
+          [
+            "[HIT Protein Bag](https://www.adaptogen.com.br/produto/hit-protein-bag-900g-8-sabores-150309?parceiro=CECILIA)",
+            "33 g; 20 g, com colágeno",
+            "130 kcal",
+            "R$ 173,15",
+            "R$ 6,41",
+            "R$ 5,77"
+          ],
+          [
+            "[Gold Whey](https://www.adaptogen.com.br/produto/gold-whey-900g-9-sabores-150305?parceiro=CECILIA)",
+            "30 g; 21 g",
+            "115 kcal",
+            "R$ 262,90",
+            "R$ 8,76",
+            "R$ 7,89"
+          ],
+          [
+            "[Tasty Whey 3W Gourmet](https://www.adaptogen.com.br/produto/tasty-whey-3w-gourmet-900g-23-sabores-150434?parceiro=CECILIA)",
+            "34 g; 24 g",
+            "134 kcal",
+            "R$ 317,90",
+            "R$ 12,23",
+            "R$ 11,00"
+          ]
+        ]
+      },
+      "postParagraphs": [
+        "Pela dose, o HIT sai mais barato que os outros dois, com 1 g de proteína a menos que o Gold e 4 g a menos que o Tasty. O Gold Whey é um whey concentrado, e o Tasty Whey 3W mistura whey concentrado, isolado e hidrolisado, segundo as páginas.",
+        "A comparação entre os wheys da marca pelo custo por 100 g de proteína, sem o HIT, está em [Adaptogen é boa?](/reviews/adaptogen-e-boa). Quem compara a Adaptogen com outra marca lê [Adaptogen ou Growth](/reviews/adaptogen-ou-growth)."
+      ],
+      "emphasis": "Conta nossa: o HIT tem a dose mais barata entre os wheys da Adaptogen, mas parte da proteína dele é colágeno, e a loja não diz quanto. Quem quer só a proteína do soro do leite compara o Gold Whey.",
+      "links": [
+        {
+          "label": "Ver o HIT Protein na Adaptogen",
+          "href": "https://www.adaptogen.com.br/produto/hit-protein-bag-900g-8-sabores-150309?parceiro=CECILIA",
+          "sponsored": true
+        }
+      ]
+    },
+    {
+      "heading": "O HIT Protein engorda?",
+      "paragraphs": [
+        "A tabela responde pelas calorias: cada porção de 33 g tem 130 kcal, 9 g de carboidratos (7 g de açúcares totais, nenhum adicionado) e 1 g de gordura. É um pouco mais que a dose do Gold Whey, com 115 kcal, e um pouco menos que a do Tasty Whey 3W, com 134 kcal.",
+        "Se ele cabe numa dieta para emagrecer depende do resto do dia. A porção da tabela serve para calcular o custo, não para indicar quanto tomar: quantidade e horário são conversa com médico ou nutricionista."
+      ]
+    },
+    {
+      "heading": "Sabores do HIT Protein",
+      "paragraphs": [
+        "O seletor da página tem oito sabores: Baunilha, Beijinho, Chocolate, Chocolate Maltado, Cookies & Cream, Doce de Leite, Morango e Original.",
+        "A descrição do produto lista sete, com um Chocomaltine e sem o Original. Quem procura um sabor específico confere o seletor na hora de pôr na sacola, porque é ele que mostra o que está à venda."
+      ]
+    },
+    {
+      "heading": "Como aplicar o cupom CECILIA no HIT Protein",
+      "paragraphs": [
+        "No site da Adaptogen, escolha o sabor, clique em Adicionar à sacola e siga para o checkout. Digite CECILIA no campo Cupom de desconto, clique em Aplicar e confira o aviso de Cupom aplicado e a linha do desconto no resumo. O código vale para cliente novo e antigo e também soma com os preços promocionais; o passo a passo com prints está em [como usar o cupom](/reviews/cupom-adaptogen-como-usar).",
+        "O código vale também no Pix; confira os dois descontos no resumo antes de pagar. O frete grátis depende da região: a política de entrega pede pedidos a partir de R$ 199,00 no Sudeste, R$ 249,00 no Sul e no Centro-Oeste, R$ 399,00 no Nordeste e R$ 599,00 no Norte, sem dizer se o mínimo conta antes ou depois do cupom. Um pacote do HIT sozinho fica abaixo de todos esses valores.",
+        "As regras do código estão na página do [cupom Adaptogen](/cupons/adaptogen). Para a creatina da marca, leia [creatina Adaptogen é boa?](/reviews/creatina-adaptogen-e-boa)."
+      ],
+      "links": [
+        {
+          "label": "Ver o cupom Adaptogen",
+          "href": "/cupons/adaptogen"
+        }
+      ]
+    },
+    {
+      "heading": "Perguntas frequentes",
+      "bullets": [
+        "O HIT Protein Adaptogen é bom? Sim, para quem quer a dose mais em conta entre os wheys da Adaptogen e aceita o colágeno junto: são 20 g de proteína por dose, sem açúcar adicionado. A conta por dose com o cupom CECILIA está na tabela acima.",
+        "O HIT Protein é whey? É whey concentrado com peptídeos de colágeno hidrolisado, segundo a loja. A página não diz quanto da proteína vem de cada um.",
+        "O HIT Protein tem açúcar? A tabela mostra 7 g de açúcares totais por porção de 33 g e 0 g de açúcares adicionados.",
+        "Quantas doses tem o pacote de 900 g? Cerca de 27, com a porção de 33 g da tabela.",
+        "Qual é o cupom do HIT Protein? É o CECILIA, com 10% OFF no site oficial da Adaptogen, para cliente novo e antigo. A página do [cupom Adaptogen](/cupons/adaptogen) traz o código em vigor."
+      ]
+    }
+  ]
+}
