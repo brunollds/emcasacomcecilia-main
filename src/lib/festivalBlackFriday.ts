@@ -399,7 +399,10 @@ function filterActiveBannerStrips(nowMs: number, slugFilter?: string): FestivalB
     if (slugFilter && strip.slug !== slugFilter) return false;
     if (strip.endsAt && Date.parse(strip.endsAt) < nowMs) return false;
     return true;
-  });
+  }).map((strip) => ({
+    ...strip,
+    ...(strip.bannerImgSrc ? { bannerImgSrc: resolveMediaUrl(strip.bannerImgSrc) } : {}),
+  }));
 }
 
 function buildSpotlightLabel(store: Coupon): string {

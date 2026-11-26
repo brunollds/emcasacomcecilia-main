@@ -16,8 +16,10 @@ export type FestivalBannerStrip = {
   headline: string;
   subtext: string;
   href: string;
-  bannerImgSrc: string;
-  bannerImgAlt: string;
+  // Arte opcional servida pela própria CDN do site (src/lib/generated/media-delivery-map.json).
+  // Não usar URL de imagem/pixel de servidor externo de afiliados enquanto o aviso de cookies cobrir só GA4 e Clarity.
+  bannerImgSrc?: string;
+  bannerImgAlt?: string;
   actionLabel: string;
   startsAt?: string;
   endsAt?: string;
@@ -60,8 +62,7 @@ export type FestivalExtraLinkPartner = {
 };
 
 // Banners tipo faixa exibidos em "Destaques da Semana" na /blackfriday (e na subpágina /blackfriday/[slug]).
-// Por privacidade (LGPD), o card textual com o botão do link convertido sai por padrão no HTML inicial,
-// e a imagem hospedada em servidor externo de afiliados só é carregada após consent === 'granted'.
+// Renderizados como faixa nativa com o link oficial convertido, sem carregar pixels externos de terceiros.
 export const FESTIVAL_BANNER_STRIPS: readonly FestivalBannerStrip[] = [
   {
     id: 'netshoes-maior-barato-2026',
@@ -76,9 +77,6 @@ export const FESTIVAL_BANNER_STRIPS: readonly FestivalBannerStrip[] = [
     subtext:
       'Tênis, roupas esportivas, suplementos e equipamentos pelo link oficial convertido da parceria — sem precisar digitar cupom.',
     href: 'https://click.linksynergy.com/fs-bin/click?id=hDg25%2aL35IM&offerid=951620.378&subid=0&type=4',
-    bannerImgSrc:
-      'https://ad.linksynergy.com/fs-bin/show?id=hDg25%2aL35IM&bids=951620.378&subid=0&type=4&gridnum=0',
-    bannerImgAlt: 'O maior barato do ano',
     actionLabel: 'Abrir ofertas na Netshoes',
     endsAt: '2026-11-30T23:59:59-03:00',
   },

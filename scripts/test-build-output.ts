@@ -5253,13 +5253,19 @@ function blackFridayPageProblems(
     }
   }
   const buildCheckNowMs = Date.now();
+  assert.ok(
+    !bfHtml.includes('ad.linksynergy.com'),
+    '/blackfriday: servidor de imagem externo da Rakuten não deve ser carregado sem previsão no aviso de cookies',
+  );
   for (const strip of FESTIVAL_BANNER_STRIPS) {
     assert.ok(strip.endsAt, `/blackfriday: faixa ${strip.id} deve ter endsAt definido`);
-    const bannerHost = new URL(strip.bannerImgSrc).hostname;
-    assert.ok(
-      !headOf(bfHtml).includes(bannerHost) && !bodyOf(bfHtml).includes(bannerHost),
-      `/blackfriday: imagem externa da faixa (${bannerHost}) não pode sair no HTML antes do consentimento`,
-    );
+    if (strip.bannerImgSrc) {
+      const resolvedStripImg = resolveMediaUrl(strip.bannerImgSrc);
+      assert.ok(
+        resolvedStripImg.startsWith('https://cdn.emcasacomcecilia.com/'),
+        `/blackfriday: arte opcional da faixa ${strip.id} deve vir da CDN própria, não de servidor externo (${resolvedStripImg})`,
+      );
+    }
     if (buildCheckNowMs <= Date.parse(strip.endsAt)) {
       assert.ok(
         bodyOf(bfHtml).includes(escapeHtml(strip.href)),
@@ -5316,8 +5322,8 @@ function blackFridayPageProblems(
       `/blackfriday/${extra.slug}`,
     );
     assert.ok(
-      !headOf(extraHtml).includes('ad.linksynergy.com') && !bodyOf(extraHtml).includes('ad.linksynergy.com'),
-      `/blackfriday/${extra.slug}: imagem externa da Rakuten não pode sair no HTML antes do consentimento`,
+      !extraHtml.includes('ad.linksynergy.com'),
+      `/blackfriday/${extra.slug}: servidor de imagem externo da Rakuten não deve estar presente na página`,
     );
     assert.ok(
       bodyOf(extraHtml).includes(escapeHtml(extra.offerUrl)),
