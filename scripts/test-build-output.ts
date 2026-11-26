@@ -73,7 +73,13 @@ import { VIDEOS_TRAIL, getVideoPageContent, getVideosHubContent, type VideoPageC
 import { YOUTUBE_SUBSCRIBE_URL, videoMorphName } from '../src/lib/videosShelf';
 import { getPrimaryRewardCode } from '../src/lib/yesstyleCoupons';
 import { getConsentCopy } from '../src/components/consent/consentCopy';
-import { inferCouponPercentValue } from '../src/lib/festivalBlackFriday';
+import {
+  FESTIVAL_BANNER_STRIPS,
+  FESTIVAL_EXTRA_LINK_PARTNERS,
+  getFestivalBlackFridayData,
+  getFestivalPartnerPageData,
+  inferCouponPercentValue,
+} from '../src/lib/festivalBlackFriday';
 import { EVERY_STORE_TRANSLATED_CLAIM, LABEL_SAME_AS_PORTUGUESE, OTHER_COUPONS, codeAsCouponRegExp, escapeRegExp, getCategoriesSameAsPortuguese, getPtStoreTexts, isStoreLink } from './locale-home-guards';
 
 // Confere o que só existe depois do `next build`: o CSS final, o sitemap.xml, o llms.txt, o <head>
@@ -5168,6 +5174,12 @@ function blackFridayPageProblems(
     if (!href) continue;
     if (isInternalLink(href)) {
       if (/\bsponsored\b/.test(tag)) problems.push(`link interno com sponsored: ${href}`);
+      if (href.startsWith('/') && !href.startsWith('//')) {
+        const cleanPath = href.split(/[?#]/)[0];
+        if (cleanPath && !builtFile(`${SITE_URL}${cleanPath}`)) {
+          problems.push(`link interno aponta para rota inexistente (404): ${href}`);
+        }
+      }
     } else if (href.startsWith('https://')) {
       externalStoreLinks++;
       if (!tag.includes('target="_blank"')) problems.push(`link externo sem target="_blank": ${href}`);
@@ -5239,6 +5251,88 @@ function blackFridayPageProblems(
         `/blackfriday/${store.slug}: sem o código ativo da ${store.brand}`,
       );
     }
+  }
+  const buildCheckNowMs = Date.now();
+  assert.ok(
+    !bfHtml.includes('ad.linksynergy.com'),
+    '/blackfriday: servidor de imagem externo da Rakuten não deve ser carregado sem previsão no aviso de cookies',
+  );
+  for (const strip of FESTIVAL_BANNER_STRIPS) {
+    assert.ok(strip.endsAt, `/blackfriday: faixa ${strip.id} deve ter endsAt definido`);
+    if (strip.bannerImgSrc) {
+      const resolvedStripImg = resolveMediaUrl(strip.bannerImgSrc);
+      assert.ok(
+        resolvedStripImg.startsWith('https://cdn.emcasacomcecilia.com/'),
+        `/blackfriday: arte opcional da faixa ${strip.id} deve vir da CDN própria, não de servidor externo (${resolvedStripImg})`,
+      );
+    }
+    if (buildCheckNowMs <= Date.parse(strip.endsAt)) {
+      assert.ok(
+        bodyOf(bfHtml).includes(escapeHtml(strip.href)),
+        `/blackfriday: sem o link especial da faixa ${strip.id}`,
+      );
+    }
+  }
+  {
+    const bfNov27 = getFestivalBlackFridayData(new Date('2026-11-27T12:00:00-03:00'));
+    assert.ok(
+      bfNov27.bannerStrips.some((s) => s.id === 'netshoes-maior-barato-2026'),
+      '/blackfriday: faixa Netshoes deve estar ativa em 27/11/2026',
+    );
+    const dec1 = new Date('2026-12-01T12:00:00-03:00');
+    const bfDec1 = getFestivalBlackFridayData(dec1);
+    assert.ok(
+      !bfDec1.bannerStrips.some((s) => s.slug === 'netshoes'),
+      '/blackfriday: faixa Black Friday da Netshoes deve expirar em 01/12/2026',
+    );
+    const netshoesDec1 = getFestivalPartnerPageData('netshoes', dec1);
+    assert.ok(netshoesDec1, '/blackfriday/netshoes: dados da subpágina em 01/12/2026');
+    assert.equal(
+      netshoesDec1.bannerStrips.length,
+      0,
+      '/blackfriday/netshoes: faixa Black Friday deve expirar em 01/12/2026',
+    );
+    assert.equal(
+      netshoesDec1.store.campaigns.length,
+      0,
+      '/blackfriday/netshoes: campanha Black Friday deve expirar em 01/12/2026',
+    );
+    assert.doesNotMatch(
+      netshoesDec1.store.discount,
+      /black friday/i,
+      '/blackfriday/netshoes: desconto base não deve reter rótulo Black Friday após 30/11',
+    );
+  }
+  for (const extra of FESTIVAL_EXTRA_LINK_PARTNERS) {
+    assert.ok(
+      bodyOf(bfHtml).includes(escapeHtml(extra.brand)),
+      `/blackfriday: sem o parceiro de link convertido ${extra.brand}`,
+    );
+    assert.ok(
+      !bfHtml.includes(`/cupons/${extra.slug}`),
+      `/blackfriday: não deve apontar para /cupons/${extra.slug} inexistente`,
+    );
+    const extraUrl = `${SITE_URL}/blackfriday/${extra.slug}`;
+    const extraFile = builtFile(extraUrl);
+    assert.ok(extraFile, `/blackfriday/${extra.slug}: subpágina do parceiro de link não gerada no build`);
+    const extraHtml = read(extraFile);
+    assert.deepEqual(
+      blackFridayPageProblems(extraHtml, sitemapUrls.includes(extraUrl), llmsUrls.includes(extraUrl), []),
+      [],
+      `/blackfriday/${extra.slug}`,
+    );
+    assert.ok(
+      !extraHtml.includes('ad.linksynergy.com'),
+      `/blackfriday/${extra.slug}: servidor de imagem externo da Rakuten não deve estar presente na página`,
+    );
+    assert.ok(
+      bodyOf(extraHtml).includes(escapeHtml(extra.offerUrl)),
+      `/blackfriday/${extra.slug}: sem o link oficial convertido da ${extra.brand}`,
+    );
+    assert.ok(
+      !extraHtml.includes(`/cupons/${extra.slug}`),
+      `/blackfriday/${extra.slug}: não deve apontar para /cupons/${extra.slug} inexistente`,
+    );
   }
   assert.notDeepEqual(blackFridayPageProblems(bfHtml, true, false, []), [], '/blackfriday: controle do sitemap passou');
   assert.notDeepEqual(

@@ -33,6 +33,8 @@ export const PARTNER_HOSTS: readonly string[] = [
   'lejour.com.br',
   'letseatit.com.br',
   'link.amazon',
+  // Redirecionamento de afiliados Rakuten Advertising (ex.: Netshoes).
+  'linksynergy.com',
   'lojacolaedecora.com.br',
   'lojalaganexa.com.br',
   'lojamaismu.com.br',
@@ -45,6 +47,7 @@ export const PARTNER_HOSTS: readonly string[] = [
   'mercadolivre.com.br',
   'nescafe-dolcegusto.com.br',
   'nestlenutre.com.br',
+  'netshoes.com.br',
   'oceane.com.br',
   'petz.com.br',
   'pinkcheeks.com.br',

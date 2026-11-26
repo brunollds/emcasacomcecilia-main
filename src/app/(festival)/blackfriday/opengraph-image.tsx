@@ -3,7 +3,7 @@ import fs from 'node:fs';
 import path from 'node:path';
 import { ImageResponse } from 'next/og';
 import { getActiveCoupons } from '@/lib/couponsData';
-import { isBlackFridaySeason } from '@/lib/festivalBlackFriday';
+import { getFestivalPartnerCount, isBlackFridaySeason } from '@/lib/festivalBlackFriday';
 import { resolveMediaUrl } from '@/lib/resolve-media.mjs';
 
 export const alt = 'Festival de Cupons EXCLUSIVOS da Cecília';
@@ -63,7 +63,7 @@ async function loadShareImageDataUri(relPath: string): Promise<string | null> {
 
 export default async function OpenGraphImage() {
   const activeCoupons = getActiveCoupons();
-  const totalCount = activeCoupons.length;
+  const totalCount = getFestivalPartnerCount();
 
   const orbSlugs = ['insider', 'damie', 'dolce-gusto', 'i-wanna-sleep', 'bagaggio', 'dr-peanut'];
   const orbStores = orbSlugs

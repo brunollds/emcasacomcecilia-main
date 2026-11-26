@@ -8,6 +8,7 @@ import fs from 'node:fs';
 import path from 'node:path';
 import { COUPONS } from '../src/lib/couponsData';
 import { AFFILIATE_STORES } from '../src/lib/affiliateStores';
+import { FESTIVAL_BANNER_STRIPS, FESTIVAL_EXTRA_LINK_PARTNERS } from '../src/lib/festivalExtraPartners';
 import { PARTNER_HOSTS, hostMatches, hrefHost, isPartnerHref } from '../src/lib/partnerHosts';
 
 const NON_PARTNER: string[] = JSON.parse(fs.readFileSync(path.join('scripts', 'non-partner-hosts.json'), 'utf8')).hosts;
@@ -37,6 +38,17 @@ for (const coupon of COUPONS) {
   checkStoreUrl(coupon.slug, coupon.offerUrl);
 }
 for (const store of AFFILIATE_STORES) checkStoreUrl(store.slug, store.offerUrl);
+for (const extra of FESTIVAL_EXTRA_LINK_PARTNERS) {
+  assert.ok(
+    !COUPONS.some((c) => c.slug === extra.slug),
+    `${extra.slug}: já existe em couponsData.ts; remova de FESTIVAL_EXTRA_LINK_PARTNERS`,
+  );
+  checkStoreUrl(extra.slug, extra.officialUrl);
+  checkStoreUrl(extra.slug, extra.offerUrl);
+}
+for (const strip of FESTIVAL_BANNER_STRIPS) {
+  checkStoreUrl(strip.slug, strip.href);
+}
 assert.deepEqual(storeProblems, [], `loja parceira sem domínio na lista:\n${storeProblems.join('\n')}`);
 
 const LINK = /\]\((https?:\/\/[^\s)]+)\)/g;
