@@ -48,6 +48,42 @@ Marca de suplementos esportivos (Adaptogen Science); o site roda na Wake (a mesm
 - Nunca citar códigos de terceiros nem da loja; a página responde "Existe cupom Adaptogen de 20%?" sem nomear código.
 - Suplemento sem promessa de efeito. Nos artigos, usar `affiliate: "adaptogen"`, `coupon: "CECILIA"` (o código, como nos JSONs da marca) e link relativo para `/cupons/adaptogen`,
   com a âncora exata "cupom Adaptogen".
+- Creatinas (leitura de 26/11/2026, [[adaptogen-fatos-2611]]): a "Super" virou **Creatina Pro 300 g**, com
+  carboidrato e 50 doses; a **Platinum Series** é a "Creatine 100% Pure" do rótulo, em 100 g, 300 g, 500 g e 1 kg. O
+  rótulo não cita Creapure; a arte "aprovado em todos os laudos de pureza" não tem laudo publicado; a frase "aprovada
+  pela ANVISA" e a de Alzheimer e Parkinson da página da Pro nunca entram no texto.
+- HIT Protein: a página não publica lista de ingredientes nem a proporção whey × colágeno. Comparação com os wheys
+  sempre por dose, nunca por 100 g de proteína.
+- Frete (26/11/2026): o topo do site passou a dizer "Frete Grátis para todo Brasil - consulte condições"; a tabela por
+  região de 18/11 (seção 1) não foi relida. Reler as condições antes de citar frete grátis.
+
+---
+
+## Perguntas reais
+
+Consultas literais, com a fonte. Autocompletar é presença, sem volume.
+
+| Pergunta ou consulta | Fonte |
+|---|---|
+| creatina adaptogen é boa | Search Console (Bruno, 26/11/2026: 13 impressões, posição 10,8); autocompletar, 26/11/2026 |
+| hit protein adaptogen é bom | Search Console (Bruno, 26/11/2026: 13 impressões, posição 6,8; IA na 5,0); autocompletar, 26/11/2026 |
+| creatina adaptogen é pura | Autocompletar, 26/11/2026 |
+| creatina adaptogen tem selo creapure | Autocompletar, 26/11/2026 |
+| creatina adaptogen é aprovada pela anvisa | Autocompletar, 26/11/2026 |
+| creatina adaptogen é monohidratada | Autocompletar, 26/11/2026 |
+| creatina adaptogen 300g / 500g / 1kg | Autocompletar, 26/11/2026 |
+| creatina super adaptogen é boa | Autocompletar, 26/11/2026 |
+| creatina platinum adaptogen é boa | Autocompletar, 26/11/2026 |
+| hit protein adaptogen tabela nutricional | Autocompletar, 26/11/2026 |
+| hit protein adaptogen ingredientes | Autocompletar, 26/11/2026 |
+| hit protein adaptogen é whey | Autocompletar, 26/11/2026 |
+| hit protein adaptogen é concentrado | Autocompletar, 26/11/2026 |
+| hit protein adaptogen engorda | Autocompletar, 26/11/2026 |
+| hit protein adaptogen é bom para emagrecer | Autocompletar, 26/11/2026 |
+| hit protein adaptogen qual a diferença | Autocompletar, 26/11/2026 |
+| hit protein adaptogen original | Autocompletar, 26/11/2026 |
+
+As consultas de 18/11 (laudo, Anvisa, marketplace, Tasty Whey) estão em [[adaptogen-fatos-1811]], seções 7 e 8.
 
 ---
 
