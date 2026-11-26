@@ -96039,7 +96039,7 @@ const reviewsChunk0: unknown[] = [
       {
         "heading": "Resposta rápida",
         "paragraphs": [
-          "A Black Friday da Black Skull está no ar, com desconto por produto e até 50% OFF anunciado na home. O CECILIA10 dá 10% em todo o site e somou com os preços promocionais na nossa sacola. Entre os wheys conferidos, o Whey 80% HD Refil tem o menor custo por proteína."
+          "A Black Friday da Black Skull está no ar, com desconto por produto e até 50% OFF anunciado na home. O [cupom Black Skull](/cupons/black-skull) CECILIA10 dá 10% em todo o site e somou com os preços promocionais na nossa sacola. Entre os wheys conferidos, o Whey 80% HD Refil tem o menor custo por proteína."
         ]
       },
       {
@@ -102791,7 +102791,7 @@ const reviewsChunk0: unknown[] = [
       {
         "heading": "Resposta rápida",
         "paragraphs": [
-          "A Black November da Belive anuncia até 30% OFF em todo o site e desconto extra no Pix. O cupom Belive MAUAD tira mais 10% e soma com o Pix, num total de 14,5% sobre os produtos. Pelos preços de página, o kit de 10 sai cerca de 7% mais barato que dez unidades."
+          "A Black November da Belive anuncia até 30% OFF em todo o site e desconto extra no Pix. O [cupom Belive](/cupons/belive) MAUAD tira mais 10% e soma com o Pix, num total de 14,5% sobre os produtos. Pelos preços de página, o kit de 10 sai cerca de 7% mais barato que dez unidades."
         ]
       },
       {
@@ -107125,7 +107125,7 @@ const reviewsChunk0: unknown[] = [
       {
         "heading": "Resposta rápida",
         "paragraphs": [
-          "“Sem açúcar” não significa sem carboidrato. Os seis doces da Belive declaram 0 g de açúcares e 16 g a 24 g de carboidratos nas porções indicadas. Para ler a diferença, comece pela porção, confira as linhas de açúcares e carboidratos e só então veja ingredientes e avisos da embalagem."
+          "“Sem açúcar” não significa sem carboidrato. Os seis doces da Belive declaram 0 g de açúcares e 16 g a 24 g de carboidratos nas porções indicadas. Para ler a diferença, comece pela porção, confira as linhas de açúcares e carboidratos e só então veja ingredientes e avisos da embalagem. No site oficial da Belive, o cupom MAUAD dá 10% OFF."
         ]
       },
       {
@@ -144202,7 +144202,7 @@ const reviewsChunk0: unknown[] = [
     "id": 597,
     "slug": "creatina-black-skull-qual-escolher",
     "title": "Creatina Black Skull: Creator, Creatine ou Turbo, qual escolher e qual pote compensa",
-    "seoTitle": "Creatina Black Skull: qual escolher (Turbo ou Creator)",
+    "seoTitle": "Creatina Black Skull: Creator, Creatine ou Turbo?",
     "type": "Guia de Escolha",
     "category": "guias-praticos-utilidade",
     "reviewKind": "guia",
@@ -212190,13 +212190,13 @@ const reviewsChunk1: unknown[] = [
       {
         "heading": "Resposta rápida",
         "paragraphs": [
-          "O cupom HolyFoods é o EMCASA: 15% OFF em todo o site, digitado na tela \"Finalizar compra\", em \"Inserir cupom de desconto\". O carrinho lateral não aceita o código, e o link da parceria também não o aplica. O que decide é a linha de desconto antes de pagar; os dois testes estão em \"Onde o código valeu\"."
+          "O [cupom HolyFoods](/cupons/holyfoods) é o EMCASA: 15% OFF em todo o site, digitado na tela \"Finalizar compra\", em \"Inserir cupom de desconto\". O carrinho lateral não aceita o código, e o link da parceria também não o aplica. O que decide é a linha de desconto antes de pagar; os dois testes estão em \"Onde o código valeu\"."
         ]
       },
       {
         "heading": "O que é o EMCASA",
         "paragraphs": [
-          "Se a compra é no site oficial da HolyFoods, o [cupom HolyFoods](/cupons/holyfoods) da parceria é o EMCASA: 15% OFF em todo o site, de sopa e macarrão a risoto e pack. A HolyFoods vende refeições para preparar em casa, que se guardam fechadas na despensa; o cupom é o benefício para quem acompanha o Em Casa com Cecília.",
+          "Se a compra é no site oficial da HolyFoods, o cupom HolyFoods da parceria é o EMCASA: 15% OFF em todo o site, de sopa e macarrão a risoto e pack. A HolyFoods vende refeições para preparar em casa, que se guardam fechadas na despensa; o cupom é o benefício para quem acompanha o Em Casa com Cecília.",
           "O cupom vale para tudo o que a loja vende: as sopas [Canja da Mamãe](https://www.holyfoods.com.br/products/canja-da-mamae?utm_source=afiliados&utm_medium=emcasacomcecilia&utm_campaign=inbazz), [Sopa da Vovó](https://www.holyfoods.com.br/products/sopa-da-vovo?utm_source=afiliados&utm_medium=emcasacomcecilia&utm_campaign=inbazz) e [Sopa Low Carb](https://www.holyfoods.com.br/products/sopa-low-carb?utm_source=afiliados&utm_medium=emcasacomcecilia&utm_campaign=inbazz), os macs [Queijo](https://www.holyfoods.com.br/products/novo-mac-queijo?utm_source=afiliados&utm_medium=emcasacomcecilia&utm_campaign=inbazz), [Alfredo](https://www.holyfoods.com.br/products/novo-mac-alfredo?utm_source=afiliados&utm_medium=emcasacomcecilia&utm_campaign=inbazz), [Bolonha](https://www.holyfoods.com.br/products/mac-bolonha?utm_source=afiliados&utm_medium=emcasacomcecilia&utm_campaign=inbazz) e [Caipira](https://www.holyfoods.com.br/products/mac-caipira?utm_source=afiliados&utm_medium=emcasacomcecilia&utm_campaign=inbazz), os risotos [Funghi](https://www.holyfoods.com.br/products/risoto-funghi?utm_source=afiliados&utm_medium=emcasacomcecilia&utm_campaign=inbazz), [de Queijo](https://www.holyfoods.com.br/products/risoto-de-queijo?utm_source=afiliados&utm_medium=emcasacomcecilia&utm_campaign=inbazz) e [Al Mare](https://www.holyfoods.com.br/products/risoto-al-mare?utm_source=afiliados&utm_medium=emcasacomcecilia&utm_campaign=inbazz) e os packs de sopa, como o [Pack Canja da Mamãe](https://www.holyfoods.com.br/products/pack-canja-da-mamae?utm_source=afiliados&utm_medium=emcasacomcecilia&utm_campaign=inbazz) e o [Pack Sopa Low Carb](https://www.holyfoods.com.br/products/pack-sopa-low-carb?utm_source=afiliados&utm_medium=emcasacomcecilia&utm_campaign=inbazz). Na consulta mais recente, cada avulso estava por R$ 13,93 e cada pack por R$ 41,93, já com os 30% da campanha da loja.",
           "Quem busca cupom de primeira compra encontra aqui o nosso código e nenhum outro: o EMCASA é o que a parceria dá, e é o que a linha de desconto vai mostrar. O botão desta página leva à loja, mas não aplica o código: você copia o EMCASA e digita na hora de finalizar.",
           "O desconto sai do preço que está no carrinho. Nos dois testes da Black, os 15% foram aplicados ao preço que já tinha a promoção da loja. Confira o valor descontado e o total antes de pagar.",
@@ -212418,7 +212418,7 @@ const reviewsChunk1: unknown[] = [
       {
         "heading": "Resposta rápida",
         "paragraphs": [
-          "A HolyFoods está na Black: são 30% no site todo, já aplicados nos preços, sem cupom. O cupom EMCASA tira mais 15% e, nos nossos testes, somou com esses 30%, mas só entra na tela de finalizar a compra. A loja não publicou o fim da campanha, então o que decide é qual kit levar: veja a comparação abaixo."
+          "A HolyFoods está na Black: são 30% no site todo, já aplicados nos preços, sem cupom. O [cupom HolyFoods](/cupons/holyfoods) EMCASA tira mais 15% e, nos nossos testes, somou com esses 30%, mas só entra na tela de finalizar a compra. A loja não publicou o fim da campanha, então o que decide é qual kit levar: veja a comparação abaixo."
         ]
       },
       {
@@ -241378,14 +241378,14 @@ const reviewsChunk1: unknown[] = [
       {
         "heading": "Resposta rápida",
         "paragraphs": [
-          "Para a primeira compra na Black Skull, use CECILIA10: 10% OFF em todos os produtos do site oficial, kits e roupas inclusos, com todas as formas de pagamento. O desconto entra sobre o preço promocional, e o mesmo percentual vale para quem já comprou. O código vale também no aplicativo da loja e não vale no Mercado Livre."
+          "Para a primeira compra na Black Skull, use o [cupom Black Skull](/cupons/black-skull) CECILIA10: 10% OFF em todos os produtos do site oficial, kits e roupas inclusos, com todas as formas de pagamento. O desconto entra sobre o preço promocional, e o mesmo percentual vale para quem já comprou. O código vale também no aplicativo da loja e não vale no Mercado Livre."
         ]
       },
       {
         "heading": "Cupom Black Skull primeira compra: qual usar",
         "paragraphs": [
           "A Black Skull é uma marca de suplementos; a loja online, [blackskullusa.com.br](https://www.blackskullusa.com.br/), também vende kits e roupas. Se este é o seu primeiro pedido, o código é um só, e as regras estão logo abaixo.",
-          "O CECILIA10 é o [cupom Black Skull](/cupons/black-skull) da nossa parceria com a marca, testado no checkout. Whey, creatina, kit ou camiseta: o código é o mesmo."
+          "O CECILIA10 é o código da nossa parceria com a marca, testado no checkout. Whey, creatina, kit ou camiseta: o código é o mesmo."
         ]
       },
       {
@@ -242467,7 +242467,7 @@ const reviewsChunk1: unknown[] = [
       {
         "heading": "Resposta rápida",
         "paragraphs": [
-          "Para a primeira compra na Belive, use MAUAD: 10% OFF em todo o site oficial, combos e kits inclusos, com todas as formas de pagamento. O código soma com as ofertas e com os 5% do Pix, e vale de novo para quem já comprou. Ele não vale no Mercado Livre; o frete grátis depende da região."
+          "Para a primeira compra na Belive, use o [cupom Belive](/cupons/belive) MAUAD: 10% OFF em todo o site oficial, combos e kits inclusos, com todas as formas de pagamento. O código soma com as ofertas e com os 5% do Pix, e vale de novo para quem já comprou. Ele não vale no Mercado Livre; o frete grátis depende da região."
         ]
       },
       {
@@ -242475,7 +242475,7 @@ const reviewsChunk1: unknown[] = [
         "paragraphs": [
           "A Belive vende alimentos como pães, doces e snacks na sua loja online.",
           "Use o MAUAD: 10% OFF em todos os produtos do site oficial, inclusive combos e kits. Ele vale no primeiro pedido e nos seguintes.",
-          "É o [cupom Belive](/cupons/belive) da nossa parceria com a marca, testado no carrinho. Pão, doce ou snack: o código é o mesmo."
+          "É o código da nossa parceria com a marca, testado no carrinho. Pão, doce ou snack: o código é o mesmo."
         ]
       },
       {
@@ -242635,7 +242635,7 @@ const reviewsChunk1: unknown[] = [
       {
         "heading": "Resposta rápida",
         "paragraphs": [
-          "Para a primeira compra na HolyFoods, use EMCASA: 15% OFF em todo o site oficial, inclusive em avulsos e kits em promoção. O mesmo código vale para quem já comprou, com todas as formas de pagamento. Aplique na tela “Finalizar compra”, no campo de cupom; o campo “Cartão-presente” não aceita EMCASA."
+          "Para a primeira compra na HolyFoods, use o [cupom HolyFoods](/cupons/holyfoods) EMCASA: 15% OFF em todo o site oficial, inclusive em avulsos e kits em promoção. O mesmo código vale para quem já comprou, com todas as formas de pagamento. Aplique na tela “Finalizar compra”, no campo de cupom; o campo “Cartão-presente” não aceita EMCASA."
         ]
       },
       {
@@ -242643,7 +242643,7 @@ const reviewsChunk1: unknown[] = [
         "paragraphs": [
           "A HolyFoods vende sopas, risotos e macarrões de despensa, que ficam prontos no fogão em 15 a 20 minutos. Para quem pede pela primeira vez, a loja dá 30 dias de garantia de satisfação, que aceita uma unidade aberta se as demais estiverem fechadas.",
           "Use o EMCASA: 15% OFF em todos os produtos do site oficial, avulsos e kits, com todas as formas de pagamento. Ele vale no primeiro pedido e nos seguintes.",
-          "É o [cupom HolyFoods](/cupons/holyfoods) da nossa parceria com a marca, testado no checkout. Sopa, macarrão ou risoto: o código é o mesmo."
+          "É o código da nossa parceria com a marca, testado no checkout. Sopa, macarrão ou risoto: o código é o mesmo."
         ]
       },
       {
@@ -271649,7 +271649,7 @@ const reviewsChunk2: unknown[] = [
     "coupon": "EMCASA",
     "affiliate": "rituaria",
     "title": "Black Friday Rituária 2026: como funciona o Leve 3, Pague 2 e como o cupom entra",
-    "seoTitle": "Black Friday Rituária 2026: Leve 3, Pague 2 e o cupom",
+    "seoTitle": "Black Friday Rituária 2026: Leve 3, Pague 2 e EMCASA",
     "type": "Guia de Black Friday",
     "description": "Como a Rituária vende o Leve 3, Pague 2 na Black November, em que etapa o desconto aparece, a conta de um carrinho testado com o EMCASA e o que conferir antes de pagar.",
     "metaDescription": "EMCASA dá 10% OFF na Rituária. Veja como ele entra no Leve 3, Pague 2 da Black Friday 2026 e o que conferir antes de pagar.",
@@ -271689,7 +271689,7 @@ const reviewsChunk2: unknown[] = [
       {
         "heading": "Resposta rápida",
         "paragraphs": [
-          "Na Black November da Rituária, com três suplementos da coleção Leve 3, Pague 2 no carrinho, o de menor valor sai de graça no checkout. No nosso teste, o cupom EMCASA entrou por cima e tirou 10% do que sobrou. A página da promoção não traz data de fim: confira o total no checkout antes de pagar."
+          "Na Black November da Rituária, com três suplementos da coleção Leve 3, Pague 2 no carrinho, o de menor valor sai de graça no checkout. No nosso teste, o [cupom Rituária](/cupons/rituaria) EMCASA entrou por cima e tirou 10% do que sobrou. A página da promoção não traz data de fim: confira o total no checkout antes de pagar."
         ]
       },
       {
@@ -271785,7 +271785,7 @@ const reviewsChunk2: unknown[] = [
         "paragraphs": [
           "No nosso teste, o cupom EMCASA entrou no campo “Tem um cupom?” do checkout, com o botão “Adicionar”. Ele somou com a promoção: os 10% saíram do total que sobrou depois do item grátis, não do total cheio.",
           "Não sabemos se a loja mantém essa ordem até o fim da campanha, nem se a regra muda na semana da Black Friday. O que vale no dia da compra é o que o checkout mostrar.",
-          "O passo a passo, campo a campo, está em [como usar o cupom EMCASA na Rituária](/reviews/cupom-rituaria-como-usar). As condições do código estão na página do [cupom Rituária](/cupons/rituaria)."
+          "O passo a passo, campo a campo, está em [como usar o cupom EMCASA na Rituária](/reviews/cupom-rituaria-como-usar). As condições do código estão na página do cupom Rituária."
         ]
       },
       {
@@ -271836,7 +271836,7 @@ const reviewsChunk2: unknown[] = [
         "heading": "Perguntas frequentes",
         "bullets": [
           "A Rituária tem Black Friday? Não encontramos página com esse nome. A campanha aparece como Black November e Black Rituária, com Leve 3, Pague 2 na coleção de suplementos. A página consultada não publicava data de fim.",
-          "Qual é o cupom da Rituária? É o EMCASA, com 10% OFF no site oficial, para cliente novo e antigo e em todas as formas de pagamento. Ele entra no campo “Tem um cupom?” do checkout, e as condições estão na página do [cupom Rituária](/cupons/rituaria).",
+          "Qual é o cupom da Rituária? É o EMCASA, com 10% OFF no site oficial, para cliente novo e antigo e em todas as formas de pagamento. Ele entra no campo “Tem um cupom?” do checkout, e as condições estão na página do cupom Rituária.",
           "O cupom EMCASA vale no Leve 3, Pague 2? No nosso teste, com três Brain+ iguais, sim: os 10% entraram sobre o total que sobrou depois do item grátis, e o total foi de R$ 125,82. Confira a linha de descontos no checkout antes de pagar.",
           "Por que o carrinho não mostra o desconto? O carrinho mostra o total cheio e segue direto para o checkout próprio, onde a promoção aparece na linha de descontos.",
           "Quais produtos entram no Leve 3, Pague 2? Os suplementos listados na coleção da promoção. Num carrinho anterior, com dois itens da coleção e um Capilar Nutri, que não está nela, nenhum saiu de graça.",
@@ -272624,7 +272624,7 @@ const reviewsChunk2: unknown[] = [
       {
         "heading": "Resposta rápida",
         "paragraphs": [
-          "Para a primeira compra na Rituária, use o cupom EMCASA: 10% OFF no site oficial, sobre o preço promocional. Ele também vale para quem já comprou, então o mesmo código serve nas compras seguintes. Digite-o no campo “Tem um cupom?” do checkout e confira a linha Descontos antes de pagar; o passo a passo está abaixo."
+          "Para a primeira compra na Rituária, use o [cupom Rituária](/cupons/rituaria) EMCASA: 10% OFF no site oficial, sobre o preço promocional. Ele também vale para quem já comprou, então o mesmo código serve nas compras seguintes. Digite-o no campo “Tem um cupom?” do checkout e confira a linha Descontos antes de pagar; o passo a passo está abaixo."
         ]
       },
       {
@@ -272632,7 +272632,7 @@ const reviewsChunk2: unknown[] = [
         "paragraphs": [
           "A Rituária é uma marca brasileira de suplementos, superfoods e dermocosméticos, com loja própria e checkout em seguro.rituaria.com.br.",
           "Para o primeiro pedido, use EMCASA. A loja informa 10% OFF no site oficial, e no nosso teste o desconto entrou sobre o preço promocional. O mesmo código também vale para quem já é cliente.",
-          "Na página do [cupom Rituária](/cupons/rituaria) ficam o código e as condições em vigor."
+          "Na página do cupom Rituária ficam o código e as condições em vigor."
         ]
       },
       {
@@ -272726,7 +272726,7 @@ const reviewsChunk2: unknown[] = [
       {
         "heading": "Perguntas frequentes",
         "bullets": [
-          "Qual é o cupom da Rituária? É o EMCASA, com 10% OFF no site oficial, também sobre o preço promocional. Ele entra no campo “Tem um cupom?” do checkout, e as condições estão na página do [cupom Rituária](/cupons/rituaria).",
+          "Qual é o cupom da Rituária? É o EMCASA, com 10% OFF no site oficial, também sobre o preço promocional. Ele entra no campo “Tem um cupom?” do checkout, e as condições estão na página do cupom Rituária.",
           "Como conseguir desconto na primeira compra na Rituária? Não há código à parte para cliente novo: o mesmo EMCASA vale já no primeiro pedido, nas compras seguintes e em todas as formas de pagamento.",
           "Qual cupom vale para quem já é cliente? O mesmo EMCASA, sem trocar de código. Confira a linha Descontos no resumo de cada pedido.",
           "O cupom soma com produto em promoção? No nosso teste, sim: os 10% entraram sobre o preço promocional dos produtos. A conta está no capítulo sobre quanto o cupom tira.",
@@ -272759,7 +272759,7 @@ const reviewsChunk2: unknown[] = [
     "coupon": "CECILIA",
     "affiliate": "adaptogen",
     "title": "Black Friday Adaptogen 2026: o que está na campanha e como o cupom CECILIA entra",
-    "seoTitle": "Black Friday Adaptogen 2026: preços e o cupom de 10%",
+    "seoTitle": "Black Friday Adaptogen 2026: preços e cupom CECILIA",
     "type": "Guia de Black Friday",
     "description": "O que a Adaptogen põe na Black Friday, como ler o preço do Pix e o do cartão, a conta de dois carrinhos com o cupom e o que conferir de frete e de prazo.",
     "metaDescription": "CECILIA dá 10% OFF na Adaptogen e entrou sobre os preços da Black Friday 2026 no nosso teste. Veja o que está na campanha e o que conferir.",
@@ -272799,7 +272799,7 @@ const reviewsChunk2: unknown[] = [
       {
         "heading": "Resposta rápida",
         "paragraphs": [
-          "A Black Friday da Adaptogen reúne whey, creatina e outros produtos, e o cupom CECILIA na Adaptogen dá 10% OFF: nos nossos testes, entrou sobre os preços da campanha. A loja não informa data de fim na coleção. Abaixo estão os preços no cartão e no Pix, os dois carrinhos testados e as condições de frete."
+          "A Black Friday da Adaptogen reúne whey, creatina e outros produtos, e o [cupom Adaptogen](/cupons/adaptogen) CECILIA dá 10% OFF: nos nossos testes, entrou sobre os preços da campanha. A loja não informa data de fim na coleção. Abaixo estão os preços no cartão e no Pix, os dois carrinhos testados e as condições de frete."
         ]
       },
       {
@@ -272930,7 +272930,7 @@ const reviewsChunk2: unknown[] = [
         "paragraphs": [
           "O cupom CECILIA na Adaptogen entra no checkout, que abre quando você clica em Finalizar Compra na sacola. No resumo do pedido há o campo “Cupom de desconto”: digite CECILIA, clique em “Aplicar” e espere o aviso “Cupom aplicado”. A linha Cupom aparece no resumo, com o valor abatido.",
           "O botão desta página leva à loja, mas não aplica o código sozinho: quem entra por ele ainda digita o CECILIA. Como a campanha muda o preço da vitrine, o total que vale é o do resumo, com a linha Cupom e o frete do seu CEP. Se o aviso não aparecer, confira a grafia, tudo junto e sem espaço, e se o campo é o de cupom.",
-          "O passo a passo, campo a campo, está em [como usar o cupom CECILIA na Adaptogen](/reviews/cupom-adaptogen-como-usar). As condições do código estão na página do [cupom Adaptogen](/cupons/adaptogen)."
+          "O passo a passo, campo a campo, está em [como usar o cupom CECILIA na Adaptogen](/reviews/cupom-adaptogen-como-usar). As condições do código estão na página do cupom Adaptogen."
         ]
       },
       {
@@ -272984,7 +272984,7 @@ const reviewsChunk2: unknown[] = [
       {
         "heading": "Perguntas frequentes",
         "bullets": [
-          "Qual é o cupom da Adaptogen? É o CECILIA, com 10% OFF no site oficial, também sobre os preços da Black Friday. Cole no campo Cupom de desconto do checkout; a página do [cupom Adaptogen](/cupons/adaptogen) traz o código em vigor.",
+          "Qual é o cupom da Adaptogen? É o CECILIA, com 10% OFF no site oficial, também sobre os preços da Black Friday. Cole no campo Cupom de desconto do checkout; a página do cupom Adaptogen traz o código em vigor.",
           "A Adaptogen tem Black Friday? Tem uma coleção própria no site, com 57 produtos, e um banner na home. A loja não publica regulamento nem data de fim.",
           "O cupom CECILIA vale na Black Friday da Adaptogen? Nos nossos testes, somou com os preços da campanha. Confira a linha Cupom no resumo do checkout antes de pagar.",
           "O cupom soma com o Pix? O CECILIA vale também no Pix e soma com os 5% que a loja anuncia para essa modalidade. Confira os dois descontos no resumo antes de pagar; nossos testes não chegaram à etapa de pagamento.",
@@ -273047,7 +273047,7 @@ const reviewsChunk2: unknown[] = [
       {
         "heading": "Resposta rápida",
         "paragraphs": [
-          "O cupom CECILIA na Adaptogen dá 10% OFF no site oficial, para cliente novo e antigo, e entrou sobre os preços da Black Friday nos nossos testes. Digite CECILIA no campo Cupom de desconto do checkout, clique em Aplicar e confira a linha Cupom. Abaixo estão o passo a passo e os dois carrinhos testados."
+          "O [cupom Adaptogen](/cupons/adaptogen) CECILIA dá 10% OFF no site oficial, para cliente novo e antigo, e entrou sobre os preços da Black Friday nos nossos testes. Digite CECILIA no campo Cupom de desconto do checkout, clique em Aplicar e confira a linha Cupom. Abaixo estão o passo a passo e os dois carrinhos testados."
         ]
       },
       {
@@ -273182,7 +273182,7 @@ const reviewsChunk2: unknown[] = [
       {
         "heading": "Perguntas frequentes",
         "bullets": [
-          "Qual é o cupom da Adaptogen? É o CECILIA, com 10% OFF no site oficial, para cliente novo e antigo e em todas as formas de pagamento. Cole no campo Cupom de desconto do checkout; a página do [cupom Adaptogen](/cupons/adaptogen) traz o código em vigor.",
+          "Qual é o cupom da Adaptogen? É o CECILIA, com 10% OFF no site oficial, para cliente novo e antigo e em todas as formas de pagamento. Cole no campo Cupom de desconto do checkout; a página do cupom Adaptogen traz o código em vigor.",
           "Onde coloco o cupom na Adaptogen? No checkout, que abre em Finalizar Compra na sacola, dentro do campo Cupom de desconto do resumo. Clique em Aplicar e confira a linha Cupom.",
           "O cupom CECILIA soma com a Black Friday? Nos nossos testes, somou com os preços da campanha. Os preços mudam, então confira a linha Cupom antes de pagar.",
           "O cupom vale para quem já é cliente? Vale. O CECILIA serve para cliente novo e antigo. Quem compra pela primeira vez pode ler o [guia da primeira compra na Adaptogen](/reviews/cupom-adaptogen-primeira-compra).",
@@ -273574,7 +273574,7 @@ const reviewsChunk2: unknown[] = [
       {
         "heading": "Resposta rápida",
         "paragraphs": [
-          "Para conseguir desconto na primeira compra, use o cupom CECILIA na Adaptogen: 10% OFF no site oficial, também válido para quem já comprou. Nos nossos testes, ele entrou sobre o preço promocional. Digite CECILIA no campo Cupom de desconto do checkout e confira a linha Cupom; abaixo estão os dois pedidos testados e os cuidados com frete e prazo."
+          "Para conseguir desconto na primeira compra, use o [cupom Adaptogen](/cupons/adaptogen) CECILIA: 10% OFF no site oficial, também válido para quem já comprou. Nos nossos testes, ele entrou sobre o preço promocional. Digite CECILIA no campo Cupom de desconto do checkout e confira a linha Cupom; abaixo estão os dois pedidos testados e os cuidados com frete e prazo."
         ]
       },
       {
@@ -273582,7 +273582,7 @@ const reviewsChunk2: unknown[] = [
         "paragraphs": [
           "A Adaptogen é uma marca de suplementos esportivos que vende whey, creatina, pré-treinos e outros produtos. Para conhecer as diferenças entre as linhas, veja o [guia dos wheys e da creatina da Adaptogen](/reviews/adaptogen-e-boa). No primeiro pedido e nos seguintes, o CECILIA dá 10% OFF no site oficial.",
           "Código achado em outros sites pode não funcionar, e o link da loja não preenche o campo de cupom: digite CECILIA e confira a linha Cupom no resumo antes de pagar.",
-          "Na página do [cupom Adaptogen](/cupons/adaptogen) ficam o código e as condições em vigor."
+          "Na página do cupom Adaptogen ficam o código e as condições em vigor."
         ]
       },
       {
@@ -273667,7 +273667,7 @@ const reviewsChunk2: unknown[] = [
       {
         "heading": "Perguntas frequentes",
         "bullets": [
-          "Qual é o cupom da Adaptogen? É o CECILIA, com 10% OFF no site oficial, para cliente novo e antigo. Cole no campo Cupom de desconto do checkout; a página do [cupom Adaptogen](/cupons/adaptogen) traz o código em vigor.",
+          "Qual é o cupom da Adaptogen? É o CECILIA, com 10% OFF no site oficial, para cliente novo e antigo. Cole no campo Cupom de desconto do checkout; a página do cupom Adaptogen traz o código em vigor.",
           "Tem cupom Adaptogen de primeira compra? Sim, e é o mesmo das compras seguintes: o CECILIA vale no primeiro pedido, sem cadastro à parte.",
           "Qual cupom vale para quem já é cliente? O mesmo CECILIA, no mesmo campo do checkout. Confira a linha Cupom no resumo de cada pedido.",
           "O cupom soma com produto em promoção? Nos nossos testes, sim: os 10% entraram sobre o preço promocional dos carrinhos.",
@@ -307353,7 +307353,7 @@ const reviewsChunk2: unknown[] = [
       {
         "heading": "Resposta rápida",
         "paragraphs": [
-          "O Projeto 21 Dias reúne sete sachês de cada sopa: Vovó, Low Carb e Canja da Mamãe. Na oferta, o pack de um sabor e o Projeto 30 Dias custam menos por sachê. O de 21 exige um gasto menor para levar os três sabores. Todos levam água quente e preparo no fogão."
+          "O Projeto 21 Dias reúne sete sachês de cada sopa: Vovó, Low Carb e Canja da Mamãe. Na oferta, o pack de um sabor e o Projeto 30 Dias custam menos por sachê. O de 21 exige um gasto menor para levar os três sabores. Todos levam água quente e preparo no fogão. No site oficial, o cupom EMCASA dá 15% OFF."
         ]
       },
       {
@@ -307971,7 +307971,7 @@ const reviewsChunk2: unknown[] = [
       {
         "heading": "Resposta rápida",
         "paragraphs": [
-          "Veja o formato antes de medir a água. O sachê de sopa pede 450 ml. A sopa avulsa pede 1,1 ou 1,2 litro, conforme o sabor. Risoto e mac têm medidas próprias para o fogão e o micro-ondas nas fichas de produto. Se o seu rótulo trouxer outra instrução, siga a embalagem."
+          "Veja o formato antes de medir a água. O sachê de sopa pede 450 ml. A sopa avulsa pede 1,1 ou 1,2 litro, conforme o sabor. Risoto e mac têm medidas próprias para o fogão e o micro-ondas nas fichas de produto. Se o seu rótulo trouxer outra instrução, siga a embalagem. No site da HolyFoods, o cupom EMCASA dá 15% OFF."
         ]
       },
       {
