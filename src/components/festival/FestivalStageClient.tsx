@@ -12,7 +12,12 @@ import React, {
 import Link from 'next/link';
 import { trackEvent } from '@/lib/analytics';
 import { copyTextWithFallback } from '@/lib/clipboardUtils';
-import { openConsentPreferences } from '@/lib/consent';
+import {
+  getServerConsentSnapshot,
+  openConsentPreferences,
+  readConsent,
+  subscribeConsent,
+} from '@/lib/consent';
 import { INTERNAL_HOSTNAMES } from '@/lib/internalLinks';
 import type {
   FestivalBannerStrip,
@@ -317,6 +322,8 @@ export function FestivalBannerStripCard({
   strip: FestivalBannerStrip;
   onOpenModal?: (slug: string) => void;
 }) {
+  const consent = useSyncExternalStore(subscribeConsent, readConsent, getServerConsentSnapshot);
+  const canLoadExternalBanner = consent === 'granted';
   const [imgFailed, setImgFailed] = useState(false);
 
   const handleImgRef = useCallback((el: HTMLImageElement | null) => {
@@ -384,7 +391,7 @@ export function FestivalBannerStripCard({
         </div>
       </div>
 
-      {!imgFailed ? (
+      {canLoadExternalBanner && !imgFailed ? (
         <a
           href={strip.href}
           target="_blank"

@@ -60,8 +60,8 @@ export type FestivalExtraLinkPartner = {
 };
 
 // Banners tipo faixa exibidos em "Destaques da Semana" na /blackfriday (e na subpágina /blackfriday/[slug]).
-// Se o navegador do visitante bloquear o servidor de imagem do programa de afiliados, o card mantém
-// título, selo e botão funcionando normalmente pelo link convertido.
+// Por privacidade (LGPD), o card textual com o botão do link convertido sai por padrão no HTML inicial,
+// e a imagem hospedada em servidor externo de afiliados só é carregada após consent === 'granted'.
 export const FESTIVAL_BANNER_STRIPS: readonly FestivalBannerStrip[] = [
   {
     id: 'netshoes-maior-barato-2026',
@@ -80,6 +80,7 @@ export const FESTIVAL_BANNER_STRIPS: readonly FestivalBannerStrip[] = [
       'https://ad.linksynergy.com/fs-bin/show?id=hDg25%2aL35IM&bids=951620.378&subid=0&type=4&gridnum=0',
     bannerImgAlt: 'O maior barato do ano',
     actionLabel: 'Abrir ofertas na Netshoes',
+    endsAt: '2026-11-30T23:59:59-03:00',
   },
 ];
 
@@ -97,20 +98,20 @@ export const FESTIVAL_EXTRA_LINK_PARTNERS: readonly FestivalExtraLinkPartner[] =
     orbBackground: '#efe5ff',
     hubCategory: 'moda',
     categoryName: 'Esportes, tênis e moda fitness',
-    discount: 'Black Friday',
+    discount: 'Ofertas oficiais',
     shortDescription: 'tênis, roupas esportivas, suplementos e equipamentos pelo link oficial da parceria',
-    eligibleCategories: 'Ofertas e produtos participantes da campanha vigente no site oficial da Netshoes',
+    eligibleCategories: 'Ofertas e produtos selecionados no site oficial da Netshoes',
     combinable:
-      'Sem código para copiar: os preços promocionais da campanha já aparecem aplicados pelo link oficial',
-    actionLabel: 'Abrir O Maior Barato do Ano na Netshoes',
+      'Sem código para copiar: os preços promocionais já aparecem aplicados pelo link oficial',
+    actionLabel: 'Abrir ofertas na Netshoes',
     aboutBrand:
       'A Netshoes é uma das maiores lojas online de artigos esportivos do Brasil, com tênis de corrida e treino, roupas fitness, camisas de time, suplementos e acessórios. No Festival da Cecília, o acesso é direto pelo link oficial convertido da parceria via Rakuten Advertising, sem precisar digitar código no checkout.',
     shipping: 'Calculado pelo CEP no site ou aplicativo da Netshoes, conforme o lojista e a região',
-    validity: 'Enquanto durar a campanha vigente no site oficial da Netshoes',
+    validity: 'Enquanto a parceria estiver ativa no site oficial da Netshoes',
     reusable: 'Sim, você pode acessar pelo link oficial quantas vezes quiser',
     instructions: [
-      'Toque no botão ou no banner oficial acima para abrir a Netshoes pelo link da parceria.',
-      'Escolha os produtos participantes da campanha “O maior barato do ano”, conferindo tamanho, cor e vendedor.',
+      'Toque no botão acima para abrir a Netshoes pelo link oficial da parceria.',
+      'Escolha os produtos desejados no site da loja, conferindo tamanho, cor e vendedor.',
       'Revise o valor final e o frete diretamente no resumo do carrinho da Netshoes antes de concluir.',
     ],
     searchKeywords: [
@@ -123,7 +124,6 @@ export const FESTIVAL_EXTRA_LINK_PARTNERS: readonly FestivalExtraLinkPartner[] =
       'camisa de time',
       'fitness',
       'treino',
-      'o maior barato do ano',
     ],
     campaigns: [
       {
@@ -132,6 +132,7 @@ export const FESTIVAL_EXTRA_LINK_PARTNERS: readonly FestivalExtraLinkPartner[] =
         text: 'Campanha da própria Netshoes acessada direto pelo link convertido da parceria. Os produtos e as condições aparecem no site da loja.',
         action: 'Ver ofertas na Netshoes',
         tag: 'BLACK FRIDAY',
+        endsAt: '2026-11-30T23:59:59-03:00',
       },
     ],
   },

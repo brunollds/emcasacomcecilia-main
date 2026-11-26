@@ -76,6 +76,8 @@ import { getConsentCopy } from '../src/components/consent/consentCopy';
 import {
   FESTIVAL_BANNER_STRIPS,
   FESTIVAL_EXTRA_LINK_PARTNERS,
+  getFestivalBlackFridayData,
+  getFestivalPartnerPageData,
   inferCouponPercentValue,
 } from '../src/lib/festivalBlackFriday';
 import { EVERY_STORE_TRANSLATED_CLAIM, LABEL_SAME_AS_PORTUGUESE, OTHER_COUPONS, codeAsCouponRegExp, escapeRegExp, getCategoriesSameAsPortuguese, getPtStoreTexts, isStoreLink } from './locale-home-guards';
@@ -5250,14 +5252,49 @@ function blackFridayPageProblems(
       );
     }
   }
+  const buildCheckNowMs = Date.now();
   for (const strip of FESTIVAL_BANNER_STRIPS) {
+    assert.ok(strip.endsAt, `/blackfriday: faixa ${strip.id} deve ter endsAt definido`);
+    const bannerHost = new URL(strip.bannerImgSrc).hostname;
     assert.ok(
-      bodyOf(bfHtml).includes(escapeHtml(strip.href)),
-      `/blackfriday: sem o link especial da faixa ${strip.id}`,
+      !headOf(bfHtml).includes(bannerHost) && !bodyOf(bfHtml).includes(bannerHost),
+      `/blackfriday: imagem externa da faixa (${bannerHost}) não pode sair no HTML antes do consentimento`,
     );
+    if (buildCheckNowMs <= Date.parse(strip.endsAt)) {
+      assert.ok(
+        bodyOf(bfHtml).includes(escapeHtml(strip.href)),
+        `/blackfriday: sem o link especial da faixa ${strip.id}`,
+      );
+    }
+  }
+  {
+    const bfNov27 = getFestivalBlackFridayData(new Date('2026-11-27T12:00:00-03:00'));
     assert.ok(
-      bodyOf(bfHtml).includes(`alt="${escapeHtml(strip.bannerImgAlt)}"`),
-      `/blackfriday: sem a imagem de faixa (${strip.bannerImgAlt})`,
+      bfNov27.bannerStrips.some((s) => s.id === 'netshoes-maior-barato-2026'),
+      '/blackfriday: faixa Netshoes deve estar ativa em 27/11/2026',
+    );
+    const dec1 = new Date('2026-12-01T12:00:00-03:00');
+    const bfDec1 = getFestivalBlackFridayData(dec1);
+    assert.ok(
+      !bfDec1.bannerStrips.some((s) => s.slug === 'netshoes'),
+      '/blackfriday: faixa Black Friday da Netshoes deve expirar em 01/12/2026',
+    );
+    const netshoesDec1 = getFestivalPartnerPageData('netshoes', dec1);
+    assert.ok(netshoesDec1, '/blackfriday/netshoes: dados da subpágina em 01/12/2026');
+    assert.equal(
+      netshoesDec1.bannerStrips.length,
+      0,
+      '/blackfriday/netshoes: faixa Black Friday deve expirar em 01/12/2026',
+    );
+    assert.equal(
+      netshoesDec1.store.campaigns.length,
+      0,
+      '/blackfriday/netshoes: campanha Black Friday deve expirar em 01/12/2026',
+    );
+    assert.doesNotMatch(
+      netshoesDec1.store.discount,
+      /black friday/i,
+      '/blackfriday/netshoes: desconto base não deve reter rótulo Black Friday após 30/11',
     );
   }
   for (const extra of FESTIVAL_EXTRA_LINK_PARTNERS) {
@@ -5277,6 +5314,10 @@ function blackFridayPageProblems(
       blackFridayPageProblems(extraHtml, sitemapUrls.includes(extraUrl), llmsUrls.includes(extraUrl), []),
       [],
       `/blackfriday/${extra.slug}`,
+    );
+    assert.ok(
+      !headOf(extraHtml).includes('ad.linksynergy.com') && !bodyOf(extraHtml).includes('ad.linksynergy.com'),
+      `/blackfriday/${extra.slug}: imagem externa da Rakuten não pode sair no HTML antes do consentimento`,
     );
     assert.ok(
       bodyOf(extraHtml).includes(escapeHtml(extra.offerUrl)),
