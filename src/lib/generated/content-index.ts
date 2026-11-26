@@ -59816,10 +59816,6 @@ const reviewsChunk0: unknown[] = [
             "label": "Ver ofertas da Black Friday na YesStyle",
             "href": "https://ystyle.co/4RRfd",
             "sponsored": true
-          },
-          {
-            "label": "Ver o cupom da YesStyle de hoje e o código CECILIA010",
-            "href": "/cupons/yesstyle"
           }
         ]
       },
@@ -60439,10 +60435,6 @@ const reviewsChunk0: unknown[] = [
             "label": "See Black Friday deals on YesStyle",
             "href": "https://ystyle.co/4RRfd",
             "sponsored": true
-          },
-          {
-            "label": "See today's YesStyle coupon and the CECILIA010 code",
-            "href": "/en/coupons/yesstyle"
           }
         ]
       },
@@ -61060,10 +61052,6 @@ const reviewsChunk0: unknown[] = [
             "label": "Ver ofertas de Black Friday en YesStyle",
             "href": "https://ystyle.co/4RRfd",
             "sponsored": true
-          },
-          {
-            "label": "Ver el cupón de YesStyle de hoy y el código CECILIA010",
-            "href": "/es/coupons/yesstyle"
           }
         ]
       },
@@ -61681,10 +61669,6 @@ const reviewsChunk0: unknown[] = [
             "label": "Voir les offres Black Friday sur YesStyle",
             "href": "https://ystyle.co/4RRfd",
             "sponsored": true
-          },
-          {
-            "label": "Voir le coupon YesStyle du jour et le code CECILIA010",
-            "href": "/fr/coupons/yesstyle"
           }
         ]
       },
@@ -62303,10 +62287,6 @@ const reviewsChunk0: unknown[] = [
             "label": "Black-Friday-Angebote bei YesStyle ansehen",
             "href": "https://ystyle.co/4RRfd",
             "sponsored": true
-          },
-          {
-            "label": "Den YesStyle-Gutschein von heute und den Reward Code CECILIA010 ansehen",
-            "href": "/de/coupons/yesstyle"
           }
         ]
       },
@@ -62924,10 +62904,6 @@ const reviewsChunk0: unknown[] = [
             "label": "Vedi le offerte del Black Friday su YesStyle",
             "href": "https://ystyle.co/4RRfd",
             "sponsored": true
-          },
-          {
-            "label": "Vedi il coupon YesStyle di oggi e il codice ricompensa CECILIA010",
-            "href": "/it/coupons/yesstyle"
           }
         ]
       },
@@ -63545,10 +63521,6 @@ const reviewsChunk0: unknown[] = [
             "label": "YesStyle 블랙프라이데이 특가 보기",
             "href": "https://ystyle.co/4RRfd",
             "sponsored": true
-          },
-          {
-            "label": "오늘의 YesStyle 쿠폰과 리워드 코드 CECILIA010 보기",
-            "href": "/ko/coupons/yesstyle"
           }
         ]
       },
@@ -64166,10 +64138,6 @@ const reviewsChunk0: unknown[] = [
             "label": "YesStyleのブラックフライデーのセールを見る",
             "href": "https://ystyle.co/4RRfd",
             "sponsored": true
-          },
-          {
-            "label": "今日のYesStyleのクーポンとコードCECILIA010を見る",
-            "href": "/ja/coupons/yesstyle"
           }
         ]
       },
@@ -64788,10 +64756,6 @@ const reviewsChunk0: unknown[] = [
             "label": "前往 YesStyle 查看黑色星期五優惠",
             "href": "https://ystyle.co/4RRfd",
             "sponsored": true
-          },
-          {
-            "label": "查看 YesStyle 今日的優惠券與獎勵碼 CECILIA010",
-            "href": "/zh-hant/coupons/yesstyle"
           }
         ]
       },
@@ -65409,10 +65373,6 @@ const reviewsChunk0: unknown[] = [
             "label": "查看 YesStyle 黑色星期五优惠",
             "href": "https://ystyle.co/4RRfd",
             "sponsored": true
-          },
-          {
-            "label": "查看 YesStyle 今日的优惠券与奖励码 CECILIA010",
-            "href": "/zh-hans/coupons/yesstyle"
           }
         ]
       },
@@ -246517,7 +246477,7 @@ const reviewsChunk1: unknown[] = [
         "paragraphs": [
           "A SHEIN é uma loja online de moda, acessórios e produtos para a casa. Antes do primeiro pedido, veja os dados da empresa e os cuidados de compra em [SHEIN é confiável?](/reviews/shein-e-confiavel).",
           "Para a primeira compra na SHEIN, use o 4CW5Y, o código de indicação da Cecília: ele se pesquisa na busca do app ou do site, e não no campo de cupom.",
-          "Os valores de primeira compra anunciados em sites de cupom costumam vir sem fonte da SHEIN: antes de contar com um deles, confira na própria SHEIN. As campanhas em vigor ficam na nossa página de [cupom SHEIN](/cupons/shein)."
+          "Os valores de primeira compra anunciados em sites de cupom costumam vir sem fonte da SHEIN: antes de contar com um deles, confira na própria SHEIN."
         ]
       },
       {
@@ -250012,7 +249972,7 @@ const reviewsChunk1: unknown[] = [
         "paragraphs": [
           "SHEIN is an online store for fashion, accessories and home products. Before your first order, see the company details and what to check before buying in [Is SHEIN legit and safe?](/en/reviews/is-shein-legit-and-safe).",
           "For your first SHEIN order, use 4CW5Y, Cecília's referral code: you search it in the search bar of the app or website, not in the coupon field.",
-          "Some coupon sites advertise first-order amounts with no SHEIN source behind them: before counting on one, check it on SHEIN itself. The campaigns currently running are on our [SHEIN coupon](/en/coupons/shein) page."
+          "Some coupon sites advertise first-order amounts with no SHEIN source behind them: before counting on one, check it on SHEIN itself."
         ]
       },
       {
@@ -250153,7 +250113,7 @@ const reviewsChunk1: unknown[] = [
         "paragraphs": [
           "SHEIN es una tienda en línea de moda, accesorios y productos para el hogar. Antes de tu primer pedido, consulta los datos de la empresa y qué conviene comprobar antes de comprar en [¿SHEIN es confiable y segura?](/es/reviews/shein-es-confiable-y-seguro).",
           "Para tu primera compra en SHEIN, usa el 4CW5Y, el código de referido de Cecília: se busca en el buscador de la app o del sitio, y no en el campo de cupón.",
-          "Los valores de primera compra que anuncian algunos sitios de cupones no tienen respaldo de SHEIN: antes de contar con uno, compruébalo en la propia SHEIN. Las campañas vigentes están en nuestra página de [cupón SHEIN](/es/coupons/shein)."
+          "Los valores de primera compra que anuncian algunos sitios de cupones no tienen respaldo de SHEIN: antes de contar con uno, compruébalo en la propia SHEIN."
         ]
       },
       {
@@ -250294,7 +250254,7 @@ const reviewsChunk1: unknown[] = [
         "paragraphs": [
           "SHEIN est une boutique en ligne de mode, d'accessoires et de produits pour la maison. Avant votre première commande, consultez les informations sur l'entreprise et ce qu'il faut vérifier avant d'acheter dans [SHEIN est-il fiable et sûr ?](/fr/reviews/shein-est-il-fiable-et-sur).",
           "Pour une première commande sur SHEIN, utilisez le 4CW5Y, le code de parrainage de Cecília : il se recherche dans la barre de recherche de l'application ou du site, et non dans le champ du code promo.",
-          "Les montants de première commande annoncés sur les sites de codes promo viennent souvent sans source officielle de SHEIN : avant de compter sur l'un d'eux, vérifiez-le sur SHEIN même. Les campagnes en cours se trouvent sur notre page [code de parrainage SHEIN](/fr/coupons/shein)."
+          "Les montants de première commande annoncés sur les sites de codes promo viennent souvent sans source officielle de SHEIN : avant de compter sur l'un d'eux, vérifiez-le sur SHEIN même."
         ]
       },
       {
@@ -250435,7 +250395,7 @@ const reviewsChunk1: unknown[] = [
         "paragraphs": [
           "SHEIN ist ein Online-Shop für Mode, Accessoires und Haushaltsprodukte. Vor Ihrer ersten Bestellung finden Sie die Angaben zum Unternehmen und was Sie vor dem Kauf prüfen sollten in [Ist SHEIN seriös und sicher?](/de/reviews/ist-shein-serioes-und-sicher).",
           "Für die erste Bestellung bei SHEIN nutzen Sie 4CW5Y, den Empfehlungscode von Cecília: Er wird in der Suche der App oder der Website eingegeben und nicht im Gutscheinfeld.",
-          "Beträge für die Erstbestellung, die auf Gutscheinseiten genannt werden, haben oft keine Quelle bei SHEIN: Prüfen Sie sie direkt bei SHEIN, bevor Sie mit einem davon rechnen. Die laufenden Kampagnen stehen auf unserer [SHEIN-Seite](/de/coupons/shein)."
+          "Beträge für die Erstbestellung, die auf Gutscheinseiten genannt werden, haben oft keine Quelle bei SHEIN: Prüfen Sie sie direkt bei SHEIN, bevor Sie mit einem davon rechnen."
         ]
       },
       {
@@ -250576,7 +250536,7 @@ const reviewsChunk1: unknown[] = [
         "paragraphs": [
           "SHEIN è un negozio online di moda, accessori e prodotti per la casa. Prima del primo ordine, trova i dati dell'azienda e cosa controllare prima di acquistare in [SHEIN è affidabile e sicuro?](/it/reviews/shein-e-affidabile-e-sicuro).",
           "Per il primo ordine su SHEIN usa il 4CW5Y, il codice invito di Cecília: si cerca nella barra di ricerca dell'app o del sito, non nel campo del coupon.",
-          "Gli importi per il primo ordine pubblicati sui siti di coupon di solito non hanno una fonte SHEIN: prima di contare su uno di essi, controlla sul sito di SHEIN. Le campagne in corso sono nella nostra pagina del [codice sconto SHEIN](/it/coupons/shein)."
+          "Gli importi per il primo ordine pubblicati sui siti di coupon di solito non hanno una fonte SHEIN: prima di contare su uno di essi, controlla sul sito di SHEIN."
         ]
       },
       {
@@ -250717,7 +250677,7 @@ const reviewsChunk1: unknown[] = [
         "paragraphs": [
           "SHEINはファッション、アクセサリー、ホーム用品のオンラインストアです。最初の注文の前に、会社の情報と購入前に確認することを[SHEIN は安全？](/ja/reviews/shein-trust-guide-ja)で確認してください。",
           "SHEINの最初の注文には、Cecíliaの紹介コード4CW5Yを使います。入力先はクーポン欄ではなく、アプリまたはサイトの検索です。",
-          "クーポンサイトに載っている初回注文の金額や割引は、SHEINの情報源が示されていないものが多くあります。頼りにする前に、SHEINのページで確認してください。実施中のキャンペーンは、このサイトの[SHEINのクーポン](/ja/coupons/shein)のページにあります。"
+          "クーポンサイトに載っている初回注文の金額や割引は、SHEINの情報源が示されていないものが多くあります。頼りにする前に、SHEINのページで確認してください。"
         ]
       },
       {
@@ -250858,7 +250818,7 @@ const reviewsChunk1: unknown[] = [
         "paragraphs": [
           "SHEIN은 패션, 액세서리, 생활용품을 판매하는 온라인 스토어입니다. 첫 주문 전에 회사 정보와 구매 전에 확인할 점을 [SHEIN(쉬인)은 믿을 만하고 안전한가요?](/ko/reviews/shein-trust-guide-ko)에서 살펴보세요.",
           "SHEIN 첫 구매에는 Cecília의 추천 코드 4CW5Y를 사용하세요. 쿠폰 칸이 아니라 앱이나 사이트의 검색창에서 검색합니다.",
-          "쿠폰 사이트에 올라온 첫 구매 혜택 금액은 SHEIN의 출처 없이 게시된 경우가 많습니다. 기대하기 전에 SHEIN에서 직접 확인하세요. 진행 중인 캠페인은 이 사이트의 [SHEIN 페이지](/ko/coupons/shein)에서 볼 수 있습니다."
+          "쿠폰 사이트에 올라온 첫 구매 혜택 금액은 SHEIN의 출처 없이 게시된 경우가 많습니다. 기대하기 전에 SHEIN에서 직접 확인하세요."
         ]
       },
       {
@@ -250999,7 +250959,7 @@ const reviewsChunk1: unknown[] = [
         "paragraphs": [
           "SHEIN 是販售服飾、配件和居家用品的線上商店。第一次下單前，請在 [SHEIN 可靠嗎？](/zh-hant/reviews/shein-trust-guide-zh-hant)中查看公司資訊和購買前要確認的事。",
           "第一次在 SHEIN 購物，可以用 Cecília 的推薦碼 4CW5Y：它要在 App 或網站的搜尋欄裡搜尋，而不是填進優惠券欄。",
-          "優惠券網站上宣傳的首購金額，常常找不到 SHEIN 官方的依據，使用前請先到 SHEIN 官方網站或 App 確認。目前進行中的活動，請看本站的 [SHEIN 推薦碼與進行中的活動](/zh-hant/coupons/shein) 頁面。"
+          "優惠券網站上宣傳的首購金額，常常找不到 SHEIN 官方的依據，使用前請先到 SHEIN 官方網站或 App 確認。"
         ]
       },
       {
@@ -251140,7 +251100,7 @@ const reviewsChunk1: unknown[] = [
         "paragraphs": [
           "SHEIN 是销售服饰、配饰和家居用品的网上商店。首次下单前，请在 [SHEIN 可靠吗？](/zh-hans/reviews/shein-trust-guide-zh-hans)中查看公司信息和购买前要确认的事。",
           "首次在 SHEIN 下单，请使用 Cecília 的推荐码 4CW5Y：它在应用或网站的搜索栏里搜索，而不是填进优惠券栏。",
-          "优惠券网站上宣传的首单优惠金额，往往没有 SHEIN 的出处：指望它之前，请先到 SHEIN 官网或应用核实。目前进行中的活动在本站的 [SHEIN 优惠页](/zh-hans/coupons/shein)上。"
+          "优惠券网站上宣传的首单优惠金额，往往没有 SHEIN 的出处：指望它之前，请先到 SHEIN 官网或应用核实。"
         ]
       },
       {
@@ -265781,10 +265741,6 @@ const reviewsChunk2: unknown[] = [
           {
             "label": "SHEIN vs Temu: how to choose",
             "href": "/en/reviews/shein-vs-temu-which-to-choose"
-          },
-          {
-            "label": "How AliExpress works: rules and link",
-            "href": "/en/coupons/aliexpress"
           }
         ]
       },
@@ -266189,10 +266145,6 @@ const reviewsChunk2: unknown[] = [
           {
             "label": "SHEIN o Temu: cómo elegir",
             "href": "/es/reviews/shein-o-temu-cual-elegir"
-          },
-          {
-            "label": "Cómo funciona AliExpress: reglas y enlace",
-            "href": "/es/coupons/aliexpress"
           }
         ]
       },
@@ -266581,10 +266533,6 @@ const reviewsChunk2: unknown[] = [
           {
             "label": "SHEIN ou Temu : comment choisir",
             "href": "/fr/reviews/shein-ou-temu-comment-choisir"
-          },
-          {
-            "label": "Comment fonctionne AliExpress : règles et lien",
-            "href": "/fr/coupons/aliexpress"
           }
         ]
       },
@@ -266973,10 +266921,6 @@ const reviewsChunk2: unknown[] = [
           {
             "label": "SHEIN oder Temu: Was passt besser?",
             "href": "/de/reviews/shein-oder-temu-was-waehlen"
-          },
-          {
-            "label": "So funktioniert AliExpress: Regeln und Link",
-            "href": "/de/coupons/aliexpress"
           }
         ]
       },
@@ -267365,10 +267309,6 @@ const reviewsChunk2: unknown[] = [
           {
             "label": "SHEIN o Temu: come scegliere",
             "href": "/it/reviews/shein-o-temu-come-scegliere"
-          },
-          {
-            "label": "Come funziona AliExpress: regole e link",
-            "href": "/it/coupons/aliexpress"
           }
         ]
       },
@@ -267757,10 +267697,6 @@ const reviewsChunk2: unknown[] = [
           {
             "label": "SHEIN と Temu どちらを選ぶ？",
             "href": "/ja/reviews/shein-vs-temu-ja"
-          },
-          {
-            "label": "AliExpress の仕組み：ルールとリンク",
-            "href": "/ja/coupons/aliexpress"
           }
         ]
       },
@@ -268154,10 +268090,6 @@ const reviewsChunk2: unknown[] = [
           {
             "label": "SHEIN과 테무: 어떻게 고를까?",
             "href": "/ko/reviews/shein-vs-temu-vs-ali-ko"
-          },
-          {
-            "label": "AliExpress 이용 방법: 규칙과 링크",
-            "href": "/ko/coupons/aliexpress"
           }
         ]
       },
@@ -268551,10 +268483,6 @@ const reviewsChunk2: unknown[] = [
           {
             "label": "SHEIN 還是 Temu？新加坡和馬來西亞怎麼選",
             "href": "/zh-hant/reviews/shein-vs-shopee-zh-hant"
-          },
-          {
-            "label": "AliExpress 怎麼運作：規則與連結",
-            "href": "/zh-hant/coupons/aliexpress"
           }
         ]
       },
@@ -268949,10 +268877,6 @@ const reviewsChunk2: unknown[] = [
           {
             "label": "SHEIN 还是 Temu？新加坡和马来西亚怎么选",
             "href": "/zh-hans/reviews/shein-vs-temu-zh-hans"
-          },
-          {
-            "label": "AliExpress 怎么运作：规则与链接",
-            "href": "/zh-hans/coupons/aliexpress"
           }
         ]
       },
@@ -321800,7 +321724,7 @@ const reviewsChunk2: unknown[] = [
         "paragraphs": [
           "SHEIN متجر إلكتروني للأزياء والإكسسوارات ومنتجات المنزل. قبل أول طلب، اطّلع على بيانات الشركة وما يجب التحقق منه قبل الشراء في [هل SHEIN موثوقة وآمنة؟](/ar/reviews/shein-trust-guide-ar).",
           "لأول طلب من SHEIN، استخدم 4CW5Y، رمز الإحالة الخاص بـ Cecília: تبحث عنه في شريط البحث في التطبيق أو الموقع، لا في خانة الكوبون.",
-          "بعض مواقع الكوبونات تعلن مبالغ لأول طلب دون أي مصدر من SHEIN: قبل أن تعتمد على واحد منها، تحقق منه في SHEIN نفسها. الحملات الجارية حاليًا في صفحتنا [كوبون SHEIN](/ar/coupons/shein)."
+          "بعض مواقع الكوبونات تعلن مبالغ لأول طلب دون أي مصدر من SHEIN: قبل أن تعتمد على واحد منها، تحقق منه في SHEIN نفسها."
         ]
       },
       {
@@ -323581,10 +323505,6 @@ const reviewsChunk2: unknown[] = [
           {
             "label": "SHEIN أم Temu: كيف تختار",
             "href": "/ar/reviews/shein-vs-temu-ar"
-          },
-          {
-            "label": "كيف تعمل AliExpress: القواعد والرابط",
-            "href": "/ar/coupons/aliexpress"
           }
         ]
       },
@@ -326294,10 +326214,6 @@ const reviewsChunk2: unknown[] = [
             "label": "اطّلع على عروض الجمعة البيضاء في YesStyle",
             "href": "https://ystyle.co/4RRfd",
             "sponsored": true
-          },
-          {
-            "label": "اطّلع على كوبون YesStyle لهذا اليوم ورمز CECILIA010",
-            "href": "/ar/coupons/yesstyle"
           }
         ]
       },
