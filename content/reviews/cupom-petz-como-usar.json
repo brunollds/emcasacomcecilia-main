@@ -183,7 +183,7 @@
       "heading": "Quando o cupom vale a pena",
       "paragraphs": [
         "Se a compra já ia ser no site ou no app e você não assina, o EMCASA vale a conta. Ele entra sempre que for maior que a oferta do item, e a sacola escolhe sozinha.",
-        "Vale menos quando o carrinho é todo de oferta acima de 10% ou quando você já assina a Petz."
+        "Vale menos quando o carrinho é todo de oferta acima de 10% ou quando você já assina a Petz. Para saber em que compras a Petz compensa além do cupom, veja o guia [Petz é boa?](/reviews/petz-e-boa)."
       ],
       "emphasis": "Para quem compra avulso, eu colaria o EMCASA em toda sacola e conferiria o Total de descontos antes de pagar: a sacola mostra qual desconto ficou em cada produto.",
       "links": [
@@ -230,6 +230,9 @@
   "affiliate": "petz",
   "editorialNote": "Cupom testado na sacola, sem uso dos produtos. Podemos receber comissão pelo cupom.",
   "relatedArticles": [
+    {
+      "slug": "petz-e-boa"
+    },
     {
       "slug": "black-friday-petz"
     },

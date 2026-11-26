@@ -237459,7 +237459,7 @@ const reviewsChunk1: unknown[] = [
         "heading": "Quando o cupom vale a pena",
         "paragraphs": [
           "Se a compra já ia ser no site ou no app e você não assina, o EMCASA vale a conta. Ele entra sempre que for maior que a oferta do item, e a sacola escolhe sozinha.",
-          "Vale menos quando o carrinho é todo de oferta acima de 10% ou quando você já assina a Petz."
+          "Vale menos quando o carrinho é todo de oferta acima de 10% ou quando você já assina a Petz. Para saber em que compras a Petz compensa além do cupom, veja o guia [Petz é boa?](/reviews/petz-e-boa)."
         ],
         "emphasis": "Para quem compra avulso, eu colaria o EMCASA em toda sacola e conferiria o Total de descontos antes de pagar: a sacola mostra qual desconto ficou em cada produto.",
         "links": [
@@ -237506,6 +237506,9 @@ const reviewsChunk1: unknown[] = [
     "affiliate": "petz",
     "editorialNote": "Cupom testado na sacola, sem uso dos produtos. Podemos receber comissão pelo cupom.",
     "relatedArticles": [
+      {
+        "slug": "petz-e-boa"
+      },
       {
         "slug": "black-friday-petz"
       },
@@ -237742,7 +237745,7 @@ const reviewsChunk1: unknown[] = [
       {
         "heading": "Vale comprar na Petz",
         "paragraphs": [
-          "A Petz publica regras de entrega e troca, e o perfil da loja online tem reputação Ótima no Reclame Aqui. Antes de comprar, confira o prazo para seu CEP e as condições do pedido.",
+          "A Petz publica regras de entrega e troca, e o perfil da loja online tem reputação Ótima no Reclame Aqui. Antes de comprar, confira o prazo para seu CEP e as condições do pedido. Para ver em que compras a Petz compensa, com a garantia das marcas próprias e o frete por região, leia o guia [Petz é boa?](/reviews/petz-e-boa).",
           "O veredito se baseia nas regras que a própria Petz publica. Para remédio e antipulgas, leia o rótulo e, na dúvida, fale com o veterinário.",
           "Se for comprar, o EMCASA dá 10% OFF e vale em todas as compras no site e no app, pelo que diz o programa Parceiro Petz. O botão abaixo abre a loja da Cecília em petz.com.br/parceiro/emcasa, mas não aplica o código sozinho: cole o EMCASA no campo \"Digite seu cupom\" da sacola. Em produto que já está em oferta, a sacola fica com o desconto maior, item a item. Confira as condições na página do [cupom Petz](/cupons/petz)."
         ],
@@ -237792,6 +237795,9 @@ const reviewsChunk1: unknown[] = [
     "affiliate": "petz",
     "editorialNote": "Fontes públicas e teste da sacola. Podemos receber comissão pelo cupom.",
     "relatedArticles": [
+      {
+        "slug": "petz-e-boa"
+      },
       {
         "slug": "petz-reclame-aqui-nota-reputacao"
       },
