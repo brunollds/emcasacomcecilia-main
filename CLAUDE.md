@@ -253,7 +253,7 @@ O árabe (`ar`, rota `/ar`) é o 11º idioma e escreve da direita para a esquerd
   dele, como o erro pede.
 - Snippet com o código (`metaDescription`) em todo artigo em português com `coupon` (`checkSnippet`, em
   `scripts/review-prose-checks.ts`; o `validate:content` barra): código exato e % na primeira frase, o código terminando
-  até o caractere 100, no máximo 155 caracteres, sem data com dia, sem R$ (salvo o "a partir de R$ 100" da Dolce Gusto)
+  até o caractere 100, no máximo 155 caracteres, sem data com dia, sem R$ (salvo o preço da promoção em artigo com `bodyDatesReason: "campanha"` e o valor de regra da loja, como "acima de R$ 99" ou "pedido mínimo de R$ 100")
   e sem abrir com "Cupom <loja>"; na YesStyle, nunca "cupom CECILIA010"; na SHEIN, sem % e sem "SHEIN Brasil". As
   exceções (a Magalu e alguns slugs) ficam em `SNIPPET_EXCEPTION_*`, com o motivo. Os artigos de antes da regra (04/11/2026)
   estão em `scripts/review-snippet-baseline.json` (slug → problemas), que só encolhe: quem corrige um artigo tira a entrada.
