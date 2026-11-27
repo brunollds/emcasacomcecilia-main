@@ -94,7 +94,7 @@
       "paragraphs": [
         "When neighborhood fiber fluctuates or drops in the middle of work, having an independent backup connection pays off even at an urban address with wired service.",
         "On November 19, 2026, I bought the Starlink Mini X kit on the Residential Max plan and added a Router Mini at checkout. The kit came with the dish and the power accessories. The order arrived seven days later, on November 26, 2026, well packed, with each piece separated in molded pulp dividers.",
-        "Right after completing the purchase on the official website, I was able to schedule the free professional installation included with the Brazilian plan directly through an external booking partner linked by Starlink, with the visit set for December 10, 2026. If you plan to subscribe for the first time, starting your order on starlink.com through the official link on our [Starlink referral page](/en/coupons/starlink) locks in US$ 100 in the US or £40 in the UK as a bill credit after two paid billing cycles (and the referrer gets the same reward), alongside the 30-day window to test and return the undamaged kit if the signal does not meet your needs."
+        "Right after completing the purchase on the official website, I was able to schedule the free professional installation included with the Brazilian plan (this varies by country) directly through an external booking partner linked by Starlink, with the visit set for December 10, 2026. If you plan to subscribe for the first time, starting your order on starlink.com through the official link on our [Starlink referral page](/en/coupons/starlink) locks in US$ 100 in the US or £40 in the UK as a bill credit after two paid billing cycles (and the referrer gets the same reward), alongside the 30-day window to test and return the undamaged kit if the signal does not meet your needs."
       ],
       "comparisonTable": {
         "caption": "Items received in my Residential Max order in Brazil and specs printed on the labels.",
@@ -159,7 +159,7 @@
         "src": "/images/reviews/starlink/starlink-mini-x-app-painel-residencial-max.webp",
         "alt": "Starlink app dashboard in Portuguese from the Brazilian unit showing the Mini dish on the Residential Max plan downloading a software update at 86%",
         "caption": "Portuguese Starlink app dashboard on my Brazilian unit confirming the Mini on the Residential Max plan during the initial update.",
-        "objectFit": "contain",
+        "objectFit": "portrait",
         "aspectRatio": 0.4943
       },
       "video": {
@@ -213,7 +213,7 @@
         "src": "/images/reviews/starlink/starlink-mini-x-app-obstrucoes.webp",
         "alt": "Obstructions screen in the Portuguese Starlink app showing the 3D sky calibration dome, clear-view legend and initial data collection notice",
         "caption": "Obstructions screen in the Portuguese Starlink app during balcony calibration.",
-        "objectFit": "contain",
+        "objectFit": "portrait",
         "aspectRatio": 0.4943
       }
     },
@@ -221,7 +221,7 @@
       "heading": "Router Mini through thick walls and living room signal",
       "paragraphs": [
         "At home, with thick walls, the dish on the balcony alone does not bring Wi-Fi to every room. With the Router Mini at a spot between the balcony and the living room, the signal in the living room came out strong.",
-        "For real-world context, Wi-Fi has always been tricky in my home because of the walls. Today I run a three-node TP-Link Deco BE22 mesh (with the main unit wired to the main living room node and the third running wirelessly) and still end up with medium-to-weak dead zones, including that very bedroom balcony. Knowing this, I bought one Starlink Router Mini separately at checkout alongside the order.",
+        "For real-world context, Wi-Fi has always been tricky in my home because of the walls. Today I run a three-node TP-Link Deco BE22 mesh (with the main unit wired to the main living room node and the third running wirelessly) and still end up with medium-to-weak dead zones, including that very bedroom balcony. Knowing this, I added a Starlink Router Mini at checkout.",
         "Once you plug the Router Mini into power, you wait a few minutes for it to show up in the app and add it as a wireless mesh node in a very simple flow. I placed it in the main living room first, and the app immediately warned that signal strength was poor and asked me to move it closer to the dish. I relocated the Router Mini to a ground-floor spot closer to the balcony with fewer walls in between, and it linked up with the Mini X right away. While writing these impressions from the main living room, right where I wanted full bars, my phone showed Starlink Wi-Fi near 100%. Repositioning the Router Mini to that midpoint fixed living room reception, though covering every corner of the house will likely take a second Router Mini — this initial test did not measure room-by-room coverage to compare against the three Deco BE22 nodes. In this first test I ran everything over wireless mesh, without running Ethernet cables through the base ports yet."
       ],
       "video": {
@@ -244,7 +244,7 @@
         "src": "/images/reviews/starlink/starlink-mini-x-app-configuracoes.webp",
         "alt": "Settings menu in the Portuguese Starlink app showing Router and Starlink tabs, sleep schedule and obstruction map reset",
         "caption": "Dish settings menu inside the Portuguese Starlink app on my Brazilian unit.",
-        "objectFit": "contain",
+        "objectFit": "portrait",
         "aspectRatio": 0.4943
       },
       "links": [

@@ -352966,7 +352966,7 @@ const reviewsChunk2: unknown[] = [
         "heading": "Por que comprei mesmo tendo fibra, entrega e o que vem na caixa",
         "paragraphs": [
           "Quando a fibra do bairro oscila ou cai no meio do trabalho, ter um link independente compensa mesmo em endereço urbano atendido por cabo.",
-          "Em 19/11/2026 comprei o kit da Starlink Mini X no plano Residencial Max e, no checkout, acrescentei um Mini Roteador. O kit veio com a antena e os acessórios da fonte. O pedido chegou sete dias depois, em 26/11/2026, bem embalado, com cada peça separada nas divisórias de polpa moldada.",
+          "Em 19/11/2026 comprei o kit da Starlink Mini X no plano Residencial Max e adicionei no checkout um Mini Roteador. O kit veio com a antena e os acessórios da fonte. O pedido chegou sete dias depois, em 26/11/2026, bem embalado, com cada peça separada nas divisórias de polpa moldada.",
           "Logo após fechar a compra no site oficial, consegui agendar a instalação profissional gratuita incluída no plano brasileiro diretamente em um site externo indicado pela própria Starlink, com visita prevista para 10/12/2026. Se você pretende assinar pela primeira vez, abrir o pedido em starlink.com pelo link oficial da [página de indicação Starlink](/cupons/starlink) garante R$ 200 de crédito na fatura seguinte no Brasil (ou 45 € em Portugal) depois de dois ciclos pagos em dia, e quem indicou recebe o mesmo valor, além da janela de 30 dias para testar e devolver o kit sem danos caso o sinal não atenda ao endereço."
         ],
         "comparisonTable": {
@@ -353032,7 +353032,7 @@ const reviewsChunk2: unknown[] = [
           "src": "/images/reviews/starlink/starlink-mini-x-app-painel-residencial-max.webp",
           "alt": "Painel do aplicativo Starlink em português mostrando a antena Mini no plano Residencial Max durante o download da atualização em 86%",
           "caption": "Painel do aplicativo confirmando a Mini no plano Residencial Max durante a atualização inicial.",
-          "objectFit": "contain",
+          "objectFit": "portrait",
           "aspectRatio": 0.4943
         },
         "video": {
@@ -353086,7 +353086,7 @@ const reviewsChunk2: unknown[] = [
           "src": "/images/reviews/starlink/starlink-mini-x-app-obstrucoes.webp",
           "alt": "Tela de Obstruções no aplicativo Starlink exibindo o domo 3D de calibração do céu, legenda de visão desobstruída e aviso de coleta inicial",
           "caption": "Tela de Obstruções no aplicativo durante a calibração na varanda.",
-          "objectFit": "contain",
+          "objectFit": "portrait",
           "aspectRatio": 0.4943
         }
       },
@@ -353094,7 +353094,7 @@ const reviewsChunk2: unknown[] = [
         "heading": "Mini Roteador em paredes grossas e sinal na sala principal",
         "paragraphs": [
           "Aqui em casa, com paredes grossas, só a antena na varanda não leva o Wi-Fi a todos os cômodos. Com o Mini Roteador num ponto entre a varanda e a sala, o sinal na sala ficou forte.",
-          "Para dar contexto real: tenho bastante dificuldade com roteadores Wi-Fi aqui em casa por causa das paredes. Hoje uso uma malha com três roteadores TP-Link Deco BE22 (com o principal ligado por cabo ao da sala principal e o terceiro via Wi-Fi) e, mesmo assim, ainda sobram cantos de sinal médio a fraco, inclusive a própria varanda da suíte. Sabendo disso, comprei à parte no checkout um Mini Roteador Starlink junto com o pedido.",
+          "Para dar contexto real: tenho bastante dificuldade com roteadores Wi-Fi aqui em casa por causa das paredes. Hoje uso uma malha com três roteadores TP-Link Deco BE22 (com o principal ligado por cabo ao da sala principal e o terceiro via Wi-Fi) e, mesmo assim, ainda sobram cantos de sinal médio a fraco, inclusive a própria varanda da suíte. Sabendo disso, adicionei no checkout um Mini Roteador Starlink.",
           "Ao ligar o Mini Roteador na tomada, é preciso aguardar alguns minutos até ele aparecer no aplicativo para configurar em rede sem fio Mesh, em um processo muito simples. Coloquei primeiro na sala principal, e o próprio app me avisou que o ponto não estava bom e pediu para aproximar mais da antena. Mudei o Mini Roteador para um local no térreo mais próximo da varanda e com menos obstáculos no caminho, e a conexão com a Mini X fechou na hora. No momento em que escrevi este relato na sala principal, justamente onde eu queria sinal forte, meu celular mostrava o Wi-Fi da Starlink perto de 100%. Reposicionar o Mini Roteador nesse ponto intermediário resolveu o sinal na sala principal, embora cobrir todos os cantos da casa provavelmente peça um segundo Mini Roteador — este primeiro teste não mediu a cobertura cômodo a cômodo para comparar com os três Deco BE22. Neste teste inicial rodei tudo em Mesh sem fio, sem passar cabo Ethernet pelas portas da base."
         ],
         "video": {
@@ -353117,7 +353117,7 @@ const reviewsChunk2: unknown[] = [
           "src": "/images/reviews/starlink/starlink-mini-x-app-configuracoes.webp",
           "alt": "Menu Configurações do aplicativo Starlink em português exibindo abas de Roteador e Starlink, horário de inatividade e redefinição do mapa de obstrução",
           "caption": "Menu de configurações da antena no aplicativo Starlink em português.",
-          "objectFit": "contain",
+          "objectFit": "portrait",
           "aspectRatio": 0.4943
         },
         "links": [
@@ -353272,7 +353272,7 @@ const reviewsChunk2: unknown[] = [
         "paragraphs": [
           "When neighborhood fiber fluctuates or drops in the middle of work, having an independent backup connection pays off even at an urban address with wired service.",
           "On November 19, 2026, I bought the Starlink Mini X kit on the Residential Max plan and added a Router Mini at checkout. The kit came with the dish and the power accessories. The order arrived seven days later, on November 26, 2026, well packed, with each piece separated in molded pulp dividers.",
-          "Right after completing the purchase on the official website, I was able to schedule the free professional installation included with the Brazilian plan directly through an external booking partner linked by Starlink, with the visit set for December 10, 2026. If you plan to subscribe for the first time, starting your order on starlink.com through the official link on our [Starlink referral page](/en/coupons/starlink) locks in US$ 100 in the US or £40 in the UK as a bill credit after two paid billing cycles (and the referrer gets the same reward), alongside the 30-day window to test and return the undamaged kit if the signal does not meet your needs."
+          "Right after completing the purchase on the official website, I was able to schedule the free professional installation included with the Brazilian plan (this varies by country) directly through an external booking partner linked by Starlink, with the visit set for December 10, 2026. If you plan to subscribe for the first time, starting your order on starlink.com through the official link on our [Starlink referral page](/en/coupons/starlink) locks in US$ 100 in the US or £40 in the UK as a bill credit after two paid billing cycles (and the referrer gets the same reward), alongside the 30-day window to test and return the undamaged kit if the signal does not meet your needs."
         ],
         "comparisonTable": {
           "caption": "Items received in my Residential Max order in Brazil and specs printed on the labels.",
@@ -353337,7 +353337,7 @@ const reviewsChunk2: unknown[] = [
           "src": "/images/reviews/starlink/starlink-mini-x-app-painel-residencial-max.webp",
           "alt": "Starlink app dashboard in Portuguese from the Brazilian unit showing the Mini dish on the Residential Max plan downloading a software update at 86%",
           "caption": "Portuguese Starlink app dashboard on my Brazilian unit confirming the Mini on the Residential Max plan during the initial update.",
-          "objectFit": "contain",
+          "objectFit": "portrait",
           "aspectRatio": 0.4943
         },
         "video": {
@@ -353391,7 +353391,7 @@ const reviewsChunk2: unknown[] = [
           "src": "/images/reviews/starlink/starlink-mini-x-app-obstrucoes.webp",
           "alt": "Obstructions screen in the Portuguese Starlink app showing the 3D sky calibration dome, clear-view legend and initial data collection notice",
           "caption": "Obstructions screen in the Portuguese Starlink app during balcony calibration.",
-          "objectFit": "contain",
+          "objectFit": "portrait",
           "aspectRatio": 0.4943
         }
       },
@@ -353399,7 +353399,7 @@ const reviewsChunk2: unknown[] = [
         "heading": "Router Mini through thick walls and living room signal",
         "paragraphs": [
           "At home, with thick walls, the dish on the balcony alone does not bring Wi-Fi to every room. With the Router Mini at a spot between the balcony and the living room, the signal in the living room came out strong.",
-          "For real-world context, Wi-Fi has always been tricky in my home because of the walls. Today I run a three-node TP-Link Deco BE22 mesh (with the main unit wired to the main living room node and the third running wirelessly) and still end up with medium-to-weak dead zones, including that very bedroom balcony. Knowing this, I bought one Starlink Router Mini separately at checkout alongside the order.",
+          "For real-world context, Wi-Fi has always been tricky in my home because of the walls. Today I run a three-node TP-Link Deco BE22 mesh (with the main unit wired to the main living room node and the third running wirelessly) and still end up with medium-to-weak dead zones, including that very bedroom balcony. Knowing this, I added a Starlink Router Mini at checkout.",
           "Once you plug the Router Mini into power, you wait a few minutes for it to show up in the app and add it as a wireless mesh node in a very simple flow. I placed it in the main living room first, and the app immediately warned that signal strength was poor and asked me to move it closer to the dish. I relocated the Router Mini to a ground-floor spot closer to the balcony with fewer walls in between, and it linked up with the Mini X right away. While writing these impressions from the main living room, right where I wanted full bars, my phone showed Starlink Wi-Fi near 100%. Repositioning the Router Mini to that midpoint fixed living room reception, though covering every corner of the house will likely take a second Router Mini — this initial test did not measure room-by-room coverage to compare against the three Deco BE22 nodes. In this first test I ran everything over wireless mesh, without running Ethernet cables through the base ports yet."
         ],
         "video": {
@@ -353422,7 +353422,7 @@ const reviewsChunk2: unknown[] = [
           "src": "/images/reviews/starlink/starlink-mini-x-app-configuracoes.webp",
           "alt": "Settings menu in the Portuguese Starlink app showing Router and Starlink tabs, sleep schedule and obstruction map reset",
           "caption": "Dish settings menu inside the Portuguese Starlink app on my Brazilian unit.",
-          "objectFit": "contain",
+          "objectFit": "portrait",
           "aspectRatio": 0.4943
         },
         "links": [
@@ -353577,7 +353577,7 @@ const reviewsChunk2: unknown[] = [
         "paragraphs": [
           "Cuando la fibra del barrio oscila o se corta en plena jornada laboral, contar con un enlace independiente compensa incluso en una dirección urbana con servicio por cable.",
           "El 19/11/2026 compré el kit de la Starlink Mini X con el plan Residencial Max y, al finalizar la compra, añadí un Router Mini. El kit llegó con la antena y los accesorios de la fuente. El pedido llegó siete días después, el 26/11/2026, bien embalado, con cada pieza separada en las bandejas de pulpa moldeada.",
-          "Nada más cerrar la compra en la web oficial, pude programar la instalación profesional gratuita incluida en el plan brasileño directamente en una plataforma externa indicada por la propia Starlink, con visita prevista para el 10/12/2026. Si vas a contratar por primera vez, abrir el pedido en starlink.com desde el enlace oficial de nuestra [página de referido de Starlink](/es/coupons/starlink) asegura 45 € de crédito en factura en España (y referencia de MX$ 700 en México; confirma siempre el importe que muestra tu pantalla de pedido antes de pagar) tras dos ciclos pagados al día, y quien invita recibe el mismo valor, además de la ventana de 30 días para probar y devolver el kit sin daños si la señal no cumple en tu domicilio."
+          "Nada más cerrar la compra en la web oficial, pude programar la instalación profesional gratuita incluida en el plan brasileño (esto varía según el país) directamente en una plataforma externa indicada por la propia Starlink, con visita prevista para el 10/12/2026. Si vas a contratar por primera vez, abrir el pedido en starlink.com desde el enlace oficial de nuestra [página de referido de Starlink](/es/coupons/starlink) asegura 45 € de crédito en factura en España (y referencia de MX$ 700 en México; confirma siempre el importe que muestra tu pantalla de pedido antes de pagar) tras dos ciclos pagados al día, y quien invita recibe el mismo valor, además de la ventana de 30 días para probar y devolver el kit sin daños si la señal no cumple en tu domicilio."
         ],
         "comparisonTable": {
           "caption": "Artículos recibidos en mi pedido del plan Residencial Max en Brasil y datos visibles en las etiquetas.",
@@ -353642,7 +353642,7 @@ const reviewsChunk2: unknown[] = [
           "src": "/images/reviews/starlink/starlink-mini-x-app-painel-residencial-max.webp",
           "alt": "Panel de la app de Starlink en portugués de mi unidad brasileña mostrando la antena Mini en el plan Residencial Max descargando la actualización al 86%",
           "caption": "Panel en portugués de la app en mi unidad brasileña confirmando la Mini en el plan Residencial Max durante la actualización inicial.",
-          "objectFit": "contain",
+          "objectFit": "portrait",
           "aspectRatio": 0.4943
         },
         "video": {
@@ -353696,7 +353696,7 @@ const reviewsChunk2: unknown[] = [
           "src": "/images/reviews/starlink/starlink-mini-x-app-obstrucoes.webp",
           "alt": "Pantalla de obstrucciones en la app de Starlink en portugués mostrando el domo 3D de calibración del cielo, la leyenda de vista despejada y el aviso de recopilación inicial",
           "caption": "Pantalla de obstrucciones en la app de Starlink en portugués durante la calibración en el balcón.",
-          "objectFit": "contain",
+          "objectFit": "portrait",
           "aspectRatio": 0.4943
         }
       },
@@ -353704,7 +353704,7 @@ const reviewsChunk2: unknown[] = [
         "heading": "Router Mini tras muros gruesos y señal en el salón",
         "paragraphs": [
           "En mi casa, con paredes gruesas, solo la antena en el balcón no lleva el Wi-Fi a todas las habitaciones. Con el Router Mini en un punto entre el balcón y el salón, la señal en el salón quedó fuerte.",
-          "Para dar contexto real: tengo bastante problema con el Wi-Fi en casa por el grosor de los muros. Hoy utilizo una malla con tres nodos TP-Link Deco BE22 (con el principal cableado al del salón principal y el tercero por Wi-Fi) y aun así quedan zonas con cobertura media o débil, incluido el propio balcón del dormitorio. Sabiéndolo, compré aparte al finalizar el pedido un Router Mini de Starlink junto con la antena.",
+          "Para dar contexto real: tengo bastante problema con el Wi-Fi en casa por el grosor de los muros. Hoy utilizo una malla con tres nodos TP-Link Deco BE22 (con el principal cableado al del salón principal y el tercero por Wi-Fi) y aun así quedan zonas con cobertura media o débil, incluido el propio balcón del dormitorio. Sabiéndolo, añadí un Router Mini de Starlink al finalizar la compra.",
           "Al enchufar el Router Mini a la corriente, hay que esperar unos minutos hasta que aparece en la app para configurarlo en red Mesh inalámbrica mediante un proceso muy sencillo. Lo coloqué primero en el salón principal, y la propia aplicación me avisó de que la ubicación no era buena y pidió acercarlo más a la antena. Cambié el Router Mini a un punto en la planta baja más próximo al balcón y con menos obstáculos de por medio, y el enlace con la Mini X se estableció al instante. Mientras redactaba estas líneas desde el salón principal, justo donde quería máxima cobertura, mi móvil marcaba el Wi-Fi de Starlink cerca del 100%. Reubicar el Router Mini en ese punto intermedio resolvió la señal en el salón principal, aunque cubrir cada rincón de la casa probablemente requiera otro Router Mini más; esta primera prueba no midió la cobertura habitación por habitación para comparar con los tres Deco BE22. En este primer contacto lo probé todo en Mesh inalámbrico, sin tender cable Ethernet por los puertos de la base."
         ],
         "video": {
@@ -353727,7 +353727,7 @@ const reviewsChunk2: unknown[] = [
           "src": "/images/reviews/starlink/starlink-mini-x-app-configuracoes.webp",
           "alt": "Menú de ajustes en la app de Starlink en portugués con las pestañas de Router y Starlink, horario de inactividad y reinicio del mapa de obstrucciones",
           "caption": "Menú de ajustes de la antena en la app de Starlink en portugués de mi unidad brasileña.",
-          "objectFit": "contain",
+          "objectFit": "portrait",
           "aspectRatio": 0.4943
         },
         "links": [
@@ -353882,7 +353882,7 @@ const reviewsChunk2: unknown[] = [
         "paragraphs": [
           "Lorsque la fibre du quartier varie ou coupe en pleine journée de travail, disposer d'un lien de secours indépendant se justifie même à une adresse urbaine raccordée.",
           "Le 19/11/2026, j'ai acheté le kit Starlink Mini X avec le forfait Résidentiel Max et, à la caisse, j'ai ajouté un Routeur Mini. Le kit est arrivé avec l'antenne et les accessoires d'alimentation. La commande est arrivée sept jours plus tard, le 26/11/2026, bien emballée, chaque pièce séparée dans des compartiments en pulpe moulée.",
-          "Juste après avoir validé l'achat sur le site officiel, j'ai pu planifier l'installation professionnelle gratuite incluse dans l'offre brésilienne directement sur un portail partenaire indiqué par Starlink, avec une intervention prévue le 10/12/2026. Si vous comptez vous abonner pour la première fois, ouvrir votre commande sur starlink.com depuis le lien officiel de notre [page de parrainage Starlink](/fr/coupons/starlink) garantit 45 € de crédit sur facture après deux cycles payés à temps (et le parrain reçoit le même montant), en plus de la fenêtre de 30 jours pour tester et renvoyer le kit intact si le signal ne convient pas à votre adresse."
+          "Juste après avoir validé l'achat sur le site officiel, j'ai pu planifier l'installation professionnelle gratuite incluse dans l'offre brésilienne (cela varie selon les pays) directement sur un portail partenaire indiqué par Starlink, avec une intervention prévue le 10/12/2026. Si vous comptez vous abonner pour la première fois, ouvrir votre commande sur starlink.com depuis le lien officiel de notre [page de parrainage Starlink](/fr/coupons/starlink) garantit 45 € de crédit sur facture après deux cycles payés à temps (et le parrain reçoit le même montant), en plus de la fenêtre de 30 jours pour tester et renvoyer le kit intact si le signal ne convient pas à votre adresse."
         ],
         "comparisonTable": {
           "caption": "Matériel reçu dans ma commande sur le forfait Résidentiel Max au Brésil et mentions lisibles sur les étiquettes.",
@@ -353947,7 +353947,7 @@ const reviewsChunk2: unknown[] = [
           "src": "/images/reviews/starlink/starlink-mini-x-app-painel-residencial-max.webp",
           "alt": "Tableau de bord de l'appli Starlink en portugais sur mon appareil brésilien montrant l'antenne Mini sur le forfait Résidentiel Max pendant le téléchargement de la mise à jour à 86 %",
           "caption": "Tableau de bord en portugais de l'appli sur mon appareil brésilien confirmant la Mini sur le forfait Résidentiel Max durant la mise à jour initiale.",
-          "objectFit": "contain",
+          "objectFit": "portrait",
           "aspectRatio": 0.4943
         },
         "video": {
@@ -354001,7 +354001,7 @@ const reviewsChunk2: unknown[] = [
           "src": "/images/reviews/starlink/starlink-mini-x-app-obstrucoes.webp",
           "alt": "Écran Obstructions dans l'appli Starlink en portugais montrant le dôme 3D de calibration du ciel, la légende de vue dégagée et l'avis de collecte initiale",
           "caption": "Écran d'obstructions dans l'appli Starlink en portugais durant la calibration sur le balcon.",
-          "objectFit": "contain",
+          "objectFit": "portrait",
           "aspectRatio": 0.4943
         }
       },
@@ -354009,7 +354009,7 @@ const reviewsChunk2: unknown[] = [
         "heading": "Routeur Mini à travers des murs épais et signal au salon",
         "paragraphs": [
           "Chez moi, avec des murs épais, l'antenne seule sur le balcon ne suffit pas à amener le Wi-Fi dans toutes les pièces. Avec le Routeur Mini placé entre le balcon et le salon, le signal au salon est devenu fort.",
-          "Pour donner un repère concret : j'ai toujours eu du mal avec le Wi-Fi chez moi à cause de l'épaisseur des murs. Aujourd'hui j'utilise un réseau maillé de trois TP-Link Deco BE22 (avec le boîtier principal relié par câble à celui du grand salon et le troisième en sans-fil) et il reste malgré tout des zones moyennes à faibles, y compris ce même balcon. Le sachant, j'ai acheté séparément à la commande un Routeur Mini Starlink en même temps que le kit.",
+          "Pour donner un repère concret : j'ai toujours eu du mal avec le Wi-Fi chez moi à cause de l'épaisseur des murs. Aujourd'hui j'utilise un réseau maillé de trois TP-Link Deco BE22 (avec le boîtier principal relié par câble à celui du grand salon et le troisième en sans-fil) et il reste malgré tout des zones moyennes à faibles, y compris ce même balcon. Le sachant, j'ai ajouté un Routeur Mini Starlink à la caisse.",
           "Une fois le Routeur Mini branché sur secteur, il faut attendre quelques minutes qu'il apparaisse dans l'appli pour le configurer en Mesh sans fil, par une procédure très simple. Je l'ai d'abord installé dans le salon principal, et l'application m'a aussitôt signalé que l'emplacement n'était pas bon en me demandant de le rapprocher de l'antenne. J'ai déplacé le Routeur Mini au rez-de-chaussée, plus près du balcon et avec moins d'obstacles sur le trajet, et la liaison avec la Mini X s'est établie immédiatement. Au moment où j'ai rédigé ce retour depuis le grand salon, là où je voulais un signal fort, mon smartphone affichait un Wi-Fi Starlink proche de 100 %. Déplacer le Routeur Mini à ce point intermédiaire a réglé le signal dans le grand salon, même s'il faudra sans doute un second Routeur Mini pour couvrir chaque recoin de la maison — ce premier essai n'a pas mesuré la couverture pièce par pièce pour la comparer aux trois Deco BE22. Sur ce premier essai j'ai tout fait en Mesh sans fil, sans tirer de câble Ethernet depuis les ports de la base."
         ],
         "video": {
@@ -354032,7 +354032,7 @@ const reviewsChunk2: unknown[] = [
           "src": "/images/reviews/starlink/starlink-mini-x-app-configuracoes.webp",
           "alt": "Menu Paramètres de l'appli Starlink en portugais affichant les onglets Routeur et Starlink, l'horaire d'inactivité et la réinitialisation de la carte d'obstructions",
           "caption": "Menu des paramètres de l'antenne dans l'appli Starlink en portugais sur mon appareil brésilien.",
-          "objectFit": "contain",
+          "objectFit": "portrait",
           "aspectRatio": 0.4943
         },
         "links": [
@@ -354187,7 +354187,7 @@ const reviewsChunk2: unknown[] = [
         "paragraphs": [
           "Wenn die Glasfaserleitung im Viertel mitten in der Arbeit schwankt oder ausfällt, lohnt sich eine unabhängige Zweitleitung selbst an einer städtischen Adresse mit Kabelanschluss.",
           "Am 19.11.2026 habe ich das Starlink Mini X Kit im Tarif Residential Max gekauft und im Checkout einen Router Mini hinzugefügt. Das Kit kam mit der Antenne und dem Netzteil-Zubehör. Die Bestellung traf sieben Tage später, am 26.11.2026, gut verpackt ein, jedes Teil getrennt in geformten Zellstofffächern.",
-          "Direkt nach dem Kauf auf der offiziellen Website konnte ich die im brasilianischen Tarif kostenlos enthaltene professionelle Montage über einen von Starlink verlinkten Partner terminieren; der Besuch ist für den 10.12.2026 angesetzt. Wer erstmals abonniert, sichert sich bei Bestellung auf starlink.com über den offiziellen Link auf unserer [Starlink-Empfehlungsseite](/de/coupons/starlink) nach zwei pünktlich bezahlten Zyklen 45 € Rechnungsgutschrift (und der Empfehlende erhält denselben Betrag), zusätzlich zum 30-Tage-Fenster zum Testen und unbeschädigten Zurücksenden, falls das Signal vor Ort nicht passt."
+          "Direkt nach dem Kauf auf der offiziellen Website konnte ich die im brasilianischen Tarif kostenlos enthaltene (das ist je nach Land unterschiedlich) professionelle Montage über einen von Starlink verlinkten Partner terminieren; der Besuch ist für den 10.12.2026 angesetzt. Wer erstmals abonniert, sichert sich bei Bestellung auf starlink.com über den offiziellen Link auf unserer [Starlink-Empfehlungsseite](/de/coupons/starlink) nach zwei pünktlich bezahlten Zyklen 45 € Rechnungsgutschrift (und der Empfehlende erhält denselben Betrag), zusätzlich zum 30-Tage-Fenster zum Testen und unbeschädigten Zurücksenden, falls das Signal vor Ort nicht passt."
         ],
         "comparisonTable": {
           "caption": "In meiner Bestellung im brasilianischen Tarif Residential Max gelieferte Geräte und abgelesene Etikettendaten.",
@@ -354252,7 +354252,7 @@ const reviewsChunk2: unknown[] = [
           "src": "/images/reviews/starlink/starlink-mini-x-app-painel-residencial-max.webp",
           "alt": "Portugiesisches App-Dashboard auf meinem brasilianischen Gerät mit der Mini-Antenne im Tarif Residential Max beim Update-Download bei 86 %",
           "caption": "Portugiesisches Starlink-App-Dashboard meines brasilianischen Geräts mit der Mini im Tarif Residential Max beim Erst-Update.",
-          "objectFit": "contain",
+          "objectFit": "portrait",
           "aspectRatio": 0.4943
         },
         "video": {
@@ -354306,7 +354306,7 @@ const reviewsChunk2: unknown[] = [
           "src": "/images/reviews/starlink/starlink-mini-x-app-obstrucoes.webp",
           "alt": "Ansicht Hindernisse in der portugiesischen Starlink-App mit 3D-Himmelskuppel, Legende für freie Sicht und Hinweis zur Datenerfassung",
           "caption": "Ansicht Hindernisse in der portugiesischen Starlink-App während der Kalibrierung auf dem Balkon.",
-          "objectFit": "contain",
+          "objectFit": "portrait",
           "aspectRatio": 0.4943
         }
       },
@@ -354314,7 +354314,7 @@ const reviewsChunk2: unknown[] = [
         "heading": "Router Mini durch dicke Wände und Empfang im Wohnzimmer",
         "paragraphs": [
           "Bei mir zu Hause mit dicken Wänden bringt die Antenne allein auf dem Balkon das WLAN nicht in alle Zimmer. Mit dem Router Mini an einem Punkt zwischen Balkon und Wohnzimmer wurde der Empfang im Wohnzimmer stark.",
-          "Zum praktischen Hintergrund: Wegen der dicken Wände habe ich zuhause immer wieder Schwierigkeiten mit WLAN-Routern. Derzeit läuft bei mir ein Mesh aus drei TP-Link Deco BE22 (der Hauptknoten per Kabel am Wohnzimmer-Knoten, der dritte per Funk), und trotzdem bleiben Ecken mit mittlerem bis schwachem Empfang, darunter auch jener Balkon. Darum kaufte ich beim Checkout gleich einen Starlink Router Mini separat mit.",
+          "Zum praktischen Hintergrund: Wegen der dicken Wände habe ich zuhause immer wieder Schwierigkeiten mit WLAN-Routern. Derzeit läuft bei mir ein Mesh aus drei TP-Link Deco BE22 (der Hauptknoten per Kabel am Wohnzimmer-Knoten, der dritte per Funk), und trotzdem bleiben Ecken mit mittlerem bis schwachem Empfang, darunter auch jener Balkon. Darum habe ich im Checkout einen Starlink Router Mini hinzugefügt.",
           "Nach dem Einstecken des Router Mini wartet man einige Minuten, bis er in der App zur unkomplizierten kabellosen Mesh-Einrichtung erscheint. Ich stellte ihn zuerst ins Hauptwohnzimmer, worauf die App sofort vor schlechtem Empfang warnte und bat, ihn näher an die Antenne zu rücken. Ich versetzte den Router Mini an einen Platz im Erdgeschoss näher zum Balkon mit weniger Wänden dazwischen, und die Kopplung mit der Mini X stand augenblicklich. Als ich diesen Bericht im Hauptwohnzimmer schrieb, genau dort, wo ich volles Signal brauchte, zeigte mein Handy fast 100 % Starlink-WLAN. Das Umsetzen des Router Mini an diesen Zwischenpunkt löste den Empfang im Hauptwohnzimmer, auch wenn für jede letzte Ecke wohl ein zweiter Router Mini nötig sein wird — dieser erste Test hat keine Raum-für-Raum-Abdeckung gemessen, um gegen die drei Deco BE22 zu vergleichen. In diesem ersten Test lief alles rein kabellos im Mesh ohne Ethernet-Kabel an den unteren Ports."
         ],
         "video": {
@@ -354337,7 +354337,7 @@ const reviewsChunk2: unknown[] = [
           "src": "/images/reviews/starlink/starlink-mini-x-app-configuracoes.webp",
           "alt": "Einstellungsmenü der portugiesischen Starlink-App mit Reitern für Router und Starlink, Ruhezeitplan und Zurücksetzen der Hinderniskarte",
           "caption": "Einstellungsmenü der Antenne in der portugiesischen Starlink-App meines brasilianischen Geräts.",
-          "objectFit": "contain",
+          "objectFit": "portrait",
           "aspectRatio": 0.4943
         },
         "links": [
@@ -354492,7 +354492,7 @@ const reviewsChunk2: unknown[] = [
         "paragraphs": [
           "Quando la fibra di quartiere oscilla o cade nel bel mezzo del lavoro, avere una linea indipendente conviene anche in una zona urbana già cablata.",
           "Il 19/11/2026 ho comprato il kit Starlink Mini X con il piano Residenziale Max e, al checkout, ho aggiunto un Router Mini. Il kit è arrivato con l'antenna e gli accessori di alimentazione. L'ordine è arrivato sette giorni dopo, il 26/11/2026, ben imballato, con ogni pezzo separato nei vassoi in polpa sagomata.",
-          "Subito dopo aver completato l'ordine sul sito ufficiale, ho potuto fissare l'installazione professionale gratuita inclusa nel piano brasiliano direttamente su un sito partner indicato da Starlink, con intervento previsto per il 10/12/2026. Se stai per abbonarti per la prima volta, avviare l'ordine su starlink.com dal link ufficiale della nostra [pagina invito Starlink](/it/coupons/starlink) assicura 45 € di credito sulla fattura successiva dopo due cicli mensili pagati regolarmente (e chi invita riceve lo stesso importo), oltre alla finestra di 30 giorni per provare e restituire il kit integro se il segnale non ti soddisfa."
+          "Subito dopo aver completato l'ordine sul sito ufficiale, ho potuto fissare l'installazione professionale gratuita inclusa nel piano brasiliano (varia da paese a paese) direttamente su un sito partner indicato da Starlink, con intervento previsto per il 10/12/2026. Se stai per abbonarti per la prima volta, avviare l'ordine su starlink.com dal link ufficiale della nostra [pagina invito Starlink](/it/coupons/starlink) assicura 45 € di credito sulla fattura successiva dopo due cicli mensili pagati regolarmente (e chi invita riceve lo stesso importo), oltre alla finestra di 30 giorni per provare e restituire il kit integro se il segnale non ti soddisfa."
         ],
         "comparisonTable": {
           "caption": "Apparati ricevuti nel mio ordine sul piano Residenziale Max in Brasile e dati leggibili sulle etichette.",
@@ -354557,7 +354557,7 @@ const reviewsChunk2: unknown[] = [
           "src": "/images/reviews/starlink/starlink-mini-x-app-painel-residencial-max.webp",
           "alt": "Pannello dell'app Starlink in portoghese sulla mia unità brasiliana con l'antenna Mini sul piano Residenziale Max durante il download dell'aggiornamento all'86%",
           "caption": "Pannello in portoghese dell'app sulla mia unità brasiliana che conferma la Mini sul piano Residenziale Max durante il primo aggiornamento.",
-          "objectFit": "contain",
+          "objectFit": "portrait",
           "aspectRatio": 0.4943
         },
         "video": {
@@ -354611,7 +354611,7 @@ const reviewsChunk2: unknown[] = [
           "src": "/images/reviews/starlink/starlink-mini-x-app-obstrucoes.webp",
           "alt": "Schermata Ostruzioni nell'app Starlink in portoghese con cupola 3D di calibrazione del cielo, legenda di vista libera e avviso di raccolta iniziale",
           "caption": "Schermata Ostruzioni nell'app Starlink in portoghese durante la calibrazione sul balcone.",
-          "objectFit": "contain",
+          "objectFit": "portrait",
           "aspectRatio": 0.4943
         }
       },
@@ -354619,7 +354619,7 @@ const reviewsChunk2: unknown[] = [
         "heading": "Router Mini tra muri spessi e segnale in salotto",
         "paragraphs": [
           "A casa mia, con i muri spessi, la sola antenna sul balcone non porta il Wi-Fi in tutte le stanze. Con il Router Mini in un punto tra il balcone e il salotto, il segnale in salotto è diventato forte.",
-          "Per dare un contesto reale: ho sempre avuto difficoltà con i router Wi-Fi in casa mia a causa delle pareti. Oggi uso una rete mesh con tre TP-Link Deco BE22 (il principale collegato via cavo a quello del salotto principale e il terzo in Wi-Fi) e restano comunque angoli con segnale medio o debole, compreso lo stesso balcone della camera. Sapendolo, ho acquistato a parte al checkout un Router Mini Starlink insieme all'ordine.",
+          "Per dare un contesto reale: ho sempre avuto difficoltà con i router Wi-Fi in casa mia a causa delle pareti. Oggi uso una rete mesh con tre TP-Link Deco BE22 (il principale collegato via cavo a quello del salotto principale e il terzo in Wi-Fi) e restano comunque angoli con segnale medio o debole, compreso lo stesso balcone della camera. Sapendolo, ho aggiunto un Router Mini Starlink al checkout.",
           "Collegato il Router Mini alla presa, bisogna attendere qualche minuto finché compare nell'app per aggiungerlo alla rete Mesh senza fili con una procedura semplicissima. L'ho messo prima nel salotto principale, e l'app stessa mi ha avvisato che la posizione non era buona chiedendo di avvicinarlo di più all'antenna. Ho spostato il Router Mini al piano terra in un punto più vicino al balcone e con meno ostacoli davanti, e il collegamento con la Mini X si è stabilito all'istante. Mentre scrivevo queste impressioni dal salotto principale, proprio dove volevo segnale pieno, il telefono segnava il Wi-Fi Starlink vicino al 100%. Riposizionare il Router Mini in quel punto intermedio ha risolto il segnale nel salotto principale, anche se coprire ogni angolo di casa richiederà probabilmente un secondo Router Mini — questa prima prova non ha misurato la copertura stanza per stanza per fare un confronto diretto con i tre Deco BE22. In questo test iniziale ho usato tutto in Mesh wireless, senza far passare cavi Ethernet dalle porte sulla base."
         ],
         "video": {
@@ -354642,7 +354642,7 @@ const reviewsChunk2: unknown[] = [
           "src": "/images/reviews/starlink/starlink-mini-x-app-configuracoes.webp",
           "alt": "Menu Impostazioni dell'app Starlink in portoghese con le schede Router e Starlink, orario di sospensione e ripristino della mappa ostruzioni",
           "caption": "Menu delle impostazioni dell'antenna nell'app Starlink in portoghese sulla mia unità brasiliana.",
-          "objectFit": "contain",
+          "objectFit": "portrait",
           "aspectRatio": 0.4943
         },
         "links": [
@@ -354797,7 +354797,7 @@ const reviewsChunk2: unknown[] = [
         "paragraphs": [
           "동네 광랜이 업무 시간 도중에 흔들리거나 끊기면, 유선 케이블이 들어오는 도심 주택이라도 독립 회선 하나를 갖추는 편이 훨씬 든든합니다.",
           "2026년 11월 19일에 Residencial Max 요금제로 스타링크 Mini X 키트를 구매하고, 결제 단계에서 Mini 라우터를 하나 추가했습니다. 키트에는 안테나와 전원 구성품이 들어 있었습니다. 주문품은 7일 뒤인 2026년 11월 26일에 도착했고, 포장이 깔끔했으며 모든 부품이 성형 펄프 칸막이에 하나씩 분리되어 있었습니다.",
-          "공식 사이트에서 결제를 마치자마자, 브라질 요금제에 포함된 무료 전문 설치 서비스를 스타링크가 안내한 외부 제휴 페이지에서 2026년 12월 10일 방문 일정으로 바로 예약할 수 있었습니다. 처음 가입하는 분이라면 [스타링크 추천 안내 페이지](/ko/coupons/starlink)의 공식 링크로 starlink.com에서 주문을 시작해 두 번의 결제 주기를 정상 납부하면 한국 기준 65,000원 상당의 청구서 크레딧을 받을 수 있습니다(결제 전에 주문 화면에서 실제 표시 금액을 꼭 확인하세요). 추천인에게도 같은 금액이 적립되며, 신호가 집에 맞지 않을 경우 30일 이내에 손상 없이 반납하고 환불받을 수 있습니다."
+          "공식 사이트에서 결제를 마치자마자, 브라질 요금제에 포함된(국가마다 다릅니다) 무료 전문 설치 서비스를 스타링크가 안내한 외부 제휴 페이지에서 2026년 12월 10일 방문 일정으로 바로 예약할 수 있었습니다. 처음 가입하는 분이라면 [스타링크 추천 안내 페이지](/ko/coupons/starlink)의 공식 링크로 starlink.com에서 주문을 시작해 두 번의 결제 주기를 정상 납부하면 한국 기준 65,000원 상당의 청구서 크레딧을 받을 수 있습니다(결제 전에 주문 화면에서 실제 표시 금액을 꼭 확인하세요). 추천인에게도 같은 금액이 적립되며, 신호가 집에 맞지 않을 경우 30일 이내에 손상 없이 반납하고 환불받을 수 있습니다."
         ],
         "comparisonTable": {
           "caption": "브라질 주거용 Max 요금제 주문에서 실제로 수령한 구성품과 라벨에 표기된 모델 정보.",
@@ -354862,7 +354862,7 @@ const reviewsChunk2: unknown[] = [
           "src": "/images/reviews/starlink/starlink-mini-x-app-painel-residencial-max.webp",
           "alt": "브라질에서 사용한 포르투갈어 스타링크 앱 대시보드 화면으로 주거용 Max 요금제와 Mini 안테나 업데이트 86% 진행 상태를 표시함",
           "caption": "초기 업데이트 진행 중 브라질 주거용 Max 요금제로 활성화된 Mini를 보여 주는 포르투갈어 앱 대시보드.",
-          "objectFit": "contain",
+          "objectFit": "portrait",
           "aspectRatio": 0.4943
         },
         "video": {
@@ -354916,7 +354916,7 @@ const reviewsChunk2: unknown[] = [
           "src": "/images/reviews/starlink/starlink-mini-x-app-obstrucoes.webp",
           "alt": "하늘 보정 3D 돔과 가림 없는 시야 범례, 초기 수집 안내가 표시된 스타링크 앱 장애물 화면",
           "caption": "베란다 보정 진행 중에 확인한 스타링크 앱의 장애물 화면.",
-          "objectFit": "contain",
+          "objectFit": "portrait",
           "aspectRatio": 0.4943
         }
       },
@@ -354924,7 +354924,7 @@ const reviewsChunk2: unknown[] = [
         "heading": "두꺼운 벽 환경에서 Mini 라우터와 거실 신호 개선",
         "paragraphs": [
           "저희 집은 벽이 두꺼워서 베란다의 안테나만으로는 모든 방에 Wi-Fi가 닿지 않습니다. Mini 라우터를 베란다와 거실 사이의 지점에 두자 거실 신호가 강해졌습니다.",
-          "제 집 환경을 솔직히 말씀드리면, 벽이 두꺼워 와이파이 공유기 배치가 원래 까다로운 편입니다. 현재는 TP-Link Deco BE22 3대로 메시를 구성해 주 공유기를 메인 거실 노드와 유선으로 연결하고 세 번째 노드는 무선으로 쓰는데도, 안방 베란다를 포함해 신호가 중간에서 약한 구석이 여전히 남습니다. 이 점을 알고 있었기 때문에 결제 시 스타링크 Mini 라우터 한 대를 별도로 함께 구매했습니다.",
+          "제 집 환경을 솔직히 말씀드리면, 벽이 두꺼워 와이파이 공유기 배치가 원래 까다로운 편입니다. 현재는 TP-Link Deco BE22 3대로 메시를 구성해 주 공유기를 메인 거실 노드와 유선으로 연결하고 세 번째 노드는 무선으로 쓰는데도, 안방 베란다를 포함해 신호가 중간에서 약한 구석이 여전히 남습니다. 이 점을 알고 있었기 때문에 결제 시 스타링크 Mini 라우터 한 대를 추가했습니다.",
           "Mini 라우터를 콘센트에 꽂고 몇 분 기다리면 앱에 뜨면서 아주 간단하게 무선 메시(Mesh) 설정을 마칠 수 있습니다. 처음에는 메인 거실에 두었는데 앱이 신호 위치가 좋지 않다며 안테나와 더 가까운 곳으로 옮기라고 안내했습니다. 그래서 베란다와 더 가깝고 중간 장애물이 적은 1층 지점으로 위치를 옮겼더니 Mini X와 즉시 연결되었습니다. 지금 제가 강한 신호를 원했던 메인 거실에서 이 후기를 적는 동안 스마트폰의 스타링크 와이파이 신호는 거의 100%에 가깝게 뜹니다. 이처럼 중간 지점으로 Mini 라우터를 옮겨 둔 것만으로 메인 거실 신호는 깔끔하게 해결되었지만, 집 구석구석을 모두 채우려면 두 번째 Mini 라우터가 필요할 가능성이 큽니다. 또한 이번 초기 테스트에서는 방별 커버리지를 재어 기존 Deco BE22 3대와 비교하지는 않았습니다. 이번 초기 테스트에서는 바닥 포트의 유선 이더넷을 연결하지 않고 전부 무선 메시로만 운용했습니다."
         ],
         "video": {
@@ -354947,7 +354947,7 @@ const reviewsChunk2: unknown[] = [
           "src": "/images/reviews/starlink/starlink-mini-x-app-configuracoes.webp",
           "alt": "라우터와 스타링크 탭, 절전 시간, 장애물 지도 초기화 메뉴가 표시된 포르투갈어 스타링크 앱 설정 화면",
           "caption": "브라질에서 사용한 포르투갈어 스타링크 앱의 안테나 설정 메뉴.",
-          "objectFit": "contain",
+          "objectFit": "portrait",
           "aspectRatio": 0.4943
         },
         "links": [
@@ -355102,7 +355102,7 @@ const reviewsChunk2: unknown[] = [
         "paragraphs": [
           "自宅エリアの光回線が仕事中に不安定になったり切断されたりする場合、都市部の回線提供エリア内であっても独立した通信経路を持っておく価値があります。",
           "2026年11月19日にStarlink Mini Xのキットを住宅向け上位プラン（Residencial Max）で購入し、会計時にミニルーターを1台追加しました。キットにはアンテナと電源類が付属していました。注文品は7日後の2026年11月26日に届き、しっかり梱包され、各パーツが成形パルプの仕切りに分けて収まっていました。",
-          "公式サイトで注文を確定した直後、ブラジル向けプランに含まれる無料の専門設置サービスを、Starlink側が案内する外部パートナーサイトから2026年12月10日訪問で直接予約できました。これから新規契約する場合は、[Starlink紹介リンクガイド](/ja/coupons/starlink)の公式リンク経由でstarlink.comから注文し、2請求サイクルを期限内に支払うと、日本では7,000円が次回請求へのクレジットとして付与されます（紹介元にも同額が付与され、実際の表示額は支払い前の注文画面で確認できます）。さらに、自宅環境に合わない場合は30日以内であれば破損なく返却して返金を受けられます。"
+          "公式サイトで注文を確定した直後、ブラジル向けプランに含まれる無料の専門設置サービス（国によって異なります）を、Starlink側が案内する外部パートナーサイトから2026年12月10日訪問で直接予約できました。これから新規契約する場合は、[Starlink紹介リンクガイド](/ja/coupons/starlink)の公式リンク経由でstarlink.comから注文し、2請求サイクルを期限内に支払うと、日本では7,000円が次回請求へのクレジットとして付与されます（紹介元にも同額が付与され、実際の表示額は支払い前の注文画面で確認できます）。さらに、自宅環境に合わない場合は30日以内であれば破損なく返却して返金を受けられます。"
         ],
         "comparisonTable": {
           "caption": "ブラジル・ホームMaxプランでの注文時に届いた機材とラベル記載の仕様。",
@@ -355167,7 +355167,7 @@ const reviewsChunk2: unknown[] = [
           "src": "/images/reviews/starlink/starlink-mini-x-app-painel-residencial-max.webp",
           "alt": "ブラジル向けポルトガル語版Starlinkアプリの管理画面で、ホームMaxプランのMiniアンテナが86%までアップデート中の表示",
           "caption": "初期アップデート実行中にホームMaxプランでのMini有効化を示すポルトガル語版アプリ画面。",
-          "objectFit": "contain",
+          "objectFit": "portrait",
           "aspectRatio": 0.4943
         },
         "video": {
@@ -355221,7 +355221,7 @@ const reviewsChunk2: unknown[] = [
           "src": "/images/reviews/starlink/starlink-mini-x-app-obstrucoes.webp",
           "alt": "上空キャリブレーション用の3Dドームと遮蔽なしエリアの凡例、初期データ収集中メッセージを表示したStarlinkアプリの障害物画面",
           "caption": "ベランダでのキャリブレーション中に確認したStarlinkアプリの障害物画面。",
-          "objectFit": "contain",
+          "objectFit": "portrait",
           "aspectRatio": 0.4943
         }
       },
@@ -355229,7 +355229,7 @@ const reviewsChunk2: unknown[] = [
         "heading": "厚い壁の室内でのミニルーターとリビングの電波改善",
         "paragraphs": [
           "我が家は壁が厚く、ベランダのアンテナだけでは全部屋にWi-Fiが届きません。ミニルーターをベランダとリビングの間の位置に置くと、リビングの電波が強くなりました。",
-          "実際の住環境を補足すると、我が家は壁が厚く以前からWi-Fiルーターの電波通りに苦労しています。普段はTP-Link Deco BE22を3台でメッシュを組み（親機からメインリビング機へは有線接続、3台目は無線接続）、それでも主寝室ベランダを含めて電波が中程度から弱い死角が残ります。そのため、注文時にStarlinkミニルーターを1台別途あわせて購入しました。",
+          "実際の住環境を補足すると、我が家は壁が厚く以前からWi-Fiルーターの電波通りに苦労しています。普段はTP-Link Deco BE22を3台でメッシュを組み（親機からメインリビング機へは有線接続、3台目は無線接続）、それでも主寝室ベランダを含めて電波が中程度から弱い死角が残ります。そのため、注文時にStarlinkミニルーターを1台追加しました。",
           "ミニルーターをコンセントに挿して数分待つとアプリに認識され、非常に簡単な手順で無線メッシュ（Mesh）として追加できました。最初はメインリビングに置いたのですが、アプリが設置場所として良くないと警告を出し、アンテナに近づけるよう案内してくれました。そこでベランダに近く障害物の少ない1階の中間位置へ移動したところ、Mini Xとの接続が即座に確立しました。まさに強い電波が欲しかったメインリビングでこの原稿を書いている間も、スマホのStarlink Wi-Fi表示はほぼ100%を保っています。このように中間地点へ置き直したことでリビングの電波はしっかり解決しましたが、家中の隅々まで覆うにはもう1台ミニルーターが必要になりそうです。なお今回の初期検証では、各部屋の電波範囲を測ってDeco BE22 3台と比較するところまでは行っていません。また、底面のLANポートにケーブルを挿さず、すべて無線メッシュで動かしています。"
         ],
         "video": {
@@ -355252,7 +355252,7 @@ const reviewsChunk2: unknown[] = [
           "src": "/images/reviews/starlink/starlink-mini-x-app-configuracoes.webp",
           "alt": "ルーターとStarlinkタブ、スリープ時間、障害物マップのリセット項目が並ぶポルトガル語版Starlinkアプリの設定メニュー",
           "caption": "ブラジル向けポルトガル語版Starlinkアプリのアンテナ設定メニュー。",
-          "objectFit": "contain",
+          "objectFit": "portrait",
           "aspectRatio": 0.4943
         },
         "links": [
@@ -355407,7 +355407,7 @@ const reviewsChunk2: unknown[] = [
         "paragraphs": [
           "只要社區光纖在工作時段偶爾不穩或突然斷線，即使住在有線寬頻覆蓋的市區住宅，擁有一條獨立的衛星線路仍然相當值得。",
           "2026 年 11 月 19 日，我訂購了 Starlink Mini X 套件，選的是住宅最高階方案（Residencial Max），並在結帳時加購了一顆 Mini 路由器。套件內有天線與電源配件。訂單在七天後的 2026 年 11 月 26 日送達，包裝完整，每件物品都分開放在模壓紙漿分格裡。",
-          "在官網完成結帳後，我隨即依照 Starlink 指引連往合作夥伴網站，直接預約巴西方案內含的免費專業安裝服務，上門時間排在 2026 年 12 月 10 日。如果你是初次訂閱，透過 [Starlink 推薦說明頁面](/zh-hant/coupons/starlink) 的官方連結前往 starlink.com 下單並按時繳清兩個計費週期，即可獲得所在國家對應的帳單抵扣（例如馬來西亞為 RM 180，實際金額請務必在付款前於訂單頁面確認），推薦人也會拿到相同額度；此外還有 30 天試用期，若訊號不符合住家需求，可在無損壞情況下退回套件。"
+          "在官網完成結帳後，我隨即依照 Starlink 指引連往合作夥伴網站，直接預約巴西方案內含的免費專業安裝服務（各國情況不同），上門時間排在 2026 年 12 月 10 日。如果你是初次訂閱，透過 [Starlink 推薦說明頁面](/zh-hant/coupons/starlink) 的官方連結前往 starlink.com 下單並按時繳清兩個計費週期，即可獲得所在國家對應的帳單抵扣（例如馬來西亞為 RM 180，實際金額請務必在付款前於訂單頁面確認），推薦人也會拿到相同額度；此外還有 30 天試用期，若訊號不符合住家需求，可在無損壞情況下退回套件。"
         ],
         "comparisonTable": {
           "caption": "本次巴西家用 Max 方案訂單實際收到的硬體項目與標籤標示規格。",
@@ -355472,7 +355472,7 @@ const reviewsChunk2: unknown[] = [
           "src": "/images/reviews/starlink/starlink-mini-x-app-painel-residencial-max.webp",
           "alt": "在巴西使用的葡萄牙文版 Starlink App 儀表板畫面，顯示家用 Max 方案的 Mini 天線正下載更新至 86%",
           "caption": "初期更新期間，葡萄牙文 App 畫面確認 Mini 已啟用於巴西家用 Max 方案。",
-          "objectFit": "contain",
+          "objectFit": "portrait",
           "aspectRatio": 0.4943
         },
         "video": {
@@ -355526,7 +355526,7 @@ const reviewsChunk2: unknown[] = [
           "src": "/images/reviews/starlink/starlink-mini-x-app-obstrucoes.webp",
           "alt": "Starlink App 遮蔽物頁面，呈現 3D 天空校準穹頂、無遮擋視野圖例以及初期資料收集提示",
           "caption": "陽台校準期間在 Starlink App 讀取到的遮蔽物畫面。",
-          "objectFit": "contain",
+          "objectFit": "portrait",
           "aspectRatio": 0.4943
         }
       },
@@ -355534,7 +355534,7 @@ const reviewsChunk2: unknown[] = [
         "heading": "Mini 路由器在厚牆住宅改善客廳訊號表現",
         "paragraphs": [
           "我家牆很厚，單靠陽台上的天線，Wi-Fi 沒辦法涵蓋所有房間。把 Mini 路由器擺在陽台與客廳之間的位置後，客廳訊號變強了。",
-          "說明一下我家的真實條件：這裡的牆壁非常厚，我一直對 Wi-Fi 路由器的穿牆表現很頭痛。目前家裡使用三台 TP-Link Deco BE22 組網（主節點以網路線連接客廳節點，第三台走無線回程），即便如此，包含主臥陽台在內仍有訊號偏弱的角落。正因為早就知道這個狀況，我在結帳時便另外加購了一顆 Starlink Mini 路由器。",
+          "說明一下我家的真實條件：這裡的牆壁非常厚，我一直對 Wi-Fi 路由器的穿牆表現很頭痛。目前家裡使用三台 TP-Link Deco BE22 組網（主節點以網路線連接客廳節點，第三台走無線回程），即便如此，包含主臥陽台在內仍有訊號偏弱的角落。正因為早就知道這個狀況，我在結帳時加購了一顆 Starlink Mini 路由器。",
           "將 Mini 路由器插上插座後，等幾分鐘讓它出現在 App 裡，就能用非常簡單的流程設定無線 Mesh 網路。一開始我把它放在主客廳，App 馬上提示這個點位置不佳，建議移近天線一點。後來我把 Mini 路由器改放到一樓更靠近陽台且遮擋較少的位置，它立刻就跟 Mini X 順利配對成功。當我在原本最希望訊號滿格的主客廳寫下這篇心得時，手機顯示 Starlink Wi-Fi 訊號接近 100%。把 Mini 路由器改擺在這個中繼位置後，確實解決了主客廳的訊號問題，但若要涵蓋家中每個死角可能還需要第二顆 Mini 路由器；這次初測並沒有逐室實測覆蓋範圍來與三台 Deco BE22 直接對比。這次初測全程採用無線 Mesh，尚未透過底座的網路埠拉有線網路。"
         ],
         "video": {
@@ -355557,7 +355557,7 @@ const reviewsChunk2: unknown[] = [
           "src": "/images/reviews/starlink/starlink-mini-x-app-configuracoes.webp",
           "alt": "在巴西使用的葡萄牙文版 Starlink App 設定選單，顯示路由器與 Starlink 分頁、休眠排程與重設遮蔽物地圖選項",
           "caption": "葡萄牙文版 Starlink App 內的天線設定選單。",
-          "objectFit": "contain",
+          "objectFit": "portrait",
           "aspectRatio": 0.4943
         },
         "links": [
@@ -355712,7 +355712,7 @@ const reviewsChunk2: unknown[] = [
         "paragraphs": [
           "当小区光纤在工作时间波动或突然断线时，哪怕住在有线宽带覆盖的城市住宅，多准备一条独立链路也很划算。",
           "2026 年 11 月 19 日，我订购了 Starlink Mini X 套件，选的是家用高阶套餐（Residencial Max），并在结账时加购了一台 Mini 路由器。套件里有天线和电源配件。订单在七天后的 2026 年 11 月 26 日送达，包装很好，每件物品都分开放在模压纸浆格挡里。",
-          "在官网提交订单后，我立即通过 Starlink 指引的外部合作页面预约了巴西套餐包含的免费专业安装服务，上门日期定在 2026 年 12 月 10 日。如果你是初次开通用户，从 [Starlink 推荐说明页面](/zh-hans/coupons/starlink) 的官方链接进入 starlink.com 下单并按时缴清两个完整计费周期，即可在下一期账单收到所在国家对应的抵扣金额（例如马来西亚为 RM 180，付款前请务必在订单页确认实际显示数额），推荐人也会获得同等奖励；此外享有 30 天试用窗口，若信号不理想可在无损坏情况下退回套件。"
+          "在官网提交订单后，我立即通过 Starlink 指引的外部合作页面预约了巴西套餐包含的免费专业安装服务（各国情况不同），上门日期定在 2026 年 12 月 10 日。如果你是初次开通用户，从 [Starlink 推荐说明页面](/zh-hans/coupons/starlink) 的官方链接进入 starlink.com 下单并按时缴清两个完整计费周期，即可在下一期账单收到所在国家对应的抵扣金额（例如马来西亚为 RM 180，付款前请务必在订单页确认实际显示数额），推荐人也会获得同等奖励；此外享有 30 天试用窗口，若信号不理想可在无损坏情况下退回套件。"
         ],
         "comparisonTable": {
           "caption": "本次巴西家用 Max 套餐订单实际收到的设备清单与机身标签信息。",
@@ -355777,7 +355777,7 @@ const reviewsChunk2: unknown[] = [
           "src": "/images/reviews/starlink/starlink-mini-x-app-painel-residencial-max.webp",
           "alt": "在巴西使用的葡萄牙语版 Starlink App 主界面，显示家用 Max 套餐中的 Mini 天线正在下载更新至 86%",
           "caption": "初始更新过程中，葡萄牙语版 App 面板确认 Mini 已激活为巴西家用 Max 套餐。",
-          "objectFit": "contain",
+          "objectFit": "portrait",
           "aspectRatio": 0.4943
         },
         "video": {
@@ -355831,7 +355831,7 @@ const reviewsChunk2: unknown[] = [
           "src": "/images/reviews/starlink/starlink-mini-x-app-obstrucoes.webp",
           "alt": "Starlink App 遮挡物界面，展示 3D 天空校准穹顶、无遮挡视野图例以及初期数据采集提示",
           "caption": "阳台校准期间在 Starlink App 中查看到的遮挡物界面。",
-          "objectFit": "contain",
+          "objectFit": "portrait",
           "aspectRatio": 0.4943
         }
       },
@@ -355839,7 +355839,7 @@ const reviewsChunk2: unknown[] = [
         "heading": "厚墙环境下 Mini 路由器改善客厅信号体验",
         "paragraphs": [
           "我家墙体很厚，光靠阳台上的天线，Wi-Fi 没法覆盖所有房间。把 Mini 路由器放在阳台和客厅之间的位置后，客厅信号变强了。",
-          "结合我家真实情况来讲，因为墙体很厚，家里一直很挑 Wi-Fi 路由器。我原本用的是三台 TP-Link Deco BE22 组成的 Mesh（主路由网线直连主客厅节点，第三台走无线），即便如此，包括主卧阳台在内依然有几处信号偏中弱的角落。正因心里有数，我在结账时也另外加购了一台 Starlink Mini 路由器。",
+          "结合我家真实情况来讲，因为墙体很厚，家里一直很挑 Wi-Fi 路由器。我原本用的是三台 TP-Link Deco BE22 组成的 Mesh（主路由网线直连主客厅节点，第三台走无线），即便如此，包括主卧阳台在内依然有几处信号偏中弱的角落。正因心里有数，我在结账时加购了一台 Starlink Mini 路由器。",
           "把 Mini 路由器插上电后等几分钟，它就会出现在 App 里，按提示几步就能配好无线 Mesh 组网。起初我把它摆在主客厅，结果 App 提示这个位置信号不理想，让我挪近天线一些。随后我把 Mini 路由器改放到一楼更靠近阳台且阻挡较少的地方，它和 Mini X 当场就握手连通了。我在最希望信号强劲的主客厅写下这篇体验时，手机上的 Starlink Wi-Fi 几乎一直显示满格。把 Mini 路由器改摆在这个中间位置确实解决好了主客厅的信号，不过想把家里边边角角全覆盖大概率还需要第二台 Mini 路由器；这次初测并没有逐个房间测覆盖来和三台 Deco BE22 对比。这次初测全程都跑在无线 Mesh 模式下，还没有从底座网口接有线回程。"
         ],
         "video": {
@@ -355862,7 +355862,7 @@ const reviewsChunk2: unknown[] = [
           "src": "/images/reviews/starlink/starlink-mini-x-app-configuracoes.webp",
           "alt": "在巴西使用的葡萄牙语版 Starlink App 设置菜单，包含路由器与 Starlink 标签页、休眠时段设置与重置遮挡图选项",
           "caption": "葡萄牙语版 Starlink App 中的天线设置菜单。",
-          "objectFit": "contain",
+          "objectFit": "portrait",
           "aspectRatio": 0.4943
         },
         "links": [
@@ -356017,7 +356017,7 @@ const reviewsChunk2: unknown[] = [
         "paragraphs": [
           "عندما تتذبذب خدمة الألياف في الحي أو تنقطع وسط ساعات العمل، يصبح امتلاك اتصال فضائي مستقل خيارًا مجديًا حتى داخل الأحياء المخدومة بالكابلات.",
           "في 19 نوفمبر 2026 اشتريت طقم Starlink Mini X ضمن الباقة السكنية العليا (Residencial Max)، وأضفت عند الدفع راوتر ميني. وصل الطقم مع الطبق وملحقات الطاقة. ووصل الطلب بعد سبعة أيام، في 26 نوفمبر 2026، مغلفًا بإحكام، وكل قطعة منفصلة داخل الأقسام الداخلية من اللب المقولب.",
-          "فور إتمام الطلب في الموقع الرسمي، تمكنت من حجز التركيب الاحترافي المجاني المشمول في الباقة البرازيلية مباشرة عبر موقع شريك تحيله Starlink نفسها، على أن تتم الزيارة في 10 ديسمبر 2026. وإذا كنت تشترك للمرة الأولى، فإن بدء الطلب على starlink.com عبر الرابط الرسمي في [صفحة إحالة Starlink](/ar/coupons/starlink) يمنحك رصيدًا في الفاتورة بعد سداد دورتي فوترة كاملتين، مثل 160 ر.ق. في قطر أو 150 د.إ. في الإمارات (تحقق دائمًا من المبلغ الظاهر في طلبك قبل الدفع)، ويحصل المُحيل على المبلغ نفسه، مع مهلة 30 يومًا لتجربة الطقم وإعادته سليمًا إذا لم يناسب عنوانك."
+          "فور إتمام الطلب في الموقع الرسمي، تمكنت من حجز التركيب الاحترافي المجاني المشمول في الباقة البرازيلية (يختلف ذلك من بلد إلى آخر) مباشرة عبر موقع شريك تحيله Starlink نفسها، على أن تتم الزيارة في 10 ديسمبر 2026. وإذا كنت تشترك للمرة الأولى، فإن بدء الطلب على starlink.com عبر الرابط الرسمي في [صفحة إحالة Starlink](/ar/coupons/starlink) يمنحك رصيدًا في الفاتورة بعد سداد دورتي فوترة كاملتين، مثل 160 ر.ق. في قطر أو 150 د.إ. في الإمارات (تحقق دائمًا من المبلغ الظاهر في طلبك قبل الدفع)، ويحصل المُحيل على المبلغ نفسه، مع مهلة 30 يومًا لتجربة الطقم وإعادته سليمًا إذا لم يناسب عنوانك."
         ],
         "comparisonTable": {
           "caption": "القطع التي وصلتني في طلبي على باقة Residencial Max البرازيلية والمواصفات الظاهرة على الملصقات.",
@@ -356082,7 +356082,7 @@ const reviewsChunk2: unknown[] = [
           "src": "/images/reviews/starlink/starlink-mini-x-app-painel-residencial-max.webp",
           "alt": "لوحة تطبيق Starlink باللغة البرتغالية المُستخدم في البرازيل وتظهر طبق Mini على باقة المنازل Max أثناء تنزيل التحديث عند 86%",
           "caption": "شاشة التطبيق بالبرتغالية تؤكد تشغيل Mini على باقة المنازل Max أثناء التحديث الأولي.",
-          "objectFit": "contain",
+          "objectFit": "portrait",
           "aspectRatio": 0.4943
         },
         "video": {
@@ -356136,7 +356136,7 @@ const reviewsChunk2: unknown[] = [
           "src": "/images/reviews/starlink/starlink-mini-x-app-obstrucoes.webp",
           "alt": "شاشة العوائق في تطبيق Starlink وتعرض القبة ثلاثية الأبعاد لمعايرة السماء ومفتاح الرؤية المفتوحة وإشعار الجمع الأولي",
           "caption": "شاشة العوائق في التطبيق أثناء مرحلة المعايرة على الشرفة.",
-          "objectFit": "contain",
+          "objectFit": "portrait",
           "aspectRatio": 0.4943
         }
       },
@@ -356144,7 +356144,7 @@ const reviewsChunk2: unknown[] = [
         "heading": "راوتر ميني وسط الجدران السميكة وتحسن الإشارة في الصالة",
         "paragraphs": [
           "في بيتي جدران سميكة، ولا يكفي الطبق وحده على الشرفة لإيصال Wi-Fi إلى كل الغرف. وبعد وضع راوتر ميني في نقطة بين الشرفة والصالة، أصبحت الإشارة في الصالة قوية.",
-          "لأوضح الصورة الواقعية: أواجه صعوبة ملحوظة مع أجهزة الواي فاي في المنزل بسبب سماكة الجدران. أعتمد حاليًا على شبكة Mesh من ثلاث وحدات TP-Link Deco BE22 (الوحدة الرئيسية موصولة بكابل مع وحدة الصالة الرئيسية والثالثة لاسلكيًا)، ومع ذلك تبقى زوايا بإشارة متوسطة إلى ضعيفة، ومنها شرفة الجناح نفسه. وبمعرفتي المسبقة بهذا الواقع اشتريت عند الدفع راوتر ميني واحدًا بشكل منفصل مع الطلب.",
+          "لأوضح الصورة الواقعية: أواجه صعوبة ملحوظة مع أجهزة الواي فاي في المنزل بسبب سماكة الجدران. أعتمد حاليًا على شبكة Mesh من ثلاث وحدات TP-Link Deco BE22 (الوحدة الرئيسية موصولة بكابل مع وحدة الصالة الرئيسية والثالثة لاسلكيًا)، ومع ذلك تبقى زوايا بإشارة متوسطة إلى ضعيفة، ومنها شرفة الجناح نفسه. وبمعرفتي المسبقة بهذا الواقع أضفت عند الدفع راوتر ميني واحدًا.",
           "بعد توصيل راوتر ميني بالكهرباء يجب الانتظار بضع دقائق حتى يظهر في التطبيق لإعداده ضمن شبكة Mesh اللاسلكية في خطوات بسيطة جدًا. وضعته أولًا في الصالة الرئيسية، فنبهني التطبيق نفسه بأن الموقع غير مناسب وطلب تقريبه أكثر من الطبق. نقلت راوتر ميني إلى موضع في الطابق الأرضي أقرب إلى الشرفة وبحواجز أقل في الطريق، فاكتمل الربط مع Mini X فورًا. وأثناء كتابتي هذه التجربة في الصالة الرئيسية، وهو المكان الذي أردت فيه إشارة قوية تحديدًا، أظهر هاتفي إشارة Wi-Fi من Starlink قريبة من 100%. لقد حلّ نقل راوتر ميني إلى هذه النقطة الوسطى مشكلة الإشارة في الصالة الرئيسية، وإن كان تغطية كل ركن في البيت قد يستلزم راوتر ميني ثانيًا — علمًا أن هذا الاختبار الأولي لم يقس التغطية غرفة بغرفة للمقارنة مع وحدات Deco BE22 الثلاث. وفي هذا الاختبار الأولي شغّلت كل شيء على Mesh لاسلكي بالكامل دون تمرير كابل Ethernet عبر منافذ القاعدة."
         ],
         "video": {
@@ -356167,7 +356167,7 @@ const reviewsChunk2: unknown[] = [
           "src": "/images/reviews/starlink/starlink-mini-x-app-configuracoes.webp",
           "alt": "قائمة الإعدادات في تطبيق Starlink بالبرتغالية المُستخدم في البرازيل وتظهر تبويبات الراوتر وStarlink وجدول السكون وإعادة ضبط خريطة العوائق",
           "caption": "قائمة إعدادات الطبق داخل تطبيق Starlink باللغة البرتغالية.",
-          "objectFit": "contain",
+          "objectFit": "portrait",
           "aspectRatio": 0.4943
         },
         "links": [
