@@ -14,7 +14,7 @@ em [[Fila-de-Pautas]] (seção 3, "Natal 2026, segunda rodada").
 - 40 brinquedos de madeira, de R$ 89,90 a R$ 699,90 no preço de tabela. Menu "Brinquedos" e página especial "Ideias de
   Presentes para Crianças" no rodapé. Selo "envio imediato" em todos. Frete grátis "a partir de R$ 599" na ficha
   (condições não lidas).
-- Idade na ficha ("Idade recomendada" ou "a partir de"), só em 10 dos 40:
+- Idade na ficha ("Idade recomendada" ou "a partir de"), só em 9 dos 40:
   - 12 meses: Mesa Musical (R$ 399,90), Floresta Aramada (R$ 399,90), Aramado Foguete (R$ 229,90, "12 meses ou mais");
   - 18 meses: Cidadela (R$ 399,90), Vilarejo (R$ 199,90);
   - 3 anos: Caixa Registradora (R$ 399,90), Super Cafeteria (R$ 399,90), Kit Batedeira (R$ 299,90), Carretinha de
@@ -69,3 +69,33 @@ em [[Fila-de-Pautas]] (seção 3, "Natal 2026, segunda rodada").
 - Fracas ou fora: "presente de natal para cachorro" e "para pet" (só a própria busca); "presente de natal para sogro"
   (só a própria busca); "cesta de natal" puxada por marca (Bauducco, Cacau Show) e empresa; "panetone sem açúcar" e
   "zero açúcar" puxados por marca (Cacau Show, Bauducco, Kopenhagen) e "para diabéticos".
+
+## Gocase (gocase.com.br, menu e página "Para Eles")
+
+- Menu: garrafas térmicas, copos e taças, totes e bolsas, capinhas, mochilas e lancheiras, viagem, acessórios, pets,
+  coleções (Marvel, times de futebol, "para eles"). `/products.json` dá 404; leitura pela vitrine.
+- "Para Eles" (4.948 produtos), preço "de": capinha (nome, time, estampa) R$ 89,90; Garrafa Térmica Urban R$ 139,90;
+  Fresh R$ 189,90 a R$ 199,90; Mini R$ 219,90; Flip Pro R$ 249,90; Copo Térmico Cerveja R$ 159,90. Itens de time são
+  licenciados (Flamengo, Palmeiras, Corinthians, Vasco e outros).
+- Na leitura, "Leve 2, pague 1" nas capinhas e GoBlack nas garrafas: campanha da loja, fora do texto.
+- Troca (dossiê, 19/11): sem personalização em até 7 dias corridos, sem uso; personalizado só por defeito. Frete grátis na
+  entrega Normal acima de R$ 199,90 em DF, ES, GO, MG, MS, PR, RJ, RS, SC e SP e acima de R$ 399 nos demais.
+- Vale-presente, embalagem e cartão de presente: não lidos (GC+).
+
+## Pink Cheeks (pinkcheeks.com.br, `/products.json`)
+
+- Maquiagem e proteção solar para quem pratica esporte, preço "de": Ultra Balm com cor FPS 50 R$ 49,90; lip case
+  R$ 15,90; lápis de olho R$ 59,90; máscara de cílios Sport R$ 79,90; corretivo FPS 40 R$ 79,90; blush All in One FPS 30
+  R$ 89,90; sombra cremosa R$ 89,90; iluminador multifuncional FPS 90 R$ 129,90; Pink Stick FPS 90 R$ 129,90; Kit Ameixa
+  + Lip Case R$ 65,80; Kit Dupla Blush R$ 179,80; Kit Pronta em 2 Passos R$ 209,80; Kit Casal que Treina Junto
+  R$ 279,80; Kit Make Completa R$ 379,60.
+- Itens com "100% off" são brindes de campanha: fora do texto. Alguns tons indisponíveis na leitura.
+- Troca (dossiê): desistência em 7 dias, defeito em 30, pelo portal pinkcheeks.troque.app.br. Frete grátis na entrega
+  Normal a partir de R$ 199.
+- FPS e FPUVA só como o rótulo diz; nada de "protege" como resultado nosso.
+
+## L'Amazonie: fora da NT10
+
+- O catálogo (dossiê, 16/11) é de dermocosméticos com promessa de resultado (sérum de cílios com garantia de fios,
+  sérum clareador, FPS 99). Para presente de avó o texto teria de falar de efeito. Saiu da NT10; entra a Dolce Gusto
+  (leituras de máquina em [[maquina-dolce-gusto-presente-de-natal-leituras-2411]]).
