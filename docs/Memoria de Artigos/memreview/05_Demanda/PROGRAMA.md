@@ -72,11 +72,14 @@ rodada usa as mesmas etapas, arquivos e ids do programa, acrescentando seis chec
    aberta como `para que serve` e `funciona`, produto a produto com colisões fonéticas de marca como
    `Denavita ↔ Sanavita`, e duelos com `ou`); no **Google Trends**, nunca usar cortes numéricos absolutos — para
    comparar mais de cinco produtos ou concorrentes, repetir **um termo-âncora fixo** em todos os grupos, na mesma janela
-   e região, lendo razões entre marcas apenas dentro da mesma consulta.
-3. **Nossos dados (Etapa 4):** comparar no Search Console consultas com e sem marca sobre o **mesmo conjunto de URLs,
-   país e período** (`&query=*marca`, nunca `*marca*`, contra `&page=*marca` e `&page=*produto-ancora` sem filtro de
-   consulta, registrando consultas omitidas; 28 dias de contexto e duas semanas fechadas para medir mudança); confrontar
-   o **último rastreamento** (`Last Crawl`) com o `updatedAt` no Google Search Console e no **Bing Webmaster Tools**
+   e região, lendo séries diárias sempre como **índice diário** (nunca volume de buscas) e razões entre marcas apenas
+   dentro da mesma consulta.
+3. **Nossos dados (Etapa 4):** para medir buscas com e sem marca no Search Console, acrescentar o filtro de consulta
+   (`&query=*marca`, nunca `*marca*`) **sobre o mesmo conjunto de páginas, país e período** (`&page=*marca` com e sem o
+   filtro de consulta, registrando as consultas omitidas pelo relatório; um filtro de consulta no site inteiro contra um
+   filtro de página não isola a mesma base para calcular parcela sem marca). Usar 28 dias para contexto e duas semanas
+   fechadas para medir mudança; confrontar o **último rastreamento** (`Last Crawl`) com o `updatedAt` no Google Search
+   Console e no **Bing Webmaster Tools**
    (incluindo *AI Performance* quando disponível), levando apenas mudanças já publicadas à fila de deploy e `IndexNow`.
 4. **Trava de maturidade nas melhorias de snippet:** não reescrever `seoTitle` nem `metaDescription` de páginas com
    menos de **30 dias de dados** (e observar a nota de 60 dias na seção 4 para reescrita de foco), salvo erro de fato,
@@ -203,8 +206,8 @@ rodada usa as mesmas etapas, arquivos e ids do programa, acrescentando seis chec
 **Portão regulatório e editorial (eliminatório, antes de classificar prioridade):** em suplementos, alimentos, cosméticos
 e público infantil, barrar ou reescrever o recorte antes da matriz quando esbarrar em alegação não permitida pela Anvisa,
 promessa terapêutica ou de emagrecimento para buscas `"funciona?"` (responder só pelo rótulo e pela regularização),
-restrição etária (1 a 3 anos sempre com orientação do pediatra; fórmula infantil de 0 a 12 meses vedada pelo Decreto
-9.579/2018) ou citação de número de estoque.
+restrição etária (1 a 3 anos sempre com orientação do pediatra; a promoção comercial das fórmulas para lactentes
+abrangidas pelo art. 5º do Decreto nº 9.579/2018 é vedada) ou citação de número de estoque.
 
 A prioridade combina: relevância comercial, pergunta real, potencial de busca, evidência própria, o que o conteúdo
 acrescenta, esforço e urgência documentada. A justificativa vai escrita com os dados disponíveis (`alta`, `media`,
