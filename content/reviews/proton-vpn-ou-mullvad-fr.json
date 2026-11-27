@@ -1,0 +1,218 @@
+{
+  "id": 1518,
+  "slug": "proton-vpn-ou-mullvad-fr",
+  "locale": "fr",
+  "translationKey": "proton-vpn-ou-mullvad",
+  "title": "Proton VPN ou Mullvad : tarif fixe de 5 € par mois ou réduction selon la durée",
+  "seoTitle": "Proton VPN ou Mullvad : prix, confidentialité et fonctions",
+  "type": "Guide comparatif",
+  "category": "guias-praticos-utilidade",
+  "reviewKind": "guia",
+  "author": {
+    "name": "Cecília Mauad",
+    "slug": "cecilia-mauad",
+    "role": "Em Casa com Cecília",
+    "initials": "CM",
+    "url": "/sobre"
+  },
+  "description": "Coût de chacun pour 1 mois, 2 ans et au renouvellement, en dollars, et ce qui les distingue : offre gratuite, appareils, redirection de port, compte sans e-mail, remboursement.",
+  "metaDescription": "Proton VPN ou Mullvad ? Comparez le tarif fixe de 5 € aux offres de Proton, appareils, redirection de port, offre gratuite et remboursement.",
+  "publishedAt": "27 novembre 2026",
+  "publishedAtISO": "2026-11-27",
+  "updatedAt": "2026-11-27",
+  "draft": false,
+  "isNew": true,
+  "hideFromPortugueseListings": true,
+  "image": "/images/reviews/proton/proton-vpn-ou-mullvad-hero-fr.webp",
+  "imageAlt": "Illustration officielle de Proton VPN : un écran violet avec une liste de contrôle et un cadenas à côté. La couverture demande « Proton VPN ou Mullvad ? ».",
+  "imageFit": "contain",
+  "imageAspect": "landscape",
+  "contentSections": [
+    {
+      "heading": "Réponse rapide",
+      "paragraphs": [
+        "Pour payer mois par mois ou ouvrir un compte sans e-mail, Mullvad a l'avantage. Pour utiliser gratuitement, connecter jusqu'à 10 appareils, avoir la redirection de port ou payer moins les deux premières années, Proton VPN est plus intéressant. Au renouvellement annuel, le tarif fixe de Mullvad redevient moins cher : le tableau montre les trois durées."
+      ]
+    },
+    {
+      "heading": "Deux modèles de prix : tarif fixe ou réduction selon la durée",
+      "paragraphs": [
+        "Mullvad annonce un seul tarif : 5 € par mois, que ce soit pour 1 mois, 1 an ou plus, sans formule longue à prix réduit. Mullvad affirme maintenir 5 € depuis 2009, et sa page affiche l'équivalent de 5,47 $US. Proton fait l'inverse : le mensuel est le plus cher (9,99 $US), et la réduction grandit avec la durée, payée d'un seul coup, avant un renouvellement à un prix plus élevé.",
+        "Proton affiche ses prix en dollars. Mullvad facture en euros, TVA incluse, et sa page montre un équivalent en dollars : c'est le chiffre que nous utilisons pour les comparer côte à côte. Les prix de Proton sont ceux de la campagne Black Friday ; celui de 2 ans est celui de la page des partenaires, à laquelle mène notre lien. Le calcul de Mullvad sur 12 et 24 mois est le nôtre : nombre de mois multiplié par 5,47 $US."
+      ],
+      "comparisonTable": {
+        "caption": "Mullvad et Proton VPN Plus en dollars. Proton est en campagne Black Friday ; l'offre de 2 ans est celle de la page des partenaires. Les montants en dollars de Mullvad sont la conversion affichée sur sa page. Vérifiez la devise et le total au paiement.",
+        "headers": [
+          "Durée",
+          "Mullvad",
+          "Proton VPN Plus",
+          "Coûte moins"
+        ],
+        "rows": [
+          [
+            "1 mois",
+            "5,47 $US",
+            "9,99 $US",
+            "Mullvad"
+          ],
+          [
+            "12 mois",
+            "65,64 $US",
+            "35,88 $US la 1re année",
+            "Proton VPN, la 1re année"
+          ],
+          [
+            "24 mois",
+            "131,28 $US",
+            "59,76 $US pour 2 ans (partenaires)",
+            "Proton VPN"
+          ],
+          [
+            "Renouvellement, 12 mois",
+            "65,64 $US",
+            "83,88 $US par an",
+            "Mullvad"
+          ]
+        ]
+      },
+      "postParagraphs": [
+        "Il y a deux retournements. Sur un mois seul, Mullvad coûte presque deux fois moins. Sur le premier cycle, le calcul s'inverse : les 24 mois de Proton coûtent moins de la moitié des 24 mois de Mullvad. Au renouvellement, il s'inverse de nouveau : 83,88 $US par an chez Proton contre 65,64 $US chez Mullvad.",
+        "Le prix de Proton est un prix de campagne. La réduction se calcule sur le mensuel, et chaque renouvellement est facturé au prix en vigueur à la date. Mullvad facture en euros (5 € par mois, TVA incluse) : le chiffre en dollars n'est que la conversion de sa page, et ce qui arrive sur votre carte dépend du taux de change et des frais éventuels de votre banque.",
+        "Sur la page publique des offres de Proton, le plan de 1 an revient moins cher par mois (2,99 $US) que celui de 2 ans (3,49 $US). C'est l'offre des partenaires qui rend les 2 ans les moins chers (2,49 $US par mois)."
+      ],
+      "image": "/images/reviews/proton/proton-vpn-ou-mullvad-precos-usd.webp",
+      "imageAlt": "Page des tarifs de Proton en anglais et en dollars, avec le plan mensuel VPN Plus : 9,99 $ par mois, facturés pour le premier mois, puis renouvelés à 9,99 $ chaque mois, sans réduction.",
+      "imageCaption": "Page des tarifs de Proton en dollars, 27/11/2026.",
+      "imageFit": "contain",
+      "links": [
+        {
+          "label": "Voir VPN Plus 2 ans",
+          "href": "https://go.getproton.me/SH39K",
+          "sponsored": true
+        }
+      ]
+    },
+    {
+      "heading": "Compte, paiement et siège",
+      "paragraphs": [
+        "Mullvad ouvre le compte sans e-mail : elle génère un numéro aléatoire et, selon elle, ne demande aucune donnée personnelle. Proton demande un e-mail, et le même compte ouvre les offres gratuites de ses autres services, comme Mail. Nous utilisons Proton Mail en offre gratuite depuis près de dix ans.",
+        "Proton est une entreprise dont le siège est en Suisse. Mullvad indique être Mullvad VPN AB, basée en Suède. Chacune déclare une politique de non-conservation des journaux d'activité, des applications open source et des audits externes indépendants. Pour Proton, la politique est auditée chaque année par Securitum, avec un rapport public, comme nous le décrivons dans [Proton VPN est-il fiable ?](/fr/reviews/proton-vpn-est-il-fiable). Ce sont des déclarations des entreprises.",
+        "Les moyens de paiement diffèrent plus que le prix affiché ne le laisse penser ; la liste est ci-dessous."
+      ],
+      "accordionBlock": {
+        "heading": "Moyens de paiement de chacune",
+        "paragraphs": [
+          "**Proton :** cartes Visa, Mastercard et American Express, et PayPal. Le Bitcoin ne fonctionne qu'en achetant des crédits Proton après avoir créé le compte.",
+          "**Mullvad :** carte bancaire, PayPal, virement bancaire, Bitcoin, Bitcoin Cash, Monero, espèces envoyées sous enveloppe avec un jeton et moyens régionaux européens, comme Swish, iDEAL et Bancontact. Pour le Bitcoin, le Bitcoin Cash et le Monero, Mullvad accorde 10 % de réduction."
+        ]
+      }
+    },
+    {
+      "heading": "Les fonctions qui les séparent au quotidien",
+      "paragraphs": [
+        "L'offre gratuite, les 10 appareils et la redirection de port (ouvrir un port pour les connexions entrantes, utilisée par les programmes de torrent) n'existent que chez Proton VPN ; le compte sans e-mail, que chez Mullvad. Le tableau reprend ce que chaque entreprise publie sur ses pages de tarifs et de fonctions. La vitesse et le déblocage de services sont laissés de côté."
+      ],
+      "comparisonTable": {
+        "caption": "Proton VPN et Mullvad d'après les pages de chaque entreprise.",
+        "headers": [
+          "Fonction",
+          "Proton VPN",
+          "Mullvad"
+        ],
+        "rows": [
+          [
+            "Offre gratuite",
+            "Oui : 1 appareil, 10 pays, sans carte",
+            "Aucune"
+          ],
+          [
+            "Appareils en même temps",
+            "1 en gratuit, 10 avec Plus",
+            "5 par compte"
+          ],
+          [
+            "Redirection de port",
+            "Oui, avec les offres payantes, sous Windows, macOS et Linux",
+            "Non"
+          ],
+          [
+            "Pays",
+            "Plus de 140 avec Plus",
+            "50 pays et 91 villes (572 serveurs, d'après sa page des serveurs)"
+          ],
+          [
+            "Compte",
+            "Avec e-mail",
+            "Numéro aléatoire, sans e-mail"
+          ],
+          [
+            "Remboursement",
+            "30 jours après l'achat initial",
+            "14 jours avec certains moyens de paiement ; pas de remboursement en espèces ni en crypto"
+          ]
+        ]
+      },
+      "postParagraphs": [
+        "Le nombre de serveurs et de pays ne mesure pas la qualité : il sert à savoir si le pays dont vous avez besoin figure dans la liste. Proton parle de plus de 20 000 serveurs avec Plus. Le remboursement de Proton a des conditions dans ses conditions d'utilisation, décrites dans [comment résilier Proton VPN et demander un remboursement](/fr/reviews/proton-vpn-remboursement-resilier)."
+      ]
+    },
+    {
+      "heading": "Qui choisit quoi",
+      "paragraphs": [
+        "Ce qui décide, c'est la durée pendant laquelle vous comptez rester. Mois par mois, Mullvad, sans renouvellement à surveiller. Pour deux ans, Proton, grâce à l'offre des partenaires. Ensuite, mieux vaut refaire le calcul le jour du renouvellement.",
+        "Si votre usage demande plus de 5 appareils, la redirection de port ou l'offre gratuite, la liste des fonctions tranche déjà pour Proton. Si la priorité est un compte sans e-mail et un paiement en Monero, c'est Mullvad. Si vous hésitez encore sur l'offre gratuite, le guide [Proton VPN vaut-il le coup ?](/fr/reviews/proton-vpn-vaut-il-le-coup) montre ce qu'elle couvre. Pour comparer avec un autre VPN, il y a [Proton VPN ou NordVPN](/fr/reviews/proton-vpn-ou-nordvpn-comparatif). Les règles de notre lien sont sur la [page de Proton sur notre site](/fr/coupons/proton)."
+      ],
+      "emphasis": "C'est la durée qui décide : 1 mois, 2 ans ou pour toujours. Sur un mois seul et au renouvellement, Mullvad coûte moins. Pendant les deux premières années, Proton coûte moins.",
+      "links": [
+        {
+          "label": "Voir Proton VPN",
+          "href": "https://go.getproton.me/SH39K",
+          "sponsored": true
+        }
+      ]
+    },
+    {
+      "heading": "Questions fréquentes",
+      "bullets": [
+        "Mullvad propose-t-elle une réduction Black Friday ou sur le plan annuel ? Non. Mullvad indique maintenir 5 € par mois quelle que soit la durée, sans formule longue à prix réduit. La seule réduction publiée est celle de 10 % pour un paiement en Bitcoin, Bitcoin Cash ou Monero.",
+        "Proton VPN ou Mullvad : lequel a la redirection de port ? Seul Proton VPN : le centre d'aide de Proton indique qu'elle est incluse dans toutes les offres payantes, dans les applications Windows, macOS et Linux, et Mullvad répond qu'elle ne la prend pas en charge. L'offre gratuite de Proton n'a pas cette fonction.",
+        "En quelle devise Mullvad facture-t-elle et comment payer ? En euros : 5 € par mois, TVA incluse, sans grille de prix en dollars. Votre banque peut appliquer son propre taux de change ou des frais. Les moyens de paiement sont listés plus haut.",
+        "Lequel a le délai de remboursement le plus long ? Proton : 30 jours après l'achat initial, une fois par utilisateur et selon les conditions des termes. Mullvad accorde 14 jours avec certains moyens de paiement, comme la carte et PayPal. Un paiement en espèces ou en crypto n'est pas remboursé, et un achat via l'App Store ou par voucher suit les règles du vendeur."
+      ]
+    }
+  ],
+  "pros": [],
+  "cons": [],
+  "cta": {
+    "text": "Pour deux ans de VPN Plus, notre lien ouvre la page des partenaires de Proton, avec l'offre de 2 ans payée d'un seul coup et un renouvellement annuel au prix standard. Vérifiez la devise et le total avant de vous abonner.",
+    "label": "Voir Proton VPN",
+    "url": "https://go.getproton.me/SH39K",
+    "sponsored": true
+  },
+  "affiliate": "proton",
+  "editorialNote": "Rédigé à partir des pages de tarifs et de fonctions de Proton et de Mullvad, sans test pratique des deux VPN. Le lien est un lien d'affiliation et peut générer une commission.",
+  "relatedArticles": [
+    {
+      "slug": "proton-vpn-vaut-il-le-coup"
+    },
+    {
+      "slug": "proton-vpn-est-il-fiable"
+    },
+    {
+      "slug": "proton-vpn-remboursement-resilier"
+    },
+    {
+      "slug": "black-friday-proton-offres"
+    }
+  ],
+  "decision": {
+    "takeIf": [
+      "vous voulez une offre gratuite, 10 appareils, la redirection de port ou le prix le plus bas sur les deux premières années.",
+      "cela ne vous gêne pas de payer toute la période d'un coup et vous vérifierez le prix du renouvellement."
+    ],
+    "skipIf": [
+      "vous allez payer mois par mois ou voulez un compte sans e-mail, avec paiement en Monero.",
+      "vous voulez un tarif qui ne bouge pas au renouvellement : à partir de la troisième année, l'annuel de Mullvad est le moins cher."
+    ]
+  }
+}

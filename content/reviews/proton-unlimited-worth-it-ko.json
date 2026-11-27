@@ -1,0 +1,312 @@
+{
+  "id": 1501,
+  "slug": "proton-unlimited-worth-it-ko",
+  "locale": "ko",
+  "translationKey": "proton-unlimited-vale-a-pena",
+  "title": "Proton Unlimited 가치가 있을까요? 500GB에 담긴 것과 단독 플랜 대비 계산",
+  "seoTitle": "Proton Unlimited 가치가 있을까요? 포함 내용과 실제 가격",
+  "type": "구매 가이드",
+  "category": "guias-praticos-utilidade",
+  "reviewKind": "guia",
+  "author": {
+    "name": "Cecília Mauad",
+    "slug": "cecilia-mauad",
+    "role": "Em Casa com Cecília",
+    "initials": "CM",
+    "url": "/sobre"
+  },
+  "description": "Proton Unlimited에 포함된 것, 한 계정에서 유료 이메일과 VPN을 함께 쓰는 길인 이유, 첫해가 지난 뒤 갱신 시 패키지 가격을 정리했습니다.",
+  "metaDescription": "Proton Unlimited 가치가 있을까요? 포함 내용, Plus 두 개를 한 계정에 못 묶는 이유, 갱신 가격을 정리했습니다.",
+  "publishedAt": "2026년 11월 27일",
+  "publishedAtISO": "2026-11-27",
+  "updatedAt": "2026-11-27",
+  "draft": false,
+  "isNew": true,
+  "hideFromPortugueseListings": true,
+  "image": "/images/reviews/proton/proton-unlimited-vale-a-pena-hero-ko.webp",
+  "imageAlt": "Proton 공식 홈페이지의 앱 아이콘 격자(이메일, VPN, 클라우드 스토리지, 비밀번호 관리자). 표지에는 “Proton Unlimited는 가치가 있을까요?”라고 적혀 있습니다.",
+  "imageFit": "contain",
+  "imageAspect": "landscape",
+  "contentSections": [
+    {
+      "heading": "빠른 답",
+      "paragraphs": [
+        "네, 한 계정에서 유료 이메일과 VPN을 함께 쓰거나 Proton 서비스를 셋 이상 쓰려면 쓸 만합니다. Proton은 Plus 플랜 두 개를 한 계정에 묶지 못하게 하므로 길은 Unlimited뿐입니다. VPN만, 이메일만, 또는 VPN과 비밀번호만 필요하면 더 싼 플랜이 있습니다. 갱신가는 첫해보다 꽤 높습니다."
+      ]
+    },
+    {
+      "heading": "Proton Unlimited에 들어 있는 것",
+      "paragraphs": [
+        "Unlimited는 Proton의 이메일, VPN, 클라우드, 비밀번호 관리자를 한 계정으로 묶은 플랜입니다. 플랜 페이지에는 저장공간 500GB, 주소 15개, 개인 도메인 3개, 무제한 별칭, 그리고 VPN·Pass·Drive의 유료 버전이 올라 있습니다.",
+        "Proton에 따르면 무료 계정에는 Mail, Calendar, Drive, VPN의 핵심 기능이 있고, 이메일은 주소 1개와 1GB이며 무료 Drive는 5GB입니다. 아래 표는 이메일 한도가 가장 비슷한 단독 플랜인 Mail Plus와 Unlimited를 나란히 놓았습니다."
+      ],
+      "comparisonTable": {
+        "caption": "Proton 플랜 페이지의 Mail Plus와 Unlimited.",
+        "headers": [
+          "기능",
+          "Mail Plus",
+          "Unlimited"
+        ],
+        "rows": [
+          [
+            "저장공간",
+            "15 GB",
+            "500 GB"
+          ],
+          [
+            "이메일 주소",
+            "10",
+            "15"
+          ],
+          [
+            "개인 도메인",
+            "1",
+            "3"
+          ],
+          [
+            "이메일 별칭",
+            "10 (hide-my-email)",
+            "무제한"
+          ],
+          [
+            "VPN Plus",
+            "포함되지 않음",
+            "포함"
+          ],
+          [
+            "Pass Plus와 Drive Plus",
+            "포함되지 않음",
+            "포함"
+          ],
+          [
+            "Emergency Access와 Dark Web Monitoring",
+            "포함",
+            "포함"
+          ],
+          [
+            "Proton Sentinel",
+            "포함되지 않음",
+            "포함"
+          ]
+        ]
+      },
+      "accordionBlock": {
+        "heading": "Unlimited 안에서 서비스별로 들어 있는 것",
+        "paragraphs": [
+          "Mail: 위 표의 주소 15개, 개인 도메인 3개, 무제한 별칭에 더해 비교표의 Emergency Access와 Dark Web Monitoring.",
+          "VPN Plus: Proton이 설명하는 대로 최대 10대 동시 연결, 140개국 이상의 서버, NetShield(광고·추적기·악성코드 필터), P2P. VPN Plus가 하는 일과 못 하는 일은 [Proton VPN, 쓸 만할까요?](/ko/reviews/proton-vpn-worth-it-ko)에 있습니다.",
+          "Pass Plus: 플랜 페이지 설명대로 기기와 별칭 무제한.",
+          "Drive: 단독 Drive Plus는 200GB이고, Unlimited에서는 계정의 500GB가 그 공간입니다.",
+          "Proton Sentinel: 비교표에는 무료 플랜과 Mail Plus에는 없고 Unlimited에만 표시되어 있습니다."
+        ]
+      },
+      "postParagraphs": [
+        "저희 사용 경험은 크지 않습니다. Proton Mail을 무료 플랜으로 거의 10년째 쓰고 있습니다."
+      ]
+    },
+    {
+      "heading": "계산: Plus 하나, VPN·Pass 패키지, 아니면 Unlimited",
+      "paragraphs": [
+        "계산에 앞서 규칙부터. Proton은 한 계정에 Plus 플랜 두 개를 두지 못하게 합니다. Proton VPN 고객센터는 VPN Plus와 Mail Plus를 예로 들며, 여러 서비스의 유료 기능을 원하면 Unlimited를 안내합니다. 한 계정에서는 Plus 하나, 특가 페이지의 VPN x Pass Plus 패키지, Unlimited 중에서 고르게 됩니다.",
+        "아래 가격은 Proton 페이지의 미국 달러 가격으로, 첫해 블랙프라이데이 가격과 옆에 갱신 금액을 함께 적었습니다. 각 플랜은 기간 전체를 한 번에 결제하며, 할인은 월 가격을 기준으로 계산됩니다."
+      ],
+      "comparisonTable": {
+        "caption": "2026년 11월 27일 블랙프라이데이 가격과 갱신 금액. 단독 플랜 합계는 저희 계산이며 계정을 따로 만들어야 합니다.",
+        "headers": [
+          "가입하는 것",
+          "첫 기간",
+          "갱신(12개월)"
+        ],
+        "rows": [
+          [
+            "Pass Plus만(1년)",
+            "$23.88",
+            "$35.88"
+          ],
+          [
+            "Mail Plus만 또는 Drive Plus만(1년)",
+            "$29.88",
+            "$47.88"
+          ],
+          [
+            "VPN Plus만(1년)",
+            "$35.88",
+            "$83.88"
+          ],
+          [
+            "VPN x Pass Plus 패키지(24개월, 특가 페이지)",
+            "24개월에 $119.76",
+            "$107.88"
+          ],
+          [
+            "VPN Plus + Mail Plus, 계정 분리",
+            "$65.76",
+            "$131.76"
+          ],
+          [
+            "Mail Plus + Drive Plus + Pass Plus, 계정 분리",
+            "$83.64",
+            "$131.64"
+          ],
+          [
+            "단독 플랜 4개 모두, 계정 분리",
+            "$119.52",
+            "$215.52"
+          ],
+          [
+            "Proton Unlimited(1년)",
+            "$77.88",
+            "$119.88"
+          ]
+        ]
+      },
+      "postParagraphs": [
+        "서비스 하나만 쓰면 첫해에도 갱신 때도 Unlimited보다 항상 쌉니다. VPN과 비밀번호는 Proton이 VPN x Pass Plus 패키지를 팔며, 특가 페이지에서 연 $107.88로 갱신되어 Unlimited의 갱신가보다 낮습니다. 24개월로 보면 패키지는 $119.76, 2년 Unlimited는 $191.76입니다. 유료 이메일을 VPN과 함께 쓰려면 같은 계정의 개인 플랜은 Unlimited입니다.",
+        "서비스 둘을 계정을 나눠 쓰면 VPN Plus와 Mail Plus는 첫해에는 Unlimited보다 싸고 갱신 때는 더 비쌉니다. 단독 서비스 둘, 셋, 넷의 줄은 저희가 더한 합계이며 로그인이 따로인 별도 계정일 때만 가능합니다. 그래도 세 번째 서비스부터는 두 기간 모두 합계가 Unlimited를 넘습니다. 넷을 합치면 첫해에 $41.64, 갱신 때 $95.64가 더 듭니다.",
+        "VPN만 원한다면 길이 다릅니다. 파트너 링크로는 2년 VPN Plus가 처음 24개월에 $59.76으로 나오고 12개월마다 $83.88로 갱신됩니다. 전체 계산은 [Proton VPN, 쓸 만할까요?](/ko/reviews/proton-vpn-worth-it-ko)에 있습니다."
+      ],
+      "links": [
+        {
+          "label": "Proton 플랜 보기",
+          "href": "https://go.getproton.me/SH39K",
+          "sponsored": true
+        }
+      ]
+    },
+    {
+      "heading": "1개월, 1년, 2년 주기",
+      "paragraphs": [
+        "월 결제는 시작할 때 부담이 가장 적고, 1년 플랜은 월 환산 가격이 가장 낮습니다. 2년 플랜이 1년 플랜을 앞서는 것은 총 $6.00뿐입니다.",
+        "Unlimited는 가격 페이지에 세 가지 주기가 있습니다. 모두 선결제이며, 크게 보이는 값(“월”)은 총액을 나눈 것일 뿐입니다."
+      ],
+      "comparisonTable": {
+        "caption": "주기별 Proton Unlimited, 미국 달러 기준. 결제 화면에서 통화와 총액을 확인하세요.",
+        "headers": [
+          "주기",
+          "월 환산",
+          "한 번에 결제",
+          "이후 갱신"
+        ],
+        "rows": [
+          [
+            "1개월",
+            "$12.99",
+            "$12.99",
+            "매월 $12.99"
+          ],
+          [
+            "1년",
+            "$6.49",
+            "$77.88",
+            "12개월마다 $119.88"
+          ],
+          [
+            "2년",
+            "$7.99",
+            "$191.76",
+            "12개월마다 $119.88"
+          ]
+        ]
+      },
+      "postParagraphs": [
+        "월 결제로 12개월을 연달아 내면 $155.88입니다. 한 번에 결제하는 1년은 $77.88이지만 갱신가는 $42.00 올라 $119.88이 됩니다. 2년 플랜은 $191.76이고, 1년에 갱신 한 번을 더하면 $197.76이라 $6.00이 더 듭니다. 2년 플랜은 돈이 더 오래 묶입니다.",
+        "Proton 사이트에 따르면 갱신은 자동입니다. 구매한 날 결제일을 적어 두세요. VPN을 먼저 써 보려면 Proton VPN 가격 페이지에 Unlimited가 첫 달 $1.00, 이후 월 $12.99로 갱신된다고 나와 있습니다."
+      ],
+      "image": {
+        "src": "/images/reviews/proton/proton-unlimited-vale-a-pena-precos-usd.webp",
+        "alt": "미국 달러 기준 영어 Proton 가격 페이지. Unlimited 카드에 정가 $12.99에 취소선, 월 $6.49, 50% OFF, 첫 12개월 $77.88 결제 후 12개월마다 $119.88로 갱신된다고 적혀 있습니다.",
+        "caption": "달러 기준 Proton 가격 페이지, 2026년 11월 27일."
+      }
+    },
+    {
+      "heading": "Proton Unlimited, Duo, Family, 그리고 평생 계정",
+      "paragraphs": [
+        "한 사람과 더 나눠 쓴다면 갱신 시 1인당 비용은 Duo가 Unlimited보다 쌉니다.",
+        "Duo와 Family는 가족용 플랜 페이지에 있습니다. Duo는 최대 2명, 2TB이며 월 $14.99, 12개월마다 $179.88이 결제됩니다. Family는 함께 사는 최대 6명, 3TB이며 월 $23.99, 12개월마다 $287.88입니다.",
+        "Unlimited는 사용자 1명의 개인 계정입니다. Duo는 한 사람과 패키지를 나눌 때 의미가 있습니다. 1인당 연 $89.94로, 갱신 때 Unlimited의 $119.88보다 낮고 첫해 $77.88보다는 높습니다(저희 계산). Duo와 Family에서 각 서비스가 무엇을 제공하는지는 Unlimited와 비교하지 않았고 가격과 공간만 보았습니다. 바꾸기 전에 페이지에서 확인하세요.",
+        "Proton은 Unlimited 평생 플랜을 팔지 않습니다. 평생 계정을 다룬 블로그 글에서 회사는 이 계정을 구매할 수 없고 연말 자선 추첨으로만 나온다고 밝힙니다. 판매 중인 것은 Pass와 SimpleLogin만 포함하는 Proton Pass + SimpleLogin Lifetime($199)이며 Unlimited가 아닙니다."
+      ]
+    },
+    {
+      "heading": "아쉬운 점",
+      "bullets": [
+        "**갱신가가 훨씬 높습니다.** Unlimited의 두 번째 해는 첫해보다 절반가량 더 비쌉니다. 금액은 주기 표에 있습니다.",
+        "**선결제입니다.** 1년 또는 2년치가 한 번에 빠져나가고 갱신은 자동입니다.",
+        "**결제 수단이 제한적입니다.** Proton은 Visa, Mastercard, American Express, PayPal을 안내하며, 현금 크레딧·계좌 이체·Bitcoin은 계정을 만든 뒤에만 가능합니다.",
+        "**해지는 다운그레이드입니다.** 새 플랜의 한도를 넘는 것은 삭제해야 합니다. 자세한 내용은 자주 묻는 질문에 있습니다.",
+        "**환불은 최초 구매에 한하며** 30일 이내입니다. 방법은 [Proton VPN 해지와 환불 요청 방법](/ko/reviews/proton-vpn-refund-ko)에 있습니다.",
+        "**iPhone에서는 추가 요금이 붙을 수 있습니다.** Proton은 iOS로 구독하면 더 비쌀 수 있다고 알립니다. 웹사이트에서 구독하세요."
+      ]
+    },
+    {
+      "heading": "나에게 맞는 선택은",
+      "paragraphs": [
+        "실제로 쓰는 유료 서비스가 몇 개인지가 기준입니다."
+      ],
+      "bullets": [
+        "**이메일만 쓰고 무료로 충분하다면:** 무료로 두세요. 저희가 그렇습니다.",
+        "**VPN만 원한다면:** 단독 VPN Plus가 두 기간 모두 Unlimited보다 쌉니다. 계산은 [Proton VPN, 쓸 만할까요?](/ko/reviews/proton-vpn-worth-it-ko)에 있습니다. NordVPN과 비교 중이라면 [Proton VPN과 NordVPN](/ko/reviews/proton-vpn-vs-nordvpn-ko)을 보세요.",
+        "**VPN과 비밀번호를 원한다면:** 갱신가가 Unlimited보다 낮은 VPN x Pass Plus 패키지를 비교하세요.",
+        "**유료 이메일과 VPN을 원한다면:** 한 계정에서는 Unlimited입니다.",
+        "**서비스 셋이나 넷, 또는 주소 15개와 도메인 3개를 원한다면:** Unlimited는 모두를 한 계정에 묶고 단독 플랜의 합계보다 쌉니다.",
+        "**한 사람과 나눠 쓰고 싶다면:** Duo를 보세요.",
+        "**오늘의 최저가를 원한다면:** 블랙프라이데이가 플랜에 반영되어 있습니다. [Proton 블랙프라이데이 가이드](/ko/reviews/proton-black-friday-ko)를 보세요."
+      ],
+      "emphasis": "한 계정에서 Proton은 Plus 플랜 두 개를 묶지 못하게 합니다. 유료 이메일과 VPN을 원하면 Unlimited, 서비스 하나만 원하면 그 서비스의 Plus가 두 기간 모두 더 쌉니다.",
+      "postParagraphs": [
+        "입력할 쿠폰이나 코드는 없습니다. 버튼은 저희 제휴 링크로 Proton 플랜 페이지를 엽니다. 링크 규칙은 [저희 사이트의 Proton 페이지](/ko/coupons/proton)에 있습니다."
+      ],
+      "links": [
+        {
+          "label": "Proton Unlimited 연간 제안 보기",
+          "href": "https://go.getproton.me/SH39K",
+          "sponsored": true
+        }
+      ]
+    },
+    {
+      "heading": "자주 묻는 질문",
+      "bullets": [
+        "VPN Plus와 Mail Plus를 한 계정에서 구독할 수 있나요? 아니요. Proton은 한 계정에 Plus 플랜 두 개를 둘 수 없다고 합니다. 둘 다 유료로 쓰려면 최대 10대 기기의 유료 VPN을 포함한 Unlimited가 길입니다.",
+        "Proton Unlimited 할인 쿠폰이 있나요? 쿠폰은 없습니다. 할인은 월 가격 기준으로 계산되어 플랜 가격에 바로 반영되고, 갱신 금액이 옆에 함께 표시됩니다.",
+        "Proton Unlimited 평생 플랜이 있나요? Proton은 팔지 않는다고 합니다. 평생 계정은 연말 자선 추첨으로만 나오고, 판매 중인 Lifetime은 Pass와 SimpleLogin 전용입니다.",
+        "해지하면 파일은 어떻게 되나요? Proton FAQ에 따르면 해지는 대시보드에서 다운그레이드하는 것입니다. 접속은 유지되지만 새 플랜 한도를 넘는 것은 삭제해야 하며, 한도가 가득 차면 계정은 이메일을 받지도 파일을 올리지도 못합니다.",
+        "30일 환불은 어떻게 되나요? 약관상 최초 구매에 한해 사용자당 한 번이고, 요청과 해지 모두 기간 안에 해야 합니다. 요청은 지원 양식으로 하며 Proton과 직접 한 구독에만 해당합니다."
+      ]
+    }
+  ],
+  "pros": [],
+  "cons": [],
+  "cta": {
+    "text": "저희 링크로 가입하면 Unlimited 연간 플랜은 첫해 $77.88이고, 이후 12개월마다 $119.88로 갱신됩니다. 선결제이고 갱신은 자동이니, 결제 화면에서 통화와 총액을 확인하세요.",
+    "label": "Proton Unlimited 연간 제안 보기",
+    "url": "https://go.getproton.me/SH39K",
+    "sponsored": true
+  },
+  "affiliate": "proton",
+  "editorialNote": "Proton의 플랜 페이지와 약관을 바탕으로 작성했으며, 유료 플랜을 직접 써 보고 검증한 것은 아닙니다. 무료 Proton Mail은 거의 10년째 쓰고 있습니다. 이 링크는 제휴 링크이며 수수료를 받을 수 있습니다.",
+  "relatedArticles": [
+    {
+      "slug": "proton-vpn-worth-it-ko"
+    },
+    {
+      "slug": "proton-black-friday-ko"
+    },
+    {
+      "slug": "proton-vpn-refund-ko"
+    },
+    {
+      "slug": "proton-vpn-trust-ko"
+    }
+  ],
+  "decision": {
+    "takeIf": [
+      "한 계정에서 유료 이메일과 유료 VPN을 함께 쓰고 싶다. 개인 플랜 중에서는 Unlimited만 둘을 묶는다.",
+      "Proton 유료 서비스를 셋이나 넷 쓰거나 쓸 예정이거나, 여러 주소와 개인 도메인이 필요하다."
+    ],
+    "skipIf": [
+      "VPN만, 또는 VPN과 비밀번호만 필요하다. VPN Plus와 VPN x Pass Plus 패키지가 더 싸다.",
+      "무료 Mail 플랜으로 충분하거나 갱신 금액이 예산에 맞지 않는다."
+    ]
+  }
+}

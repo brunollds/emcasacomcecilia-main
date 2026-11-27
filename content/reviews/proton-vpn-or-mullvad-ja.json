@@ -1,0 +1,218 @@
+{
+  "id": 1522,
+  "slug": "proton-vpn-or-mullvad-ja",
+  "locale": "ja",
+  "translationKey": "proton-vpn-ou-mullvad",
+  "title": "Proton VPNかMullvadか：月5ユーロの固定料金か、期間別の割引か",
+  "seoTitle": "Proton VPNとMullvadを比較：料金、プライバシー、機能",
+  "type": "比較ガイド",
+  "category": "guias-praticos-utilidade",
+  "reviewKind": "guia",
+  "author": {
+    "name": "Cecília Mauad",
+    "slug": "cecilia-mauad",
+    "role": "Em Casa com Cecília",
+    "initials": "CM",
+    "url": "/sobre"
+  },
+  "description": "1か月、2年、更新時の料金をドルで比較し、無料プラン、端末数、ポートフォワーディング、メール不要のアカウント、返金の違いをまとめました。",
+  "metaDescription": "Proton VPNとMullvadを比較。月5ユーロの固定料金とProtonのプラン、端末数、ポートフォワーディング、無料プラン、返金。",
+  "publishedAt": "2026年11月27日",
+  "publishedAtISO": "2026-11-27",
+  "updatedAt": "2026-11-27",
+  "draft": false,
+  "isNew": true,
+  "hideFromPortugueseListings": true,
+  "image": "/images/reviews/proton/proton-vpn-ou-mullvad-hero-ja.webp",
+  "imageAlt": "Proton VPN公式のイラスト。チェックリストが表示された紫のモニターと、横の鍵のアイコン。表紙には「Proton VPN か Mullvadか？」とあります。",
+  "imageFit": "contain",
+  "imageAspect": "landscape",
+  "contentSections": [
+    {
+      "heading": "結論",
+      "paragraphs": [
+        "月ごとの支払いやメール不要のアカウントならMullvadが有利です。無料で使いたい、最大10台を接続したい、ポートフォワーディングが必要、最初の2年を安く使いたいならProton VPNが向いています。更新時はMullvadの固定料金が再び安くなり、表に3つの期間を載せています。"
+      ]
+    },
+    {
+      "heading": "2つの料金モデル：固定料金か、期間別の割引か",
+      "paragraphs": [
+        "Mullvadは料金を1つだけ示しています。1か月でも1年でもそれ以上でも月5ユーロで、長期割引のプランはありません。Mullvadは2009年から5ユーロを維持していると述べ、自社ページに$5.47相当と表示しています。Protonは逆で、月払いが最も高く（$9.99）、期間が長いほど割引が大きくなり、一括で支払った後、より高い金額で更新されます。",
+        "Protonは価格をドルで公開しています。Mullvadは付加価値税込みのユーロで請求し、ページにドル換算額を表示しているため、並べて比べるときはその金額を使います。Protonの価格はブラックフライデーのキャンペーン価格で、2年の価格は当サイトのリンクが開くパートナー向けページのものです。Mullvadの12か月と24か月の合計は当サイトの計算で、月数に$5.47を掛けています。"
+      ],
+      "comparisonTable": {
+        "caption": "MullvadとProton VPN Plusのドル価格。Protonはブラックフライデーのキャンペーン中で、2年プランはパートナー向けページの価格です。Mullvadのドル額は同社ページに表示された換算額です。通貨と合計額は決済画面で確認してください。",
+        "headers": [
+          "期間",
+          "Mullvad",
+          "Proton VPN Plus",
+          "安いのは"
+        ],
+        "rows": [
+          [
+            "1か月",
+            "$5.47",
+            "$9.99",
+            "Mullvad"
+          ],
+          [
+            "12か月",
+            "$65.64",
+            "1年目は$35.88",
+            "Proton VPN（1年目）"
+          ],
+          [
+            "24か月",
+            "$131.28",
+            "2年で$59.76（パートナー）",
+            "Proton VPN"
+          ],
+          [
+            "更新、12か月",
+            "$65.64",
+            "年$83.88",
+            "Mullvad"
+          ]
+        ]
+      },
+      "postParagraphs": [
+        "逆転は2回あります。1か月だけならMullvadはほぼ半額です。最初の期間では逆転し、Protonの24か月はMullvadの24か月の半分以下です。更新時にまた逆転し、Protonは年$83.88、Mullvadは$65.64です。",
+        "Protonの価格はキャンペーン価格です。割引は月額を基準に計算され、更新のたびにその時点の価格で請求されます。Mullvadはユーロで請求するため（月5ユーロ、付加価値税込み）、ドルの金額は同社ページの換算額にすぎません。カードに実際に請求される額は、為替レートとカード会社の手数料によって変わります。",
+        "Protonの公開特価ページでは、1年プランのほうが月あたりでは2年プラン（$3.49）より安くなっています（$2.99）。2年を最も安くするのはパートナー向けの特典です（月$2.49）。"
+      ],
+      "image": "/images/reviews/proton/proton-vpn-ou-mullvad-precos-usd.webp",
+      "imageAlt": "英語とドルで表示されたProtonの料金ページ。VPN Plusの月額プランは月$9.99で、最初の1か月に$9.99が請求され、その後も毎月$9.99で更新されます。割引はありません。",
+      "imageCaption": "ドルで表示されたProtonの料金ページ、2026年11月27日。",
+      "imageFit": "contain",
+      "links": [
+        {
+          "label": "2年のVPN Plusを見る",
+          "href": "https://go.getproton.me/SH39K",
+          "sponsored": true
+        }
+      ]
+    },
+    {
+      "heading": "アカウント、支払い、本社",
+      "paragraphs": [
+        "Mullvadはメールなしでアカウントを作成します。ランダムな番号を発行し、同社によれば個人情報は求めません。Protonはメールアドレスを求め、同じアカウントでMailなど他サービスの無料プランも使えます。当サイトはProton Mailの無料プランを10年近く使っています。",
+        "Protonはスイスに本社を置く企業です。Mullvadはスウェーデンに本社を置くMullvad VPN ABだと述べています。どちらも通信記録を保存しない方針、オープンソースのアプリ、独立した外部監査を掲げています。Protonは方針をSecuritumが毎年監査し、報告書を公開しており、[Proton VPNは信頼できる？](/ja/reviews/proton-vpn-trust-ja)で説明しています。これらは各社の主張です。",
+        "支払い手段の違いは、表示価格から想像するより大きくなります。一覧は下にあります。"
+      ],
+      "accordionBlock": {
+        "heading": "それぞれの支払い手段",
+        "paragraphs": [
+          "**Proton：**Visa、Mastercard、American Expressのカードと、PayPal。ビットコインは、アカウント作成後にProtonのクレジットを購入する形でのみ使えます。",
+          "**Mullvad：**クレジットカード、PayPal、銀行振込、ビットコイン、ビットコインキャッシュ、モネロ、トークン付きの封筒で送る現金、Swish、iDEAL、Bancontactなどヨーロッパ各地の支払い手段。ビットコイン、ビットコインキャッシュ、モネロでは10%割引されます。"
+        ]
+      }
+    },
+    {
+      "heading": "日常の使い方で二つを分ける機能",
+      "paragraphs": [
+        "無料プラン、10台の接続、ポートフォワーディング（外からの接続のためにポートを開く機能で、torrentソフトで使われます）はProton VPNにだけあり、メール不要のアカウントはMullvadにだけあります。表は各社が料金ページと機能ページで公開している内容です。速度や各種サービスの制限回避は扱いません。"
+      ],
+      "comparisonTable": {
+        "caption": "各社のページに基づくProton VPNとMullvad。",
+        "headers": [
+          "機能",
+          "Proton VPN",
+          "Mullvad"
+        ],
+        "rows": [
+          [
+            "無料プラン",
+            "あり：1台、10か国、カード不要",
+            "なし"
+          ],
+          [
+            "同時接続",
+            "無料は1台、Plusは10台",
+            "1アカウントにつき5台"
+          ],
+          [
+            "ポートフォワーディング",
+            "あり（有料プラン、Windows、macOS、Linux）",
+            "なし"
+          ],
+          [
+            "対応国",
+            "Plusで140か国以上",
+            "50か国、91都市（サーバーページでは572台）"
+          ],
+          [
+            "アカウント",
+            "メールが必要",
+            "ランダムな番号、メール不要"
+          ],
+          [
+            "返金",
+            "初回購入から30日",
+            "一部の支払い方法で14日。現金払いと暗号資産払いは返金なし"
+          ]
+        ]
+      },
+      "postParagraphs": [
+        "サーバー数や国数は品質を測るものではなく、必要な国が一覧にあるかを確かめるためのものです。PlusではProtonが2万台以上のサーバーを挙げています。Protonの返金には利用規約上の条件があり、[Proton VPNの解約と返金の申請方法](/ja/reviews/proton-vpn-refund-ja)で説明しています。"
+      ]
+    },
+    {
+      "heading": "誰がどちらを選ぶか",
+      "paragraphs": [
+        "決め手は、どのくらい使い続けるかです。月ごとならMullvadで、更新を気にする必要がありません。2年ならパートナー向け特典のあるProtonです。その後は、更新日にもう一度計算し直すのがよいでしょう。",
+        "5台を超える端末、ポートフォワーディング、無料プランが必要なら、機能一覧だけでProtonに決まります。メール不要のアカウントとモネロでの支払いを優先するならMullvadです。無料プランで迷っているなら、[Proton VPNは有料にする価値がある？](/ja/reviews/proton-vpn-worth-it-ja)で何ができるかが分かります。ほかのVPNと比べるなら、[Proton VPNかNordVPNか](/ja/reviews/proton-vpn-vs-nordvpn-ja)もあります。当サイトのリンクのルールは[当サイトのProtonのページ](/ja/coupons/proton)にあります。"
+      ],
+      "emphasis": "決め手は期間です。1か月か、2年か、ずっとか。1か月だけの場合と更新時はMullvadが安く、最初の2年はProtonが安くなります。",
+      "links": [
+        {
+          "label": "Proton VPNを見る",
+          "href": "https://go.getproton.me/SH39K",
+          "sponsored": true
+        }
+      ]
+    },
+    {
+      "heading": "よくある質問",
+      "bullets": [
+        "Mullvadにブラックフライデーや年間プランの割引はありますか？ ありません。Mullvadは期間にかかわらず月5ユーロを維持し、長期割引のプランはないと述べています。公開されている割引は、ビットコイン、ビットコインキャッシュ、モネロで支払う場合の10%だけです。",
+        "Proton VPNとMullvadで、ポートフォワーディングがあるのはどちらですか？ Proton VPNだけです。Protonのヘルプセンターによると、すべての有料プランのWindows、macOS、Linuxアプリで使え、Mullvadは非対応と回答しています。Protonの無料プランにはこの機能はありません。",
+        "Mullvadは何の通貨で請求し、どう支払いますか？ ユーロで月5ユーロ、付加価値税込みで、ドルの料金表はありません。カード会社が独自の為替レートや手数料を適用する場合があります。支払い手段は上に一覧があります。",
+        "返金期間が長いのはどちらですか？ Protonです。初回購入から30日で、1ユーザーにつき1回、規約の条件に従います。MullvadはカードやPayPalなど一部の支払い方法で14日です。現金払いと暗号資産払いは返金なしで、App Storeやバウチャー経由の購入は販売元のルールに従います。"
+      ]
+    }
+  ],
+  "pros": [],
+  "cons": [],
+  "cta": {
+    "text": "VPN Plusを2年使うなら、当サイトのリンクからProtonのパートナー向けページを開けます。2年プランは一括払いで、その後は標準価格で毎年更新されます。申し込む前に通貨と合計額を確認してください。",
+    "label": "Proton VPNを見る",
+    "url": "https://go.getproton.me/SH39K",
+    "sponsored": true
+  },
+  "affiliate": "proton",
+  "editorialNote": "ProtonとMullvadの料金ページと機能ページをもとに作成しました。2つのVPNを実際に使った検証はしていません。このリンクはアフィリエイトリンクで、紹介料を受け取る場合があります。",
+  "relatedArticles": [
+    {
+      "slug": "proton-vpn-worth-it-ja"
+    },
+    {
+      "slug": "proton-vpn-trust-ja"
+    },
+    {
+      "slug": "proton-vpn-refund-ja"
+    },
+    {
+      "slug": "proton-black-friday-ja"
+    }
+  ],
+  "decision": {
+    "takeIf": [
+      "無料プラン、10台、ポートフォワーディング、または最初の2年の最安値がほしい。",
+      "期間分を一括で払ってもよく、更新時の金額を確認するつもりがある。"
+    ],
+    "skipIf": [
+      "月ごとに支払う、またはメール不要のアカウントをモネロで払いたい。",
+      "更新しても変わらない料金がほしい。3年目からはMullvadの年額が最も安くなります。"
+    ]
+  }
+}

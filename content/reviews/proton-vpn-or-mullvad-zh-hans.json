@@ -1,0 +1,218 @@
+{
+  "id": 1524,
+  "slug": "proton-vpn-or-mullvad-zh-hans",
+  "locale": "zh-hans",
+  "translationKey": "proton-vpn-ou-mullvad",
+  "title": "Proton VPN 还是 Mullvad：每月 5 欧元 固定费率，或按期限折扣",
+  "seoTitle": "Proton VPN 与 Mullvad 对比：价格、隐私与功能",
+  "type": "对比指南",
+  "category": "guias-praticos-utilidade",
+  "reviewKind": "guia",
+  "author": {
+    "name": "Cecília Mauad",
+    "slug": "cecilia-mauad",
+    "role": "Em Casa com Cecília",
+    "initials": "CM",
+    "url": "/sobre"
+  },
+  "description": "比较两者 1 个月、2 年和续订时的价格（以美元计），并梳理差异：免费套餐、设备数、端口转发、无需邮箱的账户和退款。",
+  "metaDescription": "Proton VPN 还是 Mullvad？比较 Mullvad 每月 5 欧元 固定费率与 Proton 的套餐、设备、端口转发、免费套餐和退款。",
+  "publishedAt": "2026年11月27日",
+  "publishedAtISO": "2026-11-27",
+  "updatedAt": "2026-11-27",
+  "draft": false,
+  "isNew": true,
+  "hideFromPortugueseListings": true,
+  "image": "/images/reviews/proton/proton-vpn-ou-mullvad-hero-zh-hans.webp",
+  "imageAlt": "Proton VPN 官方插图：一台紫色显示器，上面有清单，旁边是一把锁。封面提问“Proton VPN 还是 Mullvad？”。",
+  "imageFit": "contain",
+  "imageAspect": "landscape",
+  "contentSections": [
+    {
+      "heading": "快速回答",
+      "paragraphs": [
+        "想按月付费，或想开无需邮箱的账户，Mullvad 更有利。想免费使用、同时连接最多 10 台设备、需要端口转发，或想在前两年付得更少，Proton VPN 更划算。续订时 Mullvad 的固定费率又会更便宜，表格列出了三种期限。"
+      ]
+    },
+    {
+      "heading": "两种定价模式：固定费率或按期限折扣",
+      "paragraphs": [
+        "Mullvad 只公布一种费率：每月 5 欧元，无论是 1 个月、1 年还是更久，都没有折扣的长期套餐。Mullvad 表示自 2009 年起一直保持 5 欧元，其页面显示的折合金额为 $5.47。Proton 正好相反：月付最贵（$9.99），期限越长折扣越大，一次付清，之后以更高的价格续订。",
+        "Proton 以美元公布价格。Mullvad 以欧元计费（含增值税），并在页面上显示美元折合金额，所以并排比较时我们采用这个数字。Proton 的价格是黑色星期五的活动价；2 年的价格是合作伙伴页面的价格，也就是我们的链接打开的页面。Mullvad 12 个月和 24 个月的金额是我们自己算的：月数乘以 $5.47。"
+      ],
+      "comparisonTable": {
+        "caption": "Mullvad 与 Proton VPN Plus 的美元价格。Proton 正在进行黑色星期五活动；2 年套餐是合作伙伴页面的价格。Mullvad 的美元金额是其页面显示的换算结果。请在结账时确认币种和总额。",
+        "headers": [
+          "期限",
+          "Mullvad",
+          "Proton VPN Plus",
+          "更便宜"
+        ],
+        "rows": [
+          [
+            "1 个月",
+            "$5.47",
+            "$9.99",
+            "Mullvad"
+          ],
+          [
+            "12 个月",
+            "$65.64",
+            "第 1 年 $35.88",
+            "Proton VPN（第 1 年）"
+          ],
+          [
+            "24 个月",
+            "$131.28",
+            "2 年 $59.76（合作伙伴）",
+            "Proton VPN"
+          ],
+          [
+            "续订，12 个月",
+            "$65.64",
+            "每年 $83.88",
+            "Mullvad"
+          ]
+        ]
+      },
+      "postParagraphs": [
+        "有两次反转。只买一个月时，Mullvad 便宜将近一半。第一个周期反过来，Proton 的 24 个月不到 Mullvad 24 个月的一半。续订时又反过来：Proton 每年 $83.88，Mullvad 是 $65.64。",
+        "Proton 的价格是活动价。折扣是以月费为基准计算的，每次续订按当天的现行价格收费。Mullvad 以欧元计费（每月 5 欧元，含增值税），所以美元金额只是其页面的换算结果：实际从您的卡上扣多少，取决于汇率和发卡银行的手续费。",
+        "在 Proton 的公开优惠页面上，1 年套餐的每月价格（$2.99）比 2 年套餐（$3.49）低。是合作伙伴优惠让 2 年套餐最便宜（每月 $2.49）。"
+      ],
+      "image": "/images/reviews/proton/proton-vpn-ou-mullvad-precos-usd.webp",
+      "imageAlt": "Proton 的英文美元价格页面，显示 VPN Plus 月付套餐：每月 $9.99，首月收取 $9.99，之后每月以 $9.99 续订，没有折扣。",
+      "imageCaption": "Proton 的美元价格页面，2026年11月27日。",
+      "imageFit": "contain",
+      "links": [
+        {
+          "label": "查看 2 年 VPN Plus",
+          "href": "https://go.getproton.me/SH39K",
+          "sponsored": true
+        }
+      ]
+    },
+    {
+      "heading": "账户、付款与公司所在地",
+      "paragraphs": [
+        "Mullvad 开户不需要邮箱：它会生成一组随机号码，并表示不要求任何个人信息。Proton 需要邮箱，同一个账户也能开通它其他服务的免费套餐，例如 Mail。我们使用 Proton Mail 免费套餐已将近十年。",
+        "Proton 是一家总部设在瑞士的公司。Mullvad 表示自己是总部位于瑞典的 Mullvad VPN AB。两家都宣称不保存活动日志、应用开源，并接受独立的外部审计。Proton 的政策每年由 Securitum 审计并公开报告，我们在《[Proton VPN 可靠吗？](/zh-hans/reviews/proton-vpn-trust-zh-hans)》中有说明。这些都是公司自己的声明。",
+        "付款方式的差异比标价显示的更大，清单如下。"
+      ],
+      "accordionBlock": {
+        "heading": "两家的付款方式",
+        "paragraphs": [
+          "**Proton：**Visa、Mastercard、American Express 信用卡和 PayPal。比特币只能在创建账户后购买 Proton 点数时使用。",
+          "**Mullvad：**信用卡、PayPal、银行转账、比特币、比特币现金、门罗币、附代码以信封寄送的现金，以及 Swish、iDEAL、Bancontact 等欧洲地区付款方式。使用比特币、比特币现金和门罗币付款，Mullvad 提供 10% 折扣。"
+        ]
+      }
+    },
+    {
+      "heading": "日常使用中区分两者的功能",
+      "paragraphs": [
+        "免费套餐、10 台设备和端口转发（为传入连接开放端口，BT 下载程序会用到）只有 Proton VPN 有；无需邮箱的账户只有 Mullvad 有。表格列出两家公司在价格页和功能页上公布的内容，速度和解锁服务的能力不在比较范围内。"
+      ],
+      "comparisonTable": {
+        "caption": "依两家公司各自页面整理的 Proton VPN 与 Mullvad。",
+        "headers": [
+          "功能",
+          "Proton VPN",
+          "Mullvad"
+        ],
+        "rows": [
+          [
+            "免费套餐",
+            "有：1 台设备、10 个国家，无需银行卡",
+            "没有"
+          ],
+          [
+            "同时连接设备",
+            "免费 1 台，Plus 10 台",
+            "每个账户 5 台"
+          ],
+          [
+            "端口转发",
+            "有，付费套餐，支持 Windows、macOS 和 Linux",
+            "没有"
+          ],
+          [
+            "国家",
+            "Plus 提供 140 多个国家",
+            "50 个国家、91 个城市（服务器页面显示 572 台服务器）"
+          ],
+          [
+            "账户",
+            "需要邮箱",
+            "随机号码，无需邮箱"
+          ],
+          [
+            "退款",
+            "首次购买后 30 天",
+            "部分支付方式 14 天；现金和加密货币付款不退款"
+          ]
+        ]
+      },
+      "postParagraphs": [
+        "服务器和国家数量不代表质量，只能用来确认您需要的国家在不在清单上。Proton 表示 Plus 有 2 万多台服务器。Proton 的退款在条款中有条件，我们在《[如何取消 Proton VPN 并申请退款](/zh-hans/reviews/proton-vpn-refund-zh-hans)》中有说明。"
+      ]
+    },
+    {
+      "heading": "谁该选哪一个",
+      "paragraphs": [
+        "关键在于您打算用多久。按月付费选 Mullvad，不用盯着续订；用两年选 Proton，靠合作伙伴优惠。之后最好在续订当天重新算一次。",
+        "如果您需要超过 5 台设备、端口转发或免费套餐，光看功能清单就已经指向 Proton。如果您最看重无需邮箱的账户，以及用门罗币付款，就选 Mullvad。如果对免费套餐还有疑虑，《[Proton VPN 值得买吗？](/zh-hans/reviews/proton-vpn-worth-it-zh-hans)》会说明它涵盖哪些功能。如果要比较其他 VPN，可以看《[Proton VPN 还是 NordVPN](/zh-hans/reviews/proton-vpn-vs-nordvpn-zh-hans)》。我们链接的规则见[本站的 Proton 页面](/zh-hans/coupons/proton)。"
+      ],
+      "emphasis": "期限决定一切：1 个月、2 年，还是长期使用。只买一个月和续订时，Mullvad 花费更少；前两年，Proton 花费更少。",
+      "links": [
+        {
+          "label": "查看 Proton VPN",
+          "href": "https://go.getproton.me/SH39K",
+          "sponsored": true
+        }
+      ]
+    },
+    {
+      "heading": "常见问题",
+      "bullets": [
+        "Mullvad 有黑色星期五或年付折扣吗？没有。Mullvad 表示不论期限都保持每月 5 欧元，没有折扣的长期套餐。公布的唯一折扣是用比特币、比特币现金或门罗币付款时的 10%。",
+        "Proton VPN 和 Mullvad 哪个有端口转发？只有 Proton VPN：Proton 的帮助中心表示，所有付费套餐的 Windows、macOS 和 Linux 应用都有，而 Mullvad 回复说不支持。Proton 的免费套餐没有这项功能。",
+        "Mullvad 用什么币种收费，怎么付款？以欧元计费，每月 5 欧元，含增值税，没有美元价格表。发卡银行可能套用自己的汇率或手续费。付款方式列在上方。",
+        "哪一家的退款期限更长？Proton：首次购买后 30 天，每位用户一次，并按条款所列条件。Mullvad 对信用卡、PayPal 等部分支付方式提供 14 天。现金和加密货币付款不退款，通过 App Store 或代金券购买则按销售方的规则。"
+      ]
+    }
+  ],
+  "pros": [],
+  "cons": [],
+  "cta": {
+    "text": "想用两年 VPN Plus，我们的链接会打开 Proton 的合作伙伴页面，2 年套餐一次付清，之后以标准价格每年续订。订阅前请确认币种和总额。",
+    "label": "查看 Proton VPN",
+    "url": "https://go.getproton.me/SH39K",
+    "sponsored": true
+  },
+  "affiliate": "proton",
+  "editorialNote": "依据 Proton 和 Mullvad 的价格页与功能页撰写，没有实际测试这两款 VPN。这个链接是联盟链接，可能为我们带来佣金。",
+  "relatedArticles": [
+    {
+      "slug": "proton-vpn-worth-it-zh-hans"
+    },
+    {
+      "slug": "proton-vpn-trust-zh-hans"
+    },
+    {
+      "slug": "proton-vpn-refund-zh-hans"
+    },
+    {
+      "slug": "proton-black-friday-zh-hans"
+    }
+  ],
+  "decision": {
+    "takeIf": [
+      "您想要免费套餐、10 台设备、端口转发，或前两年的最低价格。",
+      "您不介意一次付清整段期限，并且会确认续订价格。"
+    ],
+    "skipIf": [
+      "您会按月付费，或想用门罗币付款并开无需邮箱的账户。",
+      "您想要续订时不变动的费率：从第三年起，Mullvad 的年费最低。"
+    ]
+  }
+}

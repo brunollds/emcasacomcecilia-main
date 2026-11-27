@@ -165908,6 +165908,739 @@
       "verification_status": "verified"
     },
     {
+      "source_path": "public/images/reviews/proton/proton-unlimited-vale-a-pena-hero-ar.webp",
+      "local_url": "/images/reviews/proton/proton-unlimited-vale-a-pena-hero-ar.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 25634,
+      "sha256": "20b93be4efd0fba5eccc95faceb48796d1948a6a668e84ed04788b0ef435a933",
+      "width": 1600,
+      "height": 900,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "proton-unlimited-vale-a-pena-hero-ar.webp",
+      "storage_filename": "proton-unlimited-vale-a-pena-hero-ar.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/proton-unlimited-worth-it-ar.json",
+        "src/lib/generated/content-index.ts"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/proton-unlimited-worth-it-ar.json",
+          "line": 26,
+          "column": 13,
+          "literal": "/images/reviews/proton/proton-unlimited-vale-a-pena-hero-ar.webp",
+          "authority": "source"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 361526,
+          "column": 15,
+          "literal": "/images/reviews/proton/proton-unlimited-vale-a-pena-hero-ar.webp",
+          "authority": "generated"
+        }
+      ],
+      "remote_key": "v1/image/20b93be4efd0fba5eccc95faceb48796d1948a6a668e84ed04788b0ef435a933/proton-unlimited-vale-a-pena-hero-ar.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/20b93be4efd0fba5eccc95faceb48796d1948a6a668e84ed04788b0ef435a933/proton-unlimited-vale-a-pena-hero-ar.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-11-27T22:30:06.959Z",
+      "verification_etag_or_digest": "20b93be4efd0fba5eccc95faceb48796d1948a6a668e84ed04788b0ef435a933",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/proton/proton-unlimited-vale-a-pena-hero-de.webp",
+      "local_url": "/images/reviews/proton/proton-unlimited-vale-a-pena-hero-de.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 25772,
+      "sha256": "4508b272c7d462d14ac71dda61068b8e95cdc4e421c981ead8b5d3519ecbe3f1",
+      "width": 1600,
+      "height": 900,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "proton-unlimited-vale-a-pena-hero-de.webp",
+      "storage_filename": "proton-unlimited-vale-a-pena-hero-de.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/lohnt-sich-proton-unlimited.json",
+        "src/lib/generated/content-index.ts"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/lohnt-sich-proton-unlimited.json",
+          "line": 26,
+          "column": 13,
+          "literal": "/images/reviews/proton/proton-unlimited-vale-a-pena-hero-de.webp",
+          "authority": "source"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 359654,
+          "column": 15,
+          "literal": "/images/reviews/proton/proton-unlimited-vale-a-pena-hero-de.webp",
+          "authority": "generated"
+        }
+      ],
+      "remote_key": "v1/image/4508b272c7d462d14ac71dda61068b8e95cdc4e421c981ead8b5d3519ecbe3f1/proton-unlimited-vale-a-pena-hero-de.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/4508b272c7d462d14ac71dda61068b8e95cdc4e421c981ead8b5d3519ecbe3f1/proton-unlimited-vale-a-pena-hero-de.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-11-27T22:30:06.960Z",
+      "verification_etag_or_digest": "4508b272c7d462d14ac71dda61068b8e95cdc4e421c981ead8b5d3519ecbe3f1",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/proton/proton-unlimited-vale-a-pena-hero-en.webp",
+      "local_url": "/images/reviews/proton/proton-unlimited-vale-a-pena-hero-en.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 24502,
+      "sha256": "de77f69346c765b0870ada2026df864b3f4cc5f44bed454458000bbc5dff9bfd",
+      "width": 1600,
+      "height": 900,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "proton-unlimited-vale-a-pena-hero-en.webp",
+      "storage_filename": "proton-unlimited-vale-a-pena-hero-en.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/is-proton-unlimited-worth-it.json",
+        "src/lib/generated/content-index.ts"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/is-proton-unlimited-worth-it.json",
+          "line": 26,
+          "column": 13,
+          "literal": "/images/reviews/proton/proton-unlimited-vale-a-pena-hero-en.webp",
+          "authority": "source"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 358718,
+          "column": 15,
+          "literal": "/images/reviews/proton/proton-unlimited-vale-a-pena-hero-en.webp",
+          "authority": "generated"
+        }
+      ],
+      "remote_key": "v1/image/de77f69346c765b0870ada2026df864b3f4cc5f44bed454458000bbc5dff9bfd/proton-unlimited-vale-a-pena-hero-en.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/de77f69346c765b0870ada2026df864b3f4cc5f44bed454458000bbc5dff9bfd/proton-unlimited-vale-a-pena-hero-en.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-11-27T22:30:06.960Z",
+      "verification_etag_or_digest": "de77f69346c765b0870ada2026df864b3f4cc5f44bed454458000bbc5dff9bfd",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/proton/proton-unlimited-vale-a-pena-hero-es.webp",
+      "local_url": "/images/reviews/proton/proton-unlimited-vale-a-pena-hero-es.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 27074,
+      "sha256": "a468306f134fa5c41804db7269ccc32f39c89dd27263dd3a89d97cc697ba2ee7",
+      "width": 1600,
+      "height": 900,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "proton-unlimited-vale-a-pena-hero-es.webp",
+      "storage_filename": "proton-unlimited-vale-a-pena-hero-es.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/proton-unlimited-vale-la-pena.json",
+        "src/lib/generated/content-index.ts"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/proton-unlimited-vale-la-pena.json",
+          "line": 26,
+          "column": 13,
+          "literal": "/images/reviews/proton/proton-unlimited-vale-a-pena-hero-es.webp",
+          "authority": "source"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 359030,
+          "column": 15,
+          "literal": "/images/reviews/proton/proton-unlimited-vale-a-pena-hero-es.webp",
+          "authority": "generated"
+        }
+      ],
+      "remote_key": "v1/image/a468306f134fa5c41804db7269ccc32f39c89dd27263dd3a89d97cc697ba2ee7/proton-unlimited-vale-a-pena-hero-es.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/a468306f134fa5c41804db7269ccc32f39c89dd27263dd3a89d97cc697ba2ee7/proton-unlimited-vale-a-pena-hero-es.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-11-27T22:30:06.960Z",
+      "verification_etag_or_digest": "a468306f134fa5c41804db7269ccc32f39c89dd27263dd3a89d97cc697ba2ee7",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/proton/proton-unlimited-vale-a-pena-hero-fr.webp",
+      "local_url": "/images/reviews/proton/proton-unlimited-vale-a-pena-hero-fr.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 26806,
+      "sha256": "5542602efcab008eb0e8427b4eb8e58b8300305abf8f61e45c9bbdb54a98457f",
+      "width": 1600,
+      "height": 900,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "proton-unlimited-vale-a-pena-hero-fr.webp",
+      "storage_filename": "proton-unlimited-vale-a-pena-hero-fr.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/proton-unlimited-vaut-il-le-coup.json",
+        "src/lib/generated/content-index.ts"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/proton-unlimited-vaut-il-le-coup.json",
+          "line": 26,
+          "column": 13,
+          "literal": "/images/reviews/proton/proton-unlimited-vale-a-pena-hero-fr.webp",
+          "authority": "source"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 359342,
+          "column": 15,
+          "literal": "/images/reviews/proton/proton-unlimited-vale-a-pena-hero-fr.webp",
+          "authority": "generated"
+        }
+      ],
+      "remote_key": "v1/image/5542602efcab008eb0e8427b4eb8e58b8300305abf8f61e45c9bbdb54a98457f/proton-unlimited-vale-a-pena-hero-fr.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/5542602efcab008eb0e8427b4eb8e58b8300305abf8f61e45c9bbdb54a98457f/proton-unlimited-vale-a-pena-hero-fr.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-11-27T22:30:06.960Z",
+      "verification_etag_or_digest": "5542602efcab008eb0e8427b4eb8e58b8300305abf8f61e45c9bbdb54a98457f",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/proton/proton-unlimited-vale-a-pena-hero-it.webp",
+      "local_url": "/images/reviews/proton/proton-unlimited-vale-a-pena-hero-it.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 25514,
+      "sha256": "ff634821f11f766dfacb3b43d05e4c640dfc1c79f93211eb936c9430dda29b12",
+      "width": 1600,
+      "height": 900,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "proton-unlimited-vale-a-pena-hero-it.webp",
+      "storage_filename": "proton-unlimited-vale-a-pena-hero-it.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/proton-unlimited-conviene.json",
+        "src/lib/generated/content-index.ts"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/proton-unlimited-conviene.json",
+          "line": 26,
+          "column": 13,
+          "literal": "/images/reviews/proton/proton-unlimited-vale-a-pena-hero-it.webp",
+          "authority": "source"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 359966,
+          "column": 15,
+          "literal": "/images/reviews/proton/proton-unlimited-vale-a-pena-hero-it.webp",
+          "authority": "generated"
+        }
+      ],
+      "remote_key": "v1/image/ff634821f11f766dfacb3b43d05e4c640dfc1c79f93211eb936c9430dda29b12/proton-unlimited-vale-a-pena-hero-it.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/ff634821f11f766dfacb3b43d05e4c640dfc1c79f93211eb936c9430dda29b12/proton-unlimited-vale-a-pena-hero-it.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-11-27T22:30:06.960Z",
+      "verification_etag_or_digest": "ff634821f11f766dfacb3b43d05e4c640dfc1c79f93211eb936c9430dda29b12",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/proton/proton-unlimited-vale-a-pena-hero-ja.webp",
+      "local_url": "/images/reviews/proton/proton-unlimited-vale-a-pena-hero-ja.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 27866,
+      "sha256": "1ca43aff3d4cd12a372884939626318565fb85d56667ff872adf872c7f065c14",
+      "width": 1600,
+      "height": 900,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "proton-unlimited-vale-a-pena-hero-ja.webp",
+      "storage_filename": "proton-unlimited-vale-a-pena-hero-ja.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/proton-unlimited-worth-it-ja.json",
+        "src/lib/generated/content-index.ts"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/proton-unlimited-worth-it-ja.json",
+          "line": 26,
+          "column": 13,
+          "literal": "/images/reviews/proton/proton-unlimited-vale-a-pena-hero-ja.webp",
+          "authority": "source"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 360590,
+          "column": 15,
+          "literal": "/images/reviews/proton/proton-unlimited-vale-a-pena-hero-ja.webp",
+          "authority": "generated"
+        }
+      ],
+      "remote_key": "v1/image/1ca43aff3d4cd12a372884939626318565fb85d56667ff872adf872c7f065c14/proton-unlimited-vale-a-pena-hero-ja.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/1ca43aff3d4cd12a372884939626318565fb85d56667ff872adf872c7f065c14/proton-unlimited-vale-a-pena-hero-ja.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-11-27T22:30:06.960Z",
+      "verification_etag_or_digest": "1ca43aff3d4cd12a372884939626318565fb85d56667ff872adf872c7f065c14",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/proton/proton-unlimited-vale-a-pena-hero-ko.webp",
+      "local_url": "/images/reviews/proton/proton-unlimited-vale-a-pena-hero-ko.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 28518,
+      "sha256": "c0b5ff306bd2e6f223dc7306ed4c33451a21fd22b8b61fe51ec0c61743283773",
+      "width": 1600,
+      "height": 900,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "proton-unlimited-vale-a-pena-hero-ko.webp",
+      "storage_filename": "proton-unlimited-vale-a-pena-hero-ko.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/proton-unlimited-worth-it-ko.json",
+        "src/lib/generated/content-index.ts"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/proton-unlimited-worth-it-ko.json",
+          "line": 26,
+          "column": 13,
+          "literal": "/images/reviews/proton/proton-unlimited-vale-a-pena-hero-ko.webp",
+          "authority": "source"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 360278,
+          "column": 15,
+          "literal": "/images/reviews/proton/proton-unlimited-vale-a-pena-hero-ko.webp",
+          "authority": "generated"
+        }
+      ],
+      "remote_key": "v1/image/c0b5ff306bd2e6f223dc7306ed4c33451a21fd22b8b61fe51ec0c61743283773/proton-unlimited-vale-a-pena-hero-ko.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/c0b5ff306bd2e6f223dc7306ed4c33451a21fd22b8b61fe51ec0c61743283773/proton-unlimited-vale-a-pena-hero-ko.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-11-27T22:30:06.960Z",
+      "verification_etag_or_digest": "c0b5ff306bd2e6f223dc7306ed4c33451a21fd22b8b61fe51ec0c61743283773",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/proton/proton-unlimited-vale-a-pena-hero-pt.webp",
+      "local_url": "/images/reviews/proton/proton-unlimited-vale-a-pena-hero-pt.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 26440,
+      "sha256": "b5222502d3934c6bba7ad2592dd687184c36023298366113a0537daa14d926a6",
+      "width": 1600,
+      "height": 900,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "proton-unlimited-vale-a-pena-hero-pt.webp",
+      "storage_filename": "proton-unlimited-vale-a-pena-hero-pt.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/proton-unlimited-vale-a-pena.json",
+        "src/lib/generated/content-index.ts"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/proton-unlimited-vale-a-pena.json",
+          "line": 25,
+          "column": 13,
+          "literal": "/images/reviews/proton/proton-unlimited-vale-a-pena-hero-pt.webp",
+          "authority": "source"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 358406,
+          "column": 15,
+          "literal": "/images/reviews/proton/proton-unlimited-vale-a-pena-hero-pt.webp",
+          "authority": "generated"
+        }
+      ],
+      "remote_key": "v1/image/b5222502d3934c6bba7ad2592dd687184c36023298366113a0537daa14d926a6/proton-unlimited-vale-a-pena-hero-pt.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/b5222502d3934c6bba7ad2592dd687184c36023298366113a0537daa14d926a6/proton-unlimited-vale-a-pena-hero-pt.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-11-27T22:30:06.960Z",
+      "verification_etag_or_digest": "b5222502d3934c6bba7ad2592dd687184c36023298366113a0537daa14d926a6",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/proton/proton-unlimited-vale-a-pena-hero-zh-hans.webp",
+      "local_url": "/images/reviews/proton/proton-unlimited-vale-a-pena-hero-zh-hans.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 26398,
+      "sha256": "eebbf880b64fb067b869d8eefc519a7211e557a76bb17c424d57b9548b1d8976",
+      "width": 1600,
+      "height": 900,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "proton-unlimited-vale-a-pena-hero-zh-hans.webp",
+      "storage_filename": "proton-unlimited-vale-a-pena-hero-zh-hans.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/proton-unlimited-worth-it-zh-hans.json",
+        "src/lib/generated/content-index.ts"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/proton-unlimited-worth-it-zh-hans.json",
+          "line": 26,
+          "column": 13,
+          "literal": "/images/reviews/proton/proton-unlimited-vale-a-pena-hero-zh-hans.webp",
+          "authority": "source"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 361214,
+          "column": 15,
+          "literal": "/images/reviews/proton/proton-unlimited-vale-a-pena-hero-zh-hans.webp",
+          "authority": "generated"
+        }
+      ],
+      "remote_key": "v1/image/eebbf880b64fb067b869d8eefc519a7211e557a76bb17c424d57b9548b1d8976/proton-unlimited-vale-a-pena-hero-zh-hans.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/eebbf880b64fb067b869d8eefc519a7211e557a76bb17c424d57b9548b1d8976/proton-unlimited-vale-a-pena-hero-zh-hans.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-11-27T22:30:06.960Z",
+      "verification_etag_or_digest": "eebbf880b64fb067b869d8eefc519a7211e557a76bb17c424d57b9548b1d8976",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/proton/proton-unlimited-vale-a-pena-hero-zh-hant.webp",
+      "local_url": "/images/reviews/proton/proton-unlimited-vale-a-pena-hero-zh-hant.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 26760,
+      "sha256": "b431f6232b3b40c903f5813906d295a31c3187085475fd09bf73c9468b766486",
+      "width": 1600,
+      "height": 900,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "proton-unlimited-vale-a-pena-hero-zh-hant.webp",
+      "storage_filename": "proton-unlimited-vale-a-pena-hero-zh-hant.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/proton-unlimited-worth-it-zh-hant.json",
+        "src/lib/generated/content-index.ts"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/proton-unlimited-worth-it-zh-hant.json",
+          "line": 26,
+          "column": 13,
+          "literal": "/images/reviews/proton/proton-unlimited-vale-a-pena-hero-zh-hant.webp",
+          "authority": "source"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 360902,
+          "column": 15,
+          "literal": "/images/reviews/proton/proton-unlimited-vale-a-pena-hero-zh-hant.webp",
+          "authority": "generated"
+        }
+      ],
+      "remote_key": "v1/image/b431f6232b3b40c903f5813906d295a31c3187085475fd09bf73c9468b766486/proton-unlimited-vale-a-pena-hero-zh-hant.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/b431f6232b3b40c903f5813906d295a31c3187085475fd09bf73c9468b766486/proton-unlimited-vale-a-pena-hero-zh-hant.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-11-27T22:30:06.960Z",
+      "verification_etag_or_digest": "b431f6232b3b40c903f5813906d295a31c3187085475fd09bf73c9468b766486",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/proton/proton-unlimited-vale-a-pena-precos-brl.webp",
+      "local_url": "/images/reviews/proton/proton-unlimited-vale-a-pena-precos-brl.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 36094,
+      "sha256": "b7c1a37b68d2a5c531f1306831b4379fb7216cd04bf9afa9cad79a5faeec41e8",
+      "width": 438,
+      "height": 744,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "proton-unlimited-vale-a-pena-precos-brl.webp",
+      "storage_filename": "proton-unlimited-vale-a-pena-precos-brl.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/proton-unlimited-vale-a-pena.json",
+        "src/lib/generated/content-index.ts"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/proton-unlimited-vale-a-pena.json",
+          "line": 168,
+          "column": 17,
+          "literal": "/images/reviews/proton/proton-unlimited-vale-a-pena-precos-brl.webp",
+          "authority": "source"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 358549,
+          "column": 19,
+          "literal": "/images/reviews/proton/proton-unlimited-vale-a-pena-precos-brl.webp",
+          "authority": "generated"
+        }
+      ],
+      "remote_key": "v1/image/b7c1a37b68d2a5c531f1306831b4379fb7216cd04bf9afa9cad79a5faeec41e8/proton-unlimited-vale-a-pena-precos-brl.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/b7c1a37b68d2a5c531f1306831b4379fb7216cd04bf9afa9cad79a5faeec41e8/proton-unlimited-vale-a-pena-precos-brl.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-11-27T22:30:06.960Z",
+      "verification_etag_or_digest": "b7c1a37b68d2a5c531f1306831b4379fb7216cd04bf9afa9cad79a5faeec41e8",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/proton/proton-unlimited-vale-a-pena-precos-usd.webp",
+      "local_url": "/images/reviews/proton/proton-unlimited-vale-a-pena-precos-usd.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 36454,
+      "sha256": "315b9e244541faee5b8791437651a3e33b5ed6f6da19164ae86329dcf792bc28",
+      "width": 438,
+      "height": 751,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "proton-unlimited-vale-a-pena-precos-usd.webp",
+      "storage_filename": "proton-unlimited-vale-a-pena-precos-usd.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/is-proton-unlimited-worth-it.json",
+        "content/reviews/lohnt-sich-proton-unlimited.json",
+        "content/reviews/proton-unlimited-conviene.json",
+        "content/reviews/proton-unlimited-vale-la-pena.json",
+        "content/reviews/proton-unlimited-vaut-il-le-coup.json",
+        "content/reviews/proton-unlimited-worth-it-ar.json",
+        "content/reviews/proton-unlimited-worth-it-ja.json",
+        "content/reviews/proton-unlimited-worth-it-ko.json",
+        "content/reviews/proton-unlimited-worth-it-zh-hans.json",
+        "content/reviews/proton-unlimited-worth-it-zh-hant.json",
+        "src/lib/generated/content-index.ts"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/is-proton-unlimited-worth-it.json",
+          "line": 216,
+          "column": 17,
+          "literal": "/images/reviews/proton/proton-unlimited-vale-a-pena-precos-usd.webp",
+          "authority": "source"
+        },
+        {
+          "file": "content/reviews/lohnt-sich-proton-unlimited.json",
+          "line": 216,
+          "column": 17,
+          "literal": "/images/reviews/proton/proton-unlimited-vale-a-pena-precos-usd.webp",
+          "authority": "source"
+        },
+        {
+          "file": "content/reviews/proton-unlimited-conviene.json",
+          "line": 216,
+          "column": 17,
+          "literal": "/images/reviews/proton/proton-unlimited-vale-a-pena-precos-usd.webp",
+          "authority": "source"
+        },
+        {
+          "file": "content/reviews/proton-unlimited-vale-la-pena.json",
+          "line": 216,
+          "column": 17,
+          "literal": "/images/reviews/proton/proton-unlimited-vale-a-pena-precos-usd.webp",
+          "authority": "source"
+        },
+        {
+          "file": "content/reviews/proton-unlimited-vaut-il-le-coup.json",
+          "line": 216,
+          "column": 17,
+          "literal": "/images/reviews/proton/proton-unlimited-vale-a-pena-precos-usd.webp",
+          "authority": "source"
+        },
+        {
+          "file": "content/reviews/proton-unlimited-worth-it-ar.json",
+          "line": 216,
+          "column": 17,
+          "literal": "/images/reviews/proton/proton-unlimited-vale-a-pena-precos-usd.webp",
+          "authority": "source"
+        },
+        {
+          "file": "content/reviews/proton-unlimited-worth-it-ja.json",
+          "line": 216,
+          "column": 17,
+          "literal": "/images/reviews/proton/proton-unlimited-vale-a-pena-precos-usd.webp",
+          "authority": "source"
+        },
+        {
+          "file": "content/reviews/proton-unlimited-worth-it-ko.json",
+          "line": 216,
+          "column": 17,
+          "literal": "/images/reviews/proton/proton-unlimited-vale-a-pena-precos-usd.webp",
+          "authority": "source"
+        },
+        {
+          "file": "content/reviews/proton-unlimited-worth-it-zh-hans.json",
+          "line": 216,
+          "column": 17,
+          "literal": "/images/reviews/proton/proton-unlimited-vale-a-pena-precos-usd.webp",
+          "authority": "source"
+        },
+        {
+          "file": "content/reviews/proton-unlimited-worth-it-zh-hant.json",
+          "line": 216,
+          "column": 17,
+          "literal": "/images/reviews/proton/proton-unlimited-vale-a-pena-precos-usd.webp",
+          "authority": "source"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 358908,
+          "column": 19,
+          "literal": "/images/reviews/proton/proton-unlimited-vale-a-pena-precos-usd.webp",
+          "authority": "generated"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 359220,
+          "column": 19,
+          "literal": "/images/reviews/proton/proton-unlimited-vale-a-pena-precos-usd.webp",
+          "authority": "generated"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 359532,
+          "column": 19,
+          "literal": "/images/reviews/proton/proton-unlimited-vale-a-pena-precos-usd.webp",
+          "authority": "generated"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 359844,
+          "column": 19,
+          "literal": "/images/reviews/proton/proton-unlimited-vale-a-pena-precos-usd.webp",
+          "authority": "generated"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 360156,
+          "column": 19,
+          "literal": "/images/reviews/proton/proton-unlimited-vale-a-pena-precos-usd.webp",
+          "authority": "generated"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 360468,
+          "column": 19,
+          "literal": "/images/reviews/proton/proton-unlimited-vale-a-pena-precos-usd.webp",
+          "authority": "generated"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 360780,
+          "column": 19,
+          "literal": "/images/reviews/proton/proton-unlimited-vale-a-pena-precos-usd.webp",
+          "authority": "generated"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 361092,
+          "column": 19,
+          "literal": "/images/reviews/proton/proton-unlimited-vale-a-pena-precos-usd.webp",
+          "authority": "generated"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 361404,
+          "column": 19,
+          "literal": "/images/reviews/proton/proton-unlimited-vale-a-pena-precos-usd.webp",
+          "authority": "generated"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 361716,
+          "column": 19,
+          "literal": "/images/reviews/proton/proton-unlimited-vale-a-pena-precos-usd.webp",
+          "authority": "generated"
+        }
+      ],
+      "remote_key": "v1/image/315b9e244541faee5b8791437651a3e33b5ed6f6da19164ae86329dcf792bc28/proton-unlimited-vale-a-pena-precos-usd.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/315b9e244541faee5b8791437651a3e33b5ed6f6da19164ae86329dcf792bc28/proton-unlimited-vale-a-pena-precos-usd.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-11-27T22:30:06.960Z",
+      "verification_etag_or_digest": "315b9e244541faee5b8791437651a3e33b5ed6f6da19164ae86329dcf792bc28",
+      "verification_status": "verified"
+    },
+    {
       "source_path": "public/images/reviews/proton/proton-vpn-e-confiavel-auditoria-securitum-2026.webp",
       "local_url": "/images/reviews/proton/proton-vpn-e-confiavel-auditoria-securitum-2026.webp",
       "media_kind": "image",
@@ -166873,6 +167606,1472 @@
       "uploaded_at": null,
       "verified_at": "2026-11-18T00:07:25.155Z",
       "verification_etag_or_digest": "bdf89c3b22147d05e5a8d41de99033d519e775ce064bde00c8c33ea61a1955a6",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/proton/proton-vpn-ou-mullvad-hero-ar.webp",
+      "local_url": "/images/reviews/proton/proton-vpn-ou-mullvad-hero-ar.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 29830,
+      "sha256": "770e8eaaeb2ff547d5fdfeecf68fd2466901eacd81063b79f29f5a3f633df837",
+      "width": 1600,
+      "height": 900,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "proton-vpn-ou-mullvad-hero-ar.webp",
+      "storage_filename": "proton-vpn-ou-mullvad-hero-ar.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/proton-vpn-or-mullvad-ar.json",
+        "src/lib/generated/content-index.ts"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/proton-vpn-or-mullvad-ar.json",
+          "line": 26,
+          "column": 13,
+          "literal": "/images/reviews/proton/proton-vpn-ou-mullvad-hero-ar.webp",
+          "authority": "source"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 366922,
+          "column": 15,
+          "literal": "/images/reviews/proton/proton-vpn-ou-mullvad-hero-ar.webp",
+          "authority": "generated"
+        }
+      ],
+      "remote_key": "v1/image/770e8eaaeb2ff547d5fdfeecf68fd2466901eacd81063b79f29f5a3f633df837/proton-vpn-ou-mullvad-hero-ar.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/770e8eaaeb2ff547d5fdfeecf68fd2466901eacd81063b79f29f5a3f633df837/proton-vpn-ou-mullvad-hero-ar.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-11-27T22:30:06.960Z",
+      "verification_etag_or_digest": "770e8eaaeb2ff547d5fdfeecf68fd2466901eacd81063b79f29f5a3f633df837",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/proton/proton-vpn-ou-mullvad-hero-de.webp",
+      "local_url": "/images/reviews/proton/proton-vpn-ou-mullvad-hero-de.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 29218,
+      "sha256": "e78a7e73b3d78bec8c13eee0024b016c0f18c0f97d682798df5a7b9836a6678a",
+      "width": 1600,
+      "height": 900,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "proton-vpn-ou-mullvad-hero-de.webp",
+      "storage_filename": "proton-vpn-ou-mullvad-hero-de.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/proton-vpn-oder-mullvad.json",
+        "src/lib/generated/content-index.ts"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/proton-vpn-oder-mullvad.json",
+          "line": 26,
+          "column": 13,
+          "literal": "/images/reviews/proton/proton-vpn-ou-mullvad-hero-de.webp",
+          "authority": "source"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 365614,
+          "column": 15,
+          "literal": "/images/reviews/proton/proton-vpn-ou-mullvad-hero-de.webp",
+          "authority": "generated"
+        }
+      ],
+      "remote_key": "v1/image/e78a7e73b3d78bec8c13eee0024b016c0f18c0f97d682798df5a7b9836a6678a/proton-vpn-ou-mullvad-hero-de.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/e78a7e73b3d78bec8c13eee0024b016c0f18c0f97d682798df5a7b9836a6678a/proton-vpn-ou-mullvad-hero-de.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-11-27T22:30:06.960Z",
+      "verification_etag_or_digest": "e78a7e73b3d78bec8c13eee0024b016c0f18c0f97d682798df5a7b9836a6678a",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/proton/proton-vpn-ou-mullvad-hero-en.webp",
+      "local_url": "/images/reviews/proton/proton-vpn-ou-mullvad-hero-en.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 31322,
+      "sha256": "fa7a3db0060333d440dea261ae6212141053e04ed89a5023c13d47f795d91af5",
+      "width": 1600,
+      "height": 900,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "proton-vpn-ou-mullvad-hero-en.webp",
+      "storage_filename": "proton-vpn-ou-mullvad-hero-en.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/proton-vpn-or-mullvad.json",
+        "src/lib/generated/content-index.ts"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/proton-vpn-or-mullvad.json",
+          "line": 26,
+          "column": 13,
+          "literal": "/images/reviews/proton/proton-vpn-ou-mullvad-hero-en.webp",
+          "authority": "source"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 364960,
+          "column": 15,
+          "literal": "/images/reviews/proton/proton-vpn-ou-mullvad-hero-en.webp",
+          "authority": "generated"
+        }
+      ],
+      "remote_key": "v1/image/fa7a3db0060333d440dea261ae6212141053e04ed89a5023c13d47f795d91af5/proton-vpn-ou-mullvad-hero-en.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/fa7a3db0060333d440dea261ae6212141053e04ed89a5023c13d47f795d91af5/proton-vpn-ou-mullvad-hero-en.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-11-27T22:30:06.960Z",
+      "verification_etag_or_digest": "fa7a3db0060333d440dea261ae6212141053e04ed89a5023c13d47f795d91af5",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/proton/proton-vpn-ou-mullvad-hero-es.webp",
+      "local_url": "/images/reviews/proton/proton-vpn-ou-mullvad-hero-es.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 31004,
+      "sha256": "66e6e253c543c484551242b05ff0baecd1a95d150290e4bf6638aab45e2c5b1f",
+      "width": 1600,
+      "height": 900,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "proton-vpn-ou-mullvad-hero-es.webp",
+      "storage_filename": "proton-vpn-ou-mullvad-hero-es.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/proton-vpn-o-mullvad.json",
+        "src/lib/generated/content-index.ts"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/proton-vpn-o-mullvad.json",
+          "line": 26,
+          "column": 13,
+          "literal": "/images/reviews/proton/proton-vpn-ou-mullvad-hero-es.webp",
+          "authority": "source"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 365178,
+          "column": 15,
+          "literal": "/images/reviews/proton/proton-vpn-ou-mullvad-hero-es.webp",
+          "authority": "generated"
+        }
+      ],
+      "remote_key": "v1/image/66e6e253c543c484551242b05ff0baecd1a95d150290e4bf6638aab45e2c5b1f/proton-vpn-ou-mullvad-hero-es.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/66e6e253c543c484551242b05ff0baecd1a95d150290e4bf6638aab45e2c5b1f/proton-vpn-ou-mullvad-hero-es.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-11-27T22:30:06.960Z",
+      "verification_etag_or_digest": "66e6e253c543c484551242b05ff0baecd1a95d150290e4bf6638aab45e2c5b1f",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/proton/proton-vpn-ou-mullvad-hero-fr.webp",
+      "local_url": "/images/reviews/proton/proton-vpn-ou-mullvad-hero-fr.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 31106,
+      "sha256": "e20432b5f976b8c6757fd3e2815a630bc67940540b87e1d5942b50c35c49c172",
+      "width": 1600,
+      "height": 900,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "proton-vpn-ou-mullvad-hero-fr.webp",
+      "storage_filename": "proton-vpn-ou-mullvad-hero-fr.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/proton-vpn-ou-mullvad-fr.json",
+        "src/lib/generated/content-index.ts"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/proton-vpn-ou-mullvad-fr.json",
+          "line": 26,
+          "column": 13,
+          "literal": "/images/reviews/proton/proton-vpn-ou-mullvad-hero-fr.webp",
+          "authority": "source"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 365396,
+          "column": 15,
+          "literal": "/images/reviews/proton/proton-vpn-ou-mullvad-hero-fr.webp",
+          "authority": "generated"
+        }
+      ],
+      "remote_key": "v1/image/e20432b5f976b8c6757fd3e2815a630bc67940540b87e1d5942b50c35c49c172/proton-vpn-ou-mullvad-hero-fr.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/e20432b5f976b8c6757fd3e2815a630bc67940540b87e1d5942b50c35c49c172/proton-vpn-ou-mullvad-hero-fr.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-11-27T22:30:06.960Z",
+      "verification_etag_or_digest": "e20432b5f976b8c6757fd3e2815a630bc67940540b87e1d5942b50c35c49c172",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/proton/proton-vpn-ou-mullvad-hero-it.webp",
+      "local_url": "/images/reviews/proton/proton-vpn-ou-mullvad-hero-it.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 29750,
+      "sha256": "c3c9a2e8b816021f2f1627c02e8cc81d687697e03cfe256f21ffbb3717340768",
+      "width": 1600,
+      "height": 900,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "proton-vpn-ou-mullvad-hero-it.webp",
+      "storage_filename": "proton-vpn-ou-mullvad-hero-it.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/proton-vpn-o-mullvad-it.json",
+        "src/lib/generated/content-index.ts"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/proton-vpn-o-mullvad-it.json",
+          "line": 26,
+          "column": 13,
+          "literal": "/images/reviews/proton/proton-vpn-ou-mullvad-hero-it.webp",
+          "authority": "source"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 365832,
+          "column": 15,
+          "literal": "/images/reviews/proton/proton-vpn-ou-mullvad-hero-it.webp",
+          "authority": "generated"
+        }
+      ],
+      "remote_key": "v1/image/c3c9a2e8b816021f2f1627c02e8cc81d687697e03cfe256f21ffbb3717340768/proton-vpn-ou-mullvad-hero-it.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/c3c9a2e8b816021f2f1627c02e8cc81d687697e03cfe256f21ffbb3717340768/proton-vpn-ou-mullvad-hero-it.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-11-27T22:30:06.960Z",
+      "verification_etag_or_digest": "c3c9a2e8b816021f2f1627c02e8cc81d687697e03cfe256f21ffbb3717340768",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/proton/proton-vpn-ou-mullvad-hero-ja.webp",
+      "local_url": "/images/reviews/proton/proton-vpn-ou-mullvad-hero-ja.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 31108,
+      "sha256": "a47f139d380058b1ce1b92e9ef0fb93ceaf6c922127e139315de0d6b340dcf71",
+      "width": 1600,
+      "height": 900,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "proton-vpn-ou-mullvad-hero-ja.webp",
+      "storage_filename": "proton-vpn-ou-mullvad-hero-ja.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/proton-vpn-or-mullvad-ja.json",
+        "src/lib/generated/content-index.ts"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/proton-vpn-or-mullvad-ja.json",
+          "line": 26,
+          "column": 13,
+          "literal": "/images/reviews/proton/proton-vpn-ou-mullvad-hero-ja.webp",
+          "authority": "source"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 366268,
+          "column": 15,
+          "literal": "/images/reviews/proton/proton-vpn-ou-mullvad-hero-ja.webp",
+          "authority": "generated"
+        }
+      ],
+      "remote_key": "v1/image/a47f139d380058b1ce1b92e9ef0fb93ceaf6c922127e139315de0d6b340dcf71/proton-vpn-ou-mullvad-hero-ja.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/a47f139d380058b1ce1b92e9ef0fb93ceaf6c922127e139315de0d6b340dcf71/proton-vpn-ou-mullvad-hero-ja.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-11-27T22:30:06.960Z",
+      "verification_etag_or_digest": "a47f139d380058b1ce1b92e9ef0fb93ceaf6c922127e139315de0d6b340dcf71",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/proton/proton-vpn-ou-mullvad-hero-ko.webp",
+      "local_url": "/images/reviews/proton/proton-vpn-ou-mullvad-hero-ko.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 28748,
+      "sha256": "b304cc92d19622e55425c4cff5de01956e12cd5df7ad584da4d2c1d35d30f9e5",
+      "width": 1600,
+      "height": 900,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "proton-vpn-ou-mullvad-hero-ko.webp",
+      "storage_filename": "proton-vpn-ou-mullvad-hero-ko.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/proton-vpn-or-mullvad-ko.json",
+        "src/lib/generated/content-index.ts"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/proton-vpn-or-mullvad-ko.json",
+          "line": 26,
+          "column": 13,
+          "literal": "/images/reviews/proton/proton-vpn-ou-mullvad-hero-ko.webp",
+          "authority": "source"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 366050,
+          "column": 15,
+          "literal": "/images/reviews/proton/proton-vpn-ou-mullvad-hero-ko.webp",
+          "authority": "generated"
+        }
+      ],
+      "remote_key": "v1/image/b304cc92d19622e55425c4cff5de01956e12cd5df7ad584da4d2c1d35d30f9e5/proton-vpn-ou-mullvad-hero-ko.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/b304cc92d19622e55425c4cff5de01956e12cd5df7ad584da4d2c1d35d30f9e5/proton-vpn-ou-mullvad-hero-ko.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-11-27T22:30:06.960Z",
+      "verification_etag_or_digest": "b304cc92d19622e55425c4cff5de01956e12cd5df7ad584da4d2c1d35d30f9e5",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/proton/proton-vpn-ou-mullvad-hero-pt.webp",
+      "local_url": "/images/reviews/proton/proton-vpn-ou-mullvad-hero-pt.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 31112,
+      "sha256": "e254ba58ddcc396eeb90aaa19172556d3dd28dc42a2fae5d68e1864055be5019",
+      "width": 1600,
+      "height": 900,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "proton-vpn-ou-mullvad-hero-pt.webp",
+      "storage_filename": "proton-vpn-ou-mullvad-hero-pt.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/proton-vpn-ou-mullvad.json",
+        "src/lib/generated/content-index.ts"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/proton-vpn-ou-mullvad.json",
+          "line": 25,
+          "column": 13,
+          "literal": "/images/reviews/proton/proton-vpn-ou-mullvad-hero-pt.webp",
+          "authority": "source"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 364703,
+          "column": 15,
+          "literal": "/images/reviews/proton/proton-vpn-ou-mullvad-hero-pt.webp",
+          "authority": "generated"
+        }
+      ],
+      "remote_key": "v1/image/e254ba58ddcc396eeb90aaa19172556d3dd28dc42a2fae5d68e1864055be5019/proton-vpn-ou-mullvad-hero-pt.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/e254ba58ddcc396eeb90aaa19172556d3dd28dc42a2fae5d68e1864055be5019/proton-vpn-ou-mullvad-hero-pt.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-11-27T22:30:06.960Z",
+      "verification_etag_or_digest": "e254ba58ddcc396eeb90aaa19172556d3dd28dc42a2fae5d68e1864055be5019",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/proton/proton-vpn-ou-mullvad-hero-zh-hans.webp",
+      "local_url": "/images/reviews/proton/proton-vpn-ou-mullvad-hero-zh-hans.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 29912,
+      "sha256": "ee69f758d71d9e75bf303c2d2b5e862fb3e3b9614a2b0e85fa7bd3a432ec012b",
+      "width": 1600,
+      "height": 900,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "proton-vpn-ou-mullvad-hero-zh-hans.webp",
+      "storage_filename": "proton-vpn-ou-mullvad-hero-zh-hans.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/proton-vpn-or-mullvad-zh-hans.json",
+        "src/lib/generated/content-index.ts"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/proton-vpn-or-mullvad-zh-hans.json",
+          "line": 26,
+          "column": 13,
+          "literal": "/images/reviews/proton/proton-vpn-ou-mullvad-hero-zh-hans.webp",
+          "authority": "source"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 366704,
+          "column": 15,
+          "literal": "/images/reviews/proton/proton-vpn-ou-mullvad-hero-zh-hans.webp",
+          "authority": "generated"
+        }
+      ],
+      "remote_key": "v1/image/ee69f758d71d9e75bf303c2d2b5e862fb3e3b9614a2b0e85fa7bd3a432ec012b/proton-vpn-ou-mullvad-hero-zh-hans.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/ee69f758d71d9e75bf303c2d2b5e862fb3e3b9614a2b0e85fa7bd3a432ec012b/proton-vpn-ou-mullvad-hero-zh-hans.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-11-27T22:30:06.960Z",
+      "verification_etag_or_digest": "ee69f758d71d9e75bf303c2d2b5e862fb3e3b9614a2b0e85fa7bd3a432ec012b",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/proton/proton-vpn-ou-mullvad-hero-zh-hant.webp",
+      "local_url": "/images/reviews/proton/proton-vpn-ou-mullvad-hero-zh-hant.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 30060,
+      "sha256": "3c667d2f1bc7c11c778f9191754aa1c3fa916992aff65b48b8143804f2abcb8f",
+      "width": 1600,
+      "height": 900,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "proton-vpn-ou-mullvad-hero-zh-hant.webp",
+      "storage_filename": "proton-vpn-ou-mullvad-hero-zh-hant.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/proton-vpn-or-mullvad-zh-hant.json",
+        "src/lib/generated/content-index.ts"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/proton-vpn-or-mullvad-zh-hant.json",
+          "line": 26,
+          "column": 13,
+          "literal": "/images/reviews/proton/proton-vpn-ou-mullvad-hero-zh-hant.webp",
+          "authority": "source"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 366486,
+          "column": 15,
+          "literal": "/images/reviews/proton/proton-vpn-ou-mullvad-hero-zh-hant.webp",
+          "authority": "generated"
+        }
+      ],
+      "remote_key": "v1/image/3c667d2f1bc7c11c778f9191754aa1c3fa916992aff65b48b8143804f2abcb8f/proton-vpn-ou-mullvad-hero-zh-hant.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/3c667d2f1bc7c11c778f9191754aa1c3fa916992aff65b48b8143804f2abcb8f/proton-vpn-ou-mullvad-hero-zh-hant.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-11-27T22:30:06.960Z",
+      "verification_etag_or_digest": "3c667d2f1bc7c11c778f9191754aa1c3fa916992aff65b48b8143804f2abcb8f",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/proton/proton-vpn-ou-mullvad-precos-brl.webp",
+      "local_url": "/images/reviews/proton/proton-vpn-ou-mullvad-precos-brl.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 38554,
+      "sha256": "e21256dd8275c02533fbfe340613fefa614b9ba66e55834eedc5f5c33faadc54",
+      "width": 479,
+      "height": 873,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "proton-vpn-ou-mullvad-precos-brl.webp",
+      "storage_filename": "proton-vpn-ou-mullvad-precos-brl.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/proton-vpn-ou-mullvad.json",
+        "src/lib/generated/content-index.ts"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/proton-vpn-ou-mullvad.json",
+          "line": 82,
+          "column": 17,
+          "literal": "/images/reviews/proton/proton-vpn-ou-mullvad-precos-brl.webp",
+          "authority": "source"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 364760,
+          "column": 19,
+          "literal": "/images/reviews/proton/proton-vpn-ou-mullvad-precos-brl.webp",
+          "authority": "generated"
+        }
+      ],
+      "remote_key": "v1/image/e21256dd8275c02533fbfe340613fefa614b9ba66e55834eedc5f5c33faadc54/proton-vpn-ou-mullvad-precos-brl.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/e21256dd8275c02533fbfe340613fefa614b9ba66e55834eedc5f5c33faadc54/proton-vpn-ou-mullvad-precos-brl.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-11-27T22:30:06.960Z",
+      "verification_etag_or_digest": "e21256dd8275c02533fbfe340613fefa614b9ba66e55834eedc5f5c33faadc54",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/proton/proton-vpn-ou-mullvad-precos-usd.webp",
+      "local_url": "/images/reviews/proton/proton-vpn-ou-mullvad-precos-usd.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 31100,
+      "sha256": "8c7157309bc99c1fc25581641b1c599942bdea0566ec81af7f5bedeb6f897b64",
+      "width": 479,
+      "height": 799,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "proton-vpn-ou-mullvad-precos-usd.webp",
+      "storage_filename": "proton-vpn-ou-mullvad-precos-usd.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/proton-vpn-o-mullvad-it.json",
+        "content/reviews/proton-vpn-o-mullvad.json",
+        "content/reviews/proton-vpn-oder-mullvad.json",
+        "content/reviews/proton-vpn-or-mullvad-ar.json",
+        "content/reviews/proton-vpn-or-mullvad-ja.json",
+        "content/reviews/proton-vpn-or-mullvad-ko.json",
+        "content/reviews/proton-vpn-or-mullvad-zh-hans.json",
+        "content/reviews/proton-vpn-or-mullvad-zh-hant.json",
+        "content/reviews/proton-vpn-or-mullvad.json",
+        "content/reviews/proton-vpn-ou-mullvad-fr.json",
+        "src/lib/generated/content-index.ts"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/proton-vpn-o-mullvad-it.json",
+          "line": 83,
+          "column": 17,
+          "literal": "/images/reviews/proton/proton-vpn-ou-mullvad-precos-usd.webp",
+          "authority": "source"
+        },
+        {
+          "file": "content/reviews/proton-vpn-o-mullvad.json",
+          "line": 83,
+          "column": 17,
+          "literal": "/images/reviews/proton/proton-vpn-ou-mullvad-precos-usd.webp",
+          "authority": "source"
+        },
+        {
+          "file": "content/reviews/proton-vpn-oder-mullvad.json",
+          "line": 83,
+          "column": 17,
+          "literal": "/images/reviews/proton/proton-vpn-ou-mullvad-precos-usd.webp",
+          "authority": "source"
+        },
+        {
+          "file": "content/reviews/proton-vpn-or-mullvad-ar.json",
+          "line": 83,
+          "column": 17,
+          "literal": "/images/reviews/proton/proton-vpn-ou-mullvad-precos-usd.webp",
+          "authority": "source"
+        },
+        {
+          "file": "content/reviews/proton-vpn-or-mullvad-ja.json",
+          "line": 83,
+          "column": 17,
+          "literal": "/images/reviews/proton/proton-vpn-ou-mullvad-precos-usd.webp",
+          "authority": "source"
+        },
+        {
+          "file": "content/reviews/proton-vpn-or-mullvad-ko.json",
+          "line": 83,
+          "column": 17,
+          "literal": "/images/reviews/proton/proton-vpn-ou-mullvad-precos-usd.webp",
+          "authority": "source"
+        },
+        {
+          "file": "content/reviews/proton-vpn-or-mullvad-zh-hans.json",
+          "line": 83,
+          "column": 17,
+          "literal": "/images/reviews/proton/proton-vpn-ou-mullvad-precos-usd.webp",
+          "authority": "source"
+        },
+        {
+          "file": "content/reviews/proton-vpn-or-mullvad-zh-hant.json",
+          "line": 83,
+          "column": 17,
+          "literal": "/images/reviews/proton/proton-vpn-ou-mullvad-precos-usd.webp",
+          "authority": "source"
+        },
+        {
+          "file": "content/reviews/proton-vpn-or-mullvad.json",
+          "line": 83,
+          "column": 17,
+          "literal": "/images/reviews/proton/proton-vpn-ou-mullvad-precos-usd.webp",
+          "authority": "source"
+        },
+        {
+          "file": "content/reviews/proton-vpn-ou-mullvad-fr.json",
+          "line": 83,
+          "column": 17,
+          "literal": "/images/reviews/proton/proton-vpn-ou-mullvad-precos-usd.webp",
+          "authority": "source"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 365017,
+          "column": 19,
+          "literal": "/images/reviews/proton/proton-vpn-ou-mullvad-precos-usd.webp",
+          "authority": "generated"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 365235,
+          "column": 19,
+          "literal": "/images/reviews/proton/proton-vpn-ou-mullvad-precos-usd.webp",
+          "authority": "generated"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 365453,
+          "column": 19,
+          "literal": "/images/reviews/proton/proton-vpn-ou-mullvad-precos-usd.webp",
+          "authority": "generated"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 365671,
+          "column": 19,
+          "literal": "/images/reviews/proton/proton-vpn-ou-mullvad-precos-usd.webp",
+          "authority": "generated"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 365889,
+          "column": 19,
+          "literal": "/images/reviews/proton/proton-vpn-ou-mullvad-precos-usd.webp",
+          "authority": "generated"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 366107,
+          "column": 19,
+          "literal": "/images/reviews/proton/proton-vpn-ou-mullvad-precos-usd.webp",
+          "authority": "generated"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 366325,
+          "column": 19,
+          "literal": "/images/reviews/proton/proton-vpn-ou-mullvad-precos-usd.webp",
+          "authority": "generated"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 366543,
+          "column": 19,
+          "literal": "/images/reviews/proton/proton-vpn-ou-mullvad-precos-usd.webp",
+          "authority": "generated"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 366761,
+          "column": 19,
+          "literal": "/images/reviews/proton/proton-vpn-ou-mullvad-precos-usd.webp",
+          "authority": "generated"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 366979,
+          "column": 19,
+          "literal": "/images/reviews/proton/proton-vpn-ou-mullvad-precos-usd.webp",
+          "authority": "generated"
+        }
+      ],
+      "remote_key": "v1/image/8c7157309bc99c1fc25581641b1c599942bdea0566ec81af7f5bedeb6f897b64/proton-vpn-ou-mullvad-precos-usd.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/8c7157309bc99c1fc25581641b1c599942bdea0566ec81af7f5bedeb6f897b64/proton-vpn-ou-mullvad-precos-usd.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-11-27T22:30:06.960Z",
+      "verification_etag_or_digest": "8c7157309bc99c1fc25581641b1c599942bdea0566ec81af7f5bedeb6f897b64",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/proton/proton-vpn-ou-nordvpn-hero-ar.webp",
+      "local_url": "/images/reviews/proton/proton-vpn-ou-nordvpn-hero-ar.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 28456,
+      "sha256": "ba19aade3876f5168f52a257024b397475e96241da8568f627310f9a05255e55",
+      "width": 1600,
+      "height": 900,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "proton-vpn-ou-nordvpn-hero-ar.webp",
+      "storage_filename": "proton-vpn-ou-nordvpn-hero-ar.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/proton-vpn-vs-nordvpn-ar.json",
+        "src/lib/generated/content-index.ts"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/proton-vpn-vs-nordvpn-ar.json",
+          "line": 26,
+          "column": 13,
+          "literal": "/images/reviews/proton/proton-vpn-ou-nordvpn-hero-ar.webp",
+          "authority": "source"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 364444,
+          "column": 15,
+          "literal": "/images/reviews/proton/proton-vpn-ou-nordvpn-hero-ar.webp",
+          "authority": "generated"
+        }
+      ],
+      "remote_key": "v1/image/ba19aade3876f5168f52a257024b397475e96241da8568f627310f9a05255e55/proton-vpn-ou-nordvpn-hero-ar.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/ba19aade3876f5168f52a257024b397475e96241da8568f627310f9a05255e55/proton-vpn-ou-nordvpn-hero-ar.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-11-27T22:30:06.960Z",
+      "verification_etag_or_digest": "ba19aade3876f5168f52a257024b397475e96241da8568f627310f9a05255e55",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/proton/proton-vpn-ou-nordvpn-hero-de.webp",
+      "local_url": "/images/reviews/proton/proton-vpn-ou-nordvpn-hero-de.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 28002,
+      "sha256": "80b6096d9de85622b7b6c15a2c60a23d53b9f31b2ef7539042e966cac386bf35",
+      "width": 1600,
+      "height": 900,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "proton-vpn-ou-nordvpn-hero-de.webp",
+      "storage_filename": "proton-vpn-ou-nordvpn-hero-de.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/proton-vpn-oder-nordvpn.json",
+        "src/lib/generated/content-index.ts"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/proton-vpn-oder-nordvpn.json",
+          "line": 26,
+          "column": 13,
+          "literal": "/images/reviews/proton/proton-vpn-ou-nordvpn-hero-de.webp",
+          "authority": "source"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 362884,
+          "column": 15,
+          "literal": "/images/reviews/proton/proton-vpn-ou-nordvpn-hero-de.webp",
+          "authority": "generated"
+        }
+      ],
+      "remote_key": "v1/image/80b6096d9de85622b7b6c15a2c60a23d53b9f31b2ef7539042e966cac386bf35/proton-vpn-ou-nordvpn-hero-de.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/80b6096d9de85622b7b6c15a2c60a23d53b9f31b2ef7539042e966cac386bf35/proton-vpn-ou-nordvpn-hero-de.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-11-27T22:30:06.960Z",
+      "verification_etag_or_digest": "80b6096d9de85622b7b6c15a2c60a23d53b9f31b2ef7539042e966cac386bf35",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/proton/proton-vpn-ou-nordvpn-hero-en.webp",
+      "local_url": "/images/reviews/proton/proton-vpn-ou-nordvpn-hero-en.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 29230,
+      "sha256": "bf8fb0d0a8784f576082554154869202ff8e0cd83515f254a4fdc81bdee82124",
+      "width": 1600,
+      "height": 900,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "proton-vpn-ou-nordvpn-hero-en.webp",
+      "storage_filename": "proton-vpn-ou-nordvpn-hero-en.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/proton-vpn-vs-nordvpn.json",
+        "src/lib/generated/content-index.ts"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/proton-vpn-vs-nordvpn.json",
+          "line": 26,
+          "column": 13,
+          "literal": "/images/reviews/proton/proton-vpn-ou-nordvpn-hero-en.webp",
+          "authority": "source"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 362104,
+          "column": 15,
+          "literal": "/images/reviews/proton/proton-vpn-ou-nordvpn-hero-en.webp",
+          "authority": "generated"
+        }
+      ],
+      "remote_key": "v1/image/bf8fb0d0a8784f576082554154869202ff8e0cd83515f254a4fdc81bdee82124/proton-vpn-ou-nordvpn-hero-en.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/bf8fb0d0a8784f576082554154869202ff8e0cd83515f254a4fdc81bdee82124/proton-vpn-ou-nordvpn-hero-en.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-11-27T22:30:06.960Z",
+      "verification_etag_or_digest": "bf8fb0d0a8784f576082554154869202ff8e0cd83515f254a4fdc81bdee82124",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/proton/proton-vpn-ou-nordvpn-hero-es.webp",
+      "local_url": "/images/reviews/proton/proton-vpn-ou-nordvpn-hero-es.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 29866,
+      "sha256": "9eeff1bc4b02ed463426afae2cdcff89a826ccdbda7d30916e41f38bc18cf6ab",
+      "width": 1600,
+      "height": 900,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "proton-vpn-ou-nordvpn-hero-es.webp",
+      "storage_filename": "proton-vpn-ou-nordvpn-hero-es.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/proton-vpn-o-nordvpn.json",
+        "src/lib/generated/content-index.ts"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/proton-vpn-o-nordvpn.json",
+          "line": 26,
+          "column": 13,
+          "literal": "/images/reviews/proton/proton-vpn-ou-nordvpn-hero-es.webp",
+          "authority": "source"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 362364,
+          "column": 15,
+          "literal": "/images/reviews/proton/proton-vpn-ou-nordvpn-hero-es.webp",
+          "authority": "generated"
+        }
+      ],
+      "remote_key": "v1/image/9eeff1bc4b02ed463426afae2cdcff89a826ccdbda7d30916e41f38bc18cf6ab/proton-vpn-ou-nordvpn-hero-es.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/9eeff1bc4b02ed463426afae2cdcff89a826ccdbda7d30916e41f38bc18cf6ab/proton-vpn-ou-nordvpn-hero-es.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-11-27T22:30:06.960Z",
+      "verification_etag_or_digest": "9eeff1bc4b02ed463426afae2cdcff89a826ccdbda7d30916e41f38bc18cf6ab",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/proton/proton-vpn-ou-nordvpn-hero-fr.webp",
+      "local_url": "/images/reviews/proton/proton-vpn-ou-nordvpn-hero-fr.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 28488,
+      "sha256": "efebc373c8db0989f0a0a9281578f7d86af861df5102b256173792f7544abf0d",
+      "width": 1600,
+      "height": 900,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "proton-vpn-ou-nordvpn-hero-fr.webp",
+      "storage_filename": "proton-vpn-ou-nordvpn-hero-fr.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/proton-vpn-ou-nordvpn-comparatif.json",
+        "src/lib/generated/content-index.ts"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/proton-vpn-ou-nordvpn-comparatif.json",
+          "line": 26,
+          "column": 13,
+          "literal": "/images/reviews/proton/proton-vpn-ou-nordvpn-hero-fr.webp",
+          "authority": "source"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 362624,
+          "column": 15,
+          "literal": "/images/reviews/proton/proton-vpn-ou-nordvpn-hero-fr.webp",
+          "authority": "generated"
+        }
+      ],
+      "remote_key": "v1/image/efebc373c8db0989f0a0a9281578f7d86af861df5102b256173792f7544abf0d/proton-vpn-ou-nordvpn-hero-fr.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/efebc373c8db0989f0a0a9281578f7d86af861df5102b256173792f7544abf0d/proton-vpn-ou-nordvpn-hero-fr.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-11-27T22:30:06.960Z",
+      "verification_etag_or_digest": "efebc373c8db0989f0a0a9281578f7d86af861df5102b256173792f7544abf0d",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/proton/proton-vpn-ou-nordvpn-hero-it.webp",
+      "local_url": "/images/reviews/proton/proton-vpn-ou-nordvpn-hero-it.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 28650,
+      "sha256": "c7935e3bfabfdec7fddca62ff9386cf6de0a169e300990960ad5aac0eb0099b1",
+      "width": 1600,
+      "height": 900,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "proton-vpn-ou-nordvpn-hero-it.webp",
+      "storage_filename": "proton-vpn-ou-nordvpn-hero-it.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/proton-vpn-o-nordvpn-confronto.json",
+        "src/lib/generated/content-index.ts"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/proton-vpn-o-nordvpn-confronto.json",
+          "line": 26,
+          "column": 13,
+          "literal": "/images/reviews/proton/proton-vpn-ou-nordvpn-hero-it.webp",
+          "authority": "source"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 363144,
+          "column": 15,
+          "literal": "/images/reviews/proton/proton-vpn-ou-nordvpn-hero-it.webp",
+          "authority": "generated"
+        }
+      ],
+      "remote_key": "v1/image/c7935e3bfabfdec7fddca62ff9386cf6de0a169e300990960ad5aac0eb0099b1/proton-vpn-ou-nordvpn-hero-it.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/c7935e3bfabfdec7fddca62ff9386cf6de0a169e300990960ad5aac0eb0099b1/proton-vpn-ou-nordvpn-hero-it.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-11-27T22:30:06.960Z",
+      "verification_etag_or_digest": "c7935e3bfabfdec7fddca62ff9386cf6de0a169e300990960ad5aac0eb0099b1",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/proton/proton-vpn-ou-nordvpn-hero-ja.webp",
+      "local_url": "/images/reviews/proton/proton-vpn-ou-nordvpn-hero-ja.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 29906,
+      "sha256": "3ac221bc3fb2d5ba9fb89bf902b42cd0741dfe6cac6b828e56a379fd4c9bc32d",
+      "width": 1600,
+      "height": 900,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "proton-vpn-ou-nordvpn-hero-ja.webp",
+      "storage_filename": "proton-vpn-ou-nordvpn-hero-ja.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/proton-vpn-vs-nordvpn-ja.json",
+        "src/lib/generated/content-index.ts"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/proton-vpn-vs-nordvpn-ja.json",
+          "line": 26,
+          "column": 13,
+          "literal": "/images/reviews/proton/proton-vpn-ou-nordvpn-hero-ja.webp",
+          "authority": "source"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 363664,
+          "column": 15,
+          "literal": "/images/reviews/proton/proton-vpn-ou-nordvpn-hero-ja.webp",
+          "authority": "generated"
+        }
+      ],
+      "remote_key": "v1/image/3ac221bc3fb2d5ba9fb89bf902b42cd0741dfe6cac6b828e56a379fd4c9bc32d/proton-vpn-ou-nordvpn-hero-ja.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/3ac221bc3fb2d5ba9fb89bf902b42cd0741dfe6cac6b828e56a379fd4c9bc32d/proton-vpn-ou-nordvpn-hero-ja.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-11-27T22:30:06.960Z",
+      "verification_etag_or_digest": "3ac221bc3fb2d5ba9fb89bf902b42cd0741dfe6cac6b828e56a379fd4c9bc32d",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/proton/proton-vpn-ou-nordvpn-hero-ko.webp",
+      "local_url": "/images/reviews/proton/proton-vpn-ou-nordvpn-hero-ko.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 27346,
+      "sha256": "1c80eca1c7d541c8ded8bf3e66703df8130828dea9b548450e1a67419065ec7f",
+      "width": 1600,
+      "height": 900,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "proton-vpn-ou-nordvpn-hero-ko.webp",
+      "storage_filename": "proton-vpn-ou-nordvpn-hero-ko.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/proton-vpn-vs-nordvpn-ko.json",
+        "src/lib/generated/content-index.ts"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/proton-vpn-vs-nordvpn-ko.json",
+          "line": 26,
+          "column": 13,
+          "literal": "/images/reviews/proton/proton-vpn-ou-nordvpn-hero-ko.webp",
+          "authority": "source"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 363404,
+          "column": 15,
+          "literal": "/images/reviews/proton/proton-vpn-ou-nordvpn-hero-ko.webp",
+          "authority": "generated"
+        }
+      ],
+      "remote_key": "v1/image/1c80eca1c7d541c8ded8bf3e66703df8130828dea9b548450e1a67419065ec7f/proton-vpn-ou-nordvpn-hero-ko.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/1c80eca1c7d541c8ded8bf3e66703df8130828dea9b548450e1a67419065ec7f/proton-vpn-ou-nordvpn-hero-ko.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-11-27T22:30:06.960Z",
+      "verification_etag_or_digest": "1c80eca1c7d541c8ded8bf3e66703df8130828dea9b548450e1a67419065ec7f",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/proton/proton-vpn-ou-nordvpn-hero-pt.webp",
+      "local_url": "/images/reviews/proton/proton-vpn-ou-nordvpn-hero-pt.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 29124,
+      "sha256": "36220935ee416ef9aba71a4257379fc00e2be21f5a5759c27420ea7efbb58789",
+      "width": 1600,
+      "height": 900,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "proton-vpn-ou-nordvpn-hero-pt.webp",
+      "storage_filename": "proton-vpn-ou-nordvpn-hero-pt.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/proton-vpn-ou-nordvpn.json",
+        "src/lib/generated/content-index.ts"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/proton-vpn-ou-nordvpn.json",
+          "line": 25,
+          "column": 13,
+          "literal": "/images/reviews/proton/proton-vpn-ou-nordvpn-hero-pt.webp",
+          "authority": "source"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 361837,
+          "column": 15,
+          "literal": "/images/reviews/proton/proton-vpn-ou-nordvpn-hero-pt.webp",
+          "authority": "generated"
+        }
+      ],
+      "remote_key": "v1/image/36220935ee416ef9aba71a4257379fc00e2be21f5a5759c27420ea7efbb58789/proton-vpn-ou-nordvpn-hero-pt.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/36220935ee416ef9aba71a4257379fc00e2be21f5a5759c27420ea7efbb58789/proton-vpn-ou-nordvpn-hero-pt.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-11-27T22:30:06.960Z",
+      "verification_etag_or_digest": "36220935ee416ef9aba71a4257379fc00e2be21f5a5759c27420ea7efbb58789",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/proton/proton-vpn-ou-nordvpn-hero-zh-hans.webp",
+      "local_url": "/images/reviews/proton/proton-vpn-ou-nordvpn-hero-zh-hans.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 28436,
+      "sha256": "4a8249026eda2eb160cd3cfef6da14309c739bf1ff7f5af0416f4b33313a7595",
+      "width": 1600,
+      "height": 900,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "proton-vpn-ou-nordvpn-hero-zh-hans.webp",
+      "storage_filename": "proton-vpn-ou-nordvpn-hero-zh-hans.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/proton-vpn-vs-nordvpn-zh-hans.json",
+        "src/lib/generated/content-index.ts"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/proton-vpn-vs-nordvpn-zh-hans.json",
+          "line": 26,
+          "column": 13,
+          "literal": "/images/reviews/proton/proton-vpn-ou-nordvpn-hero-zh-hans.webp",
+          "authority": "source"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 364184,
+          "column": 15,
+          "literal": "/images/reviews/proton/proton-vpn-ou-nordvpn-hero-zh-hans.webp",
+          "authority": "generated"
+        }
+      ],
+      "remote_key": "v1/image/4a8249026eda2eb160cd3cfef6da14309c739bf1ff7f5af0416f4b33313a7595/proton-vpn-ou-nordvpn-hero-zh-hans.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/4a8249026eda2eb160cd3cfef6da14309c739bf1ff7f5af0416f4b33313a7595/proton-vpn-ou-nordvpn-hero-zh-hans.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-11-27T22:30:06.960Z",
+      "verification_etag_or_digest": "4a8249026eda2eb160cd3cfef6da14309c739bf1ff7f5af0416f4b33313a7595",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/proton/proton-vpn-ou-nordvpn-hero-zh-hant.webp",
+      "local_url": "/images/reviews/proton/proton-vpn-ou-nordvpn-hero-zh-hant.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 28746,
+      "sha256": "b8ea76997a57ee1d9f070f6f64c5a38015b30070744832e784ad54ddcb4c0445",
+      "width": 1600,
+      "height": 900,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "proton-vpn-ou-nordvpn-hero-zh-hant.webp",
+      "storage_filename": "proton-vpn-ou-nordvpn-hero-zh-hant.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/proton-vpn-vs-nordvpn-zh-hant.json",
+        "src/lib/generated/content-index.ts"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/proton-vpn-vs-nordvpn-zh-hant.json",
+          "line": 26,
+          "column": 13,
+          "literal": "/images/reviews/proton/proton-vpn-ou-nordvpn-hero-zh-hant.webp",
+          "authority": "source"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 363924,
+          "column": 15,
+          "literal": "/images/reviews/proton/proton-vpn-ou-nordvpn-hero-zh-hant.webp",
+          "authority": "generated"
+        }
+      ],
+      "remote_key": "v1/image/b8ea76997a57ee1d9f070f6f64c5a38015b30070744832e784ad54ddcb4c0445/proton-vpn-ou-nordvpn-hero-zh-hant.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/b8ea76997a57ee1d9f070f6f64c5a38015b30070744832e784ad54ddcb4c0445/proton-vpn-ou-nordvpn-hero-zh-hant.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-11-27T22:30:06.960Z",
+      "verification_etag_or_digest": "b8ea76997a57ee1d9f070f6f64c5a38015b30070744832e784ad54ddcb4c0445",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/proton/proton-vpn-ou-nordvpn-precos-brl.webp",
+      "local_url": "/images/reviews/proton/proton-vpn-ou-nordvpn-precos-brl.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 29856,
+      "sha256": "f284c7d39c4a31ad10d62d7914c65545a5126d4e8b10ee34c881e0c7ee3a0bc0",
+      "width": 588,
+      "height": 741,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "proton-vpn-ou-nordvpn-precos-brl.webp",
+      "storage_filename": "proton-vpn-ou-nordvpn-precos-brl.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/proton-vpn-ou-nordvpn.json",
+        "src/lib/generated/content-index.ts"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/proton-vpn-ou-nordvpn.json",
+          "line": 110,
+          "column": 17,
+          "literal": "/images/reviews/proton/proton-vpn-ou-nordvpn-precos-brl.webp",
+          "authority": "source"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 361922,
+          "column": 19,
+          "literal": "/images/reviews/proton/proton-vpn-ou-nordvpn-precos-brl.webp",
+          "authority": "generated"
+        }
+      ],
+      "remote_key": "v1/image/f284c7d39c4a31ad10d62d7914c65545a5126d4e8b10ee34c881e0c7ee3a0bc0/proton-vpn-ou-nordvpn-precos-brl.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/f284c7d39c4a31ad10d62d7914c65545a5126d4e8b10ee34c881e0c7ee3a0bc0/proton-vpn-ou-nordvpn-precos-brl.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-11-27T22:30:06.960Z",
+      "verification_etag_or_digest": "f284c7d39c4a31ad10d62d7914c65545a5126d4e8b10ee34c881e0c7ee3a0bc0",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/proton/proton-vpn-ou-nordvpn-precos-usd.webp",
+      "local_url": "/images/reviews/proton/proton-vpn-ou-nordvpn-precos-usd.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 28972,
+      "sha256": "7fb4a30ff95c12ef91d5232579b0ad26368d90a09f6b67f178df68240dc7ce35",
+      "width": 588,
+      "height": 741,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "proton-vpn-ou-nordvpn-precos-usd.webp",
+      "storage_filename": "proton-vpn-ou-nordvpn-precos-usd.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/proton-vpn-o-nordvpn-confronto.json",
+        "content/reviews/proton-vpn-o-nordvpn.json",
+        "content/reviews/proton-vpn-oder-nordvpn.json",
+        "content/reviews/proton-vpn-ou-nordvpn-comparatif.json",
+        "content/reviews/proton-vpn-vs-nordvpn-ar.json",
+        "content/reviews/proton-vpn-vs-nordvpn-ja.json",
+        "content/reviews/proton-vpn-vs-nordvpn-ko.json",
+        "content/reviews/proton-vpn-vs-nordvpn-zh-hans.json",
+        "content/reviews/proton-vpn-vs-nordvpn-zh-hant.json",
+        "content/reviews/proton-vpn-vs-nordvpn.json",
+        "src/lib/generated/content-index.ts"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/proton-vpn-o-nordvpn-confronto.json",
+          "line": 104,
+          "column": 17,
+          "literal": "/images/reviews/proton/proton-vpn-ou-nordvpn-precos-usd.webp",
+          "authority": "source"
+        },
+        {
+          "file": "content/reviews/proton-vpn-o-nordvpn.json",
+          "line": 104,
+          "column": 17,
+          "literal": "/images/reviews/proton/proton-vpn-ou-nordvpn-precos-usd.webp",
+          "authority": "source"
+        },
+        {
+          "file": "content/reviews/proton-vpn-oder-nordvpn.json",
+          "line": 104,
+          "column": 17,
+          "literal": "/images/reviews/proton/proton-vpn-ou-nordvpn-precos-usd.webp",
+          "authority": "source"
+        },
+        {
+          "file": "content/reviews/proton-vpn-ou-nordvpn-comparatif.json",
+          "line": 104,
+          "column": 17,
+          "literal": "/images/reviews/proton/proton-vpn-ou-nordvpn-precos-usd.webp",
+          "authority": "source"
+        },
+        {
+          "file": "content/reviews/proton-vpn-vs-nordvpn-ar.json",
+          "line": 104,
+          "column": 17,
+          "literal": "/images/reviews/proton/proton-vpn-ou-nordvpn-precos-usd.webp",
+          "authority": "source"
+        },
+        {
+          "file": "content/reviews/proton-vpn-vs-nordvpn-ja.json",
+          "line": 104,
+          "column": 17,
+          "literal": "/images/reviews/proton/proton-vpn-ou-nordvpn-precos-usd.webp",
+          "authority": "source"
+        },
+        {
+          "file": "content/reviews/proton-vpn-vs-nordvpn-ko.json",
+          "line": 104,
+          "column": 17,
+          "literal": "/images/reviews/proton/proton-vpn-ou-nordvpn-precos-usd.webp",
+          "authority": "source"
+        },
+        {
+          "file": "content/reviews/proton-vpn-vs-nordvpn-zh-hans.json",
+          "line": 104,
+          "column": 17,
+          "literal": "/images/reviews/proton/proton-vpn-ou-nordvpn-precos-usd.webp",
+          "authority": "source"
+        },
+        {
+          "file": "content/reviews/proton-vpn-vs-nordvpn-zh-hant.json",
+          "line": 104,
+          "column": 17,
+          "literal": "/images/reviews/proton/proton-vpn-ou-nordvpn-precos-usd.webp",
+          "authority": "source"
+        },
+        {
+          "file": "content/reviews/proton-vpn-vs-nordvpn.json",
+          "line": 104,
+          "column": 17,
+          "literal": "/images/reviews/proton/proton-vpn-ou-nordvpn-precos-usd.webp",
+          "authority": "source"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 362182,
+          "column": 19,
+          "literal": "/images/reviews/proton/proton-vpn-ou-nordvpn-precos-usd.webp",
+          "authority": "generated"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 362442,
+          "column": 19,
+          "literal": "/images/reviews/proton/proton-vpn-ou-nordvpn-precos-usd.webp",
+          "authority": "generated"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 362702,
+          "column": 19,
+          "literal": "/images/reviews/proton/proton-vpn-ou-nordvpn-precos-usd.webp",
+          "authority": "generated"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 362962,
+          "column": 19,
+          "literal": "/images/reviews/proton/proton-vpn-ou-nordvpn-precos-usd.webp",
+          "authority": "generated"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 363222,
+          "column": 19,
+          "literal": "/images/reviews/proton/proton-vpn-ou-nordvpn-precos-usd.webp",
+          "authority": "generated"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 363482,
+          "column": 19,
+          "literal": "/images/reviews/proton/proton-vpn-ou-nordvpn-precos-usd.webp",
+          "authority": "generated"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 363742,
+          "column": 19,
+          "literal": "/images/reviews/proton/proton-vpn-ou-nordvpn-precos-usd.webp",
+          "authority": "generated"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 364002,
+          "column": 19,
+          "literal": "/images/reviews/proton/proton-vpn-ou-nordvpn-precos-usd.webp",
+          "authority": "generated"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 364262,
+          "column": 19,
+          "literal": "/images/reviews/proton/proton-vpn-ou-nordvpn-precos-usd.webp",
+          "authority": "generated"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 364522,
+          "column": 19,
+          "literal": "/images/reviews/proton/proton-vpn-ou-nordvpn-precos-usd.webp",
+          "authority": "generated"
+        }
+      ],
+      "remote_key": "v1/image/7fb4a30ff95c12ef91d5232579b0ad26368d90a09f6b67f178df68240dc7ce35/proton-vpn-ou-nordvpn-precos-usd.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/7fb4a30ff95c12ef91d5232579b0ad26368d90a09f6b67f178df68240dc7ce35/proton-vpn-ou-nordvpn-precos-usd.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-11-27T22:30:06.960Z",
+      "verification_etag_or_digest": "7fb4a30ff95c12ef91d5232579b0ad26368d90a09f6b67f178df68240dc7ce35",
       "verification_status": "verified"
     },
     {

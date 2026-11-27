@@ -1,0 +1,260 @@
+{
+  "id": 1513,
+  "slug": "proton-vpn-vs-nordvpn-zh-hant",
+  "locale": "zh-hant",
+  "translationKey": "proton-vpn-ou-nordvpn",
+  "title": "Proton VPN 還是 NordVPN：免費方案、續訂價格與怎麼選",
+  "seoTitle": "Proton VPN 還是 NordVPN：價格、續訂與差異",
+  "type": "比較指南",
+  "category": "guias-praticos-utilidade",
+  "reviewKind": "guia",
+  "author": {
+    "name": "Cecília Mauad",
+    "slug": "cecilia-mauad",
+    "role": "Em Casa com Cecília",
+    "initials": "CM",
+    "url": "/sobre"
+  },
+  "description": "免費試用、實付總額與涵蓋月數、每年續訂、司法管轄與稽核：Proton VPN 和 NordVPN 各自公布的內容，以及各適合哪種人。",
+  "metaDescription": "Proton VPN 還是 NordVPN？訂閱前比較免費方案、預付總額、每年續訂、司法管轄與 30 天退款。",
+  "publishedAt": "2026年11月27日",
+  "publishedAtISO": "2026-11-27",
+  "updatedAt": "2026-11-27",
+  "draft": false,
+  "isNew": true,
+  "hideFromPortugueseListings": true,
+  "image": "/images/reviews/proton/proton-vpn-ou-nordvpn-hero-zh-hant.webp",
+  "imageAlt": "Proton VPN 官方插圖：電腦、手機、平板和一個已開啟的鎖形開關。封面提問「Proton VPN 還是 NordVPN？」。",
+  "imageFit": "contain",
+  "imageAspect": "landscape",
+  "contentSections": [
+    {
+      "heading": "快速回答",
+      "paragraphs": [
+        "想先免費試用、或想以最低價用純 VPN 方案，適合選 Proton VPN：透過我們的連結 2 年 $59.76，低於 NordVPN 27 個月的 $80.73，續訂也更便宜。NordVPN 的優勢是多送 3 個月，以及含防毒與雲端的方案。"
+      ]
+    },
+    {
+      "heading": "免費方案與試用：各提供什麼",
+      "paragraphs": [
+        "Proton VPN 有真正的免費方案。依價格頁面，不需信用卡，同時連線 1 台裝置，伺服器位於 10 個國家，由 App 自動選擇。Proton 表示沒有流量限制。只想在公共 Wi-Fi 保護手機的人，可以不花錢使用。免費方案沒有的功能，見 [Proton VPN 值得買嗎？](/zh-hant/reviews/proton-vpn-worth-it-zh-hant)。",
+        "NordVPN 的頁面沒有免費方案。說明中心提到 7 天試用，但僅限新客戶、1 年與 2 年方案、以信用卡或 PayPal 付款，且只在 15 個國家提供；請確認你所在的國家是否在名單內。Android 方面，說明中心提到可透過 Google Play 試用 3 天。",
+        "實際上，Proton 的免費方案沒有期限。NordVPN 則是：所在國家在名單內可用 7 天試用、Android 可用 Google Play 的 3 天試用，或是付費後使用 30 天退款。"
+      ]
+    },
+    {
+      "heading": "預付價格、涵蓋月數與續訂",
+      "paragraphs": [
+        "兩個頁面上的「每月」價格隱藏了兩件事：費用是整段期間一次收取，之後方案每年續訂。所以表格列出實付總額、涵蓋月數與續訂價。「實際每月」一欄是我們自己的計算，即總額除以涵蓋月數。比較的是 Proton 的 VPN Plus 與 NordVPN 的 Basic，後者只有 VPN。",
+        "這些都是黑色星期五價格，NordVPN 稱之為「入門價」。Proton 以每月 $9.99 的月付方案計算折扣。NordVPN 的美元金額來自黑色星期五期間查看其美國頁面的報導（報導稱活動到 12 月 9 日），未含稅；有一篇報導把 Basic 列為每月 $3.49，那是促銷前的定價。結帳時請確認你所用貨幣的總額。"
+      ],
+      "comparisonTable": {
+        "caption": "VPN Plus（Proton）與 Basic（NordVPN）。Proton 依 2026 年 11 月 27 日查看的美元價格頁面，NordVPN 依報導其美國頁面的內容。結帳時請確認幣別與總額。",
+        "headers": [
+          "方案",
+          "預付總額",
+          "涵蓋月數",
+          "實際每月",
+          "每年續訂價"
+        ],
+        "rows": [
+          [
+            "Proton VPN Plus，月付",
+            "$9.99",
+            "1",
+            "$9.99",
+            "每月 $9.99"
+          ],
+          [
+            "Proton VPN Plus，1 年",
+            "$35.88",
+            "12",
+            "$2.99",
+            "$83.88"
+          ],
+          [
+            "Proton VPN Plus，2 年（透過我們的連結）",
+            "$59.76",
+            "24",
+            "$2.49",
+            "$83.88"
+          ],
+          [
+            "Proton VPN Plus，2 年（公開頁面）",
+            "$83.76",
+            "24",
+            "$3.49",
+            "$83.88"
+          ],
+          [
+            "NordVPN Basic，2 年",
+            "$80.73",
+            "27",
+            "$2.99",
+            "$139.08"
+          ]
+        ]
+      },
+      "postParagraphs": [
+        "2 年方案中，NordVPN Basic 比透過我們連結的 Proton 多收 $20.97，但多涵蓋 3 個月。這些額外月份是實際的優勢，也已算進每月欄位。即便如此，透過我們的連結，VPN Plus 每月仍較便宜（$2.49 對 $2.99）。NordVPN 的 1 年方案標示每月 $4.99 並多送 3 個月，但我們無法確認其總額，因此沒有放進表格。",
+        "續訂價影響更大。第一期結束後，Proton 標示 12 個月 $83.88（相當於每月 $6.99），NordVPN 標示 12 個月 $139.08（每月 $11.59）。依標示價格，每年差 $55.20。屆時價格可能變動，兩個頁面也都已公布續訂價。",
+        "表中的 $59.76 來自 Proton 的合作夥伴頁面，也就是我們按鈕開啟的頁面：比公開價格頁面上同一個 2 年方案的 $83.76 少 $24.00，公布的續訂價相同，都是每年 $83.88。以公開頁面的價格，NordVPN 的 2 年方案（$80.73）會較便宜，但 Proton 的 1 年方案（$35.88）仍是表中最低的總額。活動優惠詳見 [Proton 黑色星期五](/zh-hant/reviews/proton-black-friday-zh-hant)。"
+      ],
+      "image": {
+        "src": "/images/reviews/proton/proton-vpn-ou-nordvpn-precos-usd.webp",
+        "alt": "Proton VPN 合作夥伴優惠頁面上的 2 年 VPN Plus 卡片：每月 $2.49，前 24 個月共 $59.76，之後每 12 個月以 $83.88 續訂。",
+        "caption": "Proton 合作夥伴頁面（我們按鈕開啟的頁面）上的 2 年 VPN Plus，2026 年 11 月 27 日：總額涵蓋 24 個月，續訂後改為按年計費。"
+      },
+      "links": [
+        {
+          "label": "查看 VPN Plus",
+          "href": "https://go.getproton.me/SH39K",
+          "sponsored": true
+        }
+      ]
+    },
+    {
+      "heading": "功能並排比較",
+      "paragraphs": [
+        "在純 VPN 方案中，Proton 包含廣告封鎖與連接埠轉發；NordVPN 則是在 Basic 以上的方案或附加項目。表格只列兩家官方頁面所寫的內容，其中一方沒有資料的項目就省略。"
+      ],
+      "comparisonTable": {
+        "caption": "VPN Plus（Proton）與 Basic（NordVPN），依各家說明。",
+        "headers": [
+          "項目",
+          "Proton VPN Plus",
+          "NordVPN Basic"
+        ],
+        "rows": [
+          [
+            "同時連線裝置",
+            "最多 10 台",
+            "最多 10 台"
+          ],
+          [
+            "免費方案",
+            "有：1 台裝置、10 個國家、不需信用卡",
+            "未說明"
+          ],
+          [
+            "免費試用",
+            "不適用",
+            "Android 透過 Google Play 3 天；7 天試用只在 15 個國家，請確認你的國家"
+          ],
+          [
+            "廣告與追蹤器封鎖",
+            "NetShield，Plus 已包含",
+            "從 Complete 方案起列出"
+          ],
+          [
+            "連接埠轉發",
+            "付費方案已包含，支援 Windows、macOS、Linux",
+            "僅限付費附加項目 Dedicated Server"
+          ],
+          [
+            "退款",
+            "30 天，每位使用者一次，須直接向 Proton 訂閱",
+            "首次購買者 30 天"
+          ],
+          [
+            "公司總部",
+            "瑞士",
+            "巴拿馬（依 NordVPN 說法）"
+          ],
+          [
+            "無紀錄政策稽核",
+            "Securitum，2022 至 2026 年每年一次，報告已公開",
+            "六次獨立查核（依 NordVPN 說法）"
+          ]
+        ]
+      },
+      "postParagraphs": [
+        "Proton 在 Plus 列出 Secure Core。NordVPN 在功能頁列出雙重 VPN（Double VPN）、私人 DNS 與分割通道；訂閱前請確認各自屬於哪個方案。",
+        "P2P 方面，Proton 頁面將此功能列在 Plus。NordVPN 的連接埠轉發，說明中心表示必須有付費附加項目「Dedicated Server」；一般伺服器與專屬 IP 都不行。頁面沒有顯示附加項目的價格。Proton 的說明中心則指出所有付費方案在 Windows、macOS 與 Linux 應用程式中都包含連接埠轉發；清單中沒有 Android 與 iPhone。",
+        "速度與串流不在比較範圍內：公司的承諾無法取代在你自己的網路業者上實測，30 天退款正是為此而設。"
+      ]
+    },
+    {
+      "heading": "司法管轄、稽核與開放原始碼",
+      "paragraphs": [
+        "兩家都宣稱無紀錄政策經過第三方稽核；差別在於總部所在地與各自公布的內容。",
+        "Proton VPN 由總部位於瑞士的 Proton AG 營運。不保存紀錄的政策由 Securitum 稽核，Proton 公布 2022 至 2026 年的報告。應用程式的程式碼公開在 GitHub。各份報告涵蓋的範圍見 [Proton VPN 可靠嗎？](/zh-hant/reviews/proton-vpn-trust-zh-hant)。",
+        "NordVPN 表示總部位於巴拿馬，並稱其無紀錄政策接受過六次獨立查核，前兩次由 PwC 瑞士進行，之後由 Deloitte 進行，包括 2023、2024 與 2025 年。這些是其自家頁面的資訊。",
+        "稽核只是受查伺服器在那幾天的快照。它顯示公司接受過外部查核，並不保證之後的情況。兩者都不會讓瀏覽變成匿名：登入帳號後，仍會被該帳號識別。"
+      ]
+    },
+    {
+      "heading": "付款、取消與退款",
+      "paragraphs": [
+        "Proton 接受 Visa、Mastercard、American Express 與 PayPal，比特幣僅能在建立帳號後以點數方式使用。NordVPN 顯示 Mastercard、Visa、Amex 與 Discover 標誌，頁面標題提到「信用卡、加密貨幣或 PayPal」。",
+        "兩家都提供 30 天退款，但規則不同。依 Proton 的條款，每位使用者一次，且僅限直接向 Proton 訂閱。NordVPN 說的是首次購買者 30 天，透過客服申請；經 App Store 購買則依 Apple 政策。Proton 的步驟見 [如何取消 Proton VPN 並申請退款](/zh-hant/reviews/proton-vpn-refund-zh-hant)。"
+      ]
+    },
+    {
+      "heading": "完整套組何時重要",
+      "paragraphs": [
+        "這部分 NordVPN 有很強的論點。Complete 方案在 VPN 之外加上防毒、廣告與追蹤器封鎖、資料監控、通話保護、密碼管理器與 1 TB 雲端空間。27 個月 $107.73，續訂每年 $219.48。最高階的 Prime 為 27 個月 $188.73，續訂 $296.28。",
+        "Proton 以 Unlimited 回應，整合 VPN、電子郵件、500 GB 雲端空間與密碼管理器。以每年續訂價來看，Unlimited（$119.88）低於 Complete（$219.48），但兩個套組並不相同：Proton 的是郵件、雲端與密碼，NordVPN 的含防毒。期間也不同（27 個月對 12 個月），所以我們沒有把兩者放在同一行價格上。如果你看重套組，請讀 [Proton Unlimited 值得買嗎？](/zh-hant/reviews/proton-unlimited-worth-it-zh-hant)，決定前也請看 [我們網站上的 Proton 頁面](/zh-hant/coupons/proton)。"
+      ]
+    },
+    {
+      "heading": "怎麼選",
+      "paragraphs": [
+        "想從免費開始、續訂付得少，或想在電腦上不加購就用連接埠轉發，並且重視開放原始碼應用程式與每年稽核的無紀錄政策，就選 Proton VPN。想在同一方案取得防毒、監控與雲端，或認為多送的 3 個月比續訂價更重要，就選 NordVPN。",
+        "無論選哪個，購買當天就把續訂日期記下來。"
+      ],
+      "emphasis": "請看實付總額、涵蓋月數與續訂價，而不是每月價格：NordVPN 多涵蓋 3 個月，Proton 續訂每年便宜 $55.20。",
+      "links": [
+        {
+          "label": "查看 VPN Plus",
+          "href": "https://go.getproton.me/SH39K",
+          "sponsored": true
+        }
+      ]
+    },
+    {
+      "heading": "常見問題",
+      "bullets": [
+        "2 年下來哪個比較便宜：Proton VPN 還是 NordVPN？透過我們的連結，Proton 的 2 年方案總額與每月都較低；NordVPN 則多涵蓋 3 個月。續訂時 Proton 標示的價格也較低。數字都在價格表中。",
+        "NordVPN 有像 Proton VPN 那樣的免費方案嗎？沒有：它的 7 天試用只在部分國家，Android 為 Google Play 3 天，而 Proton 有不需信用卡的免費方案。",
+        "兩者中哪個有連接埠轉發？Proton 在所有付費方案的 Windows、macOS 與 Linux 應用程式中包含；NordVPN 只有加購 Dedicated Server 才有。",
+        "要拿到 Proton VPN 的折扣需要優惠碼嗎？不需要。Proton 不使用代碼：折扣已反映在價格上，我們的連結會開啟其頁面上的合作夥伴優惠。規則見 [我們網站上的 Proton 頁面](/zh-hant/coupons/proton)。",
+        "兩家都能退款嗎？可以，30 天內依各自規則：Proton 每位使用者一次，NordVPN 則限首次購買者。"
+      ]
+    }
+  ],
+  "pros": [],
+  "cons": [],
+  "cta": {
+    "text": "想使用 VPN Plus 兩年，我們的連結會開啟 Proton 的合作夥伴優惠，24 個月費用須預付。之後標示的續訂為每年一次，實際依續訂時有效價格。結帳時請確認幣別與總額。",
+    "label": "透過連結查看 VPN Plus",
+    "url": "https://go.getproton.me/SH39K",
+    "sponsored": true
+  },
+  "affiliate": "proton",
+  "editorialNote": "依兩家公司的方案與說明頁面撰寫，沒有做速度測試。Proton 的連結是聯盟連結，可能為我們帶來佣金。",
+  "relatedArticles": [
+    {
+      "slug": "proton-vpn-worth-it-zh-hant"
+    },
+    {
+      "slug": "proton-vpn-trust-zh-hant"
+    },
+    {
+      "slug": "proton-vpn-refund-zh-hant"
+    },
+    {
+      "slug": "proton-black-friday-zh-hant"
+    }
+  ],
+  "decision": {
+    "takeIf": [
+      "你想從免費方案開始、降低起步與續訂的費用，或想在電腦上不加購就使用連接埠轉發。",
+      "你只需要 VPN，並想要續訂價較低的方案。"
+    ],
+    "skipIf": [
+      "你想在 VPN 的同一方案中取得防毒、資料監控與雲端，如 NordVPN 的 Complete。",
+      "NordVPN 方案多送的 3 個月對你比續訂價更重要。"
+    ]
+  }
+}
