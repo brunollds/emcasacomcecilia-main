@@ -127,3 +127,14 @@ Feita para a DN4 ([[cafeteira-para-airbnb-pousada]]). Preços de campanha de Bla
 ### Perguntas reais: café para hóspedes (autocompletar, 27/11)
 
 "cafeteira para airbnb", "melhor cafeteira para airbnb", "cafeteira airbnb", "maquina de cafe para airbnb", "café para airbnb", "capsulas para airbnb", "kit cafe airbnb", "o que deixar no airbnb", "cafeteira para pousada", "cafeteira para hotel", "cafeteira para quarto de hotel", "dolce gusto hotel". Sem sugestão: "dolce gusto airbnb", "dolce gusto para pousada".
+
+### Garantia: uso doméstico (manual da Mini Me, lido em 27/11/2026)
+
+`/media/Manual_Mine_Me.pdf`, precauções de segurança, item 3: "Este aparelho destina-se a ser usado exclusivamente em ambientes domésticos. O aparelho não foi concebido, nem deve ser utilizado, nas aplicações seguintes (a garantia não cobre tais aplicações): cozinhas coletivas em estabelecimentos comerciais, escritórios e outros locais de trabalho; residências rurais; utilização direta por clientes em hotéis, motéis e outros estabelecimentos hoteleiros". Item 4: em caso de utilização indevida, o fabricante "cancelará a respectiva garantia". O manual das Genio S não foi lido. Atinge os artigos de escritório, CNPJ, consultório, salão e hospedagem: nenhum pode dizer que o site não fala de uso comercial.
+
+### Kits e combos de Black Friday (27/11/2026)
+
+- "Leve 10 Pague 6": 100 cápsulas por R$ 155,40 (Espresso, Mochaccino Canela, Au Lait, Caffè Matinal, Espresso Intenso). A página do "Leve 10 Pague 5" dá "Página não encontrada".
+- "Máquina grátis + 55 caixas": 550 cápsulas e uma Genio S Basic branca por R$ 874,50.
+- Assinatura, termos, item 3.4: 25% e frete grátis em todo pedido de assinatura, com mínimo de 3 caixas.
+- CECI no kit e no combo de 55 caixas: não testado.
