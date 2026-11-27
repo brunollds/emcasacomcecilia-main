@@ -1,0 +1,312 @@
+{
+  "id": 1503,
+  "slug": "proton-unlimited-worth-it-zh-hant",
+  "locale": "zh-hant",
+  "translationKey": "proton-unlimited-vale-a-pena",
+  "title": "Proton Unlimited 值得買嗎？500 GB 包含什麼，以及與單項方案的比較",
+  "seoTitle": "Proton Unlimited 值得買嗎？包含內容與實際價格",
+  "type": "購買指南",
+  "category": "guias-praticos-utilidade",
+  "reviewKind": "guia",
+  "author": {
+    "name": "Cecília Mauad",
+    "slug": "cecilia-mauad",
+    "role": "Em Casa com Cecília",
+    "initials": "CM",
+    "url": "/sobre"
+  },
+  "description": "說明 Proton Unlimited 包含什麼、為何它是在同一帳號使用付費信箱與 VPN 的做法，以及第一年之後續訂時整個方案要多少錢。",
+  "metaDescription": "Proton Unlimited 值得買嗎？包含內容、為何 Proton 不讓兩個 Plus 方案放在同一帳號，以及續訂價格。",
+  "publishedAt": "2026年11月27日",
+  "publishedAtISO": "2026-11-27",
+  "updatedAt": "2026-11-27",
+  "draft": false,
+  "isNew": true,
+  "hideFromPortugueseListings": true,
+  "image": "/images/reviews/proton/proton-unlimited-vale-a-pena-hero-zh-hant.webp",
+  "imageAlt": "來自 Proton 官網首頁的應用程式圖示格（信箱、VPN、雲端儲存、密碼管理器）。封面提問「Proton Unlimited 值得買嗎？」。",
+  "imageFit": "contain",
+  "imageAspect": "landscape",
+  "contentSections": [
+    {
+      "heading": "快速回答",
+      "paragraphs": [
+        "是的，如果你想在同一帳號使用付費信箱和 VPN，或要用三項以上的 Proton 服務，就值得。Proton 不讓兩個 Plus 方案放在同一帳號，路只有 Unlimited。只要 VPN、只要信箱，或只要 VPN 加密碼管理，另有更便宜的方案。續訂價格明顯高於第一年。"
+      ]
+    },
+    {
+      "heading": "Proton Unlimited 包含什麼",
+      "paragraphs": [
+        "Unlimited 把 Proton 的信箱、VPN、雲端與密碼管理器放進同一個帳號。方案頁面列出 500 GB 儲存空間、15 個地址、3 個自訂網域、無限別名，以及 VPN、Pass 和 Drive 的付費版本。",
+        "依 Proton 所述，免費帳號有 Mail、Calendar、Drive 和 VPN 的基本功能，信箱為 1 個地址和 1 GB；免費 Drive 有 5 GB。下表把 Unlimited 與信箱額度最接近的單項方案 Mail Plus 並排比較。"
+      ],
+      "comparisonTable": {
+        "caption": "Proton 方案頁面上的 Mail Plus 與 Unlimited。",
+        "headers": [
+          "功能",
+          "Mail Plus",
+          "Unlimited"
+        ],
+        "rows": [
+          [
+            "儲存空間",
+            "15 GB",
+            "500 GB"
+          ],
+          [
+            "電子郵件地址",
+            "10",
+            "15"
+          ],
+          [
+            "自訂網域",
+            "1",
+            "3"
+          ],
+          [
+            "電子郵件別名",
+            "10 (hide-my-email)",
+            "無限"
+          ],
+          [
+            "VPN Plus",
+            "不包含",
+            "包含"
+          ],
+          [
+            "Pass Plus 與 Drive Plus",
+            "不包含",
+            "包含"
+          ],
+          [
+            "Emergency Access 與 Dark Web Monitoring",
+            "包含",
+            "包含"
+          ],
+          [
+            "Proton Sentinel",
+            "不包含",
+            "包含"
+          ]
+        ]
+      },
+      "accordionBlock": {
+        "heading": "Unlimited 內每項服務包含什麼",
+        "paragraphs": [
+          "Mail：上表的 15 個地址、3 個自訂網域和無限別名，加上比較表中的 Emergency Access 與 Dark Web Monitoring。",
+          "VPN Plus：依 Proton 的說明，最多 10 台裝置同時連線、超過 140 個國家的伺服器、NetShield（廣告、追蹤器與惡意軟體過濾）以及 P2P。VPN Plus 能做與不能做的事，請見[Proton VPN 值得買嗎？](/zh-hant/reviews/proton-vpn-worth-it-zh-hant)。",
+          "Pass Plus：依方案頁面的說明，裝置與別名皆無限。",
+          "Drive：單買的 Drive Plus 有 200 GB；在 Unlimited 中，空間就是帳號的 500 GB。",
+          "Proton Sentinel：比較表標示此功能僅 Unlimited 有，免費方案與 Mail Plus 都沒有。"
+        ]
+      },
+      "postParagraphs": [
+        "我們自己的使用量不大：Proton Mail 用免費方案，已經將近十年。"
+      ]
+    },
+    {
+      "heading": "算一算：一個 Plus 方案、VPN 加 Pass 套裝，還是 Unlimited",
+      "paragraphs": [
+        "算之前先看規則：Proton 不讓同一帳號有兩個 Plus 方案。Proton VPN 說明中心以 VPN Plus 加 Mail Plus 為例，並建議想要多項服務付費功能的人選 Unlimited。在單一帳號中，選擇是一個 Plus、優惠頁面的 VPN x Pass Plus 套裝，或 Unlimited。",
+        "以下價格取自 Proton 的頁面，以美元計，含第一年的黑色星期五價格，旁邊附上續訂金額。每個方案都按整段期間一次收費，折扣以月費為基準計算。"
+      ],
+      "comparisonTable": {
+        "caption": "2026 年 11 月 27 日黑色星期五價格，旁附續訂金額。單項方案的加總是我們的計算，需要分開的帳號。",
+        "headers": [
+          "你訂閱的內容",
+          "第一期",
+          "續訂（12 個月）"
+        ],
+        "rows": [
+          [
+            "僅 Pass Plus（1 年）",
+            "23.88 美元",
+            "35.88 美元"
+          ],
+          [
+            "僅 Mail Plus 或僅 Drive Plus（1 年）",
+            "29.88 美元",
+            "47.88 美元"
+          ],
+          [
+            "僅 VPN Plus（1 年）",
+            "35.88 美元",
+            "83.88 美元"
+          ],
+          [
+            "VPN x Pass Plus 套裝（24 個月，優惠頁面）",
+            "24 個月共 119.76 美元",
+            "107.88 美元"
+          ],
+          [
+            "VPN Plus + Mail Plus，分開的帳號",
+            "65.76 美元",
+            "131.76 美元"
+          ],
+          [
+            "Mail Plus + Drive Plus + Pass Plus，分開的帳號",
+            "83.64 美元",
+            "131.64 美元"
+          ],
+          [
+            "四個單項方案全包，分開的帳號",
+            "119.52 美元",
+            "215.52 美元"
+          ],
+          [
+            "Proton Unlimited（1 年）",
+            "77.88 美元",
+            "119.88 美元"
+          ]
+        ]
+      },
+      "postParagraphs": [
+        "只買一項服務，第一年和續訂時都比 Unlimited 便宜。VPN 加密碼管理，Proton 賣的是 VPN x Pass Plus 套裝：在優惠頁面上每年續訂 107.88 美元，低於 Unlimited 的續訂價。24 個月下來，套裝是 119.76 美元，兩年的 Unlimited 是 191.76 美元。要把付費信箱和 VPN 放在同一帳號，個人方案就是 Unlimited。",
+        "兩項服務分開帳號訂閱時，VPN Plus 加 Mail Plus 第一年比 Unlimited 便宜，續訂時更貴。兩項、三項、四項單項方案的列是我們自己加總的，只有分開的帳號（各有各的登入）才成立。即便如此，從第三項服務起，兩段期間的加總都超過 Unlimited：四項合計第一年多 41.64 美元，續訂時多 95.64 美元。",
+        "只想要 VPN 的人，路不一樣。透過合作夥伴連結，兩年的 VPN Plus 前 24 個月為 59.76 美元，之後每 12 個月續訂 83.88 美元。完整算法請見[Proton VPN 值得買嗎？](/zh-hant/reviews/proton-vpn-worth-it-zh-hant)。"
+      ],
+      "links": [
+        {
+          "label": "查看 Proton 的方案",
+          "href": "https://go.getproton.me/SH39K",
+          "sponsored": true
+        }
+      ]
+    },
+    {
+      "heading": "1 個月、1 年或 2 年的週期",
+      "paragraphs": [
+        "月付一開始的支出最小，1 年方案的每月價格最低；2 年方案只比它多省 6.00 美元。",
+        "Unlimited 在價格頁面有三種週期。全部都是預付，顯眼的數字（「每月」）只是總額除出來的結果。"
+      ],
+      "comparisonTable": {
+        "caption": "各週期的 Proton Unlimited，以美元計。請在結帳時確認幣別與總額。",
+        "headers": [
+          "週期",
+          "每月",
+          "一次收費",
+          "之後續訂為"
+        ],
+        "rows": [
+          [
+            "1 個月",
+            "12.99 美元",
+            "12.99 美元",
+            "每月 12.99 美元"
+          ],
+          [
+            "1 年",
+            "6.49 美元",
+            "77.88 美元",
+            "每 12 個月 119.88 美元"
+          ],
+          [
+            "2 年",
+            "7.99 美元",
+            "191.76 美元",
+            "每 12 個月 119.88 美元"
+          ]
+        ]
+      },
+      "postParagraphs": [
+        "月付連續付 12 個月要 155.88 美元。一次收費的一年是 77.88 美元，但續訂漲 42.00 美元，變成 119.88 美元。2 年方案是 191.76 美元；一年加一次續訂合計 197.76 美元，也就是多 6.00 美元。2 年方案把錢綁得更久。",
+        "依 Proton 網站所述，續訂是自動的。購買當天請記下扣款日。想先試 VPN 的話，Proton VPN 的價格頁面標示 Unlimited 第一個月 1.00 美元，之後每月續訂 12.99 美元。"
+      ],
+      "image": {
+        "src": "/images/reviews/proton/proton-unlimited-vale-a-pena-precos-usd.webp",
+        "alt": "以美元顯示的英文版 Proton 價格頁面。Unlimited 卡片上定價 $12.99 被劃掉，每月 $6.49，50% OFF，前 12 個月收 $77.88，之後每 12 個月續訂 $119.88。",
+        "caption": "以美元顯示的 Proton 價格頁面，2026 年 11 月 27 日。"
+      }
+    },
+    {
+      "heading": "Proton Unlimited、Duo 或 Family，以及終身帳號",
+      "paragraphs": [
+        "想與另一個人分攤，續訂時 Duo 的每人費用比 Unlimited 低。",
+        "Duo 和 Family 在家庭方案頁面。Duo 最多 2 位使用者，2 TB，每月 14.99 美元，每 12 個月收 179.88 美元。Family 最多 6 位同住的人，3 TB，每月 23.99 美元，每 12 個月 287.88 美元。",
+        "Unlimited 是 1 位使用者的個人帳號。Duo 適合與另一個人分攤方案：每人每年 89.94 美元，低於 Unlimited 續訂時的 119.88 美元，高於第一年的 77.88 美元（我們的計算）。我們沒有比較 Duo 和 Family 各項服務與 Unlimited 的差異，只比了價格和空間；切換前請先在頁面上確認。",
+        "Proton 不賣 Unlimited 的終身方案。在一篇談終身帳號的部落格文章中，該公司表示這種帳號不開放購買，只在年底慈善抽獎中送出。在售的是 Proton Pass + SimpleLogin Lifetime（199 美元），涵蓋 Pass 和 SimpleLogin，不是 Unlimited。"
+      ]
+    },
+    {
+      "heading": "不利的地方",
+      "bullets": [
+        "**續訂價高出很多。** Unlimited 第二年的費用比第一年多約一半；金額見週期表。",
+        "**預付。** 一年或兩年的費用一次扣款，續訂是自動的。",
+        "**付款方式有限。** Proton 列出 Visa、Mastercard、American Express 和 PayPal；現金儲值、轉帳或 Bitcoin 要建立帳號後才能用。",
+        "**取消就是降級。** 超出新方案上限的內容必須刪除；細節見常見問題。",
+        "**退款只適用於首次購買**，須在 30 天內。做法見[如何取消 Proton VPN 並申請退款](/zh-hant/reviews/proton-vpn-refund-zh-hant)。",
+        "**在 iPhone 上可能有加價。** Proton 提醒透過 iOS 訂閱可能更貴；請在網站上訂閱。"
+      ]
+    },
+    {
+      "heading": "哪種選擇適合你",
+      "paragraphs": [
+        "決定取決於你實際使用的付費服務數量："
+      ],
+      "bullets": [
+        "**只用信箱，免費就夠：** 留在免費方案。我們就是這樣。",
+        "**只想要 VPN：** 單買 VPN Plus 在兩段期間都比 Unlimited 便宜。算法見[Proton VPN 值得買嗎？](/zh-hant/reviews/proton-vpn-worth-it-zh-hant)。如果你在與 NordVPN 比較，請看[Proton VPN 與 NordVPN](/zh-hant/reviews/proton-vpn-vs-nordvpn-zh-hant)。",
+        "**想要 VPN 加密碼管理：** 比較 VPN x Pass Plus 套裝，其續訂價低於 Unlimited。",
+        "**想要付費信箱和 VPN：** 在單一帳號中，就是 Unlimited。",
+        "**想要三、四項服務，或 15 個地址和 3 個網域：** Unlimited 把一切放進一個帳號，比單項方案的加總便宜。",
+        "**想與另一個人分攤：** 看看 Duo。",
+        "**想要今天最低價：** 黑色星期五已反映在方案中；請看 [Proton 黑色星期五指南](/zh-hant/reviews/proton-black-friday-zh-hant)。"
+      ],
+      "emphasis": "在單一帳號中，Proton 不讓兩個 Plus 方案並存。想要付費信箱和 VPN，就選 Unlimited；只要一項服務，該服務的 Plus 在兩段期間都比較便宜。",
+      "postParagraphs": [
+        "沒有優惠碼可以輸入：按鈕會透過我們的合作連結開啟 Proton 的方案頁面。連結的規則請見[我們網站上的 Proton 頁面](/zh-hant/coupons/proton)。"
+      ],
+      "links": [
+        {
+          "label": "查看 Proton Unlimited 年付優惠",
+          "href": "https://go.getproton.me/SH39K",
+          "sponsored": true
+        }
+      ]
+    },
+    {
+      "heading": "常見問題",
+      "bullets": [
+        "可以在同一帳號訂閱 VPN Plus 和 Mail Plus 嗎？不行。Proton 表示一個帳號不能有兩個 Plus 方案；想兩者都付費，做法是 Unlimited，它包含最多 10 台裝置的付費 VPN。",
+        "Proton Unlimited 有折扣優惠碼嗎？沒有優惠碼。折扣直接顯示在方案價格上，以月費為基準計算，續訂金額就在旁邊。",
+        "Proton Unlimited 有終身方案嗎？Proton 表示不販售。終身帳號只在年底慈善抽獎中送出，在售的 Lifetime 僅限 Pass 和 SimpleLogin。",
+        "取消後我的檔案會怎樣？依 Proton 的常見問題，取消就是在控制台降級。你仍可存取，但超出新方案上限的內容必須刪除；額度滿了，帳號就收不到郵件，也無法上傳檔案。",
+        "30 天退款如何運作？依條款，僅適用於首次購買、每位使用者一次，申請與取消都必須在期限內；申請透過支援表單，且只適用於直接向 Proton 訂閱的方案。"
+      ]
+    }
+  ],
+  "pros": [],
+  "cons": [],
+  "cta": {
+    "text": "透過我們的連結，Unlimited 年付第一年為 77.88 美元，之後每 12 個月以 119.88 美元續訂。預付，續訂是自動的；請在結帳時確認幣別與總額。",
+    "label": "查看 Proton Unlimited 年付優惠",
+    "url": "https://go.getproton.me/SH39K",
+    "sponsored": true
+  },
+  "affiliate": "proton",
+  "editorialNote": "本文依據 Proton 的方案頁面與條款撰寫，沒有實際測試付費方案。我們使用免費的 Proton Mail 將近十年。這個連結是聯盟連結，可能為我們帶來佣金。",
+  "relatedArticles": [
+    {
+      "slug": "proton-vpn-worth-it-zh-hant"
+    },
+    {
+      "slug": "proton-black-friday-zh-hant"
+    },
+    {
+      "slug": "proton-vpn-refund-zh-hant"
+    },
+    {
+      "slug": "proton-vpn-trust-zh-hant"
+    }
+  ],
+  "decision": {
+    "takeIf": [
+      "你想在同一帳號使用付費信箱和付費 VPN：個人方案中，只有 Unlimited 同時包含兩者。",
+      "你正在使用或打算使用三、四項 Proton 付費服務，或需要多個地址和自訂網域。"
+    ],
+    "skipIf": [
+      "你只要 VPN，或只要 VPN 加密碼管理：VPN Plus 和 VPN x Pass Plus 套裝比較便宜。",
+      "免費的 Mail 方案已夠用，或續訂金額超出你的預算。"
+    ]
+  }
+}

@@ -1,0 +1,266 @@
+{
+  "id": 1494,
+  "slug": "proton-vpn-ou-nordvpn",
+  "locale": "pt",
+  "translationKey": "proton-vpn-ou-nordvpn",
+  "title": "Proton VPN ou NordVPN: plano grátis, preço com renovação e qual escolher",
+  "seoTitle": "Proton VPN ou NordVPN: preço, renovação e diferenças",
+  "type": "Comparativo",
+  "category": "guias-praticos-utilidade",
+  "reviewKind": "guia",
+  "author": {
+    "name": "Cecília Mauad",
+    "slug": "cecilia-mauad",
+    "role": "Em Casa com Cecília",
+    "initials": "CM",
+    "url": "/sobre"
+  },
+  "description": "Teste grátis, total pago e meses cobertos, renovação anual, jurisdição e auditorias: o que a Proton VPN e a NordVPN informam e para quem cada uma serve.",
+  "metaDescription": "Proton VPN ou NordVPN? Compare plano grátis, total à vista, renovação anual, jurisdição e reembolso de 30 dias antes de assinar.",
+  "publishedAt": "27 de novembro de 2026",
+  "publishedAtISO": "2026-11-27",
+  "updatedAt": "2026-11-27",
+  "draft": false,
+  "isNew": true,
+  "image": "/images/reviews/proton/proton-vpn-ou-nordvpn-hero-pt.webp",
+  "imageAlt": "Ilustração oficial da Proton VPN com computador, celular, tablet e um interruptor de cadeado ligado. A capa pergunta “Proton VPN ou NordVPN?”.",
+  "imageFit": "contain",
+  "imageAspect": "landscape",
+  "contentSections": [
+    {
+      "heading": "Resposta rápida",
+      "paragraphs": [
+        "A Proton VPN serve a quem quer testar sem pagar e a quem quer o menor preço no plano só de VPN: pelo nosso link, o de 2 anos sai por R$ 210,96, contra R$ 267,30 da NordVPN por 27 meses, e renova por menos. A NordVPN leva vantagem nos três meses extras e nos planos com antivírus e nuvem."
+      ]
+    },
+    {
+      "heading": "Plano grátis e teste: o que cada uma oferece",
+      "paragraphs": [
+        "A Proton VPN tem plano grátis de verdade. Segundo a página de preços, ele não pede cartão, liga 1 dispositivo por vez e usa servidores de 10 países, escolhidos pelo aplicativo. A Proton diz que não há limite de dados. Quem quer só proteger o celular em um Wi-Fi público consegue usar sem gastar. O que o grátis deixa de fora está em [Proton VPN vale a pena?](/reviews/proton-vpn-vale-a-pena).",
+        "A NordVPN não oferece plano grátis nas páginas dela. Ela tem um teste de 7 dias, descrito na central de ajuda, mas só para novos clientes, nos planos de 1 e de 2 anos, com cartão ou PayPal, e só em 15 países. O Brasil não está na lista. No Android, a central fala em um teste de 3 dias pela Google Play.",
+        "Na prática, quem está no Brasil tem o plano grátis da Proton, sem prazo. Na NordVPN, resta o teste de 3 dias no Android, pela Google Play, ou pagar e usar o reembolso de 30 dias."
+      ]
+    },
+    {
+      "heading": "Preço à vista, meses cobertos e renovação",
+      "paragraphs": [
+        "O valor \"por mês\" das duas páginas esconde dois detalhes: a cobrança é do período inteiro, de uma vez, e o plano renova por ano depois. Por isso a tabela mostra o total pago, os meses cobertos e a renovação. A coluna \"por mês efetivo\" é conta nossa, o total dividido pelos meses cobertos. O par é o VPN Plus, da Proton, e o Básico, da NordVPN, que é só a VPN.",
+        "São preços de Black Friday, e a NordVPN os chama de \"preços de introdução\". A Proton calcula o desconto sobre o plano mensal de R$ 34,99. A NordVPN mostra riscados R$ 861,30 no plano de 2 anos e R$ 478,50 no de 1 ano. A página de preços da NordVPN no Brasil não traz plano mensal."
+      ],
+      "comparisonTable": {
+        "caption": "VPN Plus (Proton) e Básico (NordVPN) nas páginas de preços em reais, em 26/11/2026. Confira a moeda e o total no checkout.",
+        "headers": [
+          "Plano",
+          "Total pago de uma vez",
+          "Meses cobertos",
+          "Por mês efetivo",
+          "Renovação anual"
+        ],
+        "rows": [
+          [
+            "Proton VPN Plus, mensal",
+            "R$ 34,99",
+            "1",
+            "R$ 34,99",
+            "R$ 34,99 todo mês"
+          ],
+          [
+            "Proton VPN Plus, 1 ano",
+            "R$ 125,88",
+            "12",
+            "R$ 10,49",
+            "R$ 293,88"
+          ],
+          [
+            "Proton VPN Plus, 2 anos pelo nosso link",
+            "R$ 210,96",
+            "24",
+            "R$ 8,79",
+            "R$ 293,88"
+          ],
+          [
+            "Proton VPN Plus, 2 anos, página pública",
+            "R$ 294,96",
+            "24",
+            "R$ 12,29",
+            "R$ 293,88"
+          ],
+          [
+            "NordVPN Básico, 1 ano",
+            "R$ 238,50",
+            "15",
+            "R$ 15,90",
+            "R$ 382,80"
+          ],
+          [
+            "NordVPN Básico, 2 anos",
+            "R$ 267,30",
+            "27",
+            "R$ 9,90",
+            "R$ 382,80"
+          ]
+        ]
+      },
+      "postParagraphs": [
+        "No plano de 2 anos, a NordVPN cobra R$ 56,34 a mais que a Proton pelo nosso link, mas cobre 3 meses a mais. No de 1 ano, a diferença é de R$ 112,62, também com 3 meses extras para a NordVPN. Esses meses extras são uma vantagem real dela, e entram na coluna do valor por mês. Mesmo assim, pelo nosso link, o VPN Plus sai mais barato por mês nos dois prazos.",
+        "A renovação pesa mais. Depois do primeiro período, a Proton anuncia R$ 293,88 por 12 meses, o equivalente a R$ 24,49 por mês, e a NordVPN, R$ 382,80 por 12 meses, ou R$ 31,90 por mês. São R$ 88,92 de diferença por ano, pelos valores anunciados. O preço pode mudar até lá, e as duas páginas já anunciam o valor da renovação.",
+        "Os R$ 210,96 da tabela vêm da página de parceiros da Proton, a que o nosso botão abre: são R$ 84,00 a menos que os R$ 294,96 do mesmo plano de 2 anos na página pública dela, com a mesma renovação anunciada, de R$ 293,88 por ano. Pelos preços da página pública, o de 2 anos da NordVPN sairia mais barato, e o de 1 ano da Proton continuaria abaixo. Mais sobre as ofertas da campanha em [Black Friday da Proton](/reviews/black-friday-proton)."
+      ],
+      "image": {
+        "src": "/images/reviews/proton/proton-vpn-ou-nordvpn-precos-brl.webp",
+        "alt": "Cartão do VPN Plus de 2 anos na página de ofertas de parceiros da Proton VPN, a R$ 8,79 por mês, R$ 210,96 pelos primeiros 24 meses e renovação por R$ 293,88 a cada 12 meses.",
+        "caption": "O VPN Plus de 2 anos na página de parceiros da Proton, a que o nosso botão abre: o total cobre 24 meses, e a renovação passa a ser anual."
+      },
+      "links": [
+        {
+          "label": "Ver o VPN Plus",
+          "href": "https://go.getproton.me/SH39K",
+          "sponsored": true
+        }
+      ]
+    },
+    {
+      "heading": "Recursos lado a lado",
+      "paragraphs": [
+        "No plano só de VPN, a Proton inclui o bloqueio de anúncios e o port forwarding; na NordVPN, os dois ficam em plano ou adicional acima do Básico. A tabela traz só o que as páginas oficiais das duas dizem. Onde falta dado de uma delas, a linha ficou de fora."
+      ],
+      "comparisonTable": {
+        "caption": "VPN Plus (Proton) e Básico (NordVPN), segundo cada empresa.",
+        "headers": [
+          "Item",
+          "Proton VPN Plus",
+          "NordVPN Básico"
+        ],
+        "rows": [
+          [
+            "Aparelhos ao mesmo tempo",
+            "Até 10",
+            "Até 10"
+          ],
+          [
+            "Plano grátis",
+            "Sim: 1 aparelho, 10 países, sem cartão",
+            "Não informado"
+          ],
+          [
+            "Teste grátis",
+            "Não se aplica",
+            "3 dias no Android, pela Google Play; o de 7 dias não vale no Brasil"
+          ],
+          [
+            "Bloqueio de anúncios e rastreadores",
+            "NetShield, incluído no Plus",
+            "Listado a partir do plano Completo"
+          ],
+          [
+            "Port forwarding",
+            "Incluído nos planos pagos, em Windows, macOS e Linux",
+            "Só com o adicional pago Dedicated Server"
+          ],
+          [
+            "Reembolso",
+            "30 dias, uma vez por usuário, assinatura direta com a Proton",
+            "30 dias para quem compra pela primeira vez"
+          ],
+          [
+            "Sede da empresa",
+            "Suíça",
+            "Panamá, segundo a NordVPN"
+          ],
+          [
+            "Auditoria da política sem registros",
+            "Securitum, todo ano de 2022 a 2026, com relatório publicado",
+            "Seis análises independentes, de acordo com a NordVPN"
+          ]
+        ]
+      },
+      "postParagraphs": [
+        "A Proton lista o Secure Core no Plus. A NordVPN lista a VPN dupla (Double VPN), o DNS privado e o split tunneling na página de recursos; confira em qual plano cada um entra antes de assinar.",
+        "Em P2P, a página da Proton lista o recurso no Plus. Sobre port forwarding na NordVPN, a central de ajuda diz que só funciona com o adicional pago \"Dedicated Server\"; os servidores comuns e o IP dedicado não fazem. A página não mostra o preço do adicional. Na Proton, a central de ajuda inclui o port forwarding em todos os planos pagos, nos aplicativos de Windows, macOS e Linux; Android e iPhone não aparecem na lista.",
+        "Velocidade e streaming ficaram de fora: promessa de empresa não substitui um teste no seu provedor, e os 30 dias de reembolso servem para isso."
+      ]
+    },
+    {
+      "heading": "Jurisdição, auditorias e código aberto",
+      "paragraphs": [
+        "As duas declaram política sem registros auditada por terceiros; a diferença está na sede e no que cada uma publica.",
+        "A Proton VPN é operada pela Proton AG, com sede na Suíça. A política de não guardar registros é auditada pela Securitum, e a Proton publica os relatórios de 2022 a 2026. O código dos aplicativos está aberto no GitHub. Os detalhes, com o que cada relatório cobre, estão em [Proton VPN é confiável?](/reviews/proton-vpn-e-confiavel).",
+        "A NordVPN diz estar sediada no Panamá e afirma ter passado por seis análises independentes da política sem registros, as duas primeiras pela PwC Suíça e as seguintes pela Deloitte, inclusive em 2023, 2024 e 2025. São informações da própria página dela.",
+        "Uma auditoria é um retrato dos servidores examinados naqueles dias. Ela mostra que a empresa passou por conferência externa, e não garante o que acontece depois. Nenhuma das duas torna a navegação anônima: quem entra numa conta continua identificado por ela."
+      ]
+    },
+    {
+      "heading": "Pagamento, cancelamento e reembolso",
+      "paragraphs": [
+        "A Proton aceita Visa, Mastercard, American Express e PayPal, e Bitcoin só por créditos depois de criar a conta. A NordVPN mostra as bandeiras Mastercard, Visa, Amex e Discover, e o título da página cita \"cartão, cripto ou PayPal\". Pix não aparece em nenhuma das duas.",
+        "As duas dão 30 dias de reembolso, com regras diferentes. Nos termos da Proton, vale uma vez por usuário e só para assinatura feita direto com ela. A NordVPN fala em 30 dias para quem compra pela primeira vez, com pedido pelo suporte; compra pela App Store segue a política da Apple. O passo a passo da Proton está em [como cancelar o Proton VPN e pedir o reembolso](/reviews/proton-vpn-reembolso-como-cancelar)."
+      ]
+    },
+    {
+      "heading": "Quando o pacote completo pesa",
+      "paragraphs": [
+        "Aqui a NordVPN tem um argumento forte. O plano Completo soma à VPN o antivírus, o bloqueio de anúncios e rastreadores, o monitoramento de dados, a proteção de chamadas, um gerenciador de senhas e 1 TB de nuvem. Custa R$ 348,30 por 27 meses e renova por R$ 586,80 ao ano. O Completo Max, de R$ 510,30 por 27 meses e renovação de R$ 934,80, soma o IP dedicado.",
+        "A Proton responde a isso com o Unlimited, que junta VPN, e-mail, nuvem de 500 GB e gerenciador de senhas. Na renovação anual, o Unlimited fica abaixo do Completo, mas os pacotes não são iguais: o da Proton é de e-mail, nuvem e senhas, e o da NordVPN inclui antivírus. Os períodos também diferem (27 meses contra 12), e por isso não pomos os dois numa mesma linha de preço. Se o pacote é o que interessa, leia [Proton Unlimited vale a pena?](/reviews/proton-unlimited-vale-a-pena) e veja a [página da Proton no nosso site](/cupons/proton) antes de decidir."
+      ]
+    },
+    {
+      "heading": "Qual escolher",
+      "paragraphs": [
+        "Fique com a Proton VPN se quer começar de graça, pagar menos na renovação ou usar port forwarding no computador sem pagar adicional, com apps de código aberto e política de registros auditada todo ano. Fique com a NordVPN se quer antivírus, monitoramento e nuvem no mesmo plano, ou se os 3 meses extras de cobertura pesam mais que a renovação.",
+        "Anote a data da renovação no dia da compra, seja qual for a escolha."
+      ],
+      "emphasis": "Olhe o total pago, os meses cobertos e a renovação, não o valor por mês: a NordVPN cobre 3 meses a mais, e a Proton renova por R$ 88,92 a menos por ano.",
+      "links": [
+        {
+          "label": "Ver o VPN Plus",
+          "href": "https://go.getproton.me/SH39K",
+          "sponsored": true
+        }
+      ]
+    },
+    {
+      "heading": "Perguntas frequentes",
+      "bullets": [
+        "Qual é mais barato em 2 anos: Proton VPN ou NordVPN? Pelo nosso link, o plano de 2 anos da Proton custa menos no total e por mês; o da NordVPN cobre 3 meses a mais. Na renovação, a Proton também anuncia o valor menor. Os números estão na tabela de preços.",
+        "A NordVPN tem plano grátis como o Proton VPN? Não: o teste de 7 dias não vale no Brasil e só o Android tem 3 dias, pela Google Play, enquanto a Proton tem plano grátis sem cartão.",
+        "Qual dos dois tem port forwarding? A Proton inclui o recurso em todos os planos pagos, nos aplicativos de Windows, macOS e Linux; na NordVPN, só com o adicional Dedicated Server.",
+        "Preciso de cupom para pegar o desconto do Proton VPN? Não. A Proton não usa código: o desconto já aparece no preço, e o nosso link abre a oferta de parceiros da página dela. As regras estão na [página da Proton no nosso site](/cupons/proton).",
+        "Dá para pedir o dinheiro de volta nas duas? Sim, em até 30 dias, com regras próprias: a Proton reembolsa uma vez por usuário, e a NordVPN, quem compra pela primeira vez."
+      ]
+    }
+  ],
+  "pros": [],
+  "cons": [],
+  "cta": {
+    "text": "Para usar o VPN Plus por dois anos, o nosso link abre a oferta de parceiros da Proton, com cobrança antecipada dos 24 meses. Depois, a renovação anunciada é anual, sujeita ao preço vigente. Confira a moeda e o total no checkout.",
+    "label": "Ver o VPN Plus pelo link",
+    "url": "https://go.getproton.me/SH39K",
+    "sponsored": true
+  },
+  "affiliate": "proton",
+  "editorialNote": "Feito com as páginas de planos e de ajuda das duas empresas, sem teste de velocidade. O link da Proton é de afiliado e pode gerar comissão.",
+  "relatedArticles": [
+    {
+      "slug": "proton-vpn-vale-a-pena"
+    },
+    {
+      "slug": "proton-vpn-e-confiavel"
+    },
+    {
+      "slug": "proton-vpn-reembolso-como-cancelar"
+    },
+    {
+      "slug": "black-friday-proton"
+    }
+  ],
+  "decision": {
+    "takeIf": [
+      "você quer começar pelo plano grátis, pagar menos na entrada e na renovação ou usar port forwarding no computador sem pagar adicional.",
+      "você só precisa da VPN e quer o plano que renova pelo valor menor."
+    ],
+    "skipIf": [
+      "você quer antivírus, monitoramento de dados e nuvem no mesmo plano da VPN, como no Completo da NordVPN.",
+      "os 3 meses extras de cobertura dos planos da NordVPN pesam mais para você que a renovação."
+    ]
+  }
+}

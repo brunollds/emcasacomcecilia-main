@@ -1,0 +1,312 @@
+{
+  "id": 1502,
+  "slug": "proton-unlimited-worth-it-ja",
+  "locale": "ja",
+  "translationKey": "proton-unlimited-vale-a-pena",
+  "title": "Proton Unlimitedは価値がある？500GBの中身と単体プランとの比較計算",
+  "seoTitle": "Proton Unlimitedは価値がある？含まれるものと実際の価格",
+  "type": "購入ガイド",
+  "category": "guias-praticos-utilidade",
+  "reviewKind": "guia",
+  "author": {
+    "name": "Cecília Mauad",
+    "slug": "cecilia-mauad",
+    "role": "Em Casa com Cecília",
+    "initials": "CM",
+    "url": "/sobre"
+  },
+  "description": "Proton Unlimitedに含まれるもの、有料のメールとVPNを同じアカウントで使う方法である理由、1年目が終わった後の更新時の料金をまとめました。",
+  "metaDescription": "Proton Unlimitedは価値がある？含まれるもの、Plusを2つ1アカウントにできない理由、更新時の料金を解説します。",
+  "publishedAt": "2026年11月27日",
+  "publishedAtISO": "2026-11-27",
+  "updatedAt": "2026-11-27",
+  "draft": false,
+  "isNew": true,
+  "hideFromPortugueseListings": true,
+  "image": "/images/reviews/proton/proton-unlimited-vale-a-pena-hero-ja.webp",
+  "imageAlt": "Proton公式サイトのトップから、メール、VPN、クラウドストレージ、パスワード管理のアプリアイコンを並べた画像。表紙には「Proton Unlimitedは価値がある？」とあります。",
+  "imageFit": "contain",
+  "imageAspect": "landscape",
+  "contentSections": [
+    {
+      "heading": "結論",
+      "paragraphs": [
+        "はい、有料のメールとVPNを同じアカウントで使いたい人や、Protonのサービスを3つ以上使う人には向いています。ProtonはPlusプランを2つ同じアカウントにまとめられないため、道はUnlimitedです。VPNだけ、メールだけ、VPNとパスワードだけなら、より安いプランがあります。更新料は1年目よりかなり高くなります。"
+      ]
+    },
+    {
+      "heading": "Proton Unlimitedに含まれるもの",
+      "paragraphs": [
+        "Unlimitedは、Protonのメール、VPN、クラウド、パスワード管理を1つのアカウントにまとめたプランです。プランのページには、500GBのストレージ、15個のアドレス、3つの独自ドメイン、無制限のエイリアス、VPN・Pass・Driveの有料版が載っています。",
+        "Protonによると、無料アカウントにはMail、Calendar、Drive、VPNの基本機能があり、メールは1アドレス・1GB、無料のDriveは5GBです。次の表は、メールの上限が最も近い単体プランのMail PlusとUnlimitedを並べたものです。"
+      ],
+      "comparisonTable": {
+        "caption": "Protonのプランのページにある、Mail PlusとUnlimited。",
+        "headers": [
+          "機能",
+          "Mail Plus",
+          "Unlimited"
+        ],
+        "rows": [
+          [
+            "ストレージ",
+            "15 GB",
+            "500 GB"
+          ],
+          [
+            "メールアドレス",
+            "10",
+            "15"
+          ],
+          [
+            "独自ドメイン",
+            "1",
+            "3"
+          ],
+          [
+            "メールエイリアス",
+            "10 (hide-my-email)",
+            "無制限"
+          ],
+          [
+            "VPN Plus",
+            "含まれない",
+            "含まれる"
+          ],
+          [
+            "Pass PlusとDrive Plus",
+            "含まれない",
+            "含まれる"
+          ],
+          [
+            "Emergency AccessとDark Web Monitoring",
+            "含まれる",
+            "含まれる"
+          ],
+          [
+            "Proton Sentinel",
+            "含まれない",
+            "含まれる"
+          ]
+        ]
+      },
+      "accordionBlock": {
+        "heading": "Unlimitedの中で各サービスに含まれるもの",
+        "paragraphs": [
+          "Mail：上の表の15アドレス、3つの独自ドメイン、無制限のエイリアスに加え、比較表のEmergency AccessとDark Web Monitoring。",
+          "VPN Plus：Protonの説明では、最大10台の同時接続、140か国以上のサーバー、NetShield（広告・トラッカー・マルウェアのフィルター）、P2P。VPN Plusでできること・できないことは[Proton VPNは価値がある？](/ja/reviews/proton-vpn-worth-it-ja)にあります。",
+          "Pass Plus：プランのページの説明では、デバイスとエイリアスが無制限。",
+          "Drive：単体のDrive Plusは200GBで、Unlimitedではアカウントの500GBが使える容量です。",
+          "Proton Sentinel：比較表では、無料プランとMail Plusにはなく、Unlimitedにだけ記載されています。"
+        ]
+      },
+      "postParagraphs": [
+        "私たち自身の利用規模は小さく、Proton Mailを無料プランで10年近く使っています。"
+      ]
+    },
+    {
+      "heading": "計算：Plusを1つ、VPNとPassのパッケージ、またはUnlimited",
+      "paragraphs": [
+        "計算の前にルールがあります。Protonは同じアカウントにPlusプランを2つ持つことを認めていません。Proton VPNのヘルプセンターはVPN PlusとMail Plusを例に挙げ、複数のサービスの有料機能を使いたい人にはUnlimitedを案内しています。1つのアカウントでは、Plusを1つ、特典ページのVPN x Pass Plusパッケージ、Unlimitedの中から選ぶことになります。",
+        "下の価格はProtonのページにある米ドルの価格で、1年目のブラックフライデー価格と、その隣に更新時の金額を載せています。各プランは期間全体の料金を一括で請求され、割引は月額価格を基準に計算されます。"
+      ],
+      "comparisonTable": {
+        "caption": "2026年11月27日のブラックフライデー価格と更新時の金額。単体プランの合計は当サイトの計算で、アカウントを分ける必要があります。",
+        "headers": [
+          "契約するもの",
+          "最初の期間",
+          "更新（12か月）"
+        ],
+        "rows": [
+          [
+            "Pass Plusのみ（1年）",
+            "$23.88",
+            "$35.88"
+          ],
+          [
+            "Mail PlusのみまたはDrive Plusのみ（1年）",
+            "$29.88",
+            "$47.88"
+          ],
+          [
+            "VPN Plusのみ（1年）",
+            "$35.88",
+            "$83.88"
+          ],
+          [
+            "VPN x Pass Plusパッケージ（24か月、特典ページ）",
+            "24か月で$119.76",
+            "$107.88"
+          ],
+          [
+            "VPN Plus + Mail Plus、アカウントを分けた場合",
+            "$65.76",
+            "$131.76"
+          ],
+          [
+            "Mail Plus + Drive Plus + Pass Plus、アカウントを分けた場合",
+            "$83.64",
+            "$131.64"
+          ],
+          [
+            "単体プラン4つすべて、アカウントを分けた場合",
+            "$119.52",
+            "$215.52"
+          ],
+          [
+            "Proton Unlimited（1年）",
+            "$77.88",
+            "$119.88"
+          ]
+        ]
+      },
+      "postParagraphs": [
+        "サービス1つだけなら、1年目も更新時も常にUnlimitedより安くなります。VPNとパスワードにはVPN x Pass Plusパッケージがあり、特典ページでは年$107.88で更新され、Unlimitedの更新料より低くなっています。24か月では、パッケージが$119.76、2年のUnlimitedが$191.76です。有料のメールをVPNと一緒に使うなら、同じアカウントの個人向けプランはUnlimitedです。",
+        "2つのサービスをアカウントを分けて使う場合、VPN PlusとMail Plusは1年目はUnlimitedより安く、更新時は高くなります。単体サービス2つ、3つ、4つの行は当サイトが足した合計で、ログインが別々のアカウントでしか成り立ちません。それでも3つ目からは、どちらの期間でも合計がUnlimitedを超えます。4つを合わせると、1年目は$41.64、更新時は$95.64高くなります。",
+        "VPNだけが欲しい人は別の道になります。パートナーのリンクでは、2年のVPN Plusが最初の24か月で$59.76、以降は12か月ごとに$83.88で更新と表示されます。詳しい計算は[Proton VPNは価値がある？](/ja/reviews/proton-vpn-worth-it-ja)にあります。"
+      ],
+      "links": [
+        {
+          "label": "Protonのプランを見る",
+          "href": "https://go.getproton.me/SH39K",
+          "sponsored": true
+        }
+      ]
+    },
+    {
+      "heading": "1か月、1年、2年のサイクル",
+      "paragraphs": [
+        "月払いは始めるときの支出が最も小さく、1年プランは月あたりの価格が最も低くなります。2年プランが1年プランを上回るのは合計$6.00だけです。",
+        "Unlimitedには価格のページに3つのサイクルがあります。どれも前払いで、大きく表示される金額（「月」あたり）は合計を割ったものにすぎません。"
+      ],
+      "comparisonTable": {
+        "caption": "サイクル別のProton Unlimited、米ドル。通貨と合計額は決済時に確認してください。",
+        "headers": [
+          "サイクル",
+          "月あたり",
+          "一括請求",
+          "以降の更新"
+        ],
+        "rows": [
+          [
+            "1か月",
+            "$12.99",
+            "$12.99",
+            "毎月$12.99"
+          ],
+          [
+            "1年",
+            "$6.49",
+            "$77.88",
+            "12か月ごとに$119.88"
+          ],
+          [
+            "2年",
+            "$7.99",
+            "$191.76",
+            "12か月ごとに$119.88"
+          ]
+        ]
+      },
+      "postParagraphs": [
+        "月払いで12か月続けると$155.88になります。一括請求の1年は$77.88ですが、更新時は$42.00上がって$119.88です。2年プランは$191.76で、1年に更新1回を足すと$197.76、つまり$6.00多くなります。2年プランは、お金がより長く拘束されます。",
+        "Protonのサイトによると、更新は自動です。購入した日に請求日を控えておきましょう。まずVPNを試したい場合、Proton VPNの価格ページでは、Unlimitedが最初の月は$1.00で、その後は月$12.99で更新と表示されています。"
+      ],
+      "image": {
+        "src": "/images/reviews/proton/proton-unlimited-vale-a-pena-precos-usd.webp",
+        "alt": "米ドル表示の英語版Proton価格ページ。Unlimitedのカードに、定価$12.99の取り消し線、月$6.49、50% OFF、最初の12か月は$77.88で、以降12か月ごとに$119.88で更新と書かれています。",
+        "caption": "ドル表示のProton価格ページ、2026年11月27日。"
+      }
+    },
+    {
+      "heading": "Proton Unlimited、Duo、Family、そして永久アカウント",
+      "paragraphs": [
+        "もう1人と分け合うなら、更新時の1人あたりはDuoのほうがUnlimitedより安くなります。",
+        "DuoとFamilyは家族向けのプランのページにあります。Duoは最大2ユーザー、2TBで、月$14.99、12か月ごとに$179.88を請求されます。Familyは同居する最大6人、3TBで、月$23.99、12か月ごとに$287.88です。",
+        "Unlimitedは1ユーザーの個人アカウントです。Duoはもう1人とパッケージを分け合う場合に意味があります。1人あたり年$89.94で、更新時のUnlimitedの$119.88より低く、1年目の$77.88より高くなります（当サイトの計算）。DuoとFamilyで各サービスが何を提供するかはUnlimitedと比較しておらず、価格と容量だけを見ています。切り替える前にページで確認してください。",
+        "ProtonはUnlimitedの永久プランを販売していません。永久アカウントについてのブログ記事で、同社はこのアカウントは購入できず、年末のチャリティー抽選でのみ出ると述べています。販売されているのはProton Pass + SimpleLogin Lifetime（$199）で、PassとSimpleLoginが対象であり、Unlimitedではありません。"
+      ]
+    },
+    {
+      "heading": "デメリット",
+      "bullets": [
+        "**更新料がかなり高い。** Unlimitedの2年目は1年目の約5割増しです。金額はサイクルの表にあります。",
+        "**前払いです。** 1年または2年分が一度に引き落とされ、更新は自動です。",
+        "**支払い方法が限られます。** ProtonはVisa、Mastercard、American Express、PayPalを挙げており、現金によるクレジット、振込、Bitcoinはアカウント作成後にのみ利用できます。",
+        "**解約はダウングレードです。** 新しいプランの上限を超えた分は削除が必要です。詳細はよくある質問にあります。",
+        "**返金は最初の購入が対象**で、30日以内です。手順は[Proton VPNの解約と返金の申請方法](/ja/reviews/proton-vpn-refund-ja)にあります。",
+        "**iPhoneでは上乗せがある場合があります。** ProtonはiOS経由の購読は高くなることがあると案内しています。ウェブサイトから購読してください。"
+      ]
+    },
+    {
+      "heading": "あなたに合う選択は",
+      "paragraphs": [
+        "決め手は、実際に使う有料サービスの数です。"
+      ],
+      "bullets": [
+        "**メールだけで、無料で足りる：** 無料のままにしましょう。私たちはこのケースです。",
+        "**VPNだけ欲しい：** 単体のVPN Plusはどちらの期間でもUnlimitedより安くなります。計算は[Proton VPNは価値がある？](/ja/reviews/proton-vpn-worth-it-ja)にあります。NordVPNと比較しているなら、[Proton VPNとNordVPN](/ja/reviews/proton-vpn-vs-nordvpn-ja)をご覧ください。",
+        "**VPNとパスワードが欲しい：** 更新料がUnlimitedより低いVPN x Pass Plusパッケージを比べましょう。",
+        "**有料のメールとVPNが欲しい：** 1つのアカウントでは、Unlimitedです。",
+        "**サービスを3つか4つ、または15アドレスと3ドメインが欲しい：** Unlimitedはすべてを1つのアカウントにまとめ、単体プランの合計より安くなります。",
+        "**もう1人と分け合いたい：** Duoを見てみましょう。",
+        "**今日の最安値が欲しい：** ブラックフライデーはプランに反映されています。[Protonのブラックフライデーガイド](/ja/reviews/proton-black-friday-ja)をご覧ください。"
+      ],
+      "emphasis": "1つのアカウントでは、ProtonはPlusプランを2つまとめられません。有料のメールとVPNが欲しいならUnlimited、サービスが1つだけならそのPlusが、どちらの期間でも安くなります。",
+      "postParagraphs": [
+        "入力するクーポンやコードはありません。ボタンは当サイトのパートナーリンクでProtonのプランのページを開きます。リンクのルールは[当サイトのProtonのページ](/ja/coupons/proton)にあります。"
+      ],
+      "links": [
+        {
+          "label": "Proton Unlimitedの年間オファーを見る",
+          "href": "https://go.getproton.me/SH39K",
+          "sponsored": true
+        }
+      ]
+    },
+    {
+      "heading": "よくある質問",
+      "bullets": [
+        "VPN PlusとMail Plusを同じアカウントで契約できますか？ できません。Protonは、1つのアカウントにPlusプランを2つ持てないとしています。両方を有料で使うには、最大10台のデバイスで使える有料VPNを含むUnlimitedが道です。",
+        "Proton Unlimitedに割引クーポンはありますか？ クーポンはありません。割引は月額価格を基準に計算され、プランの価格にそのまま表示され、隣に更新時の金額も載っています。",
+        "Proton Unlimitedの永久プランはありますか？ Protonは販売していないとしています。永久アカウントは年末のチャリティー抽選でのみ出ており、販売中のLifetimeはPassとSimpleLogin専用です。",
+        "解約するとファイルはどうなりますか？ ProtonのFAQによると、解約はダッシュボードでのダウングレードです。アクセスは保たれますが、新しいプランの上限を超えた分は削除が必要で、上限がいっぱいだとアカウントはメールを受信できず、ファイルもアップロードできません。",
+        "30日間の返金はどう機能しますか？ 規約では、最初の購入が対象で1ユーザーにつき1回、申請と解約の両方が期間内に必要です。申請はサポートのフォームから行い、Protonと直接契約した購読にのみ有効です。"
+      ]
+    }
+  ],
+  "pros": [],
+  "cons": [],
+  "cta": {
+    "text": "当サイトのリンク経由だと、Unlimitedの年間プランは1年目が$77.88で、以後12か月ごとに$119.88で更新されます。前払いで更新は自動です。通貨と合計額は決済時に確認してください。",
+    "label": "Proton Unlimitedの年間オファーを見る",
+    "url": "https://go.getproton.me/SH39K",
+    "sponsored": true
+  },
+  "affiliate": "proton",
+  "editorialNote": "Protonのプランのページと利用規約をもとに作成しました。有料プランを実際に使った検証はしていません。無料のProton Mailは10年近く使っています。このリンクはアフィリエイトリンクで、紹介料を受け取る場合があります。",
+  "relatedArticles": [
+    {
+      "slug": "proton-vpn-worth-it-ja"
+    },
+    {
+      "slug": "proton-black-friday-ja"
+    },
+    {
+      "slug": "proton-vpn-refund-ja"
+    },
+    {
+      "slug": "proton-vpn-trust-ja"
+    }
+  ],
+  "decision": {
+    "takeIf": [
+      "同じアカウントで有料のメールと有料のVPNを使いたい。個人向けプランの中では、Unlimitedだけがこの2つをまとめています。",
+      "Protonの有料サービスを3つか4つ使っている、または使う予定、あるいは複数のアドレスと独自ドメインが必要。"
+    ],
+    "skipIf": [
+      "VPNだけ、またはVPNとパスワードだけが欲しい。VPN PlusとVPN x Pass Plusパッケージのほうが安い。",
+      "無料のMailプランで足りる、または更新料が予算に合わない。"
+    ]
+  }
+}

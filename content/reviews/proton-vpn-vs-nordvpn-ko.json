@@ -1,0 +1,260 @@
+{
+  "id": 1511,
+  "slug": "proton-vpn-vs-nordvpn-ko",
+  "locale": "ko",
+  "translationKey": "proton-vpn-ou-nordvpn",
+  "title": "Proton VPN 아니면 NordVPN: 무료 플랜, 갱신 가격까지 따져 본 선택 가이드",
+  "seoTitle": "Proton VPN 아니면 NordVPN: 가격, 갱신, 차이점",
+  "type": "비교 가이드",
+  "category": "guias-praticos-utilidade",
+  "reviewKind": "guia",
+  "author": {
+    "name": "Cecília Mauad",
+    "slug": "cecilia-mauad",
+    "role": "Em Casa com Cecília",
+    "initials": "CM",
+    "url": "/sobre"
+  },
+  "description": "무료 체험, 총 결제액과 적용 개월 수, 연 단위 갱신, 관할권과 감사까지: Proton VPN과 NordVPN이 밝힌 내용과 각각 어떤 사람에게 맞는지 정리했습니다.",
+  "metaDescription": "Proton VPN과 NordVPN 비교: 무료 플랜, 선결제 총액, 연 갱신, 관할권, 30일 환불을 가입 전에 확인하세요.",
+  "publishedAt": "2026년 11월 27일",
+  "publishedAtISO": "2026-11-27",
+  "updatedAt": "2026-11-27",
+  "draft": false,
+  "isNew": true,
+  "hideFromPortugueseListings": true,
+  "image": "/images/reviews/proton/proton-vpn-ou-nordvpn-hero-ko.webp",
+  "imageAlt": "Proton VPN 공식 일러스트: 컴퓨터, 휴대폰, 태블릿과 켜진 자물쇠 스위치. 표지에는 “Proton VPN 아니면 NordVPN?”이라고 적혀 있습니다.",
+  "imageFit": "contain",
+  "imageAspect": "landscape",
+  "contentSections": [
+    {
+      "heading": "빠른 답",
+      "paragraphs": [
+        "Proton VPN은 무료로 먼저 써 보고 싶거나 VPN 전용 플랜을 가장 싸게 쓰려는 분께 맞습니다. 저희 링크로 2년이 $59.76으로, NordVPN 27개월 $80.73보다 낮고 갱신도 더 쌉니다. NordVPN은 3개월 추가와 백신·클라우드가 든 플랜이 강점입니다."
+      ]
+    },
+    {
+      "heading": "무료 플랜과 체험: 각각 무엇을 주나",
+      "paragraphs": [
+        "Proton VPN에는 진짜 무료 플랜이 있습니다. 가격 페이지에 따르면 카드가 필요 없고, 한 번에 기기 1대를 연결하며, 앱이 고르는 10개국 서버를 씁니다. Proton은 데이터 제한이 없다고 밝힙니다. 공용 와이파이에서 휴대폰만 보호하면 된다면 돈 들이지 않고 쓸 수 있습니다. 무료 플랜에서 빠지는 것은 [Proton VPN 가치가 있을까요?](/ko/reviews/proton-vpn-worth-it-ko)에 있습니다.",
+        "NordVPN은 자체 페이지에 무료 플랜이 없습니다. 도움말 센터에 설명된 7일 체험이 있지만 신규 고객, 1년·2년 플랜, 카드 또는 PayPal 결제, 15개국에서만 가능합니다. 본인 국가가 목록에 있는지 확인하세요. 안드로이드는 도움말 센터에 Google Play를 통한 3일 체험이 언급되어 있습니다.",
+        "실제로 Proton의 무료 플랜은 기간 제한이 없습니다. NordVPN은 국가가 목록에 있다면 7일 체험, 안드로이드의 Google Play 3일 체험, 아니면 결제 후 30일 환불을 쓰는 방법이 남습니다."
+      ]
+    },
+    {
+      "heading": "선결제 가격, 적용 개월 수, 갱신",
+      "paragraphs": [
+        "두 페이지의 “월” 가격에는 두 가지가 가려져 있습니다. 결제는 전체 기간 분을 한 번에 하고, 이후 플랜은 매년 갱신됩니다. 그래서 표에는 총 결제액, 적용 개월 수, 갱신가를 담았습니다. “실질 월 가격” 열은 저희가 총액을 적용 개월 수로 나눈 계산입니다. 비교 대상은 Proton의 VPN Plus와 VPN만 있는 NordVPN의 Basic입니다.",
+        "모두 블랙프라이데이 가격이며 NordVPN은 이를 “도입 가격”이라 부릅니다. Proton은 월 $9.99 플랜을 기준으로 할인율을 계산합니다. NordVPN의 달러 금액은 블랙프라이데이 중 미국 페이지를 확인한 보도에서 가져온 것으로(보도에 따르면 12월 9일까지), 세금 별도입니다. 한 보도는 Basic을 월 $3.49로 적었는데, 이는 세일 전 정가입니다. 결제 시 본인 통화의 총액을 확인하세요."
+      ],
+      "comparisonTable": {
+        "caption": "VPN Plus(Proton)와 Basic(NordVPN). Proton은 2026년 11월 27일에 확인한 달러 가격 페이지, NordVPN은 미국 페이지를 다룬 보도 기준입니다. 결제 시 통화와 총액을 확인하세요.",
+        "headers": [
+          "플랜",
+          "선결제 총액",
+          "적용 개월 수",
+          "실질 월 가격",
+          "연 갱신가"
+        ],
+        "rows": [
+          [
+            "Proton VPN Plus, 월간",
+            "$9.99",
+            "1",
+            "$9.99",
+            "매월 $9.99"
+          ],
+          [
+            "Proton VPN Plus, 1년",
+            "$35.88",
+            "12",
+            "$2.99",
+            "$83.88"
+          ],
+          [
+            "Proton VPN Plus, 2년(저희 링크)",
+            "$59.76",
+            "24",
+            "$2.49",
+            "$83.88"
+          ],
+          [
+            "Proton VPN Plus, 2년(공개 페이지)",
+            "$83.76",
+            "24",
+            "$3.49",
+            "$83.88"
+          ],
+          [
+            "NordVPN Basic, 2년",
+            "$80.73",
+            "27",
+            "$2.99",
+            "$139.08"
+          ]
+        ]
+      },
+      "postParagraphs": [
+        "2년 플랜에서 NordVPN Basic은 저희 링크의 Proton보다 $20.97 더 내지만 3개월을 더 적용합니다. 이 추가 개월은 실질적인 장점이고 월 가격 열에 반영되어 있습니다. 그래도 저희 링크로는 VPN Plus가 월 기준으로 더 쌉니다($2.49 대 $2.99). NordVPN 1년 플랜은 월 $4.99에 3개월 추가를 내세우지만 총액을 확인하지 못해 표에서 뺐습니다.",
+        "갱신가가 더 크게 작용합니다. 첫 기간이 끝나면 Proton은 12개월 $83.88(월 $6.99 상당), NordVPN은 12개월 $139.08(월 $11.59)을 안내합니다. 안내 가격 기준으로 연 $55.20 차이입니다. 그때까지 가격이 바뀔 수 있으며 두 페이지 모두 이미 갱신가를 공개하고 있습니다.",
+        "표의 $59.76은 저희 버튼이 여는 Proton 파트너 페이지의 가격입니다. 공개 가격 페이지의 같은 2년 플랜 $83.76보다 $24.00 저렴하고, 안내된 갱신가는 연 $83.88로 같습니다. 공개 가격 페이지의 가격으로 비교하면 NordVPN 2년($80.73)이 더 싸지만, Proton 1년($35.88)은 여전히 표에서 가장 낮은 총액입니다. 캠페인 혜택은 [Proton 블랙프라이데이](/ko/reviews/proton-black-friday-ko)에서 더 볼 수 있습니다."
+      ],
+      "image": {
+        "src": "/images/reviews/proton/proton-vpn-ou-nordvpn-precos-usd.webp",
+        "alt": "Proton VPN 파트너 혜택 페이지의 2년 VPN Plus 카드: 월 $2.49, 첫 24개월 $59.76, 이후 12개월마다 $83.88로 갱신.",
+        "caption": "Proton 파트너 페이지(저희 버튼이 여는 페이지)의 2년 VPN Plus, 2026년 11월 27일: 총액은 24개월분이며 갱신부터는 연 단위가 됩니다."
+      },
+      "links": [
+        {
+          "label": "VPN Plus 보기",
+          "href": "https://go.getproton.me/SH39K",
+          "sponsored": true
+        }
+      ]
+    },
+    {
+      "heading": "기능 나란히 보기",
+      "paragraphs": [
+        "VPN 전용 플랜에서 Proton은 광고 차단과 포트 포워딩을 포함하고, NordVPN은 둘 다 Basic보다 위 플랜이나 추가 상품에 있습니다. 표에는 두 회사 공식 페이지에 적힌 내용만 담았고, 한쪽에 정보가 없으면 그 행은 뺐습니다."
+      ],
+      "comparisonTable": {
+        "caption": "VPN Plus(Proton)와 Basic(NordVPN), 각 회사 설명 기준.",
+        "headers": [
+          "항목",
+          "Proton VPN Plus",
+          "NordVPN Basic"
+        ],
+        "rows": [
+          [
+            "동시 접속 기기",
+            "최대 10대",
+            "최대 10대"
+          ],
+          [
+            "무료 플랜",
+            "있음: 기기 1대, 10개국, 카드 불필요",
+            "명시 없음"
+          ],
+          [
+            "무료 체험",
+            "해당 없음",
+            "안드로이드 Google Play 3일, 7일 체험은 15개국만 해당이므로 본인 국가 확인"
+          ],
+          [
+            "광고·트래커 차단",
+            "NetShield, Plus에 포함",
+            "Complete 플랜부터 표기"
+          ],
+          [
+            "포트 포워딩",
+            "유료 플랜에 포함, Windows·macOS·Linux",
+            "유료 추가 상품 Dedicated Server에서만"
+          ],
+          [
+            "환불",
+            "30일, 사용자당 1회, Proton에 직접 가입한 경우",
+            "처음 구매하는 고객 30일"
+          ],
+          [
+            "본사 소재지",
+            "스위스",
+            "파나마(NordVPN 설명)"
+          ],
+          [
+            "무로그 정책 감사",
+            "Securitum, 2022~2026년 매년, 보고서 공개",
+            "독립 점검 6회(NordVPN 설명)"
+          ]
+        ]
+      },
+      "postParagraphs": [
+        "Proton은 Plus에 Secure Core를 표기합니다. NordVPN은 기능 페이지에 이중 VPN(Double VPN), 비공개 DNS, 스플릿 터널링을 표기하므로 가입 전에 어느 플랜에 들어 있는지 확인하세요.",
+        "P2P는 Proton 페이지가 Plus 기능으로 표기합니다. NordVPN의 포트 포워딩은 도움말 센터에 따르면 유료 추가 상품 “Dedicated Server”가 있어야 하며, 일반 서버와 전용 IP로는 되지 않습니다. 추가 상품 가격은 페이지에 없습니다. Proton은 도움말 센터에서 모든 유료 플랜의 Windows·macOS·Linux 앱에 포트 포워딩을 포함한다고 하며, Android와 iPhone은 목록에 없습니다.",
+        "속도와 스트리밍은 뺐습니다. 회사의 약속은 본인 통신사에서의 직접 테스트를 대신하지 못하며, 30일 환불이 그 용도입니다."
+      ]
+    },
+    {
+      "heading": "관할권, 감사, 오픈소스",
+      "paragraphs": [
+        "두 회사 모두 제3자가 감사한 무로그 정책을 내세웁니다. 차이는 본사 소재지와 각자 공개하는 자료에 있습니다.",
+        "Proton VPN은 스위스에 본사를 둔 Proton AG가 운영합니다. 로그를 남기지 않는 정책은 Securitum이 감사하고, Proton은 2022~2026년 보고서를 공개합니다. 앱 코드는 GitHub에 공개되어 있습니다. 각 보고서가 다루는 내용은 [Proton VPN은 믿을 만할까요?](/ko/reviews/proton-vpn-trust-ko)에 있습니다.",
+        "NordVPN은 파나마에 본사가 있다고 밝히고, 무로그 정책에 대해 독립 점검을 6회 받았다고 합니다. 처음 두 번은 PwC 스위스, 이후는 Deloitte가 맡았고 2023·2024·2025년 점검이 포함됩니다. 자사 페이지의 정보입니다.",
+        "감사는 점검한 날의 해당 서버를 찍은 사진입니다. 회사가 외부 점검을 받았다는 뜻일 뿐 이후를 보장하지 않습니다. 둘 다 익명 탐색을 만들어 주지는 않으며, 계정에 로그인하면 그 계정으로 식별됩니다."
+      ]
+    },
+    {
+      "heading": "결제, 해지, 환불",
+      "paragraphs": [
+        "Proton은 Visa, Mastercard, American Express, PayPal을 받고, 비트코인은 계정을 만든 뒤 크레딧으로만 받습니다. NordVPN은 Mastercard, Visa, Amex, Discover 로고를 보여 주고 페이지 제목에 “카드, 암호화폐, PayPal”이 나옵니다.",
+        "두 회사 모두 30일 환불을 주지만 규칙이 다릅니다. Proton 약관에서는 사용자당 1회, Proton에 직접 가입한 경우만 해당됩니다. NordVPN은 처음 구매하는 고객에게 30일이며 고객지원으로 신청하고, App Store 결제는 Apple 정책을 따릅니다. Proton 절차는 [Proton VPN 해지와 환불 방법](/ko/reviews/proton-vpn-refund-ko)에 있습니다."
+      ]
+    },
+    {
+      "heading": "묶음 상품이 중요할 때",
+      "paragraphs": [
+        "여기서는 NordVPN의 논거가 강합니다. Complete 플랜은 VPN에 백신, 광고·트래커 차단, 데이터 모니터링, 통화 보호, 비밀번호 관리자, 클라우드 1TB를 더합니다. 27개월 $107.73이며 연 $219.48로 갱신됩니다. 최상위 플랜인 Prime은 27개월 $188.73이며 $296.28로 갱신됩니다.",
+        "Proton은 VPN, 이메일, 클라우드 500GB, 비밀번호 관리자를 묶은 Unlimited로 맞섭니다. 연 갱신가는 Unlimited($119.88)가 Complete($219.48)보다 낮지만 구성이 다릅니다. Proton은 이메일·클라우드·비밀번호, NordVPN은 백신 포함입니다. 기간도 27개월 대 12개월로 달라 한 가격 줄에 놓지 않았습니다. 묶음이 중요하다면 [Proton Unlimited 가치가 있을까요?](/ko/reviews/proton-unlimited-worth-it-ko)를 읽고 결정 전에 [저희 사이트의 Proton 페이지](/ko/coupons/proton)를 확인하세요."
+      ]
+    },
+    {
+      "heading": "무엇을 고를까",
+      "paragraphs": [
+        "무료로 시작하고, 갱신가를 낮추고, 추가 상품 없이 컴퓨터에서 포트 포워딩을 쓰고 싶다면, 오픈소스 앱과 매년 감사받는 무로그 정책의 Proton VPN을 고르세요. 한 플랜에 백신, 모니터링, 클라우드가 필요하거나 3개월 추가가 갱신가보다 중요하다면 NordVPN을 고르세요.",
+        "어느 쪽을 고르든 구매한 날 갱신일을 적어 두세요."
+      ],
+      "emphasis": "월 가격이 아니라 총 결제액, 적용 개월 수, 갱신가를 보세요. NordVPN은 3개월을 더 주고, Proton은 갱신가가 연 $55.20 낮습니다.",
+      "links": [
+        {
+          "label": "VPN Plus 보기",
+          "href": "https://go.getproton.me/SH39K",
+          "sponsored": true
+        }
+      ]
+    },
+    {
+      "heading": "자주 묻는 질문",
+      "bullets": [
+        "2년 기준으로 더 싼 쪽은 Proton VPN과 NordVPN 중 어디인가요? 저희 링크로는 Proton 2년 플랜이 총액도 월 가격도 낮고, NordVPN은 3개월을 더 적용합니다. 갱신가도 Proton이 더 낮게 안내됩니다. 숫자는 가격 표에 있습니다.",
+        "NordVPN에도 Proton VPN 같은 무료 플랜이 있나요? 아니요. 7일 체험은 일부 국가에서만, 안드로이드는 Google Play 3일이며, Proton은 카드 없이 쓰는 무료 플랜이 있습니다.",
+        "둘 중 포트 포워딩이 있는 쪽은요? Proton은 모든 유료 플랜의 Windows·macOS·Linux 앱에 포함하고, NordVPN은 Dedicated Server 추가 상품에서만 됩니다.",
+        "Proton VPN 할인을 받으려면 쿠폰이 필요한가요? 아니요. Proton은 코드를 쓰지 않고 할인이 가격에 이미 반영되며, 저희 링크는 Proton 페이지의 파트너 혜택을 엽니다. 규칙은 [저희 사이트의 Proton 페이지](/ko/coupons/proton)에 있습니다.",
+        "둘 다 환불받을 수 있나요? 네, 30일 이내에 각자의 규칙대로 가능합니다. Proton은 사용자당 1회, NordVPN은 처음 구매하는 고객이 대상입니다."
+      ]
+    }
+  ],
+  "pros": [],
+  "cons": [],
+  "cta": {
+    "text": "VPN Plus를 2년 쓰려면 저희 링크가 Proton의 파트너 혜택을 열며, 24개월 분을 선결제합니다. 이후 안내된 갱신은 연 단위이고 당시 유효한 가격이 적용됩니다. 결제 시 통화와 총액을 확인하세요.",
+    "label": "링크로 VPN Plus 보기",
+    "url": "https://go.getproton.me/SH39K",
+    "sponsored": true
+  },
+  "affiliate": "proton",
+  "editorialNote": "두 회사의 플랜 및 도움말 페이지를 바탕으로 작성했으며 속도 테스트는 하지 않았습니다. Proton 링크는 제휴 링크이며 수수료를 받을 수 있습니다.",
+  "relatedArticles": [
+    {
+      "slug": "proton-vpn-worth-it-ko"
+    },
+    {
+      "slug": "proton-vpn-trust-ko"
+    },
+    {
+      "slug": "proton-vpn-refund-ko"
+    },
+    {
+      "slug": "proton-black-friday-ko"
+    }
+  ],
+  "decision": {
+    "takeIf": [
+      "무료 플랜으로 시작하고, 시작 가격과 갱신가를 낮추거나, 추가 상품 없이 컴퓨터에서 포트 포워딩을 쓰고 싶을 때.",
+      "VPN만 필요하고 더 낮은 가격으로 갱신되는 플랜을 원할 때."
+    ],
+    "skipIf": [
+      "NordVPN Complete처럼 VPN과 같은 플랜에 백신, 데이터 모니터링, 클라우드가 필요할 때.",
+      "NordVPN 플랜의 3개월 추가가 갱신가보다 더 중요할 때."
+    ]
+  }
+}

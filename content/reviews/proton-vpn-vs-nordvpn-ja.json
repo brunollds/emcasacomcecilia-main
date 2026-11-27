@@ -1,0 +1,260 @@
+{
+  "id": 1512,
+  "slug": "proton-vpn-vs-nordvpn-ja",
+  "locale": "ja",
+  "translationKey": "proton-vpn-ou-nordvpn",
+  "title": "Proton VPNかNordVPNか：無料プラン、更新後の価格、選び方",
+  "seoTitle": "Proton VPNかNordVPNか：料金、更新、違い",
+  "type": "比較ガイド",
+  "category": "guias-praticos-utilidade",
+  "reviewKind": "guia",
+  "author": {
+    "name": "Cecília Mauad",
+    "slug": "cecilia-mauad",
+    "role": "Em Casa com Cecília",
+    "initials": "CM",
+    "url": "/sobre"
+  },
+  "description": "無料お試し、支払総額と対象月数、年ごとの更新、法域と監査。Proton VPNとNordVPNが公表している内容と、それぞれが向く人を整理しました。",
+  "metaDescription": "Proton VPNとNordVPNを比較：無料プラン、前払い総額、年更新、法域、30日返金を契約前に確認できます。",
+  "publishedAt": "2026年11月27日",
+  "publishedAtISO": "2026-11-27",
+  "updatedAt": "2026-11-27",
+  "draft": false,
+  "isNew": true,
+  "hideFromPortugueseListings": true,
+  "image": "/images/reviews/proton/proton-vpn-ou-nordvpn-hero-ja.webp",
+  "imageAlt": "Proton VPN公式のイラスト。パソコン、スマートフォン、タブレットと、オンになった鍵のスイッチがあります。表紙には「Proton VPN か NordVPN か？」とあります。",
+  "imageFit": "contain",
+  "imageAspect": "landscape",
+  "contentSections": [
+    {
+      "heading": "結論",
+      "paragraphs": [
+        "無料で試したい人や、VPNだけのプランを最安で使いたい人にはProton VPNが向きます。当サイトのリンク経由なら2年で$59.76と、NordVPNの27か月$80.73より安く、更新も低めです。NordVPNは追加3か月と、ウイルス対策・クラウド付きのプランが強みです。"
+      ]
+    },
+    {
+      "heading": "無料プランとお試し：それぞれの内容",
+      "paragraphs": [
+        "Proton VPNには本物の無料プランがあります。料金ページによると、カード登録は不要で、同時接続は1台、サーバーはアプリが選ぶ10か国です。Protonはデータ量の制限はないとしています。公共Wi-Fiでスマートフォンを守るだけなら、費用をかけずに使えます。無料プランにないものは[Proton VPNは価値がある？](/ja/reviews/proton-vpn-worth-it-ja)にあります。",
+        "NordVPNは自社ページに無料プランがありません。ヘルプセンターに7日間のお試しがありますが、新規顧客限定で、1年・2年プラン、カードまたはPayPal払い、対象は15か国のみです。お住まいの国が対象か確認してください。Androidでは、ヘルプセンターにGoogle Play経由の3日間お試しの記載があります。",
+        "実際には、Protonの無料プランに期限はありません。NordVPNは、対象国なら7日間のお試し、AndroidのGoogle Play経由3日間、または支払って30日間の返金を使うことになります。"
+      ]
+    },
+    {
+      "heading": "前払い価格、対象月数、更新",
+      "paragraphs": [
+        "両ページの「月額」には2つの点が隠れています。請求は期間全体を一度に行い、その後は毎年更新されます。そのため表には支払総額、対象月数、更新額を載せました。「実質月額」の列は、総額を対象月数で割った当サイトの計算です。比べるのはProtonのVPN Plusと、VPNのみのNordVPN Basicです。",
+        "いずれもブラックフライデー価格で、NordVPNは「導入価格」と呼んでいます。Protonは月額$9.99のプランを基準に割引を計算しています。NordVPNのドル金額は、ブラックフライデー中に米国ページを確認した報道によるもので（報道では12月9日まで）、税別です。ある報道はBasicを月$3.49としていますが、これはセール前の定価です。支払い時に、ご自身の通貨での総額を確認してください。"
+      ],
+      "comparisonTable": {
+        "caption": "VPN Plus（Proton）とBasic（NordVPN）。Protonは2026年11月27日に確認したドル表示の料金ページ、NordVPNは米国ページを伝える報道に基づきます。支払い時に通貨と総額を確認してください。",
+        "headers": [
+          "プラン",
+          "前払い総額",
+          "対象月数",
+          "実質月額",
+          "年ごとの更新額"
+        ],
+        "rows": [
+          [
+            "Proton VPN Plus、月払い",
+            "$9.99",
+            "1",
+            "$9.99",
+            "毎月$9.99"
+          ],
+          [
+            "Proton VPN Plus、1年",
+            "$35.88",
+            "12",
+            "$2.99",
+            "$83.88"
+          ],
+          [
+            "Proton VPN Plus、2年（当サイトのリンク）",
+            "$59.76",
+            "24",
+            "$2.49",
+            "$83.88"
+          ],
+          [
+            "Proton VPN Plus、2年（公開ページ）",
+            "$83.76",
+            "24",
+            "$3.49",
+            "$83.88"
+          ],
+          [
+            "NordVPN Basic、2年",
+            "$80.73",
+            "27",
+            "$2.99",
+            "$139.08"
+          ]
+        ]
+      },
+      "postParagraphs": [
+        "2年プランでは、NordVPN Basicは当サイトのリンク経由のProtonより$20.97高いものの、3か月長く使えます。この追加月は実際の利点で、月額の列に反映されています。それでも当サイトのリンクなら、VPN Plusのほうが月あたりは安くなります（$2.49対$2.99）。NordVPNの1年プランは月$4.99で3か月追加とされていますが、総額を確認できなかったため表には入れていません。",
+        "重いのは更新額です。最初の期間が終わると、Protonは12か月$83.88（月$6.99相当）、NordVPNは12か月$139.08（月$11.59）と案内しています。案内どおりなら年$55.20の差です。それまでに価格が変わる可能性があり、両ページとも更新額をすでに表示しています。",
+        "表の$59.76は、当サイトのボタンが開くProtonのパートナー向けページの価格です。公開料金ページの同じ2年プランは$83.76なので$24.00安く、更新料として案内されている年$83.88は同じです。公開料金ページの価格で比べるとNordVPNの2年（$80.73）のほうが安くなりますが、Protonの1年（$35.88）は表で最も低い総額のままです。キャンペーンの詳細は[ProtonのBlack Friday](/ja/reviews/proton-black-friday-ja)をご覧ください。"
+      ],
+      "image": {
+        "src": "/images/reviews/proton/proton-vpn-ou-nordvpn-precos-usd.webp",
+        "alt": "Proton VPNのパートナー向けオファーページにある2年のVPN Plusカード：月$2.49、最初の24か月で$59.76、以後12か月ごとに$83.88で更新。",
+        "caption": "Protonのパートナー向けページ（当サイトのボタンが開くページ）の2年のVPN Plus、2026年11月27日：合計は24か月分で、更新からは年単位になります。"
+      },
+      "links": [
+        {
+          "label": "VPN Plusを見る",
+          "href": "https://go.getproton.me/SH39K",
+          "sponsored": true
+        }
+      ]
+    },
+    {
+      "heading": "機能の比較",
+      "paragraphs": [
+        "VPNのみのプランで、Protonは広告ブロックとポートフォワーディングを含みます。NordVPNは、どちらもBasicより上のプランか追加オプションです。表には両社の公式ページに書かれていることだけを載せ、片方に情報がない項目は省きました。"
+      ],
+      "comparisonTable": {
+        "caption": "VPN Plus（Proton）とBasic（NordVPN）、各社の記載による。",
+        "headers": [
+          "項目",
+          "Proton VPN Plus",
+          "NordVPN Basic"
+        ],
+        "rows": [
+          [
+            "同時接続台数",
+            "最大10台",
+            "最大10台"
+          ],
+          [
+            "無料プラン",
+            "あり：1台、10か国、カード不要",
+            "記載なし"
+          ],
+          [
+            "無料お試し",
+            "該当なし",
+            "AndroidのGoogle Play経由で3日間。7日間は15か国のみなのでご自身の国を確認"
+          ],
+          [
+            "広告・トラッカーのブロック",
+            "NetShield、Plusに含まれる",
+            "Completeプランから記載"
+          ],
+          [
+            "ポートフォワーディング",
+            "有料プランに含まれる（Windows・macOS・Linux）",
+            "有料オプションのDedicated Serverのみ"
+          ],
+          [
+            "返金",
+            "30日、1ユーザー1回、Protonと直接契約した場合",
+            "初めて購入する人は30日"
+          ],
+          [
+            "本社所在地",
+            "スイス",
+            "パナマ（NordVPNによる）"
+          ],
+          [
+            "ノーログ方針の監査",
+            "Securitum、2022〜2026年は毎年、報告書を公開",
+            "独立した検証6回（NordVPNによる）"
+          ]
+        ]
+      },
+      "postParagraphs": [
+        "ProtonはPlusにSecure Coreを記載しています。NordVPNは機能ページに二重VPN（Double VPN）、プライベートDNS、スプリットトンネリングを記載しているので、契約前にどのプランに含まれるか確認してください。",
+        "P2PはProtonのページがPlusの機能として記載しています。NordVPNのポートフォワーディングは、ヘルプセンターによると有料オプション「Dedicated Server」が必要で、通常のサーバーや専用IPでは使えません。オプションの価格はページに載っていません。Protonはヘルプセンターで、すべての有料プランのWindows・macOS・Linuxアプリに含まれるとしており、AndroidとiPhoneは一覧にありません。",
+        "速度とストリーミングは対象外にしました。会社の約束は、ご自身のプロバイダーでの実測の代わりにならず、30日間の返金はそのためにあります。"
+      ]
+    },
+    {
+      "heading": "法域、監査、オープンソース",
+      "paragraphs": [
+        "両社とも第三者が監査したノーログ方針をうたっています。違いは本社の所在地と、それぞれが公開している資料です。",
+        "Proton VPNはスイスに本社を置くProton AGが運営しています。ログを残さない方針はSecuritumが監査し、Protonは2022〜2026年の報告書を公開しています。アプリのコードはGitHubで公開されています。各報告書の対象は[Proton VPNは信頼できる？](/ja/reviews/proton-vpn-trust-ja)にあります。",
+        "NordVPNはパナマに本社があるとし、ノーログ方針について独立した検証を6回受けたとしています。最初の2回はPwCスイス、その後はDeloitteで、2023・2024・2025年を含みます。いずれも同社ページの情報です。",
+        "監査は、検査した日のサーバーの一断面です。外部の確認を受けたことは示しますが、その後を保証しません。どちらも閲覧を匿名にはしません。アカウントにログインすれば、そのアカウントで識別されます。"
+      ]
+    },
+    {
+      "heading": "支払い、解約、返金",
+      "paragraphs": [
+        "Protonは、Visa、Mastercard、American Express、PayPalに対応し、ビットコインはアカウント作成後のクレジットとしてのみ使えます。NordVPNはMastercard、Visa、Amex、Discoverのロゴを表示し、ページタイトルには「カード、暗号資産、PayPal」とあります。",
+        "両社とも30日間の返金がありますが、条件は異なります。Protonの規約では1ユーザー1回で、Protonと直接契約した場合のみです。NordVPNは初めて購入する人に30日間で、サポート経由で申請し、App Store経由の購入はAppleの方針に従います。Protonの手順は[Proton VPNの解約と返金のしかた](/ja/reviews/proton-vpn-refund-ja)にあります。"
+      ]
+    },
+    {
+      "heading": "セット内容が重要なとき",
+      "paragraphs": [
+        "ここはNordVPNに強い論拠があります。CompleteプランはVPNに、ウイルス対策、広告・トラッカーのブロック、データ監視、通話保護、パスワード管理、1TBのクラウドを加えます。27か月で$107.73、更新は年$219.48です。最上位のPrimeは27か月で$188.73、更新は$296.28です。",
+        "Protonは、VPN、メール、500GBのクラウド、パスワード管理をまとめたUnlimitedで応えます。年更新ではUnlimited（$119.88）がComplete（$219.48）を下回りますが、中身は同じではありません。Protonはメール・クラウド・パスワード、NordVPNはウイルス対策入りです。期間も27か月と12か月で異なるため、1つの価格行には並べていません。セット内容を重視するなら[Proton Unlimitedは価値がある？](/ja/reviews/proton-unlimited-worth-it-ja)を読み、決める前に[当サイトのProtonページ](/ja/coupons/proton)をご確認ください。"
+      ]
+    },
+    {
+      "heading": "どちらを選ぶか",
+      "paragraphs": [
+        "無料で始めたい、更新額を抑えたい、追加オプションなしでパソコンのポートフォワーディングを使いたい、オープンソースのアプリと毎年監査されるノーログ方針がよい、という方はProton VPNを。1つのプランでウイルス対策、監視、クラウドが欲しい方、追加3か月が更新額より大事な方はNordVPNを選んでください。",
+        "どちらを選んでも、購入した日に更新日をメモしておきましょう。"
+      ],
+      "emphasis": "月額ではなく、支払総額、対象月数、更新額を見てください。NordVPNは3か月多く、Protonは更新額が年$55.20低くなります。",
+      "links": [
+        {
+          "label": "VPN Plusを見る",
+          "href": "https://go.getproton.me/SH39K",
+          "sponsored": true
+        }
+      ]
+    },
+    {
+      "heading": "よくある質問",
+      "bullets": [
+        "2年で安いのはProton VPNとNordVPNのどちらですか？ 当サイトのリンク経由なら、Protonの2年プランは総額も月額も低く、NordVPNは3か月長く使えます。更新額もProtonのほうが低く案内されています。数字は料金表にあります。",
+        "NordVPNにもProton VPNのような無料プランはありますか？ ありません。7日間のお試しは一部の国のみ、AndroidはGoogle Play経由の3日間で、Protonはカード不要の無料プランがあります。",
+        "ポートフォワーディングがあるのはどちらですか？ Protonはすべての有料プランのWindows・macOS・Linuxアプリに含み、NordVPNはDedicated Serverオプションのみです。",
+        "Proton VPNの割引を受けるのにクーポンは必要ですか？ 不要です。Protonはコードを使わず、割引は価格にすでに反映され、当サイトのリンクはProtonページのパートナー向けオファーを開きます。ルールは[当サイトのProtonページ](/ja/coupons/proton)にあります。",
+        "両方とも返金してもらえますか？ はい、30日以内に各社の条件で可能です。Protonは1ユーザー1回、NordVPNは初めて購入する人が対象です。"
+      ]
+    }
+  ],
+  "pros": [],
+  "cons": [],
+  "cta": {
+    "text": "VPN Plusを2年使うなら、当サイトのリンクはProtonのパートナー向けオファーを開き、24か月分を前払いします。その後の更新は年単位で、更新時の有効価格が適用されます。支払い時に通貨と総額を確認してください。",
+    "label": "リンクからVPN Plusを見る",
+    "url": "https://go.getproton.me/SH39K",
+    "sponsored": true
+  },
+  "affiliate": "proton",
+  "editorialNote": "両社のプランページとヘルプページをもとに作成しました。速度テストは行っていません。Protonのリンクはアフィリエイトリンクで、紹介料を受け取る場合があります。",
+  "relatedArticles": [
+    {
+      "slug": "proton-vpn-worth-it-ja"
+    },
+    {
+      "slug": "proton-vpn-trust-ja"
+    },
+    {
+      "slug": "proton-vpn-refund-ja"
+    },
+    {
+      "slug": "proton-black-friday-ja"
+    }
+  ],
+  "decision": {
+    "takeIf": [
+      "無料プランから始め、導入価格と更新額を抑えたい、または追加オプションなしでパソコンでポートフォワーディングを使いたい。",
+      "VPNだけが必要で、更新額が低いプランがよい。"
+    ],
+    "skipIf": [
+      "NordVPNのCompleteのように、VPNと同じプランでウイルス対策、データ監視、クラウドが欲しい。",
+      "NordVPNのプランの追加3か月が、更新額より重要だ。"
+    ]
+  }
+}

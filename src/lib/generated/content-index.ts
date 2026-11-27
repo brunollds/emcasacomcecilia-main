@@ -358378,6 +358378,8739 @@ const reviewsChunk2: unknown[] = [
       }
     ],
     "updatedAt": "2026-11-27"
+  },
+  {
+    "id": 1493,
+    "slug": "proton-unlimited-vale-a-pena",
+    "locale": "pt",
+    "translationKey": "proton-unlimited-vale-a-pena",
+    "title": "Proton Unlimited vale a pena? O que vem nos 500 GB e a conta contra os planos avulsos",
+    "seoTitle": "Proton Unlimited vale a pena? O que inclui e preço real",
+    "type": "Guia de Compra",
+    "category": "guias-praticos-utilidade",
+    "reviewKind": "guia",
+    "author": {
+      "name": "Cecília Mauad",
+      "slug": "cecilia-mauad",
+      "role": "Em Casa com Cecília",
+      "initials": "CM",
+      "url": "/sobre"
+    },
+    "description": "O que o Proton Unlimited inclui, por que ele é o caminho para ter e-mail e VPN pagos na mesma conta e quanto o pacote custa na renovação, depois do primeiro ano.",
+    "metaDescription": "Proton Unlimited vale a pena? O que inclui, por que a Proton não junta dois planos Plus na mesma conta e quanto o pacote custa na renovação.",
+    "publishedAt": "27 de novembro de 2026",
+    "publishedAtISO": "2026-11-27",
+    "updatedAt": "2026-11-27",
+    "draft": false,
+    "isNew": true,
+    "image": "/images/reviews/proton/proton-unlimited-vale-a-pena-hero-pt.webp",
+    "imageAlt": "Ícones dos apps da Proton (e-mail, VPN, nuvem e gerenciador de senhas) numa grade, da página oficial da Proton. A capa pergunta “Proton Unlimited vale a pena?”.",
+    "imageFit": "contain",
+    "imageAspect": "landscape",
+    "contentSections": [
+      {
+        "heading": "Resposta rápida",
+        "paragraphs": [
+          "Vale, sim, quando você quer e-mail e VPN pagos na mesma conta, ou três serviços da Proton ou mais: ela não deixa juntar dois planos Plus numa conta, e o Unlimited é o caminho. Para só a VPN, só o e-mail ou VPN com senhas, há plano mais barato. A renovação sai bem acima do primeiro ano."
+        ]
+      },
+      {
+        "heading": "O que vem no Proton Unlimited",
+        "paragraphs": [
+          "O Unlimited é o plano que junta, numa conta só, o e-mail, a VPN, a nuvem e o gerenciador de senhas da Proton. A página de planos lista 500 GB de armazenamento, 15 endereços, 3 domínios próprios, aliases ilimitados e as versões pagas da VPN, do Pass e do Drive.",
+          "A conta grátis, segundo a Proton, traz os recursos essenciais do Mail, do Calendar, do Drive e da VPN, com 1 endereço e 1 GB no e-mail; o Drive grátis tem 5 GB. A tabela a seguir põe o Unlimited ao lado do Mail Plus, o avulso que mais se aproxima dele nos limites de e-mail."
+        ],
+        "comparisonTable": {
+          "caption": "Mail Plus e Unlimited na página de planos da Proton.",
+          "headers": [
+            "Recurso",
+            "Mail Plus",
+            "Unlimited"
+          ],
+          "rows": [
+            [
+              "Armazenamento",
+              "15 GB",
+              "500 GB"
+            ],
+            [
+              "Endereços de e-mail",
+              "10",
+              "15"
+            ],
+            [
+              "Domínios próprios",
+              "1",
+              "3"
+            ],
+            [
+              "Aliases de e-mail",
+              "10 (hide-my-email)",
+              "Ilimitados"
+            ],
+            [
+              "VPN Plus",
+              "Não incluído",
+              "Incluído"
+            ],
+            [
+              "Pass Plus e Drive Plus",
+              "Não incluído",
+              "Incluído"
+            ],
+            [
+              "Emergency Access e Dark Web Monitoring",
+              "Incluído",
+              "Incluído"
+            ],
+            [
+              "Proton Sentinel",
+              "Não incluído",
+              "Incluído"
+            ]
+          ]
+        },
+        "accordionBlock": {
+          "heading": "O que vem em cada serviço dentro do Unlimited",
+          "paragraphs": [
+            "Mail: os 15 endereços, 3 domínios próprios e aliases ilimitados do quadro acima, mais o Emergency Access e o Dark Web Monitoring da tabela de comparação.",
+            "VPN Plus: até 10 dispositivos ao mesmo tempo, servidores em mais de 140 países, NetShield (filtro de anúncios, rastreadores e malware) e P2P, como a Proton descreve o plano. O que o VPN Plus faz e não faz está em [Proton VPN vale a pena?](/reviews/proton-vpn-vale-a-pena).",
+            "Pass Plus: dispositivos e aliases ilimitados, como a página de planos descreve.",
+            "Drive: o Drive Plus avulso tem 200 GB; no Unlimited, o espaço é o de 500 GB da conta.",
+            "Proton Sentinel: a tabela de comparação marca o recurso só no Unlimited, e não no grátis nem no Mail Plus."
+          ]
+        },
+        "postParagraphs": [
+          "Nossa referência de uso é pequena: usamos o Proton Mail, no plano gratuito, há quase dez anos."
+        ]
+      },
+      {
+        "heading": "A conta: um plano Plus, o pacote VPN e Pass ou o Unlimited",
+        "paragraphs": [
+          "Antes da conta, a regra: a Proton não deixa ter dois planos Plus na mesma conta. A central de ajuda do Proton VPN dá o exemplo do VPN Plus com o Mail Plus e aponta o Unlimited para quem quer os recursos pagos de vários serviços. Numa conta só, a escolha é entre um Plus, o pacote VPN x Pass Plus da página de ofertas e o Unlimited.",
+          "Os preços abaixo são os das páginas da Proton, em reais, com o preço de Black Friday do primeiro ano e o valor da renovação ao lado. Cada plano é cobrado do período inteiro, de uma vez, e o desconto é calculado sobre o preço mensal."
+        ],
+        "comparisonTable": {
+          "caption": "Preços de 26/11/2026, de Black Friday, com a renovação ao lado. As somas de avulsos são conta nossa e pedem contas separadas.",
+          "headers": [
+            "O que você assina",
+            "Primeiro período",
+            "Renovação (12 meses)"
+          ],
+          "rows": [
+            [
+              "Só Pass Plus (1 ano)",
+              "R$ 83,88",
+              "R$ 125,88"
+            ],
+            [
+              "Só Mail Plus ou só Drive Plus (1 ano)",
+              "R$ 105,48",
+              "R$ 167,88"
+            ],
+            [
+              "Só VPN Plus (1 ano)",
+              "R$ 125,88",
+              "R$ 293,88"
+            ],
+            [
+              "Pacote VPN x Pass Plus (24 meses, página de ofertas)",
+              "R$ 419,76 pelos 24 meses",
+              "R$ 377,88"
+            ],
+            [
+              "VPN Plus + Mail Plus, em contas separadas",
+              "R$ 231,36",
+              "R$ 461,76"
+            ],
+            [
+              "Mail Plus + Drive Plus + Pass Plus, em contas separadas",
+              "R$ 294,84",
+              "R$ 461,64"
+            ],
+            [
+              "Os quatro avulsos, em contas separadas",
+              "R$ 420,72",
+              "R$ 755,52"
+            ],
+            [
+              "Proton Unlimited (1 ano)",
+              "R$ 273,48",
+              "R$ 419,88"
+            ]
+          ]
+        },
+        "postParagraphs": [
+          "Um serviço só sai sempre mais barato que o Unlimited, no primeiro ano e na renovação. Para VPN e senhas, a Proton vende o pacote VPN x Pass Plus: na página de ofertas, renova por R$ 377,88 ao ano, abaixo da renovação do Unlimited. Em 24 meses, o pacote sai por R$ 419,76 e o Unlimited de 2 anos, por R$ 671,76. Para ter o e-mail pago junto da VPN, o plano individual na mesma conta é o Unlimited.",
+          "Com dois serviços em contas separadas, VPN Plus e Mail Plus custam menos que o Unlimited no primeiro ano e mais na renovação. As linhas de dois, três e quatro serviços avulsos são soma nossa e só existem com contas separadas, cada uma com o seu login. Mesmo assim, a partir do terceiro serviço a soma passa do Unlimited nos dois períodos: os quatro juntos custam R$ 147,24 a mais no primeiro ano e R$ 335,64 a mais na renovação.",
+          "Para quem só quer a VPN, o caminho é outro. Pelo link de parceiros, o VPN Plus de 2 anos aparece a R$ 210,96 pelos primeiros 24 meses e renova por R$ 293,88 a cada 12 meses. A conta completa está em [Proton VPN vale a pena?](/reviews/proton-vpn-vale-a-pena)."
+        ],
+        "image": {
+          "src": "/images/reviews/proton/proton-unlimited-vale-a-pena-precos-brl.webp",
+          "alt": "Cartão do Proton Unlimited na página de preços da Proton, com o plano de 1 ano a R$ 22,79 por mês, R$ 273,48 pelos primeiros 12 meses e renovação por R$ 419,88 a cada 12 meses.",
+          "caption": "O cartão do Unlimited de 1 ano na página de preços da Proton, com o total e a renovação na linha pequena."
+        },
+        "links": [
+          {
+            "label": "Ver os planos da Proton",
+            "href": "https://go.getproton.me/SH39K",
+            "sponsored": true
+          }
+        ]
+      },
+      {
+        "heading": "Ciclo de 1 mês, 1 ano ou 2 anos",
+        "paragraphs": [
+          "O mensal é o menor desembolso para começar, e o plano de 1 ano tem o menor valor por mês; o de 2 anos só ganha dele por R$ 21,60 no total.",
+          "O Unlimited tem três ciclos na página de preços. A cobrança é antecipada em todos, e o valor em destaque (o \"por mês\") é só a divisão do total."
+        ],
+        "comparisonTable": {
+          "caption": "Proton Unlimited por ciclo, em reais. Confira a moeda e o total no checkout.",
+          "headers": [
+            "Ciclo",
+            "Por mês",
+            "Cobrado de uma vez",
+            "Depois renova por"
+          ],
+          "rows": [
+            [
+              "1 mês",
+              "R$ 45,49",
+              "R$ 45,49",
+              "R$ 45,49 todo mês"
+            ],
+            [
+              "1 ano",
+              "R$ 22,79",
+              "R$ 273,48",
+              "R$ 419,88 a cada 12 meses"
+            ],
+            [
+              "2 anos",
+              "R$ 27,99",
+              "R$ 671,76",
+              "R$ 419,88 a cada 12 meses"
+            ]
+          ]
+        },
+        "postParagraphs": [
+          "Pagar 12 meses seguidos no mensal custaria R$ 545,88. O ano cobrado de uma vez sai por R$ 273,48, mas a renovação sobe R$ 146,40, para R$ 419,88. Já o plano de 2 anos custa R$ 671,76; um ano mais uma renovação somaria R$ 693,36, ou seja, R$ 21,60 a mais. O de 2 anos prende o dinheiro por mais tempo.",
+          "A renovação é automática, segundo o site da Proton. Anote a data da cobrança no dia da compra. Para quem quer só testar a VPN, a página de preços anuncia R$ 5,00 no primeiro mês do VPN Plus, que depois renova por R$ 34,99."
+        ]
+      },
+      {
+        "heading": "Proton Unlimited, Duo ou Family, e a conta vitalícia",
+        "paragraphs": [
+          "Para dividir com mais uma pessoa, o Duo sai mais barato por pessoa que o Unlimited na renovação.",
+          "O Duo e o Family aparecem na página de planos para famílias. O Duo atende até 2 usuários, tem 2 TB e custa R$ 69,99 por mês ou R$ 629,88 cobrados a cada 12 meses. O Family atende até 6 pessoas que moram juntas, tem 3 TB e custa R$ 94,99 por mês ou R$ 851,88 a cada 12 meses.",
+          "O Unlimited é uma conta individual de 1 usuário. O Duo faz sentido para dividir o pacote com mais uma pessoa: por pessoa, ele sai R$ 314,94 ao ano, abaixo dos R$ 419,88 do Unlimited na renovação e acima dos R$ 273,48 do primeiro ano (conta nossa). Não comparamos o que cada serviço entrega no Duo e no Family com o Unlimited, só o preço e o espaço; confira na página antes de trocar.",
+          "Plano vitalício do Unlimited a Proton não vende. Em um texto do blog dela sobre a conta vitalícia, a empresa diz que a conta fica indisponível para compra e só sai na rifa beneficente de fim de ano. O que existe à venda é o Proton Pass + SimpleLogin Lifetime, a US$ 199, que cobre o Pass e o SimpleLogin, e não o Unlimited."
+        ]
+      },
+      {
+        "heading": "O que pesa contra",
+        "bullets": [
+          "**A renovação é bem maior.** O segundo ano do Unlimited custa cerca de metade a mais que o primeiro; os valores estão na tabela de ciclos.",
+          "**A cobrança é antecipada.** O ano ou os 2 anos saem de uma vez, e a renovação é automática.",
+          "**Não há Pix.** A Proton lista Visa, Mastercard, American Express e PayPal; créditos com dinheiro, transferência ou Bitcoin só depois de criar a conta.",
+          "**Cancelar é um downgrade.** O que passar do limite do plano novo precisa ser apagado; o detalhe está nas perguntas frequentes.",
+          "**O reembolso é para a compra inicial**, em 30 dias. O caminho está em [como cancelar o Proton VPN e pedir o reembolso](/reviews/proton-vpn-reembolso-como-cancelar).",
+          "**No iPhone pode haver sobretaxa.** A Proton avisa que a assinatura pelo iOS pode custar mais; assine pelo site."
+        ]
+      },
+      {
+        "heading": "Qual escolha faz sentido para você",
+        "paragraphs": [
+          "A decisão passa pelo número de serviços pagos que você realmente usa:"
+        ],
+        "bullets": [
+          "**Usa só o e-mail, e o grátis dá conta:** fique no grátis. É o nosso caso.",
+          "**Quer só a VPN:** o VPN Plus avulso custa menos que o Unlimited nos dois períodos. A conta está em [Proton VPN vale a pena?](/reviews/proton-vpn-vale-a-pena). Se está comparando com a NordVPN, veja [Proton VPN ou NordVPN](/reviews/proton-vpn-ou-nordvpn).",
+          "**Quer VPN e senhas:** compare o pacote VPN x Pass Plus, que renova abaixo do Unlimited.",
+          "**Quer e-mail e VPN pagos:** numa conta só, é o Unlimited.",
+          "**Quer três ou quatro serviços, ou 15 endereços e 3 domínios:** o Unlimited junta tudo numa conta e custa menos que a soma dos avulsos.",
+          "**Quer dividir com mais uma pessoa:** olhe o Duo.",
+          "**Quer o menor preço do dia:** a Black Friday está nos planos; veja o [guia da Black Friday da Proton](/reviews/black-friday-proton)."
+        ],
+        "emphasis": "Numa conta só, a Proton não junta dois planos Plus. Se você quer e-mail e VPN pagos, a escolha é o Unlimited; se quer só um serviço, o Plus dele custa menos nos dois períodos.",
+        "postParagraphs": [
+          "Não há cupom nem código para digitar: o botão abre a página de planos da Proton pelo nosso link de parceria. As regras do link estão na [página da Proton no nosso site](/cupons/proton)."
+        ],
+        "links": [
+          {
+            "label": "Ver a oferta anual do Proton Unlimited",
+            "href": "https://go.getproton.me/SH39K",
+            "sponsored": true
+          }
+        ]
+      },
+      {
+        "heading": "Perguntas frequentes",
+        "bullets": [
+          "Dá para assinar o VPN Plus e o Mail Plus na mesma conta? Não. A Proton diz que uma conta não pode ter dois planos Plus; para ter os dois pagos, o caminho é o Unlimited, que inclui a VPN paga com até 10 dispositivos.",
+          "Existe cupom de desconto para o Proton Unlimited? Não há cupom. O desconto aparece direto no preço do plano, calculado sobre o mensal, e o valor da renovação vem ao lado.",
+          "Existe Proton Unlimited vitalício? A Proton diz que não vende. A conta vitalícia só sai na rifa beneficente de fim de ano, e o Lifetime à venda é só do Pass e do SimpleLogin.",
+          "O que acontece com meus arquivos se eu cancelar? Pelo FAQ da Proton, cancelar é fazer downgrade no painel. Você mantém o acesso, mas precisa apagar o que excede o limite do plano novo; com o limite cheio, a conta não recebe e-mail nem sobe arquivo.",
+          "Como funciona o reembolso de 30 dias? Pelos termos, vale para a compra inicial, uma vez por usuário, e o pedido e o cancelamento têm de acontecer dentro do prazo; o pedido vai pelo formulário de suporte e só vale para assinatura feita direto com a Proton."
+        ]
+      }
+    ],
+    "pros": [],
+    "cons": [],
+    "cta": {
+      "text": "Pelo nosso link, o Unlimited anual sai por R$ 273,48 no primeiro ano e renova por R$ 419,88 a cada 12 meses. A cobrança é antecipada e a renovação é automática; confira a moeda e o total no checkout.",
+      "label": "Ver a oferta anual do Proton Unlimited",
+      "url": "https://go.getproton.me/SH39K",
+      "sponsored": true
+    },
+    "affiliate": "proton",
+    "editorialNote": "Feito com as páginas de planos e os termos da Proton, sem teste dos planos pagos. Usamos o Proton Mail grátis há quase dez anos. O link é de afiliado e pode gerar comissão.",
+    "relatedArticles": [
+      {
+        "slug": "proton-vpn-vale-a-pena"
+      },
+      {
+        "slug": "black-friday-proton"
+      },
+      {
+        "slug": "proton-vpn-reembolso-como-cancelar"
+      },
+      {
+        "slug": "proton-vpn-e-confiavel"
+      }
+    ],
+    "decision": {
+      "takeIf": [
+        "você quer e-mail pago e VPN paga na mesma conta: entre os planos individuais, só o Unlimited junta os dois.",
+        "você usa ou vai usar três ou quatro serviços pagos da Proton, ou precisa de vários endereços e domínios próprios."
+      ],
+      "skipIf": [
+        "você só quer a VPN, ou VPN e senhas: o VPN Plus e o pacote VPN x Pass Plus custam menos.",
+        "o plano grátis do Mail resolve o seu uso ou o valor da renovação não cabe no orçamento."
+      ]
+    }
+  },
+  {
+    "id": 1496,
+    "slug": "is-proton-unlimited-worth-it",
+    "locale": "en",
+    "translationKey": "proton-unlimited-vale-a-pena",
+    "title": "Is Proton Unlimited worth it? What the 500 GB covers and how it adds up against single plans",
+    "seoTitle": "Is Proton Unlimited worth it? What it includes and the real price",
+    "type": "Buying Guide",
+    "category": "guias-praticos-utilidade",
+    "reviewKind": "guia",
+    "author": {
+      "name": "Cecília Mauad",
+      "slug": "cecilia-mauad",
+      "role": "Em Casa com Cecília",
+      "initials": "CM",
+      "url": "/sobre"
+    },
+    "description": "What Proton Unlimited includes, why it is the way to get paid email and VPN on the same account, and what the bundle costs at renewal after the first year.",
+    "metaDescription": "Is Proton Unlimited worth it? What it includes, why Proton won't combine two Plus plans on one account, and what the bundle costs at renewal.",
+    "publishedAt": "November 27, 2026",
+    "publishedAtISO": "2026-11-27",
+    "updatedAt": "2026-11-27",
+    "draft": false,
+    "isNew": true,
+    "hideFromPortugueseListings": true,
+    "image": "/images/reviews/proton/proton-unlimited-vale-a-pena-hero-en.webp",
+    "imageAlt": "Grid of Proton app icons (email, VPN, cloud storage, password manager) from Proton's official homepage. The cover asks “Is Proton Unlimited worth it?”.",
+    "imageFit": "contain",
+    "imageAspect": "landscape",
+    "contentSections": [
+      {
+        "heading": "Quick answer",
+        "paragraphs": [
+          "Yes, when you want paid email and VPN on the same account, or three Proton services or more: Proton does not let you combine two Plus plans on one account, and Unlimited is the way. For just the VPN, just email, or VPN with passwords, a cheaper plan exists. Renewal comes in well above the first year."
+        ]
+      },
+      {
+        "heading": "What comes in Proton Unlimited",
+        "paragraphs": [
+          "Unlimited is the plan that brings Proton's email, VPN, cloud storage and password manager into a single account. The plans page lists 500 GB of storage, 15 addresses, 3 custom domains, unlimited aliases and the paid versions of VPN, Pass and Drive.",
+          "The free account, according to Proton, includes the essentials of Mail, Calendar, Drive and VPN, with 1 address and 1 GB of email; free Drive has 5 GB. The table below puts Unlimited next to Mail Plus, the single plan that comes closest to it on email limits."
+        ],
+        "comparisonTable": {
+          "caption": "Mail Plus and Unlimited on Proton's plans page.",
+          "headers": [
+            "Feature",
+            "Mail Plus",
+            "Unlimited"
+          ],
+          "rows": [
+            [
+              "Storage",
+              "15 GB",
+              "500 GB"
+            ],
+            [
+              "Email addresses",
+              "10",
+              "15"
+            ],
+            [
+              "Custom domains",
+              "1",
+              "3"
+            ],
+            [
+              "Email aliases",
+              "10 (hide-my-email)",
+              "Unlimited"
+            ],
+            [
+              "VPN Plus",
+              "Not included",
+              "Included"
+            ],
+            [
+              "Pass Plus and Drive Plus",
+              "Not included",
+              "Included"
+            ],
+            [
+              "Emergency Access and Dark Web Monitoring",
+              "Included",
+              "Included"
+            ],
+            [
+              "Proton Sentinel",
+              "Not included",
+              "Included"
+            ]
+          ]
+        },
+        "accordionBlock": {
+          "heading": "What each service includes inside Unlimited",
+          "paragraphs": [
+            "Mail: the 15 addresses, 3 custom domains and unlimited aliases from the table above, plus Emergency Access and Dark Web Monitoring from the comparison table.",
+            "VPN Plus: up to 10 devices at once, servers in more than 140 countries, NetShield (ad, tracker and malware filter) and P2P, as Proton describes the plan. What VPN Plus does and does not do is in [Is Proton VPN worth it?](/en/reviews/is-proton-vpn-worth-it).",
+            "Pass Plus: unlimited devices and aliases, as the plans page describes it.",
+            "Drive: standalone Drive Plus has 200 GB; in Unlimited, the space is the account's 500 GB.",
+            "Proton Sentinel: the comparison table marks the feature as Unlimited-only, not in the free plan or Mail Plus."
+          ]
+        },
+        "postParagraphs": [
+          "Our own usage is small: we have used Proton Mail, on the free plan, for almost ten years."
+        ]
+      },
+      {
+        "heading": "The math: one Plus plan, the VPN and Pass bundle, or Unlimited",
+        "paragraphs": [
+          "Before the math, the rule: Proton does not allow two Plus plans on the same account. The Proton VPN help center gives the example of VPN Plus with Mail Plus and points to Unlimited for anyone who wants the paid features of several services. On a single account, the choice is between one Plus, the VPN x Pass Plus bundle on the deals page, and Unlimited.",
+          "The prices below are from Proton's pages, in US dollars, with the Black Friday price for the first year and the renewal amount next to it. Each plan is billed for the whole period at once, and the discount is calculated on the monthly price."
+        ],
+        "comparisonTable": {
+          "caption": "Prices on November 27, 2026, Black Friday, with the renewal alongside. Sums of single plans are our own calculation and require separate accounts.",
+          "headers": [
+            "What you subscribe to",
+            "First period",
+            "Renewal (12 months)"
+          ],
+          "rows": [
+            [
+              "Pass Plus only (1 year)",
+              "$23.88",
+              "$35.88"
+            ],
+            [
+              "Mail Plus only or Drive Plus only (1 year)",
+              "$29.88",
+              "$47.88"
+            ],
+            [
+              "VPN Plus only (1 year)",
+              "$35.88",
+              "$83.88"
+            ],
+            [
+              "VPN x Pass Plus bundle (24 months, deals page)",
+              "$119.76 for the 24 months",
+              "$107.88"
+            ],
+            [
+              "VPN Plus + Mail Plus, on separate accounts",
+              "$65.76",
+              "$131.76"
+            ],
+            [
+              "Mail Plus + Drive Plus + Pass Plus, on separate accounts",
+              "$83.64",
+              "$131.64"
+            ],
+            [
+              "All four single plans, on separate accounts",
+              "$119.52",
+              "$215.52"
+            ],
+            [
+              "Proton Unlimited (1 year)",
+              "$77.88",
+              "$119.88"
+            ]
+          ]
+        },
+        "postParagraphs": [
+          "A single service always comes out cheaper than Unlimited, in the first year and at renewal. For VPN and passwords, Proton sells the VPN x Pass Plus bundle: on the deals page, it renews at $107.88 a year, below Unlimited's renewal. Over 24 months, the bundle costs $119.76 and the 2-year Unlimited, $191.76. To have paid email together with the VPN, the individual plan on the same account is Unlimited.",
+          "With two services on separate accounts, VPN Plus and Mail Plus cost less than Unlimited in the first year and more at renewal. The rows for two, three and four single services are our own sums and only exist with separate accounts, each with its own login. Even so, from the third service on, the sum goes past Unlimited in both periods: all four together cost $41.64 more in the first year and $95.64 more at renewal.",
+          "For anyone who only wants the VPN, the path is different. Through the partner link, the 2-year VPN Plus shows at $59.76 for the first 24 months and renews at $83.88 every 12 months. The full math is in [Is Proton VPN worth it?](/en/reviews/is-proton-vpn-worth-it)."
+        ],
+        "links": [
+          {
+            "label": "See Proton's plans",
+            "href": "https://go.getproton.me/SH39K",
+            "sponsored": true
+          }
+        ]
+      },
+      {
+        "heading": "1-month, 1-year or 2-year cycle",
+        "paragraphs": [
+          "Monthly is the smallest outlay to get started, and the 1-year plan has the lowest price per month; the 2-year plan only comes out ahead of it by $6.00 in total.",
+          "Unlimited has three cycles on the pricing page. Billing is upfront on all of them, and the headline figure (the \"per month\") is just the total divided out."
+        ],
+        "comparisonTable": {
+          "caption": "Proton Unlimited by cycle, in US dollars. Check the currency and total at checkout.",
+          "headers": [
+            "Cycle",
+            "Per month",
+            "Billed at once",
+            "Then renews at"
+          ],
+          "rows": [
+            [
+              "1 month",
+              "$12.99",
+              "$12.99",
+              "$12.99 every month"
+            ],
+            [
+              "1 year",
+              "$6.49",
+              "$77.88",
+              "$119.88 every 12 months"
+            ],
+            [
+              "2 years",
+              "$7.99",
+              "$191.76",
+              "$119.88 every 12 months"
+            ]
+          ]
+        },
+        "postParagraphs": [
+          "Paying 12 months in a row on the monthly plan would cost $155.88. The year billed at once comes to $77.88, but the renewal goes up $42.00, to $119.88. The 2-year plan costs $191.76; one year plus one renewal would add up to $197.76, that is, $6.00 more. The 2-year plan ties your money up for longer.",
+          "Renewal is automatic, according to Proton's site. Write down the billing date on the day you buy. To try the VPN first, Proton VPN's pricing page advertises Unlimited at $1.00 for the first month, which then renews at $12.99 a month."
+        ],
+        "image": {
+          "src": "/images/reviews/proton/proton-unlimited-vale-a-pena-precos-usd.webp",
+          "alt": "Proton's pricing page in English, in US dollars: the Unlimited 1-year card with $12.99 struck through, $6.49 per month, 50% OFF, billed at $77.88 for the first 12 months and renewing at $119.88 every 12 months.",
+          "caption": "Proton's pricing page in US dollars, November 27, 2026."
+        }
+      },
+      {
+        "heading": "Proton Unlimited, Duo or Family, and the lifetime account",
+        "paragraphs": [
+          "To share with one more person, Duo costs less per person than Unlimited at renewal.",
+          "Duo and Family appear on the plans page for families. Duo serves up to 2 users, has 2 TB and costs $14.99 a month, billed at $179.88 every 12 months. Family serves up to 6 people who live together, has 3 TB and costs $23.99 a month, billed at $287.88 every 12 months.",
+          "Unlimited is an individual account for 1 user. Duo makes sense for sharing the bundle with one more person: per person, it comes to $89.94 a year, below Unlimited's $119.88 at renewal and above its $77.88 in the first year (our calculation). We did not compare what each service delivers in Duo and Family against Unlimited, only the price and the space; check the page before switching.",
+          "Proton does not sell a lifetime Unlimited plan. In a post on its blog about the lifetime account, the company says the account is unavailable for purchase and only comes out in the year-end charity raffle. What is on sale is Proton Pass + SimpleLogin Lifetime, at $199, which covers Pass and SimpleLogin, not Unlimited."
+        ]
+      },
+      {
+        "heading": "What counts against it",
+        "bullets": [
+          "**Renewal is much higher.** Unlimited's second year costs about half again as much as the first; the amounts are in the cycles table.",
+          "**Billing is upfront.** The year or the 2 years come out at once, and renewal is automatic.",
+          "**Payment options are limited.** Proton lists Visa, Mastercard, American Express and PayPal; cash credits, bank transfer or Bitcoin only after you create the account.",
+          "**Canceling is a downgrade.** Whatever goes over the new plan's limit has to be deleted; the details are in the FAQ.",
+          "**The refund is for the initial purchase**, within 30 days. The steps are in [how to cancel Proton VPN and ask for the refund](/en/reviews/proton-vpn-refund-how-to-cancel).",
+          "**On iPhone there may be a surcharge.** Proton warns that subscribing through iOS can cost more; subscribe on the website."
+        ]
+      },
+      {
+        "heading": "Which choice makes sense for you",
+        "paragraphs": [
+          "The decision comes down to the number of paid services you actually use:"
+        ],
+        "bullets": [
+          "**You use only email, and the free plan is enough:** stay on free. That is our case.",
+          "**You want only the VPN:** standalone VPN Plus costs less than Unlimited in both periods. The math is in [Is Proton VPN worth it?](/en/reviews/is-proton-vpn-worth-it). If you are comparing it with NordVPN, see [Proton VPN or NordVPN](/en/reviews/proton-vpn-vs-nordvpn).",
+          "**You want VPN and passwords:** compare the VPN x Pass Plus bundle, which renews below Unlimited.",
+          "**You want paid email and VPN:** on a single account, it is Unlimited.",
+          "**You want three or four services, or 15 addresses and 3 domains:** Unlimited puts everything on one account and costs less than the sum of the single plans.",
+          "**You want to share with one more person:** look at Duo.",
+          "**You want the lowest price of the day:** Black Friday is on the plans; see the [Proton Black Friday guide](/en/reviews/proton-black-friday)."
+        ],
+        "emphasis": "On a single account, Proton does not combine two Plus plans. If you want paid email and VPN, the choice is Unlimited; if you want just one service, its Plus costs less in both periods.",
+        "postParagraphs": [
+          "There is no coupon or code to type: the button opens Proton's plans page through our partner link. The rules of the link are on the [Proton page on our site](/en/coupons/proton)."
+        ],
+        "links": [
+          {
+            "label": "See the annual Proton Unlimited offer",
+            "href": "https://go.getproton.me/SH39K",
+            "sponsored": true
+          }
+        ]
+      },
+      {
+        "heading": "Frequently asked questions",
+        "bullets": [
+          "Can I subscribe to VPN Plus and Mail Plus on the same account? No. Proton says an account cannot hold two Plus plans; to have both paid, the way is Unlimited, which includes the paid VPN with up to 10 devices.",
+          "Is there a discount coupon for Proton Unlimited? There is no coupon. The discount appears directly in the plan's price, calculated on the monthly price, with the renewal amount next to it.",
+          "Is there a lifetime Proton Unlimited? Proton says it does not sell one. The lifetime account only comes out in the year-end charity raffle, and the Lifetime on sale covers only Pass and SimpleLogin.",
+          "What happens to my files if I cancel? According to Proton's FAQ, canceling means downgrading in the dashboard. You keep access, but you have to delete whatever exceeds the new plan's limit; with the limit full, the account cannot receive email or upload files.",
+          "How does the 30-day refund work? Under the terms, it applies to the initial purchase, once per user, and both the request and the cancellation must happen within the window; the request goes through the support form and only covers a subscription made directly with Proton."
+        ]
+      }
+    ],
+    "pros": [],
+    "cons": [],
+    "cta": {
+      "text": "Through our link, annual Unlimited costs $77.88 for the first year and renews at $119.88 every 12 months. Billing is upfront and renewal is automatic; check the currency and the total at checkout.",
+      "label": "See the annual Proton Unlimited offer",
+      "url": "https://go.getproton.me/SH39K",
+      "sponsored": true
+    },
+    "affiliate": "proton",
+    "editorialNote": "Written from Proton's plans pages and terms, with no hands-on test of the paid plans. We have used the free Proton Mail for almost ten years. The link is an affiliate link and may earn a commission.",
+    "relatedArticles": [
+      {
+        "slug": "is-proton-vpn-worth-it"
+      },
+      {
+        "slug": "proton-black-friday"
+      },
+      {
+        "slug": "proton-vpn-refund-how-to-cancel"
+      },
+      {
+        "slug": "is-proton-vpn-safe"
+      }
+    ],
+    "decision": {
+      "takeIf": [
+        "you want paid email and a paid VPN on the same account: among the individual plans, only Unlimited combines the two.",
+        "you use, or will use, three or four paid Proton services, or need several addresses and custom domains."
+      ],
+      "skipIf": [
+        "you only want the VPN, or VPN and passwords: VPN Plus and the VPN x Pass Plus bundle cost less.",
+        "the free Mail plan covers your use, or the renewal amount does not fit your budget."
+      ]
+    }
+  },
+  {
+    "id": 1497,
+    "slug": "proton-unlimited-vale-la-pena",
+    "locale": "es",
+    "translationKey": "proton-unlimited-vale-a-pena",
+    "title": "¿Vale la pena Proton Unlimited? Qué trae con 500 GB y la cuenta frente a los planes sueltos",
+    "seoTitle": "¿Vale la pena Proton Unlimited? Qué incluye y su precio real",
+    "type": "Guía de compra",
+    "category": "guias-praticos-utilidade",
+    "reviewKind": "guia",
+    "author": {
+      "name": "Cecília Mauad",
+      "slug": "cecilia-mauad",
+      "role": "Em Casa com Cecília",
+      "initials": "CM",
+      "url": "/sobre"
+    },
+    "description": "Qué incluye Proton Unlimited, por qué es el camino para tener correo y VPN de pago en la misma cuenta y cuánto cuesta el paquete en la renovación, tras el primer año.",
+    "metaDescription": "¿Vale la pena Proton Unlimited? Qué incluye, por qué Proton no junta dos planes Plus en una cuenta y cuánto cuesta el paquete en la renovación.",
+    "publishedAt": "27 de noviembre de 2026",
+    "publishedAtISO": "2026-11-27",
+    "updatedAt": "2026-11-27",
+    "draft": false,
+    "isNew": true,
+    "hideFromPortugueseListings": true,
+    "image": "/images/reviews/proton/proton-unlimited-vale-a-pena-hero-es.webp",
+    "imageAlt": "Cuadrícula de iconos de las apps de Proton (correo, VPN, nube y gestor de contraseñas), de la página oficial de Proton. La portada pregunta «¿Vale la pena Proton Unlimited?».",
+    "imageFit": "contain",
+    "imageAspect": "landscape",
+    "contentSections": [
+      {
+        "heading": "Respuesta rápida",
+        "paragraphs": [
+          "Sí, cuando quieres correo y VPN de pago en la misma cuenta, o tres servicios de Proton o más: no permite juntar dos planes Plus en una cuenta, y Unlimited es el camino. Para solo la VPN, solo el correo o VPN con contraseñas hay un plan más barato. La renovación sale muy por encima del primer año."
+        ]
+      },
+      {
+        "heading": "Qué trae Proton Unlimited",
+        "paragraphs": [
+          "Unlimited es el plan que reúne, en una sola cuenta, el correo, la VPN, la nube y el gestor de contraseñas de Proton. La página de planes indica 500 GB de almacenamiento, 15 direcciones, 3 dominios propios, alias ilimitados y las versiones de pago de la VPN, de Pass y de Drive.",
+          "La cuenta gratuita, según Proton, trae lo esencial de Mail, Calendar, Drive y VPN, con 1 dirección y 1 GB de correo; el Drive gratuito tiene 5 GB. La tabla siguiente pone Unlimited junto a Mail Plus, el plan suelto que más se acerca a él en los límites de correo."
+        ],
+        "comparisonTable": {
+          "caption": "Mail Plus y Unlimited en la página de planes de Proton.",
+          "headers": [
+            "Recurso",
+            "Mail Plus",
+            "Unlimited"
+          ],
+          "rows": [
+            [
+              "Almacenamiento",
+              "15 GB",
+              "500 GB"
+            ],
+            [
+              "Direcciones de correo",
+              "10",
+              "15"
+            ],
+            [
+              "Dominios propios",
+              "1",
+              "3"
+            ],
+            [
+              "Alias de correo",
+              "10 (hide-my-email)",
+              "Ilimitados"
+            ],
+            [
+              "VPN Plus",
+              "No incluido",
+              "Incluido"
+            ],
+            [
+              "Pass Plus y Drive Plus",
+              "No incluido",
+              "Incluido"
+            ],
+            [
+              "Emergency Access y Dark Web Monitoring",
+              "Incluido",
+              "Incluido"
+            ],
+            [
+              "Proton Sentinel",
+              "No incluido",
+              "Incluido"
+            ]
+          ]
+        },
+        "accordionBlock": {
+          "heading": "Qué trae cada servicio dentro de Unlimited",
+          "paragraphs": [
+            "Mail: las 15 direcciones, los 3 dominios propios y los alias ilimitados del cuadro anterior, además de Emergency Access y Dark Web Monitoring de la tabla comparativa.",
+            "VPN Plus: hasta 10 dispositivos a la vez, servidores en más de 140 países, NetShield (filtro de anuncios, rastreadores y malware) y P2P, como Proton describe el plan. Lo que hace y lo que no hace VPN Plus está en [¿Vale la pena Proton VPN?](/es/reviews/proton-vpn-vale-la-pena).",
+            "Pass Plus: dispositivos y alias ilimitados, como describe la página de planes.",
+            "Drive: el Drive Plus suelto tiene 200 GB; en Unlimited, el espacio es el de 500 GB de la cuenta.",
+            "Proton Sentinel: la tabla comparativa marca la función solo en Unlimited, y no en el plan gratuito ni en Mail Plus."
+          ]
+        },
+        "postParagraphs": [
+          "Nuestra referencia de uso es pequeña: usamos Proton Mail, en el plan gratuito, desde hace casi diez años."
+        ]
+      },
+      {
+        "heading": "La cuenta: un plan Plus, el paquete VPN y Pass o Unlimited",
+        "paragraphs": [
+          "Antes de la cuenta, la regla: Proton no permite tener dos planes Plus en la misma cuenta. El centro de ayuda de Proton VPN pone el ejemplo de VPN Plus con Mail Plus y señala Unlimited para quien quiere las funciones de pago de varios servicios. En una sola cuenta, la elección es entre un Plus, el paquete VPN x Pass Plus de la página de ofertas y Unlimited.",
+          "Los precios de abajo son los de las páginas de Proton, en dólares estadounidenses, con el precio de Black Friday del primer año y el valor de la renovación al lado. Cada plan se cobra por el periodo completo, de una vez, y el descuento se calcula sobre el precio mensual."
+        ],
+        "comparisonTable": {
+          "caption": "Precios del 27/11/2026, de Black Friday, con la renovación al lado. Las sumas de planes sueltos son cuenta nuestra y requieren cuentas separadas.",
+          "headers": [
+            "Qué contratas",
+            "Primer periodo",
+            "Renovación (12 meses)"
+          ],
+          "rows": [
+            [
+              "Solo Pass Plus (1 año)",
+              "$23.88",
+              "$35.88"
+            ],
+            [
+              "Solo Mail Plus o solo Drive Plus (1 año)",
+              "$29.88",
+              "$47.88"
+            ],
+            [
+              "Solo VPN Plus (1 año)",
+              "$35.88",
+              "$83.88"
+            ],
+            [
+              "Paquete VPN x Pass Plus (24 meses, página de ofertas)",
+              "$119.76 por los 24 meses",
+              "$107.88"
+            ],
+            [
+              "VPN Plus + Mail Plus, en cuentas separadas",
+              "$65.76",
+              "$131.76"
+            ],
+            [
+              "Mail Plus + Drive Plus + Pass Plus, en cuentas separadas",
+              "$83.64",
+              "$131.64"
+            ],
+            [
+              "Los cuatro planes sueltos, en cuentas separadas",
+              "$119.52",
+              "$215.52"
+            ],
+            [
+              "Proton Unlimited (1 año)",
+              "$77.88",
+              "$119.88"
+            ]
+          ]
+        },
+        "postParagraphs": [
+          "Un solo servicio sale siempre más barato que Unlimited, en el primer año y en la renovación. Para VPN y contraseñas, Proton vende el paquete VPN x Pass Plus: en la página de ofertas, se renueva por $107.88 al año, por debajo de la renovación de Unlimited. En 24 meses, el paquete sale por $119.76 y el Unlimited de 2 años, por $191.76. Para tener el correo de pago junto con la VPN, el plan individual en la misma cuenta es Unlimited.",
+          "Con dos servicios en cuentas separadas, VPN Plus y Mail Plus cuestan menos que Unlimited en el primer año y más en la renovación. Las filas de dos, tres y cuatro servicios sueltos son suma nuestra y solo existen con cuentas separadas, cada una con su propio inicio de sesión. Aun así, a partir del tercer servicio la suma supera a Unlimited en los dos periodos: los cuatro juntos cuestan $41.64 más en el primer año y $95.64 más en la renovación.",
+          "Para quien solo quiere la VPN, el camino es otro. Con el enlace de socios, el VPN Plus de 2 años aparece a $59.76 por los primeros 24 meses y se renueva por $83.88 cada 12 meses. La cuenta completa está en [¿Vale la pena Proton VPN?](/es/reviews/proton-vpn-vale-la-pena)."
+        ],
+        "links": [
+          {
+            "label": "Ver los planes de Proton",
+            "href": "https://go.getproton.me/SH39K",
+            "sponsored": true
+          }
+        ]
+      },
+      {
+        "heading": "Ciclo de 1 mes, 1 año o 2 años",
+        "paragraphs": [
+          "El mensual es el menor desembolso para empezar, y el plan de 1 año tiene el menor valor por mes; el de 2 años solo le gana por $6.00 en total.",
+          "Unlimited tiene tres ciclos en la página de precios. El cobro es por adelantado en todos, y el valor destacado (el «por mes») es solo la división del total."
+        ],
+        "comparisonTable": {
+          "caption": "Proton Unlimited por ciclo, en dólares estadounidenses. Confirma la moneda y el total en el pago.",
+          "headers": [
+            "Ciclo",
+            "Por mes",
+            "Cobrado de una vez",
+            "Luego se renueva por"
+          ],
+          "rows": [
+            [
+              "1 mes",
+              "$12.99",
+              "$12.99",
+              "$12.99 cada mes"
+            ],
+            [
+              "1 año",
+              "$6.49",
+              "$77.88",
+              "$119.88 cada 12 meses"
+            ],
+            [
+              "2 años",
+              "$7.99",
+              "$191.76",
+              "$119.88 cada 12 meses"
+            ]
+          ]
+        },
+        "postParagraphs": [
+          "Pagar 12 meses seguidos en el mensual costaría $155.88. El año cobrado de una vez sale por $77.88, pero la renovación sube $42.00, hasta $119.88. El plan de 2 años cuesta $191.76; un año más una renovación sumaría $197.76, es decir, $6.00 más. El de 2 años inmoviliza el dinero durante más tiempo.",
+          "La renovación es automática, según el sitio de Proton. Anota la fecha del cobro el día de la compra. Para probar primero la VPN, la página de precios de Proton VPN anuncia Unlimited a $1.00 el primer mes, que luego se renueva a $12.99 al mes."
+        ],
+        "image": {
+          "src": "/images/reviews/proton/proton-unlimited-vale-a-pena-precos-usd.webp",
+          "alt": "Página de precios de Proton en inglés, en dólares estadounidenses: la tarjeta de Unlimited de 1 año con $12.99 tachado, $6.49 al mes, 50% OFF, cobrados $77.88 por los primeros 12 meses y con renovación de $119.88 cada 12 meses.",
+          "caption": "Página de precios de Proton en dólares, 27/11/2026."
+        }
+      },
+      {
+        "heading": "Proton Unlimited, Duo o Family, y la cuenta vitalicia",
+        "paragraphs": [
+          "Para compartir con una persona más, Duo sale más barato por persona que Unlimited en la renovación.",
+          "Duo y Family aparecen en la página de planes para familias. Duo atiende hasta 2 usuarios, tiene 2 TB y cuesta $14.99 al mes, o $179.88 cobrados cada 12 meses. Family atiende hasta 6 personas que viven juntas, tiene 3 TB y cuesta $23.99 al mes, o $287.88 cada 12 meses.",
+          "Unlimited es una cuenta individual de 1 usuario. Duo tiene sentido para compartir el paquete con una persona más: por persona, sale a $89.94 al año, por debajo de los $119.88 de Unlimited en la renovación y por encima de los $77.88 del primer año (cuenta nuestra). No comparamos lo que cada servicio entrega en Duo y en Family con Unlimited, solo el precio y el espacio; confírmalo en la página antes de cambiar.",
+          "Proton no vende un plan vitalicio de Unlimited. En un texto de su blog sobre la cuenta vitalicia, la empresa dice que la cuenta no está disponible para comprar y solo sale en la rifa benéfica de fin de año. Lo que se vende es Proton Pass + SimpleLogin Lifetime, a $199, que cubre Pass y SimpleLogin, y no Unlimited."
+        ]
+      },
+      {
+        "heading": "Lo que juega en contra",
+        "bullets": [
+          "**La renovación es bastante mayor.** El segundo año de Unlimited cuesta cerca de la mitad más que el primero; los valores están en la tabla de ciclos.",
+          "**El cobro es por adelantado.** El año o los 2 años salen de una vez, y la renovación es automática.",
+          "**Los medios de pago son limitados.** Proton indica Visa, Mastercard, American Express y PayPal; créditos con efectivo, transferencia o Bitcoin solo después de crear la cuenta.",
+          "**Cancelar es un downgrade.** Lo que pase del límite del plan nuevo hay que borrarlo; el detalle está en las preguntas frecuentes.",
+          "**El reembolso es para la compra inicial**, en 30 días. El camino está en [cómo cancelar Proton VPN y pedir el reembolso](/es/reviews/proton-vpn-reembolso-cancelar-suscripcion).",
+          "**En iPhone puede haber recargo.** Proton avisa de que la suscripción por iOS puede costar más; suscríbete en el sitio web."
+        ]
+      },
+      {
+        "heading": "Qué elección tiene sentido para ti",
+        "paragraphs": [
+          "La decisión pasa por el número de servicios de pago que realmente usas:"
+        ],
+        "bullets": [
+          "**Usas solo el correo y el gratuito te basta:** quédate con el gratuito. Es nuestro caso.",
+          "**Quieres solo la VPN:** el VPN Plus suelto cuesta menos que Unlimited en los dos periodos. La cuenta está en [¿Vale la pena Proton VPN?](/es/reviews/proton-vpn-vale-la-pena). Si lo comparas con NordVPN, mira [Proton VPN o NordVPN](/es/reviews/proton-vpn-o-nordvpn).",
+          "**Quieres VPN y contraseñas:** compara el paquete VPN x Pass Plus, que se renueva por debajo de Unlimited.",
+          "**Quieres correo y VPN de pago:** en una sola cuenta, es Unlimited.",
+          "**Quieres tres o cuatro servicios, o 15 direcciones y 3 dominios:** Unlimited lo reúne todo en una cuenta y cuesta menos que la suma de los planes sueltos.",
+          "**Quieres compartir con una persona más:** mira Duo.",
+          "**Quieres el menor precio del día:** Black Friday está en los planes; mira la [guía de Black Friday de Proton](/es/reviews/black-friday-proton-ofertas)."
+        ],
+        "emphasis": "En una sola cuenta, Proton no junta dos planes Plus. Si quieres correo y VPN de pago, la elección es Unlimited; si quieres solo un servicio, su Plus cuesta menos en los dos periodos.",
+        "postParagraphs": [
+          "No hay cupón ni código que escribir: el botón abre la página de planes de Proton con nuestro enlace de colaboración. Las reglas del enlace están en la [página de Proton en nuestro sitio](/es/coupons/proton)."
+        ],
+        "links": [
+          {
+            "label": "Ver la oferta anual de Proton Unlimited",
+            "href": "https://go.getproton.me/SH39K",
+            "sponsored": true
+          }
+        ]
+      },
+      {
+        "heading": "Preguntas frecuentes",
+        "bullets": [
+          "¿Se puede contratar VPN Plus y Mail Plus en la misma cuenta? No. Proton dice que una cuenta no puede tener dos planes Plus; para tener los dos de pago, el camino es Unlimited, que incluye la VPN de pago con hasta 10 dispositivos.",
+          "¿Existe cupón de descuento para Proton Unlimited? No hay cupón. El descuento aparece directamente en el precio del plan, calculado sobre el mensual, y el valor de la renovación viene al lado.",
+          "¿Existe un Proton Unlimited vitalicio? Proton dice que no lo vende. La cuenta vitalicia solo sale en la rifa benéfica de fin de año, y el Lifetime a la venta es solo de Pass y SimpleLogin.",
+          "¿Qué pasa con mis archivos si cancelo? Según las preguntas frecuentes de Proton, cancelar es hacer un downgrade en el panel. Mantienes el acceso, pero tienes que borrar lo que exceda el límite del plan nuevo; con el límite lleno, la cuenta no recibe correo ni sube archivos.",
+          "¿Cómo funciona el reembolso de 30 días? Según los términos, vale para la compra inicial, una vez por usuario, y la solicitud y la cancelación tienen que hacerse dentro del plazo; la solicitud se hace por el formulario de soporte y solo vale para una suscripción hecha directamente con Proton."
+        ]
+      }
+    ],
+    "pros": [],
+    "cons": [],
+    "cta": {
+      "text": "Con nuestro enlace, Unlimited anual cuesta $77.88 el primer año y se renueva a $119.88 cada 12 meses. El cobro es por adelantado y la renovación es automática; confirma la moneda y el total en el pago.",
+      "label": "Ver la oferta anual de Proton Unlimited",
+      "url": "https://go.getproton.me/SH39K",
+      "sponsored": true
+    },
+    "affiliate": "proton",
+    "editorialNote": "Hecho con las páginas de planes y los términos de Proton, sin probar los planes de pago. Usamos Proton Mail gratis desde hace casi diez años. El enlace es de afiliado y puede generar comisión.",
+    "relatedArticles": [
+      {
+        "slug": "proton-vpn-vale-la-pena"
+      },
+      {
+        "slug": "black-friday-proton-ofertas"
+      },
+      {
+        "slug": "proton-vpn-reembolso-cancelar-suscripcion"
+      },
+      {
+        "slug": "proton-vpn-es-confiable"
+      }
+    ],
+    "decision": {
+      "takeIf": [
+        "quieres correo de pago y VPN de pago en la misma cuenta: entre los planes individuales, solo Unlimited reúne los dos.",
+        "usas, o vas a usar, tres o cuatro servicios de pago de Proton, o necesitas varias direcciones y dominios propios."
+      ],
+      "skipIf": [
+        "solo quieres la VPN, o VPN y contraseñas: el VPN Plus y el paquete VPN x Pass Plus cuestan menos.",
+        "el plan gratuito de Mail cubre tu uso o el valor de la renovación no cabe en tu presupuesto."
+      ]
+    }
+  },
+  {
+    "id": 1498,
+    "slug": "proton-unlimited-vaut-il-le-coup",
+    "locale": "fr",
+    "translationKey": "proton-unlimited-vale-a-pena",
+    "title": "Proton Unlimited vaut-il le coup ? Ce que contiennent les 500 Go et le calcul face aux offres à l'unité",
+    "seoTitle": "Proton Unlimited vaut-il le coup ? Contenu et prix réel",
+    "type": "Guide d'achat",
+    "category": "guias-praticos-utilidade",
+    "reviewKind": "guia",
+    "author": {
+      "name": "Cecília Mauad",
+      "slug": "cecilia-mauad",
+      "role": "Em Casa com Cecília",
+      "initials": "CM",
+      "url": "/sobre"
+    },
+    "description": "Ce que comprend Proton Unlimited, pourquoi c'est la voie pour avoir messagerie et VPN payants sur le même compte, et ce que coûte l'offre au renouvellement, après un an.",
+    "metaDescription": "Proton Unlimited vaut-il le coup ? Contenu, pourquoi Proton ne cumule pas deux offres Plus sur un compte, et coût de l'offre au renouvellement.",
+    "publishedAt": "27 novembre 2026",
+    "publishedAtISO": "2026-11-27",
+    "updatedAt": "2026-11-27",
+    "draft": false,
+    "isNew": true,
+    "hideFromPortugueseListings": true,
+    "image": "/images/reviews/proton/proton-unlimited-vale-a-pena-hero-fr.webp",
+    "imageAlt": "Grille d'icônes des applications Proton (messagerie, VPN, stockage cloud et gestionnaire de mots de passe), issue du site officiel de Proton. La couverture demande « Proton Unlimited vaut-il le coup ? ».",
+    "imageFit": "contain",
+    "imageAspect": "landscape",
+    "contentSections": [
+      {
+        "heading": "Réponse rapide",
+        "paragraphs": [
+          "Oui, quand vous voulez messagerie et VPN payants sur le même compte, ou trois services Proton ou plus : Proton n'autorise pas deux offres Plus sur un compte, et Unlimited est la voie. Pour le VPN seul, la messagerie seule ou le VPN avec les mots de passe, une offre moins chère existe. Le renouvellement dépasse nettement la première année."
+        ]
+      },
+      {
+        "heading": "Ce que contient Proton Unlimited",
+        "paragraphs": [
+          "Unlimited est l'offre qui réunit, sur un seul compte, la messagerie, le VPN, le cloud et le gestionnaire de mots de passe de Proton. La page des offres indique 500 Go de stockage, 15 adresses, 3 domaines personnalisés, des alias illimités et les versions payantes du VPN, de Pass et de Drive.",
+          "Le compte gratuit, selon Proton, comprend l'essentiel de Mail, Calendar, Drive et VPN, avec 1 adresse et 1 Go de messagerie ; le Drive gratuit offre 5 Go. Le tableau suivant place Unlimited à côté de Mail Plus, l'offre à l'unité la plus proche en limites de messagerie."
+        ],
+        "comparisonTable": {
+          "caption": "Mail Plus et Unlimited sur la page des offres de Proton.",
+          "headers": [
+            "Fonctionnalité",
+            "Mail Plus",
+            "Unlimited"
+          ],
+          "rows": [
+            [
+              "Stockage",
+              "15 Go",
+              "500 Go"
+            ],
+            [
+              "Adresses e-mail",
+              "10",
+              "15"
+            ],
+            [
+              "Domaines personnalisés",
+              "1",
+              "3"
+            ],
+            [
+              "Alias e-mail",
+              "10 (hide-my-email)",
+              "Illimités"
+            ],
+            [
+              "VPN Plus",
+              "Non inclus",
+              "Inclus"
+            ],
+            [
+              "Pass Plus et Drive Plus",
+              "Non inclus",
+              "Inclus"
+            ],
+            [
+              "Emergency Access et Dark Web Monitoring",
+              "Inclus",
+              "Inclus"
+            ],
+            [
+              "Proton Sentinel",
+              "Non inclus",
+              "Inclus"
+            ]
+          ]
+        },
+        "accordionBlock": {
+          "heading": "Ce que chaque service comprend dans Unlimited",
+          "paragraphs": [
+            "Mail : les 15 adresses, les 3 domaines personnalisés et les alias illimités du tableau ci-dessus, plus Emergency Access et Dark Web Monitoring du tableau comparatif.",
+            "VPN Plus : jusqu'à 10 appareils en même temps, des serveurs dans plus de 140 pays, NetShield (filtre des publicités, des traqueurs et des logiciels malveillants) et P2P, comme Proton décrit l'offre. Ce que VPN Plus fait et ne fait pas est dans [Proton VPN vaut-il le coup ?](/fr/reviews/proton-vpn-vaut-il-le-coup).",
+            "Pass Plus : appareils et alias illimités, comme le décrit la page des offres.",
+            "Drive : le Drive Plus seul offre 200 Go ; dans Unlimited, l'espace est celui des 500 Go du compte.",
+            "Proton Sentinel : le tableau comparatif marque la fonctionnalité uniquement dans Unlimited, ni dans l'offre gratuite ni dans Mail Plus."
+          ]
+        },
+        "postParagraphs": [
+          "Notre référence d'usage est modeste : nous utilisons Proton Mail, en offre gratuite, depuis presque dix ans."
+        ]
+      },
+      {
+        "heading": "Le calcul : une offre Plus, le pack VPN et Pass ou Unlimited",
+        "paragraphs": [
+          "Avant le calcul, la règle : Proton n'autorise pas deux offres Plus sur le même compte. Le centre d'aide de Proton VPN donne l'exemple de VPN Plus avec Mail Plus et oriente vers Unlimited ceux qui veulent les fonctions payantes de plusieurs services. Sur un seul compte, le choix se fait entre un Plus, le pack VPN x Pass Plus de la page des promotions et Unlimited.",
+          "Les prix ci-dessous sont ceux des pages de Proton, en dollars américains, avec le prix Black Friday de la première année et le montant du renouvellement à côté. Chaque offre est facturée pour toute la période, en une fois, et la réduction est calculée sur le prix mensuel."
+        ],
+        "comparisonTable": {
+          "caption": "Prix du 27/11/2026, Black Friday, avec le renouvellement à côté. Les sommes d'offres à l'unité sont notre calcul et supposent des comptes séparés.",
+          "headers": [
+            "Ce que vous souscrivez",
+            "Première période",
+            "Renouvellement (12 mois)"
+          ],
+          "rows": [
+            [
+              "Pass Plus seul (1 an)",
+              "23,88 $",
+              "35,88 $"
+            ],
+            [
+              "Mail Plus seul ou Drive Plus seul (1 an)",
+              "29,88 $",
+              "47,88 $"
+            ],
+            [
+              "VPN Plus seul (1 an)",
+              "35,88 $",
+              "83,88 $"
+            ],
+            [
+              "Pack VPN x Pass Plus (24 mois, page des promotions)",
+              "119,76 $ pour les 24 mois",
+              "107,88 $"
+            ],
+            [
+              "VPN Plus + Mail Plus, sur des comptes séparés",
+              "65,76 $",
+              "131,76 $"
+            ],
+            [
+              "Mail Plus + Drive Plus + Pass Plus, sur des comptes séparés",
+              "83,64 $",
+              "131,64 $"
+            ],
+            [
+              "Les quatre offres à l'unité, sur des comptes séparés",
+              "119,52 $",
+              "215,52 $"
+            ],
+            [
+              "Proton Unlimited (1 an)",
+              "77,88 $",
+              "119,88 $"
+            ]
+          ]
+        },
+        "postParagraphs": [
+          "Un seul service revient toujours moins cher qu'Unlimited, la première année comme au renouvellement. Pour le VPN et les mots de passe, Proton vend le pack VPN x Pass Plus : sur la page des promotions, il se renouvelle à 107,88 $ par an, sous le renouvellement d'Unlimited. Sur 24 mois, le pack revient à 119,76 $ et l'Unlimited de 2 ans à 191,76 $. Pour avoir la messagerie payante avec le VPN, l'offre individuelle sur le même compte est Unlimited.",
+          "Avec deux services sur des comptes séparés, VPN Plus et Mail Plus coûtent moins qu'Unlimited la première année et plus au renouvellement. Les lignes de deux, trois et quatre services à l'unité sont des sommes de notre fait et n'existent qu'avec des comptes séparés, chacun avec son identifiant. Même ainsi, à partir du troisième service, la somme dépasse Unlimited sur les deux périodes : les quatre ensemble coûtent 41,64 $ de plus la première année et 95,64 $ de plus au renouvellement.",
+          "Pour qui ne veut que le VPN, le chemin est autre. Via le lien partenaire, le VPN Plus de 2 ans apparaît à 59,76 $ pour les 24 premiers mois et se renouvelle à 83,88 $ tous les 12 mois. Le calcul complet est dans [Proton VPN vaut-il le coup ?](/fr/reviews/proton-vpn-vaut-il-le-coup)."
+        ],
+        "links": [
+          {
+            "label": "Voir les offres de Proton",
+            "href": "https://go.getproton.me/SH39K",
+            "sponsored": true
+          }
+        ]
+      },
+      {
+        "heading": "Cycle de 1 mois, 1 an ou 2 ans",
+        "paragraphs": [
+          "Le mensuel est le plus petit décaissement pour commencer, et l'offre d'1 an a le plus bas prix par mois ; celle de 2 ans ne la devance que de 6,00 $ au total.",
+          "Unlimited a trois cycles sur la page des tarifs. La facturation est anticipée dans tous, et le montant mis en avant (le « par mois ») n'est que la division du total."
+        ],
+        "comparisonTable": {
+          "caption": "Proton Unlimited par cycle, en dollars américains. Vérifiez la devise et le total au paiement.",
+          "headers": [
+            "Cycle",
+            "Par mois",
+            "Facturé en une fois",
+            "Puis renouvellement à"
+          ],
+          "rows": [
+            [
+              "1 mois",
+              "12,99 $",
+              "12,99 $",
+              "12,99 $ chaque mois"
+            ],
+            [
+              "1 an",
+              "6,49 $",
+              "77,88 $",
+              "119,88 $ tous les 12 mois"
+            ],
+            [
+              "2 ans",
+              "7,99 $",
+              "191,76 $",
+              "119,88 $ tous les 12 mois"
+            ]
+          ]
+        },
+        "postParagraphs": [
+          "Payer 12 mois d'affilée au mensuel coûterait 155,88 $. L'année facturée en une fois revient à 77,88 $, mais le renouvellement augmente de 42,00 $, à 119,88 $. L'offre de 2 ans coûte 191,76 $ ; une année plus un renouvellement ferait 197,76 $, soit 6,00 $ de plus. Celle de 2 ans immobilise l'argent plus longtemps.",
+          "Le renouvellement est automatique, selon le site de Proton. Notez la date de prélèvement le jour de l'achat. Pour essayer d'abord le VPN, la page des tarifs de Proton VPN annonce Unlimited à 1,00 $ le premier mois, puis renouvelé à 12,99 $ par mois."
+        ],
+        "image": {
+          "src": "/images/reviews/proton/proton-unlimited-vale-a-pena-precos-usd.webp",
+          "alt": "Page des tarifs de Proton en anglais, en dollars américains : la carte Unlimited d'1 an avec 12,99 $ barré, 6,49 $ par mois, 50 % OFF, facturée 77,88 $ pour les 12 premiers mois et renouvelée à 119,88 $ tous les 12 mois.",
+          "caption": "Page des tarifs de Proton en dollars, 27/11/2026."
+        }
+      },
+      {
+        "heading": "Proton Unlimited, Duo ou Family, et le compte à vie",
+        "paragraphs": [
+          "Pour partager avec une personne de plus, Duo revient moins cher par personne qu'Unlimited au renouvellement.",
+          "Duo et Family figurent sur la page des offres pour les familles. Duo accueille jusqu'à 2 utilisateurs, offre 2 To et coûte 14,99 $ par mois, ou 179,88 $ facturés tous les 12 mois. Family accueille jusqu'à 6 personnes vivant ensemble, offre 3 To et coûte 23,99 $ par mois, ou 287,88 $ tous les 12 mois.",
+          "Unlimited est un compte individuel pour 1 utilisateur. Duo a du sens pour partager l'offre avec une personne de plus : par personne, il revient à 89,94 $ par an, sous les 119,88 $ d'Unlimited au renouvellement et au-dessus des 77,88 $ de la première année (calcul de notre fait). Nous n'avons pas comparé ce que chaque service apporte dans Duo et Family par rapport à Unlimited, seulement le prix et l'espace ; vérifiez sur la page avant de changer.",
+          "Proton ne vend pas de formule à vie d'Unlimited. Dans un article de son blog sur le compte à vie, l'entreprise dit que le compte n'est pas disponible à l'achat et ne sort que lors de la tombola caritative de fin d'année. Ce qui est en vente, c'est Proton Pass + SimpleLogin Lifetime, à 199 $, qui couvre Pass et SimpleLogin, et non Unlimited."
+        ]
+      },
+      {
+        "heading": "Ce qui joue contre",
+        "bullets": [
+          "**Le renouvellement est nettement plus élevé.** La deuxième année d'Unlimited coûte environ la moitié de plus que la première ; les montants sont dans le tableau des cycles.",
+          "**La facturation est anticipée.** L'année ou les 2 ans sont prélevés en une fois, et le renouvellement est automatique.",
+          "**Les moyens de paiement sont limités.** Proton liste Visa, Mastercard, American Express et PayPal ; crédits par espèces, virement ou Bitcoin seulement après la création du compte.",
+          "**Résilier, c'est un downgrade.** Ce qui dépasse la limite de la nouvelle offre doit être supprimé ; le détail est dans la FAQ.",
+          "**Le remboursement vaut pour l'achat initial**, sous 30 jours. Le chemin est dans [comment résilier Proton VPN et demander le remboursement](/fr/reviews/proton-vpn-remboursement-resilier).",
+          "**Sur iPhone, il peut y avoir une majoration.** Proton avertit que l'abonnement via iOS peut coûter plus cher ; abonnez-vous sur le site."
+        ]
+      },
+      {
+        "heading": "Quel choix a du sens pour vous",
+        "paragraphs": [
+          "La décision dépend du nombre de services payants que vous utilisez vraiment :"
+        ],
+        "bullets": [
+          "**Vous n'utilisez que la messagerie, et le gratuit suffit :** restez sur le gratuit. C'est notre cas.",
+          "**Vous ne voulez que le VPN :** le VPN Plus seul coûte moins qu'Unlimited sur les deux périodes. Le calcul est dans [Proton VPN vaut-il le coup ?](/fr/reviews/proton-vpn-vaut-il-le-coup). Si vous le comparez à NordVPN, voyez [Proton VPN ou NordVPN](/fr/reviews/proton-vpn-ou-nordvpn-comparatif).",
+          "**Vous voulez VPN et mots de passe :** comparez le pack VPN x Pass Plus, qui se renouvelle sous Unlimited.",
+          "**Vous voulez messagerie et VPN payants :** sur un seul compte, c'est Unlimited.",
+          "**Vous voulez trois ou quatre services, ou 15 adresses et 3 domaines :** Unlimited réunit tout sur un compte et coûte moins que la somme des offres à l'unité.",
+          "**Vous voulez partager avec une personne de plus :** regardez Duo.",
+          "**Vous voulez le meilleur prix du jour :** le Black Friday est dans les offres ; voyez le [guide Black Friday de Proton](/fr/reviews/black-friday-proton-offres)."
+        ],
+        "emphasis": "Sur un seul compte, Proton ne cumule pas deux offres Plus. Si vous voulez messagerie et VPN payants, le choix est Unlimited ; si vous ne voulez qu'un service, son Plus coûte moins sur les deux périodes.",
+        "postParagraphs": [
+          "Il n'y a ni coupon ni code à saisir : le bouton ouvre la page des offres de Proton par notre lien de partenariat. Les règles du lien sont sur la [page Proton de notre site](/fr/coupons/proton)."
+        ],
+        "links": [
+          {
+            "label": "Voir l'offre annuelle de Proton Unlimited",
+            "href": "https://go.getproton.me/SH39K",
+            "sponsored": true
+          }
+        ]
+      },
+      {
+        "heading": "Questions fréquentes",
+        "bullets": [
+          "Peut-on souscrire VPN Plus et Mail Plus sur le même compte ? Non. Proton indique qu'un compte ne peut pas avoir deux offres Plus ; pour avoir les deux payants, la voie est Unlimited, qui inclut le VPN payant avec jusqu'à 10 appareils.",
+          "Existe-t-il un coupon de réduction pour Proton Unlimited ? Il n'y a pas de coupon. La réduction apparaît directement dans le prix de l'offre, calculée sur le mensuel, et le montant du renouvellement figure à côté.",
+          "Existe-t-il un Proton Unlimited à vie ? Proton dit ne pas en vendre. Le compte à vie ne sort que lors de la tombola caritative de fin d'année, et le Lifetime en vente ne concerne que Pass et SimpleLogin.",
+          "Que deviennent mes fichiers si je résilie ? Selon la FAQ de Proton, résilier revient à faire un downgrade dans le tableau de bord. Vous gardez l'accès, mais devez supprimer ce qui dépasse la limite de la nouvelle offre ; avec la limite atteinte, le compte ne reçoit plus d'e-mails ni ne téléverse de fichiers.",
+          "Comment fonctionne le remboursement sous 30 jours ? Selon les conditions, il vaut pour l'achat initial, une fois par utilisateur, et la demande comme la résiliation doivent avoir lieu dans le délai ; la demande passe par le formulaire d'assistance et ne vaut que pour un abonnement souscrit directement auprès de Proton."
+        ]
+      }
+    ],
+    "pros": [],
+    "cons": [],
+    "cta": {
+      "text": "Avec notre lien, Unlimited annuel revient à 77,88 $ la première année et se renouvelle à 119,88 $ tous les 12 mois. La facturation est anticipée et le renouvellement automatique ; vérifiez la devise et le total au paiement.",
+      "label": "Voir l'offre annuelle de Proton Unlimited",
+      "url": "https://go.getproton.me/SH39K",
+      "sponsored": true
+    },
+    "affiliate": "proton",
+    "editorialNote": "Rédigé à partir des pages d'offres et des conditions de Proton, sans test des offres payantes. Nous utilisons Proton Mail gratuit depuis presque dix ans. Le lien est un lien d'affiliation et peut générer une commission.",
+    "relatedArticles": [
+      {
+        "slug": "proton-vpn-vaut-il-le-coup"
+      },
+      {
+        "slug": "black-friday-proton-offres"
+      },
+      {
+        "slug": "proton-vpn-remboursement-resilier"
+      },
+      {
+        "slug": "proton-vpn-est-il-fiable"
+      }
+    ],
+    "decision": {
+      "takeIf": [
+        "vous voulez messagerie payante et VPN payant sur le même compte : parmi les offres individuelles, seul Unlimited réunit les deux.",
+        "vous utilisez, ou allez utiliser, trois ou quatre services payants de Proton, ou avez besoin de plusieurs adresses et domaines personnalisés."
+      ],
+      "skipIf": [
+        "vous ne voulez que le VPN, ou le VPN et les mots de passe : le VPN Plus et le pack VPN x Pass Plus coûtent moins.",
+        "l'offre gratuite de Mail couvre votre usage ou le montant du renouvellement ne tient pas dans votre budget."
+      ]
+    }
+  },
+  {
+    "id": 1499,
+    "slug": "lohnt-sich-proton-unlimited",
+    "locale": "de",
+    "translationKey": "proton-unlimited-vale-a-pena",
+    "title": "Lohnt sich Proton Unlimited? Was die 500 GB enthalten und die Rechnung gegen die Einzeltarife",
+    "seoTitle": "Lohnt sich Proton Unlimited? Was enthalten ist und der echte Preis",
+    "type": "Kaufratgeber",
+    "category": "guias-praticos-utilidade",
+    "reviewKind": "guia",
+    "author": {
+      "name": "Cecília Mauad",
+      "slug": "cecilia-mauad",
+      "role": "Em Casa com Cecília",
+      "initials": "CM",
+      "url": "/sobre"
+    },
+    "description": "Was Proton Unlimited enthält, warum es der Weg zu bezahlter E-Mail und bezahltem VPN im selben Konto ist und was das Paket nach dem ersten Jahr bei der Verlängerung kostet.",
+    "metaDescription": "Lohnt sich Proton Unlimited? Was enthalten ist, warum Proton zwei Plus-Tarife nicht in einem Konto zulässt und was das Paket bei der Verlängerung kostet.",
+    "publishedAt": "27. November 2026",
+    "publishedAtISO": "2026-11-27",
+    "updatedAt": "2026-11-27",
+    "draft": false,
+    "isNew": true,
+    "hideFromPortugueseListings": true,
+    "image": "/images/reviews/proton/proton-unlimited-vale-a-pena-hero-de.webp",
+    "imageAlt": "Raster mit App-Symbolen von Proton (E-Mail, VPN, Cloud-Speicher, Passwort-Manager) von der offiziellen Proton-Startseite. Das Titelbild fragt „Lohnt sich Proton Unlimited?“.",
+    "imageFit": "contain",
+    "imageAspect": "landscape",
+    "contentSections": [
+      {
+        "heading": "Kurzantwort",
+        "paragraphs": [
+          "Ja, wenn Sie bezahlte E-Mail und bezahltes VPN im selben Konto wollen oder drei Proton-Dienste und mehr: Proton erlaubt nicht zwei Plus-Tarife in einem Konto, und Unlimited ist der Weg. Für nur das VPN, nur die E-Mail oder VPN mit Passwörtern gibt es einen günstigeren Tarif. Die Verlängerung liegt deutlich über dem ersten Jahr."
+        ]
+      },
+      {
+        "heading": "Was in Proton Unlimited steckt",
+        "paragraphs": [
+          "Unlimited ist der Tarif, der E-Mail, VPN, Cloud und Passwort-Manager von Proton in einem einzigen Konto vereint. Die Tarifseite nennt 500 GB Speicher, 15 Adressen, 3 eigene Domains, unbegrenzte Aliase und die bezahlten Versionen von VPN, Pass und Drive.",
+          "Das kostenlose Konto bietet laut Proton das Wesentliche von Mail, Calendar, Drive und VPN, mit 1 Adresse und 1 GB E-Mail-Speicher; das kostenlose Drive hat 5 GB. Die folgende Tabelle stellt Unlimited neben Mail Plus, den Einzeltarif, der ihm bei den E-Mail-Limits am nächsten kommt."
+        ],
+        "comparisonTable": {
+          "caption": "Mail Plus und Unlimited auf der Tarifseite von Proton.",
+          "headers": [
+            "Funktion",
+            "Mail Plus",
+            "Unlimited"
+          ],
+          "rows": [
+            [
+              "Speicher",
+              "15 GB",
+              "500 GB"
+            ],
+            [
+              "E-Mail-Adressen",
+              "10",
+              "15"
+            ],
+            [
+              "Eigene Domains",
+              "1",
+              "3"
+            ],
+            [
+              "E-Mail-Aliase",
+              "10 (hide-my-email)",
+              "Unbegrenzt"
+            ],
+            [
+              "VPN Plus",
+              "Nicht enthalten",
+              "Enthalten"
+            ],
+            [
+              "Pass Plus und Drive Plus",
+              "Nicht enthalten",
+              "Enthalten"
+            ],
+            [
+              "Emergency Access und Dark Web Monitoring",
+              "Enthalten",
+              "Enthalten"
+            ],
+            [
+              "Proton Sentinel",
+              "Nicht enthalten",
+              "Enthalten"
+            ]
+          ]
+        },
+        "accordionBlock": {
+          "heading": "Was jeder Dienst innerhalb von Unlimited enthält",
+          "paragraphs": [
+            "Mail: die 15 Adressen, 3 eigenen Domains und unbegrenzten Aliase aus der Tabelle oben, dazu Emergency Access und Dark Web Monitoring aus der Vergleichstabelle.",
+            "VPN Plus: bis zu 10 Geräte gleichzeitig, Server in mehr als 140 Ländern, NetShield (Filter für Werbung, Tracker und Schadsoftware) und P2P, so beschreibt Proton den Tarif. Was VPN Plus leistet und was nicht, steht in [Lohnt sich Proton VPN?](/de/reviews/lohnt-sich-proton-vpn).",
+            "Pass Plus: unbegrenzte Geräte und Aliase, wie die Tarifseite es beschreibt.",
+            "Drive: das einzelne Drive Plus hat 200 GB; in Unlimited ist der Speicherplatz der des Kontos mit 500 GB.",
+            "Proton Sentinel: Die Vergleichstabelle markiert die Funktion nur bei Unlimited, nicht im kostenlosen Tarif und nicht bei Mail Plus."
+          ]
+        },
+        "postParagraphs": [
+          "Unsere eigene Nutzung ist klein: Wir verwenden Proton Mail im kostenlosen Tarif seit fast zehn Jahren."
+        ]
+      },
+      {
+        "heading": "Die Rechnung: ein Plus-Tarif, das Paket VPN und Pass oder Unlimited",
+        "paragraphs": [
+          "Vor der Rechnung die Regel: Proton erlaubt nicht zwei Plus-Tarife im selben Konto. Das Hilfecenter von Proton VPN nennt das Beispiel VPN Plus mit Mail Plus und verweist auf Unlimited für alle, die die bezahlten Funktionen mehrerer Dienste wollen. In einem einzigen Konto fällt die Wahl zwischen einem Plus, dem Paket VPN x Pass Plus von der Angebotsseite und Unlimited.",
+          "Die Preise unten stammen von den Seiten von Proton, in US-Dollar, mit dem Black-Friday-Preis des ersten Jahres und dem Verlängerungsbetrag daneben. Jeder Tarif wird für den gesamten Zeitraum auf einmal abgerechnet, und der Rabatt wird auf den Monatspreis berechnet."
+        ],
+        "comparisonTable": {
+          "caption": "Preise vom 27.11.2026, Black Friday, mit der Verlängerung daneben. Summen von Einzeltarifen sind unsere Rechnung und setzen getrennte Konten voraus.",
+          "headers": [
+            "Was Sie abonnieren",
+            "Erster Zeitraum",
+            "Verlängerung (12 Monate)"
+          ],
+          "rows": [
+            [
+              "Nur Pass Plus (1 Jahr)",
+              "23,88 $",
+              "35,88 $"
+            ],
+            [
+              "Nur Mail Plus oder nur Drive Plus (1 Jahr)",
+              "29,88 $",
+              "47,88 $"
+            ],
+            [
+              "Nur VPN Plus (1 Jahr)",
+              "35,88 $",
+              "83,88 $"
+            ],
+            [
+              "Paket VPN x Pass Plus (24 Monate, Angebotsseite)",
+              "119,76 $ für die 24 Monate",
+              "107,88 $"
+            ],
+            [
+              "VPN Plus + Mail Plus, in getrennten Konten",
+              "65,76 $",
+              "131,76 $"
+            ],
+            [
+              "Mail Plus + Drive Plus + Pass Plus, in getrennten Konten",
+              "83,64 $",
+              "131,64 $"
+            ],
+            [
+              "Alle vier Einzeltarife, in getrennten Konten",
+              "119,52 $",
+              "215,52 $"
+            ],
+            [
+              "Proton Unlimited (1 Jahr)",
+              "77,88 $",
+              "119,88 $"
+            ]
+          ]
+        },
+        "postParagraphs": [
+          "Ein einzelner Dienst ist immer günstiger als Unlimited, im ersten Jahr und bei der Verlängerung. Für VPN und Passwörter verkauft Proton das Paket VPN x Pass Plus: Auf der Angebotsseite verlängert es sich für 107,88 $ im Jahr, unter der Verlängerung von Unlimited. Über 24 Monate kostet das Paket 119,76 $ und Unlimited mit 2 Jahren 191,76 $. Für bezahlte E-Mail zusammen mit dem VPN ist der Einzeltarif im selben Konto Unlimited.",
+          "Mit zwei Diensten in getrennten Konten kosten VPN Plus und Mail Plus im ersten Jahr weniger als Unlimited und bei der Verlängerung mehr. Die Zeilen mit zwei, drei und vier Einzeldiensten sind unsere eigenen Summen und gibt es nur mit getrennten Konten, jedes mit eigenem Login. Trotzdem übersteigt die Summe ab dem dritten Dienst in beiden Zeiträumen Unlimited: Alle vier zusammen kosten im ersten Jahr 41,64 $ mehr und bei der Verlängerung 95,64 $ mehr.",
+          "Wer nur das VPN will, geht einen anderen Weg. Über den Partnerlink erscheint das VPN Plus für 2 Jahre mit 59,76 $ für die ersten 24 Monate und verlängert sich für 83,88 $ alle 12 Monate. Die vollständige Rechnung steht in [Lohnt sich Proton VPN?](/de/reviews/lohnt-sich-proton-vpn)."
+        ],
+        "links": [
+          {
+            "label": "Die Tarife von Proton ansehen",
+            "href": "https://go.getproton.me/SH39K",
+            "sponsored": true
+          }
+        ]
+      },
+      {
+        "heading": "Laufzeit von 1 Monat, 1 Jahr oder 2 Jahren",
+        "paragraphs": [
+          "Monatlich ist die kleinste Ausgabe zum Einstieg, und der 1-Jahres-Tarif hat den niedrigsten Preis pro Monat; der 2-Jahres-Tarif liegt nur um 6,00 $ insgesamt vor ihm.",
+          "Unlimited hat auf der Preisseite drei Laufzeiten. Die Abrechnung erfolgt bei allen im Voraus, und der hervorgehobene Betrag (das „pro Monat“) ist nur die Aufteilung der Gesamtsumme."
+        ],
+        "comparisonTable": {
+          "caption": "Proton Unlimited je Laufzeit, in US-Dollar. Prüfen Sie Währung und Gesamtbetrag an der Kasse.",
+          "headers": [
+            "Laufzeit",
+            "Pro Monat",
+            "Auf einmal berechnet",
+            "Verlängert sich danach auf"
+          ],
+          "rows": [
+            [
+              "1 Monat",
+              "12,99 $",
+              "12,99 $",
+              "12,99 $ jeden Monat"
+            ],
+            [
+              "1 Jahr",
+              "6,49 $",
+              "77,88 $",
+              "119,88 $ alle 12 Monate"
+            ],
+            [
+              "2 Jahre",
+              "7,99 $",
+              "191,76 $",
+              "119,88 $ alle 12 Monate"
+            ]
+          ]
+        },
+        "postParagraphs": [
+          "12 Monate hintereinander im Monatstarif zu zahlen, würde 155,88 $ kosten. Das auf einmal berechnete Jahr kommt auf 77,88 $, aber die Verlängerung steigt um 42,00 $ auf 119,88 $. Der 2-Jahres-Tarif kostet 191,76 $; ein Jahr plus eine Verlängerung ergäbe 197,76 $, also 6,00 $ mehr. Der 2-Jahres-Tarif bindet das Geld länger.",
+          "Die Verlängerung erfolgt laut Website von Proton automatisch. Notieren Sie sich das Abrechnungsdatum am Tag des Kaufs. Wer zuerst das VPN testen will: Die Preisseite von Proton VPN bewirbt Unlimited mit 1,00 $ für den ersten Monat, danach verlängert es sich für 12,99 $ im Monat."
+        ],
+        "image": {
+          "src": "/images/reviews/proton/proton-unlimited-vale-a-pena-precos-usd.webp",
+          "alt": "Preisseite von Proton auf Englisch, in US-Dollar: die Unlimited-Karte für 1 Jahr mit durchgestrichenen 12,99 $, 6,49 $ pro Monat, 50 % OFF, abgerechnet mit 77,88 $ für die ersten 12 Monate und Verlängerung zu 119,88 $ alle 12 Monate.",
+          "caption": "Preisseite von Proton in Dollar, 27.11.2026."
+        }
+      },
+      {
+        "heading": "Proton Unlimited, Duo oder Family und das Lifetime-Konto",
+        "paragraphs": [
+          "Wer mit einer weiteren Person teilen will: Duo kostet pro Person bei der Verlängerung weniger als Unlimited.",
+          "Duo und Family stehen auf der Tarifseite für Familien. Duo ist für bis zu 2 Nutzer, hat 2 TB und kostet 14,99 $ im Monat oder 179,88 $, alle 12 Monate abgerechnet. Family ist für bis zu 6 Personen, die zusammenwohnen, hat 3 TB und kostet 23,99 $ im Monat oder 287,88 $ alle 12 Monate.",
+          "Unlimited ist ein Einzelkonto für 1 Nutzer. Duo ist sinnvoll, um das Paket mit einer weiteren Person zu teilen: Pro Person kommt es auf 89,94 $ im Jahr, unter den 119,88 $ von Unlimited bei der Verlängerung und über den 77,88 $ des ersten Jahres (unsere Rechnung). Wir haben nicht verglichen, was jeder Dienst in Duo und Family gegenüber Unlimited leistet, nur Preis und Speicherplatz; prüfen Sie die Seite vor dem Wechsel.",
+          "Einen Lifetime-Tarif für Unlimited verkauft Proton nicht. In einem Blogbeitrag zum Lifetime-Konto sagt das Unternehmen, das Konto sei nicht käuflich und werde nur bei der Wohltätigkeitsverlosung zum Jahresende vergeben. Im Verkauf ist Proton Pass + SimpleLogin Lifetime für 199 $, das Pass und SimpleLogin abdeckt, nicht Unlimited."
+        ]
+      },
+      {
+        "heading": "Was dagegen spricht",
+        "bullets": [
+          "**Die Verlängerung ist deutlich höher.** Das zweite Jahr von Unlimited kostet etwa die Hälfte mehr als das erste; die Beträge stehen in der Tabelle der Laufzeiten.",
+          "**Die Abrechnung erfolgt im Voraus.** Das Jahr oder die 2 Jahre werden auf einmal abgebucht, und die Verlängerung ist automatisch.",
+          "**Die Zahlungsmöglichkeiten sind begrenzt.** Proton nennt Visa, Mastercard, American Express und PayPal; Guthaben per Bargeld, Überweisung oder Bitcoin erst nach dem Anlegen des Kontos.",
+          "**Kündigen ist ein Downgrade.** Was das Limit des neuen Tarifs übersteigt, muss gelöscht werden; die Einzelheiten stehen in den häufigen Fragen.",
+          "**Die Erstattung gilt für den Erstkauf**, innerhalb von 30 Tagen. Der Weg steht in [So kündigen Sie Proton VPN und beantragen die Erstattung](/de/reviews/proton-vpn-kuendigen-rueckerstattung).",
+          "**Auf dem iPhone kann es einen Aufschlag geben.** Proton warnt, dass das Abo über iOS mehr kosten kann; schließen Sie es über die Website ab."
+        ]
+      },
+      {
+        "heading": "Welche Wahl für Sie sinnvoll ist",
+        "paragraphs": [
+          "Die Entscheidung hängt von der Zahl der bezahlten Dienste ab, die Sie wirklich nutzen:"
+        ],
+        "bullets": [
+          "**Sie nutzen nur die E-Mail, und der kostenlose Tarif reicht:** bleiben Sie beim kostenlosen. So halten wir es.",
+          "**Sie wollen nur das VPN:** Das einzelne VPN Plus kostet in beiden Zeiträumen weniger als Unlimited. Die Rechnung steht in [Lohnt sich Proton VPN?](/de/reviews/lohnt-sich-proton-vpn). Wenn Sie es mit NordVPN vergleichen, lesen Sie [Proton VPN oder NordVPN](/de/reviews/proton-vpn-oder-nordvpn).",
+          "**Sie wollen VPN und Passwörter:** Vergleichen Sie das Paket VPN x Pass Plus, das sich unter Unlimited verlängert.",
+          "**Sie wollen bezahlte E-Mail und VPN:** In einem einzigen Konto ist es Unlimited.",
+          "**Sie wollen drei oder vier Dienste oder 15 Adressen und 3 Domains:** Unlimited bündelt alles in einem Konto und kostet weniger als die Summe der Einzeltarife.",
+          "**Sie wollen mit einer weiteren Person teilen:** Schauen Sie sich Duo an.",
+          "**Sie wollen den niedrigsten Preis des Tages:** Black Friday steckt in den Tarifen; lesen Sie den [Black-Friday-Ratgeber zu Proton](/de/reviews/proton-black-friday-angebote)."
+        ],
+        "emphasis": "In einem einzigen Konto lässt Proton nicht zwei Plus-Tarife zu. Wer bezahlte E-Mail und VPN will, wählt Unlimited; wer nur einen Dienst will, fährt mit dessen Plus in beiden Zeiträumen günstiger.",
+        "postParagraphs": [
+          "Es gibt keinen Gutschein und keinen Code zum Eintippen: Der Button öffnet die Tarifseite von Proton über unseren Partnerlink. Die Regeln des Links stehen auf [Protons Seite bei uns](/de/coupons/proton)."
+        ],
+        "links": [
+          {
+            "label": "Das Jahresangebot von Proton Unlimited ansehen",
+            "href": "https://go.getproton.me/SH39K",
+            "sponsored": true
+          }
+        ]
+      },
+      {
+        "heading": "Häufige Fragen",
+        "bullets": [
+          "Kann ich VPN Plus und Mail Plus im selben Konto abonnieren? Nein. Proton sagt, ein Konto könne nicht zwei Plus-Tarife haben; um beide bezahlt zu haben, ist der Weg Unlimited, das das bezahlte VPN mit bis zu 10 Geräten enthält.",
+          "Gibt es einen Rabattgutschein für Proton Unlimited? Es gibt keinen Gutschein. Der Rabatt erscheint direkt im Preis des Tarifs, berechnet auf den Monatspreis, mit dem Verlängerungsbetrag daneben.",
+          "Gibt es ein Proton Unlimited auf Lebenszeit? Proton sagt, es verkaufe keines. Das Lifetime-Konto wird nur bei der Wohltätigkeitsverlosung zum Jahresende vergeben, und das verkaufte Lifetime gilt nur für Pass und SimpleLogin.",
+          "Was passiert mit meinen Dateien, wenn ich kündige? Laut der FAQ von Proton ist Kündigen ein Downgrade im Dashboard. Sie behalten den Zugang, müssen aber löschen, was das Limit des neuen Tarifs übersteigt; bei vollem Limit empfängt das Konto keine E-Mails und lädt keine Dateien hoch.",
+          "Wie funktioniert die Erstattung innerhalb von 30 Tagen? Nach den Bedingungen gilt sie für den Erstkauf, einmal pro Nutzer, und sowohl der Antrag als auch die Kündigung müssen innerhalb der Frist erfolgen; der Antrag läuft über das Support-Formular und gilt nur für ein direkt bei Proton abgeschlossenes Abonnement."
+        ]
+      }
+    ],
+    "pros": [],
+    "cons": [],
+    "cta": {
+      "text": "Über unseren Link kostet Unlimited im Jahrestarif im ersten Jahr 77,88 $ und verlängert sich alle 12 Monate zu 119,88 $. Die Abrechnung erfolgt im Voraus und die Verlängerung automatisch; prüfen Sie Währung und Gesamtbetrag an der Kasse.",
+      "label": "Das Jahresangebot von Proton Unlimited ansehen",
+      "url": "https://go.getproton.me/SH39K",
+      "sponsored": true
+    },
+    "affiliate": "proton",
+    "editorialNote": "Verfasst auf Grundlage von Protons Tarifseiten und Bedingungen, ohne Test der bezahlten Tarife. Wir nutzen das kostenlose Proton Mail seit fast zehn Jahren. Der Link ist ein Affiliate-Link und kann uns eine Provision einbringen.",
+    "relatedArticles": [
+      {
+        "slug": "lohnt-sich-proton-vpn"
+      },
+      {
+        "slug": "proton-black-friday-angebote"
+      },
+      {
+        "slug": "proton-vpn-kuendigen-rueckerstattung"
+      },
+      {
+        "slug": "ist-proton-vpn-serioes"
+      }
+    ],
+    "decision": {
+      "takeIf": [
+        "Sie bezahlte E-Mail und bezahltes VPN im selben Konto wollen: Unter den Einzeltarifen vereint nur Unlimited beides.",
+        "Sie drei oder vier bezahlte Proton-Dienste nutzen oder nutzen werden oder mehrere Adressen und eigene Domains brauchen."
+      ],
+      "skipIf": [
+        "Sie nur das VPN oder VPN und Passwörter wollen: VPN Plus und das Paket VPN x Pass Plus kosten weniger.",
+        "der kostenlose Mail-Tarif Ihre Nutzung abdeckt oder der Verlängerungsbetrag nicht in Ihr Budget passt."
+      ]
+    }
+  },
+  {
+    "id": 1500,
+    "slug": "proton-unlimited-conviene",
+    "locale": "it",
+    "translationKey": "proton-unlimited-vale-a-pena",
+    "title": "Proton Unlimited conviene? Cosa include con i 500 GB e il conto rispetto ai piani singoli",
+    "seoTitle": "Proton Unlimited conviene? Cosa include e il prezzo reale",
+    "type": "Guida all'acquisto",
+    "category": "guias-praticos-utilidade",
+    "reviewKind": "guia",
+    "author": {
+      "name": "Cecília Mauad",
+      "slug": "cecilia-mauad",
+      "role": "Em Casa com Cecília",
+      "initials": "CM",
+      "url": "/sobre"
+    },
+    "description": "Cosa include Proton Unlimited, perché è la strada per avere email e VPN a pagamento sullo stesso account e quanto costa il pacchetto al rinnovo, dopo il primo anno.",
+    "metaDescription": "Proton Unlimited conviene? Cosa include, perché Proton non unisce due piani Plus sullo stesso account e quanto costa il pacchetto al rinnovo.",
+    "publishedAt": "27 novembre 2026",
+    "publishedAtISO": "2026-11-27",
+    "updatedAt": "2026-11-27",
+    "draft": false,
+    "isNew": true,
+    "hideFromPortugueseListings": true,
+    "image": "/images/reviews/proton/proton-unlimited-vale-a-pena-hero-it.webp",
+    "imageAlt": "Griglia di icone delle app Proton (email, VPN, cloud e gestore di password) dalla home ufficiale di Proton. La copertina chiede «Proton Unlimited conviene?».",
+    "imageFit": "contain",
+    "imageAspect": "landscape",
+    "contentSections": [
+      {
+        "heading": "Risposta rapida",
+        "paragraphs": [
+          "Sì, quando vuoi email e VPN a pagamento sullo stesso account, o tre servizi Proton o più: Proton non permette di unire due piani Plus su un account, e Unlimited è la strada. Per la sola VPN, la sola email o la VPN con le password esiste un piano più economico. Il rinnovo costa molto più del primo anno."
+        ]
+      },
+      {
+        "heading": "Cosa include Proton Unlimited",
+        "paragraphs": [
+          "Unlimited è il piano che riunisce, in un solo account, email, VPN, cloud e gestore di password di Proton. La pagina dei piani indica 500 GB di spazio, 15 indirizzi, 3 domini personalizzati, alias illimitati e le versioni a pagamento di VPN, Pass e Drive.",
+          "L'account gratuito, secondo Proton, offre l'essenziale di Mail, Calendar, Drive e VPN, con 1 indirizzo e 1 GB di email; il Drive gratuito ha 5 GB. La tabella seguente affianca Unlimited a Mail Plus, il piano singolo che più si avvicina ai suoi limiti di email."
+        ],
+        "comparisonTable": {
+          "caption": "Mail Plus e Unlimited nella pagina dei piani di Proton.",
+          "headers": [
+            "Funzione",
+            "Mail Plus",
+            "Unlimited"
+          ],
+          "rows": [
+            [
+              "Spazio",
+              "15 GB",
+              "500 GB"
+            ],
+            [
+              "Indirizzi email",
+              "10",
+              "15"
+            ],
+            [
+              "Domini personalizzati",
+              "1",
+              "3"
+            ],
+            [
+              "Alias email",
+              "10 (hide-my-email)",
+              "Illimitati"
+            ],
+            [
+              "VPN Plus",
+              "Non incluso",
+              "Incluso"
+            ],
+            [
+              "Pass Plus e Drive Plus",
+              "Non incluso",
+              "Incluso"
+            ],
+            [
+              "Emergency Access e Dark Web Monitoring",
+              "Incluso",
+              "Incluso"
+            ],
+            [
+              "Proton Sentinel",
+              "Non incluso",
+              "Incluso"
+            ]
+          ]
+        },
+        "accordionBlock": {
+          "heading": "Cosa offre ogni servizio dentro Unlimited",
+          "paragraphs": [
+            "Mail: i 15 indirizzi, i 3 domini personalizzati e gli alias illimitati della tabella sopra, più Emergency Access e Dark Web Monitoring della tabella di confronto.",
+            "VPN Plus: fino a 10 dispositivi contemporaneamente, server in più di 140 paesi, NetShield (filtro di annunci, tracker e malware) e P2P, come Proton descrive il piano. Cosa fa e cosa non fa VPN Plus è in [Proton VPN conviene?](/it/reviews/proton-vpn-conviene).",
+            "Pass Plus: dispositivi e alias illimitati, come descrive la pagina dei piani.",
+            "Drive: il Drive Plus singolo ha 200 GB; in Unlimited lo spazio è quello dei 500 GB dell'account.",
+            "Proton Sentinel: la tabella di confronto segna la funzione solo in Unlimited, non nel piano gratuito né in Mail Plus."
+          ]
+        },
+        "postParagraphs": [
+          "Il nostro riferimento d'uso è piccolo: usiamo Proton Mail, nel piano gratuito, da quasi dieci anni."
+        ]
+      },
+      {
+        "heading": "Il conto: un piano Plus, il pacchetto VPN e Pass o Unlimited",
+        "paragraphs": [
+          "Prima del conto, la regola: Proton non permette di avere due piani Plus sullo stesso account. Il centro assistenza di Proton VPN fa l'esempio di VPN Plus con Mail Plus e indica Unlimited a chi vuole le funzioni a pagamento di più servizi. Su un solo account, la scelta è tra un Plus, il pacchetto VPN x Pass Plus della pagina delle offerte e Unlimited.",
+          "I prezzi qui sotto sono quelli delle pagine di Proton, in dollari statunitensi, con il prezzo del Black Friday del primo anno e l'importo del rinnovo accanto. Ogni piano viene addebitato per l'intero periodo, in un'unica soluzione, e lo sconto è calcolato sul prezzo mensile."
+        ],
+        "comparisonTable": {
+          "caption": "Prezzi del 27/11/2026, di Black Friday, con il rinnovo accanto. Le somme di piani singoli sono un nostro calcolo e richiedono account separati.",
+          "headers": [
+            "Cosa sottoscrivi",
+            "Primo periodo",
+            "Rinnovo (12 mesi)"
+          ],
+          "rows": [
+            [
+              "Solo Pass Plus (1 anno)",
+              "$23.88",
+              "$35.88"
+            ],
+            [
+              "Solo Mail Plus o solo Drive Plus (1 anno)",
+              "$29.88",
+              "$47.88"
+            ],
+            [
+              "Solo VPN Plus (1 anno)",
+              "$35.88",
+              "$83.88"
+            ],
+            [
+              "Pacchetto VPN x Pass Plus (24 mesi, pagina delle offerte)",
+              "$119.76 per i 24 mesi",
+              "$107.88"
+            ],
+            [
+              "VPN Plus + Mail Plus, su account separati",
+              "$65.76",
+              "$131.76"
+            ],
+            [
+              "Mail Plus + Drive Plus + Pass Plus, su account separati",
+              "$83.64",
+              "$131.64"
+            ],
+            [
+              "Tutti e quattro i piani singoli, su account separati",
+              "$119.52",
+              "$215.52"
+            ],
+            [
+              "Proton Unlimited (1 anno)",
+              "$77.88",
+              "$119.88"
+            ]
+          ]
+        },
+        "postParagraphs": [
+          "Un solo servizio costa sempre meno di Unlimited, nel primo anno e al rinnovo. Per VPN e password, Proton vende il pacchetto VPN x Pass Plus: nella pagina delle offerte si rinnova a $107.88 all'anno, sotto il rinnovo di Unlimited. In 24 mesi, il pacchetto costa $119.76 e l'Unlimited da 2 anni $191.76. Per avere l'email a pagamento insieme alla VPN, il piano individuale sullo stesso account è Unlimited.",
+          "Con due servizi su account separati, VPN Plus e Mail Plus costano meno di Unlimited nel primo anno e più al rinnovo. Le righe con due, tre e quattro servizi singoli sono somme nostre e esistono solo con account separati, ciascuno con il proprio login. Comunque, dal terzo servizio in poi la somma supera Unlimited in entrambi i periodi: tutti e quattro insieme costano $41.64 in più nel primo anno e $95.64 in più al rinnovo.",
+          "Per chi vuole solo la VPN, la strada è un'altra. Con il link dei partner, il VPN Plus da 2 anni compare a $59.76 per i primi 24 mesi e si rinnova a $83.88 ogni 12 mesi. Il conto completo è in [Proton VPN conviene?](/it/reviews/proton-vpn-conviene)."
+        ],
+        "links": [
+          {
+            "label": "Vedi i piani di Proton",
+            "href": "https://go.getproton.me/SH39K",
+            "sponsored": true
+          }
+        ]
+      },
+      {
+        "heading": "Ciclo da 1 mese, 1 anno o 2 anni",
+        "paragraphs": [
+          "Il mensile è l'esborso minore per iniziare, e il piano da 1 anno ha il valore più basso al mese; quello da 2 anni lo batte solo di $6.00 in totale.",
+          "Unlimited ha tre cicli nella pagina dei prezzi. L'addebito è anticipato in tutti, e l'importo in evidenza (il «al mese») è solo la divisione del totale."
+        ],
+        "comparisonTable": {
+          "caption": "Proton Unlimited per ciclo, in dollari statunitensi. Controlla valuta e totale al pagamento.",
+          "headers": [
+            "Ciclo",
+            "Al mese",
+            "Addebitato in un'unica soluzione",
+            "Poi si rinnova a"
+          ],
+          "rows": [
+            [
+              "1 mese",
+              "$12.99",
+              "$12.99",
+              "$12.99 ogni mese"
+            ],
+            [
+              "1 anno",
+              "$6.49",
+              "$77.88",
+              "$119.88 ogni 12 mesi"
+            ],
+            [
+              "2 anni",
+              "$7.99",
+              "$191.76",
+              "$119.88 ogni 12 mesi"
+            ]
+          ]
+        },
+        "postParagraphs": [
+          "Pagare 12 mesi di fila con il mensile costerebbe $155.88. L'anno addebitato in un'unica soluzione costa $77.88, ma il rinnovo sale di $42.00, a $119.88. Il piano da 2 anni costa $191.76; un anno più un rinnovo sommerebbe $197.76, cioè $6.00 in più. Quello da 2 anni vincola il denaro più a lungo.",
+          "Il rinnovo è automatico, secondo il sito di Proton. Annota la data dell'addebito il giorno dell'acquisto. Per provare prima la VPN, la pagina dei prezzi di Proton VPN annuncia Unlimited a $1.00 per il primo mese, che poi si rinnova a $12.99 al mese."
+        ],
+        "image": {
+          "src": "/images/reviews/proton/proton-unlimited-vale-a-pena-precos-usd.webp",
+          "alt": "Pagina dei prezzi di Proton in inglese, in dollari statunitensi: la scheda di Unlimited da 1 anno con $12.99 barrato, $6.49 al mese, 50% OFF, addebitati $77.88 per i primi 12 mesi e rinnovo a $119.88 ogni 12 mesi.",
+          "caption": "Pagina dei prezzi di Proton in dollari, 27/11/2026."
+        }
+      },
+      {
+        "heading": "Proton Unlimited, Duo o Family, e l'account a vita",
+        "paragraphs": [
+          "Per condividere con un'altra persona, Duo costa meno a persona di Unlimited al rinnovo.",
+          "Duo e Family compaiono nella pagina dei piani per le famiglie. Duo è per fino a 2 utenti, ha 2 TB e costa $14.99 al mese, ovvero $179.88 addebitati ogni 12 mesi. Family è per fino a 6 persone che vivono insieme, ha 3 TB e costa $23.99 al mese, ovvero $287.88 ogni 12 mesi.",
+          "Unlimited è un account individuale per 1 utente. Duo ha senso per condividere il pacchetto con un'altra persona: a persona costa $89.94 all'anno, sotto i $119.88 di Unlimited al rinnovo e sopra i $77.88 del primo anno (calcolo nostro). Non abbiamo confrontato ciò che ogni servizio offre in Duo e Family rispetto a Unlimited, solo prezzo e spazio; controlla la pagina prima di cambiare.",
+          "Proton non vende un piano a vita di Unlimited. In un testo del suo blog sull'account a vita, l'azienda dice che l'account non è disponibile all'acquisto e esce solo nella lotteria benefica di fine anno. Ciò che si vende è Proton Pass + SimpleLogin Lifetime, a $199, che copre Pass e SimpleLogin, non Unlimited."
+        ]
+      },
+      {
+        "heading": "Cosa pesa contro",
+        "bullets": [
+          "**Il rinnovo è molto più alto.** Il secondo anno di Unlimited costa circa la metà in più del primo; gli importi sono nella tabella dei cicli.",
+          "**L'addebito è anticipato.** L'anno o i 2 anni escono in un'unica soluzione, e il rinnovo è automatico.",
+          "**I metodi di pagamento sono limitati.** Proton elenca Visa, Mastercard, American Express e PayPal; crediti con contanti, bonifico o Bitcoin solo dopo aver creato l'account.",
+          "**Disdire è un downgrade.** Ciò che supera il limite del nuovo piano va cancellato; il dettaglio è nelle domande frequenti.",
+          "**Il rimborso vale per l'acquisto iniziale**, entro 30 giorni. Il percorso è in [come disdire Proton VPN e chiedere il rimborso](/it/reviews/proton-vpn-rimborso-come-disdire).",
+          "**Su iPhone può esserci una maggiorazione.** Proton avverte che l'abbonamento tramite iOS può costare di più; abbonati dal sito."
+        ]
+      },
+      {
+        "heading": "Quale scelta ha senso per te",
+        "paragraphs": [
+          "La decisione dipende dal numero di servizi a pagamento che usi davvero:"
+        ],
+        "bullets": [
+          "**Usi solo l'email e il gratuito ti basta:** resta sul gratuito. È il nostro caso.",
+          "**Vuoi solo la VPN:** il VPN Plus singolo costa meno di Unlimited in entrambi i periodi. Il conto è in [Proton VPN conviene?](/it/reviews/proton-vpn-conviene). Se lo stai confrontando con NordVPN, vedi [Proton VPN o NordVPN](/it/reviews/proton-vpn-o-nordvpn-confronto).",
+          "**Vuoi VPN e password:** confronta il pacchetto VPN x Pass Plus, che si rinnova sotto Unlimited.",
+          "**Vuoi email e VPN a pagamento:** su un solo account, è Unlimited.",
+          "**Vuoi tre o quattro servizi, oppure 15 indirizzi e 3 domini:** Unlimited riunisce tutto in un account e costa meno della somma dei piani singoli.",
+          "**Vuoi condividere con un'altra persona:** guarda Duo.",
+          "**Vuoi il prezzo più basso del giorno:** il Black Friday è nei piani; vedi la [guida al Black Friday di Proton](/it/reviews/black-friday-proton-offerte)."
+        ],
+        "emphasis": "Su un solo account, Proton non unisce due piani Plus. Se vuoi email e VPN a pagamento, la scelta è Unlimited; se vuoi un servizio solo, il suo Plus costa meno in entrambi i periodi.",
+        "postParagraphs": [
+          "Non c'è nessun coupon né codice da digitare: il pulsante apre la pagina dei piani di Proton tramite il nostro link di partnership. Le regole del link sono nella [pagina di Proton sul nostro sito](/it/coupons/proton)."
+        ],
+        "links": [
+          {
+            "label": "Vedi l'offerta annuale di Proton Unlimited",
+            "href": "https://go.getproton.me/SH39K",
+            "sponsored": true
+          }
+        ]
+      },
+      {
+        "heading": "Domande frequenti",
+        "bullets": [
+          "Posso abbonarmi a VPN Plus e Mail Plus sullo stesso account? No. Proton dice che un account non può avere due piani Plus; per avere entrambi a pagamento, la strada è Unlimited, che include la VPN a pagamento con fino a 10 dispositivi.",
+          "Esiste un coupon di sconto per Proton Unlimited? Non c'è nessun coupon. Lo sconto compare direttamente nel prezzo del piano, calcolato sul mensile, e l'importo del rinnovo è accanto.",
+          "Esiste un Proton Unlimited a vita? Proton dice di non venderlo. L'account a vita esce solo nella lotteria benefica di fine anno, e il Lifetime in vendita è solo di Pass e SimpleLogin.",
+          "Cosa succede ai miei file se disdico? Secondo le FAQ di Proton, disdire è fare un downgrade nel pannello. Mantieni l'accesso, ma devi cancellare ciò che supera il limite del nuovo piano; con il limite pieno, l'account non riceve email né carica file.",
+          "Come funziona il rimborso di 30 giorni? Secondo i termini, vale per l'acquisto iniziale, una volta per utente, e sia la richiesta sia la disdetta devono avvenire entro il termine; la richiesta passa dal modulo di assistenza e vale solo per un abbonamento fatto direttamente con Proton."
+        ]
+      }
+    ],
+    "pros": [],
+    "cons": [],
+    "cta": {
+      "text": "Tramite il nostro link, Unlimited annuale costa $77.88 il primo anno e si rinnova a $119.88 ogni 12 mesi. L'addebito è anticipato e il rinnovo è automatico; controlla valuta e totale al pagamento.",
+      "label": "Vedi l'offerta annuale di Proton Unlimited",
+      "url": "https://go.getproton.me/SH39K",
+      "sponsored": true
+    },
+    "affiliate": "proton",
+    "editorialNote": "Realizzato con le pagine dei piani e i termini di Proton, senza test dei piani a pagamento. Usiamo Proton Mail gratuito da quasi dieci anni. Il link è di affiliazione e può generare una commissione.",
+    "relatedArticles": [
+      {
+        "slug": "proton-vpn-conviene"
+      },
+      {
+        "slug": "black-friday-proton-offerte"
+      },
+      {
+        "slug": "proton-vpn-rimborso-come-disdire"
+      },
+      {
+        "slug": "proton-vpn-e-affidabile"
+      }
+    ],
+    "decision": {
+      "takeIf": [
+        "vuoi email a pagamento e VPN a pagamento sullo stesso account: tra i piani individuali, solo Unlimited riunisce le due cose.",
+        "usi, o userai, tre o quattro servizi a pagamento di Proton, oppure ti servono più indirizzi e domini personalizzati."
+      ],
+      "skipIf": [
+        "vuoi solo la VPN, o VPN e password: il VPN Plus e il pacchetto VPN x Pass Plus costano meno.",
+        "il piano gratuito di Mail copre il tuo uso o l'importo del rinnovo non rientra nel tuo budget."
+      ]
+    }
+  },
+  {
+    "id": 1501,
+    "slug": "proton-unlimited-worth-it-ko",
+    "locale": "ko",
+    "translationKey": "proton-unlimited-vale-a-pena",
+    "title": "Proton Unlimited 가치가 있을까요? 500GB에 담긴 것과 단독 플랜 대비 계산",
+    "seoTitle": "Proton Unlimited 가치가 있을까요? 포함 내용과 실제 가격",
+    "type": "구매 가이드",
+    "category": "guias-praticos-utilidade",
+    "reviewKind": "guia",
+    "author": {
+      "name": "Cecília Mauad",
+      "slug": "cecilia-mauad",
+      "role": "Em Casa com Cecília",
+      "initials": "CM",
+      "url": "/sobre"
+    },
+    "description": "Proton Unlimited에 포함된 것, 한 계정에서 유료 이메일과 VPN을 함께 쓰는 길인 이유, 첫해가 지난 뒤 갱신 시 패키지 가격을 정리했습니다.",
+    "metaDescription": "Proton Unlimited 가치가 있을까요? 포함 내용, Plus 두 개를 한 계정에 못 묶는 이유, 갱신 가격을 정리했습니다.",
+    "publishedAt": "2026년 11월 27일",
+    "publishedAtISO": "2026-11-27",
+    "updatedAt": "2026-11-27",
+    "draft": false,
+    "isNew": true,
+    "hideFromPortugueseListings": true,
+    "image": "/images/reviews/proton/proton-unlimited-vale-a-pena-hero-ko.webp",
+    "imageAlt": "Proton 공식 홈페이지의 앱 아이콘 격자(이메일, VPN, 클라우드 스토리지, 비밀번호 관리자). 표지에는 “Proton Unlimited는 가치가 있을까요?”라고 적혀 있습니다.",
+    "imageFit": "contain",
+    "imageAspect": "landscape",
+    "contentSections": [
+      {
+        "heading": "빠른 답",
+        "paragraphs": [
+          "네, 한 계정에서 유료 이메일과 VPN을 함께 쓰거나 Proton 서비스를 셋 이상 쓰려면 쓸 만합니다. Proton은 Plus 플랜 두 개를 한 계정에 묶지 못하게 하므로 길은 Unlimited뿐입니다. VPN만, 이메일만, 또는 VPN과 비밀번호만 필요하면 더 싼 플랜이 있습니다. 갱신가는 첫해보다 꽤 높습니다."
+        ]
+      },
+      {
+        "heading": "Proton Unlimited에 들어 있는 것",
+        "paragraphs": [
+          "Unlimited는 Proton의 이메일, VPN, 클라우드, 비밀번호 관리자를 한 계정으로 묶은 플랜입니다. 플랜 페이지에는 저장공간 500GB, 주소 15개, 개인 도메인 3개, 무제한 별칭, 그리고 VPN·Pass·Drive의 유료 버전이 올라 있습니다.",
+          "Proton에 따르면 무료 계정에는 Mail, Calendar, Drive, VPN의 핵심 기능이 있고, 이메일은 주소 1개와 1GB이며 무료 Drive는 5GB입니다. 아래 표는 이메일 한도가 가장 비슷한 단독 플랜인 Mail Plus와 Unlimited를 나란히 놓았습니다."
+        ],
+        "comparisonTable": {
+          "caption": "Proton 플랜 페이지의 Mail Plus와 Unlimited.",
+          "headers": [
+            "기능",
+            "Mail Plus",
+            "Unlimited"
+          ],
+          "rows": [
+            [
+              "저장공간",
+              "15 GB",
+              "500 GB"
+            ],
+            [
+              "이메일 주소",
+              "10",
+              "15"
+            ],
+            [
+              "개인 도메인",
+              "1",
+              "3"
+            ],
+            [
+              "이메일 별칭",
+              "10 (hide-my-email)",
+              "무제한"
+            ],
+            [
+              "VPN Plus",
+              "포함되지 않음",
+              "포함"
+            ],
+            [
+              "Pass Plus와 Drive Plus",
+              "포함되지 않음",
+              "포함"
+            ],
+            [
+              "Emergency Access와 Dark Web Monitoring",
+              "포함",
+              "포함"
+            ],
+            [
+              "Proton Sentinel",
+              "포함되지 않음",
+              "포함"
+            ]
+          ]
+        },
+        "accordionBlock": {
+          "heading": "Unlimited 안에서 서비스별로 들어 있는 것",
+          "paragraphs": [
+            "Mail: 위 표의 주소 15개, 개인 도메인 3개, 무제한 별칭에 더해 비교표의 Emergency Access와 Dark Web Monitoring.",
+            "VPN Plus: Proton이 설명하는 대로 최대 10대 동시 연결, 140개국 이상의 서버, NetShield(광고·추적기·악성코드 필터), P2P. VPN Plus가 하는 일과 못 하는 일은 [Proton VPN, 쓸 만할까요?](/ko/reviews/proton-vpn-worth-it-ko)에 있습니다.",
+            "Pass Plus: 플랜 페이지 설명대로 기기와 별칭 무제한.",
+            "Drive: 단독 Drive Plus는 200GB이고, Unlimited에서는 계정의 500GB가 그 공간입니다.",
+            "Proton Sentinel: 비교표에는 무료 플랜과 Mail Plus에는 없고 Unlimited에만 표시되어 있습니다."
+          ]
+        },
+        "postParagraphs": [
+          "저희 사용 경험은 크지 않습니다. Proton Mail을 무료 플랜으로 거의 10년째 쓰고 있습니다."
+        ]
+      },
+      {
+        "heading": "계산: Plus 하나, VPN·Pass 패키지, 아니면 Unlimited",
+        "paragraphs": [
+          "계산에 앞서 규칙부터. Proton은 한 계정에 Plus 플랜 두 개를 두지 못하게 합니다. Proton VPN 고객센터는 VPN Plus와 Mail Plus를 예로 들며, 여러 서비스의 유료 기능을 원하면 Unlimited를 안내합니다. 한 계정에서는 Plus 하나, 특가 페이지의 VPN x Pass Plus 패키지, Unlimited 중에서 고르게 됩니다.",
+          "아래 가격은 Proton 페이지의 미국 달러 가격으로, 첫해 블랙프라이데이 가격과 옆에 갱신 금액을 함께 적었습니다. 각 플랜은 기간 전체를 한 번에 결제하며, 할인은 월 가격을 기준으로 계산됩니다."
+        ],
+        "comparisonTable": {
+          "caption": "2026년 11월 27일 블랙프라이데이 가격과 갱신 금액. 단독 플랜 합계는 저희 계산이며 계정을 따로 만들어야 합니다.",
+          "headers": [
+            "가입하는 것",
+            "첫 기간",
+            "갱신(12개월)"
+          ],
+          "rows": [
+            [
+              "Pass Plus만(1년)",
+              "$23.88",
+              "$35.88"
+            ],
+            [
+              "Mail Plus만 또는 Drive Plus만(1년)",
+              "$29.88",
+              "$47.88"
+            ],
+            [
+              "VPN Plus만(1년)",
+              "$35.88",
+              "$83.88"
+            ],
+            [
+              "VPN x Pass Plus 패키지(24개월, 특가 페이지)",
+              "24개월에 $119.76",
+              "$107.88"
+            ],
+            [
+              "VPN Plus + Mail Plus, 계정 분리",
+              "$65.76",
+              "$131.76"
+            ],
+            [
+              "Mail Plus + Drive Plus + Pass Plus, 계정 분리",
+              "$83.64",
+              "$131.64"
+            ],
+            [
+              "단독 플랜 4개 모두, 계정 분리",
+              "$119.52",
+              "$215.52"
+            ],
+            [
+              "Proton Unlimited(1년)",
+              "$77.88",
+              "$119.88"
+            ]
+          ]
+        },
+        "postParagraphs": [
+          "서비스 하나만 쓰면 첫해에도 갱신 때도 Unlimited보다 항상 쌉니다. VPN과 비밀번호는 Proton이 VPN x Pass Plus 패키지를 팔며, 특가 페이지에서 연 $107.88로 갱신되어 Unlimited의 갱신가보다 낮습니다. 24개월로 보면 패키지는 $119.76, 2년 Unlimited는 $191.76입니다. 유료 이메일을 VPN과 함께 쓰려면 같은 계정의 개인 플랜은 Unlimited입니다.",
+          "서비스 둘을 계정을 나눠 쓰면 VPN Plus와 Mail Plus는 첫해에는 Unlimited보다 싸고 갱신 때는 더 비쌉니다. 단독 서비스 둘, 셋, 넷의 줄은 저희가 더한 합계이며 로그인이 따로인 별도 계정일 때만 가능합니다. 그래도 세 번째 서비스부터는 두 기간 모두 합계가 Unlimited를 넘습니다. 넷을 합치면 첫해에 $41.64, 갱신 때 $95.64가 더 듭니다.",
+          "VPN만 원한다면 길이 다릅니다. 파트너 링크로는 2년 VPN Plus가 처음 24개월에 $59.76으로 나오고 12개월마다 $83.88로 갱신됩니다. 전체 계산은 [Proton VPN, 쓸 만할까요?](/ko/reviews/proton-vpn-worth-it-ko)에 있습니다."
+        ],
+        "links": [
+          {
+            "label": "Proton 플랜 보기",
+            "href": "https://go.getproton.me/SH39K",
+            "sponsored": true
+          }
+        ]
+      },
+      {
+        "heading": "1개월, 1년, 2년 주기",
+        "paragraphs": [
+          "월 결제는 시작할 때 부담이 가장 적고, 1년 플랜은 월 환산 가격이 가장 낮습니다. 2년 플랜이 1년 플랜을 앞서는 것은 총 $6.00뿐입니다.",
+          "Unlimited는 가격 페이지에 세 가지 주기가 있습니다. 모두 선결제이며, 크게 보이는 값(“월”)은 총액을 나눈 것일 뿐입니다."
+        ],
+        "comparisonTable": {
+          "caption": "주기별 Proton Unlimited, 미국 달러 기준. 결제 화면에서 통화와 총액을 확인하세요.",
+          "headers": [
+            "주기",
+            "월 환산",
+            "한 번에 결제",
+            "이후 갱신"
+          ],
+          "rows": [
+            [
+              "1개월",
+              "$12.99",
+              "$12.99",
+              "매월 $12.99"
+            ],
+            [
+              "1년",
+              "$6.49",
+              "$77.88",
+              "12개월마다 $119.88"
+            ],
+            [
+              "2년",
+              "$7.99",
+              "$191.76",
+              "12개월마다 $119.88"
+            ]
+          ]
+        },
+        "postParagraphs": [
+          "월 결제로 12개월을 연달아 내면 $155.88입니다. 한 번에 결제하는 1년은 $77.88이지만 갱신가는 $42.00 올라 $119.88이 됩니다. 2년 플랜은 $191.76이고, 1년에 갱신 한 번을 더하면 $197.76이라 $6.00이 더 듭니다. 2년 플랜은 돈이 더 오래 묶입니다.",
+          "Proton 사이트에 따르면 갱신은 자동입니다. 구매한 날 결제일을 적어 두세요. VPN을 먼저 써 보려면 Proton VPN 가격 페이지에 Unlimited가 첫 달 $1.00, 이후 월 $12.99로 갱신된다고 나와 있습니다."
+        ],
+        "image": {
+          "src": "/images/reviews/proton/proton-unlimited-vale-a-pena-precos-usd.webp",
+          "alt": "미국 달러 기준 영어 Proton 가격 페이지. Unlimited 카드에 정가 $12.99에 취소선, 월 $6.49, 50% OFF, 첫 12개월 $77.88 결제 후 12개월마다 $119.88로 갱신된다고 적혀 있습니다.",
+          "caption": "달러 기준 Proton 가격 페이지, 2026년 11월 27일."
+        }
+      },
+      {
+        "heading": "Proton Unlimited, Duo, Family, 그리고 평생 계정",
+        "paragraphs": [
+          "한 사람과 더 나눠 쓴다면 갱신 시 1인당 비용은 Duo가 Unlimited보다 쌉니다.",
+          "Duo와 Family는 가족용 플랜 페이지에 있습니다. Duo는 최대 2명, 2TB이며 월 $14.99, 12개월마다 $179.88이 결제됩니다. Family는 함께 사는 최대 6명, 3TB이며 월 $23.99, 12개월마다 $287.88입니다.",
+          "Unlimited는 사용자 1명의 개인 계정입니다. Duo는 한 사람과 패키지를 나눌 때 의미가 있습니다. 1인당 연 $89.94로, 갱신 때 Unlimited의 $119.88보다 낮고 첫해 $77.88보다는 높습니다(저희 계산). Duo와 Family에서 각 서비스가 무엇을 제공하는지는 Unlimited와 비교하지 않았고 가격과 공간만 보았습니다. 바꾸기 전에 페이지에서 확인하세요.",
+          "Proton은 Unlimited 평생 플랜을 팔지 않습니다. 평생 계정을 다룬 블로그 글에서 회사는 이 계정을 구매할 수 없고 연말 자선 추첨으로만 나온다고 밝힙니다. 판매 중인 것은 Pass와 SimpleLogin만 포함하는 Proton Pass + SimpleLogin Lifetime($199)이며 Unlimited가 아닙니다."
+        ]
+      },
+      {
+        "heading": "아쉬운 점",
+        "bullets": [
+          "**갱신가가 훨씬 높습니다.** Unlimited의 두 번째 해는 첫해보다 절반가량 더 비쌉니다. 금액은 주기 표에 있습니다.",
+          "**선결제입니다.** 1년 또는 2년치가 한 번에 빠져나가고 갱신은 자동입니다.",
+          "**결제 수단이 제한적입니다.** Proton은 Visa, Mastercard, American Express, PayPal을 안내하며, 현금 크레딧·계좌 이체·Bitcoin은 계정을 만든 뒤에만 가능합니다.",
+          "**해지는 다운그레이드입니다.** 새 플랜의 한도를 넘는 것은 삭제해야 합니다. 자세한 내용은 자주 묻는 질문에 있습니다.",
+          "**환불은 최초 구매에 한하며** 30일 이내입니다. 방법은 [Proton VPN 해지와 환불 요청 방법](/ko/reviews/proton-vpn-refund-ko)에 있습니다.",
+          "**iPhone에서는 추가 요금이 붙을 수 있습니다.** Proton은 iOS로 구독하면 더 비쌀 수 있다고 알립니다. 웹사이트에서 구독하세요."
+        ]
+      },
+      {
+        "heading": "나에게 맞는 선택은",
+        "paragraphs": [
+          "실제로 쓰는 유료 서비스가 몇 개인지가 기준입니다."
+        ],
+        "bullets": [
+          "**이메일만 쓰고 무료로 충분하다면:** 무료로 두세요. 저희가 그렇습니다.",
+          "**VPN만 원한다면:** 단독 VPN Plus가 두 기간 모두 Unlimited보다 쌉니다. 계산은 [Proton VPN, 쓸 만할까요?](/ko/reviews/proton-vpn-worth-it-ko)에 있습니다. NordVPN과 비교 중이라면 [Proton VPN과 NordVPN](/ko/reviews/proton-vpn-vs-nordvpn-ko)을 보세요.",
+          "**VPN과 비밀번호를 원한다면:** 갱신가가 Unlimited보다 낮은 VPN x Pass Plus 패키지를 비교하세요.",
+          "**유료 이메일과 VPN을 원한다면:** 한 계정에서는 Unlimited입니다.",
+          "**서비스 셋이나 넷, 또는 주소 15개와 도메인 3개를 원한다면:** Unlimited는 모두를 한 계정에 묶고 단독 플랜의 합계보다 쌉니다.",
+          "**한 사람과 나눠 쓰고 싶다면:** Duo를 보세요.",
+          "**오늘의 최저가를 원한다면:** 블랙프라이데이가 플랜에 반영되어 있습니다. [Proton 블랙프라이데이 가이드](/ko/reviews/proton-black-friday-ko)를 보세요."
+        ],
+        "emphasis": "한 계정에서 Proton은 Plus 플랜 두 개를 묶지 못하게 합니다. 유료 이메일과 VPN을 원하면 Unlimited, 서비스 하나만 원하면 그 서비스의 Plus가 두 기간 모두 더 쌉니다.",
+        "postParagraphs": [
+          "입력할 쿠폰이나 코드는 없습니다. 버튼은 저희 제휴 링크로 Proton 플랜 페이지를 엽니다. 링크 규칙은 [저희 사이트의 Proton 페이지](/ko/coupons/proton)에 있습니다."
+        ],
+        "links": [
+          {
+            "label": "Proton Unlimited 연간 제안 보기",
+            "href": "https://go.getproton.me/SH39K",
+            "sponsored": true
+          }
+        ]
+      },
+      {
+        "heading": "자주 묻는 질문",
+        "bullets": [
+          "VPN Plus와 Mail Plus를 한 계정에서 구독할 수 있나요? 아니요. Proton은 한 계정에 Plus 플랜 두 개를 둘 수 없다고 합니다. 둘 다 유료로 쓰려면 최대 10대 기기의 유료 VPN을 포함한 Unlimited가 길입니다.",
+          "Proton Unlimited 할인 쿠폰이 있나요? 쿠폰은 없습니다. 할인은 월 가격 기준으로 계산되어 플랜 가격에 바로 반영되고, 갱신 금액이 옆에 함께 표시됩니다.",
+          "Proton Unlimited 평생 플랜이 있나요? Proton은 팔지 않는다고 합니다. 평생 계정은 연말 자선 추첨으로만 나오고, 판매 중인 Lifetime은 Pass와 SimpleLogin 전용입니다.",
+          "해지하면 파일은 어떻게 되나요? Proton FAQ에 따르면 해지는 대시보드에서 다운그레이드하는 것입니다. 접속은 유지되지만 새 플랜 한도를 넘는 것은 삭제해야 하며, 한도가 가득 차면 계정은 이메일을 받지도 파일을 올리지도 못합니다.",
+          "30일 환불은 어떻게 되나요? 약관상 최초 구매에 한해 사용자당 한 번이고, 요청과 해지 모두 기간 안에 해야 합니다. 요청은 지원 양식으로 하며 Proton과 직접 한 구독에만 해당합니다."
+        ]
+      }
+    ],
+    "pros": [],
+    "cons": [],
+    "cta": {
+      "text": "저희 링크로 가입하면 Unlimited 연간 플랜은 첫해 $77.88이고, 이후 12개월마다 $119.88로 갱신됩니다. 선결제이고 갱신은 자동이니, 결제 화면에서 통화와 총액을 확인하세요.",
+      "label": "Proton Unlimited 연간 제안 보기",
+      "url": "https://go.getproton.me/SH39K",
+      "sponsored": true
+    },
+    "affiliate": "proton",
+    "editorialNote": "Proton의 플랜 페이지와 약관을 바탕으로 작성했으며, 유료 플랜을 직접 써 보고 검증한 것은 아닙니다. 무료 Proton Mail은 거의 10년째 쓰고 있습니다. 이 링크는 제휴 링크이며 수수료를 받을 수 있습니다.",
+    "relatedArticles": [
+      {
+        "slug": "proton-vpn-worth-it-ko"
+      },
+      {
+        "slug": "proton-black-friday-ko"
+      },
+      {
+        "slug": "proton-vpn-refund-ko"
+      },
+      {
+        "slug": "proton-vpn-trust-ko"
+      }
+    ],
+    "decision": {
+      "takeIf": [
+        "한 계정에서 유료 이메일과 유료 VPN을 함께 쓰고 싶다. 개인 플랜 중에서는 Unlimited만 둘을 묶는다.",
+        "Proton 유료 서비스를 셋이나 넷 쓰거나 쓸 예정이거나, 여러 주소와 개인 도메인이 필요하다."
+      ],
+      "skipIf": [
+        "VPN만, 또는 VPN과 비밀번호만 필요하다. VPN Plus와 VPN x Pass Plus 패키지가 더 싸다.",
+        "무료 Mail 플랜으로 충분하거나 갱신 금액이 예산에 맞지 않는다."
+      ]
+    }
+  },
+  {
+    "id": 1502,
+    "slug": "proton-unlimited-worth-it-ja",
+    "locale": "ja",
+    "translationKey": "proton-unlimited-vale-a-pena",
+    "title": "Proton Unlimitedは価値がある？500GBの中身と単体プランとの比較計算",
+    "seoTitle": "Proton Unlimitedは価値がある？含まれるものと実際の価格",
+    "type": "購入ガイド",
+    "category": "guias-praticos-utilidade",
+    "reviewKind": "guia",
+    "author": {
+      "name": "Cecília Mauad",
+      "slug": "cecilia-mauad",
+      "role": "Em Casa com Cecília",
+      "initials": "CM",
+      "url": "/sobre"
+    },
+    "description": "Proton Unlimitedに含まれるもの、有料のメールとVPNを同じアカウントで使う方法である理由、1年目が終わった後の更新時の料金をまとめました。",
+    "metaDescription": "Proton Unlimitedは価値がある？含まれるもの、Plusを2つ1アカウントにできない理由、更新時の料金を解説します。",
+    "publishedAt": "2026年11月27日",
+    "publishedAtISO": "2026-11-27",
+    "updatedAt": "2026-11-27",
+    "draft": false,
+    "isNew": true,
+    "hideFromPortugueseListings": true,
+    "image": "/images/reviews/proton/proton-unlimited-vale-a-pena-hero-ja.webp",
+    "imageAlt": "Proton公式サイトのトップから、メール、VPN、クラウドストレージ、パスワード管理のアプリアイコンを並べた画像。表紙には「Proton Unlimitedは価値がある？」とあります。",
+    "imageFit": "contain",
+    "imageAspect": "landscape",
+    "contentSections": [
+      {
+        "heading": "結論",
+        "paragraphs": [
+          "はい、有料のメールとVPNを同じアカウントで使いたい人や、Protonのサービスを3つ以上使う人には向いています。ProtonはPlusプランを2つ同じアカウントにまとめられないため、道はUnlimitedです。VPNだけ、メールだけ、VPNとパスワードだけなら、より安いプランがあります。更新料は1年目よりかなり高くなります。"
+        ]
+      },
+      {
+        "heading": "Proton Unlimitedに含まれるもの",
+        "paragraphs": [
+          "Unlimitedは、Protonのメール、VPN、クラウド、パスワード管理を1つのアカウントにまとめたプランです。プランのページには、500GBのストレージ、15個のアドレス、3つの独自ドメイン、無制限のエイリアス、VPN・Pass・Driveの有料版が載っています。",
+          "Protonによると、無料アカウントにはMail、Calendar、Drive、VPNの基本機能があり、メールは1アドレス・1GB、無料のDriveは5GBです。次の表は、メールの上限が最も近い単体プランのMail PlusとUnlimitedを並べたものです。"
+        ],
+        "comparisonTable": {
+          "caption": "Protonのプランのページにある、Mail PlusとUnlimited。",
+          "headers": [
+            "機能",
+            "Mail Plus",
+            "Unlimited"
+          ],
+          "rows": [
+            [
+              "ストレージ",
+              "15 GB",
+              "500 GB"
+            ],
+            [
+              "メールアドレス",
+              "10",
+              "15"
+            ],
+            [
+              "独自ドメイン",
+              "1",
+              "3"
+            ],
+            [
+              "メールエイリアス",
+              "10 (hide-my-email)",
+              "無制限"
+            ],
+            [
+              "VPN Plus",
+              "含まれない",
+              "含まれる"
+            ],
+            [
+              "Pass PlusとDrive Plus",
+              "含まれない",
+              "含まれる"
+            ],
+            [
+              "Emergency AccessとDark Web Monitoring",
+              "含まれる",
+              "含まれる"
+            ],
+            [
+              "Proton Sentinel",
+              "含まれない",
+              "含まれる"
+            ]
+          ]
+        },
+        "accordionBlock": {
+          "heading": "Unlimitedの中で各サービスに含まれるもの",
+          "paragraphs": [
+            "Mail：上の表の15アドレス、3つの独自ドメイン、無制限のエイリアスに加え、比較表のEmergency AccessとDark Web Monitoring。",
+            "VPN Plus：Protonの説明では、最大10台の同時接続、140か国以上のサーバー、NetShield（広告・トラッカー・マルウェアのフィルター）、P2P。VPN Plusでできること・できないことは[Proton VPNは価値がある？](/ja/reviews/proton-vpn-worth-it-ja)にあります。",
+            "Pass Plus：プランのページの説明では、デバイスとエイリアスが無制限。",
+            "Drive：単体のDrive Plusは200GBで、Unlimitedではアカウントの500GBが使える容量です。",
+            "Proton Sentinel：比較表では、無料プランとMail Plusにはなく、Unlimitedにだけ記載されています。"
+          ]
+        },
+        "postParagraphs": [
+          "私たち自身の利用規模は小さく、Proton Mailを無料プランで10年近く使っています。"
+        ]
+      },
+      {
+        "heading": "計算：Plusを1つ、VPNとPassのパッケージ、またはUnlimited",
+        "paragraphs": [
+          "計算の前にルールがあります。Protonは同じアカウントにPlusプランを2つ持つことを認めていません。Proton VPNのヘルプセンターはVPN PlusとMail Plusを例に挙げ、複数のサービスの有料機能を使いたい人にはUnlimitedを案内しています。1つのアカウントでは、Plusを1つ、特典ページのVPN x Pass Plusパッケージ、Unlimitedの中から選ぶことになります。",
+          "下の価格はProtonのページにある米ドルの価格で、1年目のブラックフライデー価格と、その隣に更新時の金額を載せています。各プランは期間全体の料金を一括で請求され、割引は月額価格を基準に計算されます。"
+        ],
+        "comparisonTable": {
+          "caption": "2026年11月27日のブラックフライデー価格と更新時の金額。単体プランの合計は当サイトの計算で、アカウントを分ける必要があります。",
+          "headers": [
+            "契約するもの",
+            "最初の期間",
+            "更新（12か月）"
+          ],
+          "rows": [
+            [
+              "Pass Plusのみ（1年）",
+              "$23.88",
+              "$35.88"
+            ],
+            [
+              "Mail PlusのみまたはDrive Plusのみ（1年）",
+              "$29.88",
+              "$47.88"
+            ],
+            [
+              "VPN Plusのみ（1年）",
+              "$35.88",
+              "$83.88"
+            ],
+            [
+              "VPN x Pass Plusパッケージ（24か月、特典ページ）",
+              "24か月で$119.76",
+              "$107.88"
+            ],
+            [
+              "VPN Plus + Mail Plus、アカウントを分けた場合",
+              "$65.76",
+              "$131.76"
+            ],
+            [
+              "Mail Plus + Drive Plus + Pass Plus、アカウントを分けた場合",
+              "$83.64",
+              "$131.64"
+            ],
+            [
+              "単体プラン4つすべて、アカウントを分けた場合",
+              "$119.52",
+              "$215.52"
+            ],
+            [
+              "Proton Unlimited（1年）",
+              "$77.88",
+              "$119.88"
+            ]
+          ]
+        },
+        "postParagraphs": [
+          "サービス1つだけなら、1年目も更新時も常にUnlimitedより安くなります。VPNとパスワードにはVPN x Pass Plusパッケージがあり、特典ページでは年$107.88で更新され、Unlimitedの更新料より低くなっています。24か月では、パッケージが$119.76、2年のUnlimitedが$191.76です。有料のメールをVPNと一緒に使うなら、同じアカウントの個人向けプランはUnlimitedです。",
+          "2つのサービスをアカウントを分けて使う場合、VPN PlusとMail Plusは1年目はUnlimitedより安く、更新時は高くなります。単体サービス2つ、3つ、4つの行は当サイトが足した合計で、ログインが別々のアカウントでしか成り立ちません。それでも3つ目からは、どちらの期間でも合計がUnlimitedを超えます。4つを合わせると、1年目は$41.64、更新時は$95.64高くなります。",
+          "VPNだけが欲しい人は別の道になります。パートナーのリンクでは、2年のVPN Plusが最初の24か月で$59.76、以降は12か月ごとに$83.88で更新と表示されます。詳しい計算は[Proton VPNは価値がある？](/ja/reviews/proton-vpn-worth-it-ja)にあります。"
+        ],
+        "links": [
+          {
+            "label": "Protonのプランを見る",
+            "href": "https://go.getproton.me/SH39K",
+            "sponsored": true
+          }
+        ]
+      },
+      {
+        "heading": "1か月、1年、2年のサイクル",
+        "paragraphs": [
+          "月払いは始めるときの支出が最も小さく、1年プランは月あたりの価格が最も低くなります。2年プランが1年プランを上回るのは合計$6.00だけです。",
+          "Unlimitedには価格のページに3つのサイクルがあります。どれも前払いで、大きく表示される金額（「月」あたり）は合計を割ったものにすぎません。"
+        ],
+        "comparisonTable": {
+          "caption": "サイクル別のProton Unlimited、米ドル。通貨と合計額は決済時に確認してください。",
+          "headers": [
+            "サイクル",
+            "月あたり",
+            "一括請求",
+            "以降の更新"
+          ],
+          "rows": [
+            [
+              "1か月",
+              "$12.99",
+              "$12.99",
+              "毎月$12.99"
+            ],
+            [
+              "1年",
+              "$6.49",
+              "$77.88",
+              "12か月ごとに$119.88"
+            ],
+            [
+              "2年",
+              "$7.99",
+              "$191.76",
+              "12か月ごとに$119.88"
+            ]
+          ]
+        },
+        "postParagraphs": [
+          "月払いで12か月続けると$155.88になります。一括請求の1年は$77.88ですが、更新時は$42.00上がって$119.88です。2年プランは$191.76で、1年に更新1回を足すと$197.76、つまり$6.00多くなります。2年プランは、お金がより長く拘束されます。",
+          "Protonのサイトによると、更新は自動です。購入した日に請求日を控えておきましょう。まずVPNを試したい場合、Proton VPNの価格ページでは、Unlimitedが最初の月は$1.00で、その後は月$12.99で更新と表示されています。"
+        ],
+        "image": {
+          "src": "/images/reviews/proton/proton-unlimited-vale-a-pena-precos-usd.webp",
+          "alt": "米ドル表示の英語版Proton価格ページ。Unlimitedのカードに、定価$12.99の取り消し線、月$6.49、50% OFF、最初の12か月は$77.88で、以降12か月ごとに$119.88で更新と書かれています。",
+          "caption": "ドル表示のProton価格ページ、2026年11月27日。"
+        }
+      },
+      {
+        "heading": "Proton Unlimited、Duo、Family、そして永久アカウント",
+        "paragraphs": [
+          "もう1人と分け合うなら、更新時の1人あたりはDuoのほうがUnlimitedより安くなります。",
+          "DuoとFamilyは家族向けのプランのページにあります。Duoは最大2ユーザー、2TBで、月$14.99、12か月ごとに$179.88を請求されます。Familyは同居する最大6人、3TBで、月$23.99、12か月ごとに$287.88です。",
+          "Unlimitedは1ユーザーの個人アカウントです。Duoはもう1人とパッケージを分け合う場合に意味があります。1人あたり年$89.94で、更新時のUnlimitedの$119.88より低く、1年目の$77.88より高くなります（当サイトの計算）。DuoとFamilyで各サービスが何を提供するかはUnlimitedと比較しておらず、価格と容量だけを見ています。切り替える前にページで確認してください。",
+          "ProtonはUnlimitedの永久プランを販売していません。永久アカウントについてのブログ記事で、同社はこのアカウントは購入できず、年末のチャリティー抽選でのみ出ると述べています。販売されているのはProton Pass + SimpleLogin Lifetime（$199）で、PassとSimpleLoginが対象であり、Unlimitedではありません。"
+        ]
+      },
+      {
+        "heading": "デメリット",
+        "bullets": [
+          "**更新料がかなり高い。** Unlimitedの2年目は1年目の約5割増しです。金額はサイクルの表にあります。",
+          "**前払いです。** 1年または2年分が一度に引き落とされ、更新は自動です。",
+          "**支払い方法が限られます。** ProtonはVisa、Mastercard、American Express、PayPalを挙げており、現金によるクレジット、振込、Bitcoinはアカウント作成後にのみ利用できます。",
+          "**解約はダウングレードです。** 新しいプランの上限を超えた分は削除が必要です。詳細はよくある質問にあります。",
+          "**返金は最初の購入が対象**で、30日以内です。手順は[Proton VPNの解約と返金の申請方法](/ja/reviews/proton-vpn-refund-ja)にあります。",
+          "**iPhoneでは上乗せがある場合があります。** ProtonはiOS経由の購読は高くなることがあると案内しています。ウェブサイトから購読してください。"
+        ]
+      },
+      {
+        "heading": "あなたに合う選択は",
+        "paragraphs": [
+          "決め手は、実際に使う有料サービスの数です。"
+        ],
+        "bullets": [
+          "**メールだけで、無料で足りる：** 無料のままにしましょう。私たちはこのケースです。",
+          "**VPNだけ欲しい：** 単体のVPN Plusはどちらの期間でもUnlimitedより安くなります。計算は[Proton VPNは価値がある？](/ja/reviews/proton-vpn-worth-it-ja)にあります。NordVPNと比較しているなら、[Proton VPNとNordVPN](/ja/reviews/proton-vpn-vs-nordvpn-ja)をご覧ください。",
+          "**VPNとパスワードが欲しい：** 更新料がUnlimitedより低いVPN x Pass Plusパッケージを比べましょう。",
+          "**有料のメールとVPNが欲しい：** 1つのアカウントでは、Unlimitedです。",
+          "**サービスを3つか4つ、または15アドレスと3ドメインが欲しい：** Unlimitedはすべてを1つのアカウントにまとめ、単体プランの合計より安くなります。",
+          "**もう1人と分け合いたい：** Duoを見てみましょう。",
+          "**今日の最安値が欲しい：** ブラックフライデーはプランに反映されています。[Protonのブラックフライデーガイド](/ja/reviews/proton-black-friday-ja)をご覧ください。"
+        ],
+        "emphasis": "1つのアカウントでは、ProtonはPlusプランを2つまとめられません。有料のメールとVPNが欲しいならUnlimited、サービスが1つだけならそのPlusが、どちらの期間でも安くなります。",
+        "postParagraphs": [
+          "入力するクーポンやコードはありません。ボタンは当サイトのパートナーリンクでProtonのプランのページを開きます。リンクのルールは[当サイトのProtonのページ](/ja/coupons/proton)にあります。"
+        ],
+        "links": [
+          {
+            "label": "Proton Unlimitedの年間オファーを見る",
+            "href": "https://go.getproton.me/SH39K",
+            "sponsored": true
+          }
+        ]
+      },
+      {
+        "heading": "よくある質問",
+        "bullets": [
+          "VPN PlusとMail Plusを同じアカウントで契約できますか？ できません。Protonは、1つのアカウントにPlusプランを2つ持てないとしています。両方を有料で使うには、最大10台のデバイスで使える有料VPNを含むUnlimitedが道です。",
+          "Proton Unlimitedに割引クーポンはありますか？ クーポンはありません。割引は月額価格を基準に計算され、プランの価格にそのまま表示され、隣に更新時の金額も載っています。",
+          "Proton Unlimitedの永久プランはありますか？ Protonは販売していないとしています。永久アカウントは年末のチャリティー抽選でのみ出ており、販売中のLifetimeはPassとSimpleLogin専用です。",
+          "解約するとファイルはどうなりますか？ ProtonのFAQによると、解約はダッシュボードでのダウングレードです。アクセスは保たれますが、新しいプランの上限を超えた分は削除が必要で、上限がいっぱいだとアカウントはメールを受信できず、ファイルもアップロードできません。",
+          "30日間の返金はどう機能しますか？ 規約では、最初の購入が対象で1ユーザーにつき1回、申請と解約の両方が期間内に必要です。申請はサポートのフォームから行い、Protonと直接契約した購読にのみ有効です。"
+        ]
+      }
+    ],
+    "pros": [],
+    "cons": [],
+    "cta": {
+      "text": "当サイトのリンク経由だと、Unlimitedの年間プランは1年目が$77.88で、以後12か月ごとに$119.88で更新されます。前払いで更新は自動です。通貨と合計額は決済時に確認してください。",
+      "label": "Proton Unlimitedの年間オファーを見る",
+      "url": "https://go.getproton.me/SH39K",
+      "sponsored": true
+    },
+    "affiliate": "proton",
+    "editorialNote": "Protonのプランのページと利用規約をもとに作成しました。有料プランを実際に使った検証はしていません。無料のProton Mailは10年近く使っています。このリンクはアフィリエイトリンクで、紹介料を受け取る場合があります。",
+    "relatedArticles": [
+      {
+        "slug": "proton-vpn-worth-it-ja"
+      },
+      {
+        "slug": "proton-black-friday-ja"
+      },
+      {
+        "slug": "proton-vpn-refund-ja"
+      },
+      {
+        "slug": "proton-vpn-trust-ja"
+      }
+    ],
+    "decision": {
+      "takeIf": [
+        "同じアカウントで有料のメールと有料のVPNを使いたい。個人向けプランの中では、Unlimitedだけがこの2つをまとめています。",
+        "Protonの有料サービスを3つか4つ使っている、または使う予定、あるいは複数のアドレスと独自ドメインが必要。"
+      ],
+      "skipIf": [
+        "VPNだけ、またはVPNとパスワードだけが欲しい。VPN PlusとVPN x Pass Plusパッケージのほうが安い。",
+        "無料のMailプランで足りる、または更新料が予算に合わない。"
+      ]
+    }
+  },
+  {
+    "id": 1503,
+    "slug": "proton-unlimited-worth-it-zh-hant",
+    "locale": "zh-hant",
+    "translationKey": "proton-unlimited-vale-a-pena",
+    "title": "Proton Unlimited 值得買嗎？500 GB 包含什麼，以及與單項方案的比較",
+    "seoTitle": "Proton Unlimited 值得買嗎？包含內容與實際價格",
+    "type": "購買指南",
+    "category": "guias-praticos-utilidade",
+    "reviewKind": "guia",
+    "author": {
+      "name": "Cecília Mauad",
+      "slug": "cecilia-mauad",
+      "role": "Em Casa com Cecília",
+      "initials": "CM",
+      "url": "/sobre"
+    },
+    "description": "說明 Proton Unlimited 包含什麼、為何它是在同一帳號使用付費信箱與 VPN 的做法，以及第一年之後續訂時整個方案要多少錢。",
+    "metaDescription": "Proton Unlimited 值得買嗎？包含內容、為何 Proton 不讓兩個 Plus 方案放在同一帳號，以及續訂價格。",
+    "publishedAt": "2026年11月27日",
+    "publishedAtISO": "2026-11-27",
+    "updatedAt": "2026-11-27",
+    "draft": false,
+    "isNew": true,
+    "hideFromPortugueseListings": true,
+    "image": "/images/reviews/proton/proton-unlimited-vale-a-pena-hero-zh-hant.webp",
+    "imageAlt": "來自 Proton 官網首頁的應用程式圖示格（信箱、VPN、雲端儲存、密碼管理器）。封面提問「Proton Unlimited 值得買嗎？」。",
+    "imageFit": "contain",
+    "imageAspect": "landscape",
+    "contentSections": [
+      {
+        "heading": "快速回答",
+        "paragraphs": [
+          "是的，如果你想在同一帳號使用付費信箱和 VPN，或要用三項以上的 Proton 服務，就值得。Proton 不讓兩個 Plus 方案放在同一帳號，路只有 Unlimited。只要 VPN、只要信箱，或只要 VPN 加密碼管理，另有更便宜的方案。續訂價格明顯高於第一年。"
+        ]
+      },
+      {
+        "heading": "Proton Unlimited 包含什麼",
+        "paragraphs": [
+          "Unlimited 把 Proton 的信箱、VPN、雲端與密碼管理器放進同一個帳號。方案頁面列出 500 GB 儲存空間、15 個地址、3 個自訂網域、無限別名，以及 VPN、Pass 和 Drive 的付費版本。",
+          "依 Proton 所述，免費帳號有 Mail、Calendar、Drive 和 VPN 的基本功能，信箱為 1 個地址和 1 GB；免費 Drive 有 5 GB。下表把 Unlimited 與信箱額度最接近的單項方案 Mail Plus 並排比較。"
+        ],
+        "comparisonTable": {
+          "caption": "Proton 方案頁面上的 Mail Plus 與 Unlimited。",
+          "headers": [
+            "功能",
+            "Mail Plus",
+            "Unlimited"
+          ],
+          "rows": [
+            [
+              "儲存空間",
+              "15 GB",
+              "500 GB"
+            ],
+            [
+              "電子郵件地址",
+              "10",
+              "15"
+            ],
+            [
+              "自訂網域",
+              "1",
+              "3"
+            ],
+            [
+              "電子郵件別名",
+              "10 (hide-my-email)",
+              "無限"
+            ],
+            [
+              "VPN Plus",
+              "不包含",
+              "包含"
+            ],
+            [
+              "Pass Plus 與 Drive Plus",
+              "不包含",
+              "包含"
+            ],
+            [
+              "Emergency Access 與 Dark Web Monitoring",
+              "包含",
+              "包含"
+            ],
+            [
+              "Proton Sentinel",
+              "不包含",
+              "包含"
+            ]
+          ]
+        },
+        "accordionBlock": {
+          "heading": "Unlimited 內每項服務包含什麼",
+          "paragraphs": [
+            "Mail：上表的 15 個地址、3 個自訂網域和無限別名，加上比較表中的 Emergency Access 與 Dark Web Monitoring。",
+            "VPN Plus：依 Proton 的說明，最多 10 台裝置同時連線、超過 140 個國家的伺服器、NetShield（廣告、追蹤器與惡意軟體過濾）以及 P2P。VPN Plus 能做與不能做的事，請見[Proton VPN 值得買嗎？](/zh-hant/reviews/proton-vpn-worth-it-zh-hant)。",
+            "Pass Plus：依方案頁面的說明，裝置與別名皆無限。",
+            "Drive：單買的 Drive Plus 有 200 GB；在 Unlimited 中，空間就是帳號的 500 GB。",
+            "Proton Sentinel：比較表標示此功能僅 Unlimited 有，免費方案與 Mail Plus 都沒有。"
+          ]
+        },
+        "postParagraphs": [
+          "我們自己的使用量不大：Proton Mail 用免費方案，已經將近十年。"
+        ]
+      },
+      {
+        "heading": "算一算：一個 Plus 方案、VPN 加 Pass 套裝，還是 Unlimited",
+        "paragraphs": [
+          "算之前先看規則：Proton 不讓同一帳號有兩個 Plus 方案。Proton VPN 說明中心以 VPN Plus 加 Mail Plus 為例，並建議想要多項服務付費功能的人選 Unlimited。在單一帳號中，選擇是一個 Plus、優惠頁面的 VPN x Pass Plus 套裝，或 Unlimited。",
+          "以下價格取自 Proton 的頁面，以美元計，含第一年的黑色星期五價格，旁邊附上續訂金額。每個方案都按整段期間一次收費，折扣以月費為基準計算。"
+        ],
+        "comparisonTable": {
+          "caption": "2026 年 11 月 27 日黑色星期五價格，旁附續訂金額。單項方案的加總是我們的計算，需要分開的帳號。",
+          "headers": [
+            "你訂閱的內容",
+            "第一期",
+            "續訂（12 個月）"
+          ],
+          "rows": [
+            [
+              "僅 Pass Plus（1 年）",
+              "23.88 美元",
+              "35.88 美元"
+            ],
+            [
+              "僅 Mail Plus 或僅 Drive Plus（1 年）",
+              "29.88 美元",
+              "47.88 美元"
+            ],
+            [
+              "僅 VPN Plus（1 年）",
+              "35.88 美元",
+              "83.88 美元"
+            ],
+            [
+              "VPN x Pass Plus 套裝（24 個月，優惠頁面）",
+              "24 個月共 119.76 美元",
+              "107.88 美元"
+            ],
+            [
+              "VPN Plus + Mail Plus，分開的帳號",
+              "65.76 美元",
+              "131.76 美元"
+            ],
+            [
+              "Mail Plus + Drive Plus + Pass Plus，分開的帳號",
+              "83.64 美元",
+              "131.64 美元"
+            ],
+            [
+              "四個單項方案全包，分開的帳號",
+              "119.52 美元",
+              "215.52 美元"
+            ],
+            [
+              "Proton Unlimited（1 年）",
+              "77.88 美元",
+              "119.88 美元"
+            ]
+          ]
+        },
+        "postParagraphs": [
+          "只買一項服務，第一年和續訂時都比 Unlimited 便宜。VPN 加密碼管理，Proton 賣的是 VPN x Pass Plus 套裝：在優惠頁面上每年續訂 107.88 美元，低於 Unlimited 的續訂價。24 個月下來，套裝是 119.76 美元，兩年的 Unlimited 是 191.76 美元。要把付費信箱和 VPN 放在同一帳號，個人方案就是 Unlimited。",
+          "兩項服務分開帳號訂閱時，VPN Plus 加 Mail Plus 第一年比 Unlimited 便宜，續訂時更貴。兩項、三項、四項單項方案的列是我們自己加總的，只有分開的帳號（各有各的登入）才成立。即便如此，從第三項服務起，兩段期間的加總都超過 Unlimited：四項合計第一年多 41.64 美元，續訂時多 95.64 美元。",
+          "只想要 VPN 的人，路不一樣。透過合作夥伴連結，兩年的 VPN Plus 前 24 個月為 59.76 美元，之後每 12 個月續訂 83.88 美元。完整算法請見[Proton VPN 值得買嗎？](/zh-hant/reviews/proton-vpn-worth-it-zh-hant)。"
+        ],
+        "links": [
+          {
+            "label": "查看 Proton 的方案",
+            "href": "https://go.getproton.me/SH39K",
+            "sponsored": true
+          }
+        ]
+      },
+      {
+        "heading": "1 個月、1 年或 2 年的週期",
+        "paragraphs": [
+          "月付一開始的支出最小，1 年方案的每月價格最低；2 年方案只比它多省 6.00 美元。",
+          "Unlimited 在價格頁面有三種週期。全部都是預付，顯眼的數字（「每月」）只是總額除出來的結果。"
+        ],
+        "comparisonTable": {
+          "caption": "各週期的 Proton Unlimited，以美元計。請在結帳時確認幣別與總額。",
+          "headers": [
+            "週期",
+            "每月",
+            "一次收費",
+            "之後續訂為"
+          ],
+          "rows": [
+            [
+              "1 個月",
+              "12.99 美元",
+              "12.99 美元",
+              "每月 12.99 美元"
+            ],
+            [
+              "1 年",
+              "6.49 美元",
+              "77.88 美元",
+              "每 12 個月 119.88 美元"
+            ],
+            [
+              "2 年",
+              "7.99 美元",
+              "191.76 美元",
+              "每 12 個月 119.88 美元"
+            ]
+          ]
+        },
+        "postParagraphs": [
+          "月付連續付 12 個月要 155.88 美元。一次收費的一年是 77.88 美元，但續訂漲 42.00 美元，變成 119.88 美元。2 年方案是 191.76 美元；一年加一次續訂合計 197.76 美元，也就是多 6.00 美元。2 年方案把錢綁得更久。",
+          "依 Proton 網站所述，續訂是自動的。購買當天請記下扣款日。想先試 VPN 的話，Proton VPN 的價格頁面標示 Unlimited 第一個月 1.00 美元，之後每月續訂 12.99 美元。"
+        ],
+        "image": {
+          "src": "/images/reviews/proton/proton-unlimited-vale-a-pena-precos-usd.webp",
+          "alt": "以美元顯示的英文版 Proton 價格頁面。Unlimited 卡片上定價 $12.99 被劃掉，每月 $6.49，50% OFF，前 12 個月收 $77.88，之後每 12 個月續訂 $119.88。",
+          "caption": "以美元顯示的 Proton 價格頁面，2026 年 11 月 27 日。"
+        }
+      },
+      {
+        "heading": "Proton Unlimited、Duo 或 Family，以及終身帳號",
+        "paragraphs": [
+          "想與另一個人分攤，續訂時 Duo 的每人費用比 Unlimited 低。",
+          "Duo 和 Family 在家庭方案頁面。Duo 最多 2 位使用者，2 TB，每月 14.99 美元，每 12 個月收 179.88 美元。Family 最多 6 位同住的人，3 TB，每月 23.99 美元，每 12 個月 287.88 美元。",
+          "Unlimited 是 1 位使用者的個人帳號。Duo 適合與另一個人分攤方案：每人每年 89.94 美元，低於 Unlimited 續訂時的 119.88 美元，高於第一年的 77.88 美元（我們的計算）。我們沒有比較 Duo 和 Family 各項服務與 Unlimited 的差異，只比了價格和空間；切換前請先在頁面上確認。",
+          "Proton 不賣 Unlimited 的終身方案。在一篇談終身帳號的部落格文章中，該公司表示這種帳號不開放購買，只在年底慈善抽獎中送出。在售的是 Proton Pass + SimpleLogin Lifetime（199 美元），涵蓋 Pass 和 SimpleLogin，不是 Unlimited。"
+        ]
+      },
+      {
+        "heading": "不利的地方",
+        "bullets": [
+          "**續訂價高出很多。** Unlimited 第二年的費用比第一年多約一半；金額見週期表。",
+          "**預付。** 一年或兩年的費用一次扣款，續訂是自動的。",
+          "**付款方式有限。** Proton 列出 Visa、Mastercard、American Express 和 PayPal；現金儲值、轉帳或 Bitcoin 要建立帳號後才能用。",
+          "**取消就是降級。** 超出新方案上限的內容必須刪除；細節見常見問題。",
+          "**退款只適用於首次購買**，須在 30 天內。做法見[如何取消 Proton VPN 並申請退款](/zh-hant/reviews/proton-vpn-refund-zh-hant)。",
+          "**在 iPhone 上可能有加價。** Proton 提醒透過 iOS 訂閱可能更貴；請在網站上訂閱。"
+        ]
+      },
+      {
+        "heading": "哪種選擇適合你",
+        "paragraphs": [
+          "決定取決於你實際使用的付費服務數量："
+        ],
+        "bullets": [
+          "**只用信箱，免費就夠：** 留在免費方案。我們就是這樣。",
+          "**只想要 VPN：** 單買 VPN Plus 在兩段期間都比 Unlimited 便宜。算法見[Proton VPN 值得買嗎？](/zh-hant/reviews/proton-vpn-worth-it-zh-hant)。如果你在與 NordVPN 比較，請看[Proton VPN 與 NordVPN](/zh-hant/reviews/proton-vpn-vs-nordvpn-zh-hant)。",
+          "**想要 VPN 加密碼管理：** 比較 VPN x Pass Plus 套裝，其續訂價低於 Unlimited。",
+          "**想要付費信箱和 VPN：** 在單一帳號中，就是 Unlimited。",
+          "**想要三、四項服務，或 15 個地址和 3 個網域：** Unlimited 把一切放進一個帳號，比單項方案的加總便宜。",
+          "**想與另一個人分攤：** 看看 Duo。",
+          "**想要今天最低價：** 黑色星期五已反映在方案中；請看 [Proton 黑色星期五指南](/zh-hant/reviews/proton-black-friday-zh-hant)。"
+        ],
+        "emphasis": "在單一帳號中，Proton 不讓兩個 Plus 方案並存。想要付費信箱和 VPN，就選 Unlimited；只要一項服務，該服務的 Plus 在兩段期間都比較便宜。",
+        "postParagraphs": [
+          "沒有優惠碼可以輸入：按鈕會透過我們的合作連結開啟 Proton 的方案頁面。連結的規則請見[我們網站上的 Proton 頁面](/zh-hant/coupons/proton)。"
+        ],
+        "links": [
+          {
+            "label": "查看 Proton Unlimited 年付優惠",
+            "href": "https://go.getproton.me/SH39K",
+            "sponsored": true
+          }
+        ]
+      },
+      {
+        "heading": "常見問題",
+        "bullets": [
+          "可以在同一帳號訂閱 VPN Plus 和 Mail Plus 嗎？不行。Proton 表示一個帳號不能有兩個 Plus 方案；想兩者都付費，做法是 Unlimited，它包含最多 10 台裝置的付費 VPN。",
+          "Proton Unlimited 有折扣優惠碼嗎？沒有優惠碼。折扣直接顯示在方案價格上，以月費為基準計算，續訂金額就在旁邊。",
+          "Proton Unlimited 有終身方案嗎？Proton 表示不販售。終身帳號只在年底慈善抽獎中送出，在售的 Lifetime 僅限 Pass 和 SimpleLogin。",
+          "取消後我的檔案會怎樣？依 Proton 的常見問題，取消就是在控制台降級。你仍可存取，但超出新方案上限的內容必須刪除；額度滿了，帳號就收不到郵件，也無法上傳檔案。",
+          "30 天退款如何運作？依條款，僅適用於首次購買、每位使用者一次，申請與取消都必須在期限內；申請透過支援表單，且只適用於直接向 Proton 訂閱的方案。"
+        ]
+      }
+    ],
+    "pros": [],
+    "cons": [],
+    "cta": {
+      "text": "透過我們的連結，Unlimited 年付第一年為 77.88 美元，之後每 12 個月以 119.88 美元續訂。預付，續訂是自動的；請在結帳時確認幣別與總額。",
+      "label": "查看 Proton Unlimited 年付優惠",
+      "url": "https://go.getproton.me/SH39K",
+      "sponsored": true
+    },
+    "affiliate": "proton",
+    "editorialNote": "本文依據 Proton 的方案頁面與條款撰寫，沒有實際測試付費方案。我們使用免費的 Proton Mail 將近十年。這個連結是聯盟連結，可能為我們帶來佣金。",
+    "relatedArticles": [
+      {
+        "slug": "proton-vpn-worth-it-zh-hant"
+      },
+      {
+        "slug": "proton-black-friday-zh-hant"
+      },
+      {
+        "slug": "proton-vpn-refund-zh-hant"
+      },
+      {
+        "slug": "proton-vpn-trust-zh-hant"
+      }
+    ],
+    "decision": {
+      "takeIf": [
+        "你想在同一帳號使用付費信箱和付費 VPN：個人方案中，只有 Unlimited 同時包含兩者。",
+        "你正在使用或打算使用三、四項 Proton 付費服務，或需要多個地址和自訂網域。"
+      ],
+      "skipIf": [
+        "你只要 VPN，或只要 VPN 加密碼管理：VPN Plus 和 VPN x Pass Plus 套裝比較便宜。",
+        "免費的 Mail 方案已夠用，或續訂金額超出你的預算。"
+      ]
+    }
+  },
+  {
+    "id": 1504,
+    "slug": "proton-unlimited-worth-it-zh-hans",
+    "locale": "zh-hans",
+    "translationKey": "proton-unlimited-vale-a-pena",
+    "title": "Proton Unlimited 值得买吗？500 GB 包含什么，以及与单项套餐的对比",
+    "seoTitle": "Proton Unlimited 值得买吗？包含内容与实际价格",
+    "type": "购买指南",
+    "category": "guias-praticos-utilidade",
+    "reviewKind": "guia",
+    "author": {
+      "name": "Cecília Mauad",
+      "slug": "cecilia-mauad",
+      "role": "Em Casa com Cecília",
+      "initials": "CM",
+      "url": "/sobre"
+    },
+    "description": "说明 Proton Unlimited 包含什么、为何它是在同一账号使用付费邮箱与 VPN 的做法，以及第一年之后续订时整个套餐要多少钱。",
+    "metaDescription": "Proton Unlimited 值得买吗？包含内容、为何 Proton 不让两个 Plus 套餐放在同一账号，以及续订价格。",
+    "publishedAt": "2026年11月27日",
+    "publishedAtISO": "2026-11-27",
+    "updatedAt": "2026-11-27",
+    "draft": false,
+    "isNew": true,
+    "hideFromPortugueseListings": true,
+    "image": "/images/reviews/proton/proton-unlimited-vale-a-pena-hero-zh-hans.webp",
+    "imageAlt": "来自 Proton 官网首页的应用图标网格（邮箱、VPN、云存储、密码管理器）。封面提问“Proton Unlimited 值得买吗？”。",
+    "imageFit": "contain",
+    "imageAspect": "landscape",
+    "contentSections": [
+      {
+        "heading": "快速回答",
+        "paragraphs": [
+          "是的，如果你想在同一账号使用付费邮箱和 VPN，或要用三项以上的 Proton 服务，就值得。Proton 不让两个 Plus 套餐放在同一账号，路只有 Unlimited。只要 VPN、只要邮箱，或只要 VPN 加密码管理，另有更便宜的套餐。续订价格明显高于第一年。"
+        ]
+      },
+      {
+        "heading": "Proton Unlimited 包含什么",
+        "paragraphs": [
+          "Unlimited 把 Proton 的邮箱、VPN、云盘与密码管理器放进同一个账号。套餐页面列出 500 GB 存储空间、15 个地址、3 个自定义域名、无限别名，以及 VPN、Pass 和 Drive 的付费版本。",
+          "据 Proton 介绍，免费账号有 Mail、Calendar、Drive 和 VPN 的基本功能，邮箱为 1 个地址和 1 GB；免费 Drive 有 5 GB。下表把 Unlimited 与邮箱额度最接近的单项套餐 Mail Plus 并排比较。"
+        ],
+        "comparisonTable": {
+          "caption": "Proton 套餐页面上的 Mail Plus 与 Unlimited。",
+          "headers": [
+            "功能",
+            "Mail Plus",
+            "Unlimited"
+          ],
+          "rows": [
+            [
+              "存储空间",
+              "15 GB",
+              "500 GB"
+            ],
+            [
+              "电子邮件地址",
+              "10",
+              "15"
+            ],
+            [
+              "自定义域名",
+              "1",
+              "3"
+            ],
+            [
+              "电子邮件别名",
+              "10 (hide-my-email)",
+              "无限"
+            ],
+            [
+              "VPN Plus",
+              "不包含",
+              "包含"
+            ],
+            [
+              "Pass Plus 与 Drive Plus",
+              "不包含",
+              "包含"
+            ],
+            [
+              "Emergency Access 与 Dark Web Monitoring",
+              "包含",
+              "包含"
+            ],
+            [
+              "Proton Sentinel",
+              "不包含",
+              "包含"
+            ]
+          ]
+        },
+        "accordionBlock": {
+          "heading": "Unlimited 内每项服务包含什么",
+          "paragraphs": [
+            "Mail：上表的 15 个地址、3 个自定义域名和无限别名，加上对比表中的 Emergency Access 与 Dark Web Monitoring。",
+            "VPN Plus：据 Proton 的说明，最多 10 台设备同时连接、超过 140 个国家的服务器、NetShield（广告、跟踪器与恶意软件过滤）以及 P2P。VPN Plus 能做与不能做的事，请见[Proton VPN 值得买吗？](/zh-hans/reviews/proton-vpn-worth-it-zh-hans)。",
+            "Pass Plus：据套餐页面的说明，设备与别名均无限。",
+            "Drive：单买的 Drive Plus 有 200 GB；在 Unlimited 中，空间就是账号的 500 GB。",
+            "Proton Sentinel：对比表标示该功能仅 Unlimited 有，免费套餐与 Mail Plus 都没有。"
+          ]
+        },
+        "postParagraphs": [
+          "我们自己的使用量不大：Proton Mail 用免费套餐，已经将近十年。"
+        ]
+      },
+      {
+        "heading": "算一算：一个 Plus 套餐、VPN 加 Pass 组合，还是 Unlimited",
+        "paragraphs": [
+          "算之前先看规则：Proton 不让同一账号有两个 Plus 套餐。Proton VPN 帮助中心以 VPN Plus 加 Mail Plus 为例，并建议想要多项服务付费功能的人选 Unlimited。在单一账号中，选择是一个 Plus、优惠页面的 VPN x Pass Plus 组合，或 Unlimited。",
+          "以下价格取自 Proton 的页面，以美元计，含第一年的黑色星期五价格，旁边附上续订金额。每个套餐都按整段期间一次收费，折扣以月费为基准计算。"
+        ],
+        "comparisonTable": {
+          "caption": "2026 年 11 月 27 日黑色星期五价格，旁附续订金额。单项套餐的加总是我们的计算，需要分开的账号。",
+          "headers": [
+            "你订阅的内容",
+            "第一期",
+            "续订（12 个月）"
+          ],
+          "rows": [
+            [
+              "仅 Pass Plus（1 年）",
+              "23.88 美元",
+              "35.88 美元"
+            ],
+            [
+              "仅 Mail Plus 或仅 Drive Plus（1 年）",
+              "29.88 美元",
+              "47.88 美元"
+            ],
+            [
+              "仅 VPN Plus（1 年）",
+              "35.88 美元",
+              "83.88 美元"
+            ],
+            [
+              "VPN x Pass Plus 组合（24 个月，优惠页面）",
+              "24 个月共 119.76 美元",
+              "107.88 美元"
+            ],
+            [
+              "VPN Plus + Mail Plus，分开的账号",
+              "65.76 美元",
+              "131.76 美元"
+            ],
+            [
+              "Mail Plus + Drive Plus + Pass Plus，分开的账号",
+              "83.64 美元",
+              "131.64 美元"
+            ],
+            [
+              "四个单项套餐全包，分开的账号",
+              "119.52 美元",
+              "215.52 美元"
+            ],
+            [
+              "Proton Unlimited（1 年）",
+              "77.88 美元",
+              "119.88 美元"
+            ]
+          ]
+        },
+        "postParagraphs": [
+          "只买一项服务，第一年和续订时都比 Unlimited 便宜。VPN 加密码管理，Proton 卖的是 VPN x Pass Plus 组合：在优惠页面上每年续订 107.88 美元，低于 Unlimited 的续订价。24 个月下来，组合是 119.76 美元，两年的 Unlimited 是 191.76 美元。要把付费邮箱和 VPN 放在同一账号，个人套餐就是 Unlimited。",
+          "两项服务分开账号订阅时，VPN Plus 加 Mail Plus 第一年比 Unlimited 便宜，续订时更贵。两项、三项、四项单项套餐的行是我们自己加总的，只有分开的账号（各有各的登录）才成立。即便如此，从第三项服务起，两段期间的加总都超过 Unlimited：四项合计第一年多 41.64 美元，续订时多 95.64 美元。",
+          "只想要 VPN 的人，路不一样。通过合作伙伴链接，两年的 VPN Plus 前 24 个月为 59.76 美元，之后每 12 个月续订 83.88 美元。完整算法请见[Proton VPN 值得买吗？](/zh-hans/reviews/proton-vpn-worth-it-zh-hans)。"
+        ],
+        "links": [
+          {
+            "label": "查看 Proton 的套餐",
+            "href": "https://go.getproton.me/SH39K",
+            "sponsored": true
+          }
+        ]
+      },
+      {
+        "heading": "1 个月、1 年或 2 年的周期",
+        "paragraphs": [
+          "月付一开始的支出最小，1 年套餐的每月价格最低；2 年套餐只比它多省 6.00 美元。",
+          "Unlimited 在价格页面有三种周期。全部都是预付，显眼的数字（“每月”）只是总额除出来的结果。"
+        ],
+        "comparisonTable": {
+          "caption": "各周期的 Proton Unlimited，以美元计。请在结账时确认币种与总额。",
+          "headers": [
+            "周期",
+            "每月",
+            "一次收费",
+            "之后续订为"
+          ],
+          "rows": [
+            [
+              "1 个月",
+              "12.99 美元",
+              "12.99 美元",
+              "每月 12.99 美元"
+            ],
+            [
+              "1 年",
+              "6.49 美元",
+              "77.88 美元",
+              "每 12 个月 119.88 美元"
+            ],
+            [
+              "2 年",
+              "7.99 美元",
+              "191.76 美元",
+              "每 12 个月 119.88 美元"
+            ]
+          ]
+        },
+        "postParagraphs": [
+          "月付连续付 12 个月要 155.88 美元。一次收费的一年是 77.88 美元，但续订涨 42.00 美元，变成 119.88 美元。2 年套餐是 191.76 美元；一年加一次续订合计 197.76 美元，也就是多 6.00 美元。2 年套餐把钱绑得更久。",
+          "据 Proton 网站介绍，续订是自动的。购买当天请记下扣款日。想先试 VPN 的话，Proton VPN 的价格页面标示 Unlimited 第一个月 1.00 美元，之后每月续订 12.99 美元。"
+        ],
+        "image": {
+          "src": "/images/reviews/proton/proton-unlimited-vale-a-pena-precos-usd.webp",
+          "alt": "以美元显示的英文版 Proton 价格页面。Unlimited 卡片上定价 $12.99 被划掉，每月 $6.49，50% OFF，前 12 个月收 $77.88，之后每 12 个月续订 $119.88。",
+          "caption": "以美元显示的 Proton 价格页面，2026 年 11 月 27 日。"
+        }
+      },
+      {
+        "heading": "Proton Unlimited、Duo 或 Family，以及终身账号",
+        "paragraphs": [
+          "想与另一个人分摊，续订时 Duo 的每人费用比 Unlimited 低。",
+          "Duo 和 Family 在家庭套餐页面。Duo 最多 2 位用户，2 TB，每月 14.99 美元，每 12 个月收 179.88 美元。Family 最多 6 位同住的人，3 TB，每月 23.99 美元，每 12 个月 287.88 美元。",
+          "Unlimited 是 1 位用户的个人账号。Duo 适合与另一个人分摊套餐：每人每年 89.94 美元，低于 Unlimited 续订时的 119.88 美元，高于第一年的 77.88 美元（我们的计算）。我们没有比较 Duo 和 Family 各项服务与 Unlimited 的差异，只比了价格和空间；切换前请先在页面上确认。",
+          "Proton 不卖 Unlimited 的终身套餐。在一篇谈终身账号的博客文章中，该公司表示这种账号不开放购买，只在年底慈善抽奖中送出。在售的是 Proton Pass + SimpleLogin Lifetime（199 美元），涵盖 Pass 和 SimpleLogin，不是 Unlimited。"
+        ]
+      },
+      {
+        "heading": "不利的地方",
+        "bullets": [
+          "**续订价高出很多。** Unlimited 第二年的费用比第一年多约一半；金额见周期表。",
+          "**预付。** 一年或两年的费用一次扣款，续订是自动的。",
+          "**付款方式有限。** Proton 列出 Visa、Mastercard、American Express 和 PayPal；现金充值、转账或 Bitcoin 要创建账号后才能用。",
+          "**取消就是降级。** 超出新套餐上限的内容必须删除；细节见常见问题。",
+          "**退款只适用于首次购买**，须在 30 天内。做法见[如何取消 Proton VPN 并申请退款](/zh-hans/reviews/proton-vpn-refund-zh-hans)。",
+          "**在 iPhone 上可能有加价。** Proton 提醒通过 iOS 订阅可能更贵；请在网站上订阅。"
+        ]
+      },
+      {
+        "heading": "哪种选择适合你",
+        "paragraphs": [
+          "决定取决于你实际使用的付费服务数量："
+        ],
+        "bullets": [
+          "**只用邮箱，免费就够：** 留在免费套餐。我们就是这样。",
+          "**只想要 VPN：** 单买 VPN Plus 在两段期间都比 Unlimited 便宜。算法见[Proton VPN 值得买吗？](/zh-hans/reviews/proton-vpn-worth-it-zh-hans)。如果你在与 NordVPN 比较，请看[Proton VPN 与 NordVPN](/zh-hans/reviews/proton-vpn-vs-nordvpn-zh-hans)。",
+          "**想要 VPN 加密码管理：** 比较 VPN x Pass Plus 组合，其续订价低于 Unlimited。",
+          "**想要付费邮箱和 VPN：** 在单一账号中，就是 Unlimited。",
+          "**想要三、四项服务，或 15 个地址和 3 个域名：** Unlimited 把一切放进一个账号，比单项套餐的加总便宜。",
+          "**想与另一个人分摊：** 看看 Duo。",
+          "**想要今天最低价：** 黑色星期五已体现在套餐中；请看 [Proton 黑色星期五指南](/zh-hans/reviews/proton-black-friday-zh-hans)。"
+        ],
+        "emphasis": "在单一账号中，Proton 不让两个 Plus 套餐并存。想要付费邮箱和 VPN，就选 Unlimited；只要一项服务，该服务的 Plus 在两段期间都比较便宜。",
+        "postParagraphs": [
+          "没有优惠码可以输入：按钮会通过我们的合作链接打开 Proton 的套餐页面。链接的规则请见[我们网站上的 Proton 页面](/zh-hans/coupons/proton)。"
+        ],
+        "links": [
+          {
+            "label": "查看 Proton Unlimited 年付优惠",
+            "href": "https://go.getproton.me/SH39K",
+            "sponsored": true
+          }
+        ]
+      },
+      {
+        "heading": "常见问题",
+        "bullets": [
+          "可以在同一账号订阅 VPN Plus 和 Mail Plus 吗？不行。Proton 表示一个账号不能有两个 Plus 套餐；想两者都付费，做法是 Unlimited，它包含最多 10 台设备的付费 VPN。",
+          "Proton Unlimited 有折扣优惠码吗？没有优惠码。折扣直接显示在套餐价格上，以月费为基准计算，续订金额就在旁边。",
+          "Proton Unlimited 有终身套餐吗？Proton 表示不销售。终身账号只在年底慈善抽奖中送出，在售的 Lifetime 仅限 Pass 和 SimpleLogin。",
+          "取消后我的文件会怎样？据 Proton 的常见问题，取消就是在控制台降级。你仍可访问，但超出新套餐上限的内容必须删除；额度满了，账号就收不到邮件，也无法上传文件。",
+          "30 天退款如何运作？依条款，仅适用于首次购买、每位用户一次，申请与取消都必须在期限内；申请通过支持表单，且只适用于直接向 Proton 订阅的套餐。"
+        ]
+      }
+    ],
+    "pros": [],
+    "cons": [],
+    "cta": {
+      "text": "通过我们的链接，Unlimited 年付第一年为 77.88 美元，之后每 12 个月以 119.88 美元续订。预付，续订是自动的；请在结账时确认币种与总额。",
+      "label": "查看 Proton Unlimited 年付优惠",
+      "url": "https://go.getproton.me/SH39K",
+      "sponsored": true
+    },
+    "affiliate": "proton",
+    "editorialNote": "本文依据 Proton 的套餐页面与条款撰写，没有实际测试付费套餐。我们使用免费的 Proton Mail 将近十年。这个链接是联盟链接，可能为我们带来佣金。",
+    "relatedArticles": [
+      {
+        "slug": "proton-vpn-worth-it-zh-hans"
+      },
+      {
+        "slug": "proton-black-friday-zh-hans"
+      },
+      {
+        "slug": "proton-vpn-refund-zh-hans"
+      },
+      {
+        "slug": "proton-vpn-trust-zh-hans"
+      }
+    ],
+    "decision": {
+      "takeIf": [
+        "你想在同一账号使用付费邮箱和付费 VPN：个人套餐中，只有 Unlimited 同时包含两者。",
+        "你正在使用或打算使用三、四项 Proton 付费服务，或需要多个地址和自定义域名。"
+      ],
+      "skipIf": [
+        "你只要 VPN，或只要 VPN 加密码管理：VPN Plus 和 VPN x Pass Plus 组合比较便宜。",
+        "免费的 Mail 套餐已够用，或续订金额超出你的预算。"
+      ]
+    }
+  },
+  {
+    "id": 1505,
+    "slug": "proton-unlimited-worth-it-ar",
+    "locale": "ar",
+    "translationKey": "proton-unlimited-vale-a-pena",
+    "title": "هل يستحق Proton Unlimited؟ ما الذي تتضمنه الـ 500 جيجابايت والحساب مقابل الخطط المنفردة",
+    "seoTitle": "هل يستحق Proton Unlimited؟ ما يتضمنه وسعره الفعلي",
+    "type": "دليل شراء",
+    "category": "guias-praticos-utilidade",
+    "reviewKind": "guia",
+    "author": {
+      "name": "Cecília Mauad",
+      "slug": "cecilia-mauad",
+      "role": "Em Casa com Cecília",
+      "initials": "CM",
+      "url": "/sobre"
+    },
+    "description": "ما الذي يتضمنه Proton Unlimited، ولماذا هو الطريق لامتلاك بريد وVPN مدفوعين في الحساب نفسه، وكم تكلّف الحزمة عند التجديد بعد السنة الأولى.",
+    "metaDescription": "هل يستحق Proton Unlimited؟ ما يتضمنه، ولماذا لا تجمع Proton خطتي Plus في حساب واحد، وكم تكلّف الحزمة عند التجديد.",
+    "publishedAt": "27 نوفمبر 2026",
+    "publishedAtISO": "2026-11-27",
+    "updatedAt": "2026-11-27",
+    "draft": false,
+    "isNew": true,
+    "hideFromPortugueseListings": true,
+    "image": "/images/reviews/proton/proton-unlimited-vale-a-pena-hero-ar.webp",
+    "imageAlt": "شبكة أيقونات تطبيقات Proton (البريد وVPN والتخزين السحابي ومدير كلمات المرور) من الصفحة الرئيسية الرسمية لـ Proton. يسأل الغلاف: «هل يستحق Proton Unlimited؟».",
+    "imageFit": "contain",
+    "imageAspect": "landscape",
+    "contentSections": [
+      {
+        "heading": "الإجابة السريعة",
+        "paragraphs": [
+          "نعم، حين تريد بريدًا وVPN مدفوعين في الحساب نفسه، أو ثلاث خدمات من Proton أو أكثر: فهي لا تسمح بجمع خطتي Plus في حساب واحد، وUnlimited هو الطريق. أما للـ VPN وحده أو البريد وحده أو VPN مع كلمات المرور فتوجد خطة أرخص. والتجديد يأتي أعلى بكثير من السنة الأولى."
+        ]
+      },
+      {
+        "heading": "ما الذي يأتي في Proton Unlimited",
+        "paragraphs": [
+          "Unlimited هي الخطة التي تجمع في حساب واحد بريد Proton وVPN والتخزين السحابي ومدير كلمات المرور. وتذكر صفحة الخطط 500 جيجابايت من التخزين و15 عنوانًا و3 نطاقات خاصة وأسماء مستعارة غير محدودة والنسخ المدفوعة من VPN وPass وDrive.",
+          "الحساب المجاني، بحسب Proton، يضم الأساسيات من Mail وCalendar وDrive وVPN، مع عنوان واحد و1 جيجابايت للبريد؛ وDrive المجاني فيه 5 جيجابايت. يضع الجدول التالي Unlimited بجانب Mail Plus، أقرب الخطط المنفردة إليها في حدود البريد."
+        ],
+        "comparisonTable": {
+          "caption": "Mail Plus وUnlimited في صفحة خطط Proton.",
+          "headers": [
+            "الميزة",
+            "Mail Plus",
+            "Unlimited"
+          ],
+          "rows": [
+            [
+              "التخزين",
+              "15 GB",
+              "500 GB"
+            ],
+            [
+              "عناوين البريد",
+              "10",
+              "15"
+            ],
+            [
+              "النطاقات الخاصة",
+              "1",
+              "3"
+            ],
+            [
+              "الأسماء المستعارة للبريد",
+              "10 (hide-my-email)",
+              "غير محدودة"
+            ],
+            [
+              "VPN Plus",
+              "غير مشمول",
+              "مشمول"
+            ],
+            [
+              "Pass Plus وDrive Plus",
+              "غير مشمول",
+              "مشمول"
+            ],
+            [
+              "Emergency Access وDark Web Monitoring",
+              "مشمول",
+              "مشمول"
+            ],
+            [
+              "Proton Sentinel",
+              "غير مشمول",
+              "مشمول"
+            ]
+          ]
+        },
+        "accordionBlock": {
+          "heading": "ما تتضمنه كل خدمة داخل Unlimited",
+          "paragraphs": [
+            "Mail: العناوين الـ15 والنطاقات الخاصة الـ3 والأسماء المستعارة غير المحدودة من الجدول أعلاه، إضافةً إلى Emergency Access وDark Web Monitoring من جدول المقارنة.",
+            "VPN Plus: ما يصل إلى 10 أجهزة في وقت واحد، وخوادم في أكثر من 140 دولة، وNetShield (مرشّح للإعلانات وأدوات التتبع والبرمجيات الخبيثة) وP2P، كما تصف Proton الخطة. وما تفعله VPN Plus وما لا تفعله في [هل يستحق Proton VPN؟](/ar/reviews/proton-vpn-worth-it-ar).",
+            "Pass Plus: أجهزة وأسماء مستعارة غير محدودة، كما تصفها صفحة الخطط.",
+            "Drive: خطة Drive Plus المنفردة فيها 200 جيجابايت؛ وفي Unlimited المساحة هي 500 جيجابايت الحساب.",
+            "Proton Sentinel: يضع جدول المقارنة الميزة في Unlimited وحدها، لا في الخطة المجانية ولا في Mail Plus."
+          ]
+        },
+        "postParagraphs": [
+          "استخدامنا الشخصي مرجع صغير: نستخدم Proton Mail، في الخطة المجانية، منذ نحو عشر سنوات."
+        ]
+      },
+      {
+        "heading": "الحساب: خطة Plus واحدة أو حزمة VPN وPass أو Unlimited",
+        "paragraphs": [
+          "قبل الحساب، القاعدة: لا تسمح Proton بوجود خطتي Plus في الحساب نفسه. يضرب مركز مساعدة Proton VPN مثال VPN Plus مع Mail Plus ويشير إلى Unlimited لمن يريد الميزات المدفوعة لعدة خدمات. وفي حساب واحد، الاختيار بين Plus واحدة وحزمة VPN x Pass Plus من صفحة العروض وUnlimited.",
+          "الأسعار أدناه من صفحات Proton، بالدولار الأمريكي، مع سعر الجمعة البيضاء للسنة الأولى ومبلغ التجديد بجانبه. تُحاسَب كل خطة عن المدة كاملة دفعة واحدة، ويُحسب الخصم على السعر الشهري."
+        ],
+        "comparisonTable": {
+          "caption": "أسعار 27 نوفمبر 2026، الجمعة البيضاء، ومبلغ التجديد بجانبها. مجاميع الخطط المنفردة حساب منا وتتطلب حسابات منفصلة.",
+          "headers": [
+            "ما تشترك فيه",
+            "الفترة الأولى",
+            "التجديد (12 شهرًا)"
+          ],
+          "rows": [
+            [
+              "Pass Plus وحدها (سنة)",
+              "$23.88",
+              "$35.88"
+            ],
+            [
+              "Mail Plus وحدها أو Drive Plus وحدها (سنة)",
+              "$29.88",
+              "$47.88"
+            ],
+            [
+              "VPN Plus وحدها (سنة)",
+              "$35.88",
+              "$83.88"
+            ],
+            [
+              "حزمة VPN x Pass Plus (24 شهرًا، صفحة العروض)",
+              "$119.76 عن الـ24 شهرًا",
+              "$107.88"
+            ],
+            [
+              "VPN Plus + Mail Plus، في حسابين منفصلين",
+              "$65.76",
+              "$131.76"
+            ],
+            [
+              "Mail Plus + Drive Plus + Pass Plus، في حسابات منفصلة",
+              "$83.64",
+              "$131.64"
+            ],
+            [
+              "الخطط الأربع المنفردة، في حسابات منفصلة",
+              "$119.52",
+              "$215.52"
+            ],
+            [
+              "Proton Unlimited (سنة)",
+              "$77.88",
+              "$119.88"
+            ]
+          ]
+        },
+        "postParagraphs": [
+          "الخدمة الواحدة أرخص دائمًا من Unlimited، في السنة الأولى وعند التجديد. وللـ VPN وكلمات المرور تبيع Proton حزمة VPN x Pass Plus: في صفحة العروض تتجدد بمبلغ $107.88 في السنة، أقل من تجديد Unlimited. وعلى مدى 24 شهرًا تبلغ الحزمة $119.76 وUnlimited لسنتين $191.76. ولامتلاك بريد مدفوع مع الـ VPN، الخطة الفردية في الحساب نفسه هي Unlimited.",
+          "مع خدمتين في حسابين منفصلين، تكلّف VPN Plus وMail Plus أقل من Unlimited في السنة الأولى وأكثر عند التجديد. صفوف الخدمتين والثلاث والأربع المنفردة مجاميع منا ولا توجد إلا بحسابات منفصلة، لكلٍّ منها تسجيل دخول. ومع ذلك، ابتداءً من الخدمة الثالثة يتجاوز المجموع Unlimited في الفترتين: الأربع معًا تكلّف $41.64 أكثر في السنة الأولى و$95.64 أكثر عند التجديد.",
+          "لمن يريد الـ VPN وحده، الطريق مختلف. عبر رابط الشركاء تظهر VPN Plus لسنتين بسعر $59.76 لأول 24 شهرًا وتتجدد بمبلغ $83.88 كل 12 شهرًا. والحساب الكامل في [هل يستحق Proton VPN؟](/ar/reviews/proton-vpn-worth-it-ar)."
+        ],
+        "links": [
+          {
+            "label": "عرض خطط Proton",
+            "href": "https://go.getproton.me/SH39K",
+            "sponsored": true
+          }
+        ]
+      },
+      {
+        "heading": "دورة شهر أو سنة أو سنتين",
+        "paragraphs": [
+          "الدفع الشهري أقل مبلغ للبدء، وخطة السنة لها أقل سعر في الشهر؛ وخطة السنتين لا تتفوق عليها إلا بمبلغ $6.00 في المجموع.",
+          "لـ Unlimited ثلاث دورات في صفحة الأسعار. والمحاسبة مقدّمة في كلها، والرقم البارز (الـ«في الشهر») ليس إلا قسمة الإجمالي."
+        ],
+        "comparisonTable": {
+          "caption": "Proton Unlimited حسب الدورة، بالدولار الأمريكي. تحقق من العملة والإجمالي عند الدفع.",
+          "headers": [
+            "الدورة",
+            "في الشهر",
+            "يُحاسَب دفعة واحدة",
+            "ثم يتجدد بمبلغ"
+          ],
+          "rows": [
+            [
+              "شهر",
+              "$12.99",
+              "$12.99",
+              "$12.99 كل شهر"
+            ],
+            [
+              "سنة",
+              "$6.49",
+              "$77.88",
+              "$119.88 كل 12 شهرًا"
+            ],
+            [
+              "سنتان",
+              "$7.99",
+              "$191.76",
+              "$119.88 كل 12 شهرًا"
+            ]
+          ]
+        },
+        "postParagraphs": [
+          "دفع 12 شهرًا متتالية بالخطة الشهرية يكلّف $155.88. والسنة المحاسَبة دفعة واحدة تبلغ $77.88، لكن التجديد يرتفع $42.00 ليصبح $119.88. وخطة السنتين تكلّف $191.76؛ وسنة مع تجديد واحد تبلغ $197.76، أي $6.00 أكثر. وخطة السنتين تحبس المال مدة أطول.",
+          "التجديد تلقائي بحسب موقع Proton. دوّن تاريخ الخصم يوم الشراء. ولتجربة الـ VPN أولًا، تعلن صفحة أسعار Proton VPN عن Unlimited بسعر $1.00 للشهر الأول، ثم يتجدد بمبلغ $12.99 في الشهر."
+        ],
+        "image": {
+          "src": "/images/reviews/proton/proton-unlimited-vale-a-pena-precos-usd.webp",
+          "alt": "صفحة أسعار Proton بالإنجليزية وبالدولار الأمريكي، وبطاقة Unlimited عليها السعر $12.99 مشطوبًا و$6.49 في الشهر وخصم 50% OFF، مع محاسبة $77.88 لأول 12 شهرًا ثم تجدد بمبلغ $119.88 كل 12 شهرًا.",
+          "caption": "صفحة أسعار Proton بالدولار، 27 نوفمبر 2026."
+        }
+      },
+      {
+        "heading": "Proton Unlimited أم Duo أم Family، والحساب مدى الحياة",
+        "paragraphs": [
+          "للمشاركة مع شخص إضافي، تكلّف Duo للفرد أقل من Unlimited عند التجديد.",
+          "تظهر Duo وFamily في صفحة الخطط العائلية. تخدم Duo حتى مستخدمين اثنين، وفيها 2 تيرابايت وتكلّف $14.99 في الشهر أو $179.88 تُحاسَب كل 12 شهرًا. وتخدم Family حتى 6 أشخاص يعيشون معًا، وفيها 3 تيرابايت وتكلّف $23.99 في الشهر أو $287.88 كل 12 شهرًا.",
+          "Unlimited حساب فردي لمستخدم واحد. وتناسب Duo مشاركة الحزمة مع شخص إضافي: للفرد تبلغ $89.94 في السنة، أقل من $119.88 لـ Unlimited عند التجديد وأعلى من $77.88 في السنة الأولى (حساب منا). لم نقارن ما تقدّمه كل خدمة في Duo وFamily بما في Unlimited، بل السعر والمساحة فقط؛ تحقق من الصفحة قبل التبديل.",
+          "لا تبيع Proton خطة Unlimited مدى الحياة. وفي مقال على مدونتها عن الحساب مدى الحياة، تقول الشركة إن الحساب غير متاح للشراء ولا يخرج إلا في سحب خيري نهاية العام. أما المعروض للبيع فهو Proton Pass + SimpleLogin Lifetime بسعر $199، ويغطي Pass وSimpleLogin، لا Unlimited."
+        ]
+      },
+      {
+        "heading": "ما يُؤخذ عليها",
+        "bullets": [
+          "**التجديد أعلى بكثير.** السنة الثانية من Unlimited تكلّف نحو نصف إضافي على الأولى؛ والمبالغ في جدول الدورات.",
+          "**المحاسبة مقدّمة.** تُخصم السنة أو السنتان دفعة واحدة، والتجديد تلقائي.",
+          "**طرق الدفع محدودة.** تذكر Proton Visa وMastercard وAmerican Express وPayPal؛ أما الرصيد بالنقد أو التحويل أو Bitcoin فبعد إنشاء الحساب فقط.",
+          "**الإلغاء تخفيض للخطة.** ما يتجاوز حد الخطة الجديدة يجب حذفه؛ والتفاصيل في الأسئلة الشائعة.",
+          "**الاسترداد للشراء الأول**، خلال 30 يومًا. والطريقة في [كيف تلغي Proton VPN وتطلب الاسترداد](/ar/reviews/proton-vpn-refund-ar).",
+          "**على iPhone قد توجد رسوم إضافية.** تنبّه Proton إلى أن الاشتراك عبر iOS قد يكلّف أكثر؛ فاشترك من الموقع."
+        ]
+      },
+      {
+        "heading": "أي اختيار يناسبك",
+        "paragraphs": [
+          "القرار يعتمد على عدد الخدمات المدفوعة التي تستخدمها فعلًا:"
+        ],
+        "bullets": [
+          "**تستخدم البريد وحده والمجاني يكفيك:** ابقَ على المجاني. وهذه حالتنا.",
+          "**تريد الـ VPN وحده:** VPN Plus المنفردة تكلّف أقل من Unlimited في الفترتين. والحساب في [هل يستحق Proton VPN؟](/ar/reviews/proton-vpn-worth-it-ar). وإن كنت تقارنها بـ NordVPN فانظر [Proton VPN أم NordVPN](/ar/reviews/proton-vpn-vs-nordvpn-ar).",
+          "**تريد VPN وكلمات مرور:** قارن حزمة VPN x Pass Plus التي تتجدد بأقل من Unlimited.",
+          "**تريد بريدًا وVPN مدفوعين:** في حساب واحد هو Unlimited.",
+          "**تريد ثلاث خدمات أو أربعًا، أو 15 عنوانًا و3 نطاقات:** تجمع Unlimited كل شيء في حساب واحد وتكلّف أقل من مجموع الخطط المنفردة.",
+          "**تريد المشاركة مع شخص إضافي:** انظر Duo.",
+          "**تريد أقل سعر اليوم:** الجمعة البيضاء داخل الخطط؛ انظر [دليل الجمعة البيضاء لدى Proton](/ar/reviews/proton-black-friday-ar)."
+        ],
+        "emphasis": "في حساب واحد، لا تجمع Proton خطتي Plus. إن أردت بريدًا وVPN مدفوعين فالخيار Unlimited؛ وإن أردت خدمة واحدة فخطة Plus الخاصة بها أرخص في الفترتين.",
+        "postParagraphs": [
+          "لا يوجد كوبون ولا رمز لإدخاله: يفتح الزر صفحة خطط Proton عبر رابط الشراكة الخاص بنا. وشروط الرابط في [صفحة Proton على موقعنا](/ar/coupons/proton)."
+        ],
+        "links": [
+          {
+            "label": "الاطلاع على عرض Proton Unlimited السنوي",
+            "href": "https://go.getproton.me/SH39K",
+            "sponsored": true
+          }
+        ]
+      },
+      {
+        "heading": "الأسئلة الشائعة",
+        "bullets": [
+          "هل يمكن الاشتراك في VPN Plus وMail Plus في الحساب نفسه؟ لا. تقول Proton إن الحساب لا يمكن أن يحوي خطتي Plus؛ ولامتلاك الاثنتين مدفوعتين فالطريق هو Unlimited، الذي يشمل الـ VPN المدفوعة بما يصل إلى 10 أجهزة.",
+          "هل يوجد كوبون خصم لـ Proton Unlimited؟ لا يوجد كوبون. يظهر الخصم مباشرة في سعر الخطة، محسوبًا على السعر الشهري، ومبلغ التجديد بجانبه.",
+          "هل يوجد Proton Unlimited مدى الحياة؟ تقول Proton إنها لا تبيعه. والحساب مدى الحياة لا يخرج إلا في السحب الخيري نهاية العام، وخطة Lifetime المعروضة للبيع تخص Pass وSimpleLogin فقط.",
+          "ماذا يحدث لملفاتي إذا ألغيت؟ بحسب الأسئلة الشائعة لدى Proton، الإلغاء هو تخفيض للخطة من لوحة التحكم. تحتفظ بالوصول، لكن عليك حذف ما يتجاوز حد الخطة الجديدة؛ ومع امتلاء الحد لا يستقبل الحساب بريدًا ولا يرفع ملفات.",
+          "كيف يعمل الاسترداد خلال 30 يومًا؟ بحسب الشروط، يسري على الشراء الأول، مرة لكل مستخدم، ويجب أن يتم الطلب والإلغاء كلاهما داخل المدة؛ ويُقدَّم الطلب عبر نموذج الدعم ولا يسري إلا على اشتراك تم مباشرة مع Proton."
+        ]
+      }
+    ],
+    "pros": [],
+    "cons": [],
+    "cta": {
+      "text": "عبر رابطنا، يبلغ سعر Unlimited السنوي $77.88 في السنة الأولى ثم يتجدد بمبلغ $119.88 كل 12 شهرًا. المحاسبة مقدّمة والتجديد تلقائي؛ تحقق من العملة والإجمالي عند الدفع.",
+      "label": "الاطلاع على عرض Proton Unlimited السنوي",
+      "url": "https://go.getproton.me/SH39K",
+      "sponsored": true
+    },
+    "affiliate": "proton",
+    "editorialNote": "كُتب من صفحات خطط Proton وشروطها، دون اختبار عملي للخطط المدفوعة. نستخدم Proton Mail المجاني منذ نحو عشر سنوات. الرابط رابط تسويق بالعمولة وقد نحصل منه على عمولة.",
+    "relatedArticles": [
+      {
+        "slug": "proton-vpn-worth-it-ar"
+      },
+      {
+        "slug": "proton-black-friday-ar"
+      },
+      {
+        "slug": "proton-vpn-refund-ar"
+      },
+      {
+        "slug": "proton-vpn-trust-ar"
+      }
+    ],
+    "decision": {
+      "takeIf": [
+        "تريد بريدًا مدفوعًا وVPN مدفوعة في الحساب نفسه: من بين الخطط الفردية، Unlimited وحدها تجمع الاثنين.",
+        "تستخدم، أو ستستخدم، ثلاث خدمات أو أربعًا مدفوعة من Proton، أو تحتاج إلى عدة عناوين ونطاقات خاصة."
+      ],
+      "skipIf": [
+        "تريد الـ VPN وحده، أو VPN وكلمات مرور: VPN Plus وحزمة VPN x Pass Plus أرخص.",
+        "خطة Mail المجانية تغطي استخدامك، أو مبلغ التجديد لا يناسب ميزانيتك."
+      ]
+    }
+  },
+  {
+    "id": 1494,
+    "slug": "proton-vpn-ou-nordvpn",
+    "locale": "pt",
+    "translationKey": "proton-vpn-ou-nordvpn",
+    "title": "Proton VPN ou NordVPN: plano grátis, preço com renovação e qual escolher",
+    "seoTitle": "Proton VPN ou NordVPN: preço, renovação e diferenças",
+    "type": "Comparativo",
+    "category": "guias-praticos-utilidade",
+    "reviewKind": "guia",
+    "author": {
+      "name": "Cecília Mauad",
+      "slug": "cecilia-mauad",
+      "role": "Em Casa com Cecília",
+      "initials": "CM",
+      "url": "/sobre"
+    },
+    "description": "Teste grátis, total pago e meses cobertos, renovação anual, jurisdição e auditorias: o que a Proton VPN e a NordVPN informam e para quem cada uma serve.",
+    "metaDescription": "Proton VPN ou NordVPN? Compare plano grátis, total à vista, renovação anual, jurisdição e reembolso de 30 dias antes de assinar.",
+    "publishedAt": "27 de novembro de 2026",
+    "publishedAtISO": "2026-11-27",
+    "updatedAt": "2026-11-27",
+    "draft": false,
+    "isNew": true,
+    "image": "/images/reviews/proton/proton-vpn-ou-nordvpn-hero-pt.webp",
+    "imageAlt": "Ilustração oficial da Proton VPN com computador, celular, tablet e um interruptor de cadeado ligado. A capa pergunta “Proton VPN ou NordVPN?”.",
+    "imageFit": "contain",
+    "imageAspect": "landscape",
+    "contentSections": [
+      {
+        "heading": "Resposta rápida",
+        "paragraphs": [
+          "A Proton VPN serve a quem quer testar sem pagar e a quem quer o menor preço no plano só de VPN: pelo nosso link, o de 2 anos sai por R$ 210,96, contra R$ 267,30 da NordVPN por 27 meses, e renova por menos. A NordVPN leva vantagem nos três meses extras e nos planos com antivírus e nuvem."
+        ]
+      },
+      {
+        "heading": "Plano grátis e teste: o que cada uma oferece",
+        "paragraphs": [
+          "A Proton VPN tem plano grátis de verdade. Segundo a página de preços, ele não pede cartão, liga 1 dispositivo por vez e usa servidores de 10 países, escolhidos pelo aplicativo. A Proton diz que não há limite de dados. Quem quer só proteger o celular em um Wi-Fi público consegue usar sem gastar. O que o grátis deixa de fora está em [Proton VPN vale a pena?](/reviews/proton-vpn-vale-a-pena).",
+          "A NordVPN não oferece plano grátis nas páginas dela. Ela tem um teste de 7 dias, descrito na central de ajuda, mas só para novos clientes, nos planos de 1 e de 2 anos, com cartão ou PayPal, e só em 15 países. O Brasil não está na lista. No Android, a central fala em um teste de 3 dias pela Google Play.",
+          "Na prática, quem está no Brasil tem o plano grátis da Proton, sem prazo. Na NordVPN, resta o teste de 3 dias no Android, pela Google Play, ou pagar e usar o reembolso de 30 dias."
+        ]
+      },
+      {
+        "heading": "Preço à vista, meses cobertos e renovação",
+        "paragraphs": [
+          "O valor \"por mês\" das duas páginas esconde dois detalhes: a cobrança é do período inteiro, de uma vez, e o plano renova por ano depois. Por isso a tabela mostra o total pago, os meses cobertos e a renovação. A coluna \"por mês efetivo\" é conta nossa, o total dividido pelos meses cobertos. O par é o VPN Plus, da Proton, e o Básico, da NordVPN, que é só a VPN.",
+          "São preços de Black Friday, e a NordVPN os chama de \"preços de introdução\". A Proton calcula o desconto sobre o plano mensal de R$ 34,99. A NordVPN mostra riscados R$ 861,30 no plano de 2 anos e R$ 478,50 no de 1 ano. A página de preços da NordVPN no Brasil não traz plano mensal."
+        ],
+        "comparisonTable": {
+          "caption": "VPN Plus (Proton) e Básico (NordVPN) nas páginas de preços em reais, em 26/11/2026. Confira a moeda e o total no checkout.",
+          "headers": [
+            "Plano",
+            "Total pago de uma vez",
+            "Meses cobertos",
+            "Por mês efetivo",
+            "Renovação anual"
+          ],
+          "rows": [
+            [
+              "Proton VPN Plus, mensal",
+              "R$ 34,99",
+              "1",
+              "R$ 34,99",
+              "R$ 34,99 todo mês"
+            ],
+            [
+              "Proton VPN Plus, 1 ano",
+              "R$ 125,88",
+              "12",
+              "R$ 10,49",
+              "R$ 293,88"
+            ],
+            [
+              "Proton VPN Plus, 2 anos pelo nosso link",
+              "R$ 210,96",
+              "24",
+              "R$ 8,79",
+              "R$ 293,88"
+            ],
+            [
+              "Proton VPN Plus, 2 anos, página pública",
+              "R$ 294,96",
+              "24",
+              "R$ 12,29",
+              "R$ 293,88"
+            ],
+            [
+              "NordVPN Básico, 1 ano",
+              "R$ 238,50",
+              "15",
+              "R$ 15,90",
+              "R$ 382,80"
+            ],
+            [
+              "NordVPN Básico, 2 anos",
+              "R$ 267,30",
+              "27",
+              "R$ 9,90",
+              "R$ 382,80"
+            ]
+          ]
+        },
+        "postParagraphs": [
+          "No plano de 2 anos, a NordVPN cobra R$ 56,34 a mais que a Proton pelo nosso link, mas cobre 3 meses a mais. No de 1 ano, a diferença é de R$ 112,62, também com 3 meses extras para a NordVPN. Esses meses extras são uma vantagem real dela, e entram na coluna do valor por mês. Mesmo assim, pelo nosso link, o VPN Plus sai mais barato por mês nos dois prazos.",
+          "A renovação pesa mais. Depois do primeiro período, a Proton anuncia R$ 293,88 por 12 meses, o equivalente a R$ 24,49 por mês, e a NordVPN, R$ 382,80 por 12 meses, ou R$ 31,90 por mês. São R$ 88,92 de diferença por ano, pelos valores anunciados. O preço pode mudar até lá, e as duas páginas já anunciam o valor da renovação.",
+          "Os R$ 210,96 da tabela vêm da página de parceiros da Proton, a que o nosso botão abre: são R$ 84,00 a menos que os R$ 294,96 do mesmo plano de 2 anos na página pública dela, com a mesma renovação anunciada, de R$ 293,88 por ano. Pelos preços da página pública, o de 2 anos da NordVPN sairia mais barato, e o de 1 ano da Proton continuaria abaixo. Mais sobre as ofertas da campanha em [Black Friday da Proton](/reviews/black-friday-proton)."
+        ],
+        "image": {
+          "src": "/images/reviews/proton/proton-vpn-ou-nordvpn-precos-brl.webp",
+          "alt": "Cartão do VPN Plus de 2 anos na página de ofertas de parceiros da Proton VPN, a R$ 8,79 por mês, R$ 210,96 pelos primeiros 24 meses e renovação por R$ 293,88 a cada 12 meses.",
+          "caption": "O VPN Plus de 2 anos na página de parceiros da Proton, a que o nosso botão abre: o total cobre 24 meses, e a renovação passa a ser anual."
+        },
+        "links": [
+          {
+            "label": "Ver o VPN Plus",
+            "href": "https://go.getproton.me/SH39K",
+            "sponsored": true
+          }
+        ]
+      },
+      {
+        "heading": "Recursos lado a lado",
+        "paragraphs": [
+          "No plano só de VPN, a Proton inclui o bloqueio de anúncios e o port forwarding; na NordVPN, os dois ficam em plano ou adicional acima do Básico. A tabela traz só o que as páginas oficiais das duas dizem. Onde falta dado de uma delas, a linha ficou de fora."
+        ],
+        "comparisonTable": {
+          "caption": "VPN Plus (Proton) e Básico (NordVPN), segundo cada empresa.",
+          "headers": [
+            "Item",
+            "Proton VPN Plus",
+            "NordVPN Básico"
+          ],
+          "rows": [
+            [
+              "Aparelhos ao mesmo tempo",
+              "Até 10",
+              "Até 10"
+            ],
+            [
+              "Plano grátis",
+              "Sim: 1 aparelho, 10 países, sem cartão",
+              "Não informado"
+            ],
+            [
+              "Teste grátis",
+              "Não se aplica",
+              "3 dias no Android, pela Google Play; o de 7 dias não vale no Brasil"
+            ],
+            [
+              "Bloqueio de anúncios e rastreadores",
+              "NetShield, incluído no Plus",
+              "Listado a partir do plano Completo"
+            ],
+            [
+              "Port forwarding",
+              "Incluído nos planos pagos, em Windows, macOS e Linux",
+              "Só com o adicional pago Dedicated Server"
+            ],
+            [
+              "Reembolso",
+              "30 dias, uma vez por usuário, assinatura direta com a Proton",
+              "30 dias para quem compra pela primeira vez"
+            ],
+            [
+              "Sede da empresa",
+              "Suíça",
+              "Panamá, segundo a NordVPN"
+            ],
+            [
+              "Auditoria da política sem registros",
+              "Securitum, todo ano de 2022 a 2026, com relatório publicado",
+              "Seis análises independentes, de acordo com a NordVPN"
+            ]
+          ]
+        },
+        "postParagraphs": [
+          "A Proton lista o Secure Core no Plus. A NordVPN lista a VPN dupla (Double VPN), o DNS privado e o split tunneling na página de recursos; confira em qual plano cada um entra antes de assinar.",
+          "Em P2P, a página da Proton lista o recurso no Plus. Sobre port forwarding na NordVPN, a central de ajuda diz que só funciona com o adicional pago \"Dedicated Server\"; os servidores comuns e o IP dedicado não fazem. A página não mostra o preço do adicional. Na Proton, a central de ajuda inclui o port forwarding em todos os planos pagos, nos aplicativos de Windows, macOS e Linux; Android e iPhone não aparecem na lista.",
+          "Velocidade e streaming ficaram de fora: promessa de empresa não substitui um teste no seu provedor, e os 30 dias de reembolso servem para isso."
+        ]
+      },
+      {
+        "heading": "Jurisdição, auditorias e código aberto",
+        "paragraphs": [
+          "As duas declaram política sem registros auditada por terceiros; a diferença está na sede e no que cada uma publica.",
+          "A Proton VPN é operada pela Proton AG, com sede na Suíça. A política de não guardar registros é auditada pela Securitum, e a Proton publica os relatórios de 2022 a 2026. O código dos aplicativos está aberto no GitHub. Os detalhes, com o que cada relatório cobre, estão em [Proton VPN é confiável?](/reviews/proton-vpn-e-confiavel).",
+          "A NordVPN diz estar sediada no Panamá e afirma ter passado por seis análises independentes da política sem registros, as duas primeiras pela PwC Suíça e as seguintes pela Deloitte, inclusive em 2023, 2024 e 2025. São informações da própria página dela.",
+          "Uma auditoria é um retrato dos servidores examinados naqueles dias. Ela mostra que a empresa passou por conferência externa, e não garante o que acontece depois. Nenhuma das duas torna a navegação anônima: quem entra numa conta continua identificado por ela."
+        ]
+      },
+      {
+        "heading": "Pagamento, cancelamento e reembolso",
+        "paragraphs": [
+          "A Proton aceita Visa, Mastercard, American Express e PayPal, e Bitcoin só por créditos depois de criar a conta. A NordVPN mostra as bandeiras Mastercard, Visa, Amex e Discover, e o título da página cita \"cartão, cripto ou PayPal\". Pix não aparece em nenhuma das duas.",
+          "As duas dão 30 dias de reembolso, com regras diferentes. Nos termos da Proton, vale uma vez por usuário e só para assinatura feita direto com ela. A NordVPN fala em 30 dias para quem compra pela primeira vez, com pedido pelo suporte; compra pela App Store segue a política da Apple. O passo a passo da Proton está em [como cancelar o Proton VPN e pedir o reembolso](/reviews/proton-vpn-reembolso-como-cancelar)."
+        ]
+      },
+      {
+        "heading": "Quando o pacote completo pesa",
+        "paragraphs": [
+          "Aqui a NordVPN tem um argumento forte. O plano Completo soma à VPN o antivírus, o bloqueio de anúncios e rastreadores, o monitoramento de dados, a proteção de chamadas, um gerenciador de senhas e 1 TB de nuvem. Custa R$ 348,30 por 27 meses e renova por R$ 586,80 ao ano. O Completo Max, de R$ 510,30 por 27 meses e renovação de R$ 934,80, soma o IP dedicado.",
+          "A Proton responde a isso com o Unlimited, que junta VPN, e-mail, nuvem de 500 GB e gerenciador de senhas. Na renovação anual, o Unlimited fica abaixo do Completo, mas os pacotes não são iguais: o da Proton é de e-mail, nuvem e senhas, e o da NordVPN inclui antivírus. Os períodos também diferem (27 meses contra 12), e por isso não pomos os dois numa mesma linha de preço. Se o pacote é o que interessa, leia [Proton Unlimited vale a pena?](/reviews/proton-unlimited-vale-a-pena) e veja a [página da Proton no nosso site](/cupons/proton) antes de decidir."
+        ]
+      },
+      {
+        "heading": "Qual escolher",
+        "paragraphs": [
+          "Fique com a Proton VPN se quer começar de graça, pagar menos na renovação ou usar port forwarding no computador sem pagar adicional, com apps de código aberto e política de registros auditada todo ano. Fique com a NordVPN se quer antivírus, monitoramento e nuvem no mesmo plano, ou se os 3 meses extras de cobertura pesam mais que a renovação.",
+          "Anote a data da renovação no dia da compra, seja qual for a escolha."
+        ],
+        "emphasis": "Olhe o total pago, os meses cobertos e a renovação, não o valor por mês: a NordVPN cobre 3 meses a mais, e a Proton renova por R$ 88,92 a menos por ano.",
+        "links": [
+          {
+            "label": "Ver o VPN Plus",
+            "href": "https://go.getproton.me/SH39K",
+            "sponsored": true
+          }
+        ]
+      },
+      {
+        "heading": "Perguntas frequentes",
+        "bullets": [
+          "Qual é mais barato em 2 anos: Proton VPN ou NordVPN? Pelo nosso link, o plano de 2 anos da Proton custa menos no total e por mês; o da NordVPN cobre 3 meses a mais. Na renovação, a Proton também anuncia o valor menor. Os números estão na tabela de preços.",
+          "A NordVPN tem plano grátis como o Proton VPN? Não: o teste de 7 dias não vale no Brasil e só o Android tem 3 dias, pela Google Play, enquanto a Proton tem plano grátis sem cartão.",
+          "Qual dos dois tem port forwarding? A Proton inclui o recurso em todos os planos pagos, nos aplicativos de Windows, macOS e Linux; na NordVPN, só com o adicional Dedicated Server.",
+          "Preciso de cupom para pegar o desconto do Proton VPN? Não. A Proton não usa código: o desconto já aparece no preço, e o nosso link abre a oferta de parceiros da página dela. As regras estão na [página da Proton no nosso site](/cupons/proton).",
+          "Dá para pedir o dinheiro de volta nas duas? Sim, em até 30 dias, com regras próprias: a Proton reembolsa uma vez por usuário, e a NordVPN, quem compra pela primeira vez."
+        ]
+      }
+    ],
+    "pros": [],
+    "cons": [],
+    "cta": {
+      "text": "Para usar o VPN Plus por dois anos, o nosso link abre a oferta de parceiros da Proton, com cobrança antecipada dos 24 meses. Depois, a renovação anunciada é anual, sujeita ao preço vigente. Confira a moeda e o total no checkout.",
+      "label": "Ver o VPN Plus pelo link",
+      "url": "https://go.getproton.me/SH39K",
+      "sponsored": true
+    },
+    "affiliate": "proton",
+    "editorialNote": "Feito com as páginas de planos e de ajuda das duas empresas, sem teste de velocidade. O link da Proton é de afiliado e pode gerar comissão.",
+    "relatedArticles": [
+      {
+        "slug": "proton-vpn-vale-a-pena"
+      },
+      {
+        "slug": "proton-vpn-e-confiavel"
+      },
+      {
+        "slug": "proton-vpn-reembolso-como-cancelar"
+      },
+      {
+        "slug": "black-friday-proton"
+      }
+    ],
+    "decision": {
+      "takeIf": [
+        "você quer começar pelo plano grátis, pagar menos na entrada e na renovação ou usar port forwarding no computador sem pagar adicional.",
+        "você só precisa da VPN e quer o plano que renova pelo valor menor."
+      ],
+      "skipIf": [
+        "você quer antivírus, monitoramento de dados e nuvem no mesmo plano da VPN, como no Completo da NordVPN.",
+        "os 3 meses extras de cobertura dos planos da NordVPN pesam mais para você que a renovação."
+      ]
+    }
+  },
+  {
+    "id": 1506,
+    "slug": "proton-vpn-vs-nordvpn",
+    "locale": "en",
+    "translationKey": "proton-vpn-ou-nordvpn",
+    "title": "Proton VPN or NordVPN: free plan, price with renewal and which to pick",
+    "seoTitle": "Proton VPN or NordVPN: price, renewal and differences",
+    "type": "Comparison Guide",
+    "category": "guias-praticos-utilidade",
+    "reviewKind": "guia",
+    "author": {
+      "name": "Cecília Mauad",
+      "slug": "cecilia-mauad",
+      "role": "Em Casa com Cecília",
+      "initials": "CM",
+      "url": "/sobre"
+    },
+    "description": "Free trial, total paid and months covered, annual renewal, jurisdiction and audits: what Proton VPN and NordVPN say about themselves and who each one suits.",
+    "metaDescription": "Proton VPN or NordVPN? Compare free plan, upfront total, annual renewal, jurisdiction and the 30-day refund before you subscribe.",
+    "publishedAt": "November 27, 2026",
+    "publishedAtISO": "2026-11-27",
+    "updatedAt": "2026-11-27",
+    "draft": false,
+    "isNew": true,
+    "hideFromPortugueseListings": true,
+    "image": "/images/reviews/proton/proton-vpn-ou-nordvpn-hero-en.webp",
+    "imageAlt": "Official Proton VPN illustration with a computer, phone, tablet and a switched-on lock toggle. The cover asks “Proton VPN or NordVPN?”.",
+    "imageFit": "contain",
+    "imageAspect": "landscape",
+    "contentSections": [
+      {
+        "heading": "Quick answer",
+        "paragraphs": [
+          "Proton VPN suits people who want to try for free and pay the least on a VPN-only plan: through our link, 2 years cost $59.76, against $80.73 for NordVPN’s 27 months, and it renews for less. NordVPN wins on the three extra months and on plans with antivirus and cloud storage."
+        ]
+      },
+      {
+        "heading": "Free plan and trial: what each one offers",
+        "paragraphs": [
+          "Proton VPN has a real free plan. According to its pricing page, it needs no card, connects 1 device at a time and uses servers in 10 countries, chosen by the app. Proton says there is no data limit. Anyone who just wants to protect a phone on public Wi-Fi can use it at no cost. What the free plan leaves out is in [Is Proton VPN worth it?](/en/reviews/is-proton-vpn-worth-it).",
+          "NordVPN has no free plan on its pages. It has a 7-day trial, described in its help center, but only for new customers, on 1- and 2-year plans, with card or PayPal, and only in 15 countries; check whether yours is on the list. On Android, the help center mentions a 3-day trial through Google Play.",
+          "In practice, Proton’s free plan has no time limit. With NordVPN, what is left is the 7-day trial if your country is on the list, the 3-day Android trial through Google Play, or paying and using the 30-day refund."
+        ]
+      },
+      {
+        "heading": "Upfront price, months covered and renewal",
+        "paragraphs": [
+          "The “per month” figure on both pages hides two details: the charge covers the whole period, in one go, and the plan then renews yearly. So the table shows the total paid, the months covered and the renewal. The “effective per month” column is our own calculation, the total divided by the months covered. The pair is VPN Plus from Proton and Basic from NordVPN, which is VPN only.",
+          "These are Black Friday prices, and NordVPN calls them “intro prices”. Proton calculates its discount against the $9.99 monthly plan. NordVPN’s dollar figures come from published reports that read its US page during Black Friday (through December 9, according to them), before tax; one report lists Basic at $3.49 a month, which is the pre-sale list price. Check the total in your currency at checkout."
+        ],
+        "comparisonTable": {
+          "caption": "VPN Plus (Proton) and Basic (NordVPN). Proton from its pricing pages in US dollars, read on November 27, 2026; NordVPN from reports on its US page. Check currency and total at checkout.",
+          "headers": [
+            "Plan",
+            "Total paid upfront",
+            "Months covered",
+            "Effective per month",
+            "Annual renewal"
+          ],
+          "rows": [
+            [
+              "Proton VPN Plus, monthly",
+              "$9.99",
+              "1",
+              "$9.99",
+              "$9.99 every month"
+            ],
+            [
+              "Proton VPN Plus, 1 year",
+              "$35.88",
+              "12",
+              "$2.99",
+              "$83.88"
+            ],
+            [
+              "Proton VPN Plus, 2 years through our link",
+              "$59.76",
+              "24",
+              "$2.49",
+              "$83.88"
+            ],
+            [
+              "Proton VPN Plus, 2 years, public page",
+              "$83.76",
+              "24",
+              "$3.49",
+              "$83.88"
+            ],
+            [
+              "NordVPN Basic, 2 years",
+              "$80.73",
+              "27",
+              "$2.99",
+              "$139.08"
+            ]
+          ]
+        },
+        "postParagraphs": [
+          "On the 2-year plan, NordVPN’s Basic charges $20.97 more than Proton through our link, but covers 3 more months. Those extra months are a real advantage and they are counted in the per-month column. Even so, through our link, VPN Plus is cheaper per month ($2.49 against $2.99). NordVPN’s 1-year plan advertises $4.99 a month with 3 extra months, but we could not confirm its total, so it is not in the table.",
+          "Renewal weighs more. After the first period, Proton advertises $83.88 for 12 months, the equivalent of $6.99 a month, and NordVPN $139.08 for 12 months, or $11.59 a month. That is $55.20 a year of difference, at the advertised prices. Prices can change by then, and both pages already announce the renewal value.",
+          "The $59.76 in the table comes from Proton's partner page, the one our button opens: that is $24.00 less than the $83.76 for the same 2-year plan on its public page, with the same advertised renewal of $83.88 a year. At the public page's prices, NordVPN's 2-year plan would come out cheaper ($80.73), and Proton's 1-year plan ($35.88) would still be the lowest total in the table. More on the campaign offers in [Proton Black Friday](/en/reviews/proton-black-friday)."
+        ],
+        "image": {
+          "src": "/images/reviews/proton/proton-vpn-ou-nordvpn-precos-usd.webp",
+          "alt": "Card for the 2-year VPN Plus on Proton VPN's partner offers page, at $2.49 a month, $59.76 for the first 24 months and renewing at $83.88 every 12 months.",
+          "caption": "The 2-year VPN Plus on Proton's partner page, the one our button opens, on November 27, 2026: the total covers 24 months, and renewal becomes annual."
+        },
+        "links": [
+          {
+            "label": "See VPN Plus",
+            "href": "https://go.getproton.me/SH39K",
+            "sponsored": true
+          }
+        ]
+      },
+      {
+        "heading": "Features side by side",
+        "paragraphs": [
+          "On the VPN-only plan, Proton includes ad blocking and port forwarding; at NordVPN, both come on a plan or add-on above Basic. The table has only what each company’s official pages say. Where one of them has no data, the row was left out."
+        ],
+        "comparisonTable": {
+          "caption": "VPN Plus (Proton) and Basic (NordVPN), according to each company.",
+          "headers": [
+            "Item",
+            "Proton VPN Plus",
+            "NordVPN Basic"
+          ],
+          "rows": [
+            [
+              "Devices at the same time",
+              "Up to 10",
+              "Up to 10"
+            ],
+            [
+              "Free plan",
+              "Yes: 1 device, 10 countries, no card",
+              "Not stated"
+            ],
+            [
+              "Free trial",
+              "Not applicable",
+              "3 days on Android, through Google Play; the 7-day trial only in 15 countries, so check yours"
+            ],
+            [
+              "Ad and tracker blocking",
+              "NetShield, included in Plus",
+              "Listed from the Complete plan"
+            ],
+            [
+              "Port forwarding",
+              "Included in paid plans, on Windows, macOS and Linux",
+              "Only with the paid Dedicated Server add-on"
+            ],
+            [
+              "Refund",
+              "30 days, once per user, subscription made directly with Proton",
+              "30 days for first-time buyers"
+            ],
+            [
+              "Company headquarters",
+              "Switzerland",
+              "Panama, according to NordVPN"
+            ],
+            [
+              "No-logs policy audit",
+              "Securitum, every year from 2022 to 2026, report published",
+              "Six independent reviews, according to NordVPN"
+            ]
+          ]
+        },
+        "postParagraphs": [
+          "Proton lists Secure Core in Plus. NordVPN lists Double VPN, private DNS and split tunneling on its features page; check which plan each one comes with before subscribing.",
+          "For P2P, Proton’s page lists the feature in Plus. On NordVPN port forwarding, the help center says it only works with the paid “Dedicated Server” add-on; regular servers and the dedicated IP do not do it. The page does not show the add-on’s price. At Proton, the help center includes port forwarding on all paid plans, in the Windows, macOS and Linux apps; Android and iPhone are not on the list.",
+          "Speed and streaming were left out: a company’s promise is no substitute for a test on your own provider, and the 30-day refund exists for that."
+        ]
+      },
+      {
+        "heading": "Jurisdiction, audits and open source",
+        "paragraphs": [
+          "Both claim an independently audited no-logs policy; the difference is in where they are based and what each publishes.",
+          "Proton VPN is run by Proton AG, based in Switzerland. The no-logs policy is audited by Securitum, and Proton publishes the reports from 2022 to 2026. The apps’ code is open on GitHub. The details, with what each report covers, are in [Is Proton VPN safe?](/en/reviews/is-proton-vpn-safe).",
+          "NordVPN says it is based in Panama and claims six independent reviews of its no-logs policy, the first two by PwC Switzerland and the following ones by Deloitte, including in 2023, 2024 and 2025. This is information from its own page.",
+          "An audit is a snapshot of the servers examined on those days. It shows the company went through outside checking and does not guarantee what happens afterwards. Neither makes browsing anonymous: if you log in to an account, that account still identifies you."
+        ]
+      },
+      {
+        "heading": "Payment, cancellation and refund",
+        "paragraphs": [
+          "Proton accepts Visa, Mastercard, American Express and PayPal, and Bitcoin only as credits after you create the account. NordVPN shows the Mastercard, Visa, Amex and Discover logos, and its page title mentions “card, crypto or PayPal”.",
+          "Both give 30 days of refund, under different rules. Under Proton’s terms, it applies once per user and only to a subscription made directly with it. NordVPN speaks of 30 days for first-time buyers, requested through support; purchases through the App Store follow Apple’s policy. Proton’s step by step is in [how to cancel Proton VPN and ask for a refund](/en/reviews/proton-vpn-refund-how-to-cancel)."
+        ]
+      },
+      {
+        "heading": "When the full bundle matters",
+        "paragraphs": [
+          "Here NordVPN has a strong argument. The Complete plan adds to the VPN an antivirus, ad and tracker blocking, data monitoring, call protection, a password manager and 1 TB of cloud storage. It costs $107.73 for 27 months and renews at $219.48 a year. The top plan, Prime, costs $188.73 for 27 months and renews at $296.28.",
+          "Proton answers with Unlimited, which combines VPN, email, 500 GB of cloud storage and a password manager. On annual renewal, Unlimited ($119.88) comes out below Complete ($219.48), but the bundles are not equal: Proton’s is email, cloud and passwords, and NordVPN’s includes antivirus. The periods also differ (27 months against 12), so we do not put them on one price line. If the bundle is what matters, read [Is Proton Unlimited worth it?](/en/reviews/is-proton-unlimited-worth-it) and see [Proton’s page on our site](/en/coupons/proton) before deciding."
+        ]
+      },
+      {
+        "heading": "Which one to pick",
+        "paragraphs": [
+          "Pick Proton VPN if you want to start for free, pay less on renewal or use port forwarding on a computer without an add-on, with open-source apps and a no-logs policy audited every year. Pick NordVPN if you want antivirus, monitoring and cloud storage in the same plan, or if the 3 extra months of coverage matter more to you than the renewal.",
+          "Note the renewal date on the day you buy, whichever you choose."
+        ],
+        "emphasis": "Look at the total paid, the months covered and the renewal, not the per-month figure: NordVPN covers 3 more months, and Proton renews for $55.20 less a year.",
+        "links": [
+          {
+            "label": "See VPN Plus",
+            "href": "https://go.getproton.me/SH39K",
+            "sponsored": true
+          }
+        ]
+      },
+      {
+        "heading": "Frequently asked questions",
+        "bullets": [
+          "Which is cheaper over 2 years: Proton VPN or NordVPN? Through our link, Proton’s 2-year plan costs less in total and per month; NordVPN’s covers 3 more months. On renewal, Proton also advertises the lower value. The numbers are in the price table.",
+          "Does NordVPN have a free plan like Proton VPN? No: it has a 7-day trial only in some countries and, on Android, 3 days through Google Play, while Proton has a free plan with no card.",
+          "Which of the two has port forwarding? Proton includes it on all paid plans, in the Windows, macOS and Linux apps; NordVPN only with the Dedicated Server add-on.",
+          "Do I need a coupon to get Proton VPN’s discount? No. Proton does not use a code: the discount already shows in the price, and our link opens the partner offer on its page. The rules are on [Proton’s page on our site](/en/coupons/proton).",
+          "Can I get my money back from both? Yes, within 30 days, with their own rules: Proton refunds once per user, and NordVPN first-time buyers."
+        ]
+      }
+    ],
+    "pros": [],
+    "cons": [],
+    "cta": {
+      "text": "To use VPN Plus for two years, our link opens Proton’s partner offer, with the 24 months billed upfront. After that, the advertised renewal is annual, subject to the price in force. Check currency and total at checkout.",
+      "label": "See VPN Plus through the link",
+      "url": "https://go.getproton.me/SH39K",
+      "sponsored": true
+    },
+    "affiliate": "proton",
+    "editorialNote": "Made from both companies’ plan and help pages, with no speed test. Proton’s link is an affiliate link and may earn a commission.",
+    "relatedArticles": [
+      {
+        "slug": "is-proton-vpn-worth-it"
+      },
+      {
+        "slug": "is-proton-vpn-safe"
+      },
+      {
+        "slug": "proton-vpn-refund-how-to-cancel"
+      },
+      {
+        "slug": "proton-black-friday"
+      }
+    ],
+    "decision": {
+      "takeIf": [
+        "you want to start with the free plan, pay less at the start and on renewal or use port forwarding on a computer without an add-on.",
+        "you only need the VPN and want the plan that renews at the lower price."
+      ],
+      "skipIf": [
+        "you want antivirus, data monitoring and cloud storage in the same plan as the VPN, as in NordVPN’s Complete.",
+        "the 3 extra months of coverage on NordVPN’s plans matter more to you than the renewal."
+      ]
+    }
+  },
+  {
+    "id": 1507,
+    "slug": "proton-vpn-o-nordvpn",
+    "locale": "es",
+    "translationKey": "proton-vpn-ou-nordvpn",
+    "title": "Proton VPN o NordVPN: plan gratuito, precio con renovación y cuál elegir",
+    "seoTitle": "Proton VPN o NordVPN: precio, renovación y diferencias",
+    "type": "Guía comparativa",
+    "category": "guias-praticos-utilidade",
+    "reviewKind": "guia",
+    "author": {
+      "name": "Cecília Mauad",
+      "slug": "cecilia-mauad",
+      "role": "Em Casa com Cecília",
+      "initials": "CM",
+      "url": "/sobre"
+    },
+    "description": "Prueba gratuita, total pagado y meses cubiertos, renovación anual, jurisdicción y auditorías: lo que Proton VPN y NordVPN informan y para quién sirve cada una.",
+    "metaDescription": "¿Proton VPN o NordVPN? Compara plan gratuito, total por adelantado, renovación anual, jurisdicción y reembolso de 30 días antes de suscribirte.",
+    "publishedAt": "27 de noviembre de 2026",
+    "publishedAtISO": "2026-11-27",
+    "updatedAt": "2026-11-27",
+    "draft": false,
+    "isNew": true,
+    "hideFromPortugueseListings": true,
+    "image": "/images/reviews/proton/proton-vpn-ou-nordvpn-hero-es.webp",
+    "imageAlt": "Ilustración oficial de Proton VPN con computadora, celular, tableta y un interruptor de candado encendido. La portada pregunta «¿Proton VPN o NordVPN?».",
+    "imageFit": "contain",
+    "imageAspect": "landscape",
+    "contentSections": [
+      {
+        "heading": "Respuesta rápida",
+        "paragraphs": [
+          "Proton VPN sirve a quien quiere probar gratis y pagar lo mínimo en un plan solo de VPN: con nuestro enlace, 2 años cuestan $59.76, frente a $80.73 de NordVPN por 27 meses, y renueva por menos. NordVPN gana en los tres meses extra y en los planes con antivirus y almacenamiento en la nube."
+        ]
+      },
+      {
+        "heading": "Plan gratuito y prueba: qué ofrece cada una",
+        "paragraphs": [
+          "Proton VPN tiene un plan gratuito de verdad. Según su página de precios, no pide tarjeta, conecta 1 dispositivo a la vez y usa servidores de 10 países, elegidos por la app. Proton dice que no hay límite de datos. Quien solo quiere proteger el móvil en una wifi pública puede usarlo sin gastar. Lo que el plan gratuito deja fuera está en [¿Vale la pena Proton VPN?](/es/reviews/proton-vpn-vale-la-pena).",
+          "NordVPN no ofrece plan gratuito en sus páginas. Tiene una prueba de 7 días, descrita en su centro de ayuda, pero solo para clientes nuevos, en los planes de 1 y 2 años, con tarjeta o PayPal, y solo en 15 países; comprueba si el tuyo está en la lista. En Android, el centro de ayuda menciona una prueba de 3 días a través de Google Play.",
+          "En la práctica, el plan gratuito de Proton no tiene plazo. Con NordVPN quedan la prueba de 7 días si tu país está en la lista, la prueba de 3 días en Android por Google Play, o pagar y usar el reembolso de 30 días."
+        ]
+      },
+      {
+        "heading": "Precio por adelantado, meses cubiertos y renovación",
+        "paragraphs": [
+          "El valor «por mes» de las dos páginas esconde dos detalles: el cobro es del período entero, de una vez, y el plan renueva cada año después. Por eso la tabla muestra el total pagado, los meses cubiertos y la renovación. La columna «por mes efectivo» es cuenta nuestra: el total dividido entre los meses cubiertos. El par es VPN Plus, de Proton, y Basic, de NordVPN, que es solo la VPN.",
+          "Son precios de Black Friday, y NordVPN los llama «precios de introducción». Proton calcula el descuento sobre el plan mensual de $9.99. Las cifras en dólares de NordVPN salen de publicaciones que leyeron su página de EE. UU. durante el Black Friday (hasta el 9 de diciembre, según ellas), antes de impuestos; una publicación lista Basic a $3.49 al mes, que es el precio de lista previo a la oferta. Confirma el total en tu moneda al pagar."
+        ],
+        "comparisonTable": {
+          "caption": "VPN Plus (Proton) y Basic (NordVPN). Proton, según sus páginas de precios en dólares, leídas el 27 de noviembre de 2026; NordVPN, según publicaciones sobre su página de EE. UU. Confirma moneda y total al pagar.",
+          "headers": [
+            "Plan",
+            "Total pagado por adelantado",
+            "Meses cubiertos",
+            "Por mes efectivo",
+            "Renovación anual"
+          ],
+          "rows": [
+            [
+              "Proton VPN Plus, mensual",
+              "$9.99",
+              "1",
+              "$9.99",
+              "$9.99 cada mes"
+            ],
+            [
+              "Proton VPN Plus, 1 año",
+              "$35.88",
+              "12",
+              "$2.99",
+              "$83.88"
+            ],
+            [
+              "Proton VPN Plus, 2 años con nuestro enlace",
+              "$59.76",
+              "24",
+              "$2.49",
+              "$83.88"
+            ],
+            [
+              "Proton VPN Plus, 2 años, página pública",
+              "$83.76",
+              "24",
+              "$3.49",
+              "$83.88"
+            ],
+            [
+              "NordVPN Basic, 2 años",
+              "$80.73",
+              "27",
+              "$2.99",
+              "$139.08"
+            ]
+          ]
+        },
+        "postParagraphs": [
+          "En el plan de 2 años, Basic de NordVPN cobra $20.97 más que Proton con nuestro enlace, pero cubre 3 meses más. Esos meses extra son una ventaja real y entran en la columna del valor por mes. Aun así, con nuestro enlace, VPN Plus sale más barato por mes ($2.49 frente a $2.99). El plan de 1 año de NordVPN anuncia $4.99 al mes con 3 meses extra, pero no pudimos confirmar su total, así que no está en la tabla.",
+          "La renovación pesa más. Después del primer período, Proton anuncia $83.88 por 12 meses, el equivalente a $6.99 al mes, y NordVPN, $139.08 por 12 meses, u $11.59 al mes. Son $55.20 de diferencia al año, con los valores anunciados. El precio puede cambiar hasta entonces, y las dos páginas ya anuncian el valor de renovación.",
+          "Los $59.76 de la tabla vienen de la página de socios de Proton, la que abre nuestro botón: son $24.00 menos que los $83.76 del mismo plan de 2 años en su página pública, con la misma renovación anunciada de $83.88 al año. Con los precios de la página pública, el plan de 2 años de NordVPN saldría más barato ($80.73), y el de 1 año de Proton ($35.88) seguiría siendo el total más bajo de la tabla. Más sobre las ofertas de la campaña en [Black Friday de Proton](/es/reviews/black-friday-proton-ofertas)."
+        ],
+        "image": {
+          "src": "/images/reviews/proton/proton-vpn-ou-nordvpn-precos-usd.webp",
+          "alt": "Tarjeta de VPN Plus de 2 años en la página de ofertas para socios de Proton VPN, a $2.49 al mes, $59.76 por los primeros 24 meses y renovación a $83.88 cada 12 meses.",
+          "caption": "VPN Plus de 2 años en la página de socios de Proton, la que abre nuestro botón, el 27 de noviembre de 2026: el total cubre 24 meses y la renovación pasa a ser anual."
+        },
+        "links": [
+          {
+            "label": "Ver VPN Plus",
+            "href": "https://go.getproton.me/SH39K",
+            "sponsored": true
+          }
+        ]
+      },
+      {
+        "heading": "Funciones lado a lado",
+        "paragraphs": [
+          "En el plan solo de VPN, Proton incluye el bloqueo de anuncios y el port forwarding; en NordVPN, los dos vienen en un plan o complemento por encima de Basic. La tabla trae solo lo que dicen las páginas oficiales de las dos. Donde falta un dato de una de ellas, la fila quedó fuera."
+        ],
+        "comparisonTable": {
+          "caption": "VPN Plus (Proton) y Basic (NordVPN), según cada empresa.",
+          "headers": [
+            "Elemento",
+            "Proton VPN Plus",
+            "NordVPN Basic"
+          ],
+          "rows": [
+            [
+              "Dispositivos a la vez",
+              "Hasta 10",
+              "Hasta 10"
+            ],
+            [
+              "Plan gratuito",
+              "Sí: 1 dispositivo, 10 países, sin tarjeta",
+              "No informado"
+            ],
+            [
+              "Prueba gratuita",
+              "No se aplica",
+              "3 días en Android, por Google Play; la de 7 días solo en 15 países, así que comprueba el tuyo"
+            ],
+            [
+              "Bloqueo de anuncios y rastreadores",
+              "NetShield, incluido en Plus",
+              "Listado a partir del plan Complete"
+            ],
+            [
+              "Port forwarding",
+              "Incluido en los planes de pago, en Windows, macOS y Linux",
+              "Solo con el complemento de pago Dedicated Server"
+            ],
+            [
+              "Reembolso",
+              "30 días, una vez por usuario, suscripción hecha directamente con Proton",
+              "30 días para quien compra por primera vez"
+            ],
+            [
+              "Sede de la empresa",
+              "Suiza",
+              "Panamá, según NordVPN"
+            ],
+            [
+              "Auditoría de la política sin registros",
+              "Securitum, cada año de 2022 a 2026, con informe publicado",
+              "Seis análisis independientes, según NordVPN"
+            ]
+          ]
+        },
+        "postParagraphs": [
+          "Proton lista Secure Core en Plus. NordVPN lista la VPN doble (Double VPN), el DNS privado y el split tunneling en su página de funciones; comprueba en qué plan entra cada uno antes de suscribirte.",
+          "En P2P, la página de Proton lista la función en Plus. Sobre el port forwarding en NordVPN, el centro de ayuda dice que solo funciona con el complemento de pago «Dedicated Server»; los servidores comunes y la IP dedicada no lo hacen. La página no muestra el precio del complemento. En Proton, el centro de ayuda incluye el port forwarding en todos los planes de pago, en las apps de Windows, macOS y Linux; Android y iPhone no aparecen en la lista.",
+          "Velocidad y streaming quedaron fuera: la promesa de una empresa no sustituye una prueba con tu proveedor, y los 30 días de reembolso sirven para eso."
+        ]
+      },
+      {
+        "heading": "Jurisdicción, auditorías y código abierto",
+        "paragraphs": [
+          "Las dos declaran una política sin registros auditada por terceros; la diferencia está en la sede y en lo que cada una publica.",
+          "Proton VPN la opera Proton AG, con sede en Suiza. La política de no guardar registros la audita Securitum, y Proton publica los informes de 2022 a 2026. El código de las apps está abierto en GitHub. Los detalles, con lo que cubre cada informe, están en [¿Es fiable Proton VPN?](/es/reviews/proton-vpn-es-confiable).",
+          "NordVPN dice tener su sede en Panamá y afirma haber pasado por seis análisis independientes de la política sin registros, los dos primeros de PwC Suiza y los siguientes de Deloitte, incluidos los de 2023, 2024 y 2025. Es información de su propia página.",
+          "Una auditoría es una foto de los servidores examinados esos días. Muestra que la empresa pasó por una revisión externa, y no garantiza lo que ocurre después. Ninguna de las dos vuelve anónima la navegación: quien entra en una cuenta sigue identificado por ella."
+        ]
+      },
+      {
+        "heading": "Pago, cancelación y reembolso",
+        "paragraphs": [
+          "Proton acepta Visa, Mastercard, American Express y PayPal, y Bitcoin solo como créditos después de crear la cuenta. NordVPN muestra las marcas Mastercard, Visa, Amex y Discover, y el título de su página cita «tarjeta, cripto o PayPal».",
+          "Las dos dan 30 días de reembolso, con reglas distintas. En los términos de Proton, vale una vez por usuario y solo para una suscripción hecha directamente con ella. NordVPN habla de 30 días para quien compra por primera vez, con solicitud por soporte; la compra por la App Store sigue la política de Apple. El paso a paso de Proton está en [cómo cancelar Proton VPN y pedir el reembolso](/es/reviews/proton-vpn-reembolso-cancelar-suscripcion)."
+        ]
+      },
+      {
+        "heading": "Cuando pesa el paquete completo",
+        "paragraphs": [
+          "Aquí NordVPN tiene un argumento fuerte. El plan Complete suma a la VPN el antivirus, el bloqueo de anuncios y rastreadores, la monitorización de datos, la protección de llamadas, un gestor de contraseñas y 1 TB de nube. Cuesta $107.73 por 27 meses y renueva a $219.48 al año. El plan más alto, Prime, cuesta $188.73 por 27 meses y renueva a $296.28.",
+          "Proton responde con Unlimited, que junta VPN, correo, 500 GB de nube y gestor de contraseñas. En la renovación anual, Unlimited ($119.88) queda por debajo de Complete ($219.48), pero los paquetes no son iguales: el de Proton es de correo, nube y contraseñas, y el de NordVPN incluye antivirus. Los períodos también difieren (27 meses contra 12), y por eso no los ponemos en una misma línea de precio. Si lo que interesa es el paquete, lee [¿Vale la pena Proton Unlimited?](/es/reviews/proton-unlimited-vale-la-pena) y consulta la [página de Proton en nuestro sitio](/es/coupons/proton) antes de decidir."
+        ]
+      },
+      {
+        "heading": "Cuál elegir",
+        "paragraphs": [
+          "Quédate con Proton VPN si quieres empezar gratis, pagar menos en la renovación o usar port forwarding en el ordenador sin pagar complemento, con apps de código abierto y política de registros auditada cada año. Quédate con NordVPN si quieres antivirus, monitorización y nube en el mismo plan, o si los 3 meses extra de cobertura pesan más que la renovación.",
+          "Apunta la fecha de renovación el día de la compra, elijas la que elijas."
+        ],
+        "emphasis": "Mira el total pagado, los meses cubiertos y la renovación, no el valor por mes: NordVPN cubre 3 meses más, y Proton renueva por $55.20 menos al año.",
+        "links": [
+          {
+            "label": "Ver VPN Plus",
+            "href": "https://go.getproton.me/SH39K",
+            "sponsored": true
+          }
+        ]
+      },
+      {
+        "heading": "Preguntas frecuentes",
+        "bullets": [
+          "¿Cuál es más barata en 2 años: Proton VPN o NordVPN? Con nuestro enlace, el plan de 2 años de Proton cuesta menos en total y por mes; el de NordVPN cubre 3 meses más. En la renovación, Proton también anuncia el valor menor. Los números están en la tabla de precios.",
+          "¿NordVPN tiene plan gratuito como Proton VPN? No: tiene una prueba de 7 días solo en algunos países y, en Android, 3 días por Google Play, mientras que Proton tiene un plan gratuito sin tarjeta.",
+          "¿Cuál de las dos tiene port forwarding? Proton lo incluye en todos los planes de pago, en las apps de Windows, macOS y Linux; NordVPN, solo con el complemento Dedicated Server.",
+          "¿Necesito un cupón para conseguir el descuento de Proton VPN? No. Proton no usa código: el descuento ya aparece en el precio, y nuestro enlace abre la oferta de socios de su página. Las reglas están en la [página de Proton en nuestro sitio](/es/coupons/proton).",
+          "¿Se puede pedir el dinero de vuelta en las dos? Sí, en hasta 30 días, con reglas propias: Proton reembolsa una vez por usuario, y NordVPN, a quien compra por primera vez."
+        ]
+      }
+    ],
+    "pros": [],
+    "cons": [],
+    "cta": {
+      "text": "Para usar VPN Plus durante dos años, nuestro enlace abre la oferta de socios de Proton, con cobro por adelantado de los 24 meses. Después, la renovación anunciada es anual, sujeta al precio vigente. Confirma la moneda y el total al pagar.",
+      "label": "Ver VPN Plus con el enlace",
+      "url": "https://go.getproton.me/SH39K",
+      "sponsored": true
+    },
+    "affiliate": "proton",
+    "editorialNote": "Hecho con las páginas de planes y de ayuda de las dos empresas, sin prueba de velocidad. El enlace de Proton es de afiliado y puede generar una comisión.",
+    "relatedArticles": [
+      {
+        "slug": "proton-vpn-vale-la-pena"
+      },
+      {
+        "slug": "proton-vpn-es-confiable"
+      },
+      {
+        "slug": "proton-vpn-reembolso-cancelar-suscripcion"
+      },
+      {
+        "slug": "black-friday-proton-ofertas"
+      }
+    ],
+    "decision": {
+      "takeIf": [
+        "quieres empezar con el plan gratuito, pagar menos al entrar y en la renovación, o usar port forwarding en el ordenador sin pagar complemento.",
+        "solo necesitas la VPN y quieres el plan que renueva por el valor menor."
+      ],
+      "skipIf": [
+        "quieres antivirus, monitorización de datos y nube en el mismo plan que la VPN, como en el Complete de NordVPN.",
+        "los 3 meses extra de cobertura de los planes de NordVPN pesan más para ti que la renovación."
+      ]
+    }
+  },
+  {
+    "id": 1508,
+    "slug": "proton-vpn-ou-nordvpn-comparatif",
+    "locale": "fr",
+    "translationKey": "proton-vpn-ou-nordvpn",
+    "title": "Proton VPN ou NordVPN : offre gratuite, prix avec renouvellement et lequel choisir",
+    "seoTitle": "Proton VPN ou NordVPN : prix, renouvellement et différences",
+    "type": "Guide comparatif",
+    "category": "guias-praticos-utilidade",
+    "reviewKind": "guia",
+    "author": {
+      "name": "Cecília Mauad",
+      "slug": "cecilia-mauad",
+      "role": "Em Casa com Cecília",
+      "initials": "CM",
+      "url": "/sobre"
+    },
+    "description": "Essai gratuit, total payé et mois couverts, renouvellement annuel, juridiction et audits : ce que Proton VPN et NordVPN indiquent et à qui chacun convient.",
+    "metaDescription": "Proton VPN ou NordVPN ? Comparez offre gratuite, total payé d’avance, renouvellement, juridiction et remboursement sous 30 jours avant de vous abonner.",
+    "publishedAt": "27 novembre 2026",
+    "publishedAtISO": "2026-11-27",
+    "updatedAt": "2026-11-27",
+    "draft": false,
+    "isNew": true,
+    "hideFromPortugueseListings": true,
+    "image": "/images/reviews/proton/proton-vpn-ou-nordvpn-hero-fr.webp",
+    "imageAlt": "Illustration officielle de Proton VPN : ordinateur, téléphone, tablette et interrupteur de cadenas activé. La couverture demande « Proton VPN ou NordVPN ? ».",
+    "imageFit": "contain",
+    "imageAspect": "landscape",
+    "contentSections": [
+      {
+        "heading": "Réponse rapide",
+        "paragraphs": [
+          "Proton VPN convient à qui veut essayer gratuitement et payer le moins sur une offre VPN seule : avec notre lien, 2 ans coûtent 59,76 $, contre 80,73 $ pour les 27 mois de NordVPN, et le renouvellement coûte moins. NordVPN l’emporte avec ses trois mois offerts et ses offres avec antivirus et stockage cloud."
+        ]
+      },
+      {
+        "heading": "Offre gratuite et essai : ce que propose chacun",
+        "paragraphs": [
+          "Proton VPN a une vraie offre gratuite. D’après sa page de tarifs, elle ne demande pas de carte, connecte 1 appareil à la fois et utilise des serveurs de 10 pays, choisis par l’application. Proton affirme qu’il n’y a pas de limite de données. Qui veut seulement protéger son téléphone sur un Wi-Fi public peut l’utiliser sans rien payer. Ce que l’offre gratuite ne fait pas est détaillé dans [Proton VPN vaut-il le coup ?](/fr/reviews/proton-vpn-vaut-il-le-coup).",
+          "NordVPN ne propose pas d’offre gratuite sur ses pages. Elle a un essai de 7 jours, décrit dans son centre d’aide, mais réservé aux nouveaux clients, sur les formules 1 an et 2 ans, avec carte ou PayPal, et dans 15 pays seulement ; vérifiez si le vôtre figure dans la liste. Sur Android, le centre d’aide mentionne un essai de 3 jours via Google Play.",
+          "En pratique, l’offre gratuite de Proton n’a pas de durée limite. Chez NordVPN, il reste l’essai de 7 jours si votre pays figure dans la liste, l’essai de 3 jours sur Android via Google Play, ou payer et utiliser le remboursement sous 30 jours."
+        ]
+      },
+      {
+        "heading": "Prix payé d’avance, mois couverts et renouvellement",
+        "paragraphs": [
+          "Le prix « par mois » des deux pages cache deux détails : le paiement couvre la période entière, en une fois, et l’abonnement se renouvelle ensuite chaque année. Le tableau montre donc le total payé, les mois couverts et le renouvellement. La colonne « par mois effectif » est notre calcul : le total divisé par les mois couverts. La paire est VPN Plus, de Proton, et Basic, de NordVPN, qui est la VPN seule.",
+          "Ce sont des prix de Black Friday, que NordVPN appelle « prix d’introduction ». Proton calcule sa remise sur l’abonnement mensuel à 9,99 $. Les montants en dollars de NordVPN viennent de publications qui ont lu sa page américaine pendant le Black Friday (jusqu’au 9 décembre, selon elles), avant taxes ; une publication affiche Basic à 3,49 $ par mois, soit le prix catalogue d’avant l’opération. Vérifiez le total dans votre devise au paiement."
+        ],
+        "comparisonTable": {
+          "caption": "VPN Plus (Proton) et Basic (NordVPN). Proton d’après ses pages de tarifs en dollars américains, lues le 27 novembre 2026 ; NordVPN d’après des publications sur sa page américaine. Vérifiez devise et total au paiement.",
+          "headers": [
+            "Formule",
+            "Total payé d’avance",
+            "Mois couverts",
+            "Par mois effectif",
+            "Renouvellement annuel"
+          ],
+          "rows": [
+            [
+              "Proton VPN Plus, mensuel",
+              "9,99 $",
+              "1",
+              "9,99 $",
+              "9,99 $ chaque mois"
+            ],
+            [
+              "Proton VPN Plus, 1 an",
+              "35,88 $",
+              "12",
+              "2,99 $",
+              "83,88 $"
+            ],
+            [
+              "Proton VPN Plus, 2 ans via notre lien",
+              "59,76 $",
+              "24",
+              "2,49 $",
+              "83,88 $"
+            ],
+            [
+              "Proton VPN Plus, 2 ans, page publique",
+              "83,76 $",
+              "24",
+              "3,49 $",
+              "83,88 $"
+            ],
+            [
+              "NordVPN Basic, 2 ans",
+              "80,73 $",
+              "27",
+              "2,99 $",
+              "139,08 $"
+            ]
+          ]
+        },
+        "postParagraphs": [
+          "Sur la formule 2 ans, Basic de NordVPN coûte 20,97 $ de plus que Proton via notre lien, mais couvre 3 mois de plus. Ces mois offerts sont un vrai avantage et entrent dans la colonne du prix par mois. Malgré cela, via notre lien, VPN Plus revient moins cher par mois (2,49 $ contre 2,99 $). La formule 1 an de NordVPN annonce 4,99 $ par mois avec 3 mois offerts, mais nous n’avons pas pu confirmer son total ; elle ne figure donc pas dans le tableau.",
+          "Le renouvellement pèse plus lourd. Après la première période, Proton annonce 83,88 $ pour 12 mois, soit l’équivalent de 6,99 $ par mois, et NordVPN 139,08 $ pour 12 mois, soit 11,59 $ par mois. Cela fait 55,20 $ d’écart par an, aux prix annoncés. Le prix peut changer d’ici là, et les deux pages annoncent déjà le montant du renouvellement.",
+          "Les 59,76 $ du tableau viennent de la page partenaires de Proton, celle qu’ouvre notre bouton : cela fait 24,00 $ de moins que les 83,76 $ de la même formule 2 ans sur sa page publique, avec le même renouvellement annoncé de 83,88 $ par an. Aux prix de la page publique, la formule 2 ans de NordVPN reviendrait moins cher (80,73 $), et la formule 1 an de Proton (35,88 $) resterait le total le plus bas du tableau. Plus d’infos sur les offres de la campagne dans [Black Friday de Proton](/fr/reviews/black-friday-proton-offres)."
+        ],
+        "image": {
+          "src": "/images/reviews/proton/proton-vpn-ou-nordvpn-precos-usd.webp",
+          "alt": "Carte VPN Plus 2 ans sur la page d’offres partenaires de Proton VPN, à 2,49 $ par mois, 59,76 $ pour les 24 premiers mois puis renouvelé à 83,88 $ tous les 12 mois.",
+          "caption": "Le VPN Plus 2 ans sur la page partenaires de Proton, celle qu’ouvre notre bouton, le 27 novembre 2026 : le total couvre 24 mois, puis le renouvellement devient annuel."
+        },
+        "links": [
+          {
+            "label": "Voir VPN Plus",
+            "href": "https://go.getproton.me/SH39K",
+            "sponsored": true
+          }
+        ]
+      },
+      {
+        "heading": "Fonctions côte à côte",
+        "paragraphs": [
+          "Sur l’offre VPN seule, Proton inclut le blocage des publicités et le port forwarding ; chez NordVPN, les deux relèvent d’une formule ou d’une option au-dessus de Basic. Le tableau ne reprend que ce que disent les pages officielles des deux. Quand une donnée manque chez l’une, la ligne a été retirée."
+        ],
+        "comparisonTable": {
+          "caption": "VPN Plus (Proton) et Basic (NordVPN), selon chaque entreprise.",
+          "headers": [
+            "Élément",
+            "Proton VPN Plus",
+            "NordVPN Basic"
+          ],
+          "rows": [
+            [
+              "Appareils simultanés",
+              "Jusqu’à 10",
+              "Jusqu’à 10"
+            ],
+            [
+              "Offre gratuite",
+              "Oui : 1 appareil, 10 pays, sans carte",
+              "Non indiquée"
+            ],
+            [
+              "Essai gratuit",
+              "Sans objet",
+              "3 jours sur Android, via Google Play ; celui de 7 jours seulement dans 15 pays, vérifiez le vôtre"
+            ],
+            [
+              "Blocage des pubs et des traqueurs",
+              "NetShield, inclus dans Plus",
+              "Indiqué à partir de la formule Complete"
+            ],
+            [
+              "Port forwarding",
+              "Inclus dans les offres payantes, sous Windows, macOS et Linux",
+              "Seulement avec l’option payante Dedicated Server"
+            ],
+            [
+              "Remboursement",
+              "30 jours, une fois par utilisateur, abonnement souscrit directement chez Proton",
+              "30 jours pour qui achète pour la première fois"
+            ],
+            [
+              "Siège de l’entreprise",
+              "Suisse",
+              "Panama, selon NordVPN"
+            ],
+            [
+              "Audit de la politique sans journaux",
+              "Securitum, chaque année de 2022 à 2026, rapport publié",
+              "Six analyses indépendantes, d’après NordVPN"
+            ]
+          ]
+        },
+        "postParagraphs": [
+          "Proton liste Secure Core dans Plus. NordVPN liste le VPN double (Double VPN), le DNS privé et le split tunneling sur sa page de fonctions ; vérifiez dans quelle formule chacun entre avant de vous abonner.",
+          "Pour le P2P, la page de Proton liste la fonction dans Plus. Pour le port forwarding chez NordVPN, le centre d’aide indique qu’il ne fonctionne qu’avec l’option payante « Dedicated Server » ; les serveurs ordinaires et l’IP dédiée ne le permettent pas. La page n’indique pas le prix de l’option. Chez Proton, le centre d’aide inclut le port forwarding dans toutes les offres payantes, dans les applications Windows, macOS et Linux ; Android et iPhone ne figurent pas dans la liste.",
+          "Vitesse et streaming ont été laissés de côté : la promesse d’une entreprise ne remplace pas un test chez votre fournisseur, et les 30 jours de remboursement servent à cela."
+        ]
+      },
+      {
+        "heading": "Juridiction, audits et code ouvert",
+        "paragraphs": [
+          "Les deux déclarent une politique sans journaux auditée par des tiers ; la différence tient au siège et à ce que chacune publie.",
+          "Proton VPN est exploité par Proton AG, dont le siège est en Suisse. La politique de non-conservation des journaux est auditée par Securitum, et Proton publie les rapports de 2022 à 2026. Le code des applications est ouvert sur GitHub. Les détails, avec ce que couvre chaque rapport, sont dans [Proton VPN est-il fiable ?](/fr/reviews/proton-vpn-est-il-fiable).",
+          "NordVPN dit avoir son siège au Panama et affirme avoir fait l’objet de six analyses indépendantes de sa politique sans journaux, les deux premières par PwC Suisse et les suivantes par Deloitte, dont en 2023, 2024 et 2025. Ce sont des informations de sa propre page.",
+          "Un audit est un instantané des serveurs examinés ces jours-là. Il montre que l’entreprise a subi un contrôle externe, sans garantir ce qui se passe ensuite. Aucune des deux ne rend la navigation anonyme : qui se connecte à un compte reste identifié par lui."
+        ]
+      },
+      {
+        "heading": "Paiement, résiliation et remboursement",
+        "paragraphs": [
+          "Proton accepte Visa, Mastercard, American Express et PayPal, et le Bitcoin seulement sous forme de crédits après la création du compte. NordVPN affiche les logos Mastercard, Visa, Amex et Discover, et le titre de sa page cite « carte, crypto ou PayPal ».",
+          "Les deux offrent 30 jours de remboursement, avec des règles différentes. Selon les conditions de Proton, il vaut une fois par utilisateur et seulement pour un abonnement souscrit directement chez elle. NordVPN parle de 30 jours pour qui achète pour la première fois, sur demande au support ; un achat via l’App Store suit la politique d’Apple. Le pas-à-pas de Proton est dans [comment résilier Proton VPN et demander le remboursement](/fr/reviews/proton-vpn-remboursement-resilier)."
+        ]
+      },
+      {
+        "heading": "Quand le pack complet compte",
+        "paragraphs": [
+          "Ici NordVPN a un argument solide. La formule Complete ajoute au VPN un antivirus, le blocage des publicités et des traqueurs, la surveillance des données, la protection des appels, un gestionnaire de mots de passe et 1 To de cloud. Elle coûte 107,73 $ pour 27 mois et se renouvelle à 219,48 $ par an. La formule la plus haute, Prime, coûte 188,73 $ pour 27 mois et se renouvelle à 296,28 $.",
+          "Proton répond avec Unlimited, qui réunit VPN, messagerie, 500 Go de cloud et gestionnaire de mots de passe. Au renouvellement annuel, Unlimited (119,88 $) reste sous Complete (219,48 $), mais les packs ne sont pas égaux : celui de Proton est fait de messagerie, cloud et mots de passe, celui de NordVPN comprend un antivirus. Les périodes diffèrent aussi (27 mois contre 12), d’où l’absence d’une ligne de prix commune. Si le pack est ce qui vous intéresse, lisez [Proton Unlimited vaut-il le coup ?](/fr/reviews/proton-unlimited-vaut-il-le-coup) et consultez la [page de Proton sur notre site](/fr/coupons/proton) avant de décider."
+        ]
+      },
+      {
+        "heading": "Lequel choisir",
+        "paragraphs": [
+          "Choisissez Proton VPN si vous voulez commencer gratuitement, payer moins au renouvellement ou utiliser le port forwarding sur ordinateur sans option payante, avec des applications ouvertes et une politique sans journaux auditée chaque année. Choisissez NordVPN si vous voulez antivirus, surveillance et cloud dans la même formule, ou si les 3 mois offerts comptent plus que le renouvellement.",
+          "Notez la date de renouvellement le jour de l’achat, quel que soit votre choix."
+        ],
+        "emphasis": "Regardez le total payé, les mois couverts et le renouvellement, pas le prix par mois : NordVPN couvre 3 mois de plus, et Proton se renouvelle 55,20 $ moins cher par an.",
+        "links": [
+          {
+            "label": "Voir VPN Plus",
+            "href": "https://go.getproton.me/SH39K",
+            "sponsored": true
+          }
+        ]
+      },
+      {
+        "heading": "Questions fréquentes",
+        "bullets": [
+          "Lequel est le moins cher sur 2 ans : Proton VPN ou NordVPN ? Via notre lien, la formule 2 ans de Proton coûte moins au total et par mois ; celle de NordVPN couvre 3 mois de plus. Au renouvellement, Proton annonce aussi le montant le plus bas. Les chiffres sont dans le tableau des prix.",
+          "NordVPN a-t-elle une offre gratuite comme Proton VPN ? Non : elle propose un essai de 7 jours dans certains pays seulement et, sur Android, 3 jours via Google Play, alors que Proton a une offre gratuite sans carte.",
+          "Lequel des deux a le port forwarding ? Proton l’inclut dans toutes les offres payantes, dans les applications Windows, macOS et Linux ; NordVPN seulement avec l’option Dedicated Server.",
+          "Faut-il un code promo pour obtenir la remise de Proton VPN ? Non. Proton n’utilise pas de code : la remise apparaît déjà dans le prix, et notre lien ouvre l’offre partenaires de sa page. Les règles sont sur la [page de Proton sur notre site](/fr/coupons/proton).",
+          "Peut-on se faire rembourser chez les deux ? Oui, sous 30 jours, avec des règles propres : Proton rembourse une fois par utilisateur, et NordVPN, ceux qui achètent pour la première fois."
+        ]
+      }
+    ],
+    "pros": [],
+    "cons": [],
+    "cta": {
+      "text": "Pour utiliser VPN Plus pendant deux ans, notre lien ouvre l’offre partenaires de Proton, avec paiement d’avance des 24 mois. Ensuite, le renouvellement annoncé est annuel, sous réserve du tarif en vigueur. Vérifiez la devise et le total au paiement.",
+      "label": "Voir VPN Plus via le lien",
+      "url": "https://go.getproton.me/SH39K",
+      "sponsored": true
+    },
+    "affiliate": "proton",
+    "editorialNote": "Rédigé à partir des pages de tarifs et d’aide des deux entreprises, sans test de vitesse. Le lien de Proton est un lien d’affiliation et peut générer une commission.",
+    "relatedArticles": [
+      {
+        "slug": "proton-vpn-vaut-il-le-coup"
+      },
+      {
+        "slug": "proton-vpn-est-il-fiable"
+      },
+      {
+        "slug": "proton-vpn-remboursement-resilier"
+      },
+      {
+        "slug": "black-friday-proton-offres"
+      }
+    ],
+    "decision": {
+      "takeIf": [
+        "vous voulez commencer par l’offre gratuite, payer moins à l’entrée et au renouvellement, ou utiliser le port forwarding sur ordinateur sans option payante.",
+        "vous n’avez besoin que du VPN et voulez la formule qui se renouvelle au prix le plus bas."
+      ],
+      "skipIf": [
+        "vous voulez antivirus, surveillance des données et cloud dans la même formule que le VPN, comme dans le Complete de NordVPN.",
+        "les 3 mois offerts des formules NordVPN comptent plus pour vous que le renouvellement."
+      ]
+    }
+  },
+  {
+    "id": 1509,
+    "slug": "proton-vpn-oder-nordvpn",
+    "locale": "de",
+    "translationKey": "proton-vpn-ou-nordvpn",
+    "title": "Proton VPN oder NordVPN: kostenloser Tarif, Preis mit Verlängerung und welcher passt",
+    "seoTitle": "Proton VPN oder NordVPN: Preis, Verlängerung und Unterschiede",
+    "type": "Vergleich",
+    "category": "guias-praticos-utilidade",
+    "reviewKind": "guia",
+    "author": {
+      "name": "Cecília Mauad",
+      "slug": "cecilia-mauad",
+      "role": "Em Casa com Cecília",
+      "initials": "CM",
+      "url": "/sobre"
+    },
+    "description": "Gratis-Test, Gesamtbetrag und abgedeckte Monate, jährliche Verlängerung, Gerichtsstand und Audits: was Proton VPN und NordVPN angeben und für wen jedes passt.",
+    "metaDescription": "Proton VPN oder NordVPN? Vergleichen Sie Gratis-Tarif, Gesamtbetrag im Voraus, Verlängerung, Gerichtsstand und 30 Tage Rückerstattung vor dem Abschluss.",
+    "publishedAt": "27. November 2026",
+    "publishedAtISO": "2026-11-27",
+    "updatedAt": "2026-11-27",
+    "draft": false,
+    "isNew": true,
+    "hideFromPortugueseListings": true,
+    "image": "/images/reviews/proton/proton-vpn-ou-nordvpn-hero-de.webp",
+    "imageAlt": "Offizielle Illustration von Proton VPN mit Computer, Smartphone, Tablet und eingeschaltetem Schloss-Schalter. Das Titelbild fragt „Proton VPN oder NordVPN?“.",
+    "imageFit": "contain",
+    "imageAspect": "landscape",
+    "contentSections": [
+      {
+        "heading": "Kurzantwort",
+        "paragraphs": [
+          "Proton VPN passt, wenn Sie gratis testen und beim reinen VPN-Tarif am wenigsten zahlen wollen: Über unseren Link kosten 2 Jahre 59,76 $, gegenüber 80,73 $ für NordVPNs 27 Monate, und die Verlängerung ist günstiger. NordVPN punktet mit den drei Zusatzmonaten und mit Tarifen samt Virenschutz und Cloud-Speicher."
+        ]
+      },
+      {
+        "heading": "Gratis-Tarif und Test: was jeder bietet",
+        "paragraphs": [
+          "Proton VPN hat einen echten Gratis-Tarif. Laut Preisseite braucht er keine Karte, verbindet 1 Gerät gleichzeitig und nutzt Server in 10 Ländern, die die App auswählt. Proton sagt, es gebe kein Datenlimit. Wer nur das Handy im öffentlichen WLAN schützen will, kommt ohne Kosten aus. Was der Gratis-Tarif nicht leistet, steht in [Lohnt sich Proton VPN?](/de/reviews/lohnt-sich-proton-vpn).",
+          "NordVPN bietet auf seinen Seiten keinen Gratis-Tarif an. Es gibt einen 7-Tage-Test, beschrieben im Hilfecenter, aber nur für Neukunden, in den 1- und 2-Jahres-Tarifen, mit Karte oder PayPal und nur in 15 Ländern; prüfen Sie, ob Ihres auf der Liste steht. Unter Android erwähnt das Hilfecenter einen 3-Tage-Test über Google Play.",
+          "In der Praxis hat Protons Gratis-Tarif keine Frist. Bei NordVPN bleiben der 7-Tage-Test, falls Ihr Land auf der Liste steht, der 3-Tage-Test unter Android über Google Play oder zahlen und die 30-Tage-Rückerstattung nutzen."
+        ]
+      },
+      {
+        "heading": "Preis im Voraus, abgedeckte Monate und Verlängerung",
+        "paragraphs": [
+          "Der Wert „pro Monat“ beider Seiten verbirgt zwei Details: Abgebucht wird der ganze Zeitraum auf einmal, und der Tarif verlängert sich danach jährlich. Deshalb zeigt die Tabelle den Gesamtbetrag, die abgedeckten Monate und die Verlängerung. Die Spalte „effektiv pro Monat“ ist unsere Rechnung: der Gesamtbetrag geteilt durch die abgedeckten Monate. Verglichen werden VPN Plus von Proton und Basic von NordVPN, also nur das VPN.",
+          "Es sind Black-Friday-Preise, die NordVPN „Einführungspreise“ nennt. Proton berechnet den Rabatt auf den Monatstarif von 9,99 $. Die Dollarwerte von NordVPN stammen aus veröffentlichten Berichten, die ihre US-Seite während des Black Friday gelesen haben (laut ihnen bis 9. Dezember), vor Steuern; ein Bericht nennt Basic mit 3,49 $ im Monat, den Listenpreis vor der Aktion. Prüfen Sie den Gesamtbetrag in Ihrer Währung an der Kasse."
+        ],
+        "comparisonTable": {
+          "caption": "VPN Plus (Proton) und Basic (NordVPN). Proton nach den Preisseiten in US-Dollar, gelesen am 27. November 2026; NordVPN nach Berichten über die US-Seite. Währung und Gesamtbetrag an der Kasse prüfen.",
+          "headers": [
+            "Tarif",
+            "Gesamtbetrag im Voraus",
+            "Abgedeckte Monate",
+            "Effektiv pro Monat",
+            "Jährliche Verlängerung"
+          ],
+          "rows": [
+            [
+              "Proton VPN Plus, monatlich",
+              "9,99 $",
+              "1",
+              "9,99 $",
+              "9,99 $ jeden Monat"
+            ],
+            [
+              "Proton VPN Plus, 1 Jahr",
+              "35,88 $",
+              "12",
+              "2,99 $",
+              "83,88 $"
+            ],
+            [
+              "Proton VPN Plus, 2 Jahre über unseren Link",
+              "59,76 $",
+              "24",
+              "2,49 $",
+              "83,88 $"
+            ],
+            [
+              "Proton VPN Plus, 2 Jahre, öffentliche Seite",
+              "83,76 $",
+              "24",
+              "3,49 $",
+              "83,88 $"
+            ],
+            [
+              "NordVPN Basic, 2 Jahre",
+              "80,73 $",
+              "27",
+              "2,99 $",
+              "139,08 $"
+            ]
+          ]
+        },
+        "postParagraphs": [
+          "Im 2-Jahres-Tarif kostet NordVPNs Basic 20,97 $ mehr als Proton über unseren Link, deckt aber 3 Monate mehr ab. Diese Zusatzmonate sind ein echter Vorteil und fließen in die Spalte pro Monat ein. Trotzdem ist VPN Plus über unseren Link pro Monat günstiger (2,49 $ gegenüber 2,99 $). NordVPNs 1-Jahres-Tarif wirbt mit 4,99 $ im Monat plus 3 Zusatzmonaten, den Gesamtbetrag konnten wir aber nicht bestätigen; deshalb steht er nicht in der Tabelle.",
+          "Die Verlängerung wiegt schwerer. Nach der ersten Laufzeit nennt Proton 83,88 $ für 12 Monate, umgerechnet 6,99 $ im Monat, und NordVPN 139,08 $ für 12 Monate, also 11,59 $ im Monat. Das sind 55,20 $ Unterschied pro Jahr, nach den genannten Preisen. Der Preis kann sich bis dahin ändern, und beide Seiten nennen den Verlängerungspreis schon heute.",
+          "Die 59,76 $ der Tabelle stammen von Protons Partnerseite, die unser Button öffnet: Das sind 24,00 $ weniger als die 83,76 $ für denselben 2-Jahres-Tarif auf der öffentlichen Seite, bei gleicher angekündigter Verlängerung von 83,88 $ pro Jahr. Zu den Preisen der öffentlichen Seite wäre NordVPNs 2-Jahres-Tarif günstiger (80,73 $), und Protons 1-Jahres-Tarif (35,88 $) bliebe der niedrigste Gesamtbetrag der Tabelle. Mehr zu den Aktionsangeboten in [Proton Black Friday](/de/reviews/proton-black-friday-angebote)."
+        ],
+        "image": {
+          "src": "/images/reviews/proton/proton-vpn-ou-nordvpn-precos-usd.webp",
+          "alt": "Karte von VPN Plus für 2 Jahre auf der Partnerangebotsseite von Proton VPN, zu 2,49 $ pro Monat, 59,76 $ für die ersten 24 Monate und Verlängerung zu 83,88 $ alle 12 Monate.",
+          "caption": "VPN Plus für 2 Jahre auf Protons Partnerseite, die unser Button öffnet, am 27. November 2026: Der Gesamtbetrag deckt 24 Monate ab, danach wird jährlich verlängert."
+        },
+        "links": [
+          {
+            "label": "VPN Plus ansehen",
+            "href": "https://go.getproton.me/SH39K",
+            "sponsored": true
+          }
+        ]
+      },
+      {
+        "heading": "Funktionen im Vergleich",
+        "paragraphs": [
+          "Im reinen VPN-Tarif enthält Proton Werbeblocker und Port Forwarding; bei NordVPN gehören beide zu einem Tarif oder Zusatz oberhalb von Basic. Die Tabelle enthält nur, was die offiziellen Seiten beider Anbieter sagen. Fehlt bei einem die Angabe, wurde die Zeile weggelassen."
+        ],
+        "comparisonTable": {
+          "caption": "VPN Plus (Proton) und Basic (NordVPN), laut jedem Anbieter.",
+          "headers": [
+            "Punkt",
+            "Proton VPN Plus",
+            "NordVPN Basic"
+          ],
+          "rows": [
+            [
+              "Geräte gleichzeitig",
+              "Bis zu 10",
+              "Bis zu 10"
+            ],
+            [
+              "Gratis-Tarif",
+              "Ja: 1 Gerät, 10 Länder, ohne Karte",
+              "Nicht angegeben"
+            ],
+            [
+              "Gratis-Test",
+              "Entfällt",
+              "3 Tage unter Android, über Google Play; der 7-Tage-Test nur in 15 Ländern, prüfen Sie Ihres"
+            ],
+            [
+              "Blocker für Werbung und Tracker",
+              "NetShield, in Plus enthalten",
+              "Ab dem Tarif Complete aufgeführt"
+            ],
+            [
+              "Port Forwarding",
+              "In den Bezahltarifen enthalten, unter Windows, macOS und Linux",
+              "Nur mit dem kostenpflichtigen Zusatz Dedicated Server"
+            ],
+            [
+              "Rückerstattung",
+              "30 Tage, einmal pro Nutzer, Abo direkt bei Proton",
+              "30 Tage für Erstkäufer"
+            ],
+            [
+              "Firmensitz",
+              "Schweiz",
+              "Panama, laut NordVPN"
+            ],
+            [
+              "Audit der No-Logs-Richtlinie",
+              "Securitum, jedes Jahr von 2022 bis 2026, Bericht veröffentlicht",
+              "Sechs unabhängige Prüfungen, laut NordVPN"
+            ]
+          ]
+        },
+        "postParagraphs": [
+          "Proton führt Secure Core in Plus auf. NordVPN führt Double VPN, privates DNS und Split Tunneling auf seiner Funktionsseite auf; prüfen Sie vor dem Abschluss, in welchem Tarif jedes enthalten ist.",
+          "Bei P2P führt Protons Seite die Funktion in Plus auf. Zum Port Forwarding bei NordVPN sagt das Hilfecenter, es funktioniere nur mit dem kostenpflichtigen Zusatz „Dedicated Server“; normale Server und die dedizierte IP unterstützen es nicht. Der Preis des Zusatzes steht nicht auf der Seite. Bei Proton nimmt das Hilfecenter das Port Forwarding in alle Bezahltarife auf, in den Apps für Windows, macOS und Linux; Android und iPhone stehen nicht auf der Liste.",
+          "Geschwindigkeit und Streaming bleiben außen vor: Das Versprechen einer Firma ersetzt keinen Test bei Ihrem Anbieter, und dafür sind die 30 Tage Rückerstattung da."
+        ]
+      },
+      {
+        "heading": "Gerichtsstand, Audits und Open Source",
+        "paragraphs": [
+          "Beide erklären eine von Dritten geprüfte No-Logs-Richtlinie; der Unterschied liegt im Sitz und darin, was jede veröffentlicht.",
+          "Proton VPN wird von der Proton AG mit Sitz in der Schweiz betrieben. Die No-Logs-Richtlinie wird von Securitum geprüft, und Proton veröffentlicht die Berichte von 2022 bis 2026. Der Code der Apps ist auf GitHub offen. Die Einzelheiten, mit dem, was jeder Bericht abdeckt, stehen in [Ist Proton VPN seriös?](/de/reviews/ist-proton-vpn-serioes).",
+          "NordVPN gibt Panama als Sitz an und nennt sechs unabhängige Prüfungen seiner No-Logs-Richtlinie, die ersten beiden durch PwC Schweiz und die folgenden durch Deloitte, auch 2023, 2024 und 2025. Das sind Angaben der eigenen Seite.",
+          "Ein Audit ist eine Momentaufnahme der an diesen Tagen geprüften Server. Es zeigt, dass die Firma eine externe Prüfung durchlaufen hat, und garantiert nicht, was danach geschieht. Keiner der beiden macht das Surfen anonym: Wer sich in ein Konto einloggt, bleibt über dieses identifizierbar."
+        ]
+      },
+      {
+        "heading": "Zahlung, Kündigung und Rückerstattung",
+        "paragraphs": [
+          "Proton akzeptiert Visa, Mastercard, American Express und PayPal, Bitcoin nur als Guthaben nach dem Anlegen des Kontos. NordVPN zeigt die Marken Mastercard, Visa, Amex und Discover, und der Seitentitel nennt „Karte, Krypto oder PayPal“.",
+          "Beide geben 30 Tage Rückerstattung, mit unterschiedlichen Regeln. Nach Protons Bedingungen gilt sie einmal pro Nutzer und nur für ein direkt bei Proton abgeschlossenes Abo. NordVPN spricht von 30 Tagen für Erstkäufer, per Antrag beim Support; Käufe über den App Store folgen Apples Richtlinie. Protons Anleitung steht in [Proton VPN kündigen und Geld zurückbekommen](/de/reviews/proton-vpn-kuendigen-rueckerstattung)."
+        ]
+      },
+      {
+        "heading": "Wenn das Komplettpaket zählt",
+        "paragraphs": [
+          "Hier hat NordVPN ein starkes Argument. Der Tarif Complete ergänzt das VPN um Virenschutz, Blocker für Werbung und Tracker, Datenüberwachung, Anrufschutz, einen Passwort-Manager und 1 TB Cloud-Speicher. Er kostet 107,73 $ für 27 Monate und verlängert sich zu 219,48 $ im Jahr. Der höchste Tarif, Prime, kostet 188,73 $ für 27 Monate und verlängert sich zu 296,28 $.",
+          "Proton antwortet mit Unlimited, das VPN, E-Mail, 500 GB Cloud-Speicher und einen Passwort-Manager bündelt. Bei der jährlichen Verlängerung liegt Unlimited (119,88 $) unter Complete (219,48 $), doch die Pakete sind nicht gleich: Protons besteht aus E-Mail, Cloud und Passwörtern, das von NordVPN enthält Virenschutz. Auch die Laufzeiten unterscheiden sich (27 Monate gegen 12), deshalb stellen wir sie nicht in eine Preiszeile. Wenn das Paket zählt, lesen Sie [Lohnt sich Proton Unlimited?](/de/reviews/lohnt-sich-proton-unlimited) und sehen Sie sich die [Proton-Seite auf unserer Website](/de/coupons/proton) an, bevor Sie entscheiden."
+        ]
+      },
+      {
+        "heading": "Welcher passt",
+        "paragraphs": [
+          "Wählen Sie Proton VPN, wenn Sie gratis starten, bei der Verlängerung weniger zahlen oder Port Forwarding am Computer ohne Zusatz nutzen wollen, mit Open-Source-Apps und einer jedes Jahr geprüften No-Logs-Richtlinie. Wählen Sie NordVPN, wenn Sie Virenschutz, Überwachung und Cloud-Speicher im selben Tarif wollen oder die 3 Zusatzmonate mehr zählen als die Verlängerung.",
+          "Notieren Sie am Kauftag das Verlängerungsdatum, egal wofür Sie sich entscheiden."
+        ],
+        "emphasis": "Achten Sie auf den Gesamtbetrag, die abgedeckten Monate und die Verlängerung, nicht auf den Wert pro Monat: NordVPN deckt 3 Monate mehr ab, und Proton verlängert sich um 55,20 $ pro Jahr günstiger.",
+        "links": [
+          {
+            "label": "VPN Plus ansehen",
+            "href": "https://go.getproton.me/SH39K",
+            "sponsored": true
+          }
+        ]
+      },
+      {
+        "heading": "Häufige Fragen",
+        "bullets": [
+          "Was ist über 2 Jahre günstiger: Proton VPN oder NordVPN? Über unseren Link kostet Protons 2-Jahres-Tarif insgesamt und pro Monat weniger; der von NordVPN deckt 3 Monate mehr ab. Bei der Verlängerung nennt Proton ebenfalls den niedrigeren Wert. Die Zahlen stehen in der Preistabelle.",
+          "Hat NordVPN einen Gratis-Tarif wie Proton VPN? Nein: Es gibt einen 7-Tage-Test nur in einigen Ländern und unter Android 3 Tage über Google Play, während Proton einen Gratis-Tarif ohne Karte hat.",
+          "Welcher von beiden hat Port Forwarding? Proton enthält es in allen Bezahltarifen, in den Apps für Windows, macOS und Linux; NordVPN nur mit dem Zusatz Dedicated Server.",
+          "Brauche ich einen Gutschein für den Rabatt von Proton VPN? Nein. Proton nutzt keinen Code: Der Rabatt steht schon im Preis, und unser Link öffnet das Partnerangebot auf seiner Seite. Die Regeln stehen auf der [Proton-Seite auf unserer Website](/de/coupons/proton).",
+          "Kann ich bei beiden das Geld zurückverlangen? Ja, innerhalb von 30 Tagen, mit eigenen Regeln: Proton erstattet einmal pro Nutzer, NordVPN Erstkäufern."
+        ]
+      }
+    ],
+    "pros": [],
+    "cons": [],
+    "cta": {
+      "text": "Um VPN Plus zwei Jahre zu nutzen, öffnet unser Link das Partnerangebot von Proton, mit Vorauszahlung der 24 Monate. Danach ist die genannte Verlängerung jährlich, vorbehaltlich des geltenden Preises. Prüfen Sie Währung und Gesamtbetrag an der Kasse.",
+      "label": "VPN Plus über den Link ansehen",
+      "url": "https://go.getproton.me/SH39K",
+      "sponsored": true
+    },
+    "affiliate": "proton",
+    "editorialNote": "Verfasst auf Grundlage der Tarif- und Hilfeseiten beider Firmen, ohne Geschwindigkeitstest. Protons Link ist ein Affiliate-Link und kann uns eine Provision einbringen.",
+    "relatedArticles": [
+      {
+        "slug": "lohnt-sich-proton-vpn"
+      },
+      {
+        "slug": "ist-proton-vpn-serioes"
+      },
+      {
+        "slug": "proton-vpn-kuendigen-rueckerstattung"
+      },
+      {
+        "slug": "proton-black-friday-angebote"
+      }
+    ],
+    "decision": {
+      "takeIf": [
+        "Sie mit dem Gratis-Tarif starten, beim Einstieg und bei der Verlängerung weniger zahlen oder Port Forwarding am Computer ohne Zusatz nutzen wollen.",
+        "Sie nur das VPN brauchen und den Tarif wollen, der günstiger verlängert."
+      ],
+      "skipIf": [
+        "Sie Virenschutz, Datenüberwachung und Cloud-Speicher im selben Tarif wie das VPN wollen, wie bei NordVPNs Complete.",
+        "Ihnen die 3 Zusatzmonate der NordVPN-Tarife wichtiger sind als die Verlängerung."
+      ]
+    }
+  },
+  {
+    "id": 1510,
+    "slug": "proton-vpn-o-nordvpn-confronto",
+    "locale": "it",
+    "translationKey": "proton-vpn-ou-nordvpn",
+    "title": "Proton VPN o NordVPN: piano gratuito, prezzo con rinnovo e quale scegliere",
+    "seoTitle": "Proton VPN o NordVPN: prezzo, rinnovo e differenze",
+    "type": "Guida comparativa",
+    "category": "guias-praticos-utilidade",
+    "reviewKind": "guia",
+    "author": {
+      "name": "Cecília Mauad",
+      "slug": "cecilia-mauad",
+      "role": "Em Casa com Cecília",
+      "initials": "CM",
+      "url": "/sobre"
+    },
+    "description": "Prova gratuita, totale pagato e mesi coperti, rinnovo annuale, giurisdizione e audit: cosa dichiarano Proton VPN e NordVPN e per chi va bene ciascuna.",
+    "metaDescription": "Proton VPN o NordVPN? Confronta piano gratuito, totale anticipato, rinnovo annuale, giurisdizione e rimborso di 30 giorni prima di abbonarti.",
+    "publishedAt": "27 novembre 2026",
+    "publishedAtISO": "2026-11-27",
+    "updatedAt": "2026-11-27",
+    "draft": false,
+    "isNew": true,
+    "hideFromPortugueseListings": true,
+    "image": "/images/reviews/proton/proton-vpn-ou-nordvpn-hero-it.webp",
+    "imageAlt": "Illustrazione ufficiale di Proton VPN con computer, telefono, tablet e un interruttore con lucchetto attivo. La copertina chiede «Proton VPN o NordVPN?».",
+    "imageFit": "contain",
+    "imageAspect": "landscape",
+    "contentSections": [
+      {
+        "heading": "Risposta rapida",
+        "paragraphs": [
+          "Proton VPN va bene a chi vuole provare gratis e spendere meno su un piano di sola VPN: con il nostro link, 2 anni costano $59.76, contro $80.73 per i 27 mesi di NordVPN, e il rinnovo costa meno. NordVPN è avanti con i tre mesi extra e con i piani che includono antivirus e cloud."
+        ]
+      },
+      {
+        "heading": "Piano gratuito e prova: cosa offre ciascuna",
+        "paragraphs": [
+          "Proton VPN ha un vero piano gratuito. Secondo la pagina dei prezzi, non chiede la carta, collega 1 dispositivo alla volta e usa server di 10 paesi, scelti dall’app. Proton dice che non c’è limite di dati. Chi vuole solo proteggere il telefono su un Wi-Fi pubblico può usarlo senza spendere. Cosa lascia fuori il piano gratuito è in [Proton VPN conviene?](/it/reviews/proton-vpn-conviene).",
+          "NordVPN non offre un piano gratuito nelle sue pagine. Ha una prova di 7 giorni, descritta nel centro assistenza, ma solo per i nuovi clienti, sui piani da 1 e 2 anni, con carta o PayPal e solo in 15 paesi; controlla se il tuo è nell’elenco. Su Android, il centro assistenza parla di una prova di 3 giorni tramite Google Play.",
+          "In pratica, il piano gratuito di Proton non ha scadenza. Con NordVPN restano la prova di 7 giorni, se il tuo paese è nell’elenco, la prova di 3 giorni su Android tramite Google Play, oppure pagare e usare il rimborso di 30 giorni."
+        ]
+      },
+      {
+        "heading": "Prezzo anticipato, mesi coperti e rinnovo",
+        "paragraphs": [
+          "Il valore «al mese» delle due pagine nasconde due dettagli: l’addebito copre l’intero periodo, in una volta sola, e il piano poi si rinnova ogni anno. Per questo la tabella mostra il totale pagato, i mesi coperti e il rinnovo. La colonna «al mese effettivo» è un nostro calcolo: il totale diviso per i mesi coperti. La coppia è VPN Plus, di Proton, e Basic, di NordVPN, che è la sola VPN.",
+          "Sono prezzi del Black Friday, che NordVPN chiama «prezzi di lancio». Proton calcola lo sconto sul piano mensile da $9.99. I valori in dollari di NordVPN vengono da pubblicazioni che hanno letto la sua pagina statunitense durante il Black Friday (fino al 9 dicembre, secondo loro), prima delle tasse; una pubblicazione indica Basic a $3.49 al mese, che è il prezzo di listino prima dell’offerta. Controlla il totale nella tua valuta al checkout."
+        ],
+        "comparisonTable": {
+          "caption": "VPN Plus (Proton) e Basic (NordVPN). Proton dalle pagine dei prezzi in dollari, lette il 27 novembre 2026; NordVPN da pubblicazioni sulla sua pagina statunitense. Controlla valuta e totale al checkout.",
+          "headers": [
+            "Piano",
+            "Totale pagato in anticipo",
+            "Mesi coperti",
+            "Al mese effettivo",
+            "Rinnovo annuale"
+          ],
+          "rows": [
+            [
+              "Proton VPN Plus, mensile",
+              "$9.99",
+              "1",
+              "$9.99",
+              "$9.99 ogni mese"
+            ],
+            [
+              "Proton VPN Plus, 1 anno",
+              "$35.88",
+              "12",
+              "$2.99",
+              "$83.88"
+            ],
+            [
+              "Proton VPN Plus, 2 anni con il nostro link",
+              "$59.76",
+              "24",
+              "$2.49",
+              "$83.88"
+            ],
+            [
+              "Proton VPN Plus, 2 anni, pagina pubblica",
+              "$83.76",
+              "24",
+              "$3.49",
+              "$83.88"
+            ],
+            [
+              "NordVPN Basic, 2 anni",
+              "$80.73",
+              "27",
+              "$2.99",
+              "$139.08"
+            ]
+          ]
+        },
+        "postParagraphs": [
+          "Sul piano da 2 anni, Basic di NordVPN costa $20.97 in più di Proton con il nostro link, ma copre 3 mesi in più. Quei mesi extra sono un vantaggio reale ed entrano nella colonna del valore al mese. Comunque, con il nostro link, VPN Plus costa meno al mese ($2.49 contro $2.99). Il piano da 1 anno di NordVPN indica $4.99 al mese con 3 mesi extra, ma non siamo riusciti a confermarne il totale, quindi non è nella tabella.",
+          "Il rinnovo pesa di più. Dopo il primo periodo, Proton indica $83.88 per 12 mesi, pari a $6.99 al mese, e NordVPN $139.08 per 12 mesi, cioè $11.59 al mese. Sono $55.20 di differenza all’anno, ai prezzi indicati. Il prezzo può cambiare nel frattempo, e le due pagine già indicano il valore del rinnovo.",
+          "I $59.76 della tabella vengono dalla pagina dei partner di Proton, quella che apre il nostro pulsante: sono $24.00 in meno dei $83.76 dello stesso piano da 2 anni sulla pagina pubblica, con lo stesso rinnovo annunciato di $83.88 all'anno. Con i prezzi della pagina pubblica, il piano da 2 anni di NordVPN costerebbe meno ($80.73), e quello da 1 anno di Proton ($35.88) resterebbe il totale più basso della tabella. Altro sulle offerte della campagna in [Black Friday di Proton](/it/reviews/black-friday-proton-offerte)."
+        ],
+        "image": {
+          "src": "/images/reviews/proton/proton-vpn-ou-nordvpn-precos-usd.webp",
+          "alt": "Scheda di VPN Plus da 2 anni sulla pagina delle offerte per i partner di Proton VPN, a $2.49 al mese, $59.76 per i primi 24 mesi e rinnovo a $83.88 ogni 12 mesi.",
+          "caption": "VPN Plus da 2 anni sulla pagina dei partner di Proton, quella che apre il nostro pulsante, il 27 novembre 2026: il totale copre 24 mesi, e il rinnovo diventa annuale."
+        },
+        "links": [
+          {
+            "label": "Vedi VPN Plus",
+            "href": "https://go.getproton.me/SH39K",
+            "sponsored": true
+          }
+        ]
+      },
+      {
+        "heading": "Funzioni a confronto",
+        "paragraphs": [
+          "Sul piano di sola VPN, Proton include il blocco degli annunci e il port forwarding; in NordVPN, entrambi sono in un piano o componente aggiuntivo sopra Basic. La tabella riporta solo ciò che dicono le pagine ufficiali delle due. Dove manca un dato di una delle due, la riga è stata lasciata fuori."
+        ],
+        "comparisonTable": {
+          "caption": "VPN Plus (Proton) e Basic (NordVPN), secondo ciascuna azienda.",
+          "headers": [
+            "Voce",
+            "Proton VPN Plus",
+            "NordVPN Basic"
+          ],
+          "rows": [
+            [
+              "Dispositivi contemporanei",
+              "Fino a 10",
+              "Fino a 10"
+            ],
+            [
+              "Piano gratuito",
+              "Sì: 1 dispositivo, 10 paesi, senza carta",
+              "Non indicato"
+            ],
+            [
+              "Prova gratuita",
+              "Non applicabile",
+              "3 giorni su Android, tramite Google Play; quella di 7 giorni solo in 15 paesi, controlla il tuo"
+            ],
+            [
+              "Blocco di annunci e tracker",
+              "NetShield, incluso in Plus",
+              "Indicato dal piano Complete"
+            ],
+            [
+              "Port forwarding",
+              "Incluso nei piani a pagamento, su Windows, macOS e Linux",
+              "Solo con il componente a pagamento Dedicated Server"
+            ],
+            [
+              "Rimborso",
+              "30 giorni, una volta per utente, abbonamento fatto direttamente con Proton",
+              "30 giorni per chi acquista per la prima volta"
+            ],
+            [
+              "Sede dell’azienda",
+              "Svizzera",
+              "Panama, secondo NordVPN"
+            ],
+            [
+              "Audit della politica no-log",
+              "Securitum, ogni anno dal 2022 al 2026, con rapporto pubblicato",
+              "Sei verifiche indipendenti, secondo NordVPN"
+            ]
+          ]
+        },
+        "postParagraphs": [
+          "Proton indica Secure Core in Plus. NordVPN indica la VPN doppia (Double VPN), il DNS privato e lo split tunneling nella pagina delle funzioni; controlla in quale piano rientra ciascuna prima di abbonarti.",
+          "Per il P2P, la pagina di Proton indica la funzione in Plus. Sul port forwarding di NordVPN, il centro assistenza dice che funziona solo con il componente a pagamento «Dedicated Server»; i server normali e l’IP dedicato non lo permettono. La pagina non mostra il prezzo del componente. In Proton, il centro assistenza include il port forwarding in tutti i piani a pagamento, nelle app per Windows, macOS e Linux; Android e iPhone non compaiono nell’elenco.",
+          "Velocità e streaming sono rimasti fuori: la promessa di un’azienda non sostituisce una prova con il tuo provider, e i 30 giorni di rimborso servono a questo."
+        ]
+      },
+      {
+        "heading": "Giurisdizione, audit e open source",
+        "paragraphs": [
+          "Entrambe dichiarano una politica no-log verificata da terzi; la differenza sta nella sede e in ciò che ciascuna pubblica.",
+          "Proton VPN è gestita da Proton AG, con sede in Svizzera. La politica di non conservare i log è verificata da Securitum, e Proton pubblica i rapporti dal 2022 al 2026. Il codice delle app è aperto su GitHub. I dettagli, con ciò che copre ogni rapporto, sono in [Proton VPN è affidabile?](/it/reviews/proton-vpn-e-affidabile).",
+          "NordVPN dice di avere sede a Panama e afferma di aver superato sei verifiche indipendenti della politica no-log, le prime due di PwC Svizzera e le successive di Deloitte, anche nel 2023, 2024 e 2025. Sono informazioni della sua stessa pagina.",
+          "Un audit è una fotografia dei server esaminati in quei giorni. Mostra che l’azienda ha subito un controllo esterno, e non garantisce ciò che accade dopo. Nessuna delle due rende anonima la navigazione: chi accede a un account resta identificato da quell’account."
+        ]
+      },
+      {
+        "heading": "Pagamento, cancellazione e rimborso",
+        "paragraphs": [
+          "Proton accetta Visa, Mastercard, American Express e PayPal, e Bitcoin solo come crediti dopo aver creato l’account. NordVPN mostra i marchi Mastercard, Visa, Amex e Discover, e il titolo della pagina cita «carta, cripto o PayPal».",
+          "Entrambe danno 30 giorni di rimborso, con regole diverse. Nei termini di Proton, vale una volta per utente e solo per un abbonamento fatto direttamente con loro. NordVPN parla di 30 giorni per chi acquista per la prima volta, su richiesta al supporto; l’acquisto tramite App Store segue la politica di Apple. La procedura di Proton è in [come disdire Proton VPN e chiedere il rimborso](/it/reviews/proton-vpn-rimborso-come-disdire)."
+        ]
+      },
+      {
+        "heading": "Quando conta il pacchetto completo",
+        "paragraphs": [
+          "Qui NordVPN ha un argomento forte. Il piano Complete aggiunge alla VPN l’antivirus, il blocco di annunci e tracker, il monitoraggio dei dati, la protezione delle chiamate, un gestore di password e 1 TB di cloud. Costa $107.73 per 27 mesi e si rinnova a $219.48 all’anno. Il piano più alto, Prime, costa $188.73 per 27 mesi e si rinnova a $296.28.",
+          "Proton risponde con Unlimited, che riunisce VPN, email, 500 GB di cloud e gestore di password. Al rinnovo annuale, Unlimited ($119.88) resta sotto Complete ($219.48), ma i pacchetti non sono uguali: quello di Proton è di email, cloud e password, quello di NordVPN include l’antivirus. Anche i periodi differiscono (27 mesi contro 12), per questo non li mettiamo su una stessa riga di prezzo. Se ti interessa il pacchetto, leggi [Proton Unlimited conviene?](/it/reviews/proton-unlimited-conviene) e guarda la [pagina di Proton sul nostro sito](/it/coupons/proton) prima di decidere."
+        ]
+      },
+      {
+        "heading": "Quale scegliere",
+        "paragraphs": [
+          "Scegli Proton VPN se vuoi cominciare gratis, pagare meno al rinnovo o usare il port forwarding sul computer senza componente aggiuntivo, con app open source e una politica no-log verificata ogni anno. Scegli NordVPN se vuoi antivirus, monitoraggio e cloud nello stesso piano, o se i 3 mesi extra di copertura contano più del rinnovo.",
+          "Annota la data di rinnovo il giorno dell’acquisto, qualunque sia la scelta."
+        ],
+        "emphasis": "Guarda il totale pagato, i mesi coperti e il rinnovo, non il valore al mese: NordVPN copre 3 mesi in più, e Proton si rinnova a $55.20 in meno all’anno.",
+        "links": [
+          {
+            "label": "Vedi VPN Plus",
+            "href": "https://go.getproton.me/SH39K",
+            "sponsored": true
+          }
+        ]
+      },
+      {
+        "heading": "Domande frequenti",
+        "bullets": [
+          "Qual è più economica in 2 anni: Proton VPN o NordVPN? Con il nostro link, il piano da 2 anni di Proton costa meno in totale e al mese; quello di NordVPN copre 3 mesi in più. Al rinnovo, Proton indica anche il valore più basso. I numeri sono nella tabella dei prezzi.",
+          "NordVPN ha un piano gratuito come Proton VPN? No: ha una prova di 7 giorni solo in alcuni paesi e, su Android, 3 giorni tramite Google Play, mentre Proton ha un piano gratuito senza carta.",
+          "Quale delle due ha il port forwarding? Proton lo include in tutti i piani a pagamento, nelle app per Windows, macOS e Linux; NordVPN solo con il componente Dedicated Server.",
+          "Serve un coupon per ottenere lo sconto di Proton VPN? No. Proton non usa codici: lo sconto è già nel prezzo, e il nostro link apre l’offerta per i partner della sua pagina. Le regole sono nella [pagina di Proton sul nostro sito](/it/coupons/proton).",
+          "Si può chiedere il rimborso a entrambe? Sì, entro 30 giorni, con regole proprie: Proton rimborsa una volta per utente, e NordVPN chi acquista per la prima volta."
+        ]
+      }
+    ],
+    "pros": [],
+    "cons": [],
+    "cta": {
+      "text": "Per usare VPN Plus per due anni, il nostro link apre l’offerta per i partner di Proton, con addebito anticipato dei 24 mesi. Dopo, il rinnovo indicato è annuale, in base al prezzo in vigore. Controlla valuta e totale al checkout.",
+      "label": "Vedi VPN Plus con il link",
+      "url": "https://go.getproton.me/SH39K",
+      "sponsored": true
+    },
+    "affiliate": "proton",
+    "editorialNote": "Realizzato con le pagine dei piani e di assistenza delle due aziende, senza test di velocità. Il link di Proton è di affiliazione e può generare una commissione.",
+    "relatedArticles": [
+      {
+        "slug": "proton-vpn-conviene"
+      },
+      {
+        "slug": "proton-vpn-e-affidabile"
+      },
+      {
+        "slug": "proton-vpn-rimborso-come-disdire"
+      },
+      {
+        "slug": "black-friday-proton-offerte"
+      }
+    ],
+    "decision": {
+      "takeIf": [
+        "vuoi cominciare dal piano gratuito, pagare meno all’inizio e al rinnovo o usare il port forwarding sul computer senza componente aggiuntivo.",
+        "ti serve solo la VPN e vuoi il piano che si rinnova al valore più basso."
+      ],
+      "skipIf": [
+        "vuoi antivirus, monitoraggio dei dati e cloud nello stesso piano della VPN, come nel Complete di NordVPN.",
+        "i 3 mesi extra di copertura dei piani NordVPN contano per te più del rinnovo."
+      ]
+    }
+  },
+  {
+    "id": 1511,
+    "slug": "proton-vpn-vs-nordvpn-ko",
+    "locale": "ko",
+    "translationKey": "proton-vpn-ou-nordvpn",
+    "title": "Proton VPN 아니면 NordVPN: 무료 플랜, 갱신 가격까지 따져 본 선택 가이드",
+    "seoTitle": "Proton VPN 아니면 NordVPN: 가격, 갱신, 차이점",
+    "type": "비교 가이드",
+    "category": "guias-praticos-utilidade",
+    "reviewKind": "guia",
+    "author": {
+      "name": "Cecília Mauad",
+      "slug": "cecilia-mauad",
+      "role": "Em Casa com Cecília",
+      "initials": "CM",
+      "url": "/sobre"
+    },
+    "description": "무료 체험, 총 결제액과 적용 개월 수, 연 단위 갱신, 관할권과 감사까지: Proton VPN과 NordVPN이 밝힌 내용과 각각 어떤 사람에게 맞는지 정리했습니다.",
+    "metaDescription": "Proton VPN과 NordVPN 비교: 무료 플랜, 선결제 총액, 연 갱신, 관할권, 30일 환불을 가입 전에 확인하세요.",
+    "publishedAt": "2026년 11월 27일",
+    "publishedAtISO": "2026-11-27",
+    "updatedAt": "2026-11-27",
+    "draft": false,
+    "isNew": true,
+    "hideFromPortugueseListings": true,
+    "image": "/images/reviews/proton/proton-vpn-ou-nordvpn-hero-ko.webp",
+    "imageAlt": "Proton VPN 공식 일러스트: 컴퓨터, 휴대폰, 태블릿과 켜진 자물쇠 스위치. 표지에는 “Proton VPN 아니면 NordVPN?”이라고 적혀 있습니다.",
+    "imageFit": "contain",
+    "imageAspect": "landscape",
+    "contentSections": [
+      {
+        "heading": "빠른 답",
+        "paragraphs": [
+          "Proton VPN은 무료로 먼저 써 보고 싶거나 VPN 전용 플랜을 가장 싸게 쓰려는 분께 맞습니다. 저희 링크로 2년이 $59.76으로, NordVPN 27개월 $80.73보다 낮고 갱신도 더 쌉니다. NordVPN은 3개월 추가와 백신·클라우드가 든 플랜이 강점입니다."
+        ]
+      },
+      {
+        "heading": "무료 플랜과 체험: 각각 무엇을 주나",
+        "paragraphs": [
+          "Proton VPN에는 진짜 무료 플랜이 있습니다. 가격 페이지에 따르면 카드가 필요 없고, 한 번에 기기 1대를 연결하며, 앱이 고르는 10개국 서버를 씁니다. Proton은 데이터 제한이 없다고 밝힙니다. 공용 와이파이에서 휴대폰만 보호하면 된다면 돈 들이지 않고 쓸 수 있습니다. 무료 플랜에서 빠지는 것은 [Proton VPN 가치가 있을까요?](/ko/reviews/proton-vpn-worth-it-ko)에 있습니다.",
+          "NordVPN은 자체 페이지에 무료 플랜이 없습니다. 도움말 센터에 설명된 7일 체험이 있지만 신규 고객, 1년·2년 플랜, 카드 또는 PayPal 결제, 15개국에서만 가능합니다. 본인 국가가 목록에 있는지 확인하세요. 안드로이드는 도움말 센터에 Google Play를 통한 3일 체험이 언급되어 있습니다.",
+          "실제로 Proton의 무료 플랜은 기간 제한이 없습니다. NordVPN은 국가가 목록에 있다면 7일 체험, 안드로이드의 Google Play 3일 체험, 아니면 결제 후 30일 환불을 쓰는 방법이 남습니다."
+        ]
+      },
+      {
+        "heading": "선결제 가격, 적용 개월 수, 갱신",
+        "paragraphs": [
+          "두 페이지의 “월” 가격에는 두 가지가 가려져 있습니다. 결제는 전체 기간 분을 한 번에 하고, 이후 플랜은 매년 갱신됩니다. 그래서 표에는 총 결제액, 적용 개월 수, 갱신가를 담았습니다. “실질 월 가격” 열은 저희가 총액을 적용 개월 수로 나눈 계산입니다. 비교 대상은 Proton의 VPN Plus와 VPN만 있는 NordVPN의 Basic입니다.",
+          "모두 블랙프라이데이 가격이며 NordVPN은 이를 “도입 가격”이라 부릅니다. Proton은 월 $9.99 플랜을 기준으로 할인율을 계산합니다. NordVPN의 달러 금액은 블랙프라이데이 중 미국 페이지를 확인한 보도에서 가져온 것으로(보도에 따르면 12월 9일까지), 세금 별도입니다. 한 보도는 Basic을 월 $3.49로 적었는데, 이는 세일 전 정가입니다. 결제 시 본인 통화의 총액을 확인하세요."
+        ],
+        "comparisonTable": {
+          "caption": "VPN Plus(Proton)와 Basic(NordVPN). Proton은 2026년 11월 27일에 확인한 달러 가격 페이지, NordVPN은 미국 페이지를 다룬 보도 기준입니다. 결제 시 통화와 총액을 확인하세요.",
+          "headers": [
+            "플랜",
+            "선결제 총액",
+            "적용 개월 수",
+            "실질 월 가격",
+            "연 갱신가"
+          ],
+          "rows": [
+            [
+              "Proton VPN Plus, 월간",
+              "$9.99",
+              "1",
+              "$9.99",
+              "매월 $9.99"
+            ],
+            [
+              "Proton VPN Plus, 1년",
+              "$35.88",
+              "12",
+              "$2.99",
+              "$83.88"
+            ],
+            [
+              "Proton VPN Plus, 2년(저희 링크)",
+              "$59.76",
+              "24",
+              "$2.49",
+              "$83.88"
+            ],
+            [
+              "Proton VPN Plus, 2년(공개 페이지)",
+              "$83.76",
+              "24",
+              "$3.49",
+              "$83.88"
+            ],
+            [
+              "NordVPN Basic, 2년",
+              "$80.73",
+              "27",
+              "$2.99",
+              "$139.08"
+            ]
+          ]
+        },
+        "postParagraphs": [
+          "2년 플랜에서 NordVPN Basic은 저희 링크의 Proton보다 $20.97 더 내지만 3개월을 더 적용합니다. 이 추가 개월은 실질적인 장점이고 월 가격 열에 반영되어 있습니다. 그래도 저희 링크로는 VPN Plus가 월 기준으로 더 쌉니다($2.49 대 $2.99). NordVPN 1년 플랜은 월 $4.99에 3개월 추가를 내세우지만 총액을 확인하지 못해 표에서 뺐습니다.",
+          "갱신가가 더 크게 작용합니다. 첫 기간이 끝나면 Proton은 12개월 $83.88(월 $6.99 상당), NordVPN은 12개월 $139.08(월 $11.59)을 안내합니다. 안내 가격 기준으로 연 $55.20 차이입니다. 그때까지 가격이 바뀔 수 있으며 두 페이지 모두 이미 갱신가를 공개하고 있습니다.",
+          "표의 $59.76은 저희 버튼이 여는 Proton 파트너 페이지의 가격입니다. 공개 가격 페이지의 같은 2년 플랜 $83.76보다 $24.00 저렴하고, 안내된 갱신가는 연 $83.88로 같습니다. 공개 가격 페이지의 가격으로 비교하면 NordVPN 2년($80.73)이 더 싸지만, Proton 1년($35.88)은 여전히 표에서 가장 낮은 총액입니다. 캠페인 혜택은 [Proton 블랙프라이데이](/ko/reviews/proton-black-friday-ko)에서 더 볼 수 있습니다."
+        ],
+        "image": {
+          "src": "/images/reviews/proton/proton-vpn-ou-nordvpn-precos-usd.webp",
+          "alt": "Proton VPN 파트너 혜택 페이지의 2년 VPN Plus 카드: 월 $2.49, 첫 24개월 $59.76, 이후 12개월마다 $83.88로 갱신.",
+          "caption": "Proton 파트너 페이지(저희 버튼이 여는 페이지)의 2년 VPN Plus, 2026년 11월 27일: 총액은 24개월분이며 갱신부터는 연 단위가 됩니다."
+        },
+        "links": [
+          {
+            "label": "VPN Plus 보기",
+            "href": "https://go.getproton.me/SH39K",
+            "sponsored": true
+          }
+        ]
+      },
+      {
+        "heading": "기능 나란히 보기",
+        "paragraphs": [
+          "VPN 전용 플랜에서 Proton은 광고 차단과 포트 포워딩을 포함하고, NordVPN은 둘 다 Basic보다 위 플랜이나 추가 상품에 있습니다. 표에는 두 회사 공식 페이지에 적힌 내용만 담았고, 한쪽에 정보가 없으면 그 행은 뺐습니다."
+        ],
+        "comparisonTable": {
+          "caption": "VPN Plus(Proton)와 Basic(NordVPN), 각 회사 설명 기준.",
+          "headers": [
+            "항목",
+            "Proton VPN Plus",
+            "NordVPN Basic"
+          ],
+          "rows": [
+            [
+              "동시 접속 기기",
+              "최대 10대",
+              "최대 10대"
+            ],
+            [
+              "무료 플랜",
+              "있음: 기기 1대, 10개국, 카드 불필요",
+              "명시 없음"
+            ],
+            [
+              "무료 체험",
+              "해당 없음",
+              "안드로이드 Google Play 3일, 7일 체험은 15개국만 해당이므로 본인 국가 확인"
+            ],
+            [
+              "광고·트래커 차단",
+              "NetShield, Plus에 포함",
+              "Complete 플랜부터 표기"
+            ],
+            [
+              "포트 포워딩",
+              "유료 플랜에 포함, Windows·macOS·Linux",
+              "유료 추가 상품 Dedicated Server에서만"
+            ],
+            [
+              "환불",
+              "30일, 사용자당 1회, Proton에 직접 가입한 경우",
+              "처음 구매하는 고객 30일"
+            ],
+            [
+              "본사 소재지",
+              "스위스",
+              "파나마(NordVPN 설명)"
+            ],
+            [
+              "무로그 정책 감사",
+              "Securitum, 2022~2026년 매년, 보고서 공개",
+              "독립 점검 6회(NordVPN 설명)"
+            ]
+          ]
+        },
+        "postParagraphs": [
+          "Proton은 Plus에 Secure Core를 표기합니다. NordVPN은 기능 페이지에 이중 VPN(Double VPN), 비공개 DNS, 스플릿 터널링을 표기하므로 가입 전에 어느 플랜에 들어 있는지 확인하세요.",
+          "P2P는 Proton 페이지가 Plus 기능으로 표기합니다. NordVPN의 포트 포워딩은 도움말 센터에 따르면 유료 추가 상품 “Dedicated Server”가 있어야 하며, 일반 서버와 전용 IP로는 되지 않습니다. 추가 상품 가격은 페이지에 없습니다. Proton은 도움말 센터에서 모든 유료 플랜의 Windows·macOS·Linux 앱에 포트 포워딩을 포함한다고 하며, Android와 iPhone은 목록에 없습니다.",
+          "속도와 스트리밍은 뺐습니다. 회사의 약속은 본인 통신사에서의 직접 테스트를 대신하지 못하며, 30일 환불이 그 용도입니다."
+        ]
+      },
+      {
+        "heading": "관할권, 감사, 오픈소스",
+        "paragraphs": [
+          "두 회사 모두 제3자가 감사한 무로그 정책을 내세웁니다. 차이는 본사 소재지와 각자 공개하는 자료에 있습니다.",
+          "Proton VPN은 스위스에 본사를 둔 Proton AG가 운영합니다. 로그를 남기지 않는 정책은 Securitum이 감사하고, Proton은 2022~2026년 보고서를 공개합니다. 앱 코드는 GitHub에 공개되어 있습니다. 각 보고서가 다루는 내용은 [Proton VPN은 믿을 만할까요?](/ko/reviews/proton-vpn-trust-ko)에 있습니다.",
+          "NordVPN은 파나마에 본사가 있다고 밝히고, 무로그 정책에 대해 독립 점검을 6회 받았다고 합니다. 처음 두 번은 PwC 스위스, 이후는 Deloitte가 맡았고 2023·2024·2025년 점검이 포함됩니다. 자사 페이지의 정보입니다.",
+          "감사는 점검한 날의 해당 서버를 찍은 사진입니다. 회사가 외부 점검을 받았다는 뜻일 뿐 이후를 보장하지 않습니다. 둘 다 익명 탐색을 만들어 주지는 않으며, 계정에 로그인하면 그 계정으로 식별됩니다."
+        ]
+      },
+      {
+        "heading": "결제, 해지, 환불",
+        "paragraphs": [
+          "Proton은 Visa, Mastercard, American Express, PayPal을 받고, 비트코인은 계정을 만든 뒤 크레딧으로만 받습니다. NordVPN은 Mastercard, Visa, Amex, Discover 로고를 보여 주고 페이지 제목에 “카드, 암호화폐, PayPal”이 나옵니다.",
+          "두 회사 모두 30일 환불을 주지만 규칙이 다릅니다. Proton 약관에서는 사용자당 1회, Proton에 직접 가입한 경우만 해당됩니다. NordVPN은 처음 구매하는 고객에게 30일이며 고객지원으로 신청하고, App Store 결제는 Apple 정책을 따릅니다. Proton 절차는 [Proton VPN 해지와 환불 방법](/ko/reviews/proton-vpn-refund-ko)에 있습니다."
+        ]
+      },
+      {
+        "heading": "묶음 상품이 중요할 때",
+        "paragraphs": [
+          "여기서는 NordVPN의 논거가 강합니다. Complete 플랜은 VPN에 백신, 광고·트래커 차단, 데이터 모니터링, 통화 보호, 비밀번호 관리자, 클라우드 1TB를 더합니다. 27개월 $107.73이며 연 $219.48로 갱신됩니다. 최상위 플랜인 Prime은 27개월 $188.73이며 $296.28로 갱신됩니다.",
+          "Proton은 VPN, 이메일, 클라우드 500GB, 비밀번호 관리자를 묶은 Unlimited로 맞섭니다. 연 갱신가는 Unlimited($119.88)가 Complete($219.48)보다 낮지만 구성이 다릅니다. Proton은 이메일·클라우드·비밀번호, NordVPN은 백신 포함입니다. 기간도 27개월 대 12개월로 달라 한 가격 줄에 놓지 않았습니다. 묶음이 중요하다면 [Proton Unlimited 가치가 있을까요?](/ko/reviews/proton-unlimited-worth-it-ko)를 읽고 결정 전에 [저희 사이트의 Proton 페이지](/ko/coupons/proton)를 확인하세요."
+        ]
+      },
+      {
+        "heading": "무엇을 고를까",
+        "paragraphs": [
+          "무료로 시작하고, 갱신가를 낮추고, 추가 상품 없이 컴퓨터에서 포트 포워딩을 쓰고 싶다면, 오픈소스 앱과 매년 감사받는 무로그 정책의 Proton VPN을 고르세요. 한 플랜에 백신, 모니터링, 클라우드가 필요하거나 3개월 추가가 갱신가보다 중요하다면 NordVPN을 고르세요.",
+          "어느 쪽을 고르든 구매한 날 갱신일을 적어 두세요."
+        ],
+        "emphasis": "월 가격이 아니라 총 결제액, 적용 개월 수, 갱신가를 보세요. NordVPN은 3개월을 더 주고, Proton은 갱신가가 연 $55.20 낮습니다.",
+        "links": [
+          {
+            "label": "VPN Plus 보기",
+            "href": "https://go.getproton.me/SH39K",
+            "sponsored": true
+          }
+        ]
+      },
+      {
+        "heading": "자주 묻는 질문",
+        "bullets": [
+          "2년 기준으로 더 싼 쪽은 Proton VPN과 NordVPN 중 어디인가요? 저희 링크로는 Proton 2년 플랜이 총액도 월 가격도 낮고, NordVPN은 3개월을 더 적용합니다. 갱신가도 Proton이 더 낮게 안내됩니다. 숫자는 가격 표에 있습니다.",
+          "NordVPN에도 Proton VPN 같은 무료 플랜이 있나요? 아니요. 7일 체험은 일부 국가에서만, 안드로이드는 Google Play 3일이며, Proton은 카드 없이 쓰는 무료 플랜이 있습니다.",
+          "둘 중 포트 포워딩이 있는 쪽은요? Proton은 모든 유료 플랜의 Windows·macOS·Linux 앱에 포함하고, NordVPN은 Dedicated Server 추가 상품에서만 됩니다.",
+          "Proton VPN 할인을 받으려면 쿠폰이 필요한가요? 아니요. Proton은 코드를 쓰지 않고 할인이 가격에 이미 반영되며, 저희 링크는 Proton 페이지의 파트너 혜택을 엽니다. 규칙은 [저희 사이트의 Proton 페이지](/ko/coupons/proton)에 있습니다.",
+          "둘 다 환불받을 수 있나요? 네, 30일 이내에 각자의 규칙대로 가능합니다. Proton은 사용자당 1회, NordVPN은 처음 구매하는 고객이 대상입니다."
+        ]
+      }
+    ],
+    "pros": [],
+    "cons": [],
+    "cta": {
+      "text": "VPN Plus를 2년 쓰려면 저희 링크가 Proton의 파트너 혜택을 열며, 24개월 분을 선결제합니다. 이후 안내된 갱신은 연 단위이고 당시 유효한 가격이 적용됩니다. 결제 시 통화와 총액을 확인하세요.",
+      "label": "링크로 VPN Plus 보기",
+      "url": "https://go.getproton.me/SH39K",
+      "sponsored": true
+    },
+    "affiliate": "proton",
+    "editorialNote": "두 회사의 플랜 및 도움말 페이지를 바탕으로 작성했으며 속도 테스트는 하지 않았습니다. Proton 링크는 제휴 링크이며 수수료를 받을 수 있습니다.",
+    "relatedArticles": [
+      {
+        "slug": "proton-vpn-worth-it-ko"
+      },
+      {
+        "slug": "proton-vpn-trust-ko"
+      },
+      {
+        "slug": "proton-vpn-refund-ko"
+      },
+      {
+        "slug": "proton-black-friday-ko"
+      }
+    ],
+    "decision": {
+      "takeIf": [
+        "무료 플랜으로 시작하고, 시작 가격과 갱신가를 낮추거나, 추가 상품 없이 컴퓨터에서 포트 포워딩을 쓰고 싶을 때.",
+        "VPN만 필요하고 더 낮은 가격으로 갱신되는 플랜을 원할 때."
+      ],
+      "skipIf": [
+        "NordVPN Complete처럼 VPN과 같은 플랜에 백신, 데이터 모니터링, 클라우드가 필요할 때.",
+        "NordVPN 플랜의 3개월 추가가 갱신가보다 더 중요할 때."
+      ]
+    }
+  },
+  {
+    "id": 1512,
+    "slug": "proton-vpn-vs-nordvpn-ja",
+    "locale": "ja",
+    "translationKey": "proton-vpn-ou-nordvpn",
+    "title": "Proton VPNかNordVPNか：無料プラン、更新後の価格、選び方",
+    "seoTitle": "Proton VPNかNordVPNか：料金、更新、違い",
+    "type": "比較ガイド",
+    "category": "guias-praticos-utilidade",
+    "reviewKind": "guia",
+    "author": {
+      "name": "Cecília Mauad",
+      "slug": "cecilia-mauad",
+      "role": "Em Casa com Cecília",
+      "initials": "CM",
+      "url": "/sobre"
+    },
+    "description": "無料お試し、支払総額と対象月数、年ごとの更新、法域と監査。Proton VPNとNordVPNが公表している内容と、それぞれが向く人を整理しました。",
+    "metaDescription": "Proton VPNとNordVPNを比較：無料プラン、前払い総額、年更新、法域、30日返金を契約前に確認できます。",
+    "publishedAt": "2026年11月27日",
+    "publishedAtISO": "2026-11-27",
+    "updatedAt": "2026-11-27",
+    "draft": false,
+    "isNew": true,
+    "hideFromPortugueseListings": true,
+    "image": "/images/reviews/proton/proton-vpn-ou-nordvpn-hero-ja.webp",
+    "imageAlt": "Proton VPN公式のイラスト。パソコン、スマートフォン、タブレットと、オンになった鍵のスイッチがあります。表紙には「Proton VPN か NordVPN か？」とあります。",
+    "imageFit": "contain",
+    "imageAspect": "landscape",
+    "contentSections": [
+      {
+        "heading": "結論",
+        "paragraphs": [
+          "無料で試したい人や、VPNだけのプランを最安で使いたい人にはProton VPNが向きます。当サイトのリンク経由なら2年で$59.76と、NordVPNの27か月$80.73より安く、更新も低めです。NordVPNは追加3か月と、ウイルス対策・クラウド付きのプランが強みです。"
+        ]
+      },
+      {
+        "heading": "無料プランとお試し：それぞれの内容",
+        "paragraphs": [
+          "Proton VPNには本物の無料プランがあります。料金ページによると、カード登録は不要で、同時接続は1台、サーバーはアプリが選ぶ10か国です。Protonはデータ量の制限はないとしています。公共Wi-Fiでスマートフォンを守るだけなら、費用をかけずに使えます。無料プランにないものは[Proton VPNは価値がある？](/ja/reviews/proton-vpn-worth-it-ja)にあります。",
+          "NordVPNは自社ページに無料プランがありません。ヘルプセンターに7日間のお試しがありますが、新規顧客限定で、1年・2年プラン、カードまたはPayPal払い、対象は15か国のみです。お住まいの国が対象か確認してください。Androidでは、ヘルプセンターにGoogle Play経由の3日間お試しの記載があります。",
+          "実際には、Protonの無料プランに期限はありません。NordVPNは、対象国なら7日間のお試し、AndroidのGoogle Play経由3日間、または支払って30日間の返金を使うことになります。"
+        ]
+      },
+      {
+        "heading": "前払い価格、対象月数、更新",
+        "paragraphs": [
+          "両ページの「月額」には2つの点が隠れています。請求は期間全体を一度に行い、その後は毎年更新されます。そのため表には支払総額、対象月数、更新額を載せました。「実質月額」の列は、総額を対象月数で割った当サイトの計算です。比べるのはProtonのVPN Plusと、VPNのみのNordVPN Basicです。",
+          "いずれもブラックフライデー価格で、NordVPNは「導入価格」と呼んでいます。Protonは月額$9.99のプランを基準に割引を計算しています。NordVPNのドル金額は、ブラックフライデー中に米国ページを確認した報道によるもので（報道では12月9日まで）、税別です。ある報道はBasicを月$3.49としていますが、これはセール前の定価です。支払い時に、ご自身の通貨での総額を確認してください。"
+        ],
+        "comparisonTable": {
+          "caption": "VPN Plus（Proton）とBasic（NordVPN）。Protonは2026年11月27日に確認したドル表示の料金ページ、NordVPNは米国ページを伝える報道に基づきます。支払い時に通貨と総額を確認してください。",
+          "headers": [
+            "プラン",
+            "前払い総額",
+            "対象月数",
+            "実質月額",
+            "年ごとの更新額"
+          ],
+          "rows": [
+            [
+              "Proton VPN Plus、月払い",
+              "$9.99",
+              "1",
+              "$9.99",
+              "毎月$9.99"
+            ],
+            [
+              "Proton VPN Plus、1年",
+              "$35.88",
+              "12",
+              "$2.99",
+              "$83.88"
+            ],
+            [
+              "Proton VPN Plus、2年（当サイトのリンク）",
+              "$59.76",
+              "24",
+              "$2.49",
+              "$83.88"
+            ],
+            [
+              "Proton VPN Plus、2年（公開ページ）",
+              "$83.76",
+              "24",
+              "$3.49",
+              "$83.88"
+            ],
+            [
+              "NordVPN Basic、2年",
+              "$80.73",
+              "27",
+              "$2.99",
+              "$139.08"
+            ]
+          ]
+        },
+        "postParagraphs": [
+          "2年プランでは、NordVPN Basicは当サイトのリンク経由のProtonより$20.97高いものの、3か月長く使えます。この追加月は実際の利点で、月額の列に反映されています。それでも当サイトのリンクなら、VPN Plusのほうが月あたりは安くなります（$2.49対$2.99）。NordVPNの1年プランは月$4.99で3か月追加とされていますが、総額を確認できなかったため表には入れていません。",
+          "重いのは更新額です。最初の期間が終わると、Protonは12か月$83.88（月$6.99相当）、NordVPNは12か月$139.08（月$11.59）と案内しています。案内どおりなら年$55.20の差です。それまでに価格が変わる可能性があり、両ページとも更新額をすでに表示しています。",
+          "表の$59.76は、当サイトのボタンが開くProtonのパートナー向けページの価格です。公開料金ページの同じ2年プランは$83.76なので$24.00安く、更新料として案内されている年$83.88は同じです。公開料金ページの価格で比べるとNordVPNの2年（$80.73）のほうが安くなりますが、Protonの1年（$35.88）は表で最も低い総額のままです。キャンペーンの詳細は[ProtonのBlack Friday](/ja/reviews/proton-black-friday-ja)をご覧ください。"
+        ],
+        "image": {
+          "src": "/images/reviews/proton/proton-vpn-ou-nordvpn-precos-usd.webp",
+          "alt": "Proton VPNのパートナー向けオファーページにある2年のVPN Plusカード：月$2.49、最初の24か月で$59.76、以後12か月ごとに$83.88で更新。",
+          "caption": "Protonのパートナー向けページ（当サイトのボタンが開くページ）の2年のVPN Plus、2026年11月27日：合計は24か月分で、更新からは年単位になります。"
+        },
+        "links": [
+          {
+            "label": "VPN Plusを見る",
+            "href": "https://go.getproton.me/SH39K",
+            "sponsored": true
+          }
+        ]
+      },
+      {
+        "heading": "機能の比較",
+        "paragraphs": [
+          "VPNのみのプランで、Protonは広告ブロックとポートフォワーディングを含みます。NordVPNは、どちらもBasicより上のプランか追加オプションです。表には両社の公式ページに書かれていることだけを載せ、片方に情報がない項目は省きました。"
+        ],
+        "comparisonTable": {
+          "caption": "VPN Plus（Proton）とBasic（NordVPN）、各社の記載による。",
+          "headers": [
+            "項目",
+            "Proton VPN Plus",
+            "NordVPN Basic"
+          ],
+          "rows": [
+            [
+              "同時接続台数",
+              "最大10台",
+              "最大10台"
+            ],
+            [
+              "無料プラン",
+              "あり：1台、10か国、カード不要",
+              "記載なし"
+            ],
+            [
+              "無料お試し",
+              "該当なし",
+              "AndroidのGoogle Play経由で3日間。7日間は15か国のみなのでご自身の国を確認"
+            ],
+            [
+              "広告・トラッカーのブロック",
+              "NetShield、Plusに含まれる",
+              "Completeプランから記載"
+            ],
+            [
+              "ポートフォワーディング",
+              "有料プランに含まれる（Windows・macOS・Linux）",
+              "有料オプションのDedicated Serverのみ"
+            ],
+            [
+              "返金",
+              "30日、1ユーザー1回、Protonと直接契約した場合",
+              "初めて購入する人は30日"
+            ],
+            [
+              "本社所在地",
+              "スイス",
+              "パナマ（NordVPNによる）"
+            ],
+            [
+              "ノーログ方針の監査",
+              "Securitum、2022〜2026年は毎年、報告書を公開",
+              "独立した検証6回（NordVPNによる）"
+            ]
+          ]
+        },
+        "postParagraphs": [
+          "ProtonはPlusにSecure Coreを記載しています。NordVPNは機能ページに二重VPN（Double VPN）、プライベートDNS、スプリットトンネリングを記載しているので、契約前にどのプランに含まれるか確認してください。",
+          "P2PはProtonのページがPlusの機能として記載しています。NordVPNのポートフォワーディングは、ヘルプセンターによると有料オプション「Dedicated Server」が必要で、通常のサーバーや専用IPでは使えません。オプションの価格はページに載っていません。Protonはヘルプセンターで、すべての有料プランのWindows・macOS・Linuxアプリに含まれるとしており、AndroidとiPhoneは一覧にありません。",
+          "速度とストリーミングは対象外にしました。会社の約束は、ご自身のプロバイダーでの実測の代わりにならず、30日間の返金はそのためにあります。"
+        ]
+      },
+      {
+        "heading": "法域、監査、オープンソース",
+        "paragraphs": [
+          "両社とも第三者が監査したノーログ方針をうたっています。違いは本社の所在地と、それぞれが公開している資料です。",
+          "Proton VPNはスイスに本社を置くProton AGが運営しています。ログを残さない方針はSecuritumが監査し、Protonは2022〜2026年の報告書を公開しています。アプリのコードはGitHubで公開されています。各報告書の対象は[Proton VPNは信頼できる？](/ja/reviews/proton-vpn-trust-ja)にあります。",
+          "NordVPNはパナマに本社があるとし、ノーログ方針について独立した検証を6回受けたとしています。最初の2回はPwCスイス、その後はDeloitteで、2023・2024・2025年を含みます。いずれも同社ページの情報です。",
+          "監査は、検査した日のサーバーの一断面です。外部の確認を受けたことは示しますが、その後を保証しません。どちらも閲覧を匿名にはしません。アカウントにログインすれば、そのアカウントで識別されます。"
+        ]
+      },
+      {
+        "heading": "支払い、解約、返金",
+        "paragraphs": [
+          "Protonは、Visa、Mastercard、American Express、PayPalに対応し、ビットコインはアカウント作成後のクレジットとしてのみ使えます。NordVPNはMastercard、Visa、Amex、Discoverのロゴを表示し、ページタイトルには「カード、暗号資産、PayPal」とあります。",
+          "両社とも30日間の返金がありますが、条件は異なります。Protonの規約では1ユーザー1回で、Protonと直接契約した場合のみです。NordVPNは初めて購入する人に30日間で、サポート経由で申請し、App Store経由の購入はAppleの方針に従います。Protonの手順は[Proton VPNの解約と返金のしかた](/ja/reviews/proton-vpn-refund-ja)にあります。"
+        ]
+      },
+      {
+        "heading": "セット内容が重要なとき",
+        "paragraphs": [
+          "ここはNordVPNに強い論拠があります。CompleteプランはVPNに、ウイルス対策、広告・トラッカーのブロック、データ監視、通話保護、パスワード管理、1TBのクラウドを加えます。27か月で$107.73、更新は年$219.48です。最上位のPrimeは27か月で$188.73、更新は$296.28です。",
+          "Protonは、VPN、メール、500GBのクラウド、パスワード管理をまとめたUnlimitedで応えます。年更新ではUnlimited（$119.88）がComplete（$219.48）を下回りますが、中身は同じではありません。Protonはメール・クラウド・パスワード、NordVPNはウイルス対策入りです。期間も27か月と12か月で異なるため、1つの価格行には並べていません。セット内容を重視するなら[Proton Unlimitedは価値がある？](/ja/reviews/proton-unlimited-worth-it-ja)を読み、決める前に[当サイトのProtonページ](/ja/coupons/proton)をご確認ください。"
+        ]
+      },
+      {
+        "heading": "どちらを選ぶか",
+        "paragraphs": [
+          "無料で始めたい、更新額を抑えたい、追加オプションなしでパソコンのポートフォワーディングを使いたい、オープンソースのアプリと毎年監査されるノーログ方針がよい、という方はProton VPNを。1つのプランでウイルス対策、監視、クラウドが欲しい方、追加3か月が更新額より大事な方はNordVPNを選んでください。",
+          "どちらを選んでも、購入した日に更新日をメモしておきましょう。"
+        ],
+        "emphasis": "月額ではなく、支払総額、対象月数、更新額を見てください。NordVPNは3か月多く、Protonは更新額が年$55.20低くなります。",
+        "links": [
+          {
+            "label": "VPN Plusを見る",
+            "href": "https://go.getproton.me/SH39K",
+            "sponsored": true
+          }
+        ]
+      },
+      {
+        "heading": "よくある質問",
+        "bullets": [
+          "2年で安いのはProton VPNとNordVPNのどちらですか？ 当サイトのリンク経由なら、Protonの2年プランは総額も月額も低く、NordVPNは3か月長く使えます。更新額もProtonのほうが低く案内されています。数字は料金表にあります。",
+          "NordVPNにもProton VPNのような無料プランはありますか？ ありません。7日間のお試しは一部の国のみ、AndroidはGoogle Play経由の3日間で、Protonはカード不要の無料プランがあります。",
+          "ポートフォワーディングがあるのはどちらですか？ Protonはすべての有料プランのWindows・macOS・Linuxアプリに含み、NordVPNはDedicated Serverオプションのみです。",
+          "Proton VPNの割引を受けるのにクーポンは必要ですか？ 不要です。Protonはコードを使わず、割引は価格にすでに反映され、当サイトのリンクはProtonページのパートナー向けオファーを開きます。ルールは[当サイトのProtonページ](/ja/coupons/proton)にあります。",
+          "両方とも返金してもらえますか？ はい、30日以内に各社の条件で可能です。Protonは1ユーザー1回、NordVPNは初めて購入する人が対象です。"
+        ]
+      }
+    ],
+    "pros": [],
+    "cons": [],
+    "cta": {
+      "text": "VPN Plusを2年使うなら、当サイトのリンクはProtonのパートナー向けオファーを開き、24か月分を前払いします。その後の更新は年単位で、更新時の有効価格が適用されます。支払い時に通貨と総額を確認してください。",
+      "label": "リンクからVPN Plusを見る",
+      "url": "https://go.getproton.me/SH39K",
+      "sponsored": true
+    },
+    "affiliate": "proton",
+    "editorialNote": "両社のプランページとヘルプページをもとに作成しました。速度テストは行っていません。Protonのリンクはアフィリエイトリンクで、紹介料を受け取る場合があります。",
+    "relatedArticles": [
+      {
+        "slug": "proton-vpn-worth-it-ja"
+      },
+      {
+        "slug": "proton-vpn-trust-ja"
+      },
+      {
+        "slug": "proton-vpn-refund-ja"
+      },
+      {
+        "slug": "proton-black-friday-ja"
+      }
+    ],
+    "decision": {
+      "takeIf": [
+        "無料プランから始め、導入価格と更新額を抑えたい、または追加オプションなしでパソコンでポートフォワーディングを使いたい。",
+        "VPNだけが必要で、更新額が低いプランがよい。"
+      ],
+      "skipIf": [
+        "NordVPNのCompleteのように、VPNと同じプランでウイルス対策、データ監視、クラウドが欲しい。",
+        "NordVPNのプランの追加3か月が、更新額より重要だ。"
+      ]
+    }
+  },
+  {
+    "id": 1513,
+    "slug": "proton-vpn-vs-nordvpn-zh-hant",
+    "locale": "zh-hant",
+    "translationKey": "proton-vpn-ou-nordvpn",
+    "title": "Proton VPN 還是 NordVPN：免費方案、續訂價格與怎麼選",
+    "seoTitle": "Proton VPN 還是 NordVPN：價格、續訂與差異",
+    "type": "比較指南",
+    "category": "guias-praticos-utilidade",
+    "reviewKind": "guia",
+    "author": {
+      "name": "Cecília Mauad",
+      "slug": "cecilia-mauad",
+      "role": "Em Casa com Cecília",
+      "initials": "CM",
+      "url": "/sobre"
+    },
+    "description": "免費試用、實付總額與涵蓋月數、每年續訂、司法管轄與稽核：Proton VPN 和 NordVPN 各自公布的內容，以及各適合哪種人。",
+    "metaDescription": "Proton VPN 還是 NordVPN？訂閱前比較免費方案、預付總額、每年續訂、司法管轄與 30 天退款。",
+    "publishedAt": "2026年11月27日",
+    "publishedAtISO": "2026-11-27",
+    "updatedAt": "2026-11-27",
+    "draft": false,
+    "isNew": true,
+    "hideFromPortugueseListings": true,
+    "image": "/images/reviews/proton/proton-vpn-ou-nordvpn-hero-zh-hant.webp",
+    "imageAlt": "Proton VPN 官方插圖：電腦、手機、平板和一個已開啟的鎖形開關。封面提問「Proton VPN 還是 NordVPN？」。",
+    "imageFit": "contain",
+    "imageAspect": "landscape",
+    "contentSections": [
+      {
+        "heading": "快速回答",
+        "paragraphs": [
+          "想先免費試用、或想以最低價用純 VPN 方案，適合選 Proton VPN：透過我們的連結 2 年 $59.76，低於 NordVPN 27 個月的 $80.73，續訂也更便宜。NordVPN 的優勢是多送 3 個月，以及含防毒與雲端的方案。"
+        ]
+      },
+      {
+        "heading": "免費方案與試用：各提供什麼",
+        "paragraphs": [
+          "Proton VPN 有真正的免費方案。依價格頁面，不需信用卡，同時連線 1 台裝置，伺服器位於 10 個國家，由 App 自動選擇。Proton 表示沒有流量限制。只想在公共 Wi-Fi 保護手機的人，可以不花錢使用。免費方案沒有的功能，見 [Proton VPN 值得買嗎？](/zh-hant/reviews/proton-vpn-worth-it-zh-hant)。",
+          "NordVPN 的頁面沒有免費方案。說明中心提到 7 天試用，但僅限新客戶、1 年與 2 年方案、以信用卡或 PayPal 付款，且只在 15 個國家提供；請確認你所在的國家是否在名單內。Android 方面，說明中心提到可透過 Google Play 試用 3 天。",
+          "實際上，Proton 的免費方案沒有期限。NordVPN 則是：所在國家在名單內可用 7 天試用、Android 可用 Google Play 的 3 天試用，或是付費後使用 30 天退款。"
+        ]
+      },
+      {
+        "heading": "預付價格、涵蓋月數與續訂",
+        "paragraphs": [
+          "兩個頁面上的「每月」價格隱藏了兩件事：費用是整段期間一次收取，之後方案每年續訂。所以表格列出實付總額、涵蓋月數與續訂價。「實際每月」一欄是我們自己的計算，即總額除以涵蓋月數。比較的是 Proton 的 VPN Plus 與 NordVPN 的 Basic，後者只有 VPN。",
+          "這些都是黑色星期五價格，NordVPN 稱之為「入門價」。Proton 以每月 $9.99 的月付方案計算折扣。NordVPN 的美元金額來自黑色星期五期間查看其美國頁面的報導（報導稱活動到 12 月 9 日），未含稅；有一篇報導把 Basic 列為每月 $3.49，那是促銷前的定價。結帳時請確認你所用貨幣的總額。"
+        ],
+        "comparisonTable": {
+          "caption": "VPN Plus（Proton）與 Basic（NordVPN）。Proton 依 2026 年 11 月 27 日查看的美元價格頁面，NordVPN 依報導其美國頁面的內容。結帳時請確認幣別與總額。",
+          "headers": [
+            "方案",
+            "預付總額",
+            "涵蓋月數",
+            "實際每月",
+            "每年續訂價"
+          ],
+          "rows": [
+            [
+              "Proton VPN Plus，月付",
+              "$9.99",
+              "1",
+              "$9.99",
+              "每月 $9.99"
+            ],
+            [
+              "Proton VPN Plus，1 年",
+              "$35.88",
+              "12",
+              "$2.99",
+              "$83.88"
+            ],
+            [
+              "Proton VPN Plus，2 年（透過我們的連結）",
+              "$59.76",
+              "24",
+              "$2.49",
+              "$83.88"
+            ],
+            [
+              "Proton VPN Plus，2 年（公開頁面）",
+              "$83.76",
+              "24",
+              "$3.49",
+              "$83.88"
+            ],
+            [
+              "NordVPN Basic，2 年",
+              "$80.73",
+              "27",
+              "$2.99",
+              "$139.08"
+            ]
+          ]
+        },
+        "postParagraphs": [
+          "2 年方案中，NordVPN Basic 比透過我們連結的 Proton 多收 $20.97，但多涵蓋 3 個月。這些額外月份是實際的優勢，也已算進每月欄位。即便如此，透過我們的連結，VPN Plus 每月仍較便宜（$2.49 對 $2.99）。NordVPN 的 1 年方案標示每月 $4.99 並多送 3 個月，但我們無法確認其總額，因此沒有放進表格。",
+          "續訂價影響更大。第一期結束後，Proton 標示 12 個月 $83.88（相當於每月 $6.99），NordVPN 標示 12 個月 $139.08（每月 $11.59）。依標示價格，每年差 $55.20。屆時價格可能變動，兩個頁面也都已公布續訂價。",
+          "表中的 $59.76 來自 Proton 的合作夥伴頁面，也就是我們按鈕開啟的頁面：比公開價格頁面上同一個 2 年方案的 $83.76 少 $24.00，公布的續訂價相同，都是每年 $83.88。以公開頁面的價格，NordVPN 的 2 年方案（$80.73）會較便宜，但 Proton 的 1 年方案（$35.88）仍是表中最低的總額。活動優惠詳見 [Proton 黑色星期五](/zh-hant/reviews/proton-black-friday-zh-hant)。"
+        ],
+        "image": {
+          "src": "/images/reviews/proton/proton-vpn-ou-nordvpn-precos-usd.webp",
+          "alt": "Proton VPN 合作夥伴優惠頁面上的 2 年 VPN Plus 卡片：每月 $2.49，前 24 個月共 $59.76，之後每 12 個月以 $83.88 續訂。",
+          "caption": "Proton 合作夥伴頁面（我們按鈕開啟的頁面）上的 2 年 VPN Plus，2026 年 11 月 27 日：總額涵蓋 24 個月，續訂後改為按年計費。"
+        },
+        "links": [
+          {
+            "label": "查看 VPN Plus",
+            "href": "https://go.getproton.me/SH39K",
+            "sponsored": true
+          }
+        ]
+      },
+      {
+        "heading": "功能並排比較",
+        "paragraphs": [
+          "在純 VPN 方案中，Proton 包含廣告封鎖與連接埠轉發；NordVPN 則是在 Basic 以上的方案或附加項目。表格只列兩家官方頁面所寫的內容，其中一方沒有資料的項目就省略。"
+        ],
+        "comparisonTable": {
+          "caption": "VPN Plus（Proton）與 Basic（NordVPN），依各家說明。",
+          "headers": [
+            "項目",
+            "Proton VPN Plus",
+            "NordVPN Basic"
+          ],
+          "rows": [
+            [
+              "同時連線裝置",
+              "最多 10 台",
+              "最多 10 台"
+            ],
+            [
+              "免費方案",
+              "有：1 台裝置、10 個國家、不需信用卡",
+              "未說明"
+            ],
+            [
+              "免費試用",
+              "不適用",
+              "Android 透過 Google Play 3 天；7 天試用只在 15 個國家，請確認你的國家"
+            ],
+            [
+              "廣告與追蹤器封鎖",
+              "NetShield，Plus 已包含",
+              "從 Complete 方案起列出"
+            ],
+            [
+              "連接埠轉發",
+              "付費方案已包含，支援 Windows、macOS、Linux",
+              "僅限付費附加項目 Dedicated Server"
+            ],
+            [
+              "退款",
+              "30 天，每位使用者一次，須直接向 Proton 訂閱",
+              "首次購買者 30 天"
+            ],
+            [
+              "公司總部",
+              "瑞士",
+              "巴拿馬（依 NordVPN 說法）"
+            ],
+            [
+              "無紀錄政策稽核",
+              "Securitum，2022 至 2026 年每年一次，報告已公開",
+              "六次獨立查核（依 NordVPN 說法）"
+            ]
+          ]
+        },
+        "postParagraphs": [
+          "Proton 在 Plus 列出 Secure Core。NordVPN 在功能頁列出雙重 VPN（Double VPN）、私人 DNS 與分割通道；訂閱前請確認各自屬於哪個方案。",
+          "P2P 方面，Proton 頁面將此功能列在 Plus。NordVPN 的連接埠轉發，說明中心表示必須有付費附加項目「Dedicated Server」；一般伺服器與專屬 IP 都不行。頁面沒有顯示附加項目的價格。Proton 的說明中心則指出所有付費方案在 Windows、macOS 與 Linux 應用程式中都包含連接埠轉發；清單中沒有 Android 與 iPhone。",
+          "速度與串流不在比較範圍內：公司的承諾無法取代在你自己的網路業者上實測，30 天退款正是為此而設。"
+        ]
+      },
+      {
+        "heading": "司法管轄、稽核與開放原始碼",
+        "paragraphs": [
+          "兩家都宣稱無紀錄政策經過第三方稽核；差別在於總部所在地與各自公布的內容。",
+          "Proton VPN 由總部位於瑞士的 Proton AG 營運。不保存紀錄的政策由 Securitum 稽核，Proton 公布 2022 至 2026 年的報告。應用程式的程式碼公開在 GitHub。各份報告涵蓋的範圍見 [Proton VPN 可靠嗎？](/zh-hant/reviews/proton-vpn-trust-zh-hant)。",
+          "NordVPN 表示總部位於巴拿馬，並稱其無紀錄政策接受過六次獨立查核，前兩次由 PwC 瑞士進行，之後由 Deloitte 進行，包括 2023、2024 與 2025 年。這些是其自家頁面的資訊。",
+          "稽核只是受查伺服器在那幾天的快照。它顯示公司接受過外部查核，並不保證之後的情況。兩者都不會讓瀏覽變成匿名：登入帳號後，仍會被該帳號識別。"
+        ]
+      },
+      {
+        "heading": "付款、取消與退款",
+        "paragraphs": [
+          "Proton 接受 Visa、Mastercard、American Express 與 PayPal，比特幣僅能在建立帳號後以點數方式使用。NordVPN 顯示 Mastercard、Visa、Amex 與 Discover 標誌，頁面標題提到「信用卡、加密貨幣或 PayPal」。",
+          "兩家都提供 30 天退款，但規則不同。依 Proton 的條款，每位使用者一次，且僅限直接向 Proton 訂閱。NordVPN 說的是首次購買者 30 天，透過客服申請；經 App Store 購買則依 Apple 政策。Proton 的步驟見 [如何取消 Proton VPN 並申請退款](/zh-hant/reviews/proton-vpn-refund-zh-hant)。"
+        ]
+      },
+      {
+        "heading": "完整套組何時重要",
+        "paragraphs": [
+          "這部分 NordVPN 有很強的論點。Complete 方案在 VPN 之外加上防毒、廣告與追蹤器封鎖、資料監控、通話保護、密碼管理器與 1 TB 雲端空間。27 個月 $107.73，續訂每年 $219.48。最高階的 Prime 為 27 個月 $188.73，續訂 $296.28。",
+          "Proton 以 Unlimited 回應，整合 VPN、電子郵件、500 GB 雲端空間與密碼管理器。以每年續訂價來看，Unlimited（$119.88）低於 Complete（$219.48），但兩個套組並不相同：Proton 的是郵件、雲端與密碼，NordVPN 的含防毒。期間也不同（27 個月對 12 個月），所以我們沒有把兩者放在同一行價格上。如果你看重套組，請讀 [Proton Unlimited 值得買嗎？](/zh-hant/reviews/proton-unlimited-worth-it-zh-hant)，決定前也請看 [我們網站上的 Proton 頁面](/zh-hant/coupons/proton)。"
+        ]
+      },
+      {
+        "heading": "怎麼選",
+        "paragraphs": [
+          "想從免費開始、續訂付得少，或想在電腦上不加購就用連接埠轉發，並且重視開放原始碼應用程式與每年稽核的無紀錄政策，就選 Proton VPN。想在同一方案取得防毒、監控與雲端，或認為多送的 3 個月比續訂價更重要，就選 NordVPN。",
+          "無論選哪個，購買當天就把續訂日期記下來。"
+        ],
+        "emphasis": "請看實付總額、涵蓋月數與續訂價，而不是每月價格：NordVPN 多涵蓋 3 個月，Proton 續訂每年便宜 $55.20。",
+        "links": [
+          {
+            "label": "查看 VPN Plus",
+            "href": "https://go.getproton.me/SH39K",
+            "sponsored": true
+          }
+        ]
+      },
+      {
+        "heading": "常見問題",
+        "bullets": [
+          "2 年下來哪個比較便宜：Proton VPN 還是 NordVPN？透過我們的連結，Proton 的 2 年方案總額與每月都較低；NordVPN 則多涵蓋 3 個月。續訂時 Proton 標示的價格也較低。數字都在價格表中。",
+          "NordVPN 有像 Proton VPN 那樣的免費方案嗎？沒有：它的 7 天試用只在部分國家，Android 為 Google Play 3 天，而 Proton 有不需信用卡的免費方案。",
+          "兩者中哪個有連接埠轉發？Proton 在所有付費方案的 Windows、macOS 與 Linux 應用程式中包含；NordVPN 只有加購 Dedicated Server 才有。",
+          "要拿到 Proton VPN 的折扣需要優惠碼嗎？不需要。Proton 不使用代碼：折扣已反映在價格上，我們的連結會開啟其頁面上的合作夥伴優惠。規則見 [我們網站上的 Proton 頁面](/zh-hant/coupons/proton)。",
+          "兩家都能退款嗎？可以，30 天內依各自規則：Proton 每位使用者一次，NordVPN 則限首次購買者。"
+        ]
+      }
+    ],
+    "pros": [],
+    "cons": [],
+    "cta": {
+      "text": "想使用 VPN Plus 兩年，我們的連結會開啟 Proton 的合作夥伴優惠，24 個月費用須預付。之後標示的續訂為每年一次，實際依續訂時有效價格。結帳時請確認幣別與總額。",
+      "label": "透過連結查看 VPN Plus",
+      "url": "https://go.getproton.me/SH39K",
+      "sponsored": true
+    },
+    "affiliate": "proton",
+    "editorialNote": "依兩家公司的方案與說明頁面撰寫，沒有做速度測試。Proton 的連結是聯盟連結，可能為我們帶來佣金。",
+    "relatedArticles": [
+      {
+        "slug": "proton-vpn-worth-it-zh-hant"
+      },
+      {
+        "slug": "proton-vpn-trust-zh-hant"
+      },
+      {
+        "slug": "proton-vpn-refund-zh-hant"
+      },
+      {
+        "slug": "proton-black-friday-zh-hant"
+      }
+    ],
+    "decision": {
+      "takeIf": [
+        "你想從免費方案開始、降低起步與續訂的費用，或想在電腦上不加購就使用連接埠轉發。",
+        "你只需要 VPN，並想要續訂價較低的方案。"
+      ],
+      "skipIf": [
+        "你想在 VPN 的同一方案中取得防毒、資料監控與雲端，如 NordVPN 的 Complete。",
+        "NordVPN 方案多送的 3 個月對你比續訂價更重要。"
+      ]
+    }
+  },
+  {
+    "id": 1514,
+    "slug": "proton-vpn-vs-nordvpn-zh-hans",
+    "locale": "zh-hans",
+    "translationKey": "proton-vpn-ou-nordvpn",
+    "title": "Proton VPN 还是 NordVPN：免费套餐、续订价格与怎么选",
+    "seoTitle": "Proton VPN 还是 NordVPN：价格、续订与差异",
+    "type": "对比指南",
+    "category": "guias-praticos-utilidade",
+    "reviewKind": "guia",
+    "author": {
+      "name": "Cecília Mauad",
+      "slug": "cecilia-mauad",
+      "role": "Em Casa com Cecília",
+      "initials": "CM",
+      "url": "/sobre"
+    },
+    "description": "免费试用、实付总额与覆盖月数、每年续订、司法管辖与审计：Proton VPN 和 NordVPN 各自公布的内容，以及各适合哪种人。",
+    "metaDescription": "Proton VPN 还是 NordVPN？订阅前比较免费套餐、预付总额、每年续订、司法管辖与 30 天退款。",
+    "publishedAt": "2026年11月27日",
+    "publishedAtISO": "2026-11-27",
+    "updatedAt": "2026-11-27",
+    "draft": false,
+    "isNew": true,
+    "hideFromPortugueseListings": true,
+    "image": "/images/reviews/proton/proton-vpn-ou-nordvpn-hero-zh-hans.webp",
+    "imageAlt": "Proton VPN 官方插图：电脑、手机、平板和一个已开启的锁形开关。封面提问“Proton VPN 还是 NordVPN？”。",
+    "imageFit": "contain",
+    "imageAspect": "landscape",
+    "contentSections": [
+      {
+        "heading": "快速回答",
+        "paragraphs": [
+          "想先免费试用、或想以最低价用纯 VPN 套餐，适合选 Proton VPN：通过我们的链接 2 年 $59.76，低于 NordVPN 27 个月的 $80.73，续订也更便宜。NordVPN 的优势是多送 3 个月，以及含杀毒和云存储的套餐。"
+        ]
+      },
+      {
+        "heading": "免费套餐与试用：各提供什么",
+        "paragraphs": [
+          "Proton VPN 有真正的免费套餐。按价格页面所述，不需要银行卡，同时连接 1 台设备，服务器位于 10 个国家，由 App 自动选择。Proton 称没有流量限制。只想在公共 Wi-Fi 下保护手机的人，可以不花钱使用。免费套餐没有的功能，见 [Proton VPN 值得买吗？](/zh-hans/reviews/proton-vpn-worth-it-zh-hans)。",
+          "NordVPN 的页面没有免费套餐。帮助中心提到 7 天试用，但仅限新客户、1 年和 2 年套餐、用银行卡或 PayPal 付款，且只在 15 个国家提供；请确认你所在的国家是否在名单内。Android 方面，帮助中心提到可通过 Google Play 试用 3 天。",
+          "实际上，Proton 的免费套餐没有期限。NordVPN 则是：所在国家在名单内可用 7 天试用、Android 可用 Google Play 的 3 天试用，或是付费后使用 30 天退款。"
+        ]
+      },
+      {
+        "heading": "预付价格、覆盖月数与续订",
+        "paragraphs": [
+          "两个页面上的“每月”价格隐藏了两件事：费用是整段期间一次收取，之后套餐每年续订。所以表格列出实付总额、覆盖月数和续订价。“实际每月”一列是我们自己的计算，即总额除以覆盖月数。比较的是 Proton 的 VPN Plus 与 NordVPN 的 Basic，后者只有 VPN。",
+          "这些都是黑色星期五价格，NordVPN 称之为“入门价”。Proton 以每月 $9.99 的月付套餐计算折扣。NordVPN 的美元金额来自黑色星期五期间查看其美国页面的报道（报道称活动到 12 月 9 日），未含税；有一篇报道把 Basic 列为每月 $3.49，那是促销前的标价。结账时请确认你所用货币的总额。"
+        ],
+        "comparisonTable": {
+          "caption": "VPN Plus（Proton）与 Basic（NordVPN）。Proton 依据 2026 年 11 月 27 日查看的美元价格页面，NordVPN 依据报道其美国页面的内容。结账时请确认币种和总额。",
+          "headers": [
+            "套餐",
+            "预付总额",
+            "覆盖月数",
+            "实际每月",
+            "每年续订价"
+          ],
+          "rows": [
+            [
+              "Proton VPN Plus，月付",
+              "$9.99",
+              "1",
+              "$9.99",
+              "每月 $9.99"
+            ],
+            [
+              "Proton VPN Plus，1 年",
+              "$35.88",
+              "12",
+              "$2.99",
+              "$83.88"
+            ],
+            [
+              "Proton VPN Plus，2 年（通过我们的链接）",
+              "$59.76",
+              "24",
+              "$2.49",
+              "$83.88"
+            ],
+            [
+              "Proton VPN Plus，2 年（公开页面）",
+              "$83.76",
+              "24",
+              "$3.49",
+              "$83.88"
+            ],
+            [
+              "NordVPN Basic，2 年",
+              "$80.73",
+              "27",
+              "$2.99",
+              "$139.08"
+            ]
+          ]
+        },
+        "postParagraphs": [
+          "2 年套餐中，NordVPN Basic 比通过我们链接的 Proton 多收 $20.97，但多覆盖 3 个月。这些额外月份是实际的优势，也已计入每月一列。即便如此，通过我们的链接，VPN Plus 每月仍然更便宜（$2.49 对 $2.99）。NordVPN 的 1 年套餐标示每月 $4.99 并多送 3 个月，但我们无法确认其总额，因此没有放进表格。",
+          "续订价影响更大。第一期结束后，Proton 标示 12 个月 $83.88（相当于每月 $6.99），NordVPN 标示 12 个月 $139.08（每月 $11.59）。按标示价格，每年相差 $55.20。到时价格可能变动，两个页面也都已公布续订价。",
+          "表中的 $59.76 来自 Proton 的合作伙伴页面，也就是我们按钮打开的页面：比公开价格页面上同一 2 年套餐的 $83.76 少 $24.00，公布的续订价相同，都是每年 $83.88。按公开页面的价格，NordVPN 的 2 年套餐（$80.73）会更便宜，但 Proton 的 1 年套餐（$35.88）仍是表中最低的总额。活动优惠详见 [Proton 黑色星期五](/zh-hans/reviews/proton-black-friday-zh-hans)。"
+        ],
+        "image": {
+          "src": "/images/reviews/proton/proton-vpn-ou-nordvpn-precos-usd.webp",
+          "alt": "Proton VPN 合作伙伴优惠页面上的 2 年 VPN Plus 卡片：每月 $2.49，前 24 个月共 $59.76，之后每 12 个月以 $83.88 续订。",
+          "caption": "Proton 合作伙伴页面（我们按钮打开的页面）上的 2 年 VPN Plus，2026 年 11 月 27 日：总额涵盖 24 个月，续订后改为按年计费。"
+        },
+        "links": [
+          {
+            "label": "查看 VPN Plus",
+            "href": "https://go.getproton.me/SH39K",
+            "sponsored": true
+          }
+        ]
+      },
+      {
+        "heading": "功能并排比较",
+        "paragraphs": [
+          "在纯 VPN 套餐中，Proton 包含广告拦截和端口转发；NordVPN 则是在 Basic 以上的套餐或附加项目。表格只列两家官方页面所写的内容，其中一方没有资料的项目就省略。"
+        ],
+        "comparisonTable": {
+          "caption": "VPN Plus（Proton）与 Basic（NordVPN），依各家说明。",
+          "headers": [
+            "项目",
+            "Proton VPN Plus",
+            "NordVPN Basic"
+          ],
+          "rows": [
+            [
+              "同时连接设备",
+              "最多 10 台",
+              "最多 10 台"
+            ],
+            [
+              "免费套餐",
+              "有：1 台设备、10 个国家、不需银行卡",
+              "未说明"
+            ],
+            [
+              "免费试用",
+              "不适用",
+              "Android 通过 Google Play 3 天；7 天试用只在 15 个国家，请确认你的国家"
+            ],
+            [
+              "广告与追踪器拦截",
+              "NetShield，Plus 已包含",
+              "从 Complete 套餐起列出"
+            ],
+            [
+              "端口转发",
+              "付费套餐已包含，支持 Windows、macOS、Linux",
+              "仅限付费附加项目 Dedicated Server"
+            ],
+            [
+              "退款",
+              "30 天，每位用户一次，须直接向 Proton 订阅",
+              "首次购买者 30 天"
+            ],
+            [
+              "公司总部",
+              "瑞士",
+              "巴拿马（据 NordVPN 称）"
+            ],
+            [
+              "无日志政策审计",
+              "Securitum，2022 至 2026 年每年一次，报告已公开",
+              "六次独立核查（据 NordVPN 称）"
+            ]
+          ]
+        },
+        "postParagraphs": [
+          "Proton 在 Plus 列出 Secure Core。NordVPN 在功能页列出双重 VPN（Double VPN）、私人 DNS 和分应用隧道；订阅前请确认各自属于哪个套餐。",
+          "P2P 方面，Proton 页面将此功能列在 Plus。NordVPN 的端口转发，帮助中心表示必须有付费附加项目“Dedicated Server”；普通服务器和专用 IP 都不行。页面没有显示附加项目的价格。Proton 的帮助中心则指出所有付费套餐在 Windows、macOS 和 Linux 应用中都包含端口转发；清单中没有 Android 和 iPhone。",
+          "速度与流媒体不在比较范围内：公司的承诺无法替代在你自己的网络运营商上实测，30 天退款正是为此而设。"
+        ]
+      },
+      {
+        "heading": "司法管辖、审计与开源",
+        "paragraphs": [
+          "两家都声称无日志政策经过第三方审计；区别在于总部所在地和各自公布的内容。",
+          "Proton VPN 由总部位于瑞士的 Proton AG 运营。不保存日志的政策由 Securitum 审计，Proton 公布 2022 至 2026 年的报告。应用的代码在 GitHub 上公开。各份报告涵盖的范围见 [Proton VPN 可靠吗？](/zh-hans/reviews/proton-vpn-trust-zh-hans)。",
+          "NordVPN 表示总部位于巴拿马，并称其无日志政策接受过六次独立核查，前两次由 PwC 瑞士进行，之后由 Deloitte 进行，包括 2023、2024 和 2025 年。这些是其自家页面的信息。",
+          "审计只是受查服务器在那几天的快照。它说明公司接受过外部核查，并不保证之后的情况。两者都不会让上网变成匿名：登录账号后，仍会被该账号识别。"
+        ]
+      },
+      {
+        "heading": "付款、取消与退款",
+        "paragraphs": [
+          "Proton 接受 Visa、Mastercard、American Express 和 PayPal，比特币仅能在创建账号后以点数方式使用。NordVPN 显示 Mastercard、Visa、Amex 和 Discover 标志，页面标题提到“银行卡、加密货币或 PayPal”。",
+          "两家都提供 30 天退款，但规则不同。按 Proton 的条款，每位用户一次，且仅限直接向 Proton 订阅。NordVPN 说的是首次购买者 30 天，通过客服申请；经 App Store 购买则按 Apple 政策。Proton 的步骤见 [如何取消 Proton VPN 并申请退款](/zh-hans/reviews/proton-vpn-refund-zh-hans)。"
+        ]
+      },
+      {
+        "heading": "完整套装何时重要",
+        "paragraphs": [
+          "这部分 NordVPN 有很强的论点。Complete 套餐在 VPN 之外加上杀毒、广告与追踪器拦截、数据监控、通话保护、密码管理器和 1 TB 云存储。27 个月 $107.73，续订每年 $219.48。最高档的 Prime 为 27 个月 $188.73，续订 $296.28。",
+          "Proton 以 Unlimited 回应，整合 VPN、电子邮件、500 GB 云存储和密码管理器。按每年续订价来看，Unlimited（$119.88）低于 Complete（$219.48），但两个套装并不相同：Proton 的是邮件、云和密码，NordVPN 的含杀毒。期间也不同（27 个月对 12 个月），所以我们没有把两者放在同一行价格上。如果你看重套装，请读 [Proton Unlimited 值得买吗？](/zh-hans/reviews/proton-unlimited-worth-it-zh-hans)，决定前也请看 [我们网站上的 Proton 页面](/zh-hans/coupons/proton)。"
+        ]
+      },
+      {
+        "heading": "怎么选",
+        "paragraphs": [
+          "想从免费开始、续订付得少，或想在电脑上不加购就用端口转发，并且看重开源应用和每年审计的无日志政策，就选 Proton VPN。想在同一套餐获得杀毒、监控和云存储，或认为多送的 3 个月比续订价更重要，就选 NordVPN。",
+          "无论选哪个，购买当天就把续订日期记下来。"
+        ],
+        "emphasis": "请看实付总额、覆盖月数和续订价，而不是每月价格：NordVPN 多覆盖 3 个月，Proton 续订每年便宜 $55.20。",
+        "links": [
+          {
+            "label": "查看 VPN Plus",
+            "href": "https://go.getproton.me/SH39K",
+            "sponsored": true
+          }
+        ]
+      },
+      {
+        "heading": "常见问题",
+        "bullets": [
+          "2 年下来哪个更便宜：Proton VPN 还是 NordVPN？通过我们的链接，Proton 的 2 年套餐总额和每月都更低；NordVPN 则多覆盖 3 个月。续订时 Proton 标示的价格也更低。数字都在价格表中。",
+          "NordVPN 有像 Proton VPN 那样的免费套餐吗？没有：它的 7 天试用只在部分国家，Android 为 Google Play 3 天，而 Proton 有不需银行卡的免费套餐。",
+          "两者中哪个有端口转发？Proton 在所有付费套餐的 Windows、macOS 和 Linux 应用中包含；NordVPN 只有加购 Dedicated Server 才有。",
+          "要拿到 Proton VPN 的折扣需要优惠码吗？不需要。Proton 不使用代码：折扣已体现在价格上，我们的链接会打开其页面上的合作伙伴优惠。规则见 [我们网站上的 Proton 页面](/zh-hans/coupons/proton)。",
+          "两家都能退款吗？可以，30 天内按各自规则：Proton 每位用户一次，NordVPN 则限首次购买者。"
+        ]
+      }
+    ],
+    "pros": [],
+    "cons": [],
+    "cta": {
+      "text": "想使用 VPN Plus 两年，我们的链接会打开 Proton 的合作伙伴优惠，24 个月费用须预付。之后标示的续订为每年一次，实际以续订时有效价格为准。结账时请确认币种和总额。",
+      "label": "通过链接查看 VPN Plus",
+      "url": "https://go.getproton.me/SH39K",
+      "sponsored": true
+    },
+    "affiliate": "proton",
+    "editorialNote": "依据两家公司的套餐和帮助页面撰写，没有做速度测试。Proton 的链接是联盟链接，可能为我们带来佣金。",
+    "relatedArticles": [
+      {
+        "slug": "proton-vpn-worth-it-zh-hans"
+      },
+      {
+        "slug": "proton-vpn-trust-zh-hans"
+      },
+      {
+        "slug": "proton-vpn-refund-zh-hans"
+      },
+      {
+        "slug": "proton-black-friday-zh-hans"
+      }
+    ],
+    "decision": {
+      "takeIf": [
+        "你想从免费套餐开始、降低起步和续订的费用，或想在电脑上不加购就使用端口转发。",
+        "你只需要 VPN，并想要续订价更低的套餐。"
+      ],
+      "skipIf": [
+        "你想在 VPN 的同一套餐中获得杀毒、数据监控和云存储，如 NordVPN 的 Complete。",
+        "NordVPN 套餐多送的 3 个月对你比续订价更重要。"
+      ]
+    }
+  },
+  {
+    "id": 1515,
+    "slug": "proton-vpn-vs-nordvpn-ar",
+    "locale": "ar",
+    "translationKey": "proton-vpn-ou-nordvpn",
+    "title": "Proton VPN أم NordVPN: الخطة المجانية والسعر مع التجديد وأيهما تختار",
+    "seoTitle": "Proton VPN أم NordVPN: السعر والتجديد والفروق",
+    "type": "مقارنة",
+    "category": "guias-praticos-utilidade",
+    "reviewKind": "guia",
+    "author": {
+      "name": "Cecília Mauad",
+      "slug": "cecilia-mauad",
+      "role": "Em Casa com Cecília",
+      "initials": "CM",
+      "url": "/sobre"
+    },
+    "description": "تجربة مجانية والمبلغ المدفوع والأشهر المغطاة والتجديد السنوي والولاية القضائية والتدقيق: ما تعلنه Proton VPN وNordVPN ولمن تناسب كل منهما.",
+    "metaDescription": "Proton VPN أم NordVPN؟ قارن الخطة المجانية والإجمالي المدفوع مقدمًا والتجديد السنوي والولاية القضائية واسترداد 30 يومًا قبل الاشتراك.",
+    "publishedAt": "27 نوفمبر 2026",
+    "publishedAtISO": "2026-11-27",
+    "updatedAt": "2026-11-27",
+    "draft": false,
+    "isNew": true,
+    "hideFromPortugueseListings": true,
+    "image": "/images/reviews/proton/proton-vpn-ou-nordvpn-hero-ar.webp",
+    "imageAlt": "رسم توضيحي رسمي لـ Proton VPN يضم حاسوبًا وهاتفًا وجهازًا لوحيًا ومفتاح قفل مفعّلًا. يسأل الغلاف: «Proton VPN أم NordVPN؟».",
+    "imageFit": "contain",
+    "imageAspect": "landscape",
+    "contentSections": [
+      {
+        "heading": "الإجابة السريعة",
+        "paragraphs": [
+          "تناسب Proton VPN من يريد التجربة مجانًا ودفع أقل مبلغ في خطة VPN فقط: عبر رابطنا تبلغ تكلفة سنتين $59.76 مقابل $80.73 لـ27 شهرًا في NordVPN، وتتجدد بسعر أقل. وتتفوق NordVPN بالأشهر الثلاثة الإضافية وبالخطط التي تضم مكافح الفيروسات والتخزين السحابي."
+        ]
+      },
+      {
+        "heading": "الخطة المجانية والتجربة: ما تقدمه كل منهما",
+        "paragraphs": [
+          "لدى Proton VPN خطة مجانية حقيقية. وفق صفحة الأسعار، لا تطلب بطاقة، وتربط جهازًا واحدًا في كل مرة، وتستخدم خوادم في 10 دول يختارها التطبيق. تقول Proton إنه لا يوجد حد للبيانات. ومن يريد فقط حماية هاتفه على شبكة واي فاي عامة يستطيع استخدامها دون إنفاق. وما تتركه الخطة المجانية خارجها موجود في [هل يستحق Proton VPN؟](/ar/reviews/proton-vpn-worth-it-ar).",
+          "لا تقدم NordVPN خطة مجانية في صفحاتها. لديها تجربة لمدة 7 أيام، موصوفة في مركز المساعدة، لكنها للعملاء الجدد فقط، في خطتي السنة والسنتين، بالبطاقة أو PayPal، وفي 15 دولة فقط؛ تحقق مما إذا كانت دولتك في القائمة. وعلى Android يذكر مركز المساعدة تجربة لمدة 3 أيام عبر Google Play.",
+          "عمليًا، خطة Proton المجانية بلا مدة محددة. أما مع NordVPN فيبقى: تجربة 7 أيام إن كانت دولتك في القائمة، أو تجربة 3 أيام على Android عبر Google Play، أو الدفع واستخدام الاسترداد خلال 30 يومًا."
+        ]
+      },
+      {
+        "heading": "السعر المدفوع مقدمًا والأشهر المغطاة والتجديد",
+        "paragraphs": [
+          "القيمة «في الشهر» في الصفحتين تخفي أمرين: الدفع يغطي الفترة كاملة دفعة واحدة، ثم تتجدد الخطة سنويًا. لذلك يعرض الجدول الإجمالي المدفوع والأشهر المغطاة والتجديد. وعمود «الشهر الفعلي» حساب منا: الإجمالي مقسومًا على الأشهر المغطاة. المقارنة بين VPN Plus من Proton وBasic من NordVPN، وهي VPN فقط.",
+          "هذه أسعار الجمعة السوداء، وتسميها NordVPN «أسعار تمهيدية». تحسب Proton خصمها على الخطة الشهرية البالغة $9.99. أما أرقام NordVPN بالدولار فمصدرها تقارير نشرت ما قرأته من صفحتها الأمريكية خلال الجمعة السوداء (حتى 9 ديسمبر بحسبها)، قبل الضريبة؛ وأحد التقارير يذكر Basic بسعر $3.49 شهريًا، وهو سعر القائمة قبل العرض. تحقق من الإجمالي بعملتك عند الدفع."
+        ],
+        "comparisonTable": {
+          "caption": "VPN Plus (Proton) وBasic (NordVPN). Proton وفق صفحات الأسعار بالدولار التي قُرئت في 27 نوفمبر 2026؛ وNordVPN وفق تقارير عن صفحتها الأمريكية. تحقق من العملة والإجمالي عند الدفع.",
+          "headers": [
+            "الخطة",
+            "الإجمالي المدفوع مقدمًا",
+            "الأشهر المغطاة",
+            "الشهر الفعلي",
+            "التجديد السنوي"
+          ],
+          "rows": [
+            [
+              "Proton VPN Plus، شهري",
+              "$9.99",
+              "1",
+              "$9.99",
+              "$9.99 كل شهر"
+            ],
+            [
+              "Proton VPN Plus، سنة",
+              "$35.88",
+              "12",
+              "$2.99",
+              "$83.88"
+            ],
+            [
+              "Proton VPN Plus، سنتان عبر رابطنا",
+              "$59.76",
+              "24",
+              "$2.49",
+              "$83.88"
+            ],
+            [
+              "Proton VPN Plus، سنتان، الصفحة العامة",
+              "$83.76",
+              "24",
+              "$3.49",
+              "$83.88"
+            ],
+            [
+              "NordVPN Basic، سنتان",
+              "$80.73",
+              "27",
+              "$2.99",
+              "$139.08"
+            ]
+          ]
+        },
+        "postParagraphs": [
+          "في خطة السنتين، تتقاضى Basic من NordVPN مبلغ $20.97 أكثر من Proton عبر رابطنا، لكنها تغطي 3 أشهر إضافية. هذه الأشهر الإضافية ميزة حقيقية وهي محتسبة في عمود الشهر. ومع ذلك، عبر رابطنا يأتي VPN Plus أرخص في الشهر ($2.49 مقابل $2.99). وتعلن خطة السنة في NordVPN عن $4.99 شهريًا مع 3 أشهر إضافية، لكننا لم نتمكن من تأكيد إجماليها، لذلك لم تدخل الجدول.",
+          "التجديد أثقل وزنًا. بعد الفترة الأولى تعلن Proton $83.88 لـ12 شهرًا، أي ما يعادل $6.99 شهريًا، وتعلن NordVPN $139.08 لـ12 شهرًا، أي $11.59 شهريًا. وهذا فرق قدره $55.20 في السنة بحسب الأسعار المعلنة. وقد يتغير السعر حتى ذلك الحين، والصفحتان تعلنان قيمة التجديد من الآن.",
+          "مبلغ $59.76 في الجدول مصدره صفحة الشركاء لدى Proton، التي يفتحها زرنا: وهو أقل بمقدار $24.00 من $83.76 للخطة نفسها لمدة سنتين في صفحتها العامة، مع التجديد المعلن نفسه البالغ $83.88 في السنة. وبأسعار الصفحة العامة ستكون خطة السنتين في NordVPN أرخص ($80.73)، وتبقى خطة السنة في Proton ($35.88) أقل إجمالي في الجدول. المزيد عن عروض الحملة في [الجمعة السوداء لدى Proton](/ar/reviews/proton-black-friday-ar)."
+        ],
+        "image": {
+          "src": "/images/reviews/proton/proton-vpn-ou-nordvpn-precos-usd.webp",
+          "alt": "بطاقة VPN Plus لسنتين في صفحة عروض الشركاء لدى Proton VPN، بسعر $2.49 شهريًا، و$59.76 لأول 24 شهرًا، مع تجديد بمبلغ $83.88 كل 12 شهرًا.",
+          "caption": "VPN Plus لسنتين في صفحة الشركاء لدى Proton، التي يفتحها زرنا، بتاريخ 27 نوفمبر 2026: الإجمالي يغطي 24 شهرًا، ثم يصبح التجديد سنويًا."
+        },
+        "links": [
+          {
+            "label": "عرض VPN Plus",
+            "href": "https://go.getproton.me/SH39K",
+            "sponsored": true
+          }
+        ]
+      },
+      {
+        "heading": "الميزات جنبًا إلى جنب",
+        "paragraphs": [
+          "في خطة VPN فقط، تضم Proton حظر الإعلانات وإعادة توجيه المنافذ؛ أما في NordVPN فكلاهما في خطة أعلى من Basic أو إضافة مدفوعة. يضم الجدول ما تقوله الصفحات الرسمية للشركتين فقط. وحيث تغيب معلومة عند إحداهما، تُرك الصف."
+        ],
+        "comparisonTable": {
+          "caption": "VPN Plus (Proton) وBasic (NordVPN)، بحسب كل شركة.",
+          "headers": [
+            "البند",
+            "Proton VPN Plus",
+            "NordVPN Basic"
+          ],
+          "rows": [
+            [
+              "الأجهزة في وقت واحد",
+              "حتى 10",
+              "حتى 10"
+            ],
+            [
+              "خطة مجانية",
+              "نعم: جهاز واحد و10 دول وبلا بطاقة",
+              "غير مذكورة"
+            ],
+            [
+              "تجربة مجانية",
+              "لا ينطبق",
+              "3 أيام على Android عبر Google Play؛ وتجربة 7 أيام في 15 دولة فقط، فتحقق من دولتك"
+            ],
+            [
+              "حظر الإعلانات والمتتبعات",
+              "NetShield، ضمن Plus",
+              "مذكور ابتداءً من خطة Complete"
+            ],
+            [
+              "إعادة توجيه المنافذ",
+              "ضمن الخطط المدفوعة، على Windows وmacOS وLinux",
+              "فقط مع الإضافة المدفوعة Dedicated Server"
+            ],
+            [
+              "الاسترداد",
+              "30 يومًا، مرة لكل مستخدم، لاشتراك مباشر مع Proton",
+              "30 يومًا لمن يشتري للمرة الأولى"
+            ],
+            [
+              "مقر الشركة",
+              "سويسرا",
+              "بنما، بحسب NordVPN"
+            ],
+            [
+              "تدقيق سياسة عدم الاحتفاظ بالسجلات",
+              "Securitum، كل عام من 2022 إلى 2026، والتقرير منشور",
+              "ست مراجعات مستقلة، بحسب NordVPN"
+            ]
+          ]
+        },
+        "postParagraphs": [
+          "تذكر Proton ميزة Secure Core في Plus. وتذكر NordVPN ميزة VPN المزدوج (Double VPN) وDNS الخاص والنفق المنقسم في صفحة الميزات؛ تحقق من الخطة التي تضم كل ميزة قبل الاشتراك.",
+          "بالنسبة إلى P2P، تذكر صفحة Proton الميزة في Plus. وعن إعادة توجيه المنافذ في NordVPN، يقول مركز المساعدة إنها لا تعمل إلا مع الإضافة المدفوعة «Dedicated Server»؛ أما الخوادم العادية وعنوان IP المخصص فلا يوفرانها. ولا تعرض الصفحة سعر الإضافة. وفي Proton يضم مركز المساعدة إعادة توجيه المنافذ في كل الخطط المدفوعة، في تطبيقات Windows وmacOS وLinux؛ ولا يظهر Android وiPhone في القائمة.",
+          "تُركت السرعة والبث خارج المقارنة: وعد الشركة لا يغني عن اختبار على مزود الإنترنت لديك، ولهذا وُجد الاسترداد خلال 30 يومًا."
+        ]
+      },
+      {
+        "heading": "الولاية القضائية والتدقيق والمصدر المفتوح",
+        "paragraphs": [
+          "كلتاهما تعلن سياسة بلا سجلات خضعت لتدقيق جهة خارجية؛ والفرق في المقر وفي ما تنشره كل منهما.",
+          "تُشغّل Proton VPN شركة Proton AG ومقرها سويسرا. وتدقق Securitum سياسة عدم الاحتفاظ بالسجلات، وتنشر Proton التقارير من 2022 إلى 2026. وشيفرة التطبيقات مفتوحة على GitHub. والتفاصيل، مع ما يغطيه كل تقرير، في [هل Proton VPN موثوق؟](/ar/reviews/proton-vpn-trust-ar).",
+          "تقول NordVPN إن مقرها في بنما، وتذكر أنها خضعت لست مراجعات مستقلة لسياسة عدم الاحتفاظ بالسجلات، الأوليان من PwC سويسرا والمراجعات التالية من Deloitte، ومنها مراجعات 2023 و2024 و2025. وهذه معلومات من صفحتها نفسها.",
+          "التدقيق لقطة للخوادم التي فُحصت في تلك الأيام. وهو يبين أن الشركة خضعت لفحص خارجي، ولا يضمن ما يحدث بعده. ولا تجعل أي منهما التصفح مجهولًا: من يسجل الدخول إلى حساب يبقى معروفًا به."
+        ]
+      },
+      {
+        "heading": "الدفع والإلغاء والاسترداد",
+        "paragraphs": [
+          "تقبل Proton بطاقات Visa وMastercard وAmerican Express وPayPal، وBitcoin على شكل رصيد فقط بعد إنشاء الحساب. وتعرض NordVPN شعارات Mastercard وVisa وAmex وDiscover، ويذكر عنوان صفحتها «بطاقة أو عملات مشفرة أو PayPal».",
+          "كلتاهما تمنح استردادًا خلال 30 يومًا، بقواعد مختلفة. فبحسب شروط Proton يسري مرة لكل مستخدم ولاشتراك مباشر معها فقط. وتتحدث NordVPN عن 30 يومًا لمن يشتري للمرة الأولى، بطلب عبر الدعم؛ والشراء عبر App Store يتبع سياسة Apple. وخطوات Proton في [كيفية إلغاء Proton VPN وطلب الاسترداد](/ar/reviews/proton-vpn-refund-ar)."
+        ]
+      },
+      {
+        "heading": "عندما تهم الحزمة الكاملة",
+        "paragraphs": [
+          "هنا تملك NordVPN حجة قوية. فخطة Complete تضيف إلى VPN مكافح فيروسات وحظر الإعلانات والمتتبعات ومراقبة البيانات وحماية المكالمات ومدير كلمات مرور و1 تيرابايت من التخزين السحابي. وتكلف $107.73 لـ27 شهرًا وتتجدد بمبلغ $219.48 في السنة. أما الخطة الأعلى Prime فتكلف $188.73 لـ27 شهرًا وتتجدد بمبلغ $296.28.",
+          "وترد Proton بخطة Unlimited التي تجمع VPN والبريد وتخزينًا سحابيًا بسعة 500 جيجابايت ومدير كلمات مرور. وفي التجديد السنوي تقل Unlimited ($119.88) عن Complete ($219.48)، لكن الحزمتين ليستا متماثلتين: حزمة Proton بريد وسحابة وكلمات مرور، وحزمة NordVPN تتضمن مكافح فيروسات. والفترتان مختلفتان أيضًا (27 شهرًا مقابل 12)، ولذلك لا نضعهما في سطر سعر واحد. إن كانت الحزمة هي ما يهمك فاقرأ [هل يستحق Proton Unlimited؟](/ar/reviews/proton-unlimited-worth-it-ar) وانظر [صفحة Proton على موقعنا](/ar/coupons/proton) قبل أن تقرر."
+        ]
+      },
+      {
+        "heading": "أيهما تختار",
+        "paragraphs": [
+          "اختر Proton VPN إن أردت البدء مجانًا أو دفع أقل عند التجديد أو استخدام إعادة توجيه المنافذ على الحاسوب دون إضافة، مع تطبيقات مفتوحة المصدر وسياسة بلا سجلات تُدقق كل عام. واختر NordVPN إن أردت مكافح فيروسات ومراقبة وتخزينًا سحابيًا في الخطة نفسها، أو إن كانت الأشهر الثلاثة الإضافية أهم عندك من التجديد.",
+          "دوّن تاريخ التجديد يوم الشراء، أيًّا كان اختيارك."
+        ],
+        "emphasis": "انظر إلى الإجمالي المدفوع والأشهر المغطاة والتجديد، لا إلى القيمة الشهرية: NordVPN تغطي 3 أشهر أكثر، وProton تتجدد بمبلغ أقل قدره $55.20 في السنة.",
+        "links": [
+          {
+            "label": "عرض VPN Plus",
+            "href": "https://go.getproton.me/SH39K",
+            "sponsored": true
+          }
+        ]
+      },
+      {
+        "heading": "الأسئلة الشائعة",
+        "bullets": [
+          "أيهما أرخص خلال سنتين: Proton VPN أم NordVPN؟ عبر رابطنا تكلف خطة السنتين في Proton أقل في الإجمالي وفي الشهر؛ وخطة NordVPN تغطي 3 أشهر أكثر. وعند التجديد تعلن Proton القيمة الأقل أيضًا. الأرقام في جدول الأسعار.",
+          "هل لدى NordVPN خطة مجانية مثل Proton VPN؟ لا: لديها تجربة 7 أيام في بعض الدول فقط، وعلى Android 3 أيام عبر Google Play، بينما لدى Proton خطة مجانية بلا بطاقة.",
+          "أيهما فيها إعادة توجيه المنافذ؟ تضمها Proton في كل الخطط المدفوعة، في تطبيقات Windows وmacOS وLinux؛ وNordVPN فقط مع إضافة Dedicated Server.",
+          "هل أحتاج إلى قسيمة للحصول على خصم Proton VPN؟ لا. فـProton لا تستخدم رمزًا: الخصم ظاهر في السعر، ورابطنا يفتح عرض الشركاء في صفحتها. والقواعد في [صفحة Proton على موقعنا](/ar/coupons/proton).",
+          "هل يمكن استرداد المال من الاثنتين؟ نعم، خلال 30 يومًا وبقواعد كل منهما: Proton تسترد مرة لكل مستخدم، وNordVPN لمن يشتري للمرة الأولى."
+        ]
+      }
+    ],
+    "pros": [],
+    "cons": [],
+    "cta": {
+      "text": "لاستخدام VPN Plus لمدة سنتين، يفتح رابطنا عرض الشركاء لدى Proton، مع دفع الأشهر الـ24 مقدمًا. بعد ذلك يكون التجديد المعلن سنويًا، وفق السعر الساري. تحقق من العملة والإجمالي عند الدفع.",
+      "label": "عرض VPN Plus عبر الرابط",
+      "url": "https://go.getproton.me/SH39K",
+      "sponsored": true
+    },
+    "affiliate": "proton",
+    "editorialNote": "أُعد المقال من صفحات الخطط والمساعدة لدى الشركتين، دون اختبار سرعة. رابط Proton رابط تسويق بالعمولة وقد نحصل منه على عمولة.",
+    "relatedArticles": [
+      {
+        "slug": "proton-vpn-worth-it-ar"
+      },
+      {
+        "slug": "proton-vpn-trust-ar"
+      },
+      {
+        "slug": "proton-vpn-refund-ar"
+      },
+      {
+        "slug": "proton-black-friday-ar"
+      }
+    ],
+    "decision": {
+      "takeIf": [
+        "تريد البدء بالخطة المجانية ودفع أقل عند البداية وعند التجديد، أو استخدام إعادة توجيه المنافذ على الحاسوب دون إضافة.",
+        "لا تحتاج إلا إلى VPN وتريد الخطة التي تتجدد بالسعر الأقل."
+      ],
+      "skipIf": [
+        "تريد مكافح فيروسات ومراقبة بيانات وتخزينًا سحابيًا في الخطة نفسها مع VPN، كما في Complete من NordVPN.",
+        "الأشهر الثلاثة الإضافية في خطط NordVPN أهم عندك من التجديد."
+      ]
+    }
+  },
+  {
+    "id": 1495,
+    "slug": "proton-vpn-ou-mullvad",
+    "locale": "pt",
+    "translationKey": "proton-vpn-ou-mullvad",
+    "title": "Proton VPN ou Mullvad: tarifa fixa de 5 € por mês ou desconto por prazo",
+    "seoTitle": "Proton VPN ou Mullvad: preço, privacidade e recursos",
+    "type": "Comparativo",
+    "category": "guias-praticos-utilidade",
+    "reviewKind": "guia",
+    "author": {
+      "name": "Cecília Mauad",
+      "slug": "cecilia-mauad",
+      "role": "Em Casa com Cecília",
+      "initials": "CM",
+      "url": "/sobre"
+    },
+    "description": "Quanto cada uma custa em 1 mês, em 2 anos e na renovação, em dólar, e o que separa as duas: plano grátis, aparelhos, port forwarding, conta sem e-mail e reembolso.",
+    "metaDescription": "Proton VPN ou Mullvad? Compare a tarifa fixa de 5 € com os planos da Proton, aparelhos, port forwarding, plano grátis e reembolso.",
+    "publishedAt": "27 de novembro de 2026",
+    "publishedAtISO": "2026-11-27",
+    "updatedAt": "2026-11-27",
+    "draft": false,
+    "isNew": true,
+    "image": "/images/reviews/proton/proton-vpn-ou-mullvad-hero-pt.webp",
+    "imageAlt": "Ilustração oficial da Proton VPN: um monitor roxo com lista de verificação e um cadeado ao lado. A capa pergunta “Proton VPN ou Mullvad?”.",
+    "imageFit": "contain",
+    "imageAspect": "landscape",
+    "contentSections": [
+      {
+        "heading": "Resposta rápida",
+        "paragraphs": [
+          "Para assinar mês a mês ou abrir conta sem e-mail, a Mullvad leva vantagem. Para usar grátis, conectar até 10 aparelhos, ter port forwarding ou pagar menos nos dois primeiros anos, o Proton VPN compensa mais. Na renovação anual, a tarifa fixa da Mullvad volta a custar menos: a tabela mostra os três prazos."
+        ]
+      },
+      {
+        "heading": "Dois modelos de preço: tarifa fixa ou desconto por prazo",
+        "paragraphs": [
+          "A Mullvad informa uma tarifa só: 5 € por mês, seja para 1 mês, 1 ano ou mais, sem plano longo com desconto. A Mullvad diz que mantém os 5 € desde 2009. A página dela mostra o equivalente de US$ 5,49. A Proton faz o contrário: o mensal é o mais caro (US$ 9,99), e o desconto cresce com o prazo, cobrado de uma vez, antes de renovar por um valor maior.",
+          "A tarifa da Mullvad é em euro, mas as duas páginas mostram o preço em dólar, e é nessa moeda que a conta fica lado a lado. Os valores da Proton são de campanha de Black Friday; o de 2 anos é o da página de parceiros, a que o nosso link abre. A conta de 12 e de 24 meses da Mullvad é nossa: meses vezes US$ 5,49."
+        ],
+        "comparisonTable": {
+          "caption": "Mullvad e Proton VPN Plus em dólar. A Proton está em campanha de Black Friday; o plano de 2 anos é o da página de parceiros. Confira a moeda e o total no checkout.",
+          "headers": [
+            "Prazo",
+            "Mullvad",
+            "Proton VPN Plus",
+            "Custa menos"
+          ],
+          "rows": [
+            [
+              "1 mês",
+              "US$ 5,49",
+              "US$ 9,99",
+              "Mullvad"
+            ],
+            [
+              "12 meses",
+              "US$ 65,88",
+              "US$ 35,88 no 1º ano",
+              "Proton VPN, no 1º ano"
+            ],
+            [
+              "24 meses",
+              "US$ 131,76",
+              "US$ 59,76 pelos 2 anos (parceiros)",
+              "Proton VPN"
+            ],
+            [
+              "Renovação, 12 meses",
+              "US$ 65,88",
+              "US$ 83,88 ao ano",
+              "Mullvad"
+            ]
+          ]
+        },
+        "postParagraphs": [
+          "Há duas viradas. No mês avulso, a Mullvad custa quase a metade. No primeiro ciclo a conta inverte: os 24 meses da Proton saem por menos da metade dos 24 meses da Mullvad. Na renovação ela inverte de novo: US$ 83,88 por ano na Proton contra US$ 65,88 na Mullvad.",
+          "O preço da Proton é de campanha. O desconto é calculado sobre o mensal, e cada renovação sai pelo preço vigente na data. Já a Mullvad não cobra em real: a cobrança é internacional, em euro, e câmbio e IOF do cartão ficam por conta de quem paga."
+        ],
+        "image": {
+          "src": "/images/reviews/proton/proton-vpn-ou-mullvad-precos-brl.webp",
+          "alt": "Cartão do VPN Plus mensal na página de preços da Proton VPN, a R$ 34,99 por mês, cobrado no primeiro mês e renovado pelo mesmo valor todo mês.",
+          "caption": "O VPN Plus mensal na página de preços da Proton VPN: sem desconto, o mesmo valor todo mês."
+        },
+        "links": [
+          {
+            "label": "Ver o VPN Plus de 2 anos",
+            "href": "https://go.getproton.me/SH39K",
+            "sponsored": true
+          }
+        ]
+      },
+      {
+        "heading": "Os preços da Proton em reais e o que muda na renovação",
+        "paragraphs": [
+          "Quem paga em reais vê outra tabela. Estes são os valores das páginas em português da Proton, todos cobrados de uma vez e com a renovação ao lado. O \"por mês\" em destaque na página é só a divisão do total."
+        ],
+        "comparisonTable": {
+          "caption": "VPN Plus nas páginas em português da Proton, preços de 26/11. Confira a moeda e o total no checkout.",
+          "headers": [
+            "Plano",
+            "Cobrado de uma vez",
+            "Depois renova por"
+          ],
+          "rows": [
+            [
+              "1 mês",
+              "R$ 5,00 no primeiro mês (campanha)",
+              "R$ 34,99 todo mês"
+            ],
+            [
+              "1 ano",
+              "R$ 125,88",
+              "R$ 293,88 a cada 12 meses"
+            ],
+            [
+              "2 anos, página pública",
+              "R$ 294,96",
+              "R$ 293,88 a cada 12 meses"
+            ],
+            [
+              "2 anos, página de parceiros (a do nosso link)",
+              "R$ 210,96",
+              "R$ 293,88 a cada 12 meses"
+            ]
+          ]
+        },
+        "postParagraphs": [
+          "Na campanha, o primeiro mês do mensal sai por R$ 5,00 e depois renova por R$ 34,99. Na página pública, o plano de 1 ano sai mais barato por mês (R$ 10,49) que o de 2 anos (R$ 12,29). É a oferta de parceiros que deixa os 2 anos mais baratos (R$ 8,79). A Mullvad não tem tabela em reais, e este artigo não converte euro em real: a cotação do dia e o IOF mudam o valor que chega ao seu cartão."
+        ]
+      },
+      {
+        "heading": "Conta, pagamento e sede",
+        "paragraphs": [
+          "A Mullvad abre a conta sem e-mail: gera um número aleatório e, segundo ela, não pede dado pessoal. A Proton pede e-mail, e a mesma conta abre os planos grátis de outros serviços dela, como o Mail. Usamos o Proton Mail no plano gratuito há quase dez anos.",
+          "A Proton é uma empresa com sede na Suíça. A Mullvad informa que é a Mullvad VPN AB, com sede na Suécia. Cada uma declara política de não guardar registros de atividade, aplicativos de código aberto e auditorias externas independentes. No caso da Proton, a política é auditada todo ano pela Securitum, com relatório aberto, como descrevemos em [Proton VPN é confiável?](/reviews/proton-vpn-e-confiavel). São declarações das empresas.",
+          "Pix não aparece na lista de nenhuma das duas. A diferença está no resto da lista de pagamento."
+        ],
+        "accordionBlock": {
+          "heading": "Meios de pagamento de cada uma",
+          "paragraphs": [
+            "**Proton:** cartões Visa, Mastercard e American Express e PayPal. Bitcoin só entra comprando créditos Proton depois de criar a conta.",
+            "**Mullvad:** cartão de crédito, PayPal, transferência bancária, Bitcoin, Bitcoin Cash, Monero, dinheiro vivo enviado em envelope com um token e meios regionais europeus, como Swish, iDEAL e Bancontact. Em Bitcoin, Bitcoin Cash e Monero, a Mullvad dá 10% de desconto."
+          ]
+        }
+      },
+      {
+        "heading": "Recursos que separam os dois no uso diário",
+        "paragraphs": [
+          "Plano grátis, 10 aparelhos e port forwarding (abrir uma porta para conexões de entrada, usado em programas de torrent) só existem no Proton VPN; conta sem e-mail, só na Mullvad. A tabela traz o que cada empresa publica nas páginas de preços e de recursos. Velocidade e desbloqueio de serviços ficam de fora."
+        ],
+        "comparisonTable": {
+          "caption": "Proton VPN e Mullvad pelas páginas de cada empresa.",
+          "headers": [
+            "Recurso",
+            "Proton VPN",
+            "Mullvad"
+          ],
+          "rows": [
+            [
+              "Plano grátis",
+              "Sim: 1 aparelho, 10 países, sem cartão",
+              "Não tem"
+            ],
+            [
+              "Aparelhos ao mesmo tempo",
+              "1 no grátis, 10 no Plus",
+              "5 por conta"
+            ],
+            [
+              "Port forwarding",
+              "Sim, nos planos pagos, em Windows, macOS e Linux",
+              "Não"
+            ],
+            [
+              "Países",
+              "Mais de 140 no Plus",
+              "50 países e 91 cidades (572 servidores, na página de servidores)"
+            ],
+            [
+              "Conta",
+              "Com e-mail",
+              "Número aleatório, sem e-mail"
+            ],
+            [
+              "Reembolso",
+              "30 dias da compra inicial",
+              "14 dias em alguns meios de pagamento; sem reembolso em dinheiro vivo nem em cripto"
+            ]
+          ]
+        },
+        "postParagraphs": [
+          "Número de servidores e de países não mede qualidade: serve para saber se o país de que você precisa está na lista. A Proton fala em mais de 20.000 servidores no Plus. O reembolso da Proton tem condições nos termos dela, descritas em [como cancelar o Proton VPN e pedir o reembolso](/reviews/proton-vpn-reembolso-como-cancelar)."
+        ]
+      },
+      {
+        "heading": "Quem escolhe o quê",
+        "paragraphs": [
+          "O que decide é quanto tempo você pretende ficar. Mês a mês, a Mullvad, sem renovação a vigiar. Por dois anos, a Proton, pela oferta de parceiros. Depois disso, vale refazer a conta no dia da renovação.",
+          "Se o uso pede mais de 5 aparelhos, port forwarding ou plano grátis, a lista de recursos já decide pela Proton. Se a prioridade é conta sem e-mail e pagamento em Monero, é a Mullvad. Se ainda está em dúvida sobre o grátis, o guia [Proton VPN vale a pena?](/reviews/proton-vpn-vale-a-pena) mostra o que ele cobre. Para quem compara outra VPN, há [Proton VPN ou NordVPN](/reviews/proton-vpn-ou-nordvpn). As regras do nosso link estão na [página da Proton no nosso site](/cupons/proton)."
+        ],
+        "emphasis": "Quem decide é o prazo: 1 mês, 2 anos ou para sempre. No mês avulso e na renovação, a Mullvad custa menos. Nos dois primeiros anos, a Proton custa menos.",
+        "links": [
+          {
+            "label": "Ver o Proton VPN",
+            "href": "https://go.getproton.me/SH39K",
+            "sponsored": true
+          }
+        ]
+      },
+      {
+        "heading": "Perguntas frequentes",
+        "bullets": [
+          "A Mullvad tem desconto na Black Friday ou no plano anual? Não. A Mullvad informa que mantém 5 € por mês em qualquer prazo, sem plano longo com desconto. O único desconto publicado é o de 10% no pagamento em Bitcoin, Bitcoin Cash ou Monero.",
+          "Proton VPN ou Mullvad: qual tem port forwarding? Só o Proton VPN tem port forwarding: a central de ajuda da Proton diz que ele vem em todos os planos pagos, nos aplicativos de Windows, macOS e Linux, e a Mullvad responde que não o suporta. O plano grátis da Proton não tem o recurso.",
+          "Dá para pagar a Mullvad em real ou com Pix? Não: a Mullvad cobra em euro, sem tabela em real, e o Pix não aparece na lista de pagamentos dela; câmbio e IOF do cartão ficam por conta de quem paga.",
+          "Qual tem prazo maior de reembolso? A Proton: 30 dias da compra inicial, uma vez por usuário e com as condições dos termos. A Mullvad dá 14 dias em alguns meios, como cartão e PayPal. Pagamento em dinheiro vivo ou em cripto não tem reembolso, e a compra pela App Store ou por voucher segue as regras de quem vendeu."
+        ]
+      }
+    ],
+    "pros": [],
+    "cons": [],
+    "cta": {
+      "text": "Para dois anos de VPN Plus, nosso link abre a página de parceiros da Proton, com o plano de 2 anos cobrado de uma vez e renovação anual pelo preço padrão. Confira a moeda e o total antes de assinar.",
+      "label": "Ver o Proton VPN",
+      "url": "https://go.getproton.me/SH39K",
+      "sponsored": true
+    },
+    "affiliate": "proton",
+    "editorialNote": "Feito com as páginas de preços e de recursos da Proton e da Mullvad, sem teste de uso das duas VPNs. O link é de afiliado e pode gerar comissão.",
+    "relatedArticles": [
+      {
+        "slug": "proton-vpn-vale-a-pena"
+      },
+      {
+        "slug": "proton-vpn-e-confiavel"
+      },
+      {
+        "slug": "proton-vpn-reembolso-como-cancelar"
+      },
+      {
+        "slug": "black-friday-proton"
+      }
+    ],
+    "decision": {
+      "takeIf": [
+        "você quer plano grátis, 10 aparelhos, port forwarding ou o menor preço nos dois primeiros anos.",
+        "você aceita pagar o período inteiro de uma vez e vai conferir o valor da renovação."
+      ],
+      "skipIf": [
+        "você vai assinar mês a mês ou quer conta sem e-mail, com pagamento em Monero.",
+        "você quer uma tarifa que não muda na renovação: a partir do terceiro ano, a anuidade da Mullvad é a menor."
+      ]
+    }
+  },
+  {
+    "id": 1516,
+    "slug": "proton-vpn-or-mullvad",
+    "locale": "en",
+    "translationKey": "proton-vpn-ou-mullvad",
+    "title": "Proton VPN or Mullvad: a flat €5 a month or a discount for longer terms",
+    "seoTitle": "Proton VPN or Mullvad: Price, Privacy and Features",
+    "type": "Comparison Guide",
+    "category": "guias-praticos-utilidade",
+    "reviewKind": "guia",
+    "author": {
+      "name": "Cecília Mauad",
+      "slug": "cecilia-mauad",
+      "role": "Em Casa com Cecília",
+      "initials": "CM",
+      "url": "/sobre"
+    },
+    "description": "What each one costs for 1 month, 2 years and at renewal, in dollars, and what sets them apart: free plan, devices, port forwarding, email-free account and refunds.",
+    "metaDescription": "Proton VPN or Mullvad? Compare Mullvad's flat €5 rate with Proton's plans, devices, port forwarding, the free plan and refunds.",
+    "publishedAt": "November 27, 2026",
+    "publishedAtISO": "2026-11-27",
+    "updatedAt": "2026-11-27",
+    "draft": false,
+    "isNew": true,
+    "hideFromPortugueseListings": true,
+    "image": "/images/reviews/proton/proton-vpn-ou-mullvad-hero-en.webp",
+    "imageAlt": "Official Proton VPN illustration: a purple monitor with a checklist and a padlock beside it. The cover asks “Proton VPN or Mullvad?”.",
+    "imageFit": "contain",
+    "imageAspect": "landscape",
+    "contentSections": [
+      {
+        "heading": "Quick answer",
+        "paragraphs": [
+          "Mullvad wins if you pay month to month or want an account with no email. Proton VPN is the better pick if you want a free plan, up to 10 devices, port forwarding, or the lowest price over the first two years. At renewal, Mullvad's flat rate is cheaper again: the table shows all three terms."
+        ]
+      },
+      {
+        "heading": "Two pricing models: a flat rate or a discount for longer terms",
+        "paragraphs": [
+          "Mullvad publishes a single rate: €5 a month, whether you pay for 1 month, 1 year or more, with no discounted long plan. Mullvad says it has kept €5 since 2009, and its page shows the equivalent of $5.47. Proton does the opposite: the monthly plan is the most expensive ($9.99), and the discount grows with the term, charged upfront, before renewing at a higher price.",
+          "Proton lists its prices in dollars. Mullvad bills in euros, VAT included, and its page shows a dollar equivalent, so that is the figure we use to put them side by side. Proton's prices are Black Friday campaign prices; the 2-year price is the one on the partners page, which our link opens. The 12- and 24-month Mullvad totals are our math: months times $5.47."
+        ],
+        "comparisonTable": {
+          "caption": "Mullvad and Proton VPN Plus in dollars. Proton is running a Black Friday campaign; the 2-year plan is the partners-page price. Mullvad's dollar figures are the conversion its page shows. Check the currency and total at checkout.",
+          "headers": [
+            "Term",
+            "Mullvad",
+            "Proton VPN Plus",
+            "Costs less"
+          ],
+          "rows": [
+            [
+              "1 month",
+              "$5.47",
+              "$9.99",
+              "Mullvad"
+            ],
+            [
+              "12 months",
+              "$65.64",
+              "$35.88 for year 1",
+              "Proton VPN, in year 1"
+            ],
+            [
+              "24 months",
+              "$131.28",
+              "$59.76 for 2 years (partners)",
+              "Proton VPN"
+            ],
+            [
+              "Renewal, 12 months",
+              "$65.64",
+              "$83.88 a year",
+              "Mullvad"
+            ]
+          ]
+        },
+        "postParagraphs": [
+          "There are two flips. On a single month, Mullvad costs about half as much. In the first cycle the math reverses: Proton's 24 months cost less than half of Mullvad's 24 months. At renewal it reverses again: $83.88 a year with Proton against $65.64 with Mullvad.",
+          "Proton's price is a campaign price. The discount is calculated off the monthly rate, and each renewal is charged at the price in force on that date. Mullvad bills in euros (€5 a month, VAT included), so the dollar figure is only the conversion on its page: what reaches your card depends on the exchange rate and any fees from your card issuer.",
+          "On Proton's public deals page, the 1-year plan is cheaper per month ($2.99) than the 2-year plan ($3.49). It is the partner offer that makes 2 years the cheapest ($2.49 a month)."
+        ],
+        "image": "/images/reviews/proton/proton-vpn-ou-mullvad-precos-usd.webp",
+        "imageAlt": "Proton's pricing page in English, in dollars, showing the VPN Plus monthly plan: $9.99 a month, billed at $9.99 for the first month, then renewing at $9.99 every month, with no discount.",
+        "imageCaption": "Proton's pricing page in dollars, 11/27/2026.",
+        "imageFit": "contain",
+        "links": [
+          {
+            "label": "See the 2-year VPN Plus",
+            "href": "https://go.getproton.me/SH39K",
+            "sponsored": true
+          }
+        ]
+      },
+      {
+        "heading": "Account, payment and headquarters",
+        "paragraphs": [
+          "Mullvad opens an account with no email: it generates a random number and, according to Mullvad, asks for no personal data. Proton asks for an email, and the same account opens the free plans of its other services, such as Mail. We have used Proton Mail on the free plan for almost ten years.",
+          "Proton is a company based in Switzerland. Mullvad says it is Mullvad VPN AB, based in Sweden. Each one declares a no-logs policy, open-source apps and independent external audits. In Proton's case, the policy is audited every year by Securitum, with an open report, as we describe in [Is Proton VPN safe?](/en/reviews/is-proton-vpn-safe). These are the companies' own statements.",
+          "The payment methods differ more than the headline price suggests; the list is below."
+        ],
+        "accordionBlock": {
+          "heading": "Payment methods for each",
+          "paragraphs": [
+            "**Proton:** Visa, Mastercard and American Express cards and PayPal. Bitcoin only works by buying Proton credits after you create the account.",
+            "**Mullvad:** credit card, PayPal, bank transfer, Bitcoin, Bitcoin Cash, Monero, cash sent in an envelope with a token, and regional European methods such as Swish, iDEAL and Bancontact. Mullvad gives a 10% discount for Bitcoin, Bitcoin Cash and Monero."
+          ]
+        }
+      },
+      {
+        "heading": "Features that set them apart in daily use",
+        "paragraphs": [
+          "A free plan, 10 devices and port forwarding (opening a port for incoming connections, used by torrent programs) exist only on Proton VPN; an account with no email, only on Mullvad. The table lists what each company publishes on its pricing and feature pages. Speed and unblocking of streaming services are left out."
+        ],
+        "comparisonTable": {
+          "caption": "Proton VPN and Mullvad, according to each company's pages.",
+          "headers": [
+            "Feature",
+            "Proton VPN",
+            "Mullvad"
+          ],
+          "rows": [
+            [
+              "Free plan",
+              "Yes: 1 device, 10 countries, no card",
+              "None"
+            ],
+            [
+              "Simultaneous devices",
+              "1 on free, 10 on Plus",
+              "5 per account"
+            ],
+            [
+              "Port forwarding",
+              "Yes, on paid plans, on Windows, macOS and Linux",
+              "No"
+            ],
+            [
+              "Countries",
+              "More than 140 on Plus",
+              "50 countries and 91 cities (572 servers, per its servers page)"
+            ],
+            [
+              "Account",
+              "With email",
+              "Random number, no email"
+            ],
+            [
+              "Refund",
+              "30 days from the initial purchase",
+              "14 days on some payment methods; no refund for cash or crypto"
+            ]
+          ]
+        },
+        "postParagraphs": [
+          "Server and country counts do not measure quality: they only tell you whether the country you need is on the list. Proton cites more than 20,000 servers on Plus. Proton's refund has conditions in its terms, described in [how to cancel Proton VPN and ask for a refund](/en/reviews/proton-vpn-refund-how-to-cancel)."
+        ]
+      },
+      {
+        "heading": "Who should pick which",
+        "paragraphs": [
+          "What decides it is how long you plan to stay. Month to month, Mullvad, with no renewal to keep an eye on. For two years, Proton, thanks to the partner offer. After that, it is worth redoing the math on renewal day.",
+          "If your use needs more than 5 devices, port forwarding or a free plan, the feature list already points to Proton. If your priority is an account with no email and paying in Monero, it is Mullvad. If you are still unsure about the free plan, the guide [Is Proton VPN worth it?](/en/reviews/is-proton-vpn-worth-it) shows what it covers. For anyone comparing another VPN, there is [Proton VPN or NordVPN](/en/reviews/proton-vpn-vs-nordvpn). The rules for our link are on [Proton's page on our site](/en/coupons/proton)."
+        ],
+        "emphasis": "The term decides: 1 month, 2 years or for good. On a single month and at renewal, Mullvad costs less. In the first two years, Proton costs less.",
+        "links": [
+          {
+            "label": "See Proton VPN",
+            "href": "https://go.getproton.me/SH39K",
+            "sponsored": true
+          }
+        ]
+      },
+      {
+        "heading": "Frequently asked questions",
+        "bullets": [
+          "Does Mullvad have a Black Friday or annual-plan discount? No. Mullvad says it keeps €5 a month at any term, with no discounted long plan. The only published discount is 10% when paying in Bitcoin, Bitcoin Cash or Monero.",
+          "Proton VPN or Mullvad: which has port forwarding? Only Proton VPN does: Proton's help center says it comes with every paid plan, in the Windows, macOS and Linux apps, and Mullvad answers that it does not support it. Proton's free plan does not have the feature.",
+          "What currency does Mullvad charge in, and how can you pay? Euros: €5 a month, VAT included, with no price table in dollars. Your card issuer may apply its own exchange rate or fees. The payment methods are listed above.",
+          "Which has the longer refund window? Proton: 30 days from the initial purchase, once per user and under the terms' conditions. Mullvad gives 14 days on some methods, such as card and PayPal. Payments in cash or crypto get no refund, and a purchase through the App Store or a voucher follows the seller's rules."
+        ]
+      }
+    ],
+    "pros": [],
+    "cons": [],
+    "cta": {
+      "text": "For two years of VPN Plus, our link opens Proton's partners page, with the 2-year plan billed upfront and annual renewal at the standard price. Check the currency and total before subscribing.",
+      "label": "See Proton VPN",
+      "url": "https://go.getproton.me/SH39K",
+      "sponsored": true
+    },
+    "affiliate": "proton",
+    "editorialNote": "Based on Proton's and Mullvad's pricing and feature pages, with no hands-on test of either VPN. The link is an affiliate link and may earn a commission.",
+    "relatedArticles": [
+      {
+        "slug": "is-proton-vpn-worth-it"
+      },
+      {
+        "slug": "is-proton-vpn-safe"
+      },
+      {
+        "slug": "proton-vpn-refund-how-to-cancel"
+      },
+      {
+        "slug": "proton-black-friday"
+      }
+    ],
+    "decision": {
+      "takeIf": [
+        "you want a free plan, 10 devices, port forwarding or the lowest price over the first two years.",
+        "you are fine paying for the whole term upfront and will check the renewal price."
+      ],
+      "skipIf": [
+        "you will pay month to month or want an account with no email, paid in Monero.",
+        "you want a rate that does not change at renewal: from the third year on, Mullvad's annual price is the lowest."
+      ]
+    }
+  },
+  {
+    "id": 1517,
+    "slug": "proton-vpn-o-mullvad",
+    "locale": "es",
+    "translationKey": "proton-vpn-ou-mullvad",
+    "title": "Proton VPN o Mullvad: tarifa fija de 5 € al mes o descuento por plazo",
+    "seoTitle": "Proton VPN o Mullvad: precio, privacidad y funciones",
+    "type": "Guía comparativa",
+    "category": "guias-praticos-utilidade",
+    "reviewKind": "guia",
+    "author": {
+      "name": "Cecília Mauad",
+      "slug": "cecilia-mauad",
+      "role": "Em Casa com Cecília",
+      "initials": "CM",
+      "url": "/sobre"
+    },
+    "description": "Cuánto cuesta cada una a 1 mes, a 2 años y en la renovación, en dólares, y qué las diferencia: plan gratis, dispositivos, port forwarding, cuenta sin correo y reembolso.",
+    "metaDescription": "¿Proton VPN o Mullvad? Compara la tarifa fija de 5 € con los planes de Proton, dispositivos, port forwarding, plan gratis y reembolso.",
+    "publishedAt": "27 de noviembre de 2026",
+    "publishedAtISO": "2026-11-27",
+    "updatedAt": "2026-11-27",
+    "draft": false,
+    "isNew": true,
+    "hideFromPortugueseListings": true,
+    "image": "/images/reviews/proton/proton-vpn-ou-mullvad-hero-es.webp",
+    "imageAlt": "Ilustración oficial de Proton VPN: un monitor morado con una lista de verificación y un candado al lado. La portada pregunta «¿Proton VPN o Mullvad?».",
+    "imageFit": "contain",
+    "imageAspect": "landscape",
+    "contentSections": [
+      {
+        "heading": "Respuesta rápida",
+        "paragraphs": [
+          "Para pagar mes a mes o abrir una cuenta sin correo, Mullvad lleva ventaja. Para usar gratis, conectar hasta 10 dispositivos, tener port forwarding o pagar menos en los dos primeros años, Proton VPN compensa más. En la renovación anual, la tarifa fija de Mullvad vuelve a costar menos: la tabla muestra los tres plazos."
+        ]
+      },
+      {
+        "heading": "Dos modelos de precio: tarifa fija o descuento por plazo",
+        "paragraphs": [
+          "Mullvad informa una sola tarifa: 5 € al mes, ya sea por 1 mes, 1 año o más, sin plan largo con descuento. Mullvad dice que mantiene los 5 € desde 2009, y su página muestra el equivalente de US$ 5,47. Proton hace lo contrario: el mensual es el más caro (US$ 9,99) y el descuento crece con el plazo, cobrado de una vez, antes de renovar por un valor mayor.",
+          "Proton publica sus precios en dólares. Mullvad cobra en euros, con IVA incluido, y su página muestra un equivalente en dólares, que es la cifra que usamos para ponerlas lado a lado. Los valores de Proton son de campaña de Black Friday; el de 2 años es el de la página de socios, a la que lleva nuestro enlace. La cuenta de 12 y 24 meses de Mullvad es nuestra: meses por US$ 5,47."
+        ],
+        "comparisonTable": {
+          "caption": "Mullvad y Proton VPN Plus en dólares. Proton está en campaña de Black Friday; el plan de 2 años es el de la página de socios. Las cifras en dólares de Mullvad son la conversión que muestra su página. Confirma la moneda y el total al pagar.",
+          "headers": [
+            "Plazo",
+            "Mullvad",
+            "Proton VPN Plus",
+            "Cuesta menos"
+          ],
+          "rows": [
+            [
+              "1 mes",
+              "US$ 5,47",
+              "US$ 9,99",
+              "Mullvad"
+            ],
+            [
+              "12 meses",
+              "US$ 65,64",
+              "US$ 35,88 el 1.er año",
+              "Proton VPN, en el 1.er año"
+            ],
+            [
+              "24 meses",
+              "US$ 131,28",
+              "US$ 59,76 por 2 años (socios)",
+              "Proton VPN"
+            ],
+            [
+              "Renovación, 12 meses",
+              "US$ 65,64",
+              "US$ 83,88 al año",
+              "Mullvad"
+            ]
+          ]
+        },
+        "postParagraphs": [
+          "Hay dos giros. En el mes suelto, Mullvad cuesta casi la mitad. En el primer ciclo la cuenta se invierte: los 24 meses de Proton salen por menos de la mitad de los 24 meses de Mullvad. En la renovación se invierte otra vez: US$ 83,88 al año en Proton contra US$ 65,64 en Mullvad.",
+          "El precio de Proton es de campaña. El descuento se calcula sobre el mensual, y cada renovación sale al precio vigente en esa fecha. Mullvad cobra en euros (5 € al mes, IVA incluido), así que la cifra en dólares es solo la conversión de su página: lo que llega a tu tarjeta depende del tipo de cambio y de las comisiones de tu banco.",
+          "En la página pública de ofertas de Proton, el plan de 1 año sale más barato por mes (US$ 2,99) que el de 2 años (US$ 3,49). Es la oferta de socios la que deja los 2 años más baratos (US$ 2,49 al mes)."
+        ],
+        "image": "/images/reviews/proton/proton-vpn-ou-mullvad-precos-usd.webp",
+        "imageAlt": "Página de precios de Proton en inglés y en dólares, con el plan mensual de VPN Plus: $9.99 al mes, cobrados por el primer mes y renovación a $9.99 cada mes, sin descuento.",
+        "imageCaption": "Página de precios de Proton en dólares, 27/11/2026.",
+        "imageFit": "contain",
+        "links": [
+          {
+            "label": "Ver VPN Plus de 2 años",
+            "href": "https://go.getproton.me/SH39K",
+            "sponsored": true
+          }
+        ]
+      },
+      {
+        "heading": "Cuenta, pago y sede",
+        "paragraphs": [
+          "Mullvad abre la cuenta sin correo: genera un número aleatorio y, según ella, no pide datos personales. Proton pide correo, y la misma cuenta abre los planes gratuitos de otros servicios suyos, como Mail. Usamos Proton Mail en el plan gratuito desde hace casi diez años.",
+          "Proton es una empresa con sede en Suiza. Mullvad informa que es Mullvad VPN AB, con sede en Suecia. Cada una declara una política de no guardar registros de actividad, aplicaciones de código abierto y auditorías externas independientes. En el caso de Proton, la política la audita cada año Securitum, con informe abierto, como describimos en [¿Es confiable Proton VPN?](/es/reviews/proton-vpn-es-confiable). Son declaraciones de las empresas.",
+          "Los medios de pago difieren más de lo que sugiere el precio; la lista está abajo."
+        ],
+        "accordionBlock": {
+          "heading": "Medios de pago de cada una",
+          "paragraphs": [
+            "**Proton:** tarjetas Visa, Mastercard y American Express, y PayPal. Bitcoin solo se usa comprando créditos de Proton después de crear la cuenta.",
+            "**Mullvad:** tarjeta de crédito, PayPal, transferencia bancaria, Bitcoin, Bitcoin Cash, Monero, efectivo enviado en un sobre con un token y medios regionales europeos, como Swish, iDEAL y Bancontact. Con Bitcoin, Bitcoin Cash y Monero, Mullvad da un 10 % de descuento."
+          ]
+        }
+      },
+      {
+        "heading": "Funciones que las separan en el uso diario",
+        "paragraphs": [
+          "Plan gratis, 10 dispositivos y port forwarding (abrir un puerto para conexiones entrantes, usado en programas de torrent) solo existen en Proton VPN; cuenta sin correo, solo en Mullvad. La tabla recoge lo que cada empresa publica en sus páginas de precios y de funciones. La velocidad y el acceso a servicios quedan fuera."
+        ],
+        "comparisonTable": {
+          "caption": "Proton VPN y Mullvad según las páginas de cada empresa.",
+          "headers": [
+            "Función",
+            "Proton VPN",
+            "Mullvad"
+          ],
+          "rows": [
+            [
+              "Plan gratis",
+              "Sí: 1 dispositivo, 10 países, sin tarjeta",
+              "No tiene"
+            ],
+            [
+              "Dispositivos a la vez",
+              "1 en el gratis, 10 en Plus",
+              "5 por cuenta"
+            ],
+            [
+              "Port forwarding",
+              "Sí, en los planes de pago, en Windows, macOS y Linux",
+              "No"
+            ],
+            [
+              "Países",
+              "Más de 140 en Plus",
+              "50 países y 91 ciudades (572 servidores, según su página de servidores)"
+            ],
+            [
+              "Cuenta",
+              "Con correo",
+              "Número aleatorio, sin correo"
+            ],
+            [
+              "Reembolso",
+              "30 días desde la compra inicial",
+              "14 días con algunos medios de pago; sin reembolso en efectivo ni en cripto"
+            ]
+          ]
+        },
+        "postParagraphs": [
+          "El número de servidores y de países no mide la calidad: sirve para saber si el país que necesitas está en la lista. Proton habla de más de 20.000 servidores en Plus. El reembolso de Proton tiene condiciones en sus términos, descritas en [cómo cancelar Proton VPN y pedir el reembolso](/es/reviews/proton-vpn-reembolso-cancelar-suscripcion)."
+        ]
+      },
+      {
+        "heading": "Quién elige qué",
+        "paragraphs": [
+          "Lo que decide es cuánto tiempo piensas quedarte. Mes a mes, Mullvad, sin renovación que vigilar. Por dos años, Proton, gracias a la oferta de socios. Después, conviene rehacer la cuenta el día de la renovación.",
+          "Si tu uso pide más de 5 dispositivos, port forwarding o plan gratis, la lista de funciones ya decide por Proton. Si la prioridad es una cuenta sin correo y pagar en Monero, es Mullvad. Si aún dudas sobre el plan gratis, la guía [¿Vale la pena Proton VPN?](/es/reviews/proton-vpn-vale-la-pena) muestra qué cubre. Si comparas con otra VPN, está [Proton VPN o NordVPN](/es/reviews/proton-vpn-o-nordvpn). Las reglas de nuestro enlace están en la [página de Proton en nuestro sitio](/es/coupons/proton)."
+        ],
+        "emphasis": "Decide el plazo: 1 mes, 2 años o para siempre. En el mes suelto y en la renovación, Mullvad cuesta menos. En los dos primeros años, Proton cuesta menos.",
+        "links": [
+          {
+            "label": "Ver Proton VPN",
+            "href": "https://go.getproton.me/SH39K",
+            "sponsored": true
+          }
+        ]
+      },
+      {
+        "heading": "Preguntas frecuentes",
+        "bullets": [
+          "¿Mullvad tiene descuento en Black Friday o en el plan anual? No. Mullvad informa que mantiene 5 € al mes en cualquier plazo, sin plan largo con descuento. El único descuento publicado es el de 10 % al pagar con Bitcoin, Bitcoin Cash o Monero.",
+          "Proton VPN o Mullvad: ¿cuál tiene port forwarding? Solo Proton VPN: el centro de ayuda de Proton dice que viene en todos los planes de pago, en las aplicaciones de Windows, macOS y Linux, y Mullvad responde que no lo admite. El plan gratis de Proton no tiene la función.",
+          "¿En qué moneda cobra Mullvad y cómo se paga? En euros: 5 € al mes, IVA incluido, sin tabla de precios en dólares. Tu banco puede aplicar su propio tipo de cambio o comisiones. Los medios de pago están listados arriba.",
+          "¿Cuál tiene el plazo de reembolso más largo? Proton: 30 días desde la compra inicial, una vez por usuario y con las condiciones de los términos. Mullvad da 14 días con algunos medios, como tarjeta y PayPal. El pago en efectivo o en cripto no tiene reembolso, y la compra por App Store o por voucher sigue las reglas de quien la vendió."
+        ]
+      }
+    ],
+    "pros": [],
+    "cons": [],
+    "cta": {
+      "text": "Para dos años de VPN Plus, nuestro enlace abre la página de socios de Proton, con el plan de 2 años cobrado de una vez y renovación anual al precio estándar. Confirma la moneda y el total antes de suscribirte.",
+      "label": "Ver Proton VPN",
+      "url": "https://go.getproton.me/SH39K",
+      "sponsored": true
+    },
+    "affiliate": "proton",
+    "editorialNote": "Hecho con las páginas de precios y de funciones de Proton y Mullvad, sin prueba de uso de las dos VPN. El enlace es de afiliado y puede generar una comisión.",
+    "relatedArticles": [
+      {
+        "slug": "proton-vpn-vale-la-pena"
+      },
+      {
+        "slug": "proton-vpn-es-confiable"
+      },
+      {
+        "slug": "proton-vpn-reembolso-cancelar-suscripcion"
+      },
+      {
+        "slug": "black-friday-proton-ofertas"
+      }
+    ],
+    "decision": {
+      "takeIf": [
+        "quieres plan gratis, 10 dispositivos, port forwarding o el menor precio en los dos primeros años.",
+        "te parece bien pagar todo el período de una vez y vas a comprobar el valor de la renovación."
+      ],
+      "skipIf": [
+        "vas a pagar mes a mes o quieres una cuenta sin correo, con pago en Monero.",
+        "quieres una tarifa que no cambie en la renovación: a partir del tercer año, la anualidad de Mullvad es la más baja."
+      ]
+    }
+  },
+  {
+    "id": 1518,
+    "slug": "proton-vpn-ou-mullvad-fr",
+    "locale": "fr",
+    "translationKey": "proton-vpn-ou-mullvad",
+    "title": "Proton VPN ou Mullvad : tarif fixe de 5 € par mois ou réduction selon la durée",
+    "seoTitle": "Proton VPN ou Mullvad : prix, confidentialité et fonctions",
+    "type": "Guide comparatif",
+    "category": "guias-praticos-utilidade",
+    "reviewKind": "guia",
+    "author": {
+      "name": "Cecília Mauad",
+      "slug": "cecilia-mauad",
+      "role": "Em Casa com Cecília",
+      "initials": "CM",
+      "url": "/sobre"
+    },
+    "description": "Coût de chacun pour 1 mois, 2 ans et au renouvellement, en dollars, et ce qui les distingue : offre gratuite, appareils, redirection de port, compte sans e-mail, remboursement.",
+    "metaDescription": "Proton VPN ou Mullvad ? Comparez le tarif fixe de 5 € aux offres de Proton, appareils, redirection de port, offre gratuite et remboursement.",
+    "publishedAt": "27 novembre 2026",
+    "publishedAtISO": "2026-11-27",
+    "updatedAt": "2026-11-27",
+    "draft": false,
+    "isNew": true,
+    "hideFromPortugueseListings": true,
+    "image": "/images/reviews/proton/proton-vpn-ou-mullvad-hero-fr.webp",
+    "imageAlt": "Illustration officielle de Proton VPN : un écran violet avec une liste de contrôle et un cadenas à côté. La couverture demande « Proton VPN ou Mullvad ? ».",
+    "imageFit": "contain",
+    "imageAspect": "landscape",
+    "contentSections": [
+      {
+        "heading": "Réponse rapide",
+        "paragraphs": [
+          "Pour payer mois par mois ou ouvrir un compte sans e-mail, Mullvad a l'avantage. Pour utiliser gratuitement, connecter jusqu'à 10 appareils, avoir la redirection de port ou payer moins les deux premières années, Proton VPN est plus intéressant. Au renouvellement annuel, le tarif fixe de Mullvad redevient moins cher : le tableau montre les trois durées."
+        ]
+      },
+      {
+        "heading": "Deux modèles de prix : tarif fixe ou réduction selon la durée",
+        "paragraphs": [
+          "Mullvad annonce un seul tarif : 5 € par mois, que ce soit pour 1 mois, 1 an ou plus, sans formule longue à prix réduit. Mullvad affirme maintenir 5 € depuis 2009, et sa page affiche l'équivalent de 5,47 $US. Proton fait l'inverse : le mensuel est le plus cher (9,99 $US), et la réduction grandit avec la durée, payée d'un seul coup, avant un renouvellement à un prix plus élevé.",
+          "Proton affiche ses prix en dollars. Mullvad facture en euros, TVA incluse, et sa page montre un équivalent en dollars : c'est le chiffre que nous utilisons pour les comparer côte à côte. Les prix de Proton sont ceux de la campagne Black Friday ; celui de 2 ans est celui de la page des partenaires, à laquelle mène notre lien. Le calcul de Mullvad sur 12 et 24 mois est le nôtre : nombre de mois multiplié par 5,47 $US."
+        ],
+        "comparisonTable": {
+          "caption": "Mullvad et Proton VPN Plus en dollars. Proton est en campagne Black Friday ; l'offre de 2 ans est celle de la page des partenaires. Les montants en dollars de Mullvad sont la conversion affichée sur sa page. Vérifiez la devise et le total au paiement.",
+          "headers": [
+            "Durée",
+            "Mullvad",
+            "Proton VPN Plus",
+            "Coûte moins"
+          ],
+          "rows": [
+            [
+              "1 mois",
+              "5,47 $US",
+              "9,99 $US",
+              "Mullvad"
+            ],
+            [
+              "12 mois",
+              "65,64 $US",
+              "35,88 $US la 1re année",
+              "Proton VPN, la 1re année"
+            ],
+            [
+              "24 mois",
+              "131,28 $US",
+              "59,76 $US pour 2 ans (partenaires)",
+              "Proton VPN"
+            ],
+            [
+              "Renouvellement, 12 mois",
+              "65,64 $US",
+              "83,88 $US par an",
+              "Mullvad"
+            ]
+          ]
+        },
+        "postParagraphs": [
+          "Il y a deux retournements. Sur un mois seul, Mullvad coûte presque deux fois moins. Sur le premier cycle, le calcul s'inverse : les 24 mois de Proton coûtent moins de la moitié des 24 mois de Mullvad. Au renouvellement, il s'inverse de nouveau : 83,88 $US par an chez Proton contre 65,64 $US chez Mullvad.",
+          "Le prix de Proton est un prix de campagne. La réduction se calcule sur le mensuel, et chaque renouvellement est facturé au prix en vigueur à la date. Mullvad facture en euros (5 € par mois, TVA incluse) : le chiffre en dollars n'est que la conversion de sa page, et ce qui arrive sur votre carte dépend du taux de change et des frais éventuels de votre banque.",
+          "Sur la page publique des offres de Proton, le plan de 1 an revient moins cher par mois (2,99 $US) que celui de 2 ans (3,49 $US). C'est l'offre des partenaires qui rend les 2 ans les moins chers (2,49 $US par mois)."
+        ],
+        "image": "/images/reviews/proton/proton-vpn-ou-mullvad-precos-usd.webp",
+        "imageAlt": "Page des tarifs de Proton en anglais et en dollars, avec le plan mensuel VPN Plus : 9,99 $ par mois, facturés pour le premier mois, puis renouvelés à 9,99 $ chaque mois, sans réduction.",
+        "imageCaption": "Page des tarifs de Proton en dollars, 27/11/2026.",
+        "imageFit": "contain",
+        "links": [
+          {
+            "label": "Voir VPN Plus 2 ans",
+            "href": "https://go.getproton.me/SH39K",
+            "sponsored": true
+          }
+        ]
+      },
+      {
+        "heading": "Compte, paiement et siège",
+        "paragraphs": [
+          "Mullvad ouvre le compte sans e-mail : elle génère un numéro aléatoire et, selon elle, ne demande aucune donnée personnelle. Proton demande un e-mail, et le même compte ouvre les offres gratuites de ses autres services, comme Mail. Nous utilisons Proton Mail en offre gratuite depuis près de dix ans.",
+          "Proton est une entreprise dont le siège est en Suisse. Mullvad indique être Mullvad VPN AB, basée en Suède. Chacune déclare une politique de non-conservation des journaux d'activité, des applications open source et des audits externes indépendants. Pour Proton, la politique est auditée chaque année par Securitum, avec un rapport public, comme nous le décrivons dans [Proton VPN est-il fiable ?](/fr/reviews/proton-vpn-est-il-fiable). Ce sont des déclarations des entreprises.",
+          "Les moyens de paiement diffèrent plus que le prix affiché ne le laisse penser ; la liste est ci-dessous."
+        ],
+        "accordionBlock": {
+          "heading": "Moyens de paiement de chacune",
+          "paragraphs": [
+            "**Proton :** cartes Visa, Mastercard et American Express, et PayPal. Le Bitcoin ne fonctionne qu'en achetant des crédits Proton après avoir créé le compte.",
+            "**Mullvad :** carte bancaire, PayPal, virement bancaire, Bitcoin, Bitcoin Cash, Monero, espèces envoyées sous enveloppe avec un jeton et moyens régionaux européens, comme Swish, iDEAL et Bancontact. Pour le Bitcoin, le Bitcoin Cash et le Monero, Mullvad accorde 10 % de réduction."
+          ]
+        }
+      },
+      {
+        "heading": "Les fonctions qui les séparent au quotidien",
+        "paragraphs": [
+          "L'offre gratuite, les 10 appareils et la redirection de port (ouvrir un port pour les connexions entrantes, utilisée par les programmes de torrent) n'existent que chez Proton VPN ; le compte sans e-mail, que chez Mullvad. Le tableau reprend ce que chaque entreprise publie sur ses pages de tarifs et de fonctions. La vitesse et le déblocage de services sont laissés de côté."
+        ],
+        "comparisonTable": {
+          "caption": "Proton VPN et Mullvad d'après les pages de chaque entreprise.",
+          "headers": [
+            "Fonction",
+            "Proton VPN",
+            "Mullvad"
+          ],
+          "rows": [
+            [
+              "Offre gratuite",
+              "Oui : 1 appareil, 10 pays, sans carte",
+              "Aucune"
+            ],
+            [
+              "Appareils en même temps",
+              "1 en gratuit, 10 avec Plus",
+              "5 par compte"
+            ],
+            [
+              "Redirection de port",
+              "Oui, avec les offres payantes, sous Windows, macOS et Linux",
+              "Non"
+            ],
+            [
+              "Pays",
+              "Plus de 140 avec Plus",
+              "50 pays et 91 villes (572 serveurs, d'après sa page des serveurs)"
+            ],
+            [
+              "Compte",
+              "Avec e-mail",
+              "Numéro aléatoire, sans e-mail"
+            ],
+            [
+              "Remboursement",
+              "30 jours après l'achat initial",
+              "14 jours avec certains moyens de paiement ; pas de remboursement en espèces ni en crypto"
+            ]
+          ]
+        },
+        "postParagraphs": [
+          "Le nombre de serveurs et de pays ne mesure pas la qualité : il sert à savoir si le pays dont vous avez besoin figure dans la liste. Proton parle de plus de 20 000 serveurs avec Plus. Le remboursement de Proton a des conditions dans ses conditions d'utilisation, décrites dans [comment résilier Proton VPN et demander un remboursement](/fr/reviews/proton-vpn-remboursement-resilier)."
+        ]
+      },
+      {
+        "heading": "Qui choisit quoi",
+        "paragraphs": [
+          "Ce qui décide, c'est la durée pendant laquelle vous comptez rester. Mois par mois, Mullvad, sans renouvellement à surveiller. Pour deux ans, Proton, grâce à l'offre des partenaires. Ensuite, mieux vaut refaire le calcul le jour du renouvellement.",
+          "Si votre usage demande plus de 5 appareils, la redirection de port ou l'offre gratuite, la liste des fonctions tranche déjà pour Proton. Si la priorité est un compte sans e-mail et un paiement en Monero, c'est Mullvad. Si vous hésitez encore sur l'offre gratuite, le guide [Proton VPN vaut-il le coup ?](/fr/reviews/proton-vpn-vaut-il-le-coup) montre ce qu'elle couvre. Pour comparer avec un autre VPN, il y a [Proton VPN ou NordVPN](/fr/reviews/proton-vpn-ou-nordvpn-comparatif). Les règles de notre lien sont sur la [page de Proton sur notre site](/fr/coupons/proton)."
+        ],
+        "emphasis": "C'est la durée qui décide : 1 mois, 2 ans ou pour toujours. Sur un mois seul et au renouvellement, Mullvad coûte moins. Pendant les deux premières années, Proton coûte moins.",
+        "links": [
+          {
+            "label": "Voir Proton VPN",
+            "href": "https://go.getproton.me/SH39K",
+            "sponsored": true
+          }
+        ]
+      },
+      {
+        "heading": "Questions fréquentes",
+        "bullets": [
+          "Mullvad propose-t-elle une réduction Black Friday ou sur le plan annuel ? Non. Mullvad indique maintenir 5 € par mois quelle que soit la durée, sans formule longue à prix réduit. La seule réduction publiée est celle de 10 % pour un paiement en Bitcoin, Bitcoin Cash ou Monero.",
+          "Proton VPN ou Mullvad : lequel a la redirection de port ? Seul Proton VPN : le centre d'aide de Proton indique qu'elle est incluse dans toutes les offres payantes, dans les applications Windows, macOS et Linux, et Mullvad répond qu'elle ne la prend pas en charge. L'offre gratuite de Proton n'a pas cette fonction.",
+          "En quelle devise Mullvad facture-t-elle et comment payer ? En euros : 5 € par mois, TVA incluse, sans grille de prix en dollars. Votre banque peut appliquer son propre taux de change ou des frais. Les moyens de paiement sont listés plus haut.",
+          "Lequel a le délai de remboursement le plus long ? Proton : 30 jours après l'achat initial, une fois par utilisateur et selon les conditions des termes. Mullvad accorde 14 jours avec certains moyens de paiement, comme la carte et PayPal. Un paiement en espèces ou en crypto n'est pas remboursé, et un achat via l'App Store ou par voucher suit les règles du vendeur."
+        ]
+      }
+    ],
+    "pros": [],
+    "cons": [],
+    "cta": {
+      "text": "Pour deux ans de VPN Plus, notre lien ouvre la page des partenaires de Proton, avec l'offre de 2 ans payée d'un seul coup et un renouvellement annuel au prix standard. Vérifiez la devise et le total avant de vous abonner.",
+      "label": "Voir Proton VPN",
+      "url": "https://go.getproton.me/SH39K",
+      "sponsored": true
+    },
+    "affiliate": "proton",
+    "editorialNote": "Rédigé à partir des pages de tarifs et de fonctions de Proton et de Mullvad, sans test pratique des deux VPN. Le lien est un lien d'affiliation et peut générer une commission.",
+    "relatedArticles": [
+      {
+        "slug": "proton-vpn-vaut-il-le-coup"
+      },
+      {
+        "slug": "proton-vpn-est-il-fiable"
+      },
+      {
+        "slug": "proton-vpn-remboursement-resilier"
+      },
+      {
+        "slug": "black-friday-proton-offres"
+      }
+    ],
+    "decision": {
+      "takeIf": [
+        "vous voulez une offre gratuite, 10 appareils, la redirection de port ou le prix le plus bas sur les deux premières années.",
+        "cela ne vous gêne pas de payer toute la période d'un coup et vous vérifierez le prix du renouvellement."
+      ],
+      "skipIf": [
+        "vous allez payer mois par mois ou voulez un compte sans e-mail, avec paiement en Monero.",
+        "vous voulez un tarif qui ne bouge pas au renouvellement : à partir de la troisième année, l'annuel de Mullvad est le moins cher."
+      ]
+    }
+  },
+  {
+    "id": 1519,
+    "slug": "proton-vpn-oder-mullvad",
+    "locale": "de",
+    "translationKey": "proton-vpn-ou-mullvad",
+    "title": "Proton VPN oder Mullvad: fester Preis von 5 € im Monat oder Rabatt je nach Laufzeit",
+    "seoTitle": "Proton VPN oder Mullvad: Preis, Privatsphäre und Funktionen",
+    "type": "Vergleich",
+    "category": "guias-praticos-utilidade",
+    "reviewKind": "guia",
+    "author": {
+      "name": "Cecília Mauad",
+      "slug": "cecilia-mauad",
+      "role": "Em Casa com Cecília",
+      "initials": "CM",
+      "url": "/sobre"
+    },
+    "description": "Was beide für 1 Monat, 2 Jahre und bei der Verlängerung kosten, in Dollar, und was sie trennt: kostenloser Tarif, Geräte, Port-Weiterleitung, Konto ohne E-Mail und Rückerstattung.",
+    "metaDescription": "Proton VPN oder Mullvad? Vergleich des festen Preises von 5 € mit Protons Tarifen, Geräten, Port-Weiterleitung, kostenlosem Tarif und Rückerstattung.",
+    "publishedAt": "27. November 2026",
+    "publishedAtISO": "2026-11-27",
+    "updatedAt": "2026-11-27",
+    "draft": false,
+    "isNew": true,
+    "hideFromPortugueseListings": true,
+    "image": "/images/reviews/proton/proton-vpn-ou-mullvad-hero-de.webp",
+    "imageAlt": "Offizielle Illustration von Proton VPN: ein lila Monitor mit einer Checkliste und daneben ein Vorhängeschloss. Das Titelbild fragt „Proton VPN oder Mullvad?“.",
+    "imageFit": "contain",
+    "imageAspect": "landscape",
+    "contentSections": [
+      {
+        "heading": "Kurzantwort",
+        "paragraphs": [
+          "Wer monatlich zahlt oder ein Konto ohne E-Mail will, fährt mit Mullvad besser. Wer gratis starten, bis zu 10 Geräte verbinden, Port-Weiterleitung nutzen oder in den ersten zwei Jahren weniger zahlen will, ist bei Proton VPN besser aufgehoben. Bei der jährlichen Verlängerung ist der feste Preis von Mullvad wieder günstiger: Die Tabelle zeigt alle drei Laufzeiten."
+        ]
+      },
+      {
+        "heading": "Zwei Preismodelle: fester Preis oder Rabatt je nach Laufzeit",
+        "paragraphs": [
+          "Mullvad nennt nur einen Preis: 5 € im Monat, egal ob für 1 Monat, 1 Jahr oder länger, ohne rabattierten Langzeittarif. Mullvad gibt an, die 5 € seit 2009 beizubehalten, und zeigt auf seiner Seite den Gegenwert von 5,47 $. Proton macht es umgekehrt: Der Monatstarif ist der teuerste (9,99 $), und der Rabatt wächst mit der Laufzeit, auf einmal abgebucht, bevor es zu einem höheren Preis weiterläuft.",
+          "Proton nennt seine Preise in Dollar. Mullvad rechnet in Euro ab, inklusive Mehrwertsteuer, und zeigt auf seiner Seite einen Dollar-Gegenwert; mit dieser Zahl stellen wir beide nebeneinander. Protons Preise sind Black-Friday-Aktionspreise; der für 2 Jahre stammt von der Partnerseite, die unser Link öffnet. Die Summen für 12 und 24 Monate bei Mullvad haben wir selbst gerechnet: Monate mal 5,47 $."
+        ],
+        "comparisonTable": {
+          "caption": "Mullvad und Proton VPN Plus in Dollar. Proton läuft in einer Black-Friday-Aktion; der Zweijahrestarif ist der Preis der Partnerseite. Mullvads Dollarbeträge sind die Umrechnung, die seine Seite zeigt. Prüfen Sie Währung und Summe an der Kasse.",
+          "headers": [
+            "Laufzeit",
+            "Mullvad",
+            "Proton VPN Plus",
+            "Günstiger"
+          ],
+          "rows": [
+            [
+              "1 Monat",
+              "5,47 $",
+              "9,99 $",
+              "Mullvad"
+            ],
+            [
+              "12 Monate",
+              "65,64 $",
+              "35,88 $ im 1. Jahr",
+              "Proton VPN, im 1. Jahr"
+            ],
+            [
+              "24 Monate",
+              "131,28 $",
+              "59,76 $ für 2 Jahre (Partner)",
+              "Proton VPN"
+            ],
+            [
+              "Verlängerung, 12 Monate",
+              "65,64 $",
+              "83,88 $ pro Jahr",
+              "Mullvad"
+            ]
+          ]
+        },
+        "postParagraphs": [
+          "Es gibt zwei Wendepunkte. Beim einzelnen Monat kostet Mullvad fast nur die Hälfte. Im ersten Zyklus dreht sich die Rechnung um: Protons 24 Monate kosten weniger als die Hälfte von Mullvads 24 Monaten. Bei der Verlängerung dreht sie sich wieder um: 83,88 $ pro Jahr bei Proton gegenüber 65,64 $ bei Mullvad.",
+          "Protons Preis ist ein Aktionspreis. Der Rabatt wird auf den Monatspreis berechnet, und jede Verlängerung kostet den an diesem Tag geltenden Preis. Mullvad rechnet in Euro ab (5 € im Monat, inklusive Mehrwertsteuer); der Dollarbetrag ist also nur die Umrechnung auf seiner Seite: Was auf Ihrer Karte landet, hängt vom Wechselkurs und von möglichen Gebühren Ihrer Bank ab.",
+          "Auf Protons öffentlicher Angebotsseite ist das 1-Jahres-Paket pro Monat günstiger (2,99 $) als das 2-Jahres-Paket (3,49 $). Erst das Partnerangebot macht die 2 Jahre am günstigsten (2,49 $ im Monat)."
+        ],
+        "image": "/images/reviews/proton/proton-vpn-ou-mullvad-precos-usd.webp",
+        "imageAlt": "Protons Preisseite auf Englisch und in Dollar mit dem monatlichen VPN-Plus-Tarif: 9,99 $ pro Monat, für den ersten Monat berechnet, danach Verlängerung zu 9,99 $ jeden Monat, ohne Rabatt.",
+        "imageCaption": "Protons Preisseite in Dollar, 27.11.2026.",
+        "imageFit": "contain",
+        "links": [
+          {
+            "label": "VPN Plus für 2 Jahre ansehen",
+            "href": "https://go.getproton.me/SH39K",
+            "sponsored": true
+          }
+        ]
+      },
+      {
+        "heading": "Konto, Zahlung und Firmensitz",
+        "paragraphs": [
+          "Mullvad legt das Konto ohne E-Mail an: Es erzeugt eine Zufallsnummer und verlangt nach eigener Angabe keine persönlichen Daten. Proton verlangt eine E-Mail-Adresse, und dasselbe Konto öffnet die kostenlosen Tarife seiner anderen Dienste, etwa Mail. Wir nutzen Proton Mail seit fast zehn Jahren im kostenlosen Tarif.",
+          "Proton ist ein Unternehmen mit Sitz in der Schweiz. Mullvad gibt an, die Mullvad VPN AB mit Sitz in Schweden zu sein. Beide erklären eine No-Logs-Richtlinie, Open-Source-Apps und unabhängige externe Audits. Bei Proton wird die Richtlinie jedes Jahr von Securitum geprüft, mit offenem Bericht, wie wir in [Ist Proton VPN seriös?](/de/reviews/ist-proton-vpn-serioes) beschreiben. Das sind Angaben der Unternehmen.",
+          "Bei den Zahlungsmitteln unterscheiden sich beide stärker, als der Preis vermuten lässt; die Liste steht unten."
+        ],
+        "accordionBlock": {
+          "heading": "Zahlungsmittel beider Anbieter",
+          "paragraphs": [
+            "**Proton:** Visa, Mastercard, American Express und PayPal. Bitcoin geht nur über den Kauf von Proton-Guthaben, nachdem das Konto angelegt ist.",
+            "**Mullvad:** Kreditkarte, PayPal, Banküberweisung, Bitcoin, Bitcoin Cash, Monero, Bargeld im Umschlag mit einem Token und regionale europäische Zahlungsmittel wie Swish, iDEAL und Bancontact. Bei Bitcoin, Bitcoin Cash und Monero gibt Mullvad 10 % Rabatt."
+          ]
+        }
+      },
+      {
+        "heading": "Funktionen, die beide im Alltag trennen",
+        "paragraphs": [
+          "Kostenloser Tarif, 10 Geräte und Port-Weiterleitung (einen Port für eingehende Verbindungen öffnen, wird von Torrent-Programmen genutzt) gibt es nur bei Proton VPN; ein Konto ohne E-Mail nur bei Mullvad. Die Tabelle zeigt, was jedes Unternehmen auf seinen Preis- und Funktionsseiten angibt. Geschwindigkeit und das Entsperren von Diensten bleiben außen vor."
+        ],
+        "comparisonTable": {
+          "caption": "Proton VPN und Mullvad nach den Seiten beider Unternehmen.",
+          "headers": [
+            "Funktion",
+            "Proton VPN",
+            "Mullvad"
+          ],
+          "rows": [
+            [
+              "Kostenloser Tarif",
+              "Ja: 1 Gerät, 10 Länder, ohne Karte",
+              "Gibt es nicht"
+            ],
+            [
+              "Gleichzeitige Geräte",
+              "1 im kostenlosen, 10 mit Plus",
+              "5 pro Konto"
+            ],
+            [
+              "Port-Weiterleitung",
+              "Ja, in den bezahlten Tarifen, unter Windows, macOS und Linux",
+              "Nein"
+            ],
+            [
+              "Länder",
+              "Mehr als 140 mit Plus",
+              "50 Länder und 91 Städte (572 Server, laut Serverseite)"
+            ],
+            [
+              "Konto",
+              "Mit E-Mail",
+              "Zufallsnummer, ohne E-Mail"
+            ],
+            [
+              "Rückerstattung",
+              "30 Tage ab dem Erstkauf",
+              "14 Tage bei einigen Zahlungsmethoden; keine Rückerstattung bei Bargeld oder Krypto"
+            ]
+          ]
+        },
+        "postParagraphs": [
+          "Die Zahl der Server und Länder misst keine Qualität: Sie zeigt nur, ob das Land, das Sie brauchen, auf der Liste steht. Proton nennt mehr als 20.000 Server mit Plus. Protons Rückerstattung hat Bedingungen in den Nutzungsbedingungen, beschrieben in [Proton VPN kündigen und Geld zurückbekommen](/de/reviews/proton-vpn-kuendigen-rueckerstattung)."
+        ]
+      },
+      {
+        "heading": "Wer was wählt",
+        "paragraphs": [
+          "Entscheidend ist, wie lange Sie bleiben wollen. Monat für Monat: Mullvad, ohne Verlängerung im Blick behalten zu müssen. Für zwei Jahre: Proton, dank des Partnerangebots. Danach lohnt es sich, am Tag der Verlängerung neu zu rechnen.",
+          "Wenn Sie mehr als 5 Geräte, Port-Weiterleitung oder einen kostenlosen Tarif brauchen, entscheidet die Funktionsliste schon für Proton. Wenn Ihnen ein Konto ohne E-Mail und die Zahlung in Monero wichtig sind, ist es Mullvad. Wenn Sie beim kostenlosen Tarif noch zweifeln, zeigt der Ratgeber [Lohnt sich Proton VPN?](/de/reviews/lohnt-sich-proton-vpn), was er abdeckt. Wer ein anderes VPN vergleicht, findet [Proton VPN oder NordVPN](/de/reviews/proton-vpn-oder-nordvpn). Die Regeln unseres Links stehen auf der [Proton-Seite auf unserer Website](/de/coupons/proton)."
+        ],
+        "emphasis": "Die Laufzeit entscheidet: 1 Monat, 2 Jahre oder für immer. Beim einzelnen Monat und bei der Verlängerung kostet Mullvad weniger. In den ersten zwei Jahren kostet Proton weniger.",
+        "links": [
+          {
+            "label": "Proton VPN ansehen",
+            "href": "https://go.getproton.me/SH39K",
+            "sponsored": true
+          }
+        ]
+      },
+      {
+        "heading": "Häufige Fragen",
+        "bullets": [
+          "Hat Mullvad einen Black-Friday- oder Jahresrabatt? Nein. Mullvad gibt an, bei jeder Laufzeit bei 5 € im Monat zu bleiben, ohne rabattierten Langzeittarif. Der einzige veröffentlichte Rabatt sind 10 % bei Zahlung in Bitcoin, Bitcoin Cash oder Monero.",
+          "Proton VPN oder Mullvad: Wer hat Port-Weiterleitung? Nur Proton VPN: Protons Hilfecenter sagt, sie sei in allen bezahlten Tarifen enthalten, in den Apps für Windows, macOS und Linux, und Mullvad antwortet, sie nicht zu unterstützen. Protons kostenloser Tarif hat die Funktion nicht.",
+          "In welcher Währung rechnet Mullvad ab, und wie kann man zahlen? In Euro: 5 € im Monat, inklusive Mehrwertsteuer, ohne Preistabelle in Dollar. Ihre Bank kann einen eigenen Wechselkurs oder Gebühren ansetzen. Die Zahlungsmittel stehen oben.",
+          "Wer hat die längere Rückerstattungsfrist? Proton: 30 Tage ab dem Erstkauf, einmal pro Nutzer und nach den Bedingungen der Nutzungsbedingungen. Mullvad gibt 14 Tage bei einigen Zahlungsmitteln, etwa Karte und PayPal. Bei Bargeld oder Krypto gibt es keine Rückerstattung, und für Käufe über den App Store oder per Gutschein gelten die Regeln des Verkäufers."
+        ]
+      }
+    ],
+    "pros": [],
+    "cons": [],
+    "cta": {
+      "text": "Für zwei Jahre VPN Plus öffnet unser Link die Partnerseite von Proton, mit dem 2-Jahres-Tarif auf einmal abgebucht und jährlicher Verlängerung zum Standardpreis. Prüfen Sie Währung und Summe, bevor Sie abschließen.",
+      "label": "Proton VPN ansehen",
+      "url": "https://go.getproton.me/SH39K",
+      "sponsored": true
+    },
+    "affiliate": "proton",
+    "editorialNote": "Verfasst auf Grundlage der Preis- und Funktionsseiten von Proton und Mullvad, ohne eigenen Test beider VPNs. Der Link ist ein Affiliate-Link und kann uns eine Provision einbringen.",
+    "relatedArticles": [
+      {
+        "slug": "lohnt-sich-proton-vpn"
+      },
+      {
+        "slug": "ist-proton-vpn-serioes"
+      },
+      {
+        "slug": "proton-vpn-kuendigen-rueckerstattung"
+      },
+      {
+        "slug": "proton-black-friday-angebote"
+      }
+    ],
+    "decision": {
+      "takeIf": [
+        "Sie einen kostenlosen Tarif, 10 Geräte, Port-Weiterleitung oder den niedrigsten Preis in den ersten zwei Jahren wollen.",
+        "es Ihnen nichts ausmacht, die ganze Laufzeit auf einmal zu zahlen, und Sie den Verlängerungspreis prüfen werden."
+      ],
+      "skipIf": [
+        "Sie monatlich zahlen oder ein Konto ohne E-Mail mit Zahlung in Monero wollen.",
+        "Sie einen Preis wollen, der sich bei der Verlängerung nicht ändert: Ab dem dritten Jahr ist Mullvads Jahrespreis der niedrigste."
+      ]
+    }
+  },
+  {
+    "id": 1520,
+    "slug": "proton-vpn-o-mullvad-it",
+    "locale": "it",
+    "translationKey": "proton-vpn-ou-mullvad",
+    "title": "Proton VPN o Mullvad: tariffa fissa di 5 € al mese o sconto in base alla durata",
+    "seoTitle": "Proton VPN o Mullvad: prezzo, privacy e funzioni",
+    "type": "Guida comparativa",
+    "category": "guias-praticos-utilidade",
+    "reviewKind": "guia",
+    "author": {
+      "name": "Cecília Mauad",
+      "slug": "cecilia-mauad",
+      "role": "Em Casa com Cecília",
+      "initials": "CM",
+      "url": "/sobre"
+    },
+    "description": "Quanto costa ciascuna per 1 mese, 2 anni e al rinnovo, in dollari, e cosa le distingue: piano gratuito, dispositivi, port forwarding, account senza email e rimborso.",
+    "metaDescription": "Proton VPN o Mullvad? Confronta la tariffa fissa di 5 € con i piani di Proton, dispositivi, port forwarding, piano gratuito e rimborso.",
+    "publishedAt": "27 novembre 2026",
+    "publishedAtISO": "2026-11-27",
+    "updatedAt": "2026-11-27",
+    "draft": false,
+    "isNew": true,
+    "hideFromPortugueseListings": true,
+    "image": "/images/reviews/proton/proton-vpn-ou-mullvad-hero-it.webp",
+    "imageAlt": "Illustrazione ufficiale di Proton VPN: un monitor viola con una lista di controllo e un lucchetto accanto. La copertina chiede «Proton VPN o Mullvad?».",
+    "imageFit": "contain",
+    "imageAspect": "landscape",
+    "contentSections": [
+      {
+        "heading": "Risposta rapida",
+        "paragraphs": [
+          "Per pagare mese per mese o aprire un account senza email, Mullvad è in vantaggio. Per usarla gratis, collegare fino a 10 dispositivi, avere il port forwarding o pagare meno nei primi due anni, Proton VPN conviene di più. Al rinnovo annuale la tariffa fissa di Mullvad torna a costare meno: la tabella mostra le tre durate."
+        ]
+      },
+      {
+        "heading": "Due modelli di prezzo: tariffa fissa o sconto in base alla durata",
+        "paragraphs": [
+          "Mullvad indica una sola tariffa: 5 € al mese, sia per 1 mese sia per 1 anno o più, senza piano lungo scontato. Mullvad dice di mantenere i 5 € dal 2009, e la sua pagina mostra l'equivalente di 5,47 $. Proton fa l'opposto: il mensile è il più caro (9,99 $) e lo sconto cresce con la durata, addebitato in un'unica soluzione, prima di rinnovare a un valore più alto.",
+          "Proton pubblica i prezzi in dollari. Mullvad addebita in euro, IVA inclusa, e la sua pagina mostra un equivalente in dollari, che è la cifra con cui le mettiamo a confronto. I prezzi di Proton sono di campagna Black Friday; quello di 2 anni è della pagina dei partner, quella a cui porta il nostro link. Il conto di 12 e 24 mesi di Mullvad è nostro: mesi per 5,47 $."
+        ],
+        "comparisonTable": {
+          "caption": "Mullvad e Proton VPN Plus in dollari. Proton è in campagna Black Friday; il piano di 2 anni è quello della pagina dei partner. Le cifre in dollari di Mullvad sono la conversione mostrata dalla sua pagina. Controlla la valuta e il totale al checkout.",
+          "headers": [
+            "Durata",
+            "Mullvad",
+            "Proton VPN Plus",
+            "Costa meno"
+          ],
+          "rows": [
+            [
+              "1 mese",
+              "5,47 $",
+              "9,99 $",
+              "Mullvad"
+            ],
+            [
+              "12 mesi",
+              "65,64 $",
+              "35,88 $ il 1º anno",
+              "Proton VPN, nel 1º anno"
+            ],
+            [
+              "24 mesi",
+              "131,28 $",
+              "59,76 $ per 2 anni (partner)",
+              "Proton VPN"
+            ],
+            [
+              "Rinnovo, 12 mesi",
+              "65,64 $",
+              "83,88 $ all'anno",
+              "Mullvad"
+            ]
+          ]
+        },
+        "postParagraphs": [
+          "Ci sono due ribaltamenti. Sul mese singolo, Mullvad costa quasi la metà. Nel primo ciclo il conto si inverte: i 24 mesi di Proton costano meno della metà dei 24 mesi di Mullvad. Al rinnovo si inverte di nuovo: 83,88 $ all'anno con Proton contro 65,64 $ con Mullvad.",
+          "Il prezzo di Proton è di campagna. Lo sconto è calcolato sul mensile e ogni rinnovo costa il prezzo in vigore in quella data. Mullvad addebita in euro (5 € al mese, IVA inclusa), quindi la cifra in dollari è solo la conversione della sua pagina: ciò che arriva sulla tua carta dipende dal cambio e dalle eventuali commissioni della tua banca.",
+          "Sulla pagina pubblica delle offerte di Proton, il piano di 1 anno costa meno al mese (2,99 $) di quello di 2 anni (3,49 $). È l'offerta dei partner a rendere i 2 anni i più economici (2,49 $ al mese)."
+        ],
+        "image": "/images/reviews/proton/proton-vpn-ou-mullvad-precos-usd.webp",
+        "imageAlt": "Pagina dei prezzi di Proton in inglese e in dollari, con il piano mensile VPN Plus: 9,99 $ al mese, addebitati per il primo mese, poi rinnovo a 9,99 $ ogni mese, senza sconto.",
+        "imageCaption": "Pagina dei prezzi di Proton in dollari, 27/11/2026.",
+        "imageFit": "contain",
+        "links": [
+          {
+            "label": "Vedi VPN Plus da 2 anni",
+            "href": "https://go.getproton.me/SH39K",
+            "sponsored": true
+          }
+        ]
+      },
+      {
+        "heading": "Account, pagamento e sede",
+        "paragraphs": [
+          "Mullvad apre l'account senza email: genera un numero casuale e, secondo l'azienda, non chiede dati personali. Proton chiede un'email, e lo stesso account apre i piani gratuiti degli altri suoi servizi, come Mail. Usiamo Proton Mail con il piano gratuito da quasi dieci anni.",
+          "Proton è un'azienda con sede in Svizzera. Mullvad dichiara di essere Mullvad VPN AB, con sede in Svezia. Ciascuna dichiara una politica di non conservazione dei registri di attività, app open source e audit esterni indipendenti. Nel caso di Proton, la politica è verificata ogni anno da Securitum, con rapporto aperto, come descriviamo in [Proton VPN è affidabile?](/it/reviews/proton-vpn-e-affidabile). Sono dichiarazioni delle aziende.",
+          "I metodi di pagamento differiscono più di quanto suggerisca il prezzo; l'elenco è qui sotto."
+        ],
+        "accordionBlock": {
+          "heading": "Metodi di pagamento di ciascuna",
+          "paragraphs": [
+            "**Proton:** carte Visa, Mastercard e American Express, e PayPal. Il Bitcoin si usa solo acquistando crediti Proton dopo aver creato l'account.",
+            "**Mullvad:** carta di credito, PayPal, bonifico bancario, Bitcoin, Bitcoin Cash, Monero, contanti inviati in una busta con un token e metodi regionali europei, come Swish, iDEAL e Bancontact. Con Bitcoin, Bitcoin Cash e Monero, Mullvad applica il 10% di sconto."
+          ]
+        }
+      },
+      {
+        "heading": "Funzioni che le separano nell'uso quotidiano",
+        "paragraphs": [
+          "Piano gratuito, 10 dispositivi e port forwarding (aprire una porta per le connessioni in ingresso, usato dai programmi di torrent) esistono solo in Proton VPN; account senza email, solo in Mullvad. La tabella riporta ciò che ogni azienda pubblica nelle pagine dei prezzi e delle funzioni. Velocità e sblocco dei servizi restano fuori."
+        ],
+        "comparisonTable": {
+          "caption": "Proton VPN e Mullvad secondo le pagine di ciascuna azienda.",
+          "headers": [
+            "Funzione",
+            "Proton VPN",
+            "Mullvad"
+          ],
+          "rows": [
+            [
+              "Piano gratuito",
+              "Sì: 1 dispositivo, 10 paesi, senza carta",
+              "Non c'è"
+            ],
+            [
+              "Dispositivi contemporanei",
+              "1 nel gratuito, 10 con Plus",
+              "5 per account"
+            ],
+            [
+              "Port forwarding",
+              "Sì, nei piani a pagamento, su Windows, macOS e Linux",
+              "No"
+            ],
+            [
+              "Paesi",
+              "Più di 140 con Plus",
+              "50 paesi e 91 città (572 server, secondo la pagina dei server)"
+            ],
+            [
+              "Account",
+              "Con email",
+              "Numero casuale, senza email"
+            ],
+            [
+              "Rimborso",
+              "30 giorni dall'acquisto iniziale",
+              "14 giorni con alcuni metodi di pagamento; nessun rimborso per contanti o cripto"
+            ]
+          ]
+        },
+        "postParagraphs": [
+          "Il numero di server e di paesi non misura la qualità: serve a sapere se il paese che ti serve è nell'elenco. Proton parla di oltre 20.000 server con Plus. Il rimborso di Proton ha condizioni nei suoi termini, descritte in [come disdire Proton VPN e chiedere il rimborso](/it/reviews/proton-vpn-rimborso-come-disdire)."
+        ]
+      },
+      {
+        "heading": "Chi sceglie cosa",
+        "paragraphs": [
+          "Ciò che decide è quanto tempo pensi di restare. Mese per mese, Mullvad, senza rinnovi da sorvegliare. Per due anni, Proton, grazie all'offerta dei partner. Dopo, conviene rifare il conto il giorno del rinnovo.",
+          "Se il tuo uso richiede più di 5 dispositivi, port forwarding o piano gratuito, l'elenco delle funzioni decide già per Proton. Se la priorità è un account senza email e il pagamento in Monero, è Mullvad. Se hai ancora dubbi sul piano gratuito, la guida [Proton VPN conviene?](/it/reviews/proton-vpn-conviene) mostra cosa copre. Per chi confronta un’altra VPN, c’è [Proton VPN o NordVPN](/it/reviews/proton-vpn-o-nordvpn-confronto). Le regole del nostro link sono nella [pagina di Proton sul nostro sito](/it/coupons/proton)."
+        ],
+        "emphasis": "A decidere è la durata: 1 mese, 2 anni o per sempre. Sul mese singolo e al rinnovo, Mullvad costa meno. Nei primi due anni, Proton costa meno.",
+        "links": [
+          {
+            "label": "Vedi Proton VPN",
+            "href": "https://go.getproton.me/SH39K",
+            "sponsored": true
+          }
+        ]
+      },
+      {
+        "heading": "Domande frequenti",
+        "bullets": [
+          "Mullvad ha sconti per il Black Friday o per il piano annuale? No. Mullvad dichiara di mantenere 5 € al mese a qualsiasi durata, senza piano lungo scontato. L'unico sconto pubblicato è il 10% pagando in Bitcoin, Bitcoin Cash o Monero.",
+          "Proton VPN o Mullvad: quale ha il port forwarding? Solo Proton VPN: il centro assistenza di Proton dice che è incluso in tutti i piani a pagamento, nelle app per Windows, macOS e Linux, e Mullvad risponde di non supportarlo. Il piano gratuito di Proton non ha la funzione.",
+          "In che valuta addebita Mullvad e come si paga? In euro: 5 € al mese, IVA inclusa, senza listino in dollari. La tua banca può applicare un proprio cambio o commissioni. I metodi di pagamento sono elencati sopra.",
+          "Quale ha il periodo di rimborso più lungo? Proton: 30 giorni dall'acquisto iniziale, una volta per utente e alle condizioni dei termini. Mullvad dà 14 giorni con alcuni metodi, come carta e PayPal. I pagamenti in contanti o in cripto non hanno rimborso, e l'acquisto tramite App Store o voucher segue le regole di chi ha venduto."
+        ]
+      }
+    ],
+    "pros": [],
+    "cons": [],
+    "cta": {
+      "text": "Per due anni di VPN Plus, il nostro link apre la pagina dei partner di Proton, con il piano di 2 anni addebitato in un'unica soluzione e rinnovo annuale al prezzo standard. Controlla la valuta e il totale prima di abbonarti.",
+      "label": "Vedi Proton VPN",
+      "url": "https://go.getproton.me/SH39K",
+      "sponsored": true
+    },
+    "affiliate": "proton",
+    "editorialNote": "Scritto a partire dalle pagine dei prezzi e delle funzioni di Proton e Mullvad, senza prova d'uso delle due VPN. Il link è di affiliazione e può generare una commissione.",
+    "relatedArticles": [
+      {
+        "slug": "proton-vpn-conviene"
+      },
+      {
+        "slug": "proton-vpn-e-affidabile"
+      },
+      {
+        "slug": "proton-vpn-rimborso-come-disdire"
+      },
+      {
+        "slug": "black-friday-proton-offerte"
+      }
+    ],
+    "decision": {
+      "takeIf": [
+        "vuoi un piano gratuito, 10 dispositivi, port forwarding o il prezzo più basso nei primi due anni.",
+        "non ti dispiace pagare l'intero periodo in un'unica soluzione e controllerai il valore del rinnovo."
+      ],
+      "skipIf": [
+        "pagherai mese per mese o vuoi un account senza email, con pagamento in Monero.",
+        "vuoi una tariffa che non cambi al rinnovo: dal terzo anno in poi, l'annuale di Mullvad è il più basso."
+      ]
+    }
+  },
+  {
+    "id": 1521,
+    "slug": "proton-vpn-or-mullvad-ko",
+    "locale": "ko",
+    "translationKey": "proton-vpn-ou-mullvad",
+    "title": "Proton VPN 아니면 Mullvad: 월 5유로 고정 요금 또는 기간별 할인",
+    "seoTitle": "Proton VPN과 Mullvad 비교: 가격, 프라이버시, 기능",
+    "type": "비교 가이드",
+    "category": "guias-praticos-utilidade",
+    "reviewKind": "guia",
+    "author": {
+      "name": "Cecília Mauad",
+      "slug": "cecilia-mauad",
+      "role": "Em Casa com Cecília",
+      "initials": "CM",
+      "url": "/sobre"
+    },
+    "description": "각각 1개월, 2년, 갱신 때 얼마인지 달러로 비교하고, 무료 플랜, 기기 수, 포트 포워딩, 이메일 없는 계정, 환불 차이를 정리했습니다.",
+    "metaDescription": "Proton VPN과 Mullvad 비교: Mullvad의 월 5유로 고정 요금과 Proton 플랜, 기기 수, 포트 포워딩, 무료 플랜, 환불.",
+    "publishedAt": "2026년 11월 27일",
+    "publishedAtISO": "2026-11-27",
+    "updatedAt": "2026-11-27",
+    "draft": false,
+    "isNew": true,
+    "hideFromPortugueseListings": true,
+    "image": "/images/reviews/proton/proton-vpn-ou-mullvad-hero-ko.webp",
+    "imageAlt": "Proton VPN 공식 일러스트: 체크리스트가 있는 보라색 모니터와 옆의 자물쇠. 표지에는 “Proton VPN 아니면 Mullvad?”라고 적혀 있습니다.",
+    "imageFit": "contain",
+    "imageAspect": "landscape",
+    "contentSections": [
+      {
+        "heading": "빠른 답",
+        "paragraphs": [
+          "월 단위로 결제하거나 이메일 없이 계정을 만들려면 Mullvad가 낫습니다. 무료로 쓰거나 최대 10대를 연결하거나 포트 포워딩이 필요하거나 처음 2년을 더 싸게 쓰려면 Proton VPN이 낫습니다. 갱신 때는 Mullvad의 고정 요금이 다시 저렴해지며, 표에 세 가지 기간이 나와 있습니다."
+        ]
+      },
+      {
+        "heading": "가격 모델 두 가지: 고정 요금 또는 기간별 할인",
+        "paragraphs": [
+          "Mullvad는 요금을 하나만 안내합니다. 1개월이든 1년이든 그 이상이든 월 5유로이며, 장기 할인 플랜은 없습니다. Mullvad는 2009년부터 5유로을 유지해 왔다고 밝히며, 자사 페이지에 $5.47 상당이라고 표시합니다. Proton은 반대입니다. 월 결제가 가장 비싸고($9.99), 기간이 길수록 할인이 커지며, 한꺼번에 결제한 뒤 더 높은 금액으로 갱신됩니다.",
+          "Proton은 가격을 달러로 게시합니다. Mullvad는 부가세 포함 유로로 청구하고 페이지에 달러 환산액을 보여 주므로, 두 곳을 나란히 비교할 때는 그 금액을 씁니다. Proton 가격은 블랙프라이데이 프로모션 가격이고, 2년 가격은 저희 링크가 여는 파트너 페이지의 금액입니다. Mullvad의 12개월, 24개월 금액은 저희가 계산했습니다. 개월 수에 $5.47를 곱한 값입니다."
+        ],
+        "comparisonTable": {
+          "caption": "Mullvad와 Proton VPN Plus의 달러 가격. Proton은 블랙프라이데이 프로모션 중이며, 2년 플랜은 파트너 페이지 가격입니다. Mullvad의 달러 금액은 해당 페이지에 표시된 환산액입니다. 결제 화면에서 통화와 총액을 확인하세요.",
+          "headers": [
+            "기간",
+            "Mullvad",
+            "Proton VPN Plus",
+            "더 저렴한 쪽"
+          ],
+          "rows": [
+            [
+              "1개월",
+              "$5.47",
+              "$9.99",
+              "Mullvad"
+            ],
+            [
+              "12개월",
+              "$65.64",
+              "첫해 $35.88",
+              "Proton VPN(첫해)"
+            ],
+            [
+              "24개월",
+              "$131.28",
+              "2년 $59.76(파트너)",
+              "Proton VPN"
+            ],
+            [
+              "갱신, 12개월",
+              "$65.64",
+              "연 $83.88",
+              "Mullvad"
+            ]
+          ]
+        },
+        "postParagraphs": [
+          "역전이 두 번 일어납니다. 한 달만 쓰면 Mullvad가 절반 가까이 쌉니다. 첫 주기에는 뒤집혀서 Proton의 24개월이 Mullvad의 24개월의 절반도 안 됩니다. 갱신 때 다시 뒤집혀서 Proton은 연 $83.88, Mullvad는 $65.64입니다.",
+          "Proton 가격은 프로모션 가격입니다. 할인은 월 요금을 기준으로 계산되고, 갱신 때마다 그 시점의 요금이 청구됩니다. Mullvad는 유로로 청구하며(월 5유로, 부가세 포함), 달러 금액은 해당 페이지의 환산액일 뿐입니다. 실제 카드에 청구되는 금액은 환율과 카드사 수수료에 따라 달라집니다.",
+          "Proton의 공개 특가 페이지에서는 1년 플랜이 월 기준으로 2년 플랜($3.49)보다 쌉니다($2.99). 파트너 제안이 2년 플랜을 가장 저렴하게 만듭니다(월 $2.49)."
+        ],
+        "image": "/images/reviews/proton/proton-vpn-ou-mullvad-precos-usd.webp",
+        "imageAlt": "영어와 달러로 표시된 Proton 가격 페이지. VPN Plus 월 플랜은 월 $9.99이며 첫 달 $9.99가 청구되고 이후 매달 $9.99로 갱신되며 할인은 없습니다.",
+        "imageCaption": "달러로 표시된 Proton 가격 페이지, 2026년 11월 27일.",
+        "imageFit": "contain",
+        "links": [
+          {
+            "label": "2년 VPN Plus 보기",
+            "href": "https://go.getproton.me/SH39K",
+            "sponsored": true
+          }
+        ]
+      },
+      {
+        "heading": "계정, 결제, 본사",
+        "paragraphs": [
+          "Mullvad는 이메일 없이 계정을 만듭니다. 무작위 번호를 발급하며, Mullvad에 따르면 개인정보를 요구하지 않습니다. Proton은 이메일을 요구하고, 같은 계정으로 Mail 같은 다른 서비스의 무료 플랜도 열립니다. 저희는 거의 10년째 Proton Mail 무료 플랜을 쓰고 있습니다.",
+          "Proton은 스위스에 본사를 둔 회사입니다. Mullvad는 스웨덴에 본사를 둔 Mullvad VPN AB라고 밝힙니다. 두 곳 모두 활동 기록을 남기지 않는 정책, 오픈소스 앱, 독립적인 외부 감사를 내세웁니다. Proton은 정책을 매년 Securitum이 감사하고 보고서를 공개하며, 이는 [Proton VPN은 믿을 만한가요?](/ko/reviews/proton-vpn-trust-ko)에서 설명했습니다. 이는 각 회사의 주장입니다.",
+          "결제 수단은 표시 가격이 암시하는 것보다 차이가 큽니다. 목록은 아래와 같습니다."
+        ],
+        "accordionBlock": {
+          "heading": "각 서비스의 결제 수단",
+          "paragraphs": [
+            "**Proton:** Visa, Mastercard, American Express 카드와 PayPal. 비트코인은 계정을 만든 뒤 Proton 크레딧을 구매하는 방식으로만 쓸 수 있습니다.",
+            "**Mullvad:** 신용카드, PayPal, 계좌 이체, 비트코인, 비트코인 캐시, 모네로, 토큰과 함께 봉투로 보내는 현금, Swish, iDEAL, Bancontact 같은 유럽 지역 결제 수단. 비트코인, 비트코인 캐시, 모네로로 결제하면 10% 할인해 줍니다."
+          ]
+        }
+      },
+      {
+        "heading": "일상 사용에서 둘을 가르는 기능",
+        "paragraphs": [
+          "무료 플랜, 기기 10대, 포트 포워딩(들어오는 연결을 위해 포트를 여는 기능으로 토렌트 프로그램에서 씁니다)은 Proton VPN에만 있고, 이메일 없는 계정은 Mullvad에만 있습니다. 표는 각 회사가 가격 페이지와 기능 페이지에 게시한 내용입니다. 속도와 서비스 차단 우회는 다루지 않습니다."
+        ],
+        "comparisonTable": {
+          "caption": "각 회사 페이지 기준 Proton VPN과 Mullvad.",
+          "headers": [
+            "기능",
+            "Proton VPN",
+            "Mullvad"
+          ],
+          "rows": [
+            [
+              "무료 플랜",
+              "있음: 기기 1대, 10개국, 카드 불필요",
+              "없음"
+            ],
+            [
+              "동시 접속 기기",
+              "무료 1대, Plus 10대",
+              "계정당 5대"
+            ],
+            [
+              "포트 포워딩",
+              "있음(유료 플랜, Windows, macOS, Linux)",
+              "없음"
+            ],
+            [
+              "국가",
+              "Plus에서 140개국 이상",
+              "50개국, 91개 도시(서버 페이지 기준 서버 572대)"
+            ],
+            [
+              "계정",
+              "이메일 필요",
+              "무작위 번호, 이메일 불필요"
+            ],
+            [
+              "환불",
+              "최초 구매 후 30일",
+              "일부 결제 수단은 14일, 현금·암호화폐 결제는 환불 불가"
+            ]
+          ]
+        },
+        "postParagraphs": [
+          "서버와 국가 수는 품질을 재는 기준이 아니며, 필요한 국가가 목록에 있는지 확인하는 용도입니다. Proton은 Plus에서 서버 2만 대 이상이라고 밝힙니다. Proton의 환불에는 약관상의 조건이 있으며, [Proton VPN 해지와 환불 요청 방법](/ko/reviews/proton-vpn-refund-ko)에서 설명했습니다."
+        ]
+      },
+      {
+        "heading": "누가 무엇을 고를까",
+        "paragraphs": [
+          "얼마나 오래 쓸지가 판가름합니다. 월 단위라면 갱신을 신경 쓸 필요가 없는 Mullvad, 2년이라면 파트너 제안이 있는 Proton입니다. 그 뒤에는 갱신일에 다시 계산해 보는 것이 좋습니다.",
+          "5대를 넘는 기기, 포트 포워딩, 무료 플랜이 필요하다면 기능 목록만으로 이미 Proton입니다. 이메일 없는 계정과 모네로 결제가 우선이라면 Mullvad입니다. 무료 플랜이 아직 고민이라면 [Proton VPN, 쓸 만할까요?](/ko/reviews/proton-vpn-worth-it-ko)에서 무엇을 다루는지 볼 수 있습니다. 다른 VPN과 비교한다면 [Proton VPN 아니면 NordVPN](/ko/reviews/proton-vpn-vs-nordvpn-ko)도 있습니다. 저희 링크의 규칙은 [사이트의 Proton 페이지](/ko/coupons/proton)에 있습니다."
+        ],
+        "emphasis": "기간이 결정합니다. 1개월, 2년, 아니면 계속 쓸지입니다. 한 달만 쓸 때와 갱신 때는 Mullvad가 덜 듭니다. 처음 2년은 Proton이 덜 듭니다.",
+        "links": [
+          {
+            "label": "Proton VPN 보기",
+            "href": "https://go.getproton.me/SH39K",
+            "sponsored": true
+          }
+        ]
+      },
+      {
+        "heading": "자주 묻는 질문",
+        "bullets": [
+          "Mullvad는 블랙프라이데이나 연간 플랜 할인이 있나요? 아니요. Mullvad는 기간과 관계없이 월 5유로을 유지하며 장기 할인 플랜이 없다고 밝힙니다. 게시된 할인은 비트코인, 비트코인 캐시, 모네로로 결제할 때의 10%뿐입니다.",
+          "Proton VPN과 Mullvad 중 포트 포워딩이 있는 쪽은요? Proton VPN뿐입니다. Proton 고객센터는 모든 유료 플랜의 Windows, macOS, Linux 앱에서 쓸 수 있다고 하고, Mullvad는 지원하지 않는다고 답합니다. Proton 무료 플랜에는 이 기능이 없습니다.",
+          "Mullvad는 어떤 통화로 청구하고 어떻게 결제하나요? 유로로 월 5유로이며 부가세가 포함되고, 달러 가격표는 없습니다. 카드사가 자체 환율이나 수수료를 적용할 수 있습니다. 결제 수단은 위에 정리했습니다.",
+          "환불 기간이 더 긴 쪽은요? Proton입니다. 최초 구매 후 30일이며, 사용자당 한 번, 약관 조건에 따릅니다. Mullvad는 카드, PayPal 등 일부 결제 수단에서 14일입니다. 현금이나 암호화폐 결제는 환불이 없고, App Store나 바우처로 산 경우는 판매처의 규칙을 따릅니다."
+        ]
+      }
+    ],
+    "pros": [],
+    "cons": [],
+    "cta": {
+      "text": "VPN Plus를 2년 쓰려면 저희 링크가 Proton 파트너 페이지를 엽니다. 2년 플랜은 한꺼번에 결제하고 이후 표준 가격으로 매년 갱신됩니다. 구독 전에 통화와 총액을 확인하세요.",
+      "label": "Proton VPN 보기",
+      "url": "https://go.getproton.me/SH39K",
+      "sponsored": true
+    },
+    "affiliate": "proton",
+    "editorialNote": "Proton과 Mullvad의 가격 페이지와 기능 페이지를 바탕으로 작성했으며, 두 VPN을 직접 써 보고 검증한 것은 아닙니다. 이 링크는 제휴 링크이며 수수료를 받을 수 있습니다.",
+    "relatedArticles": [
+      {
+        "slug": "proton-vpn-worth-it-ko"
+      },
+      {
+        "slug": "proton-vpn-trust-ko"
+      },
+      {
+        "slug": "proton-vpn-refund-ko"
+      },
+      {
+        "slug": "proton-black-friday-ko"
+      }
+    ],
+    "decision": {
+      "takeIf": [
+        "무료 플랜, 기기 10대, 포트 포워딩 또는 처음 2년의 최저 가격을 원합니다.",
+        "전체 기간을 한꺼번에 결제해도 괜찮고 갱신 금액을 확인할 생각입니다."
+      ],
+      "skipIf": [
+        "월 단위로 결제하거나 이메일 없는 계정에 모네로로 결제하고 싶습니다.",
+        "갱신해도 바뀌지 않는 요금을 원합니다. 3년째부터는 Mullvad의 연간 금액이 가장 낮습니다."
+      ]
+    }
+  },
+  {
+    "id": 1522,
+    "slug": "proton-vpn-or-mullvad-ja",
+    "locale": "ja",
+    "translationKey": "proton-vpn-ou-mullvad",
+    "title": "Proton VPNかMullvadか：月5ユーロの固定料金か、期間別の割引か",
+    "seoTitle": "Proton VPNとMullvadを比較：料金、プライバシー、機能",
+    "type": "比較ガイド",
+    "category": "guias-praticos-utilidade",
+    "reviewKind": "guia",
+    "author": {
+      "name": "Cecília Mauad",
+      "slug": "cecilia-mauad",
+      "role": "Em Casa com Cecília",
+      "initials": "CM",
+      "url": "/sobre"
+    },
+    "description": "1か月、2年、更新時の料金をドルで比較し、無料プラン、端末数、ポートフォワーディング、メール不要のアカウント、返金の違いをまとめました。",
+    "metaDescription": "Proton VPNとMullvadを比較。月5ユーロの固定料金とProtonのプラン、端末数、ポートフォワーディング、無料プラン、返金。",
+    "publishedAt": "2026年11月27日",
+    "publishedAtISO": "2026-11-27",
+    "updatedAt": "2026-11-27",
+    "draft": false,
+    "isNew": true,
+    "hideFromPortugueseListings": true,
+    "image": "/images/reviews/proton/proton-vpn-ou-mullvad-hero-ja.webp",
+    "imageAlt": "Proton VPN公式のイラスト。チェックリストが表示された紫のモニターと、横の鍵のアイコン。表紙には「Proton VPN か Mullvadか？」とあります。",
+    "imageFit": "contain",
+    "imageAspect": "landscape",
+    "contentSections": [
+      {
+        "heading": "結論",
+        "paragraphs": [
+          "月ごとの支払いやメール不要のアカウントならMullvadが有利です。無料で使いたい、最大10台を接続したい、ポートフォワーディングが必要、最初の2年を安く使いたいならProton VPNが向いています。更新時はMullvadの固定料金が再び安くなり、表に3つの期間を載せています。"
+        ]
+      },
+      {
+        "heading": "2つの料金モデル：固定料金か、期間別の割引か",
+        "paragraphs": [
+          "Mullvadは料金を1つだけ示しています。1か月でも1年でもそれ以上でも月5ユーロで、長期割引のプランはありません。Mullvadは2009年から5ユーロを維持していると述べ、自社ページに$5.47相当と表示しています。Protonは逆で、月払いが最も高く（$9.99）、期間が長いほど割引が大きくなり、一括で支払った後、より高い金額で更新されます。",
+          "Protonは価格をドルで公開しています。Mullvadは付加価値税込みのユーロで請求し、ページにドル換算額を表示しているため、並べて比べるときはその金額を使います。Protonの価格はブラックフライデーのキャンペーン価格で、2年の価格は当サイトのリンクが開くパートナー向けページのものです。Mullvadの12か月と24か月の合計は当サイトの計算で、月数に$5.47を掛けています。"
+        ],
+        "comparisonTable": {
+          "caption": "MullvadとProton VPN Plusのドル価格。Protonはブラックフライデーのキャンペーン中で、2年プランはパートナー向けページの価格です。Mullvadのドル額は同社ページに表示された換算額です。通貨と合計額は決済画面で確認してください。",
+          "headers": [
+            "期間",
+            "Mullvad",
+            "Proton VPN Plus",
+            "安いのは"
+          ],
+          "rows": [
+            [
+              "1か月",
+              "$5.47",
+              "$9.99",
+              "Mullvad"
+            ],
+            [
+              "12か月",
+              "$65.64",
+              "1年目は$35.88",
+              "Proton VPN（1年目）"
+            ],
+            [
+              "24か月",
+              "$131.28",
+              "2年で$59.76（パートナー）",
+              "Proton VPN"
+            ],
+            [
+              "更新、12か月",
+              "$65.64",
+              "年$83.88",
+              "Mullvad"
+            ]
+          ]
+        },
+        "postParagraphs": [
+          "逆転は2回あります。1か月だけならMullvadはほぼ半額です。最初の期間では逆転し、Protonの24か月はMullvadの24か月の半分以下です。更新時にまた逆転し、Protonは年$83.88、Mullvadは$65.64です。",
+          "Protonの価格はキャンペーン価格です。割引は月額を基準に計算され、更新のたびにその時点の価格で請求されます。Mullvadはユーロで請求するため（月5ユーロ、付加価値税込み）、ドルの金額は同社ページの換算額にすぎません。カードに実際に請求される額は、為替レートとカード会社の手数料によって変わります。",
+          "Protonの公開特価ページでは、1年プランのほうが月あたりでは2年プラン（$3.49）より安くなっています（$2.99）。2年を最も安くするのはパートナー向けの特典です（月$2.49）。"
+        ],
+        "image": "/images/reviews/proton/proton-vpn-ou-mullvad-precos-usd.webp",
+        "imageAlt": "英語とドルで表示されたProtonの料金ページ。VPN Plusの月額プランは月$9.99で、最初の1か月に$9.99が請求され、その後も毎月$9.99で更新されます。割引はありません。",
+        "imageCaption": "ドルで表示されたProtonの料金ページ、2026年11月27日。",
+        "imageFit": "contain",
+        "links": [
+          {
+            "label": "2年のVPN Plusを見る",
+            "href": "https://go.getproton.me/SH39K",
+            "sponsored": true
+          }
+        ]
+      },
+      {
+        "heading": "アカウント、支払い、本社",
+        "paragraphs": [
+          "Mullvadはメールなしでアカウントを作成します。ランダムな番号を発行し、同社によれば個人情報は求めません。Protonはメールアドレスを求め、同じアカウントでMailなど他サービスの無料プランも使えます。当サイトはProton Mailの無料プランを10年近く使っています。",
+          "Protonはスイスに本社を置く企業です。Mullvadはスウェーデンに本社を置くMullvad VPN ABだと述べています。どちらも通信記録を保存しない方針、オープンソースのアプリ、独立した外部監査を掲げています。Protonは方針をSecuritumが毎年監査し、報告書を公開しており、[Proton VPNは信頼できる？](/ja/reviews/proton-vpn-trust-ja)で説明しています。これらは各社の主張です。",
+          "支払い手段の違いは、表示価格から想像するより大きくなります。一覧は下にあります。"
+        ],
+        "accordionBlock": {
+          "heading": "それぞれの支払い手段",
+          "paragraphs": [
+            "**Proton：**Visa、Mastercard、American Expressのカードと、PayPal。ビットコインは、アカウント作成後にProtonのクレジットを購入する形でのみ使えます。",
+            "**Mullvad：**クレジットカード、PayPal、銀行振込、ビットコイン、ビットコインキャッシュ、モネロ、トークン付きの封筒で送る現金、Swish、iDEAL、Bancontactなどヨーロッパ各地の支払い手段。ビットコイン、ビットコインキャッシュ、モネロでは10%割引されます。"
+          ]
+        }
+      },
+      {
+        "heading": "日常の使い方で二つを分ける機能",
+        "paragraphs": [
+          "無料プラン、10台の接続、ポートフォワーディング（外からの接続のためにポートを開く機能で、torrentソフトで使われます）はProton VPNにだけあり、メール不要のアカウントはMullvadにだけあります。表は各社が料金ページと機能ページで公開している内容です。速度や各種サービスの制限回避は扱いません。"
+        ],
+        "comparisonTable": {
+          "caption": "各社のページに基づくProton VPNとMullvad。",
+          "headers": [
+            "機能",
+            "Proton VPN",
+            "Mullvad"
+          ],
+          "rows": [
+            [
+              "無料プラン",
+              "あり：1台、10か国、カード不要",
+              "なし"
+            ],
+            [
+              "同時接続",
+              "無料は1台、Plusは10台",
+              "1アカウントにつき5台"
+            ],
+            [
+              "ポートフォワーディング",
+              "あり（有料プラン、Windows、macOS、Linux）",
+              "なし"
+            ],
+            [
+              "対応国",
+              "Plusで140か国以上",
+              "50か国、91都市（サーバーページでは572台）"
+            ],
+            [
+              "アカウント",
+              "メールが必要",
+              "ランダムな番号、メール不要"
+            ],
+            [
+              "返金",
+              "初回購入から30日",
+              "一部の支払い方法で14日。現金払いと暗号資産払いは返金なし"
+            ]
+          ]
+        },
+        "postParagraphs": [
+          "サーバー数や国数は品質を測るものではなく、必要な国が一覧にあるかを確かめるためのものです。PlusではProtonが2万台以上のサーバーを挙げています。Protonの返金には利用規約上の条件があり、[Proton VPNの解約と返金の申請方法](/ja/reviews/proton-vpn-refund-ja)で説明しています。"
+        ]
+      },
+      {
+        "heading": "誰がどちらを選ぶか",
+        "paragraphs": [
+          "決め手は、どのくらい使い続けるかです。月ごとならMullvadで、更新を気にする必要がありません。2年ならパートナー向け特典のあるProtonです。その後は、更新日にもう一度計算し直すのがよいでしょう。",
+          "5台を超える端末、ポートフォワーディング、無料プランが必要なら、機能一覧だけでProtonに決まります。メール不要のアカウントとモネロでの支払いを優先するならMullvadです。無料プランで迷っているなら、[Proton VPNは有料にする価値がある？](/ja/reviews/proton-vpn-worth-it-ja)で何ができるかが分かります。ほかのVPNと比べるなら、[Proton VPNかNordVPNか](/ja/reviews/proton-vpn-vs-nordvpn-ja)もあります。当サイトのリンクのルールは[当サイトのProtonのページ](/ja/coupons/proton)にあります。"
+        ],
+        "emphasis": "決め手は期間です。1か月か、2年か、ずっとか。1か月だけの場合と更新時はMullvadが安く、最初の2年はProtonが安くなります。",
+        "links": [
+          {
+            "label": "Proton VPNを見る",
+            "href": "https://go.getproton.me/SH39K",
+            "sponsored": true
+          }
+        ]
+      },
+      {
+        "heading": "よくある質問",
+        "bullets": [
+          "Mullvadにブラックフライデーや年間プランの割引はありますか？ ありません。Mullvadは期間にかかわらず月5ユーロを維持し、長期割引のプランはないと述べています。公開されている割引は、ビットコイン、ビットコインキャッシュ、モネロで支払う場合の10%だけです。",
+          "Proton VPNとMullvadで、ポートフォワーディングがあるのはどちらですか？ Proton VPNだけです。Protonのヘルプセンターによると、すべての有料プランのWindows、macOS、Linuxアプリで使え、Mullvadは非対応と回答しています。Protonの無料プランにはこの機能はありません。",
+          "Mullvadは何の通貨で請求し、どう支払いますか？ ユーロで月5ユーロ、付加価値税込みで、ドルの料金表はありません。カード会社が独自の為替レートや手数料を適用する場合があります。支払い手段は上に一覧があります。",
+          "返金期間が長いのはどちらですか？ Protonです。初回購入から30日で、1ユーザーにつき1回、規約の条件に従います。MullvadはカードやPayPalなど一部の支払い方法で14日です。現金払いと暗号資産払いは返金なしで、App Storeやバウチャー経由の購入は販売元のルールに従います。"
+        ]
+      }
+    ],
+    "pros": [],
+    "cons": [],
+    "cta": {
+      "text": "VPN Plusを2年使うなら、当サイトのリンクからProtonのパートナー向けページを開けます。2年プランは一括払いで、その後は標準価格で毎年更新されます。申し込む前に通貨と合計額を確認してください。",
+      "label": "Proton VPNを見る",
+      "url": "https://go.getproton.me/SH39K",
+      "sponsored": true
+    },
+    "affiliate": "proton",
+    "editorialNote": "ProtonとMullvadの料金ページと機能ページをもとに作成しました。2つのVPNを実際に使った検証はしていません。このリンクはアフィリエイトリンクで、紹介料を受け取る場合があります。",
+    "relatedArticles": [
+      {
+        "slug": "proton-vpn-worth-it-ja"
+      },
+      {
+        "slug": "proton-vpn-trust-ja"
+      },
+      {
+        "slug": "proton-vpn-refund-ja"
+      },
+      {
+        "slug": "proton-black-friday-ja"
+      }
+    ],
+    "decision": {
+      "takeIf": [
+        "無料プラン、10台、ポートフォワーディング、または最初の2年の最安値がほしい。",
+        "期間分を一括で払ってもよく、更新時の金額を確認するつもりがある。"
+      ],
+      "skipIf": [
+        "月ごとに支払う、またはメール不要のアカウントをモネロで払いたい。",
+        "更新しても変わらない料金がほしい。3年目からはMullvadの年額が最も安くなります。"
+      ]
+    }
+  },
+  {
+    "id": 1523,
+    "slug": "proton-vpn-or-mullvad-zh-hant",
+    "locale": "zh-hant",
+    "translationKey": "proton-vpn-ou-mullvad",
+    "title": "Proton VPN 還是 Mullvad：每月 5 歐元 固定費率，或依期限折扣",
+    "seoTitle": "Proton VPN 與 Mullvad 比較：價格、隱私與功能",
+    "type": "比較指南",
+    "category": "guias-praticos-utilidade",
+    "reviewKind": "guia",
+    "author": {
+      "name": "Cecília Mauad",
+      "slug": "cecilia-mauad",
+      "role": "Em Casa com Cecília",
+      "initials": "CM",
+      "url": "/sobre"
+    },
+    "description": "比較兩者 1 個月、2 年和續訂時的價格（以美元計），並整理差異：免費方案、裝置數、連接埠轉發、免電子郵件帳戶與退款。",
+    "metaDescription": "Proton VPN 還是 Mullvad？比較 Mullvad 每月 5 歐元 固定費率與 Proton 的方案、裝置、連接埠轉發、免費方案和退款。",
+    "publishedAt": "2026年11月27日",
+    "publishedAtISO": "2026-11-27",
+    "updatedAt": "2026-11-27",
+    "draft": false,
+    "isNew": true,
+    "hideFromPortugueseListings": true,
+    "image": "/images/reviews/proton/proton-vpn-ou-mullvad-hero-zh-hant.webp",
+    "imageAlt": "Proton VPN 官方插圖：一台紫色螢幕，上面有清單，旁邊是一把鎖。封面提問「Proton VPN 還是 Mullvad？」。",
+    "imageFit": "contain",
+    "imageAspect": "landscape",
+    "contentSections": [
+      {
+        "heading": "快速回答",
+        "paragraphs": [
+          "想按月付費，或想開不需要電子郵件的帳戶，Mullvad 比較有利。想免費使用、同時連接最多 10 台裝置、需要連接埠轉發，或想在前兩年付得更少，Proton VPN 更划算。續訂時 Mullvad 的固定費率又會比較便宜，表格列出了三種期限。"
+        ]
+      },
+      {
+        "heading": "兩種定價模式：固定費率或依期限折扣",
+        "paragraphs": [
+          "Mullvad 只公布一種費率：每月 5 歐元，無論是 1 個月、1 年還是更久，都沒有折扣的長期方案。Mullvad 表示自 2009 年起一直維持 5 歐元，其頁面顯示的約當金額為 $5.47。Proton 正好相反：月付最貴（$9.99），期限越長折扣越大，一次付清，之後以更高的價格續訂。",
+          "Proton 以美元公布價格。Mullvad 以歐元計費（含增值稅），並在頁面上顯示美元約當金額，所以並排比較時我們採用這個數字。Proton 的價格是黑色星期五的活動價；2 年的價格是合作夥伴頁面的價格，也就是我們的連結開啟的頁面。Mullvad 12 個月和 24 個月的金額是我們自己算的：月數乘以 $5.47。"
+        ],
+        "comparisonTable": {
+          "caption": "Mullvad 與 Proton VPN Plus 的美元價格。Proton 正在進行黑色星期五活動；2 年方案是合作夥伴頁面的價格。Mullvad 的美元金額是其頁面顯示的換算結果。請在結帳時確認幣別和總額。",
+          "headers": [
+            "期限",
+            "Mullvad",
+            "Proton VPN Plus",
+            "較便宜"
+          ],
+          "rows": [
+            [
+              "1 個月",
+              "$5.47",
+              "$9.99",
+              "Mullvad"
+            ],
+            [
+              "12 個月",
+              "$65.64",
+              "第 1 年 $35.88",
+              "Proton VPN（第 1 年）"
+            ],
+            [
+              "24 個月",
+              "$131.28",
+              "2 年 $59.76（合作夥伴）",
+              "Proton VPN"
+            ],
+            [
+              "續訂，12 個月",
+              "$65.64",
+              "每年 $83.88",
+              "Mullvad"
+            ]
+          ]
+        },
+        "postParagraphs": [
+          "有兩次反轉。只買一個月時，Mullvad 便宜將近一半。第一個週期反過來，Proton 的 24 個月不到 Mullvad 24 個月的一半。續訂時又反過來：Proton 每年 $83.88，Mullvad 是 $65.64。",
+          "Proton 的價格是活動價。折扣是以月費為基準計算的，每次續訂按當天的現行價格收費。Mullvad 以歐元計費（每月 5 歐元，含增值稅），所以美元金額只是其頁面的換算結果：實際從您的卡上扣多少，取決於匯率和發卡銀行的手續費。",
+          "在 Proton 的公開優惠頁面上，1 年方案的每月價格（$2.99）比 2 年方案（$3.49）低。是合作夥伴優惠讓 2 年方案最便宜（每月 $2.49）。"
+        ],
+        "image": "/images/reviews/proton/proton-vpn-ou-mullvad-precos-usd.webp",
+        "imageAlt": "Proton 的英文美元價格頁面，顯示 VPN Plus 月付方案：每月 $9.99，首月收取 $9.99，之後每月以 $9.99 續訂，沒有折扣。",
+        "imageCaption": "Proton 的美元價格頁面，2026年11月27日。",
+        "imageFit": "contain",
+        "links": [
+          {
+            "label": "查看 2 年 VPN Plus",
+            "href": "https://go.getproton.me/SH39K",
+            "sponsored": true
+          }
+        ]
+      },
+      {
+        "heading": "帳戶、付款與公司所在地",
+        "paragraphs": [
+          "Mullvad 開戶不需要電子郵件：它會產生一組隨機號碼，並表示不要求任何個人資料。Proton 需要電子郵件，同一個帳戶也能開通它其他服務的免費方案，例如 Mail。我們使用 Proton Mail 免費方案已將近十年。",
+          "Proton 是一家總部設在瑞士的公司。Mullvad 表示自己是總部位於瑞典的 Mullvad VPN AB。兩家都宣稱不保存活動紀錄、應用程式開源，並接受獨立的外部稽核。Proton 的政策每年由 Securitum 稽核並公開報告，我們在〈[Proton VPN 可靠嗎？](/zh-hant/reviews/proton-vpn-trust-zh-hant)〉中有說明。這些都是公司自己的聲明。",
+          "付款方式的差異比標價顯示的更大，清單如下。"
+        ],
+        "accordionBlock": {
+          "heading": "兩家的付款方式",
+          "paragraphs": [
+            "**Proton：**Visa、Mastercard、American Express 信用卡和 PayPal。比特幣只能在建立帳戶後購買 Proton 點數時使用。",
+            "**Mullvad：**信用卡、PayPal、銀行轉帳、比特幣、比特幣現金、門羅幣、附代碼以信封寄送的現金，以及 Swish、iDEAL、Bancontact 等歐洲地區付款方式。使用比特幣、比特幣現金和門羅幣付款，Mullvad 提供 10% 折扣。"
+          ]
+        }
+      },
+      {
+        "heading": "日常使用中區分兩者的功能",
+        "paragraphs": [
+          "免費方案、10 台裝置和連接埠轉發（為傳入連線開放連接埠，BT 下載程式會用到）只有 Proton VPN 有；不需要電子郵件的帳戶只有 Mullvad 有。表格列出兩家公司在價格頁與功能頁上公布的內容，速度和解鎖服務的能力不在比較範圍內。"
+        ],
+        "comparisonTable": {
+          "caption": "依兩家公司各自頁面整理的 Proton VPN 與 Mullvad。",
+          "headers": [
+            "功能",
+            "Proton VPN",
+            "Mullvad"
+          ],
+          "rows": [
+            [
+              "免費方案",
+              "有：1 台裝置、10 個國家，不需信用卡",
+              "沒有"
+            ],
+            [
+              "同時連線裝置",
+              "免費 1 台，Plus 10 台",
+              "每個帳戶 5 台"
+            ],
+            [
+              "連接埠轉發",
+              "有，付費方案，支援 Windows、macOS 和 Linux",
+              "沒有"
+            ],
+            [
+              "國家",
+              "Plus 提供 140 多個國家",
+              "50 個國家、91 個城市（伺服器頁面顯示 572 台伺服器）"
+            ],
+            [
+              "帳戶",
+              "需要電子郵件",
+              "隨機號碼，不需電子郵件"
+            ],
+            [
+              "退款",
+              "首次購買後 30 天",
+              "部分付款方式 14 天；現金和加密貨幣付款不退款"
+            ]
+          ]
+        },
+        "postParagraphs": [
+          "伺服器和國家數量不代表品質，只能用來確認您需要的國家在不在清單上。Proton 表示 Plus 有 2 萬多台伺服器。Proton 的退款在條款中有條件，我們在〈[如何取消 Proton VPN 並申請退款](/zh-hant/reviews/proton-vpn-refund-zh-hant)〉中有說明。"
+        ]
+      },
+      {
+        "heading": "誰該選哪一個",
+        "paragraphs": [
+          "關鍵在於您打算用多久。按月付費選 Mullvad，不用盯著續訂；用兩年選 Proton，靠合作夥伴優惠。之後最好在續訂當天重新算一次。",
+          "如果您需要超過 5 台裝置、連接埠轉發或免費方案，光看功能清單就已經指向 Proton。如果您最看重不需電子郵件的帳戶，以及用門羅幣付款，就選 Mullvad。如果對免費方案還有疑慮，〈[Proton VPN 值得買嗎？](/zh-hant/reviews/proton-vpn-worth-it-zh-hant)〉會說明它涵蓋哪些功能。如果要比較其他 VPN，可以看〈[Proton VPN 還是 NordVPN](/zh-hant/reviews/proton-vpn-vs-nordvpn-zh-hant)〉。我們連結的規則見[本站的 Proton 頁面](/zh-hant/coupons/proton)。"
+        ],
+        "emphasis": "期限決定一切：1 個月、2 年，還是長期使用。只買一個月和續訂時，Mullvad 花費較少；前兩年，Proton 花費較少。",
+        "links": [
+          {
+            "label": "查看 Proton VPN",
+            "href": "https://go.getproton.me/SH39K",
+            "sponsored": true
+          }
+        ]
+      },
+      {
+        "heading": "常見問題",
+        "bullets": [
+          "Mullvad 有黑色星期五或年繳折扣嗎？沒有。Mullvad 表示不論期限都維持每月 5 歐元，沒有折扣的長期方案。公布的唯一折扣是用比特幣、比特幣現金或門羅幣付款時的 10%。",
+          "Proton VPN 和 Mullvad 哪個有連接埠轉發？只有 Proton VPN：Proton 的說明中心表示，所有付費方案的 Windows、macOS 和 Linux 應用程式都有，而 Mullvad 回覆說不支援。Proton 的免費方案沒有這項功能。",
+          "Mullvad 用什麼幣別收費，怎麼付款？以歐元計費，每月 5 歐元，含增值稅，沒有美元價格表。發卡銀行可能套用自己的匯率或手續費。付款方式列在上方。",
+          "哪一家的退款期限比較長？Proton：首次購買後 30 天，每位使用者一次，並依條款所列條件。Mullvad 對信用卡、PayPal 等部分付款方式提供 14 天。現金和加密貨幣付款不退款，透過 App Store 或代金券購買則依銷售方的規則。"
+        ]
+      }
+    ],
+    "pros": [],
+    "cons": [],
+    "cta": {
+      "text": "想用兩年 VPN Plus，我們的連結會開啟 Proton 的合作夥伴頁面，2 年方案一次付清，之後以標準價格每年續訂。訂閱前請確認幣別和總額。",
+      "label": "查看 Proton VPN",
+      "url": "https://go.getproton.me/SH39K",
+      "sponsored": true
+    },
+    "affiliate": "proton",
+    "editorialNote": "依據 Proton 和 Mullvad 的價格頁與功能頁撰寫，沒有實際測試這兩款 VPN。這個連結是聯盟連結，可能為我們帶來佣金。",
+    "relatedArticles": [
+      {
+        "slug": "proton-vpn-worth-it-zh-hant"
+      },
+      {
+        "slug": "proton-vpn-trust-zh-hant"
+      },
+      {
+        "slug": "proton-vpn-refund-zh-hant"
+      },
+      {
+        "slug": "proton-black-friday-zh-hant"
+      }
+    ],
+    "decision": {
+      "takeIf": [
+        "您想要免費方案、10 台裝置、連接埠轉發，或前兩年的最低價格。",
+        "您不介意一次付清整段期限，並且會確認續訂價格。"
+      ],
+      "skipIf": [
+        "您會按月付費，或想用門羅幣付款並開不需電子郵件的帳戶。",
+        "您想要續訂時不變動的費率：從第三年起，Mullvad 的年費最低。"
+      ]
+    }
+  },
+  {
+    "id": 1524,
+    "slug": "proton-vpn-or-mullvad-zh-hans",
+    "locale": "zh-hans",
+    "translationKey": "proton-vpn-ou-mullvad",
+    "title": "Proton VPN 还是 Mullvad：每月 5 欧元 固定费率，或按期限折扣",
+    "seoTitle": "Proton VPN 与 Mullvad 对比：价格、隐私与功能",
+    "type": "对比指南",
+    "category": "guias-praticos-utilidade",
+    "reviewKind": "guia",
+    "author": {
+      "name": "Cecília Mauad",
+      "slug": "cecilia-mauad",
+      "role": "Em Casa com Cecília",
+      "initials": "CM",
+      "url": "/sobre"
+    },
+    "description": "比较两者 1 个月、2 年和续订时的价格（以美元计），并梳理差异：免费套餐、设备数、端口转发、无需邮箱的账户和退款。",
+    "metaDescription": "Proton VPN 还是 Mullvad？比较 Mullvad 每月 5 欧元 固定费率与 Proton 的套餐、设备、端口转发、免费套餐和退款。",
+    "publishedAt": "2026年11月27日",
+    "publishedAtISO": "2026-11-27",
+    "updatedAt": "2026-11-27",
+    "draft": false,
+    "isNew": true,
+    "hideFromPortugueseListings": true,
+    "image": "/images/reviews/proton/proton-vpn-ou-mullvad-hero-zh-hans.webp",
+    "imageAlt": "Proton VPN 官方插图：一台紫色显示器，上面有清单，旁边是一把锁。封面提问“Proton VPN 还是 Mullvad？”。",
+    "imageFit": "contain",
+    "imageAspect": "landscape",
+    "contentSections": [
+      {
+        "heading": "快速回答",
+        "paragraphs": [
+          "想按月付费，或想开无需邮箱的账户，Mullvad 更有利。想免费使用、同时连接最多 10 台设备、需要端口转发，或想在前两年付得更少，Proton VPN 更划算。续订时 Mullvad 的固定费率又会更便宜，表格列出了三种期限。"
+        ]
+      },
+      {
+        "heading": "两种定价模式：固定费率或按期限折扣",
+        "paragraphs": [
+          "Mullvad 只公布一种费率：每月 5 欧元，无论是 1 个月、1 年还是更久，都没有折扣的长期套餐。Mullvad 表示自 2009 年起一直保持 5 欧元，其页面显示的折合金额为 $5.47。Proton 正好相反：月付最贵（$9.99），期限越长折扣越大，一次付清，之后以更高的价格续订。",
+          "Proton 以美元公布价格。Mullvad 以欧元计费（含增值税），并在页面上显示美元折合金额，所以并排比较时我们采用这个数字。Proton 的价格是黑色星期五的活动价；2 年的价格是合作伙伴页面的价格，也就是我们的链接打开的页面。Mullvad 12 个月和 24 个月的金额是我们自己算的：月数乘以 $5.47。"
+        ],
+        "comparisonTable": {
+          "caption": "Mullvad 与 Proton VPN Plus 的美元价格。Proton 正在进行黑色星期五活动；2 年套餐是合作伙伴页面的价格。Mullvad 的美元金额是其页面显示的换算结果。请在结账时确认币种和总额。",
+          "headers": [
+            "期限",
+            "Mullvad",
+            "Proton VPN Plus",
+            "更便宜"
+          ],
+          "rows": [
+            [
+              "1 个月",
+              "$5.47",
+              "$9.99",
+              "Mullvad"
+            ],
+            [
+              "12 个月",
+              "$65.64",
+              "第 1 年 $35.88",
+              "Proton VPN（第 1 年）"
+            ],
+            [
+              "24 个月",
+              "$131.28",
+              "2 年 $59.76（合作伙伴）",
+              "Proton VPN"
+            ],
+            [
+              "续订，12 个月",
+              "$65.64",
+              "每年 $83.88",
+              "Mullvad"
+            ]
+          ]
+        },
+        "postParagraphs": [
+          "有两次反转。只买一个月时，Mullvad 便宜将近一半。第一个周期反过来，Proton 的 24 个月不到 Mullvad 24 个月的一半。续订时又反过来：Proton 每年 $83.88，Mullvad 是 $65.64。",
+          "Proton 的价格是活动价。折扣是以月费为基准计算的，每次续订按当天的现行价格收费。Mullvad 以欧元计费（每月 5 欧元，含增值税），所以美元金额只是其页面的换算结果：实际从您的卡上扣多少，取决于汇率和发卡银行的手续费。",
+          "在 Proton 的公开优惠页面上，1 年套餐的每月价格（$2.99）比 2 年套餐（$3.49）低。是合作伙伴优惠让 2 年套餐最便宜（每月 $2.49）。"
+        ],
+        "image": "/images/reviews/proton/proton-vpn-ou-mullvad-precos-usd.webp",
+        "imageAlt": "Proton 的英文美元价格页面，显示 VPN Plus 月付套餐：每月 $9.99，首月收取 $9.99，之后每月以 $9.99 续订，没有折扣。",
+        "imageCaption": "Proton 的美元价格页面，2026年11月27日。",
+        "imageFit": "contain",
+        "links": [
+          {
+            "label": "查看 2 年 VPN Plus",
+            "href": "https://go.getproton.me/SH39K",
+            "sponsored": true
+          }
+        ]
+      },
+      {
+        "heading": "账户、付款与公司所在地",
+        "paragraphs": [
+          "Mullvad 开户不需要邮箱：它会生成一组随机号码，并表示不要求任何个人信息。Proton 需要邮箱，同一个账户也能开通它其他服务的免费套餐，例如 Mail。我们使用 Proton Mail 免费套餐已将近十年。",
+          "Proton 是一家总部设在瑞士的公司。Mullvad 表示自己是总部位于瑞典的 Mullvad VPN AB。两家都宣称不保存活动日志、应用开源，并接受独立的外部审计。Proton 的政策每年由 Securitum 审计并公开报告，我们在《[Proton VPN 可靠吗？](/zh-hans/reviews/proton-vpn-trust-zh-hans)》中有说明。这些都是公司自己的声明。",
+          "付款方式的差异比标价显示的更大，清单如下。"
+        ],
+        "accordionBlock": {
+          "heading": "两家的付款方式",
+          "paragraphs": [
+            "**Proton：**Visa、Mastercard、American Express 信用卡和 PayPal。比特币只能在创建账户后购买 Proton 点数时使用。",
+            "**Mullvad：**信用卡、PayPal、银行转账、比特币、比特币现金、门罗币、附代码以信封寄送的现金，以及 Swish、iDEAL、Bancontact 等欧洲地区付款方式。使用比特币、比特币现金和门罗币付款，Mullvad 提供 10% 折扣。"
+          ]
+        }
+      },
+      {
+        "heading": "日常使用中区分两者的功能",
+        "paragraphs": [
+          "免费套餐、10 台设备和端口转发（为传入连接开放端口，BT 下载程序会用到）只有 Proton VPN 有；无需邮箱的账户只有 Mullvad 有。表格列出两家公司在价格页和功能页上公布的内容，速度和解锁服务的能力不在比较范围内。"
+        ],
+        "comparisonTable": {
+          "caption": "依两家公司各自页面整理的 Proton VPN 与 Mullvad。",
+          "headers": [
+            "功能",
+            "Proton VPN",
+            "Mullvad"
+          ],
+          "rows": [
+            [
+              "免费套餐",
+              "有：1 台设备、10 个国家，无需银行卡",
+              "没有"
+            ],
+            [
+              "同时连接设备",
+              "免费 1 台，Plus 10 台",
+              "每个账户 5 台"
+            ],
+            [
+              "端口转发",
+              "有，付费套餐，支持 Windows、macOS 和 Linux",
+              "没有"
+            ],
+            [
+              "国家",
+              "Plus 提供 140 多个国家",
+              "50 个国家、91 个城市（服务器页面显示 572 台服务器）"
+            ],
+            [
+              "账户",
+              "需要邮箱",
+              "随机号码，无需邮箱"
+            ],
+            [
+              "退款",
+              "首次购买后 30 天",
+              "部分支付方式 14 天；现金和加密货币付款不退款"
+            ]
+          ]
+        },
+        "postParagraphs": [
+          "服务器和国家数量不代表质量，只能用来确认您需要的国家在不在清单上。Proton 表示 Plus 有 2 万多台服务器。Proton 的退款在条款中有条件，我们在《[如何取消 Proton VPN 并申请退款](/zh-hans/reviews/proton-vpn-refund-zh-hans)》中有说明。"
+        ]
+      },
+      {
+        "heading": "谁该选哪一个",
+        "paragraphs": [
+          "关键在于您打算用多久。按月付费选 Mullvad，不用盯着续订；用两年选 Proton，靠合作伙伴优惠。之后最好在续订当天重新算一次。",
+          "如果您需要超过 5 台设备、端口转发或免费套餐，光看功能清单就已经指向 Proton。如果您最看重无需邮箱的账户，以及用门罗币付款，就选 Mullvad。如果对免费套餐还有疑虑，《[Proton VPN 值得买吗？](/zh-hans/reviews/proton-vpn-worth-it-zh-hans)》会说明它涵盖哪些功能。如果要比较其他 VPN，可以看《[Proton VPN 还是 NordVPN](/zh-hans/reviews/proton-vpn-vs-nordvpn-zh-hans)》。我们链接的规则见[本站的 Proton 页面](/zh-hans/coupons/proton)。"
+        ],
+        "emphasis": "期限决定一切：1 个月、2 年，还是长期使用。只买一个月和续订时，Mullvad 花费更少；前两年，Proton 花费更少。",
+        "links": [
+          {
+            "label": "查看 Proton VPN",
+            "href": "https://go.getproton.me/SH39K",
+            "sponsored": true
+          }
+        ]
+      },
+      {
+        "heading": "常见问题",
+        "bullets": [
+          "Mullvad 有黑色星期五或年付折扣吗？没有。Mullvad 表示不论期限都保持每月 5 欧元，没有折扣的长期套餐。公布的唯一折扣是用比特币、比特币现金或门罗币付款时的 10%。",
+          "Proton VPN 和 Mullvad 哪个有端口转发？只有 Proton VPN：Proton 的帮助中心表示，所有付费套餐的 Windows、macOS 和 Linux 应用都有，而 Mullvad 回复说不支持。Proton 的免费套餐没有这项功能。",
+          "Mullvad 用什么币种收费，怎么付款？以欧元计费，每月 5 欧元，含增值税，没有美元价格表。发卡银行可能套用自己的汇率或手续费。付款方式列在上方。",
+          "哪一家的退款期限更长？Proton：首次购买后 30 天，每位用户一次，并按条款所列条件。Mullvad 对信用卡、PayPal 等部分支付方式提供 14 天。现金和加密货币付款不退款，通过 App Store 或代金券购买则按销售方的规则。"
+        ]
+      }
+    ],
+    "pros": [],
+    "cons": [],
+    "cta": {
+      "text": "想用两年 VPN Plus，我们的链接会打开 Proton 的合作伙伴页面，2 年套餐一次付清，之后以标准价格每年续订。订阅前请确认币种和总额。",
+      "label": "查看 Proton VPN",
+      "url": "https://go.getproton.me/SH39K",
+      "sponsored": true
+    },
+    "affiliate": "proton",
+    "editorialNote": "依据 Proton 和 Mullvad 的价格页与功能页撰写，没有实际测试这两款 VPN。这个链接是联盟链接，可能为我们带来佣金。",
+    "relatedArticles": [
+      {
+        "slug": "proton-vpn-worth-it-zh-hans"
+      },
+      {
+        "slug": "proton-vpn-trust-zh-hans"
+      },
+      {
+        "slug": "proton-vpn-refund-zh-hans"
+      },
+      {
+        "slug": "proton-black-friday-zh-hans"
+      }
+    ],
+    "decision": {
+      "takeIf": [
+        "您想要免费套餐、10 台设备、端口转发，或前两年的最低价格。",
+        "您不介意一次付清整段期限，并且会确认续订价格。"
+      ],
+      "skipIf": [
+        "您会按月付费，或想用门罗币付款并开无需邮箱的账户。",
+        "您想要续订时不变动的费率：从第三年起，Mullvad 的年费最低。"
+      ]
+    }
+  },
+  {
+    "id": 1525,
+    "slug": "proton-vpn-or-mullvad-ar",
+    "locale": "ar",
+    "translationKey": "proton-vpn-ou-mullvad",
+    "title": "Proton VPN أم Mullvad: سعر ثابت 5 يورو شهريًا أم خصم بحسب المدة",
+    "seoTitle": "Proton VPN أم Mullvad: السعر والخصوصية والميزات",
+    "type": "مقارنة",
+    "category": "guias-praticos-utilidade",
+    "reviewKind": "guia",
+    "author": {
+      "name": "Cecília Mauad",
+      "slug": "cecilia-mauad",
+      "role": "Em Casa com Cecília",
+      "initials": "CM",
+      "url": "/sobre"
+    },
+    "description": "كم تكلّف كل خدمة لمدة شهر وسنتين وعند التجديد بالدولار، وما الذي يفرّق بينهما: الخطة المجانية والأجهزة وport forwarding وحساب بلا بريد إلكتروني والاسترداد.",
+    "metaDescription": "Proton VPN أم Mullvad؟ قارن السعر الثابت 5 يورو مع خطط Proton والأجهزة وport forwarding والخطة المجانية والاسترداد.",
+    "publishedAt": "27 نوفمبر 2026",
+    "publishedAtISO": "2026-11-27",
+    "updatedAt": "2026-11-27",
+    "draft": false,
+    "isNew": true,
+    "hideFromPortugueseListings": true,
+    "image": "/images/reviews/proton/proton-vpn-ou-mullvad-hero-ar.webp",
+    "imageAlt": "رسم توضيحي رسمي لـ Proton VPN: شاشة بنفسجية عليها قائمة تحقق وقفل بجانبها. يسأل الغلاف: «Proton VPN أم Mullvad؟».",
+    "imageFit": "contain",
+    "imageAspect": "landscape",
+    "contentSections": [
+      {
+        "heading": "الإجابة السريعة",
+        "paragraphs": [
+          "إذا كنت تدفع شهرًا بشهر أو تريد حسابًا بلا بريد إلكتروني، فـ Mullvad أفضل. وإذا أردت خطة مجانية أو ما يصل إلى 10 أجهزة أو port forwarding أو دفع أقل في السنتين الأوليين، فـ Proton VPN أوفر. وعند التجديد السنوي يعود سعر Mullvad الثابت إلى الأقل: يعرض الجدول المدد الثلاث."
+        ]
+      },
+      {
+        "heading": "نموذجان للتسعير: سعر ثابت أو خصم بحسب المدة",
+        "paragraphs": [
+          "تنشر Mullvad سعرًا واحدًا فقط: 5 يورو شهريًا، سواء لشهر أو سنة أو أكثر، دون خطة طويلة مخفّضة. وتقول Mullvad إنها تحافظ على 5 يورو منذ 2009، وتعرض صفحتها ما يعادل 5.47 دولار. أما Proton فتفعل العكس: الاشتراك الشهري هو الأغلى (9.99 دولار)، ويكبر الخصم مع طول المدة، ويُدفع دفعة واحدة، ثم يتجدد الاشتراك بسعر أعلى.",
+          "تنشر Proton أسعارها بالدولار. وتحاسب Mullvad باليورو شاملًا ضريبة القيمة المضافة، وتعرض صفحتها ما يعادله بالدولار، فنعتمد هذا الرقم لوضع الخدمتين جنبًا إلى جنب. أسعار Proton هي أسعار حملة الجمعة البيضاء؛ وسعر السنتين هو سعر صفحة الشركاء التي يفتحها رابطنا. أما إجماليا 12 و24 شهرًا لدى Mullvad فمن حسابنا: عدد الأشهر مضروبًا في 5.47 دولار."
+        ],
+        "comparisonTable": {
+          "caption": "Mullvad وProton VPN Plus بالدولار. Proton في حملة الجمعة البيضاء، وخطة السنتين بسعر صفحة الشركاء. المبالغ بالدولار لدى Mullvad هي التحويل الذي تعرضه صفحتها. تحقّق من العملة والإجمالي عند الدفع.",
+          "headers": [
+            "المدة",
+            "Mullvad",
+            "Proton VPN Plus",
+            "الأقل تكلفة"
+          ],
+          "rows": [
+            [
+              "شهر واحد",
+              "5.47 دولار",
+              "9.99 دولار",
+              "Mullvad"
+            ],
+            [
+              "12 شهرًا",
+              "65.64 دولار",
+              "35.88 دولار في السنة الأولى",
+              "Proton VPN في السنة الأولى"
+            ],
+            [
+              "24 شهرًا",
+              "131.28 دولار",
+              "59.76 دولار للسنتين (الشركاء)",
+              "Proton VPN"
+            ],
+            [
+              "التجديد، 12 شهرًا",
+              "65.64 دولار",
+              "83.88 دولار في السنة",
+              "Mullvad"
+            ]
+          ]
+        },
+        "postParagraphs": [
+          "هناك انقلابان. في الشهر المنفرد تكلّف Mullvad نحو النصف. وفي الدورة الأولى ينعكس الحساب: 24 شهرًا لدى Proton تكلّف أقل من نصف 24 شهرًا لدى Mullvad. وعند التجديد ينعكس مجددًا: 83.88 دولار في السنة لدى Proton مقابل 65.64 دولار لدى Mullvad.",
+          "سعر Proton سعر حملة. يُحسب الخصم على السعر الشهري، ويُحاسَب كل تجديد بالسعر الساري في ذلك التاريخ. وتحاسب Mullvad باليورو (5 يورو شهريًا شاملة الضريبة)، فالمبلغ بالدولار مجرد تحويل في صفحتها: وما يصل إلى بطاقتك يتوقف على سعر الصرف وأي رسوم من مصدر البطاقة.",
+          "في صفحة العروض العامة لدى Proton، تكلّف خطة السنة الواحدة أقل شهريًا (2.99 دولار) من خطة السنتين (3.49 دولار). وعرض الشركاء هو ما يجعل السنتين الأرخص (2.49 دولار شهريًا)."
+        ],
+        "image": "/images/reviews/proton/proton-vpn-ou-mullvad-precos-usd.webp",
+        "imageAlt": "صفحة أسعار Proton بالإنجليزية وبالدولار تعرض الخطة الشهرية لـ VPN Plus: 9.99 دولارات شهريًا، تُحصَّل عن الشهر الأول ثم تتجدد بالسعر نفسه كل شهر، دون خصم.",
+        "imageCaption": "صفحة أسعار Proton بالدولار، 27/11/2026.",
+        "imageFit": "contain",
+        "links": [
+          {
+            "label": "عرض VPN Plus لسنتين",
+            "href": "https://go.getproton.me/SH39K",
+            "sponsored": true
+          }
+        ]
+      },
+      {
+        "heading": "الحساب والدفع ومقر الشركة",
+        "paragraphs": [
+          "تفتح Mullvad الحساب دون بريد إلكتروني: تولّد رقمًا عشوائيًا ولا تطلب، بحسب قولها، أي بيانات شخصية. أما Proton فتطلب بريدًا إلكترونيًا، ويفتح الحساب نفسه الخطط المجانية لخدماتها الأخرى مثل Mail. نستخدم Proton Mail بالخطة المجانية منذ نحو عشر سنوات.",
+          "Proton شركة مقرها سويسرا. وتقول Mullvad إنها Mullvad VPN AB ومقرها السويد. وتعلن كل منهما سياسة عدم الاحتفاظ بسجلات النشاط وتطبيقات مفتوحة المصدر وتدقيقًا خارجيًا مستقلًا. وفي حالة Proton تُدقَّق السياسة كل عام من Securitum مع تقرير مفتوح، كما شرحنا في [هل Proton VPN موثوقة؟](/ar/reviews/proton-vpn-trust-ar). وهذه إعلانات من الشركتين.",
+          "تختلف وسائل الدفع أكثر مما يوحي به السعر المعلن، وهذه قائمتها أدناه."
+        ],
+        "accordionBlock": {
+          "heading": "وسائل الدفع لدى كل منهما",
+          "paragraphs": [
+            "**Proton:** بطاقات Visa وMastercard وAmerican Express وPayPal. ولا يمكن استخدام البيتكوين إلا بشراء رصيد Proton بعد إنشاء الحساب.",
+            "**Mullvad:** بطاقة ائتمان وPayPal وتحويل بنكي وBitcoin وBitcoin Cash وMonero ونقد يُرسل في ظرف مع رمز، ووسائل أوروبية إقليمية مثل Swish وiDEAL وBancontact. وتمنح Mullvad خصم 10% عند الدفع بـ Bitcoin وBitcoin Cash وMonero."
+          ]
+        }
+      },
+      {
+        "heading": "ميزات تفصل بينهما في الاستخدام اليومي",
+        "paragraphs": [
+          "الخطة المجانية و10 أجهزة وport forwarding (فتح منفذ للاتصالات الواردة، تستخدمه برامج التورنت) موجودة في Proton VPN فقط؛ والحساب بلا بريد إلكتروني في Mullvad فقط. يعرض الجدول ما تنشره كل شركة في صفحتي الأسعار والميزات. أما السرعة وفتح الخدمات المحجوبة فخارج المقارنة."
+        ],
+        "comparisonTable": {
+          "caption": "Proton VPN وMullvad بحسب صفحات كل شركة.",
+          "headers": [
+            "الميزة",
+            "Proton VPN",
+            "Mullvad"
+          ],
+          "rows": [
+            [
+              "خطة مجانية",
+              "نعم: جهاز واحد و10 دول دون بطاقة",
+              "لا توجد"
+            ],
+            [
+              "الأجهزة في الوقت نفسه",
+              "1 في المجانية و10 في Plus",
+              "5 لكل حساب"
+            ],
+            [
+              "port forwarding",
+              "نعم، في الخطط المدفوعة، على Windows وmacOS وLinux",
+              "لا"
+            ],
+            [
+              "الدول",
+              "أكثر من 140 في Plus",
+              "50 دولة و91 مدينة (572 خادمًا بحسب صفحة الخوادم)"
+            ],
+            [
+              "الحساب",
+              "ببريد إلكتروني",
+              "رقم عشوائي بلا بريد إلكتروني"
+            ],
+            [
+              "الاسترداد",
+              "30 يومًا من الشراء الأول",
+              "14 يومًا مع بعض وسائل الدفع؛ لا استرداد للدفع نقدًا أو بالعملات المشفرة"
+            ]
+          ]
+        },
+        "postParagraphs": [
+          "عدد الخوادم والدول لا يقيس الجودة: يفيد فقط في معرفة هل الدولة التي تحتاجها في القائمة. وتذكر Proton أكثر من 20,000 خادم في Plus. وللاسترداد لدى Proton شروط في أحكامها، شرحناها في [كيف تلغي Proton VPN وتطلب الاسترداد](/ar/reviews/proton-vpn-refund-ar)."
+        ]
+      },
+      {
+        "heading": "من يختار ماذا",
+        "paragraphs": [
+          "الحاسم هو المدة التي تنوي البقاء فيها. شهرًا بشهر: Mullvad، دون تجديد يجب مراقبته. وسنتان: Proton بفضل عرض الشركاء. وبعد ذلك يستحسن إعادة الحساب يوم التجديد.",
+          "إذا كان استخدامك يتطلب أكثر من 5 أجهزة أو port forwarding أو خطة مجانية، فقائمة الميزات تحسم لصالح Proton. وإذا كانت أولويتك حسابًا بلا بريد إلكتروني ودفعًا بـ Monero فهي Mullvad. وإذا كنت لا تزال متردّدًا في الخطة المجانية، فدليل [هل Proton VPN تستحق الاشتراك؟](/ar/reviews/proton-vpn-worth-it-ar) يوضح ما تغطيه. ولمن يقارن بشبكة VPN أخرى، هناك [Proton VPN أم NordVPN](/ar/reviews/proton-vpn-vs-nordvpn-ar). وقواعد رابطنا في [صفحة Proton على موقعنا](/ar/coupons/proton)."
+        ],
+        "emphasis": "المدة هي التي تحسم: شهر أو سنتان أو لأجل غير مسمى. في الشهر المنفرد وعند التجديد تكلّف Mullvad أقل. وفي السنتين الأوليين تكلّف Proton أقل.",
+        "links": [
+          {
+            "label": "عرض Proton VPN",
+            "href": "https://go.getproton.me/SH39K",
+            "sponsored": true
+          }
+        ]
+      },
+      {
+        "heading": "الأسئلة الشائعة",
+        "bullets": [
+          "هل لدى Mullvad خصم في الجمعة البيضاء أو على الخطة السنوية؟ لا. تقول Mullvad إنها تحافظ على 5 يورو شهريًا في أي مدة، دون خطة طويلة مخفّضة. والخصم الوحيد المنشور هو 10% عند الدفع بـ Bitcoin أو Bitcoin Cash أو Monero.",
+          "Proton VPN أم Mullvad: أيهما لديه port forwarding؟ Proton VPN وحدها: يقول مركز مساعدة Proton إنه يأتي مع كل الخطط المدفوعة في تطبيقات Windows وmacOS وLinux، وتجيب Mullvad بأنها لا تدعمه. والخطة المجانية لدى Proton لا تتضمن هذه الميزة.",
+          "بأي عملة تحاسب Mullvad وكيف يمكن الدفع؟ باليورو: 5 يورو شهريًا شاملة الضريبة، دون جدول أسعار بالدولار. وقد يطبّق مصدر بطاقتك سعر صرف أو رسومًا خاصة به. وسائل الدفع مذكورة أعلاه.",
+          "أيهما مدة الاسترداد لديه أطول؟ Proton: 30 يومًا من الشراء الأول، مرة واحدة لكل مستخدم وبشروط الأحكام. وتمنح Mullvad 14 يومًا مع بعض وسائل الدفع، مثل البطاقة وPayPal. أما الدفع نقدًا أو بالعملات المشفرة فلا استرداد فيه، والشراء عبر App Store أو بقسيمة (voucher) يخضع لقواعد الجهة البائعة."
+        ]
+      }
+    ],
+    "pros": [],
+    "cons": [],
+    "cta": {
+      "text": "لسنتين من VPN Plus، يفتح رابطنا صفحة الشركاء لدى Proton، مع خطة السنتين المدفوعة دفعة واحدة وتجديد سنوي بالسعر القياسي. تحقّق من العملة والإجمالي قبل الاشتراك.",
+      "label": "عرض Proton VPN",
+      "url": "https://go.getproton.me/SH39K",
+      "sponsored": true
+    },
+    "affiliate": "proton",
+    "editorialNote": "أُعدّ هذا المقال من صفحات الأسعار والميزات لدى Proton وMullvad، دون اختبار عملي للخدمتين. الرابط رابط تسويق بالعمولة وقد نحصل منه على عمولة.",
+    "relatedArticles": [
+      {
+        "slug": "proton-vpn-worth-it-ar"
+      },
+      {
+        "slug": "proton-vpn-trust-ar"
+      },
+      {
+        "slug": "proton-vpn-refund-ar"
+      },
+      {
+        "slug": "proton-black-friday-ar"
+      }
+    ],
+    "decision": {
+      "takeIf": [
+        "تريد خطة مجانية أو 10 أجهزة أو port forwarding أو أقل سعر في السنتين الأوليين.",
+        "لا يضرّك دفع المدة كلها دفعة واحدة وستتحقق من سعر التجديد."
+      ],
+      "skipIf": [
+        "ستدفع شهرًا بشهر أو تريد حسابًا بلا بريد إلكتروني مع الدفع بـ Monero.",
+        "تريد سعرًا لا يتغير عند التجديد: ابتداءً من السنة الثالثة يكون سعر Mullvad السنوي هو الأقل."
+      ]
+    }
   }
 ];
 

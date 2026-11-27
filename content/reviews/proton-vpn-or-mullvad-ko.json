@@ -1,0 +1,218 @@
+{
+  "id": 1521,
+  "slug": "proton-vpn-or-mullvad-ko",
+  "locale": "ko",
+  "translationKey": "proton-vpn-ou-mullvad",
+  "title": "Proton VPN 아니면 Mullvad: 월 5유로 고정 요금 또는 기간별 할인",
+  "seoTitle": "Proton VPN과 Mullvad 비교: 가격, 프라이버시, 기능",
+  "type": "비교 가이드",
+  "category": "guias-praticos-utilidade",
+  "reviewKind": "guia",
+  "author": {
+    "name": "Cecília Mauad",
+    "slug": "cecilia-mauad",
+    "role": "Em Casa com Cecília",
+    "initials": "CM",
+    "url": "/sobre"
+  },
+  "description": "각각 1개월, 2년, 갱신 때 얼마인지 달러로 비교하고, 무료 플랜, 기기 수, 포트 포워딩, 이메일 없는 계정, 환불 차이를 정리했습니다.",
+  "metaDescription": "Proton VPN과 Mullvad 비교: Mullvad의 월 5유로 고정 요금과 Proton 플랜, 기기 수, 포트 포워딩, 무료 플랜, 환불.",
+  "publishedAt": "2026년 11월 27일",
+  "publishedAtISO": "2026-11-27",
+  "updatedAt": "2026-11-27",
+  "draft": false,
+  "isNew": true,
+  "hideFromPortugueseListings": true,
+  "image": "/images/reviews/proton/proton-vpn-ou-mullvad-hero-ko.webp",
+  "imageAlt": "Proton VPN 공식 일러스트: 체크리스트가 있는 보라색 모니터와 옆의 자물쇠. 표지에는 “Proton VPN 아니면 Mullvad?”라고 적혀 있습니다.",
+  "imageFit": "contain",
+  "imageAspect": "landscape",
+  "contentSections": [
+    {
+      "heading": "빠른 답",
+      "paragraphs": [
+        "월 단위로 결제하거나 이메일 없이 계정을 만들려면 Mullvad가 낫습니다. 무료로 쓰거나 최대 10대를 연결하거나 포트 포워딩이 필요하거나 처음 2년을 더 싸게 쓰려면 Proton VPN이 낫습니다. 갱신 때는 Mullvad의 고정 요금이 다시 저렴해지며, 표에 세 가지 기간이 나와 있습니다."
+      ]
+    },
+    {
+      "heading": "가격 모델 두 가지: 고정 요금 또는 기간별 할인",
+      "paragraphs": [
+        "Mullvad는 요금을 하나만 안내합니다. 1개월이든 1년이든 그 이상이든 월 5유로이며, 장기 할인 플랜은 없습니다. Mullvad는 2009년부터 5유로을 유지해 왔다고 밝히며, 자사 페이지에 $5.47 상당이라고 표시합니다. Proton은 반대입니다. 월 결제가 가장 비싸고($9.99), 기간이 길수록 할인이 커지며, 한꺼번에 결제한 뒤 더 높은 금액으로 갱신됩니다.",
+        "Proton은 가격을 달러로 게시합니다. Mullvad는 부가세 포함 유로로 청구하고 페이지에 달러 환산액을 보여 주므로, 두 곳을 나란히 비교할 때는 그 금액을 씁니다. Proton 가격은 블랙프라이데이 프로모션 가격이고, 2년 가격은 저희 링크가 여는 파트너 페이지의 금액입니다. Mullvad의 12개월, 24개월 금액은 저희가 계산했습니다. 개월 수에 $5.47를 곱한 값입니다."
+      ],
+      "comparisonTable": {
+        "caption": "Mullvad와 Proton VPN Plus의 달러 가격. Proton은 블랙프라이데이 프로모션 중이며, 2년 플랜은 파트너 페이지 가격입니다. Mullvad의 달러 금액은 해당 페이지에 표시된 환산액입니다. 결제 화면에서 통화와 총액을 확인하세요.",
+        "headers": [
+          "기간",
+          "Mullvad",
+          "Proton VPN Plus",
+          "더 저렴한 쪽"
+        ],
+        "rows": [
+          [
+            "1개월",
+            "$5.47",
+            "$9.99",
+            "Mullvad"
+          ],
+          [
+            "12개월",
+            "$65.64",
+            "첫해 $35.88",
+            "Proton VPN(첫해)"
+          ],
+          [
+            "24개월",
+            "$131.28",
+            "2년 $59.76(파트너)",
+            "Proton VPN"
+          ],
+          [
+            "갱신, 12개월",
+            "$65.64",
+            "연 $83.88",
+            "Mullvad"
+          ]
+        ]
+      },
+      "postParagraphs": [
+        "역전이 두 번 일어납니다. 한 달만 쓰면 Mullvad가 절반 가까이 쌉니다. 첫 주기에는 뒤집혀서 Proton의 24개월이 Mullvad의 24개월의 절반도 안 됩니다. 갱신 때 다시 뒤집혀서 Proton은 연 $83.88, Mullvad는 $65.64입니다.",
+        "Proton 가격은 프로모션 가격입니다. 할인은 월 요금을 기준으로 계산되고, 갱신 때마다 그 시점의 요금이 청구됩니다. Mullvad는 유로로 청구하며(월 5유로, 부가세 포함), 달러 금액은 해당 페이지의 환산액일 뿐입니다. 실제 카드에 청구되는 금액은 환율과 카드사 수수료에 따라 달라집니다.",
+        "Proton의 공개 특가 페이지에서는 1년 플랜이 월 기준으로 2년 플랜($3.49)보다 쌉니다($2.99). 파트너 제안이 2년 플랜을 가장 저렴하게 만듭니다(월 $2.49)."
+      ],
+      "image": "/images/reviews/proton/proton-vpn-ou-mullvad-precos-usd.webp",
+      "imageAlt": "영어와 달러로 표시된 Proton 가격 페이지. VPN Plus 월 플랜은 월 $9.99이며 첫 달 $9.99가 청구되고 이후 매달 $9.99로 갱신되며 할인은 없습니다.",
+      "imageCaption": "달러로 표시된 Proton 가격 페이지, 2026년 11월 27일.",
+      "imageFit": "contain",
+      "links": [
+        {
+          "label": "2년 VPN Plus 보기",
+          "href": "https://go.getproton.me/SH39K",
+          "sponsored": true
+        }
+      ]
+    },
+    {
+      "heading": "계정, 결제, 본사",
+      "paragraphs": [
+        "Mullvad는 이메일 없이 계정을 만듭니다. 무작위 번호를 발급하며, Mullvad에 따르면 개인정보를 요구하지 않습니다. Proton은 이메일을 요구하고, 같은 계정으로 Mail 같은 다른 서비스의 무료 플랜도 열립니다. 저희는 거의 10년째 Proton Mail 무료 플랜을 쓰고 있습니다.",
+        "Proton은 스위스에 본사를 둔 회사입니다. Mullvad는 스웨덴에 본사를 둔 Mullvad VPN AB라고 밝힙니다. 두 곳 모두 활동 기록을 남기지 않는 정책, 오픈소스 앱, 독립적인 외부 감사를 내세웁니다. Proton은 정책을 매년 Securitum이 감사하고 보고서를 공개하며, 이는 [Proton VPN은 믿을 만한가요?](/ko/reviews/proton-vpn-trust-ko)에서 설명했습니다. 이는 각 회사의 주장입니다.",
+        "결제 수단은 표시 가격이 암시하는 것보다 차이가 큽니다. 목록은 아래와 같습니다."
+      ],
+      "accordionBlock": {
+        "heading": "각 서비스의 결제 수단",
+        "paragraphs": [
+          "**Proton:** Visa, Mastercard, American Express 카드와 PayPal. 비트코인은 계정을 만든 뒤 Proton 크레딧을 구매하는 방식으로만 쓸 수 있습니다.",
+          "**Mullvad:** 신용카드, PayPal, 계좌 이체, 비트코인, 비트코인 캐시, 모네로, 토큰과 함께 봉투로 보내는 현금, Swish, iDEAL, Bancontact 같은 유럽 지역 결제 수단. 비트코인, 비트코인 캐시, 모네로로 결제하면 10% 할인해 줍니다."
+        ]
+      }
+    },
+    {
+      "heading": "일상 사용에서 둘을 가르는 기능",
+      "paragraphs": [
+        "무료 플랜, 기기 10대, 포트 포워딩(들어오는 연결을 위해 포트를 여는 기능으로 토렌트 프로그램에서 씁니다)은 Proton VPN에만 있고, 이메일 없는 계정은 Mullvad에만 있습니다. 표는 각 회사가 가격 페이지와 기능 페이지에 게시한 내용입니다. 속도와 서비스 차단 우회는 다루지 않습니다."
+      ],
+      "comparisonTable": {
+        "caption": "각 회사 페이지 기준 Proton VPN과 Mullvad.",
+        "headers": [
+          "기능",
+          "Proton VPN",
+          "Mullvad"
+        ],
+        "rows": [
+          [
+            "무료 플랜",
+            "있음: 기기 1대, 10개국, 카드 불필요",
+            "없음"
+          ],
+          [
+            "동시 접속 기기",
+            "무료 1대, Plus 10대",
+            "계정당 5대"
+          ],
+          [
+            "포트 포워딩",
+            "있음(유료 플랜, Windows, macOS, Linux)",
+            "없음"
+          ],
+          [
+            "국가",
+            "Plus에서 140개국 이상",
+            "50개국, 91개 도시(서버 페이지 기준 서버 572대)"
+          ],
+          [
+            "계정",
+            "이메일 필요",
+            "무작위 번호, 이메일 불필요"
+          ],
+          [
+            "환불",
+            "최초 구매 후 30일",
+            "일부 결제 수단은 14일, 현금·암호화폐 결제는 환불 불가"
+          ]
+        ]
+      },
+      "postParagraphs": [
+        "서버와 국가 수는 품질을 재는 기준이 아니며, 필요한 국가가 목록에 있는지 확인하는 용도입니다. Proton은 Plus에서 서버 2만 대 이상이라고 밝힙니다. Proton의 환불에는 약관상의 조건이 있으며, [Proton VPN 해지와 환불 요청 방법](/ko/reviews/proton-vpn-refund-ko)에서 설명했습니다."
+      ]
+    },
+    {
+      "heading": "누가 무엇을 고를까",
+      "paragraphs": [
+        "얼마나 오래 쓸지가 판가름합니다. 월 단위라면 갱신을 신경 쓸 필요가 없는 Mullvad, 2년이라면 파트너 제안이 있는 Proton입니다. 그 뒤에는 갱신일에 다시 계산해 보는 것이 좋습니다.",
+        "5대를 넘는 기기, 포트 포워딩, 무료 플랜이 필요하다면 기능 목록만으로 이미 Proton입니다. 이메일 없는 계정과 모네로 결제가 우선이라면 Mullvad입니다. 무료 플랜이 아직 고민이라면 [Proton VPN, 쓸 만할까요?](/ko/reviews/proton-vpn-worth-it-ko)에서 무엇을 다루는지 볼 수 있습니다. 다른 VPN과 비교한다면 [Proton VPN 아니면 NordVPN](/ko/reviews/proton-vpn-vs-nordvpn-ko)도 있습니다. 저희 링크의 규칙은 [사이트의 Proton 페이지](/ko/coupons/proton)에 있습니다."
+      ],
+      "emphasis": "기간이 결정합니다. 1개월, 2년, 아니면 계속 쓸지입니다. 한 달만 쓸 때와 갱신 때는 Mullvad가 덜 듭니다. 처음 2년은 Proton이 덜 듭니다.",
+      "links": [
+        {
+          "label": "Proton VPN 보기",
+          "href": "https://go.getproton.me/SH39K",
+          "sponsored": true
+        }
+      ]
+    },
+    {
+      "heading": "자주 묻는 질문",
+      "bullets": [
+        "Mullvad는 블랙프라이데이나 연간 플랜 할인이 있나요? 아니요. Mullvad는 기간과 관계없이 월 5유로을 유지하며 장기 할인 플랜이 없다고 밝힙니다. 게시된 할인은 비트코인, 비트코인 캐시, 모네로로 결제할 때의 10%뿐입니다.",
+        "Proton VPN과 Mullvad 중 포트 포워딩이 있는 쪽은요? Proton VPN뿐입니다. Proton 고객센터는 모든 유료 플랜의 Windows, macOS, Linux 앱에서 쓸 수 있다고 하고, Mullvad는 지원하지 않는다고 답합니다. Proton 무료 플랜에는 이 기능이 없습니다.",
+        "Mullvad는 어떤 통화로 청구하고 어떻게 결제하나요? 유로로 월 5유로이며 부가세가 포함되고, 달러 가격표는 없습니다. 카드사가 자체 환율이나 수수료를 적용할 수 있습니다. 결제 수단은 위에 정리했습니다.",
+        "환불 기간이 더 긴 쪽은요? Proton입니다. 최초 구매 후 30일이며, 사용자당 한 번, 약관 조건에 따릅니다. Mullvad는 카드, PayPal 등 일부 결제 수단에서 14일입니다. 현금이나 암호화폐 결제는 환불이 없고, App Store나 바우처로 산 경우는 판매처의 규칙을 따릅니다."
+      ]
+    }
+  ],
+  "pros": [],
+  "cons": [],
+  "cta": {
+    "text": "VPN Plus를 2년 쓰려면 저희 링크가 Proton 파트너 페이지를 엽니다. 2년 플랜은 한꺼번에 결제하고 이후 표준 가격으로 매년 갱신됩니다. 구독 전에 통화와 총액을 확인하세요.",
+    "label": "Proton VPN 보기",
+    "url": "https://go.getproton.me/SH39K",
+    "sponsored": true
+  },
+  "affiliate": "proton",
+  "editorialNote": "Proton과 Mullvad의 가격 페이지와 기능 페이지를 바탕으로 작성했으며, 두 VPN을 직접 써 보고 검증한 것은 아닙니다. 이 링크는 제휴 링크이며 수수료를 받을 수 있습니다.",
+  "relatedArticles": [
+    {
+      "slug": "proton-vpn-worth-it-ko"
+    },
+    {
+      "slug": "proton-vpn-trust-ko"
+    },
+    {
+      "slug": "proton-vpn-refund-ko"
+    },
+    {
+      "slug": "proton-black-friday-ko"
+    }
+  ],
+  "decision": {
+    "takeIf": [
+      "무료 플랜, 기기 10대, 포트 포워딩 또는 처음 2년의 최저 가격을 원합니다.",
+      "전체 기간을 한꺼번에 결제해도 괜찮고 갱신 금액을 확인할 생각입니다."
+    ],
+    "skipIf": [
+      "월 단위로 결제하거나 이메일 없는 계정에 모네로로 결제하고 싶습니다.",
+      "갱신해도 바뀌지 않는 요금을 원합니다. 3년째부터는 Mullvad의 연간 금액이 가장 낮습니다."
+    ]
+  }
+}

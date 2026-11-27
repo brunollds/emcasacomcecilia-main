@@ -1,0 +1,312 @@
+{
+  "id": 1500,
+  "slug": "proton-unlimited-conviene",
+  "locale": "it",
+  "translationKey": "proton-unlimited-vale-a-pena",
+  "title": "Proton Unlimited conviene? Cosa include con i 500 GB e il conto rispetto ai piani singoli",
+  "seoTitle": "Proton Unlimited conviene? Cosa include e il prezzo reale",
+  "type": "Guida all'acquisto",
+  "category": "guias-praticos-utilidade",
+  "reviewKind": "guia",
+  "author": {
+    "name": "Cecília Mauad",
+    "slug": "cecilia-mauad",
+    "role": "Em Casa com Cecília",
+    "initials": "CM",
+    "url": "/sobre"
+  },
+  "description": "Cosa include Proton Unlimited, perché è la strada per avere email e VPN a pagamento sullo stesso account e quanto costa il pacchetto al rinnovo, dopo il primo anno.",
+  "metaDescription": "Proton Unlimited conviene? Cosa include, perché Proton non unisce due piani Plus sullo stesso account e quanto costa il pacchetto al rinnovo.",
+  "publishedAt": "27 novembre 2026",
+  "publishedAtISO": "2026-11-27",
+  "updatedAt": "2026-11-27",
+  "draft": false,
+  "isNew": true,
+  "hideFromPortugueseListings": true,
+  "image": "/images/reviews/proton/proton-unlimited-vale-a-pena-hero-it.webp",
+  "imageAlt": "Griglia di icone delle app Proton (email, VPN, cloud e gestore di password) dalla home ufficiale di Proton. La copertina chiede «Proton Unlimited conviene?».",
+  "imageFit": "contain",
+  "imageAspect": "landscape",
+  "contentSections": [
+    {
+      "heading": "Risposta rapida",
+      "paragraphs": [
+        "Sì, quando vuoi email e VPN a pagamento sullo stesso account, o tre servizi Proton o più: Proton non permette di unire due piani Plus su un account, e Unlimited è la strada. Per la sola VPN, la sola email o la VPN con le password esiste un piano più economico. Il rinnovo costa molto più del primo anno."
+      ]
+    },
+    {
+      "heading": "Cosa include Proton Unlimited",
+      "paragraphs": [
+        "Unlimited è il piano che riunisce, in un solo account, email, VPN, cloud e gestore di password di Proton. La pagina dei piani indica 500 GB di spazio, 15 indirizzi, 3 domini personalizzati, alias illimitati e le versioni a pagamento di VPN, Pass e Drive.",
+        "L'account gratuito, secondo Proton, offre l'essenziale di Mail, Calendar, Drive e VPN, con 1 indirizzo e 1 GB di email; il Drive gratuito ha 5 GB. La tabella seguente affianca Unlimited a Mail Plus, il piano singolo che più si avvicina ai suoi limiti di email."
+      ],
+      "comparisonTable": {
+        "caption": "Mail Plus e Unlimited nella pagina dei piani di Proton.",
+        "headers": [
+          "Funzione",
+          "Mail Plus",
+          "Unlimited"
+        ],
+        "rows": [
+          [
+            "Spazio",
+            "15 GB",
+            "500 GB"
+          ],
+          [
+            "Indirizzi email",
+            "10",
+            "15"
+          ],
+          [
+            "Domini personalizzati",
+            "1",
+            "3"
+          ],
+          [
+            "Alias email",
+            "10 (hide-my-email)",
+            "Illimitati"
+          ],
+          [
+            "VPN Plus",
+            "Non incluso",
+            "Incluso"
+          ],
+          [
+            "Pass Plus e Drive Plus",
+            "Non incluso",
+            "Incluso"
+          ],
+          [
+            "Emergency Access e Dark Web Monitoring",
+            "Incluso",
+            "Incluso"
+          ],
+          [
+            "Proton Sentinel",
+            "Non incluso",
+            "Incluso"
+          ]
+        ]
+      },
+      "accordionBlock": {
+        "heading": "Cosa offre ogni servizio dentro Unlimited",
+        "paragraphs": [
+          "Mail: i 15 indirizzi, i 3 domini personalizzati e gli alias illimitati della tabella sopra, più Emergency Access e Dark Web Monitoring della tabella di confronto.",
+          "VPN Plus: fino a 10 dispositivi contemporaneamente, server in più di 140 paesi, NetShield (filtro di annunci, tracker e malware) e P2P, come Proton descrive il piano. Cosa fa e cosa non fa VPN Plus è in [Proton VPN conviene?](/it/reviews/proton-vpn-conviene).",
+          "Pass Plus: dispositivi e alias illimitati, come descrive la pagina dei piani.",
+          "Drive: il Drive Plus singolo ha 200 GB; in Unlimited lo spazio è quello dei 500 GB dell'account.",
+          "Proton Sentinel: la tabella di confronto segna la funzione solo in Unlimited, non nel piano gratuito né in Mail Plus."
+        ]
+      },
+      "postParagraphs": [
+        "Il nostro riferimento d'uso è piccolo: usiamo Proton Mail, nel piano gratuito, da quasi dieci anni."
+      ]
+    },
+    {
+      "heading": "Il conto: un piano Plus, il pacchetto VPN e Pass o Unlimited",
+      "paragraphs": [
+        "Prima del conto, la regola: Proton non permette di avere due piani Plus sullo stesso account. Il centro assistenza di Proton VPN fa l'esempio di VPN Plus con Mail Plus e indica Unlimited a chi vuole le funzioni a pagamento di più servizi. Su un solo account, la scelta è tra un Plus, il pacchetto VPN x Pass Plus della pagina delle offerte e Unlimited.",
+        "I prezzi qui sotto sono quelli delle pagine di Proton, in dollari statunitensi, con il prezzo del Black Friday del primo anno e l'importo del rinnovo accanto. Ogni piano viene addebitato per l'intero periodo, in un'unica soluzione, e lo sconto è calcolato sul prezzo mensile."
+      ],
+      "comparisonTable": {
+        "caption": "Prezzi del 27/11/2026, di Black Friday, con il rinnovo accanto. Le somme di piani singoli sono un nostro calcolo e richiedono account separati.",
+        "headers": [
+          "Cosa sottoscrivi",
+          "Primo periodo",
+          "Rinnovo (12 mesi)"
+        ],
+        "rows": [
+          [
+            "Solo Pass Plus (1 anno)",
+            "$23.88",
+            "$35.88"
+          ],
+          [
+            "Solo Mail Plus o solo Drive Plus (1 anno)",
+            "$29.88",
+            "$47.88"
+          ],
+          [
+            "Solo VPN Plus (1 anno)",
+            "$35.88",
+            "$83.88"
+          ],
+          [
+            "Pacchetto VPN x Pass Plus (24 mesi, pagina delle offerte)",
+            "$119.76 per i 24 mesi",
+            "$107.88"
+          ],
+          [
+            "VPN Plus + Mail Plus, su account separati",
+            "$65.76",
+            "$131.76"
+          ],
+          [
+            "Mail Plus + Drive Plus + Pass Plus, su account separati",
+            "$83.64",
+            "$131.64"
+          ],
+          [
+            "Tutti e quattro i piani singoli, su account separati",
+            "$119.52",
+            "$215.52"
+          ],
+          [
+            "Proton Unlimited (1 anno)",
+            "$77.88",
+            "$119.88"
+          ]
+        ]
+      },
+      "postParagraphs": [
+        "Un solo servizio costa sempre meno di Unlimited, nel primo anno e al rinnovo. Per VPN e password, Proton vende il pacchetto VPN x Pass Plus: nella pagina delle offerte si rinnova a $107.88 all'anno, sotto il rinnovo di Unlimited. In 24 mesi, il pacchetto costa $119.76 e l'Unlimited da 2 anni $191.76. Per avere l'email a pagamento insieme alla VPN, il piano individuale sullo stesso account è Unlimited.",
+        "Con due servizi su account separati, VPN Plus e Mail Plus costano meno di Unlimited nel primo anno e più al rinnovo. Le righe con due, tre e quattro servizi singoli sono somme nostre e esistono solo con account separati, ciascuno con il proprio login. Comunque, dal terzo servizio in poi la somma supera Unlimited in entrambi i periodi: tutti e quattro insieme costano $41.64 in più nel primo anno e $95.64 in più al rinnovo.",
+        "Per chi vuole solo la VPN, la strada è un'altra. Con il link dei partner, il VPN Plus da 2 anni compare a $59.76 per i primi 24 mesi e si rinnova a $83.88 ogni 12 mesi. Il conto completo è in [Proton VPN conviene?](/it/reviews/proton-vpn-conviene)."
+      ],
+      "links": [
+        {
+          "label": "Vedi i piani di Proton",
+          "href": "https://go.getproton.me/SH39K",
+          "sponsored": true
+        }
+      ]
+    },
+    {
+      "heading": "Ciclo da 1 mese, 1 anno o 2 anni",
+      "paragraphs": [
+        "Il mensile è l'esborso minore per iniziare, e il piano da 1 anno ha il valore più basso al mese; quello da 2 anni lo batte solo di $6.00 in totale.",
+        "Unlimited ha tre cicli nella pagina dei prezzi. L'addebito è anticipato in tutti, e l'importo in evidenza (il «al mese») è solo la divisione del totale."
+      ],
+      "comparisonTable": {
+        "caption": "Proton Unlimited per ciclo, in dollari statunitensi. Controlla valuta e totale al pagamento.",
+        "headers": [
+          "Ciclo",
+          "Al mese",
+          "Addebitato in un'unica soluzione",
+          "Poi si rinnova a"
+        ],
+        "rows": [
+          [
+            "1 mese",
+            "$12.99",
+            "$12.99",
+            "$12.99 ogni mese"
+          ],
+          [
+            "1 anno",
+            "$6.49",
+            "$77.88",
+            "$119.88 ogni 12 mesi"
+          ],
+          [
+            "2 anni",
+            "$7.99",
+            "$191.76",
+            "$119.88 ogni 12 mesi"
+          ]
+        ]
+      },
+      "postParagraphs": [
+        "Pagare 12 mesi di fila con il mensile costerebbe $155.88. L'anno addebitato in un'unica soluzione costa $77.88, ma il rinnovo sale di $42.00, a $119.88. Il piano da 2 anni costa $191.76; un anno più un rinnovo sommerebbe $197.76, cioè $6.00 in più. Quello da 2 anni vincola il denaro più a lungo.",
+        "Il rinnovo è automatico, secondo il sito di Proton. Annota la data dell'addebito il giorno dell'acquisto. Per provare prima la VPN, la pagina dei prezzi di Proton VPN annuncia Unlimited a $1.00 per il primo mese, che poi si rinnova a $12.99 al mese."
+      ],
+      "image": {
+        "src": "/images/reviews/proton/proton-unlimited-vale-a-pena-precos-usd.webp",
+        "alt": "Pagina dei prezzi di Proton in inglese, in dollari statunitensi: la scheda di Unlimited da 1 anno con $12.99 barrato, $6.49 al mese, 50% OFF, addebitati $77.88 per i primi 12 mesi e rinnovo a $119.88 ogni 12 mesi.",
+        "caption": "Pagina dei prezzi di Proton in dollari, 27/11/2026."
+      }
+    },
+    {
+      "heading": "Proton Unlimited, Duo o Family, e l'account a vita",
+      "paragraphs": [
+        "Per condividere con un'altra persona, Duo costa meno a persona di Unlimited al rinnovo.",
+        "Duo e Family compaiono nella pagina dei piani per le famiglie. Duo è per fino a 2 utenti, ha 2 TB e costa $14.99 al mese, ovvero $179.88 addebitati ogni 12 mesi. Family è per fino a 6 persone che vivono insieme, ha 3 TB e costa $23.99 al mese, ovvero $287.88 ogni 12 mesi.",
+        "Unlimited è un account individuale per 1 utente. Duo ha senso per condividere il pacchetto con un'altra persona: a persona costa $89.94 all'anno, sotto i $119.88 di Unlimited al rinnovo e sopra i $77.88 del primo anno (calcolo nostro). Non abbiamo confrontato ciò che ogni servizio offre in Duo e Family rispetto a Unlimited, solo prezzo e spazio; controlla la pagina prima di cambiare.",
+        "Proton non vende un piano a vita di Unlimited. In un testo del suo blog sull'account a vita, l'azienda dice che l'account non è disponibile all'acquisto e esce solo nella lotteria benefica di fine anno. Ciò che si vende è Proton Pass + SimpleLogin Lifetime, a $199, che copre Pass e SimpleLogin, non Unlimited."
+      ]
+    },
+    {
+      "heading": "Cosa pesa contro",
+      "bullets": [
+        "**Il rinnovo è molto più alto.** Il secondo anno di Unlimited costa circa la metà in più del primo; gli importi sono nella tabella dei cicli.",
+        "**L'addebito è anticipato.** L'anno o i 2 anni escono in un'unica soluzione, e il rinnovo è automatico.",
+        "**I metodi di pagamento sono limitati.** Proton elenca Visa, Mastercard, American Express e PayPal; crediti con contanti, bonifico o Bitcoin solo dopo aver creato l'account.",
+        "**Disdire è un downgrade.** Ciò che supera il limite del nuovo piano va cancellato; il dettaglio è nelle domande frequenti.",
+        "**Il rimborso vale per l'acquisto iniziale**, entro 30 giorni. Il percorso è in [come disdire Proton VPN e chiedere il rimborso](/it/reviews/proton-vpn-rimborso-come-disdire).",
+        "**Su iPhone può esserci una maggiorazione.** Proton avverte che l'abbonamento tramite iOS può costare di più; abbonati dal sito."
+      ]
+    },
+    {
+      "heading": "Quale scelta ha senso per te",
+      "paragraphs": [
+        "La decisione dipende dal numero di servizi a pagamento che usi davvero:"
+      ],
+      "bullets": [
+        "**Usi solo l'email e il gratuito ti basta:** resta sul gratuito. È il nostro caso.",
+        "**Vuoi solo la VPN:** il VPN Plus singolo costa meno di Unlimited in entrambi i periodi. Il conto è in [Proton VPN conviene?](/it/reviews/proton-vpn-conviene). Se lo stai confrontando con NordVPN, vedi [Proton VPN o NordVPN](/it/reviews/proton-vpn-o-nordvpn-confronto).",
+        "**Vuoi VPN e password:** confronta il pacchetto VPN x Pass Plus, che si rinnova sotto Unlimited.",
+        "**Vuoi email e VPN a pagamento:** su un solo account, è Unlimited.",
+        "**Vuoi tre o quattro servizi, oppure 15 indirizzi e 3 domini:** Unlimited riunisce tutto in un account e costa meno della somma dei piani singoli.",
+        "**Vuoi condividere con un'altra persona:** guarda Duo.",
+        "**Vuoi il prezzo più basso del giorno:** il Black Friday è nei piani; vedi la [guida al Black Friday di Proton](/it/reviews/black-friday-proton-offerte)."
+      ],
+      "emphasis": "Su un solo account, Proton non unisce due piani Plus. Se vuoi email e VPN a pagamento, la scelta è Unlimited; se vuoi un servizio solo, il suo Plus costa meno in entrambi i periodi.",
+      "postParagraphs": [
+        "Non c'è nessun coupon né codice da digitare: il pulsante apre la pagina dei piani di Proton tramite il nostro link di partnership. Le regole del link sono nella [pagina di Proton sul nostro sito](/it/coupons/proton)."
+      ],
+      "links": [
+        {
+          "label": "Vedi l'offerta annuale di Proton Unlimited",
+          "href": "https://go.getproton.me/SH39K",
+          "sponsored": true
+        }
+      ]
+    },
+    {
+      "heading": "Domande frequenti",
+      "bullets": [
+        "Posso abbonarmi a VPN Plus e Mail Plus sullo stesso account? No. Proton dice che un account non può avere due piani Plus; per avere entrambi a pagamento, la strada è Unlimited, che include la VPN a pagamento con fino a 10 dispositivi.",
+        "Esiste un coupon di sconto per Proton Unlimited? Non c'è nessun coupon. Lo sconto compare direttamente nel prezzo del piano, calcolato sul mensile, e l'importo del rinnovo è accanto.",
+        "Esiste un Proton Unlimited a vita? Proton dice di non venderlo. L'account a vita esce solo nella lotteria benefica di fine anno, e il Lifetime in vendita è solo di Pass e SimpleLogin.",
+        "Cosa succede ai miei file se disdico? Secondo le FAQ di Proton, disdire è fare un downgrade nel pannello. Mantieni l'accesso, ma devi cancellare ciò che supera il limite del nuovo piano; con il limite pieno, l'account non riceve email né carica file.",
+        "Come funziona il rimborso di 30 giorni? Secondo i termini, vale per l'acquisto iniziale, una volta per utente, e sia la richiesta sia la disdetta devono avvenire entro il termine; la richiesta passa dal modulo di assistenza e vale solo per un abbonamento fatto direttamente con Proton."
+      ]
+    }
+  ],
+  "pros": [],
+  "cons": [],
+  "cta": {
+    "text": "Tramite il nostro link, Unlimited annuale costa $77.88 il primo anno e si rinnova a $119.88 ogni 12 mesi. L'addebito è anticipato e il rinnovo è automatico; controlla valuta e totale al pagamento.",
+    "label": "Vedi l'offerta annuale di Proton Unlimited",
+    "url": "https://go.getproton.me/SH39K",
+    "sponsored": true
+  },
+  "affiliate": "proton",
+  "editorialNote": "Realizzato con le pagine dei piani e i termini di Proton, senza test dei piani a pagamento. Usiamo Proton Mail gratuito da quasi dieci anni. Il link è di affiliazione e può generare una commissione.",
+  "relatedArticles": [
+    {
+      "slug": "proton-vpn-conviene"
+    },
+    {
+      "slug": "black-friday-proton-offerte"
+    },
+    {
+      "slug": "proton-vpn-rimborso-come-disdire"
+    },
+    {
+      "slug": "proton-vpn-e-affidabile"
+    }
+  ],
+  "decision": {
+    "takeIf": [
+      "vuoi email a pagamento e VPN a pagamento sullo stesso account: tra i piani individuali, solo Unlimited riunisce le due cose.",
+      "usi, o userai, tre o quattro servizi a pagamento di Proton, oppure ti servono più indirizzi e domini personalizzati."
+    ],
+    "skipIf": [
+      "vuoi solo la VPN, o VPN e password: il VPN Plus e il pacchetto VPN x Pass Plus costano meno.",
+      "il piano gratuito di Mail copre il tuo uso o l'importo del rinnovo non rientra nel tuo budget."
+    ]
+  }
+}

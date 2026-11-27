@@ -1,0 +1,218 @@
+{
+  "id": 1523,
+  "slug": "proton-vpn-or-mullvad-zh-hant",
+  "locale": "zh-hant",
+  "translationKey": "proton-vpn-ou-mullvad",
+  "title": "Proton VPN 還是 Mullvad：每月 5 歐元 固定費率，或依期限折扣",
+  "seoTitle": "Proton VPN 與 Mullvad 比較：價格、隱私與功能",
+  "type": "比較指南",
+  "category": "guias-praticos-utilidade",
+  "reviewKind": "guia",
+  "author": {
+    "name": "Cecília Mauad",
+    "slug": "cecilia-mauad",
+    "role": "Em Casa com Cecília",
+    "initials": "CM",
+    "url": "/sobre"
+  },
+  "description": "比較兩者 1 個月、2 年和續訂時的價格（以美元計），並整理差異：免費方案、裝置數、連接埠轉發、免電子郵件帳戶與退款。",
+  "metaDescription": "Proton VPN 還是 Mullvad？比較 Mullvad 每月 5 歐元 固定費率與 Proton 的方案、裝置、連接埠轉發、免費方案和退款。",
+  "publishedAt": "2026年11月27日",
+  "publishedAtISO": "2026-11-27",
+  "updatedAt": "2026-11-27",
+  "draft": false,
+  "isNew": true,
+  "hideFromPortugueseListings": true,
+  "image": "/images/reviews/proton/proton-vpn-ou-mullvad-hero-zh-hant.webp",
+  "imageAlt": "Proton VPN 官方插圖：一台紫色螢幕，上面有清單，旁邊是一把鎖。封面提問「Proton VPN 還是 Mullvad？」。",
+  "imageFit": "contain",
+  "imageAspect": "landscape",
+  "contentSections": [
+    {
+      "heading": "快速回答",
+      "paragraphs": [
+        "想按月付費，或想開不需要電子郵件的帳戶，Mullvad 比較有利。想免費使用、同時連接最多 10 台裝置、需要連接埠轉發，或想在前兩年付得更少，Proton VPN 更划算。續訂時 Mullvad 的固定費率又會比較便宜，表格列出了三種期限。"
+      ]
+    },
+    {
+      "heading": "兩種定價模式：固定費率或依期限折扣",
+      "paragraphs": [
+        "Mullvad 只公布一種費率：每月 5 歐元，無論是 1 個月、1 年還是更久，都沒有折扣的長期方案。Mullvad 表示自 2009 年起一直維持 5 歐元，其頁面顯示的約當金額為 $5.47。Proton 正好相反：月付最貴（$9.99），期限越長折扣越大，一次付清，之後以更高的價格續訂。",
+        "Proton 以美元公布價格。Mullvad 以歐元計費（含增值稅），並在頁面上顯示美元約當金額，所以並排比較時我們採用這個數字。Proton 的價格是黑色星期五的活動價；2 年的價格是合作夥伴頁面的價格，也就是我們的連結開啟的頁面。Mullvad 12 個月和 24 個月的金額是我們自己算的：月數乘以 $5.47。"
+      ],
+      "comparisonTable": {
+        "caption": "Mullvad 與 Proton VPN Plus 的美元價格。Proton 正在進行黑色星期五活動；2 年方案是合作夥伴頁面的價格。Mullvad 的美元金額是其頁面顯示的換算結果。請在結帳時確認幣別和總額。",
+        "headers": [
+          "期限",
+          "Mullvad",
+          "Proton VPN Plus",
+          "較便宜"
+        ],
+        "rows": [
+          [
+            "1 個月",
+            "$5.47",
+            "$9.99",
+            "Mullvad"
+          ],
+          [
+            "12 個月",
+            "$65.64",
+            "第 1 年 $35.88",
+            "Proton VPN（第 1 年）"
+          ],
+          [
+            "24 個月",
+            "$131.28",
+            "2 年 $59.76（合作夥伴）",
+            "Proton VPN"
+          ],
+          [
+            "續訂，12 個月",
+            "$65.64",
+            "每年 $83.88",
+            "Mullvad"
+          ]
+        ]
+      },
+      "postParagraphs": [
+        "有兩次反轉。只買一個月時，Mullvad 便宜將近一半。第一個週期反過來，Proton 的 24 個月不到 Mullvad 24 個月的一半。續訂時又反過來：Proton 每年 $83.88，Mullvad 是 $65.64。",
+        "Proton 的價格是活動價。折扣是以月費為基準計算的，每次續訂按當天的現行價格收費。Mullvad 以歐元計費（每月 5 歐元，含增值稅），所以美元金額只是其頁面的換算結果：實際從您的卡上扣多少，取決於匯率和發卡銀行的手續費。",
+        "在 Proton 的公開優惠頁面上，1 年方案的每月價格（$2.99）比 2 年方案（$3.49）低。是合作夥伴優惠讓 2 年方案最便宜（每月 $2.49）。"
+      ],
+      "image": "/images/reviews/proton/proton-vpn-ou-mullvad-precos-usd.webp",
+      "imageAlt": "Proton 的英文美元價格頁面，顯示 VPN Plus 月付方案：每月 $9.99，首月收取 $9.99，之後每月以 $9.99 續訂，沒有折扣。",
+      "imageCaption": "Proton 的美元價格頁面，2026年11月27日。",
+      "imageFit": "contain",
+      "links": [
+        {
+          "label": "查看 2 年 VPN Plus",
+          "href": "https://go.getproton.me/SH39K",
+          "sponsored": true
+        }
+      ]
+    },
+    {
+      "heading": "帳戶、付款與公司所在地",
+      "paragraphs": [
+        "Mullvad 開戶不需要電子郵件：它會產生一組隨機號碼，並表示不要求任何個人資料。Proton 需要電子郵件，同一個帳戶也能開通它其他服務的免費方案，例如 Mail。我們使用 Proton Mail 免費方案已將近十年。",
+        "Proton 是一家總部設在瑞士的公司。Mullvad 表示自己是總部位於瑞典的 Mullvad VPN AB。兩家都宣稱不保存活動紀錄、應用程式開源，並接受獨立的外部稽核。Proton 的政策每年由 Securitum 稽核並公開報告，我們在〈[Proton VPN 可靠嗎？](/zh-hant/reviews/proton-vpn-trust-zh-hant)〉中有說明。這些都是公司自己的聲明。",
+        "付款方式的差異比標價顯示的更大，清單如下。"
+      ],
+      "accordionBlock": {
+        "heading": "兩家的付款方式",
+        "paragraphs": [
+          "**Proton：**Visa、Mastercard、American Express 信用卡和 PayPal。比特幣只能在建立帳戶後購買 Proton 點數時使用。",
+          "**Mullvad：**信用卡、PayPal、銀行轉帳、比特幣、比特幣現金、門羅幣、附代碼以信封寄送的現金，以及 Swish、iDEAL、Bancontact 等歐洲地區付款方式。使用比特幣、比特幣現金和門羅幣付款，Mullvad 提供 10% 折扣。"
+        ]
+      }
+    },
+    {
+      "heading": "日常使用中區分兩者的功能",
+      "paragraphs": [
+        "免費方案、10 台裝置和連接埠轉發（為傳入連線開放連接埠，BT 下載程式會用到）只有 Proton VPN 有；不需要電子郵件的帳戶只有 Mullvad 有。表格列出兩家公司在價格頁與功能頁上公布的內容，速度和解鎖服務的能力不在比較範圍內。"
+      ],
+      "comparisonTable": {
+        "caption": "依兩家公司各自頁面整理的 Proton VPN 與 Mullvad。",
+        "headers": [
+          "功能",
+          "Proton VPN",
+          "Mullvad"
+        ],
+        "rows": [
+          [
+            "免費方案",
+            "有：1 台裝置、10 個國家，不需信用卡",
+            "沒有"
+          ],
+          [
+            "同時連線裝置",
+            "免費 1 台，Plus 10 台",
+            "每個帳戶 5 台"
+          ],
+          [
+            "連接埠轉發",
+            "有，付費方案，支援 Windows、macOS 和 Linux",
+            "沒有"
+          ],
+          [
+            "國家",
+            "Plus 提供 140 多個國家",
+            "50 個國家、91 個城市（伺服器頁面顯示 572 台伺服器）"
+          ],
+          [
+            "帳戶",
+            "需要電子郵件",
+            "隨機號碼，不需電子郵件"
+          ],
+          [
+            "退款",
+            "首次購買後 30 天",
+            "部分付款方式 14 天；現金和加密貨幣付款不退款"
+          ]
+        ]
+      },
+      "postParagraphs": [
+        "伺服器和國家數量不代表品質，只能用來確認您需要的國家在不在清單上。Proton 表示 Plus 有 2 萬多台伺服器。Proton 的退款在條款中有條件，我們在〈[如何取消 Proton VPN 並申請退款](/zh-hant/reviews/proton-vpn-refund-zh-hant)〉中有說明。"
+      ]
+    },
+    {
+      "heading": "誰該選哪一個",
+      "paragraphs": [
+        "關鍵在於您打算用多久。按月付費選 Mullvad，不用盯著續訂；用兩年選 Proton，靠合作夥伴優惠。之後最好在續訂當天重新算一次。",
+        "如果您需要超過 5 台裝置、連接埠轉發或免費方案，光看功能清單就已經指向 Proton。如果您最看重不需電子郵件的帳戶，以及用門羅幣付款，就選 Mullvad。如果對免費方案還有疑慮，〈[Proton VPN 值得買嗎？](/zh-hant/reviews/proton-vpn-worth-it-zh-hant)〉會說明它涵蓋哪些功能。如果要比較其他 VPN，可以看〈[Proton VPN 還是 NordVPN](/zh-hant/reviews/proton-vpn-vs-nordvpn-zh-hant)〉。我們連結的規則見[本站的 Proton 頁面](/zh-hant/coupons/proton)。"
+      ],
+      "emphasis": "期限決定一切：1 個月、2 年，還是長期使用。只買一個月和續訂時，Mullvad 花費較少；前兩年，Proton 花費較少。",
+      "links": [
+        {
+          "label": "查看 Proton VPN",
+          "href": "https://go.getproton.me/SH39K",
+          "sponsored": true
+        }
+      ]
+    },
+    {
+      "heading": "常見問題",
+      "bullets": [
+        "Mullvad 有黑色星期五或年繳折扣嗎？沒有。Mullvad 表示不論期限都維持每月 5 歐元，沒有折扣的長期方案。公布的唯一折扣是用比特幣、比特幣現金或門羅幣付款時的 10%。",
+        "Proton VPN 和 Mullvad 哪個有連接埠轉發？只有 Proton VPN：Proton 的說明中心表示，所有付費方案的 Windows、macOS 和 Linux 應用程式都有，而 Mullvad 回覆說不支援。Proton 的免費方案沒有這項功能。",
+        "Mullvad 用什麼幣別收費，怎麼付款？以歐元計費，每月 5 歐元，含增值稅，沒有美元價格表。發卡銀行可能套用自己的匯率或手續費。付款方式列在上方。",
+        "哪一家的退款期限比較長？Proton：首次購買後 30 天，每位使用者一次，並依條款所列條件。Mullvad 對信用卡、PayPal 等部分付款方式提供 14 天。現金和加密貨幣付款不退款，透過 App Store 或代金券購買則依銷售方的規則。"
+      ]
+    }
+  ],
+  "pros": [],
+  "cons": [],
+  "cta": {
+    "text": "想用兩年 VPN Plus，我們的連結會開啟 Proton 的合作夥伴頁面，2 年方案一次付清，之後以標準價格每年續訂。訂閱前請確認幣別和總額。",
+    "label": "查看 Proton VPN",
+    "url": "https://go.getproton.me/SH39K",
+    "sponsored": true
+  },
+  "affiliate": "proton",
+  "editorialNote": "依據 Proton 和 Mullvad 的價格頁與功能頁撰寫，沒有實際測試這兩款 VPN。這個連結是聯盟連結，可能為我們帶來佣金。",
+  "relatedArticles": [
+    {
+      "slug": "proton-vpn-worth-it-zh-hant"
+    },
+    {
+      "slug": "proton-vpn-trust-zh-hant"
+    },
+    {
+      "slug": "proton-vpn-refund-zh-hant"
+    },
+    {
+      "slug": "proton-black-friday-zh-hant"
+    }
+  ],
+  "decision": {
+    "takeIf": [
+      "您想要免費方案、10 台裝置、連接埠轉發，或前兩年的最低價格。",
+      "您不介意一次付清整段期限，並且會確認續訂價格。"
+    ],
+    "skipIf": [
+      "您會按月付費，或想用門羅幣付款並開不需電子郵件的帳戶。",
+      "您想要續訂時不變動的費率：從第三年起，Mullvad 的年費最低。"
+    ]
+  }
+}
