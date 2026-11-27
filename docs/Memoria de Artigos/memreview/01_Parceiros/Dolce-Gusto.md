@@ -114,3 +114,16 @@ Carrinho sem login, sem finalizar. Assinatura Geração 1, mensal, com caixas de
 - 6 caixas, subtotal R$ 101,04: "Você usou o código de cupom CECI", linha "Você ganhou 10% OFF!", desconto de R$ 10,10, total de R$ 90,94.
 
 Leitura: o CECI de 10% soma com a assinatura, e o mínimo de R$ 100 conta sobre o subtotal já com o desconto do plano. Em 04/10, com o código em 5%, o checkout aceitou um pedido que ficava em R$ 89,70 depois dos 25%; isso mudou. Artigos atualizados: assinatura-dolce-gusto-vale-a-pena e assinatura-dolce-gusto-como-funciona. Sem print no artigo.
+
+## Leitura de 27/11/2026 (Chrome, sem login)
+
+Feita para a DN4 ([[cafeteira-para-airbnb-pousada]]). Preços de campanha de Black Friday.
+
+- Caixa de 10 cápsulas de café: R$ 25,90 riscado e R$ 15,90 no dia (duas a R$ 28,90 e R$ 16,90). Em 05/11 a caixa de lista era R$ 24,90.
+- Máquinas, riscado e do dia: Mini Me 2.0 R$ 599,90 e R$ 349,90; Genio S Basic R$ 679,90 e R$ 389,90; Genio S Plus R$ 779,90 e R$ 489,90; Genio S Touch R$ 979,90 e R$ 599,90.
+- Combos para negócios: os mesmos preços de 05/11, com os 10% extra para CNPJ.
+- Formulário de propostas para negócios: pede empresa e CNPJ; tem a opção "Hotel, pousada, hospedagem ou Airbnb".
+
+### Perguntas reais: café para hóspedes (autocompletar, 27/11)
+
+"cafeteira para airbnb", "melhor cafeteira para airbnb", "cafeteira airbnb", "maquina de cafe para airbnb", "café para airbnb", "capsulas para airbnb", "kit cafe airbnb", "o que deixar no airbnb", "cafeteira para pousada", "cafeteira para hotel", "cafeteira para quarto de hotel", "dolce gusto hotel". Sem sugestão: "dolce gusto airbnb", "dolce gusto para pousada".
