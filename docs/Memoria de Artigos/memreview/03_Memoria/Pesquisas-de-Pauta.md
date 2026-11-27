@@ -575,3 +575,15 @@ São 44 artigos, de 20/01 a 06/11/2026, em 5 páginas ([categoria](https://cupom
   virou Pro; Platinum em quatro tamanhos), e o HIT tem tabela lida, sem ingredientes na página.
 - **Viraram** a AD10 ([[creatina-adaptogen-e-boa]]) e a AD11 ([[hit-protein-adaptogen-e-bom]]), GO de 26/11. O
   `adaptogen-e-boa` encolhe os dois capítulos quando elas forem ao ar (Fila, seção 4).
+
+## Natal 2026, segunda rodada: as pessoas que faltavam (27/11/2026)
+
+- **Gatilho:** o Bruno pediu a rodada nova de Natal depois do handoff de NT1 a NT4 e OC9. A primeira rodada (24/11) cobriu
+  amigo secreto, mãe e sogra e namorada; faltavam namorado e marido, criança, avó e idosos, adolescente e professora.
+- **Autocompletar e catálogos:** em [[natal-segunda-rodada-leituras-2711]]. Presença, sem volume; o calendário do Trends
+  de 2025 da primeira rodada vale aqui (presente por pessoa no ar até 10/12).
+- **Mudou desde 24/11:** a Cola e Decora (cadastrada em 19/11) tem 40 brinquedos de madeira, 9 com idade na ficha. Com
+  isso, "presente para criança" deixou de ficar de fora.
+- **Viraram** as propostas NT8 a NT11, a seção da professora dentro da NT2 (NT2+) e o FAQ de presente da Gocase (GC+), na
+  [[Fila-de-Pautas]] (seção 3), sem GO.
+- **Ficou de fora:** pet, sogro, cesta de Natal, panetone sem açúcar, lembrancinha e bebê (motivos na Fila).

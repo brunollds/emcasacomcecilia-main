@@ -78,6 +78,12 @@ autocompletar; a de 50 também, em "até 50 reais" com "homem" e "feminino". Sem
 5. **Quem gosta de doce:** a La Ganexa tem doce de leite e brigadeiro de colher, a Dr. Peanut tem alfajor e wafer.
    Os doces da Dr. Peanut são de amendoim, como já diz a IL2: avisar na linha do produto, sem promessa de
    alergia nem de saúde.
+6a. **Para professora e colega de trabalho (NT2+, GO do Bruno em 27/11):** uma seção curta, sem URL nova, porque a
+   faixa é a mesma. Busca de 27/11: "presente de natal para professora" (com "infantil", "kit", "barato",
+   "criativo"), "lembrancinha de natal" para professores e colegas de trabalho, "amigo secreto de empresa". Itens das
+   mesmas faixas (doce em embalagem fechada, o xagadinho, a garrafa ou o acessório da Gocase); o texto diz que, para
+   turma ou setor inteiro, o frete grátis de cada loja pode valer a compra junta. Sem "lembrancinha de escola" feita
+   à mão. Um FAQ a mais: "o que dar de presente de Natal para professora até 50 reais?".
 6. **Lembrancinha sem gosto marcado:** o xagadinho e o suspiro servem a quem não conhece bem a pessoa; o texto diz
    que o sabor é a escolha, e que o rótulo traz a lista de ingredientes.
 7. **Cuidado de saúde, sem promessa:** a La Ganexa diz que os produtos são sem glúten e zero açúcar, e que diabéticos
