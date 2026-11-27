@@ -20,7 +20,7 @@ Vale junto com o Job 2 e com as decisões de 31/10/2026. Este anexo aplica essas
 - Recusa a pergunta do título com "não convertemos", "não dizemos", "este texto também não diz".
 - Põe metodologia no corpo: "como lemos", "API pública", "lidos em", "nesta rodada". Isso fica no vault.
 - Faz capítulo que só aponta outro artigo, ou capítulo "Idade" que só diz que a loja não informa.
-- Põe preço, lista de produtos ou conta na resposta rápida (sem R$, nem preço puro).
+- Põe lista de produtos ou conta passo a passo na resposta rápida (preço com R$ pode ir).
 - Repete a tabela em prosa: preço, medida, litros e garantia de cada modelo aparecem uma vez.
 - Diz "ninguém do site usou" fora do `editorialNote`, ou escreve "testamos" sem teste.
 - Põe data em legenda de foto, célula de tabela ("Sim (30/10)") ou FAQ.
