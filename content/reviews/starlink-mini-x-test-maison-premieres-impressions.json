@@ -79,11 +79,11 @@
     {
       "heading": "Réponse rapide",
       "paragraphs": [
-        "La Starlink Mini X avec Routeur Mini m'a donné une connexion stable en 15 à 20 minutes et a atteint 200 Mbps au premier essai sur le balcon face à une fibre instable. Les nouveaux clients en France sur un forfait éligible via le lien reçoivent un crédit après deux cycles complets payés ; voyez ci-dessous l'activation et la portée à travers des murs épais."
+        "La Starlink Mini X avec Routeur Mini m'a donné une connexion stable en 15 à 20 minutes et a atteint 200 Mbps au premier essai sur le balcon face à une fibre instable. Les nouveaux clients en France reçoivent un crédit de 45 €, en plus des promotions en vigueur pour le kit et l'abonnement mensuel."
       ],
       "links": [
         {
-          "label": "Vérifier mon adresse et voir le bonus de 45 € en France",
+          "label": "Vérifier l'adresse et garantir le bonus de 45 €",
           "href": "https://starlink.com/?referral=RC-DF-17132118-63432-88",
           "sponsored": true
         }
@@ -93,7 +93,7 @@
       "heading": "Pourquoi j'ai acheté malgré la fibre, livraison et contenu de la boîte",
       "paragraphs": [
         "Lorsque la fibre du quartier varie ou coupe en pleine journée de travail, disposer d'un lien de secours indépendant se justifie même à une adresse urbaine raccordée.",
-        "Mon achat : j'ai commandé moi-même le kit d'antenne Starlink Mini X (livré dans ma commande avec l'antenne et le bloc d'alimentation) et acheté séparément à la caisse un Routeur Mini, sur le forfait brésilien Résidentiel Max, le 19/11/2026 — un seul Routeur Mini au total dans le colis. La boîte est arrivée sept jours calendaires plus tard, le 26/11/2026, avec une livraison soignée et chaque pièce logée dans des compartiments en pulpe moulée.",
+        "Le 19/11/2026, j'ai acheté le kit Starlink Mini X avec le forfait Résidentiel Max et, à la caisse, j'ai ajouté un Routeur Mini. Le kit est arrivé avec l'antenne et les accessoires d'alimentation. La commande est arrivée sept jours plus tard, le 26/11/2026, bien emballée, chaque pièce séparée dans des compartiments en pulpe moulée.",
         "Juste après avoir validé l'achat sur le site officiel, j'ai pu planifier l'installation professionnelle gratuite incluse dans l'offre brésilienne directement sur un portail partenaire indiqué par Starlink, avec une intervention prévue le 10/12/2026. Si vous comptez vous abonner pour la première fois, ouvrir votre commande sur starlink.com depuis le lien officiel de notre [page de parrainage Starlink](/fr/coupons/starlink) garantit 45 € de crédit sur facture après deux cycles payés à temps (et le parrain reçoit le même montant), en plus de la fenêtre de 30 jours pour tester et renvoyer le kit intact si le signal ne convient pas à votre adresse."
       ],
       "comparisonTable": {
@@ -220,7 +220,7 @@
     {
       "heading": "Routeur Mini à travers des murs épais et signal au salon",
       "paragraphs": [
-        "Dans une grande maison ou avec de la maçonnerie lourde, l'antenne extérieure ne couvre pas toutes les pièces à elle seule, mais placer le Routeur Mini au bon point intermédiaire a réglé le signal dans le salon.",
+        "Chez moi, avec des murs épais, l'antenne seule sur le balcon ne suffit pas à amener le Wi-Fi dans toutes les pièces. Avec le Routeur Mini placé entre le balcon et le salon, le signal au salon est devenu fort.",
         "Pour donner un repère concret : j'ai toujours eu du mal avec le Wi-Fi chez moi à cause de l'épaisseur des murs. Aujourd'hui j'utilise un réseau maillé de trois TP-Link Deco BE22 (avec le boîtier principal relié par câble à celui du grand salon et le troisième en sans-fil) et il reste malgré tout des zones moyennes à faibles, y compris ce même balcon. Le sachant, j'ai acheté séparément à la commande un Routeur Mini Starlink en même temps que le kit.",
         "Une fois le Routeur Mini branché sur secteur, il faut attendre quelques minutes qu'il apparaisse dans l'appli pour le configurer en Mesh sans fil, par une procédure très simple. Je l'ai d'abord installé dans le salon principal, et l'application m'a aussitôt signalé que l'emplacement n'était pas bon en me demandant de le rapprocher de l'antenne. J'ai déplacé le Routeur Mini au rez-de-chaussée, plus près du balcon et avec moins d'obstacles sur le trajet, et la liaison avec la Mini X s'est établie immédiatement. Au moment où j'ai rédigé ce retour depuis le grand salon, là où je voulais un signal fort, mon smartphone affichait un Wi-Fi Starlink proche de 100 %. Déplacer le Routeur Mini à ce point intermédiaire a réglé le signal dans le grand salon, même s'il faudra sans doute un second Routeur Mini pour couvrir chaque recoin de la maison — ce premier essai n'a pas mesuré la couverture pièce par pièce pour la comparer aux trois Deco BE22. Sur ce premier essai j'ai tout fait en Mesh sans fil, sans tirer de câble Ethernet depuis les ports de la base."
       ],
@@ -249,7 +249,7 @@
       },
       "links": [
         {
-          "label": "Vérifier la disponibilité et voir le bonus de 45 € en France",
+          "label": "Vérifier l'adresse et garantir le bonus de 45 €",
           "href": "https://starlink.com/?referral=RC-DF-17132118-63432-88",
           "sponsored": true
         },
@@ -298,7 +298,7 @@
   ],
   "cta": {
     "text": "La commande s'ouvre sur starlink.com via le lien officiel de parrainage, en affichant les tarifs pour votre adresse avec 30 jours pour tester et renvoyer le matériel intact. Les 45 € arrivent sur facture après deux cycles payés.",
-    "label": "Vérifier mon adresse avec 45 € après 2 cycles",
+    "label": "Vérifier l'adresse et garantir le bonus de 45 €",
     "url": "https://starlink.com/?referral=RC-DF-17132118-63432-88",
     "sponsored": true
   }

@@ -79,11 +79,11 @@
     {
       "heading": "Quick answer",
       "paragraphs": [
-        "Starlink Mini X with a Router Mini got me online in 15 to 20 minutes and hit 200 Mbps on my first balcony test, making a solid backup for unstable local fiber. New customers in the US or UK on an eligible plan via the link below receive bill credit after two full paid cycles; see setup and thick-wall signal details below."
+        "Starlink Mini X with a Router Mini got me online in 15 to 20 minutes and hit 200 Mbps on my first balcony test, making a solid backup for unstable local fiber. New customers get a US$ 100 credit in the US or £40 in the UK, plus any promotions running on the kit and the monthly plan."
       ],
       "links": [
         {
-          "label": "Check my address and see the US$ 100 (US) / £40 (UK) bonus",
+          "label": "Check your address and secure the US$ 100 / £40 bonus",
           "href": "https://starlink.com/?referral=RC-DF-17132118-63432-88",
           "sponsored": true
         }
@@ -93,7 +93,7 @@
       "heading": "Why I bought it despite having fiber, delivery and box contents",
       "paragraphs": [
         "When neighborhood fiber fluctuates or drops in the middle of work, having an independent backup connection pays off even at an urban address with wired service.",
-        "What I ordered: I purchased the Starlink Mini X dish kit myself (which in my order came with the dish and power accessories) and bought one Router Mini separately at checkout, on Brazil's Residential Max plan, on November 19, 2026 — one Router Mini arrived in total. The box arrived seven calendar days later, on November 26, 2026, well packed with every item separated in molded pulp dividers.",
+        "On November 19, 2026, I bought the Starlink Mini X kit on the Residential Max plan and added a Router Mini at checkout. The kit came with the dish and the power accessories. The order arrived seven days later, on November 26, 2026, well packed, with each piece separated in molded pulp dividers.",
         "Right after completing the purchase on the official website, I was able to schedule the free professional installation included with the Brazilian plan directly through an external booking partner linked by Starlink, with the visit set for December 10, 2026. If you plan to subscribe for the first time, starting your order on starlink.com through the official link on our [Starlink referral page](/en/coupons/starlink) locks in US$ 100 in the US or £40 in the UK as a bill credit after two paid billing cycles (and the referrer gets the same reward), alongside the 30-day window to test and return the undamaged kit if the signal does not meet your needs."
       ],
       "comparisonTable": {
@@ -220,7 +220,7 @@
     {
       "heading": "Router Mini through thick walls and living room signal",
       "paragraphs": [
-        "In a large house or one with heavy masonry walls, an outdoor dish alone will not reach every room, but placing the Router Mini at the right midpoint solved living room coverage.",
+        "At home, with thick walls, the dish on the balcony alone does not bring Wi-Fi to every room. With the Router Mini at a spot between the balcony and the living room, the signal in the living room came out strong.",
         "For real-world context, Wi-Fi has always been tricky in my home because of the walls. Today I run a three-node TP-Link Deco BE22 mesh (with the main unit wired to the main living room node and the third running wirelessly) and still end up with medium-to-weak dead zones, including that very bedroom balcony. Knowing this, I bought one Starlink Router Mini separately at checkout alongside the order.",
         "Once you plug the Router Mini into power, you wait a few minutes for it to show up in the app and add it as a wireless mesh node in a very simple flow. I placed it in the main living room first, and the app immediately warned that signal strength was poor and asked me to move it closer to the dish. I relocated the Router Mini to a ground-floor spot closer to the balcony with fewer walls in between, and it linked up with the Mini X right away. While writing these impressions from the main living room, right where I wanted full bars, my phone showed Starlink Wi-Fi near 100%. Repositioning the Router Mini to that midpoint fixed living room reception, though covering every corner of the house will likely take a second Router Mini — this initial test did not measure room-by-room coverage to compare against the three Deco BE22 nodes. In this first test I ran everything over wireless mesh, without running Ethernet cables through the base ports yet."
       ],
@@ -249,7 +249,7 @@
       },
       "links": [
         {
-          "label": "Check address availability and US$ 100 (US) / £40 (UK) bonus",
+          "label": "Check your address and secure the US$ 100 / £40 bonus",
           "href": "https://starlink.com/?referral=RC-DF-17132118-63432-88",
           "sponsored": true
         },
@@ -298,7 +298,7 @@
   ],
   "cta": {
     "text": "The order opens on starlink.com via the official referral link, showing pricing at your address with 30 days to test and return undamaged hardware. In the US and UK, the US$ 100 or £40 bill credit lands after two paid cycles.",
-    "label": "Check my address with US$ 100 / £40 after 2 cycles",
+    "label": "Check your address and secure the US$ 100 / £40 bonus",
     "url": "https://starlink.com/?referral=RC-DF-17132118-63432-88",
     "sponsored": true
   }
