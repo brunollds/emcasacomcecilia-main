@@ -586,5 +586,22 @@
     "membersOnly": true,
     "status": "expired",
     "regions": ["GLOBAL"]
+  },
+  {
+    "id": "yesbf26-promo",
+    "code": "YESBF26",
+    "type": "coupon",
+    "discount": {
+      "kind": "percentage",
+      "value": 15
+    },
+    "startsAt": "2026-11-27",
+    "expiresAt": "2026-11-27",
+    "verifiedAt": "2026-11-27",
+    "officialSourceUrl": "https://www.yesstyle.com/en/help/section.html/hsi.2914",
+    "affiliateUrl": "https://ystyle.co/rQYQv",
+    "membersOnly": true,
+    "status": "active",
+    "regions": ["GLOBAL"]
   }
 ]
