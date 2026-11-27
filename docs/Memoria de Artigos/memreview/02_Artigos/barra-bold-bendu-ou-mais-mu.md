@@ -9,7 +9,7 @@ category: "guias-praticos-utilidade"
 reviewKind: "guia"
 type: "Comparativo de Snacks"
 anexo_tipo: "Anexo-Suplementos-Alimentos"
-status: "pauta-aprovada"
+status: "pronto-para-deploy"
 responsavel: "Job-1"
 proxima_acao: "redação (Job 2) — prioridade #4 da fila do Bruno em 26/11"
 bloqueado_por: null
@@ -110,3 +110,11 @@ Nenhum tem `endsAt`. O artigo não fixa condição de Black Friday no corpo: o b
 
 - A tabela vai mostrar a BOLD 21 g mais barata por grama que a Mukebar, pelos preços de lista. Sugestão: o número fica na tabela, sem frase de veredito, e a Mais Mu é apresentada pelos 15 g e pelo wafer de 12 g. É assim que você quer a regra de "não eleger parceira"?
 - O trio não tem busca direta. O GO está dado; fica o registro de que a medição deste artigo é pelos capítulos de produto.
+
+
+## Capa e imagens
+
+Aprovadas pelo Bruno em 27/11/2026 (lote docs/auditoria-capas/lote-20261127-leva6-bm1-cs1-cs2); upload ao CDN e verificação HTTPS em 27/11/2026.
+
+- Capa: /images/reviews/bold/barra-bold-bendu-ou-mais-mu-hero.webp (da9397d5…), 1600×900, imageFit contain. Origem: caixas BOLD Crunch (boldsnacks.com.br) e Mukebar Cookies'n Cream (lojamaismu.com.br), fotos oficiais de 27/11/2026; fundo de estúdio gerado por IA (ImageGen, só o cenário vazio); montagem do Codex. Alt: "Caixas BOLD Crunch e Mukebar Cookies'n Cream da Mais Mu, em fotos oficiais sobre fundo de estúdio. A chamada diz Barras de proteína, BOLD ou Mais Mu?"
+- Sem Bendu nem Creamy na arte.
