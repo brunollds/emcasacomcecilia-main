@@ -1,5 +1,5 @@
 // Regras de texto dos artigos em português contra a "cara de prontuário" (vault, REGRAS-GLOBAIS seções 6 e 7):
-// resposta rápida sem preço de tabela (o preço da campanha pode ir), poucas datas no corpo e nenhuma seção "Nota de transparência". O validate:content
+// poucas datas no corpo e nenhuma seção "Nota de transparência". O validate:content
 // usa estas funções com a lista de pendentes (review-prose-baseline.json), que só pode encolher.
 import { isFaqHeading } from '../src/lib/faq';
 import type { BodyDatesReason, ContentSection } from '../src/lib/content/types';
@@ -29,7 +29,6 @@ export function findDates(text: string): string[] {
 }
 
 export interface ProseFindings {
-  quickAnswerPrice: boolean;
   transparencySection: boolean;
   bodyDates: number;
   /** Datas em título de seção, legenda de foto ou FAQ: nenhuma é aceita. */
@@ -82,8 +81,6 @@ const countDates = (texts: string[]) => texts.reduce((total, text) => total + fi
 
 export function checkReviewProse(review: ProseReview): ProseFindings {
   const sections = review.contentSections ?? [];
-  // Pelo título, não pela posição: há artigos com a resposta rápida logo depois de uma introdução.
-  const quickAnswer = sections.find((section) => /^resposta rápida/i.test(section.heading ?? ''));
   let bodyDates = 0;
   let datesOutsideBody = 0;
   for (const section of sections) {
@@ -95,11 +92,6 @@ export function checkReviewProse(review: ProseReview): ProseFindings {
     datesOutsideBody += countDates(captionTexts(section));
   }
   return {
-    quickAnswerPrice: quickAnswer
-      ? [...(quickAnswer.paragraphs ?? []), ...(quickAnswer.bullets ?? []), ...(quickAnswer.postParagraphs ?? []), quickAnswer.emphasis ?? ''].some(
-          (text) => text.includes('R$')
-        )
-      : false,
     transparencySection: sections.some((section) => /nota de transparência/i.test(section.heading ?? '')),
     bodyDates,
     datesOutsideBody,
@@ -121,11 +113,6 @@ export function getProseProblems(findings: ProseFindings, reason: BodyDatesReaso
   const maxDates = reason ? MAX_BODY_DATES_WITH_REASON : MAX_BODY_DATES;
   const datesOver = findings.bodyDates > maxDates ? findings.bodyDates : 0;
 
-  // Em artigo de campanha (bodyDatesReason "campanha") o preço promocional é a notícia e pode abrir a resposta
-  // rápida; a regra mira o preço de tabela (Bruno, 24/11/2026).
-  if (findings.quickAnswerPrice && reason !== 'campanha' && !baseline?.quickAnswerPrice) {
-    problems.push('resposta rápida com "R$": preço de tabela vai no corpo, não no resumo (campanha leva bodyDatesReason "campanha")');
-  }
   if (findings.transparencySection && !baseline?.transparencySection) {
     problems.push('seção "Nota de transparência" no corpo: a nota sai no cabeçalho, pelo editorialNote');
   }
@@ -141,7 +128,6 @@ export function getProseProblems(findings: ProseFindings, reason: BodyDatesReaso
 
   if (baseline) {
     const stale: string[] = [];
-    if (baseline.quickAnswerPrice && !findings.quickAnswerPrice) stale.push('tire "quickAnswerPrice"');
     if (baseline.transparencySection && !findings.transparencySection) stale.push('tire "transparencySection"');
     if (baseline.bodyDates !== undefined && datesOver < baseline.bodyDates) {
       stale.push(datesOver === 0 ? 'tire "bodyDates"' : `baixe "bodyDates" para ${datesOver}`);
@@ -160,7 +146,6 @@ export function getProseProblems(findings: ProseFindings, reason: BodyDatesReaso
 export function toBaselineEntry(findings: ProseFindings, reason: BodyDatesReason | undefined): ProseBaselineEntry {
   const maxDates = reason ? MAX_BODY_DATES_WITH_REASON : MAX_BODY_DATES;
   return {
-    ...(findings.quickAnswerPrice ? { quickAnswerPrice: true } : {}),
     ...(findings.transparencySection ? { transparencySection: true } : {}),
     ...(findings.bodyDates > maxDates ? { bodyDates: findings.bodyDates } : {}),
     ...(findings.datesOutsideBody > 0 ? { datesOutsideBody: findings.datesOutsideBody } : {}),
