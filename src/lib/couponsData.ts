@@ -5140,18 +5140,18 @@ const STORE_COUPONS: Coupon[] = [
     brandColor: '#8E7396',
     code: 'EMCASA',
     codeFieldLabel: 'Tem um cupom?',
-    discount: '10% OFF',
-    discountNumber: 10,
+    discount: '15% OFF',
+    discountNumber: 15,
     category: 'Suplementos, superfoods e skincare: magnésio, complexo B, colágeno, prebióticos e maca peruana',
     hubCategory: 'saude',
     hubCard: 'reduzido',
     shortDescription: 'todo o site da Rituária, inclusive os produtos em promoção',
     longDescription:
-      'O cupom Rituária EMCASA dá 10% OFF no site oficial, para quem compra pela primeira vez e para quem já é cliente, e soma com os preços em promoção: no nosso teste, os 10% entraram também em fórmulas que já estavam com desconto. Vale em todas as formas de pagamento.',
-    metaTitle: 'Cupom Rituária: 10% OFF com EMCASA',
+      'O cupom Rituária EMCASA dá 15% OFF no site oficial, para quem compra pela primeira vez e para quem já é cliente, e soma com os preços em promoção: no nosso teste, os 10% entraram também em fórmulas que já estavam com desconto. Vale em todas as formas de pagamento.',
+    metaTitle: 'Cupom Rituária: 15% OFF com EMCASA',
     metaTitleMonth: true,
     metaDescription:
-      'Cupom Rituária: EMCASA dá 10% OFF em suplementos e skincare, para cliente novo ou antigo, e soma com as promoções do site. Testado no checkout.',
+      'Cupom Rituária: EMCASA dá 15% OFF em suplementos e skincare, para cliente novo ou antigo, e soma com as promoções do site. Testado no checkout.',
     eligibleCategories: 'Produtos do site oficial da Rituária, inclusive os que estão em promoção',
     validity: 'Cupom ativo enquanto a parceria estiver vigente',
     reusable: 'Pode ser usado por clientes novos e antigos',
@@ -5192,7 +5192,7 @@ const STORE_COUPONS: Coupon[] = [
         publishedAt: '2026-11-21',
       },
       {
-        title: 'Cupom Rituária primeira compra: EMCASA dá 10% OFF e vale nas compras seguintes',
+        title: 'Cupom Rituária primeira compra: EMCASA dá 15% OFF e vale nas compras seguintes',
         url: '/reviews/cupom-rituaria-primeira-compra',
         type: 'review',
         publishedAt: '2026-11-18',
@@ -5221,22 +5221,22 @@ const STORE_COUPONS: Coupon[] = [
       'Confira o aviso Desconto em verde e a linha Descontos no resumo antes de pagar.',
     ],
     aboutBrand:
-      'A Rituária é uma marca brasileira de suplementos, superfoods e dermocosméticos, criada em 2021, com a proposta de cuidado de dentro para fora: fórmulas de magnésio, complexo B, colágeno e prebióticos, maca peruana e produtos de skincare, vendidos no site oficial. O cupom EMCASA é o benefício da parceria para quem acompanha o Em Casa com Cecília: 10% OFF, com qualquer forma de pagamento e também sobre os produtos em promoção.',
+      'A Rituária é uma marca brasileira de suplementos, superfoods e dermocosméticos, criada em 2021, com a proposta de cuidado de dentro para fora: fórmulas de magnésio, complexo B, colágeno e prebióticos, maca peruana e produtos de skincare, vendidos no site oficial. O cupom EMCASA é o benefício da parceria para quem acompanha o Em Casa com Cecília: 15% OFF, com qualquer forma de pagamento e também sobre os produtos em promoção.',
     faqs: [
       {
         question: 'Qual é o cupom de desconto da Rituária?',
         answer:
-          'O cupom da Rituária da nossa parceria é o EMCASA, com 10% OFF em todo o site oficial, em todas as formas de pagamento, para clientes novos e antigos, somando com as promoções. A loja anuncia 5% de desconto no Pix; confira o total no checkout antes de pagar.',
+          'O cupom da Rituária da nossa parceria é o EMCASA, com 15% OFF em todo o site oficial, em todas as formas de pagamento, para clientes novos e antigos, somando com as promoções. A loja anuncia 5% de desconto no Pix; confira o total no checkout antes de pagar.',
       },
       {
         question: 'Quanto de desconto o cupom EMCASA dá na Rituária?',
         answer:
-          '10% OFF nos produtos do site oficial. Em 22/11/2026, com 3 unidades do Brain+ no Leve 3, Pague 2 (de R$ 209,70 por R$ 139,80), o EMCASA tirou mais R$ 13,98 e fechou em R$ 125,82, mostrado na linha Descontos.',
+          '15% OFF nos produtos do site oficial. Na Black Friday, numa Fórmula Greens e Superfood de R$ 59,90, o EMCASA tirou R$ 8,99 e o total ficou em R$ 50,92, mostrado na linha Descontos.',
       },
       {
         question: 'Existe cupom Rituária de 20%?',
         answer:
-          'Sites de cupom anunciam códigos com percentuais maiores, que nós não testamos. O cupom da Cecília é o EMCASA: 10% OFF, aceito no checkout no nosso teste mais recente, inclusive sobre os produtos em promoção.',
+          'Sites de cupom anunciam códigos com percentuais maiores, que nós não testamos. O cupom da Cecília é o EMCASA: 15% OFF, aceito no checkout no nosso teste mais recente, inclusive sobre os produtos em promoção.',
       },
       {
         question: 'O cupom EMCASA soma com o desconto do Pix na Rituária?',
@@ -5249,12 +5249,12 @@ const STORE_COUPONS: Coupon[] = [
       },
       {
         question: 'Qual cupom Rituária vale para quem já é cliente?',
-        answer: 'O EMCASA. Ele dá 10% no site oficial para quem compra pela primeira vez e para quem já comprou.',
+        answer: 'O EMCASA. Ele dá 15% no site oficial para quem compra pela primeira vez e para quem já comprou.',
       },
       {
         question: 'O EMCASA é cupom de influenciadora da Rituária?',
         answer:
-          'Sim. EMCASA é o cupom do Em Casa com Cecília na Rituária e dá 10% OFF no site oficial para clientes novos e antigos.',
+          'Sim. EMCASA é o cupom do Em Casa com Cecília na Rituária e dá 15% OFF no site oficial para clientes novos e antigos.',
       },
       {
         question: 'O cupom soma com produtos em promoção?',
@@ -5279,7 +5279,7 @@ const STORE_COUPONS: Coupon[] = [
       {
         question: 'Tem cupom Rituária na Black Friday?',
         answer:
-          'Tem. O cupom Rituária EMCASA dá 10% OFF no site oficial, em todas as formas de pagamento, e é o mesmo código do resto do ano.',
+          'Tem. O cupom Rituária EMCASA dá 15% OFF no site oficial, em todas as formas de pagamento, e é o mesmo código do resto do ano.',
       },
       {
         question: 'O cupom Rituária vale na Black Friday?',
@@ -5523,17 +5523,17 @@ const STORE_COUPONS: Coupon[] = [
     },
     code: 'CECILIALINHARES',
     codeFieldLabel: 'Cupom (opcional)',
-    discount: '10% OFF',
-    discountNumber: 10,
+    discount: '15% OFF',
+    discountNumber: 15,
     category: 'Fragrâncias para o corpo: body splash, perfume para cabelo, hidratantes, óleo de banho e a linha masculina Homme',
     hubCategory: 'beleza',
     shortDescription: "todo o site da Barbour's Beauty, inclusive os kits em promoção",
     longDescription:
-      "O cupom Barbour's Beauty CECILIALINHARES dá 10% OFF no site oficial, para quem compra pela primeira vez e para quem já é cliente, e soma com os preços em promoção: no nosso teste, os 10% entraram num kit em promoção e num produto pelo preço cheio. Vale em todas as formas de pagamento.",
-    metaTitle: "Cupom Barbour's: 10% OFF com CECILIALINHARES",
+      "O cupom Barbour's Beauty CECILIALINHARES dá 15% OFF no site oficial, para quem compra pela primeira vez e para quem já é cliente, e soma com os preços em promoção: no nosso teste, os 10% entraram num kit em promoção e num produto pelo preço cheio. Vale em todas as formas de pagamento.",
+    metaTitle: "Cupom Barbour's: 15% OFF com CECILIALINHARES",
     metaTitleMonth: true,
     metaDescription:
-      "Cupom Barbour's: CECILIALINHARES dá 10% OFF em body splash e perfume capilar, para cliente novo ou antigo, e soma com as promoções. Testado no checkout.",
+      "Cupom Barbour's: CECILIALINHARES dá 15% OFF em body splash e perfume capilar, para cliente novo ou antigo, e soma com as promoções. Testado no checkout.",
     eligibleCategories: "Produtos do site oficial da Barbour's Beauty, inclusive os kits em promoção",
     validity: 'Cupom ativo enquanto a parceria estiver vigente',
     reusable: 'Pode ser usado por clientes novos e antigos',
@@ -5557,17 +5557,17 @@ const STORE_COUPONS: Coupon[] = [
       'Confira a linha Descontos e o total no resumo antes de pagar.',
     ],
     aboutBrand:
-      "A Barbour's Beauty é uma marca brasileira de fragrâncias para o corpo: body splash, perfume para cabelo, geleias e cremes hidratantes, óleo de banho, iluminador corporal e a linha masculina Homme, vendidos em unidades e em kits no site oficial, thebarboursbeauty.com.br. O cupom CECILIALINHARES é o benefício da parceria para quem acompanha o Em Casa com Cecília: 10% OFF, com qualquer forma de pagamento e também sobre os kits em promoção.",
+      "A Barbour's Beauty é uma marca brasileira de fragrâncias para o corpo: body splash, perfume para cabelo, geleias e cremes hidratantes, óleo de banho, iluminador corporal e a linha masculina Homme, vendidos em unidades e em kits no site oficial, thebarboursbeauty.com.br. O cupom CECILIALINHARES é o benefício da parceria para quem acompanha o Em Casa com Cecília: 15% OFF, com qualquer forma de pagamento e também sobre os kits em promoção.",
     faqs: [
       {
         question: "Quanto de desconto o cupom CECILIALINHARES dá na Barbour's?",
         answer:
-          '10% OFF nos produtos do site oficial. No nosso teste, o cupom tirou R$ 21,98 de um carrinho de R$ 219,80, e o resumo da compra mostrou o valor na linha Descontos.',
+          '15% OFF nos produtos do site oficial. Na Black Friday, o cupom tirou R$ 17,97 de dois body splashes que somavam R$ 119,80, e o resumo da compra mostrou o valor na linha Descontos.',
       },
       {
         question: "Existe cupom Barbour's de 20%?",
         answer:
-          'Sites de cupom anunciam códigos com percentuais maiores, que nós não testamos. O cupom da Cecília é o CECILIALINHARES: 10% OFF, aceito no checkout no nosso teste mais recente, inclusive sobre os kits em promoção.',
+          'Sites de cupom anunciam códigos com percentuais maiores, que nós não testamos. O cupom da Cecília é o CECILIALINHARES: 15% OFF, aceito no checkout no nosso teste mais recente, inclusive sobre os kits em promoção.',
       },
       {
         question: "O cupom CECILIALINHARES vale no Pix na Barbour's?",
@@ -5580,17 +5580,17 @@ const STORE_COUPONS: Coupon[] = [
       },
       {
         question: "Qual cupom Barbour's vale para quem já é cliente?",
-        answer: 'O CECILIALINHARES. Ele dá 10% no site oficial para quem compra pela primeira vez e para quem já comprou.',
+        answer: 'O CECILIALINHARES. Ele dá 15% no site oficial para quem compra pela primeira vez e para quem já comprou.',
       },
       {
         question: "O CECILIALINHARES é cupom de influenciadora da Barbour's?",
         answer:
-          "Sim. CECILIALINHARES é o cupom do Em Casa com Cecília na Barbour's Beauty e dá 10% OFF no site oficial para clientes novos e antigos.",
+          "Sim. CECILIALINHARES é o cupom do Em Casa com Cecília na Barbour's Beauty e dá 15% OFF no site oficial para clientes novos e antigos.",
       },
       {
         question: "Cupom Barbours e cupom Barbour's Beauty são o mesmo?",
         answer:
-          "São. Barbours, Barbour's e The Barbours Beauty são a mesma loja, no site thebarboursbeauty.com.br, e o cupom é um só: CECILIALINHARES, com 10% OFF.",
+          "São. Barbours, Barbour's e The Barbours Beauty são a mesma loja, no site thebarboursbeauty.com.br, e o cupom é um só: CECILIALINHARES, com 15% OFF.",
       },
       {
         question: 'O cupom soma com produtos em promoção?',
@@ -5610,7 +5610,7 @@ const STORE_COUPONS: Coupon[] = [
       {
         question: "Tem cupom Barbour's na Black Friday?",
         answer:
-          "Tem. O cupom Barbour's CECILIALINHARES dá 10% OFF no site oficial, em todas as formas de pagamento, e é o mesmo código do resto do ano.",
+          "Tem. O cupom Barbour's CECILIALINHARES dá 15% OFF no site oficial, em todas as formas de pagamento, e é o mesmo código do resto do ano.",
       },
       {
         question: "O cupom Barbour's vale na Black Friday?",
@@ -5652,7 +5652,7 @@ const STORE_COUPONS: Coupon[] = [
         publishedAt: '2026-11-18',
       },
       {
-        title: "Cupom Barbour's primeira compra: CECILIALINHARES dá 10% OFF e vale nas compras seguintes",
+        title: "Cupom Barbour's primeira compra: CECILIALINHARES dá 15% OFF e vale nas compras seguintes",
         url: '/reviews/cupom-barbours-primeira-compra',
         type: 'review',
         publishedAt: '2026-11-18',
@@ -5698,18 +5698,18 @@ const STORE_COUPONS: Coupon[] = [
     },
     code: 'CECILIA15',
     codeFieldLabel: 'Código de desconto ou cartão-presente',
-    discount: '20% OFF',
-    discountNumber: 20,
+    discount: '25% OFF',
+    discountNumber: 25,
     category: 'Barras de proteína, whey protein, creatina e snacks proteicos (Crunch, Tube e Wafer)',
     hubCategory: 'saude',
     hubCard: 'reduzido',
     shortDescription: 'todo o site da BOLD Snacks, inclusive os produtos em promoção',
     longDescription:
-      'O cupom BOLD Snacks CECILIA15 dá 20% OFF no site oficial, para quem compra pela primeira vez e para quem já é cliente, e soma com os preços em promoção: no nosso teste na Black Friday, os 20% entraram na BOLD Caixa Mista e num BOLD Whey já em promoção, além do preço de assinatura do BOLD Club.',
-    metaTitle: 'Cupom BOLD Snacks: 20% OFF com CECILIA15',
+      'O cupom BOLD Snacks CECILIA15 dá 25% OFF no site oficial, para quem compra pela primeira vez e para quem já é cliente, e soma com os preços em promoção: no nosso teste na Black Friday, os 20% entraram na BOLD Caixa Mista e num BOLD Whey já em promoção, além do preço de assinatura do BOLD Club.',
+    metaTitle: 'Cupom BOLD Snacks: 25% OFF com CECILIA15',
     metaTitleMonth: true,
     metaDescription:
-      'Cupom BOLD Snacks: CECILIA15 dá 20% OFF em barra de proteína e whey, para cliente novo ou antigo, e soma com as promoções. Testado no checkout.',
+      'Cupom BOLD Snacks: CECILIA15 dá 25% OFF em barra de proteína e whey, para cliente novo ou antigo, e soma com as promoções. Testado no checkout.',
     eligibleCategories: 'Produtos do site oficial da BOLD Snacks, inclusive os que estão em promoção e, no nosso teste, a assinatura BOLD Club',
     validity: 'Cupom ativo enquanto a parceria estiver vigente; o percentual pode mudar com as campanhas da loja',
     reusable: 'Pode ser usado por clientes novos e antigos',
@@ -5735,7 +5735,7 @@ const STORE_COUPONS: Coupon[] = [
       'Confira o código CECILIA15 embaixo de cada produto, com o valor do desconto, e o total antes de pagar.',
     ],
     aboutBrand:
-      'A BOLD Snacks é uma marca brasileira de snacks proteicos criada em 2018: barras de proteína BOLD em caixas de um sabor ou mistas, as linhas Crunch, Tube e Wafer, whey protein em potes e sachês e creatina, vendidos no site oficial. O cupom CECILIA15 é o benefício da parceria para quem acompanha o Em Casa com Cecília: 20% OFF no nosso teste, com qualquer forma de pagamento e também sobre os produtos em promoção.',
+      'A BOLD Snacks é uma marca brasileira de snacks proteicos criada em 2018: barras de proteína BOLD em caixas de um sabor ou mistas, as linhas Crunch, Tube e Wafer, whey protein em potes e sachês e creatina, vendidos no site oficial. O cupom CECILIA15 é o benefício da parceria para quem acompanha o Em Casa com Cecília: 25% OFF no nosso teste, com qualquer forma de pagamento e também sobre os produtos em promoção.',
     faqs: [
       {
         question: 'Qual é o cupom de desconto da BOLD?',
@@ -5745,10 +5745,10 @@ const STORE_COUPONS: Coupon[] = [
       {
         question: 'Quanto de desconto o cupom CECILIA15 dá na BOLD Snacks?',
         answer:
-          '20% OFF nos produtos do site oficial, confirmado em 25/11/2026 na Black Friday da loja. O cupom tirou R$ 69,60 de uma BOLD Caixa Mista e de um BOLD Whey em promoção que somavam R$ 348,00, e o checkout mostrou o desconto embaixo de cada produto.',
+          '25% OFF nos produtos do site oficial. Na Black Friday, o cupom tirou R$ 82,25 de um BOLD Whey Creme de Coco de 900 g em promoção, de R$ 329,00, que saiu por R$ 246,75.',
       },
       {
-        question: 'Por que o cupom se chama CECILIA15 e dá 20%?',
+        question: 'Por que o cupom se chama CECILIA15 e dá 25%?',
         answer:
           'O nome do código vem da parceria, mas no nosso teste, durante a campanha de Black Friday da loja, o CECILIA15 deu 20% em cada produto. O percentual pode mudar com as campanhas da BOLD: confira o desconto no resumo do checkout antes de pagar.',
       },
@@ -5758,12 +5758,12 @@ const STORE_COUPONS: Coupon[] = [
       },
       {
         question: 'Qual cupom BOLD vale para quem já é cliente?',
-        answer: 'O CECILIA15. Ele dá 20% no site oficial para quem compra pela primeira vez e para quem já comprou.',
+        answer: 'O CECILIA15. Ele dá 25% no site oficial para quem compra pela primeira vez e para quem já comprou.',
       },
       {
         question: 'O CECILIA15 é cupom de influenciadora da BOLD?',
         answer:
-          'Sim. CECILIA15 é o cupom do Em Casa com Cecília na BOLD Snacks e deu 20% OFF no site oficial no nosso teste, para clientes novos e antigos.',
+          'Sim. CECILIA15 é o cupom do Em Casa com Cecília na BOLD Snacks e deu 25% OFF no site oficial no nosso teste, para clientes novos e antigos.',
       },
       {
         question: 'O cupom soma com produtos em promoção?',
@@ -5793,7 +5793,7 @@ const STORE_COUPONS: Coupon[] = [
       {
         question: 'Tem cupom BOLD na Black Friday?',
         answer:
-          'Tem. O cupom BOLD Snacks CECILIA15 vale no site oficial, em todas as formas de pagamento, e no nosso teste de novembro deu 20% OFF.',
+          'Tem. O cupom BOLD Snacks CECILIA15 vale no site oficial, em todas as formas de pagamento, e no nosso teste de novembro deu 25% OFF.',
       },
       {
         question: 'O cupom BOLD vale na Black Friday?',
@@ -6308,18 +6308,18 @@ const STORE_COUPONS: Coupon[] = [
     },
     code: 'EMCASA',
     codeFieldLabel: 'Tem um cupom?',
-    discount: '10% OFF',
-    discountNumber: 10,
+    discount: '15% OFF',
+    discountNumber: 15,
     category: 'Vitaminas e suplementos: laranja moro, magnésio, ômega 3, colágeno, creatina e kits',
     hubCategory: 'saude',
     hubCard: 'reduzido',
     shortDescription: 'todo o site da Denavita, inclusive os produtos em promoção',
     longDescription:
-      'O cupom Denavita EMCASA dá 10% OFF no site oficial, para quem compra pela primeira vez e para quem já é cliente, e soma com os preços em promoção: nos nossos testes, os 10% entraram sobre vitaminas, suplementos e kits que já estavam com desconto. Vale em todas as formas de pagamento, inclusive no Pix.',
-    metaTitle: 'Cupom Denavita: 10% OFF com EMCASA',
+      'O cupom Denavita EMCASA dá 15% OFF no site oficial, para quem compra pela primeira vez e para quem já é cliente, e soma com os preços em promoção: nos nossos testes, os 10% entraram sobre vitaminas, suplementos e kits que já estavam com desconto. Vale em todas as formas de pagamento, inclusive no Pix.',
+    metaTitle: 'Cupom Denavita: 15% OFF com EMCASA',
     metaTitleMonth: true,
     metaDescription:
-      'Cupom Denavita: EMCASA dá 10% OFF em vitaminas e suplementos, para cliente novo ou antigo, e soma com as promoções do site. Testado no checkout.',
+      'Cupom Denavita: EMCASA dá 15% OFF em vitaminas e suplementos, para cliente novo ou antigo, e soma com as promoções do site. Testado no checkout.',
     eligibleCategories: 'Produtos do site oficial da Denavita, inclusive os que estão em promoção',
     validity: 'Cupom ativo enquanto a parceria estiver vigente',
     reusable: 'Pode ser usado por clientes novos e antigos',
@@ -6344,12 +6344,12 @@ const STORE_COUPONS: Coupon[] = [
       'Confira a linha Cupom de desconto, em Descontos, antes de seguir para a entrega e o pagamento.',
     ],
     aboutBrand:
-      'A Denavita é uma marca de vitaminas e suplementos vendida pelo site oficial, com cápsulas de laranja moro, magnésio, ômega 3, coenzima Q10, colágeno tipo II, NAC com polivitamínico, vinagre de maçã em gomas, creatina, colágeno em pó e kits. O cupom EMCASA é o benefício da parceria para quem acompanha o Em Casa com Cecília: 10% OFF, com qualquer forma de pagamento e também sobre os produtos em promoção.',
+      'A Denavita é uma marca de vitaminas e suplementos vendida pelo site oficial, com cápsulas de laranja moro, magnésio, ômega 3, coenzima Q10, colágeno tipo II, NAC com polivitamínico, vinagre de maçã em gomas, creatina, colágeno em pó e kits. O cupom EMCASA é o benefício da parceria para quem acompanha o Em Casa com Cecília: 15% OFF, com qualquer forma de pagamento e também sobre os produtos em promoção.',
     faqs: [
       {
         question: 'Quanto de desconto o cupom EMCASA dá na Denavita?',
         answer:
-          '10% OFF nos produtos do site oficial. No nosso teste, o cupom tirou R$ 21,87 de um carrinho de R$ 218,70, e o resumo do checkout mostrou o valor na linha Cupom de desconto.',
+          '15% OFF nos produtos do site oficial. Na Black Friday, o cupom tirou R$ 80,81 de um carrinho de R$ 538,70, e o resumo do checkout mostrou o valor na linha Cupom de desconto.',
       },
       {
         question: 'Os cupons de 15% e 20% que aparecem por aí funcionam na Denavita?',
@@ -6372,12 +6372,12 @@ const STORE_COUPONS: Coupon[] = [
       },
       {
         question: 'Qual cupom Denavita vale para quem já é cliente?',
-        answer: 'O EMCASA. Ele dá 10% no site oficial para quem compra pela primeira vez e para quem já comprou.',
+        answer: 'O EMCASA. Ele dá 15% no site oficial para quem compra pela primeira vez e para quem já comprou.',
       },
       {
         question: 'O EMCASA é cupom de influenciadora da Denavita?',
         answer:
-          'Sim. EMCASA é o cupom do Em Casa com Cecília na Denavita e dá 10% OFF no site oficial para clientes novos e antigos.',
+          'Sim. EMCASA é o cupom do Em Casa com Cecília na Denavita e dá 15% OFF no site oficial para clientes novos e antigos.',
       },
       {
         question: 'O cupom EMCASA está funcionando hoje?',
@@ -6392,7 +6392,7 @@ const STORE_COUPONS: Coupon[] = [
       {
         question: 'Tem cupom Denavita na Black Friday?',
         answer:
-          'Tem. O cupom Denavita EMCASA dá 10% OFF no site oficial, em todas as formas de pagamento, e é o mesmo código do resto do ano.',
+          'Tem. O cupom Denavita EMCASA dá 15% OFF no site oficial, em todas as formas de pagamento, e é o mesmo código do resto do ano.',
       },
       {
         question: 'O cupom Denavita vale na Black Friday?',
