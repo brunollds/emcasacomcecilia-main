@@ -9,9 +9,9 @@ category: "guias-praticos-utilidade"
 reviewKind: "guia"
 type: "Comparativo de Suplemento"
 anexo_tipo: "Anexo-Suplementos-Alimentos"
-status: "pauta-aprovada"
-responsavel: "Job-1"
-proxima_acao: "aguardando GO do Bruno para redação (Job 2) — reler preços regulares fora da Black Friday no dia da redação"
+status: "redigido"
+responsavel: "Job-6"
+proxima_acao: "aguardando aprovação visual da capa e autorização de upload FTPS ao CDN pelo Bruno"
 bloqueado_por: null
 data_criacao: "2026-11-27"
 pauta_id: "DV12"
@@ -50,3 +50,11 @@ Duelo direto (`X ou Y`) originado da rodada de reforço de 27/11/2026 ([[denavit
 5. **Cafeína, horário e cuidados do rótulo** (linkando `laranja-moro-denavita`).
 6. **Como pagar menos na Denavita (`EMCASA na Denavita`, avulso × `Compre 2 Leve 3` e frete)** + link `/cupons/denavita`.
 7. **Quadro `decision` (`takeIf` / `skipIf`)** + **Perguntas frequentes (4 itens)**.
+
+## 4. Decisões e Redação (27/11/2026)
+
+- **GO do Bruno em 27/11/2026** para redação e montagem das mídias (`content/reviews/laranja-moro-denavita-ou-desincha.json`, `id: 1491`).
+- **Ajustes factuais da conferência integral das fichas:** no suplemento em cápsulas `Laranja Moro HD` da Desinchá (`60 cápsulas`), a lista de ingredientes declara **cápsula de gelatina** (não vegana) e `"extrato de laranja moro"` sem citar `Morosil®` como ingrediente (o nome aparece apenas no título da pergunta 11 do FAQ da página). Preços de tabela e valores à vista lidos em `27/11/2026` registrados lado a lado, com `10% OFF` regulares do `EMCASA na Denavita` e menção datada aos `15% OFF` da campanha; releitura agendada fora da Black Friday (`28/11+`).
+- **Capa e imagens propostas (staging externo, aguardando aprovação visual e autorização de upload FTPS):**
+  - **Capa (`#1`):** `/images/reviews/denavita/laranja-moro-denavita-ou-desincha-hero.webp` (`1600×900`, WebP opaco RGB, `166.406` bytes, SHA-256 `29a1a3bfae5561a456770de4f8a69cd189a62863fff77e11c2b9e5f1ae77dc18`, `imageFit: "contain"`). Fonte inédita: galeria oficial Denavita (`SKU_LaranjaMoro-foto3.webp`, consultada em `27/11/2026`, zero sobreposição com capas/artigos anteriores e zero imagem/logo da concorrente).
+  - **Corpo (`#3`, v2 após revisão Gemini):** `/images/reviews/denavita/laranja-moro-denavita-destaque.webp` (`800×634`, WebP opaco RGB, `27.122` bytes, SHA-256 `044b5c61f58b9df518902f4fef097ff891079eec8344fc9e7793cbc35d106e8a`, `aspectRatio: 1.2618`). Fonte inédita em alta resolução: banner de destaque oficial Denavita (`BANNER_Destaque-Laranja_Moro-DESK.webp`, consultado em `27/11/2026`, sem a sobra vazia lateral; substitui a versão preliminar `512×256` descartada).

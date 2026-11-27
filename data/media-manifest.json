@@ -59253,6 +59253,60 @@
       "verification_status": "verified"
     },
     {
+      "source_path": "public/images/reviews/denavita/bio-magnesio-denavita-pote.webp",
+      "local_url": "/images/reviews/denavita/bio-magnesio-denavita-pote.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 27310,
+      "sha256": "24285e7d5e9468e570f6adfc89ec1c3f6fd4b5b19351608fa7cc582aac9c2372",
+      "width": 780,
+      "height": 780,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "bio-magnesio-denavita-pote.webp",
+      "storage_filename": "bio-magnesio-denavita-pote.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/trio-magnesio-ou-bio-magnesio-denavita.json",
+        "docs/Memoria de Artigos/memreview/02_Artigos/trio-magnesio-ou-bio-magnesio-denavita.md",
+        "src/lib/generated/content-index.ts"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/trio-magnesio-ou-bio-magnesio-denavita.json",
+          "line": 140,
+          "column": 19,
+          "literal": "/images/reviews/denavita/bio-magnesio-denavita-pote.webp",
+          "authority": "source"
+        },
+        {
+          "file": "docs/Memoria de Artigos/memreview/02_Artigos/trio-magnesio-ou-bio-magnesio-denavita.md",
+          "line": 60,
+          "column": 48,
+          "literal": "/images/reviews/denavita/bio-magnesio-denavita-pote.webp",
+          "authority": "source"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 358254,
+          "column": 21,
+          "literal": "/images/reviews/denavita/bio-magnesio-denavita-pote.webp",
+          "authority": "generated"
+        }
+      ],
+      "remote_key": "v1/image/24285e7d5e9468e570f6adfc89ec1c3f6fd4b5b19351608fa7cc582aac9c2372/bio-magnesio-denavita-pote.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/24285e7d5e9468e570f6adfc89ec1c3f6fd4b5b19351608fa7cc582aac9c2372/bio-magnesio-denavita-pote.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-11-27T16:29:56.075Z",
+      "verification_etag_or_digest": "24285e7d5e9468e570f6adfc89ec1c3f6fd4b5b19351608fa7cc582aac9c2372",
+      "verification_status": "verified"
+    },
+    {
       "source_path": "public/images/reviews/denavita/black-friday-denavita-capa.webp",
       "local_url": "/images/reviews/denavita/black-friday-denavita-capa.webp",
       "media_kind": "image",
@@ -61149,6 +61203,60 @@
       "verification_status": "verified"
     },
     {
+      "source_path": "public/images/reviews/denavita/laranja-moro-denavita-destaque.webp",
+      "local_url": "/images/reviews/denavita/laranja-moro-denavita-destaque.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 27122,
+      "sha256": "044b5c61f58b9df518902f4fef097ff891079eec8344fc9e7793cbc35d106e8a",
+      "width": 800,
+      "height": 634,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "laranja-moro-denavita-destaque.webp",
+      "storage_filename": "laranja-moro-denavita-destaque.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/laranja-moro-denavita-ou-desincha.json",
+        "docs/Memoria de Artigos/memreview/02_Artigos/laranja-moro-denavita-ou-desincha.md",
+        "src/lib/generated/content-index.ts"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/laranja-moro-denavita-ou-desincha.json",
+          "line": 149,
+          "column": 19,
+          "literal": "/images/reviews/denavita/laranja-moro-denavita-destaque.webp",
+          "authority": "source"
+        },
+        {
+          "file": "docs/Memoria de Artigos/memreview/02_Artigos/laranja-moro-denavita-ou-desincha.md",
+          "line": 60,
+          "column": 48,
+          "literal": "/images/reviews/denavita/laranja-moro-denavita-destaque.webp",
+          "authority": "source"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 357960,
+          "column": 21,
+          "literal": "/images/reviews/denavita/laranja-moro-denavita-destaque.webp",
+          "authority": "generated"
+        }
+      ],
+      "remote_key": "v1/image/044b5c61f58b9df518902f4fef097ff891079eec8344fc9e7793cbc35d106e8a/laranja-moro-denavita-destaque.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/044b5c61f58b9df518902f4fef097ff891079eec8344fc9e7793cbc35d106e8a/laranja-moro-denavita-destaque.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-11-27T16:29:56.076Z",
+      "verification_etag_or_digest": "044b5c61f58b9df518902f4fef097ff891079eec8344fc9e7793cbc35d106e8a",
+      "verification_status": "verified"
+    },
+    {
       "source_path": "public/images/reviews/denavita/laranja-moro-denavita-hero-pt-v2.webp",
       "local_url": "/images/reviews/denavita/laranja-moro-denavita-hero-pt-v2.webp",
       "media_kind": "image",
@@ -61265,6 +61373,60 @@
       "verification_status": "verified"
     },
     {
+      "source_path": "public/images/reviews/denavita/laranja-moro-denavita-ou-desincha-hero.webp",
+      "local_url": "/images/reviews/denavita/laranja-moro-denavita-ou-desincha-hero.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 166406,
+      "sha256": "29a1a3bfae5561a456770de4f8a69cd189a62863fff77e11c2b9e5f1ae77dc18",
+      "width": 1600,
+      "height": 900,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "laranja-moro-denavita-ou-desincha-hero.webp",
+      "storage_filename": "laranja-moro-denavita-ou-desincha-hero.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/laranja-moro-denavita-ou-desincha.json",
+        "docs/Memoria de Artigos/memreview/02_Artigos/laranja-moro-denavita-ou-desincha.md",
+        "src/lib/generated/content-index.ts"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/laranja-moro-denavita-ou-desincha.json",
+          "line": 29,
+          "column": 13,
+          "literal": "/images/reviews/denavita/laranja-moro-denavita-ou-desincha-hero.webp",
+          "authority": "source"
+        },
+        {
+          "file": "docs/Memoria de Artigos/memreview/02_Artigos/laranja-moro-denavita-ou-desincha.md",
+          "line": 59,
+          "column": 23,
+          "literal": "/images/reviews/denavita/laranja-moro-denavita-ou-desincha-hero.webp",
+          "authority": "source"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 357840,
+          "column": 15,
+          "literal": "/images/reviews/denavita/laranja-moro-denavita-ou-desincha-hero.webp",
+          "authority": "generated"
+        }
+      ],
+      "remote_key": "v1/image/29a1a3bfae5561a456770de4f8a69cd189a62863fff77e11c2b9e5f1ae77dc18/laranja-moro-denavita-ou-desincha-hero.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/29a1a3bfae5561a456770de4f8a69cd189a62863fff77e11c2b9e5f1ae77dc18/laranja-moro-denavita-ou-desincha-hero.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-11-27T16:29:56.076Z",
+      "verification_etag_or_digest": "29a1a3bfae5561a456770de4f8a69cd189a62863fff77e11c2b9e5f1ae77dc18",
+      "verification_status": "verified"
+    },
+    {
       "source_path": "public/images/reviews/denavita/laranja-moro-denavita-pote.webp",
       "local_url": "/images/reviews/denavita/laranja-moro-denavita-pote.webp",
       "media_kind": "image",
@@ -61332,6 +61494,60 @@
       "uploaded_at": null,
       "verified_at": "2026-11-19T23:41:19.978Z",
       "verification_etag_or_digest": "7518505fffdbdd005658cd95c08c7c85f9b0f4708d49860c01a27068a007d2bf",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/denavita/trio-magnesio-ou-bio-magnesio-denavita-hero.webp",
+      "local_url": "/images/reviews/denavita/trio-magnesio-ou-bio-magnesio-denavita-hero.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 77576,
+      "sha256": "0618fca6dc12f71c058af7549ef03e7a3141ca9880b9cadb7160a34e4ee7c194",
+      "width": 1600,
+      "height": 900,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "trio-magnesio-ou-bio-magnesio-denavita-hero.webp",
+      "storage_filename": "trio-magnesio-ou-bio-magnesio-denavita-hero.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/trio-magnesio-ou-bio-magnesio-denavita.json",
+        "docs/Memoria de Artigos/memreview/02_Artigos/trio-magnesio-ou-bio-magnesio-denavita.md",
+        "src/lib/generated/content-index.ts"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/trio-magnesio-ou-bio-magnesio-denavita.json",
+          "line": 29,
+          "column": 13,
+          "literal": "/images/reviews/denavita/trio-magnesio-ou-bio-magnesio-denavita-hero.webp",
+          "authority": "source"
+        },
+        {
+          "file": "docs/Memoria de Artigos/memreview/02_Artigos/trio-magnesio-ou-bio-magnesio-denavita.md",
+          "line": 59,
+          "column": 57,
+          "literal": "/images/reviews/denavita/trio-magnesio-ou-bio-magnesio-denavita-hero.webp",
+          "authority": "source"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 358143,
+          "column": 15,
+          "literal": "/images/reviews/denavita/trio-magnesio-ou-bio-magnesio-denavita-hero.webp",
+          "authority": "generated"
+        }
+      ],
+      "remote_key": "v1/image/0618fca6dc12f71c058af7549ef03e7a3141ca9880b9cadb7160a34e4ee7c194/trio-magnesio-ou-bio-magnesio-denavita-hero.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/0618fca6dc12f71c058af7549ef03e7a3141ca9880b9cadb7160a34e4ee7c194/trio-magnesio-ou-bio-magnesio-denavita-hero.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-11-27T16:29:56.076Z",
+      "verification_etag_or_digest": "0618fca6dc12f71c058af7549ef03e7a3141ca9880b9cadb7160a34e4ee7c194",
       "verification_status": "verified"
     },
     {
