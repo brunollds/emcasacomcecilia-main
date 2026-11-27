@@ -352952,7 +352952,7 @@ const reviewsChunk2: unknown[] = [
       {
         "heading": "Resposta rápida",
         "paragraphs": [
-          "A Starlink Mini X com Mini Roteador entregou internet estável em 15 a 20 minutos e bateu 200 Mbps no primeiro teste na varanda, servindo bem contra fibra instável. Novos clientes no Brasil e em Portugal recebem crédito de R$ 200 (45 € em Portugal), além das promoções na antena e na mensalidade."
+          "A Starlink Mini X com Mini Roteador entregou internet estável em 15 a 20 minutos e bateu 200 Mbps no primeiro teste na varanda, servindo bem contra fibra instável. Novos clientes recebem crédito de R$ 200 no Brasil ou 45 € em Portugal, além das promoções na antena e na mensalidade."
         ],
         "links": [
           {
@@ -352967,7 +352967,7 @@ const reviewsChunk2: unknown[] = [
         "paragraphs": [
           "Quando a fibra do bairro oscila ou cai no meio do trabalho, ter um link independente compensa mesmo em endereço urbano atendido por cabo.",
           "Em 19/11/2026 comprei o kit da Starlink Mini X no plano Residencial Max. O kit veio com a antena, os acessórios da fonte e um Mini Roteador com base própria. O pedido chegou sete dias depois, em 26/11/2026, bem embalado, com cada peça separada nas divisórias de polpa moldada.",
-          "Logo após fechar a compra no site oficial, consegui agendar a instalação profissional gratuita incluída no plano brasileiro diretamente em um site externo indicado pela própria Starlink, com visita prevista para 10/12/2026. Se você pretende assinar pela primeira vez, abrir o pedido em starlink.com pelo link oficial da [página de indicação Starlink](/cupons/starlink) garante R$ 200 de crédito na fatura no Brasil (ou 45 € em Portugal) depois de dois ciclos pagos em dia, e quem indicou recebe o mesmo valor, além da janela de 30 dias para testar e devolver o kit sem danos caso o sinal não atenda ao endereço."
+          "Logo após fechar a compra no site oficial, consegui agendar a instalação profissional gratuita incluída no plano brasileiro diretamente em um site externo indicado pela própria Starlink, com visita prevista para 10/12/2026. Se você pretende assinar pela primeira vez, abrir o pedido em starlink.com pelo link oficial da [página de indicação Starlink](/cupons/starlink) garante crédito na fatura de R$ 200 no Brasil ou 45 € em Portugal depois de dois ciclos pagos em dia, e quem indicou recebe o mesmo valor, além da janela de 30 dias para testar e devolver o kit sem danos caso o sinal não atenda ao endereço."
         ],
         "comparisonTable": {
           "caption": "Itens recebidos no meu pedido no plano Residencial Max e especificações visíveis nas etiquetas.",
@@ -353170,7 +353170,7 @@ const reviewsChunk2: unknown[] = [
       }
     ],
     "cta": {
-      "text": "O pedido abre em starlink.com pelo link oficial de indicação, mostrando preços no seu CEP com 30 dias para testar e devolver sem danos. No Brasil, o bônus de R$ 200 (45 € em Portugal) entra na fatura após dois ciclos pagos.",
+      "text": "O pedido abre em starlink.com pelo link oficial de indicação, mostrando preços no seu CEP com 30 dias para testar e devolver sem danos. O bônus de R$ 200 no Brasil ou 45 € em Portugal entra na fatura após dois ciclos pagos.",
       "label": "Consultar CEP e garantir o bônus de R$ 200 / 45 €",
       "url": "https://starlink.com/?referral=RC-DF-17132118-63432-88",
       "sponsored": true
@@ -355000,7 +355000,7 @@ const reviewsChunk2: unknown[] = [
       }
     ],
     "cta": {
-      "text": "공식 추천 링크로 starlink.com을 열면 내 주소의 요금과 30일 내 손상 없는 반품 조건을 확인할 수 있습니다. 2주기 정상 납부 후 다음 청구서에 반영되는 한국 추천 금액(65,000원)은 결제 전 주문 화면에서 꼭 확인하세요.",
+      "text": "공식 추천 링크로 starlink.com을 열면 내 주소의 요금과 30일 내 손상 없는 반품 조건을 확인할 수 있습니다. 2주기 정상 납부 후 청구서에 반영되는 한국 추천 금액(65,000원)은 결제 전 주문 화면에서 꼭 확인하세요.",
       "label": "주소 조회하고 65,000원 추천 보너스 챙기기",
       "url": "https://starlink.com/?referral=RC-DF-17132118-63432-88",
       "sponsored": true
@@ -356002,7 +356002,7 @@ const reviewsChunk2: unknown[] = [
       {
         "heading": "الإجابة السريعة",
         "paragraphs": [
-          "وفّر لي طقم Starlink Mini X مع راوتر ميني اتصالًا مستقرًا خلال 15 إلى 20 دقيقة وحقق 200 ميجابت في أول فحص على الشرفة كبديل للألياف المتقطعة. يحصل العملاء الجدد في قطر والإمارات على رصيد قدره 160 ر.ق. (قطر) أو 150 د.إ. (الإمارات)، إضافة إلى العروض السارية على الطقم والاشتراك الشهري."
+          "وفّر لي طقم Starlink Mini X مع راوتر ميني اتصالًا مستقرًا خلال 15 إلى 20 دقيقة وحقق 200 ميجابت في أول فحص على الشرفة كبديل للألياف المتقطعة. يحصل العملاء الجدد على رصيد قدره 160 ر.ق. في قطر أو 150 د.إ. في الإمارات، إضافة إلى العروض السارية على الطقم والاشتراك الشهري."
         ],
         "links": [
           {
