@@ -9,7 +9,7 @@ category: "guias-praticos-utilidade"
 reviewKind: "guia"
 type: "Comparativo de Skincare"
 anexo_tipo: "Anexo-Beleza"
-status: "pauta-aprovada"
+status: "pronto-para-deploy"
 responsavel: "Job-1"
 proxima_acao: "redação (Job 2) — prioridade #6 da fila do Bruno em 26/11 (absorve a antiga SO2 do estoque)"
 bloqueado_por: null
