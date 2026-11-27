@@ -288982,6 +288982,39 @@ const reviewsChunk2: unknown[] = [
         ]
       },
       {
+        "heading": "Trio de Favoritos ou os três potes separados?",
+        "paragraphs": [
+          "Na vitrine de mais vendidos e nos anúncios da marca, o principal pacote misto é o [Trio de Favoritos](https://www.denavita.com.br/products/trio-de-favoritos), que junta três suplementos para 30 dias cada: um pote de Laranja Moro (30 cápsulas), um de NAC + Polivitamínico A a Z (60 cápsulas) e um de Trio Magnésio (60 cápsulas).",
+          "Na simulação feita em 27/11 no checkout seguro.denavita.com.br (quando o EMCASA aplicou 15% OFF na campanha de Black Friday, acima dos 10% regulares), colocar os três potes avulsos na gaveta acendeu o aviso de produto grátis na etapa seguinte, mas o desconto de Leve 3, Pague 2 não apareceu naquele carrinho antes da identificação. Pelos totais registrados no resumo, o kit economizou R$ 38,93 com o código antes do frete (R$ 45,80 sem o código)."
+        ],
+        "comparisonTable": {
+          "caption": "Resumo lido em seguro.denavita.com.br antes da identificação e do frete, na campanha da Black Friday (fora da data promocional, confira o preço vigente e os 10% regulares do EMCASA).",
+          "headers": [
+            "Formato no carrinho",
+            "O que entra (30 dias cada)",
+            "Produtos na ocasião",
+            "Com EMCASA no teste (15% na campanha)"
+          ],
+          "rows": [
+            [
+              "[Trio de Favoritos](https://www.denavita.com.br/products/trio-de-favoritos) (kit pronto)",
+              "Laranja Moro + NAC + Trio Magnésio",
+              "R$ 138,90",
+              "R$ 118,07 (-R$ 20,84)"
+            ],
+            [
+              "Os 3 potes avulsos no mesmo carrinho",
+              "Laranja Moro (R$ 89,90) + NAC (R$ 49,90) + Trio Magnésio (R$ 44,90)",
+              "R$ 184,70",
+              "R$ 157,00 (-R$ 27,71)"
+            ]
+          ]
+        },
+        "postParagraphs": [
+          "A regra de incidência do piso do frete grátis (antes ou depois do código) segue para conferir no checkout ao preencher o CEP: nessa leitura, o kit ficou abaixo do piso promocional de R$ 139 nos dois momentos (R$ 138,90 → R$ 118,07) e os três avulsos ficaram acima nas duas leituras (R$ 184,70 → R$ 157,00)."
+        ]
+      },
+      {
         "heading": "Onde aplicar o cupom, entrega e devolução",
         "paragraphs": [
           "Para usar o código, finalize o carrinho até o checkout em seguro.denavita.com.br, digite o cupom EMCASA da Denavita no campo “Tem um cupom?” e clique em “Adicionar”; o abatimento de 10% aparece na linha “Cupom de desconto” do resumo, funcionando para clientes novos e antigos no cartão em até 12x e também no Pix. Veja o passo a passo de tela em [como usar o cupom Denavita](/reviews/cupom-denavita-como-usar).",
@@ -289013,7 +289046,7 @@ const reviewsChunk2: unknown[] = [
         ]
       }
     ],
-    "updatedAt": "2026-11-24"
+    "updatedAt": "2026-11-27"
   },
   {
     "id": 1117,
