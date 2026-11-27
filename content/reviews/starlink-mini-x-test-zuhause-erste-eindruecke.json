@@ -174,7 +174,7 @@
       "heading": "Gemessenes Tempo auf dem Balkon und Hindernisse nach zwei Stunden",
       "paragraphs": [
         "Selbst provisorisch auf dem Schlafzimmerbalkon mit teilweiser Abschattung hielt die Verbindung während der ersten zwei Stunden ohne einen einzigen Aussetzer durch.",
-        "Bei meinem ersten Speedtest direkt nach dem Start des Netzes maß ich 200 Mbit/s im Download, 19 Mbit/s im Upload und 25 ms Ping. Um das Dauerverhalten zu prüfen, ließ ich eine Aufgabe in Air Explorer laufen, die mein Backup von OneDrive zu Google Drive übertrug: In über einer Stunde am Stück gingen mehr als 10 GB durch, und obwohl die Übertragungsrate unter meiner verkabelten Hausleitung liegt, lief die Übertragung während des gesamten beobachteten Zeitraums stabil.",
+        "Bei meinem ersten Speedtest direkt nach dem Start des Netzes maß ich 200 Mbit/s im Download, 19 Mbit/s im Upload und 25 ms Ping. Um das Dauerverhalten zu prüfen, ließ ich eine Aufgabe in Air Explorer laufen, die mein Backup von OneDrive zu Google Drive übertrug: In über einer Stunde am Stück gingen 2 GB durch, und obwohl die Übertragungsrate unter meiner verkabelten Hausleitung liegt, lief die Übertragung während des gesamten beobachteten Zeitraums stabil.",
         "Nach zwei Stunden Betrieb bestätigte die Hinderniskarte der App das Erwartete: Die seitliche Nische auf dem Balkon bietet nicht den freiesten Himmel des Grundstücks, dennoch lief alles flüssig und unterbrechungsfrei. Die App weist selbst darauf hin, dass sie einige Stunden zur Kalibrierung und Vervollständigung der Karte benötigt, sodass sich Geduld vor dem endgültigen Urteil lohnt. Bei mir dürfte vor allem die feste Dachmontage das Maximum nach oben verschieben. Starlink garantiert keine feste Mindestgeschwindigkeit pro Tarif, und die Werte variieren je nach Region und freier Sicht."
       ],
       "metrics": {
@@ -206,7 +206,7 @@
         ],
         "summary": {
           "badge": "Stabil ohne Ausfälle",
-          "text": "Keine Abbrüche in 2 Stunden auf dem Balkon (trotz teilweiser Abschattung) und stabile Übertragung von über 10 GB in mehr als 1 Stunde zwischen Clouds."
+          "text": "Keine Abbrüche in 2 Stunden auf dem Balkon (trotz teilweiser Abschattung) und stabile Übertragung von 2 GB in mehr als 1 Stunde zwischen Clouds."
         }
       },
       "image": {
@@ -236,7 +236,7 @@
       "heading": "Erste Eindrücke: Was überzeugt hat und was Vorsicht verlangt",
       "paragraphs": [
         "Wer unter Glasfaserausfällen leidet oder das Signal vor dem Technikertermin ohne Bohren am Dach prüfen möchte, erlebt schon in den ersten provisorischen Stunden genug Stabilität.",
-        "Zum Auftakt gefielen mir die aufgeräumte Verpackung, die werkzeuglose Aktivierung, die aussetzerfreie Verbindung trotz teilweiser Abschattung, die über mehr als eine Stunde stabile Cloud-Übertragung von über 10 GB, die schnelle Terminbuchung für die kostenlose Montage und das starke Wohnzimmersignal nach dem Umstellen des Router Mini.",
+        "Zum Auftakt gefielen mir die aufgeräumte Verpackung, die werkzeuglose Aktivierung, die aussetzerfreie Verbindung trotz teilweiser Abschattung, die über mehr als eine Stunde stabile Cloud-Übertragung von 2 GB, die schnelle Terminbuchung für die kostenlose Montage und das starke Wohnzimmersignal nach dem Umstellen des Router Mini.",
         "Auf der anderen Seite sollte man den automatischen WLAN-Wechsel am Smartphone abschalten, dem Router Mini ein paar Minuten zum Auftauchen in der App lassen und die ersten Kalibrierungsstunden abwarten. In großen oder stark verwinkelten Häusern lohnt es sich zudem, ein bis zwei Zusatzknoten einzuplanen.",
         "Ich aktualisiere diesen Bericht nach der festen Dachmontage am 10.12.2026. Bislang habe ich weder anhaltenden Starkregen erlebt noch das Kabel auf voller Länge ausgerollt oder Antenne und Router per LAN verbunden. Falls Sie noch zwischen den Modellen schwanken, sehen Sie sich auch meinen [Vergleich zwischen Starlink Mini und Standard](/de/reviews/starlink-mini-oder-standard-vergleich) an."
       ],
@@ -263,7 +263,7 @@
       "heading": "Häufige Fragen",
       "bullets": [
         "Wie lange dauert die Ersteinrichtung der Starlink Mini X? Von der Steckdose bis zum Surfen samt Update und Ausrichtung vergingen bei mir unter zwanzig Minuten; im Abschnitt zur Aktivierung zeige ich, wie das Handy im provisorischen WLAN bleibt.",
-        "Welches Tempo erreichte Starlink Mini X auf dem Balkon? Bei meinem ersten Test auf dem Balkon maß ich 200 Mbit/s im Download, 19 Mbit/s im Upload und 25 ms Ping. Die Leitung blieb zwei Stunden ohne Abbruch stabil trotz teilweiser Abschattung, und die Übertragung von mehr als 10 GB in über einer Stunde lief während des gesamten beobachteten Zeitraums stabil.",
+        "Welches Tempo erreichte Starlink Mini X auf dem Balkon? Bei meinem ersten Test auf dem Balkon maß ich 200 Mbit/s im Download, 19 Mbit/s im Upload und 25 ms Ping. Die Leitung blieb zwei Stunden ohne Abbruch stabil trotz teilweiser Abschattung, und die Übertragung von 2 GB in über einer Stunde lief während des gesamten beobachteten Zeitraums stabil.",
         "Reicht Starlink Mini X allein für ein großes Haus mit dicken Wänden? In meinem Grundriss nicht; mit dem günstig im Erdgeschoss platzierten Router Mini aus dem Kit stieg der Empfang im Hauptwohnzimmer nahe ans Maximum, größere Häuser brauchen teils einen zweiten Knoten.",
         "Muss man vor der festen Montage für einen Test ins Dach bohren? Nein; es reicht, die Antenne sicher mit Blick zum Himmel neben einer Steckdose aufzustellen, um den Dienst innerhalb der 30-Tage-Rückgabefrist zu testen.",
         "Wie funktioniert die Gutschrift über den Starlink-Empfehlungslink? Neukunden, die über den offiziellen Link auf starlink.com bestellen und zwei Abrechnungszyklen bezahlen, erhalten 45 € als Gutschrift auf die nächste Rechnung, wie ich im Abschnitt zu Lieferung und Bestellung erkläre."

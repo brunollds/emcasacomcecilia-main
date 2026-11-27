@@ -353047,7 +353047,7 @@ const reviewsChunk2: unknown[] = [
         "heading": "Velocidade medida na varanda e obstruções após duas horas",
         "paragraphs": [
           "Mesmo apoiada provisoriamente na varanda da suíte com obstrução parcial, a conexão segurou sem nenhuma queda durante as primeiras duas horas de uso.",
-          "No meu primeiro teste de velocidade registrado logo após subir a rede, medi 200 Mbps de download, 19 Mbps de upload e 25 ms de ping. Para ver o comportamento em carga contínua, deixei uma tarefa no Air Explorer transferindo um backup do OneDrive para o Google Drive: em mais de uma hora seguida passaram mais de 10 GB e, mesmo com taxa de envio menor que a da minha internet cabeada, a transferência seguiu estável durante o período que acompanhei.",
+          "No meu primeiro teste de velocidade registrado logo após subir a rede, medi 200 Mbps de download, 19 Mbps de upload e 25 ms de ping. Para ver o comportamento em carga contínua, deixei uma tarefa no Air Explorer transferindo um backup do OneDrive para o Google Drive: em mais de uma hora seguida passaram 2 GB e, mesmo com taxa de envio menor que a da minha internet cabeada, a transferência seguiu estável durante o período que acompanhei.",
           "Depois de duas horas ligada, o mapa de obstruções do app confirmou o esperado: o encaixe lateral da varanda não é o melhor ponto da casa em termos de céu aberto, embora tudo tenha funcionado liso e sem interrupções. O próprio aplicativo avisa que precisa de algumas horas para se adequar e completar o mapa, então vale ter paciência antes de julgar o sinal. No meu caso, o que tende a melhorar na fixação definitiva no telhado é o teto de velocidade máxima. A Starlink não garante velocidade mínima fixa por assinatura, e os números podem variar por região e visada."
         ],
         "metrics": {
@@ -353079,7 +353079,7 @@ const reviewsChunk2: unknown[] = [
           ],
           "summary": {
             "badge": "Estável sem quedas",
-            "text": "Sem quedas em 2 horas na varanda (mesmo com obstrução parcial) e transferência estável de mais de 10 GB em mais de 1 hora entre nuvens."
+            "text": "Sem quedas em 2 horas na varanda (mesmo com obstrução parcial) e transferência estável de 2 GB em mais de 1 hora entre nuvens."
           }
         },
         "image": {
@@ -353109,7 +353109,7 @@ const reviewsChunk2: unknown[] = [
         "heading": "Primeiras impressões: o que agradou e o que exige cuidado",
         "paragraphs": [
           "Para quem sofre com fibra que cai ou precisa validar o sinal sem furar o telhado antes da visita técnica, o conjunto já mostrou estabilidade suficiente logo nas primeiras horas provisórias.",
-          "Nesta estreia, chamaram atenção a caixa organizada, a ativação simples sem ferramentas, a navegação estável mesmo em ponto provisório com obstrução parcial, a transferência estável de mais de 10 GB em mais de uma hora de backup em nuvem, o agendamento rápido da instalação gratuita e a melhora de sinal na sala principal ao reposicionar o Mini Roteador.",
+          "Nesta estreia, chamaram atenção a caixa organizada, a ativação simples sem ferramentas, a navegação estável mesmo em ponto provisório com obstrução parcial, a transferência estável de 2 GB em mais de uma hora de backup em nuvem, o agendamento rápido da instalação gratuita e a melhora de sinal na sala principal ao reposicionar o Mini Roteador.",
           "Do outro lado, vale desligar a troca automática de Wi-Fi no celular, aguardar alguns minutos até o Mini Roteador surgir no aplicativo e respeitar as primeiras horas de calibração. Em casas grandes ou muito divididas, também faz sentido planejar um ou dois nós adicionais.",
           "Vou atualizar este relato depois da instalação definitiva prevista para 10/12/2026 no telhado. Por enquanto, ainda não peguei chuva forte prolongada nem usei o cabo esticado ao máximo ou ligação cabeada entre a antena e o roteador. Se você ainda compara os modelos da marca, veja também o [comparativo entre Starlink Mini e Padrão](/reviews/starlink-mini-ou-padrao-qual-escolher)."
         ],
@@ -353136,7 +353136,7 @@ const reviewsChunk2: unknown[] = [
         "heading": "Perguntas frequentes",
         "bullets": [
           "Quanto tempo leva para configurar a Starlink Mini X pela primeira vez? Levou menos de vinte minutos da tomada até navegar com atualização e alinhamento; veja no capítulo de ativação como evitar que o celular abandone a rede provisória.",
-          "Qual velocidade a Starlink Mini X atingiu apoiada na varanda? No primeiro teste na minha varanda, medi 200 Mbps de download, 19 Mbps de upload e 25 ms de ping. A conexão ficou duas horas sem quedas mesmo com obstrução parcial, e a transferência de mais de 10 GB em mais de uma hora seguiu estável durante o período que acompanhei.",
+          "Qual velocidade a Starlink Mini X atingiu apoiada na varanda? No primeiro teste na minha varanda, medi 200 Mbps de download, 19 Mbps de upload e 25 ms de ping. A conexão ficou duas horas sem quedas mesmo com obstrução parcial, e a transferência de 2 GB em mais de uma hora seguiu estável durante o período que acompanhei.",
           "A Starlink Mini X sozinha cobre uma casa grande com paredes grossas? Não no meu cenário; com o Mini Roteador do kit reposicionado em um ponto livre no térreo, o sinal chegou perto do máximo na sala principal, e casas maiores podem precisar de um segundo nó.",
           "Precisa furar o telhado para testar antes da instalação definitiva? Não; basta apoiar a antena em local firme com vista para o céu e tomada próxima para validar o serviço dentro da janela de 30 dias de devolução.",
           "Como funciona o bônus pelo link de indicação da Starlink? Para novos clientes que pedem em starlink.com pelo link oficial e mantêm dois ciclos pagos, entram R$ 200 no Brasil ou 45 € em Portugal como crédito na fatura seguinte, como explico no capítulo de entrega e pedido."
@@ -353352,7 +353352,7 @@ const reviewsChunk2: unknown[] = [
         "heading": "Balcony speeds and obstructions after two hours",
         "paragraphs": [
           "Even resting temporarily on the master suite balcony with partial sky obstruction, the link held steady without a single drop during the first two hours of use.",
-          "On my first speed test right after the network came up, I hit 200 Mbps download, 19 Mbps upload and 25 ms ping. To check sustained heavy usage, I left an Air Explorer task backing up from OneDrive to Google Drive: more than 10 GB transferred in over an hour straight, and even though the transfer rate is lower than my wired home fiber, the transfer stayed steady throughout the period I monitored.",
+          "On my first speed test right after the network came up, I hit 200 Mbps download, 19 Mbps upload and 25 ms ping. To check sustained heavy usage, I left an Air Explorer task backing up from OneDrive to Google Drive: 2 GB transferred in over an hour straight, and even though the transfer rate is lower than my wired home fiber, the transfer stayed steady throughout the period I monitored.",
           "After two hours online, the app's obstruction map confirmed what I expected: tucking the dish against the side of the balcony is not the clearest spot on the property, yet everything ran smoothly with zero interruptions. The app itself notes that it needs a few hours to settle and complete the sky map, so it pays to be patient before judging signal quality. In my case, permanent roof mounting should raise the peak speed ceiling. Starlink does not guarantee a fixed minimum speed per plan, and results vary by region and sky clearance."
         ],
         "metrics": {
@@ -353384,7 +353384,7 @@ const reviewsChunk2: unknown[] = [
           ],
           "summary": {
             "badge": "Steady with zero drops",
-            "text": "Zero drops in 2 hours on the balcony (despite partial obstruction) and steady transfer of 10 GB+ in over 1 hour between clouds."
+            "text": "Zero drops in 2 hours on the balcony (despite partial obstruction) and steady transfer of 2 GB in over 1 hour between clouds."
           }
         },
         "image": {
@@ -353414,7 +353414,7 @@ const reviewsChunk2: unknown[] = [
         "heading": "First impressions: what stood out and what needs care",
         "paragraphs": [
           "If you deal with fiber dropouts or want to verify real-world signal before drilling into your roof ahead of the technician visit, the setup already delivered plenty of stability during its first temporary hours.",
-          "Right out of the gate, I appreciated the tidy packaging, tool-free activation, drop-free browsing even in a partially obstructed spot, steady cloud backup transfers moving 10 GB+ in over an hour, effortless booking of free professional installation and the stronger living room signal after repositioning the Router Mini.",
+          "Right out of the gate, I appreciated the tidy packaging, tool-free activation, drop-free browsing even in a partially obstructed spot, steady cloud backup transfers moving 2 GB in over an hour, effortless booking of free professional installation and the stronger living room signal after repositioning the Router Mini.",
           "On the flip side, remember to disable automatic Wi-Fi switching on your phone, give the Router Mini a few minutes to appear in the app and wait out the first few hours of sky calibration. In large or multi-room homes, it also makes sense to budget for one or two extra mesh nodes.",
           "I will update this review after the permanent roof installation scheduled for December 10, 2026. So far, I have not tested prolonged heavy rain, extended the cable to its full reach or wired the dish to the router via Ethernet. If you are still weighing Starlink models, also read my [Starlink Mini vs Standard comparison](/en/reviews/starlink-mini-vs-standard-which-to-choose)."
         ],
@@ -353441,7 +353441,7 @@ const reviewsChunk2: unknown[] = [
         "heading": "Frequently asked questions",
         "bullets": [
           "How long does it take to set up Starlink Mini X for the first time? It took under twenty minutes from plugging into the outlet to browsing online with updates and alignment; check the activation section for how to keep your phone from leaving the temporary Wi-Fi network.",
-          "What speed did Starlink Mini X reach resting on the balcony? On my first balcony test I measured 200 Mbps download, 19 Mbps upload and 25 ms ping. It held steady with zero drops for two hours despite partial obstruction, and transferring more than 10 GB in over an hour stayed steady throughout the period I monitored.",
+          "What speed did Starlink Mini X reach resting on the balcony? On my first balcony test I measured 200 Mbps download, 19 Mbps upload and 25 ms ping. It held steady with zero drops for two hours despite partial obstruction, and transferring 2 GB in over an hour stayed steady throughout the period I monitored.",
           "Does Starlink Mini X alone cover a large home with thick walls? Not in my layout; once I repositioned the kit's Router Mini at a clear spot on the ground floor, signal hit near full bars in the main living room, and larger homes may need a second node.",
           "Do you have to drill the roof to test before permanent installation? No; simply resting the dish firmly with a clear view of the sky near a power outlet lets you test the service within the 30-day return window.",
           "How does the Starlink referral link bonus work? For new customers who order on starlink.com via the official link and keep two paid billing cycles, US$ 100 in the US or £40 in the UK is applied as a bill credit, as I explain in the delivery and order section."
@@ -353657,7 +353657,7 @@ const reviewsChunk2: unknown[] = [
         "heading": "Velocidad medida en el balcón y obstrucciones tras dos horas",
         "paragraphs": [
           "Incluso apoyada de forma provisional en el balcón del dormitorio con obstrucción parcial, la conexión se mantuvo sin ni un solo corte durante las primeras dos horas de uso.",
-          "En mi primera prueba de velocidad justo al activarse la red, medí 200 Mbps de bajada, 19 Mbps de subida y 25 ms de ping. Para comprobar la estabilidad bajo carga continua, dejé una tarea en Air Explorer transfiriendo una copia de seguridad de OneDrive a Google Drive: en más de una hora seguida pasaron más de 10 GB y, aunque la tasa de envío es menor que la de mi internet cableado, la transferencia siguió estable durante el período que supervisé.",
+          "En mi primera prueba de velocidad justo al activarse la red, medí 200 Mbps de bajada, 19 Mbps de subida y 25 ms de ping. Para comprobar la estabilidad bajo carga continua, dejé una tarea en Air Explorer transfiriendo una copia de seguridad de OneDrive a Google Drive: en más de una hora seguida pasaron 2 GB y, aunque la tasa de envío es menor que la de mi internet cableado, la transferencia siguió estable durante el período que supervisé.",
           "Tras dos horas conectada, el mapa de obstrucciones de la app confirmó lo previsto: el encaje lateral del balcón no es el mejor punto de la casa por visibilidad del cielo, aunque todo funcionó fluido y sin interrupciones. La propia aplicación avisa de que necesita unas horas para calibrarse y completar el mapa, así que conviene esperar antes de juzgar la señal. En mi caso, lo que tiende a mejorar con la fijación definitiva en el tejado es el techo de velocidad máxima. Starlink no garantiza una velocidad mínima fija por suscripción, y las cifras pueden variar según la región y la visibilidad del cielo."
         ],
         "metrics": {
@@ -353689,7 +353689,7 @@ const reviewsChunk2: unknown[] = [
           ],
           "summary": {
             "badge": "Estable sin cortes",
-            "text": "Sin cortes en 2 horas en el balcón (pese a obstrucción parcial) y transferencia estable de más de 10 GB en más de 1 hora entre nubes."
+            "text": "Sin cortes en 2 horas en el balcón (pese a obstrucción parcial) y transferencia estable de 2 GB en más de 1 hora entre nubes."
           }
         },
         "image": {
@@ -353719,7 +353719,7 @@ const reviewsChunk2: unknown[] = [
         "heading": "Primeras impresiones: qué convenció y qué exige cuidado",
         "paragraphs": [
           "Para quien sufre cortes en la fibra o necesita validar la señal sin perforar el tejado antes de la visita técnica, el conjunto mostró estabilidad de sobra desde las primeras horas provisionales.",
-          "En este estreno destacaron la caja organizada, la activación sencilla sin herramientas, la navegación estable incluso en un punto provisional con obstrucción parcial, la transferencia estable de más de 10 GB en más de una hora de respaldo en la nube, la rapidez para agendar la instalación gratuita y la mejora de señal en el salón principal al reubicar el Router Mini.",
+          "En este estreno destacaron la caja organizada, la activación sencilla sin herramientas, la navegación estable incluso en un punto provisional con obstrucción parcial, la transferencia estable de 2 GB en más de una hora de respaldo en la nube, la rapidez para agendar la instalación gratuita y la mejora de señal en el salón principal al reubicar el Router Mini.",
           "En el lado opuesto, conviene desactivar el cambio automático de Wi-Fi en el teléfono, esperar unos minutos a que el Router Mini aparezca en la app y respetar las primeras horas de calibración. En casas grandes o muy compartimentadas también tiene sentido prever uno o dos nodos adicionales.",
           "Actualizaré este análisis tras la instalación definitiva prevista para el 10/12/2026 en el tejado. Por ahora todavía no he pasado por lluvia fuerte prolongada ni he usado el cable extendido al máximo o el enlace cableado entre antena y router. Si aún comparas modelos de la marca, mira también la [comparativa entre Starlink Mini y Estándar](/es/reviews/starlink-mini-o-estandar-cual-elegir)."
         ],
@@ -353746,7 +353746,7 @@ const reviewsChunk2: unknown[] = [
         "heading": "Preguntas frecuentes",
         "bullets": [
           "¿Cuánto tarda configurar Starlink Mini X por primera vez? Tardó menos de veinte minutos desde enchufarla hasta navegar con actualización y alineación; revisa en el apartado de activación cómo evitar que el móvil abandone la red provisional.",
-          "¿Qué velocidad alcanzó Starlink Mini X apoyada en el balcón? En la primera prueba en mi balcón medí 200 Mbps de bajada, 19 Mbps de subida y 25 ms de ping. Mantuvo conexión firme sin cortes durante dos horas pese a la obstrucción parcial, y la transferencia de más de 10 GB en más de una hora siguió estable durante el período que supervisé.",
+          "¿Qué velocidad alcanzó Starlink Mini X apoyada en el balcón? En la primera prueba en mi balcón medí 200 Mbps de bajada, 19 Mbps de subida y 25 ms de ping. Mantuvo conexión firme sin cortes durante dos horas pese a la obstrucción parcial, y la transferencia de 2 GB en más de una hora siguió estable durante el período que supervisé.",
           "¿Cubre Starlink Mini X por sí sola una casa grande con muros gruesos? No en mi vivienda; con el Router Mini del kit reubicado en un punto despejado de la planta baja, la señal rozó el máximo en el salón principal, y casas mayores pueden requerir un segundo nodo.",
           "¿Hace falta perforar el tejado para probar antes de la instalación definitiva? No; basta apoyar la antena en un sitio firme con vista al cielo y un enchufe cercano para validar el servicio dentro de la ventana de devolución de 30 días.",
           "¿Cómo funciona el bono del enlace de referido de Starlink? Para clientes nuevos que contratan en starlink.com con el enlace oficial y mantienen dos ciclos pagados, entran 45 € en España (referencia de MX$ 700 en México; confirma siempre el importe en tu pedido antes de pagar) como crédito en factura, como explico en el apartado de entrega y pedido."
@@ -353962,7 +353962,7 @@ const reviewsChunk2: unknown[] = [
         "heading": "Débit mesuré sur le balcon et obstructions après deux heures",
         "paragraphs": [
           "Même posée provisoirement sur le balcon de la suite avec une obstruction partielle, la connexion a tenu sans la moindre coupure pendant les deux premières heures d'utilisation.",
-          "Sur mon premier test de débit enregistré juste après la mise en ligne du réseau, j'ai mesuré 200 Mbps en réception, 19 Mbps en émission et 25 ms de ping. Pour observer la tenue en charge continue, j'ai lancé une tâche Air Explorer transférant une sauvegarde de OneDrive vers Google Drive : plus de 10 Go ont été envoyés en plus d'une heure d'affilée et, même avec un débit d'envoi inférieur à ma fibre filaire, le transfert est resté stable pendant toute la période observée.",
+          "Sur mon premier test de débit enregistré juste après la mise en ligne du réseau, j'ai mesuré 200 Mbps en réception, 19 Mbps en émission et 25 ms de ping. Pour observer la tenue en charge continue, j'ai lancé une tâche Air Explorer transférant une sauvegarde de OneDrive vers Google Drive : 2 Go ont été envoyés en plus d'une heure d'affilée et, même avec un débit d'envoi inférieur à ma fibre filaire, le transfert est resté stable pendant toute la période observée.",
           "Au bout de deux heures sous tension, la carte d'obstructions de l'appli a confirmé ce que j'attendais : le renfoncement latéral du balcon n'offre pas le ciel le plus dégagé de la maison, mais tout a tourné de manière fluide et sans coupure. L'application précise elle-même qu'il lui faut quelques heures pour s'ajuster et compléter la carte, mieux vaut donc patienter avant de juger le signal. Dans mon cas, la fixation définitive sur le toit devrait surtout relever le plafond de débit maximal. Starlink ne garantit pas un débit minimal fixe par abonnement, et les résultats varient selon la région et le dégagement."
         ],
         "metrics": {
@@ -353994,7 +353994,7 @@ const reviewsChunk2: unknown[] = [
           ],
           "summary": {
             "badge": "Stable sans coupure",
-            "text": "Zéro coupure en 2 heures sur le balcon (malgré obstruction partielle) et transfert stable de plus de 10 Go en plus d'une heure entre clouds."
+            "text": "Zéro coupure en 2 heures sur le balcon (malgré obstruction partielle) et transfert stable de 2 Go en plus d'une heure entre clouds."
           }
         },
         "image": {
@@ -354024,7 +354024,7 @@ const reviewsChunk2: unknown[] = [
         "heading": "Premières impressions : les réussites et les points de vigilance",
         "paragraphs": [
           "Pour qui subit les coupures de fibre ou souhaite valider le signal sans percer le toit avant la visite du technicien, l'ensemble a montré assez de stabilité dès les premières heures en pose provisoire.",
-          "Lors de ce premier contact, j'ai apprécié la boîte bien organisée, l'activation sans outil, la navigation fluide malgré une obstruction partielle, le transfert stable de plus de 10 Go en plus d'une heure de sauvegarde cloud, la prise de rendez-vous rapide pour l'installation gratuite et l'amélioration nette du signal au grand salon après déplacement du Routeur Mini.",
+          "Lors de ce premier contact, j'ai apprécié la boîte bien organisée, l'activation sans outil, la navigation fluide malgré une obstruction partielle, le transfert stable de 2 Go en plus d'une heure de sauvegarde cloud, la prise de rendez-vous rapide pour l'installation gratuite et l'amélioration nette du signal au grand salon après déplacement du Routeur Mini.",
           "En contrepartie, il faut penser à couper la bascule Wi-Fi automatique sur le mobile, patienter quelques minutes pour voir le Routeur Mini apparaître dans l'appli et laisser passer les premières heures de calibration. Dans les maisons vastes ou très cloisonnées, prévoir un ou deux nœuds additionnels reste judicieux.",
           "Je mettrai cet article à jour après la pose définitive sur le toit prévue le 10/12/2026. Pour l'instant, je n'ai pas encore affronté de forte pluie prolongée ni exploité le câble sur toute sa longueur ou une liaison filaire entre l'antenne et le routeur. Si vous hésitez encore entre les kits de la marque, consultez aussi mon [comparatif Starlink Mini vs Standard](/fr/reviews/starlink-mini-ou-standard-quel-kit-choisir)."
         ],
@@ -354051,7 +354051,7 @@ const reviewsChunk2: unknown[] = [
         "heading": "Questions fréquentes",
         "bullets": [
           "Combien de temps faut-il pour configurer Starlink Mini X la première fois ? Il m'a fallu moins de vingt minutes entre le branchement sur secteur et la navigation avec mise à jour et alignement ; voyez dans la section d'activation comment éviter que le téléphone ne quitte le réseau provisoire.",
-          "Quel débit Starlink Mini X a-t-elle atteint posée sur le balcon ? Lors de mon premier test sur le balcon, j'ai mesuré 200 Mbps en réception, 19 Mbps en émission et 25 ms de ping. La connexion est restée ferme sans coupure pendant deux heures malgré une obstruction partielle, et le transfert de plus de 10 Go en plus d'une heure est resté stable pendant toute la période observée.",
+          "Quel débit Starlink Mini X a-t-elle atteint posée sur le balcon ? Lors de mon premier test sur le balcon, j'ai mesuré 200 Mbps en réception, 19 Mbps en émission et 25 ms de ping. La connexion est restée ferme sans coupure pendant deux heures malgré une obstruction partielle, et le transfert de 2 Go en plus d'une heure est resté stable pendant toute la période observée.",
           "La Starlink Mini X seule couvre-t-elle une grande maison aux murs épais ? Pas dans ma configuration ; avec le Routeur Mini du kit replacé dans un endroit dégagé au rez-de-chaussée, le signal a approché le maximum dans le grand salon, et les plus grandes maisons peuvent exiger un second nœud.",
           "Faut-il percer le toit pour tester avant la pose définitive ? Non ; il suffit de poser solidement l'antenne avec vue sur le ciel près d'une prise de courant pour valider le service durant les 30 jours de retour.",
           "Comment fonctionne le bonus du lien de parrainage Starlink ? Pour les nouveaux clients qui commandent sur starlink.com via le lien officiel et conservent deux cycles payés, 45 € s'appliquent en crédit sur la facture suivante, comme je l'explique dans la partie sur la livraison et la commande."
@@ -354267,7 +354267,7 @@ const reviewsChunk2: unknown[] = [
         "heading": "Gemessenes Tempo auf dem Balkon und Hindernisse nach zwei Stunden",
         "paragraphs": [
           "Selbst provisorisch auf dem Schlafzimmerbalkon mit teilweiser Abschattung hielt die Verbindung während der ersten zwei Stunden ohne einen einzigen Aussetzer durch.",
-          "Bei meinem ersten Speedtest direkt nach dem Start des Netzes maß ich 200 Mbit/s im Download, 19 Mbit/s im Upload und 25 ms Ping. Um das Dauerverhalten zu prüfen, ließ ich eine Aufgabe in Air Explorer laufen, die mein Backup von OneDrive zu Google Drive übertrug: In über einer Stunde am Stück gingen mehr als 10 GB durch, und obwohl die Übertragungsrate unter meiner verkabelten Hausleitung liegt, lief die Übertragung während des gesamten beobachteten Zeitraums stabil.",
+          "Bei meinem ersten Speedtest direkt nach dem Start des Netzes maß ich 200 Mbit/s im Download, 19 Mbit/s im Upload und 25 ms Ping. Um das Dauerverhalten zu prüfen, ließ ich eine Aufgabe in Air Explorer laufen, die mein Backup von OneDrive zu Google Drive übertrug: In über einer Stunde am Stück gingen 2 GB durch, und obwohl die Übertragungsrate unter meiner verkabelten Hausleitung liegt, lief die Übertragung während des gesamten beobachteten Zeitraums stabil.",
           "Nach zwei Stunden Betrieb bestätigte die Hinderniskarte der App das Erwartete: Die seitliche Nische auf dem Balkon bietet nicht den freiesten Himmel des Grundstücks, dennoch lief alles flüssig und unterbrechungsfrei. Die App weist selbst darauf hin, dass sie einige Stunden zur Kalibrierung und Vervollständigung der Karte benötigt, sodass sich Geduld vor dem endgültigen Urteil lohnt. Bei mir dürfte vor allem die feste Dachmontage das Maximum nach oben verschieben. Starlink garantiert keine feste Mindestgeschwindigkeit pro Tarif, und die Werte variieren je nach Region und freier Sicht."
         ],
         "metrics": {
@@ -354299,7 +354299,7 @@ const reviewsChunk2: unknown[] = [
           ],
           "summary": {
             "badge": "Stabil ohne Ausfälle",
-            "text": "Keine Abbrüche in 2 Stunden auf dem Balkon (trotz teilweiser Abschattung) und stabile Übertragung von über 10 GB in mehr als 1 Stunde zwischen Clouds."
+            "text": "Keine Abbrüche in 2 Stunden auf dem Balkon (trotz teilweiser Abschattung) und stabile Übertragung von 2 GB in mehr als 1 Stunde zwischen Clouds."
           }
         },
         "image": {
@@ -354329,7 +354329,7 @@ const reviewsChunk2: unknown[] = [
         "heading": "Erste Eindrücke: Was überzeugt hat und was Vorsicht verlangt",
         "paragraphs": [
           "Wer unter Glasfaserausfällen leidet oder das Signal vor dem Technikertermin ohne Bohren am Dach prüfen möchte, erlebt schon in den ersten provisorischen Stunden genug Stabilität.",
-          "Zum Auftakt gefielen mir die aufgeräumte Verpackung, die werkzeuglose Aktivierung, die aussetzerfreie Verbindung trotz teilweiser Abschattung, die über mehr als eine Stunde stabile Cloud-Übertragung von über 10 GB, die schnelle Terminbuchung für die kostenlose Montage und das starke Wohnzimmersignal nach dem Umstellen des Router Mini.",
+          "Zum Auftakt gefielen mir die aufgeräumte Verpackung, die werkzeuglose Aktivierung, die aussetzerfreie Verbindung trotz teilweiser Abschattung, die über mehr als eine Stunde stabile Cloud-Übertragung von 2 GB, die schnelle Terminbuchung für die kostenlose Montage und das starke Wohnzimmersignal nach dem Umstellen des Router Mini.",
           "Auf der anderen Seite sollte man den automatischen WLAN-Wechsel am Smartphone abschalten, dem Router Mini ein paar Minuten zum Auftauchen in der App lassen und die ersten Kalibrierungsstunden abwarten. In großen oder stark verwinkelten Häusern lohnt es sich zudem, ein bis zwei Zusatzknoten einzuplanen.",
           "Ich aktualisiere diesen Bericht nach der festen Dachmontage am 10.12.2026. Bislang habe ich weder anhaltenden Starkregen erlebt noch das Kabel auf voller Länge ausgerollt oder Antenne und Router per LAN verbunden. Falls Sie noch zwischen den Modellen schwanken, sehen Sie sich auch meinen [Vergleich zwischen Starlink Mini und Standard](/de/reviews/starlink-mini-oder-standard-vergleich) an."
         ],
@@ -354356,7 +354356,7 @@ const reviewsChunk2: unknown[] = [
         "heading": "Häufige Fragen",
         "bullets": [
           "Wie lange dauert die Ersteinrichtung der Starlink Mini X? Von der Steckdose bis zum Surfen samt Update und Ausrichtung vergingen bei mir unter zwanzig Minuten; im Abschnitt zur Aktivierung zeige ich, wie das Handy im provisorischen WLAN bleibt.",
-          "Welches Tempo erreichte Starlink Mini X auf dem Balkon? Bei meinem ersten Test auf dem Balkon maß ich 200 Mbit/s im Download, 19 Mbit/s im Upload und 25 ms Ping. Die Leitung blieb zwei Stunden ohne Abbruch stabil trotz teilweiser Abschattung, und die Übertragung von mehr als 10 GB in über einer Stunde lief während des gesamten beobachteten Zeitraums stabil.",
+          "Welches Tempo erreichte Starlink Mini X auf dem Balkon? Bei meinem ersten Test auf dem Balkon maß ich 200 Mbit/s im Download, 19 Mbit/s im Upload und 25 ms Ping. Die Leitung blieb zwei Stunden ohne Abbruch stabil trotz teilweiser Abschattung, und die Übertragung von 2 GB in über einer Stunde lief während des gesamten beobachteten Zeitraums stabil.",
           "Reicht Starlink Mini X allein für ein großes Haus mit dicken Wänden? In meinem Grundriss nicht; mit dem günstig im Erdgeschoss platzierten Router Mini aus dem Kit stieg der Empfang im Hauptwohnzimmer nahe ans Maximum, größere Häuser brauchen teils einen zweiten Knoten.",
           "Muss man vor der festen Montage für einen Test ins Dach bohren? Nein; es reicht, die Antenne sicher mit Blick zum Himmel neben einer Steckdose aufzustellen, um den Dienst innerhalb der 30-Tage-Rückgabefrist zu testen.",
           "Wie funktioniert die Gutschrift über den Starlink-Empfehlungslink? Neukunden, die über den offiziellen Link auf starlink.com bestellen und zwei Abrechnungszyklen bezahlen, erhalten 45 € als Gutschrift auf die nächste Rechnung, wie ich im Abschnitt zu Lieferung und Bestellung erkläre."
@@ -354572,7 +354572,7 @@ const reviewsChunk2: unknown[] = [
         "heading": "Velocità misurata dal balcone e ostruzioni dopo due ore",
         "paragraphs": [
           "Pur appoggiata provvisoriamente sul balcone della camera con ostruzione parziale, la connessione ha retto senza una sola caduta nelle prime due ore di utilizzo.",
-          "Nel mio primo test di velocità subito dopo l'avvio della rete ho misurato 200 Mbps in download, 19 Mbps in upload e 25 ms di ping. Per verificare la tenuta sotto carico continuo, ho lasciato un'attività su Air Explorer a trasferire il backup da OneDrive a Google Drive: in oltre un'ora filata sono passati più di 10 GB e, pur con un tasso di caricamento inferiore alla mia linea cablata, il trasferimento è rimasto stabile per tutto il periodo che ho seguito.",
+          "Nel mio primo test di velocità subito dopo l'avvio della rete ho misurato 200 Mbps in download, 19 Mbps in upload e 25 ms di ping. Per verificare la tenuta sotto carico continuo, ho lasciato un'attività su Air Explorer a trasferire il backup da OneDrive a Google Drive: in oltre un'ora filata sono passati 2 GB e, pur con un tasso di caricamento inferiore alla mia linea cablata, il trasferimento è rimasto stabile per tutto il periodo che ho seguito.",
           "Dopo due ore accesa, la mappa delle ostruzioni nell'app ha confermato il previsto: l'incasso laterale del balcone non è il punto migliore della casa per apertura del cielo, anche se tutto ha funzionato fluido e senza interruzioni. La stessa applicazione avverte che servono alcune ore per adattarsi e completare la mappa, quindi conviene attendere prima di giudicare il segnale. Nel mio caso, ciò che migliorerà con il fissaggio definitivo sul tetto è soprattutto il tetto massimo di velocità. Starlink non garantisce una banda minima fissa per piano e i valori possono variare per area e visuale."
         ],
         "metrics": {
@@ -354604,7 +354604,7 @@ const reviewsChunk2: unknown[] = [
           ],
           "summary": {
             "badge": "Stabile senza cadute",
-            "text": "Zero cadute in 2 ore sul balcone (pur con ostruzione parziale) e trasferimento stabile di oltre 10 GB in più di 1 ora tra cloud."
+            "text": "Zero cadute in 2 ore sul balcone (pur con ostruzione parziale) e trasferimento stabile di 2 GB in più di 1 ora tra cloud."
           }
         },
         "image": {
@@ -354634,7 +354634,7 @@ const reviewsChunk2: unknown[] = [
         "heading": "Prime impressioni: cosa ha convinto e cosa richiede attenzione",
         "paragraphs": [
           "Per chi soffre di cadute sulla fibra o vuole verificare il segnale senza forare il tetto prima della visita tecnica, il sistema ha già mostrato stabilità sufficiente fin dalle prime ore provvisorie.",
-          "Al debutto hanno colpito l'imballaggio ordinato, l'attivazione semplice senza attrezzi, la navigazione stabile anche in un punto provvisorio con ostruzione parziale, il trasferimento stabile di oltre 10 GB in più di un'ora di backup cloud, la rapidità nel prenotare l'installazione gratuita e il miglioramento del segnale in salotto riposizionando il Router Mini.",
+          "Al debutto hanno colpito l'imballaggio ordinato, l'attivazione semplice senza attrezzi, la navigazione stabile anche in un punto provvisorio con ostruzione parziale, il trasferimento stabile di 2 GB in più di un'ora di backup cloud, la rapidità nel prenotare l'installazione gratuita e il miglioramento del segnale in salotto riposizionando il Router Mini.",
           "Dall'altro lato conviene disattivare il cambio automatico di Wi-Fi sul telefono, attendere qualche minuto che il Router Mini compaia nell'app e rispettare le prime ore di calibrazione. In case ampie o molto suddivise ha anche senso mettere in conto uno o due nodi aggiuntivi.",
           "Aggiornerò questa prova dopo l'installazione definitiva prevista per il 10/12/2026 sul tetto. Per ora non ho ancora affrontato pioggia forte prolungata né usato il cavo esteso al massimo o il collegamento cablato tra antenna e router. Se stai ancora confrontando i modelli del marchio, guarda anche il mio [confronto tra Starlink Mini e Standard](/it/reviews/starlink-mini-o-standard-quale-scegliere)."
         ],
@@ -354661,7 +354661,7 @@ const reviewsChunk2: unknown[] = [
         "heading": "Domande frequenti",
         "bullets": [
           "Quanto tempo serve per configurare Starlink Mini X la prima volta? Meno di venti minuti dalla presa fino a navigare con aggiornamento e allineamento; guarda nel capitolo dell'attivazione come evitare che il telefono lasci la rete provvisoria.",
-          "Quale velocità ha raggiunto Starlink Mini X appoggiata sul balcone? Nel primo test sul balcone ho misurato 200 Mbps in download, 19 Mbps in upload e 25 ms di ping. Ha mantenuto la connessione salda senza cadute per due ore nonostante l'ostruzione parziale, e il trasferimento di oltre 10 GB in più di un'ora è rimasto stabile per tutto il periodo che ho seguito.",
+          "Quale velocità ha raggiunto Starlink Mini X appoggiata sul balcone? Nel primo test sul balcone ho misurato 200 Mbps in download, 19 Mbps in upload e 25 ms di ping. Ha mantenuto la connessione salda senza cadute per due ore nonostante l'ostruzione parziale, e il trasferimento di 2 GB in più di un'ora è rimasto stabile per tutto il periodo che ho seguito.",
           "Starlink Mini X da sola copre una casa grande con muri spessi? Non nel mio caso; con il Router Mini del kit riposizionato in un punto libero al piano terra il segnale è arrivato vicino al massimo nel salotto principale, e case più ampie possono richiedere un secondo nodo.",
           "Bisogna forare il tetto per provare prima dell'installazione definitiva? No; basta appoggiare l'antenna in un punto saldo con vista sul cielo e presa vicina per verificare il servizio entro la finestra di reso di 30 giorni.",
           "Come funziona il credito del link di invito Starlink? Per i nuovi clienti che ordinano su starlink.com tramite il link ufficiale e mantengono due cicli pagati, arrivano 45 € come credito sulla fattura successiva, come spiego nella sezione su consegna e ordine."
@@ -354726,7 +354726,7 @@ const reviewsChunk2: unknown[] = [
       }
     ],
     "description": "브라질 자택에서 스타링크 Mini X와 미니 라우터를 직접 구매해 테스트했습니다. 베란다 임시 거치 200 Mbps 실측과 두꺼운 벽 Wi-Fi 범위를 정리했습니다.",
-    "metaDescription": "브라질 자택 스타링크 Mini X와 미니 라우터 후기: 15~20분 개통, 첫 측정 200 Mbps와 10 GB 이상 안정적 업로드, 두꺼운 벽 실내 Wi-Fi 범위.",
+    "metaDescription": "브라질 자택 스타링크 Mini X와 미니 라우터 후기: 15~20분 개통, 첫 측정 200 Mbps와 2 GB 안정적 업로드, 두꺼운 벽 실내 Wi-Fi 범위.",
     "publishedAt": "2026년 11월 26일",
     "publishedAtISO": "2026-11-26",
     "updatedAt": "2026-11-26",
@@ -354877,7 +354877,7 @@ const reviewsChunk2: unknown[] = [
         "heading": "베란다에서 측정한 속도와 두 시간 뒤 장애물 지도",
         "paragraphs": [
           "부분적인 장애물이 있는 안방 베란다에 임시로 올려둔 상태였지만, 첫 두 시간 동안 단 한 번의 끊김 없이 연결이 유지되었습니다.",
-          "네트워크가 열리자마자 진행한 첫 번째 속도 측정에서 다운로드 200 Mbps, 업로드 19 Mbps, 지연 시간(ping) 25 ms가 나왔습니다. 연속 부하 상태의 안정성을 보려고 Air Explorer로 OneDrive 백업을 Google Drive로 옮기는 작업을 걸어 두었는데, 1시간 넘게 이어지는 동안 10 GB 이상이 전송되었고 전송 속도 자체는 집 유선 인터넷보다 낮았지만 지켜본 시간 동안 전송이 끊김 없이 안정적으로 이어졌습니다.",
+          "네트워크가 열리자마자 진행한 첫 번째 속도 측정에서 다운로드 200 Mbps, 업로드 19 Mbps, 지연 시간(ping) 25 ms가 나왔습니다. 연속 부하 상태의 안정성을 보려고 Air Explorer로 OneDrive 백업을 Google Drive로 옮기는 작업을 걸어 두었는데, 1시간 넘게 이어지는 동안 2 GB가 전송되었고 전송 속도 자체는 집 유선 인터넷보다 낮았지만 지켜본 시간 동안 전송이 끊김 없이 안정적으로 이어졌습니다.",
           "두 시간 동안 켜 둔 뒤 앱의 장애물 지도를 열어 보니 예상대로 베란다 측면 위치가 하늘 시야가 가장 트인 곳은 아니었지만, 실제 사용에서는 끊김 없이 매끄럽게 동작했습니다. 앱 자체에서도 지도를 완성하고 보정하는 데 몇 시간이 필요하다고 안내하므로 초반 수치만으로 성급히 판단하지 않는 편이 좋습니다. 제 경우 추후 지붕에 정식 고정하면 최대 속도 상한이 더 올라갈 여지가 있습니다. 스타링크는 계약상 최저 속도를 고정 보장하지 않으며, 실제 수치는 지역과 하늘 시야에 따라 달라집니다."
         ],
         "metrics": {
@@ -354909,7 +354909,7 @@ const reviewsChunk2: unknown[] = [
           ],
           "summary": {
             "badge": "끊김 없이 안정적",
-            "text": "부분 가림에도 베란다 2시간 무중단 유지 및 1시간 이상 10 GB 초과 클라우드 전송 안정 지속."
+            "text": "부분 가림에도 베란다 2시간 무중단 유지 및 1시간 이상 2 GB 클라우드 전송 안정 지속."
           }
         },
         "image": {
@@ -354939,7 +354939,7 @@ const reviewsChunk2: unknown[] = [
         "heading": "첫인상 정리: 만족스러웠던 점과 주의할 점",
         "paragraphs": [
           "동네 광랜이 자주 끊기거나 지붕 시공 전에 신호를 미리 확인해 보고 싶은 경우라면, 임시 배치 첫 몇 시간만으로도 충분히 안정적인 사용성을 보여 주었습니다.",
-          "이번 첫 사용에서 좋았던 점은 잘 정돈된 패키지, 공구 없이 끝나는 간편한 개통, 부분 가림이 있는 임시 위치에서도 안정적인 웹 접속, 1시간 넘게 10 GB 이상 클라우드 백업을 안정적으로 이어 간 전송, 빠른 무료 설치 예약, 그리고 위치 조정 후 메인 거실에서 확보된 강한 신호였습니다.",
+          "이번 첫 사용에서 좋았던 점은 잘 정돈된 패키지, 공구 없이 끝나는 간편한 개통, 부분 가림이 있는 임시 위치에서도 안정적인 웹 접속, 1시간 넘게 2 GB 클라우드 백업을 안정적으로 이어 간 전송, 빠른 무료 설치 예약, 그리고 위치 조정 후 메인 거실에서 확보된 강한 신호였습니다.",
           "반면 신경 써야 할 점도 있습니다. 스마트폰의 와이파이 자동 전환을 꺼야 하고, Mini 라우터가 앱에 뜰 때까지 몇 분 기다려야 하며, 초기 몇 시간의 보정 기간을 감안해야 합니다. 집이 크거나 방이 많이 나뉘어 있다면 추가 노드 한두 개를 미리 계획하는 편이 좋습니다.",
           "2026년 12월 10일로 예정된 지붕 정식 설치를 마친 뒤 이 후기를 다시 업데이트할 예정입니다. 아직은 장시간 폭우 상황이나 케이블을 끝까지 늘린 배치, 안테나와 라우터 사이의 유선 연결까지는 시험하지 않았습니다. 모델별 사양 차이를 함께 비교하고 있다면 [스타링크 Mini vs 스탠다드 비교 가이드](/ko/reviews/starlink-mini-or-standard-ko)도 참고해 보세요."
         ],
@@ -354966,7 +354966,7 @@ const reviewsChunk2: unknown[] = [
         "heading": "자주 묻는 질문",
         "bullets": [
           "스타링크 Mini X를 처음 설정하는 데 시간이 얼마나 걸리나요? 전원을 연결하고 업데이트와 정렬을 마쳐 인터넷을 쓰기까지 20분이 채 걸리지 않았습니다. 스마트폰이 임시 와이파이에서 자동으로 이탈하지 않게 막는 방법은 위의 개통 챕터에서 확인할 수 있습니다.",
-          "베란다에 올려둔 스타링크 Mini X 속도는 어느 정도 나왔나요? 베란다 첫 테스트에서 다운로드 200 Mbps, 업로드 19 Mbps, ping 25 ms를 직접 측정했습니다. 부분 가림이 있어도 2시간 동안 끊김 없이 안정적으로 유지되었고, 1시간 넘게 10 GB 이상을 옮기는 전송도 지켜본 시간 동안 안정적으로 이어졌습니다.",
+          "베란다에 올려둔 스타링크 Mini X 속도는 어느 정도 나왔나요? 베란다 첫 테스트에서 다운로드 200 Mbps, 업로드 19 Mbps, ping 25 ms를 직접 측정했습니다. 부분 가림이 있어도 2시간 동안 끊김 없이 안정적으로 유지되었고, 1시간 넘게 2 GB를 옮기는 전송도 지켜본 시간 동안 안정적으로 이어졌습니다.",
           "스타링크 Mini X 한 대만으로 벽이 두꺼운 큰 집 전체를 커버할 수 있나요? 제 환경에서는 단독으로 부족했습니다. 키트에 든 Mini 라우터를 1층의 트인 위치로 옮겨 배치하자 메인 거실 신호가 거의 최대치로 잡혔으며, 더 큰 집이라면 두 번째 노드가 필요할 수 있습니다.",
           "정식 설치 전에 테스트하려면 지붕에 구멍을 뚫어야 하나요? 아닙니다. 하늘이 보이고 콘센트가 가까운 단단한 자리에 안테나를 임시로 올려두기만 해도 30일 반품 기간 안에 충분히 품질을 검증할 수 있습니다.",
           "스타링크 추천 링크 보너스는 어떻게 적용되나요? 신규 고객이 공식 추천 링크로 starlink.com에서 주문해 두 번의 결제 주기를 정상 납부하면 다음 청구서에 크레딧이 반영됩니다. 한국 기준 금액은 65,000원이며, 결제 전에 주문 화면에서 실제 표시 금액을 반드시 확인하세요."
@@ -355031,7 +355031,7 @@ const reviewsChunk2: unknown[] = [
       }
     ],
     "description": "ブラジルの自宅でStarlink Mini Xとミニルーターを自費購入し検証。ベランダ仮設置での開通、初回200 Mbpsの実測速度、厚い壁越しのWi-Fi範囲をまとめました。",
-    "metaDescription": "Starlink Mini Xとミニルーター自宅実機レビュー：15〜20分で開通、初回実測200 Mbpsと10 GB超の安定アップロード、厚い壁の室内Wi-Fi検証。",
+    "metaDescription": "Starlink Mini Xとミニルーター自宅実機レビュー：15〜20分で開通、初回実測200 Mbpsと2 GBの安定アップロード、厚い壁の室内Wi-Fi検証。",
     "publishedAt": "2026年11月26日",
     "publishedAtISO": "2026-11-26",
     "updatedAt": "2026-11-26",
@@ -355182,7 +355182,7 @@ const reviewsChunk2: unknown[] = [
         "heading": "ベランダでの実測速度と2時間後の障害物マップ",
         "paragraphs": [
           "部分的に視界が遮られる主寝室ベランダでの仮置きながら、稼働開始から最初の2時間は一度も切断されずに安定していました。",
-          "回線が立ち上がった直後の初回スピードテストでは、下り200 Mbps、上り19 Mbps、遅延（ping）25 msを実測しました。長時間の連続負荷を確かめるため、Air ExplorerでOneDriveのバックアップをGoogle Driveへ転送するタスクを走らせたところ、1時間以上続けて10 GB超を転送でき、転送速度自体は自宅の有線光回線より低いものの、確認していた間ずっと転送は安定して続きました。",
+          "回線が立ち上がった直後の初回スピードテストでは、下り200 Mbps、上り19 Mbps、遅延（ping）25 msを実測しました。長時間の連続負荷を確かめるため、Air ExplorerでOneDriveのバックアップをGoogle Driveへ転送するタスクを走らせたところ、1時間以上続けて2 GBを転送でき、転送速度自体は自宅の有線光回線より低いものの、確認していた間ずっと転送は安定して続きました。",
           "2時間通電した後にアプリの障害物マップを見ると、予想どおりベランダの端への挟み込みは開けた空という点でベストな位置ではありませんでしたが、通信自体は途切れず快適でした。アプリ自体もマップの作成と最適化に数時間かかる旨を表示するため、導入直後の結果だけで判断せず少し待つのが賢明です。自宅の場合、後日屋根へ本設置することで最大速度の上限がさらに伸びる見込みです。Starlinkは契約上の最低速度を固定保証しておらず、数値は地域や視界によって変動します。"
         ],
         "metrics": {
@@ -355214,7 +355214,7 @@ const reviewsChunk2: unknown[] = [
           ],
           "summary": {
             "badge": "切断なしで安定",
-            "text": "一部遮蔽のあるベランダでも2時間切断ゼロ、1時間超で10 GB以上のクラウド転送も安定して継続。"
+            "text": "一部遮蔽のあるベランダでも2時間切断ゼロ、1時間超で2 GBのクラウド転送も安定して継続。"
           }
         },
         "image": {
@@ -355244,7 +355244,7 @@ const reviewsChunk2: unknown[] = [
         "heading": "初期レビューまとめ：良かった点と気をつけたい点",
         "paragraphs": [
           "光回線の切断に悩んでいる方や、訪問工事の前に屋根へ穴を開けずに受信テストを済ませたい方にとって、この組み合わせは仮設置の最初の数時間から十分な安定性を示しました。",
-          "今回の初導入で好印象だったのは、整然とした梱包、工具いらずの簡単な開通作業、一部遮蔽がある仮置き環境でも途切れない通信、1時間超で10 GB以上を安定して送れたクラウド転送、無料設置予約の手軽さ、そして置き直しで改善したリビングの電波状態です。",
+          "今回の初導入で好印象だったのは、整然とした梱包、工具いらずの簡単な開通作業、一部遮蔽がある仮置き環境でも途切れない通信、1時間超で2 GBを安定して送れたクラウド転送、無料設置予約の手軽さ、そして置き直しで改善したリビングの電波状態です。",
           "一方で注意点としては、スマホ側のWi-Fi自動切替をオフにすること、ミニルーターがアプリに表示されるまで数分待つこと、最初の数時間のキャリブレーションを待つことが挙げられます。広い家や仕切りの多い住宅では、最初から追加ノードを1〜2台見込んでおくと安心です。",
           "2026年12月10日に予定している屋根への本設置が終わったら、この記事を更新して続報を載せる予定です。現時点では長時間の激しい豪雨やケーブルを最大長まで伸ばした状態、アンテナとルーター間の有線接続はまだ試していません。機種選びを比較中の方は[Starlink MiniとStandardの比較ガイド](/ja/reviews/starlink-mini-or-standard-ja)もあわせてご覧ください。"
         ],
@@ -355271,7 +355271,7 @@ const reviewsChunk2: unknown[] = [
         "heading": "よくある質問",
         "bullets": [
           "Starlink Mini Xの初回設定にはどれくらい時間がかかりますか？電源を入れて位置合わせとソフトウェア更新を完了し、インターネットが見られるようになるまで20分未満でした。スマホが仮Wi-Fiから離脱しないための設定は開通の章で説明しています。",
-          "ベランダ仮置きのStarlink Mini Xではどれくらいの速度が出ましたか？ベランダでの初回テストで下り200 Mbps、上り19 Mbps、ping 25 msを実測しました。一部遮蔽があっても2時間切断なしで安定し、1時間以上の連続10 GB超転送も確認していた間ずっと安定して続きました。",
+          "ベランダ仮置きのStarlink Mini Xではどれくらいの速度が出ましたか？ベランダでの初回テストで下り200 Mbps、上り19 Mbps、ping 25 msを実測しました。一部遮蔽があっても2時間切断なしで安定し、1時間以上の連続2 GB転送も確認していた間ずっと安定して続きました。",
           "Starlink Mini X単体で壁が厚く広い家全体をカバーできますか？私の環境では単体では足りませんでした。キット付属のミニルーターを1階の遮蔽が少ない地点へ移設するとメインリビングの電波がほぼ最大まで届き、さらに広い家では2台目のノードが有効です。",
           "本設置の前にテストするため屋根に穴を開ける必要がありますか？いいえ。空が見渡せて近くにコンセントがある安定した場所へ仮置きするだけで、30日間の返却保証期間内にサービスを十分検証できます。",
           "Starlinkの紹介リンクによる特典はどのように付与されますか？新規契約者が公式紹介リンク経由でstarlink.comから注文し、2請求サイクルを継続して支払うと、日本では7,000円が次回請求のクレジットとして反映されます。詳しくは配送・注文の章をご覧ください。"
@@ -355336,7 +355336,7 @@ const reviewsChunk2: unknown[] = [
       }
     ],
     "description": "我在巴西住家自費購買並實測 Starlink Mini X 與 Mini 路由器：配送開箱、陽台暫放開通、首次測速 200 Mbps 與厚牆環境 Wi-Fi 覆蓋表現。",
-    "metaDescription": "我在巴西實測 Starlink Mini X 與 Mini 路由器：15 至 20 分鐘開通、首測 200 Mbps 與連續逾 10 GB 穩定上傳、厚牆室內訊號實感。",
+    "metaDescription": "我在巴西實測 Starlink Mini X 與 Mini 路由器：15 至 20 分鐘開通、首測 200 Mbps 與 2 GB 穩定上傳、厚牆室內訊號實感。",
     "publishedAt": "2026年11月26日",
     "publishedAtISO": "2026-11-26",
     "updatedAt": "2026-11-26",
@@ -355487,7 +355487,7 @@ const reviewsChunk2: unknown[] = [
         "heading": "陽台實測網速與運行兩小時後的遮蔽圖",
         "paragraphs": [
           "就算只是暫時卡在有部分遮擋的主臥陽台，連線在最初兩小時內完全沒有出現過一次斷線。",
-          "網路一建立完成，我在首次測速中就測得下載 200 Mbps、上傳 19 Mbps、延遲（ping）25 ms。為了觀察長時間連續負載下的穩定度，我用 Air Explorer 建立任務把 OneDrive 備份搬移到 Google Drive：連續運作超過一小時已累計傳完超過 10 GB，雖然傳輸速率低於我家的有線網路，但在我觀察的這段期間傳輸始終保持穩定。",
+          "網路一建立完成，我在首次測速中就測得下載 200 Mbps、上傳 19 Mbps、延遲（ping）25 ms。為了觀察長時間連續負載下的穩定度，我用 Air Explorer 建立任務把 OneDrive 備份搬移到 Google Drive：連續運作超過一小時已累計傳完 2 GB，雖然傳輸速率低於我家的有線網路，但在我觀察的這段期間傳輸始終保持穩定。",
           "開機兩小時後查看 App 的遮蔽物地圖，結果跟預期一樣：卡在陽台側邊並不是全屋天空視野最開闊的位置，但實際使用依然非常流暢且沒有中斷。應用程式本身也會提醒需要幾小時來校準並完成地圖繪製，因此不必急著只憑最初幾分鐘下定論。以我的情況來說，等正式裝上屋頂後，最高速度上限還有望再提升。Starlink 不會替訂閱戶保證固定最低網速，實際數據仍會因地區與天空視野而有所差異。"
         ],
         "metrics": {
@@ -355519,7 +355519,7 @@ const reviewsChunk2: unknown[] = [
           ],
           "summary": {
             "badge": "全程穩定不斷線",
-            "text": "陽台略有遮擋仍連續 2 小時零斷線，且超過 1 小時傳輸逾 10 GB 雲端備份保持穩定。"
+            "text": "陽台略有遮擋仍連續 2 小時零斷線，且超過 1 小時傳輸 2 GB 雲端備份保持穩定。"
           }
         },
         "image": {
@@ -355549,7 +355549,7 @@ const reviewsChunk2: unknown[] = [
         "heading": "初體驗總結：令人滿意的地方與需留意的細節",
         "paragraphs": [
           "對受夠光纖常斷線的人，或想在技師來訪前不破壞屋頂就先驗證訊號的家庭來說，這套組合在最初幾小時的暫放測試裡已經展現出足夠的穩定度。",
-          "這次初次上手特別加分的項目包括：分格清楚的包裝、不需工具即可完成的設定、就算暫放處略有遮擋依然穩定的上網表現、超過一小時傳完逾 10 GB 仍保持穩定的雲端備份傳輸、快速的免費安裝預約，以及調整位置後立即改善的主客廳訊號。",
+          "這次初次上手特別加分的項目包括：分格清楚的包裝、不需工具即可完成的設定、就算暫放處略有遮擋依然穩定的上網表現、超過一小時傳完 2 GB 仍保持穩定的雲端備份傳輸、快速的免費安裝預約，以及調整位置後立即改善的主客廳訊號。",
           "另一方面，建議留意幾件事：手機要關閉自動切換 Wi-Fi、耐心等幾分鐘讓 Mini 路由器出現在 App 內，並給系統前幾小時完成校準。如果是大坪數或隔間繁多的住宅，規劃一到兩顆額外節點會更從容。",
           "等 2026 年 12 月 10 日屋頂正式安裝完成後，我會再回來更新這篇實測紀錄。目前為止還沒有遇過長時間豪大雨，也尚未測試把電源線完全拉開或用網路線連接天線與路由器。如果你還在比較官方不同機型，也可以查看 [Starlink Mini 與 Standard 比較指南](/zh-hant/reviews/starlink-mini-or-standard-zh-hant)。"
         ],
@@ -355576,7 +355576,7 @@ const reviewsChunk2: unknown[] = [
         "heading": "常見問題",
         "bullets": [
           "第一次設定 Starlink Mini X 大約需要多久？從插上插座到完成軟體更新與天線對準並順利上網，前後不到二十分鐘；如何避免手機自動跳離臨時網路的方法寫在上方啟用章節。",
-          "放在陽台實測時 Starlink Mini X 跑出多少速度？我在陽台首次測試測得下載 200 Mbps、上傳 19 Mbps、ping 25 ms。即使有部分天空遮擋仍連續兩小時零斷線，且超過一小時傳輸逾 10 GB 雲端檔案在我觀察的這段期間始終保持穩定。",
+          "放在陽台實測時 Starlink Mini X 跑出多少速度？我在陽台首次測試測得下載 200 Mbps、上傳 19 Mbps、ping 25 ms。即使有部分天空遮擋仍連續兩小時零斷線，且超過一小時傳輸 2 GB 雲端檔案在我觀察的這段期間始終保持穩定。",
           "只靠一台 Starlink Mini X 能覆蓋牆壁很厚的大房子嗎？以我家的格局單靠天線不夠；將套件內的 Mini 路由器調整到一樓無遮擋的中繼位置後，主客廳訊號就接近滿格，更大面積的住宅則建議再補第二顆節點。",
           "正式安裝前要先在屋頂鑽孔才能測試嗎？不需要，只要把天線穩妥擺在看得到天空且靠近插座的地方，就能在 30 天退貨試用期內先行驗證連線表現。",
           "Starlink 推薦連結的獎勵金怎麼計算？新用戶透過官方連結於 starlink.com 下單並繳清兩個計費週期後，下一期帳單就會獲得對應國家的抵扣金額（例如馬來西亞為 RM 180），付款前請務必在訂單頁面確認實際顯示金額。"
@@ -355641,7 +355641,7 @@ const reviewsChunk2: unknown[] = [
       }
     ],
     "description": "我在巴西家中自费购买并实测 Starlink Mini X 与 Mini 路由器：配送开箱、阳台临时放置激活、首次测速 200 Mbps 及厚墙环境 Wi-Fi 覆盖体验。",
-    "metaDescription": "我在巴西实测 Starlink Mini X 与 Mini 路由器：15 至 20 分钟激活、首测 200 Mbps 与连续超 10 GB 稳定上传、厚墙室内信号体验。",
+    "metaDescription": "我在巴西实测 Starlink Mini X 与 Mini 路由器：15 至 20 分钟激活、首测 200 Mbps 与 2 GB 稳定上传、厚墙室内信号体验。",
     "publishedAt": "2026年11月26日",
     "publishedAtISO": "2026-11-26",
     "updatedAt": "2026-11-26",
@@ -355792,7 +355792,7 @@ const reviewsChunk2: unknown[] = [
         "heading": "阳台实测速度与连续通电两小时后的遮挡图",
         "paragraphs": [
           "尽管只是临时卡在存在部分遮挡的主卧阳台上，整个网络在头两个小时里稳定运行，一次也没有掉线。",
-          "网络刚一打通，我在首轮测速中测得下载 200 Mbps、上传 19 Mbps、延迟（ping）25 ms。为了测试连续上传稳定性，我用 Air Explorer 挂了一条从 OneDrive 向 Google Drive 迁移备份的任务：连续跑了一小时多已传完超过 10 GB，虽然传输速率比我家的有线宽带低，但在我观察的这段时间里传输一直保持稳定。",
+          "网络刚一打通，我在首轮测速中测得下载 200 Mbps、上传 19 Mbps、延迟（ping）25 ms。为了测试连续上传稳定性，我用 Air Explorer 挂了一条从 OneDrive 向 Google Drive 迁移备份的任务：连续跑了一小时多已传完 2 GB，虽然传输速率比我家的有线宽带低，但在我观察的这段时间里传输一直保持稳定。",
           "持续通电两小时后再点开 App 的遮挡图，果不其然，卡在阳台侧面并不是家里天空视野最开阔的位置，但实际用下来顺滑流畅、毫无中断。App 本身也会提示需要几个小时完成采样和校准地图，所以不用太早下判断。就我家的情况来看，等以后正式装上屋顶，峰值速度天花板还有提升空间。Starlink 不对订阅提供固定最低速率承诺，具体数值会受地区与天空视野影响。"
         ],
         "metrics": {
@@ -355824,7 +355824,7 @@ const reviewsChunk2: unknown[] = [
           ],
           "summary": {
             "badge": "全程稳定无掉线",
-            "text": "阳台局部遮挡仍两小时零掉线，连续 1 小时以上搬运超 10 GB 云备份期间传输保持稳定。"
+            "text": "阳台局部遮挡仍两小时零掉线，连续 1 小时以上搬运 2 GB 云备份期间传输保持稳定。"
           }
         },
         "image": {
@@ -355854,7 +355854,7 @@ const reviewsChunk2: unknown[] = [
         "heading": "初次上手印象：惊喜的地方与需要注意的地方",
         "paragraphs": [
           "对于经常受光纤掉线困扰、或者希望技师上门前不动屋顶先实测信号的人来说，这套装备在头几个小时的临时点位里已经表现得足够稳健。",
-          "本次初体验中让人印象较好的是工整的包装分格、免工具的简易激活流程、哪怕在局部遮挡的临时位置也稳固的网页浏览体验、一小时以上传完超 10 GB 仍一直稳定的云备份传输、顺畅的免费安装预约，以及移到一楼中间点位后主客厅立刻见效的信号提升。",
+          "本次初体验中让人印象较好的是工整的包装分格、免工具的简易激活流程、哪怕在局部遮挡的临时位置也稳固的网页浏览体验、一小时以上传完 2 GB 仍一直稳定的云备份传输、顺畅的免费安装预约，以及移到一楼中间点位后主客厅立刻见效的信号提升。",
           "反过来看，也要注意把手机的自动切 Wi-Fi 关掉、给 Mini 路由器几分钟时间在 App 里出现，并耐心等最初几小时完成校准。如果是大房子或隔间较多的户型，建议提前规划一到两台额外节点。",
           "等 2026 年 12 月 10 日屋顶正式安装完成后，我会继续更新这篇实测。目前为止还没遇上持续强暴雨，也还没试过把电源线完全拉直或用网线有线连接天线和路由器。如果你还在比较品牌的不同型号，也可以看看 [Starlink Mini 与 Standard 对比指南](/zh-hans/reviews/starlink-mini-or-standard-zh-hans)。"
         ],
@@ -355881,7 +355881,7 @@ const reviewsChunk2: unknown[] = [
         "heading": "常见问题",
         "bullets": [
           "第一次设置 Starlink Mini X 要花多长时间？从插上电源到完成系统更新、天线对准并顺利上网，前后不到二十分钟；如何防止手机中途自动离开临时网络见上方激活章节。",
-          "放在阳台上测试时 Starlink Mini X 跑出多少速度？我在阳台首次测试测得下载 200 Mbps、上传 19 Mbps、ping 25 ms。即使局部有遮挡也稳定连接两小时零掉线，超过一小时传输 10 GB 以上备份期间在我观察的这段时间里也一直保持稳定。",
+          "放在阳台上测试时 Starlink Mini X 跑出多少速度？我在阳台首次测试测得下载 200 Mbps、上传 19 Mbps、ping 25 ms。即使局部有遮挡也稳定连接两小时零掉线，超过一小时传输 2 GB 备份期间在我观察的这段时间里也一直保持稳定。",
           "单靠一台 Starlink Mini X 能覆盖墙体厚的大房子吗？在我家不够用；把套件里的 Mini 路由器摆在一楼开阔位置后，主客厅信号接近满格，更大户型可能需要再多加第二个节点。",
           "正式安装前一定要在屋顶钻孔才能试用吗？不用，只要找个稳固、看得到天空且离插座不远的地方摆好天线，就能在 30 天退货窗口内验证好不好用。",
           "Starlink 推荐链接的奖励怎么算？新用户通过官方推荐链接在 starlink.com 下单并缴清两个账单周期后，下一张账单就会到账对应国家的抵扣金额（例如马来西亚为 RM 180），付款前请在订单页确认实际显示数额。"
@@ -355946,7 +355946,7 @@ const reviewsChunk2: unknown[] = [
       }
     ],
     "description": "اشتريت واختبرت Starlink Mini X مع راوتر ميني في المنزل: التوصيل، التثبيت المؤقت بالشرفة، سرعة 200 ميجابت في أول فحص وتغطية Wi-Fi داخل الجدران السميكة.",
-    "metaDescription": "اختبار منزلي لطقم Starlink Mini X مع راوتر ميني: التفعيل في 15 إلى 20 دقيقة، 200 ميجابت بأول فحص، ورفع مستقر لأكثر من 10 جيجابايت.",
+    "metaDescription": "اختبار منزلي لطقم Starlink Mini X مع راوتر ميني: التفعيل في 15 إلى 20 دقيقة، 200 ميجابت بأول فحص، ورفع مستقر بحجم 2 جيجابايت.",
     "publishedAt": "26 نوفمبر 2026",
     "publishedAtISO": "2026-11-26",
     "updatedAt": "2026-11-26",
@@ -356097,7 +356097,7 @@ const reviewsChunk2: unknown[] = [
         "heading": "السرعة المقاسة على الشرفة وخريطة العوائق بعد ساعتين",
         "paragraphs": [
           "رغم إسناده مؤقتًا على شرفة الجناح مع وجود حجب جزئي، ظل الاتصال متماسكًا دون أي انقطاع خلال أول ساعتين من الاستخدام.",
-          "في أول اختبار سرعة سجلته مباشرة بعد قيام الشبكة، قست 200 ميجابت/ث للتنزيل و19 ميجابت/ث للرفع وزمن استجابة 25 مللي ثانية. ولاختبار ثبات النقل تحت الحمل المستمر، تركت مهمة عبر برنامج Air Explorer تنقل نسختي الاحتياطية من OneDrive إلى Google Drive: خلال أكثر من ساعة متواصلة تم نقل ما يزيد عن 10 جيجابايت، ومع أن معدل النقل أقل من اشتراكي السلكي، ظل النقل مستقرًا طوال الفترة التي تابعتها.",
+          "في أول اختبار سرعة سجلته مباشرة بعد قيام الشبكة، قست 200 ميجابت/ث للتنزيل و19 ميجابت/ث للرفع وزمن استجابة 25 مللي ثانية. ولاختبار ثبات النقل تحت الحمل المستمر، تركت مهمة عبر برنامج Air Explorer تنقل نسختي الاحتياطية من OneDrive إلى Google Drive: خلال أكثر من ساعة متواصلة تم نقل 2 جيجابايت، ومع أن معدل النقل أقل من اشتراكي السلكي، ظل النقل مستقرًا طوال الفترة التي تابعتها.",
           "وبعد مرور ساعتين من التشغيل، أكدت خريطة العوائق في التطبيق ما كان متوقعًا: التثبيت الجانبي على الشرفة ليس أفضل نقطة في المنزل من حيث انكشاف السماء، مع أن كل شيء عمل بسلاسة ومن غير تقطّع. وينبّه التطبيق نفسه إلى أنه يحتاج بضع ساعات للمعايرة وإتمام الخريطة، لذا يجدر التريث قبل الحكم على الإشارة. في حالتي، ما يرجّح تحسنه عند التثبيت الدائم فوق السطح هو سقف السرعة القصوى. لا تضمن Starlink حدًا أدنى ثابتًا للسرعة في الاشتراك، وقد تتفاوت الأرقام حسب المنطقة ومجال الرؤية."
         ],
         "metrics": {
@@ -356129,7 +356129,7 @@ const reviewsChunk2: unknown[] = [
           ],
           "summary": {
             "badge": "مستقر دون انقطاع",
-            "text": "دون أي انقطاع خلال ساعتين على الشرفة (رغم الحجب الجزئي) مع نقل مستقر لأكثر من 10 جيجابايت خلال أكثر من ساعة."
+            "text": "دون أي انقطاع خلال ساعتين على الشرفة (رغم الحجب الجزئي) مع نقل مستقر بحجم 2 جيجابايت خلال أكثر من ساعة."
           }
         },
         "image": {
@@ -356159,7 +356159,7 @@ const reviewsChunk2: unknown[] = [
         "heading": "الانطباعات الأولى: ما أعجبني وما يتطلب انتباهًا",
         "paragraphs": [
           "لمن يعاني من انقطاعات الألياف أو يريد التحقق من الإشارة دون ثقب السقف قبل زيارة الفني، أظهر الطقم استقرارًا كافيًا منذ الساعات المؤقتة الأولى.",
-          "في هذه التجربة الافتتاحية لفتت انتباهي جودة تنظيم الصندوق، والتفعيل البسيط دون أدوات، والتصفح المستقر حتى في موضع مؤقت به عوائق جزئية، واستقرار نقل أكثر من 10 جيجابايت خلال أكثر من ساعة في النسخ الاحتياطي السحابي، وسرعة حجز التركيب المجاني، وتحسن الإشارة في الصالة بعد نقل راوتر ميني.",
+          "في هذه التجربة الافتتاحية لفتت انتباهي جودة تنظيم الصندوق، والتفعيل البسيط دون أدوات، والتصفح المستقر حتى في موضع مؤقت به عوائق جزئية، واستقرار نقل 2 جيجابايت خلال أكثر من ساعة في النسخ الاحتياطي السحابي، وسرعة حجز التركيب المجاني، وتحسن الإشارة في الصالة بعد نقل راوتر ميني.",
           "في المقابل، يجدر الانتباه لتعطيل التبديل التلقائي لشبكة Wi-Fi في الهاتف، والانتظار بضع دقائق حتى يظهر راوتر ميني في التطبيق، واحترام الساعات الأولى من المعايرة. وفي البيوت الكبيرة أو كثيرة الغرف يُستحسن التخطيط لعقدة أو عقدتين إضافيتين.",
           "سأحدّث هذا التقرير بعد التركيب النهائي على السطح المقرر في 10 ديسمبر 2026. وحتى الآن لم أختبره تحت أمطار غزيرة متواصلة، ولا مع مد الكابل لأقصى طول أو بالربط السلكي بين الطبق والراوتر. وإذا كنت ما تزال تقارن بين طرازات الشركة، فاطلع أيضًا على [مقارنة Starlink Mini مقابل Standard](/ar/reviews/starlink-mini-or-standard-ar)."
         ],
@@ -356186,7 +356186,7 @@ const reviewsChunk2: unknown[] = [
         "heading": "الأسئلة الشائعة",
         "bullets": [
           "كم يستغرق إعداد Starlink Mini X لأول مرة؟ استغرق أقل من عشرين دقيقة من توصيل الكهرباء حتى التصفح بعد التحديث والمحاذاة، وتجد في قسم التفعيل طريقة منع الهاتف من ترك الشبكة المؤقتة.",
-          "ما السرعة التي وصل إليها Starlink Mini X على الشرفة؟ في أول اختبار على شرفتي قست 200 ميجابت/ث للتنزيل، و19 ميجابت/ث للرفع، و25 مللي ثانية زمن استجابة. حافظ على اتصال ثابت دون انقطاع لساعتين رغم الحجب الجزئي، وظل نقل أكثر من 10 جيجابايت خلال أكثر من ساعة مستقرًا طوال الفترة التي تابعتها.",
+          "ما السرعة التي وصل إليها Starlink Mini X على الشرفة؟ في أول اختبار على شرفتي قست 200 ميجابت/ث للتنزيل، و19 ميجابت/ث للرفع، و25 مللي ثانية زمن استجابة. حافظ على اتصال ثابت دون انقطاع لساعتين رغم الحجب الجزئي، وظل نقل 2 جيجابايت خلال أكثر من ساعة مستقرًا طوال الفترة التي تابعتها.",
           "هل يكفي Starlink Mini X وحده لتغطية بيت كبير بجدران سميكة؟ لا في منزلي؛ فبعد وضع راوتر ميني الخاص بالطقم في نقطة مفتوحة بالطابق الأرضي اقتربت الإشارة من الحد الأقصى في الصالة الرئيسية، وقد تحتاج البيوت الأكبر إلى عقدة ثانية.",
           "هل يلزم ثقب السقف للاختبار قبل التركيب الدائم؟ لا، يكفي إسناد الطبق في مكان ثابت مكشوف للسماء وقريب من مقبس كهرباء لتجربة الخدمة خلال مهلة الإرجاع البالغة 30 يومًا.",
           "كيف تعمل مكافأة رابط إحالة Starlink؟ للعملاء الجدد الذين يطلبون عبر الرابط الرسمي على starlink.com ويسددون دورتي فوترة، يُضاف رصيد في الفاتورة التالية بحسب البلد مثل 160 ر.ق. في قطر أو 150 د.إ. في الإمارات، وتأكد دائمًا من المبلغ الظاهر في طلبك قبل الدفع."

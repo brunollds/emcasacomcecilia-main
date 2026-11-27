@@ -174,7 +174,7 @@
       "heading": "Débit mesuré sur le balcon et obstructions après deux heures",
       "paragraphs": [
         "Même posée provisoirement sur le balcon de la suite avec une obstruction partielle, la connexion a tenu sans la moindre coupure pendant les deux premières heures d'utilisation.",
-        "Sur mon premier test de débit enregistré juste après la mise en ligne du réseau, j'ai mesuré 200 Mbps en réception, 19 Mbps en émission et 25 ms de ping. Pour observer la tenue en charge continue, j'ai lancé une tâche Air Explorer transférant une sauvegarde de OneDrive vers Google Drive : plus de 10 Go ont été envoyés en plus d'une heure d'affilée et, même avec un débit d'envoi inférieur à ma fibre filaire, le transfert est resté stable pendant toute la période observée.",
+        "Sur mon premier test de débit enregistré juste après la mise en ligne du réseau, j'ai mesuré 200 Mbps en réception, 19 Mbps en émission et 25 ms de ping. Pour observer la tenue en charge continue, j'ai lancé une tâche Air Explorer transférant une sauvegarde de OneDrive vers Google Drive : 2 Go ont été envoyés en plus d'une heure d'affilée et, même avec un débit d'envoi inférieur à ma fibre filaire, le transfert est resté stable pendant toute la période observée.",
         "Au bout de deux heures sous tension, la carte d'obstructions de l'appli a confirmé ce que j'attendais : le renfoncement latéral du balcon n'offre pas le ciel le plus dégagé de la maison, mais tout a tourné de manière fluide et sans coupure. L'application précise elle-même qu'il lui faut quelques heures pour s'ajuster et compléter la carte, mieux vaut donc patienter avant de juger le signal. Dans mon cas, la fixation définitive sur le toit devrait surtout relever le plafond de débit maximal. Starlink ne garantit pas un débit minimal fixe par abonnement, et les résultats varient selon la région et le dégagement."
       ],
       "metrics": {
@@ -206,7 +206,7 @@
         ],
         "summary": {
           "badge": "Stable sans coupure",
-          "text": "Zéro coupure en 2 heures sur le balcon (malgré obstruction partielle) et transfert stable de plus de 10 Go en plus d'une heure entre clouds."
+          "text": "Zéro coupure en 2 heures sur le balcon (malgré obstruction partielle) et transfert stable de 2 Go en plus d'une heure entre clouds."
         }
       },
       "image": {
@@ -236,7 +236,7 @@
       "heading": "Premières impressions : les réussites et les points de vigilance",
       "paragraphs": [
         "Pour qui subit les coupures de fibre ou souhaite valider le signal sans percer le toit avant la visite du technicien, l'ensemble a montré assez de stabilité dès les premières heures en pose provisoire.",
-        "Lors de ce premier contact, j'ai apprécié la boîte bien organisée, l'activation sans outil, la navigation fluide malgré une obstruction partielle, le transfert stable de plus de 10 Go en plus d'une heure de sauvegarde cloud, la prise de rendez-vous rapide pour l'installation gratuite et l'amélioration nette du signal au grand salon après déplacement du Routeur Mini.",
+        "Lors de ce premier contact, j'ai apprécié la boîte bien organisée, l'activation sans outil, la navigation fluide malgré une obstruction partielle, le transfert stable de 2 Go en plus d'une heure de sauvegarde cloud, la prise de rendez-vous rapide pour l'installation gratuite et l'amélioration nette du signal au grand salon après déplacement du Routeur Mini.",
         "En contrepartie, il faut penser à couper la bascule Wi-Fi automatique sur le mobile, patienter quelques minutes pour voir le Routeur Mini apparaître dans l'appli et laisser passer les premières heures de calibration. Dans les maisons vastes ou très cloisonnées, prévoir un ou deux nœuds additionnels reste judicieux.",
         "Je mettrai cet article à jour après la pose définitive sur le toit prévue le 10/12/2026. Pour l'instant, je n'ai pas encore affronté de forte pluie prolongée ni exploité le câble sur toute sa longueur ou une liaison filaire entre l'antenne et le routeur. Si vous hésitez encore entre les kits de la marque, consultez aussi mon [comparatif Starlink Mini vs Standard](/fr/reviews/starlink-mini-ou-standard-quel-kit-choisir)."
       ],
@@ -263,7 +263,7 @@
       "heading": "Questions fréquentes",
       "bullets": [
         "Combien de temps faut-il pour configurer Starlink Mini X la première fois ? Il m'a fallu moins de vingt minutes entre le branchement sur secteur et la navigation avec mise à jour et alignement ; voyez dans la section d'activation comment éviter que le téléphone ne quitte le réseau provisoire.",
-        "Quel débit Starlink Mini X a-t-elle atteint posée sur le balcon ? Lors de mon premier test sur le balcon, j'ai mesuré 200 Mbps en réception, 19 Mbps en émission et 25 ms de ping. La connexion est restée ferme sans coupure pendant deux heures malgré une obstruction partielle, et le transfert de plus de 10 Go en plus d'une heure est resté stable pendant toute la période observée.",
+        "Quel débit Starlink Mini X a-t-elle atteint posée sur le balcon ? Lors de mon premier test sur le balcon, j'ai mesuré 200 Mbps en réception, 19 Mbps en émission et 25 ms de ping. La connexion est restée ferme sans coupure pendant deux heures malgré une obstruction partielle, et le transfert de 2 Go en plus d'une heure est resté stable pendant toute la période observée.",
         "La Starlink Mini X seule couvre-t-elle une grande maison aux murs épais ? Pas dans ma configuration ; avec le Routeur Mini du kit replacé dans un endroit dégagé au rez-de-chaussée, le signal a approché le maximum dans le grand salon, et les plus grandes maisons peuvent exiger un second nœud.",
         "Faut-il percer le toit pour tester avant la pose définitive ? Non ; il suffit de poser solidement l'antenne avec vue sur le ciel près d'une prise de courant pour valider le service durant les 30 jours de retour.",
         "Comment fonctionne le bonus du lien de parrainage Starlink ? Pour les nouveaux clients qui commandent sur starlink.com via le lien officiel et conservent deux cycles payés, 45 € s'appliquent en crédit sur la facture suivante, comme je l'explique dans la partie sur la livraison et la commande."
