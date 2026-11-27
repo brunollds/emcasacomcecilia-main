@@ -1,0 +1,305 @@
+{
+  "id": 1463,
+  "slug": "starlink-mini-x-home-test-first-impressions",
+  "translationKey": "starlink-mini-x-primeiras-impressoes",
+  "locale": "en",
+  "title": "I tested Starlink Mini X with Router Mini at home: unboxing, balcony setup and first impressions",
+  "seoTitle": "Starlink Mini X home test: real setup and Router Mini",
+  "type": "First Impressions",
+  "category": "produtos-experiencias",
+  "reviewKind": "editorial",
+  "author": {
+    "name": "Bruno Luiz",
+    "slug": "bruno-luiz",
+    "role": "Editing and analysis",
+    "initials": "BL"
+  },
+  "authors": [
+    {
+      "name": "Bruno Luiz",
+      "slug": "bruno-luiz",
+      "role": "Editing and analysis",
+      "initials": "BL"
+    }
+  ],
+  "description": "I bought and tested Starlink Mini X with Router Mini on Brazil's Residential Max plan: delivery, balcony test setup, 200 Mbps first test and indoor Wi-Fi.",
+  "metaDescription": "I tested Starlink Mini X with Router Mini at home: 15-20 min setup, 200 Mbps on 1st test on the balcony and Wi-Fi reach through thick walls.",
+  "publishedAt": "November 26, 2026",
+  "publishedAtISO": "2026-11-26",
+  "updatedAt": "2026-11-26",
+  "draft": false,
+  "isNew": false,
+  "hideFromPortugueseListings": true,
+  "image": "/images/reviews/starlink/starlink-mini-x-teste-em-casa-hero-en.webp",
+  "imageAlt": "Real photo of the Starlink Mini X dish in its box and the Router Mini on the right, with a green panel on the left showing the Starlink logo and the text Mini X at home: first impressions and 200 Mbps on 1st test + Router Mini.",
+  "imageFit": "contain",
+  "imageAspect": "landscape",
+  "pros": [],
+  "cons": [],
+  "affiliate": "starlink",
+  "editorialNote": "I bought the kit myself before permanent roof installation. We participate in Starlink referrals and may earn a reward.",
+  "gallery": [
+    {
+      "image": "/images/reviews/starlink/starlink-mini-x-caixa-fechada.webp",
+      "alt": "Closed cardboard shipping box of the Starlink Mini X kit resting on a table",
+      "caption": "Outer shipping box of the Starlink Mini X kit delivered to my home in Brazil.",
+      "objectFit": "cover",
+      "aspectRatio": 1.6842
+    },
+    {
+      "image": "/images/reviews/starlink/starlink-mini-x-conteudo-caixa.webp",
+      "alt": "Full contents of the Starlink Mini X box: white dish, coiled grey DC power cable, 60 W power supply, pipe adapter and quick guide",
+      "caption": "Everything is neatly organized inside the Starlink Mini X box: dish with integrated router, DC cable, 60 W power supply, pipe adapter and guide.",
+      "objectFit": "cover",
+      "aspectRatio": 1.561
+    },
+    {
+      "image": "/images/reviews/starlink/starlink-mini-x-traseira-portas-anatel.webp",
+      "alt": "Rear of the Starlink Mini X dish with kickstand lifted, showing the DC power input, sealed RJ45 port and Brazil Anatel label",
+      "caption": "Under the Mini X hinged kickstand sit the power connector and the RJ45 port protected by a weather seal plug.",
+      "objectFit": "contain",
+      "aspectRatio": 0.5631
+    },
+    {
+      "image": "/images/reviews/starlink/starlink-mini-roteador-frente-fonte.webp",
+      "alt": "Front view of the Starlink Router Mini resting on its metal stand next to its compact power supply",
+      "caption": "Starlink Router Mini on its metal stand beside the compact power adapter.",
+      "objectFit": "cover",
+      "aspectRatio": 1.0989
+    },
+    {
+      "image": "/images/reviews/starlink/starlink-mini-roteador-portas-base.webp",
+      "alt": "Metal stand and underside of the Starlink Router Mini showing the two numbered Ethernet ports 1 and 2 and Brazil Anatel certification",
+      "caption": "The Router Mini includes its own metal base and features two wired Ethernet ports (1 and 2) underneath.",
+      "objectFit": "cover",
+      "aspectRatio": 1.7758
+    }
+  ],
+  "contentSections": [
+    {
+      "heading": "Quick answer",
+      "paragraphs": [
+        "Starlink Mini X with a Router Mini got me online in 15 to 20 minutes and hit 200 Mbps on my first balcony test, making a solid backup for unstable local fiber. New customers get a US$ 100 credit in the US or £40 in the UK, plus any promotions running on the kit and the monthly plan."
+      ],
+      "links": [
+        {
+          "label": "Check your address and secure the US$ 100 / £40 bonus",
+          "href": "https://starlink.com/?referral=RC-DF-17132118-63432-88",
+          "sponsored": true
+        }
+      ]
+    },
+    {
+      "heading": "Why I bought it despite having fiber, delivery and box contents",
+      "paragraphs": [
+        "When neighborhood fiber fluctuates or drops in the middle of work, having an independent backup connection pays off even at an urban address with wired service.",
+        "On November 19, 2026, I bought the Starlink Mini X kit on the Residential Max plan. The kit came with the dish, the power accessories and a Router Mini with its own base. The order arrived seven days later, on November 26, 2026, well packed, with each piece separated in molded pulp dividers.",
+        "Right after completing the purchase on the official website, I was able to schedule the free professional installation included with the Brazilian plan (this varies by country) directly through an external booking partner linked by Starlink, with the visit set for December 10, 2026. If you plan to subscribe for the first time, starting your order on starlink.com through the official link on our [Starlink referral page](/en/coupons/starlink) locks in US$ 100 in the US or £40 in the UK as a bill credit after two paid billing cycles (and the referrer gets the same reward), alongside the 30-day window to test and return the undamaged kit if the signal does not meet your needs."
+      ],
+      "comparisonTable": {
+        "caption": "Items received in my Residential Max order in Brazil and specs printed on the labels.",
+        "headers": [
+          "Order hardware",
+          "Model and certification",
+          "What comes in the box"
+        ],
+        "rows": [
+          [
+            "Starlink Mini X kit (with built-in router)",
+            "UTA-231, IP67 Type 4 rating, Brazil Anatel 01537-25-13890",
+            "Rear hinged kickstand, grey DC power cable, 60 W power supply (UTP-231P, Brazil plug) and pipe adapter"
+          ],
+          [
+            "Starlink Router Mini (included in the Mini X kit)",
+            "Brazil Anatel 03912-25-13890",
+            "Metal stand base, compact power adapter (UTP-251L) and 2 numbered RJ45 Ethernet ports (1 and 2) on the base"
+          ]
+        ]
+      },
+      "video": {
+        "mp4": "/videos/reviews/starlink/starlink-mini-x-unboxing-loop.mp4",
+        "webm": "/videos/reviews/starlink/starlink-mini-x-unboxing-loop.webm",
+        "poster": "/images/reviews/starlink/starlink-mini-x-unboxing-loop-poster.webp",
+        "alt": "Real unboxing of the Starlink Mini X revealing the white dish inside its inner cradle next to the power supply and pipe adapter",
+        "aspect": "video"
+      }
+    },
+    {
+      "heading": "Temporary balcony mount without drilling anything",
+      "paragraphs": [
+        "You do not have to wait for permanent roof mounting to try the service: a steady spot with an open view of the sky and an outlet nearby gets the dish online right away.",
+        "Since the technician visit is still coming up, I had shortlisted a few spots around the house where I could brace the Mini X firmly without permanent fasteners. My first try was the master bedroom balcony, where the app previews sky visibility, though I wanted to see how it behaved in practice.",
+        "I wedged the dish securely between the balcony safety netting and the guard rail support. Because an AC outlet sat right beside that temporary spot, powering it up was instant and, in this first contact, I did not even need to unroll the entire cable."
+      ],
+      "video": {
+        "mp4": "/videos/reviews/starlink/starlink-mini-x-antena-detalhe-loop.mp4",
+        "webm": "/videos/reviews/starlink/starlink-mini-x-antena-detalhe-loop.webm",
+        "poster": "/images/reviews/starlink/starlink-mini-x-antena-detalhe-loop-poster.webp",
+        "alt": "In-hand demonstration showing the compact size of the Starlink Mini X dish and its rear hinged kickstand",
+        "aspect": "video"
+      }
+    },
+    {
+      "heading": "15 to 20 minute activation and the auto-Wi-Fi catch",
+      "paragraphs": [
+        "Initial onboarding in the app is straightforward, but turning off automatic Wi-Fi switching on your phone stops it from dropping the dish mid-setup.",
+        "That was the single annoying wrinkle on day one: during the initial steps, your phone must stay connected to Starlink's temporary Wi-Fi network, which has no internet access yet. As soon as my phone noticed there was no internet, it automatically hopped back onto one of our existing home Wi-Fi networks.",
+        "Once I locked the connection manually and started alignment, the process just needed a bit of patience: the dish finds its best orientation there, scans for obstructions and downloads software updates at the same time. From plugging into the outlet to browsing over Starlink Wi-Fi on my phone, the whole process took 15 to 20 minutes."
+      ],
+      "checklist": {
+        "title": "What to check on first activation",
+        "items": [
+          "Disable automatic Wi-Fi switching on your smartphone so it does not leave the dish's temporary offline network.",
+          "Brace the Mini X firmly before plugging it in so wind cannot shift it even during a temporary test.",
+          "Wait for the software download to finish and for the 3D alignment assistant to confirm the dish is aimed properly.",
+          "Verify in the app dashboard that your subscription shows as active before setting up the Router Mini."
+        ]
+      },
+      "image": {
+        "src": "/images/reviews/starlink/starlink-mini-x-app-painel-residencial-max.webp",
+        "alt": "Starlink app dashboard in Portuguese from the Brazilian unit showing the Mini dish on the Residential Max plan downloading a software update at 86%",
+        "caption": "Portuguese Starlink app dashboard on my Brazilian unit confirming the Mini on the Residential Max plan during the initial update.",
+        "objectFit": "portrait",
+        "aspectRatio": 0.4943
+      },
+      "video": {
+        "mp4": "/videos/reviews/starlink/starlink-mini-x-app-alinhamento-loop.mp4",
+        "webm": "/videos/reviews/starlink/starlink-mini-x-app-alinhamento-loop.webm",
+        "poster": "/images/reviews/starlink/starlink-mini-x-app-alinhamento-loop-poster.webp",
+        "alt": "3D alignment assistant in the Portuguese Starlink app confirming the Mini X dish is aligned",
+        "aspect": "portrait"
+      }
+    },
+    {
+      "heading": "Balcony speeds and obstructions after two hours",
+      "paragraphs": [
+        "Even resting temporarily on the master suite balcony with partial sky obstruction, the link held steady without a single drop during the first two hours of use.",
+        "On my first speed test right after the network came up, I hit 200 Mbps download, 19 Mbps upload and 25 ms ping. To check sustained heavy usage, I left an Air Explorer task backing up from OneDrive to Google Drive: 2 GB transferred in over an hour straight, and even though the transfer rate is lower than my wired home fiber, the transfer stayed steady throughout the period I monitored.",
+        "After two hours online, the app's obstruction map confirmed what I expected: tucking the dish against the side of the balcony is not the clearest spot on the property, yet everything ran smoothly with zero interruptions. The app itself notes that it needs a few hours to settle and complete the sky map, so it pays to be patient before judging signal quality. In my case, permanent roof mounting should raise the peak speed ceiling. Starlink does not guarantee a fixed minimum speed per plan, and results vary by region and sky clearance."
+      ],
+      "metrics": {
+        "items": [
+          {
+            "label": "First test download",
+            "value": "200",
+            "unit": " Mbps",
+            "note": "Temporary balcony reading"
+          },
+          {
+            "label": "First test upload",
+            "value": "19",
+            "unit": " Mbps",
+            "note": "Brazil Residential Max plan"
+          },
+          {
+            "label": "Latency (ping)",
+            "value": "25",
+            "unit": " ms",
+            "note": "Right after activation"
+          },
+          {
+            "label": "Outlet to online",
+            "value": "15 to 20",
+            "unit": " min",
+            "note": "Including alignment and update"
+          }
+        ],
+        "summary": {
+          "badge": "Steady with zero drops",
+          "text": "Zero drops in 2 hours on the balcony (despite partial obstruction) and steady transfer of 2 GB in over 1 hour between clouds."
+        }
+      },
+      "image": {
+        "src": "/images/reviews/starlink/starlink-mini-x-app-obstrucoes.webp",
+        "alt": "Obstructions screen in the Portuguese Starlink app showing the 3D sky calibration dome, clear-view legend and initial data collection notice",
+        "caption": "Obstructions screen in the Portuguese Starlink app during balcony calibration.",
+        "objectFit": "portrait",
+        "aspectRatio": 0.4943
+      }
+    },
+    {
+      "heading": "Router Mini through thick walls and living room signal",
+      "paragraphs": [
+        "At home, with thick walls, the dish on the balcony alone does not bring Wi-Fi to every room. With the Router Mini at a spot between the balcony and the living room, the signal in the living room came out strong.",
+        "For real-world context, Wi-Fi has always been tricky in my home because of the walls. Today I run a three-node TP-Link Deco BE22 mesh (two of them wired to each other, the main unit and the main living room node, with the third running wirelessly) and still end up with medium-to-weak dead zones, including that very bedroom balcony. So I set up the Router Mini that comes in the Mini X kit right away.",
+        "Once you plug the Router Mini into power, you wait a few minutes for it to show up in the app and add it as a wireless mesh node in a very simple flow. I placed it in the main living room first, and the app immediately warned that signal strength was poor and asked me to move it closer to the dish. I relocated the Router Mini to a ground-floor spot closer to the balcony with fewer walls in between, and it linked up with the Mini X right away. While writing these impressions from the main living room, right where I wanted full bars, my phone showed Starlink Wi-Fi near 100%. Repositioning the Router Mini to that midpoint fixed living room reception, though covering every corner of the house will likely take a second Router Mini — this initial test did not measure room-by-room coverage to compare against the three Deco BE22 nodes. In this first test I ran everything over wireless mesh, without running Ethernet cables through the base ports yet."
+      ],
+      "video": {
+        "mp4": "/videos/reviews/starlink/starlink-mini-roteador-app-cabo-mesh-loop.mp4",
+        "webm": "/videos/reviews/starlink/starlink-mini-roteador-app-cabo-mesh-loop.webm",
+        "poster": "/images/reviews/starlink/starlink-mini-roteador-app-cabo-mesh-loop-poster.webp",
+        "alt": "3D animation inside the Starlink app guiding Router Mini placement indoors and showing wired Ethernet options",
+        "aspect": "portrait"
+      }
+    },
+    {
+      "heading": "First impressions: what stood out and what needs care",
+      "paragraphs": [
+        "If you deal with fiber dropouts or want to verify real-world signal before drilling into your roof ahead of the technician visit, the setup already delivered plenty of stability during its first temporary hours.",
+        "Right out of the gate, I appreciated the tidy packaging, tool-free activation, drop-free browsing even in a partially obstructed spot, steady cloud backup transfers moving 2 GB in over an hour, effortless booking of free professional installation and the stronger living room signal after repositioning the Router Mini.",
+        "On the flip side, remember to disable automatic Wi-Fi switching on your phone, give the Router Mini a few minutes to appear in the app and wait out the first few hours of sky calibration. In large or multi-room homes, it also makes sense to budget for one or two extra mesh nodes.",
+        "I will update this review after the permanent roof installation scheduled for December 10, 2026. So far, I have not tested prolonged heavy rain, extended the cable to its full reach or wired the dish to the router via Ethernet. If you are still weighing Starlink models, also read my [Starlink Mini vs Standard comparison](/en/reviews/starlink-mini-vs-standard-which-to-choose)."
+      ],
+      "image": {
+        "src": "/images/reviews/starlink/starlink-mini-x-app-configuracoes.webp",
+        "alt": "Settings menu in the Portuguese Starlink app showing Router and Starlink tabs, sleep schedule and obstruction map reset",
+        "caption": "Dish settings menu inside the Portuguese Starlink app on my Brazilian unit.",
+        "objectFit": "portrait",
+        "aspectRatio": 0.4943
+      },
+      "links": [
+        {
+          "label": "Check your address and secure the US$ 100 / £40 bonus",
+          "href": "https://starlink.com/?referral=RC-DF-17132118-63432-88",
+          "sponsored": true
+        },
+        {
+          "label": "Compare Starlink Mini vs Standard in practice",
+          "href": "/en/reviews/starlink-mini-vs-standard-which-to-choose"
+        }
+      ]
+    },
+    {
+      "heading": "Frequently asked questions",
+      "bullets": [
+        "How long does it take to set up Starlink Mini X for the first time? It took 15 to 20 minutes from plugging into the outlet to browsing online with updates and alignment; check the activation section for how to keep your phone from leaving the temporary Wi-Fi network.",
+        "What speed did Starlink Mini X reach resting on the balcony? On my first balcony test I measured 200 Mbps download, 19 Mbps upload and 25 ms ping. It held steady with zero drops for two hours despite partial obstruction, and transferring 2 GB in over an hour stayed steady throughout the period I monitored.",
+        "Does Starlink Mini X alone cover a large home with thick walls? Not in my layout; once I repositioned the kit's Router Mini at a clear spot on the ground floor, signal hit near full bars in the main living room, and larger homes may need a second node.",
+        "Do you have to drill the roof to test before permanent installation? No; simply resting the dish firmly with a clear view of the sky near a power outlet lets you test the service within the 30-day return window.",
+        "How does the Starlink referral link bonus work? For new customers who order on starlink.com via the official link and keep two paid billing cycles, US$ 100 in the US or £40 in the UK is applied as a bill credit, as I explain in the delivery and order section."
+      ]
+    }
+  ],
+  "decision": {
+    "takeIf": [
+      "you deal with local fiber dropouts and want to test an independent connection before drilling the roof.",
+      "you want a compact kit that sets up in minutes, with a Router Mini included to carry Wi-Fi past thick walls.",
+      "you want to use the 30-day test window on a temporary spot while waiting for permanent installation."
+    ],
+    "skipIf": [
+      "you already have steady street fiber delivering your paid speed without dropouts that justify a backup link.",
+      "you expect to cover a large, heavily partitioned home relying only on the kit's dish and Router Mini.",
+      "you require a guaranteed minimum speed or fixed latency under contract, since service varies by region and sky view."
+    ]
+  },
+  "relatedArticles": [
+    {
+      "slug": "starlink-mini-vs-standard-which-to-choose"
+    },
+    {
+      "slug": "is-starlink-worth-it"
+    },
+    {
+      "slug": "starlink-contract-cancel-refund"
+    },
+    {
+      "slug": "starlink-referral-link-how-it-works"
+    }
+  ],
+  "cta": {
+    "text": "The order opens on starlink.com via the official referral link, showing pricing at your address with 30 days to test and return undamaged hardware. In the US and UK, the US$ 100 or £40 bill credit lands after two paid cycles.",
+    "label": "Check your address and secure the US$ 100 / £40 bonus",
+    "url": "https://starlink.com/?referral=RC-DF-17132118-63432-88",
+    "sponsored": true
+  }
+}

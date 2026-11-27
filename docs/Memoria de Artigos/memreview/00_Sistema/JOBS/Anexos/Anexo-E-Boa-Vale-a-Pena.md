@@ -78,7 +78,7 @@ Exemplo: `oceane-e-boa`, `simple-organic-e-boa`, `probiotica-e-boa`, `baw-clothi
   - **Permitido nesta série:** `"<Marca> é boa? Tudo o que você precisa saber antes de comprar"` ou `"<Marca> é boa? História, principais linhas, o que comprar e cupom"` (quando o artigo realmente cobre origem, linhas, produtos, preços e cupom).
   - **Proibido no H1:** sufixos defensivos como *"pelo que a loja informa"*, *"o que dá para conferir antes de comprar"*, *"pelo rótulo, um a um"*, *"o que a página mostra"*.
 - **Esqueleto padrão (7 a 10 capítulos):**
-  1. **`Resposta rápida`** (`1` parágrafo, `40` a `65` palavras, **ZERO `"R$"`**, **ZERO `"reais"`** e zero datas):
+  1. **`Resposta rápida`** (`1` parágrafo, `40` a `65` palavras, preço com `"R$"` permitido e zero datas):
      - **1ª frase:** resposta afirmativa natural (**`"Sim..."`**, **`"Vale, sim..."`**, **`"É boa, sim..."`**, **`"Com certeza vale..."`**, **`"Compensa, sim..."`**) + o **perfil de compra** + a **amplitude real e benefício concreto** da marca/linha (sem citar `"pelo rótulo"` e sem jogar exceção operacional nem água fria na abertura).
      - **2ª frase:** código do cupom (`%`) ou link de indicação ativo + a condição real do dossiê (ex.: *"em todo o site"*, *"em todas as formas de pagamento"*, *"no site e no app"*).
      - **3ª frase:** porta de entrada prática ou convite às tabelas/comparativos abaixo (onde está a prova numérica de kits, rótulos ou faixas de preço).

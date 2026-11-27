@@ -15,6 +15,7 @@ import { copyTextWithFallback } from '@/lib/clipboardUtils';
 import { openConsentPreferences } from '@/lib/consent';
 import { INTERNAL_HOSTNAMES } from '@/lib/internalLinks';
 import type {
+  FestivalBannerStrip,
   FestivalBlackFridayData,
   FestivalCampaign,
   FestivalLimitedCode,
@@ -214,6 +215,17 @@ export function getLiveCampaigns(campaigns: FestivalCampaign[], nowMs: number): 
   });
 }
 
+export function getLiveBannerStrips(
+  strips: FestivalBannerStrip[],
+  nowMs: number,
+): FestivalBannerStrip[] {
+  return strips.filter((s) => {
+    if (s.startsAt && nowMs < Date.parse(s.startsAt)) return false;
+    if (s.endsAt && nowMs > Date.parse(s.endsAt)) return false;
+    return true;
+  });
+}
+
 export function getActiveLimitedCode(
   limitedCodes: FestivalLimitedCode[],
   nowMs: number,
@@ -295,6 +307,108 @@ export function StoreOrb({
         <span className="bf-orb-init">{store.mark.initials}</span>
       )}
     </span>
+  );
+}
+
+export function FestivalBannerStripCard({
+  strip,
+  onOpenModal,
+}: {
+  strip: FestivalBannerStrip;
+  onOpenModal?: (slug: string) => void;
+}) {
+  const [imgFailed, setImgFailed] = useState(false);
+
+  const handleImgRef = useCallback((el: HTMLImageElement | null) => {
+    if (!el || !el.complete) return;
+    if (el.naturalWidth === 0 || (el.naturalWidth <= 2 && el.naturalHeight <= 2)) {
+      setImgFailed(true);
+    }
+  }, []);
+
+  const handleBannerClick = useCallback(() => {
+    trackEvent('coupon_store_click', {
+      brand: strip.brand,
+      placement: 'festival_blackfriday',
+      url: strip.href,
+    });
+  }, [strip.brand, strip.href]);
+
+  return (
+    <article
+      className="bf-banner-strip-card"
+      aria-label={`${strip.brand}: ${strip.headline}`}
+      style={
+        {
+          '--c': strip.brandColor,
+          '--b-bg': strip.orbBackground ?? '#f4efe6',
+        } as CSSProperties
+      }
+    >
+      <div className="bf-banner-strip-top">
+        <div className="bf-banner-strip-info">
+          <div className="bf-hl-top-tags">
+            <span className="bf-hl-pill urgent">🔥 {strip.tag}</span>
+            <span className="bf-hl-pill">{strip.eyebrow}</span>
+          </div>
+          <div className="bf-banner-strip-brand-line">
+            <span className="bf-orb bf-banner-strip-orb" aria-hidden="true">
+              <span className="bf-orb-init">{strip.initials}</span>
+            </span>
+            <div className="bf-banner-strip-copy">
+              <h3 className="bf-banner-strip-title">{strip.headline}</h3>
+              <p className="bf-banner-strip-sub">{strip.subtext}</p>
+            </div>
+          </div>
+        </div>
+
+        <div className="bf-banner-strip-actions">
+          <a
+            href={strip.href}
+            target="_blank"
+            rel="sponsored noopener noreferrer"
+            className="bf-banner-strip-cta"
+            onClick={handleBannerClick}
+          >
+            {strip.actionLabel} ↗
+          </a>
+          {onOpenModal ? (
+            <button
+              type="button"
+              className="bf-banner-strip-details-btn"
+              onClick={() => onOpenModal(strip.slug)}
+            >
+              Como funciona
+            </button>
+          ) : null}
+        </div>
+      </div>
+
+      {strip.bannerImgSrc && !imgFailed ? (
+        <a
+          href={strip.href}
+          target="_blank"
+          rel="sponsored noopener noreferrer"
+          className="bf-banner-strip-art"
+          onClick={handleBannerClick}
+        >
+          {/* eslint-disable-next-line @next/next/no-img-element */}
+          <img
+            ref={handleImgRef}
+            src={strip.bannerImgSrc}
+            alt={strip.bannerImgAlt ?? strip.headline}
+            loading="lazy"
+            decoding="async"
+            onLoad={(ev) => {
+              if (ev.currentTarget.naturalWidth <= 2 && ev.currentTarget.naturalHeight <= 2) {
+                setImgFailed(true);
+              }
+            }}
+            onError={() => setImgFailed(true)}
+          />
+        </a>
+      ) : null}
+    </article>
   );
 }
 
@@ -997,6 +1111,19 @@ export function FestivalStageClient({ data }: { data: FestivalBlackFridayData })
   const insiderStore = runtimeBySlug.get('insider');
   const iwsStore = runtimeBySlug.get('i-wanna-sleep');
 
+  const liveBannerStrips = useMemo(
+    () => getLiveBannerStrips(data.bannerStrips, minuteNowMs),
+    [data.bannerStrips, minuteNowMs],
+  );
+
+  const weeklyHighlightStores = useMemo(
+    () =>
+      data.weeklyHighlightSlugs
+        .map((slug) => runtimeBySlug.get(slug))
+        .filter((s): s is NonNullable<typeof s> => Boolean(s)),
+    [data.weeklyHighlightSlugs, runtimeBySlug],
+  );
+
   const modalStore = modalSlug ? runtimeBySlug.get(modalSlug) ?? null : null;
   const modalNeighbors = useMemo(() => {
     if (!modalSlug) return null;
@@ -1273,22 +1400,23 @@ export function FestivalStageClient({ data }: { data: FestivalBlackFridayData })
                 </h2>
               </div>
               <p className="bf-act-note">
-                Deslize pelas marcas com código exclusivo — um toque já copia e abre a loja oficial.
+                Deslize pelas ofertas e campanhas das parceiras — copie o código ou abra o link oficial em um toque.
               </p>
             </div>
 
             <div className="bf-lookbook-rail">
               {data.lookbookSlugs.map((slug) => {
                 const s = runtimeBySlug.get(slug);
-                if (!s || !s.spotlight || !s.effectiveCode) return null;
+                if (!s || !s.spotlight) return null;
                 const code = s.effectiveCode;
                 const isCopied = Boolean(wallet[s.slug]);
                 const topTag = s.liveCampaigns[0]?.tag || s.effectiveDiscount;
                 const kindLabel = s.codeKind === 'reward' ? 'Reward Code' : 'código exclusivo';
-                const cardAriaLabel =
-                  s.codeKind === 'reward'
+                const cardAriaLabel = code
+                  ? s.codeKind === 'reward'
                     ? `${s.brand}: Reward Code ${code}`
-                    : `${s.brand}: ${s.effectiveDiscount} com ${code}`;
+                    : `${s.brand}: ${s.effectiveDiscount} com ${code}`
+                  : `${s.brand}: ${s.effectiveDiscount}`;
 
                 return (
                   <article
@@ -1309,20 +1437,43 @@ export function FestivalStageClient({ data }: { data: FestivalBlackFridayData })
                     <div className="bf-reel-bottom">
                       <h3 className="bf-reel-camp-text">{s.liveCampaigns[0]?.headline ?? s.spotlight.label}</h3>
                       <p className="bf-reel-sub">
-                        Nosso {kindLabel}: <strong>{s.effectiveDiscount}</strong>
+                        {code ? (
+                          <>
+                            Nosso {kindLabel}: <strong>{s.effectiveDiscount}</strong>
+                          </>
+                        ) : (
+                          <>
+                            Oferta pelo link oficial: <strong>{s.effectiveDiscount}</strong>
+                          </>
+                        )}
                       </p>
-                      <div className={`bf-reel-ticket${isCopied ? ' is-copied' : ''}`}>
-                        <code>{code}</code>
-                        <a
-                          className="bf-reel-copy"
-                          href={s.spotlight.url}
-                          target="_blank"
-                          rel="sponsored noopener noreferrer"
-                          onClick={(ev) => handleCopyAndGo(s, code, s.effectiveDiscount, ev, s.spotlight!.url)}
-                        >
-                          {isCopied ? '✓ Copiado ↗' : 'Copiar e ir ↗'}
-                        </a>
-                      </div>
+                      {code ? (
+                        <div className={`bf-reel-ticket${isCopied ? ' is-copied' : ''}`}>
+                          <code>{code}</code>
+                          <a
+                            className="bf-reel-copy"
+                            href={s.spotlight.url}
+                            target="_blank"
+                            rel="sponsored noopener noreferrer"
+                            onClick={(ev) => handleCopyAndGo(s, code, s.effectiveDiscount, ev, s.spotlight!.url)}
+                          >
+                            {isCopied ? '✓ Copiado ↗' : 'Copiar e ir ↗'}
+                          </a>
+                        </div>
+                      ) : (
+                        <div className="bf-reel-ticket is-link">
+                          <span className="bf-reel-link-badge">Link oficial</span>
+                          <a
+                            className="bf-reel-copy"
+                            href={s.spotlight.url}
+                            target="_blank"
+                            rel="sponsored noopener noreferrer"
+                            onClick={() => handleStoreOnlyClick(s, s.spotlight!.url)}
+                          >
+                            Abrir oferta ↗
+                          </a>
+                        </div>
+                      )}
                     </div>
                   </article>
                 );
@@ -1331,20 +1482,37 @@ export function FestivalStageClient({ data }: { data: FestivalBlackFridayData })
           </section>
         ) : null}
 
-        {/* ATO III — DESTAQUES DA PARCERIA (DAMIE, Insider, I Wanna Sleep) */}
-        {!normalizedQ && (damieStore || insiderStore || iwsStore) ? (
+        {/* ATO III — DESTAQUES DA SEMANA (Banners de Link Convertido + Headliners + Grade de Campanhas) */}
+        {!normalizedQ &&
+        (liveBannerStrips.length > 0 ||
+          damieStore ||
+          insiderStore ||
+          iwsStore ||
+          weeklyHighlightStores.length > 0) ? (
           <section className="bf-wrap bf-headliners-sec" aria-labelledby="hl-title">
             <div className="bf-act-header">
               <div>
-                <span className="bf-act-eyebrow">Destaques da Parceria</span>
+                <span className="bf-act-eyebrow">Ofertas Especiais &amp; Parcerias</span>
                 <h2 className="bf-act-title" id="hl-title">
                   Destaques da Semana
                 </h2>
               </div>
               <p className="bf-act-note">
-                Três parceiras com condições especiais e descontos acumuláveis no site oficial.
+                Campanhas ativas de Black Friday combinadas com nossos códigos exclusivos e links oficiais convertidos.
               </p>
             </div>
+
+            {liveBannerStrips.length > 0 ? (
+              <div className="bf-banner-strips-stack">
+                {liveBannerStrips.map((strip) => (
+                  <FestivalBannerStripCard
+                    key={strip.id}
+                    strip={strip}
+                    onOpenModal={(slug) => setModalSlug(slug)}
+                  />
+                ))}
+              </div>
+            ) : null}
 
             {damieStore && damieStore.effectiveCode ? (
               <article
@@ -1516,6 +1684,117 @@ export function FestivalStageClient({ data }: { data: FestivalBlackFridayData })
                 </article>
               ) : null}
             </div>
+
+            {weeklyHighlightStores.length > 0 ? (
+              <div className="bf-weekly-offers-block">
+                <div className="bf-weekly-subhead">
+                  <h3 className="bf-weekly-subtitle">🔥 Mais Ofertas &amp; Campanhas da Semana</h3>
+                  <span>Toque para copiar o código ou acessar o link oficial</span>
+                </div>
+
+                <div className="bf-weekly-grid">
+                  {weeklyHighlightStores.map((s) => {
+                    const code = s.effectiveCode;
+                    const isCopied = Boolean(wallet[s.slug]);
+                    const topCamp = s.liveCampaigns[0];
+                    const extraCamp = s.liveCampaigns[1];
+                    const badge = topCamp?.tag || s.effectiveDiscount;
+                    const destination =
+                      topCamp && !topCamp.internal ? topCamp.href : s.offerUrl;
+                    const cardAria = code
+                      ? s.codeKind === 'reward'
+                        ? `${s.brand}: Reward Code ${code}`
+                        : `${s.brand}: ${s.effectiveDiscount} com ${code}`
+                      : `${s.brand}: ${s.effectiveDiscount}`;
+
+                    return (
+                      <article
+                        key={s.slug}
+                        className="bf-weekly-card"
+                        aria-label={cardAria}
+                        style={{ '--c': s.brandColor } as CSSProperties}
+                      >
+                        <div className="bf-weekly-card-body">
+                          <div className="bf-weekly-card-head">
+                            <button
+                              type="button"
+                              className="bf-weekly-brand-btn"
+                              onClick={() => setModalSlug(s.slug)}
+                            >
+                              <StoreOrb store={s} size={34} />
+                              <span className="bf-weekly-brand-meta">
+                                <strong>{s.brand}</strong>
+                                <small>{s.categoryName.split(':')[0]}</small>
+                              </span>
+                            </button>
+                            <span className="bf-weekly-tag">{badge}</span>
+                          </div>
+
+                          <h4 className="bf-weekly-headline">
+                            {topCamp?.headline ?? `${s.brand}: ${s.shortDescription}`}
+                          </h4>
+
+                          {extraCamp ? (
+                            <p className="bf-weekly-extra">⚡ {extraCamp.headline}</p>
+                          ) : (
+                            <p className="bf-weekly-desc">
+                              {code ? (
+                                <>
+                                  {s.codeKind === 'reward' ? 'Reward Code' : 'Código da parceria'}:{' '}
+                                  <strong>{s.effectiveDiscount}</strong> ({s.eligibleCategories})
+                                </>
+                              ) : (
+                                s.combinable
+                              )}
+                            </p>
+                          )}
+                        </div>
+
+                        {code ? (
+                          <div className={`bf-weekly-ticket${isCopied ? ' is-copied' : ''}`}>
+                            <div className="bf-weekly-ticket-code">
+                              <span>
+                                {s.codeKind === 'reward'
+                                  ? `Reward Code (${s.effectiveDiscount})`
+                                  : `Código · ${s.effectiveDiscount}`}
+                              </span>
+                              <code>{code}</code>
+                            </div>
+                            <a
+                              href={destination}
+                              target="_blank"
+                              rel="sponsored noopener noreferrer"
+                              className="bf-weekly-ticket-btn"
+                              onClick={(ev) =>
+                                handleCopyAndGo(s, code, s.effectiveDiscount, ev, destination)
+                              }
+                            >
+                              {isCopied ? '✓ Copiado ↗' : 'Copiar e ir ↗'}
+                            </a>
+                          </div>
+                        ) : (
+                          <div className="bf-weekly-ticket is-link">
+                            <div className="bf-weekly-ticket-code">
+                              <span>Link oficial · Sem código</span>
+                              <strong>{s.effectiveDiscount}</strong>
+                            </div>
+                            <a
+                              href={destination}
+                              target="_blank"
+                              rel="sponsored noopener noreferrer"
+                              className="bf-weekly-ticket-btn"
+                              onClick={() => handleStoreOnlyClick(s, destination)}
+                            >
+                              Abrir oferta ↗
+                            </a>
+                          </div>
+                        )}
+                      </article>
+                    );
+                  })}
+                </div>
+              </div>
+            ) : null}
           </section>
         ) : null}
       </main>
@@ -1735,9 +2014,15 @@ export function FestivalStageClient({ data }: { data: FestivalBlackFridayData })
                 ) : (
                   <span />
                 )}
-                <Link href={modalStore.storePageUrl} className="bf-modal-rules-link">
-                  Regras em /cupons
-                </Link>
+                {modalStore.storePageUrl ? (
+                  <Link href={modalStore.storePageUrl} className="bf-modal-rules-link">
+                    Regras em /cupons
+                  </Link>
+                ) : (
+                  <Link href="/cupons" className="bf-modal-rules-link">
+                    Ver hub /cupons
+                  </Link>
+                )}
                 {modalNeighbors?.next ? (
                   <button
                     type="button"

@@ -141,7 +141,7 @@ coupon: null
   - Separação dos cenários no simulador de `pt` entre **Alto Paraíso (BR)** (`Mini X` a `R$ 299` no `100 Mbps` sem 12m ou `R$ 49` no `Max` com 12m) e **Av. Paulista / Portugal** (`Standard 4 X` na pré-venda de SP com depósito de `R$ 275` de `R$ 2.400`, e `Standard 4` em aluguer a `0 €` em Lisboa).
   - Substituição da promessa de autonomia em bateria/nobreak ("mais do que o dobro") nos idiomas afetados por redação conservadora apoiada nas fichas (`25–40 W` vs `75–100 W`: *"consome menos e tende a durar mais na mesma bateria"*).
   - Atualização dos botões (`B1`, `B2` e `cta.label`) em todos os 11 idiomas usando o `SL7` como referência, com valor local oficial onde aplicável e a explicação de que o crédito entra na fatura após dois ciclos pagos.
-- **O que fica pendente:** revisão final e GO explícito do Bruno para merge do PR `#1407` e posterior deploy.
+- **O que fica pendente:** revisão final e GO explícito do Bruno para merge do PR `#1407` e posterior deploy. *(Nota cruzada 26/11: primeiras impressões práticas e ativos autorais da Mini X + Mini Roteador registrados na pauta irmã `SL10` em `[[starlink-experiencia-pacote]]` para referência na atualização futura pós-10/12.)*
 
 ## Capa v2 nos 11 idiomas (24/11/2026)
 

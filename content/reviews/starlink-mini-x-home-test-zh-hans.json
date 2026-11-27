@@ -1,0 +1,305 @@
+{
+  "id": 1471,
+  "slug": "starlink-mini-x-home-test-zh-hans",
+  "translationKey": "starlink-mini-x-primeiras-impressoes",
+  "locale": "zh-hans",
+  "title": "我在家实测 Starlink Mini X 搭配 Mini 路由器：开箱、阳台暂放与初体验",
+  "seoTitle": "Starlink Mini X 居家实测：阳台初测 200 Mbps 与 Mini 路由器",
+  "type": "首次使用体验",
+  "category": "produtos-experiencias",
+  "reviewKind": "editorial",
+  "author": {
+    "name": "Bruno Luiz",
+    "slug": "bruno-luiz",
+    "role": "编辑与分析",
+    "initials": "BL"
+  },
+  "authors": [
+    {
+      "name": "Bruno Luiz",
+      "slug": "bruno-luiz",
+      "role": "编辑与分析",
+      "initials": "BL"
+    }
+  ],
+  "description": "我在巴西家中自费购买并实测 Starlink Mini X 与 Mini 路由器：配送开箱、阳台临时放置激活、首次测速 200 Mbps 及厚墙环境 Wi-Fi 覆盖体验。",
+  "metaDescription": "我在巴西实测 Starlink Mini X 与 Mini 路由器：15 至 20 分钟激活、首测 200 Mbps 与 2 GB 稳定上传、厚墙室内信号体验。",
+  "publishedAt": "2026年11月26日",
+  "publishedAtISO": "2026-11-26",
+  "updatedAt": "2026-11-26",
+  "draft": false,
+  "isNew": false,
+  "hideFromPortugueseListings": true,
+  "image": "/images/reviews/starlink/starlink-mini-x-teste-em-casa-hero-zh-hans.webp",
+  "imageAlt": "盒内 Starlink Mini X 天线与右侧 Mini 路由器实拍照片，封面标有“Mini X 居家实测：开箱初体验”和“首测 200 Mbps + Mini 路由器”。",
+  "imageFit": "contain",
+  "imageAspect": "landscape",
+  "pros": [],
+  "cons": [],
+  "affiliate": "starlink",
+  "editorialNote": "我在屋顶正式安装前自费购买该套件完成本次实测。我们参与 Starlink 推荐计划，通过推荐链接完成符合条件的订阅可能获得奖励。",
+  "gallery": [
+    {
+      "image": "/images/reviews/starlink/starlink-mini-x-caixa-fechada.webp",
+      "alt": "放在桌上的 Starlink Mini X 套件未拆封瓦楞纸箱",
+      "caption": "寄送到巴西家中的 Starlink Mini X 套件外箱包装。",
+      "objectFit": "cover",
+      "aspectRatio": 1.6842
+    },
+    {
+      "image": "/images/reviews/starlink/starlink-mini-x-conteudo-caixa.webp",
+      "alt": "Starlink Mini X 盒内全部配件：白色天线、盘好的灰色电源线、60 W 电源适配器、抱杆转接座与快速指南",
+      "caption": "Starlink Mini X 盒内分格非常整齐：内置路由器的天线、DC 电源线、60 W 电源适配器、抱杆转接座和指南。",
+      "objectFit": "cover",
+      "aspectRatio": 1.561
+    },
+    {
+      "image": "/images/reviews/starlink/starlink-mini-x-traseira-portas-anatel.webp",
+      "alt": "展开后方折叠支架后的 Starlink Mini X 天线背面，显示 DC 电源口、带防水塞的 RJ45 网口以及巴西电信认证标签",
+      "caption": "Mini X 背面折叠支架下方有电源接口和带防水塞保护的 RJ45 有线网口。",
+      "objectFit": "contain",
+      "aspectRatio": 0.5631
+    },
+    {
+      "image": "/images/reviews/starlink/starlink-mini-roteador-frente-fonte.webp",
+      "alt": "放置在金属底座上的 Starlink Mini 路由器正面及旁边的小巧电源适配器",
+      "caption": "安装在金属底座上的 Starlink Mini 路由器与小巧电源适配器。",
+      "objectFit": "cover",
+      "aspectRatio": 1.0989
+    },
+    {
+      "image": "/images/reviews/starlink/starlink-mini-roteador-portas-base.webp",
+      "alt": "Starlink Mini 路由器金属底座与底部特写，显示编号 1 和 2 的两个有线网口及巴西电信认证信息",
+      "caption": "Mini 路由器配备专用金属底座，底部带有两个编号为 1 和 2 的有线以太网口。",
+      "objectFit": "cover",
+      "aspectRatio": 1.7758
+    }
+  ],
+  "contentSections": [
+    {
+      "heading": "快速回答",
+      "paragraphs": [
+        "Starlink Mini X 搭配 Mini 路由器在 15 至 20 分钟内稳定上线，阳台首测跑出 200 Mbps，适合作为不稳家用光纤的可靠备援。马来西亚新客户可获得 RM 180 抵扣，另有套件和月费上当前适用的优惠。"
+      ],
+      "links": [
+        {
+          "label": "查询地址并锁定推荐奖励（马来西亚 RM 180）",
+          "href": "https://starlink.com/?referral=RC-DF-17132118-63432-88",
+          "sponsored": true
+        }
+      ]
+    },
+    {
+      "heading": "为什么家里已有光纤还要买，配送时间与开箱清单",
+      "paragraphs": [
+        "当小区光纤在工作时间波动或突然断线时，哪怕住在有线宽带覆盖的城市住宅，多准备一条独立链路也很划算。",
+        "2026 年 11 月 19 日，我订购了 Starlink Mini X 套件，选的是家用高阶套餐（Residencial Max）。套件里有天线、电源配件和一台自带底座的 Mini 路由器。订单在七天后的 2026 年 11 月 26 日送达，包装很好，每件物品都分开放在模压纸浆格挡里。",
+        "在官网提交订单后，我立即通过 Starlink 指引的外部合作页面预约了巴西套餐包含的免费专业安装服务（各国情况不同），上门日期定在 2026 年 12 月 10 日。如果你是初次开通用户，从 [Starlink 推荐说明页面](/zh-hans/coupons/starlink) 的官方链接进入 starlink.com 下单并按时缴清两个完整计费周期，即可在账单上收到所在国家对应的抵扣金额（例如马来西亚为 RM 180，付款前请务必在订单页确认实际显示数额），推荐人也会获得同等奖励；此外享有 30 天试用窗口，若信号不理想可在无损坏情况下退回套件。"
+      ],
+      "comparisonTable": {
+        "caption": "本次巴西家用 Max 套餐订单实际收到的设备清单与机身标签信息。",
+        "headers": [
+          "订单中的设备",
+          "型号与认证标识",
+          "盒内随机配件"
+        ],
+        "rows": [
+          [
+            "Starlink Mini X 套件（内置路由器）",
+            "UTA-231、防护等级 IP67 Type 4、Anatel 01537-25-13890",
+            "背面折叠支架、灰色 DC 电源线、60 W 电源适配器（UTP-231P，巴西插头）和抱杆转接座"
+          ],
+          [
+            "Starlink Mini 路由器（Mini X 套件已含）",
+            "Anatel 03912-25-13890",
+            "专用金属底座、小巧电源适配器（UTP-251L）和底部带编号 1、2 的 2 个 RJ45 网口"
+          ]
+        ]
+      },
+      "video": {
+        "mp4": "/videos/reviews/starlink/starlink-mini-x-unboxing-loop.mp4",
+        "webm": "/videos/reviews/starlink/starlink-mini-x-unboxing-loop.webm",
+        "poster": "/images/reviews/starlink/starlink-mini-x-unboxing-loop-poster.webp",
+        "alt": "Starlink Mini X 开箱实拍画面，展示内托槽中的白色天线、电源适配器和抱杆转接座",
+        "aspect": "video"
+      }
+    },
+    {
+      "heading": "免打孔先在阳台临时支起来试跑",
+      "paragraphs": [
+        "你完全不用等师傅到屋顶正式打孔固定才开始体验：只要找一个能看到天空且附近有插座的稳妥位置，就能先把天线支起来联网。",
+        "由于上门安装还要过些天，我提前在家里挑了几个不用永久固定也能稳妥放置 Mini X 的候选点。第一个试的点位是主卧阳台，虽然应用里本就可以先预览天空遮挡，但我还是想用真实连接检验一遍。",
+        "我顺利把天线稳稳地卡在了阳台防护网和护栏支撑柱之间。因为临时点位旁边刚好有电源插座，接电立刻开机，这次初上手我甚至没必要把整盘线缆都摊开。"
+      ],
+      "video": {
+        "mp4": "/videos/reviews/starlink/starlink-mini-x-antena-detalhe-loop.mp4",
+        "webm": "/videos/reviews/starlink/starlink-mini-x-antena-detalhe-loop.webm",
+        "poster": "/images/reviews/starlink/starlink-mini-x-antena-detalhe-loop-poster.webp",
+        "alt": "手持展示 Starlink Mini X 天线的紧凑体积以及背面折叠支架",
+        "aspect": "video"
+      }
+    },
+    {
+      "heading": "15 至 20 分钟激活上线，留意手机自动切 Wi-Fi 的坑",
+      "paragraphs": [
+        "App 里的初始引导其实很直观，但一定要先把手机的自动切换 Wi-Fi 功能关掉，否则设置到一半手机就会自己断开天线的网络。",
+        "这就是我初次上手时遇到最烦人的小插曲：配置流程中，手机必须连在还没有互联网接入的 Starlink 临时 Wi-Fi 上；结果手机一检测到该网络无法上网，就自动跑回家里本来保存好的 Wi-Fi 上去了。",
+        "手动锁定天线的 Wi-Fi 并开始对准后，后面只需要稍等片刻：天线会在当前位置搜寻最佳角度、检测遮挡物并同步下载固件更新。从插上电到手机连着 Starlink Wi-Fi 正常上网，总共花了 15 到 20 分钟。"
+      ],
+      "checklist": {
+        "title": "首次激活前值得核对的步骤",
+        "items": [
+          "关闭手机的 Wi-Fi 自动切换功能，避免天线临时网络尚未联网时手机自己切走。",
+          "哪怕只是临时测试，通电前也要把 Mini X 放稳卡牢，防止被风吹动摇晃。",
+          "等待软件更新下载完成，并让 3D 对准助手提示天线已经对准正确方向。",
+          "在设置 Mini 路由器之前，先在 App 面板里确认所选套餐已经显示为激活状态。"
+        ]
+      },
+      "image": {
+        "src": "/images/reviews/starlink/starlink-mini-x-app-painel-residencial-max.webp",
+        "alt": "在巴西使用的葡萄牙语版 Starlink App 主界面，显示家用 Max 套餐中的 Mini 天线正在下载更新至 86%",
+        "caption": "初始更新过程中，葡萄牙语版 App 面板确认 Mini 已激活为巴西家用 Max 套餐。",
+        "objectFit": "portrait",
+        "aspectRatio": 0.4943
+      },
+      "video": {
+        "mp4": "/videos/reviews/starlink/starlink-mini-x-app-alinhamento-loop.mp4",
+        "webm": "/videos/reviews/starlink/starlink-mini-x-app-alinhamento-loop.webm",
+        "poster": "/images/reviews/starlink/starlink-mini-x-app-alinhamento-loop-poster.webp",
+        "alt": "葡萄牙语版 Starlink App 的 3D 对准助手画面，确认 Mini X 天线已完成对准",
+        "aspect": "portrait"
+      }
+    },
+    {
+      "heading": "阳台实测速度与连续通电两小时后的遮挡图",
+      "paragraphs": [
+        "尽管只是临时卡在存在部分遮挡的主卧阳台上，整个网络在头两个小时里稳定运行，一次也没有掉线。",
+        "网络刚一打通，我在首轮测速中测得下载 200 Mbps、上传 19 Mbps、延迟（ping）25 ms。为了测试连续上传稳定性，我用 Air Explorer 挂了一条从 OneDrive 向 Google Drive 迁移备份的任务：连续跑了一小时多已传完 2 GB，虽然传输速率比我家的有线宽带低，但在我观察的这段时间里传输一直保持稳定。",
+        "持续通电两小时后再点开 App 的遮挡图，果不其然，卡在阳台侧面并不是家里天空视野最开阔的位置，但实际用下来顺滑流畅、毫无中断。App 本身也会提示需要几个小时完成采样和校准地图，所以不用太早下判断。就我家的情况来看，等以后正式装上屋顶，峰值速度天花板还有提升空间。Starlink 不对订阅提供固定最低速率承诺，具体数值会受地区与天空视野影响。"
+      ],
+      "metrics": {
+        "items": [
+          {
+            "label": "首次测速下载",
+            "value": "200",
+            "unit": " Mbps",
+            "note": "阳台临时点位测量"
+          },
+          {
+            "label": "首次测速上传",
+            "value": "19",
+            "unit": " Mbps",
+            "note": "巴西家用 Max 套餐"
+          },
+          {
+            "label": "网络延迟（ping）",
+            "value": "25",
+            "unit": " ms",
+            "note": "激活后立即测得"
+          },
+          {
+            "label": "通电到联网耗时",
+            "value": "15–20",
+            "unit": " 分钟",
+            "note": "含对准与系统更新"
+          }
+        ],
+        "summary": {
+          "badge": "全程稳定无掉线",
+          "text": "阳台局部遮挡仍两小时零掉线，连续 1 小时以上搬运 2 GB 云备份期间传输保持稳定。"
+        }
+      },
+      "image": {
+        "src": "/images/reviews/starlink/starlink-mini-x-app-obstrucoes.webp",
+        "alt": "Starlink App 遮挡物界面，展示 3D 天空校准穹顶、无遮挡视野图例以及初期数据采集提示",
+        "caption": "阳台校准期间在 Starlink App 中查看到的遮挡物界面。",
+        "objectFit": "portrait",
+        "aspectRatio": 0.4943
+      }
+    },
+    {
+      "heading": "厚墙环境下 Mini 路由器改善客厅信号体验",
+      "paragraphs": [
+        "我家墙体很厚，光靠阳台上的天线，Wi-Fi 没法覆盖所有房间。把 Mini 路由器放在阳台和客厅之间的位置后，客厅信号变强了。",
+        "结合我家真实情况来讲，因为墙体很厚，家里一直很挑 Wi-Fi 路由器。我原本用的是三台 TP-Link Deco BE22 组成的 Mesh（其中两台以网线互联，即主路由和主客厅节点，第三台走无线），即便如此，包括主卧阳台在内依然有几处信号偏中弱的角落。所以我直接启用了 Mini X 套件里自带的 Mini 路由器。",
+        "把 Mini 路由器插上电后等几分钟，它就会出现在 App 里，按提示几步就能配好无线 Mesh 组网。起初我把它摆在主客厅，结果 App 提示这个位置信号不理想，让我挪近天线一些。随后我把 Mini 路由器改放到一楼更靠近阳台且阻挡较少的地方，它和 Mini X 当场就握手连通了。我在最希望信号强劲的主客厅写下这篇体验时，手机上的 Starlink Wi-Fi 几乎一直显示满格。把 Mini 路由器改摆在这个中间位置确实解决好了主客厅的信号，不过想把家里边边角角全覆盖大概率还需要第二台 Mini 路由器；这次初测并没有逐个房间测覆盖来和三台 Deco BE22 对比。这次初测全程都跑在无线 Mesh 模式下，还没有从底座网口接有线回程。"
+      ],
+      "video": {
+        "mp4": "/videos/reviews/starlink/starlink-mini-roteador-app-cabo-mesh-loop.mp4",
+        "webm": "/videos/reviews/starlink/starlink-mini-roteador-app-cabo-mesh-loop.webm",
+        "poster": "/images/reviews/starlink/starlink-mini-roteador-app-cabo-mesh-loop-poster.webp",
+        "alt": "Starlink App 内的 3D 引导动画，演示 Mini 路由器在家中的放置方式及有线连接方案",
+        "aspect": "portrait"
+      }
+    },
+    {
+      "heading": "初次上手印象：惊喜的地方与需要注意的地方",
+      "paragraphs": [
+        "对于经常受光纤掉线困扰、或者希望技师上门前不动屋顶先实测信号的人来说，这套装备在头几个小时的临时点位里已经表现得足够稳健。",
+        "本次初体验中让人印象较好的是工整的包装分格、免工具的简易激活流程、哪怕在局部遮挡的临时位置也稳固的网页浏览体验、一小时以上传完 2 GB 仍一直稳定的云备份传输、顺畅的免费安装预约，以及移到一楼中间点位后主客厅立刻见效的信号提升。",
+        "反过来看，也要注意把手机的自动切 Wi-Fi 关掉、给 Mini 路由器几分钟时间在 App 里出现，并耐心等最初几小时完成校准。如果是大房子或隔间较多的户型，建议提前规划一到两台额外节点。",
+        "等 2026 年 12 月 10 日屋顶正式安装完成后，我会继续更新这篇实测。目前为止还没遇上持续强暴雨，也还没试过把电源线完全拉直或用网线有线连接天线和路由器。如果你还在比较品牌的不同型号，也可以看看 [Starlink Mini 与 Standard 对比指南](/zh-hans/reviews/starlink-mini-or-standard-zh-hans)。"
+      ],
+      "image": {
+        "src": "/images/reviews/starlink/starlink-mini-x-app-configuracoes.webp",
+        "alt": "在巴西使用的葡萄牙语版 Starlink App 设置菜单，包含路由器与 Starlink 标签页、休眠时段设置与重置遮挡图选项",
+        "caption": "葡萄牙语版 Starlink App 中的天线设置菜单。",
+        "objectFit": "portrait",
+        "aspectRatio": 0.4943
+      },
+      "links": [
+        {
+          "label": "查询地址并锁定推荐奖励（马来西亚 RM 180）",
+          "href": "https://starlink.com/?referral=RC-DF-17132118-63432-88",
+          "sponsored": true
+        },
+        {
+          "label": "对比 Starlink Mini 与 Standard 的实际差异",
+          "href": "/zh-hans/reviews/starlink-mini-or-standard-zh-hans"
+        }
+      ]
+    },
+    {
+      "heading": "常见问题",
+      "bullets": [
+        "第一次设置 Starlink Mini X 要花多长时间？从插上电源到完成系统更新、天线对准并顺利上网，前后用了 15 至 20 分钟；如何防止手机中途自动离开临时网络见上方激活章节。",
+        "放在阳台上测试时 Starlink Mini X 跑出多少速度？我在阳台首次测试测得下载 200 Mbps、上传 19 Mbps、ping 25 ms。即使局部有遮挡也稳定连接两小时零掉线，超过一小时传输 2 GB 备份期间在我观察的这段时间里也一直保持稳定。",
+        "单靠一台 Starlink Mini X 能覆盖墙体厚的大房子吗？在我家不够用；把套件里的 Mini 路由器摆在一楼开阔位置后，主客厅信号接近满格，更大户型可能需要再多加第二个节点。",
+        "正式安装前一定要在屋顶钻孔才能试用吗？不用，只要找个稳固、看得到天空且离插座不远的地方摆好天线，就能在 30 天退货窗口内验证好不好用。",
+        "Starlink 推荐链接的奖励怎么算？新用户通过官方推荐链接在 starlink.com 下单并缴清两个账单周期后，账单上就会到账对应国家的抵扣金额（例如马来西亚为 RM 180），付款前请在订单页确认实际显示数额。"
+      ]
+    }
+  ],
+  "decision": {
+    "takeIf": [
+      "你所在小区的光纤经常掉线，想在屋顶打孔前先实测一条独立卫星链路。",
+      "你想买一套几分钟就能启用的紧凑硬件，且套件已含 Mini 路由器，可以把 Wi-Fi 送到厚墙之外。",
+      "你想利用 30 天试用期，在等待正式安装前先找临时位置验证信号。"
+    ],
+    "skipIf": [
+      "你家现有的有线光纤非常稳定、跑满签约速度，完全用不上备用链路。",
+      "你希望只靠套件里的天线和 Mini 路由器就把面积很大、隔墙很多的全屋都覆盖满。",
+      "你的使用场景必须有合同写死的最低网速或固定延迟，不能随地区和视野波动。"
+    ]
+  },
+  "relatedArticles": [
+    {
+      "slug": "starlink-mini-or-standard-zh-hans"
+    },
+    {
+      "slug": "starlink-worth-it-zh-hans"
+    },
+    {
+      "slug": "starlink-cancel-zh-hans"
+    },
+    {
+      "slug": "starlink-referral-zh-hans"
+    }
+  ],
+  "cta": {
+    "text": "通过官方推荐链接进入 starlink.com，可查看你所在地址的套餐价格与 30 天完好退货试用条件。缴清两个计费周期后的账单抵扣依国家而定（例如马来西亚为 RM 180），付款前请在订单页确认。",
+    "label": "查询地址并锁定推荐奖励（马来西亚 RM 180）",
+    "url": "https://starlink.com/?referral=RC-DF-17132118-63432-88",
+    "sponsored": true
+  }
+}

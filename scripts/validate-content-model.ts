@@ -1075,29 +1075,19 @@ for (const review of reviews) {
       { heading: 'Perguntas frequentes', bullets: ['Vale? Sim, testado em 31/10.'] },
     ],
   });
-  const expected = { quickAnswerPrice: true, transparencySection: true, bodyDates: 4, datesOutsideBody: 2 };
+  const expected = { transparencySection: true, bodyDates: 4, datesOutsideBody: 2 };
   if (JSON.stringify(prontuario) !== JSON.stringify(expected)) {
     report(`checkReviewProse: ${JSON.stringify(prontuario)}, esperado ${JSON.stringify(expected)}`);
   }
-  const quickAnswerAfterIntro = checkReviewProse({
-    contentSections: [
-      { heading: 'Como usar o cupom', paragraphs: ['Introdução.'] },
-      { heading: 'Resposta rápida', paragraphs: ['Sai por R$ 99.'] },
-    ],
-  });
-  if (!quickAnswerAfterIntro.quickAnswerPrice) report('checkReviewProse não viu o R$ na resposta rápida que vem depois da introdução');
-  if (getProseProblems(prontuario, undefined).length !== 4) report('artigo fora da lista furando as 4 regras não deu 4 problemas');
+  if (getProseProblems(prontuario, undefined).length !== 3) report('artigo fora da lista furando as 3 regras não deu 3 problemas');
   if (getProseProblems(prontuario, undefined, expected).length !== 0) report('a lista de pendentes não tolerou o que registra');
   if (getProseProblems(prontuario, 'campanha', { ...expected, bodyDates: undefined }).length !== 0) {
     report('bodyDatesReason não liberou 4 datas no corpo');
   }
-  const priceOnly = { quickAnswerPrice: true, transparencySection: false, bodyDates: 0, datesOutsideBody: 0 };
-  if (getProseProblems(priceOnly, 'campanha').length !== 0) report('artigo de campanha não pôde levar o preço da promoção na resposta rápida');
-  if (getProseProblems(priceOnly, 'prazo-entrega').length !== 1) report('R$ na resposta rápida fora de campanha não foi barrado');
   if (getProseProblems({ ...prontuario, bodyDates: 5 }, undefined, expected).length !== 1) {
     report('mais datas que a lista registra não foi barrado');
   }
-  if (!getProseProblems({ ...prontuario, quickAnswerPrice: false }, undefined, expected).some((p) => p.includes('tire "quickAnswerPrice"'))) {
+  if (!getProseProblems({ ...prontuario, transparencySection: false }, undefined, expected).some((p) => p.includes('tire "transparencySection"'))) {
     report('a lista não pediu para encolher depois que o artigo melhorou');
   }
 

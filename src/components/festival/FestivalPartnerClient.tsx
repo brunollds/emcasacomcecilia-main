@@ -16,10 +16,12 @@ import { openConsentPreferences } from '@/lib/consent';
 import type { FestivalPartnerPageData } from '@/lib/festivalBlackFriday';
 import {
   CeciliaAvatar,
+  FestivalBannerStripCard,
   FestivalTimerPill,
   StoreOrb,
   getActiveLimitedCode,
   getClientMinuteSnapshot,
+  getLiveBannerStrips,
   getLiveCampaigns,
   getReducedMotionSnapshot,
   getUpcomingLimitedCode,
@@ -62,6 +64,10 @@ export function FestivalPartnerClient({ data }: { data: FestivalPartnerPageData 
   }>({ particles: [], raf: null });
 
   const { store } = data;
+  const liveBannerStrips = useMemo(
+    () => getLiveBannerStrips(data.bannerStrips, minuteNowMs),
+    [data.bannerStrips, minuteNowMs],
+  );
   const liveCampaigns = useMemo(
     () => getLiveCampaigns(store.campaigns, minuteNowMs),
     [store.campaigns, minuteNowMs],
@@ -415,6 +421,17 @@ export function FestivalPartnerClient({ data }: { data: FestivalPartnerPageData 
       </header>
 
       <main className="bf-wrap">
+        {/* 0. FAIXA DE OFERTA ESPECIAL (ex.: Netshoes / Rakuten) */}
+        {liveBannerStrips.length > 0 ? (
+          <section className="bf-p-sec" aria-label={`Oferta especial ${store.brand}`}>
+            <div className="bf-banner-strips-stack">
+              {liveBannerStrips.map((strip) => (
+                <FestivalBannerStripCard key={strip.id} strip={strip} />
+              ))}
+            </div>
+          </section>
+        ) : null}
+
         {/* 1. CAMPANHAS EM VIGOR NA MARCA */}
         {liveCampaigns.length > 0 ? (
           <section className="bf-p-sec" aria-labelledby="partner-camps-title">
@@ -596,9 +613,11 @@ export function FestivalPartnerClient({ data }: { data: FestivalPartnerPageData 
               ) : null}
             </div>
 
-            <Link href={store.storePageUrl} className="bf-modal-page-btn">
-              Ver todas as perguntas e regras em {store.storePageUrl} →
-            </Link>
+            {store.storePageUrl ? (
+              <Link href={store.storePageUrl} className="bf-modal-page-btn">
+                Ver todas as perguntas e regras em {store.storePageUrl} →
+              </Link>
+            ) : null}
           </section>
         </div>
 
@@ -667,7 +686,11 @@ export function FestivalPartnerClient({ data }: { data: FestivalPartnerPageData 
             </p>
             <div className="bf-footer-links">
               <Link href="/blackfriday">Voltar ao Festival (/blackfriday)</Link>
-              <Link href={store.storePageUrl}>Página permanente da {store.brand} em /cupons</Link>
+              {store.storePageUrl ? (
+                <Link href={store.storePageUrl}>Página permanente da {store.brand} em /cupons</Link>
+              ) : (
+                <Link href="/cupons">Ver todas as lojas em /cupons</Link>
+              )}
               <Link href="/">Ir para o site Em Casa com Cecília</Link>
               <Link href="/privacidade">Política de Privacidade</Link>
               <button type="button" className="bf-footer-link-btn" onClick={() => openConsentPreferences()}>

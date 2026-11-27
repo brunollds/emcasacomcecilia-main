@@ -222,7 +222,7 @@
     {
       "heading": "Vale comprar na Petz",
       "paragraphs": [
-        "A Petz publica regras de entrega e troca, e o perfil da loja online tem reputação Ótima no Reclame Aqui. Antes de comprar, confira o prazo para seu CEP e as condições do pedido.",
+        "A Petz publica regras de entrega e troca, e o perfil da loja online tem reputação Ótima no Reclame Aqui. Antes de comprar, confira o prazo para seu CEP e as condições do pedido. Para ver em que compras a Petz compensa, com a garantia das marcas próprias e o frete por região, leia o guia [Petz é boa?](/reviews/petz-e-boa).",
         "O veredito se baseia nas regras que a própria Petz publica. Para remédio e antipulgas, leia o rótulo e, na dúvida, fale com o veterinário.",
         "Se for comprar, o EMCASA dá 10% OFF e vale em todas as compras no site e no app, pelo que diz o programa Parceiro Petz. O botão abaixo abre a loja da Cecília em petz.com.br/parceiro/emcasa, mas não aplica o código sozinho: cole o EMCASA no campo \"Digite seu cupom\" da sacola. Em produto que já está em oferta, a sacola fica com o desconto maior, item a item. Confira as condições na página do [cupom Petz](/cupons/petz)."
       ],
@@ -272,6 +272,9 @@
   "affiliate": "petz",
   "editorialNote": "Fontes públicas e teste da sacola. Podemos receber comissão pelo cupom.",
   "relatedArticles": [
+    {
+      "slug": "petz-e-boa"
+    },
     {
       "slug": "petz-reclame-aqui-nota-reputacao"
     },

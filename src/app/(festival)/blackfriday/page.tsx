@@ -1,13 +1,16 @@
 import type { Metadata } from 'next';
 import { DicaLauncher } from '@/components/dica/DicaLauncher';
 import { FestivalStageClient } from '@/components/festival/FestivalStageClient';
-import { getActiveCoupons } from '@/lib/couponsData';
-import { getFestivalBlackFridayData, isBlackFridaySeason } from '@/lib/festivalBlackFriday';
+import {
+  getFestivalBlackFridayData,
+  getFestivalPartnerCount,
+  isBlackFridaySeason,
+} from '@/lib/festivalBlackFriday';
 
 export const revalidate = 300;
 
 export function generateMetadata(): Metadata {
-  const activeCount = getActiveCoupons().length;
+  const activeCount = getFestivalPartnerCount();
   const isBf = isBlackFridaySeason(Date.now());
   const title = isBf
     ? 'Festival de Cupons EXCLUSIVOS da Cecília — Black Friday'
