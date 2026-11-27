@@ -39,10 +39,16 @@
   "editorialNote": "Feito com o site oficial, a consulta pública do CNPJ e o perfil público no Reclame Aqui. Somos parceiros da BioBio e podemos receber comissão pelo cupom.",
   "relatedArticles": [
     {
+      "slug": "biobio-e-boa"
+    },
+    {
       "slug": "cupom-biobio-como-usar"
     },
     {
       "slug": "protetor-solar-biobio-e-bom"
+    },
+    {
+      "slug": "protetor-solar-mineral-ou-quimico-rotulo"
     },
     {
       "slug": "cupom-biobio-primeira-compra"
