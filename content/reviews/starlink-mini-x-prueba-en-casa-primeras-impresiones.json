@@ -93,7 +93,7 @@
       "heading": "Por qué compré aun teniendo fibra, envío y contenido de la caja",
       "paragraphs": [
         "Cuando la fibra del barrio oscila o se corta en plena jornada laboral, contar con un enlace independiente compensa incluso en una dirección urbana con servicio por cable.",
-        "El 19/11/2026 compré el kit de la Starlink Mini X con el plan Residencial Max y, al finalizar la compra, añadí un Router Mini. El kit llegó con la antena y los accesorios de la fuente. El pedido llegó siete días después, el 26/11/2026, bien embalado, con cada pieza separada en las bandejas de pulpa moldeada.",
+        "El 19/11/2026 compré el kit de la Starlink Mini X con el plan Residencial Max. El kit llegó con la antena, los accesorios de la fuente y un Router Mini con base propia. El pedido llegó siete días después, el 26/11/2026, bien embalado, con cada pieza separada en las bandejas de pulpa moldeada.",
         "Nada más cerrar la compra en la web oficial, pude programar la instalación profesional gratuita incluida en el plan brasileño (esto varía según el país) directamente en una plataforma externa indicada por la propia Starlink, con visita prevista para el 10/12/2026. Si vas a contratar por primera vez, abrir el pedido en starlink.com desde el enlace oficial de nuestra [página de referido de Starlink](/es/coupons/starlink) asegura 45 € de crédito en factura en España (y referencia de MX$ 700 en México; confirma siempre el importe que muestra tu pantalla de pedido antes de pagar) tras dos ciclos pagados al día, y quien invita recibe el mismo valor, además de la ventana de 30 días para probar y devolver el kit sin daños si la señal no cumple en tu domicilio."
       ],
       "comparisonTable": {
@@ -110,7 +110,7 @@
             "Soporte articulado trasero, cable de alimentación CC gris, fuente de 60 W (UTP-231P, clavija brasileña) y adaptador de tubo"
           ],
           [
-            "Router Mini Starlink (comprado aparte en el pedido)",
+            "Router Mini Starlink (incluido en el kit de la Mini X)",
             "Anatel Brasil 03912-25-13890",
             "Base metálica de apoyo, fuente compacta (UTP-251L) y 2 puertos Ethernet RJ45 numerados (1 y 2) en la base"
           ]
@@ -152,7 +152,7 @@
           "Desactiva el cambio automático de Wi-Fi en el móvil para que no abandone la red provisional de la antena mientras sigue sin internet.",
           "Sujeta la Mini X con firmeza antes de enchufarla para evitar que el viento la mueva incluso en una prueba provisional.",
           "Espera a que termine la descarga del software y a que el asistente 3D de alineación confirme la orientación correcta.",
-          "Comprueba en el panel de la app que tu suscripción figura activa antes de vincular un Router Mini."
+          "Comprueba en el panel de la app que tu suscripción figura activa antes de configurar el Router Mini."
         ]
       },
       "image": {
@@ -221,7 +221,7 @@
       "heading": "Router Mini tras muros gruesos y señal en el salón",
       "paragraphs": [
         "En mi casa, con paredes gruesas, solo la antena en el balcón no lleva el Wi-Fi a todas las habitaciones. Con el Router Mini en un punto entre el balcón y el salón, la señal en el salón quedó fuerte.",
-        "Para dar contexto real: tengo bastante problema con el Wi-Fi en casa por el grosor de los muros. Hoy utilizo una malla con tres nodos TP-Link Deco BE22 (con el principal cableado al del salón principal y el tercero por Wi-Fi) y aun así quedan zonas con cobertura media o débil, incluido el propio balcón del dormitorio. Sabiéndolo, añadí un Router Mini de Starlink al finalizar la compra.",
+        "Para dar contexto real: tengo bastante problema con el Wi-Fi en casa por el grosor de los muros. Hoy utilizo una malla con tres nodos TP-Link Deco BE22 (con el principal cableado al del salón principal y el tercero por Wi-Fi) y aun así quedan zonas con cobertura media o débil, incluido el propio balcón del dormitorio. Por eso, conecté enseguida el Router Mini que viene en el kit de la Mini X.",
         "Al enchufar el Router Mini a la corriente, hay que esperar unos minutos hasta que aparece en la app para configurarlo en red Mesh inalámbrica mediante un proceso muy sencillo. Lo coloqué primero en el salón principal, y la propia aplicación me avisó de que la ubicación no era buena y pidió acercarlo más a la antena. Cambié el Router Mini a un punto en la planta baja más próximo al balcón y con menos obstáculos de por medio, y el enlace con la Mini X se estableció al instante. Mientras redactaba estas líneas desde el salón principal, justo donde quería máxima cobertura, mi móvil marcaba el Wi-Fi de Starlink cerca del 100%. Reubicar el Router Mini en ese punto intermedio resolvió la señal en el salón principal, aunque cubrir cada rincón de la casa probablemente requiera otro Router Mini más; esta primera prueba no midió la cobertura habitación por habitación para comparar con los tres Deco BE22. En este primer contacto lo probé todo en Mesh inalámbrico, sin tender cable Ethernet por los puertos de la base."
       ],
       "video": {
@@ -264,7 +264,7 @@
       "bullets": [
         "¿Cuánto tarda configurar Starlink Mini X por primera vez? Tardó menos de veinte minutos desde enchufarla hasta navegar con actualización y alineación; revisa en el apartado de activación cómo evitar que el móvil abandone la red provisional.",
         "¿Qué velocidad alcanzó Starlink Mini X apoyada en el balcón? En la primera prueba en mi balcón medí 200 Mbps de bajada, 19 Mbps de subida y 25 ms de ping. Mantuvo conexión firme sin cortes durante dos horas pese a la obstrucción parcial, y la transferencia de más de 10 GB en más de una hora siguió estable durante el período que supervisé.",
-        "¿Cubre Starlink Mini X por sí sola una casa grande con muros gruesos? No en mi vivienda; con un Router Mini reubicado en un punto despejado de la planta baja, la señal rozó el máximo en el salón principal, y casas mayores pueden requerir un segundo nodo.",
+        "¿Cubre Starlink Mini X por sí sola una casa grande con muros gruesos? No en mi vivienda; con el Router Mini del kit reubicado en un punto despejado de la planta baja, la señal rozó el máximo en el salón principal, y casas mayores pueden requerir un segundo nodo.",
         "¿Hace falta perforar el tejado para probar antes de la instalación definitiva? No; basta apoyar la antena en un sitio firme con vista al cielo y un enchufe cercano para validar el servicio dentro de la ventana de devolución de 30 días.",
         "¿Cómo funciona el bono del enlace de referido de Starlink? Para clientes nuevos que contratan en starlink.com con el enlace oficial y mantienen dos ciclos pagados, entran 45 € en España (referencia de MX$ 700 en México; confirma siempre el importe en tu pedido antes de pagar) como crédito en factura, como explico en el apartado de entrega y pedido."
       ]
@@ -273,12 +273,12 @@
   "decision": {
     "takeIf": [
       "sufres cortes en la fibra local y quieres probar una conexión independiente antes de perforar el tejado.",
-      "buscas un kit compacto que se instala en minutos y aceptas añadir un Router Mini si la vivienda tiene muros gruesos.",
+      "buscas un kit compacto que se instala en minutos, con un Router Mini incluido para llevar el Wi-Fi más allá de los muros gruesos.",
       "quieres aprovechar los 30 días de prueba en un punto provisional mientras esperas la instalación definitiva."
     ],
     "skipIf": [
       "tienes fibra estable en tu calle que entrega la velocidad contratada sin caídas que justifiquen una línea de respaldo.",
-      "esperas cubrir toda una casa grande y muy compartimentada usando únicamente el router integrado de la Mini X.",
+      "esperas cubrir toda una casa grande y muy compartimentada usando únicamente la antena y el Router Mini del kit.",
       "necesitas velocidad mínima o latencia garantizada por contrato fijo, ya que el servicio varía según la zona y la visibilidad del cielo."
     ]
   },

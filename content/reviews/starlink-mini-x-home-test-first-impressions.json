@@ -93,7 +93,7 @@
       "heading": "Why I bought it despite having fiber, delivery and box contents",
       "paragraphs": [
         "When neighborhood fiber fluctuates or drops in the middle of work, having an independent backup connection pays off even at an urban address with wired service.",
-        "On November 19, 2026, I bought the Starlink Mini X kit on the Residential Max plan and added a Router Mini at checkout. The kit came with the dish and the power accessories. The order arrived seven days later, on November 26, 2026, well packed, with each piece separated in molded pulp dividers.",
+        "On November 19, 2026, I bought the Starlink Mini X kit on the Residential Max plan. The kit came with the dish, the power accessories and a Router Mini with its own base. The order arrived seven days later, on November 26, 2026, well packed, with each piece separated in molded pulp dividers.",
         "Right after completing the purchase on the official website, I was able to schedule the free professional installation included with the Brazilian plan (this varies by country) directly through an external booking partner linked by Starlink, with the visit set for December 10, 2026. If you plan to subscribe for the first time, starting your order on starlink.com through the official link on our [Starlink referral page](/en/coupons/starlink) locks in US$ 100 in the US or £40 in the UK as a bill credit after two paid billing cycles (and the referrer gets the same reward), alongside the 30-day window to test and return the undamaged kit if the signal does not meet your needs."
       ],
       "comparisonTable": {
@@ -110,7 +110,7 @@
             "Rear hinged kickstand, grey DC power cable, 60 W power supply (UTP-231P, Brazil plug) and pipe adapter"
           ],
           [
-            "Starlink Router Mini (bought separately at checkout)",
+            "Starlink Router Mini (included in the Mini X kit)",
             "Brazil Anatel 03912-25-13890",
             "Metal stand base, compact power adapter (UTP-251L) and 2 numbered RJ45 Ethernet ports (1 and 2) on the base"
           ]
@@ -152,7 +152,7 @@
           "Disable automatic Wi-Fi switching on your smartphone so it does not leave the dish's temporary offline network.",
           "Brace the Mini X firmly before plugging it in so wind cannot shift it even during a temporary test.",
           "Wait for the software download to finish and for the 3D alignment assistant to confirm the dish is aimed properly.",
-          "Verify in the app dashboard that your subscription shows as active before pairing a Router Mini."
+          "Verify in the app dashboard that your subscription shows as active before setting up the Router Mini."
         ]
       },
       "image": {
@@ -221,7 +221,7 @@
       "heading": "Router Mini through thick walls and living room signal",
       "paragraphs": [
         "At home, with thick walls, the dish on the balcony alone does not bring Wi-Fi to every room. With the Router Mini at a spot between the balcony and the living room, the signal in the living room came out strong.",
-        "For real-world context, Wi-Fi has always been tricky in my home because of the walls. Today I run a three-node TP-Link Deco BE22 mesh (with the main unit wired to the main living room node and the third running wirelessly) and still end up with medium-to-weak dead zones, including that very bedroom balcony. Knowing this, I added a Starlink Router Mini at checkout.",
+        "For real-world context, Wi-Fi has always been tricky in my home because of the walls. Today I run a three-node TP-Link Deco BE22 mesh (with the main unit wired to the main living room node and the third running wirelessly) and still end up with medium-to-weak dead zones, including that very bedroom balcony. So I set up the Router Mini that comes in the Mini X kit right away.",
         "Once you plug the Router Mini into power, you wait a few minutes for it to show up in the app and add it as a wireless mesh node in a very simple flow. I placed it in the main living room first, and the app immediately warned that signal strength was poor and asked me to move it closer to the dish. I relocated the Router Mini to a ground-floor spot closer to the balcony with fewer walls in between, and it linked up with the Mini X right away. While writing these impressions from the main living room, right where I wanted full bars, my phone showed Starlink Wi-Fi near 100%. Repositioning the Router Mini to that midpoint fixed living room reception, though covering every corner of the house will likely take a second Router Mini — this initial test did not measure room-by-room coverage to compare against the three Deco BE22 nodes. In this first test I ran everything over wireless mesh, without running Ethernet cables through the base ports yet."
       ],
       "video": {
@@ -264,7 +264,7 @@
       "bullets": [
         "How long does it take to set up Starlink Mini X for the first time? It took under twenty minutes from plugging into the outlet to browsing online with updates and alignment; check the activation section for how to keep your phone from leaving the temporary Wi-Fi network.",
         "What speed did Starlink Mini X reach resting on the balcony? On my first balcony test I measured 200 Mbps download, 19 Mbps upload and 25 ms ping. It held steady with zero drops for two hours despite partial obstruction, and transferring more than 10 GB in over an hour stayed steady throughout the period I monitored.",
-        "Does Starlink Mini X alone cover a large home with thick walls? Not in my layout; once I repositioned a Router Mini at a clear spot on the ground floor, signal hit near full bars in the main living room, and larger homes may need a second node.",
+        "Does Starlink Mini X alone cover a large home with thick walls? Not in my layout; once I repositioned the kit's Router Mini at a clear spot on the ground floor, signal hit near full bars in the main living room, and larger homes may need a second node.",
         "Do you have to drill the roof to test before permanent installation? No; simply resting the dish firmly with a clear view of the sky near a power outlet lets you test the service within the 30-day return window.",
         "How does the Starlink referral link bonus work? For new customers who order on starlink.com via the official link and keep two paid billing cycles, US$ 100 in the US or £40 in the UK is applied as a bill credit, as I explain in the delivery and order section."
       ]
@@ -273,12 +273,12 @@
   "decision": {
     "takeIf": [
       "you deal with local fiber dropouts and want to test an independent connection before drilling the roof.",
-      "you want a compact kit that sets up in minutes and are fine adding a Router Mini for thick walls.",
+      "you want a compact kit that sets up in minutes, with a Router Mini included to carry Wi-Fi past thick walls.",
       "you want to use the 30-day test window on a temporary spot while waiting for permanent installation."
     ],
     "skipIf": [
       "you already have steady street fiber delivering your paid speed without dropouts that justify a backup link.",
-      "you expect to cover a large, heavily partitioned home relying only on the Mini X dish's built-in router.",
+      "you expect to cover a large, heavily partitioned home relying only on the kit's dish and Router Mini.",
       "you require a guaranteed minimum speed or fixed latency under contract, since service varies by region and sky view."
     ]
   },
