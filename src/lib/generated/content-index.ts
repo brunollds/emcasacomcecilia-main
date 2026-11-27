@@ -37407,7 +37407,7 @@ const reviewsChunk0: unknown[] = [
     "id": 231,
     "slug": "magazine-voce-e-confiavel",
     "title": "Magazine Você é confiável? É golpe? Como funciona a loja de influenciador do Magalu",
-    "seoTitle": "Magazine Você é confiável? É golpe? Como funciona",
+    "seoTitle": "Magazine Você (Magalu) é confiável? Como funciona e cupons",
     "type": "Editorial",
     "category": "confianca-reputacao",
     "reviewKind": "editorial",
@@ -37419,7 +37419,7 @@ const reviewsChunk0: unknown[] = [
       "url": "/sobre"
     },
     "description": "Quem é o dono do magazinevoce.com.br, quem cobra e entrega quando você compra por uma loja de influenciador, o que o Reclame Aqui mostra e como conferir se o link é oficial.",
-    "metaDescription": "Magazine Você é confiável ou é golpe? O domínio é da Magazine Luiza S/A desde 2011. Veja quem vende e entrega e um checklist para conferir a loja.",
+    "metaDescription": "Magazine Você (magazinevoce.com.br) é confiável? É o canal oficial do Magalu desde 2011: veja quem entrega, como checar a loja e cupons de até R$ 100.",
     "publishedAt": "12 de outubro de 2026",
     "publishedAtISO": "2026-10-12",
     "updatedAt": "2026-11-22",
@@ -65859,7 +65859,7 @@ const reviewsChunk0: unknown[] = [
     "locale": "pt",
     "translationKey": "shein-black-friday",
     "title": "Black Friday SHEIN 2026: o que comprar, as datas e imposto de importação zero até US$ 50",
-    "seoTitle": "Black Friday SHEIN 2026: código 4CW5Y, achados e datas",
+    "seoTitle": "Black Friday SHEIN 2026: até quando vai, 4CW5Y e US$ 50",
     "type": "Guia de Black Friday",
     "category": "cupons-como-usar",
     "reviewKind": "guia",
@@ -65871,10 +65871,10 @@ const reviewsChunk0: unknown[] = [
       "url": "/sobre"
     },
     "description": "São 17 peças para olhar na Black Friday da SHEIN, com preço e medidas, seis atalhos de campanha, o imposto zero até US$ 50 e o código 4CW5Y, que dá desconto.",
-    "metaDescription": "O 4CW5Y dá desconto na SHEIN: use o link ou pesquise no app ou site. Black Friday SHEIN: calendário, fases de desconto e imposto zero até US$ 50.",
+    "metaDescription": "Black Friday SHEIN 2026 no ar: pesquise 4CW5Y no app ou site para abrir ofertas, veja até quando vai, 17 achados com medidas e imposto zero até US$ 50.",
     "publishedAt": "11 de outubro de 2026",
     "publishedAtISO": "2026-10-11",
-    "updatedAt": "2026-11-16",
+    "updatedAt": "2026-11-26",
     "draft": false,
     "isNew": false,
     "image": "/images/reviews/shein/black-friday-shein-capa-v2.webp",
@@ -65887,7 +65887,7 @@ const reviewsChunk0: unknown[] = [
       {
         "heading": "Resposta rápida",
         "paragraphs": [
-          "A Black Friday de 2026 cai na última sexta de novembro, dia 27, e a campanha da [SHEIN](/cupons/shein) está no ar, sem calendário completo. Este guia traz 17 peças com preço e medidas e seis atalhos de campanha. O 4CW5Y dá desconto, sim: pelo link da Cecília, ou pesquisando o código no app ou no site, abre uma seleção com promoções."
+          "A Black Friday 2026 da [SHEIN](/cupons/shein) já está na fase principal da sexta-feira (dia 27), sem data oficial de fim divulgada no Brasil — nos dois últimos anos foi até o fim do mês. Reunimos 17 peças com medidas, a regra de US$ 50 e o código 4CW5Y na busca (além da campanha K49L457 para novos usuários)."
         ]
       },
       {
@@ -66850,7 +66850,7 @@ const reviewsChunk0: unknown[] = [
       {
         "heading": "Perguntas frequentes",
         "bullets": [
-          "Quando é a Black Friday da SHEIN e até quando vai a campanha? A campanha que junta o 11.11 e a Black Friday está no ar desde outubro, e a semana da Black Friday está em curso. A Black Friday cai na última sexta de novembro, dia 27, e não encontramos as datas das fases desta semana nem a de fim.",
+          "Quando é a Black Friday da SHEIN e até quando vai a campanha? A campanha que junta o 11.11 e a Black Friday já está na fase principal da sexta-feira, dia 27. A SHEIN não divulgou data oficial de encerramento no Brasil; nos dois últimos anos, as ofertas seguiram até o último dia do mês.",
           "Como funciona a Black Friday da SHEIN? As ofertas podem ter períodos e condições diferentes. Confira quais produtos recebem o desconto anunciado e compare o preço final no carrinho.",
           "A SHEIN tem Cyber Monday? A Cyber Monday de 2026 cai na última segunda de novembro, dia 30. Não encontramos anúncio da SHEIN no Brasil para esse dia: confira a campanha na loja.",
           "A compra da Black Friday chega antes do Natal? Não dá para garantir uma data. O prazo de entrega aparece na página do pedido antes de pagar: confira esse prazo em cada compra, porque o pedido internacional ainda leva de 3 a 5 dias para ser processado antes do envio.",
@@ -66905,7 +66905,7 @@ const reviewsChunk0: unknown[] = [
     "locale": "en",
     "translationKey": "shein-black-friday",
     "title": "SHEIN Black Friday 2026: what to buy, when it starts and how the 4CW5Y code works",
-    "seoTitle": "SHEIN Black Friday 2026: code 4CW5Y, what to buy and dates",
+    "seoTitle": "SHEIN Black Friday 2026: Sale Dates, When It Ends & 4CW5Y",
     "type": "Black Friday Guide",
     "category": "cupons-como-usar",
     "reviewKind": "guia",
@@ -66917,10 +66917,10 @@ const reviewsChunk0: unknown[] = [
       "url": "/sobre"
     },
     "description": "17 pieces to look at on SHEIN this Black Friday, with fabric and measurements, six campaign shortcuts, coupons, returns and the 4CW5Y referral code.",
-    "metaDescription": "SHEIN Black Friday 2026 is Nov 27 and the calendar varies by country. The 4CW5Y referral code opens a selection with promotions and discounts.",
+    "metaDescription": "SHEIN Black Friday 2026 (Nov 27 & Cyber Monday Nov 30): live deals by country, how long it lasts, 17 measured picks, and referral code 4CW5Y in search.",
     "publishedAt": "October 11, 2026",
     "publishedAtISO": "2026-10-11",
-    "updatedAt": "2026-11-16",
+    "updatedAt": "2026-11-26",
     "draft": false,
     "isNew": false,
     "hideFromPortugueseListings": true,
@@ -66934,7 +66934,7 @@ const reviewsChunk0: unknown[] = [
       {
         "heading": "Quick answer",
         "paragraphs": [
-          "Black Friday 2026 falls on November 27, and [SHEIN](/en/coupons/shein)'s sale calendar varies by country. This guide lists 17 pieces with fabric and measurements and six campaign shortcuts. Search referral code 4CW5Y in the SHEIN app or on the website to open a selection with promotions and discounts; SHEIN sets the eligible items and savings."
+          "[SHEIN](/en/coupons/shein)'s Black Friday 2026 reaches its main day on Friday, November 27 (followed by Cyber Monday on November 30), with end dates varying by country store. This guide covers 17 pieces with fabric and measurements, six shortcuts, and referral code 4CW5Y in search to open promotions."
         ]
       },
       {
@@ -67836,7 +67836,7 @@ const reviewsChunk0: unknown[] = [
     "locale": "es",
     "translationKey": "shein-black-friday",
     "title": "Black Friday SHEIN 2026: qué comprar, cuándo empieza y cómo funciona el código 4CW5Y",
-    "seoTitle": "Black Friday SHEIN 2026: código 4CW5Y, qué comprar y fechas",
+    "seoTitle": "Black Friday SHEIN 2026: fechas, hasta cuándo dura y 4CW5Y",
     "type": "Guía de Black Friday",
     "category": "cupons-como-usar",
     "reviewKind": "guia",
@@ -67848,10 +67848,10 @@ const reviewsChunk0: unknown[] = [
       "url": "/sobre"
     },
     "description": "17 prendas para mirar en SHEIN este Black Friday, con tejido y medidas, seis atajos de campaña, cupones, devoluciones y el código de referido 4CW5Y.",
-    "metaDescription": "Black Friday SHEIN 2026: cae el 27/11 y el calendario varía según el país. El código de referido 4CW5Y abre una selección con promociones y descuentos.",
+    "metaDescription": "Black Friday SHEIN 2026 (27/11 y Cyber Monday 30/11): ofertas activas según el país, hasta cuándo dura, 17 prendas con medidas y código 4CW5Y en la app.",
     "publishedAt": "11 de octubre de 2026",
     "publishedAtISO": "2026-10-11",
-    "updatedAt": "2026-11-16",
+    "updatedAt": "2026-11-26",
     "draft": false,
     "isNew": false,
     "hideFromPortugueseListings": true,
@@ -67865,7 +67865,7 @@ const reviewsChunk0: unknown[] = [
       {
         "heading": "Respuesta rápida",
         "paragraphs": [
-          "El Black Friday de 2026 cae el 27 de noviembre y el calendario de [SHEIN](/es/coupons/shein) cambia según el país. Esta guía reúne 17 prendas con tejido y medidas y seis atajos de campaña. El código de referido 4CW5Y da descuento: búscalo en la app o la web de SHEIN para abrir una selección con promociones."
+          "El Black Friday 2026 de [SHEIN](/es/coupons/shein) llega a su día central este viernes 27 de noviembre (con Cyber Monday el lunes 30), y la fecha de cierre cambia según el país. Esta guía reúne 17 prendas con medidas, seis atajos y el código de referido 4CW5Y en el buscador para abrir ofertas."
         ]
       },
       {
@@ -68736,7 +68736,7 @@ const reviewsChunk0: unknown[] = [
     "locale": "fr",
     "translationKey": "shein-black-friday",
     "title": "Black Friday SHEIN 2026 : quoi acheter, quand il commence et comment fonctionne le code 4CW5Y",
-    "seoTitle": "Black Friday SHEIN 2026 : code 4CW5Y, quoi acheter et dates",
+    "seoTitle": "Black Friday SHEIN 2026 : jusqu’à quand, dates et code 4CW5Y",
     "type": "Guide Black Friday",
     "category": "cupons-como-usar",
     "reviewKind": "guia",
@@ -68748,10 +68748,10 @@ const reviewsChunk0: unknown[] = [
       "url": "/sobre"
     },
     "description": "17 pièces à regarder chez SHEIN pour ce Black Friday, avec matière et mesures, six raccourcis de campagne, coupons, retours et le code de parrainage 4CW5Y.",
-    "metaDescription": "Black Friday SHEIN 2026 : le 27/11, calendrier variable selon le pays. Le code de parrainage 4CW5Y ouvre une sélection avec promotions et remises.",
+    "metaDescription": "Black Friday SHEIN 2026 (27/11 et Cyber Monday 30/11) : offres en cours selon le pays, durée, 17 pièces mesurées et code de parrainage 4CW5Y dans l'appli.",
     "publishedAt": "11 octobre 2026",
     "publishedAtISO": "2026-10-11",
-    "updatedAt": "2026-11-16",
+    "updatedAt": "2026-11-26",
     "draft": false,
     "isNew": false,
     "hideFromPortugueseListings": true,
@@ -68765,7 +68765,7 @@ const reviewsChunk0: unknown[] = [
       {
         "heading": "Réponse rapide",
         "paragraphs": [
-          "Le Black Friday 2026 tombe le 27 novembre et le calendrier de [SHEIN](/fr/coupons/shein) change selon le pays. Ce guide réunit 17 pièces avec matière et mesures et six raccourcis de campagne. Le code de parrainage 4CW5Y donne bien droit à une remise : recherchez-le dans l'appli ou sur le site SHEIN pour ouvrir une sélection en promotion."
+          "Le Black Friday 2026 de [SHEIN](/fr/coupons/shein) bat son plein ce vendredi 27 novembre (suivi du Cyber Monday le 30 novembre), avec une date de fin propre à chaque pays. Ce guide réunit 17 pièces avec mesures, six raccourcis et le code de parrainage 4CW5Y à chercher dans l'appli ou sur le site."
         ]
       },
       {
@@ -69636,7 +69636,7 @@ const reviewsChunk0: unknown[] = [
     "locale": "de",
     "translationKey": "shein-black-friday",
     "title": "SHEIN Black Friday 2026: Was Sie kaufen können, wann er beginnt und wie der Code 4CW5Y funktioniert",
-    "seoTitle": "SHEIN Black Friday 2026: Code 4CW5Y, Kauftipps und Termine",
+    "seoTitle": "SHEIN Black Friday 2026: wie lange er geht, Tipps & 4CW5Y",
     "type": "Black-Friday-Ratgeber",
     "category": "cupons-como-usar",
     "reviewKind": "guia",
@@ -69648,10 +69648,10 @@ const reviewsChunk0: unknown[] = [
       "url": "/sobre"
     },
     "description": "17 Teile bei SHEIN zum Black Friday, mit Stoff und Maßen, sechs Kampagnen-Shortcuts, Gutscheinen, Rückgabe und dem Empfehlungscode 4CW5Y.",
-    "metaDescription": "SHEIN Black Friday 2026: am 27.11., Kalender je nach Land verschieden. Der Empfehlungscode 4CW5Y öffnet eine Auswahl mit Aktionen und Rabatten.",
+    "metaDescription": "SHEIN Black Friday 2026 (27.11. & Cyber Monday 30.11.): laufende Angebote je Land, Dauer, 17 Teile mit Maßen und Empfehlungscode 4CW5Y in der Suche.",
     "publishedAt": "11. Oktober 2026",
     "publishedAtISO": "2026-10-11",
-    "updatedAt": "2026-11-16",
+    "updatedAt": "2026-11-26",
     "draft": false,
     "isNew": false,
     "hideFromPortugueseListings": true,
@@ -69665,7 +69665,7 @@ const reviewsChunk0: unknown[] = [
       {
         "heading": "Kurze Antwort",
         "paragraphs": [
-          "Der Black Friday 2026 fällt auf den 27. November, und der SHEIN-Kalender ändert sich von Land zu Land. Dieser Leitfaden zeigt 17 Teile mit Stoff und Maßen sowie sechs Kampagnen-Shortcuts. Suchen Sie den Empfehlungscode 4CW5Y in der SHEIN-App oder auf der Website: Es öffnet sich eine Auswahl mit Aktionen und Rabatten; [SHEIN](/de/coupons/shein) legt Artikel und Ersparnis fest."
+          "Der Black Friday 2026 am 27. November (mit Cyber Monday am 30. November) ist in vollem Gange, wobei der Kalender je nach Land variiert. Dieser Leitfaden zeigt 17 Teile mit Maßen, sechs Shortcuts und den Empfehlungscode 4CW5Y in der Suche; [SHEIN](/de/coupons/shein) legt Artikel und Ersparnis fest."
         ]
       },
       {
@@ -70536,7 +70536,7 @@ const reviewsChunk0: unknown[] = [
     "locale": "it",
     "translationKey": "shein-black-friday",
     "title": "Black Friday SHEIN 2026: cosa comprare, quando inizia e come funziona il codice 4CW5Y",
-    "seoTitle": "Black Friday SHEIN 2026: codice 4CW5Y, cosa comprare e date",
+    "seoTitle": "Black Friday SHEIN 2026: fino a quando dura, date e 4CW5Y",
     "type": "Guida al Black Friday",
     "category": "cupons-como-usar",
     "reviewKind": "guia",
@@ -70548,10 +70548,10 @@ const reviewsChunk0: unknown[] = [
       "url": "/sobre"
     },
     "description": "17 capi da guardare su SHEIN per il Black Friday, con tessuto e misure, sei scorciatoie della campagna, coupon, resi e il codice invito 4CW5Y.",
-    "metaDescription": "Black Friday SHEIN 2026: cade il 27/11 e il calendario varia da paese a paese. Il codice invito 4CW5Y apre una selezione con promozioni e sconti.",
+    "metaDescription": "Black Friday SHEIN 2026 (27/11 e Cyber Monday 30/11): offerte attive per paese, fino a quando dura, 17 capi con misure e codice invito 4CW5Y nella ricerca.",
     "publishedAt": "11 ottobre 2026",
     "publishedAtISO": "2026-10-11",
-    "updatedAt": "2026-11-16",
+    "updatedAt": "2026-11-26",
     "draft": false,
     "isNew": false,
     "hideFromPortugueseListings": true,
@@ -70565,7 +70565,7 @@ const reviewsChunk0: unknown[] = [
       {
         "heading": "Risposta rapida",
         "paragraphs": [
-          "Il Black Friday 2026 cade il 27 novembre, e il calendario di [SHEIN](/it/coupons/shein) cambia da paese a paese. Questa guida elenca 17 capi con tessuto e misure e sei scorciatoie della campagna. Cerca il codice invito 4CW5Y nell'app o sul sito SHEIN: si apre una selezione con promozioni e sconti; SHEIN decide articoli e risparmio."
+          "Il Black Friday 2026 di [SHEIN](/it/coupons/shein) entra nel vivo venerdì 27 novembre (con Cyber Monday il 30 novembre), con durata variabile da paese a paese. Questa guida raccoglie 17 capi con tessuto e misure, sei scorciatoie e il codice invito 4CW5Y da cercare nell'app o sul sito."
         ]
       },
       {
@@ -71436,7 +71436,7 @@ const reviewsChunk0: unknown[] = [
     "locale": "ko",
     "translationKey": "shein-black-friday",
     "title": "SHEIN 블랙프라이데이 2026: 무엇을 살지, 언제 시작하는지, 추천 코드 4CW5Y 사용법",
-    "seoTitle": "SHEIN 블랙프라이데이 2026: 추천 코드 4CW5Y·추천 상품·일정",
+    "seoTitle": "SHEIN(쉬인) 블랙프라이데이 2026: 기간·언제까지·추천 코드 4CW5Y",
     "type": "블랙프라이데이 가이드",
     "category": "cupons-como-usar",
     "reviewKind": "guia",
@@ -71448,10 +71448,10 @@ const reviewsChunk0: unknown[] = [
       "url": "/sobre"
     },
     "description": "이번 블랙프라이데이에 SHEIN에서 볼 만한 17개 상품을 소재와 치수까지 정리했습니다. 캠페인 바로가기 6개, 반품, 추천 코드 4CW5Y도 담았습니다.",
-    "metaDescription": "SHEIN 블랙프라이데이 2026: 11월 27일이며 일정은 국가마다 다릅니다. 추천 코드 4CW5Y로 프로모션과 할인 모음이 열립니다.",
+    "metaDescription": "SHEIN(쉬인) 블랙프라이데이 2026(11월 27일·사이버 먼데이 11월 30일): 국가별 세일 일정, 실측 확인한 17개 추천 상품과 검색창 추천 코드 4CW5Y 안내.",
     "publishedAt": "2026년 10월 11일",
     "publishedAtISO": "2026-10-11",
-    "updatedAt": "2026-11-16",
+    "updatedAt": "2026-11-26",
     "draft": false,
     "isNew": false,
     "hideFromPortugueseListings": true,
@@ -71465,7 +71465,7 @@ const reviewsChunk0: unknown[] = [
       {
         "heading": "답변 요약",
         "paragraphs": [
-          "2026년 블랙프라이데이는 11월 27일이며, [SHEIN](/ko/coupons/shein)의 세일 일정은 국가마다 다릅니다. 이 가이드는 소재와 치수를 확인한 17개 상품과 캠페인 바로가기 6개를 정리했습니다. 앱이나 사이트에서 추천 코드 4CW5Y를 검색하면 프로모션과 할인 모음이 열리며, 대상 상품과 할인 폭은 SHEIN이 정합니다."
+          "2026년 11월 27일 블랙프라이데이(사이버 먼데이 11월 30일) 주간이 진행 중이며, [SHEIN](/ko/coupons/shein)(쉬인)의 종료 일정은 국가별 스토어마다 다릅니다. 소재와 치수를 확인한 17개 상품, 캠페인 바로가기 6개, 검색창에 입력해 할인 모음을 여는 추천 코드 4CW5Y를 정리했습니다."
         ]
       },
       {
@@ -72335,8 +72335,8 @@ const reviewsChunk0: unknown[] = [
     "slug": "shein-black-friday-ja",
     "locale": "ja",
     "translationKey": "shein-black-friday",
-    "title": "SHEIN ブラックフライデー 2026：何を買うか、いつ始まるか、紹介コード4CW5Yの使い方",
-    "seoTitle": "SHEIN ブラックフライデー 2026：紹介コード4CW5Y・注目商品・日程",
+    "title": "SHEIN（シーイン）ブラックフライデー2026：いつまで？（12月2日まで開催）・注目17点と紹介コード4CW5Y",
+    "seoTitle": "SHEIN（シーイン）ブラックフライデー2026はいつまで？12/2まで・4CW5Y",
     "type": "ブラックフライデーガイド",
     "category": "cupons-como-usar",
     "reviewKind": "guia",
@@ -72347,11 +72347,11 @@ const reviewsChunk0: unknown[] = [
       "initials": "CM",
       "url": "/sobre"
     },
-    "description": "今年のブラックフライデーにSHEINで見たい17点を、素材と寸法つきで紹介。キャンペーンのショートカット6つ、返品、紹介コード4CW5Yも解説します。",
-    "metaDescription": "SHEIN ブラックフライデー 2026 はいつ？いつまで？過去の日程と、セールと割引の特集が開く紹介コード4CW5Yを解説。",
+    "description": "SHEIN（シーイン）ブラックフライデー2026は12月2日12:00まで開催中。素材と寸法つきの注目17点、ショートカット6つ、紹介コード4CW5Yの使い方を解説。",
+    "metaDescription": "SHEIN（シーイン）ブラックフライデー2026はいつまで？12月2日12:00まで本セール開催中（11/27は全品送料無料）。注目17点と紹介コード4CW5Yを解説。",
     "publishedAt": "2026年10月11日",
     "publishedAtISO": "2026-10-11",
-    "updatedAt": "2026-11-16",
+    "updatedAt": "2026-11-26",
     "draft": false,
     "isNew": false,
     "hideFromPortugueseListings": true,
@@ -72365,14 +72365,14 @@ const reviewsChunk0: unknown[] = [
       {
         "heading": "まずは結論",
         "paragraphs": [
-          "2026年のブラックフライデーは11月27日で、[SHEIN](/ja/coupons/shein)のセール日程は国ごとに異なります。このガイドでは素材と寸法を確認した17点と、キャンペーンのショートカット6つを紹介します。紹介コード4CW5Yをアプリやサイトで検索すると、プロモーションや割引のあるセレクションが開きます。"
+          "日本の[SHEIN](/ja/coupons/shein)（シーイン）ブラックフライデー2026は、12月2日（水）12:00まで本セールを開催中です（11月27日限定で全品送料無料）。このガイドでは素材と寸法を確認した17点と、アプリやサイトの検索で割引特集が開く紹介コード4CW5Yをまとめました。"
         ]
       },
       {
-        "heading": "SHEINのブラックフライデーはいつ始まるか",
+        "heading": "SHEINのブラックフライデー2026はいつからいつまで？",
         "paragraphs": [
-          "カレンダー上のブラックフライデーは11月の最後の金曜日で、2026年は27日です。サイバーマンデーは30日ですが、日本での発表は見つかっていません。この日付は、SHEINがセールをいつ始め、いつ終えるかを示すものではありません。",
-          "SHEINは日本で[#SHEIN1111](https://prtimes.jp/main/html/rd/p/000000293.000084888.html)を10月19日12:00から11月16日12:00まで開催しました。ブラックフライデーではありません。下の表は、日本でSHEINが発表した過去のセールです。"
+          "カレンダー上のブラックフライデーは2026年11月27日（金）、サイバーマンデーは11月30日（月）です。日本では[#SHEIN1111](https://prtimes.jp/main/html/rd/p/000000293.000084888.html)終了直後の11月16日（月）12:00から、[「SHEIN BLACK FRIDAY SALE」](https://prtimes.jp/main/html/rd/p/000000298.000084888.html)が2026年12月2日（水）12:00まで2段階で開催されています。",
+          "先行セール（11月16日12:00〜11月26日11:59）に続き、11月26日（木）12:00からは対象商品が80万点以上に広がる本セールに入り、11月27日（金）限定で全品送料無料と税込6,000円以上の購入でポイント4倍が案内されています。下の表は、日本でSHEINが発表した2023年〜2026年の日程です。"
         ],
         "comparisonTable": {
           "caption": "日本でSHEINが発表した内容（日本時間）。出典はSHEINのプレスリリースです。「最大」は一部の商品に適用されます。",
@@ -72396,11 +72396,16 @@ const reviewsChunk0: unknown[] = [
               "[2025](https://prtimes.jp/main/html/rd/p/000000250.000084888.html)",
               "11月17日12:00〜12月2日12:00",
               "プレセールは11月24日11:59まで（80万点以上）。11月24日12:00からのメインセールは最大95%、100万点以上"
+            ],
+            [
+              "[2026](https://prtimes.jp/main/html/rd/p/000000298.000084888.html)",
+              "11月16日12:00〜12月2日12:00",
+              "先行セール11月16〜26日11:59（70万点以上・最大95%）。本セール11月26日12:00〜12月2日12:00（80万点以上・最大95%、11月27日は全品送料無料＋6,000円以上でポイント4倍）"
             ]
           ]
         },
         "postParagraphs": [
-          "過去の日程は予測ではありません。SHEINが2026年のブラックフライデーを発表したら、このガイドを更新します。キャンペーンの最大割引率が、欲しい商品が安くなることを保証するわけではありません。最終価格と在庫を比べ、見つけにくいサイズなら最後のフェーズまで待たないでください。"
+          "日本以外の国・地域では日程や条件が異なります。また、キャンペーンの最大割引率が欲しい商品の値下がりを保証するわけではありません。最終価格と在庫を比べ、見つけにくいサイズなら終了間際まで待たないでください。"
         ]
       },
       {
@@ -73209,9 +73214,9 @@ const reviewsChunk0: unknown[] = [
       {
         "heading": "よくある質問",
         "bullets": [
-          "SHEINのブラックフライデーはいつ始まり、どれくらい続きますか？2026年のブラックフライデーは11月27日です。日本では現在#SHEIN1111が11月16日12:00まで開催中で、ブラックフライデーの日程は見つかっていません。過去3年は11月12〜17日に始まり、11月27日〜12月2日に終わりました。国ごとのサイトで日程は変わります。",
+          "SHEIN（シーイン）のブラックフライデーはいつからいつまでですか？日本では2026年11月16日12:00から12月2日12:00まで開催されており、11月26日12:00から12月2日12:00までが本セールです。他国のSHEINストアでは国ごとに日程が変わります。",
           "SHEINのブラックフライデーはどんな仕組みですか？オファーごとに期間や条件が異なる場合があります。広告の割引率が適用される商品を確認し、カートの最終価格を比べてください。",
-          "SHEINにサイバーマンデーはありますか？2026年のサイバーマンデーは11月30日です。日本での告知は見つかっていません。お住まいの国のSHEINサイトでキャンペーンを確認してください。",
+          "SHEINにサイバーマンデーはありますか？2026年のサイバーマンデー（11月30日）は、日本の本セール期間（12月2日12:00まで）に含まれます。お住まいの国のSHEINサイトでも開催中のキャンペーンを確認してください。",
           "ブラックフライデーの注文がいつ届くか、クリスマスに間に合いますか？日付は保証できません。お届け予定は支払う前に注文画面に表示されるので、購入のたびに確認してください。",
           "4CW5Yは割引クーポンですか？クーポンではありませんが、割引になります。CecíliaのSHEIN紹介コードです。リンクを開くか、アプリやサイトでコードを検索すると、セールと割引の特集が開きます。割引率や対象商品はSHEINが決めます。",
           "4CW5YとSHEINのキャンペーンコードは同じものですか？いいえ。4CW5YはCecíliaの紹介コードです。24V7643やB75N67Aのようなコードは、アプリの検索でキャンペーンのセレクションを開くSHEINのショートカットです。どれも決済時に入力するものではありません。",
@@ -73262,7 +73267,7 @@ const reviewsChunk0: unknown[] = [
     "locale": "zh-hant",
     "translationKey": "shein-black-friday",
     "title": "SHEIN 黑色星期五 2026：買什麼、何時開始，以及推薦碼 4CW5Y 怎麼用",
-    "seoTitle": "SHEIN 黑色星期五 2026：推薦碼 4CW5Y、買什麼與活動日期",
+    "seoTitle": "SHEIN 黑色星期五 2026：到什麼時候結束、買什麼與推薦碼 4CW5Y",
     "type": "黑色星期五指南",
     "category": "cupons-como-usar",
     "reviewKind": "guia",
@@ -73274,10 +73279,10 @@ const reviewsChunk0: unknown[] = [
       "url": "/sobre"
     },
     "description": "SHEIN 黑色星期五值得看的 17 件單品，附布料與尺寸，另有六個活動捷徑、優惠券、退貨說明，以及推薦碼 4CW5Y。",
-    "metaDescription": "SHEIN 黑色星期五 2026：11 月 27 日，各國日程不同。推薦碼 4CW5Y 會開啟含促銷和折扣的頁面。",
+    "metaDescription": "SHEIN 黑色星期五 2026（11 月 27 日及 11 月 30 日網路星期一）：各國活動安排、17 件實測尺寸單品與搜尋欄推薦碼 4CW5Y 指南。",
     "publishedAt": "2026年10月11日",
     "publishedAtISO": "2026-10-11",
-    "updatedAt": "2026-11-16",
+    "updatedAt": "2026-11-26",
     "draft": false,
     "isNew": false,
     "hideFromPortugueseListings": true,
@@ -73291,7 +73296,7 @@ const reviewsChunk0: unknown[] = [
       {
         "heading": "快速解答",
         "paragraphs": [
-          "2026 年黑色星期五是 11 月 27 日，[SHEIN](/zh-hant/coupons/shein) 的活動日程因國家而異。本文整理了 17 件附布料與尺寸的單品，以及六個活動捷徑。在 SHEIN App 或網站搜尋推薦碼 4CW5Y，會開啟含促銷和折扣的商品頁面；折扣多少、涵蓋哪些商品由 SHEIN 決定。"
+          "2026 年黑色星期五（11 月 27 日，網路星期一為 11 月 30 日）已進入主促階段，[SHEIN](/zh-hant/coupons/shein) 的結束日期因國家網站而異。本文整理了 17 件附布料與尺寸的單品、六個活動捷徑，以及在搜尋欄使用的推薦碼 4CW5Y。"
         ]
       },
       {
@@ -74162,7 +74167,7 @@ const reviewsChunk0: unknown[] = [
     "locale": "zh-hans",
     "translationKey": "shein-black-friday",
     "title": "SHEIN 黑色星期五 2026：买什么、何时开始，以及推荐码 4CW5Y 怎么用",
-    "seoTitle": "SHEIN 黑色星期五 2026：推荐码 4CW5Y、买什么与活动日期",
+    "seoTitle": "SHEIN 黑色星期五 2026：到什么时候结束、买什么与推荐码 4CW5Y",
     "type": "黑色星期五指南",
     "category": "cupons-como-usar",
     "reviewKind": "guia",
@@ -74174,10 +74179,10 @@ const reviewsChunk0: unknown[] = [
       "url": "/sobre"
     },
     "description": "SHEIN 黑色星期五值得看的 17 件单品，附面料与尺寸，另有六个活动快捷入口、优惠券、退货说明，以及推荐码 4CW5Y。",
-    "metaDescription": "SHEIN 黑色星期五 2026：11 月 27 日，各国日程不同。推荐码 4CW5Y 会打开含促销和折扣的页面。",
+    "metaDescription": "SHEIN 黑色星期五 2026（11 月 27 日及 11 月 30 日网络星期一）：各国活动安排、17 件实测尺寸单品与搜索栏推荐码 4CW5Y 指南。",
     "publishedAt": "2026年10月11日",
     "publishedAtISO": "2026-10-11",
-    "updatedAt": "2026-11-16",
+    "updatedAt": "2026-11-26",
     "draft": false,
     "isNew": false,
     "hideFromPortugueseListings": true,
@@ -74191,7 +74196,7 @@ const reviewsChunk0: unknown[] = [
       {
         "heading": "快速解答",
         "paragraphs": [
-          "2026 年黑色星期五是 11 月 27 日，[SHEIN](/zh-hans/coupons/shein) 的活动日程因国家而异。本文整理了 17 件附面料与尺寸的单品，以及六个活动快捷入口。在 SHEIN App 或网站搜索推荐码 4CW5Y，会打开含促销和折扣的商品页面；折扣多少、涉及哪些商品由 SHEIN 决定。"
+          "2026 年黑色星期五（11 月 27 日，网络星期一为 11 月 30 日）已进入主促阶段，[SHEIN](/zh-hans/coupons/shein) 的结束日期因国家站点而异。本文整理了 17 件附面料与尺寸的单品、六个快捷入口，以及在搜索栏使用的推荐码 4CW5Y。"
         ]
       },
       {
@@ -205776,7 +205781,7 @@ const reviewsChunk1: unknown[] = [
     "locale": "pt",
     "translationKey": "shein-tamanho",
     "title": "Tamanho na SHEIN: qual letra pedir, o tamanho brasileiro e como ler o guia de cada peça",
-    "seoTitle": "Tamanho SHEIN: qual letra pedir e guia em centímetros",
+    "seoTitle": "Tabela de tamanho SHEIN: P, M, G no Brasil (XS a XXL em cm)",
     "type": "Guia de Tamanho",
     "category": "guias-praticos-utilidade",
     "reviewKind": "guia",
@@ -205788,7 +205793,7 @@ const reviewsChunk1: unknown[] = [
       "url": "/sobre"
     },
     "description": "Na SHEIN a mesma letra muda de marca para marca: o M de duas camisetas difere 11 cm no busto. Por isso o tamanho sai da medida da peça em centímetros, não da letra de sempre.",
-    "metaDescription": "Tamanho na SHEIN: a letra muda por marca; o 4CW5Y dá desconto, sim, numa seleção da SHEIN. Meça em centímetros e leia o guia de cada peça.",
+    "metaDescription": "Tabela de tamanho na SHEIN (PP, P, M, G e XS a XXL em cm): pesquise 4CW5Y na busca para ofertas. Veja por que o M muda 11 cm por marca e como medir.",
     "publishedAt": "4 de novembro de 2026",
     "publishedAtISO": "2026-11-04",
     "updatedAt": "2026-11-07",
@@ -206084,7 +206089,7 @@ const reviewsChunk1: unknown[] = [
     "locale": "en",
     "translationKey": "shein-tamanho",
     "title": "SHEIN size guide: which size to order and how to read each size chart",
-    "seoTitle": "SHEIN size guide: which size to order and how to read it",
+    "seoTitle": "SHEIN Size Chart (XS to XXL in cm): Which Size to Order",
     "type": "Size Guide",
     "category": "guias-praticos-utilidade",
     "reviewKind": "guia",
@@ -206096,7 +206101,7 @@ const reviewsChunk1: unknown[] = [
       "url": "/sobre"
     },
     "description": "At SHEIN the same letter changes from brand to brand: two M tees differ by 11 cm at the bust. Choose by the measurements of each piece in cm, not by your usual letter.",
-    "metaDescription": "Size at SHEIN: the letter changes by brand. The 4CW5Y does give you a discount on a SHEIN selection. Measure in cm and read each piece's size guide.",
+    "metaDescription": "SHEIN size chart (XS, S, M, L, XL, XXL in cm): why two M tops differ by 11 cm, body vs product measurements, and referral code 4CW5Y in search.",
     "publishedAt": "November 4, 2026",
     "publishedAtISO": "2026-11-04",
     "updatedAt": "2026-11-07",
@@ -206357,7 +206362,7 @@ const reviewsChunk1: unknown[] = [
     "locale": "es",
     "translationKey": "shein-tamanho",
     "title": "Guía de tallas de SHEIN: qué talla pedir y cómo leer la tabla de cada prenda",
-    "seoTitle": "Tallas SHEIN: qué talla pedir y cómo leer la guía",
+    "seoTitle": "Tabla de tallas SHEIN (XS a XXL en cm): qué talla pedir",
     "type": "Guía de tallas",
     "category": "guias-praticos-utilidade",
     "reviewKind": "guia",
@@ -206369,7 +206374,7 @@ const reviewsChunk1: unknown[] = [
       "url": "/sobre"
     },
     "description": "En SHEIN la misma letra cambia de marca en marca: dos camisetas M difieren 11 cm de busto. Elige por las medidas de cada prenda en cm, no por tu letra habitual.",
-    "metaDescription": "Talla en SHEIN: la letra cambia de marca. El 4CW5Y sí da descuento en una selección de SHEIN. Mide en cm y lee la guía de cada prenda.",
+    "metaDescription": "Tabla de tallas SHEIN (XS, S, M, L, XL, XXL en cm): por qué la M varía 11 cm entre marcas, medidas de prenda vs cuerpo y código 4CW5Y en la app.",
     "publishedAt": "4 de noviembre de 2026",
     "publishedAtISO": "2026-11-04",
     "updatedAt": "2026-11-07",
@@ -206630,7 +206635,7 @@ const reviewsChunk1: unknown[] = [
     "locale": "fr",
     "translationKey": "shein-tamanho",
     "title": "Tailles SHEIN : quelle taille commander et comment lire le guide de chaque article",
-    "seoTitle": "Tailles SHEIN : quelle taille prendre, comment lire le guide",
+    "seoTitle": "Guide des tailles SHEIN (XS à XXL en cm) : quelle taille",
     "type": "Guide des tailles",
     "category": "guias-praticos-utilidade",
     "reviewKind": "guia",
@@ -206642,7 +206647,7 @@ const reviewsChunk1: unknown[] = [
       "url": "/sobre"
     },
     "description": "Chez SHEIN, la même lettre change d'une marque à l'autre : deux t-shirts M diffèrent de 11 cm au buste. Choisissez d'après les mesures en cm de chaque article.",
-    "metaDescription": "Taille SHEIN : la lettre change selon la marque. Le 4CW5Y donne bien une réduction sur une sélection SHEIN. Mesurez en cm et suivez le guide de l'article.",
+    "metaDescription": "Tableau des tailles SHEIN (XS, S, M, L, XL, XXL en cm) : pourquoi le M varie de 11 cm selon la marque, mesures corps vs vêtement et code 4CW5Y.",
     "publishedAt": "4 novembre 2026",
     "publishedAtISO": "2026-11-04",
     "updatedAt": "2026-11-07",
@@ -206903,7 +206908,7 @@ const reviewsChunk1: unknown[] = [
     "locale": "de",
     "translationKey": "shein-tamanho",
     "title": "Größen bei SHEIN: welche Größe bestellen und wie Sie den Guide jedes Artikels lesen",
-    "seoTitle": "SHEIN Größen: welche Größe passt und wie Sie den Guide lesen",
+    "seoTitle": "SHEIN Größentabelle (XS bis XXL in cm): welche Größe passt",
     "type": "Größenratgeber",
     "category": "guias-praticos-utilidade",
     "reviewKind": "guia",
@@ -206915,7 +206920,7 @@ const reviewsChunk1: unknown[] = [
       "url": "/sobre"
     },
     "description": "Bei SHEIN passt derselbe Buchstabe je nach Marke anders: Zwei M-Shirts unterscheiden sich um 11 cm am Brustumfang. Wählen Sie nach den Maßen in cm, nicht nach Buchstaben.",
-    "metaDescription": "Größe bei SHEIN: je Marke anders. Der 4CW5Y gibt tatsächlich Rabatt auf eine SHEIN-Auswahl. Messen Sie in cm und prüfen Sie den Guide.",
+    "metaDescription": "SHEIN Größentabelle (XS, S, M, L, XL, XXL in cm): warum Größe M je Marke um 11 cm abweicht, Körper- vs Artikelmaße und Empfehlungscode 4CW5Y.",
     "publishedAt": "4. November 2026",
     "publishedAtISO": "2026-11-04",
     "updatedAt": "2026-11-07",
@@ -207176,7 +207181,7 @@ const reviewsChunk1: unknown[] = [
     "locale": "it",
     "translationKey": "shein-tamanho",
     "title": "Taglie SHEIN: quale taglia ordinare e come leggere la guida di ogni capo",
-    "seoTitle": "Taglie SHEIN: quale taglia prendere e come leggere la guida",
+    "seoTitle": "Tabella taglie SHEIN (XS-XXL in cm): quale taglia scegliere",
     "type": "Guida alle taglie",
     "category": "guias-praticos-utilidade",
     "reviewKind": "guia",
@@ -207188,7 +207193,7 @@ const reviewsChunk1: unknown[] = [
       "url": "/sobre"
     },
     "description": "Su SHEIN la stessa lettera cambia da marchio a marchio: due magliette M differiscono di 11 cm sul busto. Scegli dalle misure in cm di ogni capo, non dalla lettera abituale.",
-    "metaDescription": "Taglia su SHEIN: la lettera cambia da marchio a marchio. Il 4CW5Y dà sconto, sì, su una selezione SHEIN. Misura in cm e leggi la guida di ogni capo.",
+    "metaDescription": "Tabella taglie SHEIN (XS, S, M, L, XL, XXL in cm): perché la M cambia di 11 cm tra marchi, misure corpo vs capo e codice invito 4CW5Y nella ricerca.",
     "publishedAt": "4 novembre 2026",
     "publishedAtISO": "2026-11-04",
     "updatedAt": "2026-11-07",
@@ -207449,7 +207454,7 @@ const reviewsChunk1: unknown[] = [
     "locale": "ko",
     "translationKey": "shein-tamanho",
     "title": "SHEIN 사이즈 고르는 법: 상품별 사이즈 가이드 읽는 법",
-    "seoTitle": "SHEIN 사이즈: 사이즈 가이드 읽는 법",
+    "seoTitle": "SHEIN(쉬인) 사이즈표 (XS~XXL·cm): 실패 없는 사이즈 선택법",
     "type": "사이즈 가이드",
     "category": "guias-praticos-utilidade",
     "reviewKind": "guia",
@@ -207461,7 +207466,7 @@ const reviewsChunk1: unknown[] = [
       "url": "/sobre"
     },
     "description": "SHEIN은 같은 사이즈 글자라도 브랜드마다 치수가 다릅니다. 티셔츠 두 장의 M 가슴둘레가 11cm 차이 나므로, 글자 대신 상품의 치수(cm)로 고르십시오.",
-    "metaDescription": "SHEIN 사이즈는 브랜드마다 다릅니다. 4CW5Y는 할인을 받을 수 있는 추천 코드입니다. cm로 재고 상품 가이드를 읽으십시오.",
+    "metaDescription": "SHEIN(쉬인) 사이즈표(XS~XXL·cm): 같은 M이라도 브랜드마다 가슴둘레가 11cm 다른 이유, 상품·신체 치수 비교법과 추천 코드 4CW5Y 안내.",
     "publishedAt": "2026년 11월 4일",
     "publishedAtISO": "2026-11-04",
     "updatedAt": "2026-11-07",
@@ -207722,7 +207727,7 @@ const reviewsChunk1: unknown[] = [
     "locale": "ja",
     "translationKey": "shein-tamanho",
     "title": "SHEINのサイズの選び方：商品ごとのサイズガイドの読み方",
-    "seoTitle": "SHEINのサイズ：サイズガイドの読み方",
+    "seoTitle": "SHEIN（シーイン）サイズ表（XS〜XXL・cm）：失敗しない選び方",
     "type": "サイズガイド",
     "category": "guias-praticos-utilidade",
     "reviewKind": "guia",
@@ -207734,7 +207739,7 @@ const reviewsChunk1: unknown[] = [
       "url": "/sobre"
     },
     "description": "SHEINでは同じ文字でもブランドによってサイズが違います。2枚のTシャツでMの胸囲が11cm違うので、文字ではなく商品ごとの寸法（cm）で選ぶのが確実です。",
-    "metaDescription": "SHEINのサイズはブランドで変わります。紹介コード4CW5Yは割引が受けられます。cmで測り、商品のガイドを読みましょう。",
+    "metaDescription": "SHEIN（シーイン）のサイズ表（XS〜XXL・cm）：同じMでもブランドで胸囲が11cm違う理由、製品寸法と身体寸法の見分け方、紹介コード4CW5Yを解説。",
     "publishedAt": "2026年11月4日",
     "publishedAtISO": "2026-11-04",
     "updatedAt": "2026-11-07",
@@ -207995,7 +208000,7 @@ const reviewsChunk1: unknown[] = [
     "locale": "zh-hant",
     "translationKey": "shein-tamanho",
     "title": "SHEIN 尺碼怎麼選：如何看每件商品的尺碼表",
-    "seoTitle": "SHEIN 尺碼：怎麼看尺碼表",
+    "seoTitle": "SHEIN 尺碼對照表（XS 至 XXL 公分）：怎麼選尺寸不踩雷",
     "type": "尺碼指南",
     "category": "guias-praticos-utilidade",
     "reviewKind": "guia",
@@ -208007,7 +208012,7 @@ const reviewsChunk1: unknown[] = [
       "url": "/sobre"
     },
     "description": "SHEIN 同一個字母在不同品牌裡尺寸不同。兩件 T 恤的 M 胸圍相差 11 公分，所以要依每件商品的公分尺寸來選，不能只看字母。",
-    "metaDescription": "SHEIN 尺碼因品牌而異。4CW5Y 是推薦碼，確實有折扣。請用公分量身體，並閱讀每件商品的尺碼表。",
+    "metaDescription": "SHEIN 尺碼表（XS 至 XXL 公分）：為什麼同為 M 碼胸圍相差 11 cm、身體尺寸與成衣尺寸怎麼看，以及搜尋欄推薦碼 4CW5Y。",
     "publishedAt": "2026年11月4日",
     "publishedAtISO": "2026-11-04",
     "updatedAt": "2026-11-07",
@@ -208268,7 +208273,7 @@ const reviewsChunk1: unknown[] = [
     "locale": "zh-hans",
     "translationKey": "shein-tamanho",
     "title": "SHEIN 尺码怎么选：如何看每件商品的尺码表",
-    "seoTitle": "SHEIN 尺码：怎么看尺码表",
+    "seoTitle": "SHEIN 尺码对照表（XS 至 XXL 厘米）：怎么选尺码不踩雷",
     "type": "尺码指南",
     "category": "guias-praticos-utilidade",
     "reviewKind": "guia",
@@ -208280,7 +208285,7 @@ const reviewsChunk1: unknown[] = [
       "url": "/sobre"
     },
     "description": "SHEIN 同一个字母在不同品牌里尺寸不同。两件 T 恤的 M 胸围相差 11 厘米，所以要按每件商品的厘米尺寸来选，而不是只看字母。",
-    "metaDescription": "SHEIN 尺码因品牌而异。4CW5Y 是推荐码，确实有折扣。请用厘米量身体，并阅读每件商品的尺码表。",
+    "metaDescription": "SHEIN 尺码表（XS 至 XXL 厘米）：为什么同是 M 码胸围相差 11 cm、身体尺寸与成衣尺寸怎么看，以及搜索栏推荐码 4CW5Y。",
     "publishedAt": "2026年11月4日",
     "publishedAtISO": "2026-11-04",
     "updatedAt": "2026-11-07",
@@ -213904,7 +213909,7 @@ const reviewsChunk1: unknown[] = [
     "slug": "whey-max-titanium-qual-escolher",
     "locale": "pt",
     "title": "Whey Max Titanium: 100%, Pro, 3W, IsoWhey ou Super Whey, qual a diferença",
-    "seoTitle": "Whey Max Titanium: 100%, Pro, 3W, Iso ou Super Whey",
+    "seoTitle": "Qual o melhor Whey Max Titanium? 100%, Pro, 3W ou Iso",
     "type": "Guia de Escolha",
     "category": "guias-praticos-utilidade",
     "reviewKind": "guia",
@@ -320745,7 +320750,7 @@ const reviewsChunk2: unknown[] = [
     "locale": "ar",
     "translationKey": "shein-black-friday",
     "title": "الجمعة البيضاء من SHEIN 2026: ماذا تشتري ومتى تبدأ وكيف يعمل الرمز 4CW5Y",
-    "seoTitle": "الجمعة البيضاء SHEIN 2026: الرمز 4CW5Y وماذا تشتري والمواعيد",
+    "seoTitle": "الجمعة البيضاء SHEIN 2026: متى تنتهي وماذا تشتري والرمز 4CW5Y",
     "type": "دليل الجمعة البيضاء",
     "category": "cupons-como-usar",
     "reviewKind": "guia",
@@ -320757,10 +320762,10 @@ const reviewsChunk2: unknown[] = [
       "url": "/sobre"
     },
     "description": "17 قطعة تستحق النظر في SHEIN في الجمعة البيضاء (بلاك فرايدي)، مع القماش والقياسات، وستة اختصارات للحملة، والكوبونات والإرجاع ورمز الإحالة 4CW5Y.",
-    "metaDescription": "الجمعة البيضاء من SHEIN 2026 يوم 27 نوفمبر وتختلف المواعيد بحسب البلد. رمز الإحالة 4CW5Y يفتح مجموعة فيها عروض وخصومات.",
+    "metaDescription": "الجمعة البيضاء من SHEIN 2026 (27 نوفمبر والاثنين السيبراني 30 نوفمبر): العروض الجارية حسب البلد و17 قطعة مع القياسات ورمز الإحالة 4CW5Y في البحث.",
     "publishedAt": "21 نوفمبر 2026",
     "publishedAtISO": "2026-11-21",
-    "updatedAt": "2026-11-21",
+    "updatedAt": "2026-11-26",
     "draft": false,
     "isNew": true,
     "hideFromPortugueseListings": true,
@@ -320774,7 +320779,7 @@ const reviewsChunk2: unknown[] = [
       {
         "heading": "الإجابة السريعة",
         "paragraphs": [
-          "تصادف الجمعة البيضاء 2026 يوم 27 نوفمبر، وتختلف مواعيد تخفيضات [SHEIN](/ar/coupons/shein) بحسب البلد. يعرض هذا الدليل 17 قطعة مع القماش والقياسات وستة اختصارات للحملة. ابحث عن رمز الإحالة 4CW5Y في تطبيق SHEIN أو على الموقع لتفتح مجموعة فيها عروض وخصومات؛ وSHEIN هي التي تحدد القطع المشمولة والتوفير."
+          "وصلت الجمعة البيضاء 2026 يوم 27 نوفمبر (يليها الاثنين السيبراني يوم 30 نوفمبر)، وتختلف مواعيد انتهاء عروض [SHEIN](/ar/coupons/shein) بحسب البلد. يجمع هذا الدليل 17 قطعة مع القياسات وستة اختصارات ورمز الإحالة 4CW5Y في البحث لفتح العروض."
         ]
       },
       {
@@ -322163,7 +322168,7 @@ const reviewsChunk2: unknown[] = [
     "locale": "ar",
     "translationKey": "shein-tamanho",
     "title": "دليل مقاسات SHEIN: أي مقاس تطلب وكيف تقرأ جدول مقاسات كل قطعة",
-    "seoTitle": "دليل مقاسات SHEIN: أي مقاس تطلب وكيف تقرؤه",
+    "seoTitle": "جدول مقاسات SHEIN بالسنتيمتر (XS إلى XXL): أي مقاس تطلب",
     "type": "دليل المقاسات",
     "category": "guias-praticos-utilidade",
     "reviewKind": "guia",
@@ -322175,7 +322180,7 @@ const reviewsChunk2: unknown[] = [
       "url": "/sobre"
     },
     "description": "في SHEIN يتغير الحرف نفسه من علامة إلى أخرى: تيشيرتان بمقاس M يختلفان بـ11 سم عند الصدر. اختر بقياسات كل قطعة بالسنتيمتر، لا بحرفك المعتاد.",
-    "metaDescription": "المقاسات في SHEIN: الحرف يتغير بحسب العلامة. الرمز 4CW5Y يمنحك خصمًا على مجموعة من SHEIN. قِس بالسنتيمتر واقرأ دليل مقاسات كل قطعة.",
+    "metaDescription": "جدول مقاسات SHEIN بالسنتيمتر (من XS إلى XXL): لماذا يختلف مقاس M بمقدار 11 سم بين العلامات، والفرق بين قياس الجسم والقطعة، والرمز 4CW5Y.",
     "publishedAt": "21 نوفمبر 2026",
     "publishedAtISO": "2026-11-21",
     "updatedAt": "2026-11-21",
