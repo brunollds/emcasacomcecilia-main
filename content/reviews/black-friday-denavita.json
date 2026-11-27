@@ -13,7 +13,7 @@
   },
   "publishedAt": "19 de novembro de 2026",
   "publishedAtISO": "2026-11-19",
-  "updatedAt": "2026-11-21",
+  "updatedAt": "2026-11-27",
   "draft": false,
   "isNew": true,
   "bodyDatesReason": "campanha",
@@ -46,6 +46,12 @@
     },
     {
       "slug": "laranja-moro-denavita"
+    },
+    {
+      "slug": "denavita-tons"
+    },
+    {
+      "slug": "denavita-ou-rituaria"
     }
   ],
   "contentSections": [
@@ -133,6 +139,7 @@
         }
       ],
       "postParagraphs": [
+        "Atualização da sexta de Black Friday (27/11): ao testar novamente o checkout seguro.denavita.com.br, o código EMCASA aplicou 15% OFF sobre a oferta do dia — o kit [Trio de Favoritos](https://www.denavita.com.br/products/trio-de-favoritos) (Laranja Moro + NAC + Trio Magnésio) caiu de R$ 138,90 para R$ 118,07 (-R$ 20,84), enquanto os três potes avulsos somados caíram de R$ 184,70 para R$ 157,00 (-R$ 27,71), já que o aviso de Leve 3, Pague 2 da gaveta não descontou produtos diferentes no checkout.",
         "Confira sempre as linhas de desconto no resumo antes de pagar. [Passo a passo do cupom Denavita](/reviews/cupom-denavita-como-usar)"
       ]
     },
@@ -279,7 +286,7 @@
     {
       "heading": "Frete e prazo",
       "paragraphs": [
-        "A faixa da Denavita anuncia frete grátis a partir de R$ 199,90, conforme as regras da loja. Informe o CEP no checkout para ver o prazo e o frete, aplique o cupom e confira o total. O pagamento pode ser em até 12x no cartão ou no Pix.",
+        "Na leitura de 27/11, a faixa de Black Friday reduziu o anúncio de frete grátis de R$ 199,90 para R$ 139*, conforme as regras da loja (repare que o Trio de Favoritos a R$ 138,90 fica R$ 0,10 abaixo de R$ 139 antes do cupom, e o cálculo da entrega só abre após preencher a etapa de identificação). Informe o CEP no checkout para ver o prazo e o frete, aplique o cupom e confira o total. O pagamento pode ser em até 12x no cartão ou no Pix.",
         "A página do Laranja Moro também sinaliza frete grátis na opção Compre 3 Leve 5. Dúvidas sobre quem vende e como funciona a entrega estão em [Denavita é confiável?](/reviews/denavita-e-confiavel)."
       ]
     },

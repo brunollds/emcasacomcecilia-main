@@ -288015,6 +288015,12 @@ const reviewsChunk2: unknown[] = [
       },
       {
         "slug": "laranja-moro-denavita"
+      },
+      {
+        "slug": "denavita-e-boa"
+      },
+      {
+        "slug": "denavita-ou-rituaria"
       }
     ],
     "contentSections": [
@@ -288165,7 +288171,7 @@ const reviewsChunk2: unknown[] = [
     },
     "publishedAt": "19 de novembro de 2026",
     "publishedAtISO": "2026-11-19",
-    "updatedAt": "2026-11-21",
+    "updatedAt": "2026-11-27",
     "draft": false,
     "isNew": true,
     "bodyDatesReason": "campanha",
@@ -288198,6 +288204,12 @@ const reviewsChunk2: unknown[] = [
       },
       {
         "slug": "laranja-moro-denavita"
+      },
+      {
+        "slug": "denavita-tons"
+      },
+      {
+        "slug": "denavita-ou-rituaria"
       }
     ],
     "contentSections": [
@@ -288285,6 +288297,7 @@ const reviewsChunk2: unknown[] = [
           }
         ],
         "postParagraphs": [
+          "Atualização da sexta de Black Friday (27/11): ao testar novamente o checkout seguro.denavita.com.br, o código EMCASA aplicou 15% OFF sobre a oferta do dia — o kit [Trio de Favoritos](https://www.denavita.com.br/products/trio-de-favoritos) (Laranja Moro + NAC + Trio Magnésio) caiu de R$ 138,90 para R$ 118,07 (-R$ 20,84), enquanto os três potes avulsos somados caíram de R$ 184,70 para R$ 157,00 (-R$ 27,71), já que o aviso de Leve 3, Pague 2 da gaveta não descontou produtos diferentes no checkout.",
           "Confira sempre as linhas de desconto no resumo antes de pagar. [Passo a passo do cupom Denavita](/reviews/cupom-denavita-como-usar)"
         ]
       },
@@ -288431,7 +288444,7 @@ const reviewsChunk2: unknown[] = [
       {
         "heading": "Frete e prazo",
         "paragraphs": [
-          "A faixa da Denavita anuncia frete grátis a partir de R$ 199,90, conforme as regras da loja. Informe o CEP no checkout para ver o prazo e o frete, aplique o cupom e confira o total. O pagamento pode ser em até 12x no cartão ou no Pix.",
+          "Na leitura de 27/11, a faixa de Black Friday reduziu o anúncio de frete grátis de R$ 199,90 para R$ 139*, conforme as regras da loja (repare que o Trio de Favoritos a R$ 138,90 fica R$ 0,10 abaixo de R$ 139 antes do cupom, e o cálculo da entrega só abre após preencher a etapa de identificação). Informe o CEP no checkout para ver o prazo e o frete, aplique o cupom e confira o total. O pagamento pode ser em até 12x no cartão ou no Pix.",
           "A página do Laranja Moro também sinaliza frete grátis na opção Compre 3 Leve 5. Dúvidas sobre quem vende e como funciona a entrega estão em [Denavita é confiável?](/reviews/denavita-e-confiavel)."
         ]
       },
@@ -288492,6 +288505,12 @@ const reviewsChunk2: unknown[] = [
       },
       {
         "slug": "denavita-e-confiavel"
+      },
+      {
+        "slug": "denavita-tons"
+      },
+      {
+        "slug": "denavita-ou-rituaria"
       }
     ],
     "decision": {
@@ -288739,6 +288758,12 @@ const reviewsChunk2: unknown[] = [
         "slug": "laranja-moro-denavita"
       },
       {
+        "slug": "denavita-tons"
+      },
+      {
+        "slug": "denavita-ou-rituaria"
+      },
+      {
         "slug": "denavita-e-confiavel"
       },
       {
@@ -288928,10 +288953,43 @@ const reviewsChunk2: unknown[] = [
         ]
       },
       {
+        "heading": "Trio de Favoritos ou os três potes separados?",
+        "paragraphs": [
+          "Entre os kits mistos mais exibidos na vitrine da marca está o [Trio de Favoritos](https://www.denavita.com.br/products/trio-de-favoritos), que reúne num único pacote três fórmulas para 30 dias cada: um pote de Laranja Moro (30 cápsulas), um de NAC + Polivitamínico A a Z (60 cápsulas) e um de Trio Magnésio (60 cápsulas).",
+          "No teste de carrinho em 27/11, colocar esses três potes avulsos separados fez a gaveta lateral exibir o aviso de “Leve 3, Pague 2”, mas no checkout em seguro.denavita.com.br o benefício não abateu itens diferentes: o subtotal permaneceu na soma cheia dos três potes, enquanto o kit pronto já partiu de um valor bem menor e ainda aceitou o cupom EMCASA da Denavita no resumo."
+        ],
+        "comparisonTable": {
+          "caption": "Simulação no checkout seguro.denavita.com.br antes do frete, comparando o kit pronto com os três frascos avulsos equivalentes.",
+          "headers": [
+            "Formato no carrinho",
+            "O que entra (30 dias cada)",
+            "Subtotal na vitrine",
+            "Com EMCASA na Denavita (10% base / 15% na campanha)"
+          ],
+          "rows": [
+            [
+              "[Trio de Favoritos](https://www.denavita.com.br/products/trio-de-favoritos) (kit pronto)",
+              "Laranja Moro + NAC + Trio Magnésio",
+              "R$ 138,90",
+              "R$ 125,01 / R$ 118,07 no teste"
+            ],
+            [
+              "Os 3 potes avulsos no mesmo carrinho",
+              "Laranja Moro (R$ 89,90) + NAC (R$ 49,90) + Trio Magnésio (R$ 44,90)",
+              "R$ 184,70",
+              "R$ 166,23 / R$ 157,00 no teste"
+            ]
+          ]
+        },
+        "postParagraphs": [
+          "Para quem já ia levar exatamente esses três suplementos, o Trio de Favoritos economizou R$ 45,80 já na saída antes do código. Se a sua dúvida em magnésio, NAC ou coenzima Q10 for entre duas marcas parceiras, veja também o comparativo [Denavita ou Rituária](/reviews/denavita-ou-rituaria)."
+        ]
+      },
+      {
         "heading": "Onde aplicar o cupom, entrega e devolução",
         "paragraphs": [
-          "Para usar o código, finalize o carrinho até o checkout em seguro.denavita.com.br, digite o cupom EMCASA da Denavita no campo “Tem um cupom?” e clique em “Adicionar”; o abatimento de 10% aparece na linha “Cupom de desconto” do resumo, funcionando para clientes novos e antigos no cartão em até 12x e também no Pix. Veja o passo a passo de tela em [como usar o cupom Denavita](/reviews/cupom-denavita-como-usar).",
-          "A faixa da Denavita anuncia frete grátis a partir de R$ 199,90, conforme as regras da loja. Informe o CEP, aplique o cupom EMCASA da Denavita e confira o prazo e o total com a entrega no checkout. Para trocas, a central da loja informa até 7 dias corridos do recebimento para desistência (com a caixa fechada) e até 30 dias para defeito ou item diferente pelo portal de trocas."
+          "Para usar o código, finalize o carrinho até o checkout em seguro.denavita.com.br, digite o cupom EMCASA da Denavita no campo “Tem um cupom?” e clique em “Adicionar”; o abatimento aparece na linha de desconto do resumo (10% na condição padrão, chegando a 15% no teste da campanha de Black Friday), funcionando para clientes novos e antigos no cartão em até 12x e também no Pix. Veja o passo a passo de tela em [como usar o cupom Denavita](/reviews/cupom-denavita-como-usar).",
+          "A faixa da Denavita anuncia frete grátis a partir de R$ 199,90 fora de campanha (reduzido para R$ 139* nos avisos de Black Friday; note que o Trio de Favoritos a R$ 138,90 fica dez centavos abaixo desse piso antes do código, e o valor do frete só aparece após a identificação). Informe o CEP, aplique o cupom EMCASA da Denavita e confira o prazo e o total com a entrega no checkout. Para trocas, a central da loja informa até 7 dias corridos do recebimento para desistência (com a caixa fechada) e até 30 dias para defeito ou item diferente pelo portal de trocas."
         ]
       },
       {
@@ -288959,7 +289017,7 @@ const reviewsChunk2: unknown[] = [
         ]
       }
     ],
-    "updatedAt": "2026-11-24"
+    "updatedAt": "2026-11-27"
   },
   {
     "id": 1117,
@@ -289008,6 +289066,12 @@ const reviewsChunk2: unknown[] = [
       },
       {
         "slug": "cupom-denavita-como-usar"
+      },
+      {
+        "slug": "denavita-ou-rituaria"
+      },
+      {
+        "slug": "denavita-tons"
       }
     ],
     "contentSections": [
@@ -289143,6 +289207,12 @@ const reviewsChunk2: unknown[] = [
       },
       {
         "slug": "cupom-denavita-como-usar"
+      },
+      {
+        "slug": "denavita-ou-rituaria"
+      },
+      {
+        "slug": "laranja-moro-denavita"
       }
     ],
     "contentSections": [
@@ -289316,6 +289386,12 @@ const reviewsChunk2: unknown[] = [
       },
       {
         "slug": "black-friday-denavita"
+      },
+      {
+        "slug": "laranja-moro-denavita"
+      },
+      {
+        "slug": "denavita-tons"
       }
     ],
     "contentSections": [
