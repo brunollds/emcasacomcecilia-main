@@ -174,7 +174,7 @@
       "heading": "Balcony speeds and obstructions after two hours",
       "paragraphs": [
         "Even resting temporarily on the master suite balcony with partial sky obstruction, the link held steady without a single drop during the first two hours of use.",
-        "On my first speed test right after the network came up, I hit 200 Mbps download, 19 Mbps upload and 25 ms ping. To check sustained heavy usage, I left an Air Explorer task backing up from OneDrive to Google Drive: more than 10 GB transferred in over an hour straight, and even though the transfer rate is lower than my wired home fiber, the transfer stayed steady throughout the period I monitored.",
+        "On my first speed test right after the network came up, I hit 200 Mbps download, 19 Mbps upload and 25 ms ping. To check sustained heavy usage, I left an Air Explorer task backing up from OneDrive to Google Drive: 2 GB transferred in over an hour straight, and even though the transfer rate is lower than my wired home fiber, the transfer stayed steady throughout the period I monitored.",
         "After two hours online, the app's obstruction map confirmed what I expected: tucking the dish against the side of the balcony is not the clearest spot on the property, yet everything ran smoothly with zero interruptions. The app itself notes that it needs a few hours to settle and complete the sky map, so it pays to be patient before judging signal quality. In my case, permanent roof mounting should raise the peak speed ceiling. Starlink does not guarantee a fixed minimum speed per plan, and results vary by region and sky clearance."
       ],
       "metrics": {
@@ -206,7 +206,7 @@
         ],
         "summary": {
           "badge": "Steady with zero drops",
-          "text": "Zero drops in 2 hours on the balcony (despite partial obstruction) and steady transfer of 10 GB+ in over 1 hour between clouds."
+          "text": "Zero drops in 2 hours on the balcony (despite partial obstruction) and steady transfer of 2 GB in over 1 hour between clouds."
         }
       },
       "image": {
@@ -236,7 +236,7 @@
       "heading": "First impressions: what stood out and what needs care",
       "paragraphs": [
         "If you deal with fiber dropouts or want to verify real-world signal before drilling into your roof ahead of the technician visit, the setup already delivered plenty of stability during its first temporary hours.",
-        "Right out of the gate, I appreciated the tidy packaging, tool-free activation, drop-free browsing even in a partially obstructed spot, steady cloud backup transfers moving 10 GB+ in over an hour, effortless booking of free professional installation and the stronger living room signal after repositioning the Router Mini.",
+        "Right out of the gate, I appreciated the tidy packaging, tool-free activation, drop-free browsing even in a partially obstructed spot, steady cloud backup transfers moving 2 GB in over an hour, effortless booking of free professional installation and the stronger living room signal after repositioning the Router Mini.",
         "On the flip side, remember to disable automatic Wi-Fi switching on your phone, give the Router Mini a few minutes to appear in the app and wait out the first few hours of sky calibration. In large or multi-room homes, it also makes sense to budget for one or two extra mesh nodes.",
         "I will update this review after the permanent roof installation scheduled for December 10, 2026. So far, I have not tested prolonged heavy rain, extended the cable to its full reach or wired the dish to the router via Ethernet. If you are still weighing Starlink models, also read my [Starlink Mini vs Standard comparison](/en/reviews/starlink-mini-vs-standard-which-to-choose)."
       ],
@@ -263,7 +263,7 @@
       "heading": "Frequently asked questions",
       "bullets": [
         "How long does it take to set up Starlink Mini X for the first time? It took under twenty minutes from plugging into the outlet to browsing online with updates and alignment; check the activation section for how to keep your phone from leaving the temporary Wi-Fi network.",
-        "What speed did Starlink Mini X reach resting on the balcony? On my first balcony test I measured 200 Mbps download, 19 Mbps upload and 25 ms ping. It held steady with zero drops for two hours despite partial obstruction, and transferring more than 10 GB in over an hour stayed steady throughout the period I monitored.",
+        "What speed did Starlink Mini X reach resting on the balcony? On my first balcony test I measured 200 Mbps download, 19 Mbps upload and 25 ms ping. It held steady with zero drops for two hours despite partial obstruction, and transferring 2 GB in over an hour stayed steady throughout the period I monitored.",
         "Does Starlink Mini X alone cover a large home with thick walls? Not in my layout; once I repositioned the kit's Router Mini at a clear spot on the ground floor, signal hit near full bars in the main living room, and larger homes may need a second node.",
         "Do you have to drill the roof to test before permanent installation? No; simply resting the dish firmly with a clear view of the sky near a power outlet lets you test the service within the 30-day return window.",
         "How does the Starlink referral link bonus work? For new customers who order on starlink.com via the official link and keep two paid billing cycles, US$ 100 in the US or £40 in the UK is applied as a bill credit, as I explain in the delivery and order section."

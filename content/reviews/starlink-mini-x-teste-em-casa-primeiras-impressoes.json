@@ -174,7 +174,7 @@
       "heading": "Velocidade medida na varanda e obstruções após duas horas",
       "paragraphs": [
         "Mesmo apoiada provisoriamente na varanda da suíte com obstrução parcial, a conexão segurou sem nenhuma queda durante as primeiras duas horas de uso.",
-        "No meu primeiro teste de velocidade registrado logo após subir a rede, medi 200 Mbps de download, 19 Mbps de upload e 25 ms de ping. Para ver o comportamento em carga contínua, deixei uma tarefa no Air Explorer transferindo um backup do OneDrive para o Google Drive: em mais de uma hora seguida passaram mais de 10 GB e, mesmo com taxa de envio menor que a da minha internet cabeada, a transferência seguiu estável durante o período que acompanhei.",
+        "No meu primeiro teste de velocidade registrado logo após subir a rede, medi 200 Mbps de download, 19 Mbps de upload e 25 ms de ping. Para ver o comportamento em carga contínua, deixei uma tarefa no Air Explorer transferindo um backup do OneDrive para o Google Drive: em mais de uma hora seguida passaram 2 GB e, mesmo com taxa de envio menor que a da minha internet cabeada, a transferência seguiu estável durante o período que acompanhei.",
         "Depois de duas horas ligada, o mapa de obstruções do app confirmou o esperado: o encaixe lateral da varanda não é o melhor ponto da casa em termos de céu aberto, embora tudo tenha funcionado liso e sem interrupções. O próprio aplicativo avisa que precisa de algumas horas para se adequar e completar o mapa, então vale ter paciência antes de julgar o sinal. No meu caso, o que tende a melhorar na fixação definitiva no telhado é o teto de velocidade máxima. A Starlink não garante velocidade mínima fixa por assinatura, e os números podem variar por região e visada."
       ],
       "metrics": {
@@ -206,7 +206,7 @@
         ],
         "summary": {
           "badge": "Estável sem quedas",
-          "text": "Sem quedas em 2 horas na varanda (mesmo com obstrução parcial) e transferência estável de mais de 10 GB em mais de 1 hora entre nuvens."
+          "text": "Sem quedas em 2 horas na varanda (mesmo com obstrução parcial) e transferência estável de 2 GB em mais de 1 hora entre nuvens."
         }
       },
       "image": {
@@ -236,7 +236,7 @@
       "heading": "Primeiras impressões: o que agradou e o que exige cuidado",
       "paragraphs": [
         "Para quem sofre com fibra que cai ou precisa validar o sinal sem furar o telhado antes da visita técnica, o conjunto já mostrou estabilidade suficiente logo nas primeiras horas provisórias.",
-        "Nesta estreia, chamaram atenção a caixa organizada, a ativação simples sem ferramentas, a navegação estável mesmo em ponto provisório com obstrução parcial, a transferência estável de mais de 10 GB em mais de uma hora de backup em nuvem, o agendamento rápido da instalação gratuita e a melhora de sinal na sala principal ao reposicionar o Mini Roteador.",
+        "Nesta estreia, chamaram atenção a caixa organizada, a ativação simples sem ferramentas, a navegação estável mesmo em ponto provisório com obstrução parcial, a transferência estável de 2 GB em mais de uma hora de backup em nuvem, o agendamento rápido da instalação gratuita e a melhora de sinal na sala principal ao reposicionar o Mini Roteador.",
         "Do outro lado, vale desligar a troca automática de Wi-Fi no celular, aguardar alguns minutos até o Mini Roteador surgir no aplicativo e respeitar as primeiras horas de calibração. Em casas grandes ou muito divididas, também faz sentido planejar um ou dois nós adicionais.",
         "Vou atualizar este relato depois da instalação definitiva prevista para 10/12/2026 no telhado. Por enquanto, ainda não peguei chuva forte prolongada nem usei o cabo esticado ao máximo ou ligação cabeada entre a antena e o roteador. Se você ainda compara os modelos da marca, veja também o [comparativo entre Starlink Mini e Padrão](/reviews/starlink-mini-ou-padrao-qual-escolher)."
       ],
@@ -263,7 +263,7 @@
       "heading": "Perguntas frequentes",
       "bullets": [
         "Quanto tempo leva para configurar a Starlink Mini X pela primeira vez? Levou menos de vinte minutos da tomada até navegar com atualização e alinhamento; veja no capítulo de ativação como evitar que o celular abandone a rede provisória.",
-        "Qual velocidade a Starlink Mini X atingiu apoiada na varanda? No primeiro teste na minha varanda, medi 200 Mbps de download, 19 Mbps de upload e 25 ms de ping. A conexão ficou duas horas sem quedas mesmo com obstrução parcial, e a transferência de mais de 10 GB em mais de uma hora seguiu estável durante o período que acompanhei.",
+        "Qual velocidade a Starlink Mini X atingiu apoiada na varanda? No primeiro teste na minha varanda, medi 200 Mbps de download, 19 Mbps de upload e 25 ms de ping. A conexão ficou duas horas sem quedas mesmo com obstrução parcial, e a transferência de 2 GB em mais de uma hora seguiu estável durante o período que acompanhei.",
         "A Starlink Mini X sozinha cobre uma casa grande com paredes grossas? Não no meu cenário; com o Mini Roteador do kit reposicionado em um ponto livre no térreo, o sinal chegou perto do máximo na sala principal, e casas maiores podem precisar de um segundo nó.",
         "Precisa furar o telhado para testar antes da instalação definitiva? Não; basta apoiar a antena em local firme com vista para o céu e tomada próxima para validar o serviço dentro da janela de 30 dias de devolução.",
         "Como funciona o bônus pelo link de indicação da Starlink? Para novos clientes que pedem em starlink.com pelo link oficial e mantêm dois ciclos pagos, entram R$ 200 no Brasil ou 45 € em Portugal como crédito na fatura seguinte, como explico no capítulo de entrega e pedido."
