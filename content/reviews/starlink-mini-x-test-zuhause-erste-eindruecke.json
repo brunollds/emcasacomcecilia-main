@@ -23,7 +23,7 @@
     }
   ],
   "description": "Ich habe Starlink Mini X mit Router Mini im brasilianischen Tarif Residential Max getestet: Lieferung, Balkon-Test, 200 Mbit/s beim ersten Test und WLAN-Reichweite.",
-  "metaDescription": "Starlink Mini X mit Router Mini zuhause getestet: Setup in 20 Min., 200 Mbit/s im 1. Test auf dem Balkon und WLAN-Signal durch dicke Wände.",
+  "metaDescription": "Starlink Mini X mit Router Mini zuhause getestet: Setup in 15 bis 20 Min., 200 Mbit/s im 1. Test auf dem Balkon und WLAN-Signal durch dicke Wände.",
   "publishedAt": "26. November 2026",
   "publishedAtISO": "2026-11-26",
   "updatedAt": "2026-11-26",
@@ -129,7 +129,7 @@
       "paragraphs": [
         "Man muss nicht auf die feste Dachmontage warten, um den Dienst zu testen: Ein sicherer Standplatz mit Blick zum Himmel und eine Steckdose in Reichweite genügen für den Start.",
         "Da der Technikertermin noch bevorsteht, hatte ich vorab einige Stellen im Haus ausgesucht, an denen ich die Mini X stabil ohne Bohrlöcher aufstellen konnte. Der erste Versuch fand auf dem Balkon des Schlafzimmers statt, wo die App eine Himmelsvorschau liefert, die ich aber praktisch überprüfen wollte.",
-        "Ich konnte die Antenne sicher zwischen dem Schutznetz und der Geländerstütze des Balkons einklemmen. Weil direkt neben diesem provisorischen Platz eine Steckdose lag, ließ sich alles sofort einschalten, ohne dass ich das gesamte Kabel abrollen musste (deshalb habe ich in diesem ersten Test das Kabel weder ganz ausgerollt noch gemessen)."
+        "Ich konnte die Antenne sicher zwischen dem Schutznetz und der Geländerstütze des Balkons einklemmen. Weil direkt neben diesem provisorischen Platz eine Steckdose lag, ließ sich alles sofort einschalten, und in diesem ersten Kontakt musste ich das gesamte Kabel nicht einmal abrollen."
       ],
       "video": {
         "mp4": "/videos/reviews/starlink/starlink-mini-x-antena-detalhe-loop.mp4",
@@ -221,7 +221,7 @@
       "heading": "Router Mini durch dicke Wände und Empfang im Wohnzimmer",
       "paragraphs": [
         "Bei mir zu Hause mit dicken Wänden bringt die Antenne allein auf dem Balkon das WLAN nicht in alle Zimmer. Mit dem Router Mini an einem Punkt zwischen Balkon und Wohnzimmer wurde der Empfang im Wohnzimmer stark.",
-        "Zum praktischen Hintergrund: Wegen der dicken Wände habe ich zuhause immer wieder Schwierigkeiten mit WLAN-Routern. Derzeit läuft bei mir ein Mesh aus drei TP-Link Deco BE22 (der Hauptknoten per Kabel am Wohnzimmer-Knoten, der dritte per Funk), und trotzdem bleiben Ecken mit mittlerem bis schwachem Empfang, darunter auch jener Balkon. Darum habe ich gleich den Router Mini in Betrieb genommen, der im Mini-X-Kit enthalten ist.",
+        "Zum praktischen Hintergrund: Wegen der dicken Wände habe ich zuhause immer wieder Schwierigkeiten mit WLAN-Routern. Derzeit läuft bei mir ein Mesh aus drei TP-Link Deco BE22 (zwei davon per Kabel miteinander verbunden, der Hauptknoten und der Wohnzimmer-Knoten, der dritte per Funk), und trotzdem bleiben Ecken mit mittlerem bis schwachem Empfang, darunter auch jener Balkon. Darum habe ich gleich den Router Mini in Betrieb genommen, der im Mini-X-Kit enthalten ist.",
         "Nach dem Einstecken des Router Mini wartet man einige Minuten, bis er in der App zur unkomplizierten kabellosen Mesh-Einrichtung erscheint. Ich stellte ihn zuerst ins Hauptwohnzimmer, worauf die App sofort vor schlechtem Empfang warnte und bat, ihn näher an die Antenne zu rücken. Ich versetzte den Router Mini an einen Platz im Erdgeschoss näher zum Balkon mit weniger Wänden dazwischen, und die Kopplung mit der Mini X stand augenblicklich. Als ich diesen Bericht im Hauptwohnzimmer schrieb, genau dort, wo ich volles Signal brauchte, zeigte mein Handy fast 100 % Starlink-WLAN. Das Umsetzen des Router Mini an diesen Zwischenpunkt löste den Empfang im Hauptwohnzimmer, auch wenn für jede letzte Ecke wohl ein zweiter Router Mini nötig sein wird — dieser erste Test hat keine Raum-für-Raum-Abdeckung gemessen, um gegen die drei Deco BE22 zu vergleichen. In diesem ersten Test lief alles rein kabellos im Mesh ohne Ethernet-Kabel an den unteren Ports."
       ],
       "video": {
@@ -262,11 +262,11 @@
     {
       "heading": "Häufige Fragen",
       "bullets": [
-        "Wie lange dauert die Ersteinrichtung der Starlink Mini X? Von der Steckdose bis zum Surfen samt Update und Ausrichtung vergingen bei mir unter zwanzig Minuten; im Abschnitt zur Aktivierung zeige ich, wie das Handy im provisorischen WLAN bleibt.",
+        "Wie lange dauert die Ersteinrichtung der Starlink Mini X? Von der Steckdose bis zum Surfen samt Update und Ausrichtung vergingen bei mir 15 bis 20 Minuten; im Abschnitt zur Aktivierung zeige ich, wie das Handy im provisorischen WLAN bleibt.",
         "Welches Tempo erreichte Starlink Mini X auf dem Balkon? Bei meinem ersten Test auf dem Balkon maß ich 200 Mbit/s im Download, 19 Mbit/s im Upload und 25 ms Ping. Die Leitung blieb zwei Stunden ohne Abbruch stabil trotz teilweiser Abschattung, und die Übertragung von 2 GB in über einer Stunde lief während des gesamten beobachteten Zeitraums stabil.",
         "Reicht Starlink Mini X allein für ein großes Haus mit dicken Wänden? In meinem Grundriss nicht; mit dem günstig im Erdgeschoss platzierten Router Mini aus dem Kit stieg der Empfang im Hauptwohnzimmer nahe ans Maximum, größere Häuser brauchen teils einen zweiten Knoten.",
         "Muss man vor der festen Montage für einen Test ins Dach bohren? Nein; es reicht, die Antenne sicher mit Blick zum Himmel neben einer Steckdose aufzustellen, um den Dienst innerhalb der 30-Tage-Rückgabefrist zu testen.",
-        "Wie funktioniert die Gutschrift über den Starlink-Empfehlungslink? Neukunden, die über den offiziellen Link auf starlink.com bestellen und zwei Abrechnungszyklen bezahlen, erhalten 45 € als Gutschrift auf die nächste Rechnung, wie ich im Abschnitt zu Lieferung und Bestellung erkläre."
+        "Wie funktioniert die Gutschrift über den Starlink-Empfehlungslink? Neukunden, die über den offiziellen Link auf starlink.com bestellen und zwei Abrechnungszyklen bezahlen, erhalten 45 € als Gutschrift auf die Rechnung, wie ich im Abschnitt zu Lieferung und Bestellung erkläre."
       ]
     }
   ],
