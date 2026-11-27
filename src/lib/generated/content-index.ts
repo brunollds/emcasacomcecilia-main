@@ -288015,6 +288015,12 @@ const reviewsChunk2: unknown[] = [
       },
       {
         "slug": "laranja-moro-denavita"
+      },
+      {
+        "slug": "denavita-e-boa"
+      },
+      {
+        "slug": "denavita-ou-rituaria"
       }
     ],
     "contentSections": [
@@ -288165,7 +288171,7 @@ const reviewsChunk2: unknown[] = [
     },
     "publishedAt": "19 de novembro de 2026",
     "publishedAtISO": "2026-11-19",
-    "updatedAt": "2026-11-21",
+    "updatedAt": "2026-11-27",
     "draft": false,
     "isNew": true,
     "bodyDatesReason": "campanha",
@@ -288176,10 +288182,10 @@ const reviewsChunk2: unknown[] = [
     "coupon": "EMCASA",
     "affiliate": "denavita",
     "type": "Guia de Black Friday",
-    "title": "Black Friday Denavita 2026: preços dos kits e onde o EMCASA deu 10%",
+    "title": "Black Friday Denavita 2026: preços dos kits, Trio de Favoritos e cupom EMCASA",
     "seoTitle": "Black Friday Denavita 2026: até 40% + cupom EMCASA",
-    "description": "Compare o preço por pote nas ofertas da Denavita, veja onde o EMCASA deu 10% OFF nos nossos carrinhos e como ficam os kits e as ofertas por quantidade.",
-    "metaDescription": "O EMCASA dá 10% OFF na Denavita, que anuncia até 40% OFF na Black Friday. Veja os kits testados e o preço por pote nas ofertas por quantidade.",
+    "description": "Compare o preço por pote nas ofertas da Denavita, veja os carrinhos onde o EMCASA aplicou 10% no aquecimento e 15% OFF na sexta de Black Friday, além do Trio de Favoritos.",
+    "metaDescription": "Na Black Friday Denavita 2026 (até 40% OFF), o cupom EMCASA deu 15% OFF no teste da campanha. Veja o Trio de Favoritos, os kits e o preço por pote.",
     "image": "/images/reviews/denavita/black-friday-denavita-hero-pt-v2.webp",
     "imageAlt": "Pó caindo acima do pacote vermelho de Jejoom, entre laranjas em foto do catálogo Denavita. A capa traz «Black Friday: kits e ofertas» e o cupom EMCASA.",
     "cta": {
@@ -288198,13 +288204,19 @@ const reviewsChunk2: unknown[] = [
       },
       {
         "slug": "laranja-moro-denavita"
+      },
+      {
+        "slug": "denavita-tons"
+      },
+      {
+        "slug": "denavita-ou-rituaria"
       }
     ],
     "contentSections": [
       {
         "heading": "Resposta rápida",
         "paragraphs": [
-          "A Black Friday da Denavita anuncia até 40% OFF em todo o site, e o EMCASA deu mais 10% OFF nos avulsos promocionais e nos kits que testamos, inclusive no Pix. Nas ofertas por quantidade, ainda não testamos o cupom: calculamos o desconto e você confere a linha do cupom no resumo antes de pagar."
+          "A Black Friday da Denavita anuncia até 40% OFF no site. Nos testes iniciais da campanha o EMCASA deu 10% OFF (inclusive no Pix) e, em 27/11, passou a aplicar 15% OFF nos avulsos e kits simulados, sem prazo divulgado pela marca. Confira abaixo o Trio de Favoritos e a conta por pote."
         ]
       },
       {
@@ -288214,7 +288226,7 @@ const reviewsChunk2: unknown[] = [
         ],
         "bullets": [
           "**Avulsos em promoção.** [Laranja Moro](https://www.denavita.com.br/products/laranja-moro-cafe-verde-e-cromo-30-caps), [Jejoom Shot Matinal](https://www.denavita.com.br/products/jejoom-shot-matinal-para-metabolismo) e [Trio Magnésio](https://www.denavita.com.br/products/trio-magnesio) estão entre os que testamos.",
-          "**Kits prontos.** [Kit Vida Fit](https://www.denavita.com.br/products/kit-vida-fit) (Vinagre de Maçã e Laranja Moro), [Turbo Metabolismo](https://www.denavita.com.br/products/turbo-metabolismo) (Laranja Moro, Trio Magnésio e Vinagre de Maçã) e [Kit Queridinhos Denavita](https://www.denavita.com.br/products/kit-queridinhos-denavita) (Laranja Moro, Jejoom e Coenzima Q10).",
+          "**Kits prontos.** [Trio de Favoritos](https://www.denavita.com.br/products/trio-de-favoritos) (Laranja Moro, NAC + Polivitamínico e Trio Magnésio), [Kit Vida Fit](https://www.denavita.com.br/products/kit-vida-fit) (Vinagre de Maçã e Laranja Moro), [Turbo Metabolismo](https://www.denavita.com.br/products/turbo-metabolismo) (Laranja Moro, Trio Magnésio e Vinagre de Maçã) e [Kit Queridinhos Denavita](https://www.denavita.com.br/products/kit-queridinhos-denavita) (Laranja Moro, Jejoom e Coenzima Q10).",
           "**Compra por quantidade.** Compre 2 Leve 3 e Compre 3 Leve 5 no [Laranja Moro](https://www.denavita.com.br/products/laranja-moro-cafe-verde-e-cromo-30-caps), Leve 3 e Pague 2 no [Trio Magnésio](https://www.denavita.com.br/products/trio-magnesio) e as opções de 2, 3 e 5 unidades de outros produtos são variantes na página de cada um.",
           "**Oferta 24H.** Quando houver um contador no item, confira a oferta atual na vitrine."
         ],
@@ -288229,12 +288241,12 @@ const reviewsChunk2: unknown[] = [
         ]
       },
       {
-        "heading": "Onde os 10% entraram no checkout",
+        "heading": "Onde os 10% e os 15% entraram no checkout",
         "paragraphs": [
-          "Em 19/11, o resumo registrou 10% de desconto do EMCASA nos três primeiros pedidos da tabela. No carrinho dos dois kits, os 10% continuaram aplicados com o Pix selecionado. No teste mais recente, feito pelo Bruno no checkout seguro da loja, o cupom também entrou no pedido com os três kits: R$ 659,70 no carrinho e R$ 593,73 depois do EMCASA."
+          "Em 19/11, o resumo registrou 10% de desconto do EMCASA nos quatro pedidos da tabela abaixo, mantendo o abatimento também no Pix. Já na sexta de Black Friday (27/11), novos testes no checkout seguro.denavita.com.br mostraram o código aplicando 15% OFF (como em R$ 538,70 → R$ 457,89, −R$ 80,81, sem data de fim informada pela loja e com reconferência prevista para 28/11)."
         ],
         "comparisonTable": {
-          "caption": "Carrinhos testados no checkout, antes de calcular a entrega.",
+          "caption": "Primeira bateria de carrinhos testados no checkout (com o EMCASA a 10% na ocasião), antes da entrega.",
           "headers": [
             "Carrinho",
             "Produtos",
@@ -288287,6 +288299,36 @@ const reviewsChunk2: unknown[] = [
         "postParagraphs": [
           "Confira sempre as linhas de desconto no resumo antes de pagar. [Passo a passo do cupom Denavita](/reviews/cupom-denavita-como-usar)"
         ]
+      },
+      {
+        "heading": "Trio de Favoritos ou os três potes separados na Black Friday",
+        "paragraphs": [
+          "No destaque principal da vitrine de 27/11 entrou o [Trio de Favoritos](https://www.denavita.com.br/products/trio-de-favoritos), que reúne um pote de Laranja Moro (30 cápsulas), um de NAC + Polivitamínico A a Z (60 cápsulas) e um de Trio Magnésio (60 cápsulas), anunciado por R$ 138,90 (de R$ 306,10).",
+          "Ao colocar os três potes avulsos equivalentes na gaveta da loja (R$ 89,90 + R$ 49,90 + R$ 44,90 = R$ 184,70), apareceu o aviso de produto grátis na próxima etapa, mas o desconto de Leve 3, Pague 2 não apareceu no resumo antes da identificação naquele carrinho com três produtos diferentes. Pelos totais registrados no resumo com os 15% do EMCASA na sexta da campanha, o kit pronto economizou R$ 38,93 antes do frete."
+        ],
+        "comparisonTable": {
+          "caption": "Resumo lido em seguro.denavita.com.br na sexta de Black Friday antes da identificação e do frete, com EMCASA a 15%.",
+          "headers": [
+            "Carrinho simulado",
+            "Produtos",
+            "EMCASA (15% na campanha)",
+            "Total antes do frete"
+          ],
+          "rows": [
+            [
+              "[Trio de Favoritos](https://www.denavita.com.br/products/trio-de-favoritos) (Laranja Moro + NAC + Trio Magnésio)",
+              "R$ 138,90",
+              "-R$ 20,84",
+              "R$ 118,07"
+            ],
+            [
+              "Os 3 potes avulsos no mesmo carrinho",
+              "R$ 184,70",
+              "-R$ 27,71",
+              "R$ 157,00"
+            ]
+          ]
+        }
       },
       {
         "heading": "Quanto sai cada pote nas ofertas por quantidade",
@@ -288431,17 +288473,17 @@ const reviewsChunk2: unknown[] = [
       {
         "heading": "Frete e prazo",
         "paragraphs": [
-          "A faixa da Denavita anuncia frete grátis a partir de R$ 199,90, conforme as regras da loja. Informe o CEP no checkout para ver o prazo e o frete, aplique o cupom e confira o total. O pagamento pode ser em até 12x no cartão ou no Pix.",
+          "Em 27/11, a faixa de Black Friday passou a anunciar frete grátis a partir de R$ 139*, abaixo dos R$ 199,90 exibidos na abertura da campanha, conforme as regras da loja. A regra de incidência do piso (antes ou depois do cupom) segue pendente: nos resumos sem identificação, o kit Trio de Favoritos ficou abaixo de R$ 139 nos dois momentos (R$ 138,90 → R$ 118,07) e os três avulsos ficaram acima nos dois momentos (R$ 184,70 → R$ 157,00). Informe o CEP no checkout para ver o prazo e o frete antes de pagar, em até 12x no cartão ou no Pix.",
           "A página do Laranja Moro também sinaliza frete grátis na opção Compre 3 Leve 5. Dúvidas sobre quem vende e como funciona a entrega estão em [Denavita é confiável?](/reviews/denavita-e-confiavel)."
         ]
       },
       {
         "heading": "Perguntas frequentes",
         "bullets": [
-          "A Denavita tem Black Friday? A loja anuncia até 40% OFF em todo o site, com kits e ofertas por quantidade. Consulte a página da loja para ver o que está disponível no dia.",
-          "O cupom soma com o Leve 3, Pague 2? O EMCASA deu 10% OFF nos carrinhos que testamos, com avulsos promocionais e kits. Nas opções por quantidade, ainda não testamos o cupom: confira a linha Cupom de desconto no resumo antes de pagar. Veja o [cupom Denavita](/cupons/denavita).",
-          "Até quando vai a promoção? A loja não informou o fim da campanha. Confira a faixa do site no dia da compra.",
-          "Tem frete grátis na Black Friday da Denavita? A loja anuncia frete grátis a partir de R$ 199,90, conforme as regras da loja. Confira o prazo e o frete para o seu CEP no checkout, depois de aplicar o cupom."
+          "A Denavita tem Black Friday? A loja anuncia até 40% OFF em todo o site, com kits como o Trio de Favoritos e ofertas por quantidade. Consulte a página da loja para ver o que está disponível no dia.",
+          "Quanto o cupom EMCASA tira e ele soma com o Leve 3, Pague 2? O código aplicou 10% OFF na abertura da temporada e subiu para 15% OFF nos testes da sexta de Black Friday, em avulsos e kits, sem prazo divulgado pela marca. No carrinho com três avulsos diferentes, o Leve 3, Pague 2 não apareceu no resumo antes da identificação; nas opções por quantidade do mesmo item, confira a linha de desconto antes de pagar. Veja o [cupom Denavita](/cupons/denavita).",
+          "Até quando vai a promoção? A loja não informou o fim da campanha nem por quanto tempo mantém os 15% OFF no código. Confira a faixa do site e o resumo do pedido na hora da compra.",
+          "Tem frete grátis na Black Friday da Denavita? Na sexta da campanha a faixa passou a anunciar frete grátis a partir de R$ 139* (ante R$ 199,90 nos dias anteriores), conforme as regras da loja. Preencha a identificação e o CEP no checkout para confirmar o valor da entrega depois de aplicar o cupom."
         ]
       }
     ]
@@ -288492,6 +288534,12 @@ const reviewsChunk2: unknown[] = [
       },
       {
         "slug": "denavita-e-confiavel"
+      },
+      {
+        "slug": "denavita-tons"
+      },
+      {
+        "slug": "denavita-ou-rituaria"
       }
     ],
     "decision": {
@@ -288739,6 +288787,12 @@ const reviewsChunk2: unknown[] = [
         "slug": "laranja-moro-denavita"
       },
       {
+        "slug": "denavita-tons"
+      },
+      {
+        "slug": "denavita-ou-rituaria"
+      },
+      {
         "slug": "denavita-e-confiavel"
       },
       {
@@ -288771,7 +288825,7 @@ const reviewsChunk2: unknown[] = [
         "heading": "Quem é a Denavita: origem, reputação e o que vende",
         "paragraphs": [
           "A Denavita é uma marca brasileira de vitaminas e suplementos em cápsulas, gomas, pós e shots, com vitrine oficial em denavita.com.br operada pela Vitalita Comércio e Estratégias Digitais Ltda. e checkout próprio em seguro.denavita.com.br. Entre os avulsos mais buscados estão [Laranja Moro](https://www.denavita.com.br/products/laranja-moro-cafe-verde-e-cromo-30-caps), [Trio Magnésio](https://www.denavita.com.br/products/trio-magnesio), [NAC + Polivitamínico](https://www.denavita.com.br/products/nac-polivitaminico), [Creatina 100% Pura](https://www.denavita.com.br/products/creatina-monohidratada-creatine-100-pura-micronizada-250g-denavita), o shot [Jejoom](https://www.denavita.com.br/products/jejoom-shot-matinal-para-metabolismo) e o [Digestino](https://www.denavita.com.br/products/digestino).",
-          "O catálogo também reúne kits que juntam produtos diferentes (como o [Kit Vida Fit](https://www.denavita.com.br/products/kit-vida-fit) e o [Turbo Metabolismo](https://www.denavita.com.br/products/turbo-metabolismo)) e ofertas por quantidade de vários potes do mesmo item, com pagamento em até 12x no cartão ou no Pix.",
+          "O catálogo também reúne kits que juntam produtos diferentes (como o [Trio de Favoritos](https://www.denavita.com.br/products/trio-de-favoritos), o [Kit Vida Fit](https://www.denavita.com.br/products/kit-vida-fit) e o [Turbo Metabolismo](https://www.denavita.com.br/products/turbo-metabolismo)) e ofertas por quantidade de vários potes do mesmo item, com pagamento em até 12x no cartão ou no Pix.",
           "Para conferir o CNPJ, a consulta de regularização na embalagem e as regras de devolução, veja se a [Denavita é confiável](/reviews/denavita-e-confiavel); já as notas, o tempo de resposta e o histórico de entregas estão na análise da [Denavita no Reclame Aqui](/reviews/denavita-reclame-aqui-nota-reputacao)."
         ]
       },
@@ -288937,7 +288991,7 @@ const reviewsChunk2: unknown[] = [
       {
         "heading": "Onde a Denavita vale o pedido e como decidir pelo rótulo",
         "paragraphs": [
-          "A Denavita vale a pena para quem já sabe qual suplemento procura e escolhe pelo rendimento do pote, pela concentração declarada na ficha e pelo custo diário. Nos itens de uso contínuo (como Laranja Moro, Trio Magnésio, NAC + Polivitamínico e Coenzima Q10), as ofertas por quantidade reduzem o valor por pote antes mesmo dos 10% OFF do cupom EMCASA da Denavita.",
+          "A Denavita vale a pena para quem já sabe qual suplemento procura e escolhe pelo rendimento do pote, pela concentração declarada na ficha e pelo custo diário. Nos itens de uso contínuo (como Laranja Moro, Trio Magnésio, NAC + Polivitamínico e Coenzima Q10), as ofertas por quantidade reduzem o valor por pote antes mesmo dos 10% OFF do cupom EMCASA da Denavita. Se também compara magnésio, NAC e coenzima Q10 com outra marca parceira, veja [Denavita ou Rituária](/reviews/denavita-ou-rituaria).",
           "Já quem prefere testar um único frasco ou reunir fórmulas diferentes encontra nos avulsos e nos kits combinados (como o Kit Vida Fit e o Turbo Metabolismo) um caminho prático, conferindo a validade de potes múltiplos e o mínimo do frete grátis no checkout. Para decidir se deve usar o suplemento, ajustar a dose diária ou avaliar o uso com medicamentos e condições de saúde, fale sempre com médico ou nutricionista."
         ],
         "emphasis": "Sim, a Denavita compensa para quem compra suplemento pelo rótulo e pela conta por dia: aproveite os combos de múltiplos potes ou kits quando fizer sentido no seu consumo e aplique o cupom EMCASA da Denavita no checkout para garantir 10% OFF, inclusive no Pix.",
@@ -289008,6 +289062,12 @@ const reviewsChunk2: unknown[] = [
       },
       {
         "slug": "cupom-denavita-como-usar"
+      },
+      {
+        "slug": "denavita-ou-rituaria"
+      },
+      {
+        "slug": "denavita-tons"
       }
     ],
     "contentSections": [
@@ -289143,6 +289203,12 @@ const reviewsChunk2: unknown[] = [
       },
       {
         "slug": "cupom-denavita-como-usar"
+      },
+      {
+        "slug": "denavita-ou-rituaria"
+      },
+      {
+        "slug": "laranja-moro-denavita"
       }
     ],
     "contentSections": [
@@ -289316,6 +289382,12 @@ const reviewsChunk2: unknown[] = [
       },
       {
         "slug": "black-friday-denavita"
+      },
+      {
+        "slug": "laranja-moro-denavita"
+      },
+      {
+        "slug": "denavita-tons"
       }
     ],
     "contentSections": [
