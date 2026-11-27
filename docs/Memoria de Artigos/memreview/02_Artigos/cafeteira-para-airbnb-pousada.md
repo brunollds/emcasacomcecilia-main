@@ -8,10 +8,11 @@ category: "guias-praticos-utilidade"
 reviewKind: "guia"
 type: "Guia de escolha"
 anexo_tipo: "Anexo-Casa-Malas"
-status: "pauta-aprovada"
-responsavel: "sessão de artigos"
-proxima_acao: "redacao"
+status: "pronto-para-deploy"
+responsavel: "Job-5"
+proxima_acao: "Merge do PR, deploy em produção e submissão ao IndexNow (id 1490)"
 bloqueado_por: "-"
+id_artigo: 1490
 data_criacao: "2026-11-05"
 modo_i18n: "somente-pt"
 idioma_fonte: "pt"
@@ -126,14 +127,14 @@ O briefing é de 05/11, anterior ao template atual. Esta conferência relê a lo
 
 | Afirmação | Rótulo | Fonte | Estado |
 |---|---|---|---|
-| Preço da caixa, das máquinas e dos combos | "A loja informa" | `/sabores/cafes`, `/maquinas-cafe`, `/negocios-combos` | Lido em 27/11; reler no dia da redação |
-| 10% extra para CNPJ nos combos | "A loja informa" | aviso de `/negocios-combos` | Lido |
+| Preço da caixa, das máquinas e dos combos | "A loja informa" | `/sabores/cafes`, `/maquinas-cafe`, `/negocios-combos` | Lido em 27/11 |
+| 10% extra para CNPJ nos combos | "A loja informa" | aviso de `/negocios-combos` | Lido em 27/11 |
 | O CECI soma com os 10% de CNPJ e com o combo | afirmação direta | teste do Bruno de 05/11 | Pode afirmar, sem descrever o teste |
-| O CECI vale em máquina em promoção e na assinatura acima de R$ 100 | afirmação direta | testes de 17/11, no dossiê | Pode afirmar |
-| Custo por estadia e por mês | "Conta nossa" | preço ÷ cápsulas, com os pressupostos | Espera a aprovação dos pressupostos |
-| O formulário tem a opção de hotel, pousada, hospedagem ou Airbnb | "A loja informa" | `/negocios/formulario` | Lido |
-| Café não está entre as comodidades básicas do Airbnb | "O Airbnb informa" | Central de Ajuda, artigo 2343 | Lido; com link |
-| A garantia da Mini Me não cobre o uso direto por clientes em hotéis e similares, nem em escritórios | "O manual informa" | `/media/Manual_Mine_Me.pdf`, precauções de segurança, item 3 | Lido em 27/11; manual das Genio S pendente |
+| O CECI vale em máquina, assinatura (> R$ 100), kit Leve 10 Pague 6 e combo de 55 caixas | afirmação direta | testes de 17/11 e testes sem login de 27/11 no carrinho | Pode afirmar |
+| Custo por estadia e por mês | "Conta nossa" | preço ÷ bebidas prontas, com os pressupostos | Aprovado pelo Bruno em 27/11 |
+| O formulário tem a opção de hotel, pousada, hospedagem ou Airbnb | "A loja informa" | `/negocios/formulario` | Lido em 27/11 |
+| Café não está entre as comodidades básicas do Airbnb | afirmação direta | Central de Ajuda do Airbnb, artigo 2343 | Lido em 27/11; com link |
+| A garantia da Mini Me 2.0 e das três Genio S não cobre uso por clientes em hotéis, motéis e pousadas, nem escritórios | afirmação direta | `/media/Manual_Mine_Me.pdf` (item 3) e `/media/Manual_Genio_S_{Basic,Plus,Touch}.pdf` (p. 4, `USO PREVISTO`, item 1) | Todos lidos em 27/11 |
 | Limpeza entre estadias, quantas xícaras, instrução impressa | "Regra prática, sem teste nosso" | conhecimento geral, com a premissa | Pode publicar com o rótulo |
 | "No nosso Airbnb", preferência de hóspede, nota do anúncio que sobe com café | fora | ninguém do site é anfitrião | Não escrever |
 
@@ -167,38 +168,58 @@ Respostas coladas pelo Bruno às quatro perguntas da conferência. Os fatos novo
 3. **Redação agora.** Preços e banners são relidos no dia de publicar. Antes de indicar máquina para o quarto, o capítulo trata da garantia.
 4. **YesStyle (`BLACK26` vencido):** aguardar, por decisão do Bruno. Enquanto isso o build da `main` segue parando no `validate:content`.
 
-### Releitura de 27/11 (Chrome, sem login e sem carrinho)
+### Releitura de 27/11 (Chrome, sem login; testes de cupom no carrinho limpo depois)
 
-- **Kit de cápsulas (`/levepague`):** hoje a oferta é "Leve 10 Pague 6": 100 cápsulas de Espresso por R$ 155,40 ("Especial Black Friday"), e o mesmo preço para Mochaccino Canela, Au Lait, Caffè Matinal e Espresso Intenso. O "Leve 10 Pague 5" a R$ 129,50 da resposta colada não existe mais: a página dá "Página não encontrada". Não sabemos se o CECI entra no kit: o regulamento lido em 08/10 dizia que combos de bebidas não somam com outras ofertas. `[PENDENTE: carrinho]`, sem finalizar.
-- **Máquina grátis + 55 caixas (`/maquinas-cafe/combo-basic-branca-gratis`):** "Combo especial Black Friday": 550 cápsulas (70 de Mochaccino Canela e 80 de cada um de Espresso, Espresso Intenso, Au Lait, Caffè Matinal, Café Caseiro e Cappuccino) e uma Genio S Basic branca grátis, por R$ 874,50. A voltagem se escolhe no carrinho. São R$ 1,59 por cápsula, o preço da caixa avulsa do dia, com a máquina de brinde. Cappuccino usa duas cápsulas por bebida. CECI neste combo: não testado.
-- **Assinatura (`/sobre/termos-assinatura`, item 3.4):** as assinaturas do formato novo têm "25% de desconto e frete grátis em todos os pedidos de assinatura, desde que tenha um pedido mínimo de 3 caixas".
-- **Caixa de Espresso (`/capsulas-espresso-10`):** R$ 25,90 riscado, R$ 15,90 no dia.
+- **Kit de cápsulas (`/levepague`):** hoje a oferta é "Leve 10 Pague 6": 100 cápsulas de Espresso por R$ 155,40 ("Especial Black Friday"), e o mesmo preço para Mochaccino Canela, Au Lait, Caffè Matinal, Espresso Intenso e Cappuccino (`50+50`, 50 bebidas); Língua de Gato sai a R$ 173,40. O "Leve 10 Pague 5" a R$ 129,50 da resposta colada não existe mais: a página dá "Página não encontrada". **Teste no carrinho (27/11):** `COMBO ESPRESSO LEVE 10 PAGUE 6` (R$ 155,40) aceitou o `CECI` (`-R$ 15,54`, `10% OFF`), total **R$ 139,86** (`R$ 1,40`/bebida de 1 cápsula).
+- **Máquina grátis + 55 caixas (`/maquinas-cafe/combo-basic-branca-gratis`):** "Combo especial Black Friday": 550 cápsulas (70 de Mochaccino Canela e 80 de cada um de Espresso, Espresso Intenso, Au Lait, Caffè Matinal, Café Caseiro e Cappuccino) e uma Genio S Basic branca grátis (voltagem 110V ou 220V escolhida no carrinho), por R$ 874,50 (riscado R$ 1.424,50). Como as 80 cápsulas de Cappuccino fazem 40 bebidas (2 cápsulas cada), o lote fechado rende **510 bebidas**. **Teste no carrinho (27/11):** aceitou o `CECI` (`-R$ 87,45`, `10% OFF`), total **R$ 787,05** (`R$ 1,54`/bebida no lote, com a máquina grátis).
+- **Combos Negócios (`/negocios-combos`, conferência de composição em 27/11):**
+  - `Queridinhos 30 caixas` (R$ 522,90): 10 Espresso + 10 Mochaccino Canela + 10 Café au Lait (**300 bebidas**; nenhuma de 2 cápsulas).
+  - `Amante de Cafés 30 caixas` (R$ 522,90): 10 Espresso + 10 Caffè Matinal + 10 Café Caseiro (**300 bebidas**; nenhuma de 2 cápsulas).
+  - `Queridinhos 50 caixas` (R$ 809,25): 10 Espresso + 10 Mochaccino Canela + 10 Café au Lait + **10 Cappuccino** + 10 Caffè Matinal (**450 bebidas**, porque 100 cápsulas de Cappuccino rendem 50 bebidas).
+- **Assinatura (`/sobre/termos-assinatura`, item 3.4):** as assinaturas do formato novo têm "25% de desconto e frete grátis em todos os pedidos de assinatura, desde que tenha um pedido mínimo de 3 caixas". O desconto incide sobre o preço cheio (R$ 25,90 → R$ 19,43/caixa); o `CECI` pede subtotal pós-desconto de pelo menos R$ 100 (mínimo de 6 caixas: R$ 116,55 → R$ 104,90 com frete grátis, ou R$ 1,75/bebida).
+- **Caixa de Espresso e Cappuccino avulsas (`/sabores/cafes` e `/sabores/cappuccino-latte`):** R$ 25,90 riscado, R$ 15,90 no dia.
 
 ### Garantia e uso por hóspedes (muda o capítulo da máquina)
 
 O manual oficial da Mini Me (`/media/Manual_Mine_Me.pdf`, precauções de segurança, item 3) diz: "Este aparelho destina-se a ser usado exclusivamente em ambientes domésticos. O aparelho não foi concebido, nem deve ser utilizado, nas aplicações seguintes (a garantia não cobre tais aplicações): cozinhas coletivas em estabelecimentos comerciais, escritórios e outros locais de trabalho; residências rurais; utilização direta por clientes em hotéis, motéis e outros estabelecimentos hoteleiros". O item 4 diz que, em caso de utilização indevida, o fabricante "cancelará a respectiva garantia".
 
-- O artigo diz isso sem rodeio: a Mini Me posta para o hóspede usar fica fora da garantia, pelo manual. Não vale escrever "pergunte à marca" no lugar do fato.
+Os três manuais das Genio S (`/media/Manual_Genio_S_Basic.pdf`, `8020004978`; `/media/Manual_Genio_S_Plus.pdf`, `8020005032/02`; `/media/Manual_Genio_S_Touch.pdf`, `8020005048/03`, lidos em 27/11, página 4, `1. RECOMENDAÇÕES DE SEGURANÇA`, `USO PREVISTO`, item 1) trazem a mesma exclusão e ainda citam pousadas explicitamente: `"– por clientes em hotéis, motéis e outros estabelecimentos do tipo residencial; – ambientes como pousadas;"`. Os links não aparecem nas páginas das máquinas (ficam em `/media/`; `/genio-s-basic-documentacao/` aponta por engano para `Manual_Drop.pdf`).
+
+- O artigo diz isso sem rodeio: todas as máquinas domésticas Original vendidas hoje na loja (Mini Me 2.0 e as três Genio S) ficam fora da garantia quando postas para uso direto de hóspedes em hotéis, motéis e pousadas. Não vale escrever "pergunte à marca" no lugar do fato.
 - A mesma loja tem a linha Negócios, com a opção "Hotel, pousada, hospedagem ou Airbnb" no formulário. O texto registra os dois fatos lado a lado e não tenta conciliar: quem quer máquina coberta para o quarto pede a proposta pelo formulário e pergunta da garantia ali.
-- Apartamento de temporada: o manual fala em "hotéis, motéis e outros estabelecimentos hoteleiros". O artigo não decide se um Airbnb é ou não "estabelecimento hoteleiro"; diz que o uso previsto é doméstico e que o anfitrião assume o risco de ficar sem garantia.
-- `[PENDENTE: navegador]` manual das Genio S (Basic, Plus e Touch), antes de dizer que a regra é a mesma.
-- O capítulo "qual máquina deixar" passa a abrir pela garantia, e o `decision` ganha um "passe se": você precisa de máquina com garantia para uso de hóspedes.
+- Apartamento de temporada: o manual fala em "hotéis, motéis e outros estabelecimentos hoteleiros / do tipo residencial" e "ambientes como pousadas". O artigo não decide se um Airbnb é ou não "estabelecimento hoteleiro"; diz que o uso previsto é doméstico e que o anfitrião assume o risco de ficar sem garantia.
+- O capítulo da máquina abre pela garantia, e o `decision` traz um "passe se": você precisa de máquina com garantia para uso de hóspedes.
 
 ### Contas com os pressupostos aprovados (preços de 27/11)
 
-| Como compra | Por cápsula | 6 bebidas | 12 bebidas |
-|---|---|---|---|
-| Caixa avulsa, R$ 15,90 | R$ 1,59 | R$ 9,54 | R$ 19,08 |
-| Caixa avulsa com o CECI | R$ 1,43 | R$ 8,59 | R$ 17,17 |
-| Kit Leve 10 Pague 6, R$ 155,40 | R$ 1,55 | R$ 9,32 | R$ 18,65 |
-| Combo de 20 caixas com CNPJ e CECI (hipótese da DN1) | R$ 1,51 | R$ 9,08 | R$ 18,15 |
-| Máquina grátis + 55 caixas, R$ 874,50 | R$ 1,59 | R$ 9,54 | R$ 19,08 |
+Pressupostos do artigo (`Conta nossa`): 1 bebida de uma cápsula por hóspede por noite no cenário básico e 2 no cenário de maior consumo (2 hóspedes em 3 noites = 6 ou 12 bebidas; pousada de 6 quartos, 2 hóspedes por quarto e 15 noites ocupadas = 180 ou 360 bebidas/mês). Bebida de 2 cápsulas (como Cappuccino) conta por bebida pronta, não por cápsula.
 
-- **Quem ganhou em 27/11:** a caixa avulsa com o CECI. O kit só passa à frente se o CECI entrar nele (R$ 1,40 por cápsula), o que não foi testado.
-- O CECI pede R$ 100: 7 caixas avulsas (R$ 111,30). Para o apartamento de um casal no cenário básico, são 70 cápsulas, mais de dez estadias de três noites.
-- **Pousada, por mês:** 180 bebidas pedem 18 caixas (R$ 257,58 com o CECI, a R$ 15,90); 360 pedem 36 caixas (R$ 515,16).
-- A tabela anterior (seção "Contas" da conferência) fica como registro; a redação usa esta.
+| Como compra | Por bebida pronta | 6 bebidas | 12 bebidas | Origem / Observação |
+|---|---|---|---|---|
+| Caixa avulsa cheia, R$ 25,90 (4+ cx c/ CECI: R$ 93,24) | R$ 2,33 | R$ 13,99 | R$ 27,97 | Simulação sobre R$ 25,90 (CECI exige 4 cx = R$ 103,60) |
+| Assinatura (25% + CECI a partir de 6 cx = R$ 104,90) | R$ 1,75 | R$ 10,49 | R$ 20,98 | Simulação sobre base 25% do guia de assinatura + frete grátis |
+| Caixa avulsa promo, R$ 15,90 | R$ 1,59 | R$ 9,54 | R$ 19,08 | Preço da loja em 27/11 |
+| Combo 20 caixas CNPJ + CECI (hipótese R$ 302,54) | R$ 1,51 | R$ 9,08 | R$ 18,15 | Simulação DN1 (200 bebidas; empate da avulsa em R$ 16,81) |
+| Kit Leve 10 Pague 6, R$ 155,40 + CECI (R$ 139,86) | R$ 1,40 | R$ 8,39 | R$ 16,78 | **Testado no carrinho (27/11)**; 100 bebidas de 1 cápsula |
+| Caixa avulsa promo R$ 15,90 + CECI (7+ cx = R$ 100,17) | R$ 1,43 | R$ 8,59 | R$ 17,17 | Simulação sobre R$ 15,90 (CECI pede 7 cx = R$ 111,30) |
+| Combo 30 caixas (1 cápsula) CNPJ + CECI (R$ 423,55) | R$ 1,41 | R$ 8,47 | R$ 16,94 | Simulação DN1 em Queridinhos/Amante de Cafés (300 bebidas; empate em R$ 15,69) |
+| Combo 50 caixas Queridinhos CNPJ + CECI (R$ 655,49) | R$ 1,46 | R$ 8,74 | R$ 17,48 | Simulação sobre mix com 10 cx Cappuccino (= 450 bebidas, R$ 1,31/cápsula) |
+| Máquina grátis + 55 caixas + CECI (R$ 787,05) | R$ 1,54 | R$ 9,26 | R$ 18,52 | **Testado no carrinho (27/11)**; 510 bebidas (80 Cappuccino) + Genio S Basic grátis |
 
-### Concorrência na busca
+- **Quem ganhou em 27/11:** para **1 imóvel / CPF**, o kit **Leve 10 Pague 6 com `CECI`** (`R$ 139,86`, `R$ 1,40`/bebida) levou por uma margem mínima sobre 7 caixas avulsas em promoção com `CECI` (`R$ 1,43`/bebida). Fora de campanha, os **combos Negócios com CNPJ** (empates em `R$ 16,81`/caixa no de 20 e `R$ 15,69`/caixa no de 30) ganham com folga; em pousada de 30+ caixas/mês com CNPJ, os combos de 30 caixas de dose única (`R$ 1,41`) já superam a caixa avulsa da Black Friday (`R$ 1,43`), e o de 50 caixas tem menor preço por cápsula (`R$ 1,31`), mas rende menos bebidas por incluir Cappuccino.
+- **Pousada, por mês (caixa avulsa promo + CECI, de 18 e 36 caixas de dose única):** 180 bebidas = `R$ 257,58`; 360 bebidas = `R$ 515,16`. Com combo Negócios de 30 caixas (`R$ 423,55` na simulação CNPJ + CECI), 300 bebidas saem por `R$ 1,41` cada.
 
-A resposta colada cita um guia já publicado, `paixaoporcafe.com.br/melhor-cafeteira-para-airbnb`, que compara modelos e explica o uso. Não li a página. O diferencial desta pauta é o que ele não faz: quantas bebidas deixar, quanto reservar por estadia, como repor e o que a garantia diz. `[PENDENTE: navegador]` ler a página antes da redação, para não repetir o que ela já responde.
+### Concorrência na busca (`paixaoporcafe.com.br/melhor-cafeteira-para-airbnb`, lida em 27/11)
+
+Página atualizada em 25/11/2026 (`"As 8 Melhores Cafeteiras para Airbnb em 2026 (Mondial e Nespresso)"`): recomenda 7 cafeteiras elétricas de jarra de inox + Nespresso Essenza Mini C30; já aborda exclusão de garantia em locação por temporada (Mondial/Cadence/Oster) e reposição de jarras/peças. **O que não faz (diferencial do nosso guia):** não avalia Dolce Gusto, não traz contas em reais por estadia nem por mês de pousada, não calcula bebidas de 2 cápsulas (como Cappuccino), não dá ponto de empate nem explica reposição por assinatura, kit `Leve 10 Pague 6`, combo de 55 caixas ou combos CNPJ com cupom.
+
+### Capa e imagens (aprovadas pelo Bruno em 27/11/2026 — CDN verified)
+
+Aprovação visual do Bruno em 27/11/2026 (folha `contato-dn4-airbnb-pousada.png`). Fallback de origem (`Job 6` §4): o download direto dos PNGs em `nescafe-dolcegusto.com.br` devolveu `HTTP 403`; `#1` e `#2` foram montadas a partir da imagem oficial de estúdio já verificada no CDN do projeto (`dolce-gusto-cinco-maquinas-oficial.webp` + cenário de bancada gerado por IA para a capa), e `#3` e `#4` reutilizam arquivos já entregues pelo CDN.
+
+| Papel | Arquivo local em `public/images/reviews/` | Origem | Dimensões / Uso | `alt` / `caption` |
+|---|---|---|---|---|
+| Capa `#1` (Hero) | `dolcegusto/cafeteira-para-airbnb-pousada-capa.webp` | Cenário de bancada gerado por IA + recorte real oficial da `Mini Me 2.0` Preta (`dolce-gusto-cinco-maquinas-oficial.webp`) + faixa verde `covers:render` | `1600×900` (`imageFit: "contain"`, `imageAspect: "landscape"`). CDN `verified` | **alt:** Cafeteira Dolce Gusto Mini Me 2.0 preta com copo de bebida em camadas sobre bancada de madeira ensolarada ao lado de bandeja com duas canecas e açucareiro, e faixa verde com o logo Dolce Gusto e a chamada Cafeteira para Airbnb e pousada. |
+| Corpo `#2` | `dolcegusto/cafeteira-airbnb-mini-me-2-e-genio-s-basic.webp` | Recorte oficial das duas máquinas de entrada (`Mini Me 2.0 Preta` e `Genio S Basic Taupe`) sobre `#f0eadc` | `1120×840` (`aspectRatio: 1.3333`, seção 3: Garantia e máquinas, `href` `/maquinas-cafe`). CDN `verified` | **alt:** Cafeteiras Dolce Gusto Mini Me 2.0 preta à esquerda e Genio S Basic taupe à direita com bebidas em copos altos de vidro / **caption:** Os dois modelos de entrada com parada automática no nível escolhido: Mini Me 2.0 e Genio S Basic. Imagens: Nescafé Dolce Gusto. |
+| Corpo `#3` (CDN existente) | `dolcegusto/dolce-gusto-espresso-intenso-e-cappuccino-oficial.webp` | Peça oficial já verificada no CDN | `1600×900` (`aspectRatio: 1.7778`, seção 4: dose única × 2 cápsulas, `href` `/sabores/cappuccino-latte`) | **alt:** Caixa de Espresso Intenso com dez bebidas por embalagem e caixa de Cappuccino com dez cápsulas que rendem cinco bebidas na Dolce Gusto / **caption:** Espresso Intenso rende dez bebidas por caixa; Cappuccino usa duas cápsulas por xícara e rende cinco bebidas. Imagem: Nescafé Dolce Gusto. |
+| Corpo `#4` (CDN existente) | `dolcegusto/dolce-gusto-cnpj-combos-30-50-mini-me.webp` | Print da página Negócios já verificado no CDN | `1441×500` (`aspectRatio: 2.882`, seção 5: reposição e CNPJ, sem `href`) | **alt:** Tela dos combos Dolce Gusto para negócios mostrando pacotes de trinta e cinquenta caixas e o combo de Mini Me com vinte caixas / **caption:** Combos de 30 e 50 caixas e kit Mini Me na seção Negócios da loja oficial. Print da loja. |
