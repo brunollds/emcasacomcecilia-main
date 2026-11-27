@@ -178,6 +178,22 @@ As duas tabelas de "Mudanças propostas, ainda não aplicadas" acima foram resol
     orientação.
 - **Vale para os outros parceiros?** Sim.
 
+## 2026-11-27 · DenaVita · modo de reforço (revisão cruzada v1.2)
+
+- **O que aconteceu:**
+  - A rodada exploratória de reforço da DenaVita propôs cruzar Search Console (com e sem filtro de consulta), Google
+    Trends de categorias e concorrentes, autocompletar por sementes funcionais, vitrine "Mais Vendidos", Biblioteca de
+    Anúncios da Meta, Bing Webmaster Tools e economia de kits.
+  - Na revisão cruzada entre Gemini, Claude e ChatGPT, descartou-se criar documento paralelo ou Skill antes da hora, e
+    corrigiram-se seis pontos: retirada de nota `0–100` com pesos não medidos (mantendo `alta`, `media`, `baixa` com
+    justificativa por vertical); retirada de cortes absolutos no Trends (exigindo termo-âncora fixo entre blocos);
+    promoção da triagem regulatória a portão eliminatório na seção 4; trava de maturidade de 30 dias antes de mexer em
+    `seoTitle`/`metaDescription`; exigência de teste real no carrinho para afirmar acúmulo de cupom em kit e regra de
+    frete grátis; e registro de consultas longas sem clique como hipótese (`tipo_sinal = hipotese`).
+- **O que mudou** (arquivo e seção):
+  - `PROGRAMA.md`, seção `2.3 Modo de reforço de parceira com pacote no ar` e seção `4. Critérios de decisão`.
+- **Vale para os outros parceiros?** Sim.
+
 Modelo de registro:
 
 ```markdown

@@ -56,6 +56,46 @@ Sessão em andamento não recebe instrução contraditória solta. Quem muda o e
 numerada, pedindo a confirmação de leitura antes de ela agir. Se a mudança for grande, a entrega original termina e
 abre-se um turno complementar.
 
+### 2.3 Modo de reforço de parceira com pacote no ar
+
+Quando a parceira já tem pacote inicial publicado e o objetivo é destravar tração ou abrir a segunda onda de pautas, a
+rodada usa as mesmas etapas, arquivos e ids do programa, acrescentando seis checagens dirigidas:
+
+1. **Oferta (Etapa 2):** ler a ordem pública de **"Mais Vendidos"** da loja como sinal de prioridade comercial (nunca
+   como prova de demanda de busca); mapear kits/combos recorrentes contra a soma dos avulsos e o piso de frete grátis,
+   confirmando **no carrinho de teste** (sem compra) se o código acumula sobre o kit e se o frete grátis conta antes ou
+   depois do cupom; registrar colisão de código com outras parceiras (`EMCASA`, `MAUAD`, `CECILIA`, `CECILIA10`) para
+   desambiguar no texto (`"EMCASA na Denavita"`).
+2. **Interesse externo (Etapa 3):** consultar em modo leitura a **Biblioteca de Anúncios da Meta** (`country=BR`,
+   anúncios ativos da página oficial), registrando o tamanho da amostra e possíveis repetições de criativo, uma única
+   vez como sinal de empurrão comercial; rodar autocompletar em quatro baterias (identidade/cupom, intenção funcional
+   aberta como `para que serve` e `funciona`, produto a produto com colisões fonéticas de marca como
+   `Denavita ↔ Sanavita`, e duelos com `ou`); no **Google Trends**, nunca usar cortes numéricos absolutos — para
+   comparar mais de cinco produtos ou concorrentes, repetir **um termo-âncora fixo** em todos os grupos, na mesma janela
+   e região, lendo séries diárias sempre como **índice diário** (nunca volume de buscas) e razões entre marcas apenas
+   dentro da mesma consulta.
+3. **Nossos dados (Etapa 4):** para medir buscas com e sem marca no Search Console, acrescentar o filtro de consulta
+   (`&query=*marca`, nunca `*marca*`) **sobre o mesmo conjunto de páginas, país e período** (`&page=*marca` com e sem o
+   filtro de consulta, registrando as consultas omitidas pelo relatório; um filtro de consulta no site inteiro contra um
+   filtro de página não isola a mesma base para calcular parcela sem marca). Usar 28 dias para contexto e duas semanas
+   fechadas para medir mudança; confrontar o **último rastreamento** (`Last Crawl`) com o `updatedAt` no Google Search
+   Console e no **Bing Webmaster Tools**
+   (incluindo *AI Performance* quando disponível), levando apenas mudanças já publicadas à fila de deploy e `IndexNow`.
+4. **Trava de maturidade nas melhorias de snippet:** não reescrever `seoTitle` nem `metaDescription` de páginas com
+   menos de **30 dias de dados** (e observar a nota de 60 dias na seção 4 para reescrita de foco), salvo erro de fato,
+   desambiguação obrigatória de código ou ampliação de capítulo e links internos.
+5. **Escolha de formato sem canibalização (Etapa 5):** seguir nesta ordem: (a) se as consultas trazem resultados
+   parecidos e a mesma decisão de uma URL no ar, ampliar capítulo ou link interno no artigo existente; (b) se há busca
+   literal do par (`<marca/produto> ou <outra>`) e evidência factual para diferenciar, fazer duelo `X ou Y` (um
+   concorrente por artigo); (c) se há busca por opções frente a marca de referência maior e duas ou mais parceiras
+   atendem perfis distintos com vantagem real, usar a série `Alternativas a <marca>` (catálogo) ou escada por produto
+   (mesmo contrato multi-loja, sem eleger vencedora única entre parceiras); (d) se a URL nova não acrescentar decisão
+   nem evidência própria, não criar.
+6. **Pistas de IA e resistência à compressão:** consultas longas em posição alta com zero clique no Search Console
+   entram como **hipótese** (`tipo_sinal = hipotese`), não como medição direta do modo IA. O que sustenta o clique onde
+   a IA comprime tabelas simples é a evidência que ela não produz sozinha: teste datado de carrinho, conta com o código
+   aplicado, regra verificada do que soma ou não soma no checkout e print do resumo.
+
 ### Etapa 2: oferta real
 
 - Ordem das fontes: API ou feed público, depois catálogo e páginas abertas, com o sitemap para descobrir endereços, e o
@@ -163,8 +203,17 @@ abre-se um turno complementar.
 
 ## 4. Critérios de decisão
 
+**Portão regulatório e editorial (eliminatório, antes de classificar prioridade):** em suplementos, alimentos, cosméticos
+e público infantil, barrar ou reescrever o recorte antes da matriz quando esbarrar em alegação não permitida pela Anvisa,
+promessa terapêutica ou de emagrecimento para buscas `"funciona?"` (responder só pelo rótulo e pela regularização),
+restrição etária (1 a 3 anos sempre com orientação do pediatra; a promoção comercial das fórmulas para lactentes
+abrangidas pelo art. 5º do Decreto nº 9.579/2018 é vedada) ou citação de número de estoque.
+
 A prioridade combina: relevância comercial, pergunta real, potencial de busca, evidência própria, o que o conteúdo
-acrescenta, esforço e urgência documentada. A justificativa vai escrita com os dados disponíveis. Não há pontuação
+acrescenta, esforço e urgência documentada. A justificativa vai escrita com os dados disponíveis (`alta`, `media`,
+`baixa`), ajustando o peso qualitativo à vertical do parceiro (rótulo e alegações em suplementos e beleza; frete e
+cobertura regional em móveis de ticket alto; país, plano e elegibilidade da indicação em SaaS internacional; tabela de
+medidas e card de estilo em moda). Não há pontuação
 numérica enquanto os pesos não forem medidos; volume, peso ou nota que não foi medido aparece como não medido.
 
 O que conta como resultado neste site:
