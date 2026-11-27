@@ -1,0 +1,20 @@
+{
+  "id": "shein-black-friday-2026",
+  "affiliate": "shein",
+  "slot": "mid",
+  "href": "https://br.shein.com/ark/5231?test=5051&url_from=affiliate_koc_6177013015&scene=1&ad_type=KOC&language=pt-br&siteuid=br&version_bid=101804616,101804641&version_eid=100693341&landing_page_id=5231&ad_test_id=49940&campaign=picklist&koc_id=6177013015&requestId=903986f526dd9d1c&search_redir=1&src_module=search&ici=s1%60EditSearch%604CW5Y%60_fb%60d1%60PageOthers&src_identifier=st%3D2%60sc%3D4CW5Y%60sr%3D0%60ps%3D1&tv_b=2&src_tab_page_id=page_home1786396601153&search_words=4CW5Y&campaign_id=20",
+  "art": {
+    "kind": "tag",
+    "value": "95%"
+  },
+  "copy": {
+    "pt": {
+      "headline": "Black Friday da SHEIN: até 95% OFF",
+      "text": "Campanha da própria SHEIN, que também anuncia frete grátis sem valor mínimo. As condições aparecem no site da SHEIN.",
+      "action": "Ver a campanha",
+      "tag": "ATÉ"
+    }
+  },
+  "source": "Banner da home de br.shein.com (\"Frete grátis sem valor mínimo\", \"até 95% OFF\", selo de Black Friday), lido no navegador em 27/11/2026, sem data de fim",
+  "verifiedAt": "2026-11-27"
+}

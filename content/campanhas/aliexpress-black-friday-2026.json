@@ -1,0 +1,21 @@
+{
+  "id": "aliexpress-black-friday-2026",
+  "affiliate": "aliexpress",
+  "slot": "top",
+  "href": "https://s.click.aliexpress.com/e/_c37RSyBR",
+  "art": {
+    "kind": "tag",
+    "value": "90%"
+  },
+  "endsAt": "2026-12-03T23:59:59-03:00",
+  "copy": {
+    "pt": {
+      "headline": "Black Friday do AliExpress: até 90% OFF",
+      "text": "Campanha do próprio AliExpress, até 3/12. Os produtos, os cupons da loja e as condições aparecem no site dele.",
+      "action": "Ver a campanha",
+      "tag": "ATÉ"
+    }
+  },
+  "source": "Home de pt.aliexpress.com (\"Black Friday Sale\", \"Até 90% OFF\", \"Promo termina: 3 dez, 23:59 (BRT)\"), lida no navegador em 27/11/2026",
+  "verifiedAt": "2026-11-27"
+}

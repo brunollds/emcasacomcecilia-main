@@ -4,15 +4,18 @@
   "slot": "top",
   "href": "https://todaup.com/discount/MAUAD?redirect=/collections/squad-toda-up&utm_campaign=fluxoinfluenciadoras&utm_content=mensagem1&utm_medium=influs&utm_source=influs&utm_term=comissao",
   "art": {
-    "kind": "bag"
+    "kind": "tag",
+    "value": "40%"
   },
+  "endsAt": "2026-11-27T23:59:59-03:00",
   "copy": {
     "pt": {
-      "headline": "Black Week da Toda Up: até 50% OFF",
-      "text": "Campanha da própria Toda Up: 25% em 1 ou 2 produtos, 30% em 3 ou 4 e 35% a partir de 5, com frete fixo de R$ 9,90. As condições aparecem no site da loja.",
-      "action": "Ver a campanha"
+      "headline": "Black Friday da Toda Up: até 40% OFF no site todo",
+      "text": "Campanha da própria Toda Up, com frete grátis e 10% de cashback. As condições aparecem no site da loja.",
+      "action": "Ver a campanha",
+      "tag": "ATÉ"
     }
   },
-  "source": "Faixa do topo de todaup.com (\"Black Week com até 50% OFF\", \"Frete fixo R$ 9,90\") e quadro \"Black Week\" das páginas de produto, lidos no navegador em 23/11/2026; a loja não publica a data de fim",
-  "verifiedAt": "2026-11-24"
+  "source": "Faixas e janela de todaup.com (\"Até 40% OFF no site todo\", \"10% de cashback\", \"Frete grátis em todo o site\", \"Black Friday começou\", com contador até a meia-noite de 27/11), lidos no navegador em 27/11/2026",
+  "verifiedAt": "2026-11-27"
 }

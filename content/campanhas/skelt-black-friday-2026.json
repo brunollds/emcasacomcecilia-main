@@ -7,6 +7,7 @@
     "kind": "bag"
   },
   "startsAt": "2026-11-27T00:00:00-03:00",
+  "endsAt": "2026-11-27T23:59:59-03:00",
   "copy": {
     "pt": {
       "headline": "Black Friday da Skelt",
@@ -14,6 +15,6 @@
       "action": "Ver a campanha"
     }
   },
-  "source": "Black Friday de 27/11/2026, informada pelo Bruno (02/11/2026)",
-  "verifiedAt": "2026-11-02"
+  "source": "Home de skelt.com.br (\"Começou a Black Friday Skelt!\", contador que termina à meia-noite de 27/11), lida no navegador em 27/11/2026",
+  "verifiedAt": "2026-11-27"
 }
