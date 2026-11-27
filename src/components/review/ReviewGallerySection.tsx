@@ -70,8 +70,13 @@ function getYouTubeThumbnail(url: string): string {
   return id ? `https://i.ytimg.com/vi/${id}/hqdefault.jpg` : '';
 }
 
-// Largura do cartão no carrossel; sozinho, o cartão ocupa a coluna até um limite.
+// Largura do cartão de vídeo no carrossel; sozinho, o cartão ocupa a coluna até um limite.
 const CAROUSEL_CARD = 'w-[260px] flex-shrink-0 snap-start sm:w-[300px] lg:w-[340px]';
+// Na fila, as fotos têm a mesma altura e a largura segue o formato de cada uma: horizontais e verticais lado a
+// lado, sem vão embaixo das mais baixas. A largura fica entre 0,8 e 1,8 vez a altura e cabe na tela do celular.
+const CAROUSEL_PHOTO_CARD = 'flex-shrink-0 snap-start [--galeria-h:200px] sm:[--galeria-h:240px] lg:[--galeria-h:280px]';
+const CAROUSEL_PHOTO_RATIO = { min: 0.8, max: 1.8 };
+const CAROUSEL_PHOTO_SIZES = '(max-width: 640px) 85vw, (max-width: 1024px) 432px, 504px';
 const SINGLE_CARD = 'w-full max-w-xl';
 const CARD_SIZES = '(max-width: 640px) 260px, (max-width: 1024px) 300px, 340px';
 const SINGLE_SIZES = '(max-width: 640px) 100vw, 576px';
@@ -238,7 +243,11 @@ function PhotoCard({
 }) {
   const copy = getGalleryCopy(locale);
   const presentation = getReviewGalleryImagePresentation(img);
-  const contain = presentation.objectFit === 'contain';
+  const frameRatio = Math.min(Math.max(presentation.aspectRatio, CAROUSEL_PHOTO_RATIO.min), CAROUSEL_PHOTO_RATIO.max);
+  // A foto vertical estreita demais ganha uma moldura mais larga que ela e fica inteira dentro, sem corte.
+  const contain = presentation.objectFit === 'contain' || (!single && frameRatio > presentation.aspectRatio * 1.05);
+  // Na fila, o "Ampliar" fica sempre dentro da moldura, para os cartões terminarem na mesma altura.
+  const badgeInside = !contain || !single;
 
   return (
     <button
@@ -246,11 +255,15 @@ function PhotoCard({
       data-gallery-card={single ? undefined : ''}
       onClick={() => onOpen(index)}
       className={`group relative overflow-hidden rounded-[10px] border-2 border-marinho bg-creme text-start text-marinho ${
-        single ? SINGLE_CARD : CAROUSEL_CARD
-      } ${contain ? 'self-start' : ''} ${FOCUS_RING}`}
+        single ? SINGLE_CARD : CAROUSEL_PHOTO_CARD
+      } ${FOCUS_RING}`}
+      style={single ? undefined : { width: `min(85vw, calc(var(--galeria-h) * ${frameRatio}))` }}
       aria-label={copy.enlargeImage(index + 1)}
     >
-      <div className="relative" style={{ aspectRatio: presentation.aspectRatio }}>
+      <div
+        className="relative"
+        style={single ? { aspectRatio: presentation.aspectRatio } : { height: 'var(--galeria-h)' }}
+      >
         <Image
           src={img.image}
           alt={img.alt || img.caption || title || copy.photoAlt}
@@ -258,26 +271,26 @@ function PhotoCard({
           className={`motion-safe:transition-transform motion-safe:duration-700 motion-safe:ease-out ${
             contain ? 'object-contain' : 'object-cover motion-safe:group-hover:scale-105'
           }`}
-          sizes={single ? SINGLE_SIZES : CARD_SIZES}
+          sizes={single ? SINGLE_SIZES : CAROUSEL_PHOTO_SIZES}
         />
         {!contain && (
-          <>
-            <div className="absolute inset-0 bg-gradient-to-b from-transparent via-marinho/5 to-marinho/30" />
-            <span className="absolute bottom-3 end-3 inline-flex items-center gap-1.5 rounded-full border-2 border-marinho bg-white px-3 py-1 text-xs font-extrabold uppercase tracking-[0.12em] text-marinho">
-              <Maximize2 className="h-3.5 w-3.5" />
-              {copy.enlarge}
-            </span>
-          </>
+          <div className="absolute inset-0 bg-gradient-to-b from-transparent via-marinho/5 to-marinho/30" />
+        )}
+        {badgeInside && (
+          <span className="absolute bottom-3 end-3 inline-flex items-center gap-1.5 rounded-full border-2 border-marinho bg-white px-3 py-1 text-xs font-extrabold uppercase tracking-[0.12em] text-marinho">
+            <Maximize2 className="h-3.5 w-3.5" />
+            {copy.enlarge}
+          </span>
         )}
       </div>
-      {contain && (
+      {!badgeInside && (
         <span className="mx-4 mt-3 inline-flex items-center gap-1.5 text-xs font-extrabold uppercase tracking-[0.12em]">
           <Maximize2 className="h-3.5 w-3.5" />
           {copy.enlarge}
         </span>
       )}
       {(img.caption || img.alt) && (
-        <p className="line-clamp-2 px-4 py-3 text-sm font-semibold">{img.caption || img.alt}</p>
+        <p className="mx-4 my-3 line-clamp-2 text-sm font-semibold">{img.caption || img.alt}</p>
       )}
     </button>
   );
