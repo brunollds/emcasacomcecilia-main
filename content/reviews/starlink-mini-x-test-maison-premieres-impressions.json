@@ -93,7 +93,7 @@
       "heading": "Pourquoi j'ai acheté malgré la fibre, livraison et contenu de la boîte",
       "paragraphs": [
         "Lorsque la fibre du quartier varie ou coupe en pleine journée de travail, disposer d'un lien de secours indépendant se justifie même à une adresse urbaine raccordée.",
-        "Le 19/11/2026, j'ai acheté le kit Starlink Mini X avec le forfait Résidentiel Max et, à la caisse, j'ai ajouté un Routeur Mini. Le kit est arrivé avec l'antenne et les accessoires d'alimentation. La commande est arrivée sept jours plus tard, le 26/11/2026, bien emballée, chaque pièce séparée dans des compartiments en pulpe moulée.",
+        "Le 19/11/2026, j'ai acheté le kit Starlink Mini X avec le forfait Résidentiel Max. Le kit est arrivé avec l'antenne, les accessoires d'alimentation et un Routeur Mini avec son propre socle. La commande est arrivée sept jours plus tard, le 26/11/2026, bien emballée, chaque pièce séparée dans des compartiments en pulpe moulée.",
         "Juste après avoir validé l'achat sur le site officiel, j'ai pu planifier l'installation professionnelle gratuite incluse dans l'offre brésilienne (cela varie selon les pays) directement sur un portail partenaire indiqué par Starlink, avec une intervention prévue le 10/12/2026. Si vous comptez vous abonner pour la première fois, ouvrir votre commande sur starlink.com depuis le lien officiel de notre [page de parrainage Starlink](/fr/coupons/starlink) garantit 45 € de crédit sur facture après deux cycles payés à temps (et le parrain reçoit le même montant), en plus de la fenêtre de 30 jours pour tester et renvoyer le kit intact si le signal ne convient pas à votre adresse."
       ],
       "comparisonTable": {
@@ -110,7 +110,7 @@
             "Béquille arrière articulée, câble d'alimentation CC gris, bloc 60 W (UTP-231P, prise brésilienne) et adaptateur de mât"
           ],
           [
-            "Routeur Mini Starlink (acheté séparément à la commande)",
+            "Routeur Mini Starlink (inclus dans le kit de la Mini X)",
             "Anatel Brésil 03912-25-13890",
             "Socle métallique d'appui, alimentation compacte (UTP-251L) et 2 ports Ethernet RJ45 numérotés (1 et 2) sous la base"
           ]
@@ -152,7 +152,7 @@
           "Désactivez le basculement automatique du Wi-Fi sur le téléphone afin qu'il ne quitte pas le réseau provisoire sans internet de l'antenne.",
           "Calez fermement la Mini X avant de la brancher pour éviter tout mouvement dû au vent, même lors d'un test provisoire.",
           "Attendez la fin du téléchargement logiciel et la confirmation d'orientation par l'assistant d'alignement 3D.",
-          "Vérifiez dans le tableau de bord de l'appli que votre abonnement apparaît actif avant d'ajouter un Routeur Mini."
+          "Vérifiez dans le tableau de bord de l'appli que votre abonnement apparaît actif avant de configurer le Routeur Mini."
         ]
       },
       "image": {
@@ -221,7 +221,7 @@
       "heading": "Routeur Mini à travers des murs épais et signal au salon",
       "paragraphs": [
         "Chez moi, avec des murs épais, l'antenne seule sur le balcon ne suffit pas à amener le Wi-Fi dans toutes les pièces. Avec le Routeur Mini placé entre le balcon et le salon, le signal au salon est devenu fort.",
-        "Pour donner un repère concret : j'ai toujours eu du mal avec le Wi-Fi chez moi à cause de l'épaisseur des murs. Aujourd'hui j'utilise un réseau maillé de trois TP-Link Deco BE22 (avec le boîtier principal relié par câble à celui du grand salon et le troisième en sans-fil) et il reste malgré tout des zones moyennes à faibles, y compris ce même balcon. Le sachant, j'ai ajouté un Routeur Mini Starlink à la caisse.",
+        "Pour donner un repère concret : j'ai toujours eu du mal avec le Wi-Fi chez moi à cause de l'épaisseur des murs. Aujourd'hui j'utilise un réseau maillé de trois TP-Link Deco BE22 (avec le boîtier principal relié par câble à celui du grand salon et le troisième en sans-fil) et il reste malgré tout des zones moyennes à faibles, y compris ce même balcon. J'ai donc branché tout de suite le Routeur Mini fourni dans le kit de la Mini X.",
         "Une fois le Routeur Mini branché sur secteur, il faut attendre quelques minutes qu'il apparaisse dans l'appli pour le configurer en Mesh sans fil, par une procédure très simple. Je l'ai d'abord installé dans le salon principal, et l'application m'a aussitôt signalé que l'emplacement n'était pas bon en me demandant de le rapprocher de l'antenne. J'ai déplacé le Routeur Mini au rez-de-chaussée, plus près du balcon et avec moins d'obstacles sur le trajet, et la liaison avec la Mini X s'est établie immédiatement. Au moment où j'ai rédigé ce retour depuis le grand salon, là où je voulais un signal fort, mon smartphone affichait un Wi-Fi Starlink proche de 100 %. Déplacer le Routeur Mini à ce point intermédiaire a réglé le signal dans le grand salon, même s'il faudra sans doute un second Routeur Mini pour couvrir chaque recoin de la maison — ce premier essai n'a pas mesuré la couverture pièce par pièce pour la comparer aux trois Deco BE22. Sur ce premier essai j'ai tout fait en Mesh sans fil, sans tirer de câble Ethernet depuis les ports de la base."
       ],
       "video": {
@@ -264,7 +264,7 @@
       "bullets": [
         "Combien de temps faut-il pour configurer Starlink Mini X la première fois ? Il m'a fallu moins de vingt minutes entre le branchement sur secteur et la navigation avec mise à jour et alignement ; voyez dans la section d'activation comment éviter que le téléphone ne quitte le réseau provisoire.",
         "Quel débit Starlink Mini X a-t-elle atteint posée sur le balcon ? Lors de mon premier test sur le balcon, j'ai mesuré 200 Mbps en réception, 19 Mbps en émission et 25 ms de ping. La connexion est restée ferme sans coupure pendant deux heures malgré une obstruction partielle, et le transfert de plus de 10 Go en plus d'une heure est resté stable pendant toute la période observée.",
-        "La Starlink Mini X seule couvre-t-elle une grande maison aux murs épais ? Pas dans ma configuration ; avec un Routeur Mini replacé dans un endroit dégagé au rez-de-chaussée, le signal a approché le maximum dans le grand salon, et les plus grandes maisons peuvent exiger un second nœud.",
+        "La Starlink Mini X seule couvre-t-elle une grande maison aux murs épais ? Pas dans ma configuration ; avec le Routeur Mini du kit replacé dans un endroit dégagé au rez-de-chaussée, le signal a approché le maximum dans le grand salon, et les plus grandes maisons peuvent exiger un second nœud.",
         "Faut-il percer le toit pour tester avant la pose définitive ? Non ; il suffit de poser solidement l'antenne avec vue sur le ciel près d'une prise de courant pour valider le service durant les 30 jours de retour.",
         "Comment fonctionne le bonus du lien de parrainage Starlink ? Pour les nouveaux clients qui commandent sur starlink.com via le lien officiel et conservent deux cycles payés, 45 € s'appliquent en crédit sur la facture suivante, comme je l'explique dans la partie sur la livraison et la commande."
       ]
@@ -273,12 +273,12 @@
   "decision": {
     "takeIf": [
       "vous subissez des coupures sur votre fibre locale et voulez tester une connexion indépendante avant de percer le toit.",
-      "vous cherchez un kit compact prêt en quelques minutes et acceptez d'ajouter un Routeur Mini si vos murs sont épais.",
+      "vous cherchez un kit compact prêt en quelques minutes, avec un Routeur Mini inclus pour amener le Wi-Fi au-delà des murs épais.",
       "vous souhaitez profiter des 30 jours d'essai en pose provisoire en attendant l'installation définitive."
     ],
     "skipIf": [
       "vous disposez déjà d'une fibre stable dans votre rue délivrant le débit souscrit sans coupures justifiant un secours.",
-      "vous comptez couvrir toute une grande maison très cloisonnée avec le seul routeur intégré de la Mini X.",
+      "vous comptez couvrir toute une grande maison très cloisonnée avec la seule antenne et le Routeur Mini du kit.",
       "vous exigez un débit minimal ou une latence garantis par contrat fixe, car le service varie selon la zone et la vue du ciel."
     ]
   },
