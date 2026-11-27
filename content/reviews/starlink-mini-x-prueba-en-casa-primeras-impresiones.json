@@ -23,7 +23,7 @@
     }
   ],
   "description": "Compré y probé Starlink Mini X con Router Mini en el plan Residencial Max de Brasil: envío, apoyo en el balcón, 200 Mbps en la primera prueba y alcance Wi-Fi.",
-  "metaDescription": "Probé Starlink Mini X con Router Mini en Residencial Max: activación en 20 min, 200 Mbps en 1.ª prueba en el balcón y Wi-Fi tras muros gruesos.",
+  "metaDescription": "Probé Starlink Mini X con Router Mini en Residencial Max: activación en 15 a 20 min, 200 Mbps en 1.ª prueba en el balcón y Wi-Fi tras muros gruesos.",
   "publishedAt": "26 de noviembre de 2026",
   "publishedAtISO": "2026-11-26",
   "updatedAt": "2026-11-26",
@@ -129,7 +129,7 @@
       "paragraphs": [
         "No hace falta esperar a la instalación definitiva en el tejado para probar el servicio: un apoyo firme con vista al cielo y un enchufe cerca ya ponen la antena en marcha.",
         "Como la visita técnica aún está pendiente, yo había preseleccionado varios puntos de la casa donde poder sujetar la Mini X con firmeza sin fijación permanente. El primer intento fue en el balcón del dormitorio principal, donde la app ofrece una vista previa del cielo, aunque quería validarlo en uso real.",
-        "Conseguí encajar la antena con seguridad entre la red de protección y el soporte de la barandilla del balcón. Como había un enchufe justo al lado de ese punto provisional, la conexión fue inmediata y ni siquiera necesité desenrollar todo el cable (por eso, en esta primera toma de contacto, no desenrollé ni medí la longitud total del cable)."
+        "Conseguí encajar la antena con seguridad entre la red de protección y el soporte de la barandilla del balcón. Como había un enchufe justo al lado de ese punto provisional, la conexión fue inmediata y, en esta primera toma de contacto, ni siquiera necesité desenrollar todo el cable."
       ],
       "video": {
         "mp4": "/videos/reviews/starlink/starlink-mini-x-antena-detalhe-loop.mp4",
@@ -221,7 +221,7 @@
       "heading": "Router Mini tras muros gruesos y señal en el salón",
       "paragraphs": [
         "En mi casa, con paredes gruesas, solo la antena en el balcón no lleva el Wi-Fi a todas las habitaciones. Con el Router Mini en un punto entre el balcón y el salón, la señal en el salón quedó fuerte.",
-        "Para dar contexto real: tengo bastante problema con el Wi-Fi en casa por el grosor de los muros. Hoy utilizo una malla con tres nodos TP-Link Deco BE22 (con el principal cableado al del salón principal y el tercero por Wi-Fi) y aun así quedan zonas con cobertura media o débil, incluido el propio balcón del dormitorio. Por eso, conecté enseguida el Router Mini que viene en el kit de la Mini X.",
+        "Para dar contexto real: tengo bastante problema con el Wi-Fi en casa por el grosor de los muros. Hoy utilizo una malla con tres nodos TP-Link Deco BE22 (dos conectados entre sí por cable, el principal y el del salón principal, y el tercero por Wi-Fi) y aun así quedan zonas con cobertura media o débil, incluido el propio balcón del dormitorio. Por eso, conecté enseguida el Router Mini que viene en el kit de la Mini X.",
         "Al enchufar el Router Mini a la corriente, hay que esperar unos minutos hasta que aparece en la app para configurarlo en red Mesh inalámbrica mediante un proceso muy sencillo. Lo coloqué primero en el salón principal, y la propia aplicación me avisó de que la ubicación no era buena y pidió acercarlo más a la antena. Cambié el Router Mini a un punto en la planta baja más próximo al balcón y con menos obstáculos de por medio, y el enlace con la Mini X se estableció al instante. Mientras redactaba estas líneas desde el salón principal, justo donde quería máxima cobertura, mi móvil marcaba el Wi-Fi de Starlink cerca del 100%. Reubicar el Router Mini en ese punto intermedio resolvió la señal en el salón principal, aunque cubrir cada rincón de la casa probablemente requiera otro Router Mini más; esta primera prueba no midió la cobertura habitación por habitación para comparar con los tres Deco BE22. En este primer contacto lo probé todo en Mesh inalámbrico, sin tender cable Ethernet por los puertos de la base."
       ],
       "video": {
@@ -262,7 +262,7 @@
     {
       "heading": "Preguntas frecuentes",
       "bullets": [
-        "¿Cuánto tarda configurar Starlink Mini X por primera vez? Tardó menos de veinte minutos desde enchufarla hasta navegar con actualización y alineación; revisa en el apartado de activación cómo evitar que el móvil abandone la red provisional.",
+        "¿Cuánto tarda configurar Starlink Mini X por primera vez? Tardó de 15 a 20 minutos desde enchufarla hasta navegar con actualización y alineación; revisa en el apartado de activación cómo evitar que el móvil abandone la red provisional.",
         "¿Qué velocidad alcanzó Starlink Mini X apoyada en el balcón? En la primera prueba en mi balcón medí 200 Mbps de bajada, 19 Mbps de subida y 25 ms de ping. Mantuvo conexión firme sin cortes durante dos horas pese a la obstrucción parcial, y la transferencia de 2 GB en más de una hora siguió estable durante el período que supervisé.",
         "¿Cubre Starlink Mini X por sí sola una casa grande con muros gruesos? No en mi vivienda; con el Router Mini del kit reubicado en un punto despejado de la planta baja, la señal rozó el máximo en el salón principal, y casas mayores pueden requerir un segundo nodo.",
         "¿Hace falta perforar el tejado para probar antes de la instalación definitiva? No; basta apoyar la antena en un sitio firme con vista al cielo y un enchufe cercano para validar el servicio dentro de la ventana de devolución de 30 días.",

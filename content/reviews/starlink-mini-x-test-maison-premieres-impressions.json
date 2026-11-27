@@ -23,7 +23,7 @@
     }
   ],
   "description": "J'ai acheté et testé Starlink Mini X avec Routeur Mini sur le forfait brésilien Résidentiel Max : livraison, appui sur le balcon, 200 Mbps au 1er test et portée Wi-Fi.",
-  "metaDescription": "J'ai testé Starlink Mini X avec Routeur Mini chez moi : activation en 20 min, 200 Mbps au 1er essai sur le balcon et Wi-Fi à travers murs épais.",
+  "metaDescription": "J'ai testé Starlink Mini X avec Routeur Mini chez moi : activation en 15 à 20 min, 200 Mbps au 1er essai sur le balcon et Wi-Fi à travers murs épais.",
   "publishedAt": "26 novembre 2026",
   "publishedAtISO": "2026-11-26",
   "updatedAt": "2026-11-26",
@@ -129,7 +129,7 @@
       "paragraphs": [
         "Inutile d'attendre la pose définitive sur le toit pour essayer le service : un appui stable dégagé vers le ciel et une prise électrique à proximité suffisent à lancer l'antenne.",
         "Comme le passage du technicien doit encore avoir lieu, j'avais repéré à l'avance quelques emplacements dans la maison pour poser la Mini X solidement sans fixation définitive. Le premier essai s'est fait sur le balcon de la suite parentale, où l'appli propose un aperçu du ciel, même si je voulais le vérifier en conditions réelles.",
-        "J'ai réussi à caler fermement l'antenne entre le filet de sécurité et le garde-corps du balcon. Comme une prise secteur se trouvait tout près de cet appui provisoire, la mise sous tension a été immédiate et je n'ai même pas eu besoin de dérouler tout le câble (c'est pourquoi je ne l'ai ni déroulé ni mesuré sur toute sa longueur lors de cette prise en main)."
+        "J'ai réussi à caler fermement l'antenne entre le filet de sécurité et le garde-corps du balcon. Comme une prise secteur se trouvait tout près de cet appui provisoire, la mise sous tension a été immédiate et, lors de cette prise en main, je n'ai même pas eu besoin de dérouler tout le câble."
       ],
       "video": {
         "mp4": "/videos/reviews/starlink/starlink-mini-x-antena-detalhe-loop.mp4",
@@ -221,7 +221,7 @@
       "heading": "Routeur Mini à travers des murs épais et signal au salon",
       "paragraphs": [
         "Chez moi, avec des murs épais, l'antenne seule sur le balcon ne suffit pas à amener le Wi-Fi dans toutes les pièces. Avec le Routeur Mini placé entre le balcon et le salon, le signal au salon est devenu fort.",
-        "Pour donner un repère concret : j'ai toujours eu du mal avec le Wi-Fi chez moi à cause de l'épaisseur des murs. Aujourd'hui j'utilise un réseau maillé de trois TP-Link Deco BE22 (avec le boîtier principal relié par câble à celui du grand salon et le troisième en sans-fil) et il reste malgré tout des zones moyennes à faibles, y compris ce même balcon. J'ai donc branché tout de suite le Routeur Mini fourni dans le kit de la Mini X.",
+        "Pour donner un repère concret : j'ai toujours eu du mal avec le Wi-Fi chez moi à cause de l'épaisseur des murs. Aujourd'hui j'utilise un réseau maillé de trois TP-Link Deco BE22 (deux reliés entre eux par câble, le principal et celui du grand salon, et le troisième en sans-fil) et il reste malgré tout des zones moyennes à faibles, y compris ce même balcon. J'ai donc branché tout de suite le Routeur Mini fourni dans le kit de la Mini X.",
         "Une fois le Routeur Mini branché sur secteur, il faut attendre quelques minutes qu'il apparaisse dans l'appli pour le configurer en Mesh sans fil, par une procédure très simple. Je l'ai d'abord installé dans le salon principal, et l'application m'a aussitôt signalé que l'emplacement n'était pas bon en me demandant de le rapprocher de l'antenne. J'ai déplacé le Routeur Mini au rez-de-chaussée, plus près du balcon et avec moins d'obstacles sur le trajet, et la liaison avec la Mini X s'est établie immédiatement. Au moment où j'ai rédigé ce retour depuis le grand salon, là où je voulais un signal fort, mon smartphone affichait un Wi-Fi Starlink proche de 100 %. Déplacer le Routeur Mini à ce point intermédiaire a réglé le signal dans le grand salon, même s'il faudra sans doute un second Routeur Mini pour couvrir chaque recoin de la maison — ce premier essai n'a pas mesuré la couverture pièce par pièce pour la comparer aux trois Deco BE22. Sur ce premier essai j'ai tout fait en Mesh sans fil, sans tirer de câble Ethernet depuis les ports de la base."
       ],
       "video": {
@@ -262,11 +262,11 @@
     {
       "heading": "Questions fréquentes",
       "bullets": [
-        "Combien de temps faut-il pour configurer Starlink Mini X la première fois ? Il m'a fallu moins de vingt minutes entre le branchement sur secteur et la navigation avec mise à jour et alignement ; voyez dans la section d'activation comment éviter que le téléphone ne quitte le réseau provisoire.",
+        "Combien de temps faut-il pour configurer Starlink Mini X la première fois ? Il m'a fallu 15 à 20 minutes entre le branchement sur secteur et la navigation avec mise à jour et alignement ; voyez dans la section d'activation comment éviter que le téléphone ne quitte le réseau provisoire.",
         "Quel débit Starlink Mini X a-t-elle atteint posée sur le balcon ? Lors de mon premier test sur le balcon, j'ai mesuré 200 Mbps en réception, 19 Mbps en émission et 25 ms de ping. La connexion est restée ferme sans coupure pendant deux heures malgré une obstruction partielle, et le transfert de 2 Go en plus d'une heure est resté stable pendant toute la période observée.",
         "La Starlink Mini X seule couvre-t-elle une grande maison aux murs épais ? Pas dans ma configuration ; avec le Routeur Mini du kit replacé dans un endroit dégagé au rez-de-chaussée, le signal a approché le maximum dans le grand salon, et les plus grandes maisons peuvent exiger un second nœud.",
         "Faut-il percer le toit pour tester avant la pose définitive ? Non ; il suffit de poser solidement l'antenne avec vue sur le ciel près d'une prise de courant pour valider le service durant les 30 jours de retour.",
-        "Comment fonctionne le bonus du lien de parrainage Starlink ? Pour les nouveaux clients qui commandent sur starlink.com via le lien officiel et conservent deux cycles payés, 45 € s'appliquent en crédit sur la facture suivante, comme je l'explique dans la partie sur la livraison et la commande."
+        "Comment fonctionne le bonus du lien de parrainage Starlink ? Pour les nouveaux clients qui commandent sur starlink.com via le lien officiel et conservent deux cycles payés, 45 € s'appliquent en crédit sur la facture, comme je l'explique dans la partie sur la livraison et la commande."
       ]
     }
   ],
