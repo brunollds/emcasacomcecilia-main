@@ -357361,6 +357361,333 @@ const reviewsChunk2: unknown[] = [
       "url": "https://starlink.com/?referral=RC-DF-17132118-63432-88",
       "sponsored": true
     }
+  },
+  {
+    "id": 1490,
+    "slug": "cafeteira-para-airbnb-pousada",
+    "locale": "pt",
+    "title": "Cafeteira para Airbnb e pousada: cápsula no quarto, custo por hóspede e o que deixar na cozinha",
+    "seoTitle": "Cafeteira para Airbnb e pousada: qual e quanto custa",
+    "type": "Guia de escolha",
+    "category": "guias-praticos-utilidade",
+    "reviewKind": "guia",
+    "author": {
+      "name": "Cecília Mauad",
+      "slug": "cecilia-mauad",
+      "role": "Em Casa com Cecília",
+      "initials": "CM",
+      "url": "/sobre"
+    },
+    "publishedAt": "27 de novembro de 2026",
+    "publishedAtISO": "2026-11-27",
+    "draft": false,
+    "isNew": true,
+    "description": "Para apartamento de temporada e pousada, saiba quando a cápsula vence o filtro, o que o manual diz sobre garantia e quanto custa cada bebida por estadia.",
+    "metaDescription": "O cupom CECI dá 10% OFF na Dolce Gusto a partir de R$ 100. Cafeteira de cápsula no Airbnb ou na pousada: custo por hóspede e quantas cápsulas deixar.",
+    "image": "/images/reviews/dolcegusto/cafeteira-para-airbnb-pousada-capa.webp",
+    "imageAlt": "Cafeteira Dolce Gusto Mini Me 2.0 preta com copo de bebida em camadas sobre bancada de madeira ensolarada ao lado de bandeja com duas canecas e açucareiro, e faixa verde com o logo Dolce Gusto e a chamada Cafeteira para Airbnb e pousada.",
+    "imageFit": "contain",
+    "imageAspect": "landscape",
+    "pros": [],
+    "cons": [],
+    "coupon": "CECI",
+    "affiliate": "dolce-gusto",
+    "editorialNote": "Podemos receber comissão pelo cupom e pelos links. Ninguém da equipe aluga imóvel por temporada.",
+    "cta": {
+      "text": "Confira as máquinas, as caixas avulsas e os combos na loja oficial da Dolce Gusto e aplique o cupom CECI no carrinho em compras a partir de R$ 100.",
+      "label": "Ver cafeteiras e cápsulas na Dolce Gusto",
+      "url": "https://www.nescafe-dolcegusto.com.br/",
+      "sponsored": true
+    },
+    "relatedArticles": [
+      {
+        "slug": "dolce-gusto-cnpj-negocios-combos"
+      },
+      {
+        "slug": "cafeteira-escritorio-qual-escolher-custo-mes"
+      },
+      {
+        "slug": "dolce-gusto-mini-me-2-0-vale-a-pena"
+      },
+      {
+        "slug": "dolce-gusto-maquinas-qual-escolher"
+      },
+      {
+        "slug": "assinatura-dolce-gusto-vale-a-pena"
+      }
+    ],
+    "decision": {
+      "takeIf": [
+        "O hóspede prepara o próprio café sem supervisão e você quer limpeza de um minuto entre estadias.",
+        "Você quer oferecer café preto, bebida com leite e chocolate na mesma máquina compacta.",
+        "Você acompanha as ofertas por caixa ou compra combos para manter o custo por bebida sob controle."
+      ],
+      "skipIf": [
+        "Você precisa de garantia de fábrica cobrindo o uso direto por hóspedes em hotel ou pousada: os manuais domésticos excluem esse uso.",
+        "O imóvel recebe grupos grandes que tomam café o dia inteiro: o filtro com jarra de inox custa menos por xícara.",
+        "Não há quem confira ou reponha as cápsulas entre uma reserva e outra."
+      ]
+    },
+    "contentSections": [
+      {
+        "heading": "Resposta rápida",
+        "paragraphs": [
+          "Para apartamento de temporada ou pousada pequena, a cápsula compensa pelo preparo individual e limpeza rápida: seis bebidas para dois hóspedes em três noites saem a R$ 8,39 com o cupom CECI, rateadas do kit de R$ 139,86 por 100 doses. Para grupos grandes, o filtro gasta menos; antes de comprar, confira a regra de garantia abaixo."
+        ]
+      },
+      {
+        "heading": "Cápsula, filtro ou italiana na rotina de quem hospeda",
+        "paragraphs": [
+          "Na hospedagem por temporada, a escolha do tipo de cafeteira se resolve pelo tempo de limpeza entre o check-out e o check-in e pelo custo por xícara. Na lista oficial de [comodidades básicas do Airbnb](https://www.airbnb.com.br/help/article/2343), café e cafeteira não entram como obrigação, mas a própria plataforma observa que quanto mais itens o anfitrião oferece, mais atrativo o espaço fica.",
+          "Para apartamento de casal e estúdio, a cápsula resolve porque cada hóspede prepara uma xícara limpa, na hora, sem deixar borra de pó na pia ou pó aberto vencendo no armário. Também atende quem prefere café com leite, chocolate ou chá numa mesma máquina.",
+          "Para casa de grupo ou família grande que passa a jarra de manhã e à tarde, a cafeteira elétrica de filtro custa bem menos por dose: no nosso [guia de cafeteira para escritório](/reviews/cafeteira-escritorio-qual-escolher-custo-mes), o café coado comum saiu perto de um terço do menor valor da cápsula. Em aluguel de temporada, prefira jarra de inox à de vidro para evitar quebra entre reservas.",
+          "Cafeteira italiana no fogão e prensa francesa dão charme visual, mas exigem explicar o preparo, lavar peças pequenas e lidar com borra no ralo ou peça esquecida no fogo. Este guia também não trata de máquinas industriais para salão de café da manhã de hotel, que ficam fora da linha doméstica."
+        ]
+      },
+      {
+        "heading": "Garantia no quarto e qual máquina Dolce Gusto escolher",
+        "paragraphs": [
+          "Quem coloca uma cafeteira doméstica da Dolce Gusto direto no quarto de hóspedes assume o risco da garantia desde o primeiro dia. Os manuais oficiais da Mini Me e das três versões da Genio S (Basic, Plus e Touch) dizem que o aparelho se destina exclusivamente a ambiente doméstico e que a garantia contratual não cobre a utilização direta por clientes em hotéis, motéis e outros estabelecimentos do tipo residencial, além de citar ambientes como pousadas. No caso de uso indevido, o fabricante pode cancelar a garantia.",
+          "Ao mesmo tempo, o formulário de atendimento corporativo da marca lista \"Hotel, pousada, hospedagem ou Airbnb\" ao pedir orçamento para CNPJ. Como a loja não concilia essas duas informações na página pública, o anfitrião de imóvel residencial não tem garantia assegurada para uso por terceiros. Já quem monta pousada com CNPJ deve pedir proposta corporativa e confirmar por escrito qual cobertura vale para o quarto.",
+          "Se você aceita essa condição para equipar um imóvel ou quarto pequeno, a escolha técnica fica entre a Mini Me 2.0 e a Genio S Basic, ambas do sistema Original, com reservatório de 0,8 L, pressão de 15 bar e exigência de tomada de 20 A no comparativo oficial. A loja informa: os dois modelos param a água no nível selecionado, evitando que a xícara transborde na bancada de hóspedes que nunca usaram cápsula."
+        ],
+        "comparisonTable": {
+          "caption": "Modelos da linha Original no catálogo oficial. A NEO aceita só cápsulas NEO e aparecia indisponível na loja.",
+          "headers": [
+            "Modelo",
+            "Preço sem desconto",
+            "Preço em campanha",
+            "O que muda na hospedagem"
+          ],
+          "rows": [
+            [
+              "Mini Me 2.0",
+              "R$ 599,90",
+              "R$ 349,90",
+              "Menor preço de entrada e menos funda na bancada (24 cm)"
+            ],
+            [
+              "Genio S Basic",
+              "R$ 679,90",
+              "R$ 389,90",
+              "Mais estreita na bancada (11,2 cm) e função XL para copo grande"
+            ],
+            [
+              "Genio S Plus",
+              "R$ 779,90",
+              "R$ 489,90",
+              "Soma quatro níveis de temperatura e bandeja metálica; não muda o sabor básico para o hóspede"
+            ],
+            [
+              "Genio S Touch",
+              "R$ 979,90",
+              "R$ 599,90",
+              "Tela de toque mais exposta ao manuseio de quem chega pela primeira vez"
+            ]
+          ]
+        },
+        "postParagraphs": [
+          "Para deixar na cozinha de hóspedes, evite modelos de painel sensível ao toque como a Touch e evite comprar a máquina NEO se quiser usar combos promocionais ou cápsulas compatíveis: a linha Original tem muito mais oferta e aceita sabores de supermercado em emergência. Os detalhes práticos da máquina mais barata estão em [NESCAFÉ Dolce Gusto Mini Me 2.0 vale a pena?](/reviews/dolce-gusto-mini-me-2-0-vale-a-pena), e o comparativo da linha inteira fica em [qual Dolce Gusto comprar](/reviews/dolce-gusto-maquinas-qual-escolher) e em [Genio S Basic, Plus ou Touch](/reviews/dolce-gusto-genio-s-basic-vs-plus-vs-touch)."
+        ],
+        "images": [
+          {
+            "src": "/images/reviews/dolcegusto/cafeteira-airbnb-mini-me-2-e-genio-s-basic.webp",
+            "alt": "Cafeteiras Dolce Gusto Mini Me 2.0 preta à esquerda e Genio S Basic taupe à direita com bebidas em copos altos de vidro",
+            "caption": "Os dois modelos de entrada com parada automática no nível escolhido: Mini Me 2.0 e Genio S Basic. Imagens: Nescafé Dolce Gusto.",
+            "href": "https://www.nescafe-dolcegusto.com.br/maquinas-cafe",
+            "objectFit": "contain",
+            "aspectRatio": 1.3333
+          }
+        ],
+        "links": [
+          {
+            "label": "Ver cafeteiras Original na Dolce Gusto",
+            "href": "https://www.nescafe-dolcegusto.com.br/maquinas-cafe",
+            "sponsored": true
+          }
+        ]
+      },
+      {
+        "heading": "Quanto custa o café por estadia e na pousada",
+        "paragraphs": [
+          "Durante promoção forte, comprar kit ou caixa avulsa com o cupom CECI no CPF empata ou ganha até do combo corporativo de 20 caixas; fora de campanha, a conta vira a favor do CNPJ. Para separar o desembolso de abastecer o estoque do custo efetivamente consumido em cada reserva, a tabela mostra o valor cheio do pedido ao lado do rateio para 2 hóspedes em 3 noites tomando bebidas de 1 cápsula (como Espresso, Lungo, Café au Lait e Mochaccino Canela).",
+          "Conta nossa: consideramos 1 bebida por hóspede por noite no cenário básico (6 bebidas na estadia) e 2 no cenário de maior consumo (12 bebidas na estadia), além do exemplo de pousada com 6 quartos, 2 hóspedes por quarto e 15 noites ocupadas no mês (180 ou 360 bebidas mensais). Bebida com leite em duas cápsulas, como o Cappuccino, gasta duas unidades por xícara e entra na conta pelo número de bebidas prontas, não pelo total de cápsulas na caixa."
+        ],
+        "comparisonTable": {
+          "caption": "Preços da loja oficial em 27/11/2026, sem frete. Kits e avulsas seguem o catálogo do dia; combos CNPJ aplicam a hipótese dos dois descontos de 10% sobre o preço de combo. Confira o total no carrinho.",
+          "headers": [
+            "Forma de compra",
+            "Valor de compra",
+            "Por bebida pronta",
+            "Estadia (6 bebidas)",
+            "Estadia (12 bebidas)"
+          ],
+          "rows": [
+            [
+              "Kit Leve 10 Pague 6 + CECI (testado no carrinho, 100 bebidas)",
+              "R$ 139,86 (de R$ 155,40)",
+              "R$ 1,40",
+              "R$ 8,39",
+              "R$ 16,78"
+            ],
+            [
+              "Combo 30 caixas dose única CNPJ + CECI (simulação, 300 bebidas)",
+              "R$ 423,55 (de R$ 522,90)",
+              "R$ 1,41",
+              "R$ 8,47",
+              "R$ 16,94"
+            ],
+            [
+              "Caixa avulsa em oferta + CECI (simulação para 7+ caixas)",
+              "R$ 100,17 (7 cx a R$ 15,90)",
+              "R$ 1,43",
+              "R$ 8,59",
+              "R$ 17,17"
+            ],
+            [
+              "Combo 50 caixas Queridinhos CNPJ + CECI (simulação, 450 bebidas)",
+              "R$ 655,49 (de R$ 809,25)",
+              "R$ 1,46",
+              "R$ 8,74",
+              "R$ 17,48"
+            ],
+            [
+              "Combo 20 caixas CNPJ + CECI (simulação, 200 bebidas)",
+              "R$ 302,54 (de R$ 373,50)",
+              "R$ 1,51",
+              "R$ 9,08",
+              "R$ 18,15"
+            ],
+            [
+              "Máquina grátis + 55 caixas + CECI (testado no carrinho, 510 bebidas)",
+              "R$ 787,05 (de R$ 874,50)",
+              "R$ 1,54",
+              "R$ 9,26",
+              "R$ 18,52"
+            ],
+            [
+              "Caixa avulsa em oferta, sem cupom",
+              "R$ 15,90 (10 cápsulas)",
+              "R$ 1,59",
+              "R$ 9,54",
+              "R$ 19,08"
+            ],
+            [
+              "Assinatura 25% + CECI (simulação para 6+ caixas, frete grátis)",
+              "R$ 104,90 (base R$ 25,90)",
+              "R$ 1,75",
+              "R$ 10,49",
+              "R$ 20,98"
+            ],
+            [
+              "Caixa avulsa preço cheio + CECI (simulação para 4+ caixas)",
+              "R$ 93,24 (4 cx a R$ 25,90)",
+              "R$ 2,33",
+              "R$ 13,99",
+              "R$ 27,97"
+            ]
+          ]
+        },
+        "postParagraphs": [
+          "Para quem aluga um único apartamento sem CNPJ, o kit Leve 10 Pague 6 com o cupom CECI levou vantagem mínima no teste de carrinho (economizou centavos por bebida sobre sete caixas avulsas em oferta), seguido de perto pelos sabores avulsos em promoção. Fique atento ao ponto de empate quando a campanha termina: na simulação com 10% do cadastro Business e 10% do CECI aplicados em sequência, com o total a confirmar no carrinho, o combo de 20 caixas empata com a caixa avulsa em R$ 16,81 por caixa e o de 30 caixas de dose única empata em R$ 15,69. Acima desses preços, os combos corporativos ganham com folga.",
+          "Cuidado com duas armadilhas do catálogo. A primeira é o mix fechado com Cappuccino: tanto o combo Queridinhos de 50 caixas (que traz 10 caixas de Cappuccino, virando 450 bebidas em vez de 500) quanto o combo de 55 caixas com Genio S Basic grátis (que traz 80 cápsulas de Cappuccino, rendendo 510 bebidas) encarecem por xícara pronta frente aos combos de 30 caixas só de dose única (Queridinhos 30 e Amante de Cafés 30). Já o combo Mini Me 2.0 + 20 caixas a R$ 797,00 também perde quando a máquina e as caixas avulsas estão em promoção: somar as duas separadas saía por R$ 667,90 antes mesmo do cupom.",
+          "Na pousada de seis quartos (180 ou 360 bebidas de uma cápsula por mês), o gasto mensal vai de R$ 257,58 a R$ 515,16 comprando caixas avulsas em oferta com o CECI. Dois kits Leve 10 Pague 6 somam R$ 279,72 por 200 bebidas com o código (equivalente a R$ 251,75 em 180 doses), enquanto o combo empresarial de 30 caixas com CECI cobre uma ocupação intermediária já abaixo da caixa avulsa em oferta com o cupom."
+        ],
+        "images": [
+          {
+            "src": "/images/reviews/dolcegusto/dolce-gusto-espresso-intenso-e-cappuccino-oficial.webp",
+            "alt": "Caixa de Espresso Intenso com dez bebidas por embalagem e caixa de Cappuccino com dez cápsulas que rendem cinco bebidas na Dolce Gusto",
+            "caption": "Espresso Intenso rende dez bebidas por caixa; Cappuccino usa duas cápsulas por xícara e rende cinco bebidas. Imagem: Nescafé Dolce Gusto.",
+            "href": "https://www.nescafe-dolcegusto.com.br/sabores/cappuccino-latte",
+            "objectFit": "contain",
+            "aspectRatio": 1.7778
+          }
+        ],
+        "links": [
+          {
+            "label": "Ver combos Leve 10 Pague 6 na loja oficial",
+            "href": "https://www.nescafe-dolcegusto.com.br/levepague",
+            "sponsored": true
+          }
+        ]
+      },
+      {
+        "heading": "Quantas cápsulas deixar e como repor o estoque",
+        "paragraphs": [
+          "Regra prática, sem teste nosso: para estadias curtas de duas ou três noites, deixe as cápsulas contadas na bandeja (uma por hóspede por noite mais duas de reserva, todas de dose única) em vez da caixa fechada de dez unidades, para evitar que um único hóspede leve o estoque da semana. Escolher Espresso, Lungo, Café au Lait e Mochaccino Canela elimina a dúvida do hóspede sobre ter de passar duas cápsulas na mesma caneca.",
+          "Na reposição sem CNPJ, quem compra menos de sete caixas em oferta por vez não bate os R$ 100 mínimos do CECI e perde margem para o frete avulso; juntar sete caixas na promoção ou um kit Leve 10 Pague 6 destrava os 10% do código de uma vez. A assinatura mensal da loja aplica 25% sobre o preço cheio com frete grátis a partir de três caixas e aceita o CECI a partir de seis caixas, opção detalhada em [Assinatura Dolce Gusto vale a pena?](/reviews/assinatura-dolce-gusto-vale-a-pena).",
+          "Para quem tem CNPJ ativo — inclusive MEI ou administradora de pousada —, o cadastro Business libera os combos de 20 a 50 caixas com 10% extra no carrinho acumuláveis com o CECI, explicados em [Dolce Gusto para CNPJ: combos e conta Business](/reviews/dolce-gusto-cnpj-negocios-combos). Para aplicar o cupom em qualquer compra direta acima de R$ 100 na loja oficial:"
+        ],
+        "bullets": [
+          "Monte o carrinho com máquinas, caixas avulsas, kit Leve Pague ou combos que somem ao menos R$ 100 no subtotal já descontado.",
+          "No resumo do pedido, clique em **Resgatar códigos promocionais** e digite **CECI** no campo **Código do voucher**.",
+          "Confira a linha de 10% de desconto antes de finalizar. O CECI vale em todas as formas de pagamento. O desconto incide sobre os produtos e fica indisponível em pedidos com resgate de pontos Club."
+        ],
+        "postParagraphs": [
+          "Consulte sempre a vigência e as regras atualizadas na página do [cupom Dolce Gusto](/cupons/dolce-gusto) antes de fechar um pedido grande."
+        ],
+        "images": [
+          {
+            "src": "/images/reviews/dolcegusto/dolce-gusto-cnpj-combos-30-50-mini-me.webp",
+            "alt": "Tela dos combos Dolce Gusto para negócios mostrando pacotes de trinta e cinquenta caixas e o combo de Mini Me com vinte caixas",
+            "caption": "Combos de 30 e 50 caixas e kit Mini Me na seção Negócios da loja oficial. Print da loja.",
+            "objectFit": "contain",
+            "aspectRatio": 2.882
+          }
+        ],
+        "links": [
+          {
+            "label": "Conferir regras do cupom Dolce Gusto",
+            "href": "/cupons/dolce-gusto"
+          }
+        ]
+      },
+      {
+        "heading": "O que deixar ao lado da cafeteira",
+        "paragraphs": [
+          "Tomada de 20 A identificada, canecas de pelo menos 200 ml e instrução curta reduzem chamados durante a reserva e preservam a máquina. Confira a voltagem e o padrão de 20 amperes da tomada antes de fixar o ponto na bancada, etiquete o cabo caso a cozinha tenha tomadas 127 V e 220 V próximas e deixe duas canecas junto com copo ou lixeira pequena só para as cápsulas usadas escorrerem.",
+          "Água filtrada ou mineral no reservatório reduz o acúmulo de calcário quando vários grupos usam a máquina toda semana; o passo a passo de limpeza preventiva está em [como descalcificar a Dolce Gusto](/reviews/dolce-gusto-descalcificacao-passo-a-passo). Na troca de hóspedes, vale esvaziar a bandeja pingadeira, trocar a água do tanque e deixar o cartão plastificado específico do modelo instalado na bancada (abaixo há um modelo para a Mini Me 2.0 e a Genio S Basic, de botão, e outro para a Mini Me clássica, de alavanca) — você encontra as medidas aproximadas em [tabela de ml por nível da Dolce Gusto](/reviews/tabela-medidas-dolce-gusto-ml-por-nivel)."
+        ],
+        "accordionBlock": {
+          "heading": "Cartões prontos para imprimir por modelo (escolha o da sua máquina)",
+          "paragraphs": [
+            "Mini Me 2.0 ou Genio S Basic (modelos com botão de preparo): 1. Confira se a tomada corresponde à voltagem indicada na etiqueta do cabo. 2. Encha o tanque atrás da cafeteira só com água limpa e fria. 3. Levante a trava, coloque uma cápsula no suporte e abaixe a trava com firmeza. 4. Ligue a máquina, espere a luz parar de piscar, ajuste o número de barras indicado na cápsula (Espresso costuma usar nível 2; Café au Lait e Lungo usam nível 4 a 6) e escolha temperatura fria ou quente. 5. Aperte o botão de preparo; a água para sozinha no nível selecionado. 6. Espere a luz parar de piscar antes de abrir a trava e jogue a cápsula no recipiente ao lado.",
+            "Mini Me clássica (modelo com alavanca no topo): 1. Confira se a tomada corresponde à voltagem indicada na etiqueta do cabo. 2. Encha o tanque atrás da cafeteira só com água limpa e fria. 3. Levante a trava, coloque uma cápsula no suporte e abaixe a trava com firmeza. 4. Ligue a máquina, espere a luz ficar verde sem piscar e ajuste o seletor no número de barras indicado na cápsula (Espresso costuma usar nível 2; Café au Lait e Lungo usam nível 4 a 6). 5. Mova a alavanca para a direita (quente) ou para a esquerda (frio) para começar; a água para sozinha. 6. Espere a luz parar de piscar antes de abrir a trava e jogue a cápsula no recipiente ao lado."
+          ]
+        }
+      },
+      {
+        "heading": "Qual escolha faz sentido para cada hospedagem",
+        "paragraphs": [
+          "Para imóveis compactos de casal, a Mini Me 2.0 resolve melhor pelo menor custo de entrada; já o ponto exato de compra das cápsulas e a troca pelo filtro dependem do volume de hóspedes e de ter CNPJ.",
+          "**Apartamento de temporada para casais (sem CNPJ):** Mini Me 2.0 na tomada compatível, abastecida com sabores de uma cápsula comprados no kit Leve 10 Pague 6 ou em lotes de sete caixas promocionais com o CECI.",
+          "**Casa grande para férias em grupo:** cafeteira elétrica de filtro com jarra de inox e pacote de café moído, deixando cápsulas só como extra se você quiser evitar alto consumo por reserva.",
+          "**Pousada com vários quartos e CNPJ ativo:** solicite proposta pela linha corporativa perguntando sobre garantia comercial e abasteça nos combos de 30 caixas de dose única (Queridinhos ou Amante de Cafés) com 10% de CNPJ mais CECI quando a caixa avulsa passar do empate."
+        ],
+        "emphasis": "Se fosse para equipar um apartamento de temporada para casais, eu escolheria a Mini Me 2.0 pelo menor preço e abasteceria com café preto e Café au Lait em promoção usando o CECI, ciente de que o manual não garante uso comercial.",
+        "links": [
+          {
+            "label": "Ir para a loja oficial Dolce Gusto",
+            "href": "https://www.nescafe-dolcegusto.com.br/",
+            "sponsored": true
+          },
+          {
+            "label": "Cupom Dolce Gusto: CECI",
+            "href": "/cupons/dolce-gusto"
+          }
+        ]
+      },
+      {
+        "heading": "Perguntas frequentes",
+        "bullets": [
+          "A garantia da Dolce Gusto cobre cafeteira colocada para hóspedes? Os manuais excluem o uso direto por hóspedes em hotéis e pousadas da garantia contratual das máquinas domésticas; no aluguel por temporada em imóvel residencial, como o uso previsto é doméstico, também não há cobertura assegurada para terceiros. Quem tem CNPJ pode pedir proposta corporativa para consultar por escrito qual cobertura vale para o quarto, como explicamos em \"Garantia no quarto e qual máquina Dolce Gusto escolher\".",
+          "Quantas cápsulas devo deixar para o hóspede no Airbnb? Como regra prática, uma ou duas cápsulas de dose única por hóspede por noite, além de duas extras de margem, em vez de deixar caixas fechadas. Confira o passo a passo de reposição em \"Quantas cápsulas deixar e como repor o estoque\".",
+          "Anfitrião pessoa física sem CNPJ tem desconto na compra das cápsulas? Tem o cupom CECI acima do valor mínimo no CPF e as promoções avulsas ou assinatura do site, mas os 10% extras dos combos Negócios pedem conta cadastrada com CNPJ.",
+          "Qual é o cupom da Dolce Gusto? É o CECI, com 10% OFF na loja oficial em compras a partir de 100 reais, em todas as formas de pagamento. Clique em Resgatar códigos promocionais, digite CECI em Código do voucher e confira a linha do desconto antes de pagar.",
+          "Pousada com volume maior consegue proposta direto com a marca? Sim: o site oficial mantém um formulário corporativo na seção Negócios com opção específica para hotel, pousada, hospedagem ou Airbnb; o guia para CNPJ com os caminhos da área corporativa está indicado no capítulo de reposição."
+        ]
+      }
+    ]
   }
 ];
 
