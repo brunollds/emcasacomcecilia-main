@@ -38375,6 +38375,54 @@
       "verification_status": "verified"
     },
     {
+      "source_path": "public/images/reviews/bold/barra-bold-bendu-ou-mais-mu-hero.webp",
+      "local_url": "/images/reviews/bold/barra-bold-bendu-ou-mais-mu-hero.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 165992,
+      "sha256": "da9397d5f5d484e13790e0bc42c9a7c5ff5d4f913992a95c7121975d55ebc2f7",
+      "width": 1600,
+      "height": 900,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "barra-bold-bendu-ou-mais-mu-hero.webp",
+      "storage_filename": "barra-bold-bendu-ou-mais-mu-hero.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [
+        "content/reviews/barra-bold-bendu-ou-mais-mu.json"
+      ],
+      "owners": [
+        "content/reviews/barra-bold-bendu-ou-mais-mu.json",
+        "src/lib/generated/content-index.ts"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/barra-bold-bendu-ou-mais-mu.json",
+          "line": 23,
+          "column": 13,
+          "literal": "/images/reviews/bold/barra-bold-bendu-ou-mais-mu-hero.webp",
+          "authority": "source"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 29614,
+          "column": 15,
+          "literal": "/images/reviews/bold/barra-bold-bendu-ou-mais-mu-hero.webp",
+          "authority": "generated"
+        }
+      ],
+      "remote_key": "v1/image/da9397d5f5d484e13790e0bc42c9a7c5ff5d4f913992a95c7121975d55ebc2f7/barra-bold-bendu-ou-mais-mu-hero.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/da9397d5f5d484e13790e0bc42c9a7c5ff5d4f913992a95c7121975d55ebc2f7/barra-bold-bendu-ou-mais-mu-hero.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-11-27T06:19:33.031Z",
+      "verification_etag_or_digest": "da9397d5f5d484e13790e0bc42c9a7c5ff5d4f913992a95c7121975d55ebc2f7",
+      "verification_status": "verified"
+    },
+    {
       "source_path": "public/images/reviews/bold/barra-bold-e-boa-capa-v2.webp",
       "local_url": "/images/reviews/bold/barra-bold-e-boa-capa-v2.webp",
       "media_kind": "image",
@@ -149364,6 +149412,34 @@
       "verification_status": "verified"
     },
     {
+      "source_path": "public/images/reviews/oceane/protetor-solar-creamy-oceane-ou-pink-cheeks-daily-sunscreen.webp",
+      "local_url": "/images/reviews/oceane/protetor-solar-creamy-oceane-ou-pink-cheeks-daily-sunscreen.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 57422,
+      "sha256": "3010bd516686eac668545b3dd06476879bc90f4de5c7ce55604e65fe98bb9c2d",
+      "width": 600,
+      "height": 1200,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "protetor-solar-creamy-oceane-ou-pink-cheeks-daily-sunscreen.webp",
+      "storage_filename": "protetor-solar-creamy-oceane-ou-pink-cheeks-daily-sunscreen.webp",
+      "status": "candidate",
+      "reference_status": "unknown",
+      "draft_owners": [],
+      "owners": [],
+      "references": [],
+      "remote_key": "v1/image/3010bd516686eac668545b3dd06476879bc90f4de5c7ce55604e65fe98bb9c2d/protetor-solar-creamy-oceane-ou-pink-cheeks-daily-sunscreen.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/3010bd516686eac668545b3dd06476879bc90f4de5c7ce55604e65fe98bb9c2d/protetor-solar-creamy-oceane-ou-pink-cheeks-daily-sunscreen.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-11-27T06:19:33.033Z",
+      "verification_etag_or_digest": "3010bd516686eac668545b3dd06476879bc90f4de5c7ce55604e65fe98bb9c2d",
+      "verification_status": "verified"
+    },
+    {
       "source_path": "public/images/reviews/petz/areia-para-gato-petz-custo-por-quilo-capa-v2.webp",
       "local_url": "/images/reviews/petz/areia-para-gato-petz-custo-por-quilo-capa-v2.webp",
       "media_kind": "image",
@@ -164518,6 +164594,54 @@
       "uploaded_at": null,
       "verified_at": "2026-11-21T00:09:20.535Z",
       "verification_etag_or_digest": "08a7f26ffe8cd8a187fd83bf1ba4f5ba13dd1e9ccd17bef85d71188da5303050",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/protetor-solar/protetor-solar-creamy-oceane-ou-pink-cheeks-hero.webp",
+      "local_url": "/images/reviews/protetor-solar/protetor-solar-creamy-oceane-ou-pink-cheeks-hero.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 73624,
+      "sha256": "c2d72ac7f44079097a1864f4e0ddfa52a6e8098a26d80d1bca921d5678858b41",
+      "width": 1600,
+      "height": 900,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "protetor-solar-creamy-oceane-ou-pink-cheeks-hero.webp",
+      "storage_filename": "protetor-solar-creamy-oceane-ou-pink-cheeks-hero.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [
+        "content/reviews/protetor-solar-creamy-oceane-ou-pink-cheeks.json"
+      ],
+      "owners": [
+        "content/reviews/protetor-solar-creamy-oceane-ou-pink-cheeks.json",
+        "src/lib/generated/content-index.ts"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/protetor-solar-creamy-oceane-ou-pink-cheeks.json",
+          "line": 23,
+          "column": 13,
+          "literal": "/images/reviews/protetor-solar/protetor-solar-creamy-oceane-ou-pink-cheeks-hero.webp",
+          "authority": "source"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 29250,
+          "column": 15,
+          "literal": "/images/reviews/protetor-solar/protetor-solar-creamy-oceane-ou-pink-cheeks-hero.webp",
+          "authority": "generated"
+        }
+      ],
+      "remote_key": "v1/image/c2d72ac7f44079097a1864f4e0ddfa52a6e8098a26d80d1bca921d5678858b41/protetor-solar-creamy-oceane-ou-pink-cheeks-hero.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/c2d72ac7f44079097a1864f4e0ddfa52a6e8098a26d80d1bca921d5678858b41/protetor-solar-creamy-oceane-ou-pink-cheeks-hero.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-11-27T06:19:33.033Z",
+      "verification_etag_or_digest": "c2d72ac7f44079097a1864f4e0ddfa52a6e8098a26d80d1bca921d5678858b41",
       "verification_status": "verified"
     },
     {
@@ -206133,6 +206257,54 @@
       "uploaded_at": null,
       "verified_at": "2026-11-23T04:19:39.987Z",
       "verification_etag_or_digest": "225a8722741fe24b6904148d988e80ef6a17cd3b71ab9f1b94ffdefa465257fd",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/skincare/creamy-simple-organic-ou-lamazonie-hero.webp",
+      "local_url": "/images/reviews/skincare/creamy-simple-organic-ou-lamazonie-hero.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 93916,
+      "sha256": "90347d7cdb48f92906f5e4dab0ef6eaaab780154858d166473b6e0b3d5a2f95d",
+      "width": 1600,
+      "height": 900,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "creamy-simple-organic-ou-lamazonie-hero.webp",
+      "storage_filename": "creamy-simple-organic-ou-lamazonie-hero.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [
+        "content/reviews/creamy-simple-organic-ou-lamazonie.json"
+      ],
+      "owners": [
+        "content/reviews/creamy-simple-organic-ou-lamazonie.json",
+        "src/lib/generated/content-index.ts"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/creamy-simple-organic-ou-lamazonie.json",
+          "line": 24,
+          "column": 13,
+          "literal": "/images/reviews/skincare/creamy-simple-organic-ou-lamazonie-hero.webp",
+          "authority": "source"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 28824,
+          "column": 15,
+          "literal": "/images/reviews/skincare/creamy-simple-organic-ou-lamazonie-hero.webp",
+          "authority": "generated"
+        }
+      ],
+      "remote_key": "v1/image/90347d7cdb48f92906f5e4dab0ef6eaaab780154858d166473b6e0b3d5a2f95d/creamy-simple-organic-ou-lamazonie-hero.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/90347d7cdb48f92906f5e4dab0ef6eaaab780154858d166473b6e0b3d5a2f95d/creamy-simple-organic-ou-lamazonie-hero.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-11-27T06:19:33.033Z",
+      "verification_etag_or_digest": "90347d7cdb48f92906f5e4dab0ef6eaaab780154858d166473b6e0b3d5a2f95d",
       "verification_status": "verified"
     },
     {

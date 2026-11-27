@@ -1,0 +1,334 @@
+{
+  "id": 1473,
+  "slug": "barra-bold-bendu-ou-mais-mu",
+  "locale": "pt",
+  "title": "BOLD, Bendu ou Mais Mu: qual barra de proteína escolher pelo rótulo e pelo preço por grama",
+  "seoTitle": "BOLD, Bendu ou Mais Mu: qual barra de proteína escolher?",
+  "type": "Comparativo de Snacks",
+  "category": "guias-praticos-utilidade",
+  "reviewKind": "guia",
+  "author": {
+    "name": "Cecília Mauad",
+    "slug": "cecilia-mauad",
+    "role": "Em Casa com Cecília",
+    "initials": "CM",
+    "url": "/sobre"
+  },
+  "description": "Barras e wafers da BOLD, da Mais Mu e da Bendu lado a lado: proteína por unidade, lactose declarada no rótulo e preço de tabela por grama de proteína.",
+  "metaDescription": "Barras BOLD, Mais Mu e Bendu por proteína, lactose e preço por grama. Códigos: CECILIA15 na BOLD e MMEMCASACOMCECILIA na Mais Mu.",
+  "publishedAt": "27 de novembro de 2026",
+  "publishedAtISO": "2026-11-27",
+  "draft": false,
+  "isNew": true,
+  "image": "/images/reviews/bold/barra-bold-bendu-ou-mais-mu-hero.webp",
+  "imageAlt": "Caixas BOLD Crunch e Mukebar Cookies'n Cream da Mais Mu, em fotos oficiais sobre fundo de estúdio. A chamada diz Barras de proteína, BOLD ou Mais Mu?",
+  "imageFit": "contain",
+  "imageAspect": "landscape",
+  "decision": {
+    "takeIf": [
+      "Você quer a maior proteína num lanche só: a barra BOLD de 60 g, com 21 g, ou a de 40 g, com 14 g.",
+      "Você quer um degrau intermediário ou um wafer maior: a Mukebar da Mais Mu, com 15 g, e o Chocowheyfer Max, com 12 g em 50 g.",
+      "Você quer uma receita sem leite nem whey entre as parceiras: o Veggie Wafer da Mais Mu, com 5 g, sabendo que o alerta diz que pode conter leite."
+    ],
+    "skipIf": [
+      "Lactose zero no rótulo é condição: nenhuma linha da BOLD nem a Mukebar declara isso. A referência é a Soft Bar da Bendu, com 12 g.",
+      "Você tem doença celíaca: todas as linhas da BOLD, a Mukebar, o Chocowheyfer e o Veggie Wafer declaram glúten, e o Crispy Wafer da Bendu também. A Soft Bar da Bendu declara zero glúten."
+    ]
+  },
+  "pros": [],
+  "cons": [],
+  "affiliate": [
+    "bold",
+    "mais-mu"
+  ],
+  "editorialNote": "Feito com as páginas e os rótulos das marcas, sem degustação. Os links de afiliado podem gerar comissão.",
+  "relatedArticles": [
+    {
+      "slug": "barra-bold-21g-ou-14g"
+    },
+    {
+      "slug": "barra-bold-saudavel-rotulo"
+    },
+    {
+      "slug": "barra-de-proteina-mais-mu-qual-escolher"
+    },
+    {
+      "slug": "alternativas-a-bendu"
+    },
+    {
+      "slug": "wafer-proteico-qual-escolher"
+    }
+  ],
+  "contentSections": [
+    {
+      "heading": "Resposta rápida",
+      "paragraphs": [
+        "A escolha sai da proteína por lanche e da lactose. Para 21 g numa barra só, a BOLD de 60 g; para 15 g, ou um wafer com 12 g, a Mukebar e o Chocowheyfer Max, da Mais Mu. Se lactose zero é condição, só a Bendu declara isso. CECILIA15 vale na BOLD e MMEMCASACOMCECILIA, na Mais Mu."
+      ]
+    },
+    {
+      "heading": "Proteína por barra, lactose e preço por grama de proteína",
+      "paragraphs": [
+        "Comparar pelo preço da caixa engana: o peso da unidade vai de 25 g a 60 g e a proteína, de 5 g a 21 g. Por isso a conta abaixo é o preço de tabela da caixa, dividido pelas unidades e pela proteína declarada de cada uma. O preço do dia fica ao lado para consulta: é de campanha e muda, e a conta não o usa.",
+        "Sabores diferentes da mesma linha podem ter preços do dia diferentes, por isso há faixas."
+      ],
+      "comparisonTable": {
+        "caption": "Preço cheio da caixa e preço do dia em 26/11, sem frete. Por unidade e por grama de proteína são contas nossas; a coluna com código aplica 20% (CECILIA15, na BOLD) ou 10% (MMEMCASACOMCECILIA, na Mais Mu) sobre a tabela. A Bendu não tem desconto na página nem código nosso.",
+        "headers": [
+          "Produto (caixa)",
+          "Unidade e proteína",
+          "Lactose no rótulo",
+          "Tabela da caixa",
+          "Preço do dia",
+          "Por g de proteína (tabela)",
+          "Com o código"
+        ],
+        "rows": [
+          [
+            "BOLD Barra 21 g, 12 un.",
+            "60 g; 21 g",
+            "Contém",
+            "R$ 179,00",
+            "R$ 149 a R$ 159",
+            "R$ 0,71",
+            "R$ 0,57"
+          ],
+          [
+            "BOLD Barra 14 g, 12 un.",
+            "40 g; 14 g",
+            "Contém",
+            "R$ 129,00",
+            "R$ 99 a R$ 109",
+            "R$ 0,77",
+            "R$ 0,61"
+          ],
+          [
+            "BOLD Crunch, 12 un.",
+            "60 g; 18 g",
+            "Contém",
+            "R$ 179,00",
+            "R$ 159",
+            "R$ 0,83",
+            "R$ 0,66"
+          ],
+          [
+            "BOLD Wafer e Tube, 12 un.",
+            "40 g; 10 g",
+            "Contém",
+            "R$ 119,00",
+            "R$ 89 a R$ 109",
+            "R$ 0,99",
+            "R$ 0,79"
+          ],
+          [
+            "Mais Mu Mukebar, 12 un.",
+            "60 g; 15 g",
+            "Contém",
+            "R$ 179,88",
+            "R$ 87,24 a R$ 148,31",
+            "R$ 1,00",
+            "R$ 0,90"
+          ],
+          [
+            "Mais Mu Chocowheyfer Max, 20 un.",
+            "50 g; 12 g",
+            "Página sem declaração",
+            "R$ 258,00",
+            "R$ 187,70",
+            "R$ 1,08",
+            "R$ 0,97"
+          ],
+          [
+            "Mais Mu Chocowheyfer 300 g, 12 un.",
+            "25 g; 6 g",
+            "Contém",
+            "R$ 83,88",
+            "R$ 56,95 a R$ 61,02",
+            "R$ 1,17",
+            "R$ 1,05"
+          ],
+          [
+            "Mais Mu Veggie Wafer, 12 un.",
+            "25 g; 5 g",
+            "Sem leite na receita; pode conter",
+            "R$ 83,88",
+            "R$ 69,15",
+            "R$ 1,40",
+            "R$ 1,26"
+          ],
+          [
+            "Bendu Soft Bar, 12 un.",
+            "45 g; 12 g",
+            "Lactose 0",
+            "R$ 139,90",
+            "Sem desconto na página",
+            "R$ 0,97",
+            "Sem código"
+          ],
+          [
+            "Bendu Crispy Wafer, 12 un.",
+            "40 g; 10 g",
+            "Zero lactose",
+            "R$ 166,90",
+            "Sem desconto na página",
+            "R$ 1,39",
+            "Sem código"
+          ]
+        ]
+      }
+    },
+    {
+      "heading": "Barra macia: BOLD 21 g, Mukebar e Soft Bar lado a lado",
+      "paragraphs": [
+        "São três degraus de proteína por barra. A BOLD declara 21 g numa barra de 60 g, e a versão menor, de 40 g, declara 14 g. A Mukebar, de 60 g, fica no meio, com 15 g. A Soft Bar da Bendu, de 45 g, declara 12 g e lactose zero.",
+        "Quem precisa de mais detalhe sobre a BOLD encontra as tabelas por sabor em [Barra BOLD 21 g ou 14 g?](/reviews/barra-bold-21g-ou-14g). Para a Mais Mu, o guia é [barra de proteína Mais Mu: qual escolher](/reviews/barra-de-proteina-mais-mu-qual-escolher)."
+      ],
+      "images": [
+        {
+          "src": "/images/reviews/bold/barra-bold-21g-ou-14g-caixa-21g.webp",
+          "alt": "Caixa Mista da BOLD 21 g com as barras e a caixa de 12 unidades sobre fundo amarelo",
+          "caption": "Caixa Mista da BOLD 21 g. Foto: BOLD Snacks.",
+          "href": "https://www.boldsnacks.com.br/discount/CECILIA15",
+          "objectFit": "contain",
+          "aspectRatio": 1,
+          "store": "bold"
+        },
+        {
+          "src": "/images/reviews/mais-mu/barra-de-proteina-mais-mu-qual-escolher-mukebar-chocolate-com-avela.webp",
+          "alt": "Caixa de 12 unidades da Mukebar Chocolate com Avelã da Mais Mu, 720 g, com 15 g de proteína por barra",
+          "caption": "Mukebar Chocolate com Avelã, caixa de 720 g, na foto da loja.",
+          "href": "https://www.lojamaismu.com.br/produtos/mukebar-barra-de-proteina-chocolate-com-avela-720g/",
+          "objectFit": "square",
+          "aspectRatio": 1,
+          "store": "mais-mu"
+        }
+      ]
+    },
+    {
+      "heading": "Wafer e crocantes: BOLD, Chocowheyfer Max e Crispy Wafer",
+      "paragraphs": [
+        "No crocante, a proteína por unidade vai de 5 g a 18 g. O Crunch da BOLD, de 60 g, declara 18 g. O Chocowheyfer Max, da Mais Mu, declara 12 g em 50 g. O Wafer e o Tube da BOLD e o Crispy Wafer da Bendu declaram 10 g, em 40 g cada.",
+        "O Chocowheyfer Max é o wafer maior, com mais proteína por unidade; o Wafer e o Tube da BOLD e o Crispy Wafer ficam em 10 g numa unidade de 40 g. O preço por grama de cada um está na tabela do início. O Chocowheyfer de 25 g e o Veggie Wafer, da Mais Mu, têm a caixa mais barata entre os wafers, mas com 6 g e 5 g de proteína por unidade.",
+        "O Wafer e o Tube levam trigo nos ingredientes. Se a dúvida é só entre wafers, o guia [wafer proteico: qual escolher](/reviews/wafer-proteico-qual-escolher) compara a Mais Mu com a Dr. Peanut."
+      ],
+      "images": [
+        {
+          "src": "/images/reviews/bold/barra-bold-21g-ou-14g-wafer.webp",
+          "alt": "Quatro barras BOLD Wafer empilhadas",
+          "caption": "Barras BOLD Wafer. Foto: BOLD Snacks.",
+          "href": "https://www.boldsnacks.com.br/discount/CECILIA15",
+          "objectFit": "contain",
+          "aspectRatio": 1,
+          "store": "bold"
+        }
+      ]
+    },
+    {
+      "heading": "Lactose, glúten e polióis: o que cada rótulo declara",
+      "paragraphs": [
+        "A lactose é o ponto em que as linhas mais se separam, e aqui a regra é ler a embalagem do sabor que você vai comprar. Os avisos abaixo valem para os sabores da tabela, não para todos."
+      ],
+      "comparisonTable": {
+        "caption": "O que as páginas de cada marca declaram. Outros sabores podem diferir.",
+        "headers": [
+          "Marca e linha",
+          "Lactose e leite",
+          "Glúten",
+          "Adoçantes e polióis"
+        ],
+        "rows": [
+          [
+            "BOLD (21 g, 14 g, Crunch, Wafer e Tube)",
+            "Contém lactose e leite em todas as linhas",
+            "Contém glúten em todas as linhas",
+            "Maltitol e sucralose; no 21 g e no 14 g, também xarope de sorbitol"
+          ],
+          [
+            "Mais Mu Mukebar (Chocolate com Avelã)",
+            "Contém lactose e derivados do leite",
+            "Contém glúten",
+            "Maltitol e glicosídeos de esteviol"
+          ],
+          [
+            "Mais Mu Chocowheyfer 300 g (Chocolate)",
+            "Contém lactose; whey é o primeiro ingrediente",
+            "Contém glúten",
+            "Confira a embalagem"
+          ],
+          [
+            "Mais Mu Chocowheyfer Max (Chocolate)",
+            "A página não traz a declaração: confira a embalagem",
+            "A página não traz a declaração",
+            "Confira a embalagem"
+          ],
+          [
+            "Mais Mu Veggie Wafer (Chocolate)",
+            "\"Sem leite, sem whey\" na página; o alerta diz que pode conter leite",
+            "Contém glúten, trigo e soja",
+            "Maltitol e sucralose; proteína de ervilha"
+          ],
+          [
+            "Bendu Soft Bar",
+            "Lactose 0",
+            "Zero glúten, segundo a página",
+            "Polióis de 11 g por barra"
+          ],
+          [
+            "Bendu Crispy Wafer",
+            "Zero lactose",
+            "Contém glúten",
+            "Confira a embalagem"
+          ]
+        ]
+      },
+      "emphasis": "Compare pelo grama de proteína, não pela caixa. E, quando a lactose pesa, compare pelo aviso do sabor que você vai comprar, não pelo nome da linha.",
+      "postParagraphs": [
+        "Os polióis, como o maltitol, aparecem na lista de ingredientes de várias linhas, mas os rótulos não dizem quanto há de cada um, exceto a Soft Bar, que declara 11 g por barra. Se você tem restrição alimentar, intolerância ou alergia, leia a embalagem física e converse com nutricionista ou médico. Os detalhes de cada marca estão em [barra BOLD é saudável? O que o rótulo diz](/reviews/barra-bold-saudavel-rotulo) e no [guia da Mais Mu](/reviews/barra-de-proteina-mais-mu-qual-escolher)."
+      ]
+    },
+    {
+      "heading": "Como comprar com código na BOLD e na Mais Mu",
+      "paragraphs": [
+        "Cada código vale só na loja dele. Na BOLD, o CECILIA15 dá 20%, apesar do 15 no nome, e o link abaixo já leva o código; as regras estão em [cupom BOLD](/cupons/bold). Na Mais Mu, o MMEMCASACOMCECILIA dá 10%, digitado no checkout; as regras estão em [cupom Mais Mu](/cupons/mais-mu). Os dois códigos entram sobre o preço em promoção, então o valor no carrinho fica abaixo do da coluna \"Com o código\" da tabela. Na Mais Mu, o Pix tira mais 3%.",
+        "Na Mais Mu, a faixa do site anuncia frete grátis acima de R$ 299 em Sul, Sudeste e Centro-Oeste. Na BOLD, o frete sai pelo CEP no carrinho."
+      ],
+      "links": [
+        {
+          "label": "Ir para a BOLD com o CECILIA15",
+          "href": "https://www.boldsnacks.com.br/discount/CECILIA15",
+          "sponsored": true,
+          "store": "bold"
+        },
+        {
+          "label": "Ir para a Mais Mu com o MMEMCASACOMCECILIA",
+          "href": "https://www.lojamaismu.com.br/",
+          "sponsored": true,
+          "store": "mais-mu"
+        }
+      ],
+      "postParagraphs": [
+        "As outras linhas da Bendu, com as alternativas das parceiras, estão em [alternativas à Bendu](/reviews/alternativas-a-bendu)."
+      ]
+    },
+    {
+      "heading": "Quem escolhe o quê",
+      "paragraphs": [
+        "Quem quer o máximo de proteína num lanche só vai de BOLD 21 g; com 40 g de barra, a de 14 g.",
+        "Quem acha 21 g demais para um lanche, ou prefere wafer com mais proteína, olha a Mais Mu: 15 g na Mukebar e 12 g no Chocowheyfer Max.",
+        "Quem só pode lactose zero não encontra isso declarado nas duas parceiras: a referência é a Soft Bar da Bendu.",
+        "Em todos os casos, o aviso de alérgenos do sabor escolhido vale mais que o nome da linha."
+      ]
+    },
+    {
+      "heading": "Perguntas frequentes",
+      "bullets": [
+        "Qual tem mais proteína por unidade: BOLD, Bendu ou Mais Mu? A barra BOLD de 60 g declara 21 g, o maior valor da comparação. Depois vêm o Crunch da BOLD, com 18 g, a Mukebar da Mais Mu, com 15 g, e a BOLD de 40 g, com 14 g. Entre os wafers, o Chocowheyfer Max declara 12 g, e o Wafer e o Tube da BOLD e o Crispy Wafer da Bendu, 10 g.",
+        "Qual barra é zero lactose entre BOLD, Bendu e Mais Mu? Só as duas linhas da Bendu declaram: a Soft Bar, com 12 g de proteína, e o Crispy Wafer, com 10 g. As linhas da BOLD, a Mukebar e o Chocowheyfer declaram lactose. O Veggie Wafer da Mais Mu não leva leite na receita, mas o alerta diz que pode conter.",
+        "Quanto custa o grama de proteína em cada barra? Pela tabela de cada loja, vai de menos de um real nas barras da BOLD e na Soft Bar a perto de R$ 1,40 no Veggie Wafer e no Crispy Wafer. A conta produto a produto, com e sem código, está na primeira tabela.",
+        "Entre o wafer da Mais Mu, da BOLD e da Bendu, qual muda mais no rótulo? A proteína por unidade vai de 5 g a 12 g, e o peso, de 25 g a 50 g. A BOLD e o Chocowheyfer contêm lactose e glúten, o Crispy Wafer da Bendu contém glúten e declara zero lactose, e o Veggie Wafer é sem leite na receita, mas pode conter leite.",
+        "Os códigos CECILIA15 (BOLD) e MMEMCASACOMCECILIA (Mais Mu) valem em caixas fechadas? Sim. O CECILIA15 entrou numa Caixa Mista em promoção no nosso teste, e o MMEMCASACOMCECILIA vale em todo o site da Mais Mu. Cada código vale só na loja dele; as regras estão em [cupom BOLD](/cupons/bold) e [cupom Mais Mu](/cupons/mais-mu)."
+      ]
+    }
+  ],
+  "updatedAt": "2026-11-27"
+}

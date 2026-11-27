@@ -28799,6 +28799,1137 @@ export const recipesData: unknown[] = [
 
 const reviewsChunk0: unknown[] = [
   {
+    "id": 1473,
+    "slug": "barra-bold-bendu-ou-mais-mu",
+    "locale": "pt",
+    "title": "BOLD, Bendu ou Mais Mu: qual barra de proteína escolher pelo rótulo e pelo preço por grama",
+    "seoTitle": "BOLD, Bendu ou Mais Mu: qual barra de proteína escolher?",
+    "type": "Comparativo de Snacks",
+    "category": "guias-praticos-utilidade",
+    "reviewKind": "guia",
+    "author": {
+      "name": "Cecília Mauad",
+      "slug": "cecilia-mauad",
+      "role": "Em Casa com Cecília",
+      "initials": "CM",
+      "url": "/sobre"
+    },
+    "description": "Barras e wafers da BOLD, da Mais Mu e da Bendu lado a lado: proteína por unidade, lactose declarada no rótulo e preço de tabela por grama de proteína.",
+    "metaDescription": "Barras BOLD, Mais Mu e Bendu por proteína, lactose e preço por grama. Códigos: CECILIA15 na BOLD e MMEMCASACOMCECILIA na Mais Mu.",
+    "publishedAt": "27 de novembro de 2026",
+    "publishedAtISO": "2026-11-27",
+    "draft": false,
+    "isNew": true,
+    "image": "/images/reviews/bold/barra-bold-bendu-ou-mais-mu-hero.webp",
+    "imageAlt": "Caixas BOLD Crunch e Mukebar Cookies'n Cream da Mais Mu, em fotos oficiais sobre fundo de estúdio. A chamada diz Barras de proteína, BOLD ou Mais Mu?",
+    "imageFit": "contain",
+    "imageAspect": "landscape",
+    "decision": {
+      "takeIf": [
+        "Você quer a maior proteína num lanche só: a barra BOLD de 60 g, com 21 g, ou a de 40 g, com 14 g.",
+        "Você quer um degrau intermediário ou um wafer maior: a Mukebar da Mais Mu, com 15 g, e o Chocowheyfer Max, com 12 g em 50 g.",
+        "Você quer uma receita sem leite nem whey entre as parceiras: o Veggie Wafer da Mais Mu, com 5 g, sabendo que o alerta diz que pode conter leite."
+      ],
+      "skipIf": [
+        "Lactose zero no rótulo é condição: nenhuma linha da BOLD nem a Mukebar declara isso. A referência é a Soft Bar da Bendu, com 12 g.",
+        "Você tem doença celíaca: todas as linhas da BOLD, a Mukebar, o Chocowheyfer e o Veggie Wafer declaram glúten, e o Crispy Wafer da Bendu também. A Soft Bar da Bendu declara zero glúten."
+      ]
+    },
+    "pros": [],
+    "cons": [],
+    "affiliate": [
+      "bold",
+      "mais-mu"
+    ],
+    "editorialNote": "Feito com as páginas e os rótulos das marcas, sem degustação. Os links de afiliado podem gerar comissão.",
+    "relatedArticles": [
+      {
+        "slug": "barra-bold-21g-ou-14g"
+      },
+      {
+        "slug": "barra-bold-saudavel-rotulo"
+      },
+      {
+        "slug": "barra-de-proteina-mais-mu-qual-escolher"
+      },
+      {
+        "slug": "alternativas-a-bendu"
+      },
+      {
+        "slug": "wafer-proteico-qual-escolher"
+      }
+    ],
+    "contentSections": [
+      {
+        "heading": "Resposta rápida",
+        "paragraphs": [
+          "A escolha sai da proteína por lanche e da lactose. Para 21 g numa barra só, a BOLD de 60 g; para 15 g, ou um wafer com 12 g, a Mukebar e o Chocowheyfer Max, da Mais Mu. Se lactose zero é condição, só a Bendu declara isso. CECILIA15 vale na BOLD e MMEMCASACOMCECILIA, na Mais Mu."
+        ]
+      },
+      {
+        "heading": "Proteína por barra, lactose e preço por grama de proteína",
+        "paragraphs": [
+          "Comparar pelo preço da caixa engana: o peso da unidade vai de 25 g a 60 g e a proteína, de 5 g a 21 g. Por isso a conta abaixo é o preço de tabela da caixa, dividido pelas unidades e pela proteína declarada de cada uma. O preço do dia fica ao lado para consulta: é de campanha e muda, e a conta não o usa.",
+          "Sabores diferentes da mesma linha podem ter preços do dia diferentes, por isso há faixas."
+        ],
+        "comparisonTable": {
+          "caption": "Preço cheio da caixa e preço do dia em 26/11, sem frete. Por unidade e por grama de proteína são contas nossas; a coluna com código aplica 20% (CECILIA15, na BOLD) ou 10% (MMEMCASACOMCECILIA, na Mais Mu) sobre a tabela. A Bendu não tem desconto na página nem código nosso.",
+          "headers": [
+            "Produto (caixa)",
+            "Unidade e proteína",
+            "Lactose no rótulo",
+            "Tabela da caixa",
+            "Preço do dia",
+            "Por g de proteína (tabela)",
+            "Com o código"
+          ],
+          "rows": [
+            [
+              "BOLD Barra 21 g, 12 un.",
+              "60 g; 21 g",
+              "Contém",
+              "R$ 179,00",
+              "R$ 149 a R$ 159",
+              "R$ 0,71",
+              "R$ 0,57"
+            ],
+            [
+              "BOLD Barra 14 g, 12 un.",
+              "40 g; 14 g",
+              "Contém",
+              "R$ 129,00",
+              "R$ 99 a R$ 109",
+              "R$ 0,77",
+              "R$ 0,61"
+            ],
+            [
+              "BOLD Crunch, 12 un.",
+              "60 g; 18 g",
+              "Contém",
+              "R$ 179,00",
+              "R$ 159",
+              "R$ 0,83",
+              "R$ 0,66"
+            ],
+            [
+              "BOLD Wafer e Tube, 12 un.",
+              "40 g; 10 g",
+              "Contém",
+              "R$ 119,00",
+              "R$ 89 a R$ 109",
+              "R$ 0,99",
+              "R$ 0,79"
+            ],
+            [
+              "Mais Mu Mukebar, 12 un.",
+              "60 g; 15 g",
+              "Contém",
+              "R$ 179,88",
+              "R$ 87,24 a R$ 148,31",
+              "R$ 1,00",
+              "R$ 0,90"
+            ],
+            [
+              "Mais Mu Chocowheyfer Max, 20 un.",
+              "50 g; 12 g",
+              "Página sem declaração",
+              "R$ 258,00",
+              "R$ 187,70",
+              "R$ 1,08",
+              "R$ 0,97"
+            ],
+            [
+              "Mais Mu Chocowheyfer 300 g, 12 un.",
+              "25 g; 6 g",
+              "Contém",
+              "R$ 83,88",
+              "R$ 56,95 a R$ 61,02",
+              "R$ 1,17",
+              "R$ 1,05"
+            ],
+            [
+              "Mais Mu Veggie Wafer, 12 un.",
+              "25 g; 5 g",
+              "Sem leite na receita; pode conter",
+              "R$ 83,88",
+              "R$ 69,15",
+              "R$ 1,40",
+              "R$ 1,26"
+            ],
+            [
+              "Bendu Soft Bar, 12 un.",
+              "45 g; 12 g",
+              "Lactose 0",
+              "R$ 139,90",
+              "Sem desconto na página",
+              "R$ 0,97",
+              "Sem código"
+            ],
+            [
+              "Bendu Crispy Wafer, 12 un.",
+              "40 g; 10 g",
+              "Zero lactose",
+              "R$ 166,90",
+              "Sem desconto na página",
+              "R$ 1,39",
+              "Sem código"
+            ]
+          ]
+        }
+      },
+      {
+        "heading": "Barra macia: BOLD 21 g, Mukebar e Soft Bar lado a lado",
+        "paragraphs": [
+          "São três degraus de proteína por barra. A BOLD declara 21 g numa barra de 60 g, e a versão menor, de 40 g, declara 14 g. A Mukebar, de 60 g, fica no meio, com 15 g. A Soft Bar da Bendu, de 45 g, declara 12 g e lactose zero.",
+          "Quem precisa de mais detalhe sobre a BOLD encontra as tabelas por sabor em [Barra BOLD 21 g ou 14 g?](/reviews/barra-bold-21g-ou-14g). Para a Mais Mu, o guia é [barra de proteína Mais Mu: qual escolher](/reviews/barra-de-proteina-mais-mu-qual-escolher)."
+        ],
+        "images": [
+          {
+            "src": "/images/reviews/bold/barra-bold-21g-ou-14g-caixa-21g.webp",
+            "alt": "Caixa Mista da BOLD 21 g com as barras e a caixa de 12 unidades sobre fundo amarelo",
+            "caption": "Caixa Mista da BOLD 21 g. Foto: BOLD Snacks.",
+            "href": "https://www.boldsnacks.com.br/discount/CECILIA15",
+            "objectFit": "contain",
+            "aspectRatio": 1,
+            "store": "bold"
+          },
+          {
+            "src": "/images/reviews/mais-mu/barra-de-proteina-mais-mu-qual-escolher-mukebar-chocolate-com-avela.webp",
+            "alt": "Caixa de 12 unidades da Mukebar Chocolate com Avelã da Mais Mu, 720 g, com 15 g de proteína por barra",
+            "caption": "Mukebar Chocolate com Avelã, caixa de 720 g, na foto da loja.",
+            "href": "https://www.lojamaismu.com.br/produtos/mukebar-barra-de-proteina-chocolate-com-avela-720g/",
+            "objectFit": "square",
+            "aspectRatio": 1,
+            "store": "mais-mu"
+          }
+        ]
+      },
+      {
+        "heading": "Wafer e crocantes: BOLD, Chocowheyfer Max e Crispy Wafer",
+        "paragraphs": [
+          "No crocante, a proteína por unidade vai de 5 g a 18 g. O Crunch da BOLD, de 60 g, declara 18 g. O Chocowheyfer Max, da Mais Mu, declara 12 g em 50 g. O Wafer e o Tube da BOLD e o Crispy Wafer da Bendu declaram 10 g, em 40 g cada.",
+          "O Chocowheyfer Max é o wafer maior, com mais proteína por unidade; o Wafer e o Tube da BOLD e o Crispy Wafer ficam em 10 g numa unidade de 40 g. O preço por grama de cada um está na tabela do início. O Chocowheyfer de 25 g e o Veggie Wafer, da Mais Mu, têm a caixa mais barata entre os wafers, mas com 6 g e 5 g de proteína por unidade.",
+          "O Wafer e o Tube levam trigo nos ingredientes. Se a dúvida é só entre wafers, o guia [wafer proteico: qual escolher](/reviews/wafer-proteico-qual-escolher) compara a Mais Mu com a Dr. Peanut."
+        ],
+        "images": [
+          {
+            "src": "/images/reviews/bold/barra-bold-21g-ou-14g-wafer.webp",
+            "alt": "Quatro barras BOLD Wafer empilhadas",
+            "caption": "Barras BOLD Wafer. Foto: BOLD Snacks.",
+            "href": "https://www.boldsnacks.com.br/discount/CECILIA15",
+            "objectFit": "contain",
+            "aspectRatio": 1,
+            "store": "bold"
+          }
+        ]
+      },
+      {
+        "heading": "Lactose, glúten e polióis: o que cada rótulo declara",
+        "paragraphs": [
+          "A lactose é o ponto em que as linhas mais se separam, e aqui a regra é ler a embalagem do sabor que você vai comprar. Os avisos abaixo valem para os sabores da tabela, não para todos."
+        ],
+        "comparisonTable": {
+          "caption": "O que as páginas de cada marca declaram. Outros sabores podem diferir.",
+          "headers": [
+            "Marca e linha",
+            "Lactose e leite",
+            "Glúten",
+            "Adoçantes e polióis"
+          ],
+          "rows": [
+            [
+              "BOLD (21 g, 14 g, Crunch, Wafer e Tube)",
+              "Contém lactose e leite em todas as linhas",
+              "Contém glúten em todas as linhas",
+              "Maltitol e sucralose; no 21 g e no 14 g, também xarope de sorbitol"
+            ],
+            [
+              "Mais Mu Mukebar (Chocolate com Avelã)",
+              "Contém lactose e derivados do leite",
+              "Contém glúten",
+              "Maltitol e glicosídeos de esteviol"
+            ],
+            [
+              "Mais Mu Chocowheyfer 300 g (Chocolate)",
+              "Contém lactose; whey é o primeiro ingrediente",
+              "Contém glúten",
+              "Confira a embalagem"
+            ],
+            [
+              "Mais Mu Chocowheyfer Max (Chocolate)",
+              "A página não traz a declaração: confira a embalagem",
+              "A página não traz a declaração",
+              "Confira a embalagem"
+            ],
+            [
+              "Mais Mu Veggie Wafer (Chocolate)",
+              "\"Sem leite, sem whey\" na página; o alerta diz que pode conter leite",
+              "Contém glúten, trigo e soja",
+              "Maltitol e sucralose; proteína de ervilha"
+            ],
+            [
+              "Bendu Soft Bar",
+              "Lactose 0",
+              "Zero glúten, segundo a página",
+              "Polióis de 11 g por barra"
+            ],
+            [
+              "Bendu Crispy Wafer",
+              "Zero lactose",
+              "Contém glúten",
+              "Confira a embalagem"
+            ]
+          ]
+        },
+        "emphasis": "Compare pelo grama de proteína, não pela caixa. E, quando a lactose pesa, compare pelo aviso do sabor que você vai comprar, não pelo nome da linha.",
+        "postParagraphs": [
+          "Os polióis, como o maltitol, aparecem na lista de ingredientes de várias linhas, mas os rótulos não dizem quanto há de cada um, exceto a Soft Bar, que declara 11 g por barra. Se você tem restrição alimentar, intolerância ou alergia, leia a embalagem física e converse com nutricionista ou médico. Os detalhes de cada marca estão em [barra BOLD é saudável? O que o rótulo diz](/reviews/barra-bold-saudavel-rotulo) e no [guia da Mais Mu](/reviews/barra-de-proteina-mais-mu-qual-escolher)."
+        ]
+      },
+      {
+        "heading": "Como comprar com código na BOLD e na Mais Mu",
+        "paragraphs": [
+          "Cada código vale só na loja dele. Na BOLD, o CECILIA15 dá 20%, apesar do 15 no nome, e o link abaixo já leva o código; as regras estão em [cupom BOLD](/cupons/bold). Na Mais Mu, o MMEMCASACOMCECILIA dá 10%, digitado no checkout; as regras estão em [cupom Mais Mu](/cupons/mais-mu). Os dois códigos entram sobre o preço em promoção, então o valor no carrinho fica abaixo do da coluna \"Com o código\" da tabela. Na Mais Mu, o Pix tira mais 3%.",
+          "Na Mais Mu, a faixa do site anuncia frete grátis acima de R$ 299 em Sul, Sudeste e Centro-Oeste. Na BOLD, o frete sai pelo CEP no carrinho."
+        ],
+        "links": [
+          {
+            "label": "Ir para a BOLD com o CECILIA15",
+            "href": "https://www.boldsnacks.com.br/discount/CECILIA15",
+            "sponsored": true,
+            "store": "bold"
+          },
+          {
+            "label": "Ir para a Mais Mu com o MMEMCASACOMCECILIA",
+            "href": "https://www.lojamaismu.com.br/",
+            "sponsored": true,
+            "store": "mais-mu"
+          }
+        ],
+        "postParagraphs": [
+          "As outras linhas da Bendu, com as alternativas das parceiras, estão em [alternativas à Bendu](/reviews/alternativas-a-bendu)."
+        ]
+      },
+      {
+        "heading": "Quem escolhe o quê",
+        "paragraphs": [
+          "Quem quer o máximo de proteína num lanche só vai de BOLD 21 g; com 40 g de barra, a de 14 g.",
+          "Quem acha 21 g demais para um lanche, ou prefere wafer com mais proteína, olha a Mais Mu: 15 g na Mukebar e 12 g no Chocowheyfer Max.",
+          "Quem só pode lactose zero não encontra isso declarado nas duas parceiras: a referência é a Soft Bar da Bendu.",
+          "Em todos os casos, o aviso de alérgenos do sabor escolhido vale mais que o nome da linha."
+        ]
+      },
+      {
+        "heading": "Perguntas frequentes",
+        "bullets": [
+          "Qual tem mais proteína por unidade: BOLD, Bendu ou Mais Mu? A barra BOLD de 60 g declara 21 g, o maior valor da comparação. Depois vêm o Crunch da BOLD, com 18 g, a Mukebar da Mais Mu, com 15 g, e a BOLD de 40 g, com 14 g. Entre os wafers, o Chocowheyfer Max declara 12 g, e o Wafer e o Tube da BOLD e o Crispy Wafer da Bendu, 10 g.",
+          "Qual barra é zero lactose entre BOLD, Bendu e Mais Mu? Só as duas linhas da Bendu declaram: a Soft Bar, com 12 g de proteína, e o Crispy Wafer, com 10 g. As linhas da BOLD, a Mukebar e o Chocowheyfer declaram lactose. O Veggie Wafer da Mais Mu não leva leite na receita, mas o alerta diz que pode conter.",
+          "Quanto custa o grama de proteína em cada barra? Pela tabela de cada loja, vai de menos de um real nas barras da BOLD e na Soft Bar a perto de R$ 1,40 no Veggie Wafer e no Crispy Wafer. A conta produto a produto, com e sem código, está na primeira tabela.",
+          "Entre o wafer da Mais Mu, da BOLD e da Bendu, qual muda mais no rótulo? A proteína por unidade vai de 5 g a 12 g, e o peso, de 25 g a 50 g. A BOLD e o Chocowheyfer contêm lactose e glúten, o Crispy Wafer da Bendu contém glúten e declara zero lactose, e o Veggie Wafer é sem leite na receita, mas pode conter leite.",
+          "Os códigos CECILIA15 (BOLD) e MMEMCASACOMCECILIA (Mais Mu) valem em caixas fechadas? Sim. O CECILIA15 entrou numa Caixa Mista em promoção no nosso teste, e o MMEMCASACOMCECILIA vale em todo o site da Mais Mu. Cada código vale só na loja dele; as regras estão em [cupom BOLD](/cupons/bold) e [cupom Mais Mu](/cupons/mais-mu)."
+        ]
+      }
+    ],
+    "updatedAt": "2026-11-27"
+  },
+  {
+    "id": 1474,
+    "slug": "protetor-solar-creamy-oceane-ou-pink-cheeks",
+    "locale": "pt",
+    "title": "Protetor solar Creamy, Océane ou Pink Cheeks: fluido sem cor ou bastão com cor",
+    "seoTitle": "Protetor solar Creamy, Océane ou Pink Cheeks: qual escolher?",
+    "type": "Comparativo de Skincare",
+    "category": "guias-praticos-utilidade",
+    "reviewKind": "guia",
+    "author": {
+      "name": "Cecília Mauad",
+      "slug": "cecilia-mauad",
+      "role": "Em Casa com Cecília",
+      "initials": "CM",
+      "url": "/sobre"
+    },
+    "description": "Fluido sem cor ou bastão com cor? Compare FPS, FPUVA publicado, resistência ao suor e preço por grama ou ml dos protetores faciais da Creamy, da Océane e da Pink Cheeks.",
+    "metaDescription": "Protetor facial da Creamy, da Océane e da Pink Cheeks por FPS, FPUVA, cor e preço. Veja onde usar EMCASA na Océane e PNK-EMCASACOMCECILIA.",
+    "publishedAt": "27 de novembro de 2026",
+    "publishedAtISO": "2026-11-27",
+    "draft": false,
+    "isNew": true,
+    "image": "/images/reviews/protetor-solar/protetor-solar-creamy-oceane-ou-pink-cheeks-hero.webp",
+    "imageAlt": "Frasco e caixa do Daily Sunscreen FPS 70 da Océane e bastão Pink Stick 100 KM Ultra da Pink Cheeks, em fotos oficiais sobre fundo de estúdio. A chamada diz Protetor solar, Océane ou Pink Cheeks?",
+    "imageFit": "contain",
+    "imageAspect": "landscape",
+    "decision": {
+      "takeIf": [
+        "Você quer um fluido sem cor de FPS 70 para todo dia: o Daily Sunscreen, com o EMCASA na Océane.",
+        "Você quer bastão com o FPUVA no nome, com cor (Pink Stick) ou transparente (Clear Stick): a Pink Cheeks, com o PNK-EMCASACOMCECILIA.",
+        "Você procura loção matte com PPD publicado ou bastão em dez cores: a Creamy."
+      ],
+      "skipIf": [
+        "Você evita fragrância: o Daily Sunscreen, da Océane, e o Pink Stick 21 KM, da Pink Cheeks, listam perfume nos ingredientes.",
+        "Você só compra protetor com o número de FPUVA publicado: o Daily Sunscreen não traz.",
+        "Você quer bastão ou cor na Océane: o protetor facial da loja é um só, fluido e incolor."
+      ]
+    },
+    "pros": [],
+    "cons": [],
+    "affiliate": [
+      "oceane",
+      "pinkcheeks"
+    ],
+    "editorialNote": "Feito com as fichas das marcas, sem uso nosso dos protetores. Os links de afiliado podem gerar comissão.",
+    "relatedArticles": [
+      {
+        "slug": "pinkcheeks-ou-ollie-protetor-bastao"
+      },
+      {
+        "slug": "pink-stick-qual-cor-escolher"
+      },
+      {
+        "slug": "pinkcheeks-e-boa"
+      },
+      {
+        "slug": "alternativas-a-creamy"
+      },
+      {
+        "slug": "oceane-e-boa"
+      }
+    ],
+    "contentSections": [
+      {
+        "heading": "Resposta rápida",
+        "paragraphs": [
+          "As três marcas declaram resistência à água e ao suor; a escolha é de formato e de rótulo. A Océane tem o fluido sem cor de FPS 70; a Pink Cheeks, bastão em nove tons com o FPUVA no nome; a Creamy, loção matte com PPD publicado e bastão em dez cores. As duas parceiras têm código de 10%."
+        ]
+      },
+      {
+        "heading": "Os protetores lado a lado",
+        "paragraphs": [
+          "O que separa os oito protetores é o formato e o FPUVA publicado, não o FPS: todos ficam entre 50 e 99. Cada ficha traz o que a marca decidiu publicar. O traço marca o dado que a página do produto não informa, e esse produto fica fora da conta por unidade. Os preços são de tabela, sem o desconto de campanha do dia e sem frete; o preço do dia vem ao lado."
+        ],
+        "comparisonTable": {
+          "caption": "Fluido e loção em ml ou g; bastão em g. Ml e grama não são a mesma medida, então compare o preço só dentro do mesmo formato. Preços dos sites em 26 de novembro de 2026.",
+          "headers": [
+            "Produto",
+            "FPS",
+            "FPUVA publicado",
+            "Conteúdo",
+            "Preço de tabela",
+            "Preço do dia",
+            "Por unidade"
+          ],
+          "rows": [
+            [
+              "Océane Daily Sunscreen",
+              "70",
+              "não publica",
+              "40 g",
+              "R$ 57,90",
+              "R$ 48,90",
+              "R$ 1,45 por g"
+            ],
+            [
+              "Creamy Watery Lotion",
+              "60",
+              "25 (PPD)",
+              "50 ml",
+              "R$ 69,99",
+              "R$ 62,99",
+              "R$ 1,40 por ml"
+            ],
+            [
+              "Creamy Watery Fluid",
+              "50",
+              "—",
+              "—",
+              "R$ 59,99",
+              "R$ 53,99",
+              "—"
+            ],
+            [
+              "Pink Cheeks Fluido Facial",
+              "62",
+              "36 (35 sem cor)",
+              "30 ml",
+              "R$ 119,90",
+              "R$ 89,90",
+              "R$ 4,00 por ml"
+            ],
+            [
+              "Creamy Stick Multifuncional com Cor",
+              "99",
+              "—",
+              "—",
+              "R$ 109,99",
+              "R$ 98,99",
+              "—"
+            ],
+            [
+              "Pink Cheeks Pink Stick 21 KM",
+              "90",
+              "70",
+              "15,5 g",
+              "R$ 129,90",
+              "R$ 99,90",
+              "R$ 8,38 por g"
+            ],
+            [
+              "Pink Cheeks Pro Stick Multifuncional",
+              "96",
+              "—",
+              "—",
+              "R$ 129,90",
+              "R$ 99,90",
+              "—"
+            ],
+            [
+              "Pink Cheeks Clear Stick",
+              "70",
+              "50",
+              "12 g",
+              "R$ 139,90",
+              "R$ 109,90",
+              "R$ 11,66 por g"
+            ]
+          ]
+        }
+      },
+      {
+        "heading": "Fluido sem cor para o dia a dia",
+        "paragraphs": [
+          "Entre os fluidos, a Océane tem o Daily Sunscreen FPS 70, de 40 g, que a loja descreve como vegano, incolor, livre de parabenos e de toque seco, testado dermatológica e oftalmologicamente. A ficha diz que ele é altamente resistente à água e ao suor, mas não publica número de FPUVA. A lista de ingredientes inclui Parfum.",
+          "A Creamy descreve a Watery Lotion FPS 60 como matte, para pele oleosa, resistente à água e ao suor, com PPD 25 e teste oftalmológico, segundo a marca. O volume é de 50 ml. A marca também vende o Watery Fluid FPS 50.",
+          "A Pink Cheeks vende o Fluido Facial FPS 62, com FPUVA 36, em 30 ml. Ele existe em seis tints e em versão sem cor, e a sem cor declara FPUVA 35. É o único com tints na comparação.",
+          "Com o código de cada loja, a conta muda só nas duas parceiras. Os valores abaixo usam o preço de tabela."
+        ],
+        "comparisonTable": {
+          "caption": "Conta nossa, sobre o preço de tabela. A Creamy não tem código nosso.",
+          "headers": [
+            "Fluido",
+            "Conteúdo",
+            "Tabela",
+            "Com o código",
+            "Por unidade com o código"
+          ],
+          "rows": [
+            [
+              "Océane Daily Sunscreen",
+              "40 g",
+              "R$ 57,90",
+              "R$ 52,11 (EMCASA na Océane)",
+              "R$ 1,30 por g"
+            ],
+            [
+              "Pink Cheeks Fluido Facial",
+              "30 ml",
+              "R$ 119,90",
+              "R$ 107,91 (PNK-EMCASACOMCECILIA)",
+              "R$ 3,60 por ml"
+            ],
+            [
+              "Creamy Watery Lotion",
+              "50 ml",
+              "R$ 69,99",
+              "—",
+              "R$ 1,40 por ml, sem código"
+            ]
+          ]
+        },
+        "postParagraphs": [
+          "Grama e ml não se comparam direto, então a tabela não diz qual fluido rende mais. Ela diz quanto custa cada um por unidade da própria medida."
+        ],
+        "image": {
+          "src": "/images/reviews/oceane/protetor-solar-creamy-oceane-ou-pink-cheeks-daily-sunscreen.webp",
+          "alt": "Frasco do Daily Sunscreen FPS 70 da Océane, de 40 g, sobre a água, em foto oficial da marca.",
+          "caption": "Daily Sunscreen FPS 70, da Océane. Foto: site oficial da marca.",
+          "aspectRatio": 0.5
+        }
+      },
+      {
+        "heading": "Bastão com cor, FPUVA e suor",
+        "paragraphs": [
+          "O bastão é onde as marcas mais se separam. A Pink Cheeks tem o Pink Stick FPS 90 com FPUVA 70 em nove tons, do 5 KM, que a loja marca como sem cor, ao 100 KM ULTRA. A ficha o descreve como pensado para resistir a treinos mais intensos, e a do 21 KM informa 2 horas de resistência à água e ao suor. A lista de ingredientes do 21 KM também inclui perfume. “O maior FPUVA do mercado” é alegação da marca.",
+          "O Pro Stick Multifuncional, FPS 96, tem seis tons, de PRO10 a PRO50, e o FPUVA não aparece no nome. O Clear Stick é o bastão transparente: FPS 70, FPUVA 50, 12 g.",
+          "A Creamy vende o Stick Multifuncional FPS 99 com cor, em dez cores, resistente à água e ao suor segundo a marca, com “proteção contra UVA, UVB, luz azul e luz visível”. Ele não entra na conta por grama.",
+          "Na Océane, o único protetor facial é o Daily Sunscreen; as bases com FPS 30 são maquiagem."
+        ],
+        "images": [
+          {
+            "src": "/images/reviews/pinkcheeks/pinkcheeks-ou-ollie-protetor-bastao-pink-stick-21km.webp",
+            "alt": "Pink Stick FPS 90 e FPUVA 70 da Pink Cheeks com a textura do tom 21 KM ao lado do bastão, em foto oficial da loja.",
+            "caption": "Pink Stick com a textura do tom 21 KM. Foto: Pink Cheeks.",
+            "href": "https://pinkcheeks.com.br/products/pink-stick-fps90-fpuva70-21km",
+            "objectFit": "square",
+            "aspectRatio": 1,
+            "store": "pinkcheeks"
+          },
+          {
+            "src": "/images/reviews/pinkcheeks/pink-stick-qual-cor-escolher-clear-stick.webp",
+            "alt": "Clear Stick em embalagem transparente com rótulo branco, FPS 70 e FPUVA 50",
+            "caption": "Clear Stick, o bastão transparente da Pink Cheeks. Foto: Pink Cheeks.",
+            "href": "https://pinkcheeks.com.br/products/clear-stick-protetor-transparente-fps70-fpuva50-12g",
+            "objectFit": "square",
+            "aspectRatio": 1,
+            "store": "pinkcheeks"
+          }
+        ],
+        "accordionBlock": {
+          "heading": "Os nove tons do Pink Stick",
+          "paragraphs": [
+            "5 KM, 10 KM, 15 KM, 21 KM, 42 KM, 42 KM RIO, 60 KM ULTRA, 80 KM ULTRA e 100 KM ULTRA. A escolha fina entre eles está em [Pink Stick: como escolher o tom](/reviews/pink-stick-qual-cor-escolher)."
+          ]
+        },
+        "postParagraphs": [
+          "Para comparar o Pink Stick com outro bastão por preço por grama, veja [Pink Cheeks ou Ollie](/reviews/pinkcheeks-ou-ollie-protetor-bastao)."
+        ]
+      },
+      {
+        "heading": "Como ler FPS e FPUVA no rótulo",
+        "paragraphs": [
+          "O FPS sozinho não basta: o FPUVA diz quanto o protetor passa do mínimo exigido no rótulo. O FPS mede a proteção contra a radiação que causa queimadura. O FPUVA mede a proteção contra a UVA. Pela regra brasileira de rotulagem de protetores solares, o FPUVA precisa ser de pelo menos um terço do FPS declarado. Um protetor FPS 60 precisa ter FPUVA de pelo menos 20, e um FPS 90, de pelo menos 30.",
+          "Isso vale para as três marcas. O que muda é o que cada uma publica: a Pink Cheeks põe o FPUVA no nome do Pink Stick, do Clear Stick e do Fluido Facial, a Creamy publica o PPD 25 na loção e a Océane não publica número no Daily Sunscreen. A regra também exige o comprimento de onda crítico mínimo de 370 nm, que as fichas não detalham.",
+          "Sem o número, o que se sabe do Daily Sunscreen é o piso da regra: pelo menos um terço do FPS 70."
+        ],
+        "comparisonTable": {
+          "caption": "FPS e FPUVA que cada ficha publica.",
+          "headers": [
+            "Produto",
+            "FPS",
+            "FPUVA publicado"
+          ],
+          "rows": [
+            [
+              "Creamy Watery Lotion",
+              "60",
+              "25"
+            ],
+            [
+              "Pink Cheeks Fluido Facial",
+              "62",
+              "36"
+            ],
+            [
+              "Pink Cheeks Clear Stick",
+              "70",
+              "50"
+            ],
+            [
+              "Pink Cheeks Pink Stick",
+              "90",
+              "70"
+            ],
+            [
+              "Océane Daily Sunscreen",
+              "70",
+              "Não informado na ficha"
+            ]
+          ]
+        },
+        "emphasis": "FPS alto sem FPUVA declarado não diz tudo: o número é o único jeito de ver quanto o produto está acima do mínimo da regra.",
+        "postParagraphs": [
+          "Se você tem melasma, rosácea, acne ou pele sensível, procure um dermatologista antes de escolher o protetor. Para qualquer um deles, confira na embalagem a orientação de reaplicação."
+        ]
+      },
+      {
+        "heading": "Onde usar os códigos na Océane e na Pink Cheeks",
+        "paragraphs": [
+          "Cada código vale só na loja dele. Na Océane, aplique o EMCASA na Océane no campo “Cupom de desconto” da sacola, no site ou no app, e confira os 10% OFF no total. Nos nossos testes de carrinho, os dois códigos entraram também sobre produto em promoção, então o desconto do dia e o código somam. Na Pink Cheeks, digite o PNK-EMCASACOMCECILIA, com o hífen depois de PNK, em “Código de desconto ou cartão-presente”, no checkout.",
+          "A Creamy não tem link nem código aqui. Você encontra a marca direto no site dela."
+        ],
+        "comparisonTable": {
+          "headers": [
+            "Loja",
+            "Código",
+            "Desconto",
+            "Regras"
+          ],
+          "rows": [
+            [
+              "Océane",
+              "EMCASA na Océane",
+              "10%",
+              "[Cupom Océane](/cupons/oceane)"
+            ],
+            [
+              "Pink Cheeks",
+              "PNK-EMCASACOMCECILIA",
+              "10%",
+              "[Cupom Pink Cheeks](/cupons/pinkcheeks)"
+            ]
+          ]
+        },
+        "links": [
+          {
+            "label": "Ir para a Océane com o EMCASA na Océane",
+            "href": "https://www.oceane.com.br/?utmi_pc=emcasa",
+            "sponsored": true,
+            "store": "oceane"
+          },
+          {
+            "label": "Ir para a Pink Cheeks com o PNK-EMCASACOMCECILIA",
+            "href": "https://pinkcheeks.com.br/",
+            "sponsored": true,
+            "store": "pinkcheeks"
+          }
+        ],
+        "postParagraphs": [
+          "As regras, a oferta e a forma de pagamento de cada código estão nas páginas de cupom acima. Para uma visão da marca, veja [Pink Cheeks é boa?](/reviews/pinkcheeks-e-boa) e [Océane é boa?](/reviews/oceane-e-boa). Para os séruns de tratamento da Creamy e as alternativas, veja [alternativas à Creamy](/reviews/alternativas-a-creamy) e o [comparativo de séruns da Creamy, da Simple Organic e da L’Amazonie](/reviews/creamy-simple-organic-ou-lamazonie)."
+        ]
+      },
+      {
+        "heading": "Qual escolher",
+        "paragraphs": [
+          "Três perguntas separam as opções: você quer cor ou não, quer ver o FPUVA impresso ou não, e compra fluido ou bastão."
+        ],
+        "bullets": [
+          "Fluido sem cor de FPS 70: o Daily Sunscreen, da Océane.",
+          "Loção matte para pele oleosa, com PPD publicado: a Watery Lotion, da Creamy.",
+          "Bastão com cor em dez cores: o Stick Multifuncional, da Creamy.",
+          "Bastão com cor e FPUVA no nome: o Pink Stick, da Pink Cheeks, em nove tons.",
+          "Bastão transparente: o Clear Stick, da Pink Cheeks.",
+          "Fluido com tints: o Fluido Facial, da Pink Cheeks."
+        ]
+      },
+      {
+        "heading": "Perguntas frequentes",
+        "bullets": [
+          "Qual protetor aguenta melhor suor e corrida entre Creamy, Océane e Pink Cheeks? As três declaram resistência à água e ao suor, cada uma na própria ficha. Só a ficha do Pink Stick 21 KM informa um tempo, de 2 horas, e a Pink Cheeks diz que o produto foi pensado para treinos intensos.",
+          "Qual protetor facial sai mais em conta para usar todo dia? Entre os fluidos, o Daily Sunscreen da Océane e a Watery Lotion da Creamy ficam na mesma faixa por unidade, e o Fluido Facial da Pink Cheeks custa mais. Como um é vendido em grama e os outros em ml, a conta está no capítulo dos fluidos.",
+          "Qual marca tem protetor em bastão com cor? A Pink Cheeks tem o Pink Stick em nove tons e o Pro Stick em seis, e a Creamy tem o Stick Multifuncional em dez cores. A Océane não vende bastão nem protetor com cor.",
+          "O número de FPUVA aparece em todo protetor? Não. Todo protetor regular cumpre o mínimo de um terço do FPS, mas publicar o número é escolha da marca; a tabela mostra quem publica.",
+          "Os códigos EMCASA na Océane e PNK-EMCASACOMCECILIA valem para qualquer produto? Cada um vale só na loja dele e dá 10% OFF. Nos nossos testes, entraram também em produto em promoção; confira a linha de desconto antes de pagar."
+        ]
+      }
+    ],
+    "updatedAt": "2026-11-27"
+  },
+  {
+    "id": 1475,
+    "slug": "creamy-simple-organic-ou-lamazonie",
+    "locale": "pt",
+    "title": "Creamy, Simple Organic ou L’Amazonie: qual sérum escolher por ativo, fragrância e preço",
+    "seoTitle": "Creamy, Simple Organic ou L’Amazonie: qual sérum escolher?",
+    "type": "Comparativo de Skincare",
+    "category": "guias-praticos-utilidade",
+    "reviewKind": "guia",
+    "author": {
+      "name": "Cecília Mauad",
+      "slug": "cecilia-mauad",
+      "role": "Em Casa com Cecília",
+      "initials": "CM",
+      "url": "/sobre"
+    },
+    "description": "Vitamina C, niacinamida e retinol: compare o ativo declarado, a fragrância e o preço por frasco da Creamy, da Simple Organic e da L’Amazonie, com os códigos de 5%.",
+    "metaDescription": "Séruns de vitamina C, niacinamida e retinol da Creamy, Simple Organic e L’Amazonie: ativo, fragrância e preço por frasco, com os códigos de 5%.",
+    "publishedAt": "27 de novembro de 2026",
+    "publishedAtISO": "2026-11-27",
+    "updatedAt": "2026-11-27",
+    "draft": false,
+    "isNew": true,
+    "image": "/images/reviews/skincare/creamy-simple-organic-ou-lamazonie-hero.webp",
+    "imageAlt": "Frasco de Solução Vitamina C da Simple Organic e tubos do Sérum Vitamina C20 da L’Amazonie, em fotos oficiais sobre fundo de estúdio. A chamada diz Sérum facial, Simple Organic ou L’Amazonie?",
+    "imageFit": "contain",
+    "imageAspect": "landscape",
+    "decision": {
+      "takeIf": [
+        "Você quer um ativo por frasco e o menor preço de entrada, e aceita perfume na fórmula do Niacinamida e do Retinol: os Ultra Séruns da Simple Organic.",
+        "Você quer vitamina C a 20% com pantenol e niacinamida, num sérum declarado sem fragrância: o Vitamina C20 da L’Amazonie."
+      ],
+      "skipIf": [
+        "Você procura o Niacinamide B ou retinol em creme: só a Creamy vende.",
+        "Você evita perfume no rosto: os Ultra Séruns Niacinamida e Retinol, da Simple Organic, listam Parfum.",
+        "Você só compra com a lista de ingredientes na mão: a página do Vitamina C20 não a publica."
+      ]
+    },
+    "pros": [],
+    "cons": [],
+    "affiliate": [
+      "simple-organic",
+      "lamazonie"
+    ],
+    "editorialNote": "Feito com as páginas e as composições das marcas, sem uso dos produtos. Podemos receber comissão pelos links da Simple Organic e da L’Amazonie.",
+    "relatedArticles": [
+      {
+        "slug": "alternativas-a-creamy"
+      },
+      {
+        "slug": "simple-organic-retinol-like-ou-retinol"
+      },
+      {
+        "slug": "simple-organic-vitamina-c-ou-niacinamida"
+      },
+      {
+        "slug": "simple-organic-ou-principia"
+      },
+      {
+        "slug": "lamazonie-e-boa"
+      },
+      {
+        "slug": "serum-vitamina-c20-lamazonie"
+      }
+    ],
+    "contentSections": [
+      {
+        "heading": "Resposta rápida",
+        "paragraphs": [
+          "Não há vencedora única: a Simple Organic vende um ativo por frasco, com o menor preço de entrada e Parfum nos Ultra Séruns Niacinamida e Retinol; a L’Amazonie reúne vitamina C a 20%, pantenol e niacinamida num sérum declarado sem fragrância; a Creamy tem o Niacinamide B, retinol em creme e duas vitaminas C. Cada parceira tem código de 5%."
+        ]
+      },
+      {
+        "heading": "Comece pelo ativo que você procura",
+        "paragraphs": [
+          "As três marcas vendem séruns de vitamina C, niacinamida e retinol, mas nem sempre o mesmo produto. A Simple Organic separa os ativos em frascos de 30 ml. A L’Amazonie tem um sérum de vitamina C que traz outros ativos junto. Na Creamy, cada fórmula leva vários ativos."
+        ],
+        "comparisonTable": {
+          "headers": [
+            "Você procura",
+            "Opção para considerar",
+            "O que muda"
+          ],
+          "rows": [
+            [
+              "Um ativo por frasco, com menor desembolso",
+              "Ultra Séruns da Simple Organic",
+              "Vitamina C, niacinamida ou retinol isolados; Niacinamida e Retinol listam Parfum"
+            ],
+            [
+              "Vitamina C a 20%, com pantenol e niacinamida",
+              "Vitamina C20 da L’Amazonie",
+              "Tudo num frasco, e a página diz sem fragrância"
+            ],
+            [
+              "Niacinamida num blend de vitaminas",
+              "Niacinamide B da Creamy",
+              "O 20% é do blend, não só da niacinamida"
+            ],
+            [
+              "Retinol em creme",
+              "Retinol da Creamy",
+              "Retinol puro a 0,3%, com peptídeos e outros ativos"
+            ],
+            [
+              "Uma opção vegetal ao retinol, liberada de dia pela loja",
+              "Solução Retinol-Like da Simple Organic",
+              "Bakuchiol a 1%, sem retinol"
+            ]
+          ]
+        }
+      },
+      {
+        "heading": "Vitamina C: 10% e 15% na Simple Organic, 20% na L’Amazonie e as da Creamy",
+        "paragraphs": [
+          "A Simple Organic tem duas vitaminas C. O Ultra Sérum Vitamina C declara no rótulo 10% de vitamina C, na forma de ascorbil fosfato de sódio, e 0,5% de ácido ferúlico; a página não informa o volume. A Solução Vitamina C tem 15% de vitamina C na forma de ascorbyl glucoside, em 30 ml, e a página cita fragrância.",
+          "A L’Amazonie declara na página do Sérum Clareador Vitamina C20 vitamina C pura a 20%, pantenol a 5% e niacinamida a 1%; o tubo, nas fotos da loja, imprime também vitamina E a 1%, ácido ferúlico a 0,5% e 30 ml. A página diz que o sérum é sem fragrância. Fórmula, uso e preço por frasco estão no [guia do Sérum Vitamina C20](/reviews/serum-vitamina-c20-lamazonie).",
+          "A Creamy publica duas vitaminas C. A Vitamina C declara 10%, com etil ascórbico e ascorbil glucosídeo, mais vitamina E, ácido ferúlico e ácido hialurônico, em 30 ml. A Vitamina C Gold é descrita como vitamina C pura estabilizada com ouro, com uma vitamina C lipossolúvel, glutationa e hexylresorcinol; a descrição não traz o percentual."
+        ],
+        "comparisonTable": {
+          "caption": "O que a página de cada produto declara. O traço marca o dado que a página não informa.",
+          "headers": [
+            "Sérum",
+            "Vitamina C declarada",
+            "Outros ativos que a página cita",
+            "Volume"
+          ],
+          "rows": [
+            [
+              "Ultra Sérum Vitamina C, Simple Organic",
+              "10%, ascorbil fosfato de sódio",
+              "Ácido ferúlico 0,5%",
+              "Não informado na página"
+            ],
+            [
+              "Solução Vitamina C, Simple Organic",
+              "15%, ascorbyl glucoside",
+              "—",
+              "30 ml"
+            ],
+            [
+              "Vitamina C20, L’Amazonie",
+              "20%, vitamina C pura",
+              "Pantenol 5%, niacinamida 1%, vitamina E 1%, ácido ferúlico 0,5% (tubo)",
+              "30 ml, impresso no tubo"
+            ],
+            [
+              "Vitamina C, Creamy",
+              "10%, etil ascórbico e ascorbil glucosídeo",
+              "Vitamina E, ácido ferúlico, ácido hialurônico",
+              "30 ml"
+            ],
+            [
+              "Vitamina C Gold, Creamy",
+              "Percentual não declarado; vitamina C pura estabilizada com ouro e uma forma lipossolúvel",
+              "Glutationa, hexylresorcinol",
+              "—"
+            ]
+          ]
+        },
+        "emphasis": "O percentual sozinho não compara: o tipo de vitamina C muda de marca para marca, e um 10% de um derivado não se mede contra um 20% de vitamina C pura.",
+        "postParagraphs": [
+          "As páginas descrevem funções como ação antioxidante e uniformização do tom. São descrições das marcas. Quem quer tratar manchas, ou está com a pele sensibilizada, fala antes com o dermatologista.",
+          "As duas vitaminas C da Simple Organic estão em detalhe no guia [vitamina C ou niacinamida na Simple Organic](/reviews/simple-organic-vitamina-c-ou-niacinamida)."
+        ],
+        "images": [
+          {
+            "src": "/images/reviews/simple-organic/simple-organic-vitamina-c-ou-niacinamida-ultra-serum-vitamina-c.webp",
+            "alt": "Frasco do Ultra Sérum Vitamina C da Simple Organic, em foto oficial da marca",
+            "caption": "Ultra Sérum Vitamina C. Foto: Simple Organic.",
+            "objectFit": "contain",
+            "aspectRatio": 1,
+            "href": "https://simpleorganic.com.br/products/ultra-serum-vitamina-c",
+            "store": "simple-organic"
+          },
+          {
+            "src": "/images/reviews/lamazonie/serum-vitamina-c20-lamazonie-tubo-30ml.webp",
+            "alt": "Tubo verde do Sérum Vitamina C20 da L’Amazonie com as concentrações e 30 ml impressos na embalagem, em foto oficial da loja",
+            "caption": "Sérum Vitamina C20. Foto: L’Amazonie.",
+            "objectFit": "contain",
+            "aspectRatio": 1,
+            "href": "https://www.lamazonie.com.br/products/serum-facial-antioxidante-c20",
+            "store": "lamazonie"
+          }
+        ]
+      },
+      {
+        "heading": "Niacinamida: 10% na Simple Organic, 1% na L’Amazonie e o Niacinamide B da Creamy",
+        "paragraphs": [
+          "Quem quer um frasco só de niacinamida encontra o Ultra Sérum Niacinamida da Simple Organic: 10% de niacinamida, segundo o rótulo, em 30 ml. Na L’Amazonie, a niacinamida não tem frasco próprio: ela entra a 1% dentro do Vitamina C20, junto de 5% de pantenol, e a loja liga a niacinamida à pele oleosa e o pantenol à pele sensível nas perguntas frequentes da página.",
+          "O Niacinamide B da Creamy tem nome completo B Complex 20%, e a descrição fala em 20% de um blend de vitaminas. Pelo texto, o 20% é do blend inteiro: niacinamida em três formas (livre, nanoencapsulada e em bicossomas), B12, B5, B6, vitamina E e zinco. A página não separa quanto desse total é niacinamida, e por isso o 20% não se compara ao 10% da Simple Organic. A comparação segura é de preço e de formato do frasco, em 30 ml."
+        ],
+        "images": [
+          {
+            "src": "/images/reviews/simple-organic/simple-organic-vitamina-c-ou-niacinamida-ultra-serum-niacinamida.webp",
+            "alt": "Frasco de 30 ml do Ultra Sérum Niacinamida da Simple Organic, em foto oficial da marca",
+            "caption": "Ultra Sérum Niacinamida, de 30 ml. Foto: Simple Organic.",
+            "objectFit": "contain",
+            "aspectRatio": 1,
+            "href": "https://simpleorganic.com.br/products/ultra-serum-niacinamida",
+            "store": "simple-organic"
+          }
+        ]
+      },
+      {
+        "heading": "Retinol 0,3% à noite e bakuchiol 1% que a loja libera de dia",
+        "paragraphs": [
+          "O Ultra Sérum Retinol da Simple Organic declara retinol a 0,3% e squalane a 0,5%, em 30 ml. A loja indica uso exclusivamente à noite e protetor solar todos os dias de uso. O Retinol da Creamy também declara retinol puro a 0,3%, mas em creme de 30 g, com peptídeos, nano vitamina C, alfa-arbutin, ácido ferúlico, phloretin e bisabolol. A mesma dose declarada não faz dos dois produtos equivalentes: o formato e os outros ativos mudam.",
+          "A Solução Retinol-Like da Simple Organic não tem retinol: o ativo é bakuchiol a 1%. O FAQ da loja permite usar de dia e orienta finalizar com protetor solar. Já o Ultra Sérum Retinol é só noturno, e trocar um pelo outro por achar que são iguais é o erro mais fácil de cometer na prateleira.",
+          "Retinol pede cautela em pele sensível, e a Simple Organic sugere começar com menos aplicações por semana. [A Academia Americana de Dermatologia](https://www.aad.org/public/everyday-care/skin-care-secrets/routine/pregnancy-skin-care) orienta evitar retinol na gestação, e a Simple Organic pede que gestantes e lactantes consultem o médico antes de usar os produtos, o Retinol-Like inclusive. A escolha do protetor fica para o [guia de protetor solar da Creamy, da Océane e da Pink Cheeks](/reviews/protetor-solar-creamy-oceane-ou-pink-cheeks). Para as duas fórmulas da Simple Organic em detalhe, veja [retinol ou Retinol-Like](/reviews/simple-organic-retinol-like-ou-retinol)."
+        ],
+        "comparisonTable": {
+          "caption": "O que as páginas de cada produto informam.",
+          "headers": [
+            "Produto",
+            "Ativo declarado",
+            "Formato e medida",
+            "Horário que a marca indica"
+          ],
+          "rows": [
+            [
+              "Ultra Sérum Retinol, Simple Organic",
+              "Retinol 0,3%, squalane 0,5%",
+              "Sérum, 30 ml",
+              "Exclusivamente à noite"
+            ],
+            [
+              "Solução Retinol-Like, Simple Organic",
+              "Bakuchiol 1%, sem retinol",
+              "Solução, 30 ml",
+              "Pode usar de dia, com protetor"
+            ],
+            [
+              "Retinol, Creamy",
+              "Retinol puro 0,3%, com peptídeos e outros ativos",
+              "Creme, 30 g",
+              "—"
+            ]
+          ]
+        },
+        "images": [
+          {
+            "src": "/images/reviews/simple-organic/simple-organic-retinol-like-ou-retinol-ultra-serum-retinol.webp",
+            "alt": "Frasco âmbar do Ultra Sérum Retinol da Simple Organic, com rótulo preto e conta-gotas, em foto oficial da marca",
+            "caption": "Ultra Sérum Retinol, de 30 ml. Foto: Simple Organic.",
+            "objectFit": "contain",
+            "aspectRatio": 1,
+            "href": "https://simpleorganic.com.br/products/ultra-serum-retinol",
+            "store": "simple-organic"
+          }
+        ]
+      },
+      {
+        "heading": "Fragrância: quem lista perfume e quem diz que não tem",
+        "paragraphs": [
+          "Sem fragrância não é diferencial de uma marca só. Nos quatro produtos da Creamy que entram aqui (Vitamina C, Vitamina C Gold, Niacinamide B e Retinol), a composição publicada não traz Parfum. A página da L’Amazonie diz que o Vitamina C20 é sem fragrância.",
+          "A Simple Organic lista Parfum na composição dos Ultra Séruns Niacinamida e Retinol, e a página da Solução Vitamina C cita fragrância. Para quem evita perfume no rosto, esse é o ponto de atenção da marca.",
+          "A diferença entre as duas afirmações está na prova: a Creamy e a Simple Organic publicam a lista de ingredientes (INCI), e dá para conferir. A página da L’Amazonie não publica o INCI do sérum, e o sem fragrância é uma declaração da marca. Quem tem alergia a algum componente pode pedir a lista ao atendimento antes de comprar."
+        ],
+        "accordionBlock": {
+          "heading": "Onde o Parfum aparece na lista da Simple Organic",
+          "paragraphs": [
+            "Nos Ultra Séruns Niacinamida e Retinol, Parfum aparece na lista; no Retinol, também Limonene e Linalool, que são componentes de perfume."
+          ]
+        }
+      },
+      {
+        "heading": "Quanto custa cada frasco",
+        "paragraphs": [
+          "Por frasco, a Simple Organic é a entrada mais barata, a Creamy fica no meio e a L’Amazonie custa mais, com cinco ativos num sérum. A tabela usa o preço cheio de cada loja e põe ao lado o preço do dia. Os 5% dos códigos foram calculados sobre a tabela, sem frete e sem o desconto do Pix. Enquanto a campanha durar, o código entra sobre o preço do dia, que na Simple Organic fica abaixo da coluna “Tabela com o código”. Na L’Amazonie, o preço do dia é o de catálogo, R$ 289, e com o CECILIA fica em R$ 274,55. Onde a página não informa o volume, não há conta por ml: compare pelo preço do frasco."
+        ],
+        "comparisonTable": {
+          "caption": "Preços dos sites em 26 de novembro de 2026. Por ml ou por g, na tabela e com o código. A Creamy entra pelo preço da página. O traço marca o dado que a página não informa.",
+          "headers": [
+            "Sérum e medida",
+            "Tabela",
+            "Preço do dia",
+            "Tabela com o código",
+            "Por ml ou g"
+          ],
+          "rows": [
+            [
+              "Vitamina C, Creamy, 30 ml",
+              "R$ 99,99",
+              "R$ 79,99",
+              "Sem código",
+              "R$ 3,33"
+            ],
+            [
+              "Vitamina C Gold, Creamy",
+              "R$ 129,99",
+              "R$ 90,99",
+              "Sem código",
+              "—"
+            ],
+            [
+              "Niacinamide B, Creamy, 30 ml",
+              "R$ 99,99",
+              "R$ 89,99",
+              "Sem código",
+              "R$ 3,33"
+            ],
+            [
+              "Retinol em creme, Creamy, 30 g",
+              "R$ 119,99",
+              "R$ 83,99",
+              "Sem código",
+              "R$ 4,00 por g"
+            ],
+            [
+              "Ultra Sérum Vitamina C, Simple Organic",
+              "R$ 69,00",
+              "R$ 41,40",
+              "R$ 65,55",
+              "Volume não informado"
+            ],
+            [
+              "Ultra Sérum Niacinamida, Simple Organic, 30 ml",
+              "R$ 69,00",
+              "R$ 41,40",
+              "R$ 65,55",
+              "R$ 2,30; com o código, R$ 2,19"
+            ],
+            [
+              "Ultra Sérum Retinol, Simple Organic, 30 ml",
+              "R$ 69,00",
+              "R$ 41,40",
+              "R$ 65,55",
+              "R$ 2,30; com o código, R$ 2,19"
+            ],
+            [
+              "Solução Vitamina C, Simple Organic, 30 ml",
+              "R$ 99,00",
+              "R$ 59,40",
+              "R$ 94,05",
+              "R$ 3,30; com o código, R$ 3,14"
+            ],
+            [
+              "Solução Retinol-Like, Simple Organic, 30 ml",
+              "R$ 99,00",
+              "R$ 59,40",
+              "R$ 94,05",
+              "R$ 3,30; com o código, R$ 3,14"
+            ],
+            [
+              "Vitamina C20, L’Amazonie, 30 ml (tubo)",
+              "R$ 289,00",
+              "R$ 289,00",
+              "R$ 274,55",
+              "R$ 9,63; com o código, R$ 9,15"
+            ]
+          ]
+        },
+        "postParagraphs": [
+          "O Vitamina C20 da L’Amazonie reúne cinco ativos declarados; a loja vende também 2 frascos e 3 frascos com preço menor por unidade, e a conta acima é a do frasco avulso. Na Creamy, o Niacinamide B e a Vitamina C têm o mesmo preço de tabela.",
+          "Para comparar com a Creamy em mais linhas, como retinol, niacinamida e gel de limpeza, veja [alternativas à Creamy](/reviews/alternativas-a-creamy)."
+        ]
+      },
+      {
+        "heading": "Como usar o S-EMCASACOMCECILIA e o CECILIA",
+        "paragraphs": [
+          "Cada código vale só na loja dele. O S-EMCASACOMCECILIA dá 5% OFF no site da Simple Organic e, nos nossos testes de carrinho, entrou também sobre produtos em promoção e nos kits. O link do botão abre o site com o código aplicado; confira a linha de desconto no resumo do pedido antes de pagar.",
+          "O CECILIA dá 5% OFF na L’Amazonie e entra no checkout próprio da loja, não no carrinho padrão: clique em “Finalizar compra” e digite o código no campo “Tem um cupom?”, no resumo do pedido. A loja mostra ainda 3% de desconto no Pix, numa linha separada do cupom."
+        ],
+        "comparisonTable": {
+          "headers": [
+            "Loja",
+            "Código",
+            "Desconto",
+            "Regras"
+          ],
+          "rows": [
+            [
+              "Simple Organic",
+              "S-EMCASACOMCECILIA",
+              "5%",
+              "[Cupom Simple Organic](/cupons/simple-organic)"
+            ],
+            [
+              "L’Amazonie",
+              "CECILIA",
+              "5%",
+              "[Cupom L’Amazonie](/cupons/lamazonie)"
+            ]
+          ]
+        },
+        "links": [
+          {
+            "label": "Ir para a Simple Organic com o S-EMCASACOMCECILIA",
+            "href": "https://simpleorganic.com.br/discount/S-EMCASACOMCECILIA",
+            "sponsored": true,
+            "store": "simple-organic"
+          },
+          {
+            "label": "Ir para a L’Amazonie com o CECILIA",
+            "href": "https://www.lamazonie.com.br/",
+            "sponsored": true,
+            "store": "lamazonie"
+          }
+        ],
+        "postParagraphs": [
+          "O passo a passo de cada código está em [como usar o cupom da Simple Organic](/reviews/cupom-simple-organic-como-usar) e em [como usar o cupom da L’Amazonie](/reviews/cupom-lamazonie-como-usar)."
+        ]
+      },
+      {
+        "heading": "Qual escolher",
+        "paragraphs": [
+          "Não há vencedora: a escolha segue o que você procura num sérum e quanto quer gastar na entrada."
+        ],
+        "bullets": [
+          "Um ativo por frasco e o menor preço de entrada: os Ultra Séruns da Simple Organic, a partir de R$ 69 de tabela.",
+          "Vitamina C a 20% com pantenol e niacinamida num sérum que a página declara sem fragrância: o Vitamina C20 da L’Amazonie, R$ 289 de tabela e R$ 274,55 com o CECILIA.",
+          "O Niacinamide B ou o retinol em creme: só a Creamy vende."
+        ]
+      },
+      {
+        "heading": "Perguntas frequentes",
+        "bullets": [
+          "Qual vitamina C escolher entre Creamy, Simple Organic e L’Amazonie? Depende do tipo de vitamina C, do perfume e do preço. A Simple Organic declara 10% (ascorbil fosfato de sódio) ou 15% (ascorbyl glucoside); a L’Amazonie, 20% de vitamina C pura, sem fragrância segundo a página; a Creamy, 10% com etil ascórbico e ascorbil glucosídeo. Para manchas, converse com o dermatologista.",
+          "Qual das três marcas tem sérum sem fragrância? Nos quatro produtos da Creamy que entram aqui, a composição publicada não traz Parfum. A L’Amazonie diz que o Vitamina C20 é sem fragrância, mas a página não publica o INCI. A Simple Organic lista Parfum nos Ultra Séruns Niacinamida e Retinol.",
+          "O Retinol 0,3% da Simple Organic e o da Creamy têm a mesma concentração? As duas declaram retinol a 0,3%, mas um é sérum só noturno e o outro é creme com outros ativos; a comparação está no capítulo do retinol.",
+          "Gestante pode usar retinol ou bakuchiol? A Simple Organic pede que gestantes e lactantes consultem o médico antes de usar os produtos, e a L’Amazonie manda consultar o dermatologista antes de usar o sérum de vitamina C. Na gestação e na amamentação, a decisão é do médico que acompanha você.",
+          "Como aplicar os códigos da Simple Organic e da L’Amazonie? O S-EMCASACOMCECILIA já entra aplicado pelo botão desta página; se não aparecer, digite no campo “Desconto” do carrinho. O CECILIA é digitado em “Tem um cupom?”, no checkout próprio da L’Amazonie, que abre em “Finalizar compra”."
+        ]
+      }
+    ]
+  },
+  {
     "id": 232,
     "slug": "poltrona-damie-e-boa",
     "title": "Poltrona Damie é boa? Minha experiência com a nova versão 2.0",
@@ -147769,7 +148900,10 @@ const reviewsChunk0: unknown[] = [
         "slug": "whey-black-skull-qual-escolher"
       }
     ]
-  },
+  }
+];
+
+const reviewsChunk1: unknown[] = [
   {
     "id": 608,
     "slug": "dr-peanut-ou-la-ganexa",
@@ -149110,10 +150244,7 @@ const reviewsChunk0: unknown[] = [
         "slug": "pre-treino-black-skull-bope-ou-bone-crusher"
       }
     ]
-  }
-];
-
-const reviewsChunk1: unknown[] = [
+  },
   {
     "id": 611,
     "slug": "whey-mais-mu-qual-escolher",
@@ -261280,7 +262411,10 @@ const reviewsChunk1: unknown[] = [
         "slug": "proton-vpn-vale-a-pena"
       }
     ]
-  },
+  }
+];
+
+const reviewsChunk2: unknown[] = [
   {
     "id": 1010,
     "slug": "proton-vpn-refund-how-to-cancel",
@@ -261901,10 +263035,7 @@ const reviewsChunk1: unknown[] = [
         "slug": "proton-vpn-vaut-il-le-coup"
       }
     ]
-  }
-];
-
-const reviewsChunk2: unknown[] = [
+  },
   {
     "id": 1013,
     "slug": "proton-vpn-kuendigen-rueckerstattung",

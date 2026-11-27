@@ -107,3 +107,11 @@ Feita por outra sessão, contra [[alternativas-a-creamy-fatos-1011]], [[simple-o
 - `lamazonie-black-friday-2026`: kit de séruns de sobrancelha com 25% OFF e brindes, topo, só PT, 24/11.
 
 Nenhum tem `endsAt`. O artigo não fixa condição de Black Friday no corpo: o banner entra e sai sozinho, e o preço da tabela é o do dia da redação, com o riscado ao lado quando houver.
+
+
+## Capa e imagens
+
+Aprovadas pelo Bruno em 27/11/2026 (lote docs/auditoria-capas/lote-20261127-leva6-bm1-cs1-cs2); upload ao CDN e verificação HTTPS em 27/11/2026.
+
+- Capa: /images/reviews/skincare/creamy-simple-organic-ou-lamazonie-hero.webp (90347d7c…), 1600×900, imageFit contain. Origem: frasco da Solução Vitamina C (simpleorganic.com.br, foto 2 de 7, recorte à mão) e três tubos do Sérum Vitamina C20 (lamazonie.com.br), fotos oficiais de 27/11/2026; fundo de estúdio gerado por IA (ImageGen, só o cenário vazio); layout do Codex, frasco trocado pelo Claude (v3) para não repetir a foto do corpo de simple-organic-vitamina-c-ou-niacinamida. Alt: "Frasco de Solução Vitamina C da Simple Organic e tubos do Sérum Vitamina C20 da L’Amazonie, em fotos oficiais sobre fundo de estúdio. A chamada diz Sérum facial, Simple Organic ou L’Amazonie?"
+- Sem Bendu nem Creamy na arte.

@@ -112,3 +112,12 @@ Nenhum tem `endsAt`. O artigo não fixa condição de Black Friday no corpo: o b
 ### Pergunta para o Bruno (não trava a redação)
 
 - A Cecília usa algum desses protetores? O dossiê da Pink Cheeks ainda tem "produto em mãos" em aberto. Com uso, um parágrafo assinado por ela entra no capítulo do bastão; sem uso, o artigo segue só pelas fichas.
+
+
+## Capa e imagens
+
+Aprovadas pelo Bruno em 27/11/2026 (lote docs/auditoria-capas/lote-20261127-leva6-bm1-cs1-cs2); upload ao CDN e verificação HTTPS em 27/11/2026.
+
+- Capa: /images/reviews/protetor-solar/protetor-solar-creamy-oceane-ou-pink-cheeks-hero.webp (c2d72ac7…), 1600×900, imageFit contain. Origem: Daily Sunscreen FPS 70 (catálogo VTEX da Océane) e Pink Stick 100 KM Ultra (pinkcheeks.com.br), fotos oficiais de 27/11/2026; fundo de estúdio gerado por IA (ImageGen, só o cenário vazio); montagem do Codex. Alt: "Frasco e caixa do Daily Sunscreen FPS 70 da Océane e bastão Pink Stick 100 KM Ultra da Pink Cheeks, em fotos oficiais sobre fundo de estúdio. A chamada diz Protetor solar, Océane ou Pink Cheeks?"
+- Corpo, seção "Fluido sem cor para o dia a dia": /images/reviews/oceane/protetor-solar-creamy-oceane-ou-pink-cheeks-daily-sunscreen.webp (3010bd51…), 600×1200, recorte da foto oficial 4 do Daily Sunscreen no catálogo da Océane (27/11/2026), sem o texto promocional. Alt: "Frasco do Daily Sunscreen FPS 70 da Océane, de 40 g, sobre a água, em foto oficial da marca." Legenda: "Daily Sunscreen FPS 70, da Océane. Foto: site oficial da marca."
+- Sem Bendu nem Creamy na arte.
