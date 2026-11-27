@@ -1,0 +1,69 @@
+{
+  "id": "starlink-black-friday-2026",
+  "affiliate": "starlink",
+  "slot": "top",
+  "href": "https://starlink.com/?referral=RC-DF-17132118-63432-88",
+  "art": {
+    "kind": "bag"
+  },
+  "endsAt": "2026-11-30T23:59:59-03:00",
+  "copy": {
+    "pt": {
+      "headline": "Black Friday da Starlink: 50% de desconto no serviço Residencial para novos clientes",
+      "text": "Campanha da própria Starlink, só em áreas selecionadas. A disponibilidade e as condições aparecem no site dela.",
+      "action": "Ver a campanha"
+    },
+    "en": {
+      "headline": "Starlink Black Friday: 50% off Residential service for new customers",
+      "text": "Run by Starlink itself, in select areas only. Check availability and terms on its website.",
+      "action": "See the offer"
+    },
+    "es": {
+      "headline": "Black Friday de Starlink: 50 % de descuento en el servicio residencial para nuevos clientes",
+      "text": "Una campaña de la propia Starlink, solo en zonas seleccionadas. La disponibilidad y las condiciones están en su sitio.",
+      "action": "Ver la oferta"
+    },
+    "fr": {
+      "headline": "Black Friday Starlink : 50 % de réduction sur le service Résidentiel pour les nouveaux clients",
+      "text": "Une campagne de Starlink, uniquement dans des zones sélectionnées. La disponibilité et les conditions sont sur son site.",
+      "action": "Voir l’offre"
+    },
+    "it": {
+      "headline": "Black Friday di Starlink: 50% di sconto sul servizio Residenziale per i nuovi clienti",
+      "text": "Una campagna di Starlink, solo in aree selezionate. Disponibilità e condizioni sono sul suo sito.",
+      "action": "Vedi l’offerta"
+    },
+    "de": {
+      "headline": "Starlink Black Friday: 50 % Rabatt auf den Privathaushalt-Service für Neukunden",
+      "text": "Eine Aktion von Starlink, nur in ausgewählten Gebieten. Verfügbarkeit und Bedingungen stehen auf der Starlink-Website.",
+      "action": "Zum Angebot"
+    },
+    "ja": {
+      "headline": "Starlink ブラックフライデー：新規向けにサービスプランとキット本体が50%オフ",
+      "text": "Starlink公式のキャンペーンで、一部地域限定です。対象かどうかと条件はStarlinkのサイトでご確認ください。",
+      "action": "キャンペーンを見る"
+    },
+    "ko": {
+      "headline": "Starlink 블랙 프라이데이: 신규 고객 대상 서비스 플랜과 하드웨어 50% 할인",
+      "text": "Starlink 자체 프로모션으로, 일부 지역에서만 적용됩니다. 적용 여부와 조건은 Starlink 사이트에서 확인하세요.",
+      "action": "혜택 보기"
+    },
+    "zh-hans": {
+      "headline": "Starlink 黑色星期五：新用户住宅服务5折",
+      "text": "Starlink官方活动，仅限部分地区；你所在地区是否适用及具体条件，以Starlink网站为准。",
+      "action": "查看活动"
+    },
+    "zh-hant": {
+      "headline": "Starlink 黑色星期五：新用戶住宅服務5折",
+      "text": "Starlink官方活動，僅限部分地區；你所在地區是否適用及詳細條件，以Starlink網站為準。",
+      "action": "查看活動"
+    },
+    "ar": {
+      "headline": "الجمعة البيضاء من Starlink: خصم 50% على الخدمة المنزلية للعملاء الجدد",
+      "text": "حملة من Starlink نفسها، في مناطق مختارة فقط، وقد لا تتوفر في بلدك. تحقق من توفرها وشروطها على موقعها.",
+      "action": "شاهد الحملة"
+    }
+  },
+  "source": "Home de starlink.com por país, lida no navegador em 26/11/2026: BR, US, GB, ES, MX, FR, DE e IT com \"50% de desconto no serviço Residencial, em áreas selecionadas, oferta termina em 30 de novembro\"; JP e KR com 50% no plano e no kit, em áreas selecionadas, até 30/11; PT com desconto no Residencial em áreas selecionadas, sem %, até 30/11; OM, QA e MY sem a oferta na home; HK e SA sem página. O Bruno viu \"50% na assinatura para novos clientes\" em 26/11",
+  "verifiedAt": "2026-11-26"
+}
