@@ -32,7 +32,7 @@
     ],
     "skipIf": [
       "Lactose zero no rótulo é condição: nenhuma linha da BOLD nem a Mukebar declara isso. A referência é a Soft Bar da Bendu, com 12 g.",
-      "Você tem doença celíaca: todas as linhas da BOLD, a Mukebar, o Chocowheyfer e o Veggie Wafer declaram glúten, e o Crispy Wafer da Bendu também. A Soft Bar da Bendu declara zero glúten."
+      "Você tem doença celíaca: as barras e os wafers da BOLD desta comparação, a Mukebar, o Chocowheyfer e o Veggie Wafer declaram glúten, e o Crispy Wafer da Bendu também. A Soft Bar da Bendu declara zero glúten."
     ]
   },
   "pros": [],
@@ -239,8 +239,8 @@
         "rows": [
           [
             "BOLD (21 g, 14 g, Crunch, Wafer e Tube)",
-            "Contém lactose e leite em todas as linhas",
-            "Contém glúten em todas as linhas",
+            "Contém lactose e leite nas linhas desta comparação",
+            "Contém glúten nas linhas desta comparação",
             "Maltitol e sucralose; no 21 g e no 14 g, também xarope de sorbitol"
           ],
           [

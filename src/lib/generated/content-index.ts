@@ -28832,7 +28832,7 @@ const reviewsChunk0: unknown[] = [
       ],
       "skipIf": [
         "Lactose zero no rótulo é condição: nenhuma linha da BOLD nem a Mukebar declara isso. A referência é a Soft Bar da Bendu, com 12 g.",
-        "Você tem doença celíaca: todas as linhas da BOLD, a Mukebar, o Chocowheyfer e o Veggie Wafer declaram glúten, e o Crispy Wafer da Bendu também. A Soft Bar da Bendu declara zero glúten."
+        "Você tem doença celíaca: as barras e os wafers da BOLD desta comparação, a Mukebar, o Chocowheyfer e o Veggie Wafer declaram glúten, e o Crispy Wafer da Bendu também. A Soft Bar da Bendu declara zero glúten."
       ]
     },
     "pros": [],
@@ -29039,8 +29039,8 @@ const reviewsChunk0: unknown[] = [
           "rows": [
             [
               "BOLD (21 g, 14 g, Crunch, Wafer e Tube)",
-              "Contém lactose e leite em todas as linhas",
-              "Contém glúten em todas as linhas",
+              "Contém lactose e leite nas linhas desta comparação",
+              "Contém glúten nas linhas desta comparação",
               "Maltitol e sucralose; no 21 g e no 14 g, também xarope de sorbitol"
             ],
             [
@@ -29387,7 +29387,7 @@ const reviewsChunk0: unknown[] = [
         "paragraphs": [
           "O FPS sozinho não basta: o FPUVA diz quanto o protetor passa do mínimo exigido no rótulo. O FPS mede a proteção contra a radiação que causa queimadura. O FPUVA mede a proteção contra a UVA. Pela regra brasileira de rotulagem de protetores solares, o FPUVA precisa ser de pelo menos um terço do FPS declarado. Um protetor FPS 60 precisa ter FPUVA de pelo menos 20, e um FPS 90, de pelo menos 30.",
           "Isso vale para as três marcas. O que muda é o que cada uma publica: a Pink Cheeks põe o FPUVA no nome do Pink Stick, do Clear Stick e do Fluido Facial, a Creamy publica o PPD 25 na loção e a Océane não publica número no Daily Sunscreen. A regra também exige o comprimento de onda crítico mínimo de 370 nm, que as fichas não detalham.",
-          "Sem o número, o que se sabe do Daily Sunscreen é o piso da regra: pelo menos um terço do FPS 70."
+          "A ficha do Daily Sunscreen não informa o FPUVA. A regra exige pelo menos um terço do FPS declarado."
         ],
         "comparisonTable": {
           "caption": "FPS e FPUVA que cada ficha publica.",
