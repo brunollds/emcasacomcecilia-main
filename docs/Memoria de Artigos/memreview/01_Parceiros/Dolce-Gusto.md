@@ -114,3 +114,27 @@ Carrinho sem login, sem finalizar. Assinatura Geração 1, mensal, com caixas de
 - 6 caixas, subtotal R$ 101,04: "Você usou o código de cupom CECI", linha "Você ganhou 10% OFF!", desconto de R$ 10,10, total de R$ 90,94.
 
 Leitura: o CECI de 10% soma com a assinatura, e o mínimo de R$ 100 conta sobre o subtotal já com o desconto do plano. Em 04/10, com o código em 5%, o checkout aceitou um pedido que ficava em R$ 89,70 depois dos 25%; isso mudou. Artigos atualizados: assinatura-dolce-gusto-vale-a-pena e assinatura-dolce-gusto-como-funciona. Sem print no artigo.
+
+## Leitura de 27/11/2026 (Chrome, sem login)
+
+Feita para a DN4 ([[cafeteira-para-airbnb-pousada]]). Preços de campanha de Black Friday.
+
+- Caixa de 10 cápsulas de café: R$ 25,90 riscado e R$ 15,90 no dia (duas a R$ 28,90 e R$ 16,90). Em 05/11 a caixa de lista era R$ 24,90.
+- Máquinas, riscado e do dia: Mini Me 2.0 R$ 599,90 e R$ 349,90; Genio S Basic R$ 679,90 e R$ 389,90; Genio S Plus R$ 779,90 e R$ 489,90; Genio S Touch R$ 979,90 e R$ 599,90.
+- Combos para negócios: os mesmos preços de 05/11, com os 10% extra para CNPJ.
+- Formulário de propostas para negócios: pede empresa e CNPJ; tem a opção "Hotel, pousada, hospedagem ou Airbnb".
+
+### Perguntas reais: café para hóspedes (autocompletar, 27/11)
+
+"cafeteira para airbnb", "melhor cafeteira para airbnb", "cafeteira airbnb", "maquina de cafe para airbnb", "café para airbnb", "capsulas para airbnb", "kit cafe airbnb", "o que deixar no airbnb", "cafeteira para pousada", "cafeteira para hotel", "cafeteira para quarto de hotel", "dolce gusto hotel". Sem sugestão: "dolce gusto airbnb", "dolce gusto para pousada".
+
+### Garantia: uso doméstico (manual da Mini Me, lido em 27/11/2026)
+
+`/media/Manual_Mine_Me.pdf`, precauções de segurança, item 3: "Este aparelho destina-se a ser usado exclusivamente em ambientes domésticos. O aparelho não foi concebido, nem deve ser utilizado, nas aplicações seguintes (a garantia não cobre tais aplicações): cozinhas coletivas em estabelecimentos comerciais, escritórios e outros locais de trabalho; residências rurais; utilização direta por clientes em hotéis, motéis e outros estabelecimentos hoteleiros". Item 4: em caso de utilização indevida, o fabricante "cancelará a respectiva garantia". O manual das Genio S não foi lido. Atinge os artigos de escritório, CNPJ, consultório, salão e hospedagem: nenhum pode dizer que o site não fala de uso comercial.
+
+### Kits e combos de Black Friday (27/11/2026)
+
+- "Leve 10 Pague 6": 100 cápsulas por R$ 155,40 (Espresso, Mochaccino Canela, Au Lait, Caffè Matinal, Espresso Intenso). A página do "Leve 10 Pague 5" dá "Página não encontrada".
+- "Máquina grátis + 55 caixas": 550 cápsulas e uma Genio S Basic branca por R$ 874,50.
+- Assinatura, termos, item 3.4: 25% e frete grátis em todo pedido de assinatura, com mínimo de 3 caixas.
+- CECI no kit e no combo de 55 caixas: não testado.
