@@ -183,7 +183,7 @@ export const SNIPPET_PROBLEMS = {
   noPercent: 'sem o % do desconto ("10%" ou "até 10%")',
   tooLong: `mais de ${MAX_SNIPPET_LENGTH} caracteres`,
   date: 'data com dia (o ano da Black Friday pode ficar; o dia e o mês, não)',
-  price: 'preço em R$ (na Dolce Gusto, só "a partir de R$ 100")',
+  price: 'preço em R$: só o da promoção em artigo de campanha (bodyDatesReason "campanha") ou o valor de regra da loja ("acima de R$ 99", "mínimo de R$ 100")',
   opensWithCoupon: 'abre com "Cupom <loja>": alterne a abertura ("O cupom X dá…", "Com o X…")',
   rewardCalledCoupon: 'CECILIA010 é código de recompensa, não "cupom CECILIA010"',
   sheinPercent: 'SHEIN sem "%": o código se pesquisa no app',
@@ -201,6 +201,7 @@ interface SnippetReview {
   coupon?: string;
   affiliate?: ReviewAffiliate;
   metaDescription?: string;
+  bodyDatesReason?: BodyDatesReason;
 }
 
 /** Artigo que a regra cobre: em português, de uma loja, com código e fora das exceções. O de várias lojas fica fora:
@@ -211,6 +212,10 @@ export function isSnippetChecked(review: SnippetReview): boolean {
   if (getReviewStoreSlugs(review).some((slug) => Object.hasOwn(SNIPPET_EXCEPTION_STORES, slug))) return false;
   return !Object.hasOwn(SNIPPET_EXCEPTION_SLUGS, review.slug);
 }
+
+// Valor de regra da loja (pedido mínimo, frete grátis): muda pouco e pode ir no snippet. Preço de produto, não.
+const STORE_RULE_VALUE =
+  /(?:acima de|m[ií]nimo de|(?:compras?|pedidos?|frete gr[aá]tis) a partir de)\s+R\$\s?\d[\d.]*(?:,\d{2})?/gi;
 
 const MONTH_YEAR = new RegExp(String.raw`^(?:${MONTHS}) de \d{4}$`, 'i');
 
@@ -234,8 +239,9 @@ export function checkSnippet(review: SnippetReview): SnippetProblem[] {
   if ([...text].length > MAX_SNIPPET_LENGTH) problems.push('tooLong');
   // "novembro de 2026" é o mês da validade, não data; "05/11" e "5 de novembro" são.
   if (findDates(text).some((found) => !MONTH_YEAR.test(found))) problems.push('date');
-  const priced = store === 'dolce-gusto' ? text.replace(/a partir de R\$\s?100\b/gi, '') : text;
-  if (priced.includes('R$')) problems.push('price');
+  // Em artigo de campanha o preço da promoção é a notícia e tem prazo; fora dela, só o valor de regra da loja.
+  const priced = (store === 'dolce-gusto' ? text.replace(/a partir de R\$\s?100\b/gi, '') : text).replace(STORE_RULE_VALUE, '');
+  if (review.bodyDatesReason !== 'campanha' && priced.includes('R$')) problems.push('price');
   if (/^cupom\s/i.test(text)) problems.push('opensWithCoupon');
   if (store === 'yesstyle' && /cupom\s+CECILIA010/i.test(text)) problems.push('rewardCalledCoupon');
   return problems;

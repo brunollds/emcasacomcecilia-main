@@ -90,7 +90,7 @@ Guia e comparativo chegam à redação com a estrutura decidida. O briefing diz:
 - O código exato da loja e o desconto (`N%` ou "até N%") vão na primeira frase, e o código termina até o caractere 100: o Google corta perto de 120 no celular.
 - No máximo 155 caracteres.
 - Sem data. O ano da Black Friday ("Black Friday Skelt 2026") pode ficar; o dia e o mês, não.
-- Sem R$. A única exceção é a Dolce Gusto: "a partir de R$ 100".
+- Sem R$ de preço de produto: o preço envelhece no resultado do Google antes de o artigo ser relido. Duas exceções: o preço da promoção em artigo de campanha (`bodyDatesReason: "campanha"`, como "kit a R$ 49") e o valor de regra da loja, que muda pouco ("acima de R$ 99", "pedido mínimo de R$ 100", "frete grátis a partir de R$ 199"; na Dolce Gusto, "a partir de R$ 100").
 - Não abrir com "Cupom <loja>". Alternar as aberturas: "O cupom X dá 10% OFF…", "Com o X, 10% OFF…" ou a pergunta do título seguida do código.
 - Por loja: Probiótica e Max Titanium, "até 10%"; YesStyle, "até 5%", e o CECILIA010 é código de recompensa, nunca "cupom", sem "outros cupons" na mesma frase; SHEIN, o 4CW5Y dá desconto, sim (pelo link ou pesquisando o código no app ou no site, abre uma seleção com promoções e descontos; quanto e em quais peças, quem decide é a SHEIN), sem % e valor, sem "só no app" e nunca "SHEIN Brasil"; Insider, nada de promessa em lançamento; Nutre, nunca fórmula infantil de 0 a 12 meses; MAUAD, só o código, sem explicar o nome.
 - Ficam fora da regra: a Magalu inteira, o artigo de domínio da Hostinger (o SONAR20 não vale em domínio) e os artigos sem código que valha no produto (ex.: `le-creuset-original-como-saber`, `shein-reclame-aqui-nota-reputacao`).

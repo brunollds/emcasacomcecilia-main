@@ -1106,7 +1106,14 @@ for (const review of reviews) {
   expectSnippet('sem o %', { ...base, metaDescription: 'Com o LOJA10, desconto em todo o site.' }, ['noPercent']);
   expectSnippet('longo', { ...base, metaDescription: `Com o LOJA10, até 10% OFF.${' Veja como aplicar.'.repeat(8)}` }, ['tooLong']);
   expectSnippet('data', { ...base, metaDescription: 'Com o LOJA10, 10% OFF a partir de 05/11.' }, ['date']);
-  expectSnippet('preço', { ...base, metaDescription: 'Com o LOJA10, 10% OFF acima de R$ 99.' }, ['price']);
+  expectSnippet('preço', { ...base, metaDescription: 'Com o LOJA10, 10% OFF e o kit sai por R$ 99.' }, ['price']);
+  expectSnippet(
+    'preço da promoção em artigo de campanha',
+    { ...base, bodyDatesReason: 'campanha', metaDescription: 'Com o LOJA10, 10% OFF e o kit sai por R$ 99.' },
+    []
+  );
+  expectSnippet('valor de regra da loja', { ...base, metaDescription: 'Com o LOJA10, 10% OFF acima de R$ 99 e frete grátis a partir de R$ 199,90.' }, []);
+  expectSnippet('preço ao lado do valor de regra', { ...base, metaDescription: 'Com o LOJA10, 10% OFF acima de R$ 99: o kit sai por R$ 120.' }, ['price']);
   expectSnippet('R$ 100 da Dolce Gusto', { ...base, affiliate: 'dolce-gusto', metaDescription: 'Com o LOJA10, 10% OFF a partir de R$ 100.' }, []);
   expectSnippet('abre com Cupom', { ...base, metaDescription: 'Cupom Loja LOJA10: 10% OFF em todo o site.' }, ['opensWithCoupon']);
   expectSnippet(
