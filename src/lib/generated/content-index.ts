@@ -288527,6 +288527,9 @@ const reviewsChunk2: unknown[] = [
     "editorialNote": "Não usamos o produto: o texto segue a página da loja. Somos parceiros da Denavita e podemos receber comissão pelo link e pelo cupom.",
     "relatedArticles": [
       {
+        "slug": "laranja-moro-denavita-ou-desincha"
+      },
+      {
         "slug": "denavita-e-boa"
       },
       {
@@ -288785,6 +288788,12 @@ const reviewsChunk2: unknown[] = [
     "relatedArticles": [
       {
         "slug": "laranja-moro-denavita"
+      },
+      {
+        "slug": "laranja-moro-denavita-ou-desincha"
+      },
+      {
+        "slug": "trio-magnesio-ou-bio-magnesio-denavita"
       },
       {
         "slug": "denavita-tons"
@@ -335304,6 +335313,12 @@ const reviewsChunk2: unknown[] = [
         "slug": "denavita-e-boa"
       },
       {
+        "slug": "trio-magnesio-ou-bio-magnesio-denavita"
+      },
+      {
+        "slug": "laranja-moro-denavita-ou-desincha"
+      },
+      {
         "slug": "rituaria-e-boa"
       },
       {
@@ -357793,6 +357808,576 @@ const reviewsChunk2: unknown[] = [
         ]
       }
     ]
+  },
+  {
+    "id": 1491,
+    "slug": "laranja-moro-denavita-ou-desincha",
+    "locale": "pt",
+    "category": "guias-praticos-utilidade",
+    "reviewKind": "guia",
+    "author": {
+      "name": "Cecília Mauad",
+      "slug": "cecilia-mauad",
+      "role": "Em Casa com Cecília",
+      "initials": "CM",
+      "url": "/sobre"
+    },
+    "publishedAt": "27 de novembro de 2026",
+    "publishedAtISO": "2026-11-27",
+    "draft": false,
+    "isNew": true,
+    "imageFit": "contain",
+    "imageAspect": "landscape",
+    "pros": [],
+    "cons": [],
+    "coupon": "EMCASA",
+    "affiliate": "denavita",
+    "type": "Comparativo de Suplemento",
+    "title": "Laranja Moro Denavita ou Desinchá Moro: cápsula com Morosil® contra chá em sachê e Moro HD",
+    "seoTitle": "Laranja Moro Denavita ou Desinchá: cápsula ou sachê?",
+    "description": "Compare o Laranja Moro da Denavita em cápsula vegana com Morosil® ao chá Desinchá Moro em sachê e à cápsula Moro HD pela dose declarada, cafeína e preço por dia.",
+    "metaDescription": "O código EMCASA dá 10% OFF na Denavita. Compare o Laranja Moro com Morosil® ao Desinchá Moro em sachê e ao Moro HD pela dose e pelo preço por dia.",
+    "image": "/images/reviews/denavita/laranja-moro-denavita-ou-desincha-hero.webp",
+    "imageAlt": "Pote de Laranja Moro Morosil da Denavita centralizado sobre rodelas de laranja de polpa vermelha em foto oficial da marca. No painel verde à esquerda, o logo Denavita, a chamada «Laranja Moro: Denavita ou Desinchá?» e o código EMCASA.",
+    "cta": {
+      "text": "Se a fórmula em cápsula vegana com Morosil® faz sentido para a sua rotina, abra o site oficial pelo botão e digite o código EMCASA na Denavita no campo “Tem um cupom?” do checkout.",
+      "label": "Ir para a Denavita",
+      "url": "https://denavita.gogroup.com.br/emcasacomcecilia",
+      "sponsored": true
+    },
+    "editorialNote": "Feito com as páginas públicas das marcas, sem uso nem degustação. Parceiros só da Denavita, com comissão possível.",
+    "relatedArticles": [
+      {
+        "slug": "laranja-moro-denavita"
+      },
+      {
+        "slug": "denavita-e-boa"
+      },
+      {
+        "slug": "denavita-ou-rituaria"
+      },
+      {
+        "slug": "cupom-denavita-como-usar"
+      },
+      {
+        "slug": "denavita-e-confiavel"
+      }
+    ],
+    "decision": {
+      "takeIf": [
+        "Você prefere 1 cápsula vegana ao dia com 400 mg de Morosil® declarado na ficha, café verde e picolinato de cromo pagando menos por dia que no Moro HD.",
+        "Você quer usar o código EMCASA na Denavita no pote avulso ou baixar o valor unitário nos combos Compre 2 Leve 3 e Compre 3 Leve 5.",
+        "No sachê da Desinchá, você procura uma infusão de ervas sem café verde, sabendo que cada unidade declara 200 mg de extrato de laranja moro."
+      ],
+      "skipIf": [
+        "Você precisa saber os miligramas exatos de cafeína antes de abrir o pote: a página do Moro HD informa 75 mg nas 2 cápsulas, enquanto a ficha da Denavita não publica esse número.",
+        "Você segue dieta vegana e cogitava a cápsula Moro HD da Desinchá, cuja lista de ingredientes declara cápsula de gelatina.",
+        "Você busca promessa de perda de peso ou prazo para efeito: nenhuma das fichas sustenta resultado clínico, e a orientação individual cabe a médico ou nutricionista."
+      ]
+    },
+    "contentSections": [
+      {
+        "heading": "Resposta rápida",
+        "paragraphs": [
+          "Entre cápsulas, o Laranja Moro da Denavita custa menos por dia em 1 cápsula vegana com Morosil® que o Moro HD da Desinchá, de 2 cápsulas de gelatina e 75 mg de cafeína. O chá Desinchá Moro traz 200 mg de extrato por sachê sem café verde. Compare abaixo doses e kits com o EMCASA na Denavita."
+        ]
+      },
+      {
+        "heading": "O que cada página declara: Denavita × Desinchá em sachê × Moro HD",
+        "paragraphs": [
+          "Quem pesquisa Laranja Moro entre as duas marcas costuma cruzar formatos diferentes: na Denavita, o item é o suplemento em cápsulas [Laranja Moro Morosil®, Picolinato de Cromo e Café Verde](https://www.denavita.com.br/products/laranja-moro-cafe-verde-e-cromo-30-caps); na Desinchá, o catálogo divide a linha entre o chá para infusão (Desinchá Laranja Moro e Hibisco, caixa com 30 sachês) e o suplemento em cápsulas Laranja Moro HD, Café Verde e Cromo (60 cápsulas).",
+          "A loja informa: os dados abaixo vêm apenas do texto e das listas de ingredientes publicados nas páginas oficiais de cada produto, sem degustação do chá nem teste de uso."
+        ],
+        "comparisonTable": {
+          "caption": "Dados declarados nas páginas oficiais da Denavita e da Desinchá. A ausência de menção a marca registrada de matéria-prima na página pública não comprova qual fornecedor foi usado.",
+          "headers": [
+            "Critério na página",
+            "Denavita Laranja Moro (cápsula)",
+            "Desinchá Laranja Moro e Hibisco (sachê)",
+            "Desinchá Moro HD (cápsula)"
+          ],
+          "rows": [
+            [
+              "Apresentação",
+              "Pote com 30 cápsulas de 700 mg",
+              "Caixa com 30 sachês para infusão",
+              "Frasco com 60 cápsulas"
+            ],
+            [
+              "Porção diária indicada",
+              "1 cápsula ao dia (após a refeição principal)",
+              "1 a 2 sachês ao dia em água quente",
+              "2 cápsulas ao dia"
+            ],
+            [
+              "Rendimento por embalagem",
+              "30 dias",
+              "30 dias (1 sachê/dia) ou 15 dias (2 sachês/dia)",
+              "30 dias"
+            ],
+            [
+              "Extrato de laranja moro",
+              "400 mg por cápsula (3,6 mg de antocianinas)",
+              "200 mg por sachê (dois sachês somam 400 mg de extrato)",
+              "400 mg na porção de 2 cápsulas"
+            ],
+            [
+              "Menção a Morosil® na página",
+              "Declara Morosil® no título, no rótulo e na ficha",
+              "A página não cita Morosil®",
+              "A lista de ingredientes não cita Morosil® (nome aparece só em pergunta do FAQ)"
+            ],
+            [
+              "Outros componentes ativos",
+              "200 mg de extrato de café verde (100 mg de ácido clorogênico) e 35 µg de picolinato de cromo",
+              "Hibisco, carqueja, canela, cúrcuma e pimenta (sem café verde nem cromo)",
+              "200 mg de café verde em pó (com ácido clorogênico) e picolinato de cromo"
+            ],
+            [
+              "Cafeína declarada na página",
+              "Contém café verde, mas não informa os mg de cafeína",
+              "Não declara café verde nem cafeína nos destaques",
+              "Declara 75 mg de cafeína na porção"
+            ],
+            [
+              "Cápsula / perfil vegano",
+              "Cápsula vegetal (HPMC, vegano); sem glúten",
+              "Infusão vegetal declarada vegana, sem açúcar, glúten ou lactose",
+              "Cápsula de gelatina (não vegano); sem glúten"
+            ]
+          ]
+        }
+      },
+      {
+        "heading": "Cápsula com 400 mg de Morosil® contra o chá em sachê de 200 mg",
+        "paragraphs": [
+          "Entre o pote da Denavita e a caixa de sachês da Desinchá, a primeira diferença prática está na rotina e no extrato declarado por unidade. O sachê entrega uma bebida aromática com hibisco, carqueja, canela, cúrcuma e pimenta, sem extrato de café verde, e informa 200 mg de extrato de laranja moro por sachê.",
+          "Isso muda a duração da embalagem conforme o preparo. Tomando um sachê por dia pela bebida em si, os 30 sachês rendem 30 dias com 200 mg diários de extrato. Já usando dois sachês ao dia — que somam 400 mg de extrato, segundo a Desinchá —, a caixa acaba em 15 dias e exige duas unidades para fechar o mês.",
+          "Mesmo com dois sachês, as especificações públicas não são idênticas: na Denavita, o rótulo frontal e a descrição identificam o Morosil® (extrato padronizado da italiana Bionap) e declaram 3,6 mg de antocianinas nos 400 mg — relação detalhada no guia exclusivo do [Laranja Moro Denavita](/reviews/laranja-moro-denavita). A página do chá da Desinchá não cita Morosil® nem informa teor de antocianinas."
+        ],
+        "images": [
+          {
+            "src": "/images/reviews/denavita/laranja-moro-denavita-destaque.webp",
+            "alt": "Pote de Laranja Moro Morosil da Denavita inclinado ao lado de meia laranja de polpa vermelha e duas cápsulas vegetais sobre fundo laranja em foto oficial da loja",
+            "caption": "Na Denavita, os 400 mg de Morosil® com café verde e cromo vêm em uma cápsula vegetal ao dia. Foto: Denavita.",
+            "objectFit": "contain",
+            "aspectRatio": 1.2618,
+            "href": "https://denavita.gogroup.com.br/emcasacomcecilia"
+          }
+        ]
+      },
+      {
+        "heading": "Cápsula contra cápsula: Denavita × Desinchá Moro HD",
+        "paragraphs": [
+          "Quando a comparação direta é entre suplementos em cápsula, as duas fórmulas se aproximam nos três ingredientes principais: tanto o Laranja Moro da Denavita quanto o Moro HD da Desinchá declaram 400 mg de extrato de laranja moro, 200 mg de café verde e picolinato de cromo na porção diária.",
+          "Três diferenças objetivas nas fichas separam os dois frascos:"
+        ],
+        "bullets": [
+          "**Número de cápsulas e revestimento.** A Denavita concentra a porção inteira em 1 cápsula vegetal (HPMC, vegana) por dia no pote de 30 unidades. O Moro HD divide a porção em 2 cápsulas ao dia no frasco de 60 unidades e declara gelatina na composição da cápsula, além de amido e dióxido de silício.",
+          "**Transparência sobre cafeína.** A página do Moro HD destaca explicitamente 75 mg de cafeína na porção. A ficha da Denavita informa 200 mg de extrato de café verde e 100 mg de ácido clorogênico na tabela nutricional, mas não publica quantos miligramas de cafeína restam na cápsula.",
+          "**Identificação da matéria-prima.** A Denavita identifica Morosil® e o teor de antocianinas no frasco e na ficha; no Moro HD, a lista de ingredientes registra “extrato de laranja moro” sem citar a marca registrada (o termo Morosil aparece apenas como pergunta no bloco de dúvidas da página)."
+        ]
+      },
+      {
+        "heading": "Quanto custa por dia: tabela cheia, oferta e código EMCASA na Denavita",
+        "paragraphs": [
+          "Conta nossa: dividimos o preço de tabela (“de”) e o valor à vista exibido em cada página pelos dias de duração conforme a porção declarada. Para a Denavita, a última coluna simula os 10% OFF regulares do código EMCASA na Denavita sobre o preço da página — na campanha de Black Friday, o mesmo código chegou a aplicar 15% OFF em carrinhos testados, então confira sempre o percentual ativo na página do [cupom Denavita](/cupons/denavita) e a linha de desconto no resumo de cada variante antes de pagar. Não temos parceria nem cupom para a Desinchá."
+        ],
+        "comparisonTable": {
+          "caption": "Preços de tabela e valores à vista nas lojas oficiais em 27/11, antes do frete. Na Denavita, a coluna final é estimativa de 10% sobre o preço da página (confira o abatimento no checkout).",
+          "headers": [
+            "Produto e opção",
+            "Duração",
+            "Preço de tabela",
+            "À vista na página",
+            "Por dia (tabela → página)",
+            "Estimativa com EMCASA (10%)"
+          ],
+          "rows": [
+            [
+              "[Denavita Laranja Moro, 1 pote](https://www.denavita.com.br/products/laranja-moro-cafe-verde-e-cromo-30-caps)",
+              "30 dias (1 cáps./dia)",
+              "R$ 129,90",
+              "R$ 89,90",
+              "R$ 4,33 → R$ 3,00",
+              "R$ 2,70/dia (R$ 80,91)"
+            ],
+            [
+              "[Denavita Laranja Moro, Compre 2 Leve 3](https://www.denavita.com.br/products/laranja-moro-cafe-verde-e-cromo-30-caps)",
+              "90 dias (3 potes)",
+              "R$ 311,40",
+              "R$ 179,80",
+              "R$ 3,46 → R$ 2,00",
+              "R$ 1,80/dia (R$ 161,82)"
+            ],
+            [
+              "[Denavita Laranja Moro, Compre 3 Leve 5](https://www.denavita.com.br/products/laranja-moro-cafe-verde-e-cromo-30-caps)",
+              "150 dias (5 potes)",
+              "R$ 519,00",
+              "R$ 269,70",
+              "R$ 3,46 → R$ 1,80",
+              "R$ 1,62/dia (R$ 242,73)"
+            ],
+            [
+              "Desinchá sachê, 1 caixa (1 sachê/dia · 200 mg)",
+              "30 dias",
+              "R$ 69,90",
+              "R$ 56,20",
+              "R$ 2,33 → R$ 1,87",
+              "Sem código nosso"
+            ],
+            [
+              "Desinchá sachê, 1 caixa (2 sachês/dia · 400 mg)",
+              "15 dias",
+              "R$ 69,90",
+              "R$ 56,20",
+              "R$ 4,66 → R$ 3,75",
+              "Sem código nosso"
+            ],
+            [
+              "Desinchá sachê, Compre 1 Leve 2 (2 sachês/dia · 400 mg)",
+              "30 dias (60 sachês)",
+              "R$ 139,80",
+              "R$ 69,90",
+              "R$ 4,66 → R$ 2,33",
+              "Sem código nosso"
+            ],
+            [
+              "Desinchá Moro HD, 1 frasco (60 cápsulas)",
+              "30 dias (2 cáps./dia)",
+              "R$ 139,90",
+              "R$ 114,20",
+              "R$ 4,66 → R$ 3,81",
+              "Sem código nosso"
+            ],
+            [
+              "Desinchá Moro HD, Compre 2 Leve 3 (180 cápsulas)",
+              "90 dias (3 frascos)",
+              "R$ 419,70",
+              "R$ 279,80",
+              "R$ 4,66 → R$ 3,11",
+              "Sem código nosso"
+            ]
+          ]
+        },
+        "postParagraphs": [
+          "O resultado muda pelo formato e pelo tamanho do pedido. Entre cápsulas, a Denavita sai mais barata por dia já no pote avulso (R$ 2,70 contra R$ 3,81 do Moro HD) e amplia a diferença nos combos de 3 e 5 potes (R$ 1,80 e R$ 1,62 contra R$ 3,11), além de sinalizar frete grátis no Compre 3 Leve 5 enquanto a Desinchá exige acima de R$ 299.",
+          "Contra o chá em sachê, 1 unidade diária da Desinchá (200 mg de extrato, a R$ 1,87 por dia no avulso) custa menos que 1 pote isolado da Denavita, mas fica acima dos combos de 3 e 5 potes da parceira. Com 2 sachês ao dia (que somam 400 mg de extrato, segundo a Desinchá), a caixa avulsa sobe para R$ 3,75 por dia e só baixa para R$ 2,33 no combo promocional Compre 1 Leve 2. Se você também cogita juntar o Laranja Moro com NAC e Trio Magnésio, veja a conta do kit Trio de Favoritos em [Denavita é boa?](/reviews/denavita-e-boa)."
+        ]
+      },
+      {
+        "heading": "Laranja Moro Denavita ou Desinchá: qual escolher por formato e pedido",
+        "emphasis": "Na disputa direta entre cápsulas, o Laranja Moro da Denavita vence no preço por dia tanto no pote avulso quanto nos kits, em cápsula única vegana com Morosil® declarado; o Moro HD só entra para quem exige os 75 mg de cafeína explícitos na ficha, e o sachê atende quem quer a infusão de ervas sem café verde.",
+        "paragraphs": [
+          "Resumo objetivo para cada rotina:"
+        ],
+        "bullets": [
+          "**Quer suplemento em cápsula vegana pagando menos por dia:** escolha o Laranja Moro da Denavita — no pote avulso para testar 30 dias ou no Compre 2 Leve 3 / Compre 3 Leve 5 para baixar a diária, conferindo a validade de cada frasco.",
+          "**Quer bebida de ervas sem café verde:** escolha o Desinchá Laranja Moro e Hibisco em sachê, sabendo que 1 sachê declara 200 mg de extrato e que 2 sachês reduzem a caixa para 15 dias.",
+          "**Precisa da quantidade exata de cafeína publicada na página:** o Moro HD da Desinchá declara 75 mg nas 2 cápsulas diárias (em cápsula de gelatina), enquanto na Denavita esse dado exige consulta ao rótulo ou ao SAC."
+        ],
+        "postParagraphs": [
+          "Nenhuma das páginas comprova emagrecimento ou prazo de resultado: gestantes, lactantes, sensíveis à cafeína e pessoas em uso de medicamentos devem consultar médico ou nutricionista antes do consumo.",
+          "No site oficial da Denavita, clique em Finalizar compra e digite o código **EMCASA** na Denavita no campo “Tem um cupom?” do checkout seguro. Veja a tela em [como usar o cupom Denavita](/reviews/cupom-denavita-como-usar) e os dados de CNPJ e trocas em [Denavita é confiável?](/reviews/denavita-e-confiavel)."
+        ],
+        "checklist": {
+          "title": "Antes de fechar o pedido",
+          "items": [
+            "Confirme o formato escolhido: 1 cápsula vegana com Morosil® (Denavita), chá em sachê de 200 mg ou 2 cápsulas de gelatina com 75 mg de cafeína (Moro HD).",
+            "Nos combos de múltiplos potes, confira a validade impressa e o consumo preferencial em 30 dias após abrir o frasco.",
+            "Aplique o código EMCASA na Denavita no checkout e confira a base de preço e a linha de desconto com o frete do seu CEP."
+          ]
+        },
+        "links": [
+          {
+            "label": "Ir para a Denavita com o código EMCASA",
+            "href": "https://denavita.gogroup.com.br/emcasacomcecilia",
+            "sponsored": true
+          },
+          {
+            "label": "Ver regras do cupom Denavita",
+            "href": "/cupons/denavita"
+          }
+        ]
+      },
+      {
+        "heading": "Perguntas frequentes",
+        "bullets": [
+          "Qual a diferença entre o Laranja Moro da Denavita e o chá Desinchá Moro? O suplemento da Denavita vem em cápsula vegetal de dose única diária com 400 mg de Morosil® declarado (3,6 mg de antocianinas), 200 mg de extrato de café verde e 35 µg de cromo. Já o Desinchá Laranja Moro e Hibisco é um chá em sachê com hibisco e especiarias que declara 200 mg de extrato de laranja moro por sachê, sem café verde e sem citar Morosil® na página.",
+          "O Desinchá Moro HD em cápsulas é igual ao Laranja Moro da Denavita? Os dois entregam 400 mg de extrato de laranja moro, 200 mg de café verde e picolinato de cromo na porção diária, mas mudam em três pontos: a Denavita usa 1 cápsula vegana por dia e declara Morosil®, enquanto o Moro HD pede 2 cápsulas de gelatina ao dia, não cita Morosil® nos ingredientes e informa 75 mg de cafeína na porção.",
+          "Quantos dias dura a caixa do Desinchá Laranja Moro em sachê? A caixa vem com 30 sachês e a marca indica 1 a 2 sachês por dia: tomando 1 sachê (200 mg de extrato), rende 30 dias; tomando 2 sachês (que somam 400 mg de extrato, segundo a Desinchá), dura 15 dias.",
+          "Qual é o cupom de desconto da Denavita? É o código EMCASA na Denavita, com 10% OFF regulares no site oficial para clientes novos e antigos, inclusive no Pix. Basta digitar no campo “Tem um cupom?” do checkout e conferir o valor na página do [cupom Denavita](/cupons/denavita)."
+        ]
+      }
+    ],
+    "updatedAt": "2026-11-27"
+  },
+  {
+    "id": 1492,
+    "slug": "trio-magnesio-ou-bio-magnesio-denavita",
+    "locale": "pt",
+    "category": "guias-praticos-utilidade",
+    "reviewKind": "guia",
+    "author": {
+      "name": "Cecília Mauad",
+      "slug": "cecilia-mauad",
+      "role": "Em Casa com Cecília",
+      "initials": "CM",
+      "url": "/sobre"
+    },
+    "publishedAt": "27 de novembro de 2026",
+    "publishedAtISO": "2026-11-27",
+    "draft": false,
+    "isNew": true,
+    "imageFit": "contain",
+    "imageAspect": "landscape",
+    "pros": [],
+    "cons": [],
+    "coupon": "EMCASA",
+    "affiliate": "denavita",
+    "type": "Comparativo de Suplemento",
+    "title": "Trio Magnésio ou Bio Magnésio Denavita: diferença no rótulo, cápsula vegana e a conta dos kits",
+    "seoTitle": "Trio Magnésio ou Bio Magnésio Denavita: qual escolher?",
+    "description": "Compare o Trio Magnésio (210 mg em 2 cápsulas) e o Bio Magnésio (270 mg em 1 cápsula vegana) da Denavita pelos sais, alergênicos e preço dos potes e combos.",
+    "metaDescription": "O código EMCASA dá 10% OFF na Denavita. Compare o Trio Magnésio e o Bio Magnésio por sais, miligramas, cápsula vegana, alergênicos e preço por dia.",
+    "image": "/images/reviews/denavita/trio-magnesio-ou-bio-magnesio-denavita-hero.webp",
+    "imageAlt": "Pote de Trio Magnésio com duas cápsulas brancas à frente sobre superfície clara e pote de Bio Magnésio Quelato e Bisglicinato apoiado em pedestal branco, em fotos oficiais da Denavita. No painel verde à esquerda, o logo Denavita, a chamada «Magnésio: Trio ou Bio?» e o código EMCASA.",
+    "cta": {
+      "text": "Depois de escolher entre o Trio Magnésio e o Bio Magnésio pelo rótulo, abra o site oficial pelo botão e aplique o código EMCASA na Denavita no campo “Tem um cupom?” do checkout.",
+      "label": "Ir para a Denavita",
+      "url": "https://denavita.gogroup.com.br/emcasacomcecilia",
+      "sponsored": true
+    },
+    "editorialNote": "Feito com as páginas públicas e os rótulos frontais da Denavita, sem uso próprio. Comissão possível pelo link e código.",
+    "relatedArticles": [
+      {
+        "slug": "denavita-e-boa"
+      },
+      {
+        "slug": "denavita-ou-rituaria"
+      },
+      {
+        "slug": "laranja-moro-denavita"
+      },
+      {
+        "slug": "cupom-denavita-como-usar"
+      },
+      {
+        "slug": "denavita-e-confiavel"
+      }
+    ],
+    "decision": {
+      "takeIf": [
+        "Trio Magnésio: você quer gastar menos por pote ou no combo Leve 3 e Pague 2 e prefere a combinação de bisglicinato, taurato e dimagnésio malato com tabela nutricional publicada na página.",
+        "Bio Magnésio: você prefere engolir apenas 1 cápsula vegetal (vegana) por dia, sem gelatina nem dióxido de titânio, com 270 mg de magnésio declarados no frasco e bisglicinato na lista de ingredientes.",
+        "Qualquer um dos dois: você já alinhou a suplementação com médico ou nutricionista e vai conferir o código EMCASA na Denavita no checkout."
+      ],
+      "skipIf": [
+        "Você tem alergia a soja, peixe, crustáceos, pinoli ou ovo: o Trio Magnésio traz esse alerta de pode conter na página, e o Bio Magnésio exige conferir o rótulo físico antes do uso.",
+        "Você pretende levar os combos de 3 ou 5 potes do Bio Magnésio sem comparar o total entregue com potes avulsos, já que o valor unitário dos kits ficou acima do avulso antes do frete.",
+        "Você busca indicação clínica para sono, cãibras ou ansiedade: o comparativo lê apenas composição, cápsula e preço."
+      ]
+    },
+    "contentSections": [
+      {
+        "heading": "Resposta rápida",
+        "paragraphs": [
+          "Os dois frascos rendem 30 dias, mas mudam na fórmula e na cápsula. O Trio Magnésio junta três sais (210 mg em 2 cápsulas de gelatina) pelo menor preço, enquanto o Bio Magnésio traz bisglicinato em 1 cápsula vegana (270 mg de magnésio no frasco). Compare abaixo alergênicos, combos e o código EMCASA na Denavita."
+        ]
+      },
+      {
+        "heading": "Trio Magnésio × Bio Magnésio: o que muda entre as duas fichas",
+        "paragraphs": [
+          "No catálogo da Denavita convivem dois suplementos de magnésio com nomes parecidos: o [Trio Magnésio](https://www.denavita.com.br/products/trio-magnesio) (tampa azul-clara, 60 cápsulas) e o [Bio Magnésio – Quelato e Bisglicinato](https://www.denavita.com.br/products/magnesio-quelato-30-caps) (tampa azul-petróleo, 30 cápsulas). Como a porção diária do primeiro pede duas cápsulas e a do segundo pede uma só, ambos entregam exatamente 30 porções por frasco.",
+          "A loja informa: a comparação abaixo reúne o que aparece nas páginas públicas e nos rótulos frontais de cada item."
+        ],
+        "comparisonTable": {
+          "caption": "Informações publicadas nas páginas oficiais do Trio Magnésio e do Bio Magnésio na Denavita.",
+          "headers": [
+            "Critério na ficha",
+            "Trio Magnésio",
+            "Bio Magnésio (Quelato e Bisglicinato)"
+          ],
+          "rows": [
+            [
+              "Frasco e peso líquido",
+              "60 cápsulas de 500 mg (30 g)",
+              "30 cápsulas de 700 mg (21 g)"
+            ],
+            [
+              "Modo de uso e duração",
+              "2 cápsulas ao dia, de preferência com refeição · 30 dias",
+              "1 cápsula ao dia · 30 dias"
+            ],
+            [
+              "Formas de magnésio",
+              "3 sais: bisglicinato de magnésio, taurato de magnésio e dimagnésio malato",
+              "Bisglicinato de magnésio na lista de ingredientes (frente traz “Quelato + Bisglicinato”)"
+            ],
+            [
+              "Magnésio declarado por porção",
+              "210 mg (50% do VD) nas 2 cápsulas, com tabela nutricional na página",
+              "270 mg de magnésio no rótulo frontal (sem imagem da tabela nutricional na página)"
+            ],
+            [
+              "Cápsula e corante",
+              "Gelatina e corante dióxido de titânio (não vegano)",
+              "Hidroxipropilmetilcelulose — HPMC (cápsula vegana, sem dióxido de titânio listado)"
+            ],
+            [
+              "Antiumectantes e glúten",
+              "Carbonato de cálcio e dióxido de silício; não contém glúten",
+              "Fosfato tricálcico, dióxido de silício e talco; não contém glúten"
+            ],
+            [
+              "Alergênicos publicados na página",
+              "Publica “PODE CONTER SOJA, PEIXE, CRUSTÁCEOS (CARANGUEJO), PINOLI E OVO”",
+              "Não exibe linha de alerta “ALÉRGICOS:” na página (confira o rótulo físico)"
+            ],
+            [
+              "Prazo após abrir o frasco",
+              "Consumir em até 60 dias após aberto",
+              "Consumir preferencialmente em 30 dias após aberto"
+            ]
+          ]
+        }
+      },
+      {
+        "heading": "Três sais em 2 cápsulas de gelatina contra 1 cápsula vegana de 270 mg",
+        "paragraphs": [
+          "A primeira escolha técnica é entre combinar três sais ou ficar em um ingrediente único. O Trio Magnésio reúne bisglicinato de magnésio, taurato de magnésio e dimagnésio malato, somando 210 mg de magnésio na tabela nutricional da página (sem separar quantos miligramas vêm de cada sal). Já o Bio Magnésio estampa “Quelato + Bisglicinato” e “270 mg de magnésio” no rótulo frontal, enquanto a lista de ingredientes registra bisglicinato de magnésio.",
+          "A segunda diferença pesa para quem evita derivados animais ou prefere engolir menos cápsulas. O Trio Magnésio usa cápsula de gelatina com dióxido de titânio e exige duas unidades por dia. O Bio Magnésio usa cápsula vegetal de HPMC, traz a indicação “Vegano” na frente do pote e concentra a dose diária em uma cápsula de 700 mg.",
+          "Fique atento também ao que cada página publica sobre rótulo e alergênicos. Enquanto o Trio Magnésio mostra a tabela nutricional e o alerta de contaminação cruzada (“pode conter soja, peixe, crustáceos, pinoli e ovo”), a página do Bio Magnésio não exibe foto da tabela nutricional traseira nem linha de alergênicos. A omissão na página pública não comprova ausência de traços: quem tem alergia alimentar deve confirmar diretamente na embalagem física antes de consumir."
+        ],
+        "images": [
+          {
+            "src": "/images/reviews/denavita/bio-magnesio-denavita-pote.webp",
+            "alt": "Pote frontal de Bio Magnésio Quelato e Bisglicinato da Denavita com tampa azul-petróleo, indicando 270 mg de magnésio, 30 cápsulas de 700 mg e selo vegano",
+            "caption": "O rótulo frontal do Bio Magnésio declara 270 mg de magnésio em cápsula vegana (30 unidades). Foto: Denavita.",
+            "objectFit": "contain",
+            "aspectRatio": 1,
+            "href": "https://denavita.gogroup.com.br/emcasacomcecilia"
+          }
+        ]
+      },
+      {
+        "heading": "Preço por dia, por 100 mg e o cuidado nos combos de múltiplos potes",
+        "paragraphs": [
+          "Conta nossa: dividimos o preço exibido de cada variante pelos dias de duração (30 dias por pote nos dois suplementos) e simulamos os 10% OFF regulares do código EMCASA na Denavita sobre o valor da página. Na campanha de Black Friday, o código chegou a aplicar 15% OFF em carrinhos testados; confira sempre o percentual vigente na página do [cupom Denavita](/cupons/denavita) e a base de preço e abatimento de cada opção no resumo do checkout."
+        ],
+        "comparisonTable": {
+          "caption": "Preços de tabela e valores à vista em denavita.com.br em 27/11, antes do frete. A coluna final é estimativa de 10% sobre o preço da página (confira o abatimento no checkout).",
+          "headers": [
+            "Suplemento e variante",
+            "Duração",
+            "Preço de tabela",
+            "À vista na página",
+            "Saída por pote",
+            "Por dia (sem código → estimativa 10%)"
+          ],
+          "rows": [
+            [
+              "[Trio Magnésio, 1 unidade](https://www.denavita.com.br/products/trio-magnesio)",
+              "30 dias",
+              "R$ 89,90",
+              "R$ 44,90",
+              "R$ 44,90",
+              "R$ 1,50 → R$ 1,35 (R$ 40,41)"
+            ],
+            [
+              "[Trio Magnésio, 2 unidades](https://www.denavita.com.br/products/trio-magnesio)",
+              "60 dias",
+              "R$ 179,80",
+              "R$ 85,90",
+              "R$ 42,95",
+              "R$ 1,43 → R$ 1,29 (R$ 77,31)"
+            ],
+            [
+              "[Trio Magnésio, Leve 3 e Pague 2](https://www.denavita.com.br/products/trio-magnesio)",
+              "90 dias",
+              "R$ 269,70",
+              "R$ 89,80",
+              "R$ 29,93",
+              "R$ 1,00 → R$ 0,90 (R$ 80,82)"
+            ],
+            [
+              "[Bio Magnésio, 1 unidade](https://www.denavita.com.br/products/magnesio-quelato-30-caps)",
+              "30 dias",
+              "R$ 83,90",
+              "R$ 59,90",
+              "R$ 59,90",
+              "R$ 2,00 → R$ 1,80 (R$ 53,91)"
+            ],
+            [
+              "[Bio Magnésio, Compre 2 Leve 3](https://www.denavita.com.br/products/magnesio-quelato-30-caps)",
+              "90 dias",
+              "R$ 251,70",
+              "R$ 219,90",
+              "R$ 73,30",
+              "R$ 2,44 → R$ 2,20 (R$ 197,91)"
+            ],
+            [
+              "[Bio Magnésio, Compre 3 Leve 5](https://www.denavita.com.br/products/magnesio-quelato-30-caps)",
+              "150 dias",
+              "R$ 419,50",
+              "R$ 329,90",
+              "R$ 65,98",
+              "R$ 2,20 → R$ 1,98 (R$ 296,91)"
+            ]
+          ]
+        },
+        "postParagraphs": [
+          "Dois cálculos ajudam a enxergar além do preço de vitrine. Primeiro, no pote avulso, o Trio Magnésio custa R$ 15 a menos que o Bio Magnésio; porém, dividindo a diária estimada com 10% OFF pelos miligramas declarados na porção (210 mg contra 270 mg), cada 100 mg de magnésio ficam quase empatados: R$ 0,64 no Trio Magnésio contra R$ 0,67 no Bio Magnésio (conta nossa).",
+          "Segundo, repare que os dois combos do Bio Magnésio saíram mais caros por pote que o avulso antes do frete: na tabela acima, são R$ 73,30 por unidade no Compre 2 Leve 3 e R$ 65,98 no Compre 3 Leve 5, contra R$ 59,90 no pote único (enquanto no Trio Magnésio o Leve 3 e Pague 2 derrubou o pote para R$ 29,93). Como a loja sinaliza Frete Grátis nos dois combos do Bio Magnésio, simule com o seu CEP no checkout e compare o total entregue dos potes avulsos contra o kit.",
+          "Para quem também usa Laranja Moro e NAC + Polivitamínico, o Trio Magnésio (e não o Bio Magnésio) entra no pacote misto Trio de Favoritos — veja a simulação de carrinho em [Denavita é boa?](/reviews/denavita-e-boa). E, para comparar com um magnésio de quatro sais em cápsula vegana de outra loja parceira, confira [Denavita ou Rituária](/reviews/denavita-ou-rituaria)."
+        ]
+      },
+      {
+        "heading": "Trio Magnésio ou Bio Magnésio: qual escolher por perfil",
+        "emphasis": "Para gastar menos por frasco ou aproveitar o Leve 3 e Pague 2 com três sais na fórmula, escolha o Trio Magnésio; para tomar apenas uma cápsula vegetal (vegana) ao dia com 270 mg de magnésio declarados no frasco e bisglicinato na fórmula, escolha o Bio Magnésio comparando o total entregue entre pote avulso e combos.",
+        "paragraphs": [
+          "Como decidir de acordo com a sua prioridade:"
+        ],
+        "bullets": [
+          "**Quer menor desembolso por pote ou estoque de 90 dias mais barato:** vá de Trio Magnésio, em que tanto o avulso quanto o Leve 3 e Pague 2 entregam o menor valor por unidade, com 210 mg em 2 cápsulas de gelatina.",
+          "**Prefere 1 cápsula vegana ao dia sem dióxido de titânio:** vá de Bio Magnésio (270 mg de magnésio no frasco, com bisglicinato nos ingredientes), conferindo no carrinho se somar potes avulsos com frete compensa mais que os combos com Frete Grátis.",
+          "**Tem alergia alimentar ou condição clínica:** não feche sem ler a embalagem física e alinhar forma e dosagem com médico ou nutricionista, sobretudo gestantes, lactantes, idosos e pessoas com restrição renal."
+        ],
+        "postParagraphs": [
+          "No pedido pelo site oficial, clique em Finalizar compra e digite o código **EMCASA** na Denavita no campo “Tem um cupom?” do checkout seguro. Veja a tela passo a passo em [como usar o cupom Denavita](/reviews/cupom-denavita-como-usar) e consulte prazos de troca em [Denavita é confiável?](/reviews/denavita-e-confiavel)."
+        ],
+        "checklist": {
+          "title": "Antes de fechar a compra",
+          "items": [
+            "Confirme se você prefere 2 cápsulas de gelatina (Trio Magnésio, 210 mg) ou 1 cápsula vegana HPMC (Bio Magnésio, 270 mg).",
+            "Compare o total já com frete entre potes avulsos e combos antes de pagar, especialmente no Bio Magnésio.",
+            "Ao receber o pedido, confira a tabela nutricional, a validade e a linha de alergênicos impressas na embalagem.",
+            "Aplique o código EMCASA na Denavita no checkout e verifique o abatimento no resumo."
+          ]
+        },
+        "links": [
+          {
+            "label": "Ir para a Denavita com o código EMCASA",
+            "href": "https://denavita.gogroup.com.br/emcasacomcecilia",
+            "sponsored": true
+          },
+          {
+            "label": "Ver regras do cupom Denavita",
+            "href": "/cupons/denavita"
+          }
+        ]
+      },
+      {
+        "heading": "Perguntas frequentes",
+        "bullets": [
+          "Qual a diferença entre o Trio Magnésio e o Bio Magnésio da Denavita? O Trio Magnésio combina três sais (bisglicinato, taurato e dimagnésio malato), entrega 210 mg de magnésio na porção de 2 cápsulas de gelatina ao dia e vem com 60 cápsulas. O Bio Magnésio lista bisglicinato de magnésio em cápsula vegetal (vegana) de 700 mg, declara 270 mg de magnésio na frente do frasco e pede apenas 1 cápsula ao dia no pote de 30 unidades.",
+          "Qual dos dois magnésios da Denavita é vegano? Apenas o Bio Magnésio – Quelato e Bisglicinato, que usa cápsula vegetal de hidroxipropilmetilcelulose (HPMC) e estampa “Vegano” no rótulo frontal. O Trio Magnésio usa cápsula de gelatina com dióxido de titânio.",
+          "Quanto tempo dura cada pote de magnésio da Denavita? Os dois duram 30 dias seguindo a recomendação da marca: o Trio Magnésio tem 60 cápsulas para tomar 2 ao dia, e o Bio Magnésio tem 30 cápsulas para tomar 1 ao dia. Depois de aberto, a loja orienta consumir o Trio Magnésio em até 60 dias e o Bio Magnésio preferencialmente em 30 dias.",
+          "Qual é o cupom da Denavita para comprar magnésio com desconto? É o código EMCASA na Denavita, que aplica 10% OFF regulares no site oficial no cartão ou no Pix. Cole no campo “Tem um cupom?” do checkout e confira as condições vigentes na página do [cupom Denavita](/cupons/denavita)."
+        ]
+      }
+    ],
+    "updatedAt": "2026-11-27"
   }
 ];
 

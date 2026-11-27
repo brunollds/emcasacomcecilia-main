@@ -8,9 +8,9 @@ category: "guias-praticos-utilidade"
 reviewKind: "guia"
 type: "Comparativo de Suplemento"
 anexo_tipo: "Anexo-Suplementos-Alimentos"
-status: "pauta-aprovada"
-responsavel: "Job-1"
-proxima_acao: "aguardando GO do Bruno para redação (Job 2) — reler preços regulares e combos fora da Black Friday no dia da redação"
+status: "redigido"
+responsavel: "Job-6"
+proxima_acao: "aguardando aprovação visual da capa e autorização de upload FTPS ao CDN pelo Bruno"
 bloqueado_por: null
 data_criacao: "2026-11-27"
 pauta_id: "DV14"
@@ -50,3 +50,11 @@ Guia de decisão interna entre os dois suplementos de magnésio da Denavita, ori
 3. **1 cápsula vegana (Bio Magnésio) contra 2 cápsulas de gelatina com 3 sais (Trio Magnésio).**
 4. **Como comparar avulso, combo por quantidade e kits mistos** (ensinando a checar o preço por pote nas variantes e citando o `Trio de Favoritos` em `denavita-e-boa` + comparação com a Rituária em `denavita-ou-rituaria`).
 5. **Onde aplicar o cupom `EMCASA na Denavita`** (`/cupons/denavita`) + **Quadro `decision`** + **Perguntas frequentes (4 itens)**.
+
+## 4. Decisões e Redação (27/11/2026)
+
+- **GO do Bruno em 27/11/2026** para redação e montagem das mídias (`content/reviews/trio-magnesio-ou-bio-magnesio-denavita.json`, `id: 1492`).
+- **Conferência integral das fichas:** rótulo frontal do `Bio Magnésio` confirmado visualmente (`270MG DE MAGNÉSIO`, `QUELATO + BISGLICINATO`, `30 CÁPSULAS DE 700MG`, `PESO LÍQUIDO 21g`, `VEGANO`), sem foto da tabela nutricional traseira e sem linha `"ALÉRGICOS:"` na página pública (registrado sem afirmar ausência de traços, recomendando leitura da embalagem física). Conta adicional por `100 mg` de magnésio (`R$ 0,64` no Trio Magnésio vs `R$ 0,67` no Bio Magnésio com `10% OFF`) e alerta sobre a inversão dos combos de múltiplos potes do Bio Magnésio em `27/11` (`Compre 2 Leve 3` a `R$ 73,30/pote` contra `R$ 59,90` no avulso; releitura agendada fora da Black Friday em `28/11+`).
+- **Capa e imagens propostas (staging externo, aguardando aprovação visual e autorização de upload FTPS):**
+  - **Capa (`#2`, v2 após revisão ChatGPT + Gemini):** `/images/reviews/denavita/trio-magnesio-ou-bio-magnesio-denavita-hero.webp` (`1600×900`, WebP opaco RGB, `77.576` bytes, SHA-256 `0618fca6dc12f71c058af7549ef03e7a3141ca9880b9cadb7160a34e4ee7c194`, `imageFit: "contain"`). Fontes inéditas lado a lado com altura visual dos dois potes igualada e fundo esquerdo limpo: `SKU_TrioMagnesio-foto1` e `SKU_BioMagnesio-foto3` da galeria oficial Denavita (`27/11/2026`, zero repetição de componentes com `denavita-ou-rituaria` ou `cupom-denavita-como-usar`).
+  - **Corpo (`#4`, v2 após revisão Gemini):** `/images/reviews/denavita/bio-magnesio-denavita-pote.webp` (`780×780`, WebP opaco RGB, `27.310` bytes, SHA-256 `24285e7d5e9468e570f6adfc89ec1c3f6fd4b5b19351608fa7cc582aac9c2372`, `aspectRatio: 1`). Fonte inédita em recorte `1:1` justo a partir da captura `1080×1080`: packshot oficial Denavita (`SKU_BioMagnesio-1pote.webp`, `27/11/2026`).
