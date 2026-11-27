@@ -23,6 +23,27 @@ export const storeBannersData: StoreBanner[] = [
     "verifiedAt": "2026-11-24"
   },
   {
+    "id": "aliexpress-black-friday-2026",
+    "affiliate": "aliexpress",
+    "slot": "top",
+    "href": "https://s.click.aliexpress.com/e/_c37RSyBR",
+    "art": {
+      "kind": "tag",
+      "value": "90%"
+    },
+    "endsAt": "2026-12-03T23:59:59-03:00",
+    "copy": {
+      "pt": {
+        "headline": "Black Friday do AliExpress: até 90% OFF",
+        "text": "Campanha do próprio AliExpress, até 3/12. Os produtos, os cupons da loja e as condições aparecem no site dele.",
+        "action": "Ver a campanha",
+        "tag": "ATÉ"
+      }
+    },
+    "source": "Home de pt.aliexpress.com (\"Black Friday Sale\", \"Até 90% OFF\", \"Promo termina: 3 dez, 23:59 (BRT)\"), lida no navegador em 27/11/2026",
+    "verifiedAt": "2026-11-27"
+  },
+  {
     "id": "bagaggio-black-friday-2026",
     "affiliate": "bagaggio",
     "slot": "top",
@@ -87,18 +108,18 @@ export const storeBannersData: StoreBanner[] = [
     "href": "https://www.bawclothing.com.br/",
     "art": {
       "kind": "tag",
-      "value": "80%"
+      "value": "90%"
     },
     "copy": {
       "pt": {
-        "headline": "Black Week da BAW: até 80% OFF e pague 3, leve 4 no site todo",
+        "headline": "Black Friday da BAW: até 90% OFF no site todo",
         "text": "Campanha da própria BAW. As peças e as condições aparecem no site da loja.",
         "action": "Ver a campanha",
         "tag": "ATÉ"
       }
     },
-    "source": "Banner da home de bawclothing.com.br (\"Blackweek, até 80% OFF, pague 3, leve 4 no site todo\"), lido no navegador em 24/11/2026, sem data de fim; em 18/11 a faixa trazia \"+30% OFF na segunda peça\"",
-    "verifiedAt": "2026-11-24"
+    "source": "Banner da home de bawclothing.com.br (\"A última Black Friday da baw, até 90% off em todo o site\"), lido no navegador em 27/11/2026, sem data de fim",
+    "verifiedAt": "2026-11-27"
   },
   {
     "id": "belive-black-november-2026",
@@ -127,18 +148,19 @@ export const storeBannersData: StoreBanner[] = [
     "href": "https://biobio.com.br/",
     "art": {
       "kind": "tag",
-      "value": "50%"
+      "value": "70%"
     },
+    "endsAt": "2026-11-27T23:59:59-03:00",
     "copy": {
       "pt": {
-        "headline": "Black Month da BioBio: até 50% OFF",
-        "text": "Campanha da própria BioBio. Os produtos e as condições aparecem no site da loja.",
+        "headline": "Black Friday da BioBio: até 70% OFF",
+        "text": "Campanha da própria BioBio, com frete grátis no Sul e no Sudeste acima de R$ 279. As condições aparecem no site da loja.",
         "action": "Ver a campanha",
         "tag": "ATÉ"
       }
     },
-    "source": "Faixa do topo e barra de biobio.com.br (\"Black Month, até 50% OFF\", \"Frete R$ 9,99 em compras a partir de R$ 199\"), lido no navegador em 24/11/2026, sem data de fim",
-    "verifiedAt": "2026-11-24"
+    "source": "Faixa do topo de biobio.com.br (\"Black Friday até 70% OFF\", contador que termina à meia-noite de 27/11; \"Frete grátis Sul Sudeste, compras acima de 279,00\"), lida no navegador em 27/11/2026",
+    "verifiedAt": "2026-11-27"
   },
   {
     "id": "black-skull-black-friday-2026",
@@ -195,8 +217,27 @@ export const storeBannersData: StoreBanner[] = [
         "action": "Ver a campanha"
       }
     },
-    "source": "Faixa do topo da home de cleastore.com.br (\"Black Friday Cléa Store: ganhe uma T-shirt oversized grátis comprando qualquer peça do e-commerce\"), lida no navegador em 16/11/2026, sem data de fim; mudança informada pelo Bruno (saíram o 30% OFF em todo o site e o kit a R$ 199)",
-    "verifiedAt": "2026-11-24"
+    "source": "Faixa do topo da home de cleastore.com.br (\"Só hoje: frete grátis + T-shirt grátis em qualquer compra\"), lida no navegador em 27/11/2026, sem data de fim para a T-shirt",
+    "verifiedAt": "2026-11-27"
+  },
+  {
+    "id": "clea-store-frete-gratis-2711",
+    "affiliate": "clea-store",
+    "slot": "mid",
+    "href": "https://www.cleastore.com.br/",
+    "art": {
+      "kind": "bag"
+    },
+    "endsAt": "2026-11-27T23:59:59-03:00",
+    "copy": {
+      "pt": {
+        "headline": "Só hoje na Cléa Store: frete grátis em qualquer compra",
+        "text": "Campanha da própria Cléa Store, em 27/11. As condições aparecem no site da loja.",
+        "action": "Ver a campanha"
+      }
+    },
+    "source": "Faixa do topo da home de cleastore.com.br (\"Só hoje: frete grátis + T-shirt grátis em qualquer compra\", com contador até a meia-noite), lida no navegador em 27/11/2026",
+    "verifiedAt": "2026-11-27"
   },
   {
     "id": "colaedecora-black-2026",
@@ -228,12 +269,12 @@ export const storeBannersData: StoreBanner[] = [
     "copy": {
       "pt": {
         "headline": "Black Friday DAMIE: massagem, USB e porta-copos de brinde na poltrona",
-        "text": "Campanha da própria DAMIE, até 27/11 ou enquanto durarem os estoques: R$ 1.000 de desconto nas poltronas, já no preço, e frete grátis no Sul e no Sudeste.",
+        "text": "Campanha da própria DAMIE, até 27/11 ou enquanto durarem os estoques: porta-copos, carregador USB e massagem sem custo na poltrona e frete grátis no Sul e no Sudeste. A loja calcula R$ 1.150 de economia.",
         "action": "Ver a campanha"
       }
     },
-    "source": "Página de ofertas (/pages/cupons) e banner do topo de damie.com.br (conferidos em 23/11/2026)",
-    "verifiedAt": "2026-11-23"
+    "source": "Faixa do topo e /pages/cupons de damie.com.br (\"Black Friday\", porta-copos R$ 50, carregador USB R$ 350, massagem R$ 550 e frete R$ 200 por R$ 0, \"economia total R$ 1.150\") e /pages/fretes-e-entregas (frete grátis no Sul e no Sudeste), lidos no navegador em 27/11/2026",
+    "verifiedAt": "2026-11-27"
   },
   {
     "id": "denavita-black-friday-2026",
@@ -266,12 +307,12 @@ export const storeBannersData: StoreBanner[] = [
     "copy": {
       "pt": {
         "headline": "Black Friday da Dolce Gusto: caixas a partir de R$ 15,90",
-        "text": "Campanha da própria Dolce Gusto, com ofertas que mudam sem aviso e frete grátis em bebidas acima de R$ 100. As condições aparecem no site da loja.",
+        "text": "Campanha da própria Dolce Gusto, com frete grátis nas ofertas de bebidas, que não vale em pedidos com máquina. As ofertas mudam sem aviso; as condições aparecem no site da loja.",
         "action": "Ver a campanha"
       }
     },
-    "source": "Home de nescafe-dolcegusto.com.br (\"Todo o site em oferta + frete grátis acima de R$100\") e /sobre/regulamentos2026, \"Caixas regulares a partir de R$15,90\" (sem data de fim publicada), lidos em 23/11/2026",
-    "verifiedAt": "2026-11-23"
+    "source": "Faixa e /sobre/regulamentos2026 de nescafe-dolcegusto.com.br (\"Black Friday é hoje: melhor preço do ano com frete grátis\"; \"Caixas regulares a partir de R$ 15,90 + frete grátis\", desde 26/11; \"Frete não válido para pedidos com máquinas\"), lidos no navegador em 27/11/2026",
+    "verifiedAt": "2026-11-27"
   },
   {
     "id": "dolce-gusto-maquinas-30-capsulas",
@@ -288,8 +329,8 @@ export const storeBannersData: StoreBanner[] = [
         "action": "Ver as máquinas"
       }
     },
-    "source": "/sobre/regulamentos2026, \"PROMOÇÃO MÁQUINA - Na compra de 1 máquina da linha ORIGINAL, ganhe 30 cápsulas\" (ativa desde 31/10/2026, sem data de fim publicada), lido em 23/11/2026",
-    "verifiedAt": "2026-11-23"
+    "source": "/sobre/regulamentos2026, \"PROMOÇÃO MÁQUINA - Na compra de 1 máquina da linha ORIGINAL, ganhe 30 cápsulas\" (ativa desde 31/10/2026, sem data de fim publicada), relida no navegador em 27/11/2026",
+    "verifiedAt": "2026-11-27"
   },
   {
     "id": "dr-peanut-assinatura-doctor-2026",
@@ -330,24 +371,6 @@ export const storeBannersData: StoreBanner[] = [
     "verifiedAt": "2026-11-22"
   },
   {
-    "id": "dr-peanut-leve-8-pague-5-2026",
-    "affiliate": "dr-peanut",
-    "slot": "top",
-    "href": "https://www.drpeanut.com.br/",
-    "art": {
-      "kind": "bag"
-    },
-    "copy": {
-      "pt": {
-        "headline": "Doctor November da Dr. Peanut: leve 8, pague 5 e ganhe brindes",
-        "text": "Campanha da própria Dr. Peanut. Os brindes variam conforme o estoque; as condições aparecem no site da loja.",
-        "action": "Ver a campanha"
-      }
-    },
-    "source": "Carrossel da home de drpeanut.com.br (\"Doctor November – Leve 8 Pague 5 – Brindes: 1 alfajor + 1 wafer + 1 pasta\"), lido no navegador em 04/11/2026; reconferido no navegador em 22/11/2026, sem data de fim",
-    "verifiedAt": "2026-11-22"
-  },
-  {
     "id": "gocase-goblack-week-2026",
     "affiliate": "gocase",
     "slot": "top",
@@ -358,14 +381,14 @@ export const storeBannersData: StoreBanner[] = [
     },
     "copy": {
       "pt": {
-        "headline": "GoBlack Week da Gocase: até 60% OFF",
+        "headline": "GOBlack Friday da Gocase: até 60% OFF",
         "text": "Campanha da própria Gocase. Os produtos e as condições aparecem no site da loja.",
         "action": "Ver a campanha",
         "tag": "ATÉ"
       }
     },
-    "source": "Banners da home de gocase.com.br (\"GoBlack Week\", \"Até 60% OFF\"), lido no navegador em 24/11/2026, sem data de fim",
-    "verifiedAt": "2026-11-24"
+    "source": "Banners da home de gocase.com.br (\"GOBlack Friday\", \"Até 60% OFF\"), lidos no navegador em 27/11/2026, sem data de fim publicada",
+    "verifiedAt": "2026-11-27"
   },
   {
     "id": "holyfoods-black-2026",
@@ -377,13 +400,13 @@ export const storeBannersData: StoreBanner[] = [
     },
     "copy": {
       "pt": {
-        "headline": "Black da Holy: 30% OFF no site todo",
-        "text": "Campanha da própria HolyFoods. O desconto já vem aplicado nos preços; as condições aparecem no site da loja.",
+        "headline": "Black da Holy: 30% OFF e mais 10% no Pix",
+        "text": "Campanha da própria HolyFoods. Os 30% já vêm aplicados nos preços; as condições aparecem no site da loja.",
         "action": "Ver a campanha"
       }
     },
-    "source": "Home de holyfoods.com.br (\"Black da Holy: 30% OFF no site todo\", \"30% OFF já aplicado nos preços\", sem prazo), lida no navegador em 05/11/2026; campanha informada pelo Bruno. Reconferida em 22/11/2026: a home segue com \"30% OFF já aplicado nos preços\" e os kits \"da Black\", sem prazo",
-    "verifiedAt": "2026-11-24"
+    "source": "Home de holyfoods.com.br (\"30% OFF + 10% extra no Pix\", kits \"da Black\"), lida no navegador em 27/11/2026, sem prazo",
+    "verifiedAt": "2026-11-27"
   },
   {
     "id": "hostinger-black-friday-2026",
@@ -534,14 +557,14 @@ export const storeBannersData: StoreBanner[] = [
     "startsAt": "2026-11-09T00:00:00-03:00",
     "copy": {
       "pt": {
-        "headline": "Black November da I Wanna Sleep: até 30% OFF",
-        "text": "Campanha da própria I Wanna Sleep. O até 30% vale para parte dos produtos; as condições aparecem no site da loja.",
+        "headline": "Black Friday da I Wanna Sleep: até 30% OFF",
+        "text": "Campanha da própria I Wanna Sleep, com 5% extra no Pix e brindes cumulativos. O até 30% vale para parte dos produtos; as condições aparecem no site da loja.",
         "action": "Ver a campanha",
         "tag": "ATÉ"
       }
     },
-    "source": "Condições Black November e programação de 09 a 22/11 do programa de afiliados, passadas pelo Bruno em 04/11/2026; em 24/11 o banner da home de iwannasleep.com.br ainda mostrava \"Black November, todo o site com até 30% OFF, +5% OFF no Pix, + brindes cumulativos\", sem data de fim",
-    "verifiedAt": "2026-11-24"
+    "source": "Banner da home de iwannasleep.com.br (\"Black Friday, todo o site com até 30% OFF, +5% OFF no Pix, + brindes cumulativos\"), lido no navegador em 27/11/2026, sem data de fim",
+    "verifiedAt": "2026-11-27"
   },
   {
     "id": "iws-brindes-progressivos-2026",
@@ -563,6 +586,26 @@ export const storeBannersData: StoreBanner[] = [
     "verifiedAt": "2026-11-04"
   },
   {
+    "id": "la-ganexa-black-friday-2026",
+    "affiliate": "la-ganexa",
+    "slot": "top",
+    "href": "https://lojalaganexa.com.br/",
+    "art": {
+      "kind": "tag",
+      "value": "45%"
+    },
+    "copy": {
+      "pt": {
+        "headline": "Black Friday da La Ganexa: descontos de até 45%",
+        "text": "Campanha da própria La Ganexa. Os produtos e as condições aparecem no site da loja.",
+        "action": "Ver a campanha",
+        "tag": "ATÉ"
+      }
+    },
+    "source": "Home de lojalaganexa.com.br (\"Black Friday La Ganexa\", \"descontos de até 45%\"), lida no navegador em 27/11/2026; o contador do topo reinicia em minutos e não vale como prazo",
+    "verifiedAt": "2026-11-27"
+  },
+  {
     "id": "lamazonie-black-friday-2026",
     "affiliate": "lamazonie",
     "slot": "top",
@@ -572,13 +615,13 @@ export const storeBannersData: StoreBanner[] = [
     },
     "copy": {
       "pt": {
-        "headline": "Black Friday da L'Amazonie: kit com 2 séruns para sobrancelhas, 25% OFF e brindes",
-        "text": "Campanha da própria L'Amazonie. Vale para o kit de séruns; as condições aparecem no site da loja.",
+        "headline": "Black Friday da L'Amazonie: compre 1, leve 2",
+        "text": "Campanha da própria L'Amazonie: dois séruns para sobrancelhas ou dois protetores solares por R$ 159 e dois séruns de vitamina C por R$ 189, com frete grátis e 15% de cashback.",
         "action": "Ver a campanha"
       }
     },
-    "source": "Banner da home de lamazonie.com.br (\"A maior promo do ano! Na compra do kit 2 séruns para sobrancelhas, ganhe protetor solar, produto surpresa e frete grátis\", \"25% OFF + 15% de cashback\"), lido no navegador em 24/11/2026, sem data de fim",
-    "verifiedAt": "2026-11-24"
+    "source": "Faixa e banners da home de lamazonie.com.br (\"Começou a Black Friday\", \"Compre 1, leve 2\", \"Você paga R$ 159 e leva 2\", \"2 séruns por R$ 189\", \"frete grátis e 15% de cashback\"), lidos no navegador em 27/11/2026, sem data de fim",
+    "verifiedAt": "2026-11-27"
   },
   {
     "id": "lejour-black-november-2026",
@@ -679,24 +722,6 @@ export const storeBannersData: StoreBanner[] = [
     "verifiedAt": "2026-11-24"
   },
   {
-    "id": "mais-mu-brinde-creatina-2026",
-    "affiliate": "mais-mu",
-    "slot": "mid",
-    "href": "https://www.lojamaismu.com.br/",
-    "art": {
-      "kind": "bag"
-    },
-    "copy": {
-      "pt": {
-        "headline": "Creatina de brinde na Mais Mu: compre qualquer produto e ganhe um pote de 210 g",
-        "text": "Campanha da própria Mais Mu. As condições aparecem no site da loja.",
-        "action": "Ver a campanha"
-      }
-    },
-    "source": "Faixa do topo da home de lojamaismu.com.br (\"Compre qualquer produto e ganhe uma creatina pote 210g\"), lido no navegador em 24/11/2026, sem data de fim",
-    "verifiedAt": "2026-11-24"
-  },
-  {
     "id": "max-titanium-brinde-meias-2026",
     "affiliate": "max-titanium",
     "slot": "mid",
@@ -755,6 +780,27 @@ export const storeBannersData: StoreBanner[] = [
     },
     "source": "Faixa do topo de nestlenutre.com.br (\"COMEÇOU a Semana de Black Friday Nestlé Nutre!\") e banners da home (\"só nesta semana\", até 50% OFF, frete grátis acima de R$ 100 durante a Black Friday), sem data de fim publicada, lidos no navegador em 23/11/2026",
     "verifiedAt": "2026-11-24"
+  },
+  {
+    "id": "nestle-nutre-live-shop-2711",
+    "affiliate": "nestle-nutre",
+    "slot": "mid",
+    "href": "https://www.nestlenutre.com.br/",
+    "art": {
+      "kind": "tag",
+      "value": "50%"
+    },
+    "endsAt": "2026-11-27T14:00:00-03:00",
+    "copy": {
+      "pt": {
+        "headline": "Live Shop da Nestlé Nutre hoje, 27/11, às 12h: até 50% OFF",
+        "text": "Campanha da própria Nestlé Nutre, com cupons que valem só durante a transmissão. As condições aparecem no site da loja.",
+        "action": "Ver a campanha",
+        "tag": "ATÉ"
+      }
+    },
+    "source": "Banner da home de nestlenutre.com.br (\"Live Shop 27.11 às 12h\", \"até 50% off + cupons apenas durante a transmissão\"), lido no navegador em 27/11/2026; a loja não publica a hora de fim, e o banner sai às 14h",
+    "verifiedAt": "2026-11-27"
   },
   {
     "id": "oceane-black-friday-2026",
@@ -958,85 +1004,24 @@ export const storeBannersData: StoreBanner[] = [
     "verifiedAt": "2026-11-24"
   },
   {
-    "id": "shein-1111-2026",
+    "id": "shein-black-friday-2026",
     "affiliate": "shein",
     "slot": "mid",
-    "href": "https://onelink.shein.com/59/67g9ljav4fwu",
+    "href": "https://br.shein.com/ark/5231?test=5051&url_from=affiliate_koc_6177013015&scene=1&ad_type=KOC&language=pt-br&siteuid=br&version_bid=101804616,101804641&version_eid=100693341&landing_page_id=5231&ad_test_id=49940&campaign=picklist&koc_id=6177013015&requestId=903986f526dd9d1c&search_redir=1&src_module=search&ici=s1%60EditSearch%604CW5Y%60_fb%60d1%60PageOthers&src_identifier=st%3D2%60sc%3D4CW5Y%60sr%3D0%60ps%3D1&tv_b=2&src_tab_page_id=page_home1786396601153&search_words=4CW5Y&campaign_id=20",
     "art": {
       "kind": "tag",
-      "value": "90%"
+      "value": "95%"
     },
-    "code": "97GK527",
     "copy": {
       "pt": {
-        "headline": "SHEIN 11.11: Até 90% OFF em +800 mil produtos",
-        "text": "Campanha da própria SHEIN. As condições aparecem no site da SHEIN.",
+        "headline": "Black Friday da SHEIN: até 95% OFF",
+        "text": "Campanha da própria SHEIN, que também anuncia frete grátis sem valor mínimo. As condições aparecem no site da SHEIN.",
         "action": "Ver a campanha",
         "tag": "ATÉ"
-      },
-      "en": {
-        "headline": "SHEIN 11.11: Up to 90% off on 800,000+ products",
-        "text": "Run by SHEIN itself. The terms are on the SHEIN website.",
-        "action": "See the offer",
-        "tag": "UP TO"
-      },
-      "es": {
-        "headline": "SHEIN 11.11: hasta un 90 % de descuento en más de 800 000 productos",
-        "text": "Una campaña de la propia SHEIN. Las condiciones están en el sitio de SHEIN.",
-        "action": "Ver la oferta",
-        "tag": "HASTA"
-      },
-      "fr": {
-        "headline": "SHEIN 11.11 : jusqu’à 90 % de réduction sur plus de 800 000 produits",
-        "text": "Une campagne de SHEIN. Les conditions sont sur le site de SHEIN.",
-        "action": "Voir l’offre",
-        "tag": "JUSQU’À"
-      },
-      "it": {
-        "headline": "SHEIN 11.11: fino al 90% di sconto su oltre 800.000 prodotti",
-        "text": "Una campagna di SHEIN. Le condizioni sono sul sito di SHEIN.",
-        "action": "Vedi l’offerta",
-        "tag": "FINO AL"
-      },
-      "de": {
-        "headline": "SHEIN 11.11: Bis zu 90 % Rabatt auf über 800.000 Produkte",
-        "text": "Eine Aktion von SHEIN. Die Bedingungen stehen auf der SHEIN-Website.",
-        "action": "Zum Angebot",
-        "tag": "BIS ZU"
-      },
-      "ja": {
-        "headline": "SHEIN 11.11：80万点以上の商品が最大90%オフ",
-        "text": "SHEIN公式のキャンペーンです。条件はSHEINのサイトでご確認ください。",
-        "action": "キャンペーンを見る",
-        "tag": "最大"
-      },
-      "ko": {
-        "headline": "SHEIN 11.11: 80만 개 이상 상품 최대 90% 할인",
-        "text": "SHEIN 자체 프로모션입니다. 조건은 SHEIN 사이트에서 확인하세요.",
-        "action": "혜택 보기",
-        "tag": "최대"
-      },
-      "zh-hans": {
-        "headline": "SHEIN 11.11：80万+商品低至1折",
-        "text": "SHEIN官方活动，具体条件以SHEIN网站为准。",
-        "action": "查看活动",
-        "tag": "最高"
-      },
-      "zh-hant": {
-        "headline": "SHEIN 11.11：80萬+商品低至1折",
-        "text": "SHEIN官方活動，具體條件以SHEIN網站為準。",
-        "action": "查看活動",
-        "tag": "最高"
-      },
-      "ar": {
-        "headline": "SHEIN 11.11: خصم يصل إلى 90% على أكثر من 800,000 منتج",
-        "text": "حملة من SHEIN نفسها. الشروط موجودة على موقع SHEIN.",
-        "action": "شاهد الحملة",
-        "tag": "حتى"
       }
     },
-    "source": "Mensagem da campanha (Mega Promoção 11.11, #SHEIN1111) e link enviados pelo Bruno em 07/11/2026; a loja mostra \"termina em 38 dias\", sem data fixa; código confirmado ativo pelo Bruno em 23/11/2026",
-    "verifiedAt": "2026-11-23"
+    "source": "Banner da home de br.shein.com (\"Frete grátis sem valor mínimo\", \"até 95% OFF\", selo de Black Friday), lido no navegador em 27/11/2026, sem data de fim",
+    "verifiedAt": "2026-11-27"
   },
   {
     "id": "shein-novos-usuarios",
@@ -1217,6 +1202,7 @@ export const storeBannersData: StoreBanner[] = [
       "kind": "bag"
     },
     "startsAt": "2026-11-27T00:00:00-03:00",
+    "endsAt": "2026-11-27T23:59:59-03:00",
     "copy": {
       "pt": {
         "headline": "Black Friday da Skelt",
@@ -1224,8 +1210,8 @@ export const storeBannersData: StoreBanner[] = [
         "action": "Ver a campanha"
       }
     },
-    "source": "Black Friday de 27/11/2026, informada pelo Bruno (02/11/2026)",
-    "verifiedAt": "2026-11-02"
+    "source": "Home de skelt.com.br (\"Começou a Black Friday Skelt!\", contador que termina à meia-noite de 27/11), lida no navegador em 27/11/2026",
+    "verifiedAt": "2026-11-27"
   },
   {
     "id": "skelt-progressivo-2411",
@@ -1238,14 +1224,14 @@ export const storeBannersData: StoreBanner[] = [
     },
     "copy": {
       "pt": {
-        "headline": "Quanto mais Skelt, mais desconto: 20% com 2 produtos e 25% com 3 ou mais",
-        "text": "Campanha da própria Skelt. O desconto sobe com o número de produtos; as condições aparecem no site da loja.",
+        "headline": "Skelt: 20% OFF em duos e 25% OFF em kits",
+        "text": "Campanha da própria Skelt, com mais 10% OFF no Pix. As condições aparecem no site da loja.",
         "action": "Ver a campanha",
         "tag": "ATÉ"
       }
     },
-    "source": "Banner da home de skelt.com.br (\"Quanto mais Skelt, mais desconto\": 20% OFF com 2 produtos e 25% OFF com 3 ou mais) e faixa do topo (\"20% OFF em duos e 25% OFF em kits\"), lido no navegador em 24/11/2026, sem data de fim; o e-mail de creators de 21 a 22/11 trazia a progressiva de 15%, 20% e 25%, que o site ainda mostrava",
-    "verifiedAt": "2026-11-24"
+    "source": "Faixa do topo de skelt.com.br (\"20% OFF em duos e 25% OFF em Kits\", \"+10% OFF no Pix\"), lida no navegador em 27/11/2026, sem data de fim",
+    "verifiedAt": "2026-11-27"
   },
   {
     "id": "starlink-black-friday-2026",
@@ -1322,17 +1308,20 @@ export const storeBannersData: StoreBanner[] = [
     "slot": "top",
     "href": "https://todaup.com/discount/MAUAD?redirect=/collections/squad-toda-up&utm_campaign=fluxoinfluenciadoras&utm_content=mensagem1&utm_medium=influs&utm_source=influs&utm_term=comissao",
     "art": {
-      "kind": "bag"
+      "kind": "tag",
+      "value": "40%"
     },
+    "endsAt": "2026-11-27T23:59:59-03:00",
     "copy": {
       "pt": {
-        "headline": "Black Week da Toda Up: até 50% OFF",
-        "text": "Campanha da própria Toda Up: 25% em 1 ou 2 produtos, 30% em 3 ou 4 e 35% a partir de 5, com frete fixo de R$ 9,90. As condições aparecem no site da loja.",
-        "action": "Ver a campanha"
+        "headline": "Black Friday da Toda Up: até 40% OFF no site todo",
+        "text": "Campanha da própria Toda Up, com frete grátis e 10% de cashback. As condições aparecem no site da loja.",
+        "action": "Ver a campanha",
+        "tag": "ATÉ"
       }
     },
-    "source": "Faixa do topo de todaup.com (\"Black Week com até 50% OFF\", \"Frete fixo R$ 9,90\") e quadro \"Black Week\" das páginas de produto, lidos no navegador em 23/11/2026; a loja não publica a data de fim",
-    "verifiedAt": "2026-11-24"
+    "source": "Faixas e janela de todaup.com (\"Até 40% OFF no site todo\", \"10% de cashback\", \"Frete grátis em todo o site\", \"Black Friday começou\", com contador até a meia-noite de 27/11), lidos no navegador em 27/11/2026",
+    "verifiedAt": "2026-11-27"
   },
   {
     "id": "toda-up-brinde-protetor-2026",
@@ -1345,12 +1334,12 @@ export const storeBannersData: StoreBanner[] = [
     "copy": {
       "pt": {
         "headline": "Toda Up: Protetor de Silicone de brinde acima de R$ 249,90",
-        "text": "Campanha da própria Toda Up na Black Week: compras acima de R$ 249,90, depois dos descontos, ganham um Protetor de Silicone. As condições aparecem no site da loja.",
+        "text": "Campanha da própria Toda Up na Black Friday: compras acima de R$ 249,90 ganham um Protetor de Silicone. As condições aparecem no site da loja.",
         "action": "Ver a campanha"
       }
     },
-    "source": "Quadro \"Black Week\" das páginas de produto de todaup.com (\"Acima de R$ 249,90 ganhe um Protetor de Silicone\"), lido no navegador em 23/11/2026; sem data de fim publicada",
-    "verifiedAt": "2026-11-23"
+    "source": "Janela e banner da home de todaup.com (\"Brinde em compras acima de R$ 249,90\", Protetor de Silicone), lidos no navegador em 27/11/2026; regra de 23/11 no quadro das páginas de produto",
+    "verifiedAt": "2026-11-27"
   },
   {
     "id": "yesstyle-black-friday-sale-2026",
