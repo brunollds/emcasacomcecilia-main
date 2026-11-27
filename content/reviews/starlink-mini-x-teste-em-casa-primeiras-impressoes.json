@@ -93,7 +93,7 @@
       "heading": "Por que comprei mesmo tendo fibra, entrega e o que vem na caixa",
       "paragraphs": [
         "Quando a fibra do bairro oscila ou cai no meio do trabalho, ter um link independente compensa mesmo em endereço urbano atendido por cabo.",
-        "Em 19/11/2026 comprei o kit da Starlink Mini X no plano Residencial Max e, no checkout, acrescentei um Mini Roteador. O kit veio com a antena e os acessórios da fonte. O pedido chegou sete dias depois, em 26/11/2026, bem embalado, com cada peça separada nas divisórias de polpa moldada.",
+        "Em 19/11/2026 comprei o kit da Starlink Mini X no plano Residencial Max e adicionei no checkout um Mini Roteador. O kit veio com a antena e os acessórios da fonte. O pedido chegou sete dias depois, em 26/11/2026, bem embalado, com cada peça separada nas divisórias de polpa moldada.",
         "Logo após fechar a compra no site oficial, consegui agendar a instalação profissional gratuita incluída no plano brasileiro diretamente em um site externo indicado pela própria Starlink, com visita prevista para 10/12/2026. Se você pretende assinar pela primeira vez, abrir o pedido em starlink.com pelo link oficial da [página de indicação Starlink](/cupons/starlink) garante R$ 200 de crédito na fatura seguinte no Brasil (ou 45 € em Portugal) depois de dois ciclos pagos em dia, e quem indicou recebe o mesmo valor, além da janela de 30 dias para testar e devolver o kit sem danos caso o sinal não atenda ao endereço."
       ],
       "comparisonTable": {
@@ -159,7 +159,7 @@
         "src": "/images/reviews/starlink/starlink-mini-x-app-painel-residencial-max.webp",
         "alt": "Painel do aplicativo Starlink em português mostrando a antena Mini no plano Residencial Max durante o download da atualização em 86%",
         "caption": "Painel do aplicativo confirmando a Mini no plano Residencial Max durante a atualização inicial.",
-        "objectFit": "contain",
+        "objectFit": "portrait",
         "aspectRatio": 0.4943
       },
       "video": {
@@ -213,7 +213,7 @@
         "src": "/images/reviews/starlink/starlink-mini-x-app-obstrucoes.webp",
         "alt": "Tela de Obstruções no aplicativo Starlink exibindo o domo 3D de calibração do céu, legenda de visão desobstruída e aviso de coleta inicial",
         "caption": "Tela de Obstruções no aplicativo durante a calibração na varanda.",
-        "objectFit": "contain",
+        "objectFit": "portrait",
         "aspectRatio": 0.4943
       }
     },
@@ -221,7 +221,7 @@
       "heading": "Mini Roteador em paredes grossas e sinal na sala principal",
       "paragraphs": [
         "Aqui em casa, com paredes grossas, só a antena na varanda não leva o Wi-Fi a todos os cômodos. Com o Mini Roteador num ponto entre a varanda e a sala, o sinal na sala ficou forte.",
-        "Para dar contexto real: tenho bastante dificuldade com roteadores Wi-Fi aqui em casa por causa das paredes. Hoje uso uma malha com três roteadores TP-Link Deco BE22 (com o principal ligado por cabo ao da sala principal e o terceiro via Wi-Fi) e, mesmo assim, ainda sobram cantos de sinal médio a fraco, inclusive a própria varanda da suíte. Sabendo disso, comprei à parte no checkout um Mini Roteador Starlink junto com o pedido.",
+        "Para dar contexto real: tenho bastante dificuldade com roteadores Wi-Fi aqui em casa por causa das paredes. Hoje uso uma malha com três roteadores TP-Link Deco BE22 (com o principal ligado por cabo ao da sala principal e o terceiro via Wi-Fi) e, mesmo assim, ainda sobram cantos de sinal médio a fraco, inclusive a própria varanda da suíte. Sabendo disso, adicionei no checkout um Mini Roteador Starlink.",
         "Ao ligar o Mini Roteador na tomada, é preciso aguardar alguns minutos até ele aparecer no aplicativo para configurar em rede sem fio Mesh, em um processo muito simples. Coloquei primeiro na sala principal, e o próprio app me avisou que o ponto não estava bom e pediu para aproximar mais da antena. Mudei o Mini Roteador para um local no térreo mais próximo da varanda e com menos obstáculos no caminho, e a conexão com a Mini X fechou na hora. No momento em que escrevi este relato na sala principal, justamente onde eu queria sinal forte, meu celular mostrava o Wi-Fi da Starlink perto de 100%. Reposicionar o Mini Roteador nesse ponto intermediário resolveu o sinal na sala principal, embora cobrir todos os cantos da casa provavelmente peça um segundo Mini Roteador — este primeiro teste não mediu a cobertura cômodo a cômodo para comparar com os três Deco BE22. Neste teste inicial rodei tudo em Mesh sem fio, sem passar cabo Ethernet pelas portas da base."
       ],
       "video": {
@@ -244,7 +244,7 @@
         "src": "/images/reviews/starlink/starlink-mini-x-app-configuracoes.webp",
         "alt": "Menu Configurações do aplicativo Starlink em português exibindo abas de Roteador e Starlink, horário de inatividade e redefinição do mapa de obstrução",
         "caption": "Menu de configurações da antena no aplicativo Starlink em português.",
-        "objectFit": "contain",
+        "objectFit": "portrait",
         "aspectRatio": 0.4943
       },
       "links": [

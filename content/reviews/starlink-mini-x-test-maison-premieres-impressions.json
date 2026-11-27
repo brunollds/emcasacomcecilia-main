@@ -94,7 +94,7 @@
       "paragraphs": [
         "Lorsque la fibre du quartier varie ou coupe en pleine journée de travail, disposer d'un lien de secours indépendant se justifie même à une adresse urbaine raccordée.",
         "Le 19/11/2026, j'ai acheté le kit Starlink Mini X avec le forfait Résidentiel Max et, à la caisse, j'ai ajouté un Routeur Mini. Le kit est arrivé avec l'antenne et les accessoires d'alimentation. La commande est arrivée sept jours plus tard, le 26/11/2026, bien emballée, chaque pièce séparée dans des compartiments en pulpe moulée.",
-        "Juste après avoir validé l'achat sur le site officiel, j'ai pu planifier l'installation professionnelle gratuite incluse dans l'offre brésilienne directement sur un portail partenaire indiqué par Starlink, avec une intervention prévue le 10/12/2026. Si vous comptez vous abonner pour la première fois, ouvrir votre commande sur starlink.com depuis le lien officiel de notre [page de parrainage Starlink](/fr/coupons/starlink) garantit 45 € de crédit sur facture après deux cycles payés à temps (et le parrain reçoit le même montant), en plus de la fenêtre de 30 jours pour tester et renvoyer le kit intact si le signal ne convient pas à votre adresse."
+        "Juste après avoir validé l'achat sur le site officiel, j'ai pu planifier l'installation professionnelle gratuite incluse dans l'offre brésilienne (cela varie selon les pays) directement sur un portail partenaire indiqué par Starlink, avec une intervention prévue le 10/12/2026. Si vous comptez vous abonner pour la première fois, ouvrir votre commande sur starlink.com depuis le lien officiel de notre [page de parrainage Starlink](/fr/coupons/starlink) garantit 45 € de crédit sur facture après deux cycles payés à temps (et le parrain reçoit le même montant), en plus de la fenêtre de 30 jours pour tester et renvoyer le kit intact si le signal ne convient pas à votre adresse."
       ],
       "comparisonTable": {
         "caption": "Matériel reçu dans ma commande sur le forfait Résidentiel Max au Brésil et mentions lisibles sur les étiquettes.",
@@ -159,7 +159,7 @@
         "src": "/images/reviews/starlink/starlink-mini-x-app-painel-residencial-max.webp",
         "alt": "Tableau de bord de l'appli Starlink en portugais sur mon appareil brésilien montrant l'antenne Mini sur le forfait Résidentiel Max pendant le téléchargement de la mise à jour à 86 %",
         "caption": "Tableau de bord en portugais de l'appli sur mon appareil brésilien confirmant la Mini sur le forfait Résidentiel Max durant la mise à jour initiale.",
-        "objectFit": "contain",
+        "objectFit": "portrait",
         "aspectRatio": 0.4943
       },
       "video": {
@@ -213,7 +213,7 @@
         "src": "/images/reviews/starlink/starlink-mini-x-app-obstrucoes.webp",
         "alt": "Écran Obstructions dans l'appli Starlink en portugais montrant le dôme 3D de calibration du ciel, la légende de vue dégagée et l'avis de collecte initiale",
         "caption": "Écran d'obstructions dans l'appli Starlink en portugais durant la calibration sur le balcon.",
-        "objectFit": "contain",
+        "objectFit": "portrait",
         "aspectRatio": 0.4943
       }
     },
@@ -221,7 +221,7 @@
       "heading": "Routeur Mini à travers des murs épais et signal au salon",
       "paragraphs": [
         "Chez moi, avec des murs épais, l'antenne seule sur le balcon ne suffit pas à amener le Wi-Fi dans toutes les pièces. Avec le Routeur Mini placé entre le balcon et le salon, le signal au salon est devenu fort.",
-        "Pour donner un repère concret : j'ai toujours eu du mal avec le Wi-Fi chez moi à cause de l'épaisseur des murs. Aujourd'hui j'utilise un réseau maillé de trois TP-Link Deco BE22 (avec le boîtier principal relié par câble à celui du grand salon et le troisième en sans-fil) et il reste malgré tout des zones moyennes à faibles, y compris ce même balcon. Le sachant, j'ai acheté séparément à la commande un Routeur Mini Starlink en même temps que le kit.",
+        "Pour donner un repère concret : j'ai toujours eu du mal avec le Wi-Fi chez moi à cause de l'épaisseur des murs. Aujourd'hui j'utilise un réseau maillé de trois TP-Link Deco BE22 (avec le boîtier principal relié par câble à celui du grand salon et le troisième en sans-fil) et il reste malgré tout des zones moyennes à faibles, y compris ce même balcon. Le sachant, j'ai ajouté un Routeur Mini Starlink à la caisse.",
         "Une fois le Routeur Mini branché sur secteur, il faut attendre quelques minutes qu'il apparaisse dans l'appli pour le configurer en Mesh sans fil, par une procédure très simple. Je l'ai d'abord installé dans le salon principal, et l'application m'a aussitôt signalé que l'emplacement n'était pas bon en me demandant de le rapprocher de l'antenne. J'ai déplacé le Routeur Mini au rez-de-chaussée, plus près du balcon et avec moins d'obstacles sur le trajet, et la liaison avec la Mini X s'est établie immédiatement. Au moment où j'ai rédigé ce retour depuis le grand salon, là où je voulais un signal fort, mon smartphone affichait un Wi-Fi Starlink proche de 100 %. Déplacer le Routeur Mini à ce point intermédiaire a réglé le signal dans le grand salon, même s'il faudra sans doute un second Routeur Mini pour couvrir chaque recoin de la maison — ce premier essai n'a pas mesuré la couverture pièce par pièce pour la comparer aux trois Deco BE22. Sur ce premier essai j'ai tout fait en Mesh sans fil, sans tirer de câble Ethernet depuis les ports de la base."
       ],
       "video": {
@@ -244,7 +244,7 @@
         "src": "/images/reviews/starlink/starlink-mini-x-app-configuracoes.webp",
         "alt": "Menu Paramètres de l'appli Starlink en portugais affichant les onglets Routeur et Starlink, l'horaire d'inactivité et la réinitialisation de la carte d'obstructions",
         "caption": "Menu des paramètres de l'antenne dans l'appli Starlink en portugais sur mon appareil brésilien.",
-        "objectFit": "contain",
+        "objectFit": "portrait",
         "aspectRatio": 0.4943
       },
       "links": [

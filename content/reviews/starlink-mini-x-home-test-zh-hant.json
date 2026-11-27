@@ -94,7 +94,7 @@
       "paragraphs": [
         "只要社區光纖在工作時段偶爾不穩或突然斷線，即使住在有線寬頻覆蓋的市區住宅，擁有一條獨立的衛星線路仍然相當值得。",
         "2026 年 11 月 19 日，我訂購了 Starlink Mini X 套件，選的是住宅最高階方案（Residencial Max），並在結帳時加購了一顆 Mini 路由器。套件內有天線與電源配件。訂單在七天後的 2026 年 11 月 26 日送達，包裝完整，每件物品都分開放在模壓紙漿分格裡。",
-        "在官網完成結帳後，我隨即依照 Starlink 指引連往合作夥伴網站，直接預約巴西方案內含的免費專業安裝服務，上門時間排在 2026 年 12 月 10 日。如果你是初次訂閱，透過 [Starlink 推薦說明頁面](/zh-hant/coupons/starlink) 的官方連結前往 starlink.com 下單並按時繳清兩個計費週期，即可獲得所在國家對應的帳單抵扣（例如馬來西亞為 RM 180，實際金額請務必在付款前於訂單頁面確認），推薦人也會拿到相同額度；此外還有 30 天試用期，若訊號不符合住家需求，可在無損壞情況下退回套件。"
+        "在官網完成結帳後，我隨即依照 Starlink 指引連往合作夥伴網站，直接預約巴西方案內含的免費專業安裝服務（各國情況不同），上門時間排在 2026 年 12 月 10 日。如果你是初次訂閱，透過 [Starlink 推薦說明頁面](/zh-hant/coupons/starlink) 的官方連結前往 starlink.com 下單並按時繳清兩個計費週期，即可獲得所在國家對應的帳單抵扣（例如馬來西亞為 RM 180，實際金額請務必在付款前於訂單頁面確認），推薦人也會拿到相同額度；此外還有 30 天試用期，若訊號不符合住家需求，可在無損壞情況下退回套件。"
       ],
       "comparisonTable": {
         "caption": "本次巴西家用 Max 方案訂單實際收到的硬體項目與標籤標示規格。",
@@ -159,7 +159,7 @@
         "src": "/images/reviews/starlink/starlink-mini-x-app-painel-residencial-max.webp",
         "alt": "在巴西使用的葡萄牙文版 Starlink App 儀表板畫面，顯示家用 Max 方案的 Mini 天線正下載更新至 86%",
         "caption": "初期更新期間，葡萄牙文 App 畫面確認 Mini 已啟用於巴西家用 Max 方案。",
-        "objectFit": "contain",
+        "objectFit": "portrait",
         "aspectRatio": 0.4943
       },
       "video": {
@@ -213,7 +213,7 @@
         "src": "/images/reviews/starlink/starlink-mini-x-app-obstrucoes.webp",
         "alt": "Starlink App 遮蔽物頁面，呈現 3D 天空校準穹頂、無遮擋視野圖例以及初期資料收集提示",
         "caption": "陽台校準期間在 Starlink App 讀取到的遮蔽物畫面。",
-        "objectFit": "contain",
+        "objectFit": "portrait",
         "aspectRatio": 0.4943
       }
     },
@@ -221,7 +221,7 @@
       "heading": "Mini 路由器在厚牆住宅改善客廳訊號表現",
       "paragraphs": [
         "我家牆很厚，單靠陽台上的天線，Wi-Fi 沒辦法涵蓋所有房間。把 Mini 路由器擺在陽台與客廳之間的位置後，客廳訊號變強了。",
-        "說明一下我家的真實條件：這裡的牆壁非常厚，我一直對 Wi-Fi 路由器的穿牆表現很頭痛。目前家裡使用三台 TP-Link Deco BE22 組網（主節點以網路線連接客廳節點，第三台走無線回程），即便如此，包含主臥陽台在內仍有訊號偏弱的角落。正因為早就知道這個狀況，我在結帳時便另外加購了一顆 Starlink Mini 路由器。",
+        "說明一下我家的真實條件：這裡的牆壁非常厚，我一直對 Wi-Fi 路由器的穿牆表現很頭痛。目前家裡使用三台 TP-Link Deco BE22 組網（主節點以網路線連接客廳節點，第三台走無線回程），即便如此，包含主臥陽台在內仍有訊號偏弱的角落。正因為早就知道這個狀況，我在結帳時加購了一顆 Starlink Mini 路由器。",
         "將 Mini 路由器插上插座後，等幾分鐘讓它出現在 App 裡，就能用非常簡單的流程設定無線 Mesh 網路。一開始我把它放在主客廳，App 馬上提示這個點位置不佳，建議移近天線一點。後來我把 Mini 路由器改放到一樓更靠近陽台且遮擋較少的位置，它立刻就跟 Mini X 順利配對成功。當我在原本最希望訊號滿格的主客廳寫下這篇心得時，手機顯示 Starlink Wi-Fi 訊號接近 100%。把 Mini 路由器改擺在這個中繼位置後，確實解決了主客廳的訊號問題，但若要涵蓋家中每個死角可能還需要第二顆 Mini 路由器；這次初測並沒有逐室實測覆蓋範圍來與三台 Deco BE22 直接對比。這次初測全程採用無線 Mesh，尚未透過底座的網路埠拉有線網路。"
       ],
       "video": {
@@ -244,7 +244,7 @@
         "src": "/images/reviews/starlink/starlink-mini-x-app-configuracoes.webp",
         "alt": "在巴西使用的葡萄牙文版 Starlink App 設定選單，顯示路由器與 Starlink 分頁、休眠排程與重設遮蔽物地圖選項",
         "caption": "葡萄牙文版 Starlink App 內的天線設定選單。",
-        "objectFit": "contain",
+        "objectFit": "portrait",
         "aspectRatio": 0.4943
       },
       "links": [
