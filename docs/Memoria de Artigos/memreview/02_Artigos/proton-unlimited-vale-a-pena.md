@@ -9,9 +9,9 @@ category: "guias-praticos-utilidade"
 reviewKind: "guia"
 type: "Guia de Compra"
 anexo_tipo: "Anexo-E-Boa-Vale-a-Pena (Trilha B) + Anexo-Tecnologia"
-status: "pauta-aprovada"
+status: "publicado"
 responsavel: "Job-1"
-proxima_acao: "redação (Job 2) nos 11 idiomas — prioridade #1 da fila do Bruno em 26/11"
+proxima_acao: "-"
 bloqueado_por: null
 score_autoridade: 74
 score_conversao: 82
