@@ -1,0 +1,305 @@
+{
+  "id": 1526,
+  "slug": "bbs-biobio-blush-batom-sombra-fps-63",
+  "locale": "pt",
+  "category": "guias-praticos-utilidade",
+  "reviewKind": "guia",
+  "author": {
+    "name": "Cecília Mauad",
+    "slug": "cecilia-mauad",
+    "role": "Em Casa com Cecília",
+    "initials": "CM",
+    "url": "/sobre"
+  },
+  "publishedAt": "28 de novembro de 2026",
+  "publishedAtISO": "2026-11-28",
+  "draft": false,
+  "isNew": true,
+  "imageFit": "contain",
+  "imageAspect": "landscape",
+  "pros": [],
+  "cons": [],
+  "coupon": "EMCASABIOBIO",
+  "affiliate": "biobio",
+  "type": "Guia de Produto",
+  "bodyDatesReason": "campanha",
+  "title": "BBS BioBio (Blush, Batom e Sombra FPS 63): como escolher a cor, o que diz o rótulo e quando o kit compensa",
+  "seoTitle": "BBS BioBio FPS 63: cores, rótulo e conta dos kits",
+  "description": "O BBS da BioBio é blush, batom e sombra num bastão com FPS 63 mineral. Veja as cores à venda, o que a ficha declara e quando o avulso sai mais barato que o kit.",
+  "metaDescription": "O código EMCASABIOBIO dá 10% OFF na BioBio. Veja as cores do BBS Blush, Batom e Sombra FPS 63, os filtros minerais do rótulo e quando o avulso vence o kit.",
+  "image": "/images/reviews/biobio/bbs-biobio-blush-batom-sombra-fps-63-hero-pt-v1.webp",
+  "imageAlt": "Duas modelos passam o BBS da BioBio na bochecha, nas cores Pêssego Rosé e Amora, em fotos do catálogo. A capa pergunta «Qual é sua cor?» e mostra o cupom EMCASABIOBIO.",
+  "cta": {
+    "text": "O BBS e os kits estão no site oficial da BioBio. O código EMCASABIOBIO entra no resumo da compra, no campo Cupom (opcional), e a linha Cupom de desconto confirma os 10%.",
+    "label": "Ver o BBS na BioBio",
+    "url": "https://biobio.com.br/products/bbs-biobio-blush-batom-e-sombra-fps-63",
+    "sponsored": true
+  },
+  "editorialNote": "Feito com as informações do site oficial; ninguém da equipe usou o produto. Somos parceiros da BioBio e podemos receber comissão pelo cupom.",
+  "relatedArticles": [
+    {
+      "slug": "base-biobio-bastao-cores"
+    },
+    {
+      "slug": "protetor-solar-biobio-e-bom"
+    },
+    {
+      "slug": "protetor-solar-mineral-ou-quimico-rotulo"
+    },
+    {
+      "slug": "biobio-e-boa"
+    },
+    {
+      "slug": "cupom-biobio-como-usar"
+    },
+    {
+      "slug": "black-friday-biobio"
+    }
+  ],
+  "decision": {
+    "takeIf": [
+      "Você quer cor de blush, batom e sombra num bastão só, com filtro mineral, para retocar ao longo do dia.",
+      "Você já ia levar a base em bastão ou o pó facial, e a cor que você quer entra num kit que sai mais barato que os avulsos."
+    ],
+    "skipIf": [
+      "Você procura o protetor do rosto: a própria ficha diz que o BBS não o substitui.",
+      "A cor que você quer não está à venda no site no dia da compra."
+    ]
+  },
+  "contentSections": [
+    {
+      "heading": "Resposta rápida",
+      "paragraphs": [
+        "O BBS da BioBio é um bastão de 4,5 g para blush, batom e sombra. A ficha declara FPS 63 com filtros minerais e avisa que não substitui o protetor do rosto. Na Black Friday, a Amora saía por R$ 59,94 e as demais cores por R$ 84,92: a cor decide se o kit compensa. O EMCASABIOBIO dá 10% OFF."
+      ]
+    },
+    {
+      "heading": "O que a ficha do BBS declara",
+      "paragraphs": [
+        "O BBS é um bastão multifuncional de 4,5 g: a mesma cor vai na maçã do rosto, nos lábios e na pálpebra. A ficha descreve a proteção como \"FPS 63 + UVA 24 (PPD 38%)\", com filtros 100% físicos e minerais, não nano: dióxido de titânio e óxido de zinco.",
+        "Entre os ativos, a ficha destaca ácido hialurônico e os óleos de pracaxi, rícino e rosa-mosqueta, e a loja descreve a cobertura como construtível, livre de petrolatos e silicones. A tabela resume o resto do que ela declara."
+      ],
+      "comparisonTable": {
+        "caption": "O que a ficha do BBS informa.",
+        "headers": [
+          "Item",
+          "O que a ficha informa"
+        ],
+        "rows": [
+          [
+            "Conteúdo",
+            "4,5 g"
+          ],
+          [
+            "Proteção",
+            "\"FPS 63 + UVA 24 (PPD 38%)\""
+          ],
+          [
+            "Filtros",
+            "Dióxido de titânio e óxido de zinco, minerais e não nano"
+          ],
+          [
+            "Usos",
+            "Blush, batom e sombra"
+          ],
+          [
+            "Resistência",
+            "À água e ao suor"
+          ],
+          [
+            "Reaplicação",
+            "A cada 2 horas"
+          ],
+          [
+            "Selos",
+            "Vegano, livre de crueldade, dermatologicamente testado e hipoalergênico"
+          ]
+        ]
+      },
+      "emphasis": "A própria ficha responde se o BBS substitui o protetor solar: \"Não. O BBS complementa o protetor solar do rosto, sem substituí-lo\".",
+      "postParagraphs": [
+        "Ou seja: o protetor facial continua sendo a proteção do rosto todo, e o BBS leva cor e filtro só onde é aplicado. O protetor da própria marca está em [Protetor solar BioBio é bom?](/reviews/protetor-solar-biobio-e-bom), e o que muda entre filtro mineral e químico, em [protetor solar mineral ou químico](/reviews/protetor-solar-mineral-ou-quimico-rotulo)."
+      ],
+      "image": {
+        "src": "/images/reviews/biobio/bbs-biobio-blush-batom-sombra-fps-63-bastao-fps-63.webp",
+        "alt": "O BBS da BioBio aberto, entre a tampa com FPS 63 e UVA 24 e a tampa com o nome BBS",
+        "caption": "O bastão e as tampas com o FPS 63 e o nome BBS. Foto: BioBio",
+        "href": "https://biobio.com.br/products/bbs-biobio-blush-batom-e-sombra-fps-63"
+      }
+    },
+    {
+      "heading": "As cores do BBS e como escolher",
+      "paragraphs": [
+        "A ficha diz que o BBS está \"disponível em 5 cores\": Mamão Papaia, Pêssego Rosé, Cenoura Bronze, Romã e Amora. O cadastro da loja tem mais duas, Tangerina e Tutti-frutti, que não estavam à venda na leitura de 28/11.",
+        "A BioBio, que também aparece escrita como Bio Bio, não descreve o tom de cada cor na ficha. Para escolher, a página tem o \"Me ajuda a escolher\", que pergunta se a pele é clara, média ou escura e se você quer só um corado ou cor marcada no lábio, e um vídeo com as cinco cores. As fotos da página mostram cada cor em modelos de peles diferentes, na bochecha e no lábio. A ficha informa troca ou devolução em até 7 dias, o que pesa para quem escolhe a cor só pelo quiz e pelo vídeo."
+      ],
+      "comparisonTable": {
+        "caption": "Cores do BBS à venda e preço avulso na Black Friday da loja. O valor com o código é conta de 10%.",
+        "headers": [
+          "Cor",
+          "Avulso",
+          "Com EMCASABIOBIO",
+          "Entra no Leve 2?"
+        ],
+        "rows": [
+          [
+            "Mamão Papaia",
+            "R$ 84,92",
+            "R$ 76,43",
+            "Sim"
+          ],
+          [
+            "Pêssego Rosé",
+            "R$ 84,92",
+            "R$ 76,43",
+            "Sim"
+          ],
+          [
+            "Cenoura Bronze",
+            "R$ 84,92",
+            "R$ 76,43",
+            "Sim"
+          ],
+          [
+            "Romã",
+            "R$ 84,92",
+            "R$ 76,43",
+            "Sim"
+          ],
+          [
+            "Amora",
+            "R$ 59,94",
+            "R$ 53,95",
+            "Não"
+          ]
+        ]
+      },
+      "postParagraphs": [
+        "Quem procura o blush BioBio Amora encontra a cor mais barata do BBS na campanha, mas ela fica fora do Leve 2, que pede \"uma cor cada, sem Amora\". A Dupla Make Prática e o Trio Essencial aceitam qualquer uma das cinco, a Amora inclusive.",
+        "A ficha ensina os três usos: no blush, aplicar nas maçãs do rosto e esfumar em direção às têmporas; no batom, construir a intensidade nos lábios; na sombra, aplicar na pálpebra móvel e esfumar com os dedos ou com pincel."
+      ],
+      "images": [
+        {
+          "src": "/images/reviews/biobio/bbs-biobio-blush-batom-sombra-fps-63-roma-modelo.webp",
+          "alt": "Modelo passa o BBS da BioBio na cor Romã na bochecha",
+          "caption": "A cor Romã na bochecha. Foto: BioBio",
+          "href": "https://biobio.com.br/products/bbs-biobio-blush-batom-e-sombra-fps-63",
+          "objectFit": "contain",
+          "aspectRatio": 1
+        }
+      ],
+      "links": [
+        {
+          "label": "Ver as cores do BBS",
+          "href": "https://biobio.com.br/products/bbs-biobio-blush-batom-e-sombra-fps-63",
+          "sponsored": true
+        }
+      ]
+    },
+    {
+      "heading": "Quanto custa e quando o kit compensa",
+      "paragraphs": [
+        "Fizemos a conta com os preços da Black Friday da loja, lidos em 28/11: o kit só vale a pena quando a soma dos avulsos que você levaria sai mais cara. Como a Amora custa menos, ela inverte a conta da Dupla Make Prática, que junta a base em bastão e um BBS. Fora da campanha, a ficha risca R$ 99,90 em todas as cores; se os preços mudarem, a conta é a mesma: some os avulsos na cor que você quer e compare com o kit."
+      ],
+      "comparisonTable": {
+        "caption": "Avulsos contra kits, antes do código, com a base #100 a #500 a R$ 109,90. A #600 Cacau sai R$ 5,00 mais barata e não muda quem ganha.",
+        "headers": [
+          "O que você leva",
+          "Avulsos",
+          "Kit",
+          "Sai mais barato"
+        ],
+        "rows": [
+          [
+            "Base e BBS em Mamão Papaia, Pêssego Rosé, Cenoura Bronze ou Romã",
+            "R$ 194,82",
+            "[Dupla Make Prática](https://biobio.com.br/products/dupla-make-pratica): R$ 184,90",
+            "Dupla, por R$ 9,92"
+          ],
+          [
+            "Base e BBS Amora",
+            "R$ 169,84",
+            "Dupla Make Prática: R$ 184,90",
+            "Avulsos, por R$ 15,06"
+          ],
+          [
+            "Base, BBS e pó facial FPS 42",
+            "R$ 309,13",
+            "[Trio Essencial](https://biobio.com.br/products/trio-essencial-biobio): R$ 269,70",
+            "Trio, por R$ 39,43"
+          ],
+          [
+            "Base, BBS Amora e pó facial FPS 42",
+            "R$ 284,15",
+            "Trio Essencial: R$ 269,70",
+            "Trio, por R$ 14,45"
+          ],
+          [
+            "Dois BBS de cores diferentes, sem Amora",
+            "R$ 169,84",
+            "Leve 2: R$ 159,80",
+            "Leve 2, por R$ 10,04"
+          ],
+          [
+            "Duas cores e a Amora",
+            "R$ 229,78",
+            "Leve 2 e Amora avulsa: R$ 219,74",
+            "Leve 2 e Amora, por R$ 10,04"
+          ],
+          [
+            "Mamão Papaia, Pêssego Rosé e Cenoura Bronze",
+            "R$ 254,76",
+            "[Combo de três BBS](https://biobio.com.br/products/combo-bbs-biobio-fps63-mamao-papaia-pessego-rose-e-cenoura-bronze): R$ 239,70",
+            "Combo, por R$ 15,06"
+          ]
+        ]
+      },
+      "postParagraphs": [
+        "Com o EMCASABIOBIO, os 10% entram sobre o total, e quem ganha em cada linha continua o mesmo. No nosso teste do [cupom BioBio](/cupons/biobio), o Trio Essencial caiu de R$ 269,70 para R$ 242,73 no resumo da compra. Pela mesma conta de 10%, a Dupla sai por R$ 166,41, o Leve 2 por R$ 143,82 e o combo de três por R$ 215,73. A soma do Leve 2 com uma Amora avulsa no mesmo carrinho é conta nossa, sem teste.",
+        "Segundo a página de cashback, a loja devolve 10% para a próxima compra em pedidos a partir de R$ 99,90, com 45 dias para usar, e isso vale junto com o cupom. É saldo para outra compra, não desconto do código; um BBS sozinho fica abaixo desse piso, e a página diz que o frete entra na soma. O frete sai por R$ 9,99 para todo o Brasil a partir de R$ 199 e é grátis no Sul e no Sudeste acima de R$ 279; a ficha fala em 3x sem juros no cartão.",
+        "Se você também vai escolher a base, os tons e o preço de cada um estão em [base BioBio em bastão](/reviews/base-biobio-bastao-cores)."
+      ],
+      "images": [
+        {
+          "src": "/images/reviews/biobio/bbs-biobio-blush-batom-sombra-fps-63-combo-tres-cores.webp",
+          "alt": "Três bastões BBS da BioBio com as caixas, nas cores do combo de três",
+          "caption": "O combo de três BBS: Mamão Papaia, Pêssego Rosé e Cenoura Bronze. Foto: BioBio",
+          "href": "https://biobio.com.br/products/combo-bbs-biobio-fps63-mamao-papaia-pessego-rose-e-cenoura-bronze",
+          "objectFit": "contain",
+          "aspectRatio": 1
+        }
+      ],
+      "links": [
+        {
+          "label": "Ver o BBS e os kits",
+          "href": "https://biobio.com.br/products/bbs-biobio-blush-batom-e-sombra-fps-63",
+          "sponsored": true
+        }
+      ]
+    },
+    {
+      "heading": "Para quem o BBS compensa e como usar o código",
+      "paragraphs": [
+        "O BBS faz sentido para quem quer um bastão só na bolsa para retocar a cor do rosto, dos lábios e dos olhos. Quem já ia levar a base sai melhor na Dupla, menos com a Amora: aí a base e o BBS avulsos saem por menos. Com o pó facial junto, o Trio ganha em qualquer cor. Quem quer as três cores do combo leva o combo; se uma das três for a Amora, o Leve 2 com a Amora avulsa sai por menos.",
+        "No site, escolha a cor ou o kit, vá ao resumo da compra em seguro.biobio.com.br e digite EMCASABIOBIO no campo Cupom (opcional), em Inserir cupom de desconto. Depois de Adicionar, a linha Cupom de desconto mostra os 10%. O [passo a passo do código](/reviews/cupom-biobio-como-usar) mostra cada tela."
+      ],
+      "bullets": [
+        "Escolha a cor primeiro: ela decide se o kit compensa.",
+        "Some os avulsos que você levaria, com o preço do dia, e compare com o kit.",
+        "Mantenha o protetor facial: o BBS só complementa.",
+        "Confira no resumo da compra se a linha Cupom de desconto apareceu."
+      ]
+    },
+    {
+      "heading": "Perguntas frequentes",
+      "bullets": [
+        "O BBS da BioBio substitui o protetor solar? Não. A ficha diz que ele complementa o protetor do rosto, sem substituí-lo, e pede reaplicação a cada 2 horas.",
+        "Quais são as cores do BBS BioBio? A ficha lista cinco: Mamão Papaia, Pêssego Rosé, Cenoura Bronze, Romã e Amora. Tangerina e Tutti-frutti aparecem no cadastro da loja, mas não estavam à venda.",
+        "Qual é o FPS do BBS BioBio? A ficha informa \"FPS 63 + UVA 24 (PPD 38%)\", com dióxido de titânio e óxido de zinco não nano.",
+        "Vale mais a Dupla Make Prática ou comprar separado? Depende da cor: com a Amora, a base e o BBS avulsos saíram R$ 15,06 mais baratos que a Dupla; nas outras cores, a Dupla saiu R$ 9,92 mais barata.",
+        "O EMCASABIOBIO vale no BBS? Vale: dá 10% OFF no BBS e nos kits. O cashback de 10% é regra da loja, para pedidos a partir de R$ 99,90, e segue valendo junto com o código."
+      ]
+    }
+  ],
+  "updatedAt": "2026-11-28"
+}

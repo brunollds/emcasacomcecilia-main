@@ -306586,6 +306586,9 @@ const reviewsChunk2: unknown[] = [
       },
       {
         "slug": "black-friday-biobio"
+      },
+      {
+        "slug": "biobio-ou-ollie"
       }
     ],
     "decision": {
@@ -306663,6 +306666,7 @@ const reviewsChunk2: unknown[] = [
           "O Facial é para o rosto de quem quer um protetor sem cor. A loja o indica para todos os tipos de pele, inclusive as oleosas, e diz que pode ir sozinho ou antes da maquiagem, como primer.",
           "Pela loja, o toque é seco, com efeito blur e um véu leve na pele, com baixo resíduo branco. A página ainda fala em proteção contra a luz azul, prevenção de manchas e de melasma, 99,01% de ingredientes de origem natural e produto vegano.",
           "O cheiro vem de óleos essenciais de lavanda, capim-limão e alecrim. Quem reage a óleo essencial deve conferir a composição antes de comprar, e na gravidez e na amamentação a loja manda conversar com o médico.",
+          "Quem está entre ele e os protetores faciais da Ollie tem a comparação por filtro, resistência à água e preço por grama em [BioBio ou Ollie](/reviews/biobio-ou-ollie).",
           "Passo a passo da página do produto:"
         ],
         "bullets": [
@@ -306773,7 +306777,7 @@ const reviewsChunk2: unknown[] = [
         "paragraphs": [
           "Os dois não se trocam, e a escolha sai da rotina.",
           "Escolha o Facial se o uso é no rosto de adulto, fora da água, sozinho ou antes da maquiagem, e você quer um protetor sem cor de toque seco. Escolha o Kids se é para criança de 6 meses ou mais que vai pegar água e suor, ou se você prefere um bastão para passar com os dedos e levar na bolsa.",
-          "Com menos de 6 meses, o pediatra decide antes. Quem quer cor e FPS no mesmo produto vai para a base, o BBS ou o pó, como na seção anterior."
+          "Com menos de 6 meses, o pediatra decide antes. Quem quer cor e FPS no mesmo produto vai para a base, o [BBS](/reviews/bbs-biobio-blush-batom-sombra-fps-63) ou o pó, como na seção anterior."
         ]
       },
       {
@@ -306842,6 +306846,9 @@ const reviewsChunk2: unknown[] = [
       },
       {
         "slug": "black-friday-biobio"
+      },
+      {
+        "slug": "bbs-biobio-blush-batom-sombra-fps-63"
       }
     ],
     "decision": {
@@ -307070,7 +307077,8 @@ const reviewsChunk2: unknown[] = [
         },
         "postParagraphs": [
           "Nos kits, confira no resumo da compra se os 10% entraram e quais tons e cores você escolheu. Para saber se o kit compensa, some os preços avulsos dos itens que você escolheria e compare. A troca ou devolução de kit vale para todos os itens, diz a loja.",
-          "O frete grátis anunciado vale para o Sul e o Sudeste acima de R$ 279, e o parcelamento é de até 8x sem juros. Informe o CEP no checkout para conferir prazo e frete antes de pagar; se quiser ver mais sobre a loja, leia [BioBio é confiável?](/reviews/biobio-e-confiavel). As ofertas da campanha estão na [Black Friday da BioBio](/reviews/black-friday-biobio)."
+          "O frete grátis anunciado vale para o Sul e o Sudeste acima de R$ 279, e o parcelamento é de até 8x sem juros. Informe o CEP no checkout para conferir prazo e frete antes de pagar; se quiser ver mais sobre a loja, leia [BioBio é confiável?](/reviews/biobio-e-confiavel). As ofertas da campanha estão na [Black Friday da BioBio](/reviews/black-friday-biobio).",
+          "As cores do BBS e a conta de quando a Dupla ou o Trio sai mais barato que os avulsos estão em [BBS BioBio FPS 63](/reviews/bbs-biobio-blush-batom-sombra-fps-63)."
         ],
         "images": [
           {
@@ -337418,6 +337426,12 @@ const reviewsChunk2: unknown[] = [
       },
       {
         "slug": "black-friday-biobio"
+      },
+      {
+        "slug": "biobio-ou-ollie"
+      },
+      {
+        "slug": "bbs-biobio-blush-batom-sombra-fps-63"
       }
     ],
     "decision": {
@@ -337537,7 +337551,7 @@ const reviewsChunk2: unknown[] = [
         "heading": "Resíduo branco, cor e acabamento",
         "paragraphs": [
           "A SBD lembra que os protetores físicos não eram bem aceitos antigamente por deixarem a pele esbranquiçada, e diz que isso tem sido minimizado. As páginas dos produtos descrevem assim: o Facial é sem cor, de toque seco e baixo resíduo branco; o Kids começa branco e, diz a loja, se adapta ao tom da pele ao espalhar. Como cada um fica na sua pele só o uso mostra.",
-          "Quem quer cor tem na BioBio a base em bastão (FPS 33), o BBS (FPS 63) e o pó (FPS 42). A norma separa o protetor solar, com a proteção como finalidade principal, do produto multifuncional, em que ela é um benefício adicional, e o multifuncional que declara FPS deve trazer a frase \"Este produto não é um protetor solar\" (artigos 17 e 18). A embalagem diz em qual caso cada um se enquadra. Se a base com FPS substitui o protetor está no [guia da base em bastão](/reviews/base-biobio-bastao-cores)."
+          "Quem quer cor tem na BioBio a base em bastão (FPS 33), o [BBS](/reviews/bbs-biobio-blush-batom-sombra-fps-63) (FPS 63) e o pó (FPS 42). A norma separa o protetor solar, com a proteção como finalidade principal, do produto multifuncional, em que ela é um benefício adicional, e o multifuncional que declara FPS deve trazer a frase \"Este produto não é um protetor solar\" (artigos 17 e 18). A embalagem diz em qual caso cada um se enquadra. Se a base com FPS substitui o protetor está no [guia da base em bastão](/reviews/base-biobio-bastao-cores)."
         ],
         "images": [
           {
@@ -337620,7 +337634,8 @@ const reviewsChunk2: unknown[] = [
           ]
         },
         "postParagraphs": [
-          "A loja anuncia frete grátis no Sul e no Sudeste em compras acima de R$ 279; nas outras regiões e abaixo disso, o frete sai pelo CEP, no checkout."
+          "A loja anuncia frete grátis no Sul e no Sudeste em compras acima de R$ 279; nas outras regiões e abaixo disso, o frete sai pelo CEP, no checkout.",
+          "O Sunnature Facial lado a lado com os protetores faciais da Ollie, filtro por filtro, está em [BioBio ou Ollie](/reviews/biobio-ou-ollie)."
         ]
       },
       {
@@ -337698,6 +337713,9 @@ const reviewsChunk2: unknown[] = [
       },
       {
         "slug": "pinkcheeks-e-confiavel"
+      },
+      {
+        "slug": "biobio-ou-ollie"
       }
     ],
     "decision": {
@@ -337893,7 +337911,8 @@ const reviewsChunk2: unknown[] = [
         "paragraphs": [
           "Para quem quer o maior FPUVA declarado, o Pink Stick: 70, contra 40 da Ollie. Entre os bastões com cor, ele também custa menos por grama, e o código aumenta a diferença. Em compensação, a lista de ingredientes inclui perfume, e o FPS dele (90) é menor que o da Ollie (95).",
           "Para quem quer um bastão sem cor, a Ollie Incolor custa menos por grama que o Clear Stick, e a lista de ingredientes dela não traz perfume. O Clear Stick declara FPUVA 50, contra 40 da Ollie, e FPS 70, contra 95.",
-          "Quem quer cobertura média declarada fica com o Bastão Com Cor da Ollie; o Pink Stick fala em leve a média. Na dúvida sobre fórmula ou pele sensível, o dermatologista."
+          "Quem quer cobertura média declarada fica com o Bastão Com Cor da Ollie; o Pink Stick fala em leve a média. Na dúvida sobre fórmula ou pele sensível, o dermatologista.",
+          "Para protetor facial fora do bastão, a comparação dos faciais da Ollie com o Sunnature Facial da BioBio está em [BioBio ou Ollie](/reviews/biobio-ou-ollie)."
         ],
         "emphasis": "A conta fecha assim: com cor, o Pink Stick tem mais FPUVA e custa menos por grama. Sem cor, a Ollie Incolor custa menos por grama que o Clear Stick. A cor certa na sua pele nenhuma ficha resolve."
       },
@@ -367173,6 +367192,557 @@ const reviewsChunk2: unknown[] = [
         "تريد سعرًا لا يتغير عند التجديد: ابتداءً من السنة الثالثة يكون سعر Mullvad السنوي هو الأقل."
       ]
     }
+  },
+  {
+    "id": 1526,
+    "slug": "bbs-biobio-blush-batom-sombra-fps-63",
+    "locale": "pt",
+    "category": "guias-praticos-utilidade",
+    "reviewKind": "guia",
+    "author": {
+      "name": "Cecília Mauad",
+      "slug": "cecilia-mauad",
+      "role": "Em Casa com Cecília",
+      "initials": "CM",
+      "url": "/sobre"
+    },
+    "publishedAt": "28 de novembro de 2026",
+    "publishedAtISO": "2026-11-28",
+    "draft": false,
+    "isNew": true,
+    "imageFit": "contain",
+    "imageAspect": "landscape",
+    "pros": [],
+    "cons": [],
+    "coupon": "EMCASABIOBIO",
+    "affiliate": "biobio",
+    "type": "Guia de Produto",
+    "bodyDatesReason": "campanha",
+    "title": "BBS BioBio (Blush, Batom e Sombra FPS 63): como escolher a cor, o que diz o rótulo e quando o kit compensa",
+    "seoTitle": "BBS BioBio FPS 63: cores, rótulo e conta dos kits",
+    "description": "O BBS da BioBio é blush, batom e sombra num bastão com FPS 63 mineral. Veja as cores à venda, o que a ficha declara e quando o avulso sai mais barato que o kit.",
+    "metaDescription": "O código EMCASABIOBIO dá 10% OFF na BioBio. Veja as cores do BBS Blush, Batom e Sombra FPS 63, os filtros minerais do rótulo e quando o avulso vence o kit.",
+    "image": "/images/reviews/biobio/bbs-biobio-blush-batom-sombra-fps-63-hero-pt-v1.webp",
+    "imageAlt": "Duas modelos passam o BBS da BioBio na bochecha, nas cores Pêssego Rosé e Amora, em fotos do catálogo. A capa pergunta «Qual é sua cor?» e mostra o cupom EMCASABIOBIO.",
+    "cta": {
+      "text": "O BBS e os kits estão no site oficial da BioBio. O código EMCASABIOBIO entra no resumo da compra, no campo Cupom (opcional), e a linha Cupom de desconto confirma os 10%.",
+      "label": "Ver o BBS na BioBio",
+      "url": "https://biobio.com.br/products/bbs-biobio-blush-batom-e-sombra-fps-63",
+      "sponsored": true
+    },
+    "editorialNote": "Feito com as informações do site oficial; ninguém da equipe usou o produto. Somos parceiros da BioBio e podemos receber comissão pelo cupom.",
+    "relatedArticles": [
+      {
+        "slug": "base-biobio-bastao-cores"
+      },
+      {
+        "slug": "protetor-solar-biobio-e-bom"
+      },
+      {
+        "slug": "protetor-solar-mineral-ou-quimico-rotulo"
+      },
+      {
+        "slug": "biobio-e-boa"
+      },
+      {
+        "slug": "cupom-biobio-como-usar"
+      },
+      {
+        "slug": "black-friday-biobio"
+      }
+    ],
+    "decision": {
+      "takeIf": [
+        "Você quer cor de blush, batom e sombra num bastão só, com filtro mineral, para retocar ao longo do dia.",
+        "Você já ia levar a base em bastão ou o pó facial, e a cor que você quer entra num kit que sai mais barato que os avulsos."
+      ],
+      "skipIf": [
+        "Você procura o protetor do rosto: a própria ficha diz que o BBS não o substitui.",
+        "A cor que você quer não está à venda no site no dia da compra."
+      ]
+    },
+    "contentSections": [
+      {
+        "heading": "Resposta rápida",
+        "paragraphs": [
+          "O BBS da BioBio é um bastão de 4,5 g para blush, batom e sombra. A ficha declara FPS 63 com filtros minerais e avisa que não substitui o protetor do rosto. Na Black Friday, a Amora saía por R$ 59,94 e as demais cores por R$ 84,92: a cor decide se o kit compensa. O EMCASABIOBIO dá 10% OFF."
+        ]
+      },
+      {
+        "heading": "O que a ficha do BBS declara",
+        "paragraphs": [
+          "O BBS é um bastão multifuncional de 4,5 g: a mesma cor vai na maçã do rosto, nos lábios e na pálpebra. A ficha descreve a proteção como \"FPS 63 + UVA 24 (PPD 38%)\", com filtros 100% físicos e minerais, não nano: dióxido de titânio e óxido de zinco.",
+          "Entre os ativos, a ficha destaca ácido hialurônico e os óleos de pracaxi, rícino e rosa-mosqueta, e a loja descreve a cobertura como construtível, livre de petrolatos e silicones. A tabela resume o resto do que ela declara."
+        ],
+        "comparisonTable": {
+          "caption": "O que a ficha do BBS informa.",
+          "headers": [
+            "Item",
+            "O que a ficha informa"
+          ],
+          "rows": [
+            [
+              "Conteúdo",
+              "4,5 g"
+            ],
+            [
+              "Proteção",
+              "\"FPS 63 + UVA 24 (PPD 38%)\""
+            ],
+            [
+              "Filtros",
+              "Dióxido de titânio e óxido de zinco, minerais e não nano"
+            ],
+            [
+              "Usos",
+              "Blush, batom e sombra"
+            ],
+            [
+              "Resistência",
+              "À água e ao suor"
+            ],
+            [
+              "Reaplicação",
+              "A cada 2 horas"
+            ],
+            [
+              "Selos",
+              "Vegano, livre de crueldade, dermatologicamente testado e hipoalergênico"
+            ]
+          ]
+        },
+        "emphasis": "A própria ficha responde se o BBS substitui o protetor solar: \"Não. O BBS complementa o protetor solar do rosto, sem substituí-lo\".",
+        "postParagraphs": [
+          "Ou seja: o protetor facial continua sendo a proteção do rosto todo, e o BBS leva cor e filtro só onde é aplicado. O protetor da própria marca está em [Protetor solar BioBio é bom?](/reviews/protetor-solar-biobio-e-bom), e o que muda entre filtro mineral e químico, em [protetor solar mineral ou químico](/reviews/protetor-solar-mineral-ou-quimico-rotulo)."
+        ],
+        "image": {
+          "src": "/images/reviews/biobio/bbs-biobio-blush-batom-sombra-fps-63-bastao-fps-63.webp",
+          "alt": "O BBS da BioBio aberto, entre a tampa com FPS 63 e UVA 24 e a tampa com o nome BBS",
+          "caption": "O bastão e as tampas com o FPS 63 e o nome BBS. Foto: BioBio",
+          "href": "https://biobio.com.br/products/bbs-biobio-blush-batom-e-sombra-fps-63"
+        }
+      },
+      {
+        "heading": "As cores do BBS e como escolher",
+        "paragraphs": [
+          "A ficha diz que o BBS está \"disponível em 5 cores\": Mamão Papaia, Pêssego Rosé, Cenoura Bronze, Romã e Amora. O cadastro da loja tem mais duas, Tangerina e Tutti-frutti, que não estavam à venda na leitura de 28/11.",
+          "A BioBio, que também aparece escrita como Bio Bio, não descreve o tom de cada cor na ficha. Para escolher, a página tem o \"Me ajuda a escolher\", que pergunta se a pele é clara, média ou escura e se você quer só um corado ou cor marcada no lábio, e um vídeo com as cinco cores. As fotos da página mostram cada cor em modelos de peles diferentes, na bochecha e no lábio. A ficha informa troca ou devolução em até 7 dias, o que pesa para quem escolhe a cor só pelo quiz e pelo vídeo."
+        ],
+        "comparisonTable": {
+          "caption": "Cores do BBS à venda e preço avulso na Black Friday da loja. O valor com o código é conta de 10%.",
+          "headers": [
+            "Cor",
+            "Avulso",
+            "Com EMCASABIOBIO",
+            "Entra no Leve 2?"
+          ],
+          "rows": [
+            [
+              "Mamão Papaia",
+              "R$ 84,92",
+              "R$ 76,43",
+              "Sim"
+            ],
+            [
+              "Pêssego Rosé",
+              "R$ 84,92",
+              "R$ 76,43",
+              "Sim"
+            ],
+            [
+              "Cenoura Bronze",
+              "R$ 84,92",
+              "R$ 76,43",
+              "Sim"
+            ],
+            [
+              "Romã",
+              "R$ 84,92",
+              "R$ 76,43",
+              "Sim"
+            ],
+            [
+              "Amora",
+              "R$ 59,94",
+              "R$ 53,95",
+              "Não"
+            ]
+          ]
+        },
+        "postParagraphs": [
+          "Quem procura o blush BioBio Amora encontra a cor mais barata do BBS na campanha, mas ela fica fora do Leve 2, que pede \"uma cor cada, sem Amora\". A Dupla Make Prática e o Trio Essencial aceitam qualquer uma das cinco, a Amora inclusive.",
+          "A ficha ensina os três usos: no blush, aplicar nas maçãs do rosto e esfumar em direção às têmporas; no batom, construir a intensidade nos lábios; na sombra, aplicar na pálpebra móvel e esfumar com os dedos ou com pincel."
+        ],
+        "images": [
+          {
+            "src": "/images/reviews/biobio/bbs-biobio-blush-batom-sombra-fps-63-roma-modelo.webp",
+            "alt": "Modelo passa o BBS da BioBio na cor Romã na bochecha",
+            "caption": "A cor Romã na bochecha. Foto: BioBio",
+            "href": "https://biobio.com.br/products/bbs-biobio-blush-batom-e-sombra-fps-63",
+            "objectFit": "contain",
+            "aspectRatio": 1
+          }
+        ],
+        "links": [
+          {
+            "label": "Ver as cores do BBS",
+            "href": "https://biobio.com.br/products/bbs-biobio-blush-batom-e-sombra-fps-63",
+            "sponsored": true
+          }
+        ]
+      },
+      {
+        "heading": "Quanto custa e quando o kit compensa",
+        "paragraphs": [
+          "Fizemos a conta com os preços da Black Friday da loja, lidos em 28/11: o kit só vale a pena quando a soma dos avulsos que você levaria sai mais cara. Como a Amora custa menos, ela inverte a conta da Dupla Make Prática, que junta a base em bastão e um BBS. Fora da campanha, a ficha risca R$ 99,90 em todas as cores; se os preços mudarem, a conta é a mesma: some os avulsos na cor que você quer e compare com o kit."
+        ],
+        "comparisonTable": {
+          "caption": "Avulsos contra kits, antes do código, com a base #100 a #500 a R$ 109,90. A #600 Cacau sai R$ 5,00 mais barata e não muda quem ganha.",
+          "headers": [
+            "O que você leva",
+            "Avulsos",
+            "Kit",
+            "Sai mais barato"
+          ],
+          "rows": [
+            [
+              "Base e BBS em Mamão Papaia, Pêssego Rosé, Cenoura Bronze ou Romã",
+              "R$ 194,82",
+              "[Dupla Make Prática](https://biobio.com.br/products/dupla-make-pratica): R$ 184,90",
+              "Dupla, por R$ 9,92"
+            ],
+            [
+              "Base e BBS Amora",
+              "R$ 169,84",
+              "Dupla Make Prática: R$ 184,90",
+              "Avulsos, por R$ 15,06"
+            ],
+            [
+              "Base, BBS e pó facial FPS 42",
+              "R$ 309,13",
+              "[Trio Essencial](https://biobio.com.br/products/trio-essencial-biobio): R$ 269,70",
+              "Trio, por R$ 39,43"
+            ],
+            [
+              "Base, BBS Amora e pó facial FPS 42",
+              "R$ 284,15",
+              "Trio Essencial: R$ 269,70",
+              "Trio, por R$ 14,45"
+            ],
+            [
+              "Dois BBS de cores diferentes, sem Amora",
+              "R$ 169,84",
+              "Leve 2: R$ 159,80",
+              "Leve 2, por R$ 10,04"
+            ],
+            [
+              "Duas cores e a Amora",
+              "R$ 229,78",
+              "Leve 2 e Amora avulsa: R$ 219,74",
+              "Leve 2 e Amora, por R$ 10,04"
+            ],
+            [
+              "Mamão Papaia, Pêssego Rosé e Cenoura Bronze",
+              "R$ 254,76",
+              "[Combo de três BBS](https://biobio.com.br/products/combo-bbs-biobio-fps63-mamao-papaia-pessego-rose-e-cenoura-bronze): R$ 239,70",
+              "Combo, por R$ 15,06"
+            ]
+          ]
+        },
+        "postParagraphs": [
+          "Com o EMCASABIOBIO, os 10% entram sobre o total, e quem ganha em cada linha continua o mesmo. No nosso teste do [cupom BioBio](/cupons/biobio), o Trio Essencial caiu de R$ 269,70 para R$ 242,73 no resumo da compra. Pela mesma conta de 10%, a Dupla sai por R$ 166,41, o Leve 2 por R$ 143,82 e o combo de três por R$ 215,73. A soma do Leve 2 com uma Amora avulsa no mesmo carrinho é conta nossa, sem teste.",
+          "Segundo a página de cashback, a loja devolve 10% para a próxima compra em pedidos a partir de R$ 99,90, com 45 dias para usar, e isso vale junto com o cupom. É saldo para outra compra, não desconto do código; um BBS sozinho fica abaixo desse piso, e a página diz que o frete entra na soma. O frete sai por R$ 9,99 para todo o Brasil a partir de R$ 199 e é grátis no Sul e no Sudeste acima de R$ 279; a ficha fala em 3x sem juros no cartão.",
+          "Se você também vai escolher a base, os tons e o preço de cada um estão em [base BioBio em bastão](/reviews/base-biobio-bastao-cores)."
+        ],
+        "images": [
+          {
+            "src": "/images/reviews/biobio/bbs-biobio-blush-batom-sombra-fps-63-combo-tres-cores.webp",
+            "alt": "Três bastões BBS da BioBio com as caixas, nas cores do combo de três",
+            "caption": "O combo de três BBS: Mamão Papaia, Pêssego Rosé e Cenoura Bronze. Foto: BioBio",
+            "href": "https://biobio.com.br/products/combo-bbs-biobio-fps63-mamao-papaia-pessego-rose-e-cenoura-bronze",
+            "objectFit": "contain",
+            "aspectRatio": 1
+          }
+        ],
+        "links": [
+          {
+            "label": "Ver o BBS e os kits",
+            "href": "https://biobio.com.br/products/bbs-biobio-blush-batom-e-sombra-fps-63",
+            "sponsored": true
+          }
+        ]
+      },
+      {
+        "heading": "Para quem o BBS compensa e como usar o código",
+        "paragraphs": [
+          "O BBS faz sentido para quem quer um bastão só na bolsa para retocar a cor do rosto, dos lábios e dos olhos. Quem já ia levar a base sai melhor na Dupla, menos com a Amora: aí a base e o BBS avulsos saem por menos. Com o pó facial junto, o Trio ganha em qualquer cor. Quem quer as três cores do combo leva o combo; se uma das três for a Amora, o Leve 2 com a Amora avulsa sai por menos.",
+          "No site, escolha a cor ou o kit, vá ao resumo da compra em seguro.biobio.com.br e digite EMCASABIOBIO no campo Cupom (opcional), em Inserir cupom de desconto. Depois de Adicionar, a linha Cupom de desconto mostra os 10%. O [passo a passo do código](/reviews/cupom-biobio-como-usar) mostra cada tela."
+        ],
+        "bullets": [
+          "Escolha a cor primeiro: ela decide se o kit compensa.",
+          "Some os avulsos que você levaria, com o preço do dia, e compare com o kit.",
+          "Mantenha o protetor facial: o BBS só complementa.",
+          "Confira no resumo da compra se a linha Cupom de desconto apareceu."
+        ]
+      },
+      {
+        "heading": "Perguntas frequentes",
+        "bullets": [
+          "O BBS da BioBio substitui o protetor solar? Não. A ficha diz que ele complementa o protetor do rosto, sem substituí-lo, e pede reaplicação a cada 2 horas.",
+          "Quais são as cores do BBS BioBio? A ficha lista cinco: Mamão Papaia, Pêssego Rosé, Cenoura Bronze, Romã e Amora. Tangerina e Tutti-frutti aparecem no cadastro da loja, mas não estavam à venda.",
+          "Qual é o FPS do BBS BioBio? A ficha informa \"FPS 63 + UVA 24 (PPD 38%)\", com dióxido de titânio e óxido de zinco não nano.",
+          "Vale mais a Dupla Make Prática ou comprar separado? Depende da cor: com a Amora, a base e o BBS avulsos saíram R$ 15,06 mais baratos que a Dupla; nas outras cores, a Dupla saiu R$ 9,92 mais barata.",
+          "O EMCASABIOBIO vale no BBS? Vale: dá 10% OFF no BBS e nos kits. O cashback de 10% é regra da loja, para pedidos a partir de R$ 99,90, e segue valendo junto com o código."
+        ]
+      }
+    ],
+    "updatedAt": "2026-11-28"
+  },
+  {
+    "id": 1527,
+    "slug": "biobio-ou-ollie",
+    "locale": "pt",
+    "category": "guias-praticos-utilidade",
+    "reviewKind": "guia",
+    "author": {
+      "name": "Cecília Mauad",
+      "slug": "cecilia-mauad",
+      "role": "Em Casa com Cecília",
+      "initials": "CM",
+      "url": "/sobre"
+    },
+    "publishedAt": "28 de novembro de 2026",
+    "publishedAtISO": "2026-11-28",
+    "draft": false,
+    "isNew": true,
+    "imageFit": "contain",
+    "imageAspect": "landscape",
+    "pros": [],
+    "cons": [],
+    "coupon": "EMCASABIOBIO",
+    "affiliate": "biobio",
+    "type": "Comparativo de Beleza",
+    "bodyDatesReason": "campanha",
+    "title": "BioBio ou Ollie: qual protetor solar facial escolher para o dia a dia pelo rótulo, filtros e preço por grama",
+    "seoTitle": "BioBio ou Ollie: qual protetor solar facial escolher?",
+    "description": "O Sunnature Facial da BioBio é 100% mineral e não resiste à água; a Ollie tem um fluido mineral resistente e bastões de filtro misto. Veja filtros, FPS e preço por grama.",
+    "metaDescription": "O código EMCASABIOBIO dá 10% OFF na BioBio. Compare o protetor facial dela com os da Ollie por filtro, resistência à água e preço por grama.",
+    "image": "/images/reviews/biobio/biobio-ou-ollie-hero-pt-v1.webp",
+    "imageAlt": "Mão segura dois tubos do protetor solar facial Sunnature FPS 30 da BioBio sobre uma pincelada do creme, em foto da loja. A capa pergunta «Protetor facial ou Ollie?» e mostra o cupom EMCASABIOBIO.",
+    "cta": {
+      "text": "O Sunnature Facial FPS 30 está no site oficial da BioBio. O código EMCASABIOBIO entra no resumo da compra, no campo Cupom (opcional), e a linha Cupom de desconto confirma os 10%.",
+      "label": "Ver o Sunnature na BioBio",
+      "url": "https://biobio.com.br/products/protetor-solar-fisico-mineral-sunnature-fps30",
+      "sponsored": true
+    },
+    "editorialNote": "Feito com as informações dos sites oficiais; ninguém da equipe usou os produtos. Somos parceiros da BioBio e podemos receber comissão pelo cupom; a Ollie não é parceira.",
+    "relatedArticles": [
+      {
+        "slug": "protetor-solar-biobio-e-bom"
+      },
+      {
+        "slug": "protetor-solar-mineral-ou-quimico-rotulo"
+      },
+      {
+        "slug": "pinkcheeks-ou-ollie-protetor-bastao"
+      },
+      {
+        "slug": "base-biobio-bastao-cores"
+      },
+      {
+        "slug": "bbs-biobio-blush-batom-sombra-fps-63"
+      },
+      {
+        "slug": "cupom-biobio-como-usar"
+      }
+    ],
+    "decision": {
+      "takeIf": [
+        "Você quer filtro só mineral, com óxido de zinco e dióxido de titânio não nano, para a rotina sem praia nem treino.",
+        "Você quer o tubo maior, de 50 g, e vai comprar em campanha: com o EMCASABIOBIO, o grama fica perto do fluido mineral da Ollie ou abaixo dele."
+      ],
+      "skipIf": [
+        "Você precisa de protetor resistente à água e ao suor: a própria BioBio declara que o Sunnature Facial não resiste.",
+        "Você quer FPS acima de 30 no rosto."
+      ]
+    },
+    "contentSections": [
+      {
+        "heading": "Resposta rápida",
+        "paragraphs": [
+          "O Sunnature Facial FPS 30 da BioBio vem em tubo de 50 g, com filtros só minerais e não nano, e não resiste à água. Na Ollie, o fluido mineral declara FPS 50 e resistência à água; os bastões FPS 95 têm filtro misto. Por grama, a Ollie ganha na tabela, e o EMCASABIOBIO virou a conta na Black Friday."
+        ]
+      },
+      {
+        "heading": "Os protetores faciais da BioBio e da Ollie lado a lado",
+        "paragraphs": [
+          "A comparação fica no protetor facial de uso diário para adulto: o Sunnature Facial FPS 30 da BioBio contra os quatro protetores de rosto de uso diário da Ollie. Ficaram de fora o infantil em bastão, o hidratante labial, o pó compacto, o corretivo em bastão, o bastão 3 em 1 e os kits da Ollie, além do Kids FPS 50 da BioBio, que está em [Protetor solar BioBio é bom?](/reviews/protetor-solar-biobio-e-bom).",
+          "A tabela traz o que cada ficha declara, com os nomes dos filtros escritos como cada loja escreve."
+        ],
+        "comparisonTable": {
+          "caption": "O que cada ficha declara. O tipo de filtro é leitura nossa da composição publicada.",
+          "headers": [
+            "Produto",
+            "Conteúdo",
+            "FPS e FPUVA",
+            "Filtros",
+            "Água e suor"
+          ],
+          "rows": [
+            [
+              "BioBio Sunnature Facial",
+              "50 g",
+              "FPS 30, UVA 16",
+              "Óxido de zinco e dióxido de titânio não nano: só mineral",
+              "Não resiste"
+            ],
+            [
+              "Ollie Protetor Solar Mineral Fluido",
+              "40 g",
+              "FPS 50, FPUVA 16",
+              "\"Zinc Oxide/Triethoxycaprylylsilane\": só mineral",
+              "Resiste, segundo a ficha"
+            ],
+            [
+              "Ollie Protetor Solar em Bastão Incolor",
+              "17 g",
+              "FPS 95, FPUVA 40",
+              "Titanium Dioxide, Diethylamino Hydroxybenzoyl Hexyl Benzoate, Bis-Ethylhexyloxyphenol Methoxyphenyl Triazine, Ethylhexyl Salicylate e Ethylhexyl Triazone: misto",
+              "\"Alta resistência\", segundo a ficha"
+            ],
+            [
+              "Ollie Protetor Solar em Bastão Com Cor",
+              "15 g, 6 tons",
+              "FPS 95, FPUVA 40",
+              "Filtros químicos e dióxido de titânio: misto",
+              "Resiste, segundo o FAQ"
+            ],
+            [
+              "Ollie Glow Hidratante Facial FPS50",
+              "30 ml, 2 tons",
+              "FPS 50, FPUVA 18",
+              "Etilhexil Triazona, Octocrileno, Avobenzona, Bis-Etilhexiloxifenol Metoxifenil Triazina, Benzoato de Dietilamino Hidroxibenzoil Hexila e Metileno Bis-Benzotriazolil Tetrametilbutilfenol: filtros químicos",
+              "\"Não foi testado\", segundo o FAQ"
+            ]
+          ]
+        },
+        "postParagraphs": [
+          "O duelo de mineral contra mineral é o Sunnature Facial contra o Mineral Fluido. Os dois declaram FPUVA 16; a Ollie declara FPS 50 e resistência à água e ao suor, e a BioBio, FPS 30 sem resistência à água.",
+          "A BioBio, que também aparece escrita como Bio Bio, declara ainda 99,01% de ingredientes de origem natural, proteção contra a luz azul e filtros não nano. A página da Ollie que lemos não informa nenhum dos três."
+        ],
+        "images": [
+          {
+            "src": "/images/reviews/biobio/biobio-ou-ollie-sunnature-50g.webp",
+            "alt": "Tubo dourado do protetor solar Sunnature Facial FPS 30 da BioBio, com 50 g",
+            "caption": "O Sunnature Facial FPS 30, em tubo de 50 g. Foto: BioBio",
+            "href": "https://biobio.com.br/products/protetor-solar-fisico-mineral-sunnature-fps30",
+            "objectFit": "contain",
+            "aspectRatio": 1
+          }
+        ]
+      },
+      {
+        "heading": "Filtro mineral ou misto: o que a lista de ingredientes mostra",
+        "paragraphs": [
+          "Filtro mineral, também chamado de físico, é o óxido de zinco e o dióxido de titânio. Os outros filtros, como a triazona e o octocrileno, são químicos, também chamados de orgânicos. Quando os dois tipos aparecem juntos, o filtro é misto.",
+          "Na BioBio, o Sunnature Facial tem só os dois minerais. Na Ollie, o Mineral Fluido tem só óxido de zinco; o Bastão Incolor mistura um mineral com filtros químicos; o Glow Hidratante usa só químicos."
+        ],
+        "emphasis": "Bastão não quer dizer mineral. Quem decide é a lista de ingredientes. O Bastão Incolor FPS 95 da Ollie tem dióxido de titânio e quatro filtros químicos.",
+        "postParagraphs": [
+          "Nenhum dos dois tipos é melhor para todo mundo. Como ler cada filtro no rótulo e para quem cada um costuma ser indicado está em [protetor solar mineral ou químico](/reviews/protetor-solar-mineral-ou-quimico-rotulo). Para pele com melasma, rosácea ou acne, quem orienta a escolha é o dermatologista."
+        ]
+      },
+      {
+        "heading": "Água, suor e cor no rosto",
+        "paragraphs": [
+          "A BioBio declara que o Sunnature Facial não resiste à água e pede reaplicação depois de suor ou banho. Ele é para a rotina sem praia, piscina ou treino. Para esses dias, o Mineral Fluido e os bastões da Ollie declaram resistência; o Glow não foi testado para isso, segundo a própria Ollie.",
+          "Quem procura um bastão resistente com cupom numa marca parceira tem a comparação em [Pink Cheeks ou Ollie](/reviews/pinkcheeks-ou-ollie-protetor-bastao).",
+          "O Sunnature Facial é sem cor, segundo a BioBio. Na marca, quem quer cor com filtro mineral tem a [base em bastão FPS 33](/reviews/base-biobio-bastao-cores). Na Ollie, a cor vem no Bastão Com Cor, de 6 tons, e no Glow Hidratante, de 2."
+        ]
+      },
+      {
+        "heading": "Preço por grama no preço de tabela e no do dia",
+        "paragraphs": [
+          "Fizemos a conta com os preços lidos em 28/11, último dia da Black Friday da BioBio. A BioBio riscava R$ 139,90 e vendia o tubo por R$ 111,92, ou R$ 99,90 cada no Leve 2. A Ollie mostrava os produtos 15% abaixo do preço normal; a faixa do site falava em 30% OFF acima de R$ 250, que não entra na conta abaixo."
+        ],
+        "comparisonTable": {
+          "caption": "Preço por grama (por ml no Glow). O EMCASABIOBIO só vale na BioBio; os 10% são conta nossa.",
+          "headers": [
+            "Produto",
+            "Preço de tabela",
+            "Preço em 28/11",
+            "Com o EMCASABIOBIO"
+          ],
+          "rows": [
+            [
+              "BioBio Sunnature Facial, 50 g",
+              "R$ 2,80/g",
+              "R$ 2,24/g (Leve 2: R$ 2,00/g)",
+              "R$ 2,52/g na tabela; R$ 2,01/g em 28/11; R$ 1,80/g no Leve 2"
+            ],
+            [
+              "Ollie Mineral Fluido, 40 g",
+              "R$ 2,48/g",
+              "R$ 2,10/g",
+              "Não se aplica"
+            ],
+            [
+              "Ollie Bastão Incolor, 17 g",
+              "R$ 6,41/g",
+              "R$ 5,45/g",
+              "Não se aplica"
+            ],
+            [
+              "Ollie Bastão Com Cor, 15 g",
+              "R$ 9,27/g",
+              "R$ 7,88/g",
+              "Não se aplica"
+            ],
+            [
+              "Ollie Glow Hidratante, 30 ml",
+              "R$ 4,63/ml",
+              "R$ 3,94/ml",
+              "Não se aplica"
+            ]
+          ]
+        },
+        "postParagraphs": [
+          "No preço de tabela, o Mineral Fluido da Ollie sai mais barato por grama, mesmo com os 10% do código na BioBio: R$ 2,48 contra R$ 2,52. Em 28/11, sem código e levando um tubo, a Ollie seguiu na frente, por R$ 0,14 o grama; no Leve 2, a BioBio já saía a R$ 2,00, e com o EMCASABIOBIO o tubo avulso passou a R$ 2,01. Os bastões, de 15 e 17 g, custam bem mais por grama.",
+          "O [cupom BioBio](/cupons/biobio) soma com o preço da campanha e com o cashback da loja: segundo a página de cashback, a BioBio devolve 10% para a próxima compra em pedidos a partir de R$ 99,90, com 45 dias para usar. Esse valor vira saldo para outra compra e não entra no desconto do código. Na campanha, a ficha informava frete de R$ 9,99 para todo o Brasil a partir de R$ 199 e grátis no Sul e no Sudeste acima de R$ 279; na Ollie, a faixa do site falava em frete grátis acima de R$ 118."
+        ],
+        "links": [
+          {
+            "label": "Ver o Sunnature Facial na BioBio",
+            "href": "https://biobio.com.br/products/protetor-solar-fisico-mineral-sunnature-fps30",
+            "sponsored": true
+          }
+        ]
+      },
+      {
+        "heading": "Qual escolher e como usar o código",
+        "paragraphs": [
+          "Para a rotina sem água nem suor, com filtro só mineral e não nano, o Sunnature Facial da BioBio entrega o tubo maior e, em campanha com o código, um grama que empata com o do fluido da Ollie ou fica abaixo. Para treino, praia ou FPS mais alto, a Ollie tem o Mineral Fluido, só mineral e resistente, e os bastões FPS 95, de filtro misto e grama mais caro.",
+          "No site da BioBio, coloque o protetor no carrinho, vá ao resumo da compra em seguro.biobio.com.br e digite EMCASABIOBIO no campo Cupom (opcional). Depois de Adicionar, a linha Cupom de desconto mostra os 10%. O [passo a passo do código](/reviews/cupom-biobio-como-usar) mostra cada tela."
+        ],
+        "bullets": [
+          "Leia a lista de ingredientes: é ela que diz se o filtro é mineral, misto ou químico.",
+          "Veja se o protetor resiste à água, se ele vai à praia ou ao treino.",
+          "Divida o preço do dia pelos gramas antes de comparar.",
+          "Confira no resumo da compra se a linha Cupom de desconto apareceu."
+        ]
+      },
+      {
+        "heading": "Perguntas frequentes",
+        "bullets": [
+          "O protetor facial da BioBio é mineral? É. A ficha do Sunnature Facial FPS 30 declara óxido de zinco e dióxido de titânio não nano como filtros, sem filtro químico.",
+          "O protetor em bastão da Ollie é mineral? O Bastão Incolor FPS 95 não é: a composição junta dióxido de titânio e quatro filtros químicos. O protetor só mineral da Ollie é o Mineral Fluido FPS 50.",
+          "O Sunnature Facial da BioBio resiste à água? Não. A BioBio declara que ele não resiste à água e pede reaplicação depois de suor ou banho.",
+          "Qual sai mais barato por grama, BioBio ou Ollie? No preço de tabela, o Mineral Fluido da Ollie. No preço da Black Friday, com o EMCASABIOBIO, o Sunnature da BioBio saiu a R$ 2,01 o grama, contra R$ 2,10 do fluido da Ollie.",
+          "O EMCASABIOBIO vale no protetor solar? Vale: dá 10% OFF no Sunnature Facial. O cashback de 10% é regra da loja, para pedidos a partir de R$ 99,90, e segue valendo junto com o código."
+        ]
+      }
+    ],
+    "updatedAt": "2026-11-28"
   }
 ];
 

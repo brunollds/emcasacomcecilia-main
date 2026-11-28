@@ -31117,6 +31117,190 @@
       "verification_status": "verified"
     },
     {
+      "source_path": "public/images/reviews/biobio/bbs-biobio-blush-batom-sombra-fps-63-bastao-fps-63.webp",
+      "local_url": "/images/reviews/biobio/bbs-biobio-blush-batom-sombra-fps-63-bastao-fps-63.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 38388,
+      "sha256": "1d5d09d0150a6b8aa12115c05ab8926eb13e6463dd9d460bb0de6c663a6d3f8e",
+      "width": 1338,
+      "height": 996,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "bbs-biobio-blush-batom-sombra-fps-63-bastao-fps-63.webp",
+      "storage_filename": "bbs-biobio-blush-batom-sombra-fps-63-bastao-fps-63.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/bbs-biobio-blush-batom-sombra-fps-63.json",
+        "src/lib/generated/content-index.ts"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/bbs-biobio-blush-batom-sombra-fps-63.json",
+          "line": 124,
+          "column": 17,
+          "literal": "/images/reviews/biobio/bbs-biobio-blush-batom-sombra-fps-63-bastao-fps-63.webp",
+          "authority": "source"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 367319,
+          "column": 19,
+          "literal": "/images/reviews/biobio/bbs-biobio-blush-batom-sombra-fps-63-bastao-fps-63.webp",
+          "authority": "generated"
+        }
+      ],
+      "remote_key": "v1/image/1d5d09d0150a6b8aa12115c05ab8926eb13e6463dd9d460bb0de6c663a6d3f8e/bbs-biobio-blush-batom-sombra-fps-63-bastao-fps-63.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/1d5d09d0150a6b8aa12115c05ab8926eb13e6463dd9d460bb0de6c663a6d3f8e/bbs-biobio-blush-batom-sombra-fps-63-bastao-fps-63.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-11-28T04:17:02.541Z",
+      "verification_etag_or_digest": "1d5d09d0150a6b8aa12115c05ab8926eb13e6463dd9d460bb0de6c663a6d3f8e",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/biobio/bbs-biobio-blush-batom-sombra-fps-63-combo-tres-cores.webp",
+      "local_url": "/images/reviews/biobio/bbs-biobio-blush-batom-sombra-fps-63-combo-tres-cores.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 69476,
+      "sha256": "42cfeecda42a2be8492dbc7bb73cc1339988b0d932667e5b63a94d70b9f44460",
+      "width": 1200,
+      "height": 1200,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "bbs-biobio-blush-batom-sombra-fps-63-combo-tres-cores.webp",
+      "storage_filename": "bbs-biobio-blush-batom-sombra-fps-63-combo-tres-cores.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/bbs-biobio-blush-batom-sombra-fps-63.json",
+        "src/lib/generated/content-index.ts"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/bbs-biobio-blush-batom-sombra-fps-63.json",
+          "line": 264,
+          "column": 19,
+          "literal": "/images/reviews/biobio/bbs-biobio-blush-batom-sombra-fps-63-combo-tres-cores.webp",
+          "authority": "source"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 367459,
+          "column": 21,
+          "literal": "/images/reviews/biobio/bbs-biobio-blush-batom-sombra-fps-63-combo-tres-cores.webp",
+          "authority": "generated"
+        }
+      ],
+      "remote_key": "v1/image/42cfeecda42a2be8492dbc7bb73cc1339988b0d932667e5b63a94d70b9f44460/bbs-biobio-blush-batom-sombra-fps-63-combo-tres-cores.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/42cfeecda42a2be8492dbc7bb73cc1339988b0d932667e5b63a94d70b9f44460/bbs-biobio-blush-batom-sombra-fps-63-combo-tres-cores.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-11-28T04:17:02.542Z",
+      "verification_etag_or_digest": "42cfeecda42a2be8492dbc7bb73cc1339988b0d932667e5b63a94d70b9f44460",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/biobio/bbs-biobio-blush-batom-sombra-fps-63-hero-pt-v1.webp",
+      "local_url": "/images/reviews/biobio/bbs-biobio-blush-batom-sombra-fps-63-hero-pt-v1.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 90902,
+      "sha256": "b57cdfa6fee90852033c1f64de26c2624b012516c29b74c4c787f2a59e7869bb",
+      "width": 1600,
+      "height": 900,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "bbs-biobio-blush-batom-sombra-fps-63-hero-pt-v1.webp",
+      "storage_filename": "bbs-biobio-blush-batom-sombra-fps-63-hero-pt-v1.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/bbs-biobio-blush-batom-sombra-fps-63.json",
+        "src/lib/generated/content-index.ts"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/bbs-biobio-blush-batom-sombra-fps-63.json",
+          "line": 30,
+          "column": 13,
+          "literal": "/images/reviews/biobio/bbs-biobio-blush-batom-sombra-fps-63-hero-pt-v1.webp",
+          "authority": "source"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 367225,
+          "column": 15,
+          "literal": "/images/reviews/biobio/bbs-biobio-blush-batom-sombra-fps-63-hero-pt-v1.webp",
+          "authority": "generated"
+        }
+      ],
+      "remote_key": "v1/image/b57cdfa6fee90852033c1f64de26c2624b012516c29b74c4c787f2a59e7869bb/bbs-biobio-blush-batom-sombra-fps-63-hero-pt-v1.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/b57cdfa6fee90852033c1f64de26c2624b012516c29b74c4c787f2a59e7869bb/bbs-biobio-blush-batom-sombra-fps-63-hero-pt-v1.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-11-28T04:17:02.542Z",
+      "verification_etag_or_digest": "b57cdfa6fee90852033c1f64de26c2624b012516c29b74c4c787f2a59e7869bb",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/biobio/bbs-biobio-blush-batom-sombra-fps-63-roma-modelo.webp",
+      "local_url": "/images/reviews/biobio/bbs-biobio-blush-batom-sombra-fps-63-roma-modelo.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 153116,
+      "sha256": "e6c7d8a2091fe58cde04a2256d307b6d592ae3eefa57cb5a42aa3d7987c8ab8d",
+      "width": 1200,
+      "height": 1200,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "bbs-biobio-blush-batom-sombra-fps-63-roma-modelo.webp",
+      "storage_filename": "bbs-biobio-blush-batom-sombra-fps-63-roma-modelo.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/bbs-biobio-blush-batom-sombra-fps-63.json",
+        "src/lib/generated/content-index.ts"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/bbs-biobio-blush-batom-sombra-fps-63.json",
+          "line": 183,
+          "column": 19,
+          "literal": "/images/reviews/biobio/bbs-biobio-blush-batom-sombra-fps-63-roma-modelo.webp",
+          "authority": "source"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 367378,
+          "column": 21,
+          "literal": "/images/reviews/biobio/bbs-biobio-blush-batom-sombra-fps-63-roma-modelo.webp",
+          "authority": "generated"
+        }
+      ],
+      "remote_key": "v1/image/e6c7d8a2091fe58cde04a2256d307b6d592ae3eefa57cb5a42aa3d7987c8ab8d/bbs-biobio-blush-batom-sombra-fps-63-roma-modelo.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/e6c7d8a2091fe58cde04a2256d307b6d592ae3eefa57cb5a42aa3d7987c8ab8d/bbs-biobio-blush-batom-sombra-fps-63-roma-modelo.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-11-28T04:17:02.542Z",
+      "verification_etag_or_digest": "e6c7d8a2091fe58cde04a2256d307b6d592ae3eefa57cb5a42aa3d7987c8ab8d",
+      "verification_status": "verified"
+    },
+    {
       "source_path": "public/images/reviews/biobio/biobio-e-boa-hero-pt.webp",
       "local_url": "/images/reviews/biobio/biobio-e-boa-hero-pt.webp",
       "media_kind": "image",
@@ -31422,6 +31606,98 @@
       "uploaded_at": null,
       "verified_at": "2026-11-22T00:12:36.953Z",
       "verification_etag_or_digest": "f93d52525a56a2a4b2959500039978dbe5b76c5e6430790bac390889850e42a6",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/biobio/biobio-ou-ollie-hero-pt-v1.webp",
+      "local_url": "/images/reviews/biobio/biobio-ou-ollie-hero-pt-v1.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 71146,
+      "sha256": "86b8903c118361dd3efe5d57c3aa686200cf6d618c45e81c0cf740b69452151d",
+      "width": 1600,
+      "height": 900,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "biobio-ou-ollie-hero-pt-v1.webp",
+      "storage_filename": "biobio-ou-ollie-hero-pt-v1.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/biobio-ou-ollie.json",
+        "src/lib/generated/content-index.ts"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/biobio-ou-ollie.json",
+          "line": 30,
+          "column": 13,
+          "literal": "/images/reviews/biobio/biobio-ou-ollie-hero-pt-v1.webp",
+          "authority": "source"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 367530,
+          "column": 15,
+          "literal": "/images/reviews/biobio/biobio-ou-ollie-hero-pt-v1.webp",
+          "authority": "generated"
+        }
+      ],
+      "remote_key": "v1/image/86b8903c118361dd3efe5d57c3aa686200cf6d618c45e81c0cf740b69452151d/biobio-ou-ollie-hero-pt-v1.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/86b8903c118361dd3efe5d57c3aa686200cf6d618c45e81c0cf740b69452151d/biobio-ou-ollie-hero-pt-v1.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-11-28T04:17:02.542Z",
+      "verification_etag_or_digest": "86b8903c118361dd3efe5d57c3aa686200cf6d618c45e81c0cf740b69452151d",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/biobio/biobio-ou-ollie-sunnature-50g.webp",
+      "local_url": "/images/reviews/biobio/biobio-ou-ollie-sunnature-50g.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 47462,
+      "sha256": "a02036850e8aedd4ff54a581d444163aa493d3c5546c4b94d35c504fe5d57ecd",
+      "width": 1200,
+      "height": 1200,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "biobio-ou-ollie-sunnature-50g.webp",
+      "storage_filename": "biobio-ou-ollie-sunnature-50g.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/biobio-ou-ollie.json",
+        "src/lib/generated/content-index.ts"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/biobio-ou-ollie.json",
+          "line": 135,
+          "column": 19,
+          "literal": "/images/reviews/biobio/biobio-ou-ollie-sunnature-50g.webp",
+          "authority": "source"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 367635,
+          "column": 21,
+          "literal": "/images/reviews/biobio/biobio-ou-ollie-sunnature-50g.webp",
+          "authority": "generated"
+        }
+      ],
+      "remote_key": "v1/image/a02036850e8aedd4ff54a581d444163aa493d3c5546c4b94d35c504fe5d57ecd/biobio-ou-ollie-sunnature-50g.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/a02036850e8aedd4ff54a581d444163aa493d3c5546c4b94d35c504fe5d57ecd/biobio-ou-ollie-sunnature-50g.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-11-28T04:17:02.542Z",
+      "verification_etag_or_digest": "a02036850e8aedd4ff54a581d444163aa493d3c5546c4b94d35c504fe5d57ecd",
       "verification_status": "verified"
     },
     {
