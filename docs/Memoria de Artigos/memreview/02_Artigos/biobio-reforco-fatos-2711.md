@@ -54,3 +54,14 @@ Rodada enxuta pelo modo de reforço (`05_Demanda/PROGRAMA.md`, seção 2.3), com
   2. `Protetor Solar em Bastão Incolor FPS 95` (`17 g`): tabela `R$ 109,00` (`R$ 92,65` na oferta); `FPS 95 | FPUVA 40`; **filtros mistos** (*Titanium Dioxide* + filtros químicos *Tinosorb S, Uvinul A Plus, Ethylhexyl Triazone, Ethylhexyl Salicylate*); alta resistência à água e suor.
   3. `Protetor Solar em Bastão Com Cor FPS 95` (`15 g`, 6 tons `#10` a `#60`): tabela `R$ 139,00` (`R$ 118,15` na oferta); `FPS 95 | FPUVA 40` + luz visível; **filtros mistos** (químicos + dióxido de titânio + óxidos de ferro); resistente à água e suor.
   4. `Glow Hidratante Facial FPS 50` (`30 ml`, tons Dourado e Bronze): tabela `R$ 139,00` (`R$ 118,15` na oferta); `FPS 50 | FPUVA 18`; **filtros químicos**; FAQ declara que **não foi testado para resistência à água ou suor**.
+
+---
+
+## 5. Conferência do Job 1 (27/11/2026, à noite)
+
+- **BBS, catálogo público da loja:** sete cores cadastradas. À venda: Mamão Papaia, Cenoura Bronze, Pêssego Rosé e Romã (R$ 84,92) e Amora (R$ 59,94). Indisponíveis: Tangerina e Tutti-frutti (R$ 87,91). Todas com R$ 99,90 riscado. O texto da ficha diz "Disponível em 5 cores".
+- **Combo de três BBS** (Mamão Papaia, Pêssego Rosé e Cenoura Bronze): R$ 239,70, com R$ 299,70 riscado.
+- **BBS, ficha no Chrome:** "FPS 63 + UVA 24 (PPD 38%)", 4,5 g, e a pergunta "Substitui o protetor solar?" com a resposta "Não. O BBS complementa o protetor solar do rosto, sem substituí-lo".
+- **Sunnature Facial FPS 30, ficha no Chrome:** "Resistência à água: Não. Reaplique após suor ou banho"; "FPS 30 e UVA 16"; "99,01% de ingredientes de origem natural". **Peso: 50 g** ("Conteúdo 50 g" nas Especificações, relido no Chrome); o "60 g na variante" de [[biobio-fatos-2011]] não vale. Leve 2 a R$ 99,90 cada.
+- **Ollie, catálogo público:** preços de tabela, FPUVA e conteúdos da seção 4 conferem. A coleção tem também o "Bastão 3 em 1 - Blush, Batom e Sombra FPS 95", a R$ 99,00.
+- A BioBio respondeu com limite de leitura automática depois dessas consultas; parei ali.
