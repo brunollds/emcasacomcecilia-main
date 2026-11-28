@@ -10,9 +10,9 @@ category: "guias-praticos-utilidade"
 reviewKind: "guia"
 type: "Comparativo"
 anexo_tipo: "Anexo-Tecnologia"
-status: "pauta-aprovada"
+status: "publicado"
 responsavel: "Job-1"
-proxima_acao: "ler no navegador o que falta da NordVPN (página em dólar, plano mensal, port forwarding, jurisdição e plano grátis) e redigir nos 11 idiomas — prioridade #2 do Bruno em 26/11"
+proxima_acao: "-"
 bloqueado_por: null
 score_autoridade: 76
 score_conversao: 80
