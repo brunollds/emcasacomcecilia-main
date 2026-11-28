@@ -596,12 +596,12 @@
       "value": 15
     },
     "startsAt": "2026-11-27",
-    "expiresAt": "2026-11-27",
-    "verifiedAt": "2026-11-27",
+    "expiresAt": "2026-11-29",
+    "verifiedAt": "2026-11-28",
     "officialSourceUrl": "https://www.yesstyle.com/en/help/section.html/hsi.2914",
     "affiliateUrl": "https://ystyle.co/rQYQv",
     "membersOnly": true,
-    "status": "expired",
+    "status": "active",
     "regions": ["GLOBAL"]
   }
 ]
