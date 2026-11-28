@@ -10,7 +10,7 @@ type: "Guia de Produto"
 anexo_tipo: "Anexo-Beleza"
 status: "pauta-aprovada"
 responsavel: "Job-1"
-proxima_acao: "aguardando GO do Bruno para redação (Job 2) — reler seletor de cores e preços fora da Black Friday no dia da redação"
+proxima_acao: "redacao (Job 2): GO do Bruno em 27/11; reler preços e cores fora da Black Friday no dia da redação"
 bloqueado_por: null
 data_criacao: "2026-11-27"
 pauta_id: "BI9"
@@ -98,6 +98,7 @@ Feita por outra sessão, com a ficha relida no Chrome e os preços lidos no cat�
 
 `biobio-black-month-2026`: "Black Friday da BioBio: até 70% OFF", topo, com `endsAt` em 27/11 às 23h59. Depois disso o artigo sai sem banner, e os preços desta nota deixam de valer.
 
-### Pergunta para o Bruno
+### Decisão do Bruno (27/11/2026)
 
-O `status` do briefing é `pauta-aprovada` e a Fila registra "GO de 27/11", mas a `proxima_acao` diz "aguardando GO do Bruno para redação". Qual vale? Não alterei.
+GO para a redação: o Bruno pediu o handoff para a sessão de artigos. A `proxima_acao` foi alinhada com a Fila.
+

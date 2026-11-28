@@ -11,7 +11,7 @@ type: "Comparativo de Beleza"
 anexo_tipo: "Anexo-Beleza"
 status: "pauta-aprovada"
 responsavel: "Job-1"
-proxima_acao: "aguardando GO do Bruno para redação (Job 2) — reler preços regulares fora de campanha nas duas lojas no dia da redação"
+proxima_acao: "redacao (Job 2): GO do Bruno em 27/11; reler preços e cores fora da Black Friday no dia da redação"
 bloqueado_por: null
 data_criacao: "2026-11-27"
 pauta_id: "BI8"
@@ -76,17 +76,17 @@ Feita por outra sessão. Os dados da Ollie foram conferidos no catálogo públic
 - **Frase sem fonte:** "muita gente acha que todo bastão da Ollie é mineral" saiu. Ninguém mediu o que as pessoas acham; o capítulo mostra a lista de ingredientes e deixa o leitor ver.
 - **Glow Hidratante:** "sem óxido de zinco" e "bisnaga iluminadora" não estão na nota de fatos; ficou só "filtro químico, pela ficha".
 
-### Um dado decide a conta e não fecha: o peso do Sunnature
+### O peso do Sunnature: 50 g, confirmado
 
-O briefing usa **50 g**. A nota de 20/11 ([[biobio-fatos-2011]]) registra "60 g na variante". Não consegui reler (a loja limitou a leitura automática). `[PENDENTE: navegador]` na página do Sunnature, antes de qualquer conta por grama.
+A nota de 20/11 ([[biobio-fatos-2011]]) registrava "60 g na variante". A ficha relida no Chrome diz "Conteúdo 50 g", e o texto das fotos também ("tubo de 50 g"). Vale 50 g. A ficha também mostra o Leve 2, a R$ 99,90 cada.
 
-| Sunnature Facial FPS 30 | Se for 50 g | Se for 60 g |
+| Sunnature Facial FPS 30, 50 g | Por grama | Com o EMCASABIOBIO |
 |---|---|---|
-| Preço riscado, R$ 139,90 | R$ 2,80/g | R$ 2,33/g |
-| Preço riscado com o EMCASABIOBIO | R$ 2,52/g | R$ 2,10/g |
-| Preço de 27/11, R$ 111,92 | R$ 2,24/g | R$ 1,87/g |
+| Preço riscado, R$ 139,90 | R$ 2,80 | R$ 2,52 |
+| Preço de 27/11, R$ 111,92 | R$ 2,24 | R$ 2,01 |
+| Leve 2, R$ 99,90 cada | R$ 2,00 | R$ 1,80 |
 
-O Mineral Fluido da Ollie custa R$ 2,48/g pela tabela (R$ 2,10/g na oferta de 27/11). Com 50 g, a Ollie é mais barata por grama pela tabela, mesmo com o nosso código; com 60 g, a BioBio passa à frente. A resposta rápida e o veredito só se escrevem depois dessa leitura.
+O Mineral Fluido da Ollie custa R$ 2,48/g pela tabela (R$ 2,10/g na oferta de 27/11). **Pela tabela, a Ollie é mais barata por grama, mesmo com o nosso código (R$ 2,48 contra R$ 2,52).** Pelos preços de 27/11, a BioBio com o código fica abaixo. O artigo mostra as duas leituras e diz qual ganhou no dia da redação; não esconde que, sem promoção, a diferença é de centavos a favor da Ollie.
 
 ### Justiça com a concorrente (o texto mostra, não esconde)
 
@@ -112,8 +112,8 @@ O Mineral Fluido da Ollie custa R$ 2,48/g pela tabela (R$ 2,10/g na oferta de 27
 | FPS, FPUVA e formato dos cinco produtos | "O rótulo declara" | fichas das duas lojas | Lido em 27/11 |
 | Tipo de filtro de cada um | "A lista de ingredientes mostra" | fichas das duas lojas | Lido; reler a do Glow |
 | Resistência à água de cada um | "A marca informa" | fichas | Lido |
-| Peso do Sunnature | "A ficha informa" | página do produto | **Divergente: 50 g ou 60 g** |
-| Preço por grama | "Conta nossa" | preço ÷ conteúdo | Espera o peso; preços fora de campanha no dia |
+| Peso do Sunnature, 50 g | "A ficha informa" | página do produto, Especificações | Lido em 27/11 |
+| Preço por grama | "Conta nossa" | preço ÷ conteúdo | Feita com os preços de 27/11; refazer no dia |
 | Cashback de 10% da BioBio | "Regra da loja" | `/pages/cashback` | Lido |
 | Toque, acabamento, ardor nos olhos, melasma, acne | fora | sem uso e sem promessa de efeito | Não escrever como nosso |
 
@@ -127,6 +127,7 @@ O Mineral Fluido da Ollie custa R$ 2,48/g pela tabela (R$ 2,10/g na oferta de 27
 
 `biobio-black-month-2026` vence em 27/11 às 23h59. A Ollie estava com 15% nos avulsos ("Sun Friday"). O artigo usa o preço de tabela das duas e, ao lado, o do dia da redação.
 
-### Pergunta para o Bruno
+### Decisão do Bruno (27/11/2026)
 
-A mesma da BI9: a Fila diz "GO de 27/11" e a `proxima_acao` diz "aguardando GO do Bruno". Qual vale?
+GO para a redação: o Bruno pediu o handoff para a sessão de artigos. A `proxima_acao` foi alinhada com a Fila.
+

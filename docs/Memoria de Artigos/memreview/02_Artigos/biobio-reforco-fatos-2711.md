@@ -62,6 +62,6 @@ Rodada enxuta pelo modo de reforço (`05_Demanda/PROGRAMA.md`, seção 2.3), com
 - **BBS, catálogo público da loja:** sete cores cadastradas. À venda: Mamão Papaia, Cenoura Bronze, Pêssego Rosé e Romã (R$ 84,92) e Amora (R$ 59,94). Indisponíveis: Tangerina e Tutti-frutti (R$ 87,91). Todas com R$ 99,90 riscado. O texto da ficha diz "Disponível em 5 cores".
 - **Combo de três BBS** (Mamão Papaia, Pêssego Rosé e Cenoura Bronze): R$ 239,70, com R$ 299,70 riscado.
 - **BBS, ficha no Chrome:** "FPS 63 + UVA 24 (PPD 38%)", 4,5 g, e a pergunta "Substitui o protetor solar?" com a resposta "Não. O BBS complementa o protetor solar do rosto, sem substituí-lo".
-- **Sunnature Facial FPS 30, ficha no Chrome:** "Resistência à água: Não. Reaplique após suor ou banho"; "FPS 30 e UVA 16"; "99,01% de ingredientes de origem natural". **Peso não confirmado:** esta nota e a BI8 usam 50 g, e [[biobio-fatos-2011]] registra "60 g na variante".
+- **Sunnature Facial FPS 30, ficha no Chrome:** "Resistência à água: Não. Reaplique após suor ou banho"; "FPS 30 e UVA 16"; "99,01% de ingredientes de origem natural". **Peso: 50 g** ("Conteúdo 50 g" nas Especificações, relido no Chrome); o "60 g na variante" de [[biobio-fatos-2011]] não vale. Leve 2 a R$ 99,90 cada.
 - **Ollie, catálogo público:** preços de tabela, FPUVA e conteúdos da seção 4 conferem. A coleção tem também o "Bastão 3 em 1 - Blush, Batom e Sombra FPS 95", a R$ 99,00.
 - A BioBio respondeu com limite de leitura automática depois dessas consultas; parei ali.
