@@ -196,10 +196,10 @@ for (const locale of LOCALE_HOME_LOCALES) {
     assert.equal(guide.discount, tab?.discount, `${locale}/${guide.slug}: desconto diferente do da aba (o do hub)`);
   }
   assert.equal(event.hubLink, undefined, `${locale}: "Ver tudo" sem página de Black Friday no idioma`);
-  assert.equal(event.countdownLabel, copy.countdown.days.replace('{days}', '2'), `${locale}: contagem em 25/11`);
-  assert.equal(getLocaleHomeEvent(locale, publishedReviews, at('2026-11-26T12:00:00-03:00'))?.countdownLabel, copy.countdown.tomorrow);
-  assert.equal(getLocaleHomeEvent(locale, publishedReviews, at('2026-11-27T12:00:00-03:00'))?.countdownLabel, copy.countdown.today);
-  assert.equal(getLocaleHomeEvent(locale, publishedReviews, at('2026-11-30T23:59:59-03:00'))?.countdownLabel, copy.countdown.last);
+  assert.equal(event.countdownLabel, copy.countdown.days.replace('{days}', '5'), `${locale}: contagem em 25/11`);
+  assert.equal(getLocaleHomeEvent(locale, publishedReviews, at('2026-11-29T12:00:00-03:00'))?.countdownLabel, copy.countdown.tomorrow);
+  assert.equal(getLocaleHomeEvent(locale, publishedReviews, at('2026-11-30T12:00:00-03:00'))?.countdownLabel, copy.countdown.today);
+  assert.equal(getLocaleHomeEvent(locale, publishedReviews, at('2026-11-30T23:59:59-03:00'))?.countdownLabel, copy.countdown.today);
   assert.equal(getLocaleHomeEvent(locale, publishedReviews, at('2026-12-01T00:00:00-03:00')), null, `${locale}: a Black Friday segue depois de 30/11`);
   assert.equal(getLocaleHomeContent(locale, publishedReviews, at('2026-12-01T00:00:00-03:00')).event, null);
 
