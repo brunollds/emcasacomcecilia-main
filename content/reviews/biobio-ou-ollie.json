@@ -1,0 +1,246 @@
+{
+  "id": 1527,
+  "slug": "biobio-ou-ollie",
+  "locale": "pt",
+  "category": "guias-praticos-utilidade",
+  "reviewKind": "guia",
+  "author": {
+    "name": "Cecília Mauad",
+    "slug": "cecilia-mauad",
+    "role": "Em Casa com Cecília",
+    "initials": "CM",
+    "url": "/sobre"
+  },
+  "publishedAt": "28 de novembro de 2026",
+  "publishedAtISO": "2026-11-28",
+  "draft": false,
+  "isNew": true,
+  "imageFit": "contain",
+  "imageAspect": "landscape",
+  "pros": [],
+  "cons": [],
+  "coupon": "EMCASABIOBIO",
+  "affiliate": "biobio",
+  "type": "Comparativo de Beleza",
+  "bodyDatesReason": "campanha",
+  "title": "BioBio ou Ollie: qual protetor solar facial escolher para o dia a dia pelo rótulo, filtros e preço por grama",
+  "seoTitle": "BioBio ou Ollie: qual protetor solar facial escolher?",
+  "description": "O Sunnature Facial da BioBio é 100% mineral e não resiste à água; a Ollie tem um fluido mineral resistente e bastões de filtro misto. Veja filtros, FPS e preço por grama.",
+  "metaDescription": "O código EMCASABIOBIO dá 10% OFF na BioBio. Compare o protetor facial dela com os da Ollie por filtro, resistência à água e preço por grama.",
+  "image": "/images/reviews/biobio/biobio-ou-ollie-hero-pt-v1.webp",
+  "imageAlt": "Mão segura dois tubos do protetor solar facial Sunnature FPS 30 da BioBio sobre uma pincelada do creme, em foto da loja. A capa pergunta «Protetor facial ou Ollie?» e mostra o cupom EMCASABIOBIO.",
+  "cta": {
+    "text": "O Sunnature Facial FPS 30 está no site oficial da BioBio. O código EMCASABIOBIO entra no resumo da compra, no campo Cupom (opcional), e a linha Cupom de desconto confirma os 10%.",
+    "label": "Ver o Sunnature na BioBio",
+    "url": "https://biobio.com.br/products/protetor-solar-fisico-mineral-sunnature-fps30",
+    "sponsored": true
+  },
+  "editorialNote": "Feito com as informações dos sites oficiais; ninguém da equipe usou os produtos. Somos parceiros da BioBio e podemos receber comissão pelo cupom; a Ollie não é parceira.",
+  "relatedArticles": [
+    {
+      "slug": "protetor-solar-biobio-e-bom"
+    },
+    {
+      "slug": "protetor-solar-mineral-ou-quimico-rotulo"
+    },
+    {
+      "slug": "pinkcheeks-ou-ollie-protetor-bastao"
+    },
+    {
+      "slug": "base-biobio-bastao-cores"
+    },
+    {
+      "slug": "bbs-biobio-blush-batom-sombra-fps-63"
+    },
+    {
+      "slug": "cupom-biobio-como-usar"
+    }
+  ],
+  "decision": {
+    "takeIf": [
+      "Você quer filtro só mineral, com óxido de zinco e dióxido de titânio não nano, para a rotina sem praia nem treino.",
+      "Você quer o tubo maior, de 50 g, e vai comprar em campanha: com o EMCASABIOBIO, o grama fica perto do fluido mineral da Ollie ou abaixo dele."
+    ],
+    "skipIf": [
+      "Você precisa de protetor resistente à água e ao suor: a própria BioBio declara que o Sunnature Facial não resiste.",
+      "Você quer FPS acima de 30 no rosto."
+    ]
+  },
+  "contentSections": [
+    {
+      "heading": "Resposta rápida",
+      "paragraphs": [
+        "O Sunnature Facial FPS 30 da BioBio vem em tubo de 50 g, com filtros só minerais e não nano, e não resiste à água. Na Ollie, o fluido mineral declara FPS 50 e resistência à água; os bastões FPS 95 têm filtro misto. Por grama, a Ollie ganha na tabela, e o EMCASABIOBIO virou a conta na Black Friday."
+      ]
+    },
+    {
+      "heading": "Os protetores faciais da BioBio e da Ollie lado a lado",
+      "paragraphs": [
+        "A comparação fica no protetor facial de uso diário para adulto: o Sunnature Facial FPS 30 da BioBio contra os quatro protetores de rosto de uso diário da Ollie. Ficaram de fora o infantil em bastão, o hidratante labial, o pó compacto, o corretivo em bastão, o bastão 3 em 1 e os kits da Ollie, além do Kids FPS 50 da BioBio, que está em [Protetor solar BioBio é bom?](/reviews/protetor-solar-biobio-e-bom).",
+        "A tabela traz o que cada ficha declara, com os nomes dos filtros escritos como cada loja escreve."
+      ],
+      "comparisonTable": {
+        "caption": "O que cada ficha declara. O tipo de filtro é leitura nossa da composição publicada.",
+        "headers": [
+          "Produto",
+          "Conteúdo",
+          "FPS e FPUVA",
+          "Filtros",
+          "Água e suor"
+        ],
+        "rows": [
+          [
+            "BioBio Sunnature Facial",
+            "50 g",
+            "FPS 30, UVA 16",
+            "Óxido de zinco e dióxido de titânio não nano: só mineral",
+            "Não resiste"
+          ],
+          [
+            "Ollie Protetor Solar Mineral Fluido",
+            "40 g",
+            "FPS 50, FPUVA 16",
+            "\"Zinc Oxide/Triethoxycaprylylsilane\": só mineral",
+            "Resiste, segundo a ficha"
+          ],
+          [
+            "Ollie Protetor Solar em Bastão Incolor",
+            "17 g",
+            "FPS 95, FPUVA 40",
+            "Titanium Dioxide, Diethylamino Hydroxybenzoyl Hexyl Benzoate, Bis-Ethylhexyloxyphenol Methoxyphenyl Triazine, Ethylhexyl Salicylate e Ethylhexyl Triazone: misto",
+            "\"Alta resistência\", segundo a ficha"
+          ],
+          [
+            "Ollie Protetor Solar em Bastão Com Cor",
+            "15 g, 6 tons",
+            "FPS 95, FPUVA 40",
+            "Filtros químicos e dióxido de titânio: misto",
+            "Resiste, segundo o FAQ"
+          ],
+          [
+            "Ollie Glow Hidratante Facial FPS50",
+            "30 ml, 2 tons",
+            "FPS 50, FPUVA 18",
+            "Etilhexil Triazona, Octocrileno, Avobenzona, Bis-Etilhexiloxifenol Metoxifenil Triazina, Benzoato de Dietilamino Hidroxibenzoil Hexila e Metileno Bis-Benzotriazolil Tetrametilbutilfenol: filtros químicos",
+            "\"Não foi testado\", segundo o FAQ"
+          ]
+        ]
+      },
+      "postParagraphs": [
+        "O duelo de mineral contra mineral é o Sunnature Facial contra o Mineral Fluido. Os dois declaram FPUVA 16; a Ollie declara FPS 50 e resistência à água e ao suor, e a BioBio, FPS 30 sem resistência à água.",
+        "A BioBio, que também aparece escrita como Bio Bio, declara ainda 99,01% de ingredientes de origem natural, proteção contra a luz azul e filtros não nano. A página da Ollie que lemos não informa nenhum dos três."
+      ],
+      "images": [
+        {
+          "src": "/images/reviews/biobio/biobio-ou-ollie-sunnature-50g.webp",
+          "alt": "Tubo dourado do protetor solar Sunnature Facial FPS 30 da BioBio, com 50 g",
+          "caption": "O Sunnature Facial FPS 30, em tubo de 50 g. Foto: BioBio",
+          "href": "https://biobio.com.br/products/protetor-solar-fisico-mineral-sunnature-fps30",
+          "objectFit": "contain",
+          "aspectRatio": 1
+        }
+      ]
+    },
+    {
+      "heading": "Filtro mineral ou misto: o que a lista de ingredientes mostra",
+      "paragraphs": [
+        "Filtro mineral, também chamado de físico, é o óxido de zinco e o dióxido de titânio. Os outros filtros, como a triazona e o octocrileno, são químicos, também chamados de orgânicos. Quando os dois tipos aparecem juntos, o filtro é misto.",
+        "Na BioBio, o Sunnature Facial tem só os dois minerais. Na Ollie, o Mineral Fluido tem só óxido de zinco; o Bastão Incolor mistura um mineral com filtros químicos; o Glow Hidratante usa só químicos."
+      ],
+      "emphasis": "Bastão não quer dizer mineral. Quem decide é a lista de ingredientes. O Bastão Incolor FPS 95 da Ollie tem dióxido de titânio e quatro filtros químicos.",
+      "postParagraphs": [
+        "Nenhum dos dois tipos é melhor para todo mundo. Como ler cada filtro no rótulo e para quem cada um costuma ser indicado está em [protetor solar mineral ou químico](/reviews/protetor-solar-mineral-ou-quimico-rotulo). Para pele com melasma, rosácea ou acne, quem orienta a escolha é o dermatologista."
+      ]
+    },
+    {
+      "heading": "Água, suor e cor no rosto",
+      "paragraphs": [
+        "A BioBio declara que o Sunnature Facial não resiste à água e pede reaplicação depois de suor ou banho. Ele é para a rotina sem praia, piscina ou treino. Para esses dias, o Mineral Fluido e os bastões da Ollie declaram resistência; o Glow não foi testado para isso, segundo a própria Ollie.",
+        "Quem procura um bastão resistente com cupom numa marca parceira tem a comparação em [Pink Cheeks ou Ollie](/reviews/pinkcheeks-ou-ollie-protetor-bastao).",
+        "O Sunnature Facial é sem cor, segundo a BioBio. Na marca, quem quer cor com filtro mineral tem a [base em bastão FPS 33](/reviews/base-biobio-bastao-cores). Na Ollie, a cor vem no Bastão Com Cor, de 6 tons, e no Glow Hidratante, de 2."
+      ]
+    },
+    {
+      "heading": "Preço por grama no preço de tabela e no do dia",
+      "paragraphs": [
+        "Fizemos a conta com os preços lidos em 28/11, último dia da Black Friday da BioBio. A BioBio riscava R$ 139,90 e vendia o tubo por R$ 111,92, ou R$ 99,90 cada no Leve 2. A Ollie mostrava os produtos 15% abaixo do preço normal; a faixa do site falava em 30% OFF acima de R$ 250, que não entra na conta abaixo."
+      ],
+      "comparisonTable": {
+        "caption": "Preço por grama (por ml no Glow). O EMCASABIOBIO só vale na BioBio; os 10% são conta nossa.",
+        "headers": [
+          "Produto",
+          "Preço de tabela",
+          "Preço em 28/11",
+          "Com o EMCASABIOBIO"
+        ],
+        "rows": [
+          [
+            "BioBio Sunnature Facial, 50 g",
+            "R$ 2,80/g",
+            "R$ 2,24/g (Leve 2: R$ 2,00/g)",
+            "R$ 2,52/g na tabela; R$ 2,01/g em 28/11; R$ 1,80/g no Leve 2"
+          ],
+          [
+            "Ollie Mineral Fluido, 40 g",
+            "R$ 2,48/g",
+            "R$ 2,10/g",
+            "Não se aplica"
+          ],
+          [
+            "Ollie Bastão Incolor, 17 g",
+            "R$ 6,41/g",
+            "R$ 5,45/g",
+            "Não se aplica"
+          ],
+          [
+            "Ollie Bastão Com Cor, 15 g",
+            "R$ 9,27/g",
+            "R$ 7,88/g",
+            "Não se aplica"
+          ],
+          [
+            "Ollie Glow Hidratante, 30 ml",
+            "R$ 4,63/ml",
+            "R$ 3,94/ml",
+            "Não se aplica"
+          ]
+        ]
+      },
+      "postParagraphs": [
+        "No preço de tabela, o Mineral Fluido da Ollie sai mais barato por grama, mesmo com os 10% do código na BioBio: R$ 2,48 contra R$ 2,52. Em 28/11, sem código e levando um tubo, a Ollie seguiu na frente, por R$ 0,14 o grama; no Leve 2, a BioBio já saía a R$ 2,00, e com o EMCASABIOBIO o tubo avulso passou a R$ 2,01. Os bastões, de 15 e 17 g, custam bem mais por grama.",
+        "O [cupom BioBio](/cupons/biobio) soma com o preço da campanha e com o cashback da loja: segundo a página de cashback, a BioBio devolve 10% para a próxima compra em pedidos a partir de R$ 99,90, com 45 dias para usar. Esse valor vira saldo para outra compra e não entra no desconto do código. Na campanha, a ficha informava frete de R$ 9,99 para todo o Brasil a partir de R$ 199 e grátis no Sul e no Sudeste acima de R$ 279; na Ollie, a faixa do site falava em frete grátis acima de R$ 118."
+      ],
+      "links": [
+        {
+          "label": "Ver o Sunnature Facial na BioBio",
+          "href": "https://biobio.com.br/products/protetor-solar-fisico-mineral-sunnature-fps30",
+          "sponsored": true
+        }
+      ]
+    },
+    {
+      "heading": "Qual escolher e como usar o código",
+      "paragraphs": [
+        "Para a rotina sem água nem suor, com filtro só mineral e não nano, o Sunnature Facial da BioBio entrega o tubo maior e, em campanha com o código, um grama que empata com o do fluido da Ollie ou fica abaixo. Para treino, praia ou FPS mais alto, a Ollie tem o Mineral Fluido, só mineral e resistente, e os bastões FPS 95, de filtro misto e grama mais caro.",
+        "No site da BioBio, coloque o protetor no carrinho, vá ao resumo da compra em seguro.biobio.com.br e digite EMCASABIOBIO no campo Cupom (opcional). Depois de Adicionar, a linha Cupom de desconto mostra os 10%. O [passo a passo do código](/reviews/cupom-biobio-como-usar) mostra cada tela."
+      ],
+      "bullets": [
+        "Leia a lista de ingredientes: é ela que diz se o filtro é mineral, misto ou químico.",
+        "Veja se o protetor resiste à água, se ele vai à praia ou ao treino.",
+        "Divida o preço do dia pelos gramas antes de comparar.",
+        "Confira no resumo da compra se a linha Cupom de desconto apareceu."
+      ]
+    },
+    {
+      "heading": "Perguntas frequentes",
+      "bullets": [
+        "O protetor facial da BioBio é mineral? É. A ficha do Sunnature Facial FPS 30 declara óxido de zinco e dióxido de titânio não nano como filtros, sem filtro químico.",
+        "O protetor em bastão da Ollie é mineral? O Bastão Incolor FPS 95 não é: a composição junta dióxido de titânio e quatro filtros químicos. O protetor só mineral da Ollie é o Mineral Fluido FPS 50.",
+        "O Sunnature Facial da BioBio resiste à água? Não. A BioBio declara que ele não resiste à água e pede reaplicação depois de suor ou banho.",
+        "Qual sai mais barato por grama, BioBio ou Ollie? No preço de tabela, o Mineral Fluido da Ollie. No preço da Black Friday, com o EMCASABIOBIO, o Sunnature da BioBio saiu a R$ 2,01 o grama, contra R$ 2,10 do fluido da Ollie.",
+        "O EMCASABIOBIO vale no protetor solar? Vale: dá 10% OFF no Sunnature Facial. O cashback de 10% é regra da loja, para pedidos a partir de R$ 99,90, e segue valendo junto com o código."
+      ]
+    }
+  ],
+  "updatedAt": "2026-11-28"
+}
