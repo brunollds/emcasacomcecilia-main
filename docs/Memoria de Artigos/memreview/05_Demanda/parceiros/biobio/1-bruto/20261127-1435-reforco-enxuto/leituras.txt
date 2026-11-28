@@ -1,0 +1,81 @@
+# Trechos literais lidos em 2026-11-27 (vitrine biobio.com.br e checkout seguro.biobio.com.br)
+# Coleta: 20261127-1435-reforco-enxuto
+# Método: navegador supervisionado, sem preenchimento de nome, e-mail, CPF ou WhatsApp.
+
+================================================================================
+1. VITRINE OFICIAL — https://biobio.com.br/ (2026-11-27T14:35-03:00)
+================================================================================
+- Topo / banner principal:
+  "BLACK FRIDAY até 70% OFF"
+- Faixa de benefícios da home (trechos literais):
+  "Frete grátis Sul Sudeste
+  compras acima de 279,00"
+  "Até 3x sem juros ou até 10x"
+  "Formulação de origem
+  natural e 100% vegana"
+- Coleção /collections/black-friday (2026-11-27T14:35-03:00):
+  "Frete R$ 9,99 para todo o Brasil a partir de R$ 199"
+  "grátis acima de R$ 279 no Sul e Sudeste"
+  "10% de cashback para a próxima compra"
+  "Troca ou devolução em até 7 dias"
+- Condições de compra na ficha de produto (/products/bbs-biobio-blush-batom-e-sombra-fps-63):
+  "Frete R$ 9,99 para todo o Brasil a partir de R$ 199"
+  "Frete grátis acima de R$ 279 no Sul e Sudeste"
+  "3x sem juros no cartão"
+  "Troca ou devolução em até 7 dias"
+  "10% de cashback para a próxima compra"
+
+================================================================================
+2. SIMULAÇÃO 1 NO CHECKOUT — Trio Essencial BioBio com EMCASABIOBIO
+   URL: https://seguro.biobio.com.br/checkout (2026-11-27T14:41:54-03:00)
+   Print correspondente: checkout-trio-essencial-24273.webp
+================================================================================
+[Antes do código — Step 34]
+- Resumo da compra:
+  "Resumo da compra"
+  "Cupom (opcional)" / botão "Adicionar"
+  "10% de cashback para a próxima compra"
+  "0 /300 caracteres · Produtos · (1) · R$ 269,70 · Total · R$ 269,70"
+  "Trio Essencial BioBio - #200 Amêndoa / Pêssego Rosé" — "R$ 269,70" — "Mostrar 3 itens" — quantidade "1"
+- Etapas bloqueadas antes da identificação:
+  "Identificação · 1 de 3" (campos vazios)
+  "Entrega · 2 de 3 · Preencha suas informações pessoais para continuar"
+  "Pagamento · 3 de 3 · Preencha suas informações de entrega para continuar"
+
+[Após aplicar EMCASABIOBIO — Step 39]
+- Notificação de confirmação no topo:
+  "Cupom adicionado."
+- Resumo da compra:
+  "Cupom (opcional): EMCASABIOBIO" / link "Remover"
+  "10% de cashback para a próxima compra"
+  "0 /300 caracteres · Produtos · (1) · R$ 269,70 · Descontos · - R$ 26,97 · Total · R$ 242,73"
+  "Trio Essencial BioBio - #200 Amêndoa / Pêssego Rosé" — "R$ 269,70" — quantidade "1"
+
+================================================================================
+3. SIMULAÇÃO 2 NO CARRINHO E CHECKOUT — Piso de frete grátis (R$ 288,56 -> R$ 259,70)
+   URL: https://seguro.biobio.com.br/checkout (2026-11-27T14:47:06-03:00)
+   Print correspondente: checkout-piso-frete-25970.webp
+================================================================================
+[Na gaveta do carrinho em biobio.com.br antes do código — Step 57]
+- Mensagens da gaveta:
+  "Parabéns, você ganhou frete grátis!"
+  "Frete R$ 9,99 para todo o Brasil a partir de R$ 199"
+  Itens: 2x "Pó Sunnature" (R$ 114,31 cada = R$ 228,62) + 1x "BBS 4 em 1 FPS 63 Amora" (R$ 59,94)
+  "Total R$ 288,56"
+
+[No checkout seguro.biobio.com.br antes do código — Step 65]
+- Resumo da compra:
+  "10% de cashback para a próxima compra"
+  "0 /300 caracteres · Produtos · (3) · R$ 288,56 · Total · R$ 288,56"
+  "Pó Translúcido Facial Sunnature FPS 42" — "R$ 228,62" — quantidade "2"
+  "BBS Biobio Blush, Batom e Sombra FPS 63 · Cor: Amora" — "R$ 59,94" — quantidade "1"
+  "Entrega · 2 de 3 · Preencha suas informações pessoais para continuar"
+
+[Após aplicar EMCASABIOBIO — Step 67]
+- Notificação de confirmação no topo:
+  "Cupom adicionado."
+- Resumo da compra:
+  "Cupom (opcional): EMCASABIOBIO" / link "Remover"
+  "10% de cashback para a próxima compra"
+  "0 /300 caracteres · Produtos · (3) · R$ 288,56 · Descontos · - R$ 28,86 · Total · R$ 259,70"
+  "Entrega · 2 de 3 · Preencha suas informações pessoais para continuar"

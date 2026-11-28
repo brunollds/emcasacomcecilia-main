@@ -306171,6 +306171,9 @@ const reviewsChunk2: unknown[] = [
     "editorialNote": "Cupom testado no checkout do site oficial. Somos parceiros da BioBio e podemos receber comissão pelo cupom.",
     "relatedArticles": [
       {
+        "slug": "biobio-e-boa"
+      },
+      {
         "slug": "black-friday-biobio"
       },
       {
@@ -306178,6 +306181,9 @@ const reviewsChunk2: unknown[] = [
       },
       {
         "slug": "protetor-solar-biobio-e-bom"
+      },
+      {
+        "slug": "protetor-solar-mineral-ou-quimico-rotulo"
       }
     ],
     "contentSections": [
@@ -306308,7 +306314,7 @@ const reviewsChunk2: unknown[] = [
     },
     "publishedAt": "20 de novembro de 2026",
     "publishedAtISO": "2026-11-20",
-    "updatedAt": "2026-11-21",
+    "updatedAt": "2026-11-27",
     "draft": false,
     "isNew": true,
     "bodyDatesReason": "campanha",
@@ -306319,10 +306325,10 @@ const reviewsChunk2: unknown[] = [
     "coupon": "EMCASABIOBIO",
     "affiliate": "biobio",
     "type": "Guia de Black Friday",
-    "title": "Black Friday BioBio 2026: o Black Month de até 50% OFF com o cupom EMCASABIOBIO",
-    "seoTitle": "Black Friday BioBio 2026: até 50% + cupom EMCASABIOBIO",
-    "description": "O que a BioBio colocou no Black Month de 2026, quanto o cupom EMCASABIOBIO tira sobre o preço promocional, o cashback que continua e a conta nos kits.",
-    "metaDescription": "O EMCASABIOBIO dá 10% OFF na BioBio, também no Black Month de até 50% OFF. Veja o que está em oferta, a conta com o cupom e o cashback e os kits.",
+    "title": "Black Friday BioBio 2026: ofertas, kits e cupom EMCASABIOBIO",
+    "seoTitle": "Black Friday BioBio 2026: ofertas, kits e cupom EMCASABIOBIO",
+    "description": "O que a BioBio colocou em oferta na Black Friday, quanto o cupom EMCASABIOBIO tirou nos kits testados, o cashback e a conta contra os itens avulsos.",
+    "metaDescription": "O EMCASABIOBIO dá 10% OFF na BioBio, inclusive sobre ofertas e kits da Black Friday. Veja os testes no carrinho, o cashback e as regras de frete.",
     "image": "/images/reviews/biobio/black-friday-biobio-capa-v2.webp",
     "imageAlt": "Modelo segura o Pó Facial da BioBio e aproxima a esponja da bochecha, em foto oficial com fundo alaranjado. A capa traz «Black Month» e o cupom EMCASABIOBIO.",
     "cta": {
@@ -306334,10 +306340,16 @@ const reviewsChunk2: unknown[] = [
     "editorialNote": "Cupom testado no checkout do site oficial. Somos parceiros da BioBio e podemos receber comissão pelo cupom.",
     "relatedArticles": [
       {
+        "slug": "biobio-e-boa"
+      },
+      {
         "slug": "cupom-biobio-como-usar"
       },
       {
         "slug": "protetor-solar-biobio-e-bom"
+      },
+      {
+        "slug": "protetor-solar-mineral-ou-quimico-rotulo"
       },
       {
         "slug": "base-biobio-bastao-cores"
@@ -306347,55 +306359,72 @@ const reviewsChunk2: unknown[] = [
       {
         "heading": "Resposta rápida",
         "paragraphs": [
-          "A BioBio está no Black Month, com até 50% OFF e parcelamento em até 8x sem juros. O EMCASABIOBIO tirou mais 10% sobre o preço já promocional no nosso teste, inclusive na Dupla Make Prática, e o cashback da loja continuou no pedido."
+          "Na sexta da Black Friday (27/11), a BioBio chegou a até 70% OFF com contador até as 23h59 e parcelamento exibido como “Até 3x sem juros ou até 10x”. Nos nossos testes, o cupom EMCASABIOBIO tirou mais 10% sobre itens e kits promocionais, mantendo o cashback; depois disso, confira na página de cada produto qual preço e parcelamento seguem ativos."
         ]
       },
       {
         "heading": "O que a BioBio colocou em oferta",
         "paragraphs": [
-          "“Black Month” é o nome da campanha da loja. A faixa da home anuncia até 50% OFF e 8x sem juros, e a vitrine marca a economia de cada produto. A BioBio não divulgou data de início nem de fim, nem um regulamento da campanha.",
-          "Estes eram os preços da página de cada produto em 21 de novembro de 2026, sem o cupom. Para saber mais de cada um, veja o [guia dos protetores](/reviews/protetor-solar-biobio-e-bom) e o [guia da base em bastão](/reviews/base-biobio-bastao-cores)."
+          "A BioBio (também escrita Bio Bio) concentra as ofertas na vitrine oficial em biobio.com.br. Ao longo de novembro, a loja abriu o “Black Month” anunciando até 50% OFF e até 8x sem juros; já na sexta-feira de 27/11, o banner principal virou “Black Friday BioBio — até 70% OFF em todo o site”, com contador de encerramento às 23h59 do mesmo dia e a faixa “Até 3x sem juros ou até 10x” na home.",
+          "A tabela abaixo preserva lado a lado a leitura anterior do Black Month (21/11) e os preços registrados na sexta da Black Friday, ambos sem o cupom. Depois do encerramento da campanha, confira na página de cada item qual preço e parcelamento seguem ativos; os detalhes de rótulo estão no [guia dos protetores](/reviews/protetor-solar-biobio-e-bom) e no [guia da base em bastão](/reviews/base-biobio-bastao-cores)."
         ],
         "comparisonTable": {
-          "caption": "Preços da BioBio no Black Month, sem o cupom.",
+          "caption": "Preços lidos em biobio.com.br no Black Month e na sexta de Black Friday, antes do cupom.",
           "headers": [
-            "Produto",
-            "Preço na loja"
+            "Produto ou kit",
+            "No Black Month (anterior)",
+            "Em 27/11 (Black Friday)"
           ],
           "rows": [
             [
               "[Protetor Solar 100% Físico e Mineral](https://biobio.com.br/products/protetor-solar-fisico-mineral-sunnature-fps30)",
-              "R$ 104,93"
+              "R$ 104,93",
+              "R$ 111,92 (-20%)"
             ],
             [
-              "[Base Multifuncional em Bastão](https://biobio.com.br/products/base-multifuncional-em-bastao-com-protetor-solar-fps-33)",
-              "a partir de R$ 111,92"
+              "[Base Multifuncional em Bastão FPS 33](https://biobio.com.br/products/base-multifuncional-em-bastao-com-protetor-solar-fps-33)",
+              "a partir de R$ 111,92",
+              "R$ 109,90 (1 un.) a R$ 94,90/un. (Leve 3)"
             ],
             [
-              "[BBS Blush, Batom e Sombra](https://biobio.com.br/products/bbs-biobio-blush-batom-e-sombra-fps-63)",
-              "a partir de R$ 59,94"
+              "[BBS Blush, Batom e Sombra FPS 63](https://biobio.com.br/products/bbs-biobio-blush-batom-e-sombra-fps-63)",
+              "a partir de R$ 59,94",
+              "R$ 59,94 (Amora, -40%) ou R$ 84,92 (demais cores)"
+            ],
+            [
+              "[Pó Translúcido Facial Sunnature FPS 42](https://biobio.com.br/products/po-translucido-facial-sunnature-fps-42)",
+              "R$ 114,31",
+              "R$ 114,31 (1 un.) ou R$ 99,90/un. (Leve 2)"
             ],
             [
               "[Lip Oil Gloss BioPlump](https://biobio.com.br/products/lip-oil-gloss-bioplump)",
-              "R$ 64,45"
+              "R$ 64,45",
+              "a partir de R$ 38,67 (-70%)"
             ],
             [
               "[Bastão Anti Inchaço](https://biobio.com.br/products/bastao-anti-inchaco)",
-              "R$ 74,94"
+              "R$ 74,94",
+              "R$ 74,94 (-40%)"
             ],
             [
               "[Kit Dupla Make Prática](https://biobio.com.br/products/dupla-make-pratica)",
-              "R$ 199,80"
+              "R$ 199,80",
+              "R$ 184,90 (-23%)"
             ],
             [
               "[Kit Trio Essencial](https://biobio.com.br/products/trio-essencial-biobio)",
-              "R$ 294,70"
+              "R$ 294,70",
+              "R$ 269,70 (-27%)"
+            ],
+            [
+              "Trio Anti + Rosa Mosqueta (coleção de kits)",
+              "—",
+              "R$ 146,28 (-70%, de R$ 487,60)"
             ]
           ]
         },
         "postParagraphs": [
-          "A loja marca a economia do protetor em 25%, a do BBS em até 40%, a do Bastão Anti Inchaço em 40% e a do Lip Oil Gloss em 50%. Esses percentuais são da loja, e o preço do dia é o que vale: confira na página do produto antes de comprar.",
-          "O Lip Oil Gloss BioPlump, que a loja marca com 50% de economia, está à venda na cor Açaí, e o Pitanga aparece esgotado. O Bastão Anti Inchaço tem 40%."
+          "Repare que nem tudo caiu da primeira semana para a sexta-feira: enquanto a Dupla Make Prática, o Trio Essencial e o Lip Oil baixaram mais no pico da campanha, o protetor Sunnature Facial subiu R$ 6,99 em relação ao começo do mês. Por isso o preço exibido no dia da compra é sempre o que decide."
         ],
         "images": [
           {
@@ -306424,41 +306453,47 @@ const reviewsChunk2: unknown[] = [
       {
         "heading": "Quanto fica com o cupom",
         "paragraphs": [
-          "No teste, o EMCASABIOBIO entrou sobre o protetor que já estava em promoção: R$ 104,93 na página, R$ 10,49 de desconto e R$ 94,44 com o cupom. Entrou também na Dupla Make Prática, de R$ 199,80 para R$ 179,82.",
-          "Nos outros itens, a conta é a nossa: os mesmos 10% sobre o preço atual da página. São cálculos, não carrinhos testados no checkout."
+          "Nos carrinhos que testamos no checkout oficial (seguro.biobio.com.br), o EMCASABIOBIO aplicou 10% OFF sobre preços já promocionais tanto no Black Month quanto na sexta de Black Friday: no Trio Essencial testado em 27/11, o pedido caiu de R$ 269,70 para R$ 242,73 (-R$ 26,97), mantendo o aviso de 10% de cashback.",
+          "Nas linhas marcadas como cálculo na tabela abaixo, aplicamos os mesmos 10% sobre o preço exibido na vitrine — confira sempre a linha de desconto no resumo antes de pagar."
         ],
         "comparisonTable": {
-          "caption": "Dois testes no checkout e dois cálculos, antes do frete.",
+          "caption": "Três testes reais no checkout e dois cálculos sobre os preços de campanha, antes do frete.",
           "headers": [
-            "Produto",
-            "Preço na loja",
-            "EMCASABIOBIO: 10% OFF",
+            "Produto ou kit",
+            "Preço na ocasião",
+            "EMCASABIOBIO (10% OFF)",
             "Com o cupom"
           ],
           "rows": [
             [
-              "[Protetor Solar Mineral](https://biobio.com.br/products/protetor-solar-fisico-mineral-sunnature-fps30) (teste no checkout)",
+              "[Trio Essencial](https://biobio.com.br/products/trio-essencial-biobio) (teste no checkout em 27/11)",
+              "R$ 269,70",
+              "-R$ 26,97",
+              "R$ 242,73"
+            ],
+            [
+              "[Protetor Solar Mineral](https://biobio.com.br/products/protetor-solar-fisico-mineral-sunnature-fps30) (teste anterior no checkout)",
               "R$ 104,93",
-              "R$ 10,49",
+              "-R$ 10,49",
               "R$ 94,44"
             ],
             [
-              "[Dupla Make Prática](https://biobio.com.br/products/dupla-make-pratica) (teste no checkout)",
+              "[Dupla Make Prática](https://biobio.com.br/products/dupla-make-pratica) (teste anterior no checkout)",
               "R$ 199,80",
-              "R$ 19,98",
+              "-R$ 19,98",
               "R$ 179,82"
             ],
             [
-              "[BBS](https://biobio.com.br/products/bbs-biobio-blush-batom-e-sombra-fps-63), menor preço (cálculo)",
-              "R$ 59,94",
-              "R$ 5,99",
-              "R$ 53,95"
+              "[Dupla Make Prática](https://biobio.com.br/products/dupla-make-pratica), preço de sexta (cálculo)",
+              "R$ 184,90",
+              "-R$ 18,49",
+              "R$ 166,41"
             ],
             [
-              "[Base em bastão](https://biobio.com.br/products/base-multifuncional-em-bastao-com-protetor-solar-fps-33), tom #600 (cálculo)",
-              "R$ 111,92",
-              "R$ 11,19",
-              "R$ 100,73"
+              "[BBS](https://biobio.com.br/products/bbs-biobio-blush-batom-e-sombra-fps-63), cor Amora (cálculo)",
+              "R$ 59,94",
+              "-R$ 5,99",
+              "R$ 53,95"
             ]
           ]
         },
@@ -306469,32 +306504,32 @@ const reviewsChunk2: unknown[] = [
       {
         "heading": "E o cashback?",
         "paragraphs": [
-          "O cashback seguiu no pedido do teste: o resumo mostrou 10% para a próxima compra, tanto no protetor quanto no kit, e a página da loja diz que saldo e cupom entram na mesma compra. A loja informa que os 10% voltam como saldo nas compras a partir de R$ 99,90, com o frete contando para esse mínimo, e que o saldo cai depois do pagamento.",
-          "Para usar, ligue “Usar saldo de Cashback” na etapa de pagamento da compra seguinte. O saldo vale por 45 dias, paga até metade do valor dos produtos num pedido a partir de R$ 100 e não abate o frete."
+          "O cashback continuou aparecendo no resumo em todos os testes com o EMCASABIOBIO aplicado (inclusive no Trio Essencial a R$ 242,73). Os Termos de Serviço da loja remetem à página oficial de cashback, segundo a qual pedidos a partir de R$ 99,90 (com o frete contando) geram 10% de volta como saldo para a próxima compra, e saldo e cupom entram na mesma compra.",
+          "Ainda segundo a loja, o saldo vale por 45 dias, paga até 50% do valor dos produtos em pedidos futuros a partir de R$ 100 e não abate o frete."
         ]
       },
       {
-        "heading": "Kits ou avulso?",
+        "heading": "Kits ou avulso: quando a cor Amora inverte a conta",
         "paragraphs": [
-          "A [Dupla Make Prática](https://biobio.com.br/products/dupla-make-pratica) junta a base em bastão e o BBS. Avulsos, pelos preços da página, os dois somam entre R$ 171,86 (menor preço de cada um) e R$ 211,02 (maior preço de cada um), contra R$ 199,80 do kit. Com o EMCASABIOBIO, o kit fica em R$ 179,82, e os avulsos, entre R$ 154,67 e R$ 189,92.",
-          "Na conta, o avulso ganha quando você escolhe tom e cor dos mais baratos, como o #600 Cacau com o BBS Amora. O kit compensa nos tons e nas cores mais caros: no par que testamos, base #100 Avelã e BBS Mamão Papaia, os avulsos somam R$ 205,23 e o kit sai R$ 5,43 abaixo. Com o EMCASABIOBIO nos dois carrinhos, os avulsos ficam em R$ 184,71 e o kit em R$ 179,82, uma diferença de R$ 4,89 antes do frete. Monte os dois carrinhos e compare com os itens que você escolheria.",
-          "Já o [Trio Essencial](https://biobio.com.br/products/trio-essencial-biobio), com BBS, pó facial e base, custa R$ 294,70 e vai a R$ 265,23 com o cupom, no mesmo cálculo de 10%. Se precisar trocar, a loja diz que a troca e a devolução de um kit valem para todos os itens dele."
+          "Na leitura registrada em 27/11, a [Dupla Make Prática](https://biobio.com.br/products/dupla-make-pratica) (Base em Bastão + BBS) baixou para R$ 184,90 antes do cupom, mas o resultado contra os itens separados dependia da cor do BBS:",
+          "Se a escolha fosse o BBS na cor Amora (em oferta avulsa por R$ 59,94) junto de 1 unidade da Base em Bastão (R$ 109,90), comprar os dois avulsos somava R$ 169,84 antes do cupom — R$ 15,06 mais barato que levar o kit fechado de R$ 184,90 (e, na conta com 10% do EMCASABIOBIO, R$ 152,86 nos avulsos contra R$ 166,41 no kit). Já nas demais cores do BBS (a R$ 84,92 cada naquela leitura), os avulsos somavam R$ 194,82 e o kit economizava R$ 9,92 antes do código.",
+          "No [Trio Essencial](https://biobio.com.br/products/trio-essencial-biobio) (Base + BBS + Pó Facial Sunnature FPS 42), o pacote de R$ 269,70 venceu os avulsos mesmo com o BBS Amora (R$ 284,15 separados, ou R$ 309,13 nas demais cores) e caiu para R$ 242,73 com o EMCASABIOBIO no checkout. Veja o panorama perene da marca em [BioBio Cosméticos é boa?](/reviews/biobio-e-boa); se precisar devolver um kit, a política da loja exige todos os itens juntos."
         ]
       },
       {
         "heading": "Frete e prazo",
         "paragraphs": [
-          "Segundo a loja, o frete é grátis para o Sul e o Sudeste em compras acima de R$ 279. Nas outras regiões e abaixo desse valor, o frete sai pelo CEP.",
-          "Informe o CEP no checkout para conferir prazo e frete antes de pagar. Quem quer conhecer a empresa antes de comprar encontra os dados em [BioBio é confiável?](/reviews/biobio-e-confiavel)."
+          "Segundo a loja, o frete é grátis para Sul e Sudeste em compras acima de R$ 279; na campanha registrada na sexta de Black Friday, a vitrine e a sacola exibiram também frete fixo promocional de R$ 9,99 para todo o Brasil em pedidos a partir de R$ 199 (reconferir se continua ativo após o fim da promoção).",
+          "Dois cuidados práticos antes de pagar: primeiro, o botão “Calcular Frete” dentro da página individual do produto simula apenas aquela unidade isolada, ignorando o restante da sacola; segundo, como o checkout em seguro.biobio.com.br só abre o cálculo final de entrega depois da identificação cadastral, não foi possível confirmar sem login se o piso de R$ 279 conta antes ou depois do cupom — confira no resumo após informar o CEP. Os dados de CNPJ e trocas estão em [BioBio é confiável?](/reviews/biobio-e-confiavel)."
         ]
       },
       {
         "heading": "Perguntas frequentes",
         "bullets": [
-          "A BioBio tem Black Friday? A loja chama a campanha de Black Month e anuncia até 50% OFF e 8x sem juros. Os preços variam por produto e por tom ou cor, então confira a página de cada item.",
-          "O cupom soma com o Black Month? Soma. No nosso teste, o EMCASABIOBIO tirou 10% de um protetor que já estava em promoção, e o cashback da loja continuou no pedido.",
-          "Até quando vai a promoção? A BioBio não informou a data de fim do Black Month. Se você quer um produto em oferta, não deixe para o último dia: confira o preço na página antes de pagar.",
-          "O cupom vale nos kits? Vale. Na Dupla Make Prática, o EMCASABIOBIO tirou 10% do preço do kit, de R$ 199,80 para R$ 179,82, e o cashback continuou. Confira a linha “Cupom de desconto” no resumo antes de pagar."
+          "A BioBio teve Black Friday? Sim: a loja começou novembro com o Black Month (até 50% OFF) e, na sexta da Black Friday, chegou a até 70% OFF exibindo “Até 3x sem juros ou até 10x” na home. Depois disso, confira na página de cada produto qual preço e parcelamento seguem ativos.",
+          "O cupom EMCASABIOBIO soma com as ofertas de Black Friday? Soma. Nos nossos testes no checkout oficial, o EMCASABIOBIO tirou mais 10% sobre produtos e kits já remarcados na campanha, mantendo o aviso de 10% de cashback para a próxima compra.",
+          "Até quando foi a promoção de até 70% OFF da BioBio? Ela terminou às 23h59 da sexta-feira da Black Friday, conforme o contador do banner principal registrado na abertura deste guia. Depois desse horário, confira diretamente em biobio.com.br quais descontos e faixas de frete permanecem no ar.",
+          "O cupom vale nos kits e o kit sempre sai mais barato? O EMCASABIOBIO tirou 10% tanto na Dupla Make Prática quanto no Trio Essencial (que baixou de R$ 269,70 para R$ 242,73 no teste). Ainda assim, compare no carrinho o kit contra a soma das cores avulsas: quando um tom específico entra em oferta maior sozinho, como aconteceu com o BBS Amora, os avulsos podem custar menos que a dupla fechada."
         ]
       }
     ]
@@ -306537,6 +306572,12 @@ const reviewsChunk2: unknown[] = [
     },
     "editorialNote": "Feito com as informações do site oficial; ninguém da equipe usou os produtos. Somos parceiros da BioBio e podemos receber comissão pelo cupom.",
     "relatedArticles": [
+      {
+        "slug": "protetor-solar-mineral-ou-quimico-rotulo"
+      },
+      {
+        "slug": "biobio-e-boa"
+      },
       {
         "slug": "base-biobio-bastao-cores"
       },
@@ -306788,7 +306829,13 @@ const reviewsChunk2: unknown[] = [
     "editorialNote": "Feito com as informações do site oficial; ninguém da equipe usou os produtos. Somos parceiros da BioBio e podemos receber comissão pelo cupom.",
     "relatedArticles": [
       {
+        "slug": "biobio-e-boa"
+      },
+      {
         "slug": "protetor-solar-biobio-e-bom"
+      },
+      {
+        "slug": "protetor-solar-mineral-ou-quimico-rotulo"
       },
       {
         "slug": "cupom-biobio-como-usar"
@@ -307089,10 +307136,16 @@ const reviewsChunk2: unknown[] = [
     "editorialNote": "Feito com o site oficial, a consulta pública do CNPJ e o perfil público no Reclame Aqui. Somos parceiros da BioBio e podemos receber comissão pelo cupom.",
     "relatedArticles": [
       {
+        "slug": "biobio-e-boa"
+      },
+      {
         "slug": "cupom-biobio-como-usar"
       },
       {
         "slug": "protetor-solar-biobio-e-bom"
+      },
+      {
+        "slug": "protetor-solar-mineral-ou-quimico-rotulo"
       },
       {
         "slug": "cupom-biobio-primeira-compra"
@@ -307223,10 +307276,16 @@ const reviewsChunk2: unknown[] = [
     "editorialNote": "Cupom testado no checkout do site oficial. Não usamos os produtos. Somos parceiros da BioBio e podemos receber comissão pelo cupom.",
     "relatedArticles": [
       {
+        "slug": "biobio-e-boa"
+      },
+      {
         "slug": "cupom-biobio-como-usar"
       },
       {
         "slug": "protetor-solar-biobio-e-bom"
+      },
+      {
+        "slug": "protetor-solar-mineral-ou-quimico-rotulo"
       },
       {
         "slug": "black-friday-biobio"
@@ -350733,7 +350792,7 @@ const reviewsChunk2: unknown[] = [
     },
     "publishedAt": "24 de novembro de 2026",
     "publishedAtISO": "2026-11-24",
-    "updatedAt": "2026-11-24",
+    "updatedAt": "2026-11-27",
     "draft": false,
     "isNew": true,
     "imageFit": "contain",
@@ -350761,6 +350820,9 @@ const reviewsChunk2: unknown[] = [
         "slug": "protetor-solar-biobio-e-bom"
       },
       {
+        "slug": "protetor-solar-mineral-ou-quimico-rotulo"
+      },
+      {
         "slug": "base-biobio-bastao-cores"
       },
       {
@@ -350785,7 +350847,7 @@ const reviewsChunk2: unknown[] = [
       "skipIf": [
         "Você busca indicação clínica ou orientação dermatológica individual antes de montar uma rotina de pele ou proteção solar.",
         "Você quer comprar itens soltos de baixo valor contando apenas com o frete grátis promocional sem simular o CEP na finalização do pedido.",
-        "Você conta com o cashback como se fosse desconto imediato no pedido: ele é crédito futuro e as regras da loja divergem."
+        "Você conta com o cashback como se fosse desconto imediato no pedido: ele entra como saldo para compra futura, segundo as regras da loja."
       ]
     },
     "contentSections": [
@@ -350867,7 +350929,7 @@ const reviewsChunk2: unknown[] = [
         },
         "postParagraphs": [
           "Na parte de maquiagem, a vitrine listava a Base em Bastão FPS 33 (14 g) a partir de R$ 111,92, o BBS FPS 63 (4,5 g) a partir de R$ 59,94 e o Pó Translúcido Sunnature FPS 42 (4 g) por R$ 114,31; as faixas promocionais ficam em [Black Friday BioBio](/reviews/black-friday-biobio).",
-          "Mesmo com a diferença favorável ao conjunto, se a sua necessidade se concentra em um único bastão ou em tamanhos diferentes dos do kit, a compra avulsa evita item parado no nécessaire."
+          "Mesmo com a diferença favorável ao conjunto, se a sua necessidade se concentra em um único bastão ou em tamanhos diferentes dos do kit, a compra avulsa evita item parado no nécessaire. Nos kits de maquiagem com escolha de cor, vale também comparar o pacote fechado com a soma das variantes avulsas no resumo do carrinho, já que um tom específico em promoção maior pode baratear a compra separada."
         ],
         "images": [
           {
@@ -350886,17 +350948,17 @@ const reviewsChunk2: unknown[] = [
           "No frete, a loja calcula prazo e valor pelo CEP no carrinho e trabalha com faixas promocionais de envio gratuito (como pedidos acima de R$ 279 para Sul e Sudeste nas campanhas vigentes), que podem mudar sem aviso prévio. Nas políticas da loja, dois pontos pedem conferência antes de fechar a compra:"
         ],
         "bullets": [
-          "**Cashback de 10% (45 dias vs. 30 dias):** a página informativa de cashback cita validade de 45 dias e acúmulo com cupom de desconto, enquanto os Termos de Serviço registram prazo de 30 dias e vedam acúmulo no momento do resgate. Confira diretamente no resumo do carrinho como o benefício aparece no seu pedido.",
+          "**Cashback de 10% (saldo futuro):** os Termos de Serviço remetem à página oficial de cashback, segundo a qual pedidos a partir de R$ 99,90 (com o frete contando) geram 10% de saldo válido por 45 dias para abater até metade do valor dos produtos em compras futuras a partir de R$ 100, sem abater o frete e valendo junto com cupom. Nos carrinhos que testamos com o EMCASABIOBIO, o resumo manteve a indicação dos 10% de cashback.",
           "**Quantidade de cores:** a descrição da Base em Bastão FPS 33 cita 6 tons, mas o seletor da página já listou 8 opções; no BBS FPS 63, o texto fala em 5 cores e o seletor mostra 7. Escolha o tom pelo seletor."
         ],
         "postParagraphs": [
-          "Regra prática, sem teste nosso: trate os 10% do EMCASABIOBIO como o desconto certo do pedido e o cashback como bônus, que só vale se aparecer no resumo do carrinho."
+          "Regra prática, sem teste nosso de resgate: trate os 10% do EMCASABIOBIO como o desconto imediato do pedido e o cashback como bônus para uma próxima compra, conferindo como ele aparece no resumo do carrinho."
         ],
         "checklist": {
           "title": "Antes de finalizar o pedido na BioBio",
           "items": [
             "Confirmar no seletor de variantes da página a tonalidade exata em estoque para Base FPS 33 ou BBS FPS 63.",
-            "Comparar se um kit como o Trio Anti contém apenas bastões que fazem parte da sua rotina.",
+            "Comparar no resumo do carrinho o valor do kit contra a soma dos itens avulsos nas cores que fazem parte da sua rotina.",
             "Colar EMCASABIOBIO no campo Cupom (opcional) do resumo da compra e validar os 10% OFF em todas as formas de pagamento.",
             "Simular o CEP após o desconto do cupom para checar o frete real e eventual faixa promocional ativa.",
             "Conferir no resumo do pedido se o crédito de cashback aparece elegível e considerar o saldo como bônus separado do desconto imediato."
@@ -350928,7 +350990,7 @@ const reviewsChunk2: unknown[] = [
           "A BioBio Cosméticos é boa? Sim, compensa para quem busca formatos em bastão práticos, proteção solar com filtros minerais e economia nos kits quando todos os itens entram na rotina, somando 10% OFF com EMCASABIOBIO em todas as formas de pagamento.",
           "Qual é o cupom da BioBio? É o EMCASABIOBIO, válido para clientes novos e recorrentes com 10% de desconto no site oficial em todas as formas de pagamento. Ele entra no campo Cupom (opcional) do Resumo da compra na finalização do pedido.",
           "Vale mais comprar o Trio Anti ou os bastões avulsos? Nos preços conferidos na loja oficial com EMCASABIOBIO aplicado, o Trio Anti saiu mais barato do que a simulação dos três bastões avulsos equivalentes. O kit compensa quando você realmente pretende usar os três itens da combinação.",
-          "O cashback de 10% da BioBio acumula com o cupom EMCASABIOBIO? As páginas da própria loja divergem: a página dedicada de cashback menciona 45 dias e acúmulo com cupom, enquanto os Termos de Serviço citam 30 dias e restrição no resgate. Confira sempre no resumo do carrinho antes de contar com esse crédito futuro.",
+          "O cashback de 10% da BioBio acumula com o cupom EMCASABIOBIO? Segundo a página oficial de cashback da loja (à qual os Termos de Serviço remetem), saldo e cupom entram na mesma compra, com validade de 45 dias e resgate de até 50% do valor dos produtos em pedidos a partir de R$ 100. Nos nossos testes, o resumo da compra manteve o aviso de 10% de cashback após aplicar o EMCASABIOBIO; confira sempre no carrinho.",
           "Quantas cores têm a Base em Bastão e o BBS da BioBio? A descrição textual dos produtos informa menos opções do que o seletor real da vitrine, que exibe até 8 tons na Base FPS 33 e 7 variantes no BBS FPS 63. Valide a disponibilidade diretamente no seletor da página do item."
         ]
       }

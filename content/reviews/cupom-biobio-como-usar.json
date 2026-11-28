@@ -38,6 +38,9 @@
   "editorialNote": "Cupom testado no checkout do site oficial. Somos parceiros da BioBio e podemos receber comissão pelo cupom.",
   "relatedArticles": [
     {
+      "slug": "biobio-e-boa"
+    },
+    {
       "slug": "black-friday-biobio"
     },
     {
@@ -45,6 +48,9 @@
     },
     {
       "slug": "protetor-solar-biobio-e-bom"
+    },
+    {
+      "slug": "protetor-solar-mineral-ou-quimico-rotulo"
     }
   ],
   "contentSections": [
